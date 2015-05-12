@@ -1,0 +1,10 @@
+Aviso n.º 5177/2015
+Fernanda Maria Pereira Asseiceira, Presidente da Câmara Municipal de Alcanena, torna público o seguinte:
+Para os efeitos estabelecidos na alínea e) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação, publica-se, em anexo ao presente aviso, a deliberação da Assembleia Municipal de Alcanena, referente ao procedimento de prorrogação das Medidas Preventivas, no âmbito da Suspensão Parcial do Plano Diretor Municipal - Plataforma Logística do Médio Tejo.
+A prorrogação das Medidas Preventivas mencionada foi aprovada por unanimidade, em sessão ordinária da Assembleia Municipal de Alcanena, realizada em vinte e sete de junho de dois mil e catorze, mediante proposta da Câmara Municipal de Alcanena, aprovada em reunião de dezasseis de junho de dois mil e catorze, tendo a mesma aprovação sido confirmada por unanimidade, na sessão ordinária da Assembleia Municipal de Alcanena, realizada em vinte e seis de setembro de dois mil e catorze, sob proposta da Câmara Municipal de Alcanena, aprovada em reunião de quinze de setembro de dois mil e catorze, em conformidade com o estabelecido no n.º 7 do artigo 109.º do diploma acima citado.
+Deliberação
+Sílvia Carla Carvalho Ferreira, Primeira Secretária da Assembleia Municipal de Alcanena:
+Certifica que a Assembleia Municipal de Alcanena, na sua sessão ordinária realizada em vinte e seis de setembro de dois mil e catorze, deliberou por unanimidade dos presentes, confirmar o aprovado na sessão desta Assembleia Municipal, realizada em vinte e sete de junho último, relativamente à prorrogação por mais um ano, do prazo da vigência da Suspensão Parcial do Plano Diretor Municipal de Alcanena e das suas medidas preventivas, a contar da data do termo do ato original, conforme o Aviso número oito mil cento e oitenta e oito/dois mil e doze, de quinze de junho, publicado na Segunda Série do Diário da República.
+29 de setembro de 2014. - A Primeira Secretária da Assembleia Municipal, Sílvia Carla Carvalho Ferreira.
+30 de abril de 2015. - A Presidente da Câmara Municipal de Alcanena, Fernanda Maria Pereira Asseiceira, Dr.ª
+608618769
