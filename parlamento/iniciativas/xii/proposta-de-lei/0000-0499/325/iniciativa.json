@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "325",
+  "id": "39424",
+  "fases": 24,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-05-12",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4751324d7a6c694d7a4174595451334d793030596d4e6c4c574a695a544d745a575a694d6d55794d4467354d574a6b4c6e426b5a673d3d&fich=8d639b30-a473-4bce-bbe3-efb2e20891bd.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4755344d5445314d4467744e6d49334d433030596a677a4c5745324e7a59744e7a49314e44646a4e6a4577597a51784c6e426b5a673d3d&fich=8e811508-6b70-4b83-a676-72547c610c41.pdf&Inline=true",
+        "anexoNome": "Parecer  CDFOA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d32466c5954526a4e6a4d744e325a694e4330304e4449314c5745775a4745744f5755784d6d59304e3245775a6a51304c6e426b5a673d3d&fich=3aea4c63-7fb4-4425-a0da-9e12f47a0f44.pdf&Inline=true",
+        "anexoNome": "Parecer  COJ"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d544533596a55354e4463744f544e694f5330304d6a4a6c4c574a6a4d6d5574597a426a5a44497a4f546b314d7a526b4c6e426b5a673d3d&fich=117b5947-93b9-422e-bc2e-c0cd2399534d.pdf&Inline=true",
+        "anexoNome": "Parecer  SMMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596a426b596a597a4e5755744e47566b4d6930305957526c4c574935596d5974597a51304e54677a4f57517a4d6d51794c6e426b5a673d3d&fich=b0db635e-4ed2-4ade-b9bf-c445839d32d2.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4455334e4459775a6d49744d475577596930305a44646a4c574a694e325174597a457a4f574a694d545934596a4a694c6e426b5a673d3d&fich=d57460fb-0e0b-4d7c-bb7d-c139bb168b2b.pdf&Inline=true",
+        "anexoNome": "Parecer  OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f5751784d6a637a4e7a6b74596a68695a5330305a44597a4c54686d4d3251744d544d775a6a6b304d474d7a5a6a41304c6e426b5a673d3d&fich=9d127379-b8be-4d63-8f3d-130f940c3f04.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d574a6b5a44526b4f5449744e6d4e6c4d693030596d51344c546c6d4d7a55744e5468694f546c694d544977593255344c6e426b5a673d3d&fich=1bdd4d92-6ce2-4bd8-9f35-58b99b120ce8.pdf&Inline=true",
+        "anexoNome": "Parecer  ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4449774d47457a4d546b745954417a5a6930304e54566a4c546b314d5445744e445a6b4e325a6a5a4455304e5467304c6e426b5a673d3d&fich=8200a319-a03f-455c-9511-46d7fcd54584.pdf&Inline=true",
+        "anexoNome": "Parecer  PGR"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "39424",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764d325a6d595467344d4467744e6d55334f5330304f5459304c546c6a4d5445745a6a51305a44566a596a4979596a51354c6d527659773d3d&fich=3ffa8808-6e79-4964-9c11-f44d5cb22b49.doc&Inline=true",
+    "IniNr": "325",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Procede à 37.ª alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, transpondo integralmente as Diretivas n.ºs 2008/99/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa à proteção do ambiente através do direito penal, e 2009/123/CE, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que altera a Diretiva n.º 2005/35/CE relativa à poluição por navios e à introdução de sanções em caso de infrações",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
