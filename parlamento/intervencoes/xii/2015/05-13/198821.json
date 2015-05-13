@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "198821",
+  "tipo": "Intervenção",
+  "orador": "Afonso Oliveira (PSD)",
+  "data_registo": "2015-05-13",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "100131",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "38952",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo que assegure aos consumidores a devida informação sobre a tarifa social de energia e o apoio social extraordinário ao consumidor de energia"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "39422",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Garante o pleno acesso à eletricidade e ao gás por parte das famílias com dificuldades económicas"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Projeto de resolução n.º 1217/XII (4.ª) — Recomenda ao Governo que assegure aos consumidores a devida informação sobre a tarifa social de energia e o apoio social extraordinário ao consumidor de energia (PS).\nProjeto de resolução n.º 1462/XII (4.ª) — Garante o pleno acesso à eletricidade e ao gás por parte das famílias com dificuldades económicas (BE).",
+        "duracao": "00:03:52:798",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20150513pln&url=l12/sl4/a2015/m05/&tI=03:11:45:060&drc=00:03:52:798"
+      }
+    ],
+    "DataReuniaoPlenaria": "2015-05-13",
+    "Debate": "PJR n.º 1217/XII/4; PJR n.º 1462/XII/4",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "4397",
+      "nome": "Afonso Oliveira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "198821",
+    "IdDebate": "10665",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "198821",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "56-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-14",
+        "pubLeg": "XII",
+        "pubNr": "85",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/085/2015-05-14/56?pgs=56-57&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Recomenda ao Governo que assegure aos consumidores a devida informação sobre a tarifa social de energia e o apoio social extraordinário ao consumidor de energia; Garante o pleno acesso à eletricidade e ao gás por parte das famílias com dificuldades económicas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
