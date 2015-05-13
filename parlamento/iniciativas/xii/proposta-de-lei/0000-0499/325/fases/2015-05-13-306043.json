@@ -1,0 +1,215 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "325",
+    "id": "39424",
+    "titulo": "Procede à 37.ª alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, transpondo integralmente as Diretivas n.ºs 2008/99/CE, do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa à proteção do ambiente através do direito penal, e 2009/123/CE, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que altera a Diretiva n.º 2005/35/CE relativa à poluição por navios e à introdução de sanções em caso de infrações"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-05-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35744",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-05-20",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-05-14",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Ofício - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a6a6b35596a56694f53316c4e7a63354c54526c4e574d744f4467334f5330795a6a46695a54686b595745304e6a59756347526d&fich=ff99b5b9-e779-4e5c-8879-2f1be8daa466.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a5746695a5751794d4330784d44526d4c54517a4d32557459545a6a4e5330314d5441334f4749304d44526b4e546b756347526d&fich=7eabed20-104f-433e-a6c5-51078b404d59.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d474a6a4d7a6b314d6930315a6d566d4c54517a4d475174596a67324d43316a4f474935596d566a4e7a686c596a49756347526d&fich=d0bc3952-5fef-430d-b860-c8b9bec78eb2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e6d4a694f545a694f433031597a566d4c5451324d6a59744f446b335969307a5a5451794d324d344e3251774e5463756347526d&fich=e6bb96b8-5c5f-4626-897b-3e423c87d057.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-27",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d4459774e6a686c4e7930354e54646b4c5451325a6d5574596d5530597930784d574e684e54497a4d6a5a6a4d7a51756347526d&fich=706068e7-957d-46fe-be4c-11ca52326c34.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-06-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-06-03"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-06-15"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-05-15"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2015-05-15"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "109-124"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-05-27",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/138/2015-05-27/109?pgs=109-124&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "109-124"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-05-27",
+            "pubLeg": "XII",
+            "pubNr": "138",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/138/2015-05-27/109?pgs=109-124&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4133",
+            "motivoCessacao": null,
+            "nome": "Isabel Oneto"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-05-27",
+            "dataRemessa": "2015-05-27",
+            "numeroOficio": "639/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-05-27",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69588",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "315",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-05-13",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Em conexão com a 11.ª Comissão",
+    "OevId": "306043",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
