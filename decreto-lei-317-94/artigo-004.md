@@ -12,6 +12,8 @@ c) À existência de inibição ou proibição de condução aplicada por organi
 
 d) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução.
 
+e) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.
+
 2 - São dados de identificação do condutor:
 
 a) Os tipos dos títulos de condução de que é titular;
@@ -24,7 +26,7 @@ d) A residência;
 
 e) O nome.
 
-3 - Relativamente a cada infracção punida com inibição ou proibição de condução em território nacional, são recolhidos os seguintes dados:
+3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, são recolhidos os seguintes dados:
 
 a) Número do auto;
 
@@ -34,7 +36,7 @@ c) Data da infracção;
 
 d) Código da infracção;
 
-e) Data da decisão condenatória;
+e) Data da decisão condenatória ou do despacho que determinou a suspensão provisória do processo penal;
 
 f) Número de processo;
 

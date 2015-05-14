@@ -6,14 +6,14 @@
 
 5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à ANSR, para permanente actualização da base de dados RIC, os extractos das decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.
 
-6 - O extracto da decisão condenatória deve conter a indicação:
+6 - O extrato da decisão condenatória ou da decisão que determinou a suspensão provisória do processo penal deve conter a indicação:
 
-a) Do tribunal que proferiu a decisão, juízo, número e forma do processo;
+a) Do tribunal e juízo que proferiu a decisão condenatória, ou do serviço ou departamento do Ministério Público que proferiu a decisão de suspensão provisória do processo penal, número e forma do processo;
 
 b) Da identificação civil do arguido: nome, naturalidade, nacionalidade, data de nascimento, número do bilhete de identidade ou, na sua falta, do passaporte ou de outro documento de identificação idóneo, número do título de condução e residência;
 
 c) Da designação e data da prática da infracção ou do crime;
 
-d) Da data da decisão e do trânsito em julgado;
+d) Da data da decisão condenatória e respetivo trânsito em julgado, ou da decisão que determinou a suspensão provisória do processo penal;
 
-e) Dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.
+e) Dos preceitos violados e das penas principais, de substituição e acessórias, ou das medidas de segurança aplicadas na decisão condenatória, ou da injunção aplicada em sede de suspensão provisória do processo.

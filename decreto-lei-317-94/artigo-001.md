@@ -9,3 +9,5 @@
 a) Organizar e manter actualizada a informação necessária ao exercício das competências da ANSR e dos serviços competentes das Regiões Autónomas, em especial nos processos de contra-ordenação resultantes da aplicação do Código da Estrada e legislação complementar;
 
 b) Permitir o acesso à informação sobre o registo de infracções dos condutores e, ainda, a emissão automática de certidões de registo de infracções dos condutores.
+
+c) Permitir a fiscalização da injunção de proibição de conduzir veículos a motor aplicada em sede de suspensão provisória do processo penal.
