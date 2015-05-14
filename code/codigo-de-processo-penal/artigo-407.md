@@ -26,4 +26,6 @@ i) Da decisão instrutória, sem prejuízo do disposto no artigo 310.º;
 
 j) De despacho que indeferir requerimento de submissão de arguido suspeito de anomalia mental à perícia respectiva.
 
+k) De despacho proferido ao abrigo do disposto nos n.os 2, 3 e 5 do artigo 328.º-A.
+
 3 - Quando não deverem subir imediatamente, os recursos sobem e são instruídos e julgados conjuntamente com o recurso interposto da decisão que tiver posto termo à causa.

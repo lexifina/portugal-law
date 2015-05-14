@@ -20,6 +20,8 @@ d) For necessário proceder à elaboração de relatório social ou de informaç
 
 5 - A interrupção e o adiamento dependem sempre de despacho fundamentado do presidente, que é notificado a todos os sujeitos processuais.
 
-6 - O adiamento não pode exceder 30 dias. Se não for possível retomar a audiência neste prazo, perde eficácia a produção de prova já realizada.
+6 - O adiamento não pode exceder 30 dias. Se não for possível retomar a audiência neste prazo, por impedimento do tribunal ou por impedimento dos defensores constituídos em consequência de outro serviço judicial já marcado de natureza urgente e com prioridade sobre a audiência em curso, deve o respetivo motivo ficar consignado em ata, identificando-se expressamente a diligência e o processo a que respeita.
 
-7 - O anúncio público em audiência do dia e da hora para continuação ou recomeço daquela vale como notificação das pessoas que devam considerar-se presentes.
+7 - Para efeitos da contagem do prazo referido no número anterior, não é considerado o período das férias judiciais, nem o período em que, por motivo estranho ao tribunal, os autos aguardem a realização de diligências de prova, a prolação de sentença ou que, em via de recurso, o julgamento seja anulado parcialmente, nomeadamente para repetição da prova ou produção de prova suplementar.
+
+8 - O anúncio público em audiência do dia e da hora para continuação ou recomeço daquela vale como notificação das pessoas que devam considerar-se presentes.

@@ -6,6 +6,6 @@
 
 2 - O Ministério Público indica, na notificação prevista no número anterior, se foram recolhidos indícios suficientes da verificação do crime e de quem foram os seus agentes.
 
-3 - É correspondentemente aplicável à acusação particular o disposto no artigo 283.º, n.os 3 e 7.
+3 - É correspondentemente aplicável à acusação particular o disposto nos n.os 3, 7 e 8 do artigo 283.º
 
 4 - O Ministério Público pode, nos cinco dias posteriores à apresentação da acusação particular, acusar pelos mesmos factos, por parte deles ou por outros que não importem uma alteração substancial daqueles.

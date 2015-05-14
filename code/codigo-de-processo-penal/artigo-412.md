@@ -20,7 +20,7 @@ b) As concretas provas que impõem decisão diversa da recorrida;
 
 c) As provas que devem ser renovadas.
 
-4 - Quando as provas tenham sido gravadas, as especificações previstas nas alíneas b) e c) do número anterior fazem-se por referência ao consignado na acta, nos termos do disposto no n.º 2 do artigo 364.º, devendo o recorrente indicar concretamente as passagens em que se funda a impugnação.
+4 - Quando as provas tenham sido gravadas, as especificações previstas nas alíneas b) e c) do número anterior fazem-se por referência ao consignado na ata, nos termos do disposto no n.º 3 do artigo 364.º, devendo o recorrente indicar concretamente as passagens em que se funda a impugnação.
 
 5 - Havendo recursos retidos, o recorrente especifica obrigatoriamente, nas conclusões, quais os que mantêm interesse.
 
