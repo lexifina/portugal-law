@@ -1,0 +1,124 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Projeto de Resolução",
+  "numero": "1479",
+  "id": "39452",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-05-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "163",
+        "nome": "Ferro Rodrigues"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2569",
+        "nome": "Rui Paulo Figueiredo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4368",
+        "nome": "Paulo Ribeiro de Campos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2129",
+        "nome": "João Paulo Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2107",
+        "nome": "Glória Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1679",
+        "nome": "Renato Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "487",
+        "nome": "Fernando Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4562",
+        "nome": "Sandra Cardoso"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4363",
+        "nome": "Agostinho Santa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2165",
+        "nome": "Jorge Fão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "189",
+        "nome": "José Magalhães"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "39452",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4755344e54466d5a546774596a59314e4330304f5445354c546b795a6a51745a54517a4f545a694e6d59314d444a6a4c6d527659773d3d&fich=8e851fe8-b654-4919-92f4-e4396b6f502c.doc&Inline=true",
+    "IniNr": "1479",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Pela defesa da TAP",
+    "Links": null,
+    "Peticoes": [
+      {
+        "assunto": "Suspensão do Processo de Privatização da TAP Portugal SGPS.",
+        "dcl": null,
+        "descTipo": null,
+        "id": "12579",
+        "legislatura": "XII",
+        "numero": "454",
+        "sessao": "4",
+        "tipo": null
+      },
+      {
+        "assunto": "Manifesto contra a privatização da TAP",
+        "dcl": null,
+        "descTipo": null,
+        "id": "12585",
+        "legislatura": "XII",
+        "numero": "460",
+        "sessao": "4",
+        "tipo": null
+      }
+    ],
+    "PropostasAlteracao": null
+  }
+}
