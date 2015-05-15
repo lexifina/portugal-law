@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "898",
+    "id": "39417",
+    "titulo": "Código Cooperativo"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2015-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "35767",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-27",
+            "id": "100273",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-27",
+            "id": "100272",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-28",
+            "id": "100302",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-03",
+            "id": "100333",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-04",
+            "id": "100349",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-04",
+            "id": "100347",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-11",
+            "id": "100385",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-07-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-05-15",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-10-02",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a63354d6d4669597a4e6a4c574a6a5a5455744e4463305a6931694f5751324c5449344e7a51334d4445774d57597a4f5335775a47593d&fich=792abc3c-bce5-474f-b9d6-287470101f39.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Of_PAR do Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a4d7a63774e6a52684c574a6b5a4751744e4759344e7930344f5449794c5455314d5755305a6a41334d546468595335515245593d&fich=b337064a-bddd-4f87-8922-551e4f0717aa.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração - votadas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a457751314e545643394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259784e7a4d784e7a4a6a4c574d794e6d45744e4463324e5331684d3252684c5759324f4449334f44466b4f5442695a6935515245593d&fich=f173172c-c26a-4765-a3da-f682781d90bf.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3519",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Segurança Social e Trabalho",
+        "Numero": "3519",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final da comissão  e propostas de alteração apresentadas pelo BE, PCP e conjuntas do PSD, PS e CDS-PP",
+            "pag": [
+              "4-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173/2015-07-20/4?pgs=4-46&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final da comissão  e propostas de alteração apresentadas pelo BE, PCP e conjuntas do PSD, PS e CDS-PP",
+            "pag": [
+              "4-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173/2015-07-20/4?pgs=4-46&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-07-20",
+            "dataRemessa": "2015-07-20",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-07-15",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70449",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "281",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-05-15",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306140",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
