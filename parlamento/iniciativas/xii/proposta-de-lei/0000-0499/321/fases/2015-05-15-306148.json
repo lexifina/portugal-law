@@ -1,0 +1,230 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "321",
+    "id": "39398",
+    "titulo": "Estabelece o regime jurídico da organização dos serviços das entidades intermunicipais e o estatuto do respetivo pessoal dirigente"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35771",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-26",
+            "id": "100263",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-26",
+            "id": "100253",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-02",
+            "id": "100310",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2015-06-04",
+            "id": "100343",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-05-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-05-15",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CGTP - Confederação Geral dos Trabalhadores Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45305a574d795a5451304c5749324d6a55744e474533596930354d7a68684c546c6c4f4759335a5467774d54566b5a6935515245593d&fich=14ec2e44-b625-4a7b-938a-9e8f7e8015df.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-05-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45304e44566c59324d354c545a6b595751744e4463314e433169595446694c575135595749354e7a566c4e44466d4e7935775a47593d&fich=1445ecc9-6dad-4754-ba1b-d9ab975e41f7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Federação Nacional dos Sindicatos dos Trabalhadores em Funções Públicas e Sociais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324530593259314f444e694c546c6d4f5755744e444d334d5331695932457a4c574d784d546b314f4463344f5749305a4335775a47593d&fich=a4cf583b-9f9e-4371-bca3-c11958789b4d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Frente Comum de Sindicatos da Administração Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b35593255324e6a4d774c5751304f444d744e4749304d5330354d546c6a4c574d314d5452684d444e685a4445304d6935775a47593d&fich=99ce6630-d483-4b41-919c-c514a03ad142.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato dos Trabalhadores em Funções Públicas e Sociais do Norte",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32466c4d475a6c595451354c574d794f574d744e474e694d7930344e6a45314c545a6b4d4455345a4752694f4455344d5335775a47593d&fich=ae0fea49-c29c-4cb3-8615-6d058ddb8581.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Sindicato Nacional dos Trabalhadores da Administração Local e Regional, Empresas Públicas, Concessionárias e Afins",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3256695a6a41314e474d334c545a6a4e544d744e4463354e4331684f54526a4c5759324e6a677a4e3249324f4467794d5335775a47593d&fich=ebf054c7-6c53-4794-a94c-f66837b68821.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32497a4d5759785a4755354c5749775a6d45744e44426d597931684d7a4d794c544d7a4e5451785a5468684d54466d4e4335775a47593d&fich=b31f1de9-b0fa-40fc-a332-33541e8a11f4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255354e7a466b4d3251314c5459324e4755744e474d7859533169597a466c4c5759314f4441775954417a4e5445324f4335775a47593d&fich=e971d3d5-664e-4c1a-bc1e-f5800a035168.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-17",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b324f54457a4d6a4d314c54686d4d4749744e475530596931684e4459794c5759304e5455304e5459314f4745314d5335775a47593d&fich=96913235-8f0b-4e4b-a462-f45545658a51.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466a4e4467345a44526c4c54646b4e7a45744e4463794d6931694e4751354c5451354d4749304f4755314d446b324e7935515245593d&fich=1c488d4e-7d71-4722-b4d9-490b48e50967.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-30",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b344e7a597a4f444e694c5755355a5755744e4755334e7931694f444e6d4c5468695a574a6c4e6d45354d5751784e7935515245593d&fich=9876383b-e9ee-4e77-b83f-8bebe6a91d17.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "103-117"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-17",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/150/2015-06-17/103?pgs=103-117&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "103-117"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-17",
+            "pubLeg": "XII",
+            "pubNr": "150",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/150/2015-06-17/103?pgs=103-117&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-06-17",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-17",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69802",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "389",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-05-15",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306148",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
