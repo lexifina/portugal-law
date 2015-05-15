@@ -1,0 +1,257 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "320",
+    "id": "39389",
+    "titulo": "Regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública, previstas no Código dos Contratos Públicos, e transpõe o artigo 29.º da Diretiva n.º 2014/23/UE, o artigo 22.º e o anexo IV da Diretiva n.º 2014/24/UE e o artigo 40.º e o anexo V da Diretiva n.º 2014/25/CE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35770",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-05-29",
+            "id": "100308",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-05-29",
+            "id": "100307",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-02",
+            "id": "100323",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-02",
+            "id": "100320",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-02",
+            "id": "100316",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-02",
+            "id": "100315",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-06-05",
+            "id": "100354",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2015-05-22",
+            "id": "100238",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2015-05-22",
+            "id": "100235",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2015-05-22",
+            "id": "100234",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-05-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-05-15",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51784d4746694e7a64694c546c6d4f4441744e444a6b4d5330354f57517a4c575a6b4d444a694e6a426959546c6b4d4335775a47593d&fich=410ab77b-9f80-42d1-99d3-fd02b60ba9d0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a49794d7a63774d7a67334c5756694e6d59744e4749325a693168596a5a6d4c5749784f47593159324d304d5464694e4335775a47593d&fich=22370387-eb6f-4b6f-ab6f-b18f5cc417b4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b775a6a49354d5467344c574a6c4d6a55744e4456694e6931684d574a694c5449334f54526c4f5467304d6d51784d5335775a47593d&fich=90f29188-be25-45b6-a1bb-2794e9842d11.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d774d6a55794d7a5a6b4c546c6a4f4751744e446b32596930354f446c6b4c5467794e6a6c6d4e544d7a4f474934597935775a47593d&fich=3025236d-9c8d-496b-989d-8269f5338b8c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-08",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da votação na especialidade ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3245344d6d4e695a5459344c54566c4e446b744e445a685a6931694d7a6b794c5467315a4449344f54466a4d4746694e4335515245593d&fich=a82cbe68-5e49-46af-b392-85d2891c0ab4.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a517a4e6a63784f5746694c54426a5a4459744e4751315a4331695a4749354c545a6d5a5756685a6a4e6b4d7a55345a4335515245593d&fich=436719ab-0cd6-4d5d-bdb9-6feeaf3d358d.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e propostas de alteração apresentadas pelo PSD/CDS-PP, PS e PCP",
+            "pag": [
+              "4-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-08",
+            "pubLeg": "XII",
+            "pubNr": "166",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/166/2015-07-08/4?pgs=4-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "254-292"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/254?pgs=254-292&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e propostas de alteração apresentadas pelo PSD/CDS-PP, PS e PCP",
+            "pag": [
+              "4-56"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-08",
+            "pubLeg": "XII",
+            "pubNr": "166",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/166/2015-07-08/4?pgs=4-56&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "254-292"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-02",
+            "pubLeg": "XII",
+            "pubNr": "161",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/161/2015-07-02/254?pgs=254-292&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-01",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-05-15",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306146",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
