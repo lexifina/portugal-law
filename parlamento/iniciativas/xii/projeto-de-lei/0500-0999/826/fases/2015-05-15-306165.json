@@ -1,0 +1,520 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "826",
+    "id": "39148",
+    "titulo": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro)"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2015-05-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10675",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2015-05-15",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-05-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:32:06:796&drc=00:03:31:229"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:55:56:220&drc=00:01:03:780"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52",
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/51?pgs=51-52,58&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:35:48:200&drc=00:02:39:697"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:57:09:704&drc=00:01:16:041"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53",
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/52?pgs=52-53,59&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:38:35:755&drc=00:04:13:242"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:50:48:028&drc=00:02:21:306"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=04:03:26:076&drc=00:00:21:924"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54",
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/53?pgs=53-54,57&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:42:58:708&drc=00:03:44:555"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=04:00:12:875&drc=00:00:21:125"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/54?pgs=54-55,60&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:46:50:033&drc=00:02:54:314"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/56?pgs=56&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:54:32:178&drc=00:01:16:181"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:58:35:740&drc=00:01:06:645"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:14",
+            "horaTermo": "14:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150515pln&url=l12/sl4/a2015/m05/&tI=03:59:47:992&drc=00:00:13:487"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-16",
+                "pubLeg": "XII",
+                "pubNr": "87",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Simplificação e padronização do comissionamento de contas de depósito à ordem (altera o Decreto-Lei n.º 27-C/2000, de 10 de março, o Decreto-Lei n.º 298/92, de 31 de dezembro e o Decreto-Lei n.º 454/91, de 28 de dezembro).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306165",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10675",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-16",
+        "pubLeg": "XII",
+        "pubNr": "87",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/087/2015-05-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-05-15",
+        "descricao": "Requerimento, apresentado pelo BE, de avocação para Plenário da discussão e votação na especialidade da proposta de aditamento do PPD/PSD e CDS-PP de um artigo 4.º-A (Alteração à Lei n.º 23-A/2015, de 26 de março) ao Projeto de Lei n.º 826/XII/4.ª (PPD/PSD e CDS-PP) - Requerimento, apresentado pelo PCP, de avocação para Plenário da discussão e votação na especialidade da proposta de aditamento do PPD/PSD e CDS-PP de um artigo 4.º-A (Alteração à lei n.º 23-A/2015, de 26 de março) ao Projeto de Lei n.º 826/XII/4.ª (PPD/PSD e CDS-PP) - Requerimento, apresentado pelo PS, de avocação para Plenário da discussão e votação na especialidade do artigo 6.º (Alteração à Lei n.º 23-A/2015, de 26 de março) do Texto Final apresentado pela Comissão de Orçamento Finanças e Administração Pública relativo ao Projeto de Lei n.º 826/XII/4.ª (PPD/PSD e CDS-PP)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "69492",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "87",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
