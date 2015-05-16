@@ -1,0 +1,33 @@
+Regulamento (extrato) n.º 255/2015
+Alteração ao Regulamento de Participação nas Festas do Município
+João Paulo Marçal Lopes Catarino, Presidente da Câmara Municipal de Proença-a-Nova, faz público que, por deliberação da Assembleia Municipal de 24 de abril de 2015, sob proposta da Câmara Municipal foi aprovada, nos termos da alínea g) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro, a alteração ao Regulamento de Participação nas Festas do Município.
+Para constar, se publica o presente edital, que vai ser afixado nos locais de estilo e disponibilizado na página eletrónica do Município.
+Artigo 1.º
+Alteração ao Regulamento de Participação nas Festas do Município
+Os artigos 7.º, 8.º e 14.º do Regulamento de Participação nas Festas do Município passam a ter a seguinte redação:
+«Artigo 7.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - Para os restantes interessados os locais serão cedidos pelo valor de (euro) 80,00 (oitenta euros), que corresponde a um stand que compreende o período das Festas do Município, cujo pagamento deverá ser efetuado no ato de inscrição.
+6 - ...
+7 - ...
+8 - ...
+9 - ...
+10 - ...
+Artigo 8.º
+[...]
+1 - As desistências das inscrições apresentadas deverão ser comunicadas por escrito até ao último dia útil do mês de maio, pelos meios indicados no n.º 2 do artigo anterior.
+2 - Não se verificando o previsto no número anterior, o interessado ficará impedido de participar nas duas próximas edições do evento.
+Artigo 14.º
+[...]
+1 - ...
+2 - Apenas serão disponibilizados dois locais para ocupação por roulottes, no valor de (euro) 300,00 (trezentos euros), por local, a atribuir por sorteio.
+3 - ...»
+Artigo 2.º
+Entrada em vigor
+As presentes alterações ao Regulamento de Participação nas Festas do Município entram em vigor no dia seguinte ao da sua publicação na 2.ª série do Diário da República.
+28 de abril de 2015. - O Presidente da Câmara, João Paulo Marçal Lopes Catarino.
+308601311
