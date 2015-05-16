@@ -2,9 +2,9 @@
 
 ### Beneficiários familiares ou equiparados
 
-1 - Podem inscrever-se como beneficiários familiares ou equiparados o cônjuge, os descendentes ou equiparados e os ascendentes ou equiparados a cargo do beneficiário titular, nos termos estabelecidos no regime da ADSE.
+1 - Sem prejuízo do disposto nos números seguintes, a elegibilidade para a inscrição como beneficiário familiar ou equiparado depende da verificação das condições previstas no regime da ADSE para a inscrição como beneficiário familiar ou equiparado, com as necessárias adaptações.
 
-2 - Pode igualmente inscrever-se como beneficiário familiar a pessoa que vive com o beneficiário titular em união de facto, reconhecida nos termos da Lei n.º 7/2001, de 11 de Maio, ou que com ele vivia, à data da sua morte, nas mesmas condições, enquanto não contrair casamento ou constituir nova união de facto.
+2 - [Revogado].
 
 3 - Não são inscritos como beneficiários os familiares ou equiparados das pessoas referidas na alínea c) do artigo 3.º
 

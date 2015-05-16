@@ -14,4 +14,8 @@ Têm direito à assistência na doença prevista neste diploma as seguintes cate
 
 a) Beneficiários titulares;
 
-b) Beneficiários familiares ou equiparados.
+b) Beneficiários familiares ou equiparados;
+
+c) Beneficiários extraordinários;
+
+d) Beneficiários associados.
