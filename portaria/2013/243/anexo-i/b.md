@@ -1,7 +1,3 @@
-## Anexo I
-
-## (Artigos 7.º, 12.º e 21.º)
-
 # B
 
 ### Elementos instrutórios do pedido de atribuição da licença de produção para efeitos do disposto no artigo 12.º da presente portaria
