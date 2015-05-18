@@ -22,8 +22,8 @@ f) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 4 - A atribuição da licença de produção fica condicionada à obtenção de parecer favorável ao relatório de conformidade do projeto de execução com a respetiva DIA (RECAPE), nos termos do regime jurídico da avaliação do impacte ambiental (RJAIA), quando a DIA tenha sido emitida com base em estudo prévio ou anteprojeto.
 
-5 - Nos casos previstos no número anterior, as obras destinadas à construção e implantação do centro eletroprodutor só podem iniciar-se depois de emitido o RECAPE.
+5 - Nos casos previstos no número anterior, as obras destinadas à construção e implantação do centro eletroprodutor só podem iniciar-se depois de emitida, pela autoridade de AIA, a decisão sobre a conformidade ambiental do projeto de execução.
 
-6 - A contagem do prazo fixado nos termos da alínea c) do n.º 1 suspende-se durante o período decorrido entre a emissão da licença de produção e a emissão do RECAPE, quando este for exigível para o início da construção e implantação do centro eletroprodutor, sem prejuízo do disposto no número seguinte.
+6 - A contagem do prazo fixado nos termos da alínea d) do n.º 1 suspende-se durante o período decorrido entre a emissão da licença de produção e a emissão da decisão sobre a conformidade ambiental do projeto de execução pela autoridade de AIA, quando este for exigível para o início da construção e implantação do centro eletroprodutor, sem prejuízo do disposto no número seguinte.
 
 7 - O período de suspensão referido no número anterior não pode exceder o limite de 5 meses, data a partir da qual a contagem do prazo é retomada.

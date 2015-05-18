@@ -6,13 +6,13 @@
 
 a) A concessão e extinção da licença de produção dos centros eletroprodutores com capacidade máxima instalada superior a 10 MVA;
 
-b) A escolha e promoção dos procedimentos concursais ou outros similares para a atribuição de ponto de receção, bem como aprovação dos respetivos regulamentos e peças procedimentais;
+b) A escolha e promoção dos procedimentos concursais ou outros similares para a atribuição de reserva de capacidade de injeção na RESP, bem como aprovação dos respetivos regulamentos e peças procedimentais;
 
-c) Representar o Estado na assinatura do contrato de atribuição de capacidade de injeção de potência na RESP, nos termos da presente portaria e da portaria referida no n.º 2 do artigo 1.º;
+c) Representar o Estado na assinatura do contrato de atribuição de reserva de capacidade de injeção de potência na RESP, nos termos da presente portaria e da portaria referida no n.º 2 do artigo 1.º;
 
 d) Decidir as propostas de redução das tarifas aplicáveis, nos casos e condições previstas na presente portaria.
 
-2 - A concessão e extinção da licença de produção dos centros eletroprodutores com capacidade máxima instalada igual ou inferior a 10 MVA, bem como a atribuição de ponto de receção, de autorização para exploração em regime experimental, de autorização para alteração e a atribuição da licença de exploração de todos os centros eletroprodutores são da competência do diretor-geral da Direção-Geral de Energia e Geologia (DGEG).
+2 - A concessão e extinção da licença de produção dos centros eletroprodutores com capacidade máxima instalada igual ou inferior a 10 MVA, bem como a atribuição de autorização para exploração em regime experimental, de autorização para alteração, a atribuição da licença de exploração e a aceitação da comunicação prévia com prazo de todos os centros eletroprodutores são da competência do diretor-geral da Direção-Geral de Energia e Geologia (DGEG).
 
 3 - Cabe ainda ao diretor-geral da DGEG:
 

@@ -24,4 +24,4 @@ i) Em caso de dissolução, cessação da atividade ou aprovação da liquidaç�
 
 2 - A caducidade do ponto de receção ou da licença de produção, ouvido o titular, é declarada pela entidade licenciadora.
 
-3 - A caducidade do ponto de receção ou da licença de produção nos casos previstos nas alíneas b) a e) do n.º 1 implica a perda da caução prevista no n.º 2 do artigo 19.º, salvo se, no que respeita ao caso previsto na alínea d), a referida caução já tiver sido devolvida ao titular, ao abrigo do disposto no n.º 3 do artigo 19.º
+3 - A caducidade do ponto de receção ou da licença de produção nos casos previstos nas alíneas a) a e) e g) do n.º 1 implica a perda da caução prevista no n.º 11 do artigo 10.º ou do n.º 2 do artigo 19.º, conforme aplicável, salvo se, no que respeita ao caso previsto na alínea d), a referida caução já tiver sido devolvida ao titular, ao abrigo do disposto no n.º 3 do artigo 19.º, e se, no caso previsto na alínea g), e ouvido o operador da rede, a renúncia não implicar qualquer prejuízo para o SEN.

@@ -2,7 +2,7 @@
 
 ### Informação do operador da rede pública e de outras entidades
 
-1 - Após a verificação da regular instrução do pedido apresentado, a DGEG solicita ao operador da RESP a que se ligará o centro eletroprodutor para que se pronuncie, no prazo de 20 dias, sobre as condições técnicas de ligação à rede.
+1 - Após a verificação da regular instrução do pedido apresentado, pode a DGEG solicitar ao operador da RESP a que se ligará o centro eletroprodutor que se volte a pronunciar, no prazo de 20 dias, sobre as condições técnicas de ligação à rede.
 
 2 - Assiste ainda à DGEG a possibilidade de consultar e solicitar pronúncias a outras entidades, no prazo máximo de 30 dias, sempre que tal for legalmente exigido ou entender justificar-se.
 
