@@ -6,4 +6,4 @@ São órgãos da Reserva Natural:
 
 a) A comissão directiva;
 
-b) O conselho consultivo.
+b) [Revogada.]
