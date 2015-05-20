@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2015-05-20, processo 01145/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01145/13
+
+**Data do Acordão:** 05/20/2015
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** CASIMIRO GONÇALVES
+
+**Descritores:** RECURSO POR OPOSIÇÃO DE JULGADOS; PROPINAS; TAXA; PRESCRIÇÃO
+
+**Nº Convencional:** JSTA000P19034
+
+**Nº do Documento:** SA22015052001145
+
+**Data de Entrada:** 06/24/2013
+
+**Recorrente:** UNIVERSIDADE DE COIMBRA
+
+**Recorrido 1:** A......
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A existência de alçadas não prejudica o direito ao recurso para o STA (nº 5 do art. 280º do CPPT).
+
+II - A propina constitui uma taxa à luz da tipologia consagrada no art. 4º da LGT, cujo regime jurídico deve, por isso, em princípio, ser procurado nesta lei, não só por força do nº 2 do seu art. 3º, que a inclui na categoria de “tributos”, como por força do seu art. 1º, onde se preceitua que esta Lei regula “as relações jurídico-tributárias”.
+
+III - Assim sendo, a propina está sujeita ao prazo de prescrição de oito anos previsto no art. 48º da LGT como, também, ao termo inicial do curso desse prazo previsto no preceito, sendo incorrecta a aplicação do art. 306º do CCivil e não pode classificar-se como um “tributo periódico”, constituindo, antes, um “tributo de obrigação única”, cujo prazo de prescrição se inicia, por isso, na data em que o facto tributário ocorre (art. 48º, nº 1, da LGT).
+
+IV - O respectivo facto tributário substancia-se, não no acto de matrícula ou de inscrição, mas na frequência ou fruição do serviço público de ensino durante um período de tempo lectivo. E, assim, tal facto tributário só se completa e forma no último dia desse período lectivo, pré-definido no calendário escolar que anualmente é fixado pelo respectivo ente público para cada curso ou ciclo de estudos.
