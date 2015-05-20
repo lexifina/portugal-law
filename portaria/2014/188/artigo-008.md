@@ -4,7 +4,7 @@
 
 1 - O SAAS possui obrigatoriamente regulamento interno, do qual deve constar, designadamente:
 
-a) Modalidades de funcionamento;
+a) (Revogada).
 
 b) Horário de funcionamento;
 

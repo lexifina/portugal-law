@@ -6,7 +6,7 @@
 
 ### Funcionamento
 
-1 - O SAAS deve ter um horário de funcionamento adequado às necessidades das pessoas e famílias e às modalidades de intervenção.
+1 - O SAAS deve ter um horário de funcionamento adequado às necessidades das pessoas e famílias.
 
 2 - O SAAS deve assegurar, no mínimo, 6 horas diárias de atendimento.
 
