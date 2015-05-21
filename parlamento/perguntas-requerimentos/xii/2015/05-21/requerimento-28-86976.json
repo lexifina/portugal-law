@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GxNVVJX7wAMMDCo44uiDkoXjCnnTqJMJVk7w6Lnz9bSvDNzNaJg32PZ969OSYploxBt62E8xuQi1DIGk0JGpnbv1bng4YXlR9HMvlssdcm8MExcl1l5oHoDKZuw9AWbnIkF%2bNbPl0vgMAoegOY7%2flnZLhJ9GrLwka0HJITMVVDlqN6V0zE%2bNEs4HVwAxTXblMSTdyi1VgpTzlK%2fuU%2bSDA0PdV2pVCmpxhc0PkMBRWLtE7XEu1DD09E8%2fR3uV5p3mrCjuJquagyDUt04nLs8nDY3GHO6Ui%2biL%2f%2fFe7kvpSgjSFoAvXwMIUfn2tvZCmnLu%2fkk3PJn23jbPu%2fOcuav%2f32J8xvr6MbygfRZ8o9EX7HCaUESrnOmdnwL4uwq2T%2flp%2fXNWiwqO9fb%2faHYf8GYerw%3d%3d&fich=RequerimentosXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1bb2fe5c4514e1de1c0f0cc11772016131bef5c7a58a378d0b54d69a034437e6",
+  "legislatura": "XII",
+  "id": "86976",
+  "tipo": "Requerimento",
+  "numero": "28",
+  "data_registo": "2015-05-21",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Carta dirigida ao Governo sobre o Montepio Geral - Associação Mutualista e outras diligências tomadas pelos supervisores do sistema financeiro português.",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2051",
+        "nome": "Pedro Nuno Santos"
+      }
+    ],
+    "DataEnvio": "2015-05-21",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2015-05-21",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Banco de Portugal",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2015-06-22",
+            "docRemetida": null,
+            "entidade": "Banco de Portugal",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764e464e4d4c7a566d4e544e684e7a51344c544a6a595759744e44637a4e7930354d324d784c5745784e6a59334f54557a4e6a5132596935775a47593d&fich=5f53a748-2caf-4737-93c1-a1667953646b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2015-05-21",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764e464e4d4c7a41304d5451304e3249794c5449355a6d49744e4445304f4330354d6a56684c5463784e6d4531593255305a54526a4e7935775a47593d&fich=041447b2-29fb-4148-925a-716a5ce4e4c7.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "86976",
+    "Legislatura": "XII",
+    "Nr": "28",
+    "Observacoes": "CNSF - Conselho Nacional de Supervisores Financeiros; Montepio Geral; Caixa Económica; Banco de Portugal; an´slise detalhada; relatório de auditoria;",
+    "Publicacao": null,
+    "ReqTipo": "EI",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
