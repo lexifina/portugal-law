@@ -1,0 +1,373 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1471",
+    "id": "39442",
+    "titulo": "Cria um programa piloto para um regime de \"Apoio à Vida Independente\" para pessoas com deficiência agravada"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2015-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10684",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2015-05-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "39451",
+        "leg": "XII",
+        "nr": "1478",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2058",
+            "obs": null,
+            "pag": [
+              "48-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-05-23",
+            "pubLeg": "XII",
+            "pubNr": "90",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/48?pgs=48-54&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-05-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2191",
+                "nome": "Helena Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:14:35:223&drc=00:03:58:172"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:37:03:409&drc=00:02:30:782"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48",
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/48?pgs=48,53-54&org=PLC"
+              }
+            ],
+            "sumario": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência; Cria um programa piloto para um regime de «Apoio à Vida Independente» para pessoas com deficiência agravada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4447",
+                "nome": "David Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:18:39:823&drc=00:03:52:706"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:36:14:821&drc=00:00:33:132"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49",
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/48?pgs=48-49,53&org=PLC"
+              }
+            ],
+            "sumario": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência; Cria um programa piloto para um regime de «Apoio à Vida Independente» para pessoas com deficiência agravada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1801",
+                "nome": "Raúl de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:22:36:867&drc=00:04:34:441"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência; Cria um programa piloto para um regime de «Apoio à Vida Independente» para pessoas com deficiência agravada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2132",
+                "nome": "Idália Salvador Serrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:27:15:944&drc=00:04:16:042"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/51?pgs=51&org=PLC"
+              }
+            ],
+            "sumario": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência; Cria um programa piloto para um regime de «Apoio à Vida Independente» para pessoas com deficiência agravada.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4051",
+                "nome": "Maria Conceição Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:08",
+            "horaTermo": "13:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150522pln&url=l12/sl4/a2015/m05/&tI=03:31:37:567&drc=00:04:23:554"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "198589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-05-23",
+                "pubLeg": "XII",
+                "pubNr": "90",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "sumario": "Pela promoção da autonomia pessoal/vida independente das pessoas com deficiência; Cria um programa piloto para um regime de «Apoio à Vida Independente» para pessoas com deficiência agravada.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306355",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "747748",
+        "obs": null,
+        "pag": [
+          "48-54"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-23",
+        "pubLeg": "XII",
+        "pubNr": "90",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/090/2015-05-23/48?pgs=48-54&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
