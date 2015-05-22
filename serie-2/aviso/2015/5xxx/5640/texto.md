@@ -1,0 +1,7 @@
+Aviso n.º 5640/2015
+Alteração Parcial ao Regulamento do PDM
+Base 2.8 Área de Equipamento e Base 2.2 Área Exclusiva de Moradia Isolada
+Guilherme Manuel Lopes Pinto, Presidente da Câmara Municipal de Matosinhos, torna público, que a Câmara Municipal na sua reunião ordinária pública de 21 de abril de 2015, deliberou mandar elaborar a Alteração Parcial ao Regulamento do PDM - Base 2.8 Área de Equipamento e Base 2.2 Área Exclusiva de Moradia Isolada, ao abrigo do n.º 1 e na alínea a) do n.º 2 do artigo 93.º do Decreto-Lei n.º 46/2009 de 20 de fevereiro, com as alterações posteriormente publicadas, e nos termos do n.º 1 do artigo 74.º do mesmo diploma, com os fundamentos e proposta apresentada pelos serviços, sem prejuízo de outros aspetos que venham a revelar-se necessários reponderar.
+Nos termos do n.º 2 do artigo 77.º do Decreto-Lei n.º 46/2009 de 20 de fevereiro com as alterações posteriormente publicadas, decorrerá um período de 15 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da Alteração Parcial ao Regulamento do PDM - Base 2.8 Área de Equipamento e Base 2.2 Área Exclusiva de Moradia Isolada, que encontrar-se-á disponível no Edifício dos Serviços Técnicos dos Paços do Concelho e Internet.
+27 de abril de 2015. - O Presidente da Câmara Municipal, Guilherme Manuel Lopes Pinto.
+208627662
