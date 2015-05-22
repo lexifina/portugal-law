@@ -15,3 +15,5 @@ d) A necessidade de adaptar as metas estabelecidas para as espécies produtoras 
 e) A integração do sector florestal no esforço nacional de equilíbrio económico-financeiro, com o enquadramento dado pelo Programa de Assistência Económica e Financeira a Portugal;
 
 f) A reestruturação dos serviços públicos responsáveis pelo ordenamento e gestão florestal, com a criação do Instituto da Conservação da Natureza e das Florestas, I.P. (ICNF, I.P.), no âmbito do Plano de Redução e Melhoria da Administração Central (PREMAC).
+
+g) O aprofundamento dos objetivos específicos e operacionais e dos seus indicadores, resultante da Estratégia Nacional para as Florestas, aprovada pela Resolução do Conselho de Ministros n.º 6-B/2015, de 4 de fevereiro, que constitui a primeira atualização da Estratégia aprovada pela Resolução do Conselho de Ministros n.º 114/2006, de 15 de setembro.
