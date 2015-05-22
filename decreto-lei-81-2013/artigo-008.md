@@ -2,11 +2,9 @@
 
 ### Entidade coordenadora
 
-1 - A DRAP em cuja circunscrição territorial se situa a atividade pecuária é a entidade coordenadora competente no âmbito do NREAP, procedendo à instrução do processo de autorização das atividades pecuárias, excetuando o disposto no número seguinte.
+1 - A entidade coordenadora competente no âmbito do NREAP é a DRAP em cuja circunscrição territorial se localiza a atividade pecuária, sendo a instrução dos processos de autorização do exercício das atividades pecuárias da sua responsabilidade.
 
-2 - A câmara municipal do local em que se situa a exploração da classe 3 é a entidade coordenadora, competente para o registo e emissão do título de exploração e para o registo da detenção caseira, nos termos da alínea j) do artigo 2.º
-
-3 - A entidade coordenadora é a única entidade interlocutora do titular em todos os contactos considerados necessários à boa instrução e apreciação dos procedimentos previsto neste regime, competindo-lhe a coordenação da condução, monitorização e dinamização dos procedimentos administrativos, nos termos previstos no presente decreto-lei, nomeadamente:
+2 - A entidade coordenadora é a única entidade interlocutora do titular em todos os contactos considerados necessários à boa instrução e apreciação dos procedimentos previsto neste regime, competindo-lhe a coordenação da condução, monitorização e dinamização dos procedimentos administrativos, nos termos previstos no presente decreto-lei, nomeadamente:
 
 a) Prestar informação e apoio técnico ao titular, sempre que solicitado, designadamente para esclarecer dúvidas quanto à classificação da atividade pecuária ou para disponibilizar documentação de referência, incluindo informação atualizada sobre as melhores técnicas disponíveis e demais aspetos relacionados com o exercício da atividade pecuária;
 
@@ -24,8 +22,8 @@ g) Promover e conduzir a realização das vistorias, nos casos legalmente previs
 
 h) Disponibilizar informação sobre o andamento do processo através do sistema de informação previsto no presente decreto-lei.
 
-4 - O dirigente máximo da entidade coordenadora designa, por despacho, o gestor do procedimento responsável pelas funções referidas no número anterior, podendo o despacho ter um âmbito genérico ou específico, sobre as atividades pecuárias existentes ou futuras, devendo todas as atividades com a mesma localização ser organizadas num único processo.
+3 - O dirigente máximo da entidade coordenadora designa, por despacho, o gestor do procedimento responsável pelas funções referidas no número anterior, podendo o despacho ter um âmbito genérico ou específico, sobre as atividades pecuárias existentes ou futuras, devendo todas as atividades com a mesma localização ser organizadas num único processo.
 
-5 - O ato de designação do gestor do procedimento contém a determinação das competências que lhe são delegadas, não está sujeito aos requisitos estabelecidos no n.º 2 do artigo 37.º do Código do Procedimento Administrativo e deve ser notificado por via eletrónica ao interessado, com toda a informação relevante.
+4 - O ato de designação do gestor do procedimento contém a determinação das competências que lhe são delegadas, não está sujeito aos requisitos estabelecidos no n.º 2 do artigo 37.º do Código do Procedimento Administrativo e deve ser notificado por via eletrónica ao interessado, com toda a informação relevante.
 
-6 - A entidade coordenadora deve aplicar no exercício das suas funções e sem prejuízo das competências próprias, as orientações e normas técnicas emanadas pela entidade responsável.
+5 - A entidade coordenadora deve aplicar no exercício das suas funções e sem prejuízo das competências próprias, as orientações e normas técnicas emanadas pela entidade responsável.

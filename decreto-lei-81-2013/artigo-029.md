@@ -18,7 +18,7 @@ d) A entidade coordenadora considerar, em decisão fundamentada, que da execuç�
 
 2 - Fica sujeita a declaração prévia a alteração da atividade pecuária que não é abrangida pelo disposto no número anterior e apenas se:
 
-a) A alteração implicar um aumento de 30 % da capacidade instalada;
+a) A alteração implicar um aumento de 30 % da capacidade ou 30 % da área das instalações da atividade pecuária, aferidos à capacidade produtiva e à área inicialmente licenciada; ou
 
 b) A entidade coordenadora considerar, em decisão fundamentada, que da alteração resulta uma instalação pecuária substancialmente diferente daquela que foi inicialmente permitida, implicando maior grau de risco ou de perigosidade para a saúde pública e dos trabalhadores, segurança das pessoas e bens, higiene e segurança dos locais de trabalho, qualidade do ambiente ou para o correto ordenamento do território; ou ainda
 

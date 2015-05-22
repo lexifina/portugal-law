@@ -22,7 +22,7 @@ e) «Cabeça normal (CN)» a unidade padrão de equivalência usada para compara
 
 f) «Cabeça natural» as unidades animais presentes na exploração, num determinado momento ou período de tempo;
 
-g) «Capacidade instalada» o efetivo máximo expresso em CN e constante na licença ou título de exploração, para o qual a exploração pecuária, centro de agrupamento ou o entreposto está autorizado, determinado no Plano de Produção validado pela Direção-Geral de Alimentação e Veterinária (DGAV), no respeito pelas áreas úteis de produção e demais condicionantes estabelecidas nas normas sanitárias e de bem-estar animal, incluindo as normas que regulamentam os diferentes tipos e modos de produção e determinam o número de lugares e espaço para produção da exploração pecuária;
+g) «Capacidade» o limite de animais, de uma ou mais espécies, expresso em cabeças naturais ou o equivalente em cabeças normais, que a exploração, o núcleo de produção, o centro de agrupamento ou o entreposto está autorizado a deter, num dado momento, em função das condições expressas no processo de autorização da atividade;
 
 h) «Centro de Agrupamento» os locais tais como centros de recolha, feiras e mercados com exceção dos mercados locais de produtores, exposições, concursos pecuários, onde são agrupados animais provenientes de diferentes explorações com vista ao comércio, exposição ou outras atividades não produtivas;
 
@@ -36,7 +36,7 @@ l) «Efluentes pecuários» o estrume e chorume;
 
 m) «Encabeçamento» a relação entre o conjunto de animais das diferentes espécies existentes numa exploração, expressa em cabeças normais, em face da superfície agrícola da exploração utilizada no pastoreio ou na alimentação do efetivo pecuário, expressa por hectare (ha);
 
-n) «Entidade coordenadora» a direção regional de agricultura e pescas territorialmente competente, a quem compete a coordenação do processo de controlo prévio da instalação, da alteração e do desenvolvimento das atividades pecuárias e a câmara municipal em relação às explorações classe 3, nos termos previstos no presente decreto-lei;
+n) «Entidade coordenadora» a direção regional de agricultura e pescas territorialmente competente, a quem compete a coordenação do processo de controlo prévio da instalação, da alteração e do desenvolvimento das atividades pecuárias, nos termos previstos no presente decreto-lei;
 
 o) «Entreposto pecuário» a instalação onde animais são agrupados, com o objetivo de constituição de lotes para abate ou para exploração em vida, sendo detidos por um comerciante;
 
@@ -56,24 +56,22 @@ v) «Outros efluentes das atividades pecuárias» outros fluxos de poluentes emi
 
 w) «Pessoa responsável» a pessoa singular que na exploração pecuária, entreposto ou centro de agrupamento detido por pessoa coletiva é o responsável direto pela gestão da exploração, entreposto ou centro de agrupamento pela implementação das normas de licenciamento, sanitárias, de bem-estar animal e de proteção do ambiente;
 
-x) «Plano de Produção» o documento técnico elaborado pelo médico veterinário responsável sanitário, que caracteriza a organização produtiva da exploração pecuária, designadamente a estrutura do efetivo e o sistema de produção em cumprimento das normas sanitárias e de bem-estar animal, e que determina a capacidade instalada;
+x) «Produção extensiva» a que utiliza o pastoreio no seu processo produtivo e cujo encabeçamento não ultrapasse 1,4 CN/hectare, podendo este valor ser estendido até 2,8 CN/hectare desde que sejam assegurados dois terços das necessidades alimentares do efetivo em pastoreio, bem como a que desenvolve a atividade pecuária com baixa intensidade produtiva ou com baixa densidade animal, no caso das espécies pecuárias não herbívoras;
 
-y) «Produção extensiva» a que utiliza o pastoreio no seu processo produtivo e cujo encabeçamento não ultrapasse 1,4 CN/hectare, podendo este valor ser estendido até 2,8 CN/hectare desde que sejam assegurados dois terços das necessidades alimentares do efetivo em pastoreio, bem como a que desenvolve a atividade pecuária com baixa intensidade produtiva ou com baixa densidade animal, no caso das espécies pecuárias não herbívoras;
+y) «Produção intensiva» o sistema de produção que não seja enquadrável na produção extensiva;
 
-z) «Produção intensiva» o sistema de produção que não seja enquadrável na produção extensiva;
+z) «Produtor» qualquer pessoa singular ou coletiva que exerce uma atividade pecuária e se responsabiliza pela mesma;
 
-aa) «Produtor» qualquer pessoa singular ou coletiva que exerce uma atividade pecuária e se responsabiliza pela mesma;
+aa) «Responsável sanitário» o médico veterinário acreditado junto da Direção-Geral de Alimentação e Veterinária (DGAV) e que, sob a responsabilidade desta, providencia a aplicação das normas higiossanitárias e de bem-estar animal na exploração pecuária, no entreposto ou no centro de agrupamento;
 
-bb) «Responsável sanitário» o médico veterinário acreditado junto da DGAV e que, sob a responsabilidade desta, providencia a aplicação das normas higiossanitárias e de bem-estar animal na exploração pecuária, no entreposto ou no centro de agrupamento;
+bb) «Responsável técnico do projeto» a pessoa ou entidade designada pelo titular para efeitos de demonstração de que o projeto se encontra em conformidade com a legislação aplicável e para o relacionamento com a entidade coordenadora e as demais entidades intervenientes no processo de autorização da atividade;
 
-cc) «Responsável técnico do projeto» a pessoa ou entidade designada pelo titular para efeitos de demonstração de que o projeto se encontra em conformidade com a legislação aplicável e para o relacionamento com a entidade coordenadora e as demais entidades intervenientes no processo de autorização da atividade;
+cc) «Sistema de gestão ambiental» a componente do sistema global de gestão, que inclui a estrutura organizacional, atividades de planeamento, responsabilidades, práticas, processos, procedimentos e recursos destinados a definir, aplicar, consolidar, rever e manter a política ambiental;
 
-dd) «Sistema de gestão ambiental» a componente do sistema global de gestão, que inclui a estrutura organizacional, atividades de planeamento, responsabilidades, práticas, processos, procedimentos e recursos destinados a definir, aplicar, consolidar, rever e manter a política ambiental;
+dd) «Sistema de gestão das condições higiossanitárias e de bem-estar animal» o sistema que inclui as condições de estrutura e de gestão das atividades pecuárias, destinados a prevenir e a promover a defesa sanitária dos efetivos pecuários e de terceiros, bem como as normas de bem-estar animal no âmbito das atividades a que estes são sujeitos;
 
-ee) «Sistema de gestão das condições higiossanitárias e de bem-estar animal» o sistema que inclui as condições de estrutura e de gestão das atividades pecuárias, destinados a prevenir e a promover a defesa sanitária dos efetivos pecuários e de terceiros, bem como as normas de bem-estar animal no âmbito das atividades a que estes são sujeitos;
+ee) «Sistema de gestão de segurança e saúde do trabalho» o sistema que possibilita a gestão dos riscos para a segurança e saúde do trabalho relacionados com as atividades da organização e compreendendo a estrutura operacional, as atividades de planeamento, as responsabilidades, as práticas, os procedimentos, os processos e os recursos para desenvolver e implementar as condições de segurança e saúde no trabalho;
 
-ff) «Sistema de gestão de segurança e saúde do trabalho» o sistema que possibilita a gestão dos riscos para a segurança e saúde do trabalho relacionados com as atividades da organização e compreendendo a estrutura operacional, as atividades de planeamento, as responsabilidades, as práticas, os procedimentos, os processos e os recursos para desenvolver e implementar as condições de segurança e saúde no trabalho;
+ff) «Titular» a pessoa singular ou coletiva habilitada ao exercício de uma atividade pecuária, ou atividade complementar às atividades pecuárias, por um título bastante;
 
-gg) «Titular» a pessoa singular ou coletiva habilitada ao exercício de uma atividade pecuária, ou atividade complementar às atividades pecuárias, por um título bastante;
-
-hh) «Título de exploração» o documento que habilita ao exercício de atividade pecuária uma exploração, entreposto, centro de agrupamento ou uma unidade autónoma de gestão de efluentes pecuários, sujeita ao regime de declaração prévia ou de registo, previstos no NREAP.
+gg) «Título de exploração» o documento que habilita ao exercício de atividade pecuária uma exploração, entreposto, centro de agrupamento ou uma unidade autónoma de gestão de efluentes pecuários, sujeita ao regime de declaração prévia ou de registo, previstos no NREAP.
