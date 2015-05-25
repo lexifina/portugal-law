@@ -1,0 +1,6 @@
+Aviso n.º 5695/2015
+Dinis Manuel da Silva Costa, Presidente da Câmara Municipal de Vizela, torna público, nos termos do disposto no n.º 2, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na sua atual redação e em cumprimento da deliberação da Câmara Municipal de Vizela de 30 de abril de 2015, que a partir do 5.º dia útil a seguir à publicação deste aviso no Diário da República e durante 15 dias úteis, se encontra aberto um período de Discussão Pública Preventiva da Alteração do Plano Diretor Municipal.
+Durante o período de Discussão Pública, qualquer reclamação, observação, sugestão ou pedido de esclarecimento deve ser apresentado por escrito e entregue diretamente na Divisão de Planeamento e Gestão Urbanística, sita Praça do Município, n.º 552 freguesia de S. Miguel, ou remeter por correio registado, endereçado ao Presidente da Câmara de Vizela - Alteração do Plano Diretor Municipal - Praça do Município, n.º 552 freguesia de S. Miguel - 4815-013 Vizela.
+Para constar se publica o presente aviso no Diário da República, sítio da Câmara Municipal de Vizela e na comunicação social, sendo ainda afixado nos lugares de estilo e outros de igual teor.
+13 de maio de 2015. - O Presidente da Câmara, Dinis Manuel da Silva Costa.
+208638524
