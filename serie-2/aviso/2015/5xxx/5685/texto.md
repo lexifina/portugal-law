@@ -1,0 +1,11 @@
+Aviso n.º 5685/2015
+Plano de Pormenor de Sanhoane
+Evaristo António Neves, vereador com competências delegadas da Câmara Municipal de Mogadouro:
+Torna público, nos termos da alínea b) do n.º 4 do artigo 148.º do Decreto-Lei n.º 380/99 de 22 de setembro, alterado pela Decreto-Lei n.º 46/2009 de 20 de fevereiro, que a Câmara Municipal de Mogadouro, na reunião de câmara de 28 de abril de 2015, de acordo com as informações n.º 56/2014 de 5 de fevereiro e n.º 884/2015 de 21 de abril da UOTU, deliberou por unanimidade proceder à elaboração do Plano de Pormenor de Sanhoane, tendo aprovado os termos de referência que fundamentam a sua oportunidade, fixam os respetivos objetivos e estabelecem o prazo de 180 dias para a sua elaboração.
+A área de intervenção situa-se na aldeia de Sanhoane integrada na união de freguesias de Brunhosinho, Castanheira e Sanhoane e tem como limites: a norte, ribeiro; a sul, Maria da Graça Fitas Fernandes; a nascente, Isabel da Conceição, e a poente, Martinho José Mourão. E abrange o prédio 72-C denominado «Abechedo».
+Torna-se ainda público, nos termos do artigo 77.º n.º 2 do Decreto-Lei n.º 380/99 de 22 de setembro, com as alterações introduzidas pelo Decreto-Lei n.º 46/2009 de 20 de fevereiro, que decorrerá, após publicação de aviso no Diário da República, 2.ª série, nos termos do artigo 148.º n.º 4, alínea b) do citado diploma, um período de 15 dias para participação dos interessados, podendo ser formuladas sugestões e apresentadas informações.
+Durante este período, os interessados poderão consultar os termos de referência, na Unidade de Ordenamento de Território e Urbanismo da Câmara Municipal de Mogadouro
+As sugestões e informações mencionadas deverão ser entregues no prazo referenciado e dirigidas, por escrito, ao Presidente da Câmara Municipal de Mogadouro, a entregar no Balcão Único do edifício dos paços do concelho, sito no Largo do Convento de S. Francisco, 5200-244 Mogadouro, nos dias úteis desde as 9 horas às 16 horas, ou a enviar por carta registada com aviso de receção, para a morada referida.
+Quaisquer outras informações que se mostrem necessárias poderão ser obtidas na Unidade de Ordenamento Território e Urbanismo desta Câmara, através do e-mail geral@mogadouro.pt ou do telefone 279 340 100.
+13 de maio de 2015. - O Vereador com Competências Delegadas, Evaristo António Neves.
+208637544
