@@ -1,0 +1,648 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12645",
+  "numero": "519",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-05-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-06-24",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "184/COFAP/2015",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2015-11-18",
+                "dataResposta": "2016-02-10",
+                "nrOficio": "3/COFMA/2015",
+                "oficioResposta": "335/2016"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-04-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2016-04-20",
+        "DataBaixaComissao": "2015-11-17",
+        "DataEnvioPAR": "2016-04-21",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-11-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6d4a684d5751784e6d5574596a686d59693030595745304c5468685a6a51745a54497a59544978596a5a6d5a546c6d4c6e426b5a673d3d&fich=2ba1d16e-b8fb-4aa4-8af4-e23a21b6fe9f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-04-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876597a6b314e4751334d444d745a6a4e694e7930304e3259784c546b31597a55744d474a6a4d7a63324f5759315a47566c4c6e426b5a673d3d&fich=c954d703-f3b7-47f1-95c5-0bc3769f5dee.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-02-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a5957387659574531596a5a6b4e6a63744d6d526d4d7930305957566b4c546b304e6a4d745a4455324e6d4e6a5957526b5a6a63334c6e426b5a673d3d&fich=aa5b6d67-2df3-4aed-9463-d566ccaddf77.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-12-16",
+            "gp": "PSD",
+            "id": "6177",
+            "motivoCessacao": null,
+            "nome": "Rubina Berardo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-06-23",
+            "entidades": null,
+            "id": "100483",
+            "tipo": null,
+            "titulo": "Audição em 2015-06-23 com Luís Guilherme em representação da Maxipet Lda."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-06-24",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DE ESTADO E DAS FINANÇAS"
+            ],
+            "nrOficio": "184/COFAP/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-06-24",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  AGRICULTURA E MAR"
+            ],
+            "nrOficio": "184/COFAP/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-06-17",
+        "DataArquivo": "2015-11-17",
+        "DataBaixaComissao": "2015-06-03",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2015-06-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-06-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e686279396c4d574d784e54526a4f43316d4d575a6b4c54526d4f445174596a5a6c4e5330315a4449315a4749314d6d4530593245756347526d&fich=e1c154c8-f1fd-4f84-b6e5-5d25db52a4ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5547563061574e68627938314d4441774d7a63774d433034595442684c5451775a474d744f44566c5a4330315a445133596a49774d7a686b4e5751756347526d&fich=50003700-8a0a-40dc-85ed-5d47b2038d5d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3514",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-06-17",
+            "gp": "PSD",
+            "id": "4391",
+            "motivoCessacao": null,
+            "nome": "Conceição Bessa Ruão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Orçamento, Finanças e Modernização Administrativa da XIII Legislatura."
+      }
+    ],
+    "DataDebate": "2016-07-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-05-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a677a4f4449784d4755344c5459344d6d45744e4445334e7930344d6d466a4c5459304e5455334e4755304d7a6b344d5335775a47593d&fich=838210e8-682a-4177-82ac-645574e43981.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40586",
+      "40561"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:56:44:254&drc=00:02:18:149"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:20:37:768&drc=00:01:09:930"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60",
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/60?pgs=60,65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:59:23:613&drc=00:02:52:200"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:02:33:347&drc=00:03:11:191"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:05:46:843&drc=00:03:24:627"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:09:15:012&drc=00:04:04:309"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202904",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:13:38:652&drc=00:03:32:395"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:17:13:822&drc=00:03:18:177"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/65?pgs=65&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia; Reduz a taxa de IVA aplicável aos produtos alimentares para animais de companhia para a taxa intermédia; Recomenda ao Governo que avalie a redução da taxa de IVA incidente sobre produtos alimentares para animais de companhia, tendo em vista a possibilidade de incluir essa redução no Orçamento de Estado para 2017.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12645",
+    "PetAssunto": "Solicitam a redução, para a taxa mínima, do IVA aplicável sobre alimentos destinados a animais de companhia.",
+    "PetDataEntrada": "2015-05-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12645",
+    "PetLeg": "XII",
+    "PetNr": "519",
+    "PetNrAssinaturas": "6845",
+    "PetNrAssinaturasInicial": "6845",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2211",
+        "obs": null,
+        "pag": [
+          "59-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/59?pgs=59-66&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "748493",
+        "obs": null,
+        "pag": [
+          "24-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-19",
+        "pubLeg": "XII",
+        "pubNr": "53",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/053/2015-06-19/24?pgs=24&org=PLC"
+      }
+    ]
+  }
+}
