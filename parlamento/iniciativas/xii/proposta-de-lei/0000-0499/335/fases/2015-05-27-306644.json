@@ -1,0 +1,223 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "335",
+    "id": "39534",
+    "titulo": "Transpõe a Diretiva n.º 2013/11/UE, do Parlamento Europeu e do Conselho, de 21 de maio de 2013, sobre a resolução alternativa de litígios de consumo, estabelece o enquadramento jurídico dos mecanismos de resolução extrajudicial de litígios de consumo"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-05-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "35901",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d575a6d59574a6d4e79316a4e54686d4c54526b5a6a6b744f4442684e7930314d574d334e6a45324d544d7a4e5755756347526d&fich=41ffabf7-c58f-4df9-80a7-51c76161335e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Economia e Obras Públicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a445a6d4d7a63774d4330355a574d354c5451794e5745744f54497a4e433034595759784f444d79596d557a4d6a497555455247&fich=ed6f3700-9ec9-425a-9234-8af1832be322.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e54566c4f4449775a43316c4e7a4a6d4c54526c4d7a59744f5464684d5331684d7a686d4e44646a4e6a63304d6a67756347526d&fich=155e820d-e72f-4e36-97a1-a38f47c67428.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e4449325a546b79595330794d6a55334c5451774e324574596d466d5979316d4d5751324d444e6d596d51784e7a67756347526d&fich=0426e92a-2257-407a-bafc-f1d603fbd178.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e57526d596a526c5a6930304e546b784c545177597a59744f5459304d5330325a4455314d4759354e324d344e546b756347526d&fich=d5dfb4ef-4591-40c6-9641-6d550f97c859.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2015-07-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-06-22"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-06-04"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Economia e Obras Públicas em 2015-06-19"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2015-05-28"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-05-28"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-05-29"
+          },
+          {
+            "link": "",
+            "nome": "Comissão de Economia e Obras Públicas em 2015-06-03"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "92-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-25",
+            "pubLeg": "XII",
+            "pubNr": "155",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/155/2015-06-25/92?pgs=92-105&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "92-105"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-06-25",
+            "pubLeg": "XII",
+            "pubNr": "155",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/155/2015-06-25/92?pgs=92-105&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "428",
+            "motivoCessacao": null,
+            "nome": "Fernando Serrasqueiro"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1977",
+            "motivoCessacao": null,
+            "nome": "António Gameiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-06-23",
+            "dataRemessa": "2015-06-24",
+            "numeroOficio": "775/XII/1.ª CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-06-24",
+            "descricao": null,
+            "detalhe": null,
+            "id": "69949",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "328",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-05-27",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Em conexão com a 6.ª Comissão",
+    "OevId": "306644",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
