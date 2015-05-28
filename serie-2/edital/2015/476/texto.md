@@ -1,0 +1,7 @@
+Edital n.º 476/2015
+Dr. Manuel Maria Moreira, Presidente da Câmara Municipal do Marco de Canaveses, torna público que, ao abrigo da competência que lhe confere a alínea b) e t) do n.º 1 do artigo 35.º do anexo I da Lei n.º 75/2013 de 12 de setembro, que a Câmara Municipal, na sua reunião realizada no dia de hoje, deliberou aprovar a proposta de "Regulamento do Orçamento Participativo Jovem do Marco de Canaveses" e submeter o mesmo a Consulta pública, para recolha de sugestões pelo prazo de 30 dias, a contar da data da publicação na 2.ª série do Diário da República, no cumprimento do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 04/2015, de 7 de janeiro.
+Durante o referido período a Proposta de Regulamento do Orçamento Participativo Jovem do Marco de Canaveses, encontra-se disponível para consulta na secção de Administração Geral, durante as horas normais de expediente (09h/12.30h - 14h/17.30h), bem como, na página oficial deste Município em www.cm-marco-canaveses.pt.
+Assim, convidam-se todos os interessados a dirigir por escrito e dirigidas ao Presidente da Câmara Municipal as eventuais observações ou sugestões dentro do período atrás referido.
+Para constar e devidos efeitos se publica o presente edital e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+13 de maio de 2015. - O Presidente da Câmara Municipal, Dr. Manuel Moreira.
+208647661
