@@ -1,0 +1,369 @@
+Aviso n.º 5798/2015
+Aprovação da 1.ª alteração ao Plano de Pormenor do Parque Empresarial de Paçô - 3.ª revisão
+João Manuel Amaral Esteves, Presidente da Câmara Municipal de Arcos de Valdevez, torna público que, a Câmara Municipal de Arcos de Valdevez, em reunião ordinária de 26 de maio de 2014 deliberou, por unanimidade, aprovar e submeter para a aprovação da Assembleia Municipal, a proposta relativa à 1.ª alteração ao Plano de Pormenor do Parque Empresarial de Paçô.
+Mais torna público que a Assembleia Municipal de Arcos de Valdevez, na sua sessão ordinária realizada no dia 27 de junho de 2014, deliberou aprovar a 1.ª alteração ao Plano de Pormenor do Parque Empresarial de Paçô, em conformidade com o disposto no n.º 1 do artigo 79.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 380/99, de 22 de setembro na sua atual redação.
+A alteração consiste no alargamento da área de intervenção do Plano, na reconfiguração do desenho urbano, quer quanto à área dos lotes, quer quanto aos polígonos de implantação e na alteração às disposições regulamentares do Plano.
+Assim, e nos termos do disposto na alínea d) do n.º 4 do artigo 148.º do RJIGT, publica-se em anexo a deliberação da Assembleia Municipal de Arcos de Valdevez, bem como Regulamento do Plano e Planta de Implantação.
+28 de abril de 2015. - O Presidente da Câmara Municipal, Dr. João Manuel Amaral Esteves.
+Deliberação
+Dr. Francisco Rodrigues de Araújo, Presidente da Assembleia Municipal de Arcos de Valdevez, declara que esta Assembleia Municipal, na sua sessão ordinária realizada no dia vinte e sete de junho de dois mil e catorze, deliberou, por maioria com uma abstenção, aprovar a proposta da «1.ª alteração ao Plano de Pormenor do Parque Empresarial de Paçô - 3.ª Revisão», em conformidade com o disposto na alínea h) do n.º 1 do anexo I à Lei n.º 75/2013, de 12 de setembro, e do n.º 1 do artigo 79.º do Decreto-Lei n.º 380/99, de 22 de setembro, consideradas as alterações posteriores.
+A presente deliberação foi aprovada em minuta, por unanimidade, no final da referida reunião.
+Assembleia Municipal de Arcos de Valdevez, dois de julho de dois mil e catorze - O Presidente da Assembleia Municipal, Francisco Rodrigues de Araújo.
+Alteração ao Regulamento do Plano de Pormenor de Paçô
+«Artigo 1.º
+[...]
+1 - A área de intervenção do Plano de Pormenor do Parque Empresarial de Paçô, adiante designado por plano, é definida pelo limite representado na Planta de Implantação.
+2 - O plano é elaborado nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Artigo 2.º
+[...]
+1 - O plano tem por objetivo estabelecer a disciplina de ocupação, uso e transformação do solo, na área de intervenção do plano e destinado à instalação de unidades industriais, de armazenagem, de serviços e de atividades complementares.
+2 - ...
+Artigo 3.º
+Relação com outros Instrumentos de Gestão Territorial
+1 - A área de intervenção do plano, considerando a entrada em vigor do Plano Diretor Municipal de 2.ª Geração está classificada de duas maneiras distintas.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+Artigo 5.º
+[...]
+As definições e os conceitos urbanísticos a considerar na interpretação deste plano são os estabelecidos na legislação em vigor e em regulamentos municipais.
+Artigo 6.º
+[...]
+1 - ... ...
+2 - Na área de intervenção do plano serão observadas as disposições referentes a proteções, servidões administrativas e restrições de utilidade pública, representadas na Planta de Condicionantes deste plano, nomeadamente as relacionadas com:
+a) ...
+b) ...
+c) ...
+d) ...
+Artigo 8.º
+[...]
+1 - ...
+a) Espaço para atividades económicas;
+b) Espaço para equipamento de utilização coletiva;
+c) Espaço para infraestruturas;
+d) Estrutura ecológica urbana.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+Artigo 9.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - Na utilização a dar ao solo, aos imóveis, ao espaço público e ao equipamento não são permitidos usos que coloquem em causa as condições de higiene e salubridade locais, devendo-se sempre salvaguardar a vivência harmoniosa dos diferentes espaços coletivos, assim como as boas relações com a vizinhança.
+Artigo 12.º
+Edificação e implantação
+1 - ...
+2 - A construção e a ampliação de edifícios deverá cingir-se ao polígono de implantação definido na planta de implantação.
+3 - Excetuam-se do disposto no número anterior as situações de construção de estruturas de apoio ou anexas, as instalações especiais e outros equipamentos similares, imprescindíveis ao funcionamento do estabelecimento, desde que respeitem o definido nos artigos 13.º e 14.º
+4 - Para aplicação do número anterior entende-se por estruturas de apoio ou anexas, instalações especiais e equipamentos similares, as estruturas como silos, elevadores, portarias e ou depósitos.
+Artigo 13.º
+[...]
+1 - ...
+2 - O índice de impermeabilização do solo não deve exceder 85 % da superfície do lote.
+3 - ...
+a) A área de implantação não seja superior a 15 % do logradouro;
+b) O índice de ocupação do solo não seja superior a 80 % da superfície do lote.
+Artigo 14.º
+Altura da edificação e número de pisos
+1 - Nos lotes destinados a indústria, armazenagem e ou serviços com área até 2000.00 m2 a altura da edificação, incluindo platibanda, não pode exceder 9.00 m.
+2 - Nos lotes destinados a indústria, armazenagem e ou serviços com área superior a 2000.00 m2 a altura da edificação, incluindo platibanda, não pode exceder 12.50 m.
+3 - ...
+4 - A altura máxima da edificação para o lote de equipamento de utilização coletiva decorre de necessidades funcionais da atividade e/ou serviço a estabelecer.
+5 - Admitem-se exceções, devidamente justificadas, decorrentes de necessidades funcionais da atividade económica e sempre que a topografia do terreno assim o permita, para a introdução de caves destinadas a estacionamento, armazenagem, instalação de maquinarias ou outro tipo de equipamentos, desde que respeite a legislação aplicável.
+6 - ...
+Artigo 16.º
+[...]
+1 - ...
+2 - ...
+3 - Nos logradouros devem ser previstos, lugares de estacionamento em espaço privado de acordo com o disposto no artigo 22.º
+Artigo 17.º
+[...]
+1 - A vedação dos lotes confinantes com o espaço público será realizada pelo promotor da construção através da adoção de uma das seguintes alternativas:
+a) ...
+b) ...
+c) ...
+Artigo 20.º
+[...]
+Todos os meios, suportes de afixação, inscrição ou difusão de mensagens publicitárias na área de intervenção do plano, deverão obedecer ao estipulado no Regulamento Municipal de Publicidade e Ocupação do Espaço Público do Município de Arcos de Valdevez.
+Artigo 20.º-A
+Agregação de parcelas/lotes
+Admite-se a agregação de duas ou mais parcelas/lotes contíguas, desde que se apliquem os parâmetros urbanísticos resultantes da sua junção e se cumpra as demais disposições do presente Plano.
+Artigo 22.º
+[...]
+1 - Nas operações urbanísticas que executem as propostas do plano sobre o espaço público devem ser garantidas as faixas de circulação e os lugares de estacionamento, incluindo os destinados a pessoas de mobilidade condicionada, de acordo com a planta de implantação.
+2 - ...
+a) ...
+b) ...
+3 - ...
+a) ...
+b) ...
+c) ...
+4 - ...
+5 - ...
+6 - ...
+7 - ...
+a) ...
+b) ...
+c) ...
+Artigo 23.º
+Mobiliário, equipamento urbano, quiosques e vegetação
+1 - No espaço público é admitida a instalação de mobiliário, equipamento urbano e de quiosques nos termos do mencionado no Regulamento Municipal de Publicidade e ocupação do Espaço público do Município de Arcos de Valdevez.
+2 - ...
+3 - ...
+4 - A localização de estruturas de eletricidade e iluminação será de acordo com as operações urbanísticas que executem o espaço público.
+Artigo 27.º
+[...]
+A modificação das disposições do plano só poderá efetuar-se mediante os procedimentos previstos no Regime Jurídico dos Instrumentos de Gestão Territorial.
+Artigo 29.º
+[...]
+Quaisquer operações urbanísticas de iniciativa pública ou privada a realizar na área de intervenção respeitarão obrigatoriamente as disposições do presente plano, sem prejuízo do disposto no artigo 60.º do Regime Jurídico da Urbanização e da Edificação.
+Artigo 30.º
+[...]
+1 - O plano entra em vigor no dia seguinte à data da sua publicação no Diário da República e aplicar-se-á imediatamente a todos os procedimentos em curso relativos a obras ou ações que se confinem à área de intervenção do plano.
+2 - ...
+Republicação do Regulamento do Plano de Pormenor do Parque Empresarial de Paçô
+CAPÍTULO I
+Disposições Gerais
+Artigo 1.º
+Âmbito Territorial e Regime
+1 - A área de intervenção do Plano de Pormenor do Parque Empresarial de Paçô, adiante designado por plano, é definida pelo limite representado na Planta de Implantação.
+2 - O plano é elaborado nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Artigo 2.º
+Objetivos e Estratégias
+1 - O plano tem por objetivo estabelecer a disciplina de ocupação, uso e transformação do solo, na área de intervenção do plano e destinado à instalação de unidades industriais, de armazenagem, de serviços e de atividades complementares.
+2 - A necessidade de elaboração deste plano decorre da flexibilidade que o tecido produtivo requer para se tornar mais competitivo e ajustado aos imperativos que se colocam às suas atividades e exploração.
+Artigo 3.º
+Relação com outros Instrumentos de Gestão Territorial
+1 - A área de intervenção do plano, considerando a entrada em vigor do Plano Diretor Municipal de 2.ª Geração está classificada de duas maneiras distintas:
+2 - Parte dos terrenos são classificados como: Solo Urbano - Espaço cuja urbanização seja possível programar - Parque Empresarial de Paçô;
+3 - Os restantes são classificados como Solo Urbano - Espaço urbanizado - Área Industrial de Paçô.
+4 - A disciplina em qualquer um dos casos viabiliza o programa estabelecido, quer em termos de uso, quer em termos de capacidade de carga.
+5 - Na área de intervenção definida na planta de implantação prevalecem as regras estabelecidas no presente plano, substituindo-se ao disposto no Plano Diretor Municipal em vigor.
+Artigo 4.º
+Conteúdo Documental
+1 - O plano é constituído pelos seguintes elementos fundamentais:
+a) Regulamento;
+b) Planta de Implantação (inclui quadro sinóptico);
+c) Planta de Condicionantes.
+2 - O plano é acompanhado pelos seguintes elementos:
+a) Relatório que descreve e caracteriza a área de intervenção e sustenta as soluções adotadas, nomeadamente incluindo:
+Estratégia e objetivos inerentes à elaboração/alteração do plano;
+Diagnóstico de situação atual da superfície de intervenção e da sua envolvente;
+Relação com instrumentos de gestão territorial, incluindo o extrato do regulamento do PDM;
+Relações e perspetivas económicas de âmbito local e regional;
+Identificação de compromissos urbanísticos (licenças, autorizações administrativas e informações prévias em vigor dentro da superfície de intervenção);
+Classificação da superfície de intervenção face à sensibilidade ao ambiente sonoro;
+Identificação das condicionantes à ocupação do solo;
+Soluções de estrutura urbana subjacentes à proposta de intervenção;
+Memória que suporta as operações de reestruturação fundiária;
+Resultados técnicos urbanísticos da proposta;
+Programa de Execução das ações previstas e respetivo Plano de Financiamento;
+Qualificação do plano - relatório ambiental.
+b) Deliberação da Câmara Municipal, dispensando fundamentadamente a Avaliação Ambiental;
+c) Participações da discussão pública e respetivo Relatório de Ponderação e Resultados;
+d) Ficha de Dados Estatísticos;
+e) Planta de Enquadramento e Localização;
+f) Plano Diretor Municipal - Extrato da Planta de Condicionantes;
+g) Plano Diretor Municipal - Extrato da Planta de Ordenamento;
+h) Extrato do Mapa de Perigosidade de Incêndio Florestal;
+i) Extratos do Mapa de Ruído do P.D.M;
+j) Planta de Situação Existente - Estrutura Urbana e Topografia;
+k) Planta de Zonamento - Estrutura Urbana e Topografia;
+l) Planta do Cadastro Original (inclui quadro cadastral);
+m) Planta de Compromissos Urbanísticos;
+n) Planta da Operação de Transformação Fundiária;
+o) Planta do Domínio Público Municipal (Inclui quadro de transformação fundiária);
+p) Modelação do Terreno - Implantação de Estruturas;
+q) Planta do Traçado de Infraestruturas.
+3 - Estes elementos são indissociáveis e complementares, pelo que não se considera qualquer interpretação que não se baseie no seu conjunto.
+Artigo 5.º
+Definições
+As definições e os conceitos urbanísticos a considerar na interpretação deste plano são os estabelecidos na legislação em vigor e em regulamentos municipais.
+Artigo 6.º
+Servidões e Restrições de Utilidade Pública
+1 - As condicionantes garantem a proteção de infraestruturas e de equipamentos de interesse coletivo, e facilitar a ação das entidades com tutela na realização de trabalhos de qualquer natureza sobre as mesmas.
+2 - Na área de intervenção do plano serão observadas as disposições referentes a proteções, servidões administrativas e restrições de utilidade pública, representadas na Planta de Condicionantes deste plano, nomeadamente as relacionadas com:
+a) Domínio Hídrico (Linha de água não navegável nem flutuável);
+b) Infraestruturas [Linha elétrica de média tensão e Itinerário Complementar 28 (IC28)];
+c) Ambiente Sonoro (Zona mista para efeito de aplicação do regulamento geral de ruído);
+d) Prevenção e proteção da floresta contra incêndios (Faixa exterior de proteção - gestão e limpeza de combustível).
+Artigo 7.º
+Operações urbanísticas e edificação
+1 - As operações urbanísticas seguirão os trâmites legais em vigor, nomeadamente, no Regime Jurídico da Urbanização e da Edificação e no Regulamento Municipal de Urbanização e da Edificação.
+2 - Na apreciação do projeto atender-se-á à conceção arquitetónica e ao cumprimento das condições estabelecidas no presente plano e na legislação aplicável ao estabelecimento e à atividade a desenvolver.
+CAPÍTULO II
+Condições de Uso do Solo e Ambiente
+Artigo 8.º
+Qualificação do solo
+1 - A área de intervenção do plano engloba as seguintes categorias de espaço, identificadas na planta de implantação, em função das aptidões e vocações para o seu uso e transformação:
+a) Espaço para atividades económicas;
+b) Espaço para equipamento de utilização coletiva;
+c) Espaço para instalação de infraestruturas;
+d) Estrutura ecológica urbana.
+2 - O espaço para atividades económicas integra o conjunto dos lotes definidos na planta de implantação e destina-se ao estabelecimento de edificações para indústria, armazenagem, serviços e comércio.
+3 - O espaço para infraestruturas integra a faixa de rodagem, o estacionamento e os passeios, sendo no respetivo subsolo instaladas as redes de infraestruturas básicas.
+4 - O espaço para equipamento de utilização coletiva destina-se a localizar em lote específico, indicado na planta de implantação, edificação de apoio aos utentes e visitantes do parque na satisfação de necessidades básicas.
+5 - A estrutura ecológica urbana destina-se a assegurar as condições de proteção biofísica e ambiental e de integração paisagística, como elemento de contenção e enquadramento das estruturas urbanas existentes e propostas, distinguindo-se em:
+6 - Espaço Verde de Proteção e Enquadramento - compondo espaços confinantes ao parque que funcionam como extensão e consolidação do uso do solo ordenado similarmente no Plano Diretor Municipal, constituindo uma área non aedificandi;
+7 - Cortinas Verdes - elementos arbóreos e vegetação localizados na estrutura urbana, de forma a constituírem alinhamentos que promovam uma melhor organização urbana assim como uma melhoria do conforto ambiental e visual do parque.
+Artigo 9.º
+Uso do solo e funções
+1 - Para efeitos de aplicação deste plano os seus elementos constituintes definem com rigor a estrutura urbana existente e proposta para o parque empresarial, a qual é afetada a domínio público ou a privado e à qual são atribuídas diferentes funções e usos.
+2 - A planta de implantação e o disposto no artigo anterior definem e dimensionam a organização do espaço público diversificando-o por funções urbanas.
+3 - A planta de implantação identifica lotes nos quais será possível edificar nos polígonos de implantação, de acordo com o constante no quadro sinóptico anexado.
+4 - Na utilização a dar ao solo, aos imóveis, ao espaço público e ao equipamento não são permitidos usos que coloquem em causa as condições de higiene e salubridade locais, devendo-se sempre salvaguardar a vivência harmoniosa dos diferentes espaços coletivos, assim como as boas relações com a vizinhança.
+Artigo 10.º
+Controlo de efluentes, prevenção e proteção ambiental
+1 - Deverá ser dado cumprimento ao estipulado na legislação específica em matéria de prevenção e controlo das emissões e efluentes resultantes da atividade a desenvolver.
+2 - Deverá ser dado cumprimento ao disposto no Regulamento Geral do Ruído perspetivando a prevenção e controlo da poluição sonora.
+3 - As empresas promoverão a escolha dos processos mais adequados, eficientes e otimizados de produção, devendo possuir sistemas eficazes e equipamentos normalizados ao controlo, eliminação ou minimização de qualquer tipo de poluição gerada por efluentes resultantes da atividade produtiva, assim como a adoção de processos e técnicas que privilegiem a reciclagem, e/ou a recuperação e/ou a reutilização dos efluentes produzidos.
+4 - O promotor da unidade industrial é o responsável por possíveis danos causados ao meio ambiente e a terceiros, fruto do funcionamento ineficaz dos sistemas antipoluição.
+CAPÍTULO III
+Lotes e Edificação
+Artigo 11.º
+Estrutura fundiária
+1 - A estrutura fundiária definida neste plano decorre por um lado do resultado das operações urbanísticas vigentes e por outro lado da proposta de reestruturação preconizada.
+2 - A operação de transformação fundiária proposta vincula a configuração e geometria dos lotes destinados a estabelecimentos empresariais e a edifícios de equipamento.
+3 - A operação de transformação fundiária proposta vincula a cedência de parcelas de terrenos para o domínio público municipal.
+Artigo 12.º
+Edificação e implantação
+1 - Este plano preconiza a construção, reconstrução, ampliação, remodelação e demolição de edifícios e estruturas de apoio, de acordo com a planta de implantação.
+2 - A construção e a ampliação de edifícios deve cingir-se ao polígono de implantação definido na planta de implantação.
+3 - Excetuam-se do disposto no número anterior as situações de construção de estruturas de apoio ou anexas, as instalações especiais e outros equipamentos similares, imprescindíveis ao funcionamento do estabelecimento, desde que respeitem o definido nos artigos 13.º e 14.º
+4 - Para aplicação do número anterior entende-se por estruturas de apoio ou anexas, instalações especiais e equipamentos similares, as estruturas como silos, elevadores, portarias e ou depósitos.
+Artigo 13.º
+Incidência urbanística nos lotes
+1 - A incidência urbanística correspondente a cada parcela, decorre do polígono definido e dos valores apresentados no quadro sinóptico anexado à planta de implantação.
+2 - O índice de impermeabilização do solo não deve exceder 85 % da superfície do lote.
+3 - Para o caso de haver necessidade de outras estruturas anexas, de acordo com o estipulado no artigo 12.º, podem ser admitidas as suas construções desde que:
+a) A área de implantação não seja superior a 15 % do logradouro;
+b) O índice de ocupação do solo não seja superior a 80 % da superfície do lote.
+Artigo 14.º
+Altura da edificação e número de pisos
+1 - Nos lotes destinados a indústria, armazenagem e ou serviços com área até 2000.00 m2 a altura da edificação, incluindo platibanda, não pode exceder 9.00 m.
+2 - Nos lotes destinados a indústria, armazenagem e ou serviços com área superior a 2000.00 m2 a altura da edificação, incluindo platibanda, não pode exceder 12.50 m.
+3 - O número máximo de pisos permitido decorre dos valores apresentados no quadro sinóptico anexado à planta de implantação.
+4 - A altura máxima da edificação para o lote de equipamento de utilização coletiva decorre de necessidades funcionais da atividade e/ou serviço a estabelecer.
+5 - Admitem-se exceções, devidamente justificadas, decorrentes de necessidades funcionais da atividade económica e sempre que a topografia do terreno assim o permita, para a introdução de caves destinadas a estacionamento, armazenagem, instalação de maquinarias ou outro tipo de equipamentos, desde que respeite a legislação aplicável.
+6 - Na aplicação da exceção prevista no número anterior a configuração do polígono de implantação das caves não deve exceder o desenho definido na planta de implantação.
+Artigo 15.º
+Espaços de equipamento coletivo
+1 - A construção de equipamento de utilização coletiva deverá localizar-se no lote destinado ao efeito e assinalado na planta de Implantação.
+2 - Face ao programa delineado, a definir pelo município, resultará o desenho de implantação, a arquitetura do edifício e a organização dos espaços exteriores, os quais devem responder a requisitos técnicos e funcionais, no âmbito do projeto de execução.
+3 - Edifícios complementares de apoio e os que estejam contidas em regulamento específico e eficaz do respetivo equipamento, deverão constar do projeto de execução, não se constituindo por isso como estruturas autónomas.
+4 - Na aplicação do disposto nos números anteriores, deve ser sempre respeitada a incidência urbanística máxima permitida pelos parâmetros e índices determinados neste plano.
+5 - A conceção e construção do equipamento previsto neste plano é da responsabilidade do município, podendo recorrer a soluções alternativas de iniciativa e investimento, desde que tal se mostre mais viável e exequível, para o correto funcionamento do parque.
+Artigo 16.º
+Estrutura, ocupação e utilização de logradouros
+1 - Nas áreas de logradouro correspondentes a cada lote é proibido o depósito de lixo ou entulhos, devendo a eventual arrumação de materiais e equipamento ser coadunante com uma imagem urbana que se pretende de boa qualidade.
+2 - Nos logradouros devem ser criados espaços relvados com a plantação de árvores ou arbustos, de forma a manter essas áreas com bom aspeto e imagem valorizada.
+3 - Nos logradouros devem ser previstos, lugares de estacionamento em espaço privado de acordo com o disposto no artigo 22.º
+Artigo 17.º
+Muros e vedação das parcelas
+1 - A vedação dos lotes confinantes com o espaço público será realizado pelo promotor da construção através da adoção de uma das seguintes alternativas:
+a) Muro de betão aparente ou rebocado, com altura fixa de 1.20 metros face à cota do passeio;
+b) Muro de betão aparente ou rebocado encimado com grelhagem metálica, com altura fixa de 1.20 m face à cota do passeio;
+c) As cores a utilizar para pintura de muros rebocados e das grelhagens devem ser o branco ou cinzento (preferencialmente escuro).
+Artigo 18.º
+Armazenagem de materiais e arrumação de equipamentos
+1 - A armazenagem e arrumação de materiais e equipamentos está condicionada à sua localização dentro dos polígonos determinados ao respetivo lote e à demarcação em projeto das áreas destinadas a esse fim, assim como às condições estruturais em que essa função se irá suportar, sem prejuízo do disposto no artigo 13.º
+2 - Os materiais armazenados deverão respeitar as condições de segurança, estar acondicionados e devidamente organizados, por forma a não provocarem riscos de acidente, nem contribuírem para impactes ambientais nem visuais negativos.
+Artigo 19.º
+Fachadas e cobertura
+1 - As fachadas deverão receber acabamentos de betão aparente, de alvenaria rebocada e pintada, ou serem revestidas a chapas metálicas lacadas.
+2 - A paleta de cores de base a utilizar inclui tonalidades de branco, ocre, creme e cinza, sendo possível conjugar estas cores com outras que se adequem à arquitetura proposta.
+3 - As caixilharias, para além da utilização do alumínio anodizado ou do ferro à cor natural, deverão ser pintadas com cores que se adequem à arquitetura preconizada.
+4 - O tipo e material das coberturas serão de acordo com a arquitetura preconizada. As colorações a utilizar, para além da inerente ao uso do godo ou de gravilha, deverão ser em cor de tonalidade cinza.
+Artigo 20.º
+Suportes publicitários
+Todos os meios, suportes de afixação, inscrição ou difusão de mensagens publicitárias na área de intervenção do plano, deverão obedecer ao estipulado no Regulamento Municipal de Publicidade e Ocupação do Espaço Público do Município de Arcos de Valdevez.
+Artigo 20.º-A
+Agregação de parcelas/lotes
+Admite-se a agregação de duas ou mais parcelas/lotes contíguas, desde que se apliquem os parâmetros urbanísticos resultantes da sua junção e se cumpra as demais disposições do presente Plano.
+CAPÍTULO IV
+Espaço Público e Infraestruturas
+Artigo 21.º
+Estrutura urbana e infraestruturas
+1 - Este plano desenha e vincula uma estrutura urbana, que serve de base para projetos de urbanização nas zonas de alargamento ou de reconversão do parque empresarial ao nível:
+a) Da infraestrutura viária incluindo faixas de rodagem, estacionamento e passeios;
+b) Da modelação do terreno, da estrutura de plataformas, construção de taludes e assentamento de estruturas a edificar;
+c) Da localização de espaços verdes e de utilização coletiva, incluindo a localização de árvores e vegetação;
+d) Da localização de equipamento e mobiliário urbano.
+2 - No âmbito das operações urbanísticas que operacionalizem as propostas do plano de pormenor, serão elaborados os projetos de infraestruturação urbana respetivos a cada especialidade.
+3 - Deverá ser reestruturada e requalificada a infraestrutura pública existente, de maneira a melhorar as condições de funcionalidade, acessibilidade e mobilidade, assim como de integração e valorização paisagística, de acordo com a proposta de reconversão apresentada na planta de implantação.
+Artigo 22.º
+Acessibilidade, mobilidade e estacionamento
+1 - Nas operações urbanísticas que executem as propostas do plano sobre o espaço público devem ser garantidas as faixas de circulação e os lugares de estacionamento, incluindo os destinados a pessoas de mobilidade condicionada, de acordo com a planta de implantação.
+2 - No caso de projetos de reconversão urbanística, sejam os que incidem sobre infraestruturas existentes, para o dimensionamento e desenho urbano adotado, de acordo com as exceções previstas na legislação vigente, atendeu-se ao seguinte:
+a) Os arruamentos existentes apresentam elevado nível de consolidação e construção contígua, os quais criam limitações consideráveis na disponibilidade de espaço físico, não podendo por isso serem garantidas na totalidade as disposições legais vigentes;
+b) A proposta garanta contudo um bom funcionamento urbano, nomeadamente ao nível da acessibilidade, mobilidade, comodidade e segurança, muito superior à situação existente e bastante aproximado ao que a legislação exige.
+3 - O estacionamento público terá as seguintes dimensões:
+a) Perpendicular ao eixo da via: 2.50 m * 4.50 m;
+b) Paralelo ao eixo da via: 5.50 m * 2.50 m;
+c) Destinado a pessoas de mobilidade condicionada de acordo com a legislação.
+4 - Sempre que possível e não comprometendo o bom funcionamento do lote, devem também ser previstos lugares de estacionamento para veículos ligeiros e para veículos pesados em espaço privado, respetivamente numa proporção de um lugar por cada 150 m2 e por cada 500 m2 de área de construção.
+5 - O não cumprimento do parâmetro urbanístico para o estacionamento em espaço privado pode decorrer de condicionalismos gerados pelo desenho urbano adotado para o parque, nomeadamente pela indisponibilidade de áreas de logradouro com as dimensões mínimas que garantam o normal dimensionamento dessa função.
+6 - Para garantir o acesso e a mobilidade a pessoas em situação condicionada deve garantir-se que no novo equipamento sejam respeitadas as disposições legais vigentes.
+7 - No caso de comprovada necessidade, pode ser redesenhado o acesso a determinado lote, desde que devidamente justificado e seja apresentada solução alternativa garantindo o seguinte:
+a) O acesso ao lote deve ter a mesma solução técnica e as dimensões previstas na planta de implantação;
+b) O número de lugares para estacionamento público seja mantido, assim como as suas dimensões e geometria;
+c) O acesso ao lote se articule com os passeios adotando solução similar à proposta na planta de implantação.
+Artigo 23.º
+Mobiliário, equipamento urbano, quiosques e vegetação
+1 - No espaço público é admitida a instalação de mobiliário, equipamento urbano e de quiosques nos termos do mencionado no Regulamento Municipal de Publicidade e ocupação do Espaço público do Município de Arcos de Valdevez.
+2 - A localização de recipientes de recolha de resíduos sólidos urbanos será de acordo com a proposta da planta de implantação deste plano.
+3 - A localização de árvores e espaços relvados será de acordo com a proposta da planta de implantação deste plano.
+4 - A localização de estruturas de eletricidade e iluminação será de acordo com as operações urbanísticas que executem o espaço público.
+Artigo 24.º
+Prevenção e segurança contra incêndios
+1 - Nas intervenções, deverão ser salvaguardadas e respeitadas as normas de segurança contra incêndios em edifícios.
+2 - É obrigatória a colocação de marcos de água, de acordo com as normas e legislação específica, a projetar nas operações urbanísticas que executem as propostas do plano sobre o espaço público.
+3 - A colocação de hidrantes deve assegurar igualmente na infraestruturação da área urbanizada e na elaboração dos projetos de equipamentos a colocação de pontos de água utilizáveis na defesa contra incêndios florestais dos terrenos edificados e dos povoamentos florestais confinantes.
+4 - O acesso às áreas florestais envolventes a partir das vias públicas deverá ser restringido sempre que possível por muretes ou sebes devidamente enquadradas, como forma de diminuição do risco de ocorrência de incêndios florestais.
+5 - Deverá ser efetuada limpeza permanente da vegetação, num raio de nunca inferior a 100 metros à volta das instalações industriais, nas zonas que confinem com espaços ocupados pela floresta.
+6 - Deverão as mesmas instalações industriais ser dotadas de equipamentos adequados à retenção de faúlhas.
+Artigo 25.º
+Outras disposições técnicas sobre infraestruturas públicas
+1 - As tampas das infraestruturas básicas deverão ser rebaixadas, de maneira a serem revestidas com o mesmo material dos pavimentos confinantes.
+2 - Na impossibilidade de não poderem ser rebaixadas para colocação de revestimento, então deverão ser colocadas à cota do pavimento confinante.
+3 - Os cabos necessários à condução de energia, de telecomunicações, ou outros similares, deverão ser colocados no subsolo e os postes necessários ao suporte de candeeiros ou outros, serão de acordo com o determinado pela câmara municipal.
+Artigo 26.º
+Sistema e instrumentos de execução
+1 - O plano destinando-se a disciplinar o uso e a transformação de uma área já consolidada e outra de alargamento do parque empresarial, e considerando os objetivos e finalidades estabelecidos, a sua execução segue um sistema simplificado, baseado na prática corrente no município, com a aquisição dos prédios necessários à concretização do programa por recurso a meios próprios.
+2 - Não se preconiza o estabelecimento de um sistema de execução perequativo, considerando a não existência de benefícios e encargos nem a sua respetiva redistribuição entre os particulares (entre os proprietários privados atuais dos prédios a adquirir e adquiridos), devendo o município recorrer deste plano e outros instrumentos legais de posse e transformação de propriedade.
+3 - O plano incide sobre uma grande área de parque empresarial existente e sobre uma pequena área de alargamento, pelo que os sectores públicos e privado seguirão o perfil de intervenção adotado anteriormente, nomeadamente no que concerne à aquisição de propriedade (para o alargamento) e à execução dos projetos de intervenção urbanística e arquitetónica (para o alargamento e para a reconversão e requalificação urbana).
+4 - A execução das propostas de intervenção do plano assume, portanto, os seguintes perfis:
+a) Intervenção pública - município:
+i) Aquisição de propriedades necessárias ao alargamento do parque empresarial;
+ii) Sobre o espaço público existente, em projetos de reconversão urbanística;
+iii) Sobre parte da área resultante dos terrenos adquiridos ou a adquirir a privados de forma a viabilizar as propostas de alargamento do parque empresarial;
+b) Intervenção privada - investidores:
+i) Sobre lotes e edificações existentes, na concretização das propostas arquitetónicas de construção, ampliação ou remodelação, e/ou trabalhos nos logradouros;
+ii) Sobre lotes gerados pelas operações urbanísticas de iniciativa municipal que concretizem a proposta de alargamento do parque empresarial.
+CAPÍTULO V
+Disposições Finais
+Artigo 27.º
+Dinâmica
+A modificação das disposições do plano só poderá efetuar-se mediante os procedimentos previstos no Regime Jurídico dos Instrumentos de Gestão Territorial.
+Artigo 28.º
+Omissões
+Para tudo o que for omisso no presente plano ter-se-á em atenção na apreciação, a legislação específica em vigor e o plano diretor municipal.
+Artigo 29.º
+Vinculação Jurídica
+Quaisquer operações urbanísticas de iniciativa pública ou privada a realizar na área de intervenção respeitarão obrigatoriamente as disposições do presente plano, sem prejuízo do disposto no artigo 60.º do Regime Jurídico da Urbanização e da Edificação.
+Artigo 30.º
+Entrada em vigor e Norma Revogatória
+1 - O plano entra em vigor no dia seguinte à data da sua publicação no Diário da República e aplicar-se-á imediatamente a todos os procedimentos em curso relativos a obras ou ações que se confinem à área de intervenção do plano.
+2 - Com a entrada em vigor do Plano de Pormenor do Parque Empresarial de Paçô é revogada a 2.ª Revisão do Plano de Pormenor da Zona Industrial de Paçô - Declaração n.º 292/99 (2.ª série), Diário da República, 2.ª série, n.º 215 de 14 de setembro de 1999.
+Artigo 31.º
+Prazo de vigência
+As disposições regulamentares do Plano de Pormenor do Parque Empresarial de Paçô permanecerão em vigor até à data em que se justifique a necessidade de alteração, de retificação, revisão ou de suspensão, conforme dinâmica prevista na legislação vigente.
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+29270 - http://ssaigt.dgterritorio.pt/i/Planta_de_implantação_29270_1.jpg
+608653063
