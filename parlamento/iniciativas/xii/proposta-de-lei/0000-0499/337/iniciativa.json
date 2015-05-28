@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "tipo": "Proposta de Lei",
+  "numero": "337",
+  "id": "39543",
+  "fases": 20,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2015-05-28",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2015-10-22",
+    "DataInicioleg": "2014-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a4751314f475a6b5a5455745a5441334e6930304d4449784c57466c4f4459744d445a6a4d44686c5a6a5a694f44426a4c6e426b5a673d3d&fich=dd58fde5-e076-4021-ae86-06c08ef6b80c.pdf&Inline=true",
+        "anexoNome": "Parecer ASJP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e324e6d4e6d4e694d7a6374597a45795a433030596d457a4c574a6c4d6a55744e44646b4e446c6c5a474d334d444e6d4c6e426b5a673d3d&fich=7cf6cb37-c12d-4ba3-be25-47d49edc703f.pdf&Inline=true",
+        "anexoNome": "Parecer CSTAF"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764f4449774e32557a4d4749744d544d794d5330304d4749794c5749354d6a4d744f5449334e3249794f5749305a4459344c6e426b5a673d3d&fich=8207e30b-1321-40b2-b923-9277b29b4d68.pdf&Inline=true",
+        "anexoNome": "Parecer CS"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576596d49784d4467784f474d744e5749775a433030595755324c57466c597a67744d324a6a4d6a4a694d6d51324d4459324c6e426b5a673d3d&fich=bb10818c-5b0d-4ae6-aec8-3bc22b2d6066.pdf&Inline=true",
+        "anexoNome": "Parecer OA"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a54686d596d453459544d744f4451355a433030596a6b334c546c6d4f5463745a6a49784d6a55304d546378596a51794c6e426b5a673d3d&fich=e8fba8a3-849d-4b97-9f97-f21254171b42.pdf&Inline=true",
+        "anexoNome": "Parecer CSM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d4576597a45324d446b314f444d744e3259334f5330304f57566b4c546c6a595455744e7a45775a6d51334d6d56694e6a56694c6e426b5a673d3d&fich=c1609583-7f79-49ed-9ca5-710fd72eb65b.pdf&Inline=true",
+        "anexoNome": "Parecer PGR"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e6d59344f4746684e5751744e444134595330304e474d774c546b774e7a59745a546c6b596a5135596d4e6c4e6a41314c6e426b5a673d3d&fich=6f88aa5d-408a-44c0-9076-e9db49bce605.pdf&Inline=true",
+        "anexoNome": "Parecer CSMP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45765a5759774e32566c4d7a4d744d7a6c6c596930304d7a67324c546c6c596d59744d6d59344f5749304d544d345a6d4d794c6e426b5a673d3d&fich=ef07ee33-39eb-4386-9ebf-2f89b4138fc2.pdf&Inline=true",
+        "anexoNome": "Parecer SMMP"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "39543",
+    "IniLeg": "XII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765247396a6457316c626e527663306c7561574e7059585270646d45764e7a4d794d7a5a6b596a6774597a6b314f5330304f544d784c574a695a6d597459546779595752694d324d315a6a597a4c6d527659773d3d&fich=73236db8-c959-4931-bbff-a82adb3c5f63.doc&Inline=true",
+    "IniNr": "337",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Aprova o regime jurídico da transmissão e execução de sentenças em matéria penal que imponham penas de prisão ou outras medidas privativas da liberdade, para efeitos da execução dessas sentenças na União Europeia, bem como o regime jurídico da transmissão e execução de sentenças e de decisões relativas à liberdade condicional para efeitos da fiscalização das medidas de vigilância e das sanções alternativas, transpondo as Decisões-Quadro n.ºs 2008/909/JAI, do Conselho, e 2008/947/JAI, do Conselho, ambas de 27 de novembro de 2008.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
