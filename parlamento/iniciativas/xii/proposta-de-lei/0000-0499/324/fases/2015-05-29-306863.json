@@ -1,0 +1,187 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "324",
+    "id": "39419",
+    "titulo": "Procede à terceira alteração à Lei n.º 112/2009, de 16 de setembro, que estabelece o regime jurídico aplicável à prevenção da violência doméstica, à proteção e à assistência das suas vítimas."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-05-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "35951",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-05-29",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-05-29",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XII",
+            "nome": "Grupo de Trabalho - Implicações Legislativas da Convenção de Istambul",
+            "num": "11",
+            "orgId": "3804",
+            "publicacao": null,
+            "sigla": "GT-ILCI"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a597a42694d5445335979316b4d4446694c5451354d4755744f474d334d5330355a6a5a6c4d5441794e7a646b4d6a457555455247&fich=cc0b117c-d01b-490e-8c71-9f6e10277d21.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - PSD_CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e6a4d30596a6c695a693079595751794c54526b4e6a6374596d5a6a4d5330304d4756695a5449774d4445794e6a67756347526d&fich=b634b9bf-2ad2-4d67-bfc1-40ebe2001268.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-30",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a5759314d324d344e43307a597a67784c545178597a63744f5756694f4330344d5441794e6a4e6b595464694d47557555455247&fich=cef53c84-3c81-41c7-9eb8-810263da7b0e.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-30",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de Alteração - PSD_CDS-PP (substitui a anterior proposta de alteração apenas no que diz respeito ao artigo 29.º)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596d497a4d5467324d6930774d5452684c5451324f544574596d45304d4330305a574d774d6d51784e474d774d5749756347526d&fich=ebb31862-014a-4691-ba40-4ec02d14c01b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Mulheres Juristas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938315a5449325a54566b5969307a5a4463784c545134595455744f5749774f5330344d6d4a684d6d59785a6a497a5954557555455247&fich=5e26e5db-3d71-48a5-9b09-82ba2f1f23a5.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final e relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c596d55344f47517a5979316a595456694c54526d4e544574596a417a5953316b4d4441314e44426a4d6d5a6d4d4459756347526d&fich=ebe88d3c-ca5b-4f51-b03a-d00540c2ff06.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "11",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD, CDS-PP, BE e PC",
+            "pag": [
+              "3-85"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173S1/2015-07-20/3?pgs=3-85&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da discussão e votação na especialidade, texto final e propostas de alteração apresentadas pelo PSD, CDS-PP, BE e PC",
+            "pag": [
+              "3-85"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173S1/2015-07-20/3?pgs=3-85&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-14",
+            "numeroOficio": "846/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-07-09",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70392",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "333",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-05-29",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "306863",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
