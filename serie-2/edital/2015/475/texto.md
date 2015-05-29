@@ -1,0 +1,26 @@
+Edital n.º 475/2015
+Audiência pública
+Projeto de alteração do Regulamento Municipal de medidas de apoio social e incentivo à fixação de pessoas e famílias
+Paulo José Gomes Langrouva, Presidente da Câmara Municipal do Município de Figueira de Castelo Rodrigo, torna público em cumprimento da deliberação tomada em reunião ordinária de câmara de 16 de março de 2015, nos termos do disposto no artigo 56.º do anexo I à Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 118.º do Código do Procedimento Administrativo (C.P.A.),aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, se procede à abertura de um período de apreciação pública, pelo prazo de 30 dias a contar da presente publicação no Diário da República do projeto de alteração ao Regulamento Municipal de medidas de apoio social e incentivo à fixação de pessoas e famílias do Município de Figueira de Castelo Rodrigo.
+Nos termos do n.º 2 do artigo 118.º do C.P.A. convidam -se os interessados, a apresentar, por escrito, eventuais sugestões dentro do período atrás referido, para o Município de Figueira de Castelo Rodrigo, Largo Dr. Vilhena n.º 1 - 6440-100 Figueira de Castelo Rodrigo ou através do endereço eletrónico cm-fcr@cm-fcr.pt.
+O processo está disponível para consulta no portal desta autarquia em www.cm-fcr.pt. e no Gabinete de Apoio à Presidência nos dias úteis entre as 9:00 h e as 16:30 h.
+22 de maio de 2015. - O Presidente da Câmara, Paulo José Gomes Langrouva.
+Nota Justificativa
+Considerando que o Regulamento Municipal de "incentivo ao repovoamento agrário" publicado no Diário da República, 2.º série - N.º 72
+de 11 de abril de 2012, que regulamentava, nos seus art.s 13.º a 15.º, a medida de incentivo à maternidade e fixação de jovens casais, se encontra suspenso, nos termos do artigo 23.º, por deliberação de Câmara de 08 de novembro de 2013.
+Considerando que o Regulamento Municipal de medidas de apoio social e incentivo à fixação de pessoas e famílias, que vem dar escopo às medidas, então preconizadas pelo anterior Regulamento, foi aprovado na sessão da Assembleia Municipal de 27 de Fevereiro de 2015 e publicado no Diário da República, 2.osérie - N.º 250 de 29 de dezembro de 2014.
+Considerando que desde da data da suspensão do Regulamento Municipal de "incentivo ao repovoamento agrário" até à entrada em vigor do Regulamento Municipal de medidas de apoio social e incentivo à fixação de pessoas e famílias em 30 de dezembro de 2015, não obstante a norma constante do seu artigo 9.º já aludir à aplicação retroativa, quando reporta a sua aplicabilidade temporal ao biénio de 2014/2015, poderão subsistir duvidas que nos remetam para a possibilidade da existência de um hiato de tempo em que estas matérias não se encontrarão disciplinadas.
+Considerando que o vislumbre de tal situação redundaria numa situação de discriminação e injustiça para os particulares/Munícipes.
+Considerando que na sessão da Assembleia Municipal de 27 de fevereiro de 2015 foi apresentada uma sugestão no sentido da "Câmara Municipal apresentar alteração ao artigo que prevê a entrada em vigor do Regulamento, passando a prever efeitos retroativos a janeiro de 2014, de forma a não violar o princípio da igualdade".
+Considerando que a administração pública se rege por princípios, como a prossecução do interesse público, do respeito pelos direitos e interesses legítimos dos particulares, da justiça, da imparcialidade e da igualdade.
+Considerando que o princípio da não-retroatividade comporta exceções, como quando se trata da emergência de uma situação mais benéfica para o particular.
+Como resulta do preceituado na alínea a) n.º 2 do 128.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 442/91, de 15 de novembro, à luz da qual têm eficácia retroativa os atos da administração "quando a retroatividade seja favorável para os interessados e não lese direitos ou interesses legalmente protegidos de terceiros, desde que à data a que se pretende fazer remontar a eficácia do ato já existissem os pressupostos justificativos da retroatividade", o que se verifica no caso;
+Atento ao exposto, em abono do melhor espirito dos princípios elencados, apresenta-se infra, o projeto de alteração aos artigos 9.º e 12.º do Regulamento Municipal de medidas de apoio social e incentivo à fixação de pessoas e famílias, clarificando o seu teor no que concerne à sua aplicabilidade temporal, o que se faz nos seguintes termos:
+Artigo 9.º
+Aplicação temporal
+1 - São beneficiários do presente Regulamento todos os filhos nascidos após a data de entrada em vigor do presente Regulamento, que pertençam a agregados familiares residentes e recenseados no Concelho, nos quais pelo menos um dos progenitores do beneficiário ou o individuo que possui a sua guarda ou tutela cumpra esse requisito.
+2 - Para efeitos do número anterior são benificiários do presente Regulamento, todos os filhos nascidos a partir de 01 de janeiro de 2014, que à data do nascimento reúnam as condições gerais de atribuição dos apoios regulamentadas e que iniciem o processo de candidatura respetivo, dentro de 180 dias corridos a contar da entrada em vigor do presente.
+Artigo 12.º
+Entrada em vigor
+O presente Regulamento entra em vigor no dia imediato ao da sua publicação, tendo efeitos retroativos a 01 de janeiro de 2014.
+208671767
