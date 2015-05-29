@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=yhHFtId7bqcWhNf%2fBPsZqFSNMW48bFq9q2IK5fMNHIX92xPa%2fnJeJ9iM7i8F%2fCdBUY6Rc1M7xlU1pBXOTyDzl3vJR9ey1GkFxcXjm2m%2fQcSZEWUhRnu96OsqcB9dEOZLZUewz0gIv5giH0fhMi6BWWkY7%2bhVxFbADieFW%2b6rYsAur%2b2DYEU%2f%2bpJcWW9RYwAqMMGZ5R%2bdNyfc%2bdx8FhTYGQ6QMJrDyCc6NlZHTMCZs%2fCnNgk%2fHsPCThpEXa9PK5CN28RTlYwOZZaWK9ePOj7yTO8TD2Q0CMrxvxVdKF2OmmU%2b3N3hpMOzJCTCVckkrSyEQYW6duKUQAfkYHdETpgR7Yh3hEFTLS63EDzROIGoAdw%3d&fich=IntervencoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "464f83a2b64ad7e42b51f6c493ca77431621346993a5ac75913fcafae0f78849",
+  "legislatura": "XII",
+  "id": "199204",
+  "tipo": "Interpelação à mesa",
+  "orador": "Ana Catarina Mendonça Mendes (PS)",
+  "data_registo": "2015-05-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "306880",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "37610",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Quinta alteração à Lei n.º 37/81, de 3 de outubro (Lei da Nacionalidade) - estende a nacionalidade portuguesa originária aos netos de portugueses nascidos no estrangeiro."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Sobre os documentos solicitados pelos Grupos parlamentares do PSD e do CDS-PP.",
+        "duracao": "00:00:19:176",
+        "tipoIntervencao": "Interpelação à mesa",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20150529pln&url=l12/sl4/a2015/m05/&tI=03:02:59:823&drc=00:00:19:176"
+      }
+    ],
+    "DataReuniaoPlenaria": "2015-05-29",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "1212",
+      "nome": "Ana Catarina Mendonça Mendes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "199204",
+    "IdDebate": "10723",
+    "Iniciativas": [
+      {
+        "fase": "Requerimento avocação plenário",
+        "id": "37610",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "199204",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "38-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-05-30",
+        "pubLeg": "XII",
+        "pubNr": "93",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/093/2015-05-30/38?pgs=38&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Quinta alteração à Lei n.º 37/81, de 3 de outubro (Lei da Nacionalidade) - estende a nacionalidade portuguesa originária aos netos de portugueses nascidos no estrangeiro.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
