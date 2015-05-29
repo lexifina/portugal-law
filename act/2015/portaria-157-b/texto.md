@@ -1,0 +1,42 @@
+Portaria n.º 157-B/2015
+de 28 de maio
+O setor da energia é um importante vetor da economia portuguesa e um pilar fundamental para o crescimento e para o desenvolvimento sustentável do país. Sem prejuízo da implementação, pelo Governo, de medidas sectoriais de política energética, com vista à garantia da sustentabilidade do setor energético, a deterioração das condições socioeconómicas aliada ao aumento dos preços da energia, como fatores de perda de competitividade e de aumento da incapacidade de pagamento das despesas de energia que se reflete na dificuldade de cobrança das entidades que operam neste setor, exigiram que fosse pedida a participação das mesmas, de forma mais intensa e num quadro de solidariedade e equidade, no esforço necessário para assegurar a redução da dívida tarifária e a minimização dos encargos financeiros do Sistema Elétrico Nacional, nomeadamente os decorrentes de custos de interesse económico geral.
+Neste contexto, procedeu-se à definição e aprovação do regime que cria a contribuição extraordinária sobre o setor energético (CESE), através do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 13/2014, de 14 de março, 75-A/2014, de 30 de setembro, 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril. A CESE, aplicada em 2014 e prorrogada para o ano de 2015, tem como objetivo financiar mecanismos que contribuem para a sustentabilidade sistémica do mesmo, designadamente, através do apoio às referidas políticas do setor energético de cariz social e ambiental, de medidas relacionadas com a eficiência energética, de medidas para a minimização dos encargos financeiros para o Sistema Elétrico Nacional e redução da dívida tarifária do setor elétrico.
+Com efeito, apesar de a aposta na eficiência energética e a redução da dívida tarifária se enquadrarem nos objetivos de política energética definidos no Programa do Governo, entende-se que os operadores económicos do setor, sujeitos passivos da CESE, beneficiam desta medida de financiamento de políticas energéticas de cariz social, ambiental e económico, que garantem a mitigação dos efeitos adversos da crise assegurando, assim, a estabilidade e sustentabilidade do setor energético.
+Foi tida em conta a capacidade contributiva dos potenciais destinatários da contribuição extraordinária, no sentido de não onerar as atividades desenvolvidas por pequenos operadores ou com pouca expressão económica. Esta opção pretende, por um lado, não pôr em causa a sustentabilidade económico-financeira desses operadores e, por outro lado, não restringir a concorrência e o acesso ao mercado energético através da aplicação desta medida.
+Apesar da abrangência alargada da CESE - mediada aplicável a todos os subsetores energéticos, como a eletricidade, o gás natural e o petróleo, bem como às atividades das respetivas cadeias de valor -, verificou-se, entretanto, que os desequilíbrios sistémicos do Sistema Nacional de Gás Natural (SNGN) justificam uma redefinição da medida extraordinária.
+Neste sentido, foram alargadas as incidências subjetiva e objetiva da CESE, de forma a abranger o comercializador do SNGN, que detenha os contratos de aprovisionamento de longo prazo em regime de take-or-pay, previstos no artigo 39.º-A do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho, e 231/2012, de 26 de outubro, considerando-se, para estes efeitos, o seu valor económico equivalente.
+Por sua vez, o n.º 5 do artigo 3.º do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, determina que o valor económico equivalente dos contratos é determinado por aplicação da fórmula cujos parâmetros e valores são definidos por portaria do membro do Governo responsável pela área da energia, ouvidas a Direção-Geral de Energia e Geologia (DGEG) e a ERSE, no prazo de 60 dias após a entrada em vigor da presente lei, os quais devem ter em conta a informação disponível, designadamente a relativa à duração dos contratos, às quantidades contratadas e aos preços estimados do gás natural.
+Neste contexto, a presente portaria vem proceder à definição dos parâmetros acima referidos para apuramento da taxa de desconto a aplicar, atendendo aos pressupostos conhecidos à data, nomeadamente, a duração dos contratos, as quantidades contratadas e o preço estimado do gás natural.
+Foi ouvida a Direção-Geral de Energia e Geologia e a Entidade Reguladora dos Serviços Energéticos.
+Assim:
+Ao abrigo do disposto no n.º 5 do artigo 3.º do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria define os parâmetros e valores previstos no Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril.
+Artigo 2.º
+Parâmetros e valores previstos no Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro
+1 - Os contratos referidos no artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, são os seguintes:
+a) Contrato de fornecimento de gás natural com origem na Argélia, celebrado em 16 de abril de 1994;
+b) Contrato de fornecimento de gás natural liquefeito com origem na Nigéria, celebrado em 1998;
+c) Contrato de fornecimento de gás natural liquefeito com origem na Nigéria, celebrado em 17 de junho de 1999;
+d) Contrato de fornecimento de gás natural liquefeito com origem na Nigéria, celebrado em fevereiro de 2002.
+2 - Para efeitos do n.º 2 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, a taxa de desconto aplicável no apuramento do valor económico equivalente de cada contrato de longo prazo em regime de take-or-pay celebrado em data anterior à entrada em vigor da Diretiva 2003/55/CE, do Parlamento e do Conselho, de 26 de junho é de 7,50 %.
+3 - Para efeitos do n.º 2 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, considerou-se que o valor do parâmetro k é o seguinte:
+a) Para o contrato referido na alínea a) do n.º 1, k = 5,25;
+b) Para o contrato referido na alínea b) do n.º 1, k = 5,42;
+c) Para o contrato referido na alínea c) do n.º 1, k = 8,67;
+d) Para o contrato referido na alínea d) do n.º 1, k = 12,00.
+4 - Para efeitos do n.º 3 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, considerou-se que o valor do parâmetro (alfa)(índice t) é igual a 0,80.
+5 - Para efeitos do n.º 3 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, considerou-se que o valor de Pméd(elevado a ToP)(índice Portugal) corresponde a 24,4665 (euro)/MWh.
+6 - Para efeitos do n.º 3 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, considerou-se que o valor de Pméd(índice Internacionais) corresponde a 31,1790 /MWh.
+7 - Para efeitos do n.º 4 do Anexo I do artigo 228.º da Lei n.º 83-C/2013, de 31 de dezembro, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro e 33/2015, de 27 de abril, considerou-se que o valor do parâmetro PtToPc o seguinte:
+a) Para o contrato referido na alínea a) do n.º 1, P(índice t)(elevado a ToP(índice c)) = 27 453 479 778 kWh;
+b) Para o contrato referido na alínea b) do n.º 1, P(índice t)(elevado a ToP(índice c)) = 4 854 000 000 kWh;
+c) Para o contrato referido na alínea c) do n.º 1, P(índice t)(elevado a ToP(índice c)) = 11 608 336 854 kWh;
+d) Para o contrato referido na alínea d) do n.º 1, P(índice t)(elevado a ToP(índice c)) = 23 216 657 909 kWh.
+8 - Para efeitos do número anterior, no último ano do contrato considera-se ajustada a quantidade ao número de meses efetivo de duração do contrato, tendo por base o disposto no n.º 3.
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 27 de maio de 2015.
