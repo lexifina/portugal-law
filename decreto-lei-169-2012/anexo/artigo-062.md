@@ -10,16 +10,20 @@
 
 ### Âmbito da acreditação
 
-1 - As entidades acreditadas em ações previstas no SIR exercem a sua atividade, conforme o respetivo âmbito de acreditação, numa ou mais das seguintes áreas técnicas:
+1 - As entidades acreditadas pelo IPAC, I. P., podem, no âmbito do SIR:
 
-a) Ambiente, incluindo água, ar, resíduos, ruído, prevenção e controlo integrados da poluição, prevenção de acidentes graves e avaliação de impacte ambiental;
+a) Elaborar relatórios de avaliação da conformidade do projeto apresentado para a instalação, exploração e alteração de estabelecimento industrial ou de ZER com as normas técnicas previstas na legislação aplicável;
 
-b) Segurança e saúde no trabalho, caso seja aplicável nos termos de lei especial;
+b) Exercer funções de entidade coordenadora dos procedimentos de instalação, exploração e alteração de estabelecimentos industriais em ZER.
+
+2 - As atividades de avaliação de conformidade previstas na alínea a) do número anterior podem incidir numa ou mais das seguintes áreas técnicas:
+
+a) Ambiente, incluindo água, ar, resíduos, ruído, prevenção e controlo integrados da poluição, prevenção de acidentes graves e AIA;
+
+b) Segurança e saúde no trabalho, se aplicável nos termos de lei especial;
 
 c) Segurança alimentar.
 
-2 - O recurso à subcontratação de entidades acreditadas, nos termos a definir através de portaria dos membros do Governo responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente, compreende as competências enquanto entidade coordenadora do procedimento de instalação e de exploração de estabelecimentos industriais.
+3 - (Revogado).
 
-3 - A autorização de serviços externos para a realização de atividades de segurança ou de saúde no trabalho é efetuada nos termos previstos na legislação aplicável.
-
-4 - Para os efeitos do SIR, a autorização das atividades referidas no número anterior dispensa a realização dos procedimentos previstos no presente capítulo.
+4 - (Revogado).

@@ -4,26 +4,38 @@
 
 # Artigo 39.º
 
-### Modalidades do regime das alterações
+### Alterações sujeitas a procedimento
 
-1 - Fica sujeita a procedimento de autorização prévia de alteração de estabelecimento a alteração ao estabelecimento industrial que constitua:
+1 - Fica sujeita ao procedimento com vistoria prévia a alteração de estabelecimento industrial que constitua:
 
 a) «Alteração de um projeto», na aceção do RJAIA;
 
-b) «Alteração substancial», na aceção do RJPCIP;
+b) Alteração de exploração considerada «alteração substancial», na aceção do REI;
 
-c) «Alteração substancial» que implique um aumento do risco do estabelecimento, na aceção do RPAG.
+c) «Alteração substancial» que implique um aumento do risco do estabelecimento, na aceção do RPAG;
 
-2 - Por opção do requerente e sempre que a alteração pretendida se enquadre em licença ou autorização padronizada, é aplicável o procedimento de autorização prévia padronizada.
+d) Alteração, que careça por si mesma, de alvará para operação de gestão de resíduos perigosos;
 
-3 - Fica sujeita a procedimento de comunicação prévia com prazo, a alteração de estabelecimento de tipo 1 ou 2 sempre que:
+e) Alteração que implique a atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais, respetivamente, de acordo com a legislação aplicável.
 
-a) A alteração implique um aumento superior a 30 % da capacidade produtiva existente ou a 30 % da área edificada ou do estabelecimento industrial; ou
+2 - (Revogado).
 
-b) A entidade coordenadora considere, em decisão fundamentada, que da alteração resulta um estabelecimento com instalações substancialmente diferentes daquelas que foram inicialmente permitidas, implicando maior grau de risco ou de perigosidade para a saúde pública e a dos trabalhadores, segurança de pessoas e bens, segurança dos locais de trabalho, segurança contra incêndio em edifícios, qualidade do ambiente ou para o correto ordenamento do território.
+3 - Fica sujeita a procedimento sem vistoria prévia, a alteração de estabelecimento industrial:
 
-4 - Fica ainda sujeita a procedimento de comunicação prévia com prazo a alteração de estabelecimento de tipo 3 que implique a sua classificação como tipo 2.
+a) De tipo 1 que, não se encontrando abrangida pelo disposto no n.º 1, configure, ainda assim, uma «alteração de exploração», para efeitos do disposto no n.º 1 do artigo 19.º ou do n.º 2 do artigo 66.º do REI;
 
-5 - As alterações a estabelecimentos industriais não abrangidas pelos números anteriores ficam apenas sujeitas a mera comunicação prévia à entidade coordenadora.
+b) De tipo 1 ou 2 que careça, por si mesma, de alvará para operações de gestão de resíduos não perigosos;
 
-6 - Do procedimento de alteração de estabelecimento industrial não podem resultar encargos ou prazos superiores, ou procedimentos mais complexos, nomeadamente no que diz respeito à necessidade de consultas, do que aqueles que resultariam da aplicação das normas correspondentes ao procedimento de instalação ou exploração do estabelecimento em causa.
+c) De tipo 1 ou 2 que corresponda a uma alteração da natureza ou funcionamento da instalação industrial na aceção do CELE;
+
+d) De tipo 1 ou 2 que, não se encontrando abrangida pelo n.º 1, implique, por si mesma, ou por efeito acumulado de anteriores alterações, um aumento superior a 30 % da capacidade produtiva existente ou a 30 % da área edificada do estabelecimento industrial;
+
+e) De tipo 3 que implique a sua classificação como estabelecimento de tipo 2;
+
+f) De qualquer tipo, que implique a alteração das características de efluentes rejeitados após tratamento ou dos volumes titulados, bem como das áreas do domínio hídrico ocupadas, nos termos do disposto no regime de utilização de recursos hídricos.
+
+4 - Fica sujeita a procedimento de mera comunicação prévia a alteração a estabelecimento industrial de tipo 3 que não se encontre abrangida pelo disposto nos n.os 1 e 3, que implique a alteração da atividade económica, classificada de acordo com a respetiva CAE, exercida no estabelecimento.
+
+5 - O âmbito dos procedimentos de alteração de estabelecimento referidos nos números anteriores e das respetivas avaliações técnicas limita-se aos elementos e partes da instalação industrial que possam ser afetados pela alteração, exceto se o requerente pedir a antecipação do reexame global das condições de exploração, sendo os respetivos elementos instrutórios definidos na portaria referida no n.º 1 do artigo 21.º
+
+6 - O procedimento de alteração do estabelecimento industrial implica a atualização do título digital correspondente.

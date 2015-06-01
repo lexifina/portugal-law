@@ -2,6 +2,6 @@
 
 ### Pedido de conversão
 
-1 - O pedido de conversão em ZER é apresentado à DGAE nos termos previstos em portaria dos membros do Governo responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente.
+1 - O pedido de conversão em ZER é apresentado à entidade coordenadora nos termos definidos na portaria a que se refere o n.º 1 do artigo 46.º
 
-2 - Considera-se que a data do pedido é a data indicada no respetivo comprovativo do pagamento da taxa prevista no artigo 79.º, emitido pelo «Balcão do empreendedor».
+2 - Considera-se que a data do pedido é a data indicada no respetivo comprovativo do pagamento da taxa devida.

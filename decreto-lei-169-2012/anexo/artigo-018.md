@@ -1,21 +1,15 @@
 # Artigo 18.º
 
-### Localização
+### Equilíbrio urbano e ambiental
 
-1 - Sempre que a instalação ou alteração do estabelecimento industrial do tipo 1 ou do tipo 2 envolva a realização de operação urbanística sujeita a controlo prévio, a apreciação em razão da localização é efetuada nos termos do RJUE, no âmbito do pedido de informação prévia ou do procedimento de controlo prévio, sem prejuízo do previsto nos números seguintes.
+1 - O início da exploração do estabelecimento industrial de tipo 1, 2 ou 3 que envolva a realização de uma operação urbanística sujeita a controlo prévio, depende da prévia emissão pela câmara municipal territorialmente competente de título de autorização de utilização ou de certidão comprovativa do respetivo deferimento tácito.
 
-2 - Sempre que um estabelecimento abrangido pelo disposto no número anterior se situe em área que não admita expressamente o uso pretendido, nos termos de instrumento de gestão territorial ou de licença ou comunicação prévia de loteamento, o requerente deve apresentar à câmara municipal competente um pedido de informação prévia sobre a operação urbanística, antes de iniciar procedimento para instalação e exploração de estabelecimento industrial.
+2 - Não pode ser emitido o alvará de licença ou apresentada a comunicação prévia, de operação urbanística que preveja o uso industrial, sem que seja emitido o título digital de instalação ou de instalação e exploração, consoante for aplicável.
 
-3 - A consulta de entidades da administração central que se devam pronunciar sobre a operação urbanística em razão da localização prevista no RJUE pode ser efetuada, por opção do requerente, no âmbito do procedimento de controlo da atividade industrial aplicável, sendo a intervenção da CCDR desencadeada pela respetiva entidade coordenadora.
+3 - Quando verifique a inexistência de impacte relevante no equilíbrio urbano e ambiental, pode a câmara municipal territorialmente competente declarar compatível com uso industrial o alvará de autorização de utilização de edifício ou sua fração autónoma destinado:
 
-4 - A decisão global e vinculativa emitida pela CCDR substitui a consulta às entidades da administração central que se devam pronunciar sobre a operação urbanística em razão da localização no âmbito do RJUE.
+a) Ao uso de comércio, serviços ou armazenagem, no caso de se tratar de estabelecimento industrial a que se refere a parte 2-B do anexo i ao SIR;
 
-5 - Sem prejuízo do disposto no n.º 2 do artigo 15.º, sempre que se aplique o RJAIA ou o RPAG, a consulta de entidades da administração central que se devam pronunciar em razão da localização é efetuada no âmbito destes regimes.
+b) Ao uso de habitação, no caso de se tratar de estabelecimento abrangido pela parte 2-A do anexo i ao SIR.
 
-6 - Pode ser autorizada a instalação de estabelecimento industrial a que se refere a parte 2-A e B do anexo i ao SIR em edifício cujo alvará de utilização admita comércio ou serviços, quando não exista impacto relevante no equilíbrio urbano e ambiental.
-
-7 - A instalação de estabelecimento industrial a que se refere a parte 2-A do anexo i ao SIR pode ainda ser autorizada em prédio urbano destinado à habitação, desde que igualmente verificada a condição referida no número anterior.
-
-8 - Compete às câmaras municipais a definição dos critérios a observar na avaliação da salvaguarda do equilíbrio urbano e ambiental para efeitos da verificação da condição referida nos n.os 6 e 7.
-
-9 - Sempre que a instalação ou alteração do estabelecimento industrial se insira numa área licenciada ou concessionada para a exploração de recursos geológicos e o mesmo esteja relacionado com tal exploração, não há lugar à apreciação em razão da localização.
+4 - O procedimento para a obtenção da declaração de compatibilidade referida no número anterior rege-se, com as necessárias adaptações, pelo regime procedimental aplicável à autorização de utilização de edifícios as suas frações constante do RJUE, sendo tal declaração, quando favorável, inscrita, por simples averbamento, no título de autorização de utilização já existente.

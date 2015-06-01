@@ -4,14 +4,16 @@
 
 # Artigo 15.º
 
-### Âmbito e prazos de pronúncia
+### Âmbito da pronúncia
 
-1 - Sem prejuízo das atribuições de concertação de posições e de pronúncia integrada que a legislação cometa à APA, I. P., e às CCDR competentes, qualquer entidade referida no artigo anterior que se pronuncie nos procedimentos previstos no SIR deve fazê-lo exclusivamente sobre áreas ou vertentes aplicáveis, que se incluam no âmbito das respetivas atribuições e competências legalmente previstas, apreciando apenas as questões que lhe estejam expressamente cometidas por lei.
+1 - Sem prejuízo das atribuições de concertação de posições e de pronúncia integrada que a legislação cometa à APA, I. P., e às CCDR competentes, qualquer entidade referida no artigo anterior que se pronuncie nos procedimentos previstos no SIR deve fazê-lo exclusivamente sobre áreas que se incluam no âmbito das respetivas atribuições e competências legalmente previstas, apreciando apenas as questões que lhe estejam expressamente cometidas por lei, considerando-se não vinculativas as pronúncias que versem sobre matérias alheias às respetivas competências.
 
-2 - A pronúncia desfavorável da entidade só é vinculativa para a decisão da entidade coordenadora quando tal resulte da lei, desde que se fundamente em condicionamentos legais ou regulamentares e seja disponibilizada à entidade coordenadora nos prazos previstos no anexo iv ao SIR, que prevalecem sobre quaisquer outros previstos em legislação específica.
+2 - (Revogado).
 
-3 - Os prazos previstos no anexo referido no número anterior não são cumulativos, prevalecendo, no caso de serem aplicáveis dois ou mais regimes aí previstos, o prazo decisório máximo mais longo.
+3 - (Revogado).
 
-4 - Sem prejuízo do disposto no número seguinte, os pareceres, autorizações ou aprovações legalmente exigidos podem ser entregues com o pedido de autorização prévia ou com a comunicação prévia com prazo, não havendo lugar a nova pronúncia, desde que se mantenham inalterados os respetivos pressupostos de facto ou de direito.
+4 - As licenças, autorizações, aprovações, registos, comunicações prévias com prazo, meras comunicações prévias, pareceres e outros atos permissivos ou não permissivos de que dependa a instalação ou exploração de estabelecimento industrial podem ser entregues pelo requerente com o pedido de emissão do título digital de instalação e ou exploração, não havendo lugar a pronúncia pela entidade pública respetiva, ao abrigo dos artigos 23.º ou 31.º, conforme aplicável, desde que se mantenham inalterados os respetivos pressupostos de facto ou de direito.
 
-5 - Os pareceres, autorizações ou aprovações referidos no número anterior devem ser obtidos oficiosamente pelas entidades coordenadoras junto das entidades consultadas no âmbito do processo de licenciamento.
+5 - A verificação da manutenção dos pressupostos de facto ou de direito a que se refere o número anterior é efetuada pela entidade pública aí referida, no período de verificação de elementos instrutórios, nos termos e com os efeitos previstos no n.º 7 do artigo 21.º e no n.º 7 do artigo 30.º, conforme aplicável.
+
+6 - É dispensada a entrega das licenças, autorizações, aprovações, registos, comunicações prévias com prazo, meras comunicações prévias, pareceres e outros atos permissivos ou não permissivos referidos no n.º 4 quando o interessado preste consentimento à sua obtenção oficiosa, devendo nesse caso a entidade consultada proceder, através do «Balcão do empreendedor», à respetiva integração no procedimento.

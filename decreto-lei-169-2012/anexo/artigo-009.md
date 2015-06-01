@@ -1,19 +1,33 @@
 # Artigo 9.º
 
-### Informação de apoio
+### Apoio à aplicação do Sistema da Indústria Responsável
 
-1 - Os serviços ou organismos da administração central e local que intervêm nos procedimentos previstos no SIR devem elaborar e manter atualizada, em linguagem simples e clara, toda a informação necessária ao cumprimento das formalidades e atos legalmente estabelecidos, designadamente:
+1 - Compete ao IAPMEI, I. P., com a colaboração das entidades que intervenham nos procedimentos previstos no SIR:
 
-a) As obrigações resultantes de toda a legislação aplicável;
+a) Promover as ações necessárias à aplicação correta, previsível, eficaz e harmonizada do disposto no SIR, definindo, sempre que necessário, as diretrizes e os parâmetros comuns a seguir pelas mesmas, devendo, para o efeito, as entidades que intervenham nos procedimentos previstos no SIR fornecer ao IAPMEI, I. P., sempre que tal lhes seja solicitado, a informação necessária para a adequada monitorização dos processos, tendo em vista a respetiva normalização e melhoria contínua;
 
-b) A sequência das tarefas, o circuito dos processos internos e os períodos de tempo habitualmente consumidos em cada fase, os pressupostos e os resultados esperados de cada grupo de tarefas.
+b) Elaborar e atualizar, com a colaboração das entidades que intervenham nos procedimentos previstos no SIR em função das áreas em causa, em linguagem simples e clara, toda a informação de apoio à utilização do «Balcão do empreendedor», a qual deve incluir, designadamente:
 
-2 - O formato e características desta informação são definidos na portaria prevista no artigo 44.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+i) As obrigações resultantes de toda a legislação aplicável;
 
-3 - A informação referida no número anterior é pública, devendo ser obrigatoriamente disponibilizada no «Balcão do empreendedor».
+ii) A sequência das tarefas, o circuito dos processos internos e os períodos de tempo habitualmente consumidos em cada fase, os pressupostos e os resultados esperados de cada grupo de tarefas;
 
-4 - A Direção-Geral das Atividades Económicas (DGAE), os serviços ou organismos da administração central com competências de entidade coordenadora e as demais entidades públicas referidas no n.º 1 devem monitorizar os desenvolvimentos verificados nos processos, comparando-os com a informação obtida nos termos dos números anteriores, para promover a respetiva normalização e a melhoria contínua da tramitação dos processos que resultam da aplicação do SIR.
+iii) Os requisitos aplicáveis às instalações e aos equipamentos dos estabelecimentos industriais resultantes da legislação e demais atos normativos;
 
-5 - Tendo em vista a concretização dos princípios da desburocratização, da eficiência, da igualdade e da legalidade administrativas, bem como a aplicação correta, previsível, eficaz e harmonizada das práticas e dos procedimentos previstos no SIR, compete à DGAE, ouvidas as entidades coordenadoras, definir as diretrizes e os parâmetros comuns a seguir pelas mesmas.
+iv) Os meios de reação judiciais ou extrajudiciais relativos a decisões das autoridades administrativas competentes;
 
-6 - Compete à DGAE e às unidades de representação territorial do Ministério da Economia e do Emprego, em colaboração com as demais entidades coordenadoras, a prestação dos esclarecimentos necessários à aplicação correta, previsível, eficaz e harmonizada das práticas e dos procedimentos previstos no SIR.
+v) Os aspetos jurídicos e técnicos relevantes em cada setor industrial;
+
+c) Inserir no «Balcão do empreendedor» a informação a que se refere a alínea anterior, bem como as respetivas atualizações periódicas, a publicar online pela AMA, I. P.;
+
+d) Zelar pelo cumprimento dos prazos, incluindo os constantes da calendarização a que se refere a alínea d) do n.º 3 do artigo 22.º, quando aplicável, reportando à tutela, periodicamente ou sempre que tal lhe seja solicitado, as situações de incumprimento que não sejam imputáveis ao industrial.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+6 - (Revogado).

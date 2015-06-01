@@ -1,10 +1,10 @@
 # Artigo 50.º
 
-### Requisitos específicos do título de exploração de ZER
+### Requisitos específicos do título digital de exploração de Zonas Empresariais Responsáveis
 
-1 - A emissão de título de exploração da ZER é sempre precedido de vistoria prévia, a qual se rege pelo disposto no artigo 35.º
+1 - A emissão do título digital de exploração da ZER é precedida de vistoria prévia, a qual se rege pelo disposto no artigo 25.º-A.
 
-2 - Sem prejuízo de outras condições de exploração da ZER que hajam sido fixadas no auto de vistoria, o respetivo título de exploração inclui obrigatoriamente:
+2 - Sem prejuízo de outras condições de exploração da ZER que hajam sido fixadas por parte das entidades consultadas e ou no auto de vistoria, o respetivo título digital de exploração inclui obrigatoriamente:
 
 a) A área total de implantação;
 
@@ -20,10 +20,10 @@ f) As medidas de prevenção, tratamento, valorização ou eliminação dos res�
 
 g) Outras características, condições e limites impostos;
 
-h) A identificação dos serviços comuns e outros serviços a prestar pela sociedade gestora;
+h) A identificação dos serviços comuns e outros serviços a prestar pela entidade gestora;
 
-i) O regulamento interno da ZER, a estabelecer através de portaria dos membros do Governo responsáveis pelas áreas da economia, do emprego, da agricultura e do ambiente;
+i) O regulamento interno da ZER;
 
 j) A planta de síntese.
 
-3 - A decisão favorável à atribuição de título de exploração à ZER tem natureza provisória, ficando a emissão do título definitivo condicionada à comunicação à DGAE, pelo requerente, da decisão favorável à atribuição à sociedade gestora da ZER do estatuto de entidade acreditada, emitida ao abrigo do disposto no artigo 66.º
+3 - O título digital de exploração da ZER emitido nos termos do número anterior tem natureza provisória, convertendo-se em definitivo ou caducando, respetivamente, consoante seja emitida pelo IPAC, I. P., decisão favorável ou desfavorável relativamente à atribuição à entidade gestora da ZER do estatuto de entidade acreditada, ao abrigo do disposto no artigo 66.º

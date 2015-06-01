@@ -2,11 +2,9 @@
 
 ### Fatores de conversão e coeficientes de equivalência
 
-[a que se referem as alíneas q) e r) do artigo 2.º]
-
 1 - Coeficientes de equivalência a utilizar:
 
-1 kVA = 0,93 kW;
+1 kVA = 0,96 kW;
 
 1 kcal = 4,18 kJ.
 
@@ -34,6 +32,6 @@ Combustíveis sólidos:
 
 3 - Outros fatores de conversão:
 
-1000 l de gasóleo - 835 kg;
+1000 L de gasóleo - 835 kg;
 
-1000 l de petróleo - 785 kg.
+1000 L de petróleo - 785 kg.

@@ -26,11 +26,9 @@ c) Indeferimento de título de emissão de gases com efeito de estufa, inscrito 
 
 d) Indeferimento de título ou de decisão sobre o pedido de informação prévia de utilização dos recursos hídricos em instalações industriais, inscrito no TUA;
 
-e) [Revogada.]
+e) Indeferimento do pedido de alvará de operação de gestão de resíduos, inscrito no TUA;
 
-f) Falta de decisão ou decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável;
-
-g) Indeferimento do pedido do título de emissões para o ar, inscrito no TUA, ou a desconformidade com as condições constantes do mesmo.
+f) Falta de decisão ou decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável.
 
 7 - A emissão de título digital de exploração é notificada, de forma eletrónica e automática, pelo «Balcão do empreendedor», ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo 23.º
 

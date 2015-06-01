@@ -16,25 +16,29 @@
 
 1 - Os estabelecimentos industriais classificam-se, em função do grau de risco potencial inerente à sua exploração, para a pessoa humana e para o ambiente, em três tipos.
 
-2 - São incluídos no tipo 1 os estabelecimentos cujos projetos de instalações industriais se encontrem abrangidos por, pelo menos, um dos seguintes regimes jurídicos:
+2 - São incluídos no tipo 1 os estabelecimentos cujos projetos de instalações industriais se encontrem abrangidos por, pelo menos, um dos seguintes regimes jurídicos ou circunstâncias:
 
-a) O RJAIA;
+a) Regime jurídico de avaliação de impacte ambiental (RJAIA);
 
-b) O RJPCIP;
+b) Regime jurídico da prevenção e controlo integrado de poluição (RJPCIP), a que se refere o capítulo ii do Regime das Emissões Industriais (REI);
 
-c) O RPAG.
+c) Regime jurídico de prevenção de acidentes graves que envolvam substâncias perigosas (RPAG);
+
+d) Realização de operação de gestão de resíduos que careça de vistoria prévia ao início da exploração, à luz do regime de prevenção, produção e gestão de resíduos;
+
+e) Exploração de atividade agroalimentar que utilize matéria-prima de origem animal não transformada, de atividade que envolva a manipulação de subprodutos de origem animal ou de atividade de fabrico de alimentos para animais que careça de atribuição de número de controlo veterinário ou de número de identificação individual, nos termos da legislação aplicável.
 
 3 - São incluídos no tipo 2 os estabelecimentos industriais não incluídos no tipo 1, desde que abrangidos por pelo menos um dos seguintes regimes jurídicos ou circunstâncias:
 
-a) Potência elétrica contratada igual ou superior a 99 kVA;
+a) [Revogada];
 
-b) Potência térmica superior a 12 x 10(elevado a 6) kJ/h;
+b) [Revogada];
 
-c) Número de trabalhadores superior a 20;
+c) [Revogada];
 
-d) Necessidade de obtenção de TEGEE;
+d) Regime do comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE);
 
-e) Necessidade de obtenção de alvará ou parecer para operações de gestão de resíduos, nos termos do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelo Decreto-Lei n.º 173/2008, de 26 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de agosto, e 73/2011, de 17 de junho.
+e) Necessidade de obtenção de alvará para realização de operação de gestão de resíduos que dispense vistoria prévia, nos termos do regime geral de gestão de resíduos, com exceção dos estabelecimentos identificados pela parte 2-A do anexo i ao SIR, ainda que localizados em edifício cujo alvará admita comércio ou serviços, na condição de realizarem operações de valorização de resíduos não perigosos.
 
 4 - São incluídos no tipo 3 os estabelecimentos industriais não abrangidos pelos tipos 1 e 2.
 
