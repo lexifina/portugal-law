@@ -22,7 +22,7 @@ d) A Direcção-Geral da Administração Escolar;
 
 e) A Direcção-Geral de Estatísticas da Educação e Ciência;
 
-f) A Direcção-Geral de Planeamento e Gestão Financeira.
+f) [Revogada];
 
 g) A Direção-Geral dos Estabelecimentos Escolares.
 
@@ -46,7 +46,7 @@ iii) No domínio da cooperação internacional no âmbito do ensino superior e d
 
 iv) No domínio das relações internacionais e da coordenação das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, integradas na Fundação para a Ciência e a Tecnologia, I. P.;
 
-f) O Gabinete de Gestão Financeira, sendo as suas atribuições integradas na Direcção-Geral de Planeamento e Gestão Financeira;
+f) A Direção-Geral de Planeamento e Gestão Financeira, sendo as suas atribuições integradas no Instituto de Gestão Financeira da Educação, I.P.;
 
 g) O Gabinete de Estatística e Planeamento da Educação, sendo as suas atribuições:
 
