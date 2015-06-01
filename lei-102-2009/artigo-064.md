@@ -16,88 +16,42 @@ e) Hidrocarbonetos policíclicos aromáticos presentes na fuligem, no alcatrão 
 
 f) Poeiras, fumos ou névoas produzidos durante a calcinação e electrorrefinação de mates de níquel.
 
-2 - São proibidas ao menor as atividades em que haja risco de exposição a substâncias classificadas em conformidade com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas numa ou mais das seguintes classes de perigo:
+2 - São proibidas ao menor as atividades em que haja risco de exposição a substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes advertências de perigo:
 
-a) Toxicidade aguda, categorias 1, 2 ou 3;
+a) Toxicidade aguda, categoria 1, 2 ou 3 (H300, H310, H330, H301, H311, H331);
 
-b) Corrosão cutânea, categorias 1A, 1B ou 1C;
+b) Corrosão cutânea, categoria 1A, 1B ou 1C (H314);
 
-c) Gás inflamável, categorias 1 ou 2;
+c) Gás inflamável, categoria 1 ou 2 (H220, H221);
 
-d) Líquido inflamável, categoria 1;
+d) Aerossóis inflamáveis, categoria 1 (H222);
 
-e) Substância autorreativa, tipo CD;
+e) Líquido inflamável, categoria 1 ou 2 (H224, H225);
 
-f) Explosivo, categoria 'explosivo instável', ou divisões 1.1, 1.2, 1.3 ou 1.5;
+f) Explosivos, categorias «explosivo instável», ou explosivos das divisões 1.1, 1.2, 1.3, 1.4 e 1.5 (H200, H201, H202, H203, H204, H205);
 
-g) Toxicidade para órgãos-alvo específicos (exposição única), categoria 1;
+g) Substâncias e misturas auto-reativas, tipo A, B, C ou D (H240, H241, H242);
 
-h) Toxicidade para órgãos-alvo específicos (exposição repetida), categorias 1 ou 2;
+h) Peróxidos orgânicos, tipo A ou B (H240, H241);
 
-i) Sensibilização respiratória, categoria 1;
+i) Toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371);
 
-j) Sensibilização cutânea categoria 1;
+j) Toxicidade para órgãos-alvo específicos após exposição repetida, categoria 1 ou 2 (H372, H373);
 
-l) Carcinogenicidade, categorias 1A, 1B ou 2;
+l) Sensibilização respiratória, categoria 1, subcategoria 1A ou 1B (H334);
 
-m) Mutagenicidade em células germinativas, categorias 1A ou 1B;
+m) Sensibilização cutânea, categoria 1, subcategoria 1A ou 1B (H317);
 
-n) Toxicidade reprodutiva, categorias 1A ou 1B.
+n) Carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351);
 
-3 - São proibidas ao menor as atividades em que haja risco de exposição a misturas que, até 31 de maio de 2015, nos termos do Decreto-Lei n.º 82/2003, de 23 de abril, alterado pelos Decretos-Leis n.os 63/2008, de 2 de abril, e 155/2013, de 5 de novembro, sejam classificadas como tóxicas (T), muito tóxicas (T+), corrosivas (C) ou explosivas (E).
+o) Mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341);
 
-4 - São proibidas ao menor as atividades em que haja risco de exposição a misturas que, até 31 de maio de 2015, nos termos do Decreto-Lei n.º 82/2003, de 23 de abril, pelos Decretos-Leis n.os 63/2008, de 2 de abril, e 155/2013, de 5 de novembro, sejam classificadas como nocivas (Xn) e qualificadas por uma ou mais das seguintes advertências de risco:
+p) Toxicidade reprodutiva, categoria 1A ou 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df).
 
-a) 'R 39 - perigo de efeitos irreversíveis muito graves';
+3 - [Revogado].
 
-b) 'R 40 - possibilidade de efeitos cancerígenos';
+4 - [Revogado].
 
-c) 'R 42 - pode causar sensibilização por inalação';
+5 - [Revogado].
 
-d) 'R 43 - pode causar sensibilização em contacto com a pele';
-
-e) 'R 45 - pode causar cancro';
-
-f) 'R 46 - pode causar alterações genéticas hereditárias';
-
-g) 'R 48 - riscos de efeitos graves para a saúde em caso de exposição prolongada';
-
-h) 'R 60 - pode comprometer a fertilidade';
-
-i) 'R 61 - risco durante a gravidez, com efeitos adversos na descendência'.
-
-5 - São proibidas ao menor as atividades em que haja risco de exposição a misturas que, até 31 de maio de 2015, nos termos do Decreto-Lei n.º 82/2003, de 23 de abril, pelos Decretos-Leis n.os 63/2008, de 2 de abril, e 155/2013, de 5 de novembro, sejam classificadas como irritantes (Xi) e qualificadas por uma ou mais das seguintes advertências de risco:
-
-a) 'R 12 - extremamente inflamável';
-
-b) 'R 42 - pode causar sensibilização por inalação';
-
-c) 'R 43 - pode causar sensibilização em contacto com a pele'.
-
-6 - São proibidas ao menor as atividades em que haja risco de exposição a misturas que, a partir de 1 de junho de 2015, sejam classificadas em conformidade com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas numa ou mais das seguintes classes de perigo:
-
-a) Toxicidade aguda, categorias 1, 2 ou 3;
-
-b) Corrosão cutânea, categorias 1A, 1B ou 1C;
-
-c) Gás inflamável, categorias 1 ou 2;
-
-d) Líquido inflamável, categoria 1;
-
-e) Substância autorreativa, tipo CD;
-
-f) Explosivo, categoria 'explosivo instável', ou divisões 1.1, 1.2, 1.3 ou 1.5;
-
-g) Toxicidade para órgãos-alvo específicos (exposição única), categoria 1;
-
-h) Toxicidade para órgãos-alvo específicos (exposição repetida), categorias 1 ou 2;
-
-i) Sensibilização respiratória, categoria 1;
-
-j) Sensibilização cutânea categoria 1;
-
-l) Carcinogenicidade, categorias 1A, 1B ou 2;
-
-m) Mutagenicidade em células germinativas, categorias 1A ou 1B;
-
-n) Toxicidade reprodutiva, categorias 1A ou 1B.
+6 - [Revogado].

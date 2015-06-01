@@ -30,4 +30,6 @@ m) Realizadas em actividades que decorram em clubes nocturnos e similares;
 
 n) Cuja cadência seja condicionada por máquinas e a retribuição determinada em função do resultado.
 
+o) Suscetíveis de provocar a exposição a poeiras de madeira de folhosas.
+
 2 - São, ainda, proibidas a menor com idade inferior a 16 anos as actividades que sejam realizadas em discotecas e similares.

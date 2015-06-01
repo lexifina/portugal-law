@@ -4,31 +4,19 @@
 
 São condicionadas à trabalhadora grávida, puérpera ou lactante as actividades em que exista ou possa existir o risco de exposição a:
 
-a) Substâncias perigosas classificadas numa ou mais das seguintes classes de perigo:
+a) Substâncias e misturas que preencham os critérios de classificação ao abrigo do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, numa ou em várias das seguintes classes e categorias de perigo com uma ou várias das seguintes advertências de perigo:
 
-i) Carcinogenicidade, categorias 1A, 1B ou 2;
+i) Mutagenicidade em células germinativas, categoria 1A, 1B ou 2 (H340, H341);
 
-ii) Toxicidade reprodutiva, categoria 2,
+ii) Carcinogenicidade, categoria 1A, 1B ou 2 (H350, H350i, H351);
 
-nos termos do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+iii) Toxicidade reprodutiva, categorias 1A, 1B ou 2, ou a categoria suplementar para efeitos sobre a lactação ou através dela (H360, H360D, H360FD, H360Fd, H360Df, H361, H361d, H361fd, H362);
 
-b) Até 31 de maio de 2015, misturas perigosas qualificadas com uma ou mais das advertências de risco seguintes:
+iv) Toxicidade para órgãos-alvo específicos após exposição única, categoria 1 ou 2 (H370, H371).
 
-i) 'R 40 - possibilidade de efeitos cancerígenos';
+b) [Revogada];
 
-ii) 'R 45 - pode causar cancro';
-
-iii) 'R 49 - pode causar cancro por inalação';
-
-iv) 'R 63 - possíveis riscos durante a gravidez de efeitos indesejáveis na descendência', nos termos do Decreto-Lei n.º 82/2003, de 23 de abril, alterado pelos Decretos-Leis n.os 63/2008, de 2 de abril, e 155/2013, de 5 de novembro;
-
-c) A partir de 1 de junho de 2015, misturas perigosas classificadas numa ou mais das seguintes classes de perigo:
-
-i) Carcinogenicidade, categorias 1A, 1B ou 2;
-
-ii) Toxicidade reprodutiva, categoria 2,
-
-nos termos do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+c) [Revogada];
 
 d) Auramina;
 
