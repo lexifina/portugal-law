@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 34/2015
+A Autoridade Tributária e Aduaneira (AT) é o serviço da administração direta do Estado que, nos termos da alínea f) do n.º 2 do artigo 2.º do Decreto-Lei n.º 118/2011, de 15 de dezembro, alterado pelos Decretos-Leis n.os 142/2012, de 11 de julho, 6/2013, de 17 de janeiro, e 51/2014, de 2 de abril, e pela Lei n.º 82-B/2014, de 31 de dezembro, desenvolve e gere as infraestruturas, equipamentos e tecnologias de informação necessários à prossecução das suas atribuições e à prestação de apoio, esclarecimento e serviços de qualidade aos contribuintes.
+A AT necessita de proceder à aquisição de serviços para licenciamento e manutenção de software Microsoft ou equivalente, para um período de 36 meses, entre os anos de 2015 a 2017.
+Deste modo, a presente resolução autoriza a realização da despesa relativa à aquisição de serviços para licenciamento e manutenção de software Microsoft ou equivalente, e delega na Ministra de Estado e das Finanças as competências atribuídas pelo Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro (CCP), ao órgão competente para a decisão de contratar, designadamente a aprovação das peças do procedimento e a outorga do contrato.
+Atendendo a que o objeto do contrato a celebrar se insere no âmbito do acordo quadro de licenciamento de software e serviços conexos da Entidade de Serviços Partilhados da Administração Pública, I.P., o procedimento deve ser realizado ao abrigo do mesmo, na modalidade prevista na alínea b) do n.º 1 do artigo 252.º do CCP.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, do n.º 1 do artigo 109.º e da alínea b) do n.º 1 do artigo 252.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Autoridade Tributária e Aduaneira (AT) a realizar a despesa relativa à aquisição de serviços para licenciamento e manutenção de software Microsoft ou equivalente, no montante máximo de 6 998 683,03 EUR, ao qual acresce IVA à taxa legal em vigor, com recurso ao acordo quadro da Entidade de Serviços Partilhados da Administração Pública, I.P.
+2 - Determinar que os encargos com a despesa referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2015 - 2 316 058,66 EUR;
+b) 2016 - 2 316 058,66 EUR;
+c) 2017 - 2 366 565,71 EUR.
+3 - Estabelecer que o montante máximo da despesa fixado no número anterior para cada ano económico pode ser acrescido do saldo remanescente do ano que antecede.
+4 - Estabelecer que os encargos decorrentes da presente resolução são satisfeitos por verbas adequadas inscritas ou a inscrever no orçamento da AT.
+5 - Delegar na Ministra de Estado e das Finanças, com faculdade de subdelegação, todas competências atribuídas pelo Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, ao órgão competente para a decisão de contratar, designadamente a aprovação das peças do procedimento e a outorga do contrato.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 14 de maio de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
