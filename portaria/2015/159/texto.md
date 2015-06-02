@@ -1,0 +1,43 @@
+Portaria n.º 159/2015
+de 1 de junho
+No quadro da revisão dos regimes de incentivos do Estado à comunicação social, o Decreto-Lei n.º 24/2015, de 6 de fevereiro, procedeu à extinção, por fusão, do Gabinete para os Meios de Comunicação Social (GMCS), serviço central da administração direta do Estado, e à consequente integração das suas atribuições na Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM), nas comissões de coordenação e desenvolvimento regional (CCDR) e na Agência para o Desenvolvimento e Coesão, I. P. (Agência, I. P.).
+No que especificamente diz respeito à SGPCM, essa integração conduziu a que este serviço viesse a suceder nas atribuições do GMCS no domínio do apoio ao Conselho de Ministros, Primeiro-Ministro, ministros e demais membros do Governo integrados na Presidência do Conselho de Ministros, no apoio à conceção e avaliação das políticas públicas na área da comunicação social e da sociedade de informação.
+Neste contexto, importa alterar a Portaria n.º 79/2012, de 27 de março, alterada pela Portaria n.º 323/2013, de 31 de outubro, no sentido de se proceder à criação de uma nova direção de serviços no âmbito da SGPCM, a Direção de Serviços de Política Legislativa para os Media, à qual são atribuídas competências nos domínios da comunicação social e da sociedade de informação.
+Assim:
+Ao abrigo do n.º 4 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, e do Despacho n.º 6990/2013, de 21 de maio, publicado no Diário da República, 2.ª série, n.º 104, de 30 de maio, manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Presidência e dos Assuntos Parlamentares, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à segunda alteração à Portaria n.º 79/2012, de 27 de março, alterada pela Portaria n.º 323/2013, de 31 de outubro, que fixa a estrutura nuclear dos serviços da Secretaria-Geral da Presidência do Conselho de Ministros.
+Artigo 2.º
+Alteração à Portaria n.º 79/2012, de 27 de março
+O artigo 1.º da Portaria n.º 79/2012, de 27 de março, alterada pela Portaria n.º 323/2013, de 31 de outubro, passa a ter a seguinte redação:
+«Artigo 1.º
+[...]
+1 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) Direção de Serviços de Política Legislativa para os Media.
+2 - ...»
+Artigo 3.º
+Aditamento à Portaria n.º 79/2012, de 27 de março
+É aditado à Portaria n.º 79/2012, de 27 de março, alterada pela Portaria n.º 323/2013, de 31 de outubro, o artigo 6.º-A, com a seguinte redação:
+«Artigo 6.º-A
+Direção de Serviços de Política Legislativa para os Media
+À Direção de Serviços de Política Legislativa para os Media, abreviadamente designada por DSPLM, compete:
+a) Assegurar a prática de todos os atos necessários ao cumprimento das responsabilidades da SG em matéria de conceção e avaliação das políticas públicas na área da comunicação social e da sociedade de informação;
+b) Proceder à elaboração de estudos na área da comunicação social e da sociedade da informação;
+c) Elaborar e participar, nas esferas nacional e internacional, na preparação de propostas legislativas e regulamentares na área da comunicação social e da sociedade da informação;
+d) Participar em grupos de trabalho e fóruns, nacionais e internacionais, na área da comunicação social e da sociedade de informação;
+e) Proceder à recolha e tratamento de informação relevante com vista à definição e ou aperfeiçoamento das políticas públicas na área da comunicação social e da sociedade da informação e constituir e atualizar um acervo documental especializado nestas áreas;
+f) Prestar aos membros do Governo integrados na PCM todo o apoio técnico que lhe seja solicitado na área da comunicação social e da sociedade da informação, designadamente no domínio da representação externa do Estado;
+g) Emitir pareceres e elaborar estudos relativos à execução dos regimes de incentivos do Estado à comunicação social;
+h) Emitir as autorizações para reembolso dos encargos de expedição de publicações periódicas de informação geral e proceder à validação da respetiva documentação apresentada a reembolso, nos termos do Decreto-Lei n.º 43/2006, de 24 de fevereiro;
+i) Exercer as competências de fiscalização e de instrução e decisão de processos de contraordenação relativamente a publicações periódicas de informação geral, nos termos dos artigos 14.º, 15.º e 20.º do Decreto-Lei n.º 43/2006, de 24 de fevereiro;
+j) Assegurar a representação dos processos judiciais e litígios pendentes à data da entrada em vigor do Decreto-Lei n.º 24/2015, de 6 de fevereiro.»
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 26 de maio de 2015. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 22 de maio de 2015.
