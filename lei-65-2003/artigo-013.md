@@ -8,4 +8,4 @@ a) Quando a infracção que motiva a emissão do mandado de detenção europeu f
 
 b) Quando a pessoa procurada para efeitos de procedimento penal for nacional ou residente no Estado membro de execução, a decisão de entrega pode ficar sujeita à condição de que a pessoa procurada, após ter sido ouvida, seja devolvida ao Estado membro de execução para nele cumprir a pena ou a medida de segurança privativas da liberdade a que foi condenada no Estado membro de emissão.
 
-2 - À situação prevista na alínea b) do número anterior é correspondentemente aplicável o disposto na parte final do n.º 4 do artigo 12.º
+2 - À situação prevista na alínea b) do número anterior é aplicável o disposto nos n.os 3 e 4 do artigo 12.º

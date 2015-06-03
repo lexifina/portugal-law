@@ -6,7 +6,7 @@
 
 2 - Nos outros casos a decisão definitiva sobre a execução do mandado de detenção europeu deve ser tomada no prazo de 60 dias após a detenção da pessoa procurada.
 
-3 - Quando o mandado de detenção europeu não puder ser executado nos prazos previstos nos n.os 1 ou 2, a autoridade judiciária de emissão é informada do facto e das suas razões, podendo os prazos ser prorrogados por mais 30 dias.
+3 - Quando o mandado de detenção europeu não puder ser executado nos prazos previstos nos n.os 1 ou 2, nomeadamente por ter sido interposto recurso da decisão proferida, a autoridade judiciária de emissão será informada do facto e das suas razões, podendo os prazos ser prorrogados por mais 30 dias.
 
 4 - Serão asseguradas as condições materiais necessárias para a entrega efectiva da pessoa procurada enquanto não for tomada uma decisão definitiva sobre a execução do mandado de detenção europeu.
 

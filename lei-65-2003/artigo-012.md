@@ -1,10 +1,10 @@
 # Artigo 12.º
 
-### Motivos de não execução facultativa do mandado de detenção europeu
+### Causas de recusa facultativa de execução do mandado de detenção europeu
 
 1 - A execução do mandado de detenção europeu pode ser recusada quando:
 
-a) (Revogada.)
+a) O facto que motiva a emissão do mandado de detenção europeu não constituir infracção punível de acordo com a lei portuguesa, desde que se trate de infracção não incluída no n.º 2 do artigo 2.º;
 
 b) Estiver pendente em Portugal procedimento penal contra a pessoa procurada pelo facto que motiva a emissão do mandado de detenção europeu;
 
@@ -28,4 +28,4 @@ ii) Tenha sido praticada fora do território do Estado membro de emissão desde 
 
 3 - A recusa de execução nos termos da alínea g) do n.º 1 depende de decisão do tribunal da relação, no processo de execução do mandado de detenção europeu, a requerimento do Ministério Público, que declare a sentença exequível em Portugal, confirmando a pena aplicada.
 
-4 - A decisão a que se refere o número anterior é incluída na decisão de recusa de execução, sendo-lhe aplicável, com as devidas adaptações, o regime relativo ao reconhecimento de sentenças penais que imponham penas de prisão ou medidas privativas da liberdade no âmbito da União Europeia, devendo a autoridade judiciária de execução, para este efeito, solicitar a transmissão da sentença.
+4 - A decisão a que se refere o número anterior é incluída na decisão de recusa de execução, sendo-lhe aplicável, com as devidas adaptações, o regime relativo à revisão e confirmação de sentenças condenatórias estrangeiras.

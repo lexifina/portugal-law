@@ -8,9 +8,9 @@
 
 # Artigo 11.º
 
-### Motivos de não execução obrigatória do mandado de detenção europeu
+### Causas de recusa de execução do mandado de detenção europeu
 
-A execução do mandado de detenção europeu é recusada quando:
+A execução do mandado de detenção europeu será recusada quando:
 
 a) A infracção que motiva a emissão do mandado de detenção europeu tiver sido amnistiada em Portugal, desde que os tribunais portugueses sejam competentes para o conhecimento da infracção;
 
@@ -21,5 +21,3 @@ c) A pessoa procurada for inimputável em razão da idade, nos termos da lei por
 d) (Revogada).
 
 e) (Revogada).
-
-f) (Revogada.)
