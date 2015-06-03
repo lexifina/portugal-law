@@ -24,4 +24,4 @@ i) Os critérios de hierarquização de candidaturas, quando aplicável.
 
 2 - Os anúncios de concurso podem prever a atribuição de adiantamentos, nos termos do presente Regulamento.
 
-3 - Os anúncios são publicitados no sítio da Internet do ICNF, I. P., com a antecedência mínima de 10 dias relativamente ao início do período de apresentação das candidaturas.
+3 - Os anúncios são publicitados no sítio da Internet do ICNF, I. P., com a antecedência mínima de cinco dias relativamente ao início do período de apresentação das candidaturas.
