@@ -1,0 +1,4 @@
+Aviso n.º 37/2015
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas para a entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da Federação da Rússia sobre Regras Simplificadas de Entrada, Permanência e Saída para os Membros das Tripulações de Aeronaves das Transportadoras Aéreas da Federação da Rússia e da República Portuguesa, celebrado por troca de Notas, assinado em Moscovo, em 2 e 15 de julho de 2014.
+O referido Acordo foi aprovado pelo Decreto n.º 8/2015, de 23 de abril, publicado no Diário da República, 1ª Série, n.º 79, de 23 de abril de 2015, entrando em vigor a 24 de maio de 2015, na sequência das notificações previstas no Acordo.
+Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, 18 de maio de 2015. - O Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas, João Maria Cabral.
