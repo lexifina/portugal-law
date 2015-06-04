@@ -48,7 +48,7 @@ cancelamento - (euro) 50.
 
 5 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
 
-6 - Registo de pessoas colectivas religiosas:
+6 - Registo de pessoas coletivas religiosas e de pessoas jurídicas canónicas:
 
 6.1 - Inscrição - (euro) 60;
 
@@ -58,9 +58,7 @@ cancelamento - (euro) 50.
 
 6.4 - Pela desistência do pedido de inscrição - (euro) 60;
 
-6.5 - Pela urgência na realização do registo de pessoa colectiva religiosa é devido o valor do
-
-emolumento correspondente ao acto.
+6.5 - Pela urgência na realização do registo é devido o valor do emolumento correspondente ao ato.
 
 6.6 - Aos emolumentos previstos nos números anteriores acresce o emolumento previsto no n.º 3.1, quando se mostre devido.
 
@@ -78,7 +76,7 @@ emolumento correspondente ao acto.
 
 8 - Acesso às bases de dados:
 
-8.1 - Consulta em linha ao ficheiro central de pessoas colectivas (FCPC) e à base de dados do registo de pessoas colectivas religiosas (RPCR), para cópias totais ou parciais do mesmo ficheiro ou para informação estatística sobre pessoas colectivas:
+8.1 - Acesso eletrónico, cópias totais ou parciais e informação para fins de investigação estatística da base de dados do ficheiro central de pessoas coletivas (FCPC), do registo de pessoas coletivas religiosas (RPCR) e do registo de pessoas jurídicas canónicas (RPJC).
 
 8.1.1 - Consulta em linha:
 
@@ -96,7 +94,7 @@ emolumento correspondente ao acto.
 
 8.2.2 - Por cada actualização mensal dos movimentos ... 600
 
-8.2.3 - Por cada cópia parcial em suporte magnético:
+8.2.3 - Cópia parcial em suporte eletrónico da base de dados do FCPC, do RPCR ou do RPJC:
 
 8.2.3.1 - Até 1000 registos ... 1000
 
@@ -108,7 +106,7 @@ emolumento correspondente ao acto.
 
 8.3.2 - Por cada adicional de 1000 registos ou fracção ... 750
 
-8.4 - Informação estatística, por cada informação estatística no Registo Nacional de Pessoas Colectivas:
+8.4 - Por cada informação estatística disponível do FCPC, do RPCR ou do RPJC:
 
 8.4.1 - A nível nacional ... 500
 

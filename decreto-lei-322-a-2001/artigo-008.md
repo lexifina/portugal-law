@@ -10,4 +10,6 @@
 
 4 - É gratuito o acesso pela Comissão da Liberdade Religiosa à base de dados do registo de pessoas colectivas religiosas, efectuado nos termos previstos no respectivo regime.
 
-5 - É gratuito o reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição da nacionalidade portuguesa.
+5 - É gratuito o acesso pela autoridade eclesiástica proponente à base de dados do registo de pessoas jurídicas canónicas.
+
+6 - É gratuito o reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição da nacionalidade portuguesa.
