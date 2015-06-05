@@ -1,0 +1,180 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "846",
+    "id": "39282",
+    "titulo": "Alarga a obrigatoriedade de registo dos acionistas dos bancos à identificação dos beneficiários últimos das entidades que participem no seu capital"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "36017",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-07-02",
+            "id": "100581",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100650",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-14",
+            "id": "100693",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-06-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Ofício a remeter o Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a51334e324a694d444a694c5749324f4751744e4451344f533169597a4a684c5467344f5755305a4755304d7a68684f5335515245593d&fich=477bb02b-b68d-4489-bc2a-889e4de438a9.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6c4f54646c4d7a5a6c4c5755304f4751744e4756684f5331685a44526a4c544e6a596a45325a5755354d5451314d4335775a47593d&fich=9e97e36e-e48d-4ea9-ad4c-3cb16ee91450.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão do Mercado de Valores Mobiliários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255344d54566b4d324a684c5745314d5451744e474579595331684e4759784c544532595749774f4451334f474e6a4e4335775a47593d&fich=e815d3ba-a514-4a2a-a4f1-16ab08478cc4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a41344f47526d5a54426a4c545a68593259744e474a6b5a4331684e574a6a4c574a6d4d444d344f5459354e3245324f4335775a47593d&fich=088dfe0c-6acf-4bdd-a5bc-bf0389697a68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de substituição apresentada pelo grupo parlamentar do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55784e54426a597a566b4c54526b5a4751744e44526a4f4330344e6d4d354c5468694d54686d5a54426d4e6d46695a4335775a47593d&fich=5150cc5d-4ddd-44c8-86c9-8b18fe0f6abd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e proposta de substituição apresentadas pelo BE",
+            "pag": [
+              "18-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175/2015-07-22/18?pgs=18-20&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e proposta de substituição apresentadas pelo BE",
+            "pag": [
+              "18-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175/2015-07-22/18?pgs=18-20&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-22",
+            "numeroOficio": "214/COFAP/2015",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-06-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "307145",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
