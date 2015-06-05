@@ -1,0 +1,303 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "334",
+    "id": "39520",
+    "titulo": "Aprova o Regime Jurídico da Supervisão de Auditoria, transpondo a Diretiva n.º 2014/56/UE, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que altera a Diretiva n.º 2006/43/CE relativa à revisão legal das contas anuais e consolidadas,  e assegura a execução, na ordem jurídica interna, do Regulamento (UE) n.º 537/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo aos requisitos específicos para a revisão legal de contas das entidades de interesse público"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "36018",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-07-09",
+            "id": "100644",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100643",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100642",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-10",
+            "id": "100648",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-10",
+            "id": "100647",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-10",
+            "id": "100646",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-10",
+            "id": "100645",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2015-07-10",
+            "id": "100649",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-06-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Contributo da Associação de Empresas Emitentes de Valores Cotados em Mercado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b795a445177596a56694c546731596a49744e44686d4d793168596a686d4c54593159544d354e47497a4f47466b4f4335775a47593d&fich=92d40b5b-85b2-48f3-ab8f-65a394b38ad8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249344f545a6a5a5755794c5441314d6d55744e4745335a5331685a57466c4c574d314f5455334e5459775957597a597935775a47593d&fich=b896cee2-052e-4a7e-aeae-c5957560af3c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Fundos de Investimento, Pensões e Patrimónios",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a45785a4451794d7a466c4c545a6a4f4463744e4467334d5330344f544e6a4c546b795a47566b4f4451335a546b305a6935775a47593d&fich=11d4231e-6c87-4871-893c-92ded847e94f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Leasing, Factoring e Renting",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3251314d44686c5a44637a4c545a6a4d4451744e4755304e6931684f57466c4c574577595451304d444d7a5954526b4d6935775a47593d&fich=d508ed73-6c04-4e46-a9ae-a0a44033a4d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Seguradores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6d4d4749334e6a4d334c5459324d4751744e4745324d7930345a5459324c57517a4e5746694d6a4932597a646a597935775a47593d&fich=ff0b7637-660d-4a63-8e66-d35ab226c7cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Autoridade da Concorrência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59344e7a6c68596d4d324c5749774d6a55744e4759324f5331694d4451314c545a6a4e7a6333596a566c4e54517a4e7935515245593d&fich=6879abc6-b025-4f69-b045-6c777b5e5437.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Autoridade de Supervisão de Seguros e Fundos de Pensões",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4d304d7a67354d5441334c546b774e6a55744e446c695a5330344e6a466c4c575a6b4e5755305a4749784f474a695a5335775a47593d&fich=34389107-9065-49be-861e-fd5e4db18bbe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão do Mercado de Valores Mobiliários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5177596d45314d6d49334c5756694d4755744e4445335a5331694e7a55324c57466d597a59324e3249785954466a596935775a47593d&fich=40ba52b7-eb0e-417e-b756-afc667b1a1cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4d6a4268596a64684c544a694e444d744e4752684d6931694e4459354c574977596a51794d6a646c4d6a41355a6935775a47593d&fich=9f20ab7a-2b43-4da2-b469-b0b4227e209f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Ordem dos Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3249344f4445775a574e684c54673459324d744e444977596931684f5459344c574a69597a67324d4463794d574535597935515245593d&fich=b8810eca-88cc-420b-a968-bbc860721a9c.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Ordem dos Técnicos Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32566959574578596a55774c5459304f5441744e446c6b5a6930354d6d4a6c4c5455794d6a55334e4755794e6a646a596935515245593d&fich=ebaa1b50-6490-49df-92be-522574e267cb.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Procuradoria-Geral da República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255314e47466d4e4459354c5463355a6a59744e47526b4d5331694d6a59334c5463335a444d35597a646b4d444d355a4335775a47593d&fich=e54af469-79f6-4dd1-b267-77d39c7d039d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Banco de Portugal - parte 1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324a695a474a6a4d7a67304c5463334e6a49744e4745774f4330345a6d59354c544d7a593245354d6a5a695a6d497a4d6935775a47593d&fich=bbdbc384-7762-4a08-8ff9-33ca926bfb32.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Banco de Portugal - parte 2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a4578596a686c5a5451784c5463335a6d4d744e47466b4d793168596d59794c5751784e54426c5a4749334e6d51354f5335775a47593d&fich=11b8ee41-77fc-4ad3-abf2-d150edb76d99.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Conselho Nacional de Supervisores Financeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a55314d5459784d474e6b4c544d314f4749744e47526c5a5331694d5441334c5445354f446b7a597a41334d6a5a6c596935775a47593d&fich=551610cd-358b-4dee-b107-19893c0726eb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Instituto Português de Corporate Governance",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a5a6b5a4459314f5755314c5451795a444d744e4449794f4330344e6a646a4c5445334e4755304d3255304d474e694f5335775a47593d&fich=6dd659e5-42d3-4228-867c-174e43e40cb9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a566b5a6a686d4e5459784c5449305a446b744e44686b5a693035597a6c684c544e694e6d466d5a6a426d4d7a4a6c4d5335775a47593d&fich=5df8f561-24d9-48df-9c9a-3b6aff0f32e1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c324e6a5954526d5a4467344c54417a5a5459744e4745794e6931685a4759784c574d774d7a6b775a6d49344d444a694e7935775a47593d&fich=cca4fd88-03e6-4a26-adf1-c0390fb802b7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-18",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo da PPL com o enquadramento legal em vigor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6b344d6a426a4f4459794c5463325a6a55744e4745334e6931684d574d7a4c5441355a44566d59324e684d444a685a6935775a47593d&fich=9820c862-76f5-4a76-a1c3-09d5fcca02af.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-09",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo da PPL com os pareceres recebidos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a557a4d47526d597a41304c57497a595751744e4452684e4331684d3245324c544d33597a49304d7a51345a57566d4d4335775a47593d&fich=530dfc04-b3ad-44a4-a3a6-37c24348eef0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c32517a4e324d774d7a5a6b4c545a6d593251744e474932596930354f4441794c5451325a4449775a4459324d44426d4d5335515245593d&fich=d37c036d-6fcd-4b6b-9802-46d20d6600f1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3259305a44466b596d566c4c5463314e324d744e4745355a5331694e7a52694c57526b4e446b304e546b304e5751794f4335515245593d&fich=f4d1dbee-757c-4a9e-b74b-dd4945945d28.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "2-55"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175S3/2015-07-22/2?pgs=2-55&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e PS",
+            "pag": [
+              "2-55"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175S3/2015-07-22/2?pgs=2-55&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-22",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-06-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "307158",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
