@@ -1,0 +1,192 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "963",
+    "id": "39527",
+    "titulo": "Altera o Regime Geral das Instituições de Crédito e Sociedades Financeiras e o enquadramento legal do Conselho Nacional de Supervisores Financeiros, prevendo medidas especificas com vista ao reforço da estabilidade do sistema financeiro português"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2015-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "36019",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-07-02",
+            "id": "100581",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-09",
+            "id": "100650",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2015-07-14",
+            "id": "100693",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-06-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Associação Portuguesa de Bancos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a46694f444530596a4a6d4c544d774d4751744e444d344d7931684e5441774c54526b5a6a526959546c694f474e6d4f5335775a47593d&fich=1b814b2f-300d-4383-a500-4df4ba9b8cf9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão do Mercado de Valores Mobiliários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a6c6d4d6a646c5a6d497a4c5449785a5459744e47457a5a4330344d4749314c545135596d517859574d794d325a6c4d4335775a47593d&fich=9f27efb3-21e6-4a3d-80b5-49bd1ac23fe0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59314d5455324e6a526d4c574d774d5745744e444a6b5a693169595751324c54426b596a6c6c4d544d334d324668595335775a47593d&fich=6515664f-c01a-42df-bad6-0db9e1373aaa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelo grupo parlamentar do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c3255335a5441334d5449334c544a6c5a4749744e47566c4d5331684d7a41784c5451334d7a686b4d324579593255304d5335775a47593d&fich=e7e07127-2edb-4ee1-a301-4738d3a2ce41.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração apresentadas pelos grupos parlamentares do PSD e do CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a59784e7a51304f5459354c54646c4e6a6b744e4751334e4330344d44637a4c544133593255325a6d59784e4451344e7935775a47593d&fich=61744969-7e69-4d74-8073-07ce6ff14487.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c7a466c4d5455315a5745344c5751325a6a49744e4441794e533169596a677a4c544d304e7a63794d4759354e7a55784e6935515245593d&fich=1e155ea8-d6f2-4025-bb83-347720f97516.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-22",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a564454305a425543394562324e31625756756447397a5357357059326c6864476c3259554e7662576c7a633246764c325a6d5a444d774d574d784c5449785a474d744e4755774e7931694d54566d4c5467315a4463305a574d334d32526a4d7935515245593d&fich=ffd301c1-21dc-4e07-b15f-85d74ec73dc3.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3514",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Administração Pública",
+        "Numero": "3514",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e  PS",
+            "pag": [
+              "23-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175/2015-07-22/23?pgs=23-44&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final da comissão  e propostas de alteração apresentadas pelo PSD/CDS-PP e  PS",
+            "pag": [
+              "23-44"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-22",
+            "pubLeg": "XII",
+            "pubNr": "175",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/175/2015-07-22/23?pgs=23-44&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2015-07-22",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2015-06-05",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "307163",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
