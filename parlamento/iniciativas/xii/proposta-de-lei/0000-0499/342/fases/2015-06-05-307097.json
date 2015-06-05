@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "342",
+    "id": "39572",
+    "titulo": "Altera o Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966, e procede à primeira alteração à Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2015-06-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "36008",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-06-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-06-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4f54646d59544e6d59533077595745304c5451334d7a55744f474e684d53316b597a6c6c4e7a41304d5455774f54597555455247&fich=e97fa3fa-0aa4-4735-8ca1-dc9e70415096.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Centro Português de Fundações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e444e6a5a4441794e43307a4d4441334c5452694f54517459544d314e79316b5a54686c597a686b4f4445304e4467756347526d&fich=743cd024-3007-4b94-a357-de8ec8d81448.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Consultivo das Fundações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d59545934595442684f5330345a6a45314c54526b4d575174595463344e69316c4e5755784e4746694e475269595451756347526d&fich=fa68a0a9-8f15-4d1d-a786-e5e14ab4dba4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-06-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e7a6b774e6a5a694f4330324f5755344c54526c5a5463744f5467315a53316d4e57466d4d4441325a57566b5a6d45756347526d&fich=379066b8-69e8-4ee7-985e-f5af006eedfa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830596a457859544a6a4e793031593256694c5451354e6d5174596d51324d69316d4e544132597a526d4d7a493159574d756347526d&fich=4b11a2c7-5ceb-496d-bd62-f506c4f325ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a4441324f546378596930794d6a49314c54517a4d6a597459544d31597931685a4463344e57466a4e546734596d55756347526d&fich=3d06971b-2225-4326-a35c-ad785ac588be.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-01",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d574e6b4e4745794e793034596a45344c5451775a6a6b744f545577597930784d6a45784d446b345a474d315a5759756347526d&fich=b1cd4a27-8b18-40f9-950c-1211098dc5ef.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-07-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-06-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-07-03"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-06-23"
+          },
+          {
+            "link": "",
+            "nome": "Centro Português de Fundações em 2015-06-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Consultivo das Fundações em 2015-07-02"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Centro Português de Fundações em 2015-06-05"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Consultivo das Fundações em 2015-06-05"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "40-52"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160S3/2015-07-01/40?pgs=40-52&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "40-52"
+            ],
+            "pagFinalDiarioSupl": "3º Supl.",
+            "pubdt": "2015-07-01",
+            "pubLeg": "XII",
+            "pubNr": "160",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "3º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/160S3/2015-07-01/40?pgs=40-52&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "413",
+            "motivoCessacao": null,
+            "nome": "Luís Pita Ameixa"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-07-01",
+            "dataRemessa": "2015-07-01",
+            "numeroOficio": "812/XII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-07-01",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70105",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "332",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-06-05",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "307097",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
