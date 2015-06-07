@@ -12,6 +12,8 @@ b) Saldos positivos de reavaliações monetárias que forem consentidas por lei,
 
 c) Importâncias correspondentes a bens obtidos a título gratuito, quando não lhes tenha sido imposto destino diferente, bem como acessões e prémios que venham a ser atribuídos a títulos pertencentes à sociedade.
 
+d) Diferença entre o resultado atribuível às participações financeiras reconhecido na demonstração de resultados e o montante dos dividendos já recebidos ou cujo pagamento possa ser exigido relativamente às mesmas participações.
+
 3 - Os ágios a que se refere a alínea a) do número anterior consistem:
 
 a) Quanto à emissão de acções, na diferença para mais entre o valor nominal e a quantia que os accionistas tiverem desembolsado para as adquirir ou, no caso de acções sem valor nominal, o montante do capital correspondentemente emitido;

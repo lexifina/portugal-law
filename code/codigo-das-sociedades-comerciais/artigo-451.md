@@ -20,10 +20,10 @@ c) Um parecer sobre se as contas do exercício dão uma imagem verdadeira e apro
 
 d) Uma referência a quaisquer questões para as quais o revisor oficial de contas chame a atenção mediante ênfases, sem qualificar a opinião de revisão;
 
-e) Um parecer em que se indique se o relatório de gestão é ou não concordante com as contas do exercício;
+e) Um parecer em que se indique se o relatório de gestão é ou não concordante com as contas do exercício, se o relatório de gestão foi elaborado de acordo com os requisitos legais aplicáveis e se, tendo em conta o conhecimento e a apreciação da empresa, identificou incorreções materiais no relatório de gestão, dando indicações quanto à natureza das mesmas;
 
 f) Data e assinatura do revisor oficial de contas.
 
-4 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, o revisor deve atestar se o relatório sobre a estrutura e as práticas de governo societário divulgado inclui os elementos referidos no artigo 245.º-A do Código dos Valores Mobiliários que lhe sejam exigíveis.
+4 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, o revisor deve atestar se o relatório sobre a estrutura e as práticas de governo societário divulgado inclui os elementos referidos no n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, que lhe sejam exigíveis e emitir parecer sobre o cumprimento das alíneas c), d), f), h), i) e m) do mesmo artigo.
 
 5 - O âmbito do parecer a que se refere a alínea e) do n.º 3 deve igualmente incluir as matérias referidas nas alíneas c), d), f), h), i) e m) do n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, no caso dos emitentes abrangidos pelas disposições em causa.
