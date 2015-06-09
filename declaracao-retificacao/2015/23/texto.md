@@ -1,0 +1,8 @@
+Declaração de Retificação n.º 23/2015
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a Lei n.º 36/2015, de 4 de maio, que «Estabelece o regime jurídico da emissão, do reconhecimento e da fiscalização da execução de decisões sobre medidas de coação em alternativa à prisão preventiva, bem como da entrega de uma pessoa singular entre Estados membros no caso de incumprimento das medidas impostas, transpondo a Decisão-Quadro 2009/829/JAI do Conselho, de 23 de outubro de 2009», publicada no Diário da República, 1.ª série, n.º 85, de 4 de maio de 2015, saiu com as seguintes incorreções, que assim se retificam:
+No n.º 2 do artigo 8.º:
+onde se lê:
+«Para efeitos do disposto no número anterior, a autoridade competente do Estado de execução não pode invocar a Decisão-Quadro 2009/829/JAI do Conselho, de 23 de outubro de 2009, para recusar a entrega dessa pessoa, a não ser que tenha sido notificado ao Secretariado-Geral do Conselho que a autoridade competente do Estado de execução também aplicará aquela disposição legal ao decidir a entrega da pessoa em causa ao Estado de emissão.»
+deve ler-se:
+«Para efeitos do disposto no número anterior, a autoridade competente do Estado de execução não pode invocar o n.º 1 do artigo 2.º da Decisão-Quadro 2002/584/JAI do Conselho, de 13 de junho de 2002, para recusar a entrega dessa pessoa, a não ser que tenha sido notificado ao Secretariado-Geral do Conselho que a autoridade competente do Estado de execução também aplicará aquela disposição legal ao decidir a entrega da pessoa em causa ao Estado de emissão.»
+Assembleia da República, 4 de junho de 2015. -O Secretário-Geral, Albino de Azevedo Soares.
