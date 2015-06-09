@@ -6,8 +6,8 @@
 
 2 - Sem prejuízo do disposto nos números seguintes, os apoios previstos na ação n.º 7.2 «Produção integrada», previstos na Portaria n.º 25/2015, de 9 de fevereiro, nas ações n.os 7.4 «Conservação do solo», 7.5 «Uso eficiente da água», 7.6 «Culturas permanentes tradicionais», 7.7 «Pastoreio extensivo», 7.9 «Mosaico agroflorestal» e 7.12 «Apoio agroambiental à apicultura», previstos na Portaria n.º 50/2015, de 25 de fevereiro, bem como os «Apoios zonais de caráter agroambiental» da ação n.º 7.3 «Pagamentos Rede Natura», previstos na Portaria n.º 56/2015, de 27 de fevereiro, que respeitem à mesma subparcela agrícola, são cumuláveis entre si, com os limites previstos no artigo 4.º
 
-3 - Os apoios previstos para a «Conservação dos soutos notáveis da Terra Fria» no «Apoio Zonal Montesinho Nogueira», da ação n.º 7.3 «Pagamentos Rede Natura», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos no âmbito da ação n.º 7.2 «Produção integrada», ou com o apoio ao «Enrelvamento da entrelinha de culturas permanentes» da ação n.º 7.4 «Conservação do solo», ou com o apoio previsto no âmbito da ação n.º 7.12 «Apoio agroambiental à apicultura».
+3 - [Revogado]
 
-4 - Os apoios previstos para o «Douro Vinhateiro» da ação n.º 7.6 «Culturas permanentes tradicionais», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos no âmbito da ação n.º 7.2 «Produção integrada» nas subparcelas de vinha tradicional ou sistema pré-filoxérico, amendoal de sequeiro ou olival de sequeiro, ou com os apoios «Culturas permanentes tradicionais» da ação n.º 7.6 «Culturas permanentes tradicionais», ou com os apoios da ação n.º 7.12 «Apoio agroambiental à apicultura», quando os muros candidatados tenham um máximo de 500 metros lineares por hectare.
+4 - [Revogado]
 
-5 - Os apoios «Manutenção de socalcos» no «Apoio Zonal Peneda-Gerês», da ação n.º 7.3 «Pagamentos Rede Natura», que respeitem à mesma subparcela agrícola, podem apenas cumular ou com os apoios previstos em «Culturas permanentes tradicionais» da ação n.º 7.6 «Culturas permanentes tradicionais», ou com o apoio «Lameiros de alto valor natural» da ação n.º 7.7 «Pastoreio extensivo» e, em ambas as situações, ainda podem cumular com a ação n.º 7.12 «Apoio agroambiental à apicultura».
+5 - [Revogado].
