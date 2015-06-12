@@ -1,0 +1,9 @@
+Aviso n.º 6563/2015
+Participação pública preventiva
+Plano de Urbanização de Rebordosa e Parcial de Lordelo, Vilela e Astromil
+Dr. Celso Manuel Gomes Ferreira, Presidente da Câmara Municipal do Concelho de Paredes, torna público que, nos termos e para os efeitos do preconizado na legislação aplicável, a Câmara Municipal de Paredes, na sua reunião ordinária pública de 06 de maio de 2015, deliberou, por unanimidade, dar início ao procedimento de revisão do Plano de Urbanização de Rebordosa e parcial de Lordelo, Vilela e Astromil (PURPLVA), estabelecendo um prazo global de 150 dias úteis para a elaboração e determinou a abertura de um período de Participação Pública Preventiva.
+1 - A revisão do Plano de Urbanização de Rebordosa e parcial de Lordelo, Vilela e Astromil visa reconsiderar e reapreciar parte das opções de caráter estrutural e global, princípios e objetivos do modelo territorial definido conforme estabelecido nos Termos de Referência aprovados e disponíveis para consulta no sítio eletrónico oficial do município, http://www.cm-paredes.pt
+2 - Qualquer interessado poderá apresentar, por escrito, sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo processo de revisão, durante os 15 dias úteis que terão início no 8.º dia após a publicação do presente aviso no Diário da República, 2.ª série.
+3 - As sugestões ou informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo processo de revisão serão prestados junto da Divisão de Planeamento e Gestão Urbanística, desta Câmara Municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos ou via Internet conforme indicações no site www.cm-paredes.com.
+26 de maio de 2015. - O Presidente da Câmara Municipal, Celso Manuel Gomes Ferreira, Dr.
+208695565
