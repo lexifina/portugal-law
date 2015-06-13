@@ -1,0 +1,5 @@
+# Anexo
+
+### REGULAMENTO DO JOGO APOSTAS DESPORTIVAS À COTA DE BASE TERRITORIAL
+
+(a que se refere o artigo 1.º)
