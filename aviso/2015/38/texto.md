@@ -1,0 +1,4 @@
+Aviso n.º 38/2015
+Por ordem superior se torna público que, por notificação de 15 de maio de 2015, o Secretário-Geral das Nações Unidas comunicou ter a República Portuguesa depositado, a 15 de maio de 2015, o seu instrumento de ratificação à emenda ao artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, aberta à adesão em 1 de março de 1993.
+A emenda ao artigo 8.º da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial foi aprovada, para adesão, pela Resolução da Assembleia da República n.º 4/2001 e ratificada pelo Decreto do Presidente da República n.º 5/2001, publicados no Diário da República, 1.ª série-A, n.º 23, de 27 de janeiro de 2001.
+Direção-Geral de Política Externa, 29 de maio de 2015. - O Subdiretor-Geral, Rui Vinhas.
