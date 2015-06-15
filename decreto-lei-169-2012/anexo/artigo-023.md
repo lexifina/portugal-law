@@ -14,7 +14,7 @@ b) For junto ao procedimento licença, autorização, aprovação, registo, pare
 
 c) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável;
 
-d) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável na área técnica da saúde e segurança no trabalho elaborado por entidade acreditada.
+d) For junto ao procedimento relatório de avaliação da conformidade com a legislação aplicável nas áreas técnicas da segurança alimentar e ou da saúde e segurança no trabalho elaborado por entidade acreditada.
 
 4 - (Revogado.)
 

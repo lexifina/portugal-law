@@ -13,7 +13,3 @@
 5 - A entidade coordenadora dá conhecimento da decisão ao reclamante, ao industrial, às entidades consultadas e no caso de reclamação relativa a estabelecimento industrial situado em ZER, ao IAPMEI, I. P.
 
 6 - A entidade coordenadora verifica, através de vistoria, o cumprimento das condições impostas na decisão sobre a reclamação, sendo aplicável, com as devidas adaptações, o disposto nos n.os 4 e 5 do artigo 36.º.»
-
-## Capítulo X
-
-## Disposição final

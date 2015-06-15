@@ -12,7 +12,7 @@
 
 a) A execução de projeto de instalação de estabelecimento industrial de tipo 1, sem que tenha sido emitido o título digital de instalação referido no artigo 24.º;
 
-b) [Revogado];
+b) [Revogada.]
 
 c) A execução de projeto de instalação de estabelecimento industrial de tipo 2, sem que tenha sido emitido o título digital de instalação e exploração referido no artigo 32.º;
 
@@ -30,7 +30,7 @@ i) O início da exploração de um estabelecimento industrial de tipo 1 ou de ti
 
 j) O início da exploração de estabelecimento industrial de tipo 3, em violação do disposto no artigo 34.º;
 
-k) A inobservância das condições de exploração do estabelecimento industrial fixadas no título digital de exploração ou no título digital de instalação e exploração, respetivamente, nos termos previstos no n.º 2 do artigo 25.º-B ou no n.º 2 do artigo 32.º e no n.º 6 do artigo 37.º;
+k) A inobservância das condições de exploração do estabelecimento industrial fixadas no título digital de exploração ou no título digital de instalação e exploração, respetivamente, nos termos previstos no n.º 2 do artigo 25.º -B ou no n.º 2 do artigo 32.º e no n.º 6 do artigo 39.º;
 
 l) A inobservância das condições de exploração de ZER fixadas no título digital de exploração nos termos previstos nos n.os 2 e 3 do artigo 50.º, ou ainda, aquando da respetiva atualização, nos termos do n.º 6 do artigo 52.º;
 

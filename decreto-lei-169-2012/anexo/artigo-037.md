@@ -12,6 +12,6 @@
 
 5 - É aplicável às vistorias de reexame o regime das vistorias prévias previsto no artigo 25.º-A, com as devidas adaptações.
 
-6 - O título digital de exploração é sempre atualizado pela entidade coordenadora na sequência da realização das vistorias de conformidade.
+6 - O título digital de exploração é sempre atualizado pela entidade coordenadora na sequência da realização das vistorias de reexame.
 
 7 - A não realização atempada da vistoria de reexame, por motivo não imputável ao industrial, não prejudica a continuidade da exploração do estabelecimento industrial.
