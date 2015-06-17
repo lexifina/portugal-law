@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 40/2015
+A Lei n.º 82-B/2014, de 31 de dezembro, que aprovou o Orçamento do Estado para 2015 estabeleceu o limite máximo até ao qual o Governo é autorizado, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, nomeadamente operações de reporte com valores mobiliários representativos de dívida pública direta do Estado, destinados ao financiamento do défice orçamental e à assunção de passivos, bem como ao refinanciamento da dívida pública.
+A estratégia de gestão da dívida pública direta do Estado tem procurado suavizar o perfil de amortizações, bem como, reduzir o risco de refinanciamento, nomeadamente através da amortização antecipada de empréstimos ou títulos representativos de dívida pública com maturidade original nos anos mais próximos, ou com taxas de juro mais altas, conforme previsto na alínea b) do n.º 1 do artigo 134.º e na alínea c) do n.º 1 do artigo 138.º da Lei n.º 82-B/2014, 31 de dezembro.
+A redução dos custos de financiamento de que se vem beneficiando evidencia que é do interesse público proceder no corrente ano a uma liquidação antecipada parcial do empréstimo contraído junto do Fundo Monetário Internacional. Neste sentido, foi recentemente concretizada a liquidação de um valor equivalente a cerca de EUR 6,6 mil milhões, o que permitiu poupanças significativas no montante de juros a despender pela República Portuguesa.
+Mantendo-se o interesse em prosseguir com a realização de operações semelhantes no decurso do corrente ano, e estando salvaguardado o cumprimento do limite de endividamento líquido global direto previsto no artigo 132.º da Lei n.º 82-B/2014, de 31 de dezembro, a presente resolução aprova a alteração dos montantes máximos de emissão bruta de alguns dos títulos representativos de dívida pública, ajustando-os, nomeadamente ao aumento de emissão de obrigações do tesouro que se pretende concretizar, bem como, ao acréscimo de subscrições de certificados de aforro e de certificados do tesouro poupança mais.
+Torna-se, assim, necessário alterar os limites para a emissão de empréstimos públicos, previstos nos n.os 2 e 4 da Resolução do Conselho de Ministros n.º 3/2015, de 12 de janeiro.
+Assim:
+Nos termos dos artigos 132.º, 134.º a 136.º e 138.º da Lei n.º 82-B/2014, de 31 de dezembro, do n.º 1 do artigo 5.º da Lei n.º 7/98, de 3 de fevereiro, alterada pela Lei n.º 87-B/98, de 31 de dezembro, do n.º 1 do artigo 5.º e da alínea a) do n.º 1 do artigo 7.º dos estatutos da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E., aprovados pelo Decreto-Lei n.º 200/2012, de 27 de agosto, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Determinar que os n.os 2 e 4 da Resolução do Conselho de Ministros n.º 3/2015, de 12 de janeiro, passam a ter a seguinte redação:
+«2 - Autorizar a emissão de obrigações do Tesouro até ao montante máximo de (euro) 30 000 000 000 de acordo com o disposto no Decreto-Lei n.º 280/98, de 17 de setembro, e no respeito pelas seguintes condições complementares:
+a) [...];
+b) [...];
+c) [...];
+d) [...].
+4 - Autorizar a emissão de certificados de aforro e certificados do tesouro poupança mais até ao montante máximo de (euro) 4 000 000 000.»
+2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 4 de junho de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
