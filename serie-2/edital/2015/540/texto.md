@@ -1,0 +1,5 @@
+Edital n.º 540/2015
+Na sequência do Aviso n.º 45/2015, publicado no Diário da República, 2.ª série, N.º 2, páginas 109 a 112, de 5 de janeiro de 2015, torna-se público que, em sessão da Assembleia Municipal, realizada em 23 de abril findo, sob proposta da Câmara e após ter decorrido o prazo para apreciação pública, nos termos do artigo 118.º do Código do Procedimento Administrativo, aplicável por força do disposto no n.º 1, do artigo 8.º, do Decreto-Lei n.º 4/2015, de 7 de janeiro, foi aprovado a alteração de "Regulamento do Serviço de Apoio à Família e Atribuição de Auxílios Económicos", o qual entrará em vigor, no dia útil seguinte após a publicitação deste Edital no Diário da República, com o conteúdo constante da citada publicação de 5 de janeiro de 2015 e com a alteração do ponto 2, do artigo 24.º, Candidaturas, que passa a ter a seguinte redação:
+«Os encarregados de educação devem efetuar a candidatura em impresso próprio fornecido pelo Município, e apresentar declaração comprovativa do posicionamento do abono de família.»
+18 de maio de 2015. - O Presidente da Câmara, José Bernardo Nunes, Dr.
+308648877
