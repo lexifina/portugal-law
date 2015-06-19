@@ -6,7 +6,7 @@
 
 ### Garantias em beneficio do Concedente
 
-O cumprimento cabal e atempado das obrigações assumidas nas presentes bases pela Concessionária será garantido, cumulativamente, através de:
+O cumprimento cabal e atempado das obrigações assumidas no Contrato de Concessão pela Concessionária é garantido, cumulativamente, através de:
 
 a) Caução estabelecida nos montantes e com as condições de execução pelo Concedente estipulados na base seguinte, a qual deverá encontrar-se constituída para que possa iniciar-se a vigência do Contrato de Concessão nos termos previstos na base LXXXVI, devendo manter-se em pleno vigor e eficácia ao longo de todo o período de duração da Concessão e até um ano após a data do Termo da Concessão;
 

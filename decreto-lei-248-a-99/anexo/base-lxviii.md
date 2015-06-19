@@ -14,13 +14,13 @@ a) O valor da caução prestada pela Concessionária na Data de Assinatura do Co
 
 b) Enquanto se encontrarem Lanços em construção, a caução será reforçada, no mês de Janeiro de cada ano, no valor correspondente a 5% do orçamento das obras de cada Lanço a realizar nesse ano;
 
-c) No mês seguinte à data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço será reduzido a 1% do seu valor imobilizado corpóreo bruto reversível, apurado de acordo com o balancete mensal que para o efeito será apresentado pela Concessionária;
+c) No mês seguinte à data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço é reduzido a 1 % do investimento efetuado em formação bruta de capital fixo;
 
 d) (Revogada.)
 
 3 - O valor da caução determinado nos termos do número anterior nunca pode ser inferior a (euro) 2 493 989,48.
 
-4 - No ano seguinte à data de entrada em serviço da totalidade das Auto-Estradas, o valor da caução corresponderá a 1% do valor imobilizado corpóreo bruto reversível da totalidade dos Lanços construídos, apurado de acordo com o balanço aprovado relativo ao exercício anterior, valor esse que será actualizado anualmente de acordo com o IPC publicado para o ano anterior.
+4 - No ano seguinte à data de entrada em serviço da totalidade das Autoestradas, o valor da caução corresponde a 1 % do valor do investimento efetuado em formação bruta de capital fixo totalidade dos Lanços construídos, apurado de acordo com o balanço aprovado relativo ao exercício anterior, valor esse que é atualizado anualmente de acordo com o IPC publicado para o ano anterior.
 
 5 - A caução poderá ser constituída, consoante opção da Concessionária, por uma das seguintes modalidades:
 
@@ -46,6 +46,6 @@ d) Tal se revele necessário em virtude do incumprimento do disposto na alínea 
 
 9 - Sempre que o Concedente utilize a caução nos termos do número anterior, a Concessionária deverá proceder à reposição do seu montante integral no prazo de um mês a contar da data da notificação à Concessionária do despacho referido no número seguinte.
 
-10 - Há recurso imediato à caução nas situações previstas no n.º 8, mediante despacho do MOPTC, sob proposta do InIR, sem necessidade de prévia decisão judicial ou arbitral sobre a matéria em causa.
+10 - Há recurso imediato à caução nas situações previstas no n.º 8, mediante despacho do ME, sob proposta do IMT, sem necessidade de prévia decisão judicial ou arbitral sobre a matéria em causa.
 
 11 - A caução poderá ser levantada pela Concessionária dentro do prazo de um ano a contar da data do Termo da Concessão.

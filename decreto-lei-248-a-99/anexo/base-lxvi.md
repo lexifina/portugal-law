@@ -10,7 +10,7 @@
 
 2 - A Concessionária não poderá, sem prévia autorização do Concedente, trespassar a Concessão.
 
-3 - A Concessionária está impedida, designadamente, de utilizar o Canal Técnico Rodoviário para fins distintos do objecto da Concessão, não podendo o mesmo ser objecto de qualquer negócio jurídico da Concessionária, independentemente da sua natureza.
+3 - A Concessionária está impedida, designadamente, de utilizar o Canal Técnico Rodoviário para fins distintos do objeto da Concessão, não podendo o mesmo ser objeto de qualquer negócio jurídico da Concessionária, independentemente da sua natureza, sem prévia autorização do Concedente, na qual são estabelecidos os mecanismos de partilha de benefícios daí decorrentes.
 
 4 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis.
 

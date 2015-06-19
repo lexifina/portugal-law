@@ -10,11 +10,11 @@ a) O terreno por ela ocupado, abrangendo a plataforma das Auto-Estradas (faixa d
 
 b) As obras de arte incorporadas na Auto-Estradas e os terrenos para implantação das praças de portagem, das Áreas de Serviço, integrando os imóveis que nelas sejam construídos.
 
-3 - Os imóveis adquiridos, por via do direito privado ou de expropriação, para a construção das Auto-Estradas, das Áreas de Serviço, das instalações para cobrança de portagens e assistência dos utentes, bem como as edificações neles construídas integrarão igualmente o domínio público do Concedente.
+3 - Os imóveis adquiridos, por via do direito privado ou de expropriação, para a construção das Autoestradas, das Áreas de Serviço, das instalações para cobrança de taxas de portagem e assistência dos utentes, bem como as edificações neles construídas integram igualmente o domínio público do Concedente.
 
-4 - A Concessionária não poderá por qualquer forma ceder, alienar ou onerar quaisquer dos bens referidos nos números anteriores, os quais, encontrando-se subtraídos ao comércio jurídico privado, não podem igualmente ser objecto de arrendamento ou de qualquer outra forma que titule a ocupação dos respectivos espaços, nem de arresto, penhora ou qualquer providência cautelar, sem prejuízo do disposto na base XLI.
+4 - Salvo na medida do previsto nas presentes bases e no Contrato de Concessão e sem prejuízo do aí disposto, a Concessionária não pode por qualquer forma ceder, alienar ou onerar quaisquer dos bens referidos nos números anteriores, os quais, encontrando-se subtraídos ao comércio jurídico privado, não podem igualmente ser objeto de arrendamento ou de qualquer outra forma que titule a ocupação dos respetivos espaços, nem de arresto, penhora ou qualquer providência cautelar, sem prejuízo do disposto na base XLI.
 
-5 - Os bens móveis a que se refere a alínea b) da base anterior podem ser substituídos, alienados e onerados pela Concessionária, com as limitações resultantes dos números seguintes.
+5 - Os bens móveis a que se refere a alínea b) da base anterior podem ser substituídos, alienados e onerados pela Concessionária, nos termos do número seguinte.
 
 6 - A Concessionária apenas poderá alienar os bens mencionados no número anterior se proceder à sua imediata substituição por outros com condições de operacionalidade, qualidade e funcionamento idênticas ou superiores, excepto tratando-se de bens que comprovadamente tenham perdido função económica.
 

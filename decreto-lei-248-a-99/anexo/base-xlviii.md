@@ -10,9 +10,11 @@
 
 a) Sejam aderentes a um serviço electrónico de cobrança.
 
-3 - Façam prova, perante a entidade gestora do respectivo sistema electrónico de cobrança e mediante apresentação de documento oficial emitido por essa entidade, do preenchimento dos requisitos exigidos neste número.
+b) Façam prova, perante a entidade gestora do respetivo sistema eletrónico de cobrança e mediante apresentação de documento oficial emitido pela entidade competente, do preenchimento dos requisitos exigidos neste número.
 
-4 - A relação entre as tarifas de portagem das classes 4 e 1, a definir pelo MOPTC, não pode ser superior a 2,5.
+3 - A relação entre as tarifas de portagem das classes 4 e 1, a definir pelo ME, não pode ser superior a 2,5.
+
+4 - A relação entre as tarifas das classes 2 e 3 e a tarifa da classe 1, a definir pelo ME, não pode ser superior a, respetivamente, 1,75 e a 2,25.
 
 5 - A relação entre as tarifas das classes 2 e 3 e a tarifa da classe 1, a definir pelo MOPTC, não pode ser superior a, respectivamente, 1,75 e a 2,25.
 

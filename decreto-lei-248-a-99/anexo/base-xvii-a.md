@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Sociedade Concessionária
-
 # Base XVII-A
 
 ### Variação da tributação directa sobre o lucro das sociedades

@@ -2,7 +2,7 @@
 
 ### Condução e controlo dos processos expropriativos
 
-1 - A condução e a realização dos processos expropriativos dos bens ou dos direitos necessários ao estabelecimento da Concessão competem à entidade que o MOPTC designar como entidade expropriante em nome do Estado, à qual cabe também suportar todos os custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou de outras compensações derivadas das expropriações ou da imposição de servidões ou de outros ónus ou encargos delas derivados.
+1 - A condução e a realização dos processos expropriativos dos bens ou dos direitos necessários ao estabelecimento da Concessão competem à entidade que o ME designar como entidade expropriante em nome do Estado, à qual cabe também suportar todos os custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou de outras compensações derivadas das expropriações ou da imposição de servidões ou de outros ónus ou encargos delas derivados.
 
 2 - Sem prejuízo do disposto no número anterior, compete à Concessionária, a todo o tempo e nomeadamente no âmbito dos estudos e projectos a apresentar ao Concedente nos termos do capítulo V, prestar à entidade expropriante toda a informação e colaboração necessárias à facilitação e rapidez dos processos expropriativos.
 

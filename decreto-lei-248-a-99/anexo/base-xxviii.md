@@ -22,7 +22,7 @@ h) Áreas de Serviço e áreas de repouso.
 
 i) Auditoria de segurança.
 
-2 - Os estudos prévios são instruídos conjuntamente com os respectivos Estudos de Impacte Ambiental, elaborados em cumprimento da legislação nacional e comunitária em vigor, de forma a que o Concedente os possa submeter ao MAOT para parecer de avaliação, de acordo com a legislação em vigor.
+2 - Os estudos prévios são instruídos conjuntamente com os respetivos Estudos de Impacte Ambiental, elaborados em cumprimento da legislação nacional e comunitária em vigor, de forma a que o Concedente os possa submeter ao MAOTE para parecer de avaliação, de acordo com a legislação em vigor.
 
 3 - Os projectos base e os projectos de execução devem ser apresentados ao Concedente divididos nos seguintes fascículos independentes:
 
@@ -88,6 +88,6 @@ c) Peças desenhadas - formato DXF ou DWG.
 
 6 - Se a Concessionária pretender utilizar aplicações ou formatos alternativos aos indicados no número anterior, deve fornecer ao Concedente todas as explicações, meios físicos e software necessários para a sua utilização.
 
-7 - Os estudos e os projectos apresentados ao Concedente, nas diversas fases, devem ser instruídos com parecer de revisão emitido por entidades técnicas independentes previamente aceites pelo InIR, o qual os submete à aprovação do MOPTC.
+7 - Os estudos e os projetos apresentados ao Concedente, nas diversas fases, devem ser instruídos com parecer de revisão emitido por entidades técnicas independentes previamente aceites pelo IMT, o qual os submete à aprovação do ME.
 
 8 - A apresentação de projectos ao Concedente deve ser instruída com todas as autorizações necessárias por parte das autoridades competentes.

@@ -6,4 +6,6 @@
 
 2 - Os contratos previstos no número anterior estão sujeitos, quanto à disciplina da sua celebração, modificação e extinção, ao disposto na base LXII.
 
-3 - Independentemente da atribuição da exploração a terceiros das Áreas de Serviço, nos termos da presente base, a Concessionária manterá os direitos e continuará sujeita às obrigações emergentes das presentes bases neste âmbito, responsabilizando-se perante o Concedente pelo cabal cumprimento do mesmo.
+3 - Independentemente da atribuição da exploração a terceiros das Áreas de Serviço, nos termos da presente base, a Concessionária mantém os direitos e continua sujeita às obrigações emergentes do Contrato de Concessão neste âmbito, responsabilizando-se perante o Concedente pelo cabal cumprimento do mesmo.
+
+4 - O regime de exploração das Áreas de Serviço deve cumprir os mínimos estabelecidos no Manual de Operação e Manutenção, salvo autorização expressa do Concedente.

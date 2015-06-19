@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Financiamento
-
 # Base XVIII-A
 
 ### Refinanciamento da Concessão
@@ -10,7 +6,7 @@
 
 2 - As condições constantes dos instrumentos contratuais resultantes do Refinanciamento da Concessão não devem ser mais onerosas para a Concessionária, para os seus accionistas ou para o Concedente, do que as existentes nos contratos de financiamento que substituem.
 
-3 - Os impactes favoráveis que decorram da concretização do Refinanciamento da Concessão são partilhados, em partes iguais, entre a Concessionária e o Concedente, com referência ao valor actual dos mesmos, calculado nos termos referidos nos n.os 8 e 9.
+3 - Os impactes favoráveis que decorram da concretização do Refinanciamento da Concessão são partilhados, em partes iguais, entre a Concessionária e o Concedente, com referência ao valor atual dos mesmos, calculado nos termos referidos nos n.os 8 e 10.
 
 4 - Para efeitos do disposto no número anterior, procede-se ao confronto entre o Caso Base Pré-Refinanciamento e o Caso Base Pós-Refinanciamento.
 
@@ -22,7 +18,7 @@
 
 a) Num pagamento único ao Concedente, a efectuar no momento de realização da operação de Refinanciamento da Concessão;
 
-b) Na dedução faseada aos pagamentos por disponibilidade, a acordar entre as Partes e a ocorrer em períodos a definir; ou
+b) Na dedução faseada aos pagamentos pela disponibilidade das Autoestradas, a acordar entre as Partes e a ocorrer em períodos a definir; ou
 
 c) Numa composição resultante das alternativas anteriores.
 
@@ -46,4 +42,4 @@ b) Negociar a operação de Refinanciamento da Concessão proposta.
 
 15 - A concretização de um Refinanciamento da Concessão fica, em qualquer caso, dependente da decisão da Concessionária e da aprovação do Concedente.
 
-16 - Ocorrendo Refinanciamento da Concessão, o Caso Base Ajustado substitui o Caso Base.
+16 - Ocorrendo Refinanciamento da Concessão, o Caso Base então em vigor é substituído pelo Caso Base Ajustado, entendendo-se todas as referências feitas no Contrato de Concessão para o Caso Base como sendo feitas, a partir desse momento, para o Caso Base Ajustado.

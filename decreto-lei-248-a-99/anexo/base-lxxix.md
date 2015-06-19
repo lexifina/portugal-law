@@ -2,13 +2,13 @@
 
 ### Resolução
 
-1 - O Concedente, sob proposta do MOPTC, e ouvidos o InIR e a IGF, pode pôr fim à Concessão através da resolução do Contrato de Concessão, em caso de violação grave, contínua, se aplicável, e não sanada ou não sanável das obrigações da Concessionária decorrentes do Contrato de Concessão.
+1 - O Concedente, sob proposta do ME, e ouvidos o IMT, a IGF e a UTAP, pode pôr fim à Concessão através da resolução do Contrato de Concessão, em caso de violação grave, contínua, se aplicável, e não sanada ou não sanável das obrigações da Concessionária decorrentes do Contrato de Concessão.
 
 2 - Constituem, nomeadamente, causas de resolução do Contrato de Concessão por parte do Concedente, as seguintes situações:
 
 a) Abandono da construção, exploração ou conservação da Concessão;
 
-b) Dissolução da Concessionária, ou sentença de declaração de insolvência da Concessionária;
+b) Dissolução ou sentença de declaração de insolvência da Concessionária;
 
 c) Não cumprimento reiterado das obrigações que originaram a aplicação das sanções previstas na base LXXV;
 

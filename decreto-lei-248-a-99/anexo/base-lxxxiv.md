@@ -14,7 +14,7 @@ d) Casos em que o direito de aceder à reposição do equilíbrio financeiro é 
 
 2 - As alterações à lei geral, designadamente à lei fiscal e à lei ambiental, ficam expressamente excluídas da previsão da alínea c) do número anterior.
 
-3 - As Partes acordam em que, sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será, sem prejuízo do disposto no número seguinte, efectuada de acordo com o que de boa fé for estabelecido entre o Concedente e a Concessionária, em negociações que deverão iniciar-se logo que solicitadas pela Concessionária.
+3 - Sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição é, sem prejuízo do disposto no número seguinte, efetuada de acordo com o que de boa-fé seja estabelecido entre as Partes, em negociações que devem iniciar-se logo que solicitadas pela Concessionária.
 
 4 - Decorridos 30 dias sobre a notificação do início de negociações sem que as Partes cheguem a acordo sobre os termos em que a reposição do equilíbrio financeiro deve ocorrer, tal reposição terá lugar com referência ao Caso Base, com as alterações que este tiver sofrido ao abrigo do n.º 2 da base LXXXIII e será constituída pela reposição de dois dos três valores constantes do Caso Base para os seguintes Critérios Chave, seleccionados pela Concessionária:
 
@@ -22,7 +22,7 @@ a) Rácios de Cobertura Anual do Serviço da Dívida Sénior;
 
 b) Rácios Anuais de Cobertura da Vida do Empréstimo;
 
-c) TIR Accionista, em termos anuais, relativa ao total do seu investimento em capital, prestações acessórias de capital, suprimentos ou outros empréstimos subordinados por eles feitos à Concessionária.
+c) TIR Acionista, em termos anuais, relativa ao total do seu investimento em capital, prestações acessórias de capital, suprimentos ou outros empréstimos subordinados por eles feitos à Concessionária.
 
 5 - A reposição do equilíbrio financeiro da Concessão nos termos da presente base apenas deverá ter lugar na medida em que, como consequência do impacte isolado ou cumulativo dos eventos referidos no n.º 1:
 
@@ -32,7 +32,7 @@ b) Qualquer valor anual da TIR Accionista seja reduzida em mais de 0,01 pontos p
 
 6 - Sempre que os Rácios de Cobertura Anual do Serviço da Dívida Sénior e os Rácios Anuais de Cobertura da Vida do Empréstimo se situem, no ano ou anos afectados por qualquer dos eventos referidos no n.º 1, em valores iguais ou superiores, respectivamente, a 2,00 e 2,50, a reposição do equilíbrio financeiro da Concessão pode limitar-se à reposição de ambos aqueles valores mínimos, desde que sejam integralmente repostos os valores anuais da TIR Accionista e simultaneamente assegurado o serviço da dívida subordinada, bem como a distribuição anual de dividendos, nos termos previstos no Caso Base.
 
-7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição tem lugar através de uma das seguintes modalidades, consoante, de entre elas, a que, para cada caso, e sem prejuízo do disposto no número seguinte, seja escolhida por acordo entre as Partes ou, na falta de acordo, através do Processo de Resolução de Diferendos:
+7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição tem lugar através de uma das seguintes modalidades, consoante, de entre elas, a que, para cada caso, e sem prejuízo do disposto no número seguinte, seja escolhida por acordo entre as Partes ou, na falta de acordo, através de processo de arbitragem nos termos previstos nas presentes bases:
 
 a) (Revogada.)
 
@@ -44,6 +44,10 @@ d) Combinação das modalidades anteriores, ou qualquer outra forma que seja aco
 
 8 - Caso, durante a fase de projecto e construção das Auto-Estradas, se verifique qualquer dos eventos referidos no n.º 1, a reposição do equilíbrio financeiro da Concessão terá lugar através da atribuição de compensação directa pelo Concedente.
 
-9 - As Partes acordam que a reposição do equilíbrio financeiro da Concessão efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da Concessão, sem prejuízo de aquela reposição poder ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua própria natureza, não sejam susceptíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação as Partes não hajam chegado ainda a acordo.
+9 - A reposição do equilíbrio financeiro da Concessão efetuada nos termos da presente base é, relativamente ao evento que lhe deu origem, única, completa e final para todo o período da Concessão, sem prejuízo de aquela reposição poder ser parcialmente diferida em relação a quaisquer efeitos específicos do evento em causa que, pela sua própria natureza, não sejam suscetíveis de uma razoável avaliação imediata ou sobre cuja existência, incidência ou quantificação as Partes não hajam chegado ainda a acordo.
 
 10 - Para os efeitos previstos na presente base, a Concessionária deverá notificar o Concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua ocorrência.
+
+11 - Caso o direito à reposição do equilíbrio financeiro da Concessão tenha origem em eventos que ocorram após o decurso do prazo da Concessão estipulado no n.º 1 da base IX, o direito da Concessionária à reposição do equilíbrio financeiro e a medida da reposição apuram-se de acordo com os termos gerais de direito, sendo tal reposição efetuada em termos que permitam repor o equilíbrio económico e financeiro do contrato em vigor à data do evento e salvaguardar as legítimas expectativas da Concessionária durante o prazo adicional referido no n.º 3 da base IX.
+
+12 - Sempre que o direito da Concessionária à reposição do equilíbrio financeiro cubra efeitos que se repercutem para além do prazo da Concessão estipulado no n.º 1 da base IX, a medida da reposição, no que respeita a tais efeitos, observa o disposto no número anterior.

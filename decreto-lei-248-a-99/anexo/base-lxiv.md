@@ -2,7 +2,7 @@
 
 ### Autorizações, aprovações e outros actos do Concedente
 
-1 - Compete ao MEF e ao MOPTC, mediante despacho conjunto, a aprovação ou a autorização dos seguintes actos:
+1 - Compete ao MEF e ao ME, mediante despacho conjunto, a aprovação ou a autorização dos seguintes atos:
 
 a) A alteração do objecto social da Concessionária;
 
@@ -16,7 +16,7 @@ e) A redução do capital social da Concessionária;
 
 f) A alteração dos Estatutos da Concessionária;
 
-g) A alienação do capital social da Concessionária, incluindo a transmissão ou oneração das acções, nos termos previstos nas bases XI e XIV;
+g) A transmissão ou oneração das ações, nos casos e nos termos previstos nas bases XI e XIV;
 
 h) A concretização de uma operação de Refinanciamento da Concessão;
 
@@ -28,7 +28,7 @@ l) As alterações nas condições das apólices de seguros.
 
 2 - Sem prejuízo de outro regime expressamente estabelecido, as autorizações ou aprovações previstas no número anterior devem ser expressas e escritas.
 
-3 - Sem prejuízo de outras situações expressamente previstas, compete, conjuntamente, ao MEF e ao MOPTC o exercício dos poderes do Concedente em matéria de resgate, de sequestro, e de resolução do Contrato de Concessão, bem como de reposição do equilíbrio financeiro da Concessão.
+3 - Sem prejuízo de outras situações expressamente previstas compete, conjuntamente, ao MEF e ao ME o exercício dos poderes do Concedente em matéria de resgate, de sequestro, e de resolução do Contrato de Concessão, bem como de reposição do equilíbrio financeiro da Concessão.
 
 4 - As autorizações ou aprovações a emitir pelo Concedente nos termos das bases LXII e LXIII ou as suas eventuais recusas não implicam a assunção de quaisquer responsabilidades pelo Concedente nem exoneram a Concessionária do cumprimento cabal e atempado das obrigações assumidas no Contrato de Concessão.
 

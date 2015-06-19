@@ -2,7 +2,7 @@
 
 ### Disposições gerais relativas a estudos e projectos
 
-1 - A Concessionária promoverá, por sua conta e inteira responsabilidade, a realização dos estudos e projectos relativos aos Lanços a construir, os quais deverão satisfazer as normas legais e regulamentos em vigor.
+1 - A Concessionária promove, por sua conta e inteira responsabilidade, a realização dos estudos e projetos relativos aos Lanços a construir, os quais devem satisfazer as normas legais e regulamentares em vigor.
 
 2 - Os estudos e os projectos referidos no número anterior devem satisfazer as regras gerais relativas à qualidade, à segurança, à comodidade e à economia dos utentes das Auto-Estradas, sem descurar os aspectos de integração ambiental e o enquadramento adaptado à região que as mesmas atravessam, e são apresentados sucessivamente sob as formas de estudos prévios, de projectos base e de projectos de execução, podendo algumas fases de projecto ser dispensadas pelo Concedente, a solicitação devidamente fundamentada da Concessionária.
 

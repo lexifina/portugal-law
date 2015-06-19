@@ -10,6 +10,6 @@
 
 4 - Uma lista identificativa dos bens afectos à exploração e conservação dos Lanços referidos no n.º 2 da base II será elaborada aquando da realização da vistoria prevista no número anterior, devendo ficar anexa ao auto de vistoria ali referido.
 
-5 - A Concessionária declara ter pleno conhecimento do estado de conservação dos Lanços referidos na presente base, bem como das instalações e equipamentos a eles afectos ou que neles se integram, e aceitar a respectiva transferência, sem reservas, nos termos e para os efeitos das presentes bases, independentemente dos resultados da vistoria a que se refere o n.º 3.
+5 - A Concessionária declara ter pleno conhecimento do estado de conservação dos Lanços referidos na presente base, bem como das instalações e equipamentos a eles afetos ou que neles se integram, e aceitar a respetiva transferência, sem reservas, nos termos e para os efeitos do Contrato de Concessão, independentemente dos resultados da vistoria a que se refere o n.º 3.
 
 6 - A Concessionária paga ao Concedente, pela transferência dos Lanços referidos no n.º 2 da base II, um montante global de (euro) 54 867 768,68, a liquidar na Data de Assinatura do Contrato de Concessão.

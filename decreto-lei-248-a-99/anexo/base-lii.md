@@ -1,8 +1,8 @@
 # Base LII
 
-### Não pagamento das taxas de portagem
+### Não pagamento de taxas de portagem
 
-1 - O não pagamento ou o pagamento viciado de taxas de portagem devidas nos Lanços ou Sublanços que integram a Concessão é sancionado nos termos previstos nas disposições legais e regulamentares aplicáveis, incluindo aquelas que regulem as competências e os poderes que assistem aos agentes de fiscalização da Concessionária nesta matéria.
+1 - O não pagamento ou o pagamento viciado de taxas de portagem devidas nos Lanços ou Sublanços que integram a Concessão é sancionado nos termos previstos nas disposições legais e regulamentares aplicáveis, incluindo aquelas que regulem as competências e os poderes que assistem aos agentes de fiscalização, nomeadamente da Concessionária, nesta matéria.
 
 2 - (Revogado.)
 

@@ -2,7 +2,7 @@
 
 ### Critérios de projecto
 
-1 - Na elaboração dos projectos das Auto-Estradas devem respeitar-se as características técnicas definidas nas normas de projecto do InIR ou, caso não existam, da EP, tendo em conta a velocidade base de 120 km/h a 140 km/h, sem prejuízo do disposto no número seguinte.
+1 - Na elaboração dos projetos das Autoestradas devem respeitar-se as caraterísticas técnicas definidas nas normas de projeto do IMT ou, caso não existam, da EP, tendo em conta a velocidade base de 120 km/h a 140 km/h, sem prejuízo do disposto no número seguinte.
 
 2 - Em zonas particularmente difíceis por motivos de ordem topográfica ou urbanística, poderá ser adoptada a velocidade base de 100 km/h e características técnicas inferiores às indicadas, mediante proposta da Concessionária devidamente fundamentada.
 
@@ -10,11 +10,11 @@
 
 4 - Relativamente às obras acessórias e trabalhos complementares a considerar nos projectos e a levar a efeito pela Concessionária, deverá atender-se designadamente ao seguinte:
 
-a) Vedação - as Auto-Estradas são vedadas em toda a sua extensão, utilizando-se, para o efeito, tipos de vedações a aprovar pelo InIR, devendo também as passagens superiores em que o tráfego de peões seja exclusivo ou importante ser vedadas lateralmente em toda a sua extensão;
+a) Vedação - as Autoestradas são vedadas em toda a sua extensão, utilizando-se, para o efeito, tipos de vedações a aprovar pelo IMT, devendo também as passagens superiores em que o tráfego de peões seja exclusivo ou importante ser vedadas lateralmente em toda a sua extensão;
 
-b) Sinalização - é estabelecida a sinalização, horizontal, vertical e variável, indispensável para a conveniente orientação e segurança da circulação, segundo as normas em uso no InIR;
+b) Sinalização - é estabelecida a sinalização, horizontal, vertical e variável, indispensável para a conveniente orientação e segurança da circulação, segundo as normas em uso no IMT;
 
-c) Equipamentos de segurança - são instaladas guardas e outros equipamentos de segurança, nomeadamente no limite da plataforma da auto-estrada junto dos aterros com altura superior a três metros, no separador quando tenha largura inferior a nove metros, bem como na protecção a obstáculos próximos da plataforma ou nos casos previstos nas normas em vigor para o sector;
+c) Equipamentos de segurança - são instaladas guardas e outros equipamentos de segurança, nomeadamente no limite da plataforma das Autoestradas junto dos aterros com altura superior a três metros, no separador quando tenha largura inferior a nove metros, bem como na proteção a obstáculos próximos da plataforma ou nos casos previstos nas normas em vigor para o setor;
 
 d) Integração e enquadramento paisagístico - a integração das Auto-Estradas na paisagem e o seu enquadramento adaptado à região que atravessam serão objecto de projectos especializados que contemplem a implantação do traçado, a modulação dos taludes e o revestimento quer destes quer das margens, separador, Áreas de Serviço e áreas de repouso;
 

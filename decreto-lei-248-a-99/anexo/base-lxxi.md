@@ -8,4 +8,4 @@
 
 3 - Os eventuais desvios devem ser fundamentados nos documentos referidos nos números anteriores e, tratando-se de atrasos, devem ser indicadas as medidas de recuperação previstas.
 
-4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que lhe sejam razoavelmente solicitados pelo Concedente.
+4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos nos n.os 1 e 2, todos os esclarecimentos e informações adicionais que lhe sejam razoavelmente solicitados pelo Concedente.

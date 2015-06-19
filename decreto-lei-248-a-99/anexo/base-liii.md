@@ -1,6 +1,6 @@
 # Base LIII
 
-### Isenções de portagem
+### Isenções de pagamento de taxas de portagem
 
 1 - Estão isentos do pagamento de taxas de portagem os veículos afectos às seguintes entidades ou organismos:
 
@@ -20,16 +20,22 @@ g) Veículos de protecção civil, de bombeiros, ambulâncias e outros veículos
 
 h) Veículos militares ou das forças de segurança, quando em coluna;
 
-i) Veículos da Concessionária, bem como os que possam considerar-se no âmbito da sua actividade ou ao seu serviço;
+i) Veículos da Concessionária, bem como os que se possam considerar no âmbito da sua atividade ou ao seu serviço, incluindo os veículos da Operadora;
 
-j) Veículos afectos à EP e ao InIR, no âmbito das respectivas funções de fiscalização;
+j) Veículos afetos à EP, ao IMT, à IGF e à AMT, ou ao serviço destas entidades, no âmbito das respetivas funções de fiscalização;
 
 k) Veículos afectos à ANSR - Autoridade Nacional da Segurança Rodoviária, no âmbito das respectivas funções de planeamento, coordenação, controlo e fiscalização.
 
-2 - Os veículos a que se refere o número anterior, com excepção dos indicados nas alíneas g) e h), devem circular munidos dos respectivos títulos de isenção, a emitir pelo Concedente.
+2 - Os veículos a que se refere o número anterior, com exceção dos indicados na alínea h), devem circular munidos dos respetivos títulos de isenção, a emitir pelo Concedente, nos termos do número seguinte.
 
-3 - Os títulos de isenção terão um período de validade de dois anos, renovável.
+3 - Apenas é considerado como título de isenção o dispositivo eletrónico associado à matrícula que se encontre registado como isento para os efeitos previstos na presente base.
 
-4 - A Concessionária não pode conceder isenções de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Auto-Estradas e mediante autorização prévia do Concedente.
+4 - Salvo na medida do disposto no número seguinte, os títulos de isenção previstos na presente base têm um período de validade de dois anos, renovável.
 
-5 - A passagem de um veículo isento não dá lugar a uma Transacção.
+5 - Os títulos de isenção previstos na alínea i) do n.º 1 respeitantes a entidades inseridas no âmbito da atividade ou ao serviço da Concessionária são concedidos pelo período de tempo estritamente necessário ao desempenho das atividades ou serviços em causa, não superior a seis meses, renovável.
+
+6 - A Concessionária envia, semestralmente, à EP lista atualizada das isenções referidas no número anterior que se encontrem em vigor.
+
+7 - A Concessionária não pode conceder isenções de pagamento de taxas de portagem para além das estabelecidas no n.º 1, a não ser por motivos inerentes ao serviço próprio das Autoestradas e mediante autorização prévia do Concedente.
+
+8 - A passagem de um veículo isento não dá lugar a uma Transacção.
