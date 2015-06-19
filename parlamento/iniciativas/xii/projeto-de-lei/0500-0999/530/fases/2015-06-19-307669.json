@@ -1,0 +1,398 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "530",
+    "id": "38291",
+    "titulo": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais."
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "2015-06-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10752",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "2015-06-19",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-06-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:37:04:947&drc=00:02:57:646"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "413",
+                "nome": "Luís Pita Ameixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:40:25:252&drc=00:03:44:747"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:45:19:688&drc=00:00:55:311"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/57?pgs=57-59&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:46:53:129&drc=00:02:25:929"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2194",
+                "nome": "Cecília Honório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:49:21:831&drc=00:01:40:358"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:51:15:716&drc=00:03:05:283"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "14:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150619pln&url=l12/sl4/a2015/m06/&tI=03:54:23:555&drc=00:04:23:435"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-06-20",
+                "pubLeg": "XII",
+                "pubNr": "101",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Lei que define os princípios que regem a cobertura jornalística das eleições e referendos nacionais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "307669",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10752",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-06-20",
+        "pubLeg": "XII",
+        "pubNr": "101",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/101/2015-06-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2015-06-19",
+        "descricao": "Requerimento, apresentado pelo PPD/PSD e CDS-PP, de avocação para Plenário da votação dos artigos 6.º (Igualdade de oportunidades e de tratamento das diversas candidaturas), 7.º (Debates entre candidaturas) e o n.º 3 do artigo 9.º (Queixas) do Texto de Substituição apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo ao Projeto de Lei n.º 530/XII/3.ª (PPD/PSD e CDS-PP) e Requerimento, apresentado pelo PCP, de avocação para Plenário da discussão e votação na especialidade das suas propostas de alteração aos artigos 4.º (Princípios orientadores) e 6.º (Igualdade de oportunidades e de tratamento das diversas candidaturas) do Texto de Substituição apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo ao Projeto de Lei n.º 530/XII/3.ª (PPD/PSD e CDS-PP)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "69928",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "101",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
