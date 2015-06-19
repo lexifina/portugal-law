@@ -1,0 +1,17 @@
+# Sentença 8/2015 2ª S/SS de 19 junho
+
+**Designação:** Sentença 8/2015 2ª S/SS de 19 junho
+
+**Data do documento:** 2015-06-19
+
+**Espécie:** Acórdãos, Sentenças e Decisões
+
+**Tipo de documento:** Sentença
+
+**Relator:** Ernesto Laurentino da Cunha
+
+**Texto integral (PDF oficial):** https://www.tcontas.pt/pt-pt/ProdutosTC/Sentencas/2s/Documents/2015/st008-2015-2s.pdf
+
+**Registo oficial:** https://tcjure.tcontas.pt/GetDocument.aspx?numero=123870
+
+Registo de metadados: sem sumário nem texto (decisão que pode identificar pessoas); o texto integral está no PDF oficial. (Metadata record: no summary or text, the decision can name persons; full text in the official PDF.)
