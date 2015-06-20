@@ -24,4 +24,4 @@ a) Data da entrada de candidatura;
 
 b) Outros critérios adicionais que venham a ser estabelecidos nos avisos para apresentação de candidaturas.
 
-7. São submetidos à hierarquização estabelecida neste artigo, os projetos que obtenham uma pontuação global igual ou superior a três e que cumpram as pontuações mínimas nos critérios estabelecidas nos avisos para apresentação de candidaturas.
+7 - [revogado]

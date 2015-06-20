@@ -60,4 +60,4 @@ b) Apresentar um plano de participação em programas de I&D financiados pela Un
 
 c) Caso exista histórico de participação em programas europeus de apoio à I&D, devem os beneficiários demonstrar o efeito de adicionalidade gerado pelo projeto.
 
-10 - No caso dos projetos de proteção de direitos de propriedade intelectual, devem apresentar uma duração máxima de 24 meses, prorrogável, no máximo, por mais 12 meses em casos devidamente justificados.
+10 - No caso dos projetos de proteção de direitos de propriedade intelectual, devem apresentar uma duração de 24 meses, exceto nos casos devidamente justificados, prorrogáveis por mais 12 meses, desde que devidamente fundamentado.

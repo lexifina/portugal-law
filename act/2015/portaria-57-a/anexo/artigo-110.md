@@ -14,7 +14,7 @@ c) As taxas previstas nas alíneas precedentes poderão ser majoradas nos seguin
 
 i. Em 10 pontos percentuais (p.p) para médias empresas;
 
-ii. Em 20 p.p. para pequenas empresas;
+ii. Em 20 p. p. para micro e pequenas empresas;
 
 d) O incentivo global atribuído a cada entidade beneficiária para atividades de investigação industrial e de desenvolvimento experimental não pode exceder, respetivamente, os limites máximos de 80 % e 60 % das despesas elegíveis.
 

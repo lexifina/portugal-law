@@ -10,4 +10,4 @@ a) As despesas elegíveis, realizadas até ao final do 6.º mês para além da d
 
 b) As despesas elegíveis, realizadas entre o 7.º e até ao máximo do 12.º mês para além da data de realização aprovada, são reduzidas em 40 % do seu valor.
 
-3 - A autoridade de gestão pode não aplicar a redução prevista no número anterior quando ocorram motivos de força maior que impliquem um atraso irrecuperável no desenvolvimento do projeto desde que a referida ocorrência seja comprovada no prazo de 30 dias a pós a sua verificação.
+3 - A autoridade de gestão pode não aplicar a redução prevista no número anterior quando ocorram motivos de força maior que impliquem um atraso irrecuperável no desenvolvimento do projeto desde que a referida ocorrência seja comprovada no prazo de 30 dias após a sua verificação.

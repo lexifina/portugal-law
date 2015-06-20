@@ -16,4 +16,8 @@ ii) Em 10 p.p. se o incentivo for concedido a médias empresas e em 20 p.p. se f
 
 d) Dos custos elegíveis com a contratação de recursos humanos altamente qualificados nas empresas em que a taxa base de incentivo é de 50%.
 
+e) No caso dos projetos de formação-ação, sem prejuízo do disposto na alínea c), a contribuição do FSE está limitada a 83 % das despesas elegíveis com exceção das remunerações dos ativos empregados em formação durante o período normal de trabalho para as médias empresas e 86 % para as micro e pequenas empresas;
+
+f) No caso dos projetos de formação-ação, em casos excecionais a definir em avisos, em alternativa às anteriores alíneas c) e e), os apoios podem ser concedidos ao abrigo do regime de auxílios de minimis, com a contribuição do FSE limitada a 90 % das despesas elegíveis excluindo as remunerações dos ativos empregados em formação durante o período normal de trabalho.
+
 2- O incentivo a conceder, nos projetos no âmbito dos vales internacionalização e inovação, é calculado através da aplicação às despesas elegíveis de uma taxa máxima de 75%.

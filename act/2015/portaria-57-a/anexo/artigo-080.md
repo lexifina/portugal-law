@@ -4,7 +4,7 @@
 
 1- Os projetos I&D empresas, projetos demonstradores e programas mobilizadores respeitam o seguinte enquadramento europeu:
 
-a) O Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis, para as despesas que se enquadram na subalínea vii) da alínea a) do n.º 1 do artigo 72.º do presente regulamento, relativas à participação em feiras e exposições, designadamente despesas incorridas com o aluguer, a montagem e o funcionamento dos stands, no caso de Não PME;
+a) O Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis, para as despesas que se enquadram na subalínea viii) da alínea a) do n.º 1 do artigo 72.º do presente regulamento, relativas à participação em feiras e exposições, designadamente despesas incorridas com o aluguer, a montagem e o funcionamento dos stands, no caso de Não PME;
 
 b) O artigo 19.º do Regulamento (UE) n.º 651/2014, de 16 de junho, para as despesas que se enquadram na subalínea vii) da alínea a) do n.º 1 do artigo 72.º do presente regulamento, relativas à participação em feiras e exposições, designadamente despesas incorridas com o aluguer, a montagem e o funcionamento dos stands, no caso de PME;
 
@@ -33,7 +33,3 @@ b) O artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho, no caso de 
 c) O artigo 29.º do Regulamento (UE) n.º 651/2014, de 16 de junho, no caso de PME, para despesas previstas na alínea b) do n.º 11 do artigo 72.º do presente regulamento.
 
 5- Os projetos vale I&D respeitam o n.º 4 do artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho.
-
-PARTE III
-
-Sistema de apoio à modernização e capacitação da Administração Pública

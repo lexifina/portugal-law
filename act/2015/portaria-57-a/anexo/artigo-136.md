@@ -10,7 +10,7 @@ b) Estudos, pesquisas e diagnósticos diretamente relacionados com o desenvolvim
 
 c) Serviços de terceiros, incluindo assistência técnica, científica e consultoria em áreas de conhecimento que ultrapassem a competência dos beneficiários;
 
-d) Promoção e divulgação das atividades e resultados do projeto, incluindo despesas com o desenvolvimento criativo, com a produção ou aquisição de média, matérias, gráficos de promoção e informação e materiais audiovisuais e multimédia;
+d) Promoção e divulgação das atividades e resultados do projeto, incluindo despesas com o desenvolvimento criativo, com a produção ou aquisição de média, materiais gráficos de promoção e informação e materiais audiovisuais e multimédia;
 
 e) Aluguer de espaços e equipamentos para ações de promoção e divulgação das atividades e resultados do projeto, incluindo suporte logístico;
 

@@ -78,7 +78,7 @@ d) Modelos computacionais dos protótipos com funções de simulação, quando a
 
 6- Os custos elegíveis apresentados nos pedidos de pagamento do beneficiário, assentam numa base de custos reais, tendo de ser justificados através de faturas pagas ou outros documentos contabilísticos de valor probatório equivalente, exceto quando prevista a modalidade de custos simplificados.
 
-7- Quando exista a possibilidade de imputação de custos indiretos, os mesmos serão calculados com base em custos simplificados, assentes, por norma, na aplicação da taxa máxima de 25% dos custos elegíveis diretos, com exclusão daqueles que configurem subcontratação e recursos disponibilizados por terceiros, de acordo com o previsto no artigo 20.º do Regulamento Delegado (UE) n.º 480/2014, da Comissão Europeia.
+7 - Quando exista a possibilidade de imputação de custos indiretos, os mesmos são calculados com base em custos simplificados, assentes na aplicação da taxa fixa de 25 % dos custos elegíveis diretos, com exclusão da subcontratação e recursos disponibilizados por terceiros, de acordo com o previsto no artigo 20.º do Regulamento Delegado (UE) n.º 480/2014, de 3 de março.
 
 8- Para efeitos da determinação dos custos com pessoal relacionados com a execução do projeto, podem, para além da imputação de custos reais, ser aplicados os seguintes métodos de custos simplificados:
 

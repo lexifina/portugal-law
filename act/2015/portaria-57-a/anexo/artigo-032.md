@@ -26,15 +26,15 @@ ii) Serviços de engenharia relacionados com a implementação do projeto;
 
 iii) Estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia, associados ao projeto de investimento.
 
-d) Aquisição de serviços de execução de cadastro predial do prédio ou prédios em que incide a operação ou o projeto, incluindo aluguer de equipamento.
-
-e) Formação de recursos humanos no âmbito do projeto com as seguintes despesas elegíveis, de acordo com a natureza e limites previstos em diploma próprio:
+d) Formação de recursos humanos no âmbito do projeto com as seguintes despesas elegíveis, de acordo com a natureza e limites previstos em diploma próprio:
 
 i) Custos do pessoal, relativos a formadores, para as horas em que os formandos participem na formação;
 
 ii) Custos de funcionamento relativos a formadores e a formandos diretamente relacionados com o projeto de formação, como despesas de deslocação, material e fornecimentos diretamente relacionados com o projeto e amortização dos instrumentos e equipamentos, na medida em que forem exclusivamente utilizados no projeto de formação em causa;
 
 iii) Custos do pessoal, relativos a formandos, e custos indiretos gerais, relativamente ao número total de horas em que os formandos participam na formação.
+
+e) Aquisição de serviços de execução de cadastro predial do prédio ou prédios em que incide a operação ou o projeto, incluindo aluguer de equipamento.
 
 2- As despesas referidas no número anterior apenas são elegíveis se os bens e serviços adquiridos preencherem cumulativamente as seguintes condições:
 

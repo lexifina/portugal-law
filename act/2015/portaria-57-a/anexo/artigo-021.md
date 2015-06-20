@@ -14,7 +14,7 @@ b) Adoção de novos, ou significativamente melhorados, processos ou métodos de
 
 a) Produção de novos bens e serviços ou melhorias significativas da produção atual através da transferência e aplicação de conhecimento;
 
-b) Adoção de novos, ou significativamente melhorados, processos ou métodos de fabrico, de logística e distribuição, bem como métodos organizacionais.
+b) Adoção de novos, ou significativamente melhorados, processos ou métodos de fabrico, de logística e distribuição, bem como métodos organizacionais ou de marketing.
 
 4 - No caso dos projetos previstos nos números anteriores:
 

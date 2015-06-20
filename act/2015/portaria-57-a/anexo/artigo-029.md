@@ -14,7 +14,7 @@ c) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço
 
 a) Possuir situação líquida positiva;
 
-b) Não ter projetos aprovados nas prioridades de investimento identificadas no n.º 3 do artigo 21.º;
+b) Não ter projetos aprovados nas tipologias identificadas nos n.os 3 e 5 do artigo 21.º;
 
 c) Corresponder a uma empresa criada há menos de dois anos.
 

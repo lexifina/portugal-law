@@ -12,12 +12,8 @@ c) O artigo 18.º do Regulamento (UE) n.º 651/2014, de 16 de junho, para as des
 
 d) O artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho para as despesas previstas na alínea d) do n.º 1 do artigo 51.º do presente regulamento;
 
-e) O artigo 31º do Regulamento (UE) n.º 651/2014, de 16 de junho, para as despesas previstas na alínea e) do n.º 1 do artigo 51.º do presente regulamento;
+e) O artigo 31.º do Regulamento (UE) n.º 651/2014, de 16 de junho, ou o Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis, para as despesas previstas na alínea e) do n.º 1 do artigo 51.º do presente regulamento;
 
-f) Os artigos 28.º e 29.º do Regulamento (UE) n.º 651/2014, de 16 de junho, para as despesas previstas na alínea f) do n.º 1 do artigo 51.º do presente regulamento.
+f) O artigo 29.º do Regulamento (UE) n.º 651/2014, de 16 de junho, ou o Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis, para as despesas previstas na alínea f) do n.º 1 do artigo 51.º do presente regulamento.
 
-2- Os projetos apoiados no âmbito dos vales internacionalização e inovação respeitam o n.º 4 do artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho.
-
-SECÇÂO III
-
-Investigação e desenvolvimento tecnológico
+2 - Os projetos apoiados no âmbito do vale inovação respeitam o n.º 4 do artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho, e os projetos apoiados no âmbito do vale internacionalização respeitam o artigo 18.º do Regulamento (UE) n.º 651/2014, de 16 de junho, ou do Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis.

@@ -10,4 +10,4 @@ a) Decisão de investimento - o financiamento incentiva a adoção de uma decis�
 
 b) Decisão de localização - o financiamento incentiva a realização do investimento projetado na região relevante, em detrimento de outra, visto compensar as desvantagens e os custos líquidos associados à implantação nessa região.
 
-3 - Para além do disposto nos números anteriores, para os projetos localizados nas NUTS II Norte, Centro e Alentejo, considera-se que há efeito de incentivo quando, na ausência do financiamento, a realização do investimento na respetiva região não teria sido suficientemente rentável para o beneficiário, resultando assim no encerramento de um estabelecimento existente nessa região.
+3 - Caso não se demonstre o efeito de incentivo nos termos do número anterior, para os projetos de interesse especial e projetos de interesse estratégico localizados nas NUTS II Norte, Centro e Alentejo, considera-se que há efeito de incentivo quando, na ausência do financiamento, a realização do investimento na respetiva região não teria sido suficientemente rentável para o beneficiário, resultando assim no encerramento de um estabelecimento existente nessa região.

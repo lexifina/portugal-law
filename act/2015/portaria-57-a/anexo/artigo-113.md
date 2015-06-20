@@ -28,7 +28,7 @@ k) Pagamentos em numerário, efetuados pelos beneficiários aos seus fornecedore
 
 l) Despesas objeto de financiamento por qualquer outro programa nacional ou europeu, com exceção das enquadráveis nos auxílios de Estado, conforme previsto no artigo 112.º;
 
-m) Despesas anteriores à data de início do projeto, com exceção do estabelecido no artigo 108.º ao presente regulamento;
+m) Despesas anteriores à data de início do projeto, no caso das empresas, com exceção do estabelecido no artigo 108.º;
 
 n) Despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis da operação;
 

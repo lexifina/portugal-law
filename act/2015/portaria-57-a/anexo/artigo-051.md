@@ -50,7 +50,7 @@ iii) Custos de serviços de consultoria associados ao projeto de formação, no 
 
 iv) Custos do pessoal, relativos a formandos, e custos indiretos gerais, relativamente ao número total de horas em que os formandos participam na formação.
 
-f) Custos salariais com a contratação de recursos humanos altamente qualificados nas empresas, incluindo o salário base, até ao limite máximo definido no aviso para apresentação de candidaturas ou em orientação técnica, e os encargos sociais obrigatórios, mediante celebração de contrato de trabalho com a duração máxima de 36 meses.
+f) Custos salariais com a contratação de recursos humanos altamente qualificados nas empresas, pelo período máximo de 36 meses, incluindo o salário base, até ao limite máximo definido no aviso para apresentação de candidaturas ou em orientação técnica, e os encargos sociais obrigatórios, mediante celebração de contrato de trabalho.
 
 2- No que se refere à modalidade de candidatura projeto conjunto e para os promotores são elegíveis as despesas com:
 
@@ -72,7 +72,7 @@ a) Serem exclusivamente utilizadas no estabelecimento do beneficiário, no caso 
 
 b) Resultarem de aquisições em condições de mercado a entidades fornecedoras com capacidade para o efeito e a terceiros não relacionados com o adquirente.
 
-5- Os custos do pessoal previstos na subalínea iv) da alínea e) do n.º 1 estão limitados a 20% nas micro e pequenas empresas e a 30% nas médias empresas no caso dos projetos conjuntos de formação-ação.
+5- [revogado].
 
 6- Os custos da contratação previstos na subalínea iii) da alínea a) do n.º 1 incluem o salário base mensal, até ao limite máximo a definir em aviso para apresentação de candidaturas ou em orientação técnica, acrescido dos encargos sociais obrigatórios, devendo respeitar as seguintes condições:
 

@@ -6,7 +6,7 @@
 
 a) As despesas previstas nas alíneas a), b) do n.º 1 e nos n.os 4, 5 e 6 do artigo 32.º:
 
-i) As Orientações relativas aos auxílios estatais com finalidade regional para 2014-2020 (2013/C 209/01), para os projetos que ultrapassem os limiares de notificação previstos no artigo 4.º do Regulamento (UE) n.º 651/2014, de 16 de junho;
+i. As Orientações relativas aos auxílios estatais com finalidade regional para 2014-2020 (2013/C 209/01), para os projetos que ultrapassem os limiares de notificação previstos no artigo 4.º do Regulamento (UE) n.º 651/2014, de 16 de junho, bem como para os projetos que se insiram no setor de construção naval, independentemente da respetiva dimensão;
 
 ii) Os artigos 13.º e 14.º do Regulamento (UE) n.º 651/2014, de 16 de junho, para os projetos que não ultrapassem os limiares de notificação previstos no artigo 4.º do mesmo regulamento;
 
@@ -18,8 +18,6 @@ c) As despesas previstas na alínea c) do n.º 1 do artigo 32.º do presente reg
 
 d) As despesas previstas na alínea c) do n.º 1 do artigo 32.º do presente regulamento, no caso de PME, respeitam o artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho.
 
+e) As despesas previstas na alínea e) do n.º 1 do artigo 32.º respeitam o artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho, ou o Regulamento (UE) n.º 1407/2013, de 18 de dezembro, relativo aos auxílios de minimis.
+
 2- Os projetos apoiados no âmbito do vale empreendedorismo respeitam o n.º 4 do artigo 28.º do Regulamento (UE) n.º 651/2014, de 16 de junho.
-
-SECÇÂO II
-
-Qualificação e internacionalização das PME

@@ -6,7 +6,7 @@
 
 a) Majoração «Investigação industrial»: 25 p.p. a atribuir a atividades de I&D classificadas como tal;
 
-b) Majoração «Tipo de empresa»: 10 p.p. a atribuir a médias empresas ou 20 p.p. a atribuir a pequenas empresas;
+b) Majoração "Tipo de empresa": 10 p. p. a atribuir a médias empresas ou 20 p. p. a atribuir a micro e pequenas empresas;
 
 c) Majoração de 15 p.p. quando se verifique pelo menos uma das seguintes situações:
 

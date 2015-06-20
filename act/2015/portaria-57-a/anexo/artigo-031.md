@@ -6,9 +6,9 @@
 
 a) Majoração «tipo de empresa»:
 
-i) 15 pontos percentuais (p.p.) a atribuir a médias empresas e pequenas empresas que desenvolvam projetos com despesa elegível igual ou superior a 5 milhões de euros;
+i. 15 pontos percentuais (p. p.) a atribuir a médias empresas, independentemente da dimensão do projeto, e a micro e pequenas empresas que desenvolvam projetos com despesa elegível igual ou superior a 5 milhões de euros;
 
-ii) 25 p.p. a atribuir a pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
+ii. 25 p. p. a atribuir a micro e pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
 
 b) Majoração «territórios de baixa densidade»: 10 p.p. a atribuir a projetos localizados em territórios de baixa densidade;
 
