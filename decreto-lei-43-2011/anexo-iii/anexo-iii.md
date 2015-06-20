@@ -1,6 +1,6 @@
 # Anexo III
 
-### (a que se ferefe o artigo 14.º)
+### (a que se refere o artigo 14.º)
 
 Avisos
 
