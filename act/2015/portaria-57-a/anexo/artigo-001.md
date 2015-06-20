@@ -1,3 +1,11 @@
+## Anexo
+
+## Regulamento Específico do Domínio da Competitividade e Internacionalização
+
+## Parte I
+
+## Disposições Gerais
+
 # Artigo 1.º
 
 ### Objeto e âmbito

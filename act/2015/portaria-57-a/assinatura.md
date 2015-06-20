@@ -1,0 +1,1 @@
+O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 26 de fevereiro de 2015. - O Ministro da Economia, António de Magalhães Pires de Lima, em 25 de fevereiro de 2015.

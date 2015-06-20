@@ -1,3 +1,7 @@
+## Secção II
+
+## Qualificação e internacionalização das PME
+
 # Artigo 40.º
 
 ### Objeto
