@@ -1,21 +1,21 @@
 ## Capítulo V
 
-## Prémio de mérito
+## Marca Entidade Empregadora Inclusiva
 
 # Artigo 78.º
 
-### Natureza e modalidades
+### Natureza e objetivos
 
-1 - É instituído um prémio anual a atribuir em cerimónia pública e solene às entidades que em cada ano se distingam na integração profissional das pessoas com deficiências e incapacidades, bem como às pessoas com deficiências e incapacidades que se distingam na criação do próprio emprego.
+1 - A Marca Entidade Empregadora Inclusiva destina-se a promover o reconhecimento e distinção pública de práticas de gestão abertas e inclusivas, desenvolvidas por entidades empregadoras relativamente às pessoas com deficiência e incapacidade.
 
-2 - O prémio de mérito é atribuído nas seguintes modalidades:
+2 - A Marca Entidade Empregadora Inclusiva é atribuída de dois em dois anos aos empregadores, que cumpram o disposto no artigo 5.º e que contribuam para a implementação de um mercado de trabalho inclusivo e se distingam, por práticas de referência, nos seguintes domínios:
 
-a) Diploma de mérito, para grandes empresas;
+a) Recrutamento, desenvolvimento e progressão;
 
-b) Diploma de mérito, para entidades públicas;
+b) Manutenção e retoma;
 
-c) Diploma de mérito, acompanhado de uma prestação pecuniária, para pequenas e médias empresas;
+c) Acessibilidades;
 
-d) Diploma de mérito, acompanhado de uma prestação pecuniária, para pessoas com deficiências e incapacidades que tenham criado o seu próprio emprego.
+d) Serviço e relação com a comunidade.
 
-3 - O prémio é atribuído por decisão de um júri.
+3 - A Marca é atribuída por decisão de um júri.

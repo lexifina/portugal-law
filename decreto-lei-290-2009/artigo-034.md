@@ -10,4 +10,4 @@
 
 4 - O apoio financeiro não pode exceder 50 % do valor da obra ou meio técnico adquirido, até ao limite de 16 vezes o valor do IAS.
 
-5 - Para efeitos do presente artigo, é aplicável o disposto no n.º 2 do artigo anterior.
+5 - Para efeitos do presente artigo é aplicável o disposto nos n.os 2 e 7 do artigo anterior.

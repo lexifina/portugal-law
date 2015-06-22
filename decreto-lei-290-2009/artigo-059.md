@@ -4,4 +4,4 @@
 
 1 - A presente secção regula as relações estabelecidas entre as pessoas com deficiências e incapacidades inseridas nos centros de emprego protegido e nos contratos de emprego apoiado em entidades empregadoras.
 
-2 - A presente secção regula ainda os apoios financeiros a conceder pelo IEFP, I. P., às entidades empregadoras para comparticipação nas despesas com a contratação das pessoas com deficiências e incapacidades inseridas nos centros de emprego protegido e nos contratos de emprego apoiado em entidades empregadoras.
+2 - Revogado.

@@ -2,7 +2,7 @@
 
 ### Cessação do contrato
 
-1 - A cessação do contrato de trabalho, antes do fim do respectivo prazo, inicial ou subsequente, ou nos três anos subsequentes à admissão do trabalhador, no caso de contratos sem termo, determina a devolução do apoio concedido, nas seguintes situações:
+1 - A cessação do contrato de trabalho, antes do fim do respetivo prazo, inicial ou subsequente, ou nos três anos subsequentes à admissão do trabalhador, no caso de contratos sem termo, ou da atribuição do apoio, no caso da manutenção do emprego, determina a devolução do apoio concedido, nas seguintes situações:
 
 a) Revogação do contrato de trabalho;
 

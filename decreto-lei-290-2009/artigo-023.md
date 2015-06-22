@@ -2,4 +2,6 @@
 
 ### Duração
 
-As acções de apoio à colocação podem ter um período máximo de duração de seis meses para cada destinatário, para efeitos de comparticipação financeira do IEFP, I. P., com os custos decorrentes da intervenção.
+1 - As ações de apoio à colocação têm um período máximo de duração de 12 meses.
+
+2 - A contagem do prazo referido no número anterior suspende-se caso o destinatário seja integrado num estágio ou num contrato emprego-inserção que constitua uma etapa prévia do processo de inserção profissional, podendo ser retomada logo que este termine.

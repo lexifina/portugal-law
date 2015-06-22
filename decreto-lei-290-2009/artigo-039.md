@@ -8,6 +8,6 @@ a) Estágio de inserção para pessoas com deficiências e incapacidades;
 
 b) Contrato emprego-inserção para pessoas com deficiências e incapacidades;
 
-c) Centro de emprego protegido;
+c) Emprego protegido;
 
-d) Contrato de emprego apoiado em entidades empregadoras.
+d) Emprego apoiado em mercado aberto.

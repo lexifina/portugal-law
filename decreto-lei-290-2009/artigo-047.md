@@ -1,6 +1,6 @@
 # Artigo 47.º
 
-### Criação
+### Criação de centros de emprego protegido
 
 1 - Os centros de emprego protegido podem ser criados por iniciativa de pessoas colectivas de direito público que não façam parte da administração directa do Estado e por pessoas colectivas de direito privado sem fins lucrativos.
 

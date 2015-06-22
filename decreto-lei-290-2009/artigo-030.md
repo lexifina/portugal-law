@@ -6,4 +6,4 @@
 
 ### Objectivos específicos
 
-Os apoios à adaptação de postos de trabalho e eliminação de barreiras arquitectónicas visam promover a integração socioprofissional da pessoa com deficiências e incapacidades no mercado normal de trabalho, nomeadamente através de apoios que compensem as entidades empregadoras dos encargos decorrentes da sua contratação.
+Os apoios à adaptação de postos de trabalho e eliminação de barreiras arquitetónicas visam promover a integração socioprofissional da pessoa com deficiência e incapacidade no mercado normal de trabalho ou a manutenção do emprego nos casos de deficiência e incapacidade adquirida, nomeadamente através de apoios que compensem os empregadores dos encargos decorrentes da sua contratação ou manutenção no emprego.

@@ -1,19 +1,7 @@
 # Artigo 79.º
 
-### Categorias
+### Níveis de distinção
 
-1 - Cada uma das modalidades do prémio de mérito previstas no n.º 2 do artigo anterior compreende três categorias:
+1 - A Marca é atribuída às entidades que, nos dois anos anteriores ao da candidatura, evidenciem práticas de gestão aberta e inclusiva, relativamente às pessoas com deficiência e incapacidade, em, pelo menos, um dos domínios previstos no n.º 2 do artigo anterior relativamente ao período a que se reporta a candidatura.
 
-a) Diploma de mérito de primeira categoria;
-
-b) Diploma de mérito de segunda categoria;
-
-c) Diploma de mérito de terceira categoria.
-
-2 - A prestação pecuniária associada aos diplomas de mérito previstos nas alíneas c) e d) do n.º 2 do artigo anterior tem os seguintes valores:
-
-a) Diploma de mérito de primeira categoria - 18 vezes o IAS;
-
-b) Diploma de mérito de segunda categoria - 14 vezes o IAS;
-
-c) Diploma de mérito de terceira categoria - 10 vezes o IAS.
+2 - Às entidades a quem seja atribuída a Marca e que se destaquem por práticas exemplares em todos os domínios identificados no n.º 2 do artigo anterior é atribuída a Marca Entidade Empregadora Inclusiva - Excelência.
