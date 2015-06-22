@@ -2,4 +2,4 @@
 
 ### Estabelecimentos comerciais e de prestação de serviços
 
-Nos estabelecimentos de hospedagem, com autorização de utilização nos termos do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, e da Portaria n.º 262/2020, de 6 de novembro, bem como nos imóveis anteriores a 1951, podem ser instalados, complementarmente, estabelecimentos comerciais e de prestação de serviços, incluindo os de restauração e de bebidas, sem prejuízo do cumprimento dos requisitos específicos previstos na lei.
+Nos estabelecimentos de alojamento local referidos na alínea c) do n.º 1 do artigo 3.º e desde que a autorização de utilização o permita, podem instalar-se estabelecimentos comerciais e de prestação de serviços, incluindo os de restauração e de bebidas, sem prejuízo do cumprimento dos requisitos específicos previstos na demais legislação aplicável a estes estabelecimentos.

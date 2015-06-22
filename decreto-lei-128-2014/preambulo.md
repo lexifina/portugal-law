@@ -1,7 +1,3 @@
-Decreto-Lei n.º 128/2014
-
-de 29 de agosto
-
 A figura do alojamento local foi criada pelo Decreto-Lei n.º 39/2008, de 7 de março, alterado pelos Decretos-Leis n.os 228/2009, de 14 de setembro, e 15/2014, de 23 de janeiro, para permitir a prestação de serviços de alojamento temporário em estabelecimentos que não reunissem os requisitos legalmente exigidos para os empreendimentos turísticos.
 
 Tal realidade viria a ser regulamentada através da Portaria n.º 517/2008, de 25 de junho, entretanto alterada pela Portaria n.º 138/2012, de 14 de maio, que, no seguimento da transposição da Diretiva n.º 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, pelo Decreto-Lei n.º 92/2010, de 26 de julho, veio consagrar a possibilidade de inscrição dos estabelecimentos de alojamento local através do Balcão Único Eletrónico.

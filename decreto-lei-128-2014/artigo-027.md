@@ -2,4 +2,8 @@
 
 ### Produto das coimas
 
-O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+O produto das coimas aplicadas reverte:
+
+a) 60 % para o Estado;
+
+b) 40 % para a entidade fiscalizadora.
