@@ -16,6 +16,8 @@ c) Conhecerem suficientemente a língua portuguesa;
 
 d) Não terem sido condenados, com trânsito em julgado da sentença, pela prática de crime punível com pena de prisão de máximo igual ou superior a 3 anos, segundo a lei portuguesa.
 
+e) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
+
 2 - O Governo concede a nacionalidade, por naturalização, aos menores, nascidos no território português, filhos de estrangeiros, desde que preencham os requisitos das alíneas c) e d) do número anterior e desde que, no momento do pedido, se verifique uma das seguintes condições:
 
 a) Um dos progenitores aqui resida legalmente há pelo menos cinco anos;
@@ -29,3 +31,5 @@ b) O menor aqui tenha concluído o 1.º ciclo do ensino básico.
 5 - O Governo pode conceder a nacionalidade, por naturalização, com dispensa do requisito estabelecido na alínea b) do n.º 1, a indivíduos nascidos no território português, filhos de estrangeiros, que aqui tenham permanecido habitualmente nos 10 anos imediatamente anteriores ao pedido.
 
 6 - O Governo pode conceder a naturalização, com dispensa dos requisitos previstos nas alíneas b) e c) do n.º 1, aos indivíduos que, não sendo apátridas, tenham tido a nacionalidade portuguesa, aos que forem havidos como descendentes de portugueses, aos membros de comunidades de ascendência portuguesa e aos estrangeiros que tenham prestado ou sejam chamados a prestar serviços relevantes ao Estado Português ou à comunidade nacional.
+
+7 - O Governo pode conceder a nacionalidade por naturalização, com dispensa dos requisitos previstos nas alíneas b) e c) do n.º 1, aos descendentes de judeus sefarditas portugueses, através da demonstração da tradição de pertença a uma comunidade sefardita de origem portuguesa, com base em requisitos objetivos comprovados de ligação a Portugal, designadamente apelidos, idioma familiar, descendência direta ou colateral.
