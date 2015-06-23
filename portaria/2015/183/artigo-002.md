@@ -1,6 +1,8 @@
 # Artigo 2.º
 
-### Objetivos O INOV Contacto tem como objetivos:
+### Objetivos
+
+O INOV Contacto tem como objetivos:
 
 a) Contribuir para a competitividade das empresas, dotando jovens quadros de uma formação complementar em mercados internacionais através do desenvolvimento de projetos e estudos na área da exportação e da internacionalização, bem como da experiência e vivência temporária em mercados estrangeiros;
 
