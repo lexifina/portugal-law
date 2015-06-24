@@ -9,7 +9,3 @@
 3 - O pessoal que, à data de entrada em vigor do presente decreto-lei, tenha ultrapassado a duração máxima do regime em que exerce o respectivo cargo de pessoal especializado do Ministério dos Negócios Estrangeiros cessa funções no termo do respectivo período da comissão de serviço ou contrato, sem possibilidade de renovação, sem prejuízo do disposto no n.º 3 do artigo 11.º do presente decreto-lei.
 
 4 - Enquanto não for revista a remuneração a atribuir a cada um dos cargos de pessoal especializado previstos no presente decreto-lei mantém-se em vigor o disposto no Decreto Regulamentar n.º 22/91, de 17 de Abril.
-
-## Anexo
-
-## (a que se refere o n.º 1 do artigo 14.º -A)
