@@ -14,6 +14,8 @@ b) Quando tenham sido emitidos com base em prestação de falsas declarações, 
 
 c) Quando o respectivo titular tenha sido objecto de uma medida de afastamento do território nacional.
 
+d) Quando o seu titular constitua perigo ou ameaça grave para a ordem pública, a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
+
 2 - Os vistos de residência e de estada temporária podem ainda ser cancelados quando o respectivo titular, sem razões atendíveis, se ausente do País pelo período de 60 dias, durante a validade do visto.
 
 3 - O disposto nos números anteriores é igualmente aplicável durante a validade das prorrogações de permanência concedidas nos termos previstos na presente lei.

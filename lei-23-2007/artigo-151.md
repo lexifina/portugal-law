@@ -14,7 +14,7 @@
 
 2 - A mesma pena pode ser imposta a um cidadão estrangeiro residente no País, condenado por crime doloso em pena superior a 1 ano de prisão, devendo, porém, ter-se em conta, na sua aplicação, a gravidade dos factos praticados pelo arguido, a sua personalidade, a eventual reincidência, o grau de inserção na vida social, a prevenção especial e o tempo de residência em Portugal.
 
-3 - Sem prejuízo do disposto no número anterior, a pena acessória de expulsão só pode ser aplicada ao cidadão estrangeiro com residência permanente quando a sua conduta constitua uma ameaça suficientemente grave para a ordem pública ou segurança nacional.
+3 - Sem prejuízo do disposto no número anterior, a pena acessória de expulsão só pode ser aplicada ao cidadão estrangeiro com residência permanente, quando a sua conduta constitua perigo ou ameaça graves para a ordem pública, a segurança ou a defesa nacional.
 
 4 - Sendo decretada a pena acessória de expulsão, o juiz de execução de penas ordena a sua execução logo que cumpridos:
 

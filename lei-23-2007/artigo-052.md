@@ -20,7 +20,7 @@ f) Disponham de um seguro de viagem.
 
 3 - É recusada a emissão de visto de estada temporária ou visto de residência a nacional de Estado terceiro que tenha sido condenado por crime que em Portugal seja punível com pena privativa de liberdade de duração superior a um ano, ainda que esta não tenha sido cumprida, ou que tenha sofrido mais de uma condenação em idêntica pena, ainda que a sua execução tenha sido suspensa.
 
-4 - Pode ser recusada a emissão de visto a pessoas que constituam uma ameaça grave para a ordem pública, segurança pública ou saúde pública.
+4 - Pode ser recusada a emissão de visto a pessoas que constituam perigo ou ameaça para a ordem pública, a segurança ou a defesa nacional ou a saúde pública.
 
 5 - Sempre que a concessão do visto seja recusada pelos fundamentos previstos nas alíneas b) e c) do n.º 1, o requerente é informado da possibilidade de solicitar a rectificação dos dados que a seu respeito se encontrem errados.
 
