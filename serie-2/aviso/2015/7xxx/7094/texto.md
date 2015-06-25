@@ -1,0 +1,8 @@
+Aviso n.º 7094/2015
+Discussão pública
+Plano de Urbanização da Cidade de Paredes
+Dr. Celso Manuel Gomes Ferreira, Presidente da Câmara Municipal do Concelho de Paredes, torna público que, nos termos e para os efeitos do preconizado na legislação aplicável, a Câmara Municipal de Paredes, na sua reunião ordinária pública de 15 de junho de 2015, deliberou, por unanimidade, aprovar a proposta de revisão do Plano de Urbanização da Cidade de Paredes (PUCP) e abrir um período de discussão pública, com duração de 22 dias úteis, a iniciar no 5.º dia útil após publicação do Aviso no Diário da República (2.ª série).
+No âmbito da discussão pública estarão disponíveis para consulta, a proposta do plano (elementos que constituem e que acompanham), a ata de Conferência de Serviços, os pareceres emitidos, os dados da Avaliação Ambiental Estratégica (AAE) e as respetivas deliberações da Câmara Municipal, junto da Divisão de Planeamento e Gestão Urbanística, desta Câmara Municipal, sito no Parque José Guilherme, 4580-229 Paredes, nas horas normais de expediente, desde as 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos, na sede da junta de freguesia de Paredes e no sítio eletrónico do município www.cm-paredes.pt.
+Qualquer interessado poderá apresentar, por escrito, reclamações, sugestões, observações ou pedidos de esclarecimento no âmbito do respetivo processo de revisão, durante o período de discussão pública, na Câmara Municipal de Paredes, nas horas normais de expediente, ou via internet, conforme indicações no sítio eletrónico do município www.cm-paredes.pt.
+15 de junho de 2015. - O Presidente da Câmara Municipal, Celso Manuel Gomes Ferreira, Dr.
+208732751
