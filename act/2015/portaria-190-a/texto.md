@@ -1,0 +1,25 @@
+Portaria n.º 190-A/2015
+de 26 de junho
+No âmbito do regime jurídico dos Fundos Europeus Estruturais e de Investimento (FEEI) para o período de programação 2014-2020, a Portaria n.º 60-C/2015, de 2 de março, que se refere às operações do domínio do capital humano, estabelece as regras aplicáveis ao cofinanciamento pelo Fundo Social Europeu (FSE), nas áreas da educação e formação de jovens e adultos; do ensino superior e formação avançada; da qualidade, inovação e inclusão do sistema de educação e formação bem como do investimento no ensino, na formação e nas competências e na aprendizagem ao longo da vida e, pelo Fundo Europeu de Desenvolvimento Regional (FEDER), relativamente ao desenvolvimento das infraestruturas de formação e ensino.
+Na vigência desta Portaria foi identificada a necessidade de proceder à correção de lapsos de escrita.
+Assim, manda o Governo, pelo Secretário de Estado do Desenvolvimento Regional, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à segunda alteração à Portaria n.º 60-C/2015, de 2 de março, alterada pela Portaria n.º 181-A/2015, de 19 de junho.
+Artigo 2.º
+Alteração à Portaria n.º 60-C/2015, de 2 de março
+Os artigos 32.º e 44.º da Portaria n.º 60-C/2015, de 2 de março, alterada pela Portaria n.º 181-A/2015, de 19 de junho, passam a ter a seguinte redação:
+«Artigo 32.º
+Forma, montantes e limites dos apoios
+1 - [...]
+2 - Os apoios aos CQEP previstos na alínea e) do n.º 1 do artigo 30.º são atribuídos na modalidade de taxa fixa, ao abrigo da alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, a qual é aprovada nos termos do n.º 3 do artigo 16.º da Portaria n.º 60-A/2015, de 2 de março.
+Artigo 44.º
+Normas transitórias
+1 - [...]
+2 - [...]
+3 - [...]
+4 - Às operações promovidas durante o ano de 2014 e 2015 no âmbito das ações previstas nas alíneas d) e e) do n.º 1 do artigo 14.º, desenvolvidas pelo IEFP, I. P., para apoio aos cursos de aprendizagem e de educação e formação de adultos, bem como relativamente às operações promovidas durante o ano de 2015 para apoio a bolsas de formação avançada, no âmbito das ações previstas na alínea c) do n.º 1 do artigo 21.º, desenvolvidas pela FCT, I. P., aplicam-se as regras de elegibilidade em vigor no QREN 2007-2013, desde que não contrariem os regulamentos comunitários e a decisão de aprovação do respetivo PO.»
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data da entrada em vigor da Portaria n.º 60-C/2015, de 2 de março.
+O Secretário de Estado do Desenvolvimento Regional, Manuel Castro Almeida, em 26 de junho de 2015.
