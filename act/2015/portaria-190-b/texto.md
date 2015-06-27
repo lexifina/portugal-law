@@ -1,0 +1,793 @@
+Portaria n.º 190-B/2015
+de 26 de junho
+O Decreto-Lei n.º 137/2014, de 12 de setembro, define o modelo de governação dos fundos europeus estruturais e de investimento (FEEI) para o período 2014-2020, designado por Portugal 2020, compreendendo o Fundo Europeu de Desenvolvimento Regional (FEDER), o Fundo Social Europeu (FSE), o Fundo de Coesão (FC), o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) e respetivos programas operacionais e programas de desenvolvimento rural (PDR), bem como a estrutura orgânica relativa ao exercício das competências de apoio, monitorização, gestão, acompanhamento e avaliação, certificação, auditoria e controlo nos termos do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e consigna, ainda, o regime de transição entre o Quadro de Referência Estratégico Nacional (QREN) e o Portugal 2020.
+O Decreto-Lei n.º 167-C/2013, de 31 de dezembro, que vem definir a estrutura e a orgânica do Ministério da Solidariedade, Emprego e Segurança Social, estabelece que compete ao Ministro da Solidariedade, Emprego e Segurança Social assegurar o planeamento e a coordenação da aplicação dos fundos estruturais para a ajuda aos carenciados.
+Por força do Decreto-Lei n.º 137/2014, de 12 de setembro, as disposições dele constantes são ainda aplicáveis ao Fundo Europeu de Apoio aos Carenciados (FEAC), salvaguardando-se as devidas adaptações. O FEAC foi instituído através do Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho, de 11 de março de 2014.
+Muito embora no Decreto-Lei n.º 137/2014, de 12 de setembro, se estabeleçam as regras gerais de governação para o conjunto dos FEEI e para o FEAC, estas necessitam de ser acomodadas às exigências próprias do apoio alimentar a carenciados.
+Assim, importa operacionalizar o FEAC em algumas das matérias que exigem adaptações face à natureza própria deste Fundo, através da aprovação do regulamento anexo à presente Portaria.
+Estabelecem-se, assim, regras especiais de aplicação do FEAC, designadamente, no âmbito dos recursos e da programação, do acompanhamento, avaliação e informação, e do financiamento, pagamentos e sistema de informação.
+O regulamento anexo contou com a participação dos órgãos de governo próprio das regiões autónomas dos Açores e da Madeira.
+Assim:
+Manda o Governo, pelo Ministro Adjunto e do Desenvolvimento Regional e pelo Ministro da Solidariedade, Emprego e Segurança Social, o seguinte:
+1 - Adotar, em anexo à presente Portaria e da qual faz parte integrante, o regulamento geral do Fundo Europeu de Apoio a Carenciados (FEAC) e a regulamentação específica do Programa Operacional de Apoio às Pessoas Mais Carenciadas em Portugal (POAPMC), para o período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020.
+2 - O Regulamento foi aprovado pela Comissão Interministerial de Coordenação do Portugal 2020 - CIC Portugal 2020, em 19 de junho de 2015.
+3 - A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 25 de junho de 2015. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 26 de junho de 2015. - O Secretário de Estado do Desenvolvimento Regional, Manuel Castro Almeida, em 26 de junho de 2015.
+ANEXO
+Regulamento Geral do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC) e Regulamento Específico do Programa Operacional de Apoio às Pessoas Mais Carenciadas (POAPMC).
+PARTE I
+Disposições gerais do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC)
+CAPÍTULO I
+Objeto, âmbito e disposições gerais
+Artigo 1.º
+Objeto
+A Parte I do presente regulamento estabelece o modelo de governação próprio do Fundo de Auxílio Europeu às Pessoas Mais Carenciadas (FEAC), e as suas regras gerais.
+Artigo 2.º
+Programa Operacional
+A estrutura operacional do FEAC concretiza-se num Programa Operacional de âmbito nacional designado por Programa Operacional de Apoio às Pessoas Mais Carenciadas (POAPMC).
+Artigo 3.º
+Regime jurídico
+1 - O regime jurídico de aplicação do POAPMC é constituído, para além do presente regulamento:
+a) Pela legislação europeia aplicável;
+b) Pelo Decreto-Lei n.º 137/2014, de 12 de setembro, com as necessárias adaptações, em tudo o que não estiver expressamente regulado no presente regulamento;
+c) Pelo Decreto-Lei n.º 159/2014, de 27 de outubro, com as necessárias adaptações, em tudo o que não estiver expressamente regulado no presente regulamento;
+d) Pela regulamentação específica do POAPMC.
+2 - A aplicação do POAPMC obedece ainda ao disposto nos seguintes documentos:
+a) Orientações técnicas, administrativas e financeiras relativas à execução do FEAC, da competência da autoridade de gestão e da Agência para o Desenvolvimento e Coesão, I. P. (Agência, I. P.);
+b) Orientações técnicas do âmbito e competência das autoridades de certificação;
+c) Orientações para o exercício da atividade de auditoria, da competência da autoridade de auditoria;
+d) Avisos de abertura de candidatura emitidos pela autoridade de gestão.
+Artigo 4.º
+Definições
+Para efeitos do disposto no presente regulamento, entende-se por:
+a) «Assistência material de base», os bens de consumo básicos de valor limitado e para uso pessoal das pessoas mais carenciadas tais como vestuário, calçado, artigos de higiene, material escolar e sacos-cama, adiante designados como bens de primeira necessidade;
+b) «Beneficiário», o organismo público ou privado responsável pelo arranque, ou pelo arranque e execução, das operações;
+c) «Destinatário final», a pessoa ou as pessoas mais carenciadas a quem são distribuídos géneros alimentícios, ou a quem é prestada assistência material de base;
+d) «Organizações parceiras», os organismos públicos e/ou as organizações sem fins lucrativos que, diretamente ou através de outras organizações parceiras, distribuem alimentos e/ou assistência material de base, combinada, sendo caso disso, com medidas de acompanhamento, sempre que aplicáveis, ou empreendem atividades que visam de forma direta a inclusão social das pessoas mais carenciadas, cujas operações tenham sido selecionadas pela autoridade de gestão;
+e) «Pessoas mais carenciadas», as pessoas singulares, sejam elas indivíduos, famílias, agregados familiares ou agrupamentos compostos por essas pessoas, cuja necessidade de assistência tenha sido estabelecida de acordo com os critérios objetivos definidos;
+f) «Programa operacional de distribuição de alimentos e/ou assistência material de base», programa operacional de apoio à distribuição de alimentos e/ou assistência material de base às pessoas mais carenciadas, combinada, se for caso disso, com medidas de acompanhamento que visem reduzir a exclusão social das pessoas mais carenciadas.
+Artigo 5.º
+Coordenação política
+1 - O órgão de coordenação política para o FEAC é a Comissão Interministerial de Coordenação, designada por CIC Portugal 2020.
+2 - Compete à coordenação política, designadamente:
+a) Coordenar a execução do POAPMC;
+b) Estabelecer orientações estratégicas relativas à monitorização estratégica, operacional e financeira do POAPMC;
+c) Acompanhar a gestão corrente do POAPMC;
+d) Promover a participação económica, social e institucional no acompanhamento do POAPMC;
+e) Aprovar o regulamento geral do FEAC e os regulamentos específicos do POAPMC, sob proposta da autoridade de gestão, após consulta às regiões autónomas dos Açores e da Madeira, e parecer da Agência, I. P.;
+f) Emitir orientações específicas sobre a gestão do POAPMC;
+g) Aprovar as propostas de alteração e reprogramação do POAPMC, sem prejuízo das competências da Comissão Europeia nesta matéria;
+h) Aprovar, nos termos do artigo 11.º, os organismos intermédios, bem como as respetivas competências que neles sejam delegáveis pela autoridade de gestão, após audição, nos casos de organismos intermédios das regiões autónomas, dos respetivos governos regionais;
+i) Apreciar os relatórios anuais e o relatório final de execução do POAPMC.
+Artigo 6.º
+Coordenação técnica
+Compete à Agência, I. P., enquanto órgão de coordenação técnica do FEAC:
+a) Garantir, em articulação com a autoridade de gestão, o apoio técnico ao órgão de coordenação política;
+b) Emitir parecer prévio sobre a regulamentação específica do POAPMC, proposta pela autoridade de gestão;
+c) Elaborar orientações técnicas de gestão e execução do FEAC, incluindo em matéria de elegibilidade de custos, que apoiem o exercício correto das competências da autoridade de gestão e acompanhar a respetiva aplicação;
+d) Emitir parecer sobre os avisos de abertura de candidaturas quando estes integrem regras de execução das operações relativas a custos elegíveis;
+e) Apreciar as propostas de revisão e reprogramação do POAPMC formuladas pela autoridade de gestão;
+f) Definir, em articulação com a autoridade de gestão, a necessidade e oportunidade de efetuar avaliações que afiram a eficácia, eficiência e impacto do POAPMC e as articulações necessárias com o quadro de avaliação do Portugal 2020;
+g) Coordenar e contribuir para a elaboração do processo de monitorização, ponderando a relevância e oportunidade da sua integração no âmbito dos instrumentos de reporte dos FEEI, e avaliação do POAPMC;
+h) Emitir orientações técnicas no âmbito da monitorização, em particular no que se refere aos procedimentos para a produção e à recolha dos indicadores operacionais, financeiros e físicos, em especial no caso daqueles que integram os relatórios de execução, e, no caso dos indicadores físicos, de forma a garantir harmonização de procedimentos e conceitos, nomeadamente com os indicadores utilizados no âmbito dos programas operacionais apoiados pelo Fundo Social Europeu;
+i) Emitir orientações técnicas sobre os exercícios de avaliação e as metodologias de recolha de dados, designadamente os inquéritos estruturados de dados aos destinatários finais, participar no processo de seleção das entidades que os vão realizar, acompanhar estes exercícios e emitir parecer sobre os correspondentes relatórios intercalares e finais;
+j) Propor à coordenação política, após articulação com a autoridade de gestão, desenvolver instrumentos de reporte sobre a aplicação do FEAC e respetivo POAPMC;
+k) Assegurar, em articulação com a autoridade de gestão, a interlocução no plano técnico com a Comissão Europeia.
+Artigo 7.º
+Autoridade de gestão
+1 - A autoridade de gestão do POAPMC é a autoridade de gestão do Programa Operacional Inclusão Social e Emprego (PO ISE).
+2 - A autoridade de gestão responde perante o órgão de coordenação política e presta as informações relevantes e pertinentes sobre a execução do POAPMC, designadamente no que respeita a realizações e resultados, aos órgãos de coordenação técnica, de auditoria e de certificação.
+3 - Das decisões da autoridade de gestão não cabe recurso hierárquico.
+4 - Compete à autoridade de gestão do POAPMC exercer as funções previstas no artigo 32.º do Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho, de 11 de março, e as competências previstas no artigo 26.º do Decreto-Lei n.º 137/2014, de 12 de setembro, em tudo o que for aplicável ao POAPMC.
+Artigo 8.º
+Competências da comissão diretiva do POAPMC
+São competências da comissão diretiva do POAPMC as previstas no artigo 27.º do Decreto-Lei n.º 137/2014, de 12 de setembro, em tudo o que for aplicável ao POAPMC.
+Artigo 9.º
+Competências do presidente da comissão diretiva
+São competências do presidente da comissão diretiva do POAPMC as previstas no artigo 28.º do Decreto-Lei n.º 137/2014, de 12 de setembro, em tudo o que for aplicável ao POAPMC.
+Artigo 10.º
+Secretariado técnico do POAPMC
+1 - O secretariado técnico funciona sob a responsabilidade da comissão diretiva do PO ISE.
+2 - São competências do secretariado técnico as previstas no artigo 29.º do Decreto-Lei n.º 137/2014, de 12 de setembro, em tudo o que for aplicável ao POAPMC.
+Artigo 11.º
+Organismos intermédios
+1 - Podem exercer funções de gestão, mediante delegação da autoridade de gestão, as entidades públicas ou privadas que assegurem condições para melhorar os níveis de eficácia e de eficiência ou para superar insuficiências qualitativas ou quantitativas de recursos técnicos, humanos ou materiais das autoridades de gestão.
+2 - As entidades referidas no número anterior assumem a qualidade de organismos intermédios.
+3 - Compete ao órgão de coordenação política, sob proposta da autoridade de gestão, após consulta aos governos das regiões autónomas dos Açores e da Madeira, aprovar os organismos intermédios do POAPMC.
+4 - Aos organismos intermédios são aplicáveis as regras previstas para a autoridade de gestão para o exercício das mesmas competências.
+Artigo 12.º
+Delegação de competências em organismos intermédios
+1 - O exercício das competências de gestão pode ser delegado pelas autoridades de gestão num organismo intermédio, mediante a celebração de acordo escrito, doravante designado por contrato de delegação de competências.
+2 - São aplicáveis aos organismos intermédios, designadamente, as disposições constantes nos n.os 2, 3 e 4 do artigo 37.º do Decreto-Lei n.º 137/2014, de 12 de setembro, em tudo o que for aplicável ao POAPMC.
+Artigo 13.º
+Autoridades de certificação
+1 - A autoridade de certificação do FEAC é a Agência, I. P.
+2 - A autoridade de certificação do FEAC é responsável por apresentar à Comissão Europeia as declarações de despesa e os pedidos de pagamento, assegurando que resultam de sistemas contabilísticos fiáveis.
+3 - São aplicáveis à autoridade de certificação, com as necessárias adaptações, as disposições constantes nos n.os 1 e 2 do artigo 41.º do Decreto-Lei n.º 137/2014, de 12 de setembro.
+4 - As competências de certificação não são delegáveis.
+Artigo 14.º
+Autoridade de auditoria do FEAC
+1 - A Inspeção-Geral de Finanças (IGF) é a autoridade de auditoria única para o FEAC, nos termos do n.º 1 do artigo 45.º do Decreto-Lei n.º 137/2014, de 12 de setembro.
+2 - A Agência, I. P. dispõe de uma estrutura segregada de auditoria para o FEAC que executa as auditorias em operações, em articulação com a autoridade de auditoria, nos termos do previsto nos artigos 46.º e 47.º do Decreto-Lei n.º 137/2014, de 12 de setembro, com as necessárias adaptações.
+3 - As competências da autoridade de auditoria não são delegáveis.
+Artigo 15.º
+Monitorização e avaliação
+1 - A monitorização e avaliação são implementadas de acordo com as competências atribuídas ao órgão de coordenação técnica e à autoridade de gestão.
+2 - Compete à autoridade de gestão, em articulação com o órgão de coordenação política, definir a necessidade e a oportunidade de efetuar avaliações que afiram a eficácia, eficiência e impacto do POAPMC e em sequência elaborar o respetivo Plano de Avaliação.
+3 - Compete à autoridade de gestão assegurar que as avaliações operacionais do POAPMC são realizadas em conformidade com as disposições europeias e com as orientações nacionais aplicáveis.
+4 - Sem prejuízo do disposto no número anterior, a autoridade de gestão deve realizar um inquérito estruturado aos destinatários finais em 2017 e 2022, de acordo com o modelo adotado pela Comissão Europeia e as orientações emitidas pela Agência, I. P.
+5 - O acompanhamento dos processos de avaliação é promovido pela autoridade de gestão ou pela Agência, I. P., e pode envolver os serviços e organismos da Administração Pública com atribuições e competências em matérias de formulação e avaliação de políticas públicas e, em razão da matéria, os parceiros económicos e sociais relevantes.
+6 - As avaliações devem ser asseguradas por peritos funcionalmente independentes da autoridade de gestão.
+7 - As avaliações devem ser publicadas na íntegra, não podendo incluir de forma alguma informações sobre a identidade dos destinatários finais.
+Artigo 16.º
+Reuniões de análise
+1 - Devem ter lugar, entre a Comissão Europeia, que preside, e o órgão do Estado Membro indicado por aquela, reuniões de análise destinadas a analisar os progressos feitos na execução do POAPMC, tendo em conta o relatório anual de execução e as observações da Comissão Europeia, nos termos previstos no artigo 14.º do Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho de 11 de março de 2014.
+2 - Podem ainda, mediante acordo entre a Comissão Europeia e o respetivo órgão do Estado Membro, ser convidadas a participar na reunião outras partes interessadas em razão da matéria, exceção feita às partes dessa reunião em que a sua participação causaria conflitos de interesse ou quebra da confidencialidade relacionada com questões de auditoria.
+Artigo 17.º
+Comissão de acompanhamento
+1 - É criada uma comissão de acompanhamento para o FEAC, com o objetivo de partilhar informação e auscultar os atores relevantes na implementação do POAPMC.
+2 - A composição e competências da comissão de acompanhamento são definidas por despacho do membro do Governo responsável pela área da segurança social.
+CAPÍTULO II
+Financiamento e pagamentos
+Artigo 18.º
+Financiamento
+1 - Sem prejuízo do disposto no n.º 4, a contribuição pública nacional dos projetos financiados pelo FEAC é suportada através de dotações adequadas inscritas no Orçamento do Estado.
+2 - As dotações referidas no número anterior constam de mapa a incluir no relatório do Orçamento do Estado, evidenciando os montantes e as fontes de financiamento.
+3 - Quando os serviços da administração central, regional e autárquica, os institutos públicos que revistam a natureza de serviços personalizados, os fundos públicos, as associações públicas exclusivamente constituídas por pessoas de direito público, bem como as empresas públicas e outras entidades integradas no sector público empresarial, sejam entidades beneficiárias do FEAC, suportam a contribuição pública nacional.
+4 - Compete à Agência, I. P., gerir as dotações do FEAC e o montante da contrapartida pública nacional.
+Artigo 19.º
+Circuito financeiro do FEAC
+1 - As contribuições europeias relativas ao FEAC são creditadas pela Comissão Europeia diretamente em conta bancária específica (Conta FEAC), criada para o efeito pela Agência, I. P., junto da Agência de Gestão da Tesouraria e da Dívida Pública, E. P. E. (IGCP, E. P. E.), da qual são igualmente canalizados os recursos financeiros a mobilizar para a realização do POAPMC.
+2 - Nestes termos, fica a Conta FEAC abrangida pela gestão dos fluxos financeiros a que se refere o n.º 4 do artigo 68.º do Decreto-Lei n.º 137/2014, de 12 de setembro.
+3 - As contribuições europeias são utilizadas pela Agência, I. P., com base em procedimentos a definir por esta, à medida das necessidades de execução do POAPMC, em função dos pedidos de pagamento emitidos pela autoridade de gestão e das disponibilidades de tesouraria, sem prejuízo do previsto no n.º 5.
+4 - Para efeitos do disposto no número anterior, entende-se por disponibilidade de tesouraria, relativamente ao POAPMC, o valor das contribuições europeias recebidas a título do POAPMC.
+5 - Tendo em conta os recursos financeiros disponíveis na Conta FEAC, e sempre que devidamente justificado pela autoridade de gestão, as disponibilidades de tesouraria podem ser ultrapassadas, por decisão da Agência, I. P., até ao limite correspondente à despesa já apresentada à Comissão Europeia no âmbito da certificação, ainda que não reembolsada, acrescido do valor equivalente a um mês médio de programação financeira do POAPMC, ou até um valor superior, em situações de natureza excecional, designadamente as relacionadas com a concretização das metas financeiras que o POAPMC tem de cumprir e as situações que ponham em risco os reembolsos aos beneficiários.
+6 - No sentido de favorecer a realização financeira do POAPMC, a Agência, I. P., pode mobilizar o quantitativo de operações específicas de tesouro (OET) para que estiver autorizada pela lei que aprova o Orçamento do Estado e nos limites da sua capacidade financeira para fazer face aos encargos.
+Artigo 20.º
+Pagamentos no POAPMC
+1 - Compete à autoridade de gestão emitir autorizações de pagamento aos beneficiários e emitir o correspondente pedido de pagamento à Agência, I. P.
+2 - Os pagamentos aos beneficiários do FEAC são efetuados pela Agência, I. P., com base em pedidos de pagamento emitidos pela autoridade de gestão, nos termos dos procedimentos a definir pela Agência, I. P.
+3 - As regras de operacionalização dos pagamentos aos beneficiários, no caso das candidaturas em parceria, encontram-se definidas no regulamento específico do POAPMC.
+4 - A execução dos pagamentos aos beneficiários é assegurada pela Agência, I. P., no prazo de seis dias úteis após a emissão do pedido de pagamento pela autoridade de gestão, desde que satisfeitas as seguintes condições:
+a) Existência de disponibilidade de tesouraria;
+b) Suficiência das informações exigíveis na fundamentação do pedido de pagamento;
+c) Existência de regular situação contributiva e tributária dos beneficiários e inexistência de dívidas aos Fundos;
+d) Inexistência de decisão de suspensão de pagamentos aos beneficiários;
+e) Garantia da regularidade da despesa realizada.
+5 - Compete à autoridade de gestão assegurar o registo, no sistema de informação do POAPMC, dos dados referentes à validação da despesa, ao pagamento e aos montantes a recuperar, devendo ser salvaguardada a compatibilidade e a transferência automática de dados para o sistema de informação da autoridade de certificação.
+6 - A Agência, I. P., dá conhecimento à autoridade de gestão dos pagamentos efetuados aos beneficiários, bem como dos montantes por si recuperados, no âmbito do POAPMC, sendo estes últimos transferidos para a Conta FEAC.
+CAPÍTULO III
+Sistemas de informação
+Artigo 21.º
+Sistema de informação
+1 - As competências de coordenação técnica, de aplicação do FEAC, de acompanhamento, monitorização, avaliação e auditoria e controlo são apoiadas por um sistema de informação, designado por SI FEAC.
+2 - O SI FEAC baseia-se nos sistemas de informação existentes, sendo criados instrumentos de partilha de informação, através do intercâmbio de dados entre o FEAC, o SISS (sistema de informação da Segurança Social) e os FEEI.
+3 - A autoridade de gestão assegura o desenvolvimento, a manutenção e o pleno funcionamento do SI FEAC, no que respeita às funcionalidades específicas de gestão, observando as indicações dos órgãos de coordenação técnica e das autoridades de certificação e de auditoria.
+4 - A Agência, I. P., assegura, em articulação com a autoridade de gestão, a ligação e a articulação entre o SI FEAC e o sistema de informação da Comissão Europeia, designado por SFC 2014-2020.
+5 - Os organismos intermédios utilizam o SI FEAC.
+6 - Cabe à Agência, I. P., disponibilizar os meios para o armazenamento dos dados do SI FEAC e, nessa medida, garantir, nomeadamente o registo do historial e a proteção e preservação dos dados.
+Artigo 22.º
+Portal de acesso ao SI FEAC
+1 - O acesso ao SI FEAC é feito através do portal do Portugal 2020.
+2 - O SI FEAC aproveita as funcionalidades existentes no portal do Portugal 2020 que promovam a simplificação dos procedimentos aplicáveis no âmbito do FEAC.
+CAPÍTULO IV
+Informação e comunicação
+Artigo 23.º
+Informação e comunicação do Estado Membro
+1 - Compete à autoridade de gestão a elaboração das ações de comunicação adequadas à promoção, informação e publicitação do FEAC, assegurando a sua visibilidade e dos organismos parceiros, sem estigmatizar os destinatários finais.
+2 - Podem ser realizadas ações de comunicação específicas considerando os diferentes instrumentos de apoio, bem como ações de promoção e disseminação de resultados, incluindo informação detalhada sobre os apoios concedidos de acordo com os regulamentos europeus.
+3 - As ações de comunicação devem ser dirigidas às pessoas mais carenciadas, bem como ao público em geral e aos meios de comunicação social, sem estigmatizar os destinatários finais.
+4 - A autoridade de gestão elabora uma lista das operações apoiadas pelo FEAC em formato de folha de cálculo que permita que a informação seja classificada, pesquisada, extraída, comparada e publicada na internet.
+5 - A lista de operações referida no número anterior deve ser atualizada com uma periodicidade não superior a 12 meses e inclui, pelo menos, a seguinte informação:
+a) O nome e endereço do beneficiário;
+b) O montante do financiamento da União;
+c) O tipo de privação material em causa.
+6 - A autoridade de gestão deve informar os beneficiários da publicação da lista de operações referida nos n.os 4 e 5.
+7 - A autoridade de gestão pode elaborar um plano de comunicação para responder às obrigações em matéria de comunicação e informação previstas no presente artigo e outras que considere necessárias e oportunas para a divulgação do FEAC.
+Artigo 24.º
+Obrigações dos beneficiários em matéria de informação e comunicação
+1 - É obrigação dos beneficiários, durante a execução dos projetos apoiados, informar o público sobre o apoio ao abrigo do FEAC, colocando em cada ponto de distribuição, salvo se tal não for possível pelas condições do local, pelo menos um cartaz com informação sobre a operação (dimensão mínima A3), indicando o apoio financeiro da União ou, em alternativa, um emblema da União Europeia, em tamanho claramente identificável, num local visível ao público.
+2 - Os beneficiários e organizações parceiras que disponham de sítios de internet devem igualmente fazer uma referência aos apoios e ao FEAC, que contenha pelo menos os seus objetivos, resultados e o apoio financeiro da União.
+3 - Todas as medidas de informação e comunicação tomadas pelo beneficiário e as organizações parceiras dão conta do apoio do FEAC à operação em causa, mediante aposição do emblema da União juntamente com uma referência à União e ao FEAC.
+4 - A autoridade de gestão deve disponibilizar aos beneficiários e parceiros as ferramentas de informação e de comunicação, incluindo modelos em formato eletrónico, para cumprimento das obrigações referidas no presente artigo.
+5 - Todas as obrigações e ações referidas no presente artigo devem ser concretizadas sem estigmatização dos destinatários finais.
+CAPÍTULO V
+Promoção das atividades apoiadas
+Artigo 25.º
+Operações apoiadas
+1 - São apoiadas no âmbito do FEAC as operações que prossigam os objetivos previstos no Regulamento (UE) n.º 223/2014, do Parlamento e do Conselho de 11 de março.
+2 - A natureza das operações apoiadas é definida na Parte II do presente regulamento.
+Artigo 26.º
+Modalidade de apresentação de candidaturas
+1 - A apresentação de candidaturas a apoio no âmbito do FEAC é feita através de um procedimento concursal, só sendo admitida a apresentação por convite em casos excecionais devidamente justificados, nos termos do artigo 52.º do regulamento específico.
+2 - O regulamento específico do POAPMC define as situações de apresentação obrigatória de candidaturas em parceria.
+3 - Nas candidaturas desenvolvidas em parceria é designada uma entidade que assume a coordenação da parceria, à qual é atribuída a qualidade de entidade coordenadora, sem prejuízo da responsabilidade que cabe a cada uma das entidades parceiras pela execução das ações que integram a operação cofinanciada.
+4 - À entidade coordenadora prevista no número anterior cabe a articulação, quer com a autoridade de gestão, quer entre as várias entidades parceiras, competindo-lhe assegurar a transferência dos montantes atribuídos pela autoridade de gestão, no âmbito da parceria e proceder às reposições por inteiro a que haja lugar, sem prejuízo da responsabilidade solidária a que todas as entidades parceiras estão obrigadas.
+5 - A regulamentação específica do POAPMC fixa, para as candidaturas em parceria, regras complementares ao disposto no presente artigo.
+6 - As candidaturas podem ser anuais ou plurianais, não podendo exceder, neste último caso, 36 meses.
+7 - A execução da candidatura pode ter um prazo superior ao previsto no número anterior, em casos excecionais devidamente fundamentados e expressamente aprovados pela autoridade de gestão.
+CAPÍTULO VI
+Entidades beneficiárias e destinatários
+Artigo 27.º
+Beneficiários
+1 - Podem beneficiar dos apoios do FEAC as pessoas coletivas, de direito público, ou direito privado sem fins lucrativos, incluindo do sector cooperativo, desde que preencham os requisitos definidos no número seguinte e outros definidos no regulamento específico do POAPMC e que podem variar em função da natureza das operações apoiadas.
+2 - São requisitos gerais das entidades beneficiárias:
+a) Estarem legalmente constituídas;
+b) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, e em matéria de reposições no âmbito dos FEEI a verificar até ao momento da assinatura do termo de aceitação;
+c) Possuírem, ou poderem assegurar até à aprovação da candidatura, os meios técnicos, físicos e financeiros e os recursos humanos necessários ao desenvolvimento da operação;
+d) Dispor de contabilidade organizada por um técnico oficial de contas (TOC).
+Artigo 28.º
+Destinatários finais
+1 - São destinatários finais do FEAC as pessoas mais carenciadas que recebem apoio alimentar ou material de base.
+2 - Um destinatário que seja objeto de apoio num determinado período numa tipologia do POAPMC, não pode ser apoiado noutra tipologia do POAPMC no mesmo período.
+CAPÍTULO VII
+Obrigações dos beneficiários
+Artigo 29.º
+Obrigações dos beneficiários
+Sem prejuízo de outras obrigações previstas na legislação europeia ou nacional aplicáveis, ou estabelecidas no regulamento específico do POAPMC, os beneficiários ficam obrigados ao cumprimento das obrigações constantes no n.º 1 do artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+Artigo 30.º
+Processo técnico e contabilístico da operação
+1 - Os beneficiários ficam obrigados a organizar um processo técnico e contabilístico de cada operação cofinanciada, onde constem os documentos comprovativos da execução das suas diferentes ações, o qual pode ser preparado em suporte digital.
+2 - O processo técnico e contabilístico da operação deve estar sempre atualizado e disponível.
+3 - A estrutura e conteúdo do processo técnico e contabilístico são definidos no regulamento específico do POAPMC.
+CAPÍTULO VIII
+Elegibilidades e pagamentos
+Artigo 31.º
+Forma dos apoios aos beneficiários
+1 - Os apoios a conceder no âmbito do FEAC revestem a natureza de subvenções não reembolsáveis, conforme estabelecido na legislação europeia e na regulamentação específica do POAPMC.
+2 - As subvenções não reembolsáveis podem assumir as seguintes modalidades:
+a) Reembolso de custos elegíveis efetivamente incorridos e pagos;
+b) Tabelas normalizadas de custos unitários;
+c) Financiamento através de uma taxa fixa, a determinar pela aplicação de uma percentagem a uma ou várias categorias de custos previamente definidas.
+3 - As opções referidas no número anterior podem ser combinadas em relação a uma única operação apenas quando cada opção se aplica a diferentes categorias de custos ou quando são utilizadas em fases sucessivas da mesma.
+4 - Os montantes referidos nas alíneas b) e c) do n.º 2, são fixados com base num método de cálculo justo equitativo e verificável.
+5 - O método de cálculo referido no número anterior é fixado pela autoridade de gestão, em articulação com o órgão de coordenação técnica.
+6 - Os montantes calculados sob as formas de subvenções referidas nas alíneas b) e c) do n.º 2, são considerados despesas elegíveis incorridas e pagas pelo beneficiário para efeitos da aplicação do Título VI do Regulamento UE n.º 223/2014 do Parlamento e do Conselho, de 11 de março.
+7 - O regulamento específico do POAPMC ou os avisos para apresentação das candidaturas definem a modalidade, a forma e respetivas regras de apoio a aplicar em função dos diferentes tipos de operação.
+Artigo 32.º
+Elegibilidade das operações
+1 - São elegíveis as operações que, de acordo com um processo justo e transparente, foram aprovadas pela autoridade de gestão em conformidade com os critérios de seleção, com a regulamentação específica e com os avisos para apresentação de candidaturas.
+2 - Não são elegíveis as operações que se encontrem fisicamente concluídas ou totalmente executadas antes da apresentação à autoridade de gestão da candidatura ao abrigo do POAPMC, pelo beneficiário final, independentemente de este ter efetuado todos os pagamentos correspondentes.
+3 - Não são elegíveis as operações que tenham sido alvo de financiamento por outro PO ou outro instrumento da União Europeia.
+Artigo 33.º
+Elegibilidade das despesas
+1 - São elegíveis as despesas efetuadas no âmbito da realização de operações aprovadas pela autoridade de gestão em conformidade com os critérios de seleção, com a regulamentação específica e com os avisos para apresentação de candidaturas.
+2 - São elegíveis as despesas que tenham sido realizadas entre 1 de dezembro de 2013 e 31 de dezembro de 2023, sem prejuízo das demais regras de elegibilidade de despesas, designadamente as constantes da legislação europeia e nacional aplicável.
+3 - A autoridade de gestão analisa e procede ao apuramento dos custos elegíveis, de acordo com os critérios estabelecidos no número seguinte e com as regras de elegibilidade, conformidade e razoabilidade das despesas apresentadas pelos beneficiários, podendo reavaliar o custo aprovado em candidatura nomeadamente em saldo, em função da razoabilidade de custo e de indicadores de execução, desde que tal não determine um aumento do custo total aprovado.
+4 - No âmbito da modalidade prevista na alínea a) do n.º 2 do artigo 31.º, consideram-se custos elegíveis de uma operação os que cumpram cumulativamente os seguintes requisitos:
+a) Sejam suscetíveis de financiamento nos termos da legislação europeia e nacional relativa ao FEAC, atenta a sua natureza e limites máximos;
+b) Sejam efetivamente incorridos e pagos pelos beneficiários para a execução das ações que integram a candidatura aprovada pela autoridade de gestão e para os quais haja relevância contabilística e evidência fáctica dos respetivos bens e serviços;
+c) Cumpram com os princípios da economia, eficiência e eficácia e da relação custo/benefício.
+5 - Em função do tipo de operação a apoiar são elegíveis, designadamente as seguintes despesas:
+a) As despesas com a aquisição de alimentos ou de bens de primeira necessidade.
+b) As despesas de transporte de alimentos e os custos de armazenagem, desde que realizados, no âmbito de operações de aquisição de alimentos ou de bens de primeira necessidade, por organismos públicos que os fornecem a organizações parceiras e dentro do limite de 1 % dos encargos suportados com a aquisição desses géneros alimentares ou desses bens de primeira necessidade.
+c) As despesas administrativas, de transporte e de armazenamento realizados por organizações parceiras a uma taxa fixa de 5 % do valor dos géneros alimentares ou dos bens de primeira necessidade;
+d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operações de distribuição de alimentos ou de bens de primeira necessidade, por organizações parceiras a uma taxa fixa de 5 % do valor dos géneros alimentares ou dos bens de primeira necessidade.
+6 - Não são elegíveis, nomeadamente, as seguintes despesas:
+a) O Imposto sobre o Valor Acrescentado (IVA) recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário;
+b) Os juros sobre dívidas;
+c) O fornecimento de infraestruturas;
+d) Os custos de bens em segunda mão;
+e) As despesas pagas no âmbito de contratos efetuados através dos intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis da operação;
+f) Os pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente em função da natureza de despesas, e desde que num quantitativo inferior a 250 euros.
+7 - A metodologia de organização dos custos elegíveis, nomeadamente a sua categorização por rubricas, para efeitos de apresentação da candidatura, pedidos de reembolso e saldo, são definidos no regulamento específico do POAPMC.
+8 - O regulamento específico e os avisos para apresentação de candidaturas, por concurso ou convite, podem concretizar e fixar regras mais restritivas de elegibilidade do que as previstas nos números anteriores, bem como definir a elegibilidade das despesas em função da tipologia das operações.
+Artigo 34.º
+Financiamento e pagamento aos beneficiários do POAPMC
+1 - Os pagamentos aos beneficiários do POAPMC, podem ser efetuados a título de adiantamento, reembolso das despesas efetuadas e pagas e reembolso do saldo final.
+2 - Os montantes e as condições em que pode haver lugar a adiantamento encontram-se definidos no regulamento específico do POAPMC, podendo variar em função da tipologia de operação a apoiar.
+3 - Após o adiantamento, quando a este haja lugar, os beneficiários devem submeter à autoridade de gestão os pedidos de reembolso, com a periodicidade definida no regulamento específico, sobre os quais deve ser proferida decisão, no prazo de 30 dias úteis a contar da data da receção do pedido, o qual se suspende quando a autoridade de gestão solicite, por uma única vez, cópias dos documentos originais, outros documentos ou esclarecimentos adicionais relativos ao pedido de reembolso em análise.
+4 - Os beneficiários de candidaturas plurianuais ficam obrigados a fornecer à autoridade de gestão, nos termos por esta definidos, informação necessária à elaboração do relatório anual do POAPMC, designadamente, informação sobre a execução física e financeira da operação, ficando o pagamento das despesas condicionado à prestação da mesma, salvo motivo devidamente justificado e aceite pela autoridade de gestão.
+5 - Os beneficiários devem apresentar à autoridade de gestão, no prazo de 45 dias úteis a contar da data da conclusão da operação, o pedido de pagamento de saldo final, a constar em formulário próprio, referente ao período que medeia entre o último pedido de reembolso apresentado e o pedido de pagamento de saldo, sobre o qual deve ser proferida decisão, até aos 60 dias úteis subsequentes, o qual se suspende quando a autoridade de gestão solicite, por uma única vez, cópias dos documentos originais, outros documentos ou esclarecimentos adicionais relativos ao pedido de saldo em análise.
+6 - O prazo de 45 dias úteis referido no número anterior pode ser prorrogado, em casos devidamente fundamentados e expressamente aceites pela autoridade de gestão.
+7 - Para efeitos da contagem do prazo de apresentação do pedido de pagamento de saldo, considera-se que a data da conclusão da operação é a que consta do cronograma aprovado como data final para a realização da sua última ação.
+8 - No caso de candidaturas plurianuais, a não execução integral do financiamento aprovado para cada ano civil pode dar lugar à revisão da decisão de aprovação.
+9 - Os pedidos de reembolso e de saldo final são objeto de verificação administrativa e controlo no local, de acordo com as disposições previstas na legislação europeia e no regulamento específico.
+10 - Compete à autoridade de gestão determinar os montantes a pagar e os montantes a recuperar.
+11 - A autoridade de gestão emite os pedidos de pagamento relativos aos pedidos de reembolso e de saldo final, no prazo máximo de 5 dias úteis a contar das datas de tomada de decisão previstas nos n.os 3 e 5 do presente artigo, sem prejuízo do disposto em matéria de compensação de créditos e suspensão de pagamentos.
+12 - Os pagamentos a que se refere o número anterior são integralmente efetuados nos termos do n.º 4 do artigo 20.º, não sendo suscetíveis de arresto, de penhora ou de cessão de créditos.
+CAPÍTULO IX
+Procedimento de candidatura
+Artigo 35.º
+Apresentação de candidaturas, análise e seleção
+1 - As candidaturas podem ser apresentadas em períodos predefinidos, ou, excecionalmente e mediante autorização do órgão de coordenação política, em período contínuo.
+2 - Os prazos para apresentação de candidaturas são fixados por despacho da autoridade de gestão e divulgados no sítio da internet do POAPMC e no portal do Portugal 2020.
+3 - As candidaturas são analisadas e selecionadas de acordo com os critérios de elegibilidade e de seleção constantes no regulamento específico e nos avisos de apresentação de candidatura, por concurso ou por convite.
+4 - Os critérios de seleção são, quando aplicável, estruturados numa avaliação de mérito absoluto, nos termos a fixar no regulamento específico.
+5 - Concluída a análise das candidaturas e antes de adotada a decisão final, devem os candidatos ser ouvidos no procedimento, nos termos legais, designadamente quanto à eventual intenção de indeferimento e aos respetivos fundamentos.
+6 - No regulamento específico do POAPMC são definidas regras complementares ao previsto no presente artigo, designadamente no que se refere à metodologia de aplicação dos critérios de seleção.
+Artigo 36.º
+Decisão
+1 - A decisão fundamentada sobre as candidaturas é proferida pela autoridade de gestão, no prazo de 60 dias úteis a contar da data limite para a respetiva apresentação ou da data de submissão da candidatura, no caso da modalidade de período contínuo.
+2 - A decisão sobre as candidaturas pode ser favorável, desfavorável ou favorável mas condicionada à satisfação de determinados requisitos.
+3 - O prazo referido no n.º 1 suspende-se quando sejam solicitados ao candidato quaisquer esclarecimentos, informações ou documentos, o que só pode ocorrer por uma vez.
+4 - A decisão é notificada ao beneficiário pela autoridade de gestão, no prazo de cinco dias úteis a contar da data da sua emissão.
+5 - A decisão de aprovação, bem com a respetiva notificação, deve incluir, nomeadamente e quando aplicável, os seguintes elementos:
+a) Os elementos de identificação do beneficiário;
+b) A identificação do POAPMC, do fundo, da tipologia da operação e dos códigos europeus correspondentes;
+c) A descrição sumária da operação com indicadores de realização;
+d) O plano financeiro, com discriminação das rubricas aprovadas e respetivos montantes;
+e) As datas de início e de conclusão da operação;
+f) A identificação das condições exigidas para acautelar a boa execução da operação;
+g) O montante anualizado do apoio público e a respetiva taxa de cofinanciamento, com explicitação das fontes de financiamento europeias e nacionais;
+h) O custo total da operação;
+i) O prazo para a assinatura e devolução do termo de aceitação.
+6 - Estão sujeitas a nova decisão das respetivas autoridades de gestão, as alterações aos elementos constantes das alíneas a), b), d) e g) do número anterior, sejam as mesmas anteriores ou posteriores à assinatura do termo de aceitação.
+7 - As alterações referidas no número anterior, feitas a pedido do beneficiário, só são concretizadas após anuência explícita da autoridade de gestão, a qual deve integrar o processo da operação.
+8 - A aceitação do apoio é feita mediante assinatura do termo de aceitação ou submetida eletronicamente e autenticada nos termos a definir no regulamento específico.
+9 - A decisão de aprovação caduca:
+a) Caso não seja submetido ou assinado o termo de aceitação, no prazo máximo de 30 dias úteis a contar da data da notificação da decisão, salvo motivo justificado, não imputável ao beneficiário e aceite pela autoridade de gestão;
+b) Caso o início das atividades apoiadas seja adiado por um período superior a 60 dias úteis em relação à data prevista para o início da sua realização ou à data de devolução do termo de aceitação, salvo autorização expressa da autoridade de gestão.
+10 - Com a assinatura do termo de aceitação, os titulares dos órgãos de direção, de administração e de gestão e outras pessoas que exerçam funções de administração ou gestão ficam subsidiariamente responsáveis pelo cumprimento das obrigações previstas no artigo 29.º
+Artigo 37.º
+Suspensão de pagamentos, redução, revogação e recuperação dos apoios
+1 - Sem prejuízo do disposto na legislação europeia, o incumprimento das obrigações do beneficiário, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, podem determinar a suspensão de pagamentos, bem como a sua redução e a revogação.
+2 - Aos fundamentos que constituem causa de suspensão de pagamentos, redução, revogação do apoio, bem como aos procedimentos que determinam a sua aplicação, são aplicáveis os artigos 38.º e 39.º
+3 - Cabe à Agência, I. P. proceder à recuperação dos apoios no âmbito do FEAC, sendo, neste caso, aplicável o artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, com as necessárias adaptações.
+Artigo 38.º
+Suspensão de pagamentos
+1 - Para efeitos do presente regulamento, a superveniência de situação tributária e contributiva não regularizada perante, respetivamente, a administração fiscal e a segurança social, bem como no âmbito dos apoios concedidos pelos FEEI ou a mudança de conta bancária do beneficiário sem prévia comunicação no prazo de 30 dias úteis à autoridade de gestão ou ao organismo intermédio, determina a suspensão de pagamentos, a qual se mantém até que se verifique a sua regularização.
+2 - Decorrido o prazo de um ano, após a notificação ao beneficiário da decisão de suspensão de pagamentos nos termos do número anterior, os pagamentos de que o beneficiário seja credor revertem a favor da Agência, I. P., reduzindo-se o apoio no âmbito da candidatura ou candidaturas cujos pagamentos se encontrem suspensos em montante igual ao do valor revertido.
+3 - A superveniência das situações previstas no n.º 2 do artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, ou a verificação, por autoridades administrativas, da existência de factos cuja gravidade indicie a existência de ilicitude criminal envolvendo a utilização indevida dos apoios concedidos ou o desvirtuamento da candidatura, determina a suspensão de pagamentos até à prestação de garantia idónea em prazo não superior a 60 dias úteis, sob pena de revogação do apoio, nos termos previstos na alínea i) do n.º 3 do artigo 23.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+4 - A verificação de deficiências de organização dos processos relativos à realização da operação determina a suspensão de pagamentos pelo prazo não superior a 40 dias úteis a contar da notificação da autoridade de gestão ou do organismo intermédio, quando aplicável, determinando a revogação do apoio, caso não sejam enviados, dentro do mesmo prazo, os elementos solicitados, nos termos previstos na alínea g) do n.º 3 do artigo 23.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+Artigo 39.º
+Redução ou revogação do apoio
+1 - À redução e revogação dos apoios aplica-se o regime do artigo 23.º do Decreto-Lei n.º 159/2014, de 27 de outubro, sem prejuízo do disposto nos números seguintes.
+2 - Para efeitos do presente regulamento são objeto de decisão de redução do apoio concedido as operações em que se verifique:
+a) O incumprimento, por parte do beneficiário, durante a execução da operação, das obrigações previstas na alínea g) do n.º 1 do artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, sempre que as deficiências não sejam regularizadas dentro do prazo concedido pela autoridade de gestão ou pelo organismo intermédio, nos termos do n.º 1 do artigo anterior;
+b) A não justificação da despesa, salvo no âmbito de financiamento em regime de custos simplificados;
+c) A imputação de valores superiores aos legalmente permitidos e aprovados ou de valores não elegíveis;
+d) A imputação de despesas não relacionadas com a execução da operação ou não justificadas através de faturas, ou de documentos equivalentes fiscalmente aceites, bem como de despesas não relevadas na contabilidade;
+e) O incumprimento das normas relativas a informação e publicidade;
+f) O desrespeito pelo disposto na legislação nacional e europeia, bem como o disposto nas orientações emanadas pela Comissão Europeia, aplicáveis em matéria de contratação pública, sempre que delas não resulte a revogação do apoio concedido;
+g) A prestação de declarações incorretas sobre o beneficiário, ou a alteração de algum dos critérios de elegibilidade previstos nas alíneas a) e c) do n.º 2 do artigo 27.º, que não afetem a justificação dos apoios recebidos ou a receber;
+h) A prestação de declarações incorretas sobre a realização da operação ou sobre os custos incorridos, que não afetem a justificação dos apoios recebidos ou a receber, e quando não sejam passíveis de determinar, nos termos do artigo anterior, a suspensão de pagamentos até à regularização da situação.
+3 - A redução do apoio é realizada segundo critérios de conformidade e razoabilidade das despesas apresentadas, atendendo, designadamente e sempre que possível, ao grau de incumprimento verificado, aos valores não legalmente permitidos e aprovados ou aos valores considerados não elegíveis.
+4 - Para efeitos do presente regulamento são objeto de decisão de revogação do apoio concedido as operações em que se verifiquem, além dos fundamentos previstos no n.º 3 do artigo 23.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os seguintes fundamentos:
+a) O incumprimento das obrigações do beneficiário previstas no artigo 29.º do presente regulamento;
+b) A não consecução dos resultados contratados, pela autoridade de gestão ou pelo organismo intermédio, quando aplicável, salvo se estiver definida diferente sanção;
+c) A alteração de algum dos critérios de elegibilidade do beneficiário previstos nas alíneas a), c), e d) do n.º 2 do artigo 27.º do presente regulamento quando afetem a justificação dos apoios recebidos ou a receber ou consubstanciem uma alteração aos elementos determinantes da decisão de aprovação do apoio.
+5 - A revogação do apoio determina a restituição do apoio financeiro recebido, nos termos do artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, aplicável com as necessárias adaptações.
+PARTE II
+Regulamento específico do Programa Operacional de Auxílio às Pessoas Mais Carenciadas (POAPMC)
+CAPÍTULO I
+Disposições gerais
+Artigo 40.º
+Objeto
+O presente regulamento específico define o regime de acesso aos apoios concedidos no âmbito das seguintes medidas do POAPMC, apoiado pelo FEAC:
+a) Medida 1 - Aquisição e distribuição de géneros alimentares e ou de bens de primeira necessidade;
+b) Medida 2 - Fornecimento de refeições diárias gratuitas.
+Artigo 41.º
+Objetivos das medidas
+1 - A medida 1 do POAPMC visa a aquisição de géneros alimentares e ou de bens de primeira necessidade por entidades públicas que os distribuem às pessoas mais carenciadas, diretamente ou recorrendo a organizações parceiras.
+2 - A medida 2 do POAPMC visa apoiar o fornecimento gratuito e diário de refeições confecionadas às pessoas mais carenciadas, articulando a rede de cozinhas e cantinas existentes nos equipamentos sociais localizados em Portugal.
+Artigo 42.º
+Âmbito territorial
+O POAPMC é aplicável em todo o território nacional.
+Artigo 43.º
+Financiamento
+Para evitar duplo financiamento, uma operação apoiada pelo POAPMC não pode receber apoio de outro instrumento da União Europeia para o mesmo fim.
+Artigo 44.º
+Taxas de financiamento das despesas elegíveis
+1 - O financiamento público das operações realizadas no âmbito do POAPMC corresponde à soma da contribuição comunitária com a contribuição pública nacional.
+2 - Para efeitos do disposto no número anterior, a taxa de cofinanciamento do POAPMC corresponde a 85 % da despesa pública elegível e a contribuição pública nacional corresponde a 15 % da mesma despesa.
+Artigo 45.º
+Destinatários finais
+1 - São destinatários finais das medidas previstas no presente regulamento os indivíduos e/ou as famílias que se encontrem em situação de carência económica.
+2 - Para efeitos do disposto no presente regulamento o conceito de carência económica é equiparado ao conceito de carência económica aplicável, em cada momento, no âmbito do subsistema de ação social pelo organismo responsável pela execução das políticas de proteção social.
+3 - Para efeitos do disposto no presente regulamento são ainda destinatários finais as pessoas sem-abrigo e as pessoas na situação de indocumentadas de acordo com as regras em vigor no subsistema de segurança social.
+4 - A identificação das pessoas mais carenciadas é efetuada pelo técnico de ação social que acompanha a família, o qual pode pertencer a um organismo público ou a uma organização parceira, de acordo com os critérios de carência, em cada momento, em vigor.
+5 - No âmbito do POAPMC, o destinatário final só pode ser abrangido por uma medida para o mesmo período de tempo, não podendo haver duplicação de destinatários na execução do POAPMC.
+6 - Para efeitos do disposto no número anterior, cabe ao beneficiário indicar a medida mais adequada a cada um dos destinatários finais registado na sua lista, de acordo com as respetivas características.
+Artigo 46.º
+Requisitos das operações
+1 - Na apreciação e seleção das operações são observados os seguintes requisitos, no respeito pelos princípios da equidade, igualdade e transparência:
+a) Enquadramento no âmbito do FEAC e do POAPMC;
+b) Cumprimento dos critérios estabelecidos no POAPMC;
+c) Enquadramento no período de elegibilidade das medidas do POAPMC;
+d) Elegibilidade da operação no âmbito do POAPMC;
+e) Integração da perspetiva do género, da não-discriminação e da igualdade de oportunidades;
+f) Cumprimento da legislação da União Europeia e nacional aplicável;
+g) Respeito pela dignidade das pessoas mais carenciadas;
+h) Localização em Portugal continental e nas regiões autónomas dos Açores e da Madeira;
+i) Enquadramento no período definido para a duração da operação.
+2 - Na apreciação e seleção das operações são ainda observados os critérios previstos nos artigos 53.º, 66.º e 79.º
+Artigo 47.º
+Aprovação e alteração à decisão de aprovação
+1 - A decisão de aprovação das candidaturas observa o disposto no artigo 36.º
+2 - As alterações à decisão de aprovação devem ser apresentadas exclusivamente através do SI FEAC em formulário próprio do qual deve constar a fundamentação respetiva.
+3 - As alterações que carecem de decisão expressa da autoridade de gestão devem concentrar-se num único pedido, por ano civil, devendo ser apresentado até 90 dias úteis antes do final da vigência da operação, salvo situações excecionais devidamente fundamentadas e aceites pela autoridade de gestão.
+4 - A autoridade de gestão avalia o pedido de alteração tendo em conta a fundamentação apresentada.
+5 - A decisão dos pedidos de alteração a que se refere o n.º 3 é comunicada aos beneficiários através de adenda ao termo de aceitação.
+6 - As alterações que não carecem de decisão expressa da autoridade de gestão consideram-se tacitamente aprovadas no prazo de 30 dias úteis a contar da data de receção da comunicação.
+7 - A natureza das alterações que se enquadram nos n.os 3 e 6 do presente artigo encontra-se definida nos artigos 54.º, 67.º e 80.º
+8 - Sem prejuízo do disposto nos números anteriores, quando, em candidaturas plurianuais, não haja execução integral do financiamento aprovado para o ano civil, as verbas não executadas transitam automaticamente para o ano civil seguinte.
+Artigo 48.º
+Informação anual sobre a execução e pedido de pagamento de saldo
+1 - Os beneficiários devem apresentar à autoridade de gestão, no prazo de 45 dias úteis a contar da data da conclusão da operação, o pedido de pagamento de saldo final, que integra a informação física e financeira, através do SI FEAC.
+2 - Deve ser proferida decisão sobre o pedido apresentado nos termos do número anterior até 45 dias úteis a contar da apresentação do pedido de pagamento de saldo.
+3 - Para efeito da contagem do prazo de apresentação do pedido de pagamento de saldo, considera-se que a data da conclusão da operação é a que consta do cronograma aprovado como data final para a realização da última ação.
+4 - O prazo para a decisão sobre o pedido de pagamento de saldo suspende-se com o pedido de esclarecimentos adicionais efetuado pela autoridade de gestão.
+5 - O pagamento do saldo fica condicionado à verificação das condições previstas no n.º 4 do artigo 20.º
+6 - Os beneficiários de candidaturas plurianuais ficam obrigados a fornecer à autoridade de gestão, até 31 de março de cada ano, a informação necessária à elaboração do relatório anual do POAPMC, nos termos por esta definidos, designadamente, informação sobre a execução física e financeira da operação, reportada a 31 de dezembro do ano anterior.
+7 - O pagamento das despesas fica condicionado à prestação da informação referida no número anterior, salvo motivo devidamente justificado aceite pela autoridade de gestão.
+8 - A formalização da informação anual de execução prevista nos números anteriores deve ser efetuada através do SI FEAC em formulário próprio acompanhada de listagem de despesas pagas referente ao período que medeia o último pedido de reembolso apresentado e o pedido de pagamento intermédio.
+CAPÍTULO II
+Medida 1 - Aquisição e distribuição de géneros alimentares e ou de bens de primeira necessidade
+SECÇÃO I
+Disposições específicas
+Artigo 49.º
+Operações elegíveis
+1 - São elegíveis no âmbito do presente capítulo dois tipos de operações:
+a) Aquisição, transporte e armazenagem de géneros alimentares e ou de bens de primeira necessidade;
+b) Distribuição de géneros alimentares e ou de bens de primeira necessidade.
+2 - São ainda elegíveis as ações de acompanhamento, quando associadas à operação de distribuição, que permitam capacitar as famílias e ou as pessoas mais carenciadas na seleção dos géneros alimentares e ou bens de primeira necessidade, na prevenção do desperdício e na otimização da gestão do orçamento familiar, nomeadamente através de sessões de esclarecimento e ou de formação.
+Artigo 50.º
+Duração das operações
+1 - As operações apoiadas no âmbito do presente capítulo podem ter uma duração máxima de 36 meses.
+2 - Para efeitos do disposto no número anterior, considera-se início da operação:
+a) A data do ato que determina o início do procedimento de contratação pública, no caso da operação relativa à aquisição de géneros alimentares e ou de bens de primeira necessidade;
+b) A data do registo do primeiro destinatário final no SI FEAC, no caso da operação relativa à distribuição de géneros alimentares e ou de bens de primeira necessidade e respetivas medidas de acompanhamento.
+SECÇÃO II
+Aquisição de géneros alimentares e ou de bens de primeira necessidade
+Artigo 51.º
+Beneficiários
+Podem ser beneficiários da operação de aquisição de géneros alimentares e ou de bens de primeira necessidade as pessoas coletivas de direito público responsáveis pela área da segurança social no território de Portugal continental e nas regiões autónomas dos Açores e da Madeira.
+Artigo 52.º
+Modalidades de acesso
+O acesso ao financiamento é feito por convite a realizar pela autoridade de gestão a qual pode definir critérios de seleção complementares aos previstos na presente secção.
+Artigo 53.º
+Critérios de seleção das operações
+1 - Para além do cumprimento dos requisitos previstos no artigo 46.º, a seleção dos alimentos e ou dos bens de primeira necessidade é feita de acordo com critérios objetivos relacionados com as pessoas mais carenciadas, com aspetos climáticos e ambientais, tendo em vista a redução dos desperdícios e a contribuição para a dieta equilibrada.
+2 - A concretização dos critérios a que se refere o número anterior é definida no convite.
+Artigo 54.º
+Fundamentos para alteração da decisão de aprovação
+1 - Sem prejuízo do disposto no n.º 6 do artigo 36.º, a alteração à decisão de aprovação, nos termos previstos no artigo 47.º, apenas pode ocorrer nas seguintes situações:
+a) Necessidade de reprogramação de natureza física da candidatura aprovada, sem aumento do montante do financiamento elegível aprovado e sem substituição do respetivo objeto;
+b) Necessidade de reprogramação de natureza financeira, consistindo no reforço financeiro da candidatura aprovada e na transferência de verbas de um ano civil para o outro, com base em informação que permita uma análise detalhada do pedido apresentado.
+2 - Para efeitos do número anterior, carecem de decisão expressa da autoridade de gestão as seguintes alterações à decisão de aprovação:
+a) A alteração do tipo de géneros alimentares e ou dos bens de primeira necessidade a adquirir;
+b) A alteração do número de embalagens coletivas a adquirir em número superior ou inferior a 25 % do número inicialmente aprovado;
+c) A substituição da entidade beneficiária da operação aprovada;
+d) O reforço financeiro globalmente aprovado para a operação.
+3 - As alterações à decisão que resultem da ocorrência das situações previstas no n.º 1 mas não se enquadrem em nenhuma das alíneas do número anterior não carecem de decisão expressa da autoridade de gestão bastando a sua comunicação nos termos previstos no n.º 2 do artigo 47.º
+Artigo 55.º
+Obrigações dos beneficiários
+1 - Constituem obrigações dos beneficiários da operação de aquisição de géneros alimentares e ou de bens de primeira necessidade além das obrigações gerais previstas no artigo 29.º ainda as seguintes:
+a) Selecionar os géneros alimentares e ou os bens de primeira necessidade a distribuir de acordo com critérios objetivos relacionados com as necessidades das pessoas mais carenciadas, tendo em consideração aspetos climáticos e ambientais, e, em especial, a redução dos desperdícios;
+b) Escolher o tipo de géneros alimentares a distribuir em função da sua contribuição para a dieta equilibrada das pessoas mais carenciadas;
+c) Cumprir os normativos nacionais e comunitários aplicáveis em matéria de ambiente, igualdade de oportunidades, concorrência e contratação pública;
+d) Elaborar os cadernos de encargos e os correspondentes programas de concurso para aquisição dos géneros alimentares, e ou de bens de primeira necessidade;
+e) Celebrar os protocolos necessários com outras entidades públicas com competência para dar parecer sobre a seleção dos produtos, as fichas técnicas e a respetiva rotulagem;
+f) Elaborar o mapa de distribuição dos produtos para a sua área geográfica de atuação e submetê-lo no SI FEAC, de forma a ser possível efetuar o controlo de stocks exigido pela Comissão Europeia no Regulamento Delegado n.º 532/2014, da Comissão de 13 de março;
+g) Controlar a execução dos contratos por parte das empresas adjudicatárias;
+h) Efetuar o pagamento às empresas adjudicatárias.
+2 - O mapa de distribuição a que se refere a alínea f) deve ser elaborado tendo em conta o processo de seleção previsto na operação de distribuição.
+Artigo 56.º
+Processo técnico da operação
+1 - Devem constar obrigatoriamente do processo técnico todas as peças que compõem os procedimentos de contratação pública relacionados com a operação cofinanciada, incluindo os respetivos contratos celebrados.
+2 - O processo técnico é estruturado segundo as características da operação, devendo incluir, com as necessárias adaptações, a seguinte documentação:
+a) Processo de candidatura incluindo os comprovativos de submissão ao SI FEAC e respetivos anexos;
+b) Proposta de decisão de aprovação, incluindo a comunicação da decisão e o respetivo termo de aceitação;
+c) Cronograma da operação;
+d) Mapa de distribuição nacional;
+e) Cópia dos contratos de fornecimento dos produtos e das guias de remessa que comprovam a sua entrega nos locais de distribuição definidos no mapa de distribuição nacional.
+3 - No caso da operação se ter iniciado antes da aprovação do POAPMC e da designação da autoridade de gestão, o comprovativo de submissão da candidatura no SI FEAC pode ser substituído pelo documento em papel apresentado à autoridade de gestão.
+Artigo 57.º
+Processo contabilístico da operação
+1 - Os beneficiários ficam obrigados a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e métodos de custeio.
+2 - Os beneficiários ficam ainda obrigados a:
+a) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;
+b) Registar nos documentos originais o número de lançamento na contabilidade e a menção do seu financiamento através do FEAC, indicando a designação do POAPMC, o número da candidatura e o correspondente valor imputado;
+c) Identificar, para cada operação, a chave de imputação e os seus pressupostos no caso de custos comuns;
+d) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento de saldo final, de acordo com o modelo definido por aquela entidade.
+3 - Nos casos previstos na alínea b) do número anterior, quando não seja possível efetuar o registo nos documentos originais, o beneficiário deve apresentar, sempre que solicitado, o verbete produzido por software de contabilidade adequado do qual constem as referências às contas movimentadas na contabilidade geral e à chave de imputação utilizada.
+4 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um TOC ou por um revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento das operações, a regularidade das operações contabilísticas.
+5 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo.
+6 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.
+Artigo 58.º
+Elegibilidade das despesas
+1 - No âmbito da operação de aquisição de géneros alimentares e ou de bens de primeira necessidade, são elegíveis nos termos das alíneas a) e b) do n.º 5 do artigo 33.º:
+a) As despesas com a aquisição de géneros alimentares e ou de bens de primeira necessidade;
+b) As despesas com o transporte e os custos de armazenagem.
+2 - As despesas com o transporte e armazenagem são financiadas a uma taxa fixa de 1 % do valor correspondente à aquisição de géneros alimentares e ou de bens de primeira necessidade.
+3 - São elegíveis as despesas que tenham sido realizadas entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data da conclusão da operação, que constituem a data limite para apresentação do saldo final.
+4 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+Artigo 59.º
+Adiantamentos e pedidos de reembolso
+1 - A aceitação da decisão de aprovação da candidatura pelos beneficiários confere-lhes o direito à perceção de financiamento para a realização das respetivas operações.
+2 - Os beneficiários têm direito a um adiantamento, no valor correspondente a 15 % do montante de financiamento aprovado para cada ano civil, o qual é processado nas seguintes condições:
+a) Submissão eletrónica no SI FEAC do termo de aceitação da decisão de aprovação;
+b) Verificação da situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social e os Fundos;
+c) Comunicação no SI FEAC do início ou reinício da operação.
+3 - O pedido de reembolso é efetuado com uma periodicidade trimestral devendo os beneficiários submeter no SI FEAC:
+a) A listagem de todas as despesas pagas por rubrica;
+b) O mapa que evidencie o nível de execução dos indicadores de realização física, incluindo a quantidade de produtos que foram adquiridos e atribuídos.
+4 - O somatório do adiantamento com os pagamentos intermédios de reembolso não pode exceder 85 % do montante total aprovado para a operação, sendo o pagamento do respetivo saldo, de 15 %, autorizado após a solicitação pelo beneficiário do pedido de pagamento de saldo e confirmação da boa execução da operação.
+5 - Os pagamentos ficam condicionados aos fluxos financeiros da Comissão Europeia, conforme estipulado no n.º 2 do artigo 42.º do Regulamento (UE) n.º 223/2014, de 11 de março.
+6 - Os pagamentos aos beneficiários são efetuados para uma conta bancária devidamente identificada, sendo que a mudança de domicílio ou de conta bancária, sem comunicação prévia à autoridade de gestão no prazo de 30 dias úteis, determina a suspensão de pagamentos, nos termos previstos no artigo 38.º
+SECÇÃO III
+Distribuição de géneros alimentares e ou de bens de primeira necessidade
+Artigo 60.º
+Operações elegíveis
+1 - São elegíveis no âmbito da presente secção as operações que visem a distribuição às pessoas mais carenciadas, por organizações parceiras, públicas ou privadas, de géneros alimentares e ou de bens de primeira necessidade adquiridos no âmbito das operações de aquisição, bem como o desenvolvimento de medidas de acompanhamento com vista à inclusão social daquelas.
+2 - A distribuição pode efetuar-se mediante:
+a) A entrega direta dos produtos às pessoas mais carenciadas nas instalações da entidade parceira ou no domicílio das pessoas carenciadas;
+b) A confeção de refeições, para consumo pelas pessoas mais carenciadas, nas instalações da organização parceira.
+3 - A forma de distribuição prevista na alínea b) do número anterior é implementada, a título excecional, nos anos de 2014 e 2015.
+Artigo 61.º
+Beneficiários
+1 - Podem ser beneficiários da operação de distribuição de géneros alimentares e ou de bens de primeira necessidade as pessoas coletivas de direito público e privado sem fins lucrativos, incluindo do setor cooperativo.
+2 - Os beneficiários nesta operação assumem a qualidade de organizações parceiras de acordo com as seguintes modalidades:
+a) Polo de receção, ao qual compete receber e armazenar os géneros alimentares e ou de bens de primeira necessidade, garantindo a respetiva entrega e boa receção pelas entidades parceiras mediadoras, que os distribuem diretamente aos destinatários finais;
+b) Mediadora, à qual cabe a distribuição direta dos géneros alimentares e ou de bens de primeira necessidade aos destinatários finais.
+3 - Uma mesma organização parceira pode assumir as duas modalidades desde que cumpra todos os requisitos e condições exigidos para cada uma das entidades em causa, conforme previsto nos artigos 62.º e 63.º
+4 - Quando num território não existam operações selecionadas que garantam a distribuição dos alimentos, essa função pode ser assegurada pelas pessoas coletivas de direito público a que se refere o artigo 51.º
+5 - Nos casos previstos no número anterior, a autoridade de gestão dirige convite aos beneficiários.
+6 - Para os efeitos previstos nos números anteriores, os beneficiários devem cumprir todos os requisitos previstos para as entidades parceiras que procedem à distribuição, aplicando-se-lhes as regras definidas na presente secção.
+Artigo 62.º
+Requisitos dos polos de receção
+Os beneficiários previstos na alínea a) do n.º 2 do artigo 61.º devem reunir, desde a data da apresentação de candidatura, os requisitos previstos no n.º 2 do artigo 27.º e ainda os seguintes:
+a) Abranger um número de destinatários finais estimado igual ou superior a 150;
+b) Assegurar a capacidade para armazenar os produtos objeto da operação que garantam a cobertura de um número mínimo de destinatários finais, conforme previsto na candidatura;
+c) Comprovar as condições de conservação, armazenagem e acondicionamento dos produtos com as seguintes características:
+i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
+ii) Produtos frios, em local com temperatura entre os 3 e os 8 graus centígrados;
+iii) Produtos congelados, em local com temperatura de menos 18 graus centígrados.
+d) Garantir a capacidade para executar o plano de distribuição na sua área geográfica de atuação;
+e) Ter um responsável a quem compete a gestão do polo de receção, designadamente nos aspetos relacionados com:
+i) Segurança, correta armazenagem e acondicionamento dos produtos, respondendo por qualquer anomalia;
+ii) Receção e conferência dos produtos recebidos;
+iii) Prazos de validade dos produtos;
+iv) Entregas dos produtos às entidades mediadoras e respetivos registos nas credenciais disponibilizadas para o efeito no SI FEAC.
+Artigo 63.º
+Requisitos das entidades mediadoras
+Os beneficiários previstos na alínea b) do n.º 2 do artigo 61.º, devem reunir, desde a data da apresentação de candidatura, além dos requisitos gerais previstos no n.º 2 do artigo 27.º ainda os seguintes:
+a) Abranger um número de destinatários finais estimado igual ou superior a 150;
+b) Comprovar que, no âmbito da sua atividade regular, desenvolvem ações de atendimento e acompanhamento social às famílias, desde que sejam compatíveis com os fins previstos no respetivo ato de constituição;
+c) Ter capacidade para executar o plano de distribuição na sua área geográfica de atuação;
+d) Assegurar as seguintes condições específicas de armazenagem consoante os produtos alimentares:
+i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
+ii) Produtos frios, em local com temperatura entre os 3 e os 8 graus centígrados;
+iii) Produtos congelados, em local com temperatura de menos 18 graus centígrados.
+Artigo 64.º
+Modalidade de acesso
+1 - O acesso ao financiamento é concretizado mediante candidatura submetida através do SI FEAC em formulário próprio.
+2 - As candidaturas são apresentadas na sequência de aviso de abertura de candidaturas devidamente publicitado na página da internet da autoridade de gestão e no portal do Portugal 2020.
+3 - As candidaturas às operações de distribuição de alimentos devem:
+a) Corresponder a territórios delimitados, a definir no aviso de abertura de candidatura;
+b) Ser apresentadas em parceria, salvo nas situações previstas nos n.os 3 e 4 do artigo 61.º;
+c) Conter informação relativa ao número de destinatários a abranger.
+4 - No aviso de abertura da candidatura é definida a abrangência dos territórios de intervenção.
+5 - Apenas será aprovada uma candidatura por território, o qual é definido nos termos previstos no número anterior.
+Artigo 65.º
+Candidaturas em parceria
+1 - São candidaturas em parceria as que resultem do envolvimento concertado de diversas entidades na concretização de um operação assumindo-se como parceiras na prossecução desse objetivo comum, tendo em vista a consolidação de sinergias para o desenvolvimento das respetivas ações que integram a operação cofinanciada
+2 - Nos casos previstos no número anterior, as organizações parceiras na modalidade de polo de receção assumem também a função de entidade coordenadora da parceria.
+3 - Das candidaturas desenvolvidas em parceria devem constar, designadamente, os seguintes elementos:
+a) Indicação do território a que se candidatam;
+b) Constituição da parceria através da identificação e caracterização de cada uma das organizações parceiras;
+c) Número de destinatários finais a abranger por cada uma das organizações parceiras;
+d) Função que cada uma das organizações parceiras desempenha na operação, designadamente polo de receção e entidade coordenadora, e ou entidade mediadora;
+e) Explicitação da forma como cada organização parceira contribui para o cumprimento dos requisitos e dos critérios de seleção aplicáveis no desenvolvimento da operação previstos nos artigos 62.º, 63.º e 66.º
+4 - Todas as entidades que integram a candidatura são consideradas beneficiárias, devendo respeitar os requisitos definidos nos artigos 62.º e 63.º, e as obrigações previstas nos artigos 68.º e 69.º, na parte correspondente à função que desempenham na operação cofinanciada.
+5 - As candidaturas têm que abranger um número de destinatários finais igual ou superior a 150.
+6 - A entidade que assume a coordenação da parceria assegura a articulação, quer com a autoridade de gestão, quer entre as várias organizações parceiras.
+Artigo 66.º
+Critérios de seleção das operações
+1 - Para além do cumprimento dos requisitos previstos no artigo 46.º, na seleção das candidaturas no âmbito da operação de distribuição de géneros alimentares e ou de bens de primeira necessidade, são ainda tidos em conta os seguintes critérios:
+a) Existência de capacidade de distribuição do apoio, preferencialmente adquirida no âmbito da operacionalização do Programa Comunitário de Ajuda Alimentar a Carenciados (PCACC);
+b) Demonstração de experiência de atendimento e ou acompanhamento social junto dos destinatários finais abrangidos no âmbito da candidatura;
+c) Existência de estruturas logísticas que permitam mais facilmente chegar aos destinatários finais;
+d) Apresentação de proposta de desenvolvimento de medidas de acompanhamento complementar identificadas no n.º 2 do artigo 49.º
+2 - A grelha de análise que pondera os critérios de seleção referidos no número anterior é divulgada no aviso de abertura de candidaturas.
+3 - Para a operação de distribuição apenas é aprovada uma candidatura por território, conforme definido no aviso de abertura de candidaturas.
+Artigo 67.º
+Fundamentos para alteração da decisão de aprovação
+1 - A alteração à decisão de aprovação, nos termos previstos no artigo 47.º, constitui uma exceção e deve ocorrer apenas quando haja a necessidade de reprogramação, nomeadamente do número de destinatários a abranger.
+2 - Nos casos previstos no número anterior, carecem de decisão expressa da autoridade de gestão:
+a) Alteração dos destinatários finais a abranger em número superior ou inferior a 25 % do número inicialmente aprovado, desde que:
+i) O número de destinatários finais abrangido por um território não seja inferior a 150;
+ii) O número de destinatários finais de um território abrangido por uma entidade mediadora seja inferior a 150, desde que este número corresponda à totalidade dos destinatários desse território;
+iii) O número de destinatários finais de um território abrangido por uma entidade mediadora seja igual ou superior a 150, desde que este número corresponda à totalidade dos destinatários desse território.
+b) Substituição de um ou mais beneficiários da operação aprovada e ou das funções desempenhadas no âmbito da parceria.
+3 - As alterações à decisão que não se enquadrem no número anterior, não carecem de decisão expressa da autoridade de gestão bastando a sua comunicação, nos termos previstos no n.º 2 do artigo 47.º
+Artigo 68.º
+Obrigações das entidades coordenadoras
+Constituem obrigações das entidades coordenadoras:
+a) Coordenar a parceria e proceder à articulação, quer com a autoridade de gestão, quer entre as várias organizações parceiras da operação, em todos os domínios previstos no presente regulamento, designadamente nos pedidos de reembolso e saldo final;
+b) Receber diretamente o financiamento atribuído pela autoridade de gestão, geri-lo e transferi-lo para as organizações parceiras, quando existam;
+c) Abranger, no âmbito da candidatura que integram em parceria, um número de destinatários finais igual ou superior a 150;
+d) Elaborar, logo que tenha conhecimento da quantidade de cada produto atribuído, o plano de distribuição do qual deve constar as quantidades de produtos, por embalagens individuais, a atribuir a cada entidade mediadora em função do respetivo número de destinatários finais a abranger;
+e) Receber os produtos alimentares entregues pelas empresas adjudicatárias, armazená-los e distribuí-los às entidades mediadoras, cumprindo as seguintes condições de conservação, armazenagem e acondicionamento, consoante as características dos produtos:
+i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
+ii) Produtos frios, em local com temperatura entre os 3 e os 8 graus centígrados;
+iii) Produtos congelados, em local com temperatura de menos 18 graus centígrados.
+f) Proceder à atualização do plano de distribuição, no decurso da distribuição dos produtos, sempre que se justifique;
+g) Garantir a capacidade para executar o plano de distribuição na respetiva área geográfica de atuação;
+h) Ter um responsável, a quem compete a gestão do polo de receção, designadamente nos aspetos relacionados com:
+i) Segurança, correta armazenagem e acondicionamento dos produtos, respondendo por qualquer anomalia;
+ii) Receção e conferência dos produtos recebidos;
+iii) Prazos de validade dos produtos;
+iv) Entregas dos produtos às entidades mediadoras e respetivos registos nas credenciais, disponibilizadas para o efeito no SI FEAC;
+i) Efetuar o controlo dos stocks dos produtos, designadamente a quantidade dos produtos recebidos e atribuídos, enquanto estes estiverem sob a sua responsabilidade, utilizando obrigatoriamente para o efeito o SI FEAC;
+j) Elaborar um auto, devidamente assinado pelos responsáveis da entidade, de todas as perdas que se venham a registar, com indicação, designadamente, da data da ocorrência, tipo de produto, quantidade, motivo da perda, entidades envolvidas, apuramento de responsabilidades, destino do produto e conclusões;
+k) Comunicar, de imediato, à autoridade de gestão a ocorrência de qualquer anomalia.
+Artigo 69.º
+Obrigações das entidades mediadoras
+1 - Constituem obrigações das entidades mediadoras:
+a) Elaborar e atualizar as listas de destinatários finais no SI FEAC, tendo em conta as disposições constantes do artigo 45.º;
+b) Definir no SI FEAC, com base nas quantidades de cada produto que lhes foram atribuídas, as quantidades de produtos e embalagens individuais a atribuir a cada destinatário final que integra as respetivas listas, de acordo com as características e necessidades de cada um;
+c) Proceder à atualização das quantidades de produtos a distribuir aos destinatários finais sempre que se verifique, designadamente, uma das seguintes situações:
+i) Exclusão ou inclusão de destinatários finais;
+ii) Alteração das quantidades distribuídas aos destinatários finais;
+iii) Perdas e ou transferências de produtos.
+d) Levantar os produtos que lhe foram atribuídos no polo de receção respetivo e distribuí-los aos destinatários finais da sua área geográfica de atuação;
+e) Respeitar as seguintes condições específicas de armazenagem consoante os produtos alimentares:
+i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
+ii) Produtos frios, em local com temperatura entre os 3 e os 8 graus centígrados;
+iii) Produtos congelados, em local com temperatura de menos 18 graus centígrados.
+f) Preencher as credenciais disponibilizadas para o efeito no SI FEAC com base na quantidade de produtos a distribuir aos destinatários finais;
+g) Distribuir os produtos aos destinatários finais de acordo com as respetivas credenciais e conforme as suas características e necessidades, respeitando os prazos de validade dos produtos;
+h) Efetuar o controlo dos stocks dos produtos, designadamente a quantidade dos produtos recebidos e atribuídos, enquanto estes estiverem sob a sua responsabilidade, no formato disponibilizado para o efeito no SI FEAC;
+i) Elaborar um auto, devidamente assinado pelos responsáveis da entidade, para todas as perdas que se venham a registar, com indicação, designadamente, da data da ocorrência, tipo de produto, quantidade, motivo da perda, entidades envolvidas, apuramento de responsabilidades, destino do produto e conclusões;
+j) Desenvolver medidas de acompanhamento com vista à inclusão social dos destinatários finais;
+k) Indicar a medida mais adequada a cada um dos destinatários finais registados na sua lista, de acordo com as respetivas caraterísticas, nos termos definidos no n.º 6 do artigo 45.º
+2 - A distribuição prevista na alínea g) do número anterior pode ser efetuada de forma a corresponder às necessidades de consumo e capacidade de armazenamento dos destinatários finais.
+Artigo 70.º
+Processo técnico da operação
+O processo técnico é estruturado segundo as caraterísticas da operação, devendo incluir, com as necessárias adaptações, a seguinte documentação:
+a) Processo de candidatura incluindo os comprovativos de submissão ao SI FEAC e respetivos anexos;
+b) Proposta de decisão de aprovação, incluindo a comunicação da decisão e o respetivo termo de aceitação;
+c) Instrumentos de formalização da parceria e o modo de funcionamento, explicitando o contributo e as obrigações de cada uma das organizações parceiras no contexto da operação;
+d) Cronograma da operação;
+e) Informação sobre as ações de acompanhamento efetuadas aos destinatários finais;
+f) Listagem dos destinatários finais aprovada;
+g) Plano de distribuição;
+h) Registo das quantidades recebidas e distribuídas, incluindo as guias de remessa, folhas de controlo de existências, autos de perda, e credenciais devidamente preenchidas e assinadas;
+i) Mapa de execução final;
+j) Originais de toda a publicidade e informação produzida para a divulgação das operações;
+k) Outra documentação que venha a ser exigida através de orientações emitidas pela autoridade de gestão.
+Artigo 71.º
+Processo contabilístico da operação
+Os beneficiários ficam obrigados a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e métodos de custeio.
+Artigo 72.º
+Elegibilidade das despesas
+1 - No âmbito da operação de distribuição de géneros alimentares e ou de bens de primeira necessidade, são elegíveis nos termos das alíneas c) e d) do n.º 5 do artigo 33.º:
+a) As despesas de natureza administrativa, de transporte e de armazenamento;
+b) As despesas com as medidas de acompanhamento.
+2 - As despesas de natureza administrativa, de transporte e de armazenamento são financiadas a uma taxa fixa de 5 % do valor dos géneros alimentares e ou bens de primeira necessidade.
+3 - As despesas com as medidas de acompanhamento são financiadas a uma taxa fixa de 5 % do valor dos géneros alimentares e ou bens de primeira necessidade.
+4 - As despesas referidas no número anterior apenas são atribuídas às organizações parceiras caso sejam apresentadas evidências da sua realização junto dos respetivos destinatários finais da operação.
+5 - As normas de aplicação da taxa fixa prevista nos n.os 2 e 3 são definidas no aviso de abertura de candidaturas.
+6 - A elegibilidade territorial das despesas é definida tendo em conta o local de realização das operações ou o local onde residam os destinatários finais.
+7 - São elegíveis as despesas que tenham sido realizadas entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data da conclusão da operação, que constituem a data limite para apresentação do saldo final.
+8 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+Artigo 73.º
+Pedidos de reembolso
+1 - A aceitação da decisão de aprovação da candidatura pelos beneficiários confere-lhes o direito à perceção de financiamento para a realização das respetivas operações.
+2 - O pedido de reembolso é efetuado com uma periodicidade trimestral, devendo ser a entidade coordenadora a solicitá-lo no SI FEAC.
+3 - O somatório dos pagamentos intermédios de reembolso não pode exceder 85 % do montante total aprovado para a operação, sendo o pagamento do respetivo saldo, de 15 %, autorizado após a solicitação pela entidade coordenadora do pedido de pagamento de saldo e confirmação da boa execução da operação.
+4 - A decisão sobre o processamento dos pagamentos dos reembolsos compete à autoridade de gestão, sendo apenas processados se os beneficiários evidenciarem o nível de execução dos indicadores de realização associados ao desenvolvimento da operação, incluindo a listagem de destinatários finais abrangidos e a quantidade de produtos distribuída, bem como a demonstração das medidas de acompanhamento social realizadas.
+5 - Os pagamentos ficam condicionados aos fluxos financeiros da Comissão Europeia, conforme estipulado no n.º 2 do artigo 42.º do Regulamento (UE) n.º 223/2014, de 11 de março.
+6 - Os pagamentos aos beneficiários são efetuados para a conta bancária devidamente identificada, sendo que a mudança de domicílio ou de conta bancária, sem comunicação à autoridade de gestão no prazo de 30 dias úteis, determina a suspensão de pagamentos nos termos do artigo 38.º
+7 - A análise do pedido de reembolso que integre despesas previstas nos n.os 2 e 3 do artigo anterior é efetuada em função da atividade comprovada e registada, à data de referência do reembolso em causa, de acordo com as regras de aplicação previstas nos avisos para apresentação de candidaturas.
+CAPÍTULO III
+Medida 2 - Fornecimento de refeições diárias gratuitas
+Artigo 74.º
+Beneficiários
+Podem ser beneficiários da medida prevista no presente capítulo as pessoas coletivas de direito privado sem fins lucrativos, incluindo do setor cooperativo.
+Artigo 75.º
+Operações elegíveis
+1 - São elegíveis no âmbito do presente capítulo as operações que visem fornecer gratuitamente refeições diárias às pessoas mais carenciadas, que residam na área de intervenção dos beneficiários, tendo por base a rede de serviços e equipamentos sociais existentes, potenciando o funcionamento dos mesmos.
+2 - É elegível o fornecimento até duas refeições diárias por destinatário final.
+3 - As caraterísticas gerais das refeições são definidas pelo organismo responsável pela execução das políticas de proteção social.
+4 - O consumo destas refeições pode ser efetuado no domicílio, desde que devidamente embaladas e acondicionadas, ou nas instalações do beneficiário.
+5 - Através do apoio atribuído, os beneficiários adquirem os géneros alimentares, confecionam, e distribuem gratuitamente as refeições às pessoas mais carenciadas.
+Artigo 76.º
+Requisitos dos beneficiários
+Os beneficiários devem reunir, desde a data da apresentação de candidatura, os requisitos previstos no n.º 2 do artigo 27.º e ainda os seguintes:
+a) Comprovar que, no âmbito da sua atividade regular, desenvolvem ações de atendimento e acompanhamento social às famílias, desde que sejam compatíveis com os fins previstos no respetivo ato de constituição;
+b) Possuir uma estrutura em funcionamento para confeção e disponibilização de refeições, dirigida a outra ou outras respostas sociais, que não recorra à prestação de serviços de catering.
+Artigo 77.º
+Duração das operações
+1 - As operações apoiadas no âmbito do presente capítulo podem ter uma duração máxima de 24 meses.
+2 - Para efeitos do disposto no número anterior, considera-se início da operação a data do registo do primeiro destinatário final no SI FEAC.
+Artigo 78.º
+Modalidade de acesso
+1 - O acesso ao financiamento é concretizado mediante candidatura submetida através do SI FEAC em formulário próprio.
+2 - As candidaturas são apresentadas na sequência de aviso de abertura de candidaturas devidamente publicitado na página da internet da autoridade de gestão e no portal do Portugal 2020.
+Artigo 79.º
+Critérios de seleção das operações
+1 - Para além do cumprimento dos requisitos previstos no artigo 46.º, na seleção das candidaturas no âmbito da medida de fornecimento de refeições diárias gratuitas, são ainda tidos em conta os seguintes critérios:
+a) Comprovação de experiência de atendimento e ou acompanhamento social no território de referência da candidatura;
+b) Capacidade de uma intervenção de proximidade junto dos destinatários finais, tendo em conta a dispersão geográfica do território onde se encontra inserida a entidade beneficiária, utilizando para o efeito os equipamentos sociais próprios.
+2 - A grelha de análise que pondera os critérios de seleção referidos no número anterior é divulgada no aviso de abertura de candidaturas.
+Artigo 80.º
+Fundamentos para alteração da decisão de aprovação
+1 - A alteração à decisão de aprovação, nos termos previstos no artigo 47.º, deve apenas ocorrer quando haja a necessidade de reprogramação, nomeadamente do número de refeições a fornecer e ou do número de destinatários a abranger.
+2 - Nos casos previstos no número anterior, carecem de decisão expressa da autoridade de gestão:
+a) Alteração do número total de refeições a fornecer em número superior ao número total inicialmente aprovado;
+b) Alteração do número total de refeições a fornecer em número inferior a 25 % do número inicialmente aprovado;
+c) Alteração dos destinatários finais a abranger em número superior ou inferior a 25 % do número inicialmente aprovado;
+d) Substituição da entidade beneficiária da operação aprovada.
+3 - As alterações à decisão que não se enquadrem no número anterior, não carecem de decisão expressa da autoridade de gestão bastando a sua comunicação nos termos previstos no n.º 2 do artigo 47.º
+Artigo 81.º
+Obrigações dos beneficiários
+Além das obrigações gerais previstas no artigo 29.º, constituem ainda obrigações dos beneficiários:
+a) Elaborar e atualizar as listas dos destinatários no SI FEAC tendo em conta as disposições constantes do artigo 45.º;
+b) Desenvolver medidas de acompanhamento com vista à inclusão social dos destinatários finais;
+c) Indicar a medida mais adequada a cada um dos destinatários finais registado nos termos do n.º 6 do artigo 45.º;
+d) Garantir que as refeições fornecidas cumprem os requisitos definidos nos n.os 2 e 3 do artigo 75.º
+Artigo 82.º
+Processo técnico da operação
+1 - Devem constar obrigatoriamente do processo técnico todas as peças que compõem os procedimentos de contratação pública relacionados com a operação, incluindo os respetivos contratos celebrados.
+2 - O processo técnico é estruturado segundo as caraterísticas da operação, devendo incluir, com as necessárias adaptações, a seguinte documentação:
+a) Processo de candidatura incluindo os comprovativos de submissão ao SI FEAC e respetivos anexos;
+b) Proposta de decisão de aprovação, incluindo a comunicação da decisão e o respetivo termo de aceitação;
+c) Cronograma da operação;
+d) Listagem dos destinatários finais aprovada;
+e) Listagem mensal do número de refeições por destinatário final e por dia devidamente assinada pelos destinatários;
+f) Relatórios, atas de reuniões ou outros documentos que demonstrem a evidência fáctica da realização das ações da operação;
+g) Original de toda a publicidade e informação produzida para a divulgação das operações;
+h) Outra documentação que venha a ser exigida através de orientações emitidas pela autoridade de gestão.
+Artigo 83.º
+Processo contabilístico da operação
+1 - Os beneficiários ficam obrigados a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e métodos de custeio.
+2 - Os beneficiários ficam ainda obrigados a:
+a) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;
+b) Registar nos documentos originais o número de lançamento na contabilidade e a menção do seu financiamento através do FEAC, indicando a designação do POAPMC, o número da candidatura e o correspondente valor imputado;
+c) No caso de custos comuns, identificar, para cada operação, a chave de imputação e os seus pressupostos;
+d) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento de saldo final, de acordo com o modelo definido por aquela entidade.
+3 - Nos casos previstos na alínea b) do número anterior, quando não seja possível o registo nos documentos originais, o beneficiário deve apresentar, sempre que solicitado, verbete produzido por software de contabilidade adequado, do qual constem as referências às contas movimentadas na contabilidade geral e à chave de imputação utilizada.
+4 - Os beneficiários ficam obrigados a submeter os pedidos de reembolso e a prestação final de contas à apreciação e validação, por um TOC ou por um ROC, devendo o TOC ou o ROC atestar, no encerramento das operações, a regularidade das operações contabilísticas.
+5 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo.
+6 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar o respetivo bem ou serviço.
+Artigo 84.º
+Elegibilidade das despesas
+1 - No âmbito da operação de fornecimento de refeições diárias, são elegíveis:
+a) As despesas com a aquisição de alimentos;
+b) As despesas de natureza administrativa, de transporte e de armazenamento.
+2 - A modalidade de custos e as respetivas normas de aplicação a que obedece a realização de despesas previstas no número anterior são definidas no aviso de abertura de candidaturas.
+3 - A elegibilidade territorial das despesas é definida tendo em conta o local de realização das operações ou o local onde residam os destinatários finais.
+4 - São elegíveis as despesas que tenham sido realizadas entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data da conclusão da operação, que constituem a data limite para apresentação do saldo final.
+5 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+Artigo 85.º
+Adiantamentos e pedidos de reembolso
+1 - A aceitação da decisão de aprovação da candidatura pelos beneficiários confere-lhes o direito à perceção de financiamento para a realização das respetivas operações.
+2 - Os beneficiários têm direito a um adiantamento, no valor correspondente a 15 % do montante de financiamento aprovado para cada ano civil, o qual é processado nas seguintes condições:
+a) Submissão eletrónica no SI FEAC do termo de aceitação da decisão de aprovação;
+b) Verificação da situação fiscal e contributiva regularizada perante a administração fiscal e a Segurança Social;
+c) Comunicação no SI FEAC do início ou reinício da operação.
+3 - O pedido de reembolso é efetuado com uma periodicidade trimestral, devendo a entidade beneficiária submeter no SI FEAC um relatório que evidencie o nível de execução dos indicadores de realização associados ao regime de custos simplificados, incluindo ainda a listagem de destinatários, o número de refeições diárias fornecidas, e as medidas de acompanhamento empreendidas nos meses a que se refere o pedido de reembolso.
+4 - O somatório do adiantamento com os pagamentos intermédios de reembolso não pode exceder 85 % do montante total aprovado para a operação, sendo o pagamento do respetivo saldo, de 15 %, autorizado após a apresentação pelo beneficiário do pedido de pagamento de saldo e confirmação da boa execução da operação.
+5 - Os pagamentos ficam condicionados aos fluxos financeiros da Comissão Europeia, conforme estipulado no n.º 2 do artigo 42.º do Regulamento (UE) n.º 223/2014, de 11 de março.
+6 - Os pagamentos aos beneficiários são efetuados para a conta bancária devidamente identificada, sendo que a mudança de domicílio ou de conta bancária, sem comunicação à autoridade de gestão no prazo de 30 dias úteis, determina a suspensão de pagamentos nos termos do artigo 38.º
+7 - A análise de pedido de reembolso que integre despesas previstas no n.º 2 do artigo anterior é efetuada em função da atividade comprovada e registada à data de referência do reembolso em causa, de acordo com as regras de aplicação previstas nos avisos para apresentação de candidaturas.
+PARTE III
+Disposições finais e transitórias
+CAPÍTULO I
+Disposições finais
+Artigo 86.º
+Representação
+A representação portuguesa nos órgãos comunitários, formais e informais, criados no âmbito do FEAC, deve ser assegurada, sempre que possível, de forma partilhada pela Agência, I. P. e pela autoridade de gestão.
+Artigo 87.º
+Região Autónoma dos Açores
+Atentas as especificidades da Região Autónoma dos Açores, não lhe são aplicáveis os limites mínimos de destinatários finais previstos no presente regulamento.
+Artigo 88.º
+Norma subsidiária
+Em tudo o que não se encontrar regulado no presente regulamento aplica-se o disposto no Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho, de 11 de março de 2014, bem como as demais regras nacionais e comunitárias aplicáveis às medidas previstas nos capítulos anteriores.
+CAPÍTULO II
+Disposições transitórias
+Artigo 89.º
+Norma transitória
+Às operações iniciadas antes da entrada em vigor do presente regulamento, podem ser aplicadas as regras no âmbito do PCACC de forma a garantir a transição harmoniosa de programas conforme ponto 26 do Regulamento (UE) n.º 223/2014 do Parlamento Europeu e do Conselho de 11 de março.
+Artigo 90.º
+Programas transitórios de aquisição e distribuição de alimentos
+As despesas autorizadas pelas Resoluções do Conselho de Ministros n.os 100/2013, de 30 de dezembro, e 11B/2015, de 10 de março, são elegíveis no âmbito do presente regulamento, em tudo o que não contrarie a regulamentação comunitária aplicável ao FEAC, e a decisão da Comissão Europeia que aprova o POAPMC.
+Artigo 91.º
+Período transitório
+1 - Às operações iniciadas antes da entrada em vigor do presente regulamento e integradas em candidaturas apresentadas no âmbito do POAPMC podem ser aplicadas as regras em vigor para o PCACC, em tudo o que não contrarie a regulamentação comunitária aplicável ao FEAC, e a decisão da Comissão Europeia que aprova o POAPMC.
+2 - Podem ser consideradas elegíveis as despesas realizadas pelos beneficiários, no âmbito da medida 1, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de dezembro de 2013, não se lhes aplicando o disposto no n.º 3 do artigo 58.º e o n.º 7 do artigo 72.º
+3 - O disposto no número anterior aplica-se apenas às candidaturas que sejam apresentadas até 31 de dezembro de 2015.
+Aprovado pela Comissão Interministerial de Coordenação do Portugal 2020 - CIC Portugal 2020, em 19 de junho de 2015.
