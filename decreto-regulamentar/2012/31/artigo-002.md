@@ -50,4 +50,6 @@ v) A definição e o acompanhamento da realização de testes de performance;
 
 x) A colaboração com o Instituto Nacional de Investigação Agrária e Veterinária, I.P., designadamente através da disponibilização de informação técnica relacionada com as competências referidas nas alíneas anteriores;
 
-y) A preservação do património genético animal das raças Sorraia e Garrano.
+y) A preservação do património genético animal das raças Sorraia e Garrano;
+
+z) Regular e controlar as provas equestres e as corridas de cavalos sobre as quais se praticam apostas hípicas qualquer que seja a sua modalidade, realizadas no território continental, bem como, no mesmo âmbito assegurar a concessão da exploração de hipódromos e o seu controlo.
