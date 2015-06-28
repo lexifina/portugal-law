@@ -39,3 +39,5 @@ m) Habilitar a mesa com as informações e pareceres sobre qualquer modalidade d
 n) Apreciar os processos de contra-ordenação que vierem a ser instaurados respeitantes à exploração ilícita de lotarias e apostas mútuas ou outros jogos e actividades similares com vista à aplicação das penalidades previstas na lei;
 
 o) Propor à mesa a filiação em organismos internacionais de lotarias e outros jogos sociais.
+
+p) Proceder à consulta de bases de dados públicas com vista a obter informação sobre a identificação, idade e número de identificação fiscal das pessoas individuais que se registem no seu sítio na Internet ou que realizem apostas de base territorial, nos termos de protocolo a celebrar com as entidades públicas detentoras das bases de dados, no respeito pela legislação relativa à proteção de dados pessoais.
