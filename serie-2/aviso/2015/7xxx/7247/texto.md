@@ -1,0 +1,6 @@
+Aviso n.º 7247/2015
+Paulo Alexandre Homem de Oliveira Fonseca, Presidente da Câmara Municipal de Ourém, torna público que, nos termos e para os efeitos do artigo 101.º do Decreto-Lei n.º 4/2015, de 07 de janeiro, que procede à revisão do Código de Procedimento Administrativo, durante o período de trinta (30) dias a contar do dia 05 de junho de 2015, é submetido a inquérito público o "Projeto de Regulamento Municipal de Utilização do Ecocentro de Fátima", aprovado em reunião de Câmara Municipal de Ourém de 29 de maio de 2015.
+Durante esse período poderão os interessados consultar o mencionado regulamento na Divisão de Ambiente desta autarquia, o qual ficará igualmente disponível no sítio da "internet" da Câmara Municipal de Ourém, em www.cm-ourem.pt.
+Naquele prazo de 30 dias, poderão os interessados dirigir por escrito as suas sugestões ao Presidente da Câmara, Praça D. Maria II, n.º 1, 2490-499 Ourém, ou para o endereço eletrónico presidente@mail.cm-ourem.pt, com a identificação do assunto ("sugestões para o Regulamento Municipal de Utilização do Ecocentro de Fátima").
+04 de junho de 2015. - O Presidente da Câmara Municipal de Ourém, Paulo Alexandre Homem de Oliveira Fonseca.
+308709983
