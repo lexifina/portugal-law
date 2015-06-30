@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 68/2015
+Recomenda ao Governo a implementação de medidas restritivas na comercialização de produtos financeiros de risco por parte das instituições de crédito e sociedades financeiras
+A Assembleia da República, na sequência das recentes intervenções em instituições de crédito e sociedades financeiras, dos factos apurados, das conclusões e recomendações da Comissão Parlamentar de Inquérito à Gestão do BES e do GES (CPIBES), resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo a implementação de medidas restritivas na comercialização de produtos financeiros de risco por parte das instituições de crédito e sociedades financeiras, designadamente nas seguintes vertentes:
+1 - Toda e qualquer emissão de papel comercial necessita de autorização e está sujeita ao dever de comunicação junto da Comissão do Mercado de Valores Mobiliários.
+2 - Segregação de funções em todo e qualquer local de comercialização ao retalho de instrumentos financeiros, nomeadamente impossibilitando que os gestores de conta, possivelmente com relações comerciais já estabelecidas com os depositantes, possam vender produtos de risco superior ao perfil de investidor escolhido pelos clientes, devendo essa operação de colocação ocorrer através de colaboradores especializados e sem laços de relação comercial com os depositantes.
+3 - O local de comercialização destes instrumentos financeiros deve ser distinto do local habitual de atendimento aos clientes.
+Aprovada em 5 de junho de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
