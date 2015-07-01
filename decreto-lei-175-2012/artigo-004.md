@@ -8,6 +8,6 @@ a) O conselho diretivo;
 
 b) O fiscal único;
 
-c) (Revogada):
+c) O conselho consultivo;
 
 d) A assembleia comum de participantes.

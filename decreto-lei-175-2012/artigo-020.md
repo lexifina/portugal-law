@@ -6,6 +6,4 @@
 
 2 - Cabe ao IHRU, I. P., agir, segundo a lei, como entidade expropriante de imóveis indispensáveis à prossecução de operações por ele executadas ou contratadas em execução das suas atribuições.
 
-3 - A gestão e a administração do património imobiliário do IHRU, I. P., incluindo a aquisição de direitos sobre imóveis para o integrar, bem como a gestão e administração de imóveis que aquele assegure em representação de outras entidades, não estão sujeitas às regras aplicáveis aos bens imóveis do domínio privado do Estado e da sua administração indireta, designadamente ao regime do Decreto-Lei n.º 280/2007, de 8 de agosto, na sua redação atual.
-
-4 - O IHRU, I. P., com o fim de obter os dados em matéria de habitação, arrendamento habitacional e reabilitação urbana necessários ao desempenho das suas competências, pode promover inquéritos, em articulação com o Instituto Nacional de Estatística, I. P., solicitar informação estatística a este instituto, bem como informação a outras entidades e serviços da administração direta e indireta do Estado, em especial da Autoridade Tributária e Aduaneira, do Instituto dos Registos e do Notariado, I. P., e das administrações local e regional, incluindo as entidades dos respetivos setores empresariais.
+3 - A gestão e a administração do património imobiliário do IHRU, I. P., na prossecução das suas atribuições, não estão sujeitas às regras aplicáveis aos bens imóveis do domínio privado do Estado e da sua administração indireta.
