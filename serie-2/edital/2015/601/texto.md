@@ -1,0 +1,9 @@
+Edital n.º 601/2015
+Consulta pública
+Projeto de Regulamento de Avaliação do Aproveitamento dos Estudantes da Escola Superior de Turismo e Tecnologia do Mar
+Luís Lima Santos, Presidente do Conselho Pedagógico da Escola Superior de Turismo e Tecnologia do Mar (ESTM) do Instituto Politécnico de Leiria (IPLeiria), torna público que o Conselho Pedagógico, no uso da competência que lhe é conferida pelo artigo 105.º, al) e), do Regime Jurídico das Instituições de Ensino Superior (RJIES), pelo artigo 71.º, n.º 1, al. e), dos Estatutos do Instituto Politécnico de Leiria e pelo artigo 17.º, n.º 2 alínea e) dos Estatutos da ESTM, deliberou, em 24 de junho de 2015, por unanimidade, aprovar o Projeto de Regulamento de Avaliação do Aproveitamento dos Estudantes da ESTM, submetendo-o, nos termos do artigo 101.º do Código de Procedimento Administrativo e do artigo 110.º, n.º 3, do RJIES, a consulta pública, para recolha de sugestões, pelo prazo de 15 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+O projeto de alteração do regulamento pode ser consultado nos serviços administrativos da escola, sitos no Santuário da Nossa Senhora dos Remédios, Peniche e ainda no sítio na internet da escola (www.estm.ipleiria.pt).
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais devem ser endereçadas ao Conselho Pedagógico, podendo ser entregues nos serviços administrativos acima identificados, ou remetidas por via postal, para Escola Superior de Turismo e Tecnologia do Mar, Campus 4 - Santuário da Nossa Senhora dos Remédios, 2520-641 Peniche, ou através de correio eletrónico para o seguinte endereço (estm@ipleiria.pt).
+Para constar se publica o presente edital, que vai ainda ser disponibilizado no sítio na internet da escola.
+26 de junho de 2015. - O Presidente do Conselho Pedagógico, Luís Lima Santos.
+208752012
