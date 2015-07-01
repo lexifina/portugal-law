@@ -12,9 +12,11 @@ c) Os menores adoptados pelo requerente quando não seja casado, pelo requerente
 
 d) Os filhos maiores, a cargo do casal ou de um dos cônjuges, que sejam solteiros e se encontrem a estudar num estabelecimento de ensino em Portugal;
 
-e) Os ascendentes na linha recta e em 1.º grau do residente ou do seu cônjuge, desde que se encontrem a seu cargo;
+e) Os filhos maiores, a cargo do casal ou de um dos cônjuges, que sejam solteiros e se encontrem a estudar, sempre que o titular do direito ao reagrupamento tenha autorização de residência concedida ao abrigo do artigo 90.º-A;
 
-f) Os irmãos menores, desde que se encontrem sob tutela do residente, de harmonia com decisão proferida pela autoridade competente do país de origem e desde que essa decisão seja reconhecida por Portugal.
+f) Os ascendentes na linha recta e em 1.º grau do residente ou do seu cônjuge, desde que se encontrem a seu cargo;
+
+g) Os irmãos menores, desde que se encontrem sob tutela do residente, de harmonia com decisão proferida pela autoridade competente do país de origem e desde que essa decisão seja reconhecida por Portugal.
 
 2 - Consideram-se ainda membros da família para efeitos de reagrupamento familiar do refugiado menor não acompanhado:
 

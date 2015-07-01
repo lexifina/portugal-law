@@ -36,11 +36,13 @@ m) Que sejam, ou tenham sido, vítimas de infração penal ou contraordenacional
 
 n) Que tenham beneficiado de autorização de residência concedida ao abrigo do artigo 109.º;
 
-o) Que, tendo beneficiado de autorização de residência para estudo, concedida ao abrigo dos artigos 91.º ou 92.º, e concluído os seus estudos, pretendam exercer em território nacional uma atividade profissional, subordinada ou independente, salvo quando aquela tenha sido emitida no âmbito de acordos de cooperação e não existam motivos ponderosos de interesse nacional que o justifiquem;
+o) Que, tendo beneficiado de autorização de residência para estudantes do ensino secundário, concedida ao abrigo do artigo 92.º, ou de autorização de residência para estudantes do 1.º ciclo do ensino superior, concedida ao abrigo do artigo 91.º, e concluído os seus estudos pretendam exercer em território nacional uma atividade profissional, subordinada ou independente, salvo quando aquela autorização tenha sido emitida no âmbito de acordos de cooperação e não existam motivos ponderosos de interesse nacional que o justifiquem;
 
-p) Que, tendo beneficiado de visto de estada temporária para atividade de investigação ou altamente qualificada, pretendam exercer em território nacional uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada, subordinada ou independente:
+p) Que, tendo beneficiado de autorização de residência para estudantes do 2.º ou 3.º ciclos do ensino superior, concedida ao abrigo do artigo 91.º, e concluído os seus estudos pretendam usufruir do período máximo de um ano para procurar trabalho compatível com as suas qualificações, em Portugal;
 
-q) Que façam prova da atividade de investimento, nos termos a que se refere a alínea d) do artigo 3.º
+q) Que, tendo beneficiado de visto de estada temporária para atividade de investigação ou altamente qualificada, pretendam exercer em território nacional uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada, subordinada ou independente:
+
+r) Que façam prova da atividade de investimento, nos termos a que se refere a alínea d) do artigo 3.º
 
 2 - Para efeitos do disposto na alínea m) do número anterior, apenas são consideradas as infrações que se traduzam em condições de desproteção social, de exploração salarial ou de horário, em condições de trabalho particularmente abusivas ou no caso de utilização da atividade de menores em situação ilegal.
 

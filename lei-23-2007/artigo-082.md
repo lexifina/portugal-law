@@ -2,9 +2,9 @@
 
 ### Decisão e notificação
 
-1 - O pedido de concessão de autorização de residência deve ser decidido no prazo de 60 dias.
+1 - O pedido de concessão de autorização de residência deve ser decidido no prazo de 90 dias.
 
-2 - O pedido de renovação de autorização de residência deve ser decidido no prazo de 30 dias.
+2 - O pedido de renovação de autorização de residência deve ser decidido no prazo de 60 dias.
 
 3 - Na falta de decisão no prazo previsto no número anterior, por causa não imputável ao requerente, o pedido entende-se como deferido, sendo a emissão do título de residência imediata.
 

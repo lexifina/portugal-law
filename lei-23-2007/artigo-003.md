@@ -2,7 +2,7 @@
 
 ### Definições
 
-Para efeitos da presente lei considera-se:
+1 - Para efeitos da presente lei considera-se:
 
 a) «Atividade altamente qualificada» aquela cujo exercício requer competências técnicas especializadas ou de caráter excecional e, consequentemente, uma qualificação adequada para o respetivo exercício, designadamente de ensino superior;
 
@@ -14,9 +14,17 @@ d) «Atividade de investimento» qualquer atividade exercida pessoalmente ou atr
 
 i) Transferência de capitais no montante igual ou superior a 1 milhão de euros;
 
-ii) Criação de, pelo menos, 30 postos de trabalho;
+ii) Criação de, pelo menos, 10 postos de trabalho;
 
 iii) Aquisição de bens imóveis de valor igual ou superior a 500 mil euros;
+
+iv) Aquisição de bens imóveis, cuja construção tenha sido concluída há, pelo menos, 30 anos ou localizados em área de reabilitação urbana e realização de obras de reabilitação dos bens imóveis adquiridos, no montante global igual ou superior a 350 mil euros;
+
+v) Transferência de capitais no montante igual ou superior a 350 mil euros, que seja aplicado em atividades de investigação desenvolvidas por instituições públicas ou privadas de investigação científica, integradas no sistema científico e tecnológico nacional;
+
+vi) Transferência de capitais no montante igual ou superior a 250 mil euros, que seja aplicado em investimento ou apoio à produção artística, recuperação ou manutenção do património cultural nacional, através de serviços da administração direta central e periférica, institutos públicos, entidades que integram o setor público empresarial, fundações públicas, fundações privadas com estatuto de utilidade pública, entidades intermunicipais, entidades que integram o setor empresarial local, entidades associativas municipais e associações públicas culturais, que prossigam atribuições na área da produção artística, recuperação ou manutenção do património cultural nacional;
+
+vii) Transferência de capitais no montante igual ou superior a 500 mil euros, destinados à aquisição de unidades de participação em fundos de investimento ou de capital de risco vocacionados para a capitalização de pequenas e médias empresas que, para esse efeito, apresentem o respetivo plano de capitalização e o mesmo se demonstre viável;
 
 e) «Cartão azul UE» o título de residência que habilita um nacional de um país terceiro a residir e a exercer, em território nacional, uma atividade profissional subordinada altamente qualificada;
 
@@ -65,3 +73,7 @@ z) «Transportadora» qualquer pessoa singular ou coletiva que preste serviços 
 aa) «Zona internacional do porto ou aeroporto» a zona compreendida entre os pontos de embarque e desembarque e o local onde forem instalados os pontos de controlo documental de pessoas;
 
 bb) «Espaço equiparado a centro de instalação temporária» o espaço próprio criado na zona internacional de aeroporto português para a instalação de passageiros não admitidos em território nacional e que aguardam o reembarque.
+
+2 - O montante ou requisito quantitativo mínimo das atividades de investimento previstas nas subalíneas ii) a vi) da alínea d) do número anterior podem ser inferiores em 20 %, quando as atividades sejam efetuadas em territórios de baixa densidade.
+
+3 - Para efeitos do disposto no número anterior, consideram-se territórios de baixa densidade os de nível III da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS III) com menos de 100 habitantes por Km2 ou um produto interno bruto (PIB) per capita inferior a 75 % da média nacional.
