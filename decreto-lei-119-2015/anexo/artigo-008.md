@@ -2,4 +2,4 @@
 
 ### Compensação pecuniária
 
-Os membros da direção têm direito a compensação pecuniária pelo exercício efetivo de funções, a fixar pela comissão de remunerações, ouvido o conselho geral.
+Os membros da direção têm direito à compensação pecuniária pelo exercício efetivos de funções fixada por portaria dos membros do Governo responsáveis pelas áreas da justiça e da segurança social, sob proposta do conselho geral.

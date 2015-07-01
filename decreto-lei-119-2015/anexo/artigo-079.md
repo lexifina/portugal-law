@@ -6,7 +6,7 @@
 
 ### Contribuições
 
-1 - Até ao último dia de cada mês, os beneficiários efetuam o pagamento das contribuições, calculadas pela aplicação da taxa referida no número seguinte à remuneração convencional, correspondente ao escalão escolhido de entre os escalões contributivos previstos no artigo 80.º
+1 - Os beneficiários pagam até ao último dia de cada mês contribuições calculadas pela aplicação da taxa referida no número seguinte a uma remuneração convencional, de entre escalões indexados à retribuição mínima mensal garantida estabelecida por lei, previstos no artigo seguinte, produzindo a fixação do escalão efeitos a 1 de janeiro de cada ano.
 
 2 - A taxa referida no número anterior é, sucessivamente, a seguinte:
 
@@ -18,14 +18,6 @@ c) No ano de 2019, 23 %;
 
 d) No ano de 2020 e seguintes, 24 %.
 
-3 - Os advogados estagiários e os associados estagiários da Ordem dos Solicitadores e Agentes de Execução ficam isentos da obrigação de contribuir durante todo o período de estágio, podendo, facultativamente, iniciar o pagamento de contribuições em qualquer altura do estágio e beneficiar da proteção social assegurada pela Caixa.
+3 - Os advogados estagiários e os associados estagiários da Câmara dos Solicitadores ficam sujeitos à obrigação de contribuir apenas a partir da segunda metade do período programático do estágio, exceto se não tiverem procedido à entrega de declaração de início de atividade para efeitos fiscais, e sem prejuízo de, facultativamente, poderem iniciar o pagamento de contribuições em qualquer altura da primeira metade do estágio.
 
-4 - Não estão sujeitos a obrigação contributiva os seguintes beneficiários:
-
-a) Pensionistas que deixem de estar inscritos na respetiva associação pública profissional;
-
-b) Pensionistas a partir dos 70 anos de idade, ainda que inscritos na respetiva associação pública profissional ou a partir da data em que completem o primeiro grupo de 12 meses de pagamento de contribuições após aquela idade;
-
-c) Beneficiários do subsídio de invalidez.
-
-5 - Os pensionistas referidos na alínea b) do número anterior podem proceder voluntariamente ao pagamento de contribuições.
+4 - Cessa a obrigação de contribuir prevista nos números anteriores logo que os beneficiários passem a ser titulares de pensão de reforma ou de subsídio de invalidez.
