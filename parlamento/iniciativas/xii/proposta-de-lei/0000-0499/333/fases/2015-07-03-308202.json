@@ -1,0 +1,376 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "333",
+    "id": "39475",
+    "titulo": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2015-07-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10792",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2015-07-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2015-07-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=00:43:32:277&drc=00:05:40:940"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA   ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIX GOVERNO CONSTITUCIONAL",
+              "nome": "José Leite Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=00:49:17:780&drc=00:03:36:182"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2103",
+                "nome": "Isabel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=00:52:56:825&drc=00:04:11:168"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4018",
+                "nome": "Artur Rêgo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=00:57:23:852&drc=00:03:01:324"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2156",
+                "nome": "Mariana Aiveca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=01:00:28:065&drc=00:03:38:717"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "15:02",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20150703pln&url=l12/sl4/a2015/m07/&tI=01:04:09:859&drc=00:03:43:552"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "199071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2015-07-04",
+                "pubLeg": "XII",
+                "pubNr": "107",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/18?pgs=18-20&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei n.º 2/2004, de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, e à segunda alteração à Lei n.º 64/2011, de 22 de dezembro, que modifica os procedimentos de recrutamento, seleção e provimento nos cargos de direção superior da Administração Pública.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "308202",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "10792",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-07-04",
+        "pubLeg": "XII",
+        "pubNr": "107",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
