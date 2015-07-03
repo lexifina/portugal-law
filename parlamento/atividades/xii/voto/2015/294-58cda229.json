@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=GKrqHvzQ1cyS2jnW4%2f2Y8vT3gIPQ1v41YmjrOsR%2boNUzDqVB1IupXODEKfYx8TnSy%2bBhvTIOMFu6aF6eFylHMFlgiwMVL94OH5ali23vSW0kCGGj89UX5u8Luq5B3abOy9tbXab4hDMyUFvmPrHqGF7iqrM4GdiuEQJPMOsjf1bwwWb%2fYoyc5wduj%2bBDK5QYSO%2bWiiRSDnpJ2k8Ccup91Wg6Gein%2ff216Wg6eE6cstFFfUgJ1R%2fsPaEeN%2bIkYubxlLGoVfXVsvj1J2ylSeiuzqo2XoeXCClsVwSXASHqXk%2fxLikMzxiGoeBmVk2kxXNX1AKJ8Bi64gmpbBkbdvw5GB%2b4NiHKul7GqqlY%2fKxv%2fXc%3d&fich=AtividadesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "1b2adfe63fd97d2baa950e760a1133f320aa28fa3a7191a88bb15f0b4a175b4e",
+  "legislatura": "XII",
+  "tipo": "Voto",
+  "numero": "294",
+  "data_registo": "2015-07-03",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Condenação e de Pesar pelas vítimas dos atentados perpetrados em França, na Tunísia e no Koweit",
+    "AutoresGP": [
+      "PSD",
+      "CDS-PP",
+      "António Rodrigues (PSD)",
+      "Duarte Pacheco (PSD)",
+      "Telmo Correia (CDS-PP)",
+      "Michael Seufert (CDS-PP)",
+      "Nuno Magalhães (CDS-PP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2015-07-03",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XII",
+    "Numero": "294",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "749828",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-07-03",
+        "pubLeg": "XII",
+        "pubNr": "57",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/057/2015-07-03/3?pgs=3-4&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "4",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2015-07-03",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "70169",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "748929",
+            "obs": null,
+            "pag": [
+              "60-60"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2015-07-04",
+            "pubLeg": "XII",
+            "pubNr": "107",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/12/04/107/2015-07-04/60?pgs=60&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "107",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
