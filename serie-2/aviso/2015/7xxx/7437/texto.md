@@ -1,0 +1,11 @@
+Aviso n.º 7437/2015
+Participação Pública
+Elaboração da Alteração ao Regulamento do PDM
+António José Correia, presidente da Câmara Municipal de Peniche, torna público que, nos termos dos n.º 1 do artigo 74.º, por remissão do n.º 1 do artigo 96.º do Decreto-Lei n.º 380/99, de 22 de setembro, com a redação dada pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, que estabelece o Regime Jurídico dos Instrumentos de Gestão Territorial, a Câmara Municipal de Peniche deliberou, em reunião pública de 15 de junho de 2015, desencadear a alteração ao regulamento do Plano Diretor Municipal de Peniche - PDM.
+A elaboração ocorrerá num período de 20 dias, a contar da presente publicação.
+Para efeitos do artigo 6.º e do n.º 2 do artigo 77.º do mesmo diploma, decorrerá um período de participação pública pelo prazo de 15 dias úteis, contados a partir do 1.º dia posterior à data da publicação da deliberação na 2.ª série do Diário da República, durante o qual, qualquer interessado poderá formular sugestões ou observações, apresentar ou obter informações ou esclarecimentos sobre quaisquer questões que possam ser consideradas no âmbito da elaboração da alteração do referido PDM.
+As sugestões ou observações, informações ou esclarecimentos deverão ser apresentadas por escrito e dirigidas ao presidente da Câmara, com referência expressa do assunto, em documento identificado com nome e morada, o qual deverá ser entregue na secção de Atendimento ao Público, durante o horário normal de funcionamento, ou através de correio eletrónico (cmpeniche@cm-peniche.pt).
+Mais se informa que a fundamentação para a Alteração ao Regulamento do PDM e os termos da deliberação referida, que inclui a dispensa de Avaliação Ambiental Estratégica, encontram-se disponíveis para consulta na Câmara Municipal de Peniche, na Divisão de Planeamento e Gestão Urbanística (DPGU) e no site institucional do Município em www.cm-peniche.pt.
+Para garantia do Direito de Participação, se mandou publicitar o aviso na 2.ª série do Diário da República, na imprensa nacional e local, na página da Internet do Município, bem como nos locais de estilo.
+26 de junho de 2015. - O Presidente da Câmara Municipal, António José Ferreira Sousa Correia Santos.
+208753933
