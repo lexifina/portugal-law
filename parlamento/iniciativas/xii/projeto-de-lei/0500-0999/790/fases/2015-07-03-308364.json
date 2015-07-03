@@ -1,0 +1,233 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "790",
+    "id": "39069",
+    "titulo": "Lei de apoio à maternidade e paternidade pelo direito de nascer"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2015-07-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "36268",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2015-07-14",
+            "id": "100680",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2015-07-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2015-07-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1  - Proposta de Alteração - PS - (à Proposta de Alteração do PSD/CDS-PP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a4441304e446c694f533078597a51334c545269596a5574595452685a4331694d574e6b4d5746684d3245345a6a517555455247&fich=6d0449b9-1c47-4bb5-a4ad-b1cd1aa3a8f4.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de Alteração - PSD/CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b596a6b774f474d30596930305932566c4c54517a4d6a63744f47566859793031597a4a68595755304e444a6a4f5467756347526d&fich=db908c4b-4cee-4327-8eac-5c2aae442c98.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APDM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4e54426c4e6a4d784d4330774d6d4d354c5451794e6d45744f4751784d43316b4e574a6c4f44646b4f5755774d6a457555455247&fich=d50e6310-02c9-426a-8d10-d5be87d9e021.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a6a59314e6a67304f433079596d49304c5451315a446b744f446b314d4330334e7a4d325a4445324d7a67794e446b756347526d&fich=7f656848-2bb4-45d9-8950-7736d1638249.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APMJ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a545a6a596a686d5a4330784d6d51304c5451324d546b744f4456694e43316c4d6d4d305a5468685a574d324f544d7555455247&fich=ce6cb8fd-12d4-4619-85b4-e2c4e8aec693.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação para a Cooperação sobre População e Desenvolvimento",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f545a695a44426c5a6931684e574a6b4c5451774d6d4d74595759784e4330314d4745774e7a5577597a646c4f54677555455247&fich=896bd0ef-a5bd-402c-af14-50a0750c7e98.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Inês Ferreira Leite",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784f574d314f545a694e4331684d7a49784c54526d4e6d597459544a684d53316a5a5463355a445a6b595745785932517555455247&fich=19c596b4-a321-4f6f-a2a1-ce79d6daa1cd.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - MDM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f5449344f545a6d5a4330334f4441344c5451774d544574595455354d433030596d56685a6a4d304f546b7a4e574d7555455247&fich=892896fd-7808-4011-a590-4beaf349935c.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Ordem dos Psicólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a5746694d6d51785969316b4f574e684c5451784f474974596a4935595330304d47597a593245324e324930597a457555455247&fich=4eab2d1b-d9ca-418b-b29a-40f3ca67b4c1.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Plataforma Portuguesa para os Direitos das Mulheres",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f4749354e47466b596931694f5449314c5451304e6d45744f574d795a6931685a4751775a6a6c694d6a55354d5463756347526d&fich=d8b94adb-b925-446a-9c2f-add0f9b25917.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - SPC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d7a566a4e57597a596930355a5755314c54526d4f545974595463794e7930334d44417959544530596a67305a446b7555455247&fich=735c5f3b-9ee5-4f96-a727-7002a14b84d9.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - UMAR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d7a686b4f444d794e43316d4d7a6b324c545135595441744f54466d4d43316a4f4442685a544a6d5a6d55334d6a597555455247&fich=b38d8324-f396-49a0-91f0-c80ae2ffe726.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2015-07-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto de Substituição e Relatório da Discussão e Votação CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e574a6a4f5749794d53316d4e6d4a6c4c5451314f474d74596d526c4d4330314d4745315954646c4d7a6b335a4445756347526d&fich=25bc9b21-f6be-458c-bde0-50a5a7e397d1.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "3510",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "3510",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da discussão e votação na e specialidade, texto final e propostas de alteração apresentadas pelo PSD, CDS-PP e PS",
+            "pag": [
+              "86-91"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173S1/2015-07-20/86?pgs=86-91&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório final da discussão e votação na e specialidade, texto final e propostas de alteração apresentadas pelo PSD, CDS-PP e PS",
+            "pag": [
+              "86-91"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2015-07-20",
+            "pubLeg": "XII",
+            "pubNr": "173",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/12/04/173S1/2015-07-20/86?pgs=86-91&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2015-07-17",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2015-07-17",
+            "dataRemessa": "2015-07-17",
+            "numeroOficio": "902/XII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2015-07-17",
+            "descricao": null,
+            "detalhe": null,
+            "id": "70421",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "337",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2015-07-03",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "308364",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
