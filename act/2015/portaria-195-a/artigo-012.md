@@ -2,7 +2,7 @@
 
 ### Notificação
 
-1 - A decisão sobre o pedido no âmbito deste procedimento é feita por via eletrónica.
+1 - A notificação da decisão sobre o pedido no âmbito deste procedimento é feita por via eletrónica.
 
 2 - No caso de haver lugar à celebração de um contrato de comparticipação ou de avaliação prévia, a notificação da decisão é acompanhada do contrato assinado pelo órgão competente do INFARMED, I.P.
 
