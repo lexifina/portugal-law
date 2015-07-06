@@ -1,0 +1,613 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=QUQP3pb5fkl2xcQIJfMU16bA1BNfnKAT5bYsLMni32ihUMQI1pYV5z3rMjJz%2bpOZ6KgcMQyO8KN1DRlx%2fndQ7KmTn%2bx9hggeCtXCmjXlmd0N0RRu1QfeJqIuoc8kzP2Sij%2b8E97ZvuADxyeAIpujayWSytZZgLyHJbPUtOBi0ewuEbDCYY3WFR4vfC2aHogcWPi8IldDAcr3lYMflGw7s6z9qTgDeMF%2f2Y0lj0nO%2fGUaHauwa7vw5kyhNgYTnco67zo%2bEZgHFIy1rgl5qKnmaO%2b0aX7d4xTdJZiBjECM%2b0ubdLDJeElND%2fu1eHJ935KU64HwuVjx12DfKDNGt12cQuIihs9rhKrJejyOHKuSiC8%3d&fich=PeticoesXII_json.txt&Inline=true",
+  "ficheiro_sha256": "3891a3f1c5e29256dc58cdcde724d673e7d5971410ef6b418d4f5ee2d934135b",
+  "legislatura": "XII",
+  "id": "12667",
+  "numero": "541",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-07-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-11-18",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "2/8ªCEC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-02-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2016-02-02",
+        "DataBaixaComissao": "2015-11-17",
+        "DataEnvioPAR": "2016-02-03",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-11-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a685a5751794e6a45784c546b30596a45744e44466c4f533035597a59304c544e6a4f5751774d6d517a4e6d59794e5335775a47593d&fich=baed2611-94b1-41e9-9c64-3c9d02d36f25.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-02-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249324e7a6b344e47497a4c544e6a595441744e4449344e6930344e7a597a4c574d354d325a694f4745355a545a6b4d4335775a47593d&fich=b67984b3-3ca0-4286-8763-c93fb8a9e6d0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-11-17",
+            "gp": "PSD",
+            "id": "4326",
+            "motivoCessacao": null,
+            "nome": "Nilza de Sena"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2015-07-21",
+            "entidades": null,
+            "id": "100743",
+            "tipo": null,
+            "titulo": "Audição em 2015-07-21 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-07-10",
+            "dataResposta": "2015-07-24",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "377/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-07-10",
+            "dataResposta": "2015-07-15",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "378/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-07-10",
+            "dataResposta": "2015-07-22",
+            "entidades": [
+              "SNESup - Sindicato Nacional do Ensino Superior"
+            ],
+            "nrOficio": "376/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-07-10",
+            "dataResposta": "2015-07-21",
+            "entidades": [
+              "APESP - Associação Portuguesa do Ensino Superior Privado"
+            ],
+            "nrOficio": "379/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-07-13",
+            "dataResposta": "2015-07-28",
+            "entidades": [
+              "Associação de Reflexão e Intervenção na Política Educativa das Escolas Superiores de Educação - ARIPESE"
+            ],
+            "nrOficio": "380/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-07-10",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  EDUCAÇÃO E CIÊNCIA"
+            ],
+            "nrOficio": "375/8ª-CECC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2015-07-09",
+        "DataArquivo": "2015-11-17",
+        "DataBaixaComissao": "2015-07-06",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2015-07-09",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a56694d6d51304d7a4e6b4c544d30595755744e444e6b4e4331685a6a55794c54566a5954686a4f4442694e325a684d6935775a47593d&fich=5b2d433d-34ae-43d4-af52-5ca8c80b7fa2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a41315a6a6734596d49314c5755794e6a67744e4755784d5331684e6d49354c544d325a6d557a4f4745304d446b30597935775a47593d&fich=05f88bb5-e268-4e11-a6b9-36fe38a4094c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a686c4d7a686a5a4759334c5752684d4755744e444d324e7930345a5449784c5751334f47513559574a6b4d7a5a6b596935775a47593d&fich=8e38cdf7-da0e-4367-8e21-d78d9abd36db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324e6d597a646b4d474a694c54426d4e4459744e445669596931694e7a59334c546b7a4e32466c5a4759324d6a51345a5335775a47593d&fich=cfc7d0bb-0f46-45bb-b767-937aedf6248e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4a6d4d4451354d7a45354c5745354d5463744e4749334f5330354d4449334c5452694d7a426a4e5463324f4755314d6935775a47593d&fich=2f049319-a917-4b79-9027-4b30c5768e52.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3259334d545a6b4f54526b4c54686d4d6a4d744e4441794e693034596a67774c5468684e6a51315a5759774f575535597935775a47593d&fich=f716d94d-8f23-4026-8b80-8a645ef09e9c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a52694d3246695a4442684c5451315a574d744e44597a5a5330354e47466d4c5463775a545a6a4e544e684e575977596935775a47593d&fich=4b3abd0a-45ec-463e-94af-70e6c53a5f0b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-07-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c3246685a6d4977597a55354c54566d4e5455744e444a6d5a4331694e7a49324c575a6b4e44557a59575530595445304f4335775a47593d&fich=aafb0c59-5f55-42fd-b726-fd453ae4a148.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a45335a54466d596d526c4c574e694d5459744e444d7a4e793035596a646b4c5467304e444134597a466a4d3245314f4335775a47593d&fich=17e1fbde-cb16-4337-9b7d-84408c1c3a58.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c325535596d526a4f5751334c57517a4d7a45744e446b314d6930354e324e6d4c5449774e6a68694f4759334d7a41304f4335775a47593d&fich=e9bdc9d7-d331-4952-97cf-2068b8f73048.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c7a4935595441795932597a4c575a6959546b744e444d324e7930354d7a426c4c574d794d32466c4d6d4d784e444a6b596935775a47593d&fich=29a02cf3-fba9-4367-930e-c23ae2c142db.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-07-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765130394e4c7a684452554e444c305276593356745a57353062334e515a585270593246764c324d784d6a426a4e5755774c5467314f5451744e4451304d4330344e4756694c545530596a637a4e6a63334f57526d4d6935775a47593d&fich=c120c5e0-8594-4440-84eb-54b736779df2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "3517",
+        "Legislatura": "XII",
+        "Nome": "Comissão de Educação, Ciência e Cultura",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Educação e Ciência da XIII Legislatura."
+      }
+    ],
+    "DataDebate": "2016-02-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-07-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a426b5a446b344d6a67354c575a69597a63744e4755305a43316859325a6d4c5463794d7a64695954593159544e6b4e6935515245593d&fich=0dd98289-fbc7-4e4d-acff-7237ba65a3d6.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "39947",
+      "40059",
+      "40070"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:04:23:829&drc=00:03:05:136"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:23:32:823&drc=00:01:44:956"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/38?pgs=38,42&org=PLC"
+              }
+            ],
+            "Sumario": "1.ª alteração à Lei n.º 5/2011, de 2 de março, que aprova a lei das Ordens Honoríficas Portuguesas, integrando a Ordem de Camões no âmbito das Ordens Nacionais; Propõe a criação de um novo regime transitório para a conclusão da obtenção do grau de doutor e contratação efetiva com vínculo público dos docentes do ensino superior público; Recomenda ao Governo a adoção de medidas que assegurem a equidade na aplicação dos regimes transitórios dos estatutos das carreiras docentes do ensino superior público; Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:07:35:340&drc=00:04:15:470"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "1.ª alteração à Lei n.º 5/2011, de 2 de março, que aprova a lei das Ordens Honoríficas Portuguesas, integrando a Ordem de Camões no âmbito das Ordens Nacionais; Propõe a criação de um novo regime transitório para a conclusão da obtenção do grau de doutor e contratação efetiva com vínculo público dos docentes do ensino superior público; Recomenda ao Governo a adoção de medidas que assegurem a equidade na aplicação dos regimes transitórios dos estatutos das carreiras docentes do ensino superior público; Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:11:57:154&drc=00:04:32:232"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "1.ª alteração à Lei n.º 5/2011, de 2 de março, que aprova a lei das Ordens Honoríficas Portuguesas, integrando a Ordem de Camões no âmbito das Ordens Nacionais; Propõe a criação de um novo regime transitório para a conclusão da obtenção do grau de doutor e contratação efetiva com vínculo público dos docentes do ensino superior público; Recomenda ao Governo a adoção de medidas que assegurem a equidade na aplicação dos regimes transitórios dos estatutos das carreiras docentes do ensino superior público; Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:16:36:952&drc=00:03:21:275"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "1.ª alteração à Lei n.º 5/2011, de 2 de março, que aprova a lei das Ordens Honoríficas Portuguesas, integrando a Ordem de Camões no âmbito das Ordens Nacionais; Propõe a criação de um novo regime transitório para a conclusão da obtenção do grau de doutor e contratação efetiva com vínculo público dos docentes do ensino superior público; Recomenda ao Governo a adoção de medidas que assegurem a equidade na aplicação dos regimes transitórios dos estatutos das carreiras docentes do ensino superior público; Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:20:04:972&drc=00:03:19:028"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "1.ª alteração à Lei n.º 5/2011, de 2 de março, que aprova a lei das Ordens Honoríficas Portuguesas, integrando a Ordem de Camões no âmbito das Ordens Nacionais; Propõe a criação de um novo regime transitório para a conclusão da obtenção do grau de doutor e contratação efetiva com vínculo público dos docentes do ensino superior público; Recomenda ao Governo a adoção de medidas que assegurem a equidade na aplicação dos regimes transitórios dos estatutos das carreiras docentes do ensino superior público; Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12667",
+    "PetAssunto": "Pelo direito à estabilidade de emprego dos docentes e investigadores do ensino superior.",
+    "PetDataEntrada": "2015-07-06",
+    "PeticoesAssociadas": null,
+    "PetId": "12667",
+    "PetLeg": "XII",
+    "PetNr": "541",
+    "PetNrAssinaturas": "4218",
+    "PetNrAssinaturasInicial": "4167",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2155",
+        "obs": null,
+        "pag": [
+          "38-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-02-12",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/38?pgs=38-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "749847",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-07-10",
+        "pubLeg": "XII",
+        "pubNr": "60",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/12/04/060/2015-07-10/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
