@@ -8,7 +8,7 @@
 
 3 - O número de prestações referido no número anterior pode ser alargado até 60, se a dívida exequenda exceder 50 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares.
 
-4 - O número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:
+4 - O número de prestações previstas no n.º 2 pode ser alargado até 150 desde que, cumulativamente, se verifiquem as seguintes condições:
 
 a) A dívida exequenda exceda 500 unidades de conta no momento da autorização;
 
