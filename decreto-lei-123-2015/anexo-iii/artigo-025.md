@@ -1,0 +1,29 @@
+# Artigo 25.º
+
+### Sanções acessórias
+
+1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:
+
+a) Perda a favor do Estado dos instrumentos pertencentes ao agente, designadamente maquinaria, veículos ou quaisquer outros objetos, que serviram ou estavam destinados a servir para a prática da contraordenação;
+
+b) Perda a favor do Estado dos bens ou produtos pertencentes ao agente resultantes da prática da contraordenação;
+
+c) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública e se relacione com a prática da contraordenação, desde que esta tenha sido praticada com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes;
+
+d) Privação da atribuição de subsídios ou outros benefícios outorgados ou a outorgar por entidades ou serviços públicos, no âmbito da atividade florestal, desde que a contraordenação tenha sido praticada no exercício ou por causa da atividade a favor da qual é atribuído o subsídio ou o benefício;
+
+e) Privação do direito de participar em feiras e mercados, desde que a contraordenação tenha sido praticada durante ou por causa da participação em feira ou mercado;
+
+f) Privação do direito de participar em procedimentos de contratação pública que tenham por objeto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás, desde que a contraordenação tenha sido praticada durante ou por causa dos atos públicos ou no exercício ou por causa das atividades mencionadas;
+
+g) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa e cuja atividade esteja abrangida pelas disposições previstas no presente decreto-lei, desde que a contraordenação tenha sido praticada no exercício ou por causa dessa atividade;
+
+h) Suspensão da licença ou da autorização de corte ou abate, desde que a contraordenação tenha sido praticada no exercício ou por causa de qualquer dessas atividades;
+
+i) Suspensão dos efeitos do formulário de manifestação de exploração florestal.
+
+2 - As sanções referidas nas alíneas c) a i) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
+
+3 - A sanção referida na alínea c) do n.º 1 deve ser comunicada à respetiva ordem profissional ou associação de direito público, quando legalmente exigível.
+
+4 - No caso de uma conduta contraordenacional ter ocasionado um grave risco de dispersão do NMP, deve ser dada publicidade à decisão condenatória definitiva de aplicação da coima, mediante a afixação de editais pelo ICNF, I. P., e DRAP da área onde foi praticada a infração.
