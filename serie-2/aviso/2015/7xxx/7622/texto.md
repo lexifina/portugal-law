@@ -1,0 +1,9 @@
+Aviso n.º 7622/2015
+Alteração ao Plano Diretor Municipal de Chamusca - Eco Parque do Relvão
+Abertura do período de discussão pública
+Paulo Jorge Mira Lucas Cegonho Queimado, Presidente da Câmara Municipal de Chamusca, torna público, para efeitos do disposto no n.º 3 e n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, na redação dada pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 7 de agosto, e pelo Decreto-Lei n.º 2/2011, de 6 de janeiro, e em cumprimento da deliberação de Câmara Municipal de Chamusca de 02 de julho de 2015, que a proposta de Alteração ao PDM da Chamusca - Eco Parque do Relvão, se encontra em discussão pública, durante 30 dias úteis, contados a partir dos 5 dias subsequentes à publicação do presente aviso, na 2.ª série do Diário da República, nos termos da alínea a) do n.º 4 do artigo 148.º e do n.º 2 do artigo 149.º do mesmo diploma.
+A proposta da Alteração ao PDM da Chamusca - Eco Parque do Relvão é acompanhada de relatório ambiental, de ata da conferência de serviços, dos necessários pareceres emitidos, bem como de outros documentos necessários à boa compreensão do processo.
+A proposta estará disponível nesta Câmara Municipal, no Balcão Único do Município, todos os dias úteis das 9.00h às 16.00h, e na página da Internet do município (www.cm-chamusca.pt).
+Durante o referido período de discussão pública, qualquer interessado poderá apresentar as suas reclamações, observações e pedidos de esclarecimento, por escrito, em documento devidamente identificado, dirigido ao Presidente da Câmara Municipal da Chamusca ou por via eletrónica para a morada de correio eletrónico geral@cm-chamusca.pt.
+2 de julho de 2015. - O Presidente da Câmara, Paulo Jorge Mira Lucas Cegonho Queimado.
+208767022
