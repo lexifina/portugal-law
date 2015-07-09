@@ -1,0 +1,11 @@
+Aviso n.º 7619/2015
+Abertura do período de discussão pública do Plano de Pormenor de Reconversão da Quinta do Guarda-Mor
+Maria Amélia de Jesus Pardal, Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea, no uso das competências delegadas por despacho do Sr. Presidente da Câmara Municipal de Almada, n.º 121/2013-2017, de 18 de junho de 2015, torna público que:
+Para os efeitos previstos dos n.os 3 e 4, do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, (Regime Jurídico dos Instrumentos de Gestão Territorial) com a redação conferida pelo Decreto-Lei n.º 46/2009, de 20 de fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 181/2009, de 07 de agosto, e ainda pelo Decreto-Lei n.º 2/2011, de 06 de janeiro, a Câmara Municipal de Almada, na sua reunião ordinária pública de 01 de julho de 2015, deliberou proceder à abertura de um período de discussão pública da Proposta do Plano de Pormenor de Reconversão da Quinta do Guarda-Mor.
+O período de discussão pública decorrerá durante 90 dias e terá início no dia seguinte após a publicação deste aviso no Diário da República, 2.ª série, nos termos da alínea a) do n.º 4 do artigo 148.º do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Os interessados poderão consultar a Proposta de Plano e demais documentação, na página eletrónica da Câmara Municipal de Almada, www.m-almada.pt, ou nos seguintes locais:
+Instalações da Direção Municipal de Obras, Planeamento, Administração do Território e Desenvolvimento Económico (DMOPATDE) - Avenida D. Nuno Álvares Pereira, 67, 2800-181 Almada, no horário das 08h30 às 15h00, de segunda a sexta-feira;
+União de Freguesias de Charneca de Caparica e Sobreda - Junta de Freguesia da Sobreda - Rua do Vale Linhoso, 6-A, 2819-502 Sobreda, no horário das 9h00 -12h30 e das 14h00 - 17h30, de segunda a sexta-feira.
+A formulação de reclamações, observações ou sugestões deverão ser feitas mediante requerimento dirigido ao Sr. Presidente da Câmara Municipal de Almada, onde deverá constar a identificação do assunto, do subscritor (nome e morada), a identificação do local e o objeto da exposição, até ao termo do referido período.
+02 de julho de 2015. - A Vereadora das Obras, Planeamento, Administração do Território e Desenvolvimento Económico, Maria Amélia de Jesus Pardal.
+208757692
