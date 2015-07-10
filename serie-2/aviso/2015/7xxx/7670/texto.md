@@ -1,0 +1,5 @@
+Aviso n.º 7670/2015
+Regulamento Municipal de Urbanização, Edificação e de Taxas e Compensações Urbanísticas do Concelho de Portalegre (RMUETCU) - Programa Plurianual de Investimentos (PPI)
+Maria Adelaide de Aguiar Marques Teixeira, Presidente da Câmara Municipal de Portalegre, torna público, nos termos e para efeitos do disposto no artigo 56.º do anexo I da Lei n.º 75/2013, de 12 setembro, e no uso da competência que lhe é conferida pela alínea c) n.º 1 do artigo 35.º da mesma lei, em conformidade com o disposto no artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, com a redação conferida pelo Decreto-Lei n.º 136/2014 de 9 de setembro, bem como o referido no quadro XXI da tabela anexa ao RMUETCU, que por deliberação de Câmara Municipal de 22 de junho de 2015 e de Assembleia Municipal de Portalegre de 30 de junho de 2015, foi aprovado o montante do PPI para o ano de 2015, no valor de 2 375 928,00 euros.
+02 de julho de 2015. - A Presidente da Câmara Municipal de Portalegre, Maria Adelaide de Aguiar Marques Teixeira.
+208769583
