@@ -6,17 +6,17 @@
 
 2 - São tributados autonomamente os seguintes encargos, suportados por sujeitos passivos que possuam ou devam possuir contabilidade organizada no âmbito do exercício de atividades empresariais ou profissionais, excluindo os veículos movidos exclusivamente a energia elétrica:
 
-a) Os encargos dedutíveis relativos a despesas de representação e a viaturas ligeiras de passageiros ou mistas cujo custo de aquisição seja inferior a 30 000 €, motos e motociclos, à taxa de 10 %;
+a) Os encargos dedutíveis relativos a despesas de representação e a viaturas ligeiras de passageiros ou mistas cujo custo de aquisição seja inferior a (euro) 20 000, motos e motociclos, à taxa de 10 %;
 
-b) Os encargos dedutíveis relativos a automóveis ligeiros de passageiros ou mistos, cujo custo de aquisição seja igual ou superior a 30 000 €, à taxa de 20 %.
+b) Os encargos dedutíveis relativos a automóveis ligeiros de passageiros ou mistos, cujo custo de aquisição seja igual ou superior a (euro) 20 000, à taxa de 20 %.
 
 3 - Excluem-se do disposto no número anterior os encargos relacionados com viaturas ligeiras de passageiros ou mistas, motos e motociclos, afetos à exploração do serviço público de transportes, destinados a serem alugados no exercício da atividade normal do sujeito passivo, bem como as reintegrações relacionadas com as viaturas relativamente às quais tenha sido celebrado o acordo previsto no n.º 9) da alínea b) do n.º 3 do artigo 2.º
 
-4 - Consideram-se despesas de representação, nomeadamente, os encargos suportados com receções, refeições, viagens e passeios oferecidos no País ou no estrangeiro a clientes ou a fornecedores ou ainda a quaisquer outras pessoas ou entidades.
+4 - Consideram-se despesas de representação, nomeadamente, os encargos suportados com receções, refeições, viagens, passeios e espetáculos oferecidos no país ou no estrangeiro a clientes ou a fornecedores ou ainda a quaisquer outras pessoas ou entidades.
 
 5 - Consideram-se encargos relacionados com viaturas ligeiras de passageiros, motos e motociclos, nomeadamente, as reintegrações, rendas ou alugueres, seguros, despesas com manutenção e conservação, combustíveis e impostos incidentes sobre a sua posse ou utilização.
 
-6 - São sujeitas ao regime do n.º 1, sendo a taxa aplicável 35 %, as despesas correspondentes a importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, salvo se o sujeito passivo puder provar que tais encargos correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
+6 - São sujeitas ao regime do n.º 1, sendo a taxa aplicável 35 %, as despesas correspondentes a importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal claramente mais favorável, tal como definido para efeitos de IRC, salvo se o sujeito passivo puder provar que tais encargos correspondem a operações efetivamente realizadas e não têm um carácter anormal ou um montante exagerado.
 
 7 - São tributados autonomamente, à taxa de 5 %, os encargos dedutíveis relativos a despesas com ajudas de custo e com compensação pela deslocação em viatura própria do trabalhador, ao serviço da entidade patronal, não faturadas a clientes, escrituradas a qualquer título, exceto na parte em que haja lugar a tributação em sede de IRS na esfera do respetivo beneficiário, bem como os encargos da mesma natureza, que não sejam dedutíveis nos termos da alínea f) do n.º 1 do artigo 42.º do Código do IRC, suportados por sujeitos passivos que apresentem prejuízo fiscal no exercício a que os mesmos respeitam.
 

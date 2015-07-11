@@ -41,5 +41,3 @@ b) Até ao fim do mês de março do ano em que pretendem alterar a forma de dete
 12 - (Revogado.)
 
 13 - (Revogado.)
-
-14 - Os titulares de rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento podem, a cada ano, optar pela tributação de acordo com as regras estabelecidas para a categoria F.

@@ -11,5 +11,3 @@ a) Estando cotados em bolsa de valores, o valor de alienação é o da respetiva
 b) Não estando cotados em bolsa de valores, o valor de alienação é o que lhe corresponder, apurado com base no último balanço.
 
 3 - Quando se trate de quotas, presume-se que o valor de alienação é o que àquelas corresponda, apurado com base no último balanço.
-
-4 - Quando se trate de criptoativos, presume-se que o valor de alienação é o valor de mercado à data da alienação.

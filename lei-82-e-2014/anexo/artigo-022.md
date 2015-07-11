@@ -20,9 +20,9 @@ b) Tratando-se de rendimentos das restantes categorias, cada contitular engloba 
 
 3 - Não são englobados para efeitos da sua tributação:
 
-a) Os rendimentos auferidos por sujeitos passivos não residentes em território português, com exceção das mais-valias previstas nas alíneas a) e d) do n.º 1 do artigo 10.º que não sejam imputáveis a estabelecimento estável nele situado e sem prejuízo do disposto nos n.os 13 e 14 do artigo 72.º;
+a) Os rendimentos auferidos por sujeitos passivos não residentes em território português, sem prejuízo do disposto nos n.os 8 e 9 do artigo 72.º;
 
-b) Os rendimentos referidos nos artigos 71.º e 72.º auferidos por residentes em território português, sem prejuízo da opção pelo englobamento e do englobamento obrigatório neles previsto.
+b) Os rendimentos referidos nos artigos 71.º e 72.º auferidos por residentes em território português, sem prejuízo da opção pelo englobamento neles previsto.
 
 4 - Ainda que não englobados para efeito da sua tributação, são sempre incluídos para efeito de determinação da taxa a aplicar aos restantes rendimentos, os rendimentos isentos, quando a lei imponha o respetivo englobamento.
 
@@ -36,12 +36,4 @@ a) Os rendimentos isentos são considerados, sem deduções, para efeitos do dis
 
 b) Para efeitos da alínea anterior, quando seja de aplicar o disposto no artigo 69.º, o quociente da divisão por 2 dos rendimentos isentos é imputado proporcionalmente à fração de rendimento a que corresponde a taxa média e a taxa normal.
 
-8 - Quando os dependentes, nas situações referidas no n.º 9 do artigo 13.º, tiverem obtido rendimentos devem os mesmos:
-
-a) Ser incluídos na declaração do agregado em que se integram, salvo o disposto na alínea seguinte;
-
-b) Ser divididos em partes iguais a incluir, respetivamente, em cada uma das declarações dos sujeitos passivos, em caso de residência alternada estabelecida em acordo de regulação do exercício das responsabilidades parentais em vigor no último dia do ano a que o imposto respeita.
-
-9 - Para efeitos do disposto na alínea b) do número anterior, devem os sujeitos passivos comunicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita, a existência de residência alternada prevista no referido acordo.
-
-10 - Sempre que a lei imponha o englobamento de rendimentos auferidos por sujeitos passivos não residentes em território português são tidos em consideração, para efeitos de determinação da taxa a aplicar de acordo com a tabela prevista no n.º 1 do artigo 68.º, todos os rendimentos auferidos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
+8 - Quando os dependentes, nas situações referidas no n.º 9 do artigo 13.º, tiverem obtido rendimentos, devem os mesmos ser incluídos na declaração do agregado em que se integram.

@@ -2,7 +2,7 @@
 
 ### Comunicação de rendimentos e retenções
 
-1 - As entidades devedoras de rendimentos que estejam obrigadas a efetuar a retenção, total ou parcial, do imposto, bem como as entidades devedoras dos rendimentos previstos nos n.os 4), 5), 7), 9) e 10) da alínea b) do n.º 3 do artigo 2.º e dos rendimentos não sujeitos, total ou parcialmente, previstos nos artigos 2.º e 2.º-A e nos n.os 2, 4 e 5 do artigo 12.º, e ainda as entidades através das quais sejam processados os rendimentos sujeitos ao regime especial de tributação previsto no n.º 7 do artigo 72.º, são obrigadas a:
+1 - As entidades devedoras de rendimentos que estejam obrigadas a efetuar a retenção, total ou parcial, do imposto, bem como as entidades devedoras dos rendimentos previstos nos n.os 4), 5), 7), 9) e 10) da alínea b) do n.º 3 do artigo 2.º e dos rendimentos não sujeitos, total ou parcialmente, previstos nos artigos 2.º e 2.º-A e nos n.os 2, 4 e 5 do artigo 12.º, e ainda as entidades através das quais sejam processados os rendimentos sujeitos ao regime especial de tributação previsto no n.º 3 do artigo 72.º, são obrigadas a:
 
 a) Possuir registo atualizado das pessoas credoras desses rendimentos, ainda que não tenha havido lugar a retenção do imposto, do qual constem, nomeadamente, o nome, o número fiscal e respetivo código, bem como a data e valor de cada pagamento ou dos rendimentos em espécie que lhes tenham sido atribuídos;
 
@@ -12,7 +12,7 @@ c) Entregar à Autoridade Tributária e Aduaneira uma declaração de modelo ofi
 
 i) Até ao dia 10 do mês seguinte ao do pagamento ou colocação à disposição, caso se trate de rendimentos do trabalho dependente, ainda que isentos ou não sujeitos a tributação, sem prejuízo de poder ser estabelecido por portaria do Ministro das Finanças a sua entrega anual nos casos em que tal se justifique;
 
-ii) Até ao final do mês de fevereiro de cada ano, relativamente aos restantes rendimentos do ano anterior;
+ii) Até ao final do mês de janeiro de cada ano, relativamente aos restantes rendimentos do ano anterior;
 
 d) Apresentar a declaração a que se refere a alínea anterior nos 30 dias imediatos à ocorrência de qualquer facto que determine a alteração dos rendimentos já declarados ou que implique a obrigação de os declarar.
 
@@ -22,7 +22,7 @@ a) Entregar à Autoridade Tributária e Aduaneira, até ao fim do mês de julho 
 
 b) Possuir um registo atualizado dos titulares desses rendimentos com indicação do respetivo regime fiscal, bem como os documentos que justificam a isenção, a redução de taxa ou a dispensa de retenção na fonte.
 
-3 - Tratando-se de rendimentos sujeitos a retenção na fonte às taxas previstas no artigo 71.º, cujos titulares sejam residentes em território português, o documento previsto na alínea b) do n.º 1 apenas é emitido a solicitação expressa dos sujeitos passivos que pretendam optar pelo englobamento.
+3 - Tratando-se de rendimentos de quaisquer títulos nominativos ou ao portador e de juros de depósitos à ordem ou a prazo, cujos titulares sejam residentes em território português, o documento referido na alínea b) do n.º 1 apenas é emitido a solicitação expressa dos sujeitos passivos que pretendam optar pelo englobamento.
 
 4 - (Revogado.)
 
@@ -59,7 +59,3 @@ b) Entregar à Autoridade Tributária e Aduaneira, até ao final do mês de feve
 c) Emitir a declaração prevista na alínea b) do n.º 1 nas condições previstas no n.º 3.
 
 13 - (Revogado.)
-
-14 - As instituições de crédito e sociedades financeiras que intervenham nas operações previstas na alínea b) do n.º 1 do artigo 10.º relativas a valores mobiliários devem entregar aos sujeitos passivos, no prazo previsto na alínea b) do n.º 1, documento onde identifique, relativamente aos títulos transacionados, a quantidade, a data e o valor histórico de aquisição e o valor de realização.
-
-15 - Para efeitos do disposto no número anterior, nas situações em que a data e o valor histórico de aquisição sejam desconhecidos é aplicável o disposto na parte final da alínea a) do artigo 48.º

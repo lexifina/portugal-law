@@ -16,7 +16,7 @@ a) Os rendimentos prediais imputáveis a atividades geradoras de rendimentos emp
 
 b) Os rendimentos de capitais imputáveis a atividades geradoras de rendimentos empresariais e profissionais;
 
-c) As mais-valias apuradas no âmbito das atividades geradoras de rendimentos empresariais e profissionais, definidas nos termos do artigo 46.º do Código do IRC, designadamente as resultantes da transferência para o património particular dos empresários de quaisquer bens, com exceção dos bens imóveis, afetos ao ativo da empresa e, bem assim, os outros ganhos ou perdas que, não se encontrando nessas condições, decorram das operações referidas no n.º 1 do artigo 10.º, quando imputáveis a atividades geradoras de rendimentos empresariais e profissionais;
+c) As mais-valias apuradas no âmbito das atividades geradoras de rendimentos empresariais e profissionais, definidas nos termos do artigo 46.º do Código do IRC, designadamente as resultantes da transferência para o património particular dos empresários de quaisquer bens afetos ao ativo da empresa e, bem assim, os outros ganhos ou perdas que, não se encontrando nessas condições, decorram das operações referidas no n.º 1 do artigo 10.º, quando imputáveis a atividades geradoras de rendimentos empresariais e profissionais;
 
 d) As importâncias auferidas, a título de indemnização, conexas com a atividade exercida, nomeadamente a sua redução, suspensão e cessação, assim como pela mudança do local do respetivo exercício;
 
@@ -41,9 +41,3 @@ i) Os provenientes da prática de atos isolados referentes a atividade abrangida
 7 - Nos casos em que o rendimento não seja determinado com base na contabilidade deve ainda observar-se que as importâncias recebidas a título de provisão ou a qualquer outro título destinadas a custear despesas da responsabilidade dos clientes são consideradas como rendimento do ano posterior ao da sua receção sempre que até ao final desse ano não seja apresentada a conta final relativa ao trabalho prestado.
 
 8 - Sem prejuízo do disposto no número anterior, sempre que ocorra uma alteração do regime de tributação, no primeiro ano de aplicação do novo regime devem ser efetuados os necessários ajustamentos destinados a evitar qualquer duplicação de tributação dos rendimentos, bem como a sua não tributação.
-
-9 - (Revogado.)
-
-10 - No caso de transferência para o património particular do sujeito passivo de bens imóveis que tenham estado afetos à sua atividade empresarial e profissional com determinação dos rendimentos com base na contabilidade, quando tenham sido praticadas depreciações ou imparidades, os correspondentes gastos fiscalmente aceites durante o período em que o imóvel esteve afeto à atividade devem ser acrescidos, em frações iguais, ao rendimento do ano em que ocorra a transferência e em cada um dos três anos seguintes.
-
-11 - O montante total apurado nos termos do número anterior acresce ao valor de aquisição para a determinação de quaisquer mais-valias sujeitas a imposto.

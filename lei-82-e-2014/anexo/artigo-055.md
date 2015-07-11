@@ -14,7 +14,7 @@ b) O resultado líquido negativo apurado em determinado ano na categoria F só p
 
 c) A percentagem do saldo negativo a que se refere o n.º 2 do artigo 43.º só pode ser reportada aos cinco anos seguintes àquele a que respeita;
 
-d) O saldo negativo apurado num determinado ano, relativo às operações previstas nas alíneas b), c), e), f), g), h) e k) do n.º 1 do artigo 10.º, pode ser reportado para os cinco anos seguintes quando o sujeito passivo opte ou seja obrigado a englobar esses rendimentos.
+d) O saldo negativo apurado num determinado ano, relativo às operações previstas nas alíneas b), c), e), f), g) e h) do n.º 1 do artigo 10.º, pode ser reportado para os cinco anos seguintes quando o sujeito passivo opte pelo englobamento.
 
 2 - (Revogado.)
 

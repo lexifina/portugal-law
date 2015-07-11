@@ -1,7 +1,7 @@
 # Artigo 118.º
 
-### Faturação e arquivo
+### Centralização, arquivo e escrituração
 
-1 - Sem prejuízo das obrigações previstas no presente Código, os sujeitos passivos titulares de rendimentos da categoria B estão sujeitos às obrigações de faturação, de emissão de recibo e de arquivo nos termos previstos no Código do IVA e no Decreto-Lei n.º 28/2019, de 15 de fevereiro.
+1 - Os sujeitos passivos são obrigados a centralizar a contabilidade ou a escrituração referidas nos artigos anteriores no seu domicílio fiscal ou em estabelecimento estável ou instalação situados em território português, devendo neste último caso indicar, na declaração de início ou na declaração de alterações, a sua localização.
 
-2 - (Revogado.)
+2 - Os sujeitos passivos são obrigados a conservar em boa ordem os livros, registos contabilísticos e respetivos documentos de suporte durante 12 anos.

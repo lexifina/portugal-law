@@ -26,10 +26,6 @@ j) À dupla tributação internacional;
 
 k) Aos benefícios fiscais.
 
-l) Ao adicional ao imposto municipal sobre imóveis, nos termos do artigo 135.º-I do Código do Imposto Municipal sobre Imóveis.
-
-m) Aos encargos com retribuição pela prestação de trabalho doméstico.
-
 2 - São ainda deduzidos à coleta os pagamentos por conta do imposto e as importâncias retidas na fonte que tenham aquela natureza, respeitantes ao mesmo período de tributação, bem como as retenções efetuadas ao abrigo do artigo 11.º da Diretiva n.º 2003/48/CE, de 3 de junho.
 
 3 - As deduções referidas neste artigo são efetuadas pela ordem nele indicada e apenas as previstas no número anterior, quando superiores ao imposto devido, conferem direito ao reembolso da diferença.
@@ -38,7 +34,7 @@ m) Aos encargos com retribuição pela prestação de trabalho doméstico.
 
 5 - As deduções previstas no n.º 1 aplicam-se apenas aos sujeitos passivos residentes em território português.
 
-6 - As deduções referidas nas alíneas a) a i) e na alínea k) do n.º 1 só podem ser realizadas:
+6 - As deduções referidas nas alíneas a) a h) bem como na alínea j) do n.º 1 só podem ser realizadas:
 
 a) Mediante a identificação fiscal dos dependentes, ascendentes, colaterais ou beneficiários a que se reportem, feita na declaração a que se refere o n.º 1 do artigo 57.º;
 
@@ -48,30 +44,20 @@ i) Fatura, fatura-recibo ou recibo, emitidos nos termos do Código do IVA ou da 
 
 ii) Outro documento, quando o fornecedor dos bens ou prestador dos serviços esteja dispensado daquela obrigação.
 
-7 - A soma das deduções à coleta previstas nas alíneas c) a h), k) e m) do n.º 1 não pode exceder, por agregado familiar, e, no caso de tributação conjunta, após aplicação do divisor previsto no artigo 69.º, os limites constantes das seguintes alíneas:
+7 - A soma das deduções à coleta previstas nas alíneas c) a h) e k) do n.º 1 não pode exceder, por agregado familiar, os limites constantes das seguintes alíneas:
 
-a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do 1.º escalão do n.º 1 artigo 68.º, sem limite;
+a) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável inferior a (euro) 7 000, sem limite;
 
-b) Para contribuintes que tenham um rendimento coletável superior ao valor do primeiro escalão do n.º 1 do artigo 68.º e igual ou inferior ao valor mínimo do primeiro escalão do n.º 1 do artigo 68.º-A, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável superior a (euro) 7 000 e inferior a (euro) 80 000, o limite resultante da aplicação da seguinte fórmula:
 
 (ver documento original)
 
-c) Para contribuintes que tenham um rendimento coletável superior ao valor mínimo do primeiro escalão do n.º 1 do artigo 68.º-A, o montante de 1000 (euro).
+c) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável superior a (euro) 80 000, o montante de (euro) 1 000.
 
 8 - Nos agregados com três ou mais dependentes a seu cargo, os limites previstos no número anterior são majorados em 5 % por cada dependente ou afilhado civil que não seja sujeito passivo do IRS.
 
 9 - Sempre que o mesmo dependente ou ascendente conste de mais do que uma declaração de rendimentos, o valor das deduções à coleta previstas no presente Código por referência a dependentes ou ascendentes é reduzido para metade, por sujeito passivo.
 
-10 - Sem prejuízo do disposto no número anterior, caso o acordo de regulação do exercício em comum das responsabilidades parentais estabeleça uma partilha de despesas que não seja igualitária e que fixe quantitativamente, para o dependente, a percentagem que respeita a cada sujeito passivo, o cálculo das deduções à coleta deverá considerar as devidas percentagens constantes do referido acordo, sem prejuízo do disposto nos dois números seguintes.
+10 - A dedução à coleta prevista no artigo 83.º-A impede a consideração das demais deduções referentes ao dependente por referência ao qual o sujeito passivo efetua pagamentos de pensões de alimentos.
 
-11 - Para efeito do disposto no número anterior devem os sujeitos passivos indicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita, a percentagem que lhes corresponde na partilha de despesas.
-
-12 - Caso os sujeitos passivos não efetuem a comunicação prevista no número anterior ou, efetuando, a soma das percentagens comunicadas por ambos os sujeitos passivos não corresponda a 100 %, o valor das deduções à coleta é dividido em partes iguais.
-
-13 - A dedução à coleta prevista no artigo 83.º-A impede a consideração das demais deduções referentes ao dependente por referência ao qual o sujeito passivo efetua pagamentos de pensões de alimentos.
-
-14 - No caso do regime de tributação separada, quando o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, para cada um dos cônjuges ou unidos de facto:
-
-a) Os limites dessas deduções são reduzidos para metade;
-
-b) As percentagens de dedução à coleta são aplicadas à totalidade das despesas de que cada sujeito passivo seja titular acrescida de 50 % das despesas de que sejam titulares os dependentes que integram o agregado.
+11 - No caso de sujeitos passivos casados ou unidos de facto, sempre que o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, não havendo opção pela tributação conjunta, esses valores são reduzidos para metade, por sujeito passivo.

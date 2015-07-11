@@ -4,25 +4,21 @@
 
 1 - As entidades que disponham ou devam dispor de contabilidade organizada são obrigadas a reter o imposto, mediante a aplicação, aos rendimentos ilíquidos de que sejam devedoras e sem prejuízo do disposto nos números seguintes, das seguintes taxas:
 
-a) 16,5 %, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º ou de incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artigo 9.º;
+a) 16,5 %, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º, de rendimentos da categoria E ou de incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artigo 9.º;
 
-b) 23 %, tratando-se de rendimentos decorrentes das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;
+b) 25 %, tratando-se de rendimentos decorrentes das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;
 
 c) 11,5 %, tratando-se de rendimentos da categoria B referidos na alínea b) do n.º 1 e nas alíneas g) e i) do n.º 2 do artigo 3.º, não compreendidos na alínea anterior;
 
-d) 20 %, tratando-se de rendimentos da categoria B auferidos por sujeitos passivos abrangidos pelo artigo 58.º-A do Estatuto dos Benefícios Fiscais;
+d) 20 %, tratando-se de rendimentos da categoria B auferidos em atividades de elevado valor acrescentado, com carácter científico, artístico ou técnico, definidas em portaria do membro do Governo responsável pela área das finanças, por residentes não habituais em território português;
 
-e) 25 %, tratando-se de rendimentos da categoria F;
-
-f) 10 %, tratando-se de rendimentos da categoria F abrangidos pelo n.º 1 do artigo 45.º-C do Estatuto dos Benefícios Fiscais.
+e) 25 %, tratando-se de rendimentos da categoria F.
 
 2 - Tratando-se de rendimentos referidos no artigo 71.º, a retenção na fonte nele prevista cabe:
 
-a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 17 do artigo 71.º;
+a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 12 do artigo 71.º;
 
-b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 17 do artigo 71.º;
-
-c) Às entidades gestoras de plataformas de financiamento colaborativo que paguem ou coloquem à disposição rendimentos referidos no n.º 1 do artigo 71.º e que tenham em território português a sua sede ou direção efetiva ou estabelecimento estável a que deva imputar-se o pagamento.
+b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 12 do artigo 71.º
 
 3 - Tratando-se de rendimentos de valores mobiliários sujeitos a registo ou depósito, emitidos por entidades residentes em território português, o disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 é da responsabilidade das entidades registadoras ou depositárias.
 

@@ -4,11 +4,9 @@
 
 1 - A titularidade de rendimentos da categoria B determina, para os respetivos sujeitos passivos, a obrigatoriedade de efetuarem três pagamentos por conta do imposto devido a final, até ao dia 20 de cada um dos meses de julho, setembro e dezembro.
 
-2 - A totalidade dos pagamentos por conta é igual a 65 % do montante calculado com base na seguinte fórmula:
+2 - A totalidade dos pagamentos por conta é igual a 76,5 % do montante calculado com base na seguinte fórmula:
 
-C × ( RLB ) – R
-
-RLT
+(ver documento original)
 
 em que as siglas utilizadas têm o seguinte significado:
 
@@ -34,4 +32,4 @@ b) Deixem de ser auferidos rendimentos da categoria B.
 
 7 - Os juros compensatórios referidos no número anterior são calculados nos termos e à taxa previstos no artigo 35.º da lei geral tributária, contando-se dia a dia desde o termo do prazo fixado para cada pagamento até à data em que, por lei, a liquidação deva ser feita.
 
-8 - Os titulares de rendimentos, cujas entidades devedoras dos rendimentos não se encontrem abrangidas pela obrigação de retenção na fonte prevista neste código, podem, querendo, efetuar pagamentos por conta do imposto devido a final, desde que o montante de cada entrega seja igual ou superior a 50 (euro).
+8 - Os titulares de rendimentos das categorias A e H, cujas entidades devedoras dos rendimentos não se encontrem abrangidas pela obrigação de retenção na fonte prevista no artigo 99.º, podem, querendo, efetuar pagamentos por conta do imposto devido a final, desde que o montante de cada entrega seja igual ou superior a (euro) 50.

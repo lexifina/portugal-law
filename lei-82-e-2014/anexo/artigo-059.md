@@ -10,6 +10,6 @@ a) Os cônjuges ou os unidos de facto apresentam uma declaração da qual consta
 
 b) Ambos os cônjuges ou unidos de facto devem exercer a opção na declaração de rendimentos;
 
-c) A opção é válida apenas para o ano em questão;
+c) A opção só é considerada se exercida dentro dos prazos previstos no artigo seguinte, sendo válida apenas para o ano em questão;
 
-d) (Revogada).
+d) Tendo a opção sido exercida dentro de prazo, nos termos da alínea anterior, a mesma pode ser mantida ainda que seja apresentada declaração de substituição fora de prazo.

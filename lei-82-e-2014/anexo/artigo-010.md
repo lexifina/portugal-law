@@ -4,7 +4,7 @@
 
 1 - Constituem mais-valias os ganhos obtidos que, não sendo considerados rendimentos empresariais e profissionais, de capitais ou prediais, resultem de:
 
-a) Alienação onerosa de direitos reais sobre bens imóveis;
+a) Alienação onerosa de direitos reais sobre bens imóveis e afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida em nome individual pelo seu proprietário;
 
 b) Alienação onerosa de partes sociais e de outros valores mobiliários, incluindo:
 
@@ -28,13 +28,7 @@ f) Operações relativas a warrants autónomos, quer o warrant seja objeto de ne
 
 g) Operações relativas a certificados que atribuam ao titular o direito a receber um valor de determinado ativo subjacente, com exceção das remunerações previstas na alínea r) do n.º 2 do artigo 5.º;
 
-h) Cessão onerosa de créditos, prestações acessórias e prestações suplementares;
-
-i) Afetação de quaisquer bens do património particular, com exceção dos bens imóveis, a atividade empresarial e profissional exercida em nome individual pelo seu proprietário.
-
-j) Cessão onerosa de direitos sobre estruturas fiduciárias, incluindo a cessão onerosa da posição de beneficiário.
-
-k) Alienação onerosa de criptoativos que não constituam valores mobiliários.
+h) Cessão onerosa de créditos, prestações acessórias e prestações suplementares.
 
 2 - (Revogado.)
 
@@ -42,13 +36,13 @@ k) Alienação onerosa de criptoativos que não constituam valores mobiliários.
 
 a) Nos casos de promessa de compra e venda ou de troca, presume-se que o ganho é obtido logo que verificada a tradição ou posse dos bens ou direitos objeto do contrato;
 
-b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, prevista na alínea i) do n.º 1, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas;
+b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas;
 
 c) Nos contratos de permuta de bens presentes por bens futuros, a tributação apenas ocorre no momento da celebração do contrato que formaliza a aquisição do bem futuro, ou no momento da sua tradição, se anterior.
 
 4 - O ganho sujeito a IRS é constituído:
 
-a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nas situações previstas nas alíneas a), b), c), i), j) e k) do n.º 1, sem prejuízo do disposto no n.º 19;
+a) Pela diferença entre o valor de realização e o valor de aquisição, líquidos da parte qualificada como rendimento de capitais, sendo caso disso, nos casos previstos nas alíneas a), b) e c) do n.º 1;
 
 b) Pela importância recebida pelo cedente, deduzida do preço por que eventualmente tenha obtido os direitos e bens objeto de cessão, no caso previsto na alínea d) do n.º 1;
 
@@ -82,10 +76,6 @@ c) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda
 
 d) (Revogada.)
 
-e) O imóvel transmitido tenha sido destinado a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, comprovada através do respetivo domicílio fiscal, nos 12 meses anteriores à data da transmissão, ou, quando anterior, à data do reinvestimento previsto na alínea a), salvo se a inobservância deste período se tenha devido a circunstâncias excecionais, nos termos do n.º 23;
-
-f) (Revogada.)
-
 6 - Não haverá lugar ao benefício referido no número anterior quando:
 
 a) Tratando-se de reinvestimento na aquisição de outro imóvel, o adquirente o não afete à sua habitação ou do seu agregado familiar, até decorridos doze meses após o reinvestimento;
@@ -94,112 +84,22 @@ b) Nos demais casos, o adquirente não requeira a inscrição na matriz do imóv
 
 c) (Revogada.)
 
-d) Os imóveis que tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas para a aquisição, construção, reconstrução ou realização de obras de conservação de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI, sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio público não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação.
+7 - No caso de reinvestimento parcial do valor de realização e verificadas as condições estabelecidas no número anterior, o benefício a que se refere o n.º 5 respeitará apenas à parte proporcional dos ganhos correspondente ao valor reinvestido.
 
-e) O sujeito passivo ou o seu agregado familiar não tenham fixado no imóvel o seu domicílio fiscal.
+8 - No caso de se verificar uma permuta de partes sociais nas condições mencionadas no n.º 5 do artigo 73.º e n.º 2 do artigo 77.º do Código do IRC, a atribuição, em resultado dessa permuta, dos títulos representativos do capital social da sociedade adquirente aos sócios da sociedade adquirida não dá lugar a qualquer tributação destes últimos se os mesmos continuarem a valorizar, para efeitos fiscais, as novas partes sociais pelo valor das antigas, determinado de acordo com o estabelecido neste Código, sem prejuízo da tributação relativa às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
 
-7 - São, igualmente, excluídos de tributação os ganhos previstos no n.º 5, bem como os ganhos provenientes da transmissão de outros imóveis destinados a habitação, desde que verificadas, cumulativamente, as seguintes condições:
-
-a) O valor de realização, deduzido da amortização de eventual empréstimo contraído para a aquisição do imóvel, seja reinvestido na aquisição da propriedade de outros imóveis, situados em território nacional, destinados ao arrendamento para habitação com renda mensal que não exceda os limites máximos definidos nos termos dos n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio;
-
-b) O reinvestimento previsto na alínea anterior seja efetuado entre os 24 meses anteriores e os 36 meses posteriores contados da data da realização;
-
-c) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda que parcial, mencionando o respetivo montante na declaração de rendimentos respeitante ao ano da alienação.
-
-8 - Não há lugar ao benefício referido no número anterior quando:
-
-a) Não seja celebrado contrato de arrendamento habitacional com renda mensal que observe os limites máximos a que se referem os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, nos seis meses contados do reinvestimento ou da data de realização da mais-valia, se esta for posterior, salvo impedimento justificado, designadamente por necessidade de obras urgentes, e pelo período estritamente necessário para o efeito;
-
-b) O imóvel em que seja concretizado o reinvestimento não seja objeto de contrato ou contratos de arrendamento habitacional durante, pelo menos, 36 meses, seguidos ou interpolados, nos primeiros cinco anos contados do reinvestimento ou da data de realização da mais-valia, se esta for posterior;
-
-c) O imóvel em que seja concretizado o reinvestimento seja objeto de contrato de arrendamento cuja renda mensal exceda os limites máximos a que se refere os n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 97/2026, de 20 de maio, nos primeiros cinco anos contados do reinvestimento ou da data de realização da mais-valia, se esta for posterior;
-
-d) O imóvel em que seja concretizado o reinvestimento seja alienado, a título oneroso ou gratuito, no prazo de cinco anos contados do reinvestimento ou da data de realização da mais-valia, se esta for posterior.
-
-9 - Nas situações previstas no número anterior, o ganho considera-se obtido:
-
-a) No caso das alíneas a) ou c), no ano em que se verifique o termo do prazo para reinvestimento ou que seja ultrapassado o limite da renda mensal, respetivamente;
-
-b) No caso da alínea b), no ano em que se verifique o não cumprimento dos prazos previstos;
-
-c) No caso da alínea d), no ano em que o imóvel em que seja concretizado o reinvestimento seja alienado.
-
-10 - Os ganhos previstos no n.º 5 são igualmente excluídos de tributação, desde que verificadas, cumulativamente, as seguintes condições:
-
-a) O valor de realização, deduzido da amortização de eventual empréstimo contraído para a aquisição do imóvel e, se aplicável, do reinvestimento previsto na alínea a) do n.º 5, seja utilizado para a aquisição de um ou mais de um dos produtos seguintes:
-
-i) Contrato de seguro financeiro do ramo vida;
-
-ii) Adesão individual a um fundo de pensões aberto; ou
-
-iii) Contribuição para o regime público de capitalização; ou
-
-iv) Produto Individual de Poupança Pan-Europeu.
-
-b) O sujeito passivo ou o respetivo cônjuge ou unido de facto, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma ou tenha, pelo menos, 65 anos de idade;
-
-c) A aquisição dos produtos referidos na alínea a) seja efetuada nos seis meses posteriores contados da data de realização;
-
-d) Sendo o investimento realizado por aquisição de contrato de seguro financeiro do ramo vida ou da adesão individual a um fundo de pensões aberto, estes visem, exclusivamente, proporcionar ao adquirente ou ao respetivo cônjuge ou unido de facto uma prestação regular periódica durante um período igual ou superior a 10 anos, de montante máximo anual igual a 7,5 % do valor investido;
-
-e) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda que parcial, mencionando o respetivo montante na declaração de rendimentos respeitante ao ano da alienação.
-
-11 - Não há lugar ao benefício referido no número anterior se o reinvestimento não for efetuado no prazo referido na alínea c), ou se, em qualquer ano, o valor das prestações recebidas ultrapassar o limite fixado na alínea d), ou se for interrompido o pagamento regular das prestações, sendo esse ganho objeto de tributação no ano em que se conclua o prazo para reinvestimento, ou que seja ultrapassado o referido limite ou no ano em que seja interrompido o pagamento regular das prestações, respetivamente.
-
-12 - No caso de reinvestimento parcial do valor de realização e verificadas as condições estabelecidas nos n.os 6, 8 e 11, os benefícios a que se referem os n.os 5, 7 e 10 respeitam apenas à parte proporcional dos ganhos correspondentes ao valor reinvestido.
-
-13 - No caso de se verificar uma permuta de partes sociais nas condições mencionadas no n.º 5 do artigo 73.º e n.º 2 do artigo 77.º do Código do IRC, a atribuição, em resultado dessa permuta, dos títulos representativos do capital social da sociedade adquirente aos sócios da sociedade adquirida não dá lugar a qualquer tributação destes últimos se os mesmos continuarem a valorizar, para efeitos fiscais, as novas partes sociais pelo valor das antigas, determinado de acordo com o estabelecido neste Código, sem prejuízo da tributação relativa às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
-
-14 - Nos casos de fusão ou cisão de sociedades a que seja aplicável o artigo 74.º do Código do IRC, não há lugar à tributação dos sócios das sociedades fundidas ou cindidas, desde que verificadas as seguintes condições:
+9 - Nos casos de fusão ou cisão de sociedades a que seja aplicável o artigo 74.º do Código do IRC, não há lugar à tributação dos sócios das sociedades fundidas ou cindidas, desde que verificadas as seguintes condições:
 
 a) Havendo lugar à atribuição àqueles sócios de partes de capital, sejam observadas, com as necessárias adaptações, as regras previstas nos n.os 1 e 3 do artigo 76.º do Código do IRC, consoante se trate de fusão ou cisão, respetivamente;
 
 b) Não havendo lugar à atribuição de partes de capital, seja dado cumprimento, com as necessárias adaptações, ao disposto nos n.os 4 e 5 do artigo 76.º do Código do IRC, consoante se trate, respetivamente, de fusão ou cisão.
 
-15 - O disposto nos n.os 10 e 11 não prejudica a tributação dos sócios relativamente às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
+10 - O disposto nos n.os 8 e 9 não prejudica a tributação dos sócios relativamente às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
 
-16 - Nos casos previstos nos n.os 10 e 11 são ainda aplicáveis:
+11 - Nos casos previstos nos n.os 8 e 9 são ainda aplicáveis:
 
 a) O disposto no n.º 10 do artigo 73.º do Código do IRC, com as necessárias adaptações;
 
 b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º do mesmo código.
 
-17 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.
-
-18 - (Revogado.)
-
-19 - Os ganhos obtidos com a alienação onerosa de direitos reais sobre bens imóveis que tenham estado afetos à atividade empresarial e profissional do sujeito passivo são tributados de acordo com as regras da categoria B, caso a alienação ocorra antes de decorridos três anos após a transferência para o património particular do sujeito passivo.
-
-20 - Para efeitos do presente Código, considera-se criptoativo toda a representação digital de valor ou direitos que possa ser transferida ou armazenada eletronicamente recorrendo à tecnologia de registo distribuído ou outra semelhante.
-
-21 - Excluem-se do disposto no número anterior os criptoativos únicos e não fungíveis com outros criptoativos.
-
-22 - São excluídos os ganhos obtidos, bem como as perdas incorridas, resultantes das operações previstas na alínea k) do n.º 1 relativas a criptoativos detidos por um período igual ou superior a 365 dias.
-
-23 - Quando não se aplique o disposto no número anterior e a contraprestação das alienações previstas na alínea k) do n.º 1, incluindo as relativas a criptoativos recebidos nos termos do disposto no n.º 11 do artigo 5.º, assuma a forma de criptoativos, não há lugar a tributação, atribuindo-se aos criptoativos recebidos o valor de aquisição dos criptoativos entregues, determinado nos termos deste Código.
-
-24 - O disposto nos n.os 19 e 20 não se aplica aos rendimentos auferidos por sujeitos passivos ou devidos por qualquer pessoa ou entidade quando uns ou outros não forem residentes para efeitos fiscais noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu ou noutro Estado ou jurisdição com o qual esteja em vigor convenção para evitar a dupla tributação internacional, acordo bilateral ou multilateral que preveja a troca de informações para fins fiscais.
-
-25 - Para efeitos do disposto na alínea k) do n.º 1, a perda da qualidade de residente em território português é equiparada a uma alienação onerosa.
-
-26 - Para efeitos da alínea e) do n.º 5 consideram-se circunstâncias excecionais, nomeadamente, as alterações da composição do respetivo agregado familiar por motivo de casamento ou união de facto, dissolução do casamento ou união de facto, ou aumento do número de dependentes.
-
-27 - Quando o reinvestimento do valor de realização em habitação própria e permanente previsto no n.º 5 não se concretize por facto superveniente, não imputável ao sujeito passivo, o prazo legal aí estabelecido suspende-se desde que verificadas, cumulativamente, as seguintes condições:
-
-a) O sujeito passivo tenha celebrado, dentro do prazo legal para o reinvestimento, contrato de compra e venda ou contrato promessa de compra e venda para a aquisição de imóvel ou contrato de empreitada para a construção de imóvel destinado a habitação própria e permanente;
-
-b) O incumprimento desse contrato seja objeto de ação judicial; e
-
-c) O sujeito passivo comunique à Autoridade Tributária e Aduaneira a ocorrência do facto superveniente na declaração de rendimentos respeitante ao ano correspondente ao termo do prazo de 36 meses posteriores contados da data da realização.
-
-28 - Verificando-se os requisitos do número anterior, o prazo de reinvestimento previsto no n.º 5 suspende-se desde o momento da interposição da ação a que se refere a alínea b) do número anterior até à extinção da instância judicial.
-
-29 - Cessada a suspensão prevista no número anterior, em caso de decisão judicial favorável:
-
-a) O reinvestimento a que se refere o n.º 5 deve ser concretizado até ao final dos 12 meses seguintes ao trânsito em julgado;
-
-b) Quando o reinvestimento não seja concretizado, total ou parcialmente, até ao final do prazo previsto na alínea anterior, o ganho previsto no n.º 5 é objeto de tributação no ano em que se complete esse prazo, na proporção do valor não reinvestido.
-
-30 - Nos casos não abrangidos pelo número anterior, o ganho previsto no n.º 5 é objeto de tributação no ano em que seja extinta a instância judicial ou no ano em que termine o prazo de reinvestimento, se posterior.
-
-31 - Nas situações previstas no n.º 9, na alínea b) do n.º 29 e no número anterior, acresce ao imposto relativo à mais-valia correspondente à totalidade ou à parte do valor de realização não reinvestido um montante equivalente aos juros compensatórios nos termos do artigo 35.º da Lei Geral Tributária, contados desde o ano da realização daquele ganho.
+12 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.

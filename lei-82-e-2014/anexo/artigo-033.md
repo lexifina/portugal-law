@@ -17,5 +17,3 @@
 7 - (Revogado.)
 
 8 - (Revogado.)
-
-9 - As importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português, e aí submetidas a um regime fiscal a que se referem o n.º 1 ou 5 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, não são dedutíveis para efeitos de determinação do rendimento da categoria, salvo se o sujeito passivo provar que tais encargos correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.

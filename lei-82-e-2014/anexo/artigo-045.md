@@ -10,8 +10,4 @@ b) O valor que serviria de base à liquidação de imposto do selo, caso este fo
 
 2 - (Revogado.)
 
-3 - No caso de doações isentas nos termos da alínea e) do artigo 6.º do Código do Imposto do Selo, o valor de aquisição a considerar é o seguinte:
-
-a) Tratando-se de direitos reais sobre bens imóveis, o valor patrimonial tributário constante da matriz até aos dois anos anteriores à doação;
-
-b) Tratando-se de valores mobiliários, o valor que serviria de base à liquidação do imposto do selo, caso este fosse devido, até aos dois anos anteriores à doação.
+3 - No caso de direitos reais sobre bens imóveis adquiridos por doação isenta, nos termos da alínea e) do artigo 6.º do Código do Imposto do Selo, considera-se valor de aquisição o valor patrimonial tributário constante da matriz até aos dois anos anteriores à doação.

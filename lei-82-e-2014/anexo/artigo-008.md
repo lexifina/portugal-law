@@ -20,14 +20,6 @@ f) As importâncias relativas à constituição, a título oneroso, de direitos 
 
 g) As indemnizações que visem compensar perdas de rendimentos desta categoria.
 
-h) As importâncias relativas aos contratos de direito real de habitação duradoura.
-
 3 - Para efeitos de IRS, considera-se prédio rústico uma parte delimitada do solo e as construções nele existentes que não tenham autonomia económica, prédio urbano qualquer edifício incorporado no solo e os terrenos que lhe sirvam de logradouro e prédio misto o que comporte parte rústica e parte urbana.
 
 4 - Para efeitos do número anterior, considera-se ainda construção todo o bem móvel assente no mesmo local por um período superior a 12 meses.
-
-5 - Os rendimentos decorrentes de contratos de direito real de habitação duradoura ficam sujeitos a tributação:
-
-a) Desde o seu recebimento ou colocação à disposição na parte respeitante ao pagamento da prestação pecuniária mensal;
-
-b) Desde o momento em que a prestação pecuniária anual constitua rendimento ou seja deduzida pelo proprietário em virtude do não cumprimento pelo morador das suas obrigações nos termos previstos no diploma que cria o direito real de habitação duradoura, na parte respeitante à caução inicial.
