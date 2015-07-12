@@ -16,9 +16,7 @@ O mel deve estar isento, na medida do possível, de matérias orgânicas ou inor
 
 Com excepção da categoria referida no n.º 3 do anexo I, o mel não deve apresentar sabores ou cheiros estranhos, nem ter começado a fermentar, nem apresentar uma acidez modificada artificialmente, nem ter sido aquecido de modo que as enzimas naturais sejam destruídas ou consideravelmente inactivadas.
 
-Não pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.
-
-Sempre que ocorra essa remoção, o operador económico deve apresentar evidência técnica documentada que comprove a inevitabilidade da operação, garantindo que não foram introduzidas alterações que comprometam a autenticidade e a rastreabilidade do produto.
+Sem prejuízo do disposto na subalínea viii) da alínea b) do n.º 2 do anexo I, não pode ser retirado ao mel o pólen nem nenhum dos seus constituintes próprios, exceto quando tal for inevitável no processo de eliminação de matérias orgânicas ou inorgânicas estranhas.
 
 Quando comercializado como tal ou quando utilizado em qualquer produto destinado ao consumo humano, o mel deve obedecer aos seguintes critérios de composição:
 

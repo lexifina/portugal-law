@@ -24,7 +24,7 @@ vi) Mel centrifugado - mel obtido por centrifugação de favos desoperculados qu
 
 vii) Mel prensado - mel obtido por compressão de favos que não contenham criação, sem aquecimento ou com aquecimento moderado de 45ºC, no máximo;
 
-viii) (Revogada.)
+viii) Mel filtrado - mel obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.
 
 3 - Mel para uso industrial:
 
@@ -38,6 +38,4 @@ Apresentar um sabor ou cheiro anormal; ou
 
 Ter começado a fermentar ou ter fermentado; ou
 
-Ter sido sobreaquecido; ou
-
-Ter sido obtido por um processo de eliminação de matérias orgânicas ou inorgânicas estranhas à sua composição que retire uma parte importante do pólen.
+Ter sido sobreaquecido.
