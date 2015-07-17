@@ -6,7 +6,7 @@
 
 a) As vendas e prestações de serviços realizados durante os últimos três anos não cobrem, pelo menos, 50 % dos gastos totais dos respetivos exercícios;
 
-b) Quando se verificar que, nos últimos três anos, o peso contributivo dos subsídios à exploração é superior a 50 % das suas receitas;
+b) Quando se verificar que, nos últimos três anos, o peso contributivo dos subsídios à exploração atribuídos pela entidade pública participante é superior a 50 % das suas receitas;
 
 c) Quando se verificar que, nos últimos três anos, o valor do resultado operacional subtraído ao mesmo o valor correspondente às amortizações e às depreciações é negativo;
 
@@ -41,3 +41,5 @@ b) Listagem dos postos de trabalho indispensáveis para a prossecução das ativ
 c) Previsão das disponibilidades orçamentais necessárias, nos termos da Lei n.º 8/2012, de 21 de fevereiro, que «Aprova as regras aplicáveis à assunção de compromissos e aos pagamentos em atraso das entidades públicas.
 
 13 - Para efeitos de candidatura aos procedimentos concursais referidos no n.º 8, os trabalhadores cedidos ao abrigo e nos termos do n.º 6 são equiparados a candidatos com relação jurídica de emprego público por tempo indeterminado previamente estabelecida.
+
+14 - O disposto na alínea a) do n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de ensino e formação profissional.

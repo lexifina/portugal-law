@@ -2,7 +2,7 @@
 
 ### Deveres de informação das empresas locais
 
-1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, as empresas locais devem facultar, de forma completa e atempadamente, os seguintes elementos aos órgãos executivos das respetivas entidades públicas participantes, tendo em vista o seu acompanhamento e controlo:
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, as empresas locais devem facultar, de forma completa e atempadamente, os seguintes elementos aos órgãos executivos e deliberativos das respetivas entidades públicas participantes, tendo em vista o seu acompanhamento e controlo:
 
 a) Projetos dos planos de atividades anuais e plurianuais;
 
