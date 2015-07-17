@@ -2,4 +2,4 @@
 
 ### Arrendamento
 
-A necessidade de realização de obras de alteração, cominadas pelo título de reconversão da AUGI, não pode em qualquer caso justificar a desocupação das habitações arrendadas, a suspensão do contrato de locação ou o aumento de renda.
+A necessidade de realização de obras de demolição ou de remodelação ou restauro profundos, cominadas pelo título de reconversão da AUGI, pode justificar a denúncia pelo senhorio do contrato de arrendamento, nos termos da alínea b) do artigo 1101.º do Código Civil.

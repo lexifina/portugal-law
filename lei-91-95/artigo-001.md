@@ -12,10 +12,12 @@
 
 3 - São ainda considerados AUGI os prédios ou conjuntos de prédios parcelados anteriormente à entrada em vigor do Decreto-Lei n.º 46673, de 29 de Novembro de 1965, quando predominantemente ocupados por construções não licenciadas.
 
-4 - As câmaras municipais delimitam o perímetro e fixam a modalidade de reconversão das AUGI existentes na área do município, por sua iniciativa ou a requerimento de qualquer interessado, nos termos do artigo 35.º
+4 - As câmaras municipais delimitam o perímetro e fixam, por sua iniciativa, a modalidade de reconversão das AUGI existentes na área do município.
 
-5 - A delimitação do perímetro das AUGI é feita com recurso a qualquer meio gráfico, cadastral ou registral que identifique com clareza a área delimitada, a qual corresponde à área que, no entendimento da câmara municipal, deve ser objecto de um único processo de reconversão urbanística, podendo integrar um ou mais prédios contíguos.
+5 - Sem prejuízo do disposto no número anterior, as câmaras municipais podem, a requerimento de qualquer interessado, alterar o processo e a modalidade de reconversão, nos termos previstos do artigo 35.º
 
-6 - Podem ser propostas alterações à delimitação e à modalidade de reconversão das AUGI, fundamentadas, designadamente, no melhor conhecimento da realidade local, nos ajustamentos de escalas e na melhor delimitação técnica.
+6 - A delimitação do perímetro das AUGI é feita com recurso a qualquer meio gráfico, cadastral ou registral que identifique com clareza a área delimitada, a qual corresponde à área que, no entendimento da câmara municipal, deve ser objecto de um único processo de reconversão urbanística, podendo integrar um ou mais prédios contíguos.
 
-7 - As áreas de loteamento e construções ilegais não abrangidos pelos n.os 2 e 3 são objecto de estudo com vista à sua reafectação ao uso previsto em PMOT.
+7 - Podem ser propostas alterações à delimitação e à modalidade de reconversão das AUGI, fundamentadas, designadamente, no melhor conhecimento da realidade local, nos ajustamentos de escalas e na melhor delimitação técnica.
+
+8 - As áreas de loteamento e construções ilegais não abrangidos pelos n.os 2 e 3 são objecto de estudo com vista à sua reafectação ao uso previsto em PMOT.

@@ -1,9 +1,9 @@
 # Artigo 56.º-A
 
-### Avaliação anual
+### Informação sobre os processos de reconversão
 
-1 - As câmaras municipais elaboram anualmente uma carta temática das AUGI delimitadas, nela representando as que já dispõem de título de reconversão e o estado geral de execução das infra-estruturas, bem como as áreas que, preenchendo os requisitos do n.º 2 do artigo 1.º, ainda não tenham sido objecto de delimitação.
+1 - Com vista à enunciação e elaboração de medidas adequadas à conclusão dos respetivos processos, o município comunica à Direção-Geral do Território e à comissão de coordenação e desenvolvimento regional respetiva, um levantamento rigoroso e exaustivo dos processos de reconversão ainda em curso.
 
-2 - A carta temática a que se refere o número anterior deve ser enviada à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano até 15 de Maio de cada ano, constituindo anexo ao relatório de gestão anual da câmara municipal.
+2 - Os municípios devem elaborar o levantamento das AUGI nos termos e condições publicitados pela Direção-Geral do Território, no seu sítio da Internet, no prazo de 30 dias a contar da entrada em vigor da presente lei, e devem comunicar esses levantamentos às entidades referidas no número anterior, no prazo de um ano a contar dessa publicitação.
 
-3 - A falta de envio da carta temática à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano constitui impedimento para o município celebrar contratos-programa e de urbanização com a administração central, bem como para obter fundos comunitários destinados a qualquer intervenção em áreas urbanas de génese ilegal.
+3 - A Direção-Geral do Território publicita, ainda, no seu sítio da Internet, no prazo de 90 dias após o termo do prazo para a comunicação dos levantamentos pelos municípios, um relatório com o diagnóstico dos processos de reconversão das AUGI e define eventuais medidas que devam ser adotadas para a sua conclusão.

@@ -2,7 +2,7 @@
 
 ### Deliberação sobre o pedido de licenciamento da operação de loteamento
 
-1 - Decorrido o prazo para a realização da vistoria, a câmara municipal delibera sobre o pedido de loteamento no prazo de 60 dias.
+1 - A câmara municipal delibera sobre o pedido de licenciamento da operação de loteamento no prazo de 45 dias a contar da receção do pedido.
 
 2 - A câmara municipal só pode indeferir a pretensão nos casos seguintes:
 
@@ -24,4 +24,6 @@ c) Das soluções previstas para a realização das expectativas dos interessado
 
 5 - A falta de deliberação dentro do prazo fixado no n.º 1 é considerada para todos os efeitos como deferimento, considerando-se fixado em três anos o prazo máximo de manutenção temporária a que se refere o n.º 3.
 
-6 - A deliberação prevista no n.º 1 é precedida de proposta dos serviços, que, quando desfavorável, estará disponível no 30.º dia, devidamente fundamentada, para a comissão de administração sobre ela se pronunciar em 15 dias, com parecer da equipa técnica que elaborou o estudo de reconversão.
+6 - Quando a proposta de decisão prevista no n.º 1 for desfavorável, deve a mesma ser precedida de audiência prévia da comissão de administração, devendo ser fixado um prazo não inferior a 15 dias.
+
+7 - No caso de a proposta de decisão ser favorável, deve a deliberação ser objeto de consulta pública, nos termos previstos em regulamento municipal.
