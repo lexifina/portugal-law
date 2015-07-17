@@ -44,7 +44,7 @@ s) Deliberar sobre a constituição e participação nas associações previstas
 
 t) Assegurar, incluindo a possibilidade de constituição de parcerias, o levantamento, classificação, administração, manutenção, recuperação e divulgação do património natural, cultural, paisagístico e urbanístico do município, incluindo a construção de monumentos de interesse municipal;
 
-u) Apoiar atividades de natureza social, cultural, educativa, desportiva, recreativa ou outra de interesse para o município, incluindo aquelas que contribuam para a promoção da saúde e prevenção das doenças;
+u) Promover a oferta de cursos de ensino e formação profissional dual, no âmbito do ensino não superior, e apoiar atividades de natureza social, cultural, educativa, desportiva, recreativa ou outra de interesse para o município, incluindo aquelas que contribuam para a promoção da saúde e prevenção das doenças;
 
 v) Participar na prestação de serviços e prestar apoio a pessoas em situação de vulnerabilidade, em parceria com as entidades competentes da administração central e com instituições particulares de solidariedade social, nas condições constantes de regulamento municipal;
 
