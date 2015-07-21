@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 97/2015
+Recomenda ao Governo a abertura de um inquérito que permita esclarecer o desaparecimento dos arquivos do EMGFA, MDN e MNE da correspondência oficial entre estes organismos com referência à exportação de material de guerra para o Irão.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que determine a abertura de um rigoroso inquérito que permita esclarecer cabalmente o desaparecimento dos arquivos do Estado Maior General das Forças Armadas, Ministério da Defesa Nacional e Ministério dos Negócios Estrangeiros da correspondência oficial cruzada entre estes três organismos com referência à exportação de material de guerra para o Irão, nas datas de 2 e 9 de dezembro de 1980 e 26 de janeiro de 1981. Esta correspondência foi identificada pela Inspeção Geral de Finanças (IGF) no livro de registo de correspondência do Gabinete do EMGFA.
+Aprovada em 3 de julho de 2015.
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.
