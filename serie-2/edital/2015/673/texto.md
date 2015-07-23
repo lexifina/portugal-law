@@ -1,0 +1,6 @@
+Edital n.º 673/2015
+Projeto de Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos no Concelho de Pedrógão Grande
+Valdemar Gomes Fernandes Alves, Presidente da Câmara Municipal do Concelho de Pedrógão Grande torna público que, em cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, se encontra em Apreciação Pública, o projeto de Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos no Concelho de Pedrógão Grande com vista à recolha de observações e sugestões aprovado em Reunião de Câmara de 11/06/2015.
+Nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, no prazo de 30 dias, a contar da publicação do Presente Edital no Diário da República. O referido projeto encontra-se à disposição dos interessados, na Divisão Administrativa da Câmara Municipal, durante o horário normal de funcionamento, e no site do Município (www.cm-pedrogaogrande.pt). Para constar se passou o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+06 de julho de 2015. - O Presidente da Câmara Municipal, Valdemar Gomes Fernandes Alves.
+308784398
