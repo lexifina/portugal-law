@@ -1,0 +1,8 @@
+Edital n.º 681/2015
+Consulta Pública do Projeto de Regulamento da prestação e vigilância de atos académicos e do Projeto de Regulamento de faltas a atividades letivas e elementos de avaliação da Escola Superior de Saúde de Leiria
+José Carlos Rodrigues Gomes, Diretor da Escola Superior de Saúde de Leiria (ESSLei), torna público que, obtido parecer favorável dos Conselhos Técnico-científico e Pedagógico, aprovou, em 22 de julho de 2015, o Projeto de Regulamento da prestação e vigilância de atos académicos e o Projeto de Regulamento de faltas a atividades letivas e elementos de avaliação, ambos da Escola Superior de Saúde de Leiria submetendo-os, nos termos do artigo 101.º do Código de Procedimento Administrativo e do artigo 110.º, n.º 3 do RJIES, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+Os projetos de regulamentos podem ser consultados nos serviços administrativos da Escola, sitos no campus 2 do Instituto Politécnico de Leiria, Morro do Lena, Alto do Vieiro, Leiria, bem como no sítio da Escola na Internet (www.esslei.ipleiria.pt).
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao Diretor, podendo ser entregues nos serviços administrativos supra identificados, remetidas por via postal, para a seguinte morada Campus 2 - Morro do Lena - Alto do Vieiro, Apartado 4137, 2411-901 Leiria, ou remetidas por correio eletrónico (esslei@ipleiria.pt).
+Para constar se publica o presente edital, que vai ser disponibilizado no sítio da Escola na Internet.
+22 de julho de 2015. - O Diretor, José Carlos Rodrigues Gomes.
+208816862
