@@ -24,4 +24,4 @@ i) Sousa, integrando os municípios de Felgueiras, Lousada, Paços de Ferreira, 
 
 2 - Os produtos com indicação de sub-região serão obtidos a partir de uvas produzidas e vinificadas exclusivamente na respectiva sub-região.
 
-3 - O uso da indicação da casta Alvarinho é exclusivo para os produtos da sub-região de Monção e Melgaço, devendo ser utilizada em conjugação com a indicação expressa da sub-região e no caso de a rotulagem indicar apenas a casta Alvarinho o produto deve ser 100 % proveniente desta casta.
+3 - Para os produtos com direito à indicação de sub-região, a indicação da casta Alvarinho na rotulagem é exclusivo para a sub-região de Monção e Melgaço.

@@ -2,7 +2,11 @@
 
 ### Rendimento por hectare
 
-1 - O rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à DO «vinho verde» é fixado em 10.666 kg, exceto nos casos em que essas vinhas cumpram os requisitos de produtividade e qualidade a definir pelo conselho geral cujo rendimento máximo por hectare é fixado em 15.000 kg.
+1 - O rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à DO 'vinho verde' é fixado em 10 666 kg, exceto nos casos em que essas vinhas cumpram requisitos de produtividade e qualidade, a definir pelo conselho geral, cujo rendimento máximo por hectare é fixado em:
+
+a) 13.500 kg para as vinhas da casta Alvarinho;
+
+b) 15.000 kg para as restantes vinhas.
 
 2 - Para as vinhas que possuam cadastro vitícola atualizado há menos de cinco anos o rendimento máximo por hectare é fixado em 7.500 kg.
 

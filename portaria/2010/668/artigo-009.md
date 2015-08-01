@@ -8,4 +8,4 @@
 
 3 - É permitida a elaboração de vinho branco a partir de uvas tintas, tendo em vista a obtenção de vinho base para a elaboração de vinhos espumantes com direito à DO «vinho verde».
 
-4 - O rendimento em mosto que resulta da separação dos bagaços não pode ser superior a 75 l por 100 kg de uvas, sendo para o caso dos mostos destinados à produção dos vinhos da casta Alvarinho o rendimento máximo fixado em 65 l por 100 kg de uvas.
+4 - O rendimento em mosto que resulta da separação dos bagaços não pode ser superior a 75 l por 100 kg de uvas, exceto para os mostos destinados à produção dos vinhos com direito à utilização na rotulagem da casta Alvarinho, cujo rendimento máximo é fixado em 65 l por 100 kg de uvas.
