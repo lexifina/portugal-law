@@ -1,0 +1,19 @@
+## Capítulo IX
+
+## Elementos da componente operacional do sistema de forças
+
+# Artigo 138.º
+
+### Natureza e composição
+
+1 - Os elementos da componente operacional do sistema de forças são as forças e os meios da Marinha destinados ao cumprimento das missões de natureza operacional.
+
+2 - Constituem elementos da componente operacional do sistema de forças, as seguintes forças e meios da Marinha:
+
+a) O CCF;
+
+b) As forças;
+
+c) Os meios e as unidades operacionais;
+
+d) Os centros da componente operacional do sistema de forças.
