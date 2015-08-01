@@ -11,3 +11,5 @@
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+6 - A absolvição ou a condenação apenas parcial do arguido pelo serviço de finanças determina a anulação, total ou parcial, do processo de execução fiscal instaurado contra o mesmo nos termos do artigo 17.º-A, exceto quando a mesma tenha apenas como fundamento a falta de verificação do elemento subjetivo do tipo contraordenacional, sendo os respetivos custos e encargos suportados pela entidade fiscalizadora que tenha emitido o auto de notícia.

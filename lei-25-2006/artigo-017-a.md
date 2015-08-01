@@ -11,3 +11,5 @@
 4 - (Revogado.)
 
 5 - (Revogado.)
+
+6 - A administração tributária instaura um único processo executivo pelas taxas de portagem e custos administrativos associados correspondentes a cada mês, por referência a cada agente e a cada entidade concessionária ou subconcessionária.
