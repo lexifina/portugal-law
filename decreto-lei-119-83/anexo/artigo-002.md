@@ -6,7 +6,7 @@
 
 a) Associações de solidariedade social;
 
-b) [Revogada];
+b) Cooperativas de solidariedade social, credenciadas nos termos do artigo 9.º do Decreto-Lei n.º 7/98, de 15 de janeiro;
 
 c) Associações de socorros mútuos;
 
