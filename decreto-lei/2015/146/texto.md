@@ -1,0 +1,47 @@
+Decreto-Lei n.º 146/2015
+de 3 de agosto
+A área do turismo militar assume hoje uma relevância do ponto de vista das suas potencialidades que, quer como forma de contribuir para o enriquecimento do turismo como um todo, quer como uma fonte geradora de receitas e elemento de rentabilização das estruturas das Forças Armadas, permite, igualmente, potenciar o melhor aproveitamento do património e infraestruturas militares, que engloba unidades militares, museus militares, campos de batalha, espólio documental, necrópoles, monumentos e outro património edificado sob a tutela do Ministério da Defesa Nacional (MDN).
+Tendo esta matéria sido inicialmente integrada nas atribuições da Secretaria-Geral do MDN, veio a verificar-se que a possibilidade de consolidação de um projeto nesta área aconselha que passe para a órbita de intervenção da Direção-Geral de Recursos da Defesa Nacional (DGRDN), na medida em que grande parte do universo patrimonial e outro património edificado sob a tutela do MDN e as atribuições relativas à gestão de infraestruturas e demais património imobiliário afeto à defesa nacional se encontram entregues à DGRDN.
+Considerando que o objetivo principal a alcançar é a valorização da história militar e de todo o património nacional que lhe está associado, a área do turismo militar deve, assim, situar-se no campo de ação da DGRDN, por força das atribuições cometidas a esta direção-geral.
+Assim:
+Nos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente diploma procede à primeira alteração ao Decreto-Lei n.º 183/2014, de 29 de dezembro, que aprova a Lei Orgânica do Ministério da Defesa Nacional, transferindo as atribuições em matéria de turismo militar da Secretaria-Geral para a Direção-Geral de Recursos da Defesa Nacional.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 183/2014, de 29 de dezembro
+O artigo 14.º do Decreto-Lei n.º 183/2014, de 29 de dezembro, passa a ter a seguinte redação:
+«Artigo 14.º
+[...]
+1 - [...].
+2 - [...]:
+a) [...];
+b) [...];
+c) [...];
+d) [...];
+e) [...];
+f) [...];
+g) [...];
+h) [...];
+i) [...];
+j) [...];
+k) [...];
+l) [...];
+m) [...];
+n) [...];
+o) [...];
+p) [...];
+q) [...];
+r) Planear, dirigir e coordenar, em articulação com os serviços e organismos do MDN e os ramos das Forças Armadas, as atividades relativas ao turismo militar, assegurando uma visão integrada do património da defesa nacional, apresentando e executando propostas de carácter educativo e formativo que valorizem a história e cultura portuguesas.»
+Artigo 3.º
+Norma revogatória
+É revogada a alínea l) do n.º 2 do artigo 11.º do Decreto-Lei n.º 183/2014, de 29 de dezembro.
+Artigo 4.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Berta Maria Correia de Almeida de Melo Cabral.
+Promulgado em 23 de julho de 2015.
+Publique-se.
+O Presidente da República, Aníbal Cavaco Silva.
+Referendado em 23 de julho de 2015.
+O Primeiro-Ministro, Pedro Passos Coelho.
