@@ -2,4 +2,4 @@
 
 ### Referências legais
 
-As referências legais feitas aos serviços objeto de fusão, mencionados no artigo anterior, consideram-se feitas aos serviços que passam a integrar as respetivas atribuições.
+As referências legais feitas aos serviços e organismos objeto de fusão e reestruturação, mencionados no artigo anterior, consideram-se feitas aos serviços e organismos que passam a integrar as respetivas atribuições.

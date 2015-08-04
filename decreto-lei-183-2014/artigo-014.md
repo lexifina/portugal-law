@@ -1,55 +1,57 @@
 # Artigo 14.º
 
-### Direção-Geral de Recursos Humanos da Defesa Nacional
+### Direção-Geral de Recursos da Defesa Nacional
 
-1 — A Direção-Geral de Recursos Humanos da Defesa Nacional (DGRHDN) tem por missão conceber, desenvolver, coordenar, harmonizar e executar as políticas de recursos humanos necessários à defesa nacional e às Forças Armadas, incluindo o recrutamento, e o apoio aos antigos combatentes e aos deficientes militares.
+1 - A Direção-Geral de Recursos da Defesa Nacional, abreviadamente designada por DGRDN, tem por missão conceber, desenvolver, coordenar e executar as políticas de recursos humanos, armamento, equipamentos, património e infraestruturas necessários à defesa nacional.
 
-2 — A DGRHDN prossegue, designadamente, as seguintes atribuições:
+2 - A DGRDN prossegue, designadamente, as seguintes atribuições:
 
-a) Estudar, propor e monitorizar a execução de medidas de política setoriais da defesa nacional, assegurando a devida articulação com os sistemas nacionais, nas seguintes áreas:
+a) Estudar, propor e emitir pareceres e monitorizar a execução das medidas de política de recursos humanos - militares, militarizados e civis -, nomeadamente as relativas a estatutos, vínculos, carreiras e remunerações;
 
-i) Investigação e desenvolvimento;
+b) Apoiar o Ministro da Defesa Nacional na direção da atividade interministerial de execução da política de defesa nacional e das Forças Armadas, em articulação com o EMGFA e a DGPDN, nomeadamente quanto à mobilização e requisição;
 
-ii) Formação e qualificação profissional;
+c) Planear, dirigir e coordenar, em articulação com os ramos das Forças Armadas, os processos de recrutamento militar e reinserção profissional, nos termos da Lei do Serviço Militar, respetivo regulamento e demais legislação complementar;
 
-iii) Antigos combatentes;
+d) Planear, dirigir e coordenar as atividades relativas ao recenseamento militar e ao Dia da Defesa Nacional;
 
-iv) Deficientes militares;
+e) Estudar, propor e monitorizar a execução de medidas de política, no âmbito da defesa nacional, assegurando a devida articulação com os sistemas nacionais, nas seguintes áreas:
 
-v) Ensino superior militar;
+i) Ensino, investigação e desenvolvimento, formação e qualificação profissional, assegurando a devida articulação com os sistemas nacionais;
 
-vi) Saúde militar;
+ii) Saúde militar;
 
-b) Apoiar o membro do Governo responsável pela área da defesa nacional na direção da atividade interministerial de execução da política de defesa nacional e das Forças Armadas, em articulação com o Estado-Maior-General das Forças Armadas (EMGFA) e a Direção-Geral de Política de Defesa Nacional (DGPDN), nomeadamente na preparação e execução de medidas que envolvam a mobilização, militar ou civil, de cidadãos nos termos da lei, sem prejuízo das competências atribuídas às Forças Armadas e demais entidades competentes;
+iii) Apoio social;
 
-c) Apoiar o membro do Governo responsável pela área da defesa nacional no estudo e na preparação de projetos legislativos e normativos relativos ao Estatuto dos Militares das Forças Armadas, aos regimes estatutários do pessoal militarizado das Forças Armadas e da Autoridade Marítima Nacional e demais legislação conexa;
+iv) Reabilitação dos deficientes militares;
 
-d) Participar no planeamento de forças e de edificação de capacidades militares, em articulação com a DGPDN e o EMGFA;
+f) Propor, avaliar e executar as políticas de apoio aos antigos combatentes e deficientes militares;
 
-e) Participar no planeamento estratégico de defesa;
+g) Conceber, desenvolver, coordenar e executar as políticas de armamento, bens, equipamentos, infraestruturas e investigação e desenvolvimento necessárias às Forças Armadas e à defesa nacional;
 
-f) Promover, em articulação com os ramos das Forças Armadas e demais entidades intervenientes, o desenvolvimento e a monitorização do modelo de profissionalização do serviço militar, nas suas componentes de recrutamento, retenção e reinserção ou transição para a vida civil;
+h) Conceber, desenvolver, coordenar e executar a política ambiental da defesa nacional;
 
-g) Planear, dirigir e coordenar, em articulação com os ramos das Forças Armadas, os processos de recrutamento militar nos termos da lei;
+i) Participar no processo de planeamento de forças e de edificação de capacidades militares, coordenando a formulação dos planos de armamento e de infraestruturas enquanto instrumentos de planeamento, com vista à elaboração das propostas de Lei de Programação Militar;
 
-h) Planear, dirigir, coordenar e monitorizar as atividades relativas aos deveres militares dos cidadãos, designadamente o recenseamento militar e o Dia da Defesa Nacional;
+j) Coordenar a elaboração das propostas de Lei de Programação Militar e de Lei de Programação das Infraestruturas Militares, de acordo com o ciclo de planeamento de defesa, assegurando a respetiva execução e controlo;
 
-i) Estudar, emitir pareceres e monitorizar a execução das medidas de política de recursos humanos da defesa nacional e das Forças Armadas, nomeadamente as relativas a estatutos profissionais, vínculos, carreiras, remunerações e apoio social;
+k) Planear, coordenar e executar as atividades relativas à gestão do ciclo de vida logístico do armamento, bens e equipamentos, no que se refere aos processos de aquisição, manutenção, alienação e desmilitarização;
 
-j) Apoiar o membro do Governo responsável pela área da defesa nacional ao nível do planeamento e execução da política de saúde militar, em articulação com o EMGFA;
+l) Propor a concessão de autorizações para acesso e exercício das atividades de indústria e ou comércio de bens e tecnologias militares e proceder à supervisão da atividade das empresas do setor da defesa e ao controlo das importações e exportações de bens e tecnologias militares;
 
-k) Estudar, propor, executar e monitorizar as políticas dirigidas aos antigos combatentes no domínio do apoio social, do apoio à saúde e ao envelhecimento digno em articulação com outras entidades competentes;
+m) Planear, coordenar e executar as atividades relativas à aquisição, arrendamento, construção, manutenção, disposição e rentabilização das infraestruturas e demais património imobiliário afeto à defesa nacional, assegurando, designadamente, as competências legais da Unidade de Gestão Patrimonial do MDN;
 
-l) Estudar, propor, executar e monitorizar as políticas dirigidas aos deficientes militares no domínio do apoio social, do apoio à saúde e à reabilitação e ao envelhecimento digno, em articulação com outras entidades competentes;
+n) Participar, coordenando a posição do MDN, na definição e execução das políticas de ordenamento do território e urbanismo, garantindo a salvaguarda dos interesses da defesa nacional em sede de produção, alteração, revisão e execução dos instrumentos de gestão territorial;
 
-m) Apoiar o Gabinete da Igualdade, criado pelo Despacho n.º 3232/2020, publicado no Diário da República, 2.ª série, n.º 51, de 12 de março de 2020, junto do membro do Governo responsável pela área da defesa nacional na apresentação de propostas e na execução, monitorização e avaliação das políticas da igualdade e não discriminação;
+o) Participar na preparação e execução de medidas que envolvam a requisição, aos particulares, de coisas ou serviços;
 
-n) Assegurar a representação em organizações e entidades nacionais nos domínios dos recursos humanos, dos antigos combatentes, dos deficientes militares e da igualdade de género;
+p) Assegurar, no âmbito das suas atribuições e em articulação com a DGPDN, a representação em organizações e entidades internacionais e nacionais, definindo, propondo, coordenando e desenvolvendo protocolos, projetos e outras atividades de cooperação nos domínios dos recursos humanos, do armamento, dos equipamentos, do património e das infraestruturas da defesa nacional;
 
-o) Assegurar, em articulação com a DGPDN, a representação em organizações e entidades internacionais, nos domínios dos recursos humanos da defesa nacional e das forças armadas, bem como a celebração de protocolos, programas, projetos e atividades de cooperação de âmbito nacional e internacional.
+q) Assegurar, no âmbito das suas atribuições, a representação em organizações e entidades nacionais e internacionais, propondo, coordenando e desenvolvendo atividades de cooperação internacional na execução das políticas de defesa no domínio do armamento, equipamentos, infraestruturas e património.
 
-3 — Junto da DGRHDN funciona a Capelania-Mor do Serviço de Assistência Religiosa das Forças Armadas e das Forças de Segurança, à qual presta apoio logístico, financeiro e administrativo.
+r) Planear, dirigir e coordenar, em articulação com os serviços e organismos do MDN e os ramos das Forças Armadas, as atividades relativas ao turismo militar, assegurando uma visão integrada do património da defesa nacional, apresentando e executando propostas de carácter educativo e formativo que valorizem a história e cultura portuguesas.
 
-4 — Junto da DGRHDN funciona a Comissão de Educação Física e Desporto Militar, à qual presta apoio jurídico, logístico, financeiro e administrativo.
+3 - Junto da DGRDN funciona a Capelania-Mor do Serviço de Assistência Religiosa das Forças Armadas e das Forças de Segurança.
 
-5 — A DGRHDN é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+4 - A DGRDN é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+5 - O diretor-geral designa-se, nos fora adequados, por Diretor Nacional de Armamento.
