@@ -2,7 +2,7 @@
 
 ### Composição do júri
 
-1 - O júri é composto por um presidente e por quatro vogais, trabalhadores da entidade que realiza o procedimento e, ou, de outro órgão ou serviço.
+1 - O júri é composto por um presidente, por dois vogais efetivos e por dois vogais suplentes.
 
 2 - Todos os membros do júri devem ser titulares de categoria igual ou superior à categoria para que é aberto o procedimento concursal e devem pertencer à respectiva área de exercício profissional e, sempre que possível, ao serviço ou estabelecimento que realiza o procedimento.
 

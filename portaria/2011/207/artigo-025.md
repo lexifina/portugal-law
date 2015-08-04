@@ -2,7 +2,7 @@
 
 ### Recrutamento
 
-1 - O recrutamento opera-se nos termos previstos na alínea d) do n.º 1 do artigo 54.º e no artigo 55.º da LVCR.
+1 - O recrutamento opera-se nos termos previstos na alínea d) do n.º 1 do artigo 37.º e no artigo 38.º da LTFP.
 
 2 - Apenas podem ser recrutados os candidatos que obtenham classificação final igual ou superior a 10 valores, sem arredondamentos.
 

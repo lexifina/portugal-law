@@ -12,7 +12,7 @@ c) Identificação do candidato pelo nome, data de nascimento, sexo, nacionalida
 
 d) Situação perante cada um dos requisitos de admissão exigidos, designadamente:
 
-i) Os previstos no artigo 8.º da LVCR e no artigo 15.º do Decreto-Lei n.º 177/2009, de 4 de Agosto;
+i) Os previstos no artigo 17.º da LTFP e no artigo 15.º do Decreto-Lei n.º 177/2009, de 4 de agosto;
 
 ii) A identificação da relação jurídica de emprego público previamente estabelecida, quando exista, bem como da carreira e categoria de que seja titular, da actividade que executa e do órgão ou serviço onde exerce funções;
 

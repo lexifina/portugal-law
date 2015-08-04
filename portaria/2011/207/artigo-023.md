@@ -4,7 +4,7 @@
 
 1 - Em situações de igualdade de valoração, têm preferência na ordenação final os candidatos que:
 
-a) Se encontrem na situação prevista no n.º 1 do artigo 99.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro;
+a) Se encontrem na situação prevista no n.º 1 do artigo 66.º da LTFP;
 
 b) Se encontrem em outras situações configuradas pela lei como preferenciais.
 

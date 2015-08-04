@@ -32,7 +32,7 @@ c) Identificação do local de trabalho onde as funções vão ser exercidas;
 
 d) Caracterização dos postos de trabalho, em conformidade com o estabelecido no mapa de pessoal aprovado, tendo em conta a atribuição, competência ou actividade a cumprir ou a executar, a carreira e categoria;
 
-e) Requisitos de admissão previstos no artigo 8.º da LVCR;
+e) Requisitos de admissão previstos no artigo 17.º da LTFP;
 
 f) Indicação sobre a necessidade de se encontrar previamente estabelecida uma relação jurídica de emprego público e, em caso afirmativo, sobre a sua determinabilidade;
 
