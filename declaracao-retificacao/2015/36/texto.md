@@ -1,0 +1,9 @@
+Declaração de Retificação n.º 36/2015
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei nº 4/2013 de 21 de março, declara-se que o Decreto-Lei n.º 119/2015, de 29 de junho, publicado no Diário da República n.º 124, 1.ª série, de 29 de junho de 2015, saiu com as seguintes inexatidões que, mediante declaração da entidade emitente, assim se retificam:
+1 - Nos n.os 1 e 2 do artigo 100.º, onde se lê:
+«1 - Os requerimentos e comunicações previstos no presente Regulamento, dirigidos pelos beneficiários à Caixa, devem ser apresentados através do portal da Caixa, na sua área privativa, ou através de qualquer das formas previstas no artigo 104.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 5/2015, de 7 de janeiro.
+2 - As notificações e outras comunicações dirigidas pela Caixa aos beneficiários no âmbito do presente Regulamento devem ser realizadas através das formas previstas no artigo 112.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 5/2015, de 7 de janeiro.»
+deve ler-se:
+«1 - Os requerimentos e comunicações previstos no presente Regulamento, dirigidos pelos beneficiários à Caixa, devem ser apresentados através do portal da Caixa, na sua área privativa, ou através de qualquer das formas previstas no artigo 104.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+2 - As notificações e outras comunicações dirigidas pela Caixa aos beneficiários no âmbito do presente Regulamento devem ser realizadas através das formas previstas no artigo 112.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.»
+Secretaria-Geral, 31 de julho de 2015. - A Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
