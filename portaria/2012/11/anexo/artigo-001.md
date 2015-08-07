@@ -26,7 +26,7 @@ h) O Departamento de Medicina Desportiva;
 
 i) O Centro Desportivo Nacional do Jamor;
 
-j) O Departamento das Pousadas de Juventude.
+j) Revogada.
 
 2 - Por deliberação do Conselho Diretivo podem ser criadas, modificadas ou extintas unidades orgânicas de segundo nível, integradas ou não em unidades orgânicas de primeiro nível, sendo as respetivas competências definidas naquele despacho, o qual é objeto de publicação no Diário da República.
 
@@ -46,7 +46,7 @@ f) A Divisão das Infra-estruturas Desportivas, integrada no Departamento de Inf
 
 g) A Divisão de Infra-estruturas Tecnológicas, integrada no Departamento de Infra-estruturas;
 
-h) A Divisão de Formação em Tecnologias de Informação e Comunicação (TIC), integrada no Departamento de Formação e Qualificação;
+h) Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao conselho diretivo;
 
 i) A delegação do Porto do Departamento de Medicina Desportiva.
 

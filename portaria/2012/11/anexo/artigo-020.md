@@ -1,17 +1,19 @@
 # Artigo 20.º
 
-### Divisão de Formação em Tecnologias de Informação e Comunicação
+### Divisão de Modernização Administrativa e Desenvolvimento Organizacional
 
-1 - A Divisão de Formação em TIC promove a difusão dos conhecimentos técnicos e científicos, em particular os que respeitam às TIC, visando contribuir para o reforço da generalização da utilização das TIC.
+À Divisão de Modernização Administrativa e Desenvolvimento Organizacional, subordinada hierárquica e funcionalmente ao Conselho Diretivo, abreviadamente designada por DMADO, compete:
 
-2 - À Divisão de Formação em TIC, abreviadamente designada por DFTIC, compete:
+a) Avaliar, planear, coordenar, acompanhar e executar ações e medidas efetivas de simplificação e modernização administrativa, que permitam obter mais ampla racionalização dos circuitos e processos de trabalho administrativo com vista à racionalização e à modernização do IPDJ, I. P.;
 
-a) Divulgar, de uma forma extensiva e sistemática, o conhecimento das tecnologias da informação, na perspetiva da sua imediata aplicação às necessidades da comunidade envolvente;
+b) Alinhar os projetos com os objetivos organizacionais, procurando a sua gestão integrada;
 
-b) Proporcionar o acesso às tecnologias da informação e comunicação, estimulando a procura científico-tecnológica;
+c) Promover a utilização de metodologias inovadoras de gestão pública, estimulando a transversalidade entre as unidades orgânicas e a colaboração em projetos inovadores;
 
-c) Promover ações de formação e informação;
+d) Incentivar e acompanhar a inovação organizacional em prol da melhoria do desempenho do IPDJ, I. P., nomeadamente através do apoio à definição de estratégias de organização, estrutura interna e funcionamento dos serviços;
 
-d) Articular com as direções regionais a atividade dos centros de formação em tecnologias de informação;
+e) Participar na definição da política de qualidade;
 
-e) Assegurar as demais funções que lhe sejam cometidas pelo Conselho Diretivo.
+f) Apoiar o conselho diretivo na conceção e implementação de políticas e estratégias para as áreas de sistemas de informação, atendimento e relação com o utente, modernização administrativa, envolvimento dos cidadãos e transparência;
+
+g) Assegurar as demais funções que lhe sejam cometidas pelo conselho diretivo.

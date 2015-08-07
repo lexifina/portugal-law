@@ -2,7 +2,7 @@
 
 ### Departamento de Formação e Qualificação
 
-1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação, nas áreas do desporto, juventude e tecnologias de informação e comunicação.
+1 - Ao Departamento de Formação e Qualificação compete elaborar, apoiar e executar programas de formação e qualificação, nas áreas do desporto e juventude.
 
 2 - Ao Departamento de Formação e Qualificação, abreviadamente designado por DFQ, compete:
 
