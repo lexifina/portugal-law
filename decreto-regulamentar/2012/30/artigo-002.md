@@ -12,7 +12,7 @@ b) Promover o acompanhamento e avaliação do Programa Nacional de Política de 
 
 c) Apoiar a definição e a prossecução da política de cidades, nomeadamente através da preparação, coordenação e gestão de programas de cooperação técnica e financeira dirigida à promoção de boas práticas de gestão territorial e à qualificação do território e da gestão urbana, acompanhar e avaliar o funcionamento do sistema de gestão territorial e propor as medidas necessárias ao seu aperfeiçoamento;
 
-d) Coordenar, em articulação com o Gabinete Coordenador do Programa POLIS, as intervenções necessárias ao desenvolvimento, execução e acompanhamento do Programa de Requalificação Urbana e Valorização Ambiental de Cidades (POLIS) e das operações integradas de requalificação e valorização da orla costeira (POLIS LITORAL) até à sua conclusão;
+d) (Revogada);
 
 e) Coordenar as intervenções previstas no âmbito do Gabinete Coordenador do Programa FINISTERRA, até à sua conclusão;
 
