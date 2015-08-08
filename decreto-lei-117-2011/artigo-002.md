@@ -32,6 +32,6 @@ n) Definir, coordenar e avaliar as políticas de recursos humanos na Administra�
 
 o) Definir, coordenar e aplicar as políticas relativas à Administração Pública, designadamente nas áreas referentes à organização e gestão dos serviços, visando o aumento da eficácia e eficiência, a racionalização da actividade administrativa e a promoção da qualidade dos serviços públicos;
 
-p) Gerir o subsistema de saúde da Administração Pública;
+p) (Revogada.)
 
 q) Assegurar a acção social complementar da generalidade dos trabalhadores da Administração Pública.
