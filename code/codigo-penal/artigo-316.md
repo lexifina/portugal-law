@@ -2,7 +2,7 @@
 
 ### Violação do segredo de Estado
 
-1 - Quem, pondo em perigo interesses fundamentais do Estado Português, transmitir, tornar acessível a pessoa não autorizada, ou tornar público, no todo ou em parte, e independentemente da forma de acesso, informação, facto ou documento, plano ou objeto que devem, em nome daqueles interesses, manter-se secretos é punido com pena de prisão de 2 a 8 anos.
+1 - Quem, pondo em perigo interesses fundamentais do Estado Português, transmitir, tornar acessível a pessoa não autorizada ou tornar público, no todo ou em parte, e independentemente da forma de acesso, informação, facto ou documento, plano ou objeto classificados como segredo de Estado que devem, em nome daqueles interesses, manter-se secretos é punido com pena de prisão de 2 a 8 anos.
 
 2 - Quem destruir, subtrair ou falsificar informação, facto ou documento, plano ou objeto referido no número anterior, pondo em perigo interesses no mesmo número indicados, é punido com pena de prisão de 2 a 8 anos.
 
