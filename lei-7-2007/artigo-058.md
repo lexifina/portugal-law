@@ -12,4 +12,4 @@
 
 3 - Se do assento de nascimento constar uma sequência com dois ou mais nomes civis completos, o titular deve escolher qual dos nomes civis completos é inscrito, nos termos previstos no artigo 9.º, no cartão de cidadão.
 
-4 - As escolhas de composição do nome efetuadas nos termos dos números anteriores devem ser prontamente comunicadas pelos serviços referidos no n.º 2 do artigo 20.º à entidade responsável pela gestão da base de dados de identificação civil para execução das pertinentes atualizações.
+4 - As escolhas de composição do nome efectuadas nos termos dos números anteriores devem ser prontamente comunicadas pelo serviço de recepção à entidade responsável pela gestão da base de dados de identificação civil para execução das pertinentes actualizações.

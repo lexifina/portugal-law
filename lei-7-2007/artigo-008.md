@@ -1,12 +1,12 @@
 # Artigo 8.º
 
-### Informação contida em circuito integrado
+### Informação contida no circuito integrado
 
-1 - Constam de circuito integrado, em condições que garantam elevados níveis de segurança, os seguintes elementos de identificação do titular:
+1 - O cartão de cidadão incorpora um circuito integrado onde são inseridos, em condições que garantam elevados níveis de segurança, os seguintes elementos de identificação do titular:
 
 a) Os referidos no n.º 1 do artigo anterior, com excepção da alínea i);
 
-b) (Revogado.)
+b) Morada;
 
 c) Data de emissão;
 
@@ -16,7 +16,7 @@ e) Impressões digitais;
 
 f) Campo reservado a indicações eventuais, tipificadas na lei.
 
-2 - Para além dos elementos referidos no número anterior, constam ainda de circuito integrado:
+2 - Para além dos elementos referidos no número anterior, o circuito integrado contém:
 
 a) Certificado para autenticação segura;
 
@@ -24,4 +24,4 @@ b) Certificado qualificado para assinatura electrónica qualificada;
 
 c) Aplicações informáticas necessárias ao desempenho das funcionalidades do cartão de cidadão e à sua gestão e segurança.
 
-3 - Consta, ainda, de circuito integrado uma zona livre que o titular do cartão pode utilizar, por sua vontade, para arquivar informações pessoais.
+3 - O circuito integrado tem uma zona livre que o titular do cartão pode utilizar, por sua vontade, para arquivar informações pessoais.

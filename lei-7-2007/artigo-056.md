@@ -2,7 +2,7 @@
 
 ### Obtenção do cartão de cidadão
 
-1 - O pedido de cartão de cidadão é obrigatório nas seguintes situações:
+1 - Nas áreas do território nacional onde existam serviços de recepção instalados e em funcionamento, nos termos da portaria prevista no n.º 1 do artigo 54.º, o pedido de cartão de cidadão é obrigatório nas seguintes situações:
 
 a) Quando o interessado pedir a emissão, renovação ou alteração de dados do bilhete de identidade;
 

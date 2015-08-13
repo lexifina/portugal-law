@@ -2,8 +2,4 @@
 
 ### Criminalidade informática
 
-São condutas punidas nos termos da Lei n.º 109/2009, de 15 de setembro:
-
-a) O acesso ilegítimo, a interceção ilegítima, a sabotagem, a interferência danosa nos dados, nos programas ou nos sistemas dos circuitos integrados incorporados no cartão de cidadão;
-
-b) A utilização dos circuitos integrados incorporados no cartão de cidadão com falsidade informática.
+O acesso ilegítimo, a intercepção ilegítima, a sabotagem, a interferência danosa nos dados, nos programas ou nos sistemas do circuito integrado incorporado no cartão de cidadão, bem como a utilização do referido circuito integrado com falsidade informática, são condutas punidas nos termos da Lei n.º 109/91, de 17 de Agosto.

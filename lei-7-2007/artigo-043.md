@@ -10,7 +10,7 @@
 
 ### Violação de deveres
 
-1 - A retenção, a conservação e a reprodução por fotocópia ou telecópia de cartão de cidadão alheio, em violação do disposto nos n.os 1 e 2 do artigo 5.º, constitui contraordenação punível com coima de (euro) 250 a (euro) 750.
+1 - A retenção ou a conservação de cartão de cidadão alheio em violação do disposto do n.º 1 do artigo 5.º constitui contra-ordenação punível com coima de (euro) 250 a (euro) 750.
 
 2 - O não cumprimento do disposto no n.º 3 do artigo 5.º no prazo de cinco dias a contar da data em que foi encontrado o cartão de cidadão alheio constitui contra-ordenação punível com coima de (euro) 50 a (euro) 100.
 
