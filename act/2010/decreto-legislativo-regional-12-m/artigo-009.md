@@ -18,6 +18,6 @@
 
 4 - Para efeitos do disposto no número anterior, a Comissão de Recrutamento e Seleção para a Administração Regional da Madeira pode realizar entrevista de avaliação de competências exigíveis ao exercício de funções de gestor público e aplicar outros métodos de avaliação.
 
-5 - Não pode ocorrer a nomeação ou proposta de eleição de gestor público entre a convocação de eleições para a Assembleia Legislativa da Região Autónoma da Madeira ou a demissão do Governo Regional e a aprovação do programa do novo Governo Regional, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação decorra da urgência de cumprimento dos prazos legais ou estatutários, caso em que as referidas nomeação ou proposta de que ainda não tenha resultado eleição dependem de confirmação pelo Governo Regional recém-nomeado.
+5 - Não pode ocorrer a nomeação ou proposta de eleição de gestor público entre a convocação de eleições para a Assembleia Legislativa da Madeira ou a demissão do Governo Regional e a aprovação do programa do novo Governo Regional, salvo, se verificada a vacatura dos cargos em causa ou a urgência da designação, caso em que as referidas nomeação ou proposta de que ainda não tenha resultado eleição dependem de confirmação pelo Governo Regional recém-nomeado.
 
 6 - A eleição é feita nos termos da lei comercial.

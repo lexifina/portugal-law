@@ -8,10 +8,14 @@
 
 a) Trabalhadores com relação jurídica de emprego público, mediante acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 fevereiro;
 
-b) Trabalhadores de outras empresas públicas ou privadas, mediante acordo de cedência ocasional, nos termos da lei.
+b) Trabalhadores de outras empresas públicas ou privadas, mediante acordo de cedência ocasional.
 
-3 - (Revogado.)
+3 - À cedência ocasional é aplicável o disposto no Código de Trabalho, sem prejuízo do disposto nas alíneas seguintes:
 
-4 - (Revogado.)
+a) O acordo de cedência ocasional pode ocorrer entre trabalhadores de quaisquer empresas, independentemente da relação societária existente entre elas ou de existência de estrutura organizativa comum;
 
-5 - (Revogado.)
+b) A cedência ocasional terá a duração do respetivo mandato, sem prejuízo do disposto no n.º 4 do artigo 391.º do Código das Sociedades Comerciais, podendo ser renovada em caso de reeleição ou nova designação para o órgão de administração;
+
+c) Não existe qualquer obrigação de comunicação da situação de cedência à comissão de trabalhadores.
+
+4 - O tempo de serviço desempenhado em funções de gestor público releva como serviço prestado no quadro de origem, com salvaguarda de todos os direitos inerentes.

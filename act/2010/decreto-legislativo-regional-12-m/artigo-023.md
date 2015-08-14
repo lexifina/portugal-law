@@ -20,9 +20,9 @@
 
 7 - A Comissão de Recrutamento e Seleção para a Administração Regional da Madeira acompanha a definição dos critérios a que se refere o n.º 3 e a sua aplicação.
 
-8 - Nos casos previstos no artigo 11.º do presente diploma, quando se trate de empresas cuja principal função seja a produção de bens e serviços mercantis, incluindo serviços financeiros, e relativamente à qual se encontrem em regime de concorrência no mercado, mediante autorização expressa do membro do Governo Regional responsável pela área das finanças, os gestores podem optar por valor com o limite da remuneração média dos últimos três anos correspondente à remuneração da carreira ou categoria do lugar de origem, devendo ser objeto de despacho fundamentado e publicado no Jornal Oficial da Região Autónoma da Madeira.
+8 - Nos casos previstos no artigo 11.º do presente diploma e mediante autorização expressa do membro do Governo responsável pela área das finanças, os gestores podem optar pela remuneração base do lugar de origem, sem prejuízo do limite remuneratório fixado por lei.
 
-9 - Nos casos em que seja concedida a autorização de opção a que se refere o número anterior, os gestores não auferem o abono mensal de despesas de representação, quando o respetivo vencimento mensal ultrapasse o limite fixado pelo n.º 1.
+9 - [Revogado].
 
 10 - Nas situações de acumulação de funções permitidas nas alíneas a) e b) do n.º 2 do artigo 14.º e nas alíneas a) e b) do n.º 3 do artigo 16.º, o gestor público não tem direito a qualquer remuneração adicional, regalia ou benefício, incluindo os referidos no n.º 2 do artigo 23.º, nas alíneas a), b) e c) do n.º 2 do artigo 24.º, nos n.os 3 e 6 do artigo 24.º-A, no artigo 24.º-B e no artigo 25.º
 
