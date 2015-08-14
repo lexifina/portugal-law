@@ -28,7 +28,7 @@ e) Emitir licenças para autorização de descargas de águas residuais urbanas 
 
 f) Propor à concedente e aplicar, nos termos da lei aplicável, taxas e tarifas a cobrar pela utilização do domínio público hídrico, pela ocupação e pelo exercício de qualquer atividade nos espaços dominiais sob sua gestão, bem como pelos serviços que preste, nos casos em que, por força das bases da concessão e do contrato de concessão, tal não competir à concedente;
 
-g) Cobrar as taxas e tarifas, sendo os créditos respetivos equiparados aos créditos do Estado para todos os efeitos legais e constituindo título executivo as respetivas faturas, certidões de dívida ou documentos equivalentes;
+g) Cobrar as taxas e tarifas e demais importâncias devidas pela utilização do sistema de águas e de resíduos, bem como por serviços prestados a entidades públicas ou privadas, nos termos do disposto no artigo 16.º-A;
 
 h) Proceder à fiscalização do cumprimento das disposições legais aplicáveis, bem como dos regulamentos de exploração e serviço, em coordenação com as demais entidades competentes, sem prejuízo das competências que lhes são legalmente atribuídas;
 
