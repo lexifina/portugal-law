@@ -10,7 +10,7 @@
 
 2 - O suplemento referido no n.º 1 é pago no ano seguinte àquele em que o acréscimo de produtividade teve lugar e por conta desse acréscimo.
 
-3 - Os funcionários públicos, com excepção dos aposentados, não pertencentes ao quadro da DRAF mas que se encontrem na situação de requisitados ou destacados ou na dependência funcional deste organismo e desde o momento em que iniciaram o exercício efectivo de funções na DRAF têm direito a auferir do acréscimo de produtividade previsto no n.º 1 do presente preceito desde que cumpram os requisitos legalmente exigidos no presente diploma.
+3 - Os trabalhadores em funções públicas que exerçam funções na Autoridade Tributária e Assuntos Fiscais da Região Autónoma da Madeira, AT-RAM, em regime de mobilidade, apenas têm direito a auferir do acréscimo de produtividade, previsto no n.º 1, quando as funções a exercer respeitem ao conteúdo funcional das carreiras especiais a que se refere o n.º 3 do artigo 2.º, e desde que cumpram os requisitos legalmente exigidos no presente diploma.
 
 4 - Não existe interrupção da contagem do tempo de serviço prestado para os funcionários públicos que transitam da extinta Direcção de Finanças da Região para a DRAF e que usufruíssem do suplemento de produtividade previsto para os funcionários da DGCI desde que estejam cumpridos os requisitos legais para a sua efectivação.
 
