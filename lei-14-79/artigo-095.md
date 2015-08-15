@@ -14,4 +14,4 @@
 
 6 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20%, são remetidos em sobrescrito fechado e lacrado.
 
-7 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.
+7 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao juiz presidente do tribunal da comarca com sede na capital do distrito ou região autónoma dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.

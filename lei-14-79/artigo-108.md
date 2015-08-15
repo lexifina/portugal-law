@@ -4,7 +4,7 @@
 
 1 - A assembleia de apuramento geral tem a seguinte composição:
 
-a) O juiz do círculo judicial com sede na capital do círculo eleitoral e, em Lisboa e Porto, o juiz do 1.º Juízo Cível, que presidirá, com voto de qualidade;
+a) O juiz presidente do tribunal da comarca com sede na capital do círculo eleitoral ou, na sua impossibilidade ou se for mais conveniente, magistrado judicial de secção da instância central da comarca, em quem ele delegue;
 
 b) Dois juristas escolhidos pelo presidente;
 
@@ -12,7 +12,7 @@ c) Dois professores de Matemática que leccionem na sede do circulo eleitoral, d
 
 d) Seis presidentes de assembleia ou secção de voto designados pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma;
 
-e) Um chefe de secretaria judicial da sede do círculo eleitoral, escolhido pelo presidente, que serve de secretário, sem voto.
+e) Um secretário de justiça do núcleo da sede do tribunal da comarca, designado pelo presidente, ouvido o administrador judiciário, que servirá de secretário.
 
 2 - A assembleia de apuramento geral deve estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, através de edital a afixar à porta dos edifícios para o efeito designados nos termos do artigo anterior. As designações previstas nas alíneas c) e d) do número anterior deverão ser comunicadas ao presidente até três dias antes da eleição.
 
