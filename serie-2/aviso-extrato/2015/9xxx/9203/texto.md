@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 9203/2015
+Carlos Jorge Vilela da Rocha Magalhães, Presidente da Câmara Municipal de Alijó, torna público que a Câmara Municipal de Alijó deliberou, por unanimidade, em reunião ordinária de 16 de julho de 2015, nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submeter a consulta pública, pelo período de 30 dias úteis contados da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento do Horário de Funcionamento dos Estabelecimentos de Venda ao Público e de Prestação de Serviços do Município de Alijó.
+Durante o período de consulta pública, os interessados podem apresentar, por escrito, as sugestões que entendam pertinentes sobre o conteúdo do mencionado documento, dirigidas ao Presidente da Câmara Municipal, para a morada Rua General Alves Pedrosa, n.º 13, 5070-051 Alijó, ou através de correio eletrónico para gap@cm-alijo.pt.
+O documento pode ser consultado na página eletrónica da autarquia, acessível em www.cm-alijo.pt., e no Gabinete de Atendimento ao Munícipe da Câmara Municipal de Alijó, durante o horário de expediente (das 9.00 horas às 12.30 horas e das 14.00 horas às 17.30 horas).
+31 de julho de 2015. - O Presidente da Câmara Municipal, Carlos Jorge Vilela da Rocha Magalhães.
+308839518
