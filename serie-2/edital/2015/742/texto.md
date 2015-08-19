@@ -1,0 +1,5 @@
+Edital n.º 742/2015
+José Alberto Freitas Soares Pinheiro e Silva, Presidente da Câmara Municipal de Vale de Cambra, torna público, para cumprimento do disposto no artigo 130.º do CPA, aprovado pelo Decreto-Lei n.º 442/91, de 15/11, alterado e republicado pelo Decreto-Lei n.º 6/96, de 31 de janeiro, que após apreciação pública, a Assembleia Municipal de Vale de Cambra em sessão de 30 de junho de 2015, ao abrigo da competência conferida pela alínea g) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro, aprovou a alteração ao Regulamento e Tabela de Taxas do Município de Vale de Cambra, o qual entra em vigor 5 dias após a publicação do presente Edital, nos termos do artigo 32.º do referido Regulamento, sendo o seu teor conforme o publicado no Diário da República, 2.ª série, n.º 57, de 23 de março de 2015.
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume e no sítio eletrónico deste Município - www.cm-valedecambra.pt.
+6 de agosto de 2015. - O Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva.
+308858804
