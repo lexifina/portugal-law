@@ -2,7 +2,7 @@
 
 ### Pagamento dos apoios
 
-1 - Após verificação pelas DRAP de que a paragem foi iniciada até 15 de outubro de 2015, conforme exigido pelo n.º 1 do artigo 5.º, de que a licença de pesca foi entregue na Capitania pelo armador até ao primeiro dia da paragem, conforme previsto no n.º 2 do mesmo artigo 5.º, e de que estão reunidos os demais requisitos da atribuição dos apoios previstos nos artigos 3.º e 4.º, o pagamento é efetuado pelo IFAP, I. P. em duas prestações, nos seguintes termos:
+1 - Após verificação pelas DRAP de que a paragem foi iniciada até 30 de outubro de 2015, conforme exigido pelo n.º 1 do artigo 5.º, de que a licença de pesca foi entregue na Capitania pelo armador até ao primeiro dia da paragem, conforme previsto no n.º 2 do mesmo artigo 5.º, e de que estão reunidos os demais requisitos da atribuição dos apoios previstos nos artigos 3.º e 4.º, o pagamento é efetuado pelo IFAP, I. P. em duas prestações, nos seguintes termos:
 
 a) Uma primeira prestação, correspondente a 75 % da compensação financeira prevista na alínea a) do n.º 1 do artigo 6.º, acrescida do valor da compensação salarial prevista na alínea b) do n.º 1 do mesmo artigo;
 
