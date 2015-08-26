@@ -46,7 +46,7 @@ s) O transporte de armas de fogo e de aves de presa, por parte dos secretários 
 
 t) A infracção ao disposto nos n.os 3 e 4 do artigo 77.º;
 
-u) A infracção ao disposto nas alíneas a) a c) do n.º 3 do artigo 79.º e nas alíneas a) a c) do n.º 1 do artigo 80.º;
+u) A infração ao disposto nas alíneas a) a d) do n.º 3 do artigo 79.º e do n.º 1 do artigo 80.º;
 
 v) A infracção ao disposto no n.º 5 do artigo 79.º e no n.º 2 do artigo 80.º;
 

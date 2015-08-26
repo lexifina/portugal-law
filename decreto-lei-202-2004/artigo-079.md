@@ -12,7 +12,9 @@ a) Cartuchos carregados com múltiplos projécteis de diâmetro superior a 4,5 m
 
 b) Na caça às espécies de caça menor, cartuchos carregados com um projéctil único, vulgarmente designado por bala;
 
-c) Na caça às espécies de caça maior, cartuchos carregados com múltiplos projécteis, vulgarmente designados por chumbos.
+c) Na caça às espécies de caça maior, cartuchos carregados com múltiplos projécteis, vulgarmente designados por chumbos;
+
+d) Cartuchos carregados com múltiplos projéteis de chumbo, nas zonas húmidas identificadas na portaria a que se refere o n.º 2 do artigo 3.º
 
 4 - No exercício da caça com armas de fogo, os caçadores devem recolher os cartuchos vazios após a sua utilização.
 

@@ -2,7 +2,7 @@
 
 ### Seguros
 
-1 - Para o exercício da caça, os caçadores devem celebrar um contrato de seguro de responsabilidade civil contra terceiros no montante mínimo de (euro) 100000, no caso de acto venatório com arma de caça, e de (euro) 25000, nos restantes casos.
+1 - Para o exercício da caça, os caçadores devem celebrar um contrato de seguro de responsabilidade civil destinado a cobrir eventuais danos causados a terceiros, no montante mínimo de (euro) 100 000.
 
 2 - No caso de realização de montarias, batidas e largadas, as entidades responsáveis pelas mesmas devem celebrar um contrato de seguro, em condições a definir por portaria.
 

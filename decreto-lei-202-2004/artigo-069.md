@@ -1,27 +1,31 @@
 # Artigo 69.º
 
-### Requerimento e emissão de carta de caçador
+### Emissão de carta de caçador
 
-1 - Os interessados que tenham obtido aprovação em exame devem requerer a emissão da carta de caçador até 31 de Maio do ano seguinte ao da sua realização, em impresso próprio, de modelo a definir por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, nos serviços da DGRF ou do município da sua residência ou, caso não residam em território português, no respectivo consulado português.
+1 - A carta de caçador é emitida após o pagamento da taxa devida, com a aprovação no exame a que se refere o artigo 67.º
 
-2 - Para os efeitos do disposto no número anterior deve o interessado apresentar:
+2 - No caso do pagamento da taxa ter lugar decorridos mais de três meses após a comunicação ao interessado da aprovação no exame, a emissão da carta depende da comprovação da manutenção das condições referidas nas alíneas b) e c) do n.º 1 do artigo 66.º, sendo aplicável o disposto no n.º 3 do artigo 67.º, com as devidas adaptações.
 
-a) Atestado médico comprovativo de que não é portador de anomalia psíquica ou de deficiência orgânica ou fisiológica que torne perigoso o exercício da caça ou, ainda que portador de tal anomalia ou deficiência, a mesma só limite o interessado a exercer a caça com o emprego de arma de fogo, arco ou besta;
+3 - Decorridos cinco anos sobre a data de aprovação no exame sem que a taxa devida pela carta de caçador se mostre paga, a emissão desta sujeita o interessado à prévia obtenção de aproveitamento em novo exame.
 
-b) Certificado de registo criminal;
-
-c) Quando menor, não emancipado, a autorização escrita da pessoa que legalmente o represente.
-
-3 - A carta de caçador é emitida pela DGRF, dela devendo constar, designadamente:
+4 - A carta de caçador é emitida pelo ICNF, I. P., dela devendo constar, designadamente:
 
 a) O número da carta;
 
-b) As especificações nos termos do n.º 2 do artigo 66.º;
+b) A identificação do titular, com menção do nome, data de nascimento e número de identificação civil;
 
-c) A identificação do titular pela menção do nome, data de nascimento e residência;
+c) As datas de emissão e de validade.
 
-d) A data da concessão e de validade.
+5 - Os titulares da carta de caçador, quando dela devam ser privados, são obrigados a entregá-la sempre que para o efeito sejam notificados.
 
-4 - Os titulares da carta de caçador, quando dela devam ser privados, são obrigados a entregá-la sempre que para o efeito sejam notificados.
+6 - No caso de apreensão da carta de caçador por prática de infração ou da sua entrega nos termos do número anterior, é emitido recibo comprovativo da apreensão ou entrega, que substitui a carta, desde que, em qualquer das situações, o respetivo titular mantenha as condições legais para o exercício da caça.
 
-5 - Quando a carta de caçador seja apreendida por prática de infracção ou tenha sido entregue pelo seu titular nos termos do número anterior, é emitido recibo de modelo aprovado pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, comprovativo da sua apreensão ou entrega, recibo que substitui a referida carta, caso o seu titular possa continuar a exercer o acto venatório correspondente à especificação da mesma.
+7 - Aos interessados aprovados em exame que liquidaram a taxa devida pela emissão de carta de caçador nos termos do disposto nos n.os 1 e 2, bem como aos titulares de carta de caçador em casos de extravio ou inutilização do título, o ICNF, I. P., pode emitir guia de substituição da carta.
+
+8 - São estabelecidos por portaria do membro do Governo responsável pela área das florestas:
+
+a) Os procedimentos relativos à renovação de carta de caçador, à sua substituição e à alteração de dados;
+
+b) Os modelos da carta de caçador, da guia de substituição e do recibo a que se refere o n.º 6;
+
+c) Os prazos de validade e as condições de renovação da guia de substituição e do recibo a que se refere a alínea anterior.

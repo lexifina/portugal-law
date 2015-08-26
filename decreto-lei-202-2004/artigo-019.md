@@ -22,7 +22,7 @@ ii) Número de exemplares de cada espécie a abater, devendo, no caso da caça m
 
 iii) Número previsto de jornadas de caça e limite de peças a abater por jornada de caça;
 
-g) Após a aprovação do PAE, promover a divulgação das condições de candidatura e de acesso dos caçadores às jornadas de caça, com a antecedência mínima de 10 dias relativamente à data limite de recepção de candidaturas, nos locais de uso e costume e, pelo menos, num jornal de expansão nacional;
+g) Após a aprovação do PAE, promover a divulgação das condições de candidatura e de acesso dos caçadores às jornadas de caça, com a antecedência mínima de 10 dias relativamente à data limite de receção de candidaturas, nos locais de uso e costume das freguesias e dos municípios onde se situam as zonas de caça;
 
 h) Manter actualizada uma contabilidade simplificada, na qual sejam registadas as receitas e despesas efectuadas, e onde se possa apurar o resultado final;
 
