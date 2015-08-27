@@ -1,0 +1,25 @@
+Os problemas de saúde mental, aliados a situações de demência que, em parte, resultam do aumento da esperança média de vida e do envelhecimento da população, importam severas consequências para a vida das famílias. Por isso, a saúde mental constitui uma das prioridades das políticas sociais e de saúde do XVIII Governo Constitucional, cujo programa prevê a criação de novas respostas de cuidados continuados integrados de saúde mental, em articulação com a segurança social, em função dos diferentes níveis de autonomia das pessoas com doença mental.
+
+Tendo sido política iniciada no âmbito do XVII Governo Constitucional, nomeadamente com o Plano Nacional de Saúde Mental 2007-2016, aprovado pela Resolução do Conselho de Ministros n.º 49/2008, de 6 de Março, são agora concretizadas medidas para a organização e coordenação de unidades e equipas multidisciplinares com vista à prestação de apoio psicossocial e de cuidados médicos, ao reforço das competências, à reabilitação, à recuperação e integração social das pessoas com incapacidade psicossocial, bem como à promoção e reforço das capacidades das famílias que lidam com estas situações.
+
+Assim, são criadas estruturas multidisciplinares de cuidados continuados integrados de saúde mental, adaptadas às características de grupos etários específicos, em articulação com a rede nacional de cuidados continuados integrados (RNCC) e com os serviços locais de saúde mental (SLSM), previstos no Decreto-Lei n.º 304/2009, de 22 de Outubro, tendo também presente a lei de Saúde Mental, aprovada pela Lei n.º 36/98, de 24 de Julho, passando a prestação de cuidados de saúde mental a ser assegurada por equipas e unidades multidisciplinares habilitadas a responder, de forma coordenada, aos aspectos médicos psicológicos, sociais, de enfermagem e de reabilitação.
+
+Estas estruturas multidisciplinares que prestam cuidados continuados integrados de saúde mental são de três tipos: equipas de apoio domiciliário, unidades sócio-ocupacionais e unidades residenciais.
+
+As equipas de apoio domiciliário actuam nos domicílios, auxiliam na supervisão e gestão da medicação e asseguram o apoio regular nos cuidados pessoais e nas actividades da vida diária, gestão doméstica e financeira, compras, confecção de alimentos, tratamento de roupas, manutenção da habitação, utilização dos transportes públicos e outros recursos comunitários.
+
+As unidades sócio-ocupacionais localizam-se na comunidade e têm como destinatários pessoas com moderado e reduzido grau de incapacidade psicossocial, com disfuncionalidades na área relacional, ocupacional e de integração social. Estas unidades têm por finalidade a promoção da autonomia, a estabilidade emocional e a participação social, com vista à integração social, familiar e profissional.
+
+Por último, as unidades residenciais, que apresentam diferentes níveis de intensidade, localizam-se preferencialmente na comunidade e asseguram a prestação de serviços médicos e sociais, são de quatro tipos: as residências de treino de autonomia, as residências autónomas de saúde mental, as residências de apoio moderado e as residências de apoio máximo.
+
+As residências de treino de autonomia têm por finalidade a reintegração social e familiar das pessoas com incapacidade psicossocial, preparando-as para o regresso ao domicílio. As residências autónomas de saúde mental têm por finalidade proporcionar suporte residencial com vista à integração em actividades de socialização e de formação profissional ou emprego, a melhoria da qualidade de vida e maior participação social. As residências de apoio moderado têm por finalidade proporcionarem cuidados que permitam a manutenção e o desenvolvimento das competências do doente, proporcionando-lhe melhor qualidade de vida e promovendo a integração sócio-ocupacional. E, finalmente, as residências de apoio máximo destinam-se a pessoas com elevado grau de incapacidade e têm por finalidade proporcionar cuidados que previnam e retardem o agravamento da situação de dependência.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Protecção de Dados.
+
+Foram ouvidos, a título facultativo, a Federação Nacional de Entidades de Reabilitação de Doentes Mentais, os institutos das ordens religiosas, a Ordem dos Médicos, a Ordem dos Enfermeiros, a Federação Nacional dos Médicos e o Sindicato Independente dos Médicos.
+
+Foram promovidas as audições, a título facultativo, à União das Misericórdias Portuguesas, à Confederação Nacional das Instituições de Solidariedade Social, à Federação Nacional de Associações de Famílias Pró Saúde Mental, ao Sindicato dos Enfermeiros Portugueses, à Confederação Geral de Trabalhadores Portugueses, à União Geral de Trabalhadores e ao Conselho Nacional de Saúde Mental.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos das alíneas a) e c) do artigo 198.º da Constituição, o Governo decreta o seguinte:
