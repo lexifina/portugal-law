@@ -4,7 +4,11 @@
 
 Podem beneficiar do apoio previsto no presente capítulo os projetos de investimento que se enquadrem na tipologia de investimento não produtivo identificada na alínea c) do artigo 4.º e nos objetivos previstos no artigo 19.º e que preencham, cumulativamente, as seguintes condições:
 
-a) Representem uma intervenção numa superfície de culturas permanentes ou de mortórios, quando localizada na área geográfica de aplicação definida na alínea b), do artigo 20.º;
+a) Representem uma intervenção, alternativamente:
+
+i) Numa superfície agrícola, quando localizada na área geográfica de aplicação definida na alínea a) do artigo 20.º;
+
+ii) Numa superfície de culturas permanentes ou de mortórios, quando localizada na área geográfica de aplicação definida na alínea b) do artigo 20.º;
 
 b) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento;
 
