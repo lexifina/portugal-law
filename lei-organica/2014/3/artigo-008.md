@@ -18,6 +18,8 @@ f) Entidades a quem sejam ou tenham sido prestados serviços remunerados de qual
 
 g) Sociedades em cujo capital social o titular, por si, pelo cônjuge, pelo unido de facto ou pelos filhos, disponha de participação.
 
-2 - O registo de interesses é atualizado junto da Assembleia da República sempre que surja alteração superveniente dos elementos referidos no número anterior.
+2 - O registo de interesses, exarado em formulário próprio, é depositado na comissão parlamentar competente para os assuntos constitucionais, direitos, liberdades e garantias e atualizado no prazo máximo de 15 dias após a ocorrência de alteração superveniente dos elementos a que se referem as alíneas do número anterior.
 
 3 - O incumprimento do disposto nos números anteriores determina a inelegibilidade ou cessação do mandato, conforme o caso.
+
+4 - O registo de interesses é público e deve ser disponibilizado para consulta no portal da Assembleia da República na Internet, ou a quem o solicitar.
