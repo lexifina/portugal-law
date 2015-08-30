@@ -6,7 +6,7 @@
 
 ### Documentos de acompanhamento
 
-1 - Todas as movimentações ou transferências de animais entre detentores devem ser acompanhadas por uma declaração de deslocação, guia de circulação ou guia sanitária de circulação, consoante os casos.
+1 - Todas as movimentações ou transferências de animais entre detentores devem ser acompanhadas por uma declaração de deslocação, guia de circulação ou guia sanitária de circulação, consoante os casos, com exceção das movimentações de aves e leporídeos quando destinados à venda direta, em mercado local de produtores, ao consumidor final.
 
 2 - A autoridade competente pode exigir o certificado sanitário veterinário como documento de acompanhamento dos animais sempre que numa área geográfica motivos de natureza sanitária o justifiquem.
 

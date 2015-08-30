@@ -2,17 +2,17 @@
 
 ### Rastreabilidade
 
-1 - É imposta uma limitação aos movimentos de todos os animais para ou a partir da exploração ou centro de agrupamento em causa sempre que um ou mais animais não reúnam um qualquer dos seguintes requisitos:
+1 - É imposta uma limitação aos movimentos de todos os animais para ou a partir da exploração ou centro de agrupamento em causa sempre que um ou mais animais não reúnam concomitantemente os seguintes requisitos:
 
 a) Estar correctamente identificados ou marcados;
 
-b) Estar registados na base de dados informatizada;
+b) Estarem registados na base de dados informatizada, que no caso dos ovinos e caprinos deve conter as informações mencionadas no artigo 1.º do anexo II;
 
-c) Possuir passaporte ou outro documento de acompanhamento específico;
+c) Possuir passaporte no caso dos bovinos e constar de documento de acompanhamento específico quando for caso; e
 
-d) Possuir, por espécie animal, um RED actualizado mantido na exploração.
+d) Possuir, por espécie animal, um RED atualizado e mantido na exploração, exceto para os ovinos e caprinos.
 
-2 - Os animais relativamente aos quais falte algum dos requisitos previstos no n.º 1 ficam de imediato sob sequestro, até demonstração do cumprimento dos mesmos no prazo de sete dias úteis, devendo a autoridade competente, findo aquele prazo, ordenar o seu abate e destruição, caso a sua rastreabilidade não possa ser assegurada.
+2 - Os animais relativamente aos quais falte algum dos requisitos previstos no número anterior ficam de imediato sob sequestro, até demonstração do cumprimento dos mesmos no prazo de sete dias, devendo a autoridade competente, findo aquele prazo, ordenar o seu abate e destruição, caso a sua rastreabilidade não possa ser assegurada.
 
 3 - São imediatamente impostas limitações às movimentações de todos os animais presentes numa exploração ou centro de agrupamento quando o número de animais relativamente aos quais se verifique a falta de algum ou alguns dos requisitos de identificação e registo exceder 20%.
 

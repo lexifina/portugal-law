@@ -4,4 +4,4 @@
 
 1 - Nenhum meio de identificação pode ser removido ou substituído sem autorização da autoridade competente.
 
-2 - Sempre que uma marca auricular ou um meio de identificação electrónica se tenham tornado ilegíveis ou se tenham perdido devem ser substituídos, logo que possível e sempre antes do animal deixar a exploração, por uma outra marca auricular ou meio de identificação electrónica, cujo código deve ser inscrito no RED de forma a não comprometer o objectivo da rastreabilidade.
+2 - Sempre que uma marca auricular ou um meio de identificação eletrónica se tenham tornado ilegíveis ou se tenham perdido deve-se proceder à sua substituição ou à reidentificação do animal, no mais curto espaço de tempo e sempre antes do animal deixar a exploração.

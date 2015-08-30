@@ -2,31 +2,37 @@
 
 ### Transportadores
 
-1 - Os transportadores, além das condições estabelecidas no Decreto-Lei n.º 294/98, de 18 de Setembro, devem ainda:
+1 - Os transportadores, para além das condições estabelecidas no Decreto-Lei n.º 265/2007, de 24 de julho, alterado pelo Decreto-Lei n.º 158/2008, de 8 de agosto, devem ainda obedecer aos seguintes requisitos:
 
-a) Utilizar meios de transporte que sejam:
+a) Utilizar, durante o transporte, meios de transporte que sejam:
 
-i) Construídos de modo que os dejectos, a cama ou a forragem dos animais não possam verter ou cair para fora do veículo;
+i) Construídos de modo a que as fezes, a cama ou a forragem dos animais não possam verter ou cair para fora do veículo, sem prejuízo do disposto no Regulamento (CE) n.º 1/2005, do Conselho, de 22 de dezembro de 2004;
 
-ii) Limpos e desinfectados por um centro de desinfecção licenciado pela autoridade competente, com desinfectantes autorizados, imediatamente depois de cada transporte de animais ou de qualquer outro produto que possa afectar a saúde animal, devidamente comprovado por declaração, com a validade de setenta e duas horas, desde que se não verifique novo transporte de animais;
+ii) Limpos e desinfetados num centro de limpeza e desinfeção aprovado pela DGAV;
 
-b) Dispor de instalações de limpeza e de desinfecção apropriadas, aprovadas pela autoridade competente, incluindo instalações de armazenagem da cama e do estrume, ou comprovar que essas operações são efectuadas por terceiros aprovados pela autoridade competente.
+b) Dispor de instalações de limpeza e de desinfeção apropriadas ou proceder à limpeza e desinfeção em instalações de terceiros igualmente aprovadas para o efeito.
 
-2 - O transportador deve, em relação a cada veículo, manter um registo permanentemente actualizado, que deve ser conservado por um período mínimo de três anos e conter as seguintes informações:
+2 - As aprovações a que se referem a subalínea ii) da alínea a) e a alínea b) do número anterior dependem do procedimento e das condições definidas por despacho do diretor-geral de Alimentação e Veterinária.
 
-a) Local e data de carregamento e nome ou firma da exploração ou centro de agrupamento onde os animais foram carregados;
+3 - O transportador deve conservar o comprovativo da limpeza e desinfeção, durante o transporte e até que efetue a próxima limpeza e desinfeção, devendo ainda facultar aquela documentação às autoridades competentes, sempre que tal lhe for solicitado.
 
-b) Local e data de entrega e nome ou firma e endereço do ou dos destinatários;
+4 - O transportador deve, em relação a cada veículo, manter um registo permanentemente atualizado, que deve ser conservado por um período mínimo de três anos e conter as seguintes informações:
+
+a) Local, data e hora do carregamento e nome ou denominação social da exploração ou centro de agrupamento onde os animais foram carregados;
+
+b) Local, data e hora de entrega e nome ou denominação social e endereço do ou dos destinatários;
 
 c) Espécie e número de animais transportados;
 
-d) Data e local de desinfecção;
+d) Data e local de desinfeção;
 
 e) Indicação da documentação de acompanhamento.
 
-3 - Os animais durante o transporte não podem entrar em contacto com animais de estatuto sanitário inferior em momento algum da viagem, desde a saída da exploração ou do centro de agrupamento de origem até à chegada ao respectivo destino.
+5 - Durante o transporte, o transportador deve conservar o comprovativo das últimas seis limpezas e desinfeções e fornecê-lo às autoridades competentes sempre que o mesmo lhe seja solicitado.
 
-4 - Os transportadores são obrigados a:
+6 - Os transportadores asseguram que os animais transportados não entram em contacto com animais de estatuto sanitário inferior em momento algum da viagem, desde a saída da exploração ou do centro de agrupamento de origem até à chegada ao respetivo destino, exceto quando o último transporte seja diretamente para o matadouro.
+
+7 - Os transportadores são obrigados a:
 
 a) Não transportar animais que não se encontrem identificados ou marcados ou que não sejam acompanhados dos documentos previstos no presente decreto-lei;
 
@@ -36,4 +42,4 @@ c) Entregar à chegada à exploração ou matadouro de destino as marcas auricul
 
 d) Confiar o transporte de animais a pessoas com as aptidões e competência profissionais e conhecimentos necessários.
 
-5 - As disposições constantes do presente artigo são aplicáveis, com as necessárias adaptações, aos detentores, desde que procedam ao transporte dos animais que detenham.
+8 - As disposições constantes do presente artigo são aplicáveis, com as necessárias adaptações, aos detentores, desde que procedam ao transporte dos animais que detenham.

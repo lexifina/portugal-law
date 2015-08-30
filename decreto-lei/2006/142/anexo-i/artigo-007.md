@@ -8,10 +8,10 @@
 
 3 - Sempre que o animal seja proveniente de país terceiro, o prazo a que se refere o número anterior é contado a partir da notificação da sua identificação, nos termos do n.º 2 do artigo 6.º do presente anexo.
 
-4 - Os bovinos não podem circular sem estar acompanhados do seu passaporte devidamente preenchido em todos os seus campos, incluindo a actualização da informação sanitária.
+4 - Os bovinos não podem circular sem estar acompanhados do seu passaporte devidamente preenchido em todos os seus campos, incluindo a atualização da informação sanitária.
 
 5 - O passaporte dos bovinos exportados deve ser entregue pelo último detentor à autoridade competente do local da exportação.
 
-6 - O passaporte deve ser actualizado com o registo da identificação do novo detentor logo após a chegada do animal à exploração, bem como renovado sempre que danificado ou completo.
+6 - O passaporte deve ser atualizado com o registo da identificação do novo detentor logo após a chegada do animal à exploração, bem como renovado sempre que danificado ou completo.
 
-7 - Os passaportes que não tenham sido emitidos pelo Sistema Nacional de Identificação e Registo de Bovinos (SNIRB) devem ser substituídos por novos passaportes, a emitir pelo SNIRA, a requerimento do detentor, a efectuar no prazo de 90 dias após a data da entrada em vigor do presente decreto-lei.
+7 - (Revogado).

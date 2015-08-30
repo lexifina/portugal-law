@@ -2,12 +2,12 @@
 
 ### Identificação
 
-1 - Todos os ovinos e caprinos de uma exploração nascidos após o mês de Julho de 2005 devem ser identificados por uma marca auricular, aprovada pela DGV, aplicada no pavilhão auricular esquerdo, bem como por um segundo meio de identificação, que consiste numa marca no pavilhão auricular direito ou num meio de identificação electrónico, aprovado nos termos do presente decreto-lei.
+1 - Todos os ovinos e caprinos de uma exploração nascidos após 31 de dezembro de 2009 devem ser identificados por uma marca auricular aprovada pela DGAV, bem como por um segundo meio de identificação eletrónico.
 
-2 - Aos ovinos e caprinos de raça pura inscritos em livros genealógicos ou registos zootécnicos reconhecidos pela DGV deve ser aplicado um meio de identificação electrónica, como segundo meio de identificação, no acto de avaliação para inscrição no livro de adultos, e, caso já estejam inscritos, devem ser identificados no prazo de 180 dias a contar da data da entrada em vigor do presente decreto-lei.
+2 - (Revogado).
 
-3 - A identificação dos animais deve ser realizada num prazo não superior a seis meses a partir do nascimento do animal e, em qualquer caso, antes de este deixar a exploração onde nasceu.
+3 - Os detentores dos animais da espécie ovina e caprina devem identificar os seus animais até à idade de 6 meses ou proceder à sua reidentificação, nos termos do artigo 6.º deste anexo, não podendo os animais deixar a exploração sem estarem identificados ou reidentificados.
 
-4 - No caso de ovinos e caprinos criados em explorações em regime extensivo ou ao ar livre, o prazo referido no número anterior é de nove meses.
+4 - O prazo a que se refere o número anterior pode ser prorrogado até aos 9 meses, no caso das explorações em regime extensivo ou ao ar livre.
 
-5 - Os meios de identificação devem ser atribuídos à exploração, distribuídos e aplicados nos animais em conformidade com o determinado por despacho do director-geral de Veterinária, o qual estabelece ainda qual o segundo meio de identificação que é obrigatório nos termos do n.º 1.
+5 - Os meios de identificação devem ser atribuídos à exploração, distribuídos e aplicados nos animais em conformidade com o determinado por despacho do diretor-geral de Alimentação e Veterinária, o qual estabelece ainda qual o segundo meio de identificação que é obrigatório nos termos do n.º 1.
