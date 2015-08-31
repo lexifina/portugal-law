@@ -1,0 +1,8 @@
+Aviso n.º 9910/2015
+Projeto de Regulamento dos Cemitérios da União de Freguesias de Coruche, Fajarda e Erra
+Jacinto Amaro de Oliveira Barbosa, Presidente da União de Freguesias de Coruche, Fajarda e Erra.
+Torna público nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que submete-se a consulta pública, por um período de 30 dias a contar da publicação deste aviso no Diário da República, o Projeto de Regulamento dos Cemitérios da Freguesia da União de Freguesias de Coruche, Fajarda e Erra, aprovado, por unanimidade, pela Junta de Freguesia na reunião de 07 de abril de 2015.
+Durante esse período, todos os cidadãos interessados poderão consultar o projeto de regulamento acima referido, na sede da União de Freguesias em Coruche, e nas delegações na Fajarda e na Erra, no horário normal de funcionamento.
+Podem ainda os interessados, querendo, apresentar as suas participações, observações, sugestões, e pedidos de esclarecimento, por escrito, em documento devidamente identificado, dirigido ao Presidente da União de Freguesias de Coruche, Fajarda e Erra para a morada postal da sede da União de Freguesias: Rua 25 de abril, Quinta do Lago, 2100-126 Coruche; por correio eletrónico: ufcoruche.fajarda.erra@gmail.com; via Fax: 243660623, ou ainda, entregar na sede da União de Freguesias em Coruche, ou nas delegações na Fajarda ou na Erra.
+29 de julho de 2015. - O Presidente da Junta de Freguesia da União de Freguesias de Coruche, Fajarda e Erra, Jacinto Amaro de Oliveira Barbosa.
+308872793
