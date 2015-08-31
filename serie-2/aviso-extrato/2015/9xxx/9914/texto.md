@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 9914/2015
+Na sequência da publicação no Diário da República, 2.ª série, n.º 92, de 13 de maio de 2015 (fls.11953 a 11958), do aviso n.º 5259/2015, torna-se público que em Sessão Ordinária da Assembleia de Freguesia, realizada em 29 de junho de 2015, sob proposta da Junta de Freguesia, e após ter decorrido o prazo para consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo (DL n.º 4/2015, de 7 de janeiro), foi aprovado o Regulamento e Tabela Geral de Taxas e Licenças da União Freguesias da Sé e São Lourenço do Concelho de Portalegre, com o conteúdo constante da citada publicação, o qual não sofreu qualquer alteração, entrando o mesmo em vigor decorrido o prazo constante do edital afixado nas instalações desta Junta de Freguesia.
+5 de agosto de 2015. - O Presidente da Junta de Freguesia, Artur Jorge Coelho Correia.
+308856788
