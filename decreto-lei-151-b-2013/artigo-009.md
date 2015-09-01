@@ -35,3 +35,15 @@ i) Quando necessário, representantes de entidades especializadas ou técnicos e
 3 - Por proposta da autoridade de AIA devidamente fundamentada, o membro do Governo responsável pela área do ambiente pode determinar que a presidência da CA seja assegurada por uma personalidade de reconhecido mérito na área do projeto a avaliar.
 
 4 - O funcionamento da CA rege-se por regulamento próprio, a publicitar no sítio na Internet da autoridade de AIA e no balcão único eletrónico.
+
+5 - Os pareceres sectoriais emitidos pelas entidades representadas na CA são obrigatórios e devem ser remetidos à autoridade de AIA nos seguintes prazos:
+
+a) No caso da definição de âmbito do EIA, até 10 dias, antes do termo dos prazos fixados no n.º 7 do artigo 12.º;
+
+b) No caso do procedimento de avaliação, até 30 dias, antes do termo dos prazos fixados no n.º 2 do artigo 19.º;
+
+c) No caso do procedimento de verificação da conformidade ambiental do projeto de execução, até 20 dias, antes do termo do prazo fixado no n.º 5 do artigo 21.º
+
+6 - Os prazos previstos no número anterior podem ser prorrogados pela autoridade de AIA por uma única vez, mediante solicitação devidamente fundamentada por parte da entidade representada na CA e desde que tal não comprometa o cumprimento dos restantes prazos estabelecidos no presente decreto-lei.
+
+7 - Em caso de falta de emissão de parecer no prazo aplicável de acordo com o disposto nos números anteriores, considera-se o parecer favorável.
