@@ -2,4 +2,4 @@
 
 ### Contabilidade
 
-A ULS, E. P. E. aplica o Sistema de Normalização Contabilística.
+A ULS, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.

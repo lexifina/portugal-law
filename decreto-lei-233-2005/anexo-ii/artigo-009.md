@@ -26,6 +26,6 @@ j) Velar pela constante actualização do pessoal médico;
 
 l) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina e com a formação dos médicos.
 
-2 - O diretor clínico pode exercer, a título excecional e não remunerado, atividade médica, apenas no âmbito da entidade pública empresarial em que ocupe cargo de administração e desde que por sua iniciativa e no seu próprio interesse o solicite, especificando os atos a realizar e o tempo a dedicar.
+2 - (Revogado).
 
-3 - O exercício da atividade prevista no número anterior depende de autorização prévia do conselho de administração, mediante pedido detalhado expresso por escrito do próprio diretor clínico quanto aos atos a realizar e ao tempo a dedicar, com demonstração do interesse público.
+3 - (Revogado).
