@@ -22,10 +22,8 @@ h) Assegurar a coordenação e elaboração dos contributos do MAOTE para as Gra
 
 i) Exercer as funções de entidade coordenadora do programa orçamental do MAOTE e acompanhar a sua execução, apoiando tecnicamente a elaboração de instrumentos de gestão e previsão orçamental, em articulação com outras entidades com competência neste domínio;
 
-j) Elaborar, difundir e apoiar a criação de instrumentos de planeamento e programação, assegurar o desenvolvimento do subsistema de avaliação dos serviços (SIADAP 1) no âmbito do MAOTE, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas por lei.
+j) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MAOTE;
 
-k) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MAOTE;
+k) Desenvolver um sistema integrado de indicadores nos domínios relevantes para as funções do Ministério;
 
-l) Desenvolver um sistema integrado de indicadores nos domínios relevantes para as funções do Ministério;
-
-m) Assegurar o acesso e disponibilização de informação, mediante articulação e a interoperabilidade com os sistemas de informação dos serviços e organismos do MAOTE, para apoiar a decisão política e estratégica.
+l) Assegurar o acesso e disponibilização de informação, mediante articulação e a interoperabilidade com os sistemas de informação dos serviços e organismos do MAOTE, para apoiar a decisão política e estratégica.

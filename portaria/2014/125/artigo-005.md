@@ -18,12 +18,12 @@ f) Programar e acompanhar as ações de seleção, recrutamento de pessoal;
 
 g) Promover, organizar e coordenar o processo de aplicação do SIADAP no âmbito da SG e assegurar a elaboração do relatório síntese da aplicação do sistema de avaliação ao nível do Ministério, relativamente aos seus subsistemas 2 e 3;
 
-h) Monitorizar a execução do QUAR, no âmbito da Secretaria-Geral;
+h) Promover, organizar e coordenar o processo de aplicação do SIADAP no âmbito da SG e assegurar a elaboração do relatório síntese da aplicação do sistema de avaliação ao nível do Ministério, relativamente aos seus subsistemas 2 e 3;
 
-i) Coordenar a elaboração do plano e relatório de atividades e colaborar na preparação do orçamento;
+i) Monitorizar a execução do QUAR, no âmbito da Secretaria-Geral;
 
-j) Elaborar o balanço social da SG e o balanço social consolidado do Ministério;
+j) Coordenar a elaboração do plano e relatório de atividades e colaborar na preparação do orçamento;
 
-k) Assegurar a observância das regras sobre higiene e segurança no trabalho;
+l) Assegurar a observância das regras sobre higiene e segurança no trabalho;
 
-l) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, a modernização e a política de qualidade, no âmbito do Ministério, com vista à reorganização funcional dos serviços e à simplificação de procedimentos e dos respetivos métodos de trabalho, sem prejuízo das atribuições cometidas por lei a outros serviços.
+m) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, a modernização e a política de qualidade, no âmbito do Ministério, com vista à reorganização funcional dos serviços e à simplificação de procedimentos e dos respetivos métodos de trabalho, sem prejuízo das atribuições cometidas por lei a outros serviços.

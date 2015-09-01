@@ -14,4 +14,6 @@ d) Serviços de Recursos Humanos;
 
 e) Serviços de Apoio Jurídico.
 
-2 - As unidades referidas nas alíneas a) a e) do número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.
+f) Unidade Ministerial de Compras.
+
+2 - As unidades referidas nas alíneas a) a f) do número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.

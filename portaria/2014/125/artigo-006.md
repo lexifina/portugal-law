@@ -14,8 +14,10 @@ d) Representar o Ministério nas ações administrativas e demais procedimentos 
 
 e) Prestar apoio ao Ministério Público, nos processos relacionados com a atividade do Ministério;
 
-f) Emitir parecer e elaborar projetos de resposta nos recursos hierárquicos interpostos para os membros do Governo do MAOTE;
+f) Prestar apoio ao Ministério Público, nos processos relacionados com a atividade do Ministério;
 
-g) Intervir em quaisquer processos de sindicância, inquéritos, averiguações ou disciplinares e emitir parecer que habilite os membros do Governo a proferir decisão em processos disciplinares, quando solicitada para o efeito;
+g) Emitir parecer e elaborar projetos de resposta nos recursos hierárquicos interpostos para os membros do Governo do MAOTE;
 
-h) Elaborar pareceres, informações e estudos de caráter jurídico sobre quaisquer assuntos de interesse para o MAOTE.
+h) Intervir em quaisquer processos de sindicância, inquéritos, averiguações ou disciplinares e emitir parecer que habilite os membros do Governo a proferir decisão em processos disciplinares, quando solicitada para o efeito;
+
+i) Elaborar pareceres, informações e estudos de caráter jurídico sobre quaisquer assuntos de interesse para o MAOTE.

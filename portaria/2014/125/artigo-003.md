@@ -8,14 +8,12 @@ a) Acompanhar e apoiar tecnicamente a intervenção dos serviços e organismos d
 
 b) Acompanhar o desenvolvimento das políticas da União Europeia da competência do MAOTE, coordenando a preparação da participação Ministerial nas reuniões do Conselho de Ministros da União Europeia;
 
-c) Acompanhar a transposição das diretivas comunitárias para o ordenamento jurídico interno e assegurar a gestão dos processos de pré-contencioso e contencioso comunitário do MAOTE;
+c) Colaborar na definição da política de cooperação internacional em matéria de ambiente, ordenamento do território e energia, e assegurar a sua execução;
 
-d) Colaborar na definição da política de cooperação internacional em matéria de ambiente, ordenamento do território e energia, e assegurar a sua execução;
+d) Coordenar e apoiar a intervenção do MAOTE no âmbito da cooperação para o desenvolvimento, em especial, com os países da CPLP, em matéria de ambiente, ordenamento do território e energia;
 
-e) Coordenar e apoiar a intervenção do MAOTE no âmbito da cooperação para o desenvolvimento, em especial, com os países da CPLP, em matéria de ambiente, ordenamento do território e energia;
+e) Promover a coordenação da preparação e participação nas atividades de cooperação bilateral ou multilateral e de cooperação para o desenvolvimento, nomeadamente, Cimeiras Bilaterais e Fora Multilaterais;
 
-f) Promover a coordenação da preparação e participação nas atividades de cooperação bilateral ou multilateral e de cooperação para o desenvolvimento, nomeadamente, Cimeiras Bilaterais e Fora Multilaterais;
+f) Coordenar a intervenção do Ministério nos aspetos jurídicos dos acordos multilaterais no domínio do MAOTE, competindo-lhe ainda desencadear os mecanismos de assinatura e ratificação das convenções e acordos internacionais em matéria de ambiente, ordenamento do território e energia;
 
-g) Coordenar a intervenção do Ministério nos aspetos jurídicos dos acordos multilaterais no domínio do MAOTE, competindo-lhe ainda desencadear os mecanismos de assinatura e ratificação das convenções e acordos internacionais em matéria de ambiente, ordenamento do território e energia;
-
-h) Assegurar o cumprimento de todas as obrigações financeiras decorrentes dos instrumentos de direito internacional referidos na alínea anterior.
+g) Assegurar o cumprimento de todas as obrigações financeiras decorrentes dos instrumentos de direito internacional referidos na alínea anterior.

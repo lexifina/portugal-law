@@ -16,14 +16,10 @@ e) Elaborar relatórios financeiros periódicos e preparar a prestação anual d
 
 f) Apoiar a elaboração e acompanhamento do orçamento do Ministério em articulação com os demais serviços e organismos integrados no MAOTE;
 
-g) Assegurar as funções de unidade ministerial de compras e coordenar, no âmbito do Ministério, a aplicação dos normativos legais em vigor na Administração Pública, neste domínio;
+g)Assegurar a gestão, distribuição, controlo e o inventário dos bens e equipamentos afetos à SG ou à sua guarda;
 
-h) Organizar os procedimentos e a celebração de contratos para a realização de obras e para a aquisição de bens e serviços;
+h) Gerir o edifício sede do MAOTE, bem como outras instalações que lhe estejam afetas, assegurando a sua vigilância, segurança, limpeza e conservação;
 
-i) Assegurar a gestão, distribuição, controlo e o inventário dos bens e equipamentos afetos à SG ou à sua guarda;
+i) Coordenar a gestão global dos recursos patrimoniais do Ministério, nomeadamente instalações e material de transporte, e exercer as funções de unidade de gestão patrimonial;
 
-j) Gerir o parque de viaturas automóveis afeto aos gabinetes dos membros do Governo, à SG e às restantes entidades a que presta apoio;
-
-k) Coordenar a gestão global dos recursos patrimoniais do Ministério, nomeadamente instalações e material de transporte, e exercer as funções de unidade de gestão patrimonial;
-
-l) Gerir o edifício sede do MAOTE, bem como outras instalações que lhe estejam afetas, assegurando a sua vigilância, segurança, limpeza e conservação.
+j) Gerir o parque de viaturas automóveis afeto aos gabinetes dos membros do Governo, à SG e às restantes entidades a que presta apoio.
