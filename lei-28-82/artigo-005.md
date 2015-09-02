@@ -2,4 +2,4 @@
 
 ### (Regime administrativo e financeiro)
 
-O Tribunal Constitucional é dotado de autonomia administrativa e dispõe de orçamento próprio, inscrito nos encargos gerais da Nação do Orçamento do Estado.
+O Tribunal Constitucional é dotado de autonomia administrativa e financeira, e dispõe de orçamento próprio, inscrito nos encargos gerais do Estado no Orçamento do Estado.
