@@ -1,0 +1,10 @@
+Aviso n.º 10010/2015
+Regulamento de Funcionamento dos Serviços de Apoio à Família nos Estabelecimentos de Educação Pré-escolar e do Ensino Básico da Rede Pública do Município de Alpiarça
+Consulta Pública
+Mário Fernando Atracado Pereira, Presidente da Câmara Municipal de Alpiarça, torna público que por deliberações da Câmara Municipal de Alpiarça e da Assembleia Municipal de Alpiarça tomadas, respetivamente, em reunião ordinária de dez de setembro do ano dois mil e catorze e sessão ordinária de vinte e nove de setembro do ano dois mil e catorze, foi aprovado o projeto de "Regulamento de Funcionamento dos Serviços de Apoio à Família nos Estabelecimentos de Educação Pré-escolar e do Ensino Básico da Rede Pública do Município de Alpiarça".
+Assim, nos termos e para os efeitos do disposto no artigo 101.º do Novo Código do Procedimento Administrativo, submete-se o referido projeto de regulamento a discussão pública, pelo prazo de 30 dias úteis contados a partir da data de publicação do presente edital na 2.ª série do Diário da República.
+O referido projeto encontra-se exposto para consulta no Gabinete de Educação desta Câmara Municipal, sita no edifício dos Paços do Concelho, na Rua José Relvas, n.º 374, em Alpiarça e no site do Município: www.cm-alpiarca.pt.
+As sugestões, propostas, pareceres e/ou reclamações, deverão ser apresentadas por escrito no prazo de 30 dias seguidos, contados a partir da data de publicação deste Edital no Diário da República, devendo ser dirigidas ao Presidente da Câmara Municipal de Alpiarça, por via postal para a Rua José Relvas, n.º 374 - Apartado 25 - 2094-909-Alpiarça, entregues pessoalmente nos serviços de atendimento do município, ou por correio eletrónico para: gabineteeducacao@cm-alpiarca.pt, com identificação do remetente, morada e identificação fiscal.
+Para geral conhecimento se publica este e outros de igual teor, que vão ser afixados nos lugares públicos do costume, publicado no Diário da República e no site deste Município: www.cm-alpiarca.pt.
+20/julho/2015. - O Presidente, Mário Fernando Atracado Pereira.
+308828697
