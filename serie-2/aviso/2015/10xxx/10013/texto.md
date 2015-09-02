@@ -1,0 +1,8 @@
+Aviso n.º 10013/2015
+Alteração ao Plano de Pormenor n.º 01 de Almancil - Discussão Pública
+Torna-se público que esta edilidade deliberou, por unanimidade, em sessão pública da Câmara Municipal, de 19 de junho de 2015, determinar a abertura do período de discussão pública da proposta de alteração ao Plano, por um período de 20 dias úteis, nos termos do disposto no artigo 89.º Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+O período de discussão pública terá início no 5.º dia útil contado a partir da publicação deste aviso no Diário da República.
+Durante o referido período, a proposta de alteração, a ata da conferência procedimental, os respetivos pareceres emitidos, estarão disponíveis para consulta dos interessados na Divisão de Planeamento e de Informação Geográfica e Cadastro - Edifício Centro Social Autárquico, Rua José da Costa Guerreiro, em Loulé (todos os dias úteis entre as 9:00h - 13:00h e as 14:00h - 17:00h), na sede da Junta de Freguesia de Almancil e na página da Internet da Câmara Municipal de Loulé (www.cm-loule.pt).
+Os interessados podem apresentar reclamações e sugestões, observações e pedidos de esclarecimentos, os quais deverão ser remetidos A/c do Presidente da Câmara Municipal de Loulé, Praça da República, 8104-001 Loulé, pelo correio ou através do endereço eletrónico: cmloule@cm-loule.pt, com indicação expressa de "Alteração do Plano de Pormenor n.º 01 de Almancil - Discussão Pública", e com a identificação e morada de contacto do signatário, para efeitos de resposta, nos termos do artigo 89.º do RJIGT.
+20 de agosto de 2015. - O Presidente da Câmara Municipal de Loulé, Vítor Manuel Gonçalves Aleixo.
+608902421
