@@ -20,4 +20,4 @@ g) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 11
 
 2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.
 
-3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.pt-2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.
+3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.

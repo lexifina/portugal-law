@@ -10,8 +10,10 @@ B) Raças Exóticas
 
 (ver documento original)
 
-Grau de Risco de Erosão Genética
+Graus de Risco de Erosão Genética
 
 Grau A: Risco muito elevado
 
-Outro: Grau B - Risco elevado ou Grau C - Risco moderado
+Grau B - Risco elevado
+
+Grau C - Risco moderado

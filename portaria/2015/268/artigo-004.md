@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Apoio 7.1.8., «Conservação e melhoramentos de recursos genéticos animais»
+## Apoio 7.8.3, "Conservação e melhoramentos de recursos genéticos animais"
 
 # Artigo 4.º
 
