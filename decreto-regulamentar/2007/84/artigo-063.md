@@ -63,3 +63,5 @@ e) Quando aplicável, documento comprovativo da frequência de estágio profissi
 12 - Para os efeitos previstos no número anterior, o cidadão estrangeiro residente deverá fazer prova da alteração dos elementos de identificação.
 
 13 - Sem prejuízo do disposto nos artigos 78.º ou 121.º-E da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o direito de residência não caduca antes de decorridos seis meses sobre o termo da validade do título a renovar.
+
+14 - A autorização de residência concedida nos termos da alínea p) do n.º 1 do artigo 122.º da Lei n.º 23/2007, de 4 de julho, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, e 63/2015, de 30 de junho, e do n.º 18 do artigo 61.º do presente decreto regulamentar só é renovada caso se confirme a inserção no mercado de trabalho, devendo o processo de renovação ser instruído ainda com contrato de trabalho, contrato de prestação de serviços ou comprovativo de inscrição em ordem profissional reconhecida pela lei portuguesa.

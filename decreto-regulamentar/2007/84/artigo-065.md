@@ -1,3 +1,7 @@
+## Secção IV
+
+## Autorização de residência para atividade de investimento
+
 # Artigo 65.º
 
 ### Pedido de renovação do título de autorização de residência permanente
