@@ -10,10 +10,10 @@ b) A sofrer introdução vaginal ou anal de partes do corpo ou objectos;
 
 é punido com pena de prisão de três a dez anos.
 
-2 - Quem, por meio não compreendido no número anterior e abusando de autoridade resultante de uma relação familiar, de tutela ou curatela, ou de dependência hierárquica, económica ou de trabalho, ou aproveitando-se de temor que causou, constranger outra pessoa:
+2 - Quem, por meio não compreendido no número anterior, constranger outra pessoa:
 
 a) A sofrer ou a praticar, consigo ou com outrem, cópula, coito anal ou coito oral; ou
 
-b) A sofrer introdução vaginal ou anal de partes do corpo ou objectos;
+b) A sofrer introdução vaginal ou anal de partes do corpo ou objetos;
 
-é punido com pena de prisão até três anos.
+é punido com pena de prisão de 1 a 6 anos.
