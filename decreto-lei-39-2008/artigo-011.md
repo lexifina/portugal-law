@@ -14,4 +14,4 @@ a) Hotéis;
 
 b) Hotéis-apartamentos (aparthotéis), quando a maioria das unidades de alojamento é constituída por apartamentos;
 
-c) Pousadas, quando explorados directamente pela ENATUR - Empresa Nacional de Turismo, S. A., ou por terceiros mediante celebração de contratos de franquia ou de cessão de exploração, e instalados em imóveis classificados como monumentos nacionais, de interesse público, de interesse regional ou municipal, ou em edifícios que, pela sua antiguidade, valor arquitectónico e histórico, sejam representativos de uma determinada época.
+c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Turismo, S. A., ou por terceiros mediante celebração de contratos de franquia ou de cessão de exploração, e instalados em imóveis classificados como de interesse nacional, de interesse público ou de interesse municipal ou em edifícios que, pela sua antiguidade, valor arquitetónico e histórico, sejam representativos de uma determinada época.

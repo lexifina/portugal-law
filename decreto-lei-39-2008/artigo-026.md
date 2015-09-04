@@ -18,4 +18,4 @@ b) Ao pedido de informação prévia, pedido de licenciamento e à admissão da 
 
 4 - [Revogado].
 
-5 - Juntamente com o parecer, são fixadas, em fase de projeto, a capacidade máxima do empreendimento e a respetiva classificação de acordo com o projeto apresentado, a confirmar nos termos previstos no artigo 36.º
+5 - No âmbito de pedidos de licenciamento ou de comunicações prévias para a realização de obras de edificação e juntamente com o parecer, são fixadas, em fase de projeto, a capacidade máxima do empreendimento e a respetiva classificação de acordo com o projeto apresentado, a confirmar nos termos previstos no artigo 36.º

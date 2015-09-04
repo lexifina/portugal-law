@@ -16,6 +16,6 @@ b) Emitir parecer sobre as operações de loteamento que contemplem a instalaç�
 
 c) Fixar a capacidade máxima e atribuir a classificação dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e dos hotéis rurais.
 
-3 - Ao parecer referido na alínea b) do número anterior aplica-se o disposto no artigo 26.º, com as necessárias adaptações.
+3 - (Revogado).
 
 4 - Para efeitos da instalação de empreendimentos turísticos, os contratos que tenham por objecto a elaboração de um projecto de plano, sua alteração ou revisão, previsto no artigo 6.º-A do regime jurídico dos instrumentos de gestão territorial, podem ser celebrados também com o Turismo de Portugal, I. P., e com as demais entidades públicas representativas de interesses a ponderar no procedimento relativo ao futuro plano.

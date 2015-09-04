@@ -26,4 +26,4 @@ a) Por portaria dos membros do Governo responsáveis pelas áreas do turismo e d
 
 b) Por portaria dos membros do Governo responsáveis pelas áreas do turismo, da administração local e da agricultura e do desenvolvimento rural, no caso das alíneas e) a g).
 
-3 - As tipologias de empreendimentos turísticos identificados no n.º 1 podem ser reconhecidas como turismo de natureza ou associadas a uma marca nacional de áreas classificadas, nos termos previstos no artigo 20.º
+3 - As tipologias de empreendimentos turísticos identificados no n.º 1 podem ser reconhecidas como turismo de natureza ou associadas a uma marca nacional de áreas integradas no sistema nacional de áreas classificadas (SNAC), nos termos previstos, respetivamente, nos artigos 20.º e 20.º-A.

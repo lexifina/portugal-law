@@ -8,7 +8,7 @@
 
 3 - A auditoria de classificação é realizada pelo Turismo de Portugal, I. P., com isenção de taxa, ou pela câmara municipal, consoante os casos, ou ainda por entidade acreditada para o efeito, nos termos a definir por portaria do membro do Governo responsável pela área do turismo.
 
-4 - Nos casos em que as auditorias não se realizem na data marcada, por motivos que sejam imputáveis ao interessado, uma nova auditoria fica sujeita ao pagamento de taxa, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo.
+4 - Nos casos em que, por motivos que sejam imputáveis ao interessado, a auditoria de classificação não se realize na data marcada ou tenha de ser repetida, uma nova auditoria fica sujeita ao pagamento de taxa destinada exclusivamente a suportar as despesas inerentes, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo.
 
 5 - Após a realização da auditoria, o Turismo de Portugal, I. P., ou o presidente da câmara municipal, consoante os casos, fixa a classificação do empreendimento turístico.
 

@@ -12,7 +12,7 @@
 
 5 - [Revogado].
 
-6 - O título constitutivo é registado nos serviços do registo predial previamente à celebração de qualquer contrato de transmissão ou contrato-promessa de transmissão dos lotes ou frações autónomas, após verificação pelo conservador dos requisitos constantes do artigo seguinte, e é oficiosamente comunicado ao Turismo de Portugal, I. P.
+6 - O título constitutivo é registado nos serviços do registo predial previamente à celebração de qualquer contrato de transmissão ou contrato-promessa de transmissão dos lotes ou frações autónomas, após verificação pelo conservador dos requisitos constantes do artigo seguinte, e é oficiosamente comunicado, preferencialmente por via eletrónica, ao Turismo de Portugal, I. P.
 
 7 - Deve fazer parte integrante dos contratos-promessa de transmissão, bem como dos contratos de transmissão de propriedade de lotes ou frações autónomas que integrem o empreendimento turístico em propriedade plural, uma cópia simples do título constitutivo devidamente registado, cópia simples do título referido no n.º 3 do artigo 45.º, bem como a indicação do valor da prestação periódica devida pelo titular daqueles lotes ou frações autónomas no primeiro ano, nos termos do título constitutivo, sob pena de nulidade do contrato.
 

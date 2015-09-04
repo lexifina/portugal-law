@@ -13,3 +13,5 @@
 3 - A caducidade da autorização de utilização para fins turísticos nos termos do artigo 33.º determina o cancelamento da inscrição do empreendimento turístico no RNET.
 
 4 - [Revogado].
+
+5 - O RNET deve ser indexado no sistema de pesquisa online de informação pública previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.

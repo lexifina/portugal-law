@@ -1,18 +1,28 @@
 # Artigo 39.º
 
-### Dispensa de requisitos
+### Dispensa
 
-1 - A dispensa de requisitos pode ser concedida, em alternativa:
+1 - A dispensa de requisitos exigidos para a fixação da classificação pode ser concedida, nos termos previstos nos n.os 2 a 6:
 
-a) Pelo Turismo de Portugal, I. P., no caso dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º ou pela câmara municipal, nos demais casos, nos termos dos n.os 2 a 6;
+a) Pelo Turismo de Portugal, I. P., no caso dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º; ou
 
-b) Pelo Turismo de Portugal, I. P., verificado o cumprimento dos critérios específicos para esse efeito, nos termos dos n.os 7 e 8.
+b) Pela câmara municipal, nos demais casos.
 
-2 - Os requisitos exigidos para a atribuição de classificação podem ser dispensados, oficiosamente ou a requerimento, quando a sua estrita observância for suscetível de:
+2 - Os requisitos exigidos para a fixação da classificação podem ser dispensados, oficiosamente ou a requerimento, quando a sua estrita observância for suscetível de:
 
-«a) Afetar as características arquitetónicas ou estruturais dos edifícios que estejam classificados de interesse nacional, de interesse público ou de interesse municipal ou que possuam valor histórico, arquitetónico, artístico ou cultural;»
+a) Afetar as características arquitetónicas ou estruturais de:
 
-b) Prejudicar ou impedir a classificação de projetos inovadores e valorizantes da oferta turística.
+i) Edifícios que estejam classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal;
+
+ii) Edifícios que se situem em conjuntos ou sítios classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal;
+
+iii) Edifícios que se situem dentro de zonas de proteção de monumentos, conjuntos ou sítios classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal; ou
+
+iv) Edifícios que possuam valor histórico, arquitetónico, artístico ou cultural;
+
+b) Afetar vestígios arqueológicos existentes ou que venham a ser descobertos durante a instalação do empreendimento turístico;
+
+c) Prejudicar ou impedir a classificação de projetos inovadores e valorizantes da oferta turística.
 
 3 - No caso dos conjuntos turísticos (resorts), podem ser dispensados alguns dos requisitos exigidos para a atribuição de classificação para as instalações e equipamentos, quando o conjunto turístico (resort) integrar um ou mais empreendimentos que disponham de tais instalações e equipamentos ou que o próprio conjunto turístico disponha dos mesmos e desde que possam servir ou ser utilizados pelos utentes de todos os empreendimentos integrados no conjunto.
 
