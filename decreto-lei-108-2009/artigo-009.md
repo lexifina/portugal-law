@@ -6,7 +6,7 @@
 
 ### Elementos do RNAAT
 
-1 - O Turismo de Portugal, I. P., organiza e mantém atualizado o RNAAT, que integra o registo das empresas de animação turística e dos operadores marítimo-turísticos que tenham realizado mera comunicação prévia e comunicação prévia com prazo, quando aplicável, nos termos do presente decreto-lei, de acesso disponível ao público no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet do Turismo de Portugal, I. P..
+1 - O Turismo de Portugal, I. P., organiza e mantém atualizado o RNAAT, que integra o registo das empresas de animação turística e dos operadores marítimo-turísticos que tenham realizado mera comunicação prévia e comunicação prévia com prazo, quando aplicável, nos termos do presente decreto-lei, acessível ao público através do balcão do empreendedor previsto nos Decretos-Leis n.os 92/2010, de 26 de julho, e 48/2011, de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P..
 
 2 - O registo das empresas de animação turística e dos operadores marítimo-turísticos inscritos no RNAAT contém:
 
@@ -18,7 +18,7 @@ c) (Revogada.)
 
 d) A identificação pormenorizada das atividades de animação que a empresa estabelecida em território nacional exerce;
 
-e) Referência ao reconhecimento da empresa como de turismo de natureza, quando aplicável;
+e) Referência ao reconhecimento de atividades como turismo de natureza, quando aplicável;
 
 f) As marcas utilizadas pela empresa estabelecida em território nacional;
 
@@ -27,3 +27,5 @@ g) Os números das apólices de seguros obrigatórios, ou de seguros, garantias 
 h) As sanções aplicadas;
 
 i) As menções distintivas de qualidade quando as mesmas constem da comunicação prévia referida no número anterior.
+
+3 - O RNAAT deve ser indexado no sistema de pesquisa online de informação pública previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.

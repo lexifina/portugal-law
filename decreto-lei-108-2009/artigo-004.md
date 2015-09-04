@@ -2,7 +2,11 @@
 
 ### Tipo de actividades
 
-1 - As atividades de animação turística desenvolvidas em áreas classificadas ou outras com valores naturais designam-se por atividades de turismo de natureza, desde que sejam reconhecidas como tal, nos termos previstos no artigo 13.º e no capítulo v.
+1 - Sem prejuízo dos demais requisitos aplicáveis ao abrigo do presente decreto-lei, o exercício de atividades de animação turística:
+
+a) Dentro das áreas integradas no sistema nacional de áreas classificadas (SNAC) e fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, depende do seu reconhecimento como turismo de natureza, nos termos previstos no artigo 20.º;
+
+b) Nas demais áreas do território nacional, não depende do seu reconhecimento como turismo de natureza, sendo este facultativo, nos termos previstos no artigo 20.º
 
 2 - As actividades de animação turística desenvolvidas mediante utilização de embarcações com fins lucrativos designam-se por actividades marítimo-turísticas e integram as seguintes modalidades:
 

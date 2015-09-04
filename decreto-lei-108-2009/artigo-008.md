@@ -8,6 +8,6 @@
 
 3 - A utilização de marcas por empresas de animação turística e operadores marítimo-turísticos inscritos no RNAAT carece, nos termos do artigo 10.º, de comunicação ao Turismo de Portugal, I. P..
 
-4 - A designação «turismo de natureza» e o respectivo logótipo só podem ser usados por empresas reconhecidas como tal nos termos do artigo 20.º
+4 - A designação «turismo de natureza» e o respetivo logótipo só podem ser usados por empresas cujas atividades sejam reconhecidas como tal, nos termos previstos no artigo 20.º
 
-5 - O logótipo a que se refere o número anterior é aprovado por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do turismo.
+5 - [Revogado].

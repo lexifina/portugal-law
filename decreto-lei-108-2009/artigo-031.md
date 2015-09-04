@@ -18,7 +18,7 @@ f) A utilização da designação «Turismo de Natureza» associada à exibiçã
 
 g) A não comunicação da alteração dos elementos constantes do registo, em violação do disposto no artigo 10.º ou dos n.os 6 a 8 do artigo 27.º;
 
-h) O exercício de atividades não reconhecidas como turismo de natureza na Rede Nacional de Áreas Protegidas, fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, em violação do disposto no artigo 24.º;
+h) O exercício de atividades não reconhecidas como turismo de natureza nas áreas integradas no SNAC, fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, em violação do disposto na alínea a) do n.º 1 do artigo 4.º;
 
 i) A violação ao disposto no artigo 25.º, relativamente às condições de funcionamento das instalações, equipamento e material utilizado;
 

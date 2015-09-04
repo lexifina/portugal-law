@@ -12,7 +12,7 @@ a) Inscrição no RNAAT pela regular apresentação de mera comunicação prévi
 
 b) Contratação dos seguros obrigatórios ou dos seguros, garantias financeiras ou instrumentos equivalentes, nos termos dos artigos 27.º a 28.º-A.
 
-2 - A inscrição no RNAAT das empresas estabelecidas em território nacional é realizada através de formulário eletrónico disponibilizado no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet do Turismo de Portugal, I. P., e deve incluir:
+2 - A inscrição no RNAAT das empresas estabelecidas em território nacional é realizada através de formulário eletrónico acessível ao público através do balcão do empreendedor previsto nos Decretos-Leis n.os 92/2010, de 26 de julho, e 48/2011, de 1 de abril, disponível através do Portal do Cidadão, e do sítio na Internet do Turismo de Portugal, I. P., e deve incluir:
 
 a) A identificação do interessado;
 
@@ -24,7 +24,7 @@ d) A indicação do nome adoptado para o estabelecimento e de marcas que a empre
 
 e) As actividades de animação turística que a empresa pretenda exercer, especificando, no caso das actividades marítimo-turísticas, as modalidades a exercer;
 
-f) A indicação de interesse em obter o reconhecimento da actividade de turismo de natureza, quando se verifique.
+f) A indicação do interesse em obter o reconhecimento de atividades como turismo de natureza, quando se verifique.
 
 3 - Sem prejuízo do disposto na alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho, a mera comunicação prévia referida no número anterior é instruída com os seguintes elementos:
 
@@ -40,7 +40,7 @@ e) Programa detalhado das actividades a desenvolver, com indicação dos equipam
 
 f) Declaração de compromisso em como os equipamentos e as instalações, quando existam, satisfazem os requisitos legais;
 
-g) Documentos previstos no n.º 1 do artigo 20.º, quando se pretenda o reconhecimento de actividades de turismo de natureza.
+g) Documentos previstos no artigo 20.º e na portaria prevista no respetivo n.º 4, quando se pretenda o reconhecimento de atividades como turismo de natureza;
 
 h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos em que sejam devidas.
 

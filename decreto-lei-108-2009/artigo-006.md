@@ -6,4 +6,4 @@
 
 2 - Sem prejuízo do disposto no artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho, antes do início da atividade, deve ser prestada aos clientes informação completa e clara sobre as regras de utilização de equipamentos, legislação ambiental relevante e procedimentos a cumprir nas diferentes situações de perigo ou emergência previsíveis, bem como informação relativa à formação e experiência profissional dos seus colaboradores.
 
-3 - As empresas que desenvolvam actividades reconhecidas como turismo de natureza devem disponibilizar ao público informação sobre a experiência e formação dos seus colaboradores em matéria de ambiente, património natural e conservação da natureza.
+3 -[Revogado].
