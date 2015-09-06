@@ -14,4 +14,6 @@
 
 6 - A prestação de trabalho a tempo parcial cessa no termo do período para que foi concedida ou no da sua prorrogação, retomando o trabalhador a prestação de trabalho a tempo completo.
 
-7 - Constitui contra-ordenação grave a violação do disposto neste artigo.
+7 - O trabalhador que opte pelo trabalho em regime de tempo parcial nos termos do presente artigo não pode ser penalizado em matéria de avaliação e de progressão na carreira.
+
+8 - Constitui contra-ordenação grave a violação do disposto neste artigo.

@@ -2,7 +2,7 @@
 
 ### Licença parental exclusiva do pai
 
-1 - É obrigatório o gozo pelo pai de uma licença parental de 10 dias úteis, seguidos ou interpolados, nos 30 dias seguintes ao nascimento do filho, cinco dos quais gozados de modo consecutivos imediatamente a seguir a este.
+1 - É obrigatório o gozo pelo pai de uma licença parental de 15 dias úteis, seguidos ou interpolados, nos 30 dias seguintes ao nascimento do filho, cinco dos quais gozados de modo consecutivo imediatamente a seguir a este.
 
 2 - Após o gozo da licença prevista no número anterior, o pai tem ainda direito a 10 dias úteis de licença, seguidos ou interpolados, desde que gozados em simultâneo com o gozo da licença parental inicial por parte da mãe.
 

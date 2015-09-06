@@ -12,6 +12,10 @@ b) O disposto na alínea anterior se aplique enquanto os trabalhadores da equipa
 
 3 - Ocorrendo alteração por entrada ou saída de trabalhadores na composição da equipa, secção ou unidade económica, o disposto no número anterior aplica-se enquanto dessa alteração não resultar percentagem inferior à nele indicada.
 
-4 - O regime de adaptabilidade instituído nos termos dos n.os 1 ou 2 não se aplica a trabalhador abrangido por convenção colectiva que disponha de modo contrário a esse regime ou, relativamente a regime referido no n.º 1, a trabalhador representado por associação sindical que tenha deduzido oposição a portaria de extensão da convenção colectiva em causa.
+4 - Excetua-se a aplicação do regime de adaptabilidade instituído nos termos dos n.os 1 ou 2 nas seguintes situações:
+
+a) Trabalhador abrangido por convenção coletiva que disponha de modo contrário a esse regime ou, relativamente a regime referido no n.º 1, a trabalhador representado por associação sindical que tenha deduzido oposição a portaria de extensão da convenção coletiva em causa; ou
+
+b) Trabalhador com filho menor de 3 anos de idade que não manifeste, por escrito, a sua concordância.
 
 5 - Constitui contra-ordenação grave a prática de horário de trabalho em violação do disposto neste artigo.

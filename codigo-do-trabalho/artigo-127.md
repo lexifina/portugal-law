@@ -28,10 +28,10 @@ j) Manter actualizado, em cada estabelecimento, o registo dos trabalhadores com 
 
 3 - O empregador deve proporcionar ao trabalhador condições de trabalho que favoreçam a conciliação da actividade profissional com a vida familiar e pessoal.
 
-4 - (Revogado.)
+4 - O empregador deve afixar nas instalações da empresa toda a informação sobre a legislação referente ao direito de parentalidade ou, se for elaborado regulamento interno a que alude o artigo 99.º, consagrar no mesmo toda essa legislação.
 
-5 - O empregador deve comunicar ao serviço com competência inspetiva do ministério responsável pela área laboral a adesão ao fundo de compensação do trabalho ou a mecanismo equivalente, previstos em legislação específica.
+5 - (Revogado).
 
-6 - A alteração do elemento referido no número anterior deve ser comunicada no prazo de 30 dias.
+6 - O empregador deve comunicar ao serviço com competência inspetiva do ministério responsável pela área laboral a adesão ao fundo de compensação do trabalho ou a mecanismo equivalente, previstos em legislação específica.
 
-7 - Constitui contraordenação leve a violação do disposto na alínea j) do n.º 1 e nos n.os 5 e 6.
+7 - A alteração do elemento referido no número anterior deve ser comunicada no prazo de 30 dias.

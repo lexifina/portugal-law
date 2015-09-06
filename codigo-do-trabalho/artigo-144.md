@@ -10,4 +10,4 @@
 
 4 - O empregador deve afixar informação relativa à existência de postos de trabalho permanentes que estejam disponíveis na empresa ou estabelecimento.
 
-5 - Constitui contra-ordenação leve a violação do disposto neste artigo.
+5 - Constitui contraordenação leve a violação do disposto nos n.os 1, 2 e 4 e contraordenação grave a violação do disposto no n.º 3.

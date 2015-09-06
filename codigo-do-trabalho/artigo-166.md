@@ -6,9 +6,11 @@
 
 2 - Verificadas as condições previstas no n.º 1 do artigo 195.º, o trabalhador tem direito a passar a exercer a actividade em regime de teletrabalho, quando este seja compatível com a actividade desempenhada.
 
-3 - O empregador não pode opor-se ao pedido do trabalhador nos termos do número anterior.
+3 - Além das situações referidas no número anterior, o trabalhador com filho com idade até 3 anos tem direito a exercer a atividade em regime de teletrabalho, quando este seja compatível com a atividade desempenhada e a entidade patronal disponha de recursos e meios para o efeito.
 
-4 - O contrato está sujeito a forma escrita e deve conter:
+4 - O empregador não pode opor-se ao pedido do trabalhador nos termos dos números anteriores.
+
+5 - O contrato está sujeito a forma escrita e deve conter:
 
 a) Identificação, assinaturas e domicílio ou sede das partes;
 
@@ -22,8 +24,8 @@ e) Propriedade dos instrumentos de trabalho bem como o responsável pela respect
 
 f) Identificação do estabelecimento ou departamento da empresa em cuja dependência fica o trabalhador, bem como quem este deve contactar no âmbito da prestação de trabalho.
 
-5 - O trabalhador em regime de teletrabalho pode passar a trabalhar no regime dos demais trabalhadores da empresa, a título definitivo ou por período determinado, mediante acordo escrito com o empregador.
+6 - O trabalhador em regime de teletrabalho pode passar a trabalhar no regime dos demais trabalhadores da empresa, a título definitivo ou por período determinado, mediante acordo escrito com o empregador.
 
-6 - A forma escrita é exigida apenas para prova da estipulação do regime de teletrabalho.
+7 - A forma escrita é exigida apenas para prova da estipulação do regime de teletrabalho.
 
-7 - Constitui contra-ordenação grave a violação do disposto no n.º 3 e constitui contra-ordenação leve a violação do disposto no n.º 4.
+8 - Constitui contra-ordenação grave a violação do disposto no n.º 3 e constitui contra-ordenação leve a violação do disposto no n.º 4.

@@ -16,4 +16,6 @@ c) Estabelecer um período para intervalo de descanso não superior a duas horas
 
 4 - O trabalhador que trabalhe em regime de horário flexível pode efectuar até seis horas consecutivas de trabalho e até dez horas de trabalho em cada dia e deve cumprir o correspondente período normal de trabalho semanal, em média de cada período de quatro semanas.
 
-5 - Constitui contra-ordenação grave a violação do disposto no n.º 1.
+5 - O trabalhador que opte pelo trabalho em regime de horário flexível, nos termos do presente artigo, não pode ser penalizado em matéria de avaliação e de progressão na carreira.
+
+6 - Constitui contra-ordenação grave a violação do disposto no n.º 1.
