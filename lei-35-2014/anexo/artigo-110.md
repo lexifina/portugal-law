@@ -16,7 +16,9 @@ c) Horário desfasado;
 
 d) Jornada contínua;
 
-e) Trabalho por turnos.
+e) Meia jornada;
+
+f) Trabalho por turnos.
 
 2 - Para além dos horários referidos no número anterior, podem ser fixados horários específicos de harmonia com o previsto na presente lei.
 
