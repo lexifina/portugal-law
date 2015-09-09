@@ -8,9 +8,11 @@ a) Documento comprovativo da posse do grau de especialista da especialidade a qu
 
 b) Documento comprovativo, passado pelo estabelecimento ou estabelecimentos, do tempo de exercício das funções com o grau previsto na alínea anterior;
 
-c) Cópia da cédula profissional atribuída pela Ordem dos Médicos;
+c) Os candidatos ao grau de consultor que o pretendam obter numa área de subespecialização devem apresentar documento comprovativo da posse do título da subespecialidade a que respeita o procedimento;
 
-d) Sete exemplares do curriculum vitae.
+d) Cópia da cédula profissional atribuída pela Ordem dos Médicos;
+
+e) Sete exemplares do curriculum vitae.
 
 2 - Os órgãos ou serviços emitem a documentação solicitada pelos candidatos ou pelo júri, exigível para a candidatura, no prazo de três dias úteis contados da data do pedido.
 
