@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 76/2015
+A concessão de incentivos fiscais ao investimento constitui um elemento crucial para a criação de condições para a captação do investimento essencial para o relançamento e modernização da economia portuguesa.
+Para que estes objetivos não sejam frustrados é, no entanto, fundamental o rigor na fiscalização e acompanhamento dos projetos apoiados.
+Neste âmbito, em resultado de alterações substanciais dos pressupostos que fundaram determinados contratos de investimento, verifica-se a necessidade de proceder a ajustamentos nos contratos de investimento celebrados e nos respetivos anexos que deles fazem parte integrante, bem como à resolução de contratos de investimento nos termos previstos nos referidos contratos e seus anexos e do artigo 13.º do Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 249/2009, de 23 de setembro, alterado e republicado pelo Decreto-Lei n.º 82/2013, de 17 de junho, relativamente aos quais se verificou não estarem reunidas as condições para o integral cumprimento dos objetivos neles estabelecidos.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as seguintes minutas de aditamento aos contratos e respetivos anexos a celebrar pelo Estado Português:
+i) Minutas de aditamento aos contratos de investimento a celebrar entre, por um lado, o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E.P.E. (AICEP, E.P.E.), e, por outro lado, a AMS - BR Star Paper, S.A.;
+ii) Minuta de aditamento ao contrato fiscal de investimento a celebrar entre, por um lado, o Estado Português, representado pela AICEP, E.P.E., e, por outro lado, Continental Mabor - Indústria de Pneus, S.A.
+2 - Determinar que os originais do aditamento aos contratos referidos no número anterior ficam arquivados na AICEP, E.P.E.;
+3 - Determinar a resolução dos seguintes contratos celebrados pelo Estado Português:
+a) Contrato de investimento e respetivos anexos, celebrado em 16 de julho de 2010 entre o Estado Português, representado pela AICEP, E.P.E., e a SABERSAL - Promoção Turística e Imobiliária, S.A., na sequência da Resolução do Conselho de Ministros n.º 51/2010, de 8 de julho;
+b) Contrato de investimento e respetivos anexos, celebrado em 16 de julho de 2010 entre o Estado Português, representado pela AICEP, E.P.E., e a SOLAGO - Investimentos Turísticos, Lda., na sequência da Resolução do Conselho de Ministros n.º 51/2010, de 8 de julho;
+c) Contrato de investimento e respetivos anexos, celebrado em 24 de outubro de 2012 entre o Estado Português, representado pela AICEP, E.P.E., e a AEROMEC - Mecânica de Aeronaves, S.A., na sequência da Resolução do Conselho de Ministros n.º 58/2012, de 14 de junho;
+d) Contrato de investimento e contrato de concessão de benefícios fiscais, celebrados em 17 de janeiro de 2011 entre o Estado Português, representado pela AICEP, E.P.E., e a Naval Ria - Docas, Construções e Reparações Navais, S.A., na sequência da Resolução do Conselho de Ministros n.º 4/2011, de 12 de janeiro.
+4 - Determinar que, nos termos do clausulado dos contratos referidos no n.º 3 do artigo 14.º do Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 249/2009, de 23 de setembro, alterado e republicado pelo Decreto-Lei n.º 82/2013, de 17 de junho, a resolução dos mesmos implica a perda total dos benefícios fiscais concedidos.
+5 - Determinar que a presente resolução reporta os seus efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 3 de setembro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
