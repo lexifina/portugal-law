@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 75/2015
+A Polícia de Segurança Pública pretende adquirir bens e serviços para assegurar a manutenção e assistência técnica dos veículos multimarca adstritos aos Comandos Regionais e Distritais, com recurso ao procedimento pré-contratual de concurso público com publicação de anúncio no Jornal Oficial da União Europeia, em virtude da aproximação do termo de execução do atual contrato de manutenção.
+A Secretaria-Geral do Ministério da Administração Interna é a entidade competente para promover o lançamento do referido procedimento pré-contratual, nos termos das alíneas a) e b) do n.º 3 do artigo 2.º do Decreto Regulamentar n.º 29/2012, de 13 de março, alterado pelos Decretos-Leis n.os 161-A/2013, de 2 de dezembro, e 112/2014, de 11 de julho.
+O contrato a celebrar na sequência do referido procedimento tem a duração de um ano, com possibilidade de renovação por mais dois anos, sendo o encargo orçamental máximo, para os anos económicos de 2016 a 2018, de 4 041 450,00 EUR, ao qual acresce o IVA à taxa legal em vigor.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Polícia de Segurança Pública (PSP) a realizar a despesa relativa à aquisição de bens e serviços para assegurar a manutenção e a assistência técnica dos veículos multimarca adstritos aos Comandos Regionais e Distritais, até ao montante máximo de 1 347 150,00 EUR, para o ano de 2016, com recurso ao procedimento pré-contratual de concurso público com publicação de anúncio no Jornal Oficial da União Europeia, com possibilidade de renovação anual em 2017 e 2018, até ao montante global máximo de 4 041 450,00 EUR, ao qual acresce o IVA à taxa legal em vigor.
+2 - Determinar que os encargos resultantes da aquisição referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2016 - 1 347 150,00 EUR;
+b) 2017 - 1 347 150,00 EUR;
+c) 2018 - 1 347 150,00 EUR.
+3 - Estabelecer que os montantes fixados no número anterior, para cada ano económico, podem ser acrescidos do saldo apurado no ano que antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da PSP.
+5 - Delegar, com a faculdade de subdelegação, na Ministra da Administração Interna, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no n.º 1, designadamente a competência para aprovar as peças do procedimento, designar o júri, praticar o correspondente ato de adjudicação, bem como aprovar a minuta de contrato a celebrar.
+6 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 3 de setembro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
