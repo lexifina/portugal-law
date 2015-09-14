@@ -2,4 +2,4 @@
 
 ### Autoridade competente para a autorização e supervisão de contrapartes centrais
 
-A CMVM é a autoridade competente para supervisão de contrapartes centrais, nos termos e para os efeitos do Regulamento EMIR e do Regulamento (UE) 2021/23.
+Nos termos do n.º 1 do artigo 22.º do Regulamento, a autoridade competente para a autorização e supervisão de contrapartes centrais é a CMVM.

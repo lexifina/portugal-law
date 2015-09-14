@@ -6,14 +6,14 @@
 
 ### Contraordenações graves
 
-Constitui contraordenação grave a violação pelas contrapartes financeiras e contrapartes não financeiras dos deveres constantes dos Regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional, nomeadamente:
+Constituem contraordenação grave os seguintes factos ilícitos típicos:
 
-a) Comunicação de dados respeitantes a contratos de derivados;
+a) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de comunicação de dados respeitantes a contratos de derivados, previsto nos n.os 1 e 3 do artigo 9.º do Regulamento e nos respetivos atos delegados;
 
-b) Conservação de dados respeitantes a contratos de derivados;
+b) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de conservação de dados respeitantes a contratos de derivados, previsto no n.º 2 do artigo 9.º do Regulamento;
 
-c) Avaliação diária do saldo dos contratos em curso;
+c) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de avaliação diária do saldo dos contratos em curso, previsto no n.º 2 do artigo 11.º do Regulamento e nos respetivos atos delegados;
 
-d) Divulgação pública de informações sobre a isenção concedida;
+d) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de divulgação pública de informações sobre a isenção concedida, previsto no n.º 11 do artigo 11.º do Regulamento e nos respetivos atos delegados;
 
-e) Deveres impostos na regulamentação emitida pelas entidades supervisoras, nomeadamente a ASF, o Banco de Portugal e a CMVM, para assegurar a supervisão do cumprimento dos deveres impostos pelos regulamentos EMIR ou OFVM.
+e) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, dos deveres impostos na regulamentação emitida pelas entidades supervisoras, nomeadamente o Banco de Portugal, a CMVM e o Instituto de Seguros de Portugal para assegurar a supervisão do cumprimento dos deveres impostos pelo Regulamento.

@@ -2,16 +2,14 @@
 
 ### Coimas
 
-1 - As contraordenações graves são puníveis com coima de (euro) 2 500 a (euro) 2 500 000 e de (euro) 1 500 a (euro) 1 500 000, consoante sejam aplicadas a pessoa coletiva ou singular.
+1 - As contraordenações graves são puníveis nos seguintes termos:
 
-2 - As contraordenações muito graves são puníveis com coima de (euro) 10 000 a (euro) 10 000 000 e de (euro) 5 000 a (euro) 5 000 000, consoante sejam aplicadas a pessoa coletiva ou singular.
+a) Quando a infração for praticada por uma contraparte financeira, com coima de EUR 3 000,00 a EUR 1 500 000,00 e de EUR 1 000,00 a EUR 500 000,00, consoante seja aplicada a pessoa coletiva ou singular;
 
-3 - A contraordenação muito grave prevista na subalínea iv) da alínea a) do n.º 1 do artigo 7.º é punível com coima de € 15 000 a € 15 000 000 e de € 5000 a € 5 000 000, consoante seja aplicada a pessoa coletiva ou singular.
+b) Quando a infração for praticada por uma contraparte não financeira, com coima de EUR 600,00 a EUR 300 000,00 e de EUR 200,00 a EUR 100 000,00, consoante seja aplicada a pessoa coletiva ou singular.
 
-4 - O limite máximo das coimas aplicáveis nos termos dos números anteriores é elevado ao maior dos seguintes valores, sempre que determináveis:
+2 - As contraordenações muito graves são punidas nos seguintes termos:
 
-a) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas; ou
+a) Quando a infração for praticada por uma contraparte financeira, com coima de EUR 10 000,00 a EUR 5 000 000,00 e de EUR 4 000,00 a EUR 2 000 000,00, consoante seja aplicada a pessoa coletiva ou singular;
 
-b) No caso das contraordenações previstas no n.º 2 do artigo 7.º, o dobro do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas;
-
-c) No caso de contraordenações praticadas por pessoa coletiva, 10 % do volume de negócios, de acordo com as últimas contas individuais, ou consolidadas caso esteja sujeita à sua elaboração, que tenham sido aprovadas pelo órgão de administração.
+b) Quando a infração for praticada por uma contraparte não financeira, com coima de EUR 2 000,00 a EUR 1 000 000,00 e de EUR 800,00 a EUR 400 000,00, consoante seja aplicada a pessoa coletiva ou singular.
