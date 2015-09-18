@@ -18,6 +18,6 @@ e) O valor bruto dos incrementos patrimoniais, não se aproveitando qualquer exc
 
 f) O valor bruto dos rendimentos de pensões;
 
-g) O valor global das prestações sociais pagas pelos serviços e entidades do Ministério da Solidariedade e da Segurança Social;
+g) Todas as prestações, subsídios ou apoios sociais atribuídos de forma continuada, com exceção das prestações por encargos familiares, encargos no domínio da deficiência e da dependência do subsistema de proteção familiar e prestações pecuniárias de caráter eventual concedidas, no âmbito do subsistema de ação social;
 
 h) O valor global dos apoios à habitação atribuídos com carácter de regularidade;

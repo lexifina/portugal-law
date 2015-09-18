@@ -4,7 +4,7 @@
 
 1 - A verificação da situação de insuficiência económica de cada utente é realizada pelos serviços do Ministério da Saúde junto da AT por via electrónica e automatizada.
 
-2 - A solicitação dos serviços do Ministério da Saúde, a AT apura o rendimento médio mensal do agregado familiar em que o utente se integra, de acordo com a informação constante da sua base de dados fiscal e a informação reportada pelos serviços da segurança social.
+2 - A solicitação dos serviços do Ministério da Saúde, a AT apura o rendimento médio mensal do agregado familiar em que o utente se integra, de acordo com a informação constante na base de dados fiscal e a informação reportada pelos serviços da segurança social, com exclusão das prestações por encargos familiares, encargos no domínio da deficiência e da dependência do subsistema de proteção familiar e prestações pecuniárias de caráter eventual concedidas, no âmbito do subsistema de ação social.
 
 3 - Após o apuramento previsto no número anterior, a AT comunica ao Ministério da Saúde se o valor resultante excede ou não o montante correspondente a uma vez e meia o valor do Indexante dos Apoios Sociais (IAS).
 
