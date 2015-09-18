@@ -54,7 +54,7 @@ iii) Medidas de suporte respiratório, como oxigenoterapia e aspiração de secr
 
 iv) Prevenção ou tratamento de úlceras;
 
-v) Manutenção e tratamento de estornas;
+v) Manutenção e tratamento de estomas;
 
 vi) Cuidados por síndromes, potencialmente recuperáveis a médio prazo, designadamente, depressão, confusão, desnutrição, eficiência e ou segurança da locomoção;
 
@@ -76,7 +76,9 @@ v) Internamento, por apresentar algum dos seguintes síndromes: depressão, conf
 
 vi) Internamento por dificuldades de apoio familiar ou necessidade de descanso do principal cuidador, não podendo a duração do(s) respetivo(s) internamento(s) ser de duração superior a 90 dias consecutivos, com o limite anual de 90 dias;
 
-vii) Programa de reabilitação funcional ao nível da manutenção.
+vii) Programa de reabilitação funcional ao nível da manutenção;
+
+viii) Tratamento de úlceras de pressão e ou feridas.
 
 d) Para unidade de ambulatório, a situação em que o doente requeira cuidados continuados integrados de suporte, de promoção de autonomia e apoio social, em regime de ambulatório e não reúna condições para ser cuidado no domicílio.
 
@@ -94,7 +96,7 @@ d) Doente infetado, cujo regime terapêutico inclua antibióticos de uso exclusi
 
 4 - Constituem ainda critérios para efeitos de não admissão em unidades de longa duração e manutenção os seguintes:
 
-a) Doente com úlceras de pressão;
+a)Revogada;
 
 b) Doentes com necessidade de medidas de suporte respiratório de forma permanente ou quase permanente;
 
