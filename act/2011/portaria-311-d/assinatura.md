@@ -1,0 +1,1 @@
+Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo. - O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares.
