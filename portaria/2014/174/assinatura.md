@@ -1,0 +1,1 @@
+O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis, em 4 de setembro de 2014. - O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 28 de agosto de 2014. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho, em 1 de setembro de 2014.
