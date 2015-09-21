@@ -4,7 +4,7 @@
 
 1 - As entidades regionais da RAN têm a seguinte composição:
 
-a) Um representante da área governativa da agricultura, a designar de entre os dirigentes dos serviços, pelo membro do Governo responsável pela área da agricultura, que presidirá;
+a) O director regional de Agricultura e Pescas territorialmente competente, que presidirá;
 
 b) Um representante da CCDR, cuja área de actuação coincida maioritariamente com a região da RAN em causa;
 
