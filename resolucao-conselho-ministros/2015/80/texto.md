@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 80/2015
+O XIX Governo Constitucional assume no seu Programa o propósito claro de reforçar progressivamente a autonomia dos estabelecimentos de educação e ensino, designadamente nos planos pedagógico e organizacional.
+O Decreto-Lei n.º 139/2012, de 5 de julho, alterado pelos Decretos-Leis n.os 91/2013, de 10 de julho, e 176/2014, de 12 de dezembro, estabelece que, no âmbito da sua autonomia, as escolas, no 1.º ciclo do ensino básico, desenvolvem atividades de enriquecimento curricular, de caráter facultativo para os alunos, com um cariz formativo, cultural e lúdico, que complementem as componentes do currículo. Deste modo, cada estabelecimento de ensino do 1.º ciclo garante a oferta de uma diversidade de atividades que considera relevantes para a formação integral dos seus alunos e articula com as famílias uma ocupação adequada dos tempos não letivos.
+A Portaria n.º 644-A/2015, de 24 de agosto, define as regras a observar na oferta das atividades de enriquecimento curricular (AEC), nos estabelecimentos públicos de educação nos quais funciona o 1.º ciclo do ensino básico, considerando-as como atividades de caráter facultativo e de natureza eminentemente lúdica, formativa e cultural que incidam, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e voluntariado e da dimensão europeia na educação.
+A referida portaria estabelece o regime de acesso ao apoio financeiro a conceder pelo Ministério da Educação e Ciência (MEC) no âmbito do programa das AEC, determinando que podem candidatar-se ao apoio as autarquias locais, as associações de pais e de encarregados de educação e as instituições particulares de solidariedade social.
+O apoio previsto na Portaria n.º 644-A/2015, de 24 de agosto, consiste numa comparticipação financeira a conceder pelo MEC às entidades promotoras.
+O montante da comparticipação financeira concedida, o objetivo a que se destina e as obrigações específicas a que a entidade promotora fica sujeita constam de contrato-programa a celebrar entre o MEC, através da Direção-Geral dos Estabelecimentos Escolares, e a entidade promotora.
+Neste sentido, revela-se necessária a atribuição de apoio financeiro pelo Estado, através do MEC, a entidades promotoras das AEC no 1.º ciclo do ensino básico que celebrem contratos-programa para o ano letivo de 2015-2016.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a realização da despesa relativa aos apoios decorrentes da celebração de contratos-programa no âmbito das atividades de enriquecimento curricular no 1.º ciclo do ensino básico, para o ano letivo de 2015-2016, até ao montante global de 28 910 555,00 EUR.
+2 - Determinar que os encargos financeiros resultantes dos apoios referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+a) 2015 - 11 766 808,00 EUR;
+b) 2016 - 17 143 747,00 EUR.
+3 - Determinar que os encargos financeiros resultantes dos apoios são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento da Direção-Geral dos Estabelecimentos Escolares.
+4 - Estabelecer que o montante fixado na alínea b) do n.º 2, para o ano económico de 2016, pode ser acrescido do saldo apurado no ano económico de 2015.
+5 - Delegar, com a faculdade de subdelegação, no Ministro da Educação e Ciência, a competência para a prática de todos os atos a realizar no âmbito dos contratos-programa referidos no n.º 1.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 10 de setembro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
