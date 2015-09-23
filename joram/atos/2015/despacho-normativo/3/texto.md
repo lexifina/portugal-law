@@ -1,0 +1,33 @@
+# Despacho normativo n.º 3/2015
+
+**Emissor:** SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+
+**Publicação:** JORAM, I série, n.º 147/2015, de 2015-09-23
+
+**Sumário:** Determina o reembolso dos encargos assumidos, com os pagamentos das quotas da Ordem dos Advogados e das contribuições para a Caixa de Previdência, por parte dos técnicos superiores juristas do Instituto de Segurança Social da Madeira, IP- RAM (ISSM, IP-RAM), que sejam constituídos mandatários judiciais por deliberação do respetivo Conselho Diretivo.
+
+## Texto
+
+Despacho normativo n.º 3/2015
+Considerando que, ao abrigo do Despacho Normativo n.º 21/94, de 25 de julho de 1994, do Secretário Regional dos Assuntos Sociais, publicado no JORAM, I Série, número 143, de 2 de novembro de 1994, o Instituto de Segurança Social da Madeira, IP-RAM, reembolsa os técnicos licenciados em Direito do seu mapa de pessoal, que exercem o mandato judicial, dos encargos assumidos pelos mesmos com o pagamento das quotas da respetiva Ordem dos Advogados e com o pagamento das contribuições para a correspondente Caixa de Previdência.
+Considerando que o cumprimento de algumas das atribuições cometidas ao Instituto de Segurança Social da Madeira, IP-RAM, obriga a que o mesmo tenha ao seu serviço técnicos licenciados em Direito, em condições de exercer patrocínio judiciário que lhes permita representá-lo em juízo, nomeadamente, em processos de insolvência, reclamação de créditos e outros.
+Considerando que, nos termos do disposto no artigo 29.º do Novo Regulamento da Caixa de Previdência dos Advogados e Solicitadores, aprovado pelo Decreto-Lei n.º 119/2015, de 29 de junho, são obrigatoriamente inscritos como beneficiários ordinários da Caixa de Previdência dos Advogados e Solicitadores todos os Advogados e Advogados Estagiários inscritos na Ordem do Advogados, sendo que, nos termos do n.º 1 do artigo 79.º do mesmo diploma legal, os beneficiários estão obrigados a pagar mensalmente, até ao último dia de cada mês, uma contribuição calculada pela aplicação da taxa de referência a uma remuneração convencional, escolhida pelos advogados, de entre 18 escalões, todos indexados à remuneração mínima mensal mais elevada garantida por lei.
+Considerando que, nos termos da alínea e) do n.º 2 do artigo 80.º do Novo Regulamento Caixa de Previdência dos Advogados e Solicitadores, o escalão mínimo de remuneração é o 5.º escalão, que corresponde a uma remuneração convencional de dois salários mínimos, para advogados com mais de três anos de inscrição.
+Considerando que os processos judiciais em que o Instituto de Segurança Social da Madeira, IP-RAM, é parte têm crescido em quantidade e em complexidade, abrangendo diversas áreas do direito e diversas instâncias judiciais.
+Considerando que na quase totalidade dos processos judiciais em que o Instituto de Segurança Social da Madeira, IP-RAM é parte ou de qualquer modo necessita de intervir, é necessária a representação do mandatário judicial, cujo mandato apenas pode ser conferido a advogados com inscrição em vigor na Ordem dos Advogados, nos termos do n.º 1 do artigo 61.º do Estatuto da Ordem dos Advogados.
+Considerando que a grande maioria dos processos judiciais são tramitados por via eletrónica, através das plataformas citius e sitaf.
+Considerando que a tramitação eletrónica de envio de peças processuais e de receção de notificações eletrónicas, através daquelas plataformas, apenas é permitida a advogados, mediante a utilização dos certificados digitais emitidos pela Ordem dos Advogados.
+Considerando que a emissão e utilização desses certificados depende da inscrição na Ordem dos Advogados e do pagamento das contribuições para a respetiva Caixa de Previdência.
+
+Considerando que a utilização da área reservada do sítio da internet da Ordem dos Advogados para efeitos do registo da prática de atos de certificação de fotocópias, reconhecimento de assinaturas, autenticação de documentos e certificação de traduções, apenas é permitida a advogados com inscrição em vigor e com o pagamento regularizado das quotas para a Ordem dos Advogados.
+Considerando que a representação judicial do Instituto de Segurança Social da Madeira, IP-RAM, pelos referidos mandatários, tem permitido uma poupança significativa inerente ao facto de não se contratarem advogados externos àquele Instituto, e bem assim permitido poupanças significativas de tempo, de papel e de despesas postais, em virtude da tramitação eletrónica, só possível com a utilização dos certificados digitais dos mandatários.
+Considerando que a especificidade das matérias e das causas que normalmente cabe ao Instituto de Segurança Social da Madeira, IP-RAM, defender em juízo, exige, além do conhecimento das normas processuais, o conhecimento da área do direito da segurança social e o conhecimento da organização e funcionamento da segurança social e em particular, do mesmo Instituto.
+Considerando ainda as alterações orgânicas entretanto verificadas a nível do Governo Regional da Região Autónoma da Madeira.
+Assim, nestes termos, determino o seguinte:
+1. Os encargos assumidos pelos técnicos superiores juristas do Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM), que sejam constituídos mandatários judiciais por deliberação do respetivo Conselho Diretivo, com o pagamento de quotas para a Ordem dos Advogados e com o pagamento das contribuições para a Caixa de Previdência dos Advogados e Solicitadores, são reembolsados pelo Instituto de Segurança Social da Madeira, IP-RAM.
+2. O valor das contribuições para a Caixa de Previdência dos Advogados e Solicitadores a ser reembolsado pelo Instituto de Segurança Social da Madeira, IP-RAM, é indexado ao salário mínimo nacional, consoante o respetivo escalão de remuneração convencional escolhido pelos mandatários, sendo o reembolso efetuado entre o 5.º escalão, mínimo legalmente aplicável a advogados após o terceiro ano civil de inscrição, e o correspondente ao 7.º escalão.
+3. Para efeitos de reembolso, será apenas considerada a subida de um escalão por ano até ao limite máximo referido no ponto anterior.
+4. É revogado o Despacho Normativo n.º 21/94, de 25 de julho de 1994, do Secretário Regional dos Assuntos Sociais, publicado no JORAM, I Série, número 143, de 2 de novembro de 1994.
+5. O presente despacho produz efeitos reportados a 1 de maio de 2015, sem prejuízo de serem efetuados os reembolsos de pagamentos anteriores a esta data cujos pedidos se encontrem pendentes.
+Secretaria Regional da Inclusão e Assuntos Sociais, no Funchal, aos 22 dias do mês de setembro de 2015.
+A SECRETÁRIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS, Rubina Maria Branco Leal Vargas
