@@ -2,7 +2,7 @@
 
 ### Lenocínio de menores
 
-1 - Quem fomentar, favorecer ou facilitar o exercício da prostituição de menor é punido com pena de prisão de um a cinco anos.
+1 - Quem fomentar, favorecer ou facilitar o exercício da prostituição de menor ou aliciar menor para esse fim é punido com pena de prisão de 1 a 8 anos.
 
 2 - Se o agente cometer o crime previsto no número anterior:
 

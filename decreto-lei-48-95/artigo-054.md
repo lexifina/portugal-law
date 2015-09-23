@@ -15,3 +15,5 @@ b) Receber visitas do técnico de reinserção social e comunicar-lhe ou colocar
 c) Informar o técnico de reinserção social sobre alterações de residência e de emprego, bem como sobre qualquer deslocação superior a 8 dias e sobre a data do previsível regresso;
 
 d) Obter autorização prévia do magistrado responsável pela execução para se deslocar ao estrangeiro.
+
+4 - Nos casos previstos no n.º 4 do artigo anterior, o regime de prova deve visar em particular a prevenção da reincidência, devendo para o efeito incluir sempre o acompanhamento técnico do condenado que se mostre necessário, designadamente através da frequência de programas de reabilitação para agressores sexuais de crianças e jovens.
