@@ -16,8 +16,14 @@ d) Adquirir ou detiver materiais previstos na alínea b) com o propósito de os 
 
 2 - Quem praticar os actos descritos no número anterior profissionalmente ou com intenção lucrativa é punido com pena de prisão de um a oito anos.
 
-3 - Quem praticar os actos descritos nas alíneas c) e d) do n.º 1 utilizando material pornográfico com representação realista de menor é punido com pena de prisão até dois anos.
+3 - Quem praticar os atos descritos nas alíneas a) e b) do n.º 1 recorrendo a violência ou ameaça grave é punido com pena de prisão de 1 a 8 anos.
 
-4 - Quem adquirir ou detiver os materiais previstos na alínea b) do n.º 1 é punido com pena de prisão até um ano ou com pena de multa.
+4 - Quem praticar os actos descritos nas alíneas c) e d) do n.º 1 utilizando material pornográfico com representação realista de menor é punido com pena de prisão até dois anos.
 
-5 - A tentativa é punível.
+5 - Quem, intencionalmente, adquirir, detiver, aceder, obtiver ou facilitar o acesso, através de sistema informático ou qualquer outro meio aos materiais referidos na alínea b) do n.º 1 é punido com pena de prisão até 2 anos.
+
+6 - Quem, presencialmente ou através de sistema informático ou qualquer outro meio, sendo maior, assistir ou facilitar acesso a espetáculo pornográfico envolvendo a participação de menores de 16 anos de idade é punido com pena de prisão até 3 anos.
+
+7 - Quem praticar os atos descritos nos n.os 5 e 6 com intenção lucrativa é punido com pena de prisão até 5 anos.
+
+8 - A tentativa é punível.

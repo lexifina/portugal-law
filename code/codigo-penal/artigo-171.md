@@ -16,6 +16,10 @@ a) Importunar menor de 14 anos, praticando acto previsto no artigo 170.º; ou
 
 b) Actuar sobre menor de 14 anos, por meio de conversa, escrito, espectáculo ou objecto pornográficos;
 
+c) Aliciar menor de 14 anos a assistir a abusos sexuais ou a atividades sexuais;
+
 é punido com pena de prisão até três anos.
 
 4 - Quem praticar os actos descritos no número anterior com intenção lucrativa é punido com pena de prisão de seis meses a cinco anos.
+
+5 - A tentativa é punível.

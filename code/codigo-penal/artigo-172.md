@@ -6,4 +6,6 @@
 
 2 - Quem praticar acto descrito nas alíneas do n.º 3 do artigo anterior, relativamente a menor compreendido no número anterior deste artigo e nas condições aí descritas, é punido com pena de prisão até um ano.
 
-3 - Quem praticar os actos descritos no número anterior com intenção lucrativa é punido com pena de prisão até três anos ou pena de multa.
+3 - Quem praticar os atos descritos no número anterior com intenção lucrativa é punido com pena de prisão até 5 anos.
+
+4 - A tentativa é punível.
