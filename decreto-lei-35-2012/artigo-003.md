@@ -18,7 +18,7 @@ e) Coordenar e centralizar a produção de informação e estatísticas dos pres
 
 f) Assegurar a prestação centralizada de actividades comuns nas áreas dos recursos humanos e financeiros para os serviços do MS integrados na administração directa do Estado;
 
-g) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;
+g) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, incluindo a área de saúde mental, em articulação com os demais organismos competentes;
 
 h) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;
 
@@ -30,7 +30,15 @@ k) Acompanhar a coordenação e a gestão da Rede Nacional de Cuidados Paliativo
 
 l) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;
 
-m) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços.
+m) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;
+
+n) Assegurar e gerir, diretamente ou por intermédio de entidade contratada para o efeito, um centro de conferência de faturas do SNS, de medicamentos, de meios complementares de diagnóstico e terapêutica, e de outras áreas de prestações de saúde;
+
+o) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;
+
+p) Participar, nos termos da lei, no Colégio de Governo dos Subsistemas Públicos de Saúde;
+
+q) Assegurar o Inventário Nacional dos Profissionais de Saúde.
 
 3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respectivo contrato-programa.
 
