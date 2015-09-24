@@ -10,13 +10,13 @@ b) Proceder à libertação oficial de lotes de medicamentos de origem biológic
 
 c) Apoiar a avaliação da qualidade e segurança fármaco-toxicológica no âmbito da concessão de autorizações de introdução no mercado de medicamentos;
 
-d) Participar no sistema de garantia da qualidade dos produtos de saúde;
+d) [Revogada.]
 
 e) Participar em estudos de colaboração com outras entidades oficiais, nacionais ou estrangeiras, em processos de reconhecimento mútuo, verificação de métodos e padrões de referência;
 
 f) Assegurar e promover atividades de investigação científica no domínio da qualidade e segurança dos medicamentos e produtos de saúde, nomeadamente através do desenvolvimento de programas específicos e de colaboração com outras instituições;
 
-g) Assegurar a competência do INFARMED, I. P., para a monitorização das boas práticas de laboratório, de acordo com os princípios da OCDE;
+g) [Revogada.]
 
 h) Realizar estudos no âmbito das matérias-primas, formulação e desenvolvimento fármaco-tecnológico, produção e controlo de medicamentos, para entidades públicas e privadas;
 

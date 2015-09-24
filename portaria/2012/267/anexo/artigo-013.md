@@ -1,17 +1,21 @@
 # Artigo 13.º
 
-### Organismo notificado
+### Direção de Informação e Planeamento Estratégico
 
-Ao organismo notificado, abreviadamente designado por ON, compete:
+À Direção de Informação e Planeamento Estratégico, abreviadamente designado por DIPE, compete:
 
-a) Avaliar a conformidade dos dispositivos médicos no quadro da legislação nacional e comunitária aplicável e das diretivas nova abordagem;
+a) Recolher e tratar os dados relativos ao mercado de medicamentos e produtos de saúde;
 
-b) Autorizar a aposição da marcação CE dos dispositivos médicos;
+b) Monitorizar a acessibilidade, os circuitos e condições de acesso dos cidadãos aos medicamentos e produtos de saúde, através da análise, promoção e realização de estudos para o controlo e avaliação do mercado;
 
-c) Emitir os certificados CE de conformidade dos dispositivos médicos;
+c) Monitorizar e avaliar a utilização de medicamentos e identificar áreas de promoção do uso racional de medicamentos;
 
-d) Assegurar que o fabricante cumpre corretamente com as obrigações decorrentes do sistema de qualidade aprovado;
+d) Acompanhar as medidas de política de saúde no âmbito das atribuições do INFARMED, I. P., aplicadas no contexto internacional e avaliar a sua aplicabilidade em Portugal;
 
-e) Cooperar com as autoridades competentes nacionais, designadamente dos Estados membros da União Europeia no âmbito do sistema europeu de avaliação de dispositivos médicos;
+e) Estudar e propor a adoção de medidas que assegurem a sustentabilidade do setor;
 
-f) Cooperar com os organismos notificados, designadamente dos Estados membros da União Europeia.
+f) Apoiar o conselho diretivo no planeamento e a estratégia de atuação no setor do medicamento e produtos de saúde;
+
+g) Assegurar a elaboração de normas e orientações destinadas aos utilizadores dos serviços do INFARMED, I. P., no âmbito das suas atribuições;
+
+h) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.

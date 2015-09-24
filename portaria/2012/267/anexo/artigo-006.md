@@ -12,7 +12,7 @@ c) Assegurar as atividades e iniciativas necessárias à inspeção das atividad
 
 d) Assegurar as atividades inerentes ao sistema de alerta rápido relativo a medicamentos e produtos de saúde;
 
-e) Assegurar as competências em matéria de fiscalização da publicidade, da rotulagem e do folheto informativo, dos medicamentos e dos produtos de saúde, sem prejuízo das atribuições da equipa da publicidade;
+e) Assegurar as competências em matéria de fiscalização da publicidade, da rotulagem e do folheto informativo, dos medicamentos e dos produtos de saúde;
 
 f) Assegurar a representação e a colaboração do INFARMED, I. P., nas ações de inspeção farmacêutica a nível internacional, incluindo os acordos de reconhecimento mútuo;
 
@@ -30,4 +30,6 @@ l) Elaborar pareceres relativos ao licenciamento industrial de atividades de mat
 
 m) Colaborar nas atividades de aconselhamento regulamentar e científico;
 
-n) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
+n) Assegurar a competência do INFARMED, I. P., para a monitorização das boas práticas de laboratório, de acordo com os princípios da OCDE;
+
+o) Assegurar a representação a nível nacional e internacional do INFARMED, I. P., no âmbito das suas atribuições.
