@@ -1,0 +1,34 @@
+Despacho normativo n.º 19/2015
+A Lei de Bases da Economia Social - Lei n.º 30/2013, de 8 de maio - veio habilitar, formalmente, as entidades da economia social com instrumentos necessários para desenvolverem um conjunto de outras iniciativas, para além das suas áreas tradicionais de atuação, fomentando a inovação e o empreendedorismo, reforçando o potencial de crescimento do País e contribuindo para o reforço da coesão social.
+O Decreto-Lei n.º 120/2015, de 30 de junho, ampliou e reforçou a visão de uma parceria público-social com as entidades do setor social e solidário, passando a abranger as diferentes áreas sociais do Estado, nomeadamente segurança social, emprego e formação profissional, saúde e educação, de forma a permitir o desenvolvimento de novos modelos de respostas.
+No artigo 15.º do Decreto-Lei n.º 120/2015, de 30 de junho, refere-se que «no desenvolvimento de ações decorrentes da representação das suas associadas, as entidades representativas das instituições podem ser apoiadas financeiramente, nos termos a definir em diploma próprio».
+A matéria relativa aos apoios financeiros destinados às entidades representativas das instituições estava definida, anteriormente, nas normas xxx e xxxi do Despacho Normativo n.º 75/92, de 20 de maio.
+As normas xxx e xxxi eram relativas às condições a observar quanto à concessão dos apoios financeiros a atribuir às instituições de âmbito nacional e às uniões e federações cuja atividade principal, embora não se traduza na prestação de serviços ou manutenção de equipamentos sociais, visa o desenvolvimento de ações de interesse comum a diversos estabelecimentos ou em benefício das próprias instituições.
+A Portaria n.º 196-A/2015, de 1 de julho, que veio definir os critérios, regras e formas em que assenta o modelo de contratualização com as instituições, tendo em conta as especificidades no domínio da Segurança Social, revogou o Despacho Normativo n.º 75/92, de 20 de maio.
+Assim, ao abrigo e no desenvolvimento do disposto no artigo 15.º do Decreto-Lei n.º 120/2015, de 30 de junho, determina-se o seguinte:
+Artigo 1.º
+Objeto
+O presente despacho define as condições a observar quanto à concessão dos apoios financeiros a atribuir às uniões, confederações e federações e às instituições de âmbito nacional cuja atividade principal visa o desenvolvimento de ações de interesse comum a diversos estabelecimentos ou em benefício das próprias instituições.
+Artigo 2.º
+Apoio financeiro às uniões, confederações ou federações representativas das instituições
+1 - As uniões, confederações ou federações representativas das instituições particulares de solidariedade social podem ser apoiadas financeiramente no desenvolvimento de ações decorrentes da representação das suas associadas.
+2 - O apoio financeiro referido no número anterior apenas pode ser concedido para o desenvolvimento de:
+a) Atividades decorrentes da representação das suas associadas;
+b) Projetos específicos considerados inovadores que concorram para o incremento da qualidade das políticas sociais de cooperação.
+3 - O apoio financeiro não pode ser superior 70 % do total das despesas previstas nos seus orçamentos, tendo em vista a realização dos seus programas ou planos de atividades anuais.
+4 - Para a determinação da comparticipação financeira referida no número anterior, as instituições particulares de solidariedade social devem apresentar no Instituto da Segurança Social IP os seguintes documentos:
+a) O programa ou plano de ação e orçamento para o ano corrente;
+b) A ata da assembleia geral que aprovou o programa ou plano de ação e orçamento para o ano corrente;
+c) O relatório e contas relativo ao exercício da atividade desenvolvida no ano anterior.
+5 - A atribuição do apoio financeiro depende de cabimento orçamental e de despacho do membro do Governo responsável pela área da solidariedade e da segurança social.
+Artigo 3.º
+Apoio financeiro às instituições de âmbito nacional
+1 - As instituições particulares de solidariedade social de âmbito nacional que desenvolvam ações de interesse comum a diversos estabelecimentos ou delegações distritais podem beneficiar do apoio financeiro referido no artigo anterior.
+2 - Estão excluídas do apoio financeiro quaisquer atividades que tenham como destinatários diretos os utentes das respostas sociais.
+3 - Para a determinação da comparticipação financeira, as instituições particulares de solidariedade social de âmbito nacional devem apresentar no Instituto da Segurança Social IP os documentos identificados no n.º 4 do artigo anterior, sem prejuízo do disposto no número seguinte.
+4 - As instituições particulares de solidariedade social que possuam estabelecimentos em mais de um distrito só são obrigadas a apresentar os documentos referidos no n.º 4 do artigo anterior no Centro Distrital do Instituto da Segurança Social IP da respetiva sede.
+Artigo 4.º
+Vigência
+O presente despacho produz efeitos a partir do dia seguinte ao da sua publicação.
+16 de setembro de 2015. - O Secretário de Estado da Solidariedade e da Segurança Social, Agostinho Correia Branquinho.
+208950925
