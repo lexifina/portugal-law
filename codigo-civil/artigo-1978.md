@@ -2,28 +2,24 @@
 
 ### Confiança com vista a futura adopção
 
-1 - Com vista a futura adopção, o tribunal pode confiar o menor a casal, a pessoa singular ou a instituição quando não existam ou se encontrem seriamente comprometidos os vínculos afectivos próprios da filiação, pela verificação objectiva de qualquer das seguintes situações:
+1 - O tribunal, no âmbito de um processo de promoção e proteção, pode confiar a criança com vista a futura adoção quando não existam ou se encontrem seriamente comprometidos os vínculos afetivos próprios da filiação, pela verificação objetiva de qualquer das seguintes situações:
 
-a) Se o menor for filho de pais incógnitos ou falecidos;
+a) Se a criança for filha de pais incógnitos ou falecidos;
 
 b) Se tiver havido consentimento prévio para a adopção;
 
-c) Se os pais tiverem abandonado o menor;
+c) Se os pais tiverem abandonado a criança;
 
-d) Se os pais, por acção ou omissão, mesmo que por manifesta incapacidade devida a razões de doença mental, puserem em perigo grave a segurança, a saúde, a formação, a educação ou o desenvolvimento do menor;
+d) Se os pais, por ação ou omissão, mesmo que por manifesta incapacidade devida a razões de doença mental, puserem em perigo grave a segurança, a saúde, a formação, a educação ou o desenvolvimento da criança;
 
-e) Se os pais do menor acolhido por um particular ou por uma instituição tiverem revelado manifesto desinteresse pelo filho, em termos de comprometer seriamente a qualidade e a continuidade daqueles vínculos, durante, pelo menos, os três meses que precederam o pedido de confiança.
+e) Se os pais da criança acolhida por um particular, por uma instituição ou por família de acolhimento tiverem revelado manifesto desinteresse pelo filho, em termos de comprometer seriamente a qualidade e a continuidade daqueles vínculos, durante, pelo menos, os três meses que precederam o pedido de confiança.
 
-2 - Na verificação das situações previstas no número anterior o tribunal deve atender prioritariamente aos direitos e interesses do menor.
+2 - Na verificação das situações previstas no número anterior, o tribunal deve atender prioritariamente aos direitos e interesses da criança.
 
-3 - Considera-se que o menor se encontra em perigo quando se verificar alguma das situações assim qualificadas pela legislação relativa à protecção e à promoção dos direitos dos menores.
+3 - Considera-se que a criança se encontra em perigo quando se verificar alguma das situações assim qualificadas pela legislação relativa à proteção e à promoção dos direitos das crianças.
 
-4 - A confiança com fundamento nas situações previstas nas alíneas a), c), d) e e) do número anterior não pode ser decidida se o menor se encontrar a viver com ascendente, colateral até ao 3.º grau ou tutor e a seu cargo, salvo se aqueles familiares ou o tutor puserem em perigo, de forma grave, a segurança, a saúde, a formação moral ou a educação do menor ou se o tribunal concluir que a situação não é adequada a assegurar suficientemente o interesse do menor.
+4 - A confiança com fundamento nas situações previstas nas alíneas a), c), d) e e) do n.º 1 não pode ser decidida se a criança se encontrar a viver com ascendente, colateral até ao 3.º grau ou tutor e a seu cargo, salvo se aqueles familiares ou o tutor puserem em perigo, de forma grave, a segurança, a saúde, a formação, a educação ou o desenvolvimento da criança ou se o tribunal concluir que a situação não é adequada a assegurar suficientemente o interesse daquela.
 
-5 - Têm legitimidade para requerer a confiança judicial do menor o Ministério Público, o organismo de segurança social da área da residência do menor, a pessoa a quem o menor tenha sido administrativamente confiado e o director do estabelecimento público ou a direcção da instituição particular que o tenha acolhido.
+5 - (Revogado.)
 
-6 - Têm ainda legitimidade para requerer a confiança judicial do menor:
-
-a) O candidato a adoptante seleccionado pelos serviços competentes, quando, por virtude de anterior decisão judicial, tenha o menor a seu cargo;
-
-b) O candidato a adoptante seleccionado pelos serviços competentes, quando, tendo o menor a seu cargo e reunidas as condições para a atribuição da confiança administrativa, o organismo de segurança social não decida pela confirmação da permanência do menor, depois de efectuado o estudo da pretensão para a adopção ou decorrido o prazo para esse efeito.
+6 - (Revogado.)

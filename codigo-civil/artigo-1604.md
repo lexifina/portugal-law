@@ -12,6 +12,6 @@ c) O parentesco no terceiro grau da linha colateral;
 
 d) O vínculo de tutela, curatela ou administração legal de bens;
 
-e) O vínculo de adopção restrita;
+e) (Revogada);
 
 f) A pronúncia do nubente pelo crime de homicídio doloso, ainda que não consumado, contra o cônjuge do outro, enquanto não houver despronúncia ou absolvição por decisão passada em julgado.

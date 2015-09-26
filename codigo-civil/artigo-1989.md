@@ -1,5 +1,5 @@
 # Artigo 1989.º
 
-### (Irrevogabilidade da adopção plena)
+### Irrevogabilidade da adoção
 
-A adopção plena não é revogável nem sequer por acordo do adoptante e do adoptado.
+A adoção não é revogável.

@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Adopção restrita
-
 # Artigo 1992.º
 
 ### (Quem pode adoptar restritamente)

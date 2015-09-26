@@ -1,5 +1,7 @@
 # Artigo 1983.º
 
-### Caducidade do consentimento
+### Irreversibilidade do consentimento
 
-O consentimento caduca se, no prazo de três anos, o menor não tiver sido adoptado nem confiado mediante confiança administrativa, confiança judicial ou medida de promoção e protecção de confiança a pessoa ou a instituição com vista a futura adopção.
+1 - O consentimento é irrevogável e não está sujeito a caducidade.
+
+2 - Se, no prazo de três anos após a prestação do consentimento, a criança não tiver sido adotada, nem decidida a sua confiança administrativa, nem tiver sido aplicada medida de promoção e proteção de confiança com vista a futura adoção, o Ministério Público promove as iniciativas processuais cíveis ou de proteção adequadas ao caso.

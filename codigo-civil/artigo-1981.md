@@ -8,16 +8,18 @@ a) Do adoptando maior de doze anos;
 
 b) Do cônjuge do adoptante não separado judicialmente de pessoas e bens;
 
-c) Dos pais do adoptando, ainda que menores e mesmo que não exerçam o poder paternal, desde que não tenha havido confiança judicial nem medida de promoção e protecção de confiança a pessoa ou a instituição com vista a futura adopção;
+c) Dos pais do adotando, ainda que menores e mesmo que não exerçam as responsabilidades parentais, desde que não tenha havido medida de promoção e proteção de confiança com vista a futura adoção;
 
 d) Do ascendente, do colateral até ao 3.º grau ou do tutor, quando, tendo falecido os pais do adoptando, tenha este a seu cargo e com ele viva.
 
-2 - No caso previsto no n.º 2 do artigo 1978.º, tendo a confiança fundamento nas situações previstas nas alíneas c), d) e e) do n.º 1 do mesmo artigo, não é exigido o consentimento dos pais, mas é necessário o do parente aí referido ou do tutor, desde que não tenha havido confiança judicial nem medida de promoção e protecção de confiança a pessoa ou a instituição com vista a futura adopção.
+e) Dos adotantes.
+
+2 - Nos casos previstos nas alíneas c), d) e e) do n.º 1 do artigo 1978.º, sempre que a criança se encontre a viver com ascendente colateral até ao 3.º grau ou tutor e a seu cargo, não é exigido o consentimento dos pais, sendo porém exigido o consentimento dessas pessoas.
 
 3 - O tribunal pode dispensar o consentimento:
 
 a) Das pessoas que o deveriam prestar nos termos dos números anteriores, se estiverem privadas do uso das faculdades mentais ou se, por qualquer outra razão, houver grave dificuldade em as ouvir;
 
-b) Das pessoas referidas nas alíneas c) e d) do n.º 1 e no n.º 2, quando se verificar alguma das situações que, nos termos das alíneas c), d) e e) do n.º 1 e do n.º 2 do artigo 1978.º, permitiriam a confiança judicial;
+b) (Revogada.)
 
-c) Dos pais do adoptando inibidos do exercício do poder paternal, passados dezoito ou seis meses, respectivamente, sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido, o Ministério Público ou aqueles não tenham solicitado o levantamento da inibição decretada pelo tribunal, nos termos do disposto no n.º 2 do artigo 1916.º
+c) Dos pais do adotando inibidos do exercício das responsabilidades parentais, quando, passados 18 ou 6 meses, respetivamente, sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido, o Ministério Público ou aqueles não tenham solicitado o levantamento da inibição decretada pelo tribunal, nos termos do disposto no n.º 2 do artigo 1916.º

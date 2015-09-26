@@ -8,7 +8,7 @@ a) O parentesco no terceiro grau da linha colateral;
 
 b) O vínculo de tutela, curatela ou administração legal de bens, se as respectivas contas estiverem já aprovadas;
 
-c) O vínculo de adopção restrita.
+c) (Revogada).
 
 2 - A dispensa compete ao conservador do registo civil, que a concederá quando haja motivos sérios que justifiquem a celebração do casamento.
 

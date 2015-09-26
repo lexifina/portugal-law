@@ -2,7 +2,7 @@
 
 ### (Revisão da sentença)
 
-1. A sentença que tiver decretado a adopção só é susceptível de revisão:
+1 - Sem prejuízo da impugnação da sentença através de recurso extraordinário de revisão previsto na lei processual civil, a sentença que tiver decretado a adoção só é suscetível de revisão:
 
 a) Se tiver faltado o consentimento do adoptante ou dos pais do adoptado, quando necessário e não dispensado;
 
