@@ -8,4 +8,6 @@ a) Estabelecimentos hoteleiros;
 
 b) Aldeamentos turísticos;
 
-c) Apartamentos turísticos.
+c) Apartamentos turísticos;
+
+d) Hotéis rurais.

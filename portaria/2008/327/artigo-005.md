@@ -1,8 +1,8 @@
 # Artigo 5.º
 
-### Requisitos obrigatórios comuns
+### Requisitos obrigatórios comuns de classificação
 
-Os empreendimentos turísticos previstos no artigo 1.º devem possuir os seguintes equipamentos e características:
+Os empreendimentos turísticos previstos no artigo 1.º devem cumprir os seguintes requisitos obrigatórios comuns de classificação:
 
 a) Apresentar adequadas condições de higiene e limpeza, conservação e funcionamento das instalações e equipamentos;
 
