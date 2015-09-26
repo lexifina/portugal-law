@@ -6,4 +6,4 @@
 
 2 - O notário, a expensas da associação, promove de imediato a publicação da constituição e dos estatutos, bem como as alterações destes, nos termos legalmente previstos para os actos das sociedades comerciais.
 
-3 - (Revogado.)
+3 - O ato de constituição, os estatutos e as suas alterações não produzem efeitos em relação a terceiros, enquanto não forem publicados nos termos do número anterior.
