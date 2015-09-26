@@ -6,8 +6,10 @@ São também dirimentes, obstando ao casamento entre si das pessoas a quem respe
 
 a) O parentesco na linha recta;
 
-b) O parentesco no segundo grau da linha colateral;
+b) A relação anterior de responsabilidades parentais;
 
-c) A afinidade na linha recta;
+c) O parentesco no segundo grau da linha colateral;
 
-d) A condenação anterior de um dos nubentes, como autor ou cúmplice, por homicídio doloso, ainda que não consumado, contra o cônjuge do outro.
+d) A afinidade na linha recta;
+
+e) A condenação anterior de um dos nubentes, como autor ou cúmplice, por homicídio doloso, ainda que não consumado, contra o cônjuge do outro.
