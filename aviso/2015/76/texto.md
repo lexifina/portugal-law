@@ -1,0 +1,5 @@
+Aviso n.º 76/2015
+Por ordem superior se torna público que, em 18 de março de 2015 e em 30 de julho de 2015, foram emitidas notas, respetivamente pela Embaixada de Cabo Verde em Lisboa e pela Embaixada de Portugal na Praia, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde no Domínio da Defesa, assinado na cidade do Mindelo, em 2 de dezembro de 2012. Foi confirmada a receção da segunda nota pelo Ministério das Relações Exteriores de Cabo Verde a 14 de agosto de 2015.
+A República Portuguesa é Parte neste Acordo, o qual foi aprovado pela Resolução da Assembleia da República n.º 96/2015 e ratificado pelo Decreto do Presidente da República n.º 71/2015, ambos publicados no Diário da República, 1.ª série, n.º 140, de 21 de julho de 2015.
+Nos termos do artigo 16.º do Acordo, este entrou em vigor em 13 de setembro de 2015.
+Direção-Geral de Política Externa, 13 de setembro de 2015. - A Subdiretora-Geral, Rita Laranjinha.
