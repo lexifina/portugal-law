@@ -8,4 +8,4 @@
 
 3 - A nomeação do patrono é efectuada nos termos da lei do apoio judiciário.
 
-4 - No debate judicial é obrigatória a constituição de advogado ou a nomeação de patrono à criança ou jovem.
+4 - No debate judicial é obrigatória a constituição de advogado ou a nomeação de patrono aos pais quando esteja em causa a aplicação da medida prevista na alínea g) do n.º 1 do artigo 35.º e, em qualquer caso, à criança ou jovem.

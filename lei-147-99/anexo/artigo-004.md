@@ -4,7 +4,7 @@
 
 A intervenção para a promoção dos direitos e protecção da criança e do jovem em perigo obedece aos seguintes princípios:
 
-a) Interesse superior da criança e do jovem - a intervenção deve atender prioritariamente aos interesses e direitos da criança e do jovem, sem prejuízo da consideração que for devida a outros interesses legítimos no âmbito da pluralidade dos interesses presentes no caso concreto;
+a) Interesse superior da criança e do jovem - a intervenção deve atender prioritariamente aos interesses e direitos da criança e do jovem, nomeadamente à continuidade de relações de afeto de qualidade e significativas, sem prejuízo da consideração que for devida a outros interesses legítimos no âmbito da pluralidade dos interesses presentes no caso concreto;
 
 b) Privacidade - a promoção dos direitos e protecção da criança e do jovem deve ser efectuada no respeito pela intimidade, direito à imagem e reserva da sua vida privada;
 
@@ -16,10 +16,12 @@ e) Proporcionalidade e actualidade - a intervenção deve ser a necessária e a 
 
 f) Responsabilidade parental - a intervenção deve ser efectuada de modo que os pais assumam os seus deveres para com a criança e o jovem;
 
-g) Prevalência da família - na promoção de direitos e na protecção da criança e do jovem deve ser dada prevalência às medidas que os integrem na sua família ou que promovam a sua adopção;
+g) Primado da continuidade das relações psicológicas profundas - a intervenção deve respeitar o direito da criança à preservação das relações afetivas estruturantes de grande significado e de referência para o seu saudável e harmónico desenvolvimento, devendo prevalecer as medidas que garantam a continuidade de uma vinculação securizante;
 
-h) Obrigatoriedade da informação - a criança e o jovem, os pais, o representante legal ou a pessoa que tenha a sua guarda de facto têm direito a ser informados dos seus direitos, dos motivos que determinaram a intervenção e da forma como esta se processa;
+h) Prevalência da família - na promoção dos direitos e na proteção da criança e do jovem deve ser dada prevalência às medidas que os integrem em família, quer na sua família biológica, quer promovendo a sua adoção ou outra forma de integração familiar estável;
 
-i) Audição obrigatória e participação - a criança e o jovem, em separado ou na companhia dos pais ou de pessoa por si escolhida, bem como os pais, representante legal ou pessoa que tenha a sua guarda de facto, têm direito a ser ouvidos e a participar nos actos e na definição da medida de promoção dos direitos e de protecção;
+i) Obrigatoriedade da informação - a criança e o jovem, os pais, o representante legal ou a pessoa que tenha a sua guarda de facto têm direito a ser informados dos seus direitos, dos motivos que determinaram a intervenção e da forma como esta se processa;
 
-j) Subsidiariedade - a intervenção deve ser efectuada sucessivamente pelas entidades com competência em matéria da infância e juventude, pelas comissões de protecção de crianças e jovens e, em última instância, pelos tribunais.
+j) Audição obrigatória e participação - a criança e o jovem, em separado ou na companhia dos pais ou de pessoa por si escolhida, bem como os pais, representante legal ou pessoa que tenha a sua guarda de facto, têm direito a ser ouvidos e a participar nos actos e na definição da medida de promoção dos direitos e de protecção;
+
+k) Subsidiariedade - a intervenção deve ser efectuada sucessivamente pelas entidades com competência em matéria da infância e juventude, pelas comissões de protecção de crianças e jovens e, em última instância, pelos tribunais.

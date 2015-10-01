@@ -14,10 +14,18 @@ c) Informar e colaborar com as entidades competentes no levantamento das carênc
 
 d) Colaborar com as entidades competentes no estudo e elaboração de projectos inovadores no domínio da prevenção primária dos factores de risco e no apoio às crianças e jovens em perigo;
 
-e) Colaborar com as entidades competentes na constituição e funcionamento de uma rede de acolhimento de crianças e jovens, bem como na formulação de outras respostas sociais adequadas;
+e) Colaborar com as entidades competentes na constituição, funcionamento e formulação de projetos e iniciativas de desenvolvimento social local na área da infância e da juventude;
 
 f) Dinamizar e dar parecer sobre programas destinados às crianças e aos jovens em perigo;
 
-g) Analisar a informação semestral relativa aos processos iniciados e ao andamento dos pendentes na comissão restrita;
+g) Analisar a informação semestral relativa aos processos iniciados e ao andamento dos pendentes na comissão restrita, sem prejuízo do disposto no artigo 88.º;
 
-h) Aprovar o relatório anual de actividades e avaliação elaborado pelo presidente e enviá-lo à Comissão Nacional de Protecção de Crianças e Jovens em Risco, à assembleia municipal e ao Ministério Público.
+h) Prestar o apoio e a colaboração que a comissão restrita solicitar, nomeadamente no âmbito da disponibilização dos recursos necessários ao exercício das suas funções;
+
+i) Elaborar e aprovar o plano anual de atividades;
+
+j) Aprovar o relatório anual de atividades e avaliação e enviá-lo à Comissão Nacional, à assembleia municipal e ao Ministério Público;
+
+k) Colaborar com a Rede Social na elaboração do plano de desenvolvimento social local, na área da infância e juventude.
+
+3 - No exercício das competências previstas nas alíneas b), c), d) e e) do número anterior, a comissão deve articular com a Rede Social local.

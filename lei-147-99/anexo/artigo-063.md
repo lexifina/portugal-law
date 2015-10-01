@@ -14,4 +14,4 @@ d) O jovem atinja a maioridade ou, nos casos em que tenha solicitado a continua�
 
 e) Seja proferida decisão em procedimento cível que assegure o afastamento da criança ou do jovem da situação de perigo.
 
-2 - Após a cessação da medida aplicada em comissão de protecção, a criança, o jovem e a sua família poderão continuar a ser apoiados pela comissão, nos termos e pelo período que forem acordados.
+2 - Aquando da cessação da medida aplicada, a comissão de proteção ou o tribunal efetuam as comunicações eventualmente necessárias junto das entidades referidas no artigo 7.º, tendo em vista o acompanhamento da criança, jovem e sua família, pelo período que se julgue adequado.

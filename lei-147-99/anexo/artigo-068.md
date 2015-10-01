@@ -4,12 +4,14 @@
 
 As comissões de protecção comunicam ao Ministério Público:
 
-a) As situações em que considerem adequado o encaminhamento para a adopção;
+a) As situações em que não obtenham a disponibilidade dos meios necessários para proceder à avaliação diagnóstica dos casos, nomeadamente por oposição de um serviço ou instituição e, em particular, as situações de recusa de prestação de informação relativa a dados pessoais sensíveis, designadamente informação clínica, solicitada nos termos do n.º 1 do artigo 13.º-A;
 
-b) As situações em que não sejam prestados ou sejam retirados os consentimentos necessários à sua intervenção, à aplicação da medida ou à sua revisão, em que haja oposição da criança ou do jovem, ou em que, tendo estes sido prestados, não sejam cumpridos os acordos estabelecidos;
+b) (Revogada.)
 
-c) As situações em que não obtenham a disponibilidade dos meios necessários para aplicar ou executar a medida que considerem adequada, nomeadamente por oposição de um serviço ou instituição;
+c) (Revogada.)
 
 d) As situações em que não tenha sido proferida decisão decorridos seis meses após o conhecimento da situação da criança ou do jovem em perigo;
 
 e) A aplicação da medida que determine ou mantenha a separação da criança ou do jovem dos seus pais, representante legal ou das pessoas que tenham a sua guarda de facto.
+
+f) Os casos em que, por força da aplicação sucessiva ou isolada das medidas de promoção e proteção previstas nas alíneas a) a c), e) e f) do n.º 1 do artigo 35.º, o somatório de duração das referidas medidas perfaça 18 meses.

@@ -12,8 +12,10 @@ b) Sofre maus tratos físicos ou psíquicos ou é vítima de abusos sexuais;
 
 c) Não recebe os cuidados ou a afeição adequados à sua idade e situação pessoal;
 
-d) É obrigada a actividades ou trabalhos excessivos ou inadequados à sua idade, dignidade e situação pessoal ou prejudiciais à sua formação ou desenvolvimento;
+d) Está aos cuidados de terceiros, durante período de tempo em que se observou o estabelecimento com estes de forte relação de vinculação e em simultâneo com o não exercício pelos pais das suas funções parentais;
 
-e) Está sujeita, de forma directa ou indirecta, a comportamentos que afectem gravemente a sua segurança ou o seu equilíbrio emocional;
+e) É obrigada a actividades ou trabalhos excessivos ou inadequados à sua idade, dignidade e situação pessoal ou prejudiciais à sua formação ou desenvolvimento;
 
-f) Assume comportamentos ou se entrega a actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os pais, o representante legal ou quem tenha a guarda de facto se lhes oponham de modo adequado a remover essa situação.
+f) Está sujeita, de forma directa ou indirecta, a comportamentos que afectem gravemente a sua segurança ou o seu equilíbrio emocional;
+
+g) Assume comportamentos ou se entrega a actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os pais, o representante legal ou quem tenha a guarda de facto se lhes oponham de modo adequado a remover essa situação.

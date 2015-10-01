@@ -4,6 +4,6 @@
 
 O Ministério Público requer ao tribunal as providências tutelares cíveis adequadas:
 
-a) No caso previsto na alínea a) do artigo 68.º, quando concorde com o entendimento da comissão de protecção;
+a) Quando a comissão de proteção lhe haja remetido o processo de promoção e proteção por falta de competência para aplicação da medida adequada, nos termos previstos no artigo 38.º, e concorde com o entendimento da comissão de proteção;
 
 b) Sempre que considere necessário, nomeadamente nas situações previstas no artigo 69.º

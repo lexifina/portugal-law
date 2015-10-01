@@ -8,9 +8,9 @@ a) Criança ou jovem - a pessoa com menos de 18 anos ou a pessoa com menos de 21
 
 b) Guarda de facto - a relação que se estabelece entre a criança ou o jovem e a pessoa que com ela vem assumindo, continuadamente, as funções essenciais próprias de quem tem responsabilidades parentais;
 
-c) Situação de urgência - a situação de perigo actual ou eminente para a vida ou integridade física da criança ou do jovem;
+c) Situação de emergência - a situação de perigo atual ou iminente para a vida ou a situação de perigo atual ou iminente de grave comprometimento da integridade física ou psíquica da criança ou jovem, que exija proteção imediata nos termos do artigo 91.º, ou que determine a necessidade imediata de aplicação de medidas de promoção e proteção cautelares;
 
-d) Entidades - as pessoas singulares ou colectivas públicas, cooperativas, sociais ou privadas que, por desenvolverem actividades nas áreas da infância e juventude, têm legitimidade para intervir na promoção dos direitos e na protecção da criança e do jovem em perigo;
+d) Entidades com competência em matéria de infância e juventude - as pessoas singulares ou coletivas, públicas, cooperativas, sociais ou privadas que, por desenvolverem atividades nas áreas da infância e juventude, têm legitimidade para intervir na promoção dos direitos e na proteção da criança e do jovem em perigo;
 
 e) Medida de promoção dos direitos e de protecção - a providência adoptada pelas comissões de protecção de crianças e jovens ou pelos tribunais, nos termos do presente diploma, para proteger a criança e o jovem em perigo;
 

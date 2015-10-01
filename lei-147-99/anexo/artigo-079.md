@@ -8,6 +8,10 @@
 
 3 - Sem prejuízo do disposto nos números anteriores, a comissão de protecção ou o tribunal do lugar onde a criança ou o jovem for encontrado realiza as diligências consideradas urgentes e toma as medidas necessárias para a sua protecção imediata.
 
-4 - Se, após a aplicação da medida, a criança ou o jovem mudar de residência por período superior a três meses, o processo é remetido à comissão de protecção ou ao tribunal da área da nova residência.
+4 - Se, após a aplicação de medida não cautelar, a criança ou o jovem mudar de residência por período superior a três meses, o processo é remetido à comissão de proteção ou ao tribunal da área da nova residência.
 
-5 - Salvo o disposto no número anterior, são irrelevantes as modificações de facto que ocorrerem posteriormente ao momento da instauração do processo.
+5 - Para efeitos do disposto no número anterior, a execução de medida de promoção e proteção de acolhimento não determina a alteração de residência da criança ou jovem acolhido.
+
+6 - Sem prejuízo do disposto no número anterior, a comissão de proteção com competência territorial na área do município ou freguesia de acolhimento da criança ou jovem, presta à comissão que aplicou a medida de promoção e proteção toda a colaboração necessária ao efetivo acompanhamento da medida aplicada, que para o efeito lhe seja solicitada.
+
+7 - Salvo o disposto no n.º 4, são irrelevantes as modificações de facto que ocorrerem posteriormente ao momento da instauração do processo.

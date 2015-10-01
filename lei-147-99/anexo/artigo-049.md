@@ -1,9 +1,11 @@
 ## Subsecção II
 
-## Acolhimento em instituição
+## Acolhimento residencial
 
 # Artigo 49.º
 
-### Noção de acolhimento em instituição
+### Definição e finalidade
 
-A medida de acolhimento em instituição consiste na colocação da criança ou jovem aos cuidados de uma entidade que disponha de instalações e equipamento de acolhimento permanente e de uma equipa técnica que lhes garantam os cuidados adequados às suas necessidades e lhes proporcionem condições que permitam a sua educação, bem-estar e desenvolvimento integral.
+1 - A medida de acolhimento residencial consiste na colocação da criança ou jovem aos cuidados de uma entidade que disponha de instalações, equipamento de acolhimento e recursos humanos permanentes, devidamente dimensionados e habilitados, que lhes garantam os cuidados adequados.
+
+2 - O acolhimento residencial tem como finalidade contribuir para a criação de condições que garantam a adequada satisfação de necessidades físicas, psíquicas, emocionais e sociais das crianças e jovens e o efetivo exercício dos seus direitos, favorecendo a sua integração em contexto sociofamiliar seguro e promovendo a sua educação, bem-estar e desenvolvimento integral.

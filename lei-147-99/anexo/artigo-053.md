@@ -1,9 +1,11 @@
 # Artigo 53.º
 
-### Funcionamento das instituições de acolhimento
+### Funcionamento das casas de acolhimento
 
-1 - As instituições de acolhimento funcionam em regime aberto e são organizadas em unidades que favoreçam uma relação afectiva do tipo familiar, uma vida diária personalizada e a integração na comunidade.
+1 - As casas de acolhimento são organizadas em unidades que favoreçam uma relação afetiva do tipo familiar, uma vida diária personalizada e a integração na comunidade.
 
-2 - Para efeitos do número anterior, o regime aberto implica a livre entrada e saída da criança e do jovem da instituição, de acordo com as normas gerais de funcionamento, tendo apenas como limites os resultantes das suas necessidades educativas e da protecção dos seus direitos e interesses.
+2 - O regime de funcionamento das casas de acolhimento é definido em diploma próprio.
 
-3 - Os pais, o representante legal ou quem tenha a guarda de facto podem visitar a criança ou o jovem, de acordo com os horários e as regras de funcionamento da instituição, salvo decisão judicial em contrário.
+3 - Os pais, o representante legal ou quem tenha a guarda de facto da criança podem visitar a criança ou o jovem, de acordo com os horários e as regras de funcionamento da casa, salvo decisão judicial em contrário.
+
+4 - Na falta ou ausência de idoneidade das pessoas a que se reporta o número anterior e nas condições ali referidas, o tribunal ou a comissão de proteção podem autorizar outros adultos idóneos, de referência afetiva para a criança, a visitarem-na.

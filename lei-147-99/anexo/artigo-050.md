@@ -1,11 +1,17 @@
 # Artigo 50.º
 
-### Modalidades de acolhimento em instituição
+### Acolhimento residencial
 
-1 - O acolhimento em instituição pode ser de curta duração ou prolongado.
+1 - O acolhimento residencial tem lugar em casa de acolhimento e obedece a modelos de intervenção socioeducativos adequados às crianças e jovens nela acolhidos.
 
-2 - O acolhimento de curta duração tem lugar em casa de acolhimento temporário por prazo não superior a seis meses.
+2 - As casas de acolhimento podem organizar-se por unidades especializadas, designadamente:
 
-3 - O prazo referido no número anterior pode ser excedido quando, por razões justificadas, seja previsível o retorno à família ou enquanto se procede ao diagnóstico da respectiva situação e à definição do encaminhamento subsequente.
+a) Casas de acolhimento para resposta em situações de emergência;
 
-4 - O acolhimento prolongado tem lugar em lar de infância e juventude e destina-se à criança ou ao jovem quando as circunstâncias do caso aconselhem um acolhimento de duração superior a seis meses.
+b) Casas de acolhimento para resposta a problemáticas específicas e necessidades de intervenção educativa e terapêutica evidenciadas pelas crianças e jovens a acolher;
+
+c) Apartamentos de autonomização para o apoio e promoção de autonomia dos jovens.
+
+3 - Para além das casas de acolhimento, as instituições que desenvolvem respostas residenciais, nomeadamente nas áreas da educação especial e da saúde podem, em situações devidamente fundamentadas e pelo tempo estritamente necessário, executar medidas de acolhimento residencial relativamente a crianças ou jovens com deficiência permanente, doenças crónicas de caráter grave, perturbação psiquiátrica ou comportamentos aditivos, garantindo os cuidados socioeducativos e terapêuticos a prestar no âmbito da execução da medida.
+
+4 - A regulamentação do regime de organização e funcionamento das casas de acolhimento de crianças e jovens consta de legislação própria.
