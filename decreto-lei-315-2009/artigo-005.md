@@ -8,7 +8,7 @@
 
 a) Termo de responsabilidade, conforme modelo constante do anexo ao presente decreto-lei, do qual faz parte integrante;
 
-b) Certificado do registo criminal, constituindo indício de falta de idoneidade o facto de o detentor ter sido condenado, por sentença transitada em julgado, por qualquer dos crimes previstos no presente decreto-lei, por crime de homicídio por negligência, por crime doloso contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual, a saúde pública ou a paz pública, tráfico de estupefacientes e substâncias psicotrópicas, tráfico de pessoas, tráfico de armas, ou por outro crime doloso cometido com uso de violência;
+b) Certificado do registo criminal, constituindo indício de falta de idoneidade o facto de o detentor ter sido condenado, por sentença transitada em julgado, por qualquer dos crimes previstos no presente decreto-lei, por crime de homicídio por negligência, por crime doloso contra a vida, a integridade física, a liberdade pessoal, a liberdade e autodeterminação sexual, a saúde pública ou a paz pública, tráfico de estupefacientes e substâncias psicotrópicas, tráfico de pessoas, tráfico de armas, crimes contra animais de companhia, ou por outro crime doloso cometido com uso de violência;
 
 c) Documento que certifique a formalização de um seguro de responsabilidade civil, nos termos do disposto no artigo 10.º;
 
