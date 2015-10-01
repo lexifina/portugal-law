@@ -20,4 +20,4 @@ b) NIPC;
 
 c) CAE principal;
 
-d) CAE secundárias.
+d) Até três CAE secundárias.

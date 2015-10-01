@@ -6,10 +6,10 @@
 
 ### Entidades competentes
 
-Sem prejuízo das competências legalmente atribuídas ao Conselho Superior de Estatística, a coordenação, gestão e manutenção do SICAE compete às seguintes entidades:
+Sem prejuízo das competências legalmente atribuídas ao Conselho Superior de Estatística no âmbito da CAE - Rev. 3, a coordenação, gestão e manutenção do SICAE compete às seguintes entidades:
 
 a) Instituto Nacional de Estatística (INE);
 
 b) IRN, I. P.;
 
-c) Autoridade Tributária e Aduaneira (AT).
+c) Direcção-Geral dos Impostos (DGCI).
