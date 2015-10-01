@@ -12,7 +12,7 @@
 
 3 - Os serviços de sangue devem poder identificar, de modo inequívoco, os serviços a quem forneceram as unidades de sangue e componentes.
 
-4 - Os serviços de medicina transfusional e instalações onde se efectuam transfusões devem possuir um sistema de registo que identifique cada unidade de sangue ou componente sanguíneo recebido, incluindo as unidades processadas localmente, e qual o seu destino final, quer tenha sido transfundido, devolvido ou destruído.
+4 - Os serviços de medicina transfusional e os pontos transfusionais referidos no n.º 4 do artigo 10.º devem possuir um sistema de registo que identifique cada unidade de sangue ou componente sanguíneo recebido, incluindo as unidades processadas localmente, e qual o seu destino final, quer tenha sido transfundido, devolvido ou destruído.
 
 5 - Os serviços devem dispor de um procedimento que permita verificar se cada unidade disponibilizada foi transfundida ao receptor previsto.
 

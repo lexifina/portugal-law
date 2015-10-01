@@ -2,12 +2,12 @@
 
 ### Inspecção e medidas de controlo
 
-1 - A ASST efectua, periodicamente, inspecções ou outras medidas de controlo com um intervalo que não deve ultrapassar os dois anos, a fim de assegurar o cumprimento no disposto no presente decreto-lei.
+1 - A DGS garante ações de controlo formal e objetivo da qualidade e segurança, executados de acordo com os parâmetros constantes do presente decreto-lei, bem como a articulação com a IGAS para a realização periódica de inspeções com um intervalo que não deve exceder os dois anos.
 
-2 - Na sequência da inspecção realizada e sempre que as circunstâncias o aconselhem, a ASST poderá, antes da aplicação do regime de sanções, formular recomendações e estabelecer um prazo para regularização das deficiências detectadas.
+2 - (Revogado.)
 
-3 - A ASST tem poderes para inspeccionar os serviços de sangue, bem como as instalações de terceiros a quem o serviço titular tenha incumbido de aplicar parte dos procedimentos, de recolher amostras para exames e análises e de examinar todos os documentos relacionados com o objecto da inspecção, sem prejuízo de legislação que impeça a observação da descrição dos métodos de preparação.
+3 - A DGS, sempre que necessário, garante em articulação com a IGAS, a realização de inspeções aos serviços de sangue, bem como às instalações de terceiros a quem o serviço titular tenha incumbido de aplicar parte dos procedimentos, a recolha de amostras para exames e análises e o exame de todos os documentos relacionados com o objeto da inspeção, sem prejuízo de legislação que impeça a observação da descrição dos métodos de preparação.
 
-4 - Em caso de incidentes ou reacções adversas graves ou de suspeita dos mesmos, deve a ASST organizar inspecções ou outras medidas de controlo.
+4 - Em caso de incidentes ou reações adversas graves ou de suspeita dos mesmos, deve a DGS em conjunto com o IPST, I. P., adotar medidas de controlo adequadas, bem como garantir, quando se justifique, a organização de inspeções em articulação com a IGAS.
 
-5 - A ASST deve conservar os registos referentes aos dados recebidos dos serviços de sangue nos termos do presente artigo, considerando ainda o disposto nos artigos 5.º, 8.º e 15.º
+5 - A DGS deve conservar os registos referentes aos dados recebidos dos serviços de sangue nos termos do presente artigo, considerando ainda o disposto nos artigos 5.º, 8.º e 15.º
