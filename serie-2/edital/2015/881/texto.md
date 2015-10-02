@@ -1,0 +1,8 @@
+Edital n.º 881/2015
+Projeto de 1.ª alteração da Postura Municipal sobre Toponímia e Numeração de Polícia
+Luís Miguel Correia Antunes, Presidente da Câmara Municipal da Lousã, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, em reunião realizada no dia 21 de setembro de 2015, deliberou aprovar o "Projeto de 1.ª alteração à Postura Municipal sobre Toponímia e Numeração de Polícia", no sentido de submeter o mesmo à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data de publicação do presente edital no Diário da República, nos termos do artigo 101.º do novo Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+O documento acima mencionado poderá ser consultado todos os dias úteis, das 9 horas às 12 horas e 30 minutos e das 14 horas às 16 horas e 30 minutos na Secção de Obras Particulares e Loteamentos Urbanos da Câmara Municipal da Lousã, sita na Rua Dr. João Santos -3200-935 Lousã, bem como na página da Internet do Município da Lousã - www.cm-lousa.pt
+As sugestões dos interessados deverão ser apresentadas por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal, identificando devidamente o seu subscritor e entregue pessoalmente ou remetido através do correio ao serviço acima indicado ou para o endereço de correio eletrónico da Câmara Municipal da Lousã (geral@cm-lousa.pt).
+Para constar se lavrou o presente edital e outros de igual teor, os quais vão ser afixados nos lugares públicos do estilo.
+21 de setembro de 2015. - O Presidente da Câmara, Luís Miguel Correia Antunes.
+308965254
