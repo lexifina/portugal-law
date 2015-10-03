@@ -28,7 +28,13 @@ x) Contribuições em espécie, em condições a definir em orientação técnic
 
 b) Custos indiretos.
 
-2 - No caso dos projetos de desenvolvimento e implementação de infraestruturas de investigação, são elegíveis a construção ou adaptação de infraestruturas físicas, equipamento, nomeadamente sistemas computacionais e de programação e redes de comunicação que promovam o acesso aberto digital, e outros recursos científicos tais como arquivos e bases de dados científicos.
+2 - No caso dos projetos de desenvolvimento e implementação de infraestruturas de investigação, são elegíveis as seguintes despesas:
+
+a) A construção ou adaptação de infraestruturas físicas;
+
+b) A aquisição de instrumentos e equipamento científico e técnico, nomeadamente sistemas computacionais e de programação e redes de comunicação que promovam o acesso aberto digital, e outros recursos científicos tais como arquivos e bases de dados científicos;
+
+c) As despesas com recursos humanos, considerados indispensáveis para a implementação e para o desenvolvimento da infraestrutura, em condições a definir nos Avisos para Apresentação de Candidaturas.
 
 3 - No âmbito de projetos inseridos na tipologia internacionalização de I&DI apenas são elegíveis as seguintes despesas:
 
