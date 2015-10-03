@@ -40,4 +40,4 @@ f) Das demais matérias que lhes sejam deferidas por lei.
 
 2 - Compete ainda aos tribunais tributários cumprir os mandatos emitidos pelo Supremo Tribunal Administrativo ou pelos tribunais centrais administrativos e satisfazer as diligências pedidas por carta, ofício ou outros meios de comunicação que lhe sejam dirigidos por outros tribunais tributários.
 
-3 - Sem prejuízo das competências próprias dos órgãos da administração tributária, nas execuções que sejam da competência dos tribunais tributários, as funções de agente de execução são desempenhadas por oficial de justiça.
+3 - Os agentes de execução desempenham as suas funções nas execuções que sejam da competência dos tribunais tributários, sem prejuízo das competências próprias dos órgãos da administração tributária.

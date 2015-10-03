@@ -18,7 +18,7 @@ iii) Conselho de Ministros;
 
 iv) Primeiro-Ministro;
 
-v) Tribunal Constitucional e seu Presidente, Presidente do Supremo Tribunal Administrativo, Tribunal de Contas e seu Presidente e Presidente do Supremo Tribunal Militar;
+v) Tribunal Constitucional, Supremo Tribunal Administrativo, Tribunal de Contas, Tribunais Centrais Administrativos, assim como dos respetivos Presidentes;
 
 vi) Conselho Superior de Defesa Nacional;
 

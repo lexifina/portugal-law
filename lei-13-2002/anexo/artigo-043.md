@@ -2,38 +2,34 @@
 
 ### Presidente do tribunal
 
-1 - Os presidentes dos tribunais administrativos de círculo são nomeados pelo Conselho Superior dos Tribunais Administrativos e Fiscais para um mandato de cinco anos.
+1 - Os presidentes dos tribunais administrativos de círculo são nomeados pelo Conselho Superior dos Tribunais Administrativos e Fiscais para um mandato de três anos.
 
-2 - Os presidentes dos tribunais administrativos de círculo com mais de três juízes são nomeados de entre juízes com a categoria de conselheiro ou de desembargador e não têm processos distribuídos.
+2 - O mandato pode ser renovado uma vez, mediante avaliação favorável, resultante de auditoria sobre os moldes em que foram exercidos os poderes de gestão do movimento processual do tribunal, a realizar por entidade externa, designada para o efeito pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-3 - É da competência do presidente do tribunal administrativo de círculo:
+3 - Os presidentes dos tribunais administrativos de círculo com mais de três juízes são nomeados em comissão de serviço, que não dá lugar à abertura de vaga, de entre juízes que:
 
-a) Representar o tribunal e assegurar as relações deste com os demais órgãos de soberania e quaisquer autoridades;
+a) Exerçam funções efetivas como juízes desembargadores e possuam classificação não inferior a Bom com distinção; ou
 
-b) Dirigir o tribunal, emitindo as ordens de serviço que tenha por necessárias;
+b) Exerçam funções efetivas como juízes de Direito e possuam 10 anos de serviço efetivo nos tribunais administrativos e classificação não inferior a Bom com distinção.
 
-c) Propor ao Conselho Superior dos Tribunais Administrativos e Fiscais os critérios que devem presidir à distribuição, no respeito pelo princípio do juiz natural;
+4 - A nomeação para o exercício das funções de presidente em tribunais administrativos de círculo com mais de três juízes pressupõe a habilitação prévia com curso de formação próprio, o qual inclui as seguintes áreas de competências:
 
-d) Determinar os casos em que, para uniformização de jurisprudência, devem intervir no julgamento todos os juízes do tribunal, presidindo às respectivas sessões e votando as decisões em caso de empate;
+a) Organização e atividade administrativa;
 
-e) Assegurar o andamento dos processos no respeito pelos prazos estabelecidos, podendo determinar a substituição provisória do relator, por redistribuição, em caso de impedimento prolongado;
+b) Organização do sistema judicial e administração do tribunal;
 
-f) Planear e organizar o quadro de juízes do tribunal, assegurando uma equitativa distribuição de processos pelos juízes, o acompanhamento do seu trabalho e a realização de reuniões periódicas, apresentando ao Conselho Superior dos Tribunais Administrativos e Fiscais relatórios sobre as mesmas;
+c) Gestão do tribunal e gestão processual;
 
-g) Solicitar o suprimento de necessidades de resposta adicional através do recurso à bolsa de juízes;
+d) Simplificação e agilização processuais;
 
-h) Estabelecer a forma mais equitativa de intervenção dos juízes-adjuntos;
+e) Avaliação e planeamento;
 
-i) Providenciar pela redistribuição equitativa dos processos no caso de alteração do número de juízes;
+f) Gestão de recursos humanos e liderança;
 
-j) Fixar os turnos de juízes;
+g) Gestão dos recursos orçamentais, materiais e tecnológicos;
 
-l) Exercer a acção disciplinar sobre os funcionários de justiça em serviço no tribunal, relativamente a penas de gravidade inferior à de multa;
+h) Informação e conhecimento;
 
-m) Dar posse ao secretário do tribunal;
+i) Qualidade, inovação e modernização.
 
-n) Elaborar um relatório anual sobre o estado dos serviços;
-
-o) Exercer as demais funções que lhe sejam atribuídas por lei.
-
-4 - Sem prejuízo do disposto no n.º 2, o Conselho Superior dos Tribunais Administrativos e Fiscais estabelece em que condições há distribuição de processos aos presidentes dos tribunais administrativos de círculo e, quando as circunstâncias o justifiquem, determina a redução do número dos processos que, nesse caso, lhes devem ser distribuídos.
+5 - O curso de formação a que se refere o número anterior é ministrado pelo Centro de Estudos Judiciários com a colaboração de outras entidades formadoras, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, que aprova o respetivo regulamento.

@@ -8,4 +8,10 @@
 
 3 - O desdobramento ou agregação previstos nos números anteriores são determinados por portaria do Ministro da Justiça, sob proposta do Conselho Superior dos Tribunais Administrativos e Fiscais.
 
-4 - Mediante decreto-lei podem ser criados tribunais administrativos especializados, bem como secções especializadas nos tribunais superiores.
+4 - Os presidentes dos tribunais administrativos de círculo são nomeados pelo Conselho Superior dos Tribunais Administrativos e Fiscais, para um mandato de três anos, que pode ser renovado por uma só vez, mediante avaliação favorável, resultante de auditoria sobre os termos em que foram exercidos os poderes de gestão do movimento processual do tribunal, a realizar por entidade externa, designada para o efeito pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
+
+5 - A nomeação a que se refere o número anterior, para o exercício de funções de presidente dos tribunais administrativos de círculo com mais de três juízes, pressupõe habilitação prévia com curso de formação próprio ministrado pelo Centro de Estudos Judiciários, com identificação das respetivas áreas de competência, nos termos a definir por portaria do membro do Governo responsável pela área da justiça, que aprova o respetivo regulamento.
+
+6 - No caso previsto no n.º 3, o tribunal administrativo e fiscal dispõe de um único presidente, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
+
+7 - Mediante decreto-lei, podem ser criadas secções especializadas ou tribunais especializados.

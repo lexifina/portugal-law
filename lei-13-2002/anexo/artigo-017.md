@@ -8,6 +8,6 @@
 
 3 - O pleno da secção só pode funcionar com a presença de, pelo menos, dois terços dos juízes.
 
-4 - O julgamento em plenário efectua-se nos termos da secção IV deste capítulo.
+4 - Salvo no caso de recurso para a uniformização de jurisprudência ou quando tal seja necessário à observância do disposto no número anterior, não podem intervir no julgamento no Pleno os juízes que tenham votado a decisão recorrida.
 
 5 - As decisões são tomadas em conferência.

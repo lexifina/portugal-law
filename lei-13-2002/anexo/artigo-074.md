@@ -38,7 +38,9 @@ n) Gerir a bolsa de juízes;
 
 o) Estabelecer os critérios que devem presidir à distribuição nos tribunais administrativos, no respeito pelo princípio do juiz natural;
 
-p) Exercer os demais poderes conferidos no presente Estatuto e na lei.
+p) Nomear, de entre juízes jubilados que tenham exercido funções nos tribunais superiores da jurisdição administrativa e fiscal, o presidente do órgão deontológico no âmbito da arbitragem administrativa e tributária sob a organização do Centro de Arbitragem Administrativa;
+
+q) Exercer os demais poderes conferidos no presente Estatuto e na lei.
 
 3 - O Conselho pode delegar no presidente, ou em outros dos seus membros, a competência para:
 
