@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 84/2015
+A Resolução do Conselho de Ministros n.º 60/2014, de 31 de outubro, criou a Comissão Interministerial de Coordenação da Resposta ao Ébola (Comissão), com o objetivo de coordenar as respostas e decisões políticas de caráter intersectorial e transversal sobre a maior epidemia de doença por vírus Ébola, que tem assolado vários países da África Ocidental.
+A Comissão, no âmbito das suas competências de assegurar a articulação interministerial das políticas, decisões e respostas dos diversos ministérios em matérias que abrangem as áreas da saúde pública, segurança, defesa e relações internacionais, tem sido responsável pela criação de mecanismos e normativos para fazer face a uma eventual importação de casos de doença para Portugal, fomentando uma melhor organização e prontidão na resposta nacional no combate à Doença por Vírus Ébola (DVE).
+Os trabalhos desenvolvidos pela Comissão contribuíram para capacitar o país para a necessidade uma eventual resposta atempada e eficaz a esta epidemia que constituiu uma verdadeira ameaça à saúde pública, que mereceu uma avaliação bastante positiva por parte do European Centre for Disease Prevention and Control (ECDC).
+Em Portugal não se verificaram casos confirmados de DVE, a situação internacional nos países afetados apresenta uma tendência decrescente de incidência e existe uma vacina disponível para ser administrada, pelo que o risco associado ao surgimento de eventuais casos confirmados de DVE é muito baixo.
+Acresce que, a Plataforma de Resposta à Doença pelo Vírus Ébola, responsável pela coordenação técnica para a prevenção e resposta, assegura o acompanhamento técnico e científico da situação a nível nacional e internacional, tendo sido já celebrados os Protocolos entre as várias entidades que fixam as obrigações de cada uma e as eventuais necessidades neste âmbito são asseguradas pelos serviços responsáveis.
+Neste contexto a Comissão deliberou no sentido de considerar que estão reunidas as condições para a sua extinção.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Extinguir a Comissão Interministerial de Coordenação da Resposta ao Ébola, criada através da Resolução do Conselho de Ministros n.º 60/2014, de 31 de outubro.
+2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 24 de setembro de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.
