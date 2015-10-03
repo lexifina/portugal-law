@@ -1,5 +1,5 @@
 # Artigo 62.º
 
-### Centros de atendimento especializado
+### Respostas específicas de organismos da Administração Pública
 
-Os centros de atendimento especializado são serviços de atendimento especializado a vítimas, nomeadamente os constituídos no âmbito dos organismos do Serviço Nacional de Saúde ou dos serviços de emprego, de formação profissional e de segurança social.
+Os organismos da Administração Pública, designadamente no âmbito do serviço nacional de saúde, das forças e serviços de segurança, do IEFP, I. P., dos serviços da segurança social e dos serviços de apoio ao imigrante, devem promover o atendimento específico às vítimas de violência doméstica no âmbito das respetivas competências.

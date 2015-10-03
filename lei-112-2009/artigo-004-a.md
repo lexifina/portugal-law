@@ -6,11 +6,11 @@
 
 2 - Para efeitos do número anterior, é constituída uma Equipa de Análise Retrospetiva de Homicídio em Violência Doméstica composta por:
 
-a) Um representante designado pelo membro do Governo responsável pela área da justiça;
+a) Um representante designado pelo Ministério da Justiça;
 
-b) Um representante designado pelo membro do Governo responsável pela área da saúde;
+b) Um representante designado pelo Ministério da Saúde;
 
-c) Um representante designado pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social;
+c) Um representante designado pelo Ministério da Solidariedade, Emprego e Segurança Social;
 
 d) Um representante da Secretaria-Geral do Ministério da Administração Interna (SGMAI);
 
@@ -18,9 +18,7 @@ e) Um representante do organismo da Administração Pública responsável pela �
 
 f) Um representante do Ministério Público;
 
-g) Um representante da Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens;
-
-h) Um representante da força de segurança territorialmente competente na área em que tiver sido praticado o crime.
+g) Um representante da força de segurança territorialmente competente na área em que tiver sido praticado o crime.
 
 3 - Para além dos elementos referidos no número anterior, podem ainda integrar a equipa um ou mais representantes de entidades locais, incluindo organizações da sociedade civil, que tenham tido intervenção no caso.
 

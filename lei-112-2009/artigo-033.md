@@ -6,7 +6,7 @@
 
 2 - O Ministério Público, o arguido, o defensor e os advogados constituídos no processo são notificados da hora e do local da prestação do depoimento para que possam estar presentes, sendo obrigatória a comparência do Ministério Público e do defensor.
 
-3 - A tomada de declarações é realizada em ambiente informal e reservado, com vista a garantir, nomeadamente, a espontaneidade e a sinceridade das respostas, devendo a vítima ser assistida no decurso do acto processual por um técnico especialmente habilitado para o seu acompanhamento, previamente designado pelo tribunal.
+3 - A tomada de declarações é realizada em ambiente informal e reservado, com vista a garantir, nomeadamente, a espontaneidade e a sinceridade das respostas, devendo a vítima ser assistida no decurso do ato processual pelo técnico de apoio à vítima ou por outro profissional que lhe tenha vindo a prestar apoio psicológico ou psiquiátrico, previamente autorizados pelo tribunal.
 
 4 - A inquirição é feita pelo juiz, podendo em seguida o Ministério Público, os advogados constituídos e o defensor, por esta ordem, formular perguntas adicionais.
 

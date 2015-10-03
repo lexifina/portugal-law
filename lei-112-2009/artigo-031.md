@@ -2,7 +2,7 @@
 
 ### Medidas de coacção urgentes
 
-1 - Após a constituição de arguido pela prática do crime de violência doméstica, o tribunal pondera, no prazo máximo de 48 horas, a aplicação, sem prejuízo das demais medidas de coacção previstas no Código de Processo Penal e com respeito pelos pressupostos gerais e específicos de aplicação nele referidos, de medida ou medidas de entre as seguintes:
+1 - Após a constituição de arguido pela prática do crime de violência doméstica, o tribunal pondera, no prazo máximo de 48 horas, a aplicação, com respeito pelos pressupostos gerais e específicos de aplicação das medidas de coação previstas no Código de Processo Penal, de medida ou medidas de entre as seguintes:
 
 a) Não adquirir, não usar ou entregar, de forma imediata, armas ou outros objectos e utensílios que detiver, capazes de facilitar a continuação da actividade criminosa;
 
@@ -13,3 +13,5 @@ c) Não permanecer na residência onde o crime tenha sido cometido ou onde habit
 d) Não contactar com a vítima, com determinadas pessoas ou frequentar certos lugares ou certos meios.
 
 2 - O disposto nas alíneas c) e d) do número anterior mantém a sua relevância mesmo nos casos em que a vítima tenha abandonado a residência em razão da prática ou de ameaça séria do cometimento do crime de violência doméstica.
+
+3 - As medidas previstas neste artigo são sempre cumuláveis com qualquer outra medida de coação prevista no Código de Processo Penal.
