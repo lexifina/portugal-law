@@ -26,6 +26,8 @@ a) Até cinco dias antes do início do debate instrutório ou da audiência de j
 
 b) Nos casos do artigo 284.º e da alínea b) do n.º 1 do artigo 287.º, no prazo estabelecido para a prática dos respectivos actos.
 
+c) No prazo para interposição de recurso da sentença.
+
 4 - O juiz, depois de dar ao Ministério Público e ao arguido a possibilidade de se pronunciarem sobre o requerimento, decide por despacho, que é logo notificado àqueles.
 
 5 - Durante o inquérito, a constituição de assistente e os incidentes a ela respeitantes podem correr em separado, com junção dos elementos necessários à decisão.

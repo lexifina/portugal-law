@@ -16,4 +16,4 @@ b) Terem deixado de subsistir as circunstâncias que justificaram a sua aplicaç
 
 3 - Quando se verificar uma atenuação das exigências cautelares que determinaram a aplicação de uma medida de coacção, o juiz substitui-a por outra menos grave ou determina uma forma menos gravosa da sua execução.
 
-4 - A revogação e a substituição previstas neste artigo têm lugar oficiosamente ou a requerimento do Ministério Público ou do arguido, devendo estes ser ouvidos, salvo nos casos de impossibilidade devidamente fundamentada. Se, porém, o juiz julgar o requerimento do arguido manifestamente infundado, condena-o ao pagamento de uma soma entre 6 UC e 20 UC.
+4 - A revogação e a substituição previstas neste artigo têm lugar oficiosamente ou a requerimento do Ministério Público ou do arguido, devendo estes ser ouvidos, salvo nos casos de impossibilidade devidamente fundamentada, e devendo ser ainda ouvida a vítima, sempre que necessário, mesmo que não se tenha constituído assistente.
