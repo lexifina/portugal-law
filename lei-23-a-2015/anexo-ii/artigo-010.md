@@ -1,0 +1,61 @@
+# Artigo 10.º
+
+### Recursos financeiros complementares
+
+1 - Quando os recursos do Fundo previstos no artigo 7.º se mostrem insuficientes para o cumprimento das suas obrigações, poderão ser utilizados os seguintes meios de financiamento:
+
+a) Contribuições especiais das instituições participantes;
+
+b) Importâncias provenientes de empréstimos.
+
+2 - Aos recursos previstos no número anterior poderão ainda acrescer:
+
+a) Empréstimos do Banco de Portugal;
+
+b) Empréstimos ou garantias do Estado, sob proposta da Comissão Diretiva do Fundo.
+
+3 - O membro do Governo responsável pela área das finanças determina, por portaria, os montantes, prestações, prazos e demais termos das contribuições especiais referidas na alínea a) do n.º 1, de acordo com o previsto nos números seguintes.
+
+4 - O valor global das contribuições especiais de uma instituição participante não pode exceder, em cada período de exercício do Fundo, 0,5 % dos seus depósitos abrangidos pela garantia do Fundo dentro do limite previsto no artigo 12.º
+
+5 - Em circunstâncias excecionais, e com a aprovação do Banco de Portugal, podem ser impostas contribuições superiores ao limite referido no número anterior.
+
+6 - O Banco de Portugal pode suspender, parcial ou totalmente, por um prazo não superior a 180 dias, prorrogável a pedido da instituição participante, a obrigação de pagamento de contribuições especiais por parte de uma instituição participante, se esse pagamento comprometer materialmente a situação de liquidez ou de solvabilidade dessa instituição.
+
+7 - Nos casos previstos no número anterior, assim que o pagamento da contribuição especial deixe de comprometer materialmente a situação de liquidez ou de solvabilidade da instituição participante cuja obrigação foi suspensa, o Banco de Portugal determina o fim dessa suspensão e impõe que as contribuições especiais suspensas sejam pagas de imediato.
+
+8 - O Fundo pode contrair empréstimos junto de outros sistemas de garantia de depósitos oficialmente reconhecidos num Estado membro da União Europeia, caso estejam reunidas as seguintes condições:
+
+a) O Fundo não ter capacidade para cumprir as obrigações que lhe incumbem devido à insuficiência dos recursos financeiros previstos no n.º 1 do artigo 7.º;
+
+b) Terem sido impostas contribuições especiais previstas na alínea a) do n.º 1;
+
+c) O Fundo comprometer-se a utilizar os recursos provenientes do empréstimo para o reembolso previsto no n.º 1 do artigo 2.º;
+
+d) O Fundo não se encontrar, nesse momento, obrigado a reembolsar um empréstimo a outros sistemas de garantia de depósitos nos termos do disposto no presente artigo;
+
+e) O Fundo indicar o montante do empréstimo solicitado;
+
+f) O montante total do empréstimo concedido não exceder 0,5 % dos depósitos garantidos pelo Fundo, dentro do limite previsto no artigo 12.º
+
+9 - Sempre que o Fundo solicite um empréstimo a outros sistemas de garantia de depósitos oficialmente reconhecidos num Estado membro da União Europeia, informa tempestivamente a Autoridade Bancária Europeia do montante solicitado e da verificação de todas as condições referidas no número anterior.
+
+10 - O Fundo pode igualmente conceder empréstimos a sistemas de garantia de depósitos oficialmente reconhecidos noutro Estado membro da União Europeia a pedido destes e mediante a verificação das condições referidas no n.º 8, com as devidas adaptações, devendo nesses casos o Fundo comunicar à Autoridade Bancária Europeia a taxa de juro inicial e o prazo de vigência do empréstimo.
+
+11 - Aos empréstimos contraídos nos termos do disposto no n.º 8, bem como aos concedidos nos termos do disposto no número anterior, é aplicada, no mínimo, uma taxa de juro equivalente à taxa de juro da facilidade permanente de cedência de liquidez do Banco Central Europeu durante o prazo do empréstimo.
+
+12 - Os empréstimos referidos nos n.os 8 e 10 devem ser reembolsados no prazo de cinco anos, podendo esse reembolso ser feito por prestações periódicas, e os respetivos juros só se vencem na data do reembolso.
+
+13 - Por portaria do membro do Governo responsável pela área das finanças pode ser determinado que as instituições participantes disponibilizem garantias, pessoais ou reais, necessárias à viabilização dos empréstimos previstos nos n.os 1 e 2.
+
+14 - Os empréstimos do Banco de Portugal previstos na alínea a) do n.º 2 devem observar, cumulativamente, as seguintes condições:
+
+a) Apenas serem concedidos quando possa estar em causa a estabilidade do sistema financeiro;
+
+b) Serem realizados nas condições definidas na Lei Orgânica do Banco de Portugal;
+
+c) Visarem exclusivamente a satisfação de necessidades imediatas e urgentes de financiamento;
+
+d) Serem objeto de reembolso num curto período de tempo.
+
+15 - Sem prejuízo da possibilidade de o Estado conceder empréstimos ou prestar garantias ao Fundo, não recai sobre o Estado qualquer obrigação de prestar apoio financeiro excecional ao Fundo, nem qualquer responsabilidade pelo financiamento da atividade do Fundo.

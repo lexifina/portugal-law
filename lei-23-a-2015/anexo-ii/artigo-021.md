@@ -1,0 +1,5 @@
+# Artigo 21.º
+
+### Relatório e contas
+
+Até 31 de março de cada ano, o Fundo apresentará ao Ministro das Finanças, para aprovação, o relatório e as contas referidos a 31 de dezembro do ano anterior, acompanhados do parecer do Conselho de Auditoria do Banco de Portugal.
