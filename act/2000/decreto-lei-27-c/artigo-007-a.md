@@ -2,9 +2,9 @@
 
 ### Deveres de informação
 
-1 - Sem prejuízo do previsto no artigo 7.º, as instituições de crédito estão obrigadas a tornar pública a sua opção de adesão ao sistema de serviços mínimos bancários estabelecido no presente diploma.
+1 - (Revogado).
 
-2 - As instituições de crédito aderentes devem ainda:
+2 - As instituições de crédito devem:
 
 a) Divulgar publicamente nas suas agências as condições de contratação e manutenção das contas bancárias de depósito à ordem constituídas ao abrigo do presente diploma;
 

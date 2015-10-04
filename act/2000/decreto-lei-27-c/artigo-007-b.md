@@ -2,4 +2,4 @@
 
 ### Publicitação pela segurança social
 
-Os serviços da segurança social devem publicitar a existência de serviços mínimos bancários, as entidades aderentes e as condições de acesso, de forma clara e perceptível, na primeira comunicação de cada ano, respeitante às diversas prestações sociais, enviada às pessoas singulares.
+Os serviços da segurança social devem comunicar às pessoas singulares a existência de serviços mínimos bancários e respetivas condições de acesso, de forma clara e percetível, através dos meios de comunicação e publicitação habitualmente utilizados, sendo a referida divulgação obrigatória no momento do requerimento das respetivas prestações sociais.

@@ -2,7 +2,7 @@
 
 ### Âmbito
 
-1 - É instituído o sistema de acesso, pelas pessoas singulares, aos serviços mínimos bancários, nos termos e condições deste diploma e dos constantes das bases dos protocolos a ele anexas, do qual são parte integrante, a celebrar com as instituições de crédito que pretendam aderir a este sistema.
+1 - É instituído o sistema de acesso, pelas pessoas singulares, aos serviços mínimos bancários, nos termos e condições deste diploma.
 
 2 - Para efeitos do presente diploma, entende-se por:
 
