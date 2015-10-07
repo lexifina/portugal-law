@@ -10,7 +10,7 @@
 
 4 - São elegíveis as despesas que tenham sido realizadas e efetivamente pagas pelos beneficiários entre 1 de janeiro de 2014 e 31 de dezembro de 2023, sem prejuízo das demais regras de elegibilidade de despesas, designadamente as constantes da legislação europeia e nacional aplicável.
 
-5 - No âmbito dos sistemas de incentivos, a despesa só é elegível se, para além do disposto no número anterior, tiver sido reembolsada ao beneficiário, pelo organismo pagador, entre 1 de janeiro de 2014 e 31 de agosto de 2024.
+5 - No âmbito dos sistemas de incentivos, a despesa só é elegível se, para além do disposto no número anterior, tiver sido reembolsada ao beneficiário, pelo organismo pagador, neste mesmo período de tempo.
 
 6 - No caso de operações aprovadas no âmbito da Iniciativa para o Emprego dos Jovens, são elegíveis as despesas que tenham sido realizadas e efetivamente pagas pelos beneficiários entre 1 de setembro de 2013 e 31 de dezembro de 2023.
 
@@ -42,4 +42,4 @@ g) Se o termo do contrato de locação financeira ou de aluguer for posterior à
 
 13 - Não são elegíveis as despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis da operação.
 
-14 - Sem prejuízo da regulamentação europeia aplicável, não são elegíveis os pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a 250 euros.
+14 - Não são elegíveis os pagamentos em numerário, exceto, no âmbito dos fundos da política de coesão, nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a 250 euros.

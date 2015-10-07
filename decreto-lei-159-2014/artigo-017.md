@@ -10,7 +10,7 @@
 
 4 - As intervenções em espaço público ou em edifícios de acesso público devem garantir o respeito pelas condições de acessibilidade e mobilidade para todos.
 
-5 - Os critérios de seleção são, quando aplicável, estruturados numa avaliação de mérito absoluto, nos termos a fixar em regulamentação específica ou nos avisos de apresentação de candidaturas.
+5 - Os critérios de seleção são, quando aplicável, estruturados numa avaliação de mérito absoluto, nos termos a fixar em regulamentação específica.
 
 6 - Nos procedimentos concursais, além do mérito absoluto da operação, aplicado nos termos previstos no número anterior, os critérios de seleção são ainda estruturados numa avaliação de mérito relativo, que resulta da comparação do mérito da operação avaliada com o mérito das demais operações candidatas na mesma fase de decisão, com hierarquização final das candidaturas avaliadas.
 
