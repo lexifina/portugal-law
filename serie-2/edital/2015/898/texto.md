@@ -1,0 +1,8 @@
+Edital n.º 898/2015
+Consulta Pública do Projeto de Regulamento de Ajudas de Custo e de Transporte da Faculdade de Ciências da Universidade de Lisboa
+José Artur de Sousa Martinho Simões, Diretor da Faculdade de Ciências da Universidade de Lisboa, torna público que o Conselho de Gestão aprovou, ao abrigo das competências que lhe são atribuídas pelo n.º 1 do artigo 59.º dos Estatutos da Faculdade de Ciências da Universidade de Lisboa, em 29 de setembro de 2015, o Projeto de Regulamento de Ajudas de Custo e de Transporte da Faculdade de Ciências da Universidade de Lisboa, submetendo-o, nos termos do artigo 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º do Regime jurídico das instituições de ensino superior, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+O projeto de regulamento pode ser consultado no Núcleo Financeiro da Unidade de Recursos Financeiros e do Património da Faculdade de Ciências da Universidade de Lisboa, sita no Campo Grande, 1749-016 Lisboa, bem como no sítio da Escola na Internet (www.fc.ul.pt).
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao Diretor, podendo ser entregues no Núcleo Financeiro supra identificado ou remetidas por correio eletrónico (direccao@fc.ul.pt).
+Para constar se publica o presente edital, o qual vai ser disponibilizado no sítio da Escola na Internet.
+30 de setembro de 2015. - O Diretor da Faculdade de Ciências da Universidade de Lisboa, José Artur de Sousa Martinho Simões.
+208983511
