@@ -8,7 +8,7 @@ a) A embarcação ser detentora de licença de pesca para artes de cerco;
 
 b) A embarcação ter operado, no decurso do ano de 2015 e até ao início da paragem da atividade, pelo menos 45 dias;
 
-c) A embarcação apresentar, em 2015 e até à data do início da paragem da atividade, um volume de descargas de sardinha não inferior a 7,5 % do total do pescado descarregado.
+c) A embarcação apresentar, em 2015 e até à data do início da paragem da atividade, um volume de descargas de sardinha não inferior a 5 % do total do pescado descarregado.
 
 2 - Excetuam-se do disposto na alínea b) do número anterior as embarcações que não tenham registado a atividade mínima exigida devido a uma das seguintes circunstâncias:
 
