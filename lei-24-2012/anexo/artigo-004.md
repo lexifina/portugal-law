@@ -16,6 +16,4 @@ a) A afetação exclusiva ou maioritária dos bens que integram o património fi
 
 b) Direito de designar ou destituir a maioria dos titulares do órgão de administração da fundação.
 
-3 - Persistindo dúvidas sobre a natureza privada ou pública da fundação, prevalece a qualificação que resultar da pronúncia do Conselho Consultivo, nos termos da alínea c) do n.º 6 do artigo 13.º
-
-4 - Caso as pessoas coletivas públicas deixem, supervenientemente, de deter influência dominante sobre uma fundação pública de direito privado, a fundação pode ser requalificada na sequência de pronúncia nesse sentido, mediante parecer obrigatório e vinculativo, do Conselho Consultivo.
+3 - Persistindo dúvidas sobre a natureza privada ou pública da fundação, prevalece a qualificação que resultar da pronúncia do Conselho Consultivo, nos termos da alínea c) do n.º 5 do artigo 13.º

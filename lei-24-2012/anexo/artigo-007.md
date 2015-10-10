@@ -8,7 +8,7 @@
 
 3 - Previamente ao reconhecimento, os instituidores, os seus herdeiros ou os executores testamentários ou os administradores designados no ato de instituição declaram, em documento próprio e sob compromisso de honra, que não existem dúvidas ou litígios sobre os bens afetos à fundação.
 
-4 - A existência de dúvidas ou litígios sobre os bens afetos à fundação faz incorrer os seus autores em responsabilidade criminal por falsas declarações e constitui fundamento de revogação do ato de reconhecimento.
+4 - A existência de dúvidas ou litígios, ainda que potenciais, sobre os bens afetos à fundação faz incorrer os seus autores em responsabilidade criminal por falsas declarações e determina a revogação imediata do ato de reconhecimento.
 
 5 - Em caso de impugnação pauliana, o reconhecimento e todos os seus efeitos suspendem-se até ao termo do respetivo processo judicial.
 

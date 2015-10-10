@@ -16,7 +16,7 @@ e) A existência de omissões, de vícios ou de deficiências que afetem a forma
 
 f) A nulidade, anulabilidade ou ineficácia do ato de instituição;
 
-g) A existência de dúvidas ou litígios sobre os bens afetos à fundação.
+g) A existência de dúvidas ou litígios, ainda que potenciais, sobre os bens afetos à fundação.
 
 2 - A recusa de reconhecimento da fundação por insuficiência de meios prevista na alínea c) do número anterior determina:
 

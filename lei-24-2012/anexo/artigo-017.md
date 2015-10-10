@@ -4,7 +4,7 @@
 
 1 - As fundações privadas podem ser instituídas por ato entre vivos ou por testamento.
 
-2 - A instituição por ato entre vivos deve constar de escritura pública ou de documento particular autenticado, e torna-se irrevogável logo que seja requerido o reconhecimento ou principie o respetivo processo oficioso.
+2 - A instituição por atos entre vivos deve constar de escritura pública, salvo o disposto em lei especial, e torna-se irrevogável logo que seja requerido o reconhecimento ou principie o respetivo processo oficioso.
 
 3 - Aos herdeiros do instituidor não é permitido revogar a instituição, sem prejuízo do disposto acerca da sucessão legitimária.
 
