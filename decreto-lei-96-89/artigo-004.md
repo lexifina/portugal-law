@@ -2,11 +2,11 @@
 
 1 - O MAR tem uma comissão técnica constituída da seguinte forma:
 
-a) Um representante do membro do Governo responsável pelo sector dos transportes, o qual presidirá;
+a) Um representante do membro do Governo responsável pela área da segurança marítima, o qual preside;
 
 b) Um representante da Região Antónoma da Madeira;
 
-c) Um representante da Inspecção-Geral de Navios.
+c) Um representante da DGRM.
 
 2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.
 
