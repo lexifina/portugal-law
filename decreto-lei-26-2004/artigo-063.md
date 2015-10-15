@@ -1,11 +1,15 @@
 # Artigo 63.º
 
-### Participação
+### Independência da responsabilidade disciplinar
 
-1 - Todo aquele que tenha conhecimento de que um notário praticou infracção disciplinar pode participá-la ao Ministro da Justiça ou à Ordem dos Notários.
+1 - A responsabilidade disciplinar é independente da responsabilidade civil ou criminal decorrente da prática do mesmo facto.
 
-2 - Os tribunais e quaisquer autoridades devem dar conhecimento às entidades competentes para instaurar processo disciplinar de factos susceptíveis de constituírem infracção disciplinar.
+2 - A responsabilidade disciplinar prevista no presente Estatuto coexiste com qualquer outra prevista por lei, sendo o processo disciplinar promovido independentemente de qualquer outro e nele se resolvendo todas as questões que interessarem à decisão da causa, sem prejuízo do disposto no número seguinte.
 
-3 - Se a participação for apresentada a órgão que não tenha competência para instaurar o processo disciplinar deve ser remetida ao órgão competente, pelo registo do correio e no prazo de três dias após o seu recebimento, com a indicação da data em que este se verificou.
+3 - Quando, com fundamento nos mesmos factos, tiver sido instaurado processo criminal contra notário pode ser ordenada a suspensão do processo disciplinar quanto a esses factos, por prazo determinado, até que seja proferida decisão final.
 
-4 - Quando conclua que a participação é infundada e dolosamente apresentada no intuito de prejudicar o notário e contenha matéria difamatória ou injuriosa, que atente contra a própria classe profissional, a entidade competente para punir pode participar o facto criminalmente, sem prejuízo de adequado procedimento disciplinar quando o participante seja outro notário.
+4 - A suspensão do processo disciplinar, nos termos do número anterior, é comunicada pela entidade responsável pela instrução do processo à autoridade judiciária competente, a qual deve ordenar a remessa à entidade responsável pela instrução do processo de cópia do despacho de acusação e, se a ele houver lugar, do despacho de pronúncia.
+
+5 - Decorrido o prazo fixado nos termos do n.º 9 do artigo seguinte sem que a questão tenha sido resolvida, a questão é decidida no processo disciplinar.
+
+6 - Sempre que, em processo penal contra notário, for designado dia para a audiência de julgamento, o tribunal deve ordenar a remessa à Ordem dos Notários e ao Conselho do Notariado, preferencialmente por via eletrónica, do despacho de acusação, do despacho de pronúncia e da contestação, se tiver sido apresentada, bem como quaisquer outros elementos solicitados pela direção ou pelo bastonário da Ordem dos Notários ou pelo Conselho do Notariado.

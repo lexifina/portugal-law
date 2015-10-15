@@ -1,7 +1,3 @@
-## Secção VI
-
-## Processo de inquérito
-
 # Artigo 95.º
 
 ### Processo de inquérito

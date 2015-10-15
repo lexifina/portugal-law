@@ -16,4 +16,6 @@ b) Comprovar o nível de qualificação profissional no mínimo equivalente a um
 
 3 - Pode ainda estabelecer-se em Portugal o profissional que tenha exercido, a tempo inteiro, a actividade de notário durante dois anos no decurso dos 10 anos anteriores, num Estado membro da União Europeia que não regulamente esta actividade, desde que possua um título de formação equivalente ao previsto na alínea d) do artigo 25.º, emitido por uma autoridade competente para o efeito.
 
-4 - Os profissionais mencionados nos números anteriores ficam sujeitos à obtenção de aprovação no concurso referido na alínea f) do artigo 25.º, bem como à prévia inscrição na Ordem dos Notários.
+4 - Os profissionais mencionados nos números anteriores ficam sujeitos à obtenção de aprovação no concurso referido na alínea f) do artigo 25.º, a atribuição de licença para instalação de cartório notarial nos termos dos artigos 34.º e 35.º ou a integração na bolsa de notários prevista no artigo 36.º, e a prévia inscrição na Ordem dos Notários.
+
+5 - Os profissionais que se estabeleçam em Portugal nos termos previstos no presente artigo devem usar o título profissional de 'notário', nos termos e para os efeitos do disposto no artigo 33.º, sendo-lhes aplicável o disposto no presente Estatuto e na demais legislação aplicável aos notários.

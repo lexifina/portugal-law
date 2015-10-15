@@ -21,3 +21,5 @@ d) Apreciar e decidir sobre as propostas e sugestões constantes dos relatórios
 e) Exercer competência disciplinar sobre os notários;
 
 f) Exercer as demais competências que neste domínio lhe sejam cometidas por lei.
+
+3 - O Instituto dos Registos e do Notariado, I. P., apoia a atividade de fiscalização da atividade notarial.

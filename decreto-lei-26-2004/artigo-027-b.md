@@ -2,7 +2,7 @@
 
 ### Patrono
 
-1 - O notário patrono é o principal responsável pela orientação e direção do exercício profissional do estagiário, cabendo-lhe promover a formação durante o estágio e apreciar a aptidão e idoneidade ética e deontológica do estagiário para o exercício da profissão, emitindo para o efeito a informação do estágio prevista no artigo 29.º
+1 - O notário patrono é o principal responsável pela orientação e direção do exercício profissional do estagiário, cabendo-lhe promover a formação durante o estágio e apreciar a aptidão e idoneidade ética e deontológica do estagiário para o exercício da profissão, emitindo para o efeito a informação do estágio prevista no artigo 29.º, e participando diretamente no processo de avaliação.
 
 2 - O notário patrono está vinculado ao cumprimento dos seguintes deveres:
 

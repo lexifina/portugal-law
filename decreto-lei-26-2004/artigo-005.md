@@ -6,4 +6,4 @@
 
 2 - Os cartórios notariais são organizados e dimensionados por forma a assegurar uma prestação de serviços de elevada qualidade e prontidão.
 
-3 - Os notários podem associar-se em sociedades de notários, nos termos a definir por diploma próprio.
+3 - Os notários podem associar-se em sociedades exclusivamente de notários, nos termos legalmente previstos.

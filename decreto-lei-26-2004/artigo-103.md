@@ -1,7 +1,3 @@
-## Secção VIII
-
-## Disposições finais
-
 # Artigo 103.º
 
 ### Produção de efeitos das penas

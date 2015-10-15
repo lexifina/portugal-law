@@ -1,7 +1,3 @@
-## Secção VII
-
-## Revisão
-
 # Artigo 96.º
 
 ### Requisitos da revisão

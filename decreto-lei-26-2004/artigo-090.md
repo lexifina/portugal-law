@@ -1,9 +1,13 @@
 # Artigo 90.º
 
-### Decisão
+### Reabilitação
 
-1 - A entidade competente analisa o processo no prazo de 30 dias, concordando ou não com as conclusões do relatório, podendo ordenar novas diligências.
+1 - No caso de aplicação de sanção de interdição definitiva do exercício da atividade profissional, o notário pode ser reabilitado, mediante requerimento devidamente fundamentado para a entidade que proferiu a decisão e desde que se preencham cumulativamente os seguintes requisitos:
 
-2 - A decisão do processo é sempre fundamentada, quando não concordante com a proposta formulada no relatório do instrutor.
+a) Tenham decorrido mais de 15 anos desde que a decisão que aplicou a sanção se tornou irrecorrível;
 
-3 - Quando a decisão do processo for da exclusiva competência ministerial, pode ser ouvida a auditoria jurídica.
+b) O reabilitando tenha revelado boa conduta, podendo, para o demonstrar, utilizar quaisquer meios de prova legalmente admissíveis.
+
+2 - Caso seja deferida a reabilitação, o notário reabilitado recupera plenamente os seus direitos e é dada a publicidade devida, nos termos dos n.os 2 a 6 do artigo 79.º, com as necessárias adaptações.
+
+3 - (Revogado.)

@@ -18,7 +18,11 @@ b) Ser maior de idade;
 
 c) Não estar inibido do exercício de funções públicas ou interdito para o exercício de funções notariais;
 
-d) Possuir licenciatura em Direito;
+d) Possuir um dos seguintes graus em Direito:
+
+i) Grau de licenciado em Direito;
+
+ii) Grau académico superior estrangeiro em Direito a que tenha sido conferida equivalência ao grau a que se refere a subalínea anterior ou que tenha sido reconhecido com o nível deste.
 
 e) Ter frequentado o estágio notarial;
 

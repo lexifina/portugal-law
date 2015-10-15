@@ -1,7 +1,9 @@
 # Artigo 78.º
 
-### Apensação do processo
+### Prazo para pagamento da multa
 
-1 - Por todas as infracções cometidas pelo mesmo arguido é organizado um só processo, mas, tendo-se instaurado diversos, são apensados ao de infracção mais grave e, no caso de a gravidade ser a mesma, àquele que primeiro tiver sido instaurado, sem prejuízo do disposto no número seguinte.
+1 - As multas aplicadas nos termos da alínea c) do n.º 1 do artigo 70.º devem ser pagas no prazo de 30 dias a contar do início de produção de efeitos da sanção respetiva.
 
-2 - Os processos mandados instaurar pelo Ministro da Justiça não podem ser apensados aos instaurados pela Ordem dos Notários, nem estes àqueles.
+2 - Ao notário que não pague a multa no prazo referido no número anterior é suspensa a inscrição, mediante decisão do órgão disciplinarmente competente, a qual lhe é comunicada.
+
+3 - A suspensão só pode ser levantada após comprovado o pagamento da importância em dívida.

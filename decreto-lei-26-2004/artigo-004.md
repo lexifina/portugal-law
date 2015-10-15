@@ -2,7 +2,7 @@
 
 ### Função notarial
 
-1 - Compete, em geral, ao notário redigir o instrumento público conforme a vontade dos interessados, a qual deve indagar, interpretar e adequar ao ordenamento jurídico, esclarecendo-os do seu valor e alcance.
+1 - Compete, em geral, ao notário redigir o instrumento público conforme a vontade dos interessados, a qual deve indagar, interpretar e adequar ao ordenamento jurídico, esclarecendo-os do seu valor e alcance e exercer todas as demais competências que lhe sejam atribuídas por lei.
 
 2 - Em especial, compete ao notário, designadamente:
 

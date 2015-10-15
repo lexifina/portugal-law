@@ -1,13 +1,13 @@
-## Secção III
+## Secção IV
 
-## Defesa do arguido
+## Do processo
 
 # Artigo 82.º
 
-### Notificação da acusação
+### Obrigatoriedade do processo disciplinar
 
-1 - O arguido é notificado da acusação, pessoalmente ou pelo correio, com entrega da respectiva cópia.
+1 - A aplicação de uma sanção disciplinar é sempre precedida do apuramento dos factos e da responsabilidade disciplinar em processo próprio, nos termos previstos no presente Estatuto e no regulamento disciplinar.
 
-2 - A notificação, quando feita pelo correio, é remetida por carta registada com aviso de recepção para o cartório ou, caso o arguido se encontre suspenso preventivamente, para a residência deste.
+2 - (Revogado.)
 
-3 - Se não for possível a notificação pessoal ou pelo correio, designadamente por o arguido se encontrar ausente em parte incerta, é notificado por edital, com o resumo da acusação, afixada na porta do seu domicílio profissional ou da última residência conhecida e a publicar num dos jornais mais lidos da comarca onde o notário tem domicílio profissional.
+3 - (Revogado.)
