@@ -10,19 +10,19 @@ Capital social mínimo
 
 As instituições de crédito e as sociedades financeiras adiante indicadas devem possuir um capital social de montante não inferior, respetivamente, ao seguinte:
 
-a) Bancos - (euro) 17 500 000;
+a) Bancos e caixas económicas bancárias - (euro) 17 500 000;
 
 b) Caixas de crédito agrícola mútuo - (euro) 5 000 000 ou (euro) 7 500 000, conforme façam ou não parte do sistema integrado de crédito agrícola mútuo;
 
 c) Caixa Central de Crédito Agrícola Mútuo - (euro) 17 500 000;
 
-d) Sociedades de investimento - (euro) 7 500 000;
+d) Sociedades de investimento - (euro) 5 000 000;
 
-e) Sociedades de locação financeira - (euro) 3 500 000, se tiverem por objeto apenas a locação financeira mobiliária, ou (euro) 7 500 000, nos restantes casos;
+e) Sociedades de locação financeira - (euro) 3 000 000, se tiverem por objeto apenas a locação financeira mobiliária, ou (euro) 5 000 000, nos restantes casos;
 
 f) Sociedades de factoring - (euro) 1 000 000;
 
-g) Sociedades financeiras para aquisições a crédito - (euro) 2 500 000;
+g) [Revogada.]
 
 h) Sociedades financeiras de corretagem - (euro) 3500000;
 
@@ -32,7 +32,7 @@ j) Sociedades mediadoras do mercado monetário ou de câmbios - (euro) 50 000 ou
 
 l) Sociedades gestoras de fundos de investimento mobiliário e sociedades gestoras de fundos de investimento imobiliário - (euro) 125 000;
 
-m) Sociedades emitentes ou gestoras de cartões de crédito - (euro) 500 000;
+m) [Revogada.]
 
 n) Sociedades gestoras de patrimónios - (euro) 250 000;
 
@@ -48,6 +48,10 @@ s) Sociedades de garantia mútua - (euro) 2 500 000;
 
 t) Sociedades financeiras de microcrédito - (euro) 1 000 000;
 
-u) Instituições financeiras de crédito - (euro) 10 000 000.
+u) Instituições financeiras de crédito - (euro) 10 000 000;
+
+v) Sociedades financeiras de crédito - (euro) 7 500 000;
+
+x) Caixas económicas anexas - (euro) 1 000 000.
 
 2.º A presente portaria entra imediatamente em vigor.
