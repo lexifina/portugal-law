@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Sistema Nacional de Áreas Classificadas
-
 ## Secção I
 
 ## Rede Nacional de Áreas Protegidas
