@@ -6,6 +6,6 @@
 
 2 - Todos os distribuidores e operadores retalhistas de GPL engarrafado são obrigados a realizar a receção e troca de garrafas vazias de GPL, independentemente da marca, através de mecanismos de armazenamento e transporte que assegurem o tratamento não discriminatório dos consumidores e dos distribuidores e que não envolvam o pagamento de encargos adicionais para o consumidor e de acordo com princípios de racionalidade económica, eficiência operacional e segurança.
 
-3 - (Revogado).
+3 - Compete à ENMC, E.P.E., regulamentar os mecanismos previstos no número anterior, após consulta ao Conselho Nacional para os Combustíveis e à Autoridade da Concorrência, com vista a evitar o tratamento discriminatório de distribuidores e consumidores.
 
 4 - A comercialização de gás engarrafado pode ser feita em unidades de aferição de peso, nos termos a regulamentar por portaria do membro do Governo responsável pela área da energia, sob proposta da ENMC, E.P.E..
