@@ -6,7 +6,7 @@
 
 a) Manter os critérios de elegibilidade, em cada ano do compromisso;
 
-b) Respeitar as densidades mínimas por grupo de cultura conforme previsto no anexo III da presente portaria, da qual faz parte integrante;
+b) Respeitar as densidades mínimas por subparcela e grupo de cultura, conforme previsto no anexo iii da presente portaria, da qual faz parte integrante;
 
 c) Manter o revestimento vegetal natural ou semeado utilizando técnicas de mobilização mínima das entrelinhas;
 
@@ -19,6 +19,8 @@ i) 3 CN/hectare de superfície agrícola, no caso de explorações com dimensão
 ii) 2 CN/hectare de superfície agrícola, no caso de explorações em zona de montanha com dimensão superior a 2 hectares de superfície agrícola;
 
 iii) 2 CN/hectare de superfície forrageira, no caso de explorações nas restantes zonas e com dimensão superior a 2 hectares de superfície agrícola.
+
+f) Manter a subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos.
 
 2 - Os beneficiários do apoio previsto na presente secção são ainda obrigados a realizar análises de terras nas superfícies de culturas permanentes, que incluam teor de matéria orgânica, no decurso do quarto ano do compromisso.
 

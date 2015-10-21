@@ -22,4 +22,4 @@ d) Destruição de instalações pecuárias não imputável ao beneficiário;
 
 e) Epizootia que afete parte dos efetivos ou razões sanitárias de ordem zootécnica que não resultem de incúria do beneficiário;
 
-f) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.
+f) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada, do rebanho ou do cão de guarda de rebanho, desde que mantido o compromisso previsto na alínea d) do n.º 1 do artigo 55.º, designadamente, morte do animal em consequência de doença ou na sequência de acidente, cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível manter os animais nem proceder à sua substituição.

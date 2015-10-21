@@ -2,13 +2,15 @@
 
 ### (a que se refere o artigo 27.º)
 
-Operação 7.6.1 Culturas permanentes tradicionais
+Operação 7.6.1 - Culturas permanentes tradicionais
 
 Área geográfica
 
 Olival tradicional
 
 (ver documento original)
+
+Inclui a área geográfica da Região Demarcada do Douro.
 
 Figueiral extensivo de sequeiro
 
@@ -21,6 +23,8 @@ Pomar tradicional de sequeiro do Algarve
 Amendoal extensivo de sequeiro
 
 (ver documento original)
+
+Inclui a área geográfica da Região Demarcada do Douro.
 
 Castanheiro extensivo de sequeiro
 

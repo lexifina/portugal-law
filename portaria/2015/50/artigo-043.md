@@ -21,3 +21,5 @@ d) Não efetuar mobilizações do solo, exceto em situação de infestação, ap
 e) Não fazer cortes para feno em lameiros de sequeiro, exceto, após parecer favorável da DRAP, se tal constituir uma técnica cultural de manutenção da pastagem;
 
 f) Manter em bom funcionamento os sistemas de rega tradicionais e de drenagem existentes.
+
+g) Manter a subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos.

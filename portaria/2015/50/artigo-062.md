@@ -2,7 +2,11 @@
 
 ### Compromissos dos beneficiários
 
-1 - Para além do disposto no artigo 6.º os beneficiários do apoio previsto no presente capítulo, durante todo o período do compromisso, são obrigados a manter os critérios de elegibilidade, em cada ano do compromisso.
+1 - Para além do disposto no artigo 6.º, os beneficiários do apoio previsto no presente capítulo são obrigados a manter:
+
+a) Os critérios de elegibilidade, em cada ano de compromisso;
+
+b) A subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos.
 
 2 - Os beneficiários do apoio previsto no presente capítulo, no caso de culturas temporárias, devem ainda, durante todo o período de compromisso:
 

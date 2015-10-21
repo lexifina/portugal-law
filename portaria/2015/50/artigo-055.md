@@ -2,7 +2,7 @@
 
 ### Compromissos dos beneficiários
 
-Para além do disposto no artigo 6.º os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
+1- Para além do disposto no artigo 6.º os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
 
 a) Manter os critérios de elegibilidade, em cada ano do compromisso;
 
@@ -19,3 +19,11 @@ iii) 2 CN/hectare de superfície forrageira, no caso de explorações nas restan
 d) Manter cão de guarda de rebanho durante o período de compromisso;
 
 e) Cumprir as obrigações legais em matéria sanitária e de registo animal relativas ao cão de guarda.
+
+f) Manter, durante o período de retenção, o número de CN sob compromisso, pelo período de duração dos compromissos.
+
+2 - Para efeitos da alínea d) do número anterior, no caso de morte do cão de guarda, o beneficiário deve:
+
+a) Proceder à substituição do cão de guarda, no prazo de 30 dias a contar da sua morte;
+
+b) Informar o IFAP, I. P., no prazo de 5 dias após a substituição, da identificação do novo cão de guarda.

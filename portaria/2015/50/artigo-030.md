@@ -15,3 +15,5 @@ d) Cumprir as densidades previstas no anexo VII à presente portaria, da qual fa
 e) Garantir a existência de vegetação de cobertura do solo, no período entre 15 de novembro e 1 de março, com controlo do desenvolvimento vegetativo através de pastoreio ou de cortes sem enterramento, nas subparcelas inseridas em parcelas com IQFP inferior a três;
 
 f) Realizar as mobilizações do solo segundo as curvas de nível nas subparcelas inseridas em parcelas com IQFP superior a dois.
+
+g) Manter a subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos.
