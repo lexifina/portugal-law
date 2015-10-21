@@ -4,16 +4,24 @@
 
 1 - Os montantes anuais de apoio por CN de fêmeas reprodutoras exploradas em linha pura ou machos reprodutores são os constantes do anexo III à presente portaria, da qual faz parte integrante.
 
-2 - Para efeitos de cálculo do apoio às fêmeas reprodutoras, consideram-se apenas aquelas cujo intervalo entre partos de animais registados no livro genealógico ou registo fundador ou entre a inscrição no livro de adultos e o primeiro parto da mesma raça, seja igual ou inferior a:
+2 - Consideram-se, para efeitos de cálculo do apoio às fêmeas reprodutoras, aquelas que se encontrem inscritas no livro de adultos:
 
-a) 36 meses, nos equídeos;
+a) Com pelo menos um filho registado no Livro de Nascimentos e nascido:
 
-b) 24 meses, nos bovinos;
+i) Nos últimos 36 meses, no caso dos equídeos;
 
-c) 18 meses, nos ovinos e caprinos;
+ii) Nos últimos 24 meses, no caso dos bovinos;
 
-d) 16 meses, nos suínos.
+iii) Nos últimos 18 meses, no caso dos ovinos e caprinos;
 
-3 - O disposto no número anterior não é aplicável às fêmeas reprodutoras da raça equina Sorraia.
+iv) Nos últimos 16 meses, no caso dos suínos;
 
-4 - O montante de apoio à fêmea reprodutora é o dobro do previsto no n.º 1 aquando da inscrição da primeira cria no livro de nascimentos, nos casos da espécie bovina e dos equídeos, se cada um destes efetivos reprodutores presentes na exploração for inferior a 10 CN.
+b) Que ainda não se reproduziram e que tenham idade compreendida entre:
+
+i) Mais de 18 meses e menos de 54 meses registados no livro genealógico ou registo fundador, no caso dos equídeos;
+
+ii) Mais de 12 meses e menos de 36 meses registados no livro genealógico ou registo fundador, no caso dos bovinos;
+
+iii) Mais de 12 meses e menos de 27 meses registados no livro genealógico ou registo fundador, no caso dos ovinos e caprinos;
+
+iv) Mais de 6 meses e menos de 24 meses registados no livro genealógico ou registo fundador, no caso dos suínos.
