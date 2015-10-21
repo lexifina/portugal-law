@@ -14,7 +14,7 @@ b) Da data em que lhe é entregue o contrato de transmissão do direito real de 
 
 a) No prazo de um ano e 14 dias seguidos a contar da data mencionada no n.º 1 se o vendedor não preencher e fornecer ao adquirente o formulário de resolução do contrato;
 
-b) No prazo de 94 dias seguidos a contar do momento da assinatura por ambas as partes do contrato, se o mesmo não contiver os elementos referidos no documento complementar previsto no n.º 2 do artigo 11.º
+b) No prazo de três meses e 14 dias seguidos a contar do momento da assinatura por ambas as partes do contrato, se o mesmo não contiver os elementos referidos no documento complementar previsto no n.º 2 do artigo 11.º
 
 4 - Se, nos prazos previstos no número anterior, o vendedor fornecer os elementos em falta, o adquirente passa a dispor, a contar desse momento, da possibilidade de resolver o contrato nos termos previstos no n.º 1.
 

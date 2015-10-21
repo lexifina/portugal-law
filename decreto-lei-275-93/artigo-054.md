@@ -48,13 +48,15 @@ e) A falta de conservação e limpeza das unidades de alojamento objecto do dire
 
 f) O incumprimento do disposto nos n.os 1 a 3 do artigo 32.º, no artigo 33.º e nos n.os 1 e 4 do artigo 34.º;
 
-g) A infracção ao disposto no n.º 1 do artigo 48.º, quando o vendedor tenha intervindo no exercício do comércio;
+g) A infração ao disposto nos n.os 1 a 6 do artigo 47.º-A;
 
-h) A infracção ao disposto no n.º 2 do artigo 48.º;
+h) A infracção ao disposto no n.º 1 do artigo 48.º, quando o vendedor tenha intervindo no exercício do comércio;
 
-i) A violação dos direitos garantidos pelos n.os 1, 7 e 8 do artigo 16.º e pelo artigo 49.º;
+i) A infracção ao disposto no n.º 2 do artigo 48.º;
 
-j) A infracção ao disposto no n.º 2 do artigo 50.º;
+j) A violação dos direitos garantidos pelos n.os 1, 7 e 8 do artigo 16.º e pelo artigo 49.º;
+
+k) A infracção ao disposto no n.º 2 do artigo 50.º;
 
 l) A infracção ao disposto nos n.os 1 a 4 do artigo 50.º-A.
 
