@@ -10,7 +10,7 @@ b) «Agricultor ativo», a pessoa singular ou coletiva, de natureza pública ou 
 
 c) «Animais em pastoreio», os animais, do próprio ou de outrem, que apascentam as superfícies forrageiras e que não estão confinados a um espaço físico de forma permanente;
 
-d) «Assistência técnica», o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associação de agricultores ou cooperativas;
+d) 'Assistência técnica', o apoio efetuado por técnico com formação específica regulamentada para o exercício da atividade de apoio técnico em produção integrada ou agricultura biológica, de acordo com o Decreto-Lei n.º 37/2013, de 13 de março, mediante contrato de prestação de serviços celebrado com associações de agricultores, organizações de produtores ou cooperativas;
 
 e) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;
 
@@ -46,6 +46,6 @@ t) «Superfície agrícola», qualquer subparcela de terras aráveis, prados e p
 
 u) «Superfície forrageira», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;
 
-v) «Superfície forrageira elegível», as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes, excluindo os prados e pastagens permanentes com predominância de vegetação arbustiva, e as superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio;
+v) 'Superfície forrageira elegível', as subparcelas destinadas à alimentação animal ocupadas por culturas forrageiras temporárias, prados e pastagens permanentes sem predominância de vegetação arbustiva, superfícies em sobcoberto de sobreiros para produção de cortiça utilizadas para pastoreio e, no caso da Agricultura Biológica, os prados e pastagens permanentes prática local;
 
 w) «Terras aráveis», as subparcelas cultivadas para produção vegetal ou as disponíveis para produção vegetal, ainda que se encontrem em pousio.

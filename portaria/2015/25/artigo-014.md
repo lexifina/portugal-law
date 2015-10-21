@@ -34,7 +34,7 @@ e) Frutos secos e olival - 60 árvores por ha;
 
 f) Vinha - 2.000 cepas por ha, exceto nos casos de áreas ocupadas com vinha conduzida em pérgula ou de áreas situadas na Região Demarcada dos Vinhos Verdes, em que a densidade mínima é de 1.000 cepas por hectare.
 
-4 - Os beneficiários do apoio previsto no presente capítulo devem ainda cumprir, no caso de culturas permanentes regadas, as seguintes condições:
+4 - Os beneficiários do apoio previsto no presente capítulo devem ainda cumprir, no caso de culturas permanentes regadas, com exceção da vinha, as seguintes condições:
 
 a) Realizar análise de terras, que inclua teor de matéria orgânica, no decurso do quarto ano do compromisso;
 
