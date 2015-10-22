@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 12288/2015
+Na sequência da publicação no Diário da República, 2.ª série, n.º 92, de 13 de maio de 2015 (fls. 11958 a 11959), do aviso n.º 5260/2015, torna-se público que em Sessão Ordinária da Assembleia de Freguesia, realizada em 30 de setembro de 2015, sob proposta da Junta de Freguesia, e após ter decorrido o prazo para consulta pública, nos termos do artigo 101.º do Código do Procedimento Administrativo (DL n.º 4/2015, de 7 de janeiro), foi aprovado o Regulamento de Licenciamento de Atividades Diversas da União Freguesias da Sé e São Lourenço do Concelho de Portalegre, com o conteúdo constante da citada publicação, o qual não sofreu qualquer alteração, entrando o mesmo em vigor decorrido o prazo constante do edital afixado nas instalações desta Junta de Freguesia.
+1 de outubro de 2015. - O Presidente da União das Freguesias da Sé e São Lourenço, Artur Jorge Coelho Correia.
+308997241
