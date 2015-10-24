@@ -8,7 +8,7 @@ a) As opções de natureza orçamental com impacte no serviço;
 
 b) As opções e prioridades do ciclo de gestão seguinte;
 
-c) A avaliação realizada ao desempenho dos dirigentes superiores.
+c) [Revogada].
 
 2 - Sem prejuízo do disposto no número anterior, a atribuição da menção Desempenho insuficiente no processo de auto-avaliação é considerada pelo membro do Governo responsável, para efeitos da aplicação de um conjunto de medidas que podem incluir a celebração de nova carta de missão, na qual expressamente seja consagrado o plano de recuperação ou correcção dos desvios detectados.
 

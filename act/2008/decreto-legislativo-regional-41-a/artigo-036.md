@@ -10,14 +10,10 @@ b) Desempenho adequado, correspondendo a uma avaliação final de desempenho pos
 
 c) Desempenho inadequado, correspondendo a uma avaliação final de 1 a 1,999.
 
-2 - A atribuição da menção qualitativa de Desempenho relevante é, por iniciativa do avaliado ou do avaliador, objecto de apreciação pelo conselho coordenador da avaliação para efeitos de eventual reconhecimento de mérito, significando Desempenho excelente.
+2 - [Revogado].
 
-3 - A iniciativa e o reconhecimento referidos no número anterior devem fundamentar-se, em regra, nos seguintes pressupostos:
+3 - [Revogado].
 
-a) O dirigente atingiu e ultrapassou todos os objectivos;
+4 - [Revogado].
 
-b) O dirigente demonstrou em permanência capacidades de liderança, de gestão e compromisso com o serviço público que podem constituir exemplo para os trabalhadores.
-
-4 - O reconhecimento de mérito previsto nos n.os 2 e 3 e a menção qualitativa e respectiva quantificação de avaliação que fundamenta a atribuição de prémio de desempenho são objecto de publicitação no serviço pelos meios considerados mais adequados.
-
-5 - A diferenciação de desempenhos é definida por resolução do Governo Regional.
+5 - [Revogado].
