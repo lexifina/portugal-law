@@ -1,0 +1,5 @@
+Aviso n.º 12435/2015
+Jorge Manuel Damásio Araújo Serafim, Presidente da Junta de Freguesia de Sousel, torna público que, por deliberação tomada em reunião ordinária da Junta de Freguesia de 22 de julho de 2015 e na sessão da Assembleia de Freguesia de 30 de julho de 2015 e nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, que aprova o Novo Código do Procedimento Administrativo, é submetido a consulta pública o projeto de Regulamento do Cemitério e taxas da Freguesia de Sousel, pelo período de 30 dias a contar da data da publicação do presente aviso no Diário da República, 2.ª série, o qual se encontra disponível no site, podendo também ser consultado no Serviço de Atendimento desta Junta de Freguesia durante as horas normais de expediente e sobre ele serem formuladas por escrito as observações tidas por convenientes, dirigidas ao Presidente da Junta de Freguesia de Sousel.
+Para geral conhecimento se publica este aviso e outros de igual teor que vão ser afixados nos locais de estilo.
+19 de outubro de 2015. - O Presidente da Freguesia de Sousel, Jorge Manuel Damásio Araújo Serafim.
+309035975
