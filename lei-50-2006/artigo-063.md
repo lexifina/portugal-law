@@ -4,7 +4,15 @@
 
 1 - O cadastro nacional tem por objecto o registo e o tratamento das sanções principais e acessórias, bem como das medidas cautelares aplicadas em processo de contra-ordenação e das decisões judiciais, relacionadas com aqueles processos, após decisão definitiva ou trânsito em julgado.
 
-2 - Estão ainda sujeitas a registo a suspensão, a prorrogação da suspensão e a revogação das decisões tomadas no processo de contra-ordenação.
+2 - Estão ainda sujeitas a registo:
+
+a) A suspensão das sanções;
+
+b) A prorrogação da suspensão das sanções;
+
+c) A revogação da decisão tomada no processo de contraordenação;
+
+d) A advertência.
 
 3 - O cadastro nacional é organizado em ficheiro central informatizado, dele devendo constar:
 

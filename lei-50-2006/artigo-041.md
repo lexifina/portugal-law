@@ -10,7 +10,7 @@
 
 ### Determinação das medidas cautelares
 
-1 - Quando se revele necessário para a instrução do processo ou quando estejam em causa a saúde, a segurança das pessoas e bens e o ambiente, a autoridade administrativa pode determinar uma ou mais das seguintes medidas:
+1 - Quando se revele necessário para a instrução do processo de contraordenação ambiental ou quando estejam em causa a saúde, a segurança das pessoas e bens e o ambiente, a autoridade administrativa pode determinar uma ou mais das seguintes medidas:
 
 a) Suspensão da laboração ou o encerramento preventivo no todo ou em parte da unidade poluidora;
 

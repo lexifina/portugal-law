@@ -2,4 +2,4 @@
 
 ### Princípio da legalidade
 
-Só é punido como contra-ordenação ambiental o factodescrito e declarado passível de coima por lei anterior ao momento da sua prática.
+Só é punido como contraordenação o facto descrito e declarado passível de coima por lei anterior ao momento da sua prática.

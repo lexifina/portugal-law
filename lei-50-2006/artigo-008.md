@@ -2,10 +2,16 @@
 
 ### Responsabilidade pelas contra-ordenações
 
-1 - As coimas podem ser aplicadas às pessoas colectivas, públicas ou privadas, independentemente da regularidade da sua constituição, bem como às sociedades e associações sem personalidade jurídica.
+1 - Os administradores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração em pessoas coletivas, ainda que irregularmente constituídas, e outras quaisquer entidades equiparadas são subsidiariamente responsáveis:
 
-2 - As pessoas colectivas ou equiparadas, nos termos do número anterior, são responsáveis pelas contra-ordenações praticadas, em seu nome ou por sua conta, pelos titulares dos seus órgãos sociais, mandatários, representantes ou trabalhadores no exercício das suas funções.
+a) Pelas coimas aplicadas a infrações por factos praticados no período do exercício do seu cargo ou por factos anteriores quando tiver sido por culpa sua que o património da sociedade ou pessoa coletiva se tornou insuficiente para o seu pagamento;
 
-3 - Os titulares do órgão de administração das pessoas colectivas e entidades equiparadas, bem como os responsáveis pela direcção ou fiscalização de áreas de actividade em que seja praticada alguma contra-ordenação, incorrem na sanção prevista para o autor, especialmente atenuada, quando, conhecendo ou devendo conhecer a prática da infracção, não adoptem as medidas adequadas para lhe pôr termo imediatamente, a não ser que sanção mais grave lhes caiba por força de outra disposição legal.
+b) Pelas coimas devidas por factos anteriores quando a decisão definitiva que as aplicar for notificada durante o período do exercício do seu cargo e lhes seja imputável a falta de pagamento;
 
-4 - A responsabilidade prevista no n.º 2 é excluída se a pessoa colectiva provar que cumpriu todos os deveres a que estava obrigada, não logrando, apesar disso, impedir a prática da infracção por parte dos seus trabalhadores ou de mandatários sem poderes de representação.
+c) Pelas custas processuais decorrentes dos processos instaurados no âmbito da presente lei.
+
+2 - A responsabilidade subsidiária prevista no número anterior é solidária se forem várias as pessoas a praticar os atos ou omissões culposos de que resulte a insuficiência do património das entidades em causa.
+
+3 - Presume-se a insuficiência de património, nomeadamente, em caso de declaração de insolvência e de dissolução e encerramento da liquidação.
+
+4 - (Revogado).

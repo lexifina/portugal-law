@@ -2,7 +2,7 @@
 
 ### Sanções acessórias
 
-1 - Pela prática de contra-ordenações ambientais graves e muito graves podem ser aplicadas ao infractor as seguintes sanções acessórias:
+1 - Pela prática de contraordenações graves e muito graves podem ser aplicadas ao infrator as seguintes sanções acessórias:
 
 a) Apreensão e perda a favor do Estado dos objectos pertencentes ao arguido, utilizados ou produzidos aquando da infracção;
 
