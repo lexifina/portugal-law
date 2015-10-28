@@ -1,0 +1,8 @@
+Aviso n.º 12568/2015
+Alteração ao Plano de Pormenor para Ampliação do Parque Industrial Manuel Lourenço Ferreira - Discussão pública
+Eng. José Júlio Henriques Norte, Presidente da Câmara Municipal de Mortágua, torna público, nos termos e para os efeitos previstos nos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Mortágua deliberou, na sua reunião de 7 de outubro de 2015, proceder à abertura de discussão pública da Proposta de Alteração do Plano de Pormenor para Ampliação do Parque Industrial Manuel Lourenço Ferreira.
+A discussão pública encontra-se aberta por um período de 20 dias, contados a partir do 5.º dia posterior ao da publicação do presente aviso no Diário da República.
+A Proposta de Alteração do Plano de Pormenor e os respetivos documentos que a integram, encontram-se disponíveis para consulta, dos interessados na Divisão de Planeamento e Administração do Território da Câmara Municipal de Mortágua, localizada no edifício dos Paços do Município, todos os dias úteis, durante a hora de expediente e no sítio da Internet, em www.cm-mortagua.pt.
+Até ao termo do período de discussão pública todos os interessados poderão apresentar reclamações, observações e sugestões desde que formuladas por escrito e dirigidas ao Senhor Presidente da Câmara Municipal de Mortágua, Rua Dr. João Lopes de Morais, 3450-153 Mortágua, podendo ser entregues nos Serviços Administrativos da Divisão de Administração Geral e Finanças ou remetidas pelo correio.
+14 de outubro de 2015. - O Presidente da Câmara, Eng.º José Júlio Henriques Norte.
+609034013
