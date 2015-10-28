@@ -1,0 +1,5 @@
+Aviso n.º 12555/2015
+Joviano Martins Vitorino, Presidente da Câmara Municipal de Alter do Chão:
+Torna público, para cumprimento do preceituado no artigo 118.º do Código do Procedimento Administrativo, ainda aplicável ao presente procedimento, por via do n.º 1 do artº. 8.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, e dando execução ao deliberado por esta Câmara Municipal em sua reunião realizada no dia 16/10/2015, que, a partir da publicação no Diário da República 2.ª série e pelo prazo de 30 dias úteis, está em apreciação pública nesta Câmara o Projeto de Regulamento Geral de Preços Municipais para posterior sujeição ao Órgão Deliberativo. Mais faz saber que o Projeto de Regulamento, bem como a fundamentação económico-financeira do valor dos preços municipais encontra-se disponível no sítio da Internet da Câmara Municipal de Alter do Chão (www.cm-alter-chao.pt), bem assim como na Secretaria da Câmara Municipal, durante o horário normal de expediente (das 09H00 às 16H00).
+19 de outubro de 2015. - O Presidente da Câmara, Joviano Martins Vitorino.
+309035245
