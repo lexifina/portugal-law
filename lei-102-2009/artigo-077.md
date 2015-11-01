@@ -12,4 +12,6 @@ b) Entidade formadora especificamente certificada para o efeito, nos termos do r
 
 3 - O manual de certificação previsto na lei que regula o acesso e exercício da atividade de formação profissional de técnico superior de segurança do trabalho e de técnico de segurança do trabalho descreve os requisitos das formações referidas no número anterior, tendo em conta a necessária articulação com o Catálogo Nacional de Qualificações e o sistema de certificação de entidades formadoras.
 
-4 - Constitui contraordenação grave a violação do disposto no n.º 2.
+4 - O comandante de navio abrangido pela Convenção do Trabalho Marítimo, 2006, representa o armador na execução das atividades de prevenção, independentemente da modalidade de organização do serviço de segurança e saúde no trabalho.
+
+5 - Constitui contraordenação grave a violação do disposto no n.º 2.
