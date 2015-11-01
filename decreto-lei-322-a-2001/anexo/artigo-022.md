@@ -130,14 +130,14 @@ Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 20 - Pela oposição da sociedade ao registo por depósito a promover pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
 
-21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3, 5 ou 6, do Código do Registo Comercial - (euro) 30.
+21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3 ou 5 do Código do Registo Comercial - 30 (euro).
 
 22 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
 
-23 - Constitui receita do IRN, I. P., o montante de (euro) 75 por inscrição e (euro) 25 por averbamento ou depósito, a deduzir por cada acto aos emolumentos previstos neste artigo.
+23 - [Revogado].
 
-24 - O facto de a taxa das publicações obrigatórias se encontrar incluída no valor dos emolumentos previstos neste artigo não prejudica o seu tratamento autónomo, designadamente no que respeita ao facto de constituírem receita do IRN, I. P.
+24 -[Revogado].
 
 25 -(Revogado.)
 
-26 - As taxas previstas no n.º 13 constituem receita do IRN, I. P.
+26 - [Revogado].

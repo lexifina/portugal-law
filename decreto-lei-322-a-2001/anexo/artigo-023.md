@@ -112,6 +112,6 @@ cancelamento - (euro) 50.
 
 8.4.2 - A nível concelhio ... 150
 
-9 - Os emolumentos previstos nos n.os 8.1.1, 8.2 e 8.4.3 constituem receita do IRN, I. P., e do IGFEJ, I. P., na proporção de 85 % e 15 %, respetivamente.
+9 -(Revogado.)
 
-10 - Os emolumentos previstos nos n.os 8.3, 8.4.1 e 8.4.2 constituem receita do IRN, I. P.
+10 -(Revogado.)

@@ -106,9 +106,9 @@
 
 5.6 - O emolumento devido pela prestação de informação para fins de investigação científica ou de estatística que requeira um tratamento informático especial é o correspondente ao custo efectivo do serviço, acrescido de 10 % desse montante;
 
-5.7 - Os emolumentos previstos nos n.os 5.2, 5.3, 5.4, 5.5 e 5.6 constituem receita do IRN, I. P., e do IGFEJ, I. P., na proporção de 85 % e 15 %, respetivamente;
+5.7 - (Revogado.)
 
-5.8 - Os emolumentos previstos no n.º 5.1 constituem receita do IRN, I. P.
+5.8 - (Revogado.).
 
 6 - Pelo processo de justificação - (euro) 100.
 
@@ -118,16 +118,16 @@
 
 9 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
 
-10 - Para fazer face ao encargo referido no número anterior, constitui receita do IRN, I. P., o montante de (euro) 25, a deduzir dos emolumentos previstos nos n.os 1.1, 1.2, 1.3 e 1.5, e de (euro) 15, a deduzir dos emolumentos previstos nos n.os 1.6.1 e 1.6.2, por cada um dos atos previstos em tais preceitos.
+10 - (Revogado.)
 
 11 - (Revogado.)
 
-12 - Os emolumentos cobrados pelos atos de registo requeridos por via eletrónica constituem receita do IRN, I. P.
+12 - (Revogado.)
 
-12.1 - Constituem, igualmente, receita do IRN, I. P., os valores previstos nos n.os 1.7, 1.8, 1.10, 1.11, 1.12, 2 e 3.
+12.1 - (Revogado.)
 
 13 - (Revogado.)
 
 14 - Os montantes pecuniários a pagar em resultado da aplicação de reduções emolumentares previstas nesta tabela devem ser arredondados, por excesso ou por defeito, para a unidade decimal mais próxima. Caso os montantes pecuniários a pagar resultem num valor exatamente intermédio, o montante deve ser arredondado por excesso.
 
-14.1 - Os valores resultantes dos arredondamentos efetuados nos termos do número anterior são suportados pelo Instituto dos Registos e do Notariado, I. P., nos arredondamentos por defeito e revertem para a mesma entidade nos arredondamentos por excesso.
+14.1 - (Revogado.)

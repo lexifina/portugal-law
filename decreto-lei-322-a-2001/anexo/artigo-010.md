@@ -42,7 +42,7 @@ q) Processo de impedimento do casamento;
 
 r) Processo de sanação da anulabilidade do casamento por falta de testemunhas;
 
-s) Certidões a que se referem o n.º 3 do artigo 189.º, a alínea g) do n.º 1 do artigo 210.º-F, os n.os 5 a 7 do artigo 215.º e a alínea e) do n.º 1 do artigo 272.º-B do Código do Registo Civil;
+s) Certidões a que se referem o n.º 2 do artigo 189.º, a alínea g) do n.º 1 do artigo 210.º-F, os n.os 5 a 7 do artigo 215.º e a alínea e) do n.º 1 do artigo 272.º-B do Código do Registo Civil;
 
 t) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no Código do Registo Civil, no Regulamento da Nacionalidade Portuguesa e em legislação avulsa aplicável ao registo civil e da nacionalidade e que não devam entrar em regra de custas;
 

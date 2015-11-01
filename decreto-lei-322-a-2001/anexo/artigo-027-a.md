@@ -56,6 +56,8 @@ suporte de papel.
 
 números anteriores por cada prédio a mais, até ao limite de (euro) 30 000 - (euro) 50.
 
+7.1 - No caso de procedimento que titule atos de permuta, o acréscimo previsto no número anterior conta-se apenas a partir do terceiro prédio.
+
 8 - Pelo documento de retificação a título elaborado no âmbito do procedimento, por erro não
 
 imputável aos serviços - (euro) 50.
@@ -68,6 +70,4 @@ imputáveis aos serviços - (euro) 50.
 
 título de emolumentos pessoais, quando estes sejam devidos.
 
-11 - Constitui receita do IRN, I. P., metade dos emolumentos previstos neste artigo, assim como os
-
-emolumentos cobrados por força dos n.os 4, 5, 6, 8 e 9.
+11 - [Revogado].

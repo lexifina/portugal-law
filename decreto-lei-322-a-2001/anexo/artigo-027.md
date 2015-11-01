@@ -52,9 +52,9 @@
 
 3.7 - Os emolumentos previstos nos n.os 3.5 e 3.6 têm um valor único e incluem a verificação da admissibilidade e aprovação de firma e ainda o custo da publicação obrigatória do registo.
 
-3.8 - Constitui receita do IRN, I. P., metade dos emolumentos previstos no n.º 3;
+3.8 - [Revogado];
 
-3.8.1 - No caso do emolumento previsto no n.º 3.1, o montante referido no número anterior é deduzido da verba correspondente à conservatória do registo comercial.
+3.8.1 - [Revogado].
 
 4 - Regime especial de criação imediata de representações permanentes:
 
@@ -64,9 +64,9 @@
 
 5 - Impugnação:
 
-5.1 - Por cada processo de recurso hierárquico - (euro) 300;
+5.1 - Por cada processo de recurso hierárquico - 175 (euro)
 
-5.1.1 - Por cada processo de recurso hierárquico de conta ou de recusa de passagem de certidão - (euro) 150;
+5.1.1 - Por cada processo de recurso hierárquico de conta ou de recusa de passagem de certidão - 120 (euro)
 
 5.2 - Em caso de procedência do recurso, há lugar à devolução dos emolumentos previstos nos números anteriores;
 
@@ -104,7 +104,7 @@
 
 8.2 - Pela tradução de documentos, por cada página - (euro) 20;
 
-8.3 - Constitui receita do IRN, I. P., a quantia de (euro) 10 a deduzir do emolumento previsto no número anterior para pagamento do emolumento pessoal.
+8.3 - [Revogado].
 
 9 - Fotocópias e respetiva conferência, públicas-formas e certificação da conformidade de documentos eletrónicos com os documentos originais:
 

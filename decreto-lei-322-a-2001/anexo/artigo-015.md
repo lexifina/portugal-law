@@ -32,7 +32,7 @@ b) Rectificação dos actos de registo de alteração de firma ou denominação 
 
 c) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
 
-d) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+d) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;
 
 e) (Revogada.)
 

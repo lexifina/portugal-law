@@ -66,4 +66,4 @@
 
 7.7 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
-8 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 6, do Código do Registo Predial - (euro) 30.
+8 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 7, do Código do Registo Predial - 30 (euro).

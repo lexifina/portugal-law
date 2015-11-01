@@ -18,4 +18,4 @@ d) Alteração do código de actividade económica (CAE);
 
 e) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
 
-f) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+f) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.

@@ -36,9 +36,19 @@
 
 3.1 - Processo e registo de casamento - (euro) 120;
 
-3.2 - Processo e registo de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora do horário de funcionamento dos serviços ou em sábado, domingo ou dia feriado com o transporte assegurado pelos interessados ou com acordo estabelecido com os interessados relativamente às despesas de transporte - (euro) 190;
+3.2 - Processo e registo de casamento não urgente
 
-3.3 - Os emolumentos previstos nos n.os 3.1 e 3.2 são devidos à conservatória organizadora do processo de casamento, ainda que um ou mais dos restantes atos previstos no número anterior sejam promovidos ou efetuados noutras conservatórias.
+celebrado, a pedido das partes, fora da conservatória
+
+ou nesta, mas fora do horário de funcionamento dos
+
+serviços ou em sábado, domingo ou dia feriado com o transporte assegurado pelos interessados ou com acordo
+
+estabelecido com os interessados relativamente às despesas
+
+de transporte — € 200;
+
+3.3 - (Revogado.)
 
 3.4 - Os emolumentos previstos nos números anteriores incluem, consoante os casos:
 
@@ -64,7 +74,7 @@ h) O assento de casamento ou o assento de transcrição de casamento lavrado no 
 
 3.4.3 - Processo de suprimento de autorização para casamento de menores - (euro) 60;
 
-3.5 - Os emolumentos previstos nos n.os 3.1 a 3.3 são devidos à conservatória organizadora do processo de casamento ainda que um ou mais dos restantes actos previstos no número anterior sejam promovidos ou efectuados noutras conservatórias.
+3.5 - Os emolumentos previstos nos n.os 3.1 e 3.2 são devidos à conservatória organizadora do processo de casamento, ainda que um ou mais dos restantes atos previstos no número anterior sejam promovidos ou efetuados noutras conservatórias.
 
 4 - Convenções antenupciais, a sua alteração ou revogação, se for convencionado um dos regimes tipo previstos no Código Civil - (euro) 100.
 
@@ -80,7 +90,7 @@ c) (Revogada.)
 
 4.1 - Convenções antenupciais, a sua alteração ou revogação, se for convencionado um regime atípico de bens - (euro) 160;
 
-4.2 - Pelo registo da convenção ou da alteração do regime de bens efetuada perante entidade diversa de conservatória do registo civil - (euro) 30.
+4.2 - Pelo registo da convenção ou da sua alteração efetuada perante entidade diversa de conservatória do registo civil - (euro) 30.
 
 5 - Processos de justificação judicial e administrativa, quando requeridos pelos interessados - (euro) 100;
 
@@ -92,11 +102,11 @@ c) (Revogada.)
 
 § 1.º O emolumento previsto neste número inclui:
 
-a) (Revogada.)
+a) (Revogado.)
 
-b) (Revogada.)
+b) (Revogado.)
 
-c) (Revogada.)
+c) (Revogado.)
 
 d) A autorização de uso de apelidos do ex-cônjuge.
 
@@ -108,7 +118,7 @@ d) A autorização de uso de apelidos do ex-cônjuge.
 
 6.2.1 - Partilha e registo do património conjugal - (euro) 375;
 
-6.2.2 - O emolumento devido pelos processos previstos nos n.os 6.2 e 6.2.1 inclui todos os registos a que haja lugar dos bens móveis ou participações sociais sujeitos a registo, independentemente do seu número, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
+6.2.2 - O emolumento devido pelos processos previstos nos n.os 6.2 e 6.2.1 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
 
 a) Pelo eventual registo de aquisição de bens imóveis a favor do outro partilhante - (euro) 125;
 
@@ -132,9 +142,9 @@ b) Por cada bem, além do primeiro, adjudicado a cada partilhante, (euro) 30 por
 
 § 1.º (Revogado.)
 
-a) (Revogada.)
+a) (Revogado.)
 
-b) (Revogada.)
+b) (Revogado.)
 
 § 2.º (Revogado.)
 
@@ -148,7 +158,9 @@ b) (Revogada.)
 
 6.10.4 - Pela partilha e registo dos bens partilhados - (euro) 375;
 
-6.10.5 - O valor fixado para o processo previsto no n.º 6.10.2 inclui todos os registos a que haja lugar dos bens imóveis ou móveis ou participações sociais sujeitos a registo e a ele acresce por cada bem, além do primeiro, (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o artigo 25.º, n.º 1.6, do presente Regulamento, até ao limite de (euro) 30 000;
+6.10.5 - O valor fixado para o processo previsto no n.º 6.10.2 inclui todos os registos de bens imóveis, móveis ou participações sociais e a ele acresce por cada bem, além do primeiro, (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o n.º 1.6 do artigo 25.º do presente Regulamento, até ao limite de (euro) 30 000.
+
+6.10.5.1 - O emolumento devido pelos processos previstos nos n.os 6.10.3 e 6.10.4 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
 
 6.10.5.1 - O emolumento devido pelos processos previstos nos n.os 6.10.3 e 6.10.4, inclui todos os registos a que haja lugar dos bens móveis ou participações sociais sujeitos a registo, independentemente do seu número, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:
 
@@ -168,7 +180,7 @@ b) Por cada bem, além do primeiro, adjudicado a cada partilhante (euro) 30 por 
 
 6.12 - Procedimento de mudança de sexo e correspondente alteração de nome próprio - (euro) 200;
 
-6.13 - Pela desistência ou não conclusão de atos, processos e procedimentos por motivos imputáveis às partes é devido metade do emolumento previsto;
+6.13 - Pela desistência ou não conclusão de atos, processos e procedimentos previstos no presente artigo, por motivos imputáveis às partes é devido metade do emolumento previsto;
 
 6.14 - Por cada consulta efetuada a bases de dados dos registos no âmbito dos processos previstos nos n.os 6.1, 6.2, 6.2.1 e 6.10 é devido valor igual ao valor mais baixo previsto para a emissão de certidão online, ou em papel caso aquela não exista, relativa a cada espécie de registo;
 
@@ -194,13 +206,13 @@ b) Por cada bem, além do primeiro, adjudicado a cada partilhante (euro) 30 por 
 
 7.1.4 - (Revogado.)
 
-7.2 - Certificado de nacionalidade - (euro) 50;
+7.2 - Certificado de nacionalidade - (euro) 35;
 
 7.3 - Fotocópia não certificada, por cada página ou fracção - (euro) 1.
 
 7.4 - Pela emissão de certificado relativo a processo ou procedimento não concluído por motivo imputável às partes - (euro) 50;
 
-7.5 - Os emolumentos previstos nos n.os 7.1.1 a 7.4 constituem receita do IRN, I. P.
+7.5 - [Revogado];
 
 8 - (Revogado.)
 
@@ -216,11 +228,7 @@ b) Por cada bem, além do primeiro, adjudicado a cada partilhante (euro) 30 por 
 
 11 - Os emolumentos devidos pela prática dos atos previstos neste artigo integram os emolumentos pessoais eventualmente devidos, a pagar pelo IRN, I. P.
 
-12 - Para fazer face ao encargo referido no número anterior, constitui receita do IRN, I. P.:
-
-a) O montante de (euro) 15 a deduzir, por cada ato, aos emolumentos previstos nos n.os 1 a 5;
-
-b) Metade dos emolumentos pagos nos casos previstos nos n.os 3.2 e 6;
+12 - [Revogado];
 
 c) (Revogado.)
 
@@ -240,7 +248,7 @@ c) (Revogado.)
 
 13.2.2 - Pelo acesso a informação disponível a nível concelhio - (euro) 30;
 
-13.3 - Prestação de informação para fins de investigação científica e de dados estatísticos ou outros legalmente admissíveis, que requeira acesso à base de dados do registo civil ou da identificação civil:
+13. 3 - Prestação de informação para fins de investigação científica e de dados estatísticos ou outros legalmente admissíveis, que requeira acesso à base de dados do registo civil ou da identificação civil:
 
 13.3.1 - O emolumento devido pela prestação de informação para fins de investigação científica ou de estatística que requeira um tratamento informático especial é o correspondente ao custo efectivo do serviço, acrescido de 10 % desse montante.
 
@@ -252,6 +260,6 @@ c) (Revogado.)
 
 13.3.2.3 - Por listagem fornecida pelo IRN, I. P., anualmente - (euro) 200;
 
-13.4 - Os emolumentos previstos nos n.os 13.1.1, 13.1.2, 13.2 e 13.3 constituem receita do IRN, I. P., e do IGFEJ, I. P., na proporção de 85 % e 15 %, respetivamente;
+13.4 - [Revogado];
 
-13.5 - Os emolumentos previstos nos n.os 13.1.3 e 13.3.2 constituem receita do IRN, I. P.
+13.5 - [Revogado];

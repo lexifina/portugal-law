@@ -24,7 +24,7 @@ b) Os emolumentos devidos por actos de realização oficiosa sujeitos a tributa�
 
 c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo da obrigação de registar.
 
-1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais, até ao limite de (euro) 30 000;
+1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais, até ao limite de (euro) 30 000, com exceção dos atos de anexação a que se refere a verba 2.17 e do ónus de não fracionamento referido na verba 2.18, casos em que o acréscimo é devido apenas a partir do terceiro prédio.
 
 1.3 - (Revogado.)
 
@@ -126,13 +126,15 @@ b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (
 
 11.1 - Pela desistência de processo de justificação ou de retificação que não seja de efetuar ao abrigo dos artigos 124.º e 125.º do Código do Registo Predial - (euro) 100.
 
-12 - Pela recusa, excepto nos casos abrangidos pelo n.º 7 do artigo 73.º do Código do Registo Predial - (euro) 50.
+12 - Pela recusa, exceto nos casos abrangidos pelo n.º 8 do artigo 73.º do Código do Registo Predial - (euro) 50.
 
-13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2, 3, 6 ou 7 do artigo 73.º do Código do Registo Predial - (euro) 30.
+12.1 - Se o emolumento devido pelo ato de registo for inferior ao emolumento previsto no número anterior, pela recusa é devido o emolumento correspondente ao ato.
+
+13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2, 3, 7 ou 8 do artigo 73.º do Código do Registo Predial - (euro) 30.
 
 14 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
 
-15 - Constitui receita do IRN, I. P., o montante de (euro) 75 por inscrição e (euro) 25 por averbamento, a deduzir aos emolumentos cobrados ao abrigo do presente artigo.
+15 - [Revogado].
 
 16 - (Revogado.)
 
@@ -152,4 +154,4 @@ b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (
 
 19.2 - Pedido verbalmente num serviço de registo com competência para a prática de atos de registo predial - (euro) 10.
 
-20 - As taxas previstas nos n.os 18 e 19 constituem integralmente receita do IRN, I. P.
+20 - [Revogado].
