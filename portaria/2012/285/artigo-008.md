@@ -22,4 +22,4 @@ c) (euro) 45 pela assinatura por três anos;
 
 d) (euro) 50 pela assinatura por quatro anos.
 
-3 - As taxas referidas nos números anteriores constituem receita do IRN, I. P.
+3 - [Revogado.]
