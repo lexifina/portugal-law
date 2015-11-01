@@ -10,4 +10,4 @@ b) Por três anos, (euro) 20;
 
 c) Por cinco anos, (euro) 40.
 
-2 - As taxas previstas no número anterior constituem receita do IRN, I. P.
+2 - (Revogado).
