@@ -16,4 +16,4 @@ d) (euro) 10 pela assinatura por quatro anos.
 
 3 - Pela certidão de contas anuais em suporte de papel é devida a taxa única de (euro) 55.
 
-4 - As taxas previstas no presente artigo constituem receita da Direcção-Geral dos Registos e do Notariado.
+4 - (Revogado).
