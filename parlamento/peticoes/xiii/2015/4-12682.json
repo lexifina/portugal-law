@@ -1,0 +1,598 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12682",
+  "numero": "4",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-11-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-01-12",
+            "entidades": null,
+            "id": "101206",
+            "tipo": null,
+            "titulo": "Audição em 2016-01-12 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2015-12-03",
+            "dataResposta": "2015-12-23",
+            "entidades": [
+              "Câmara Municipal de Sesimbra"
+            ],
+            "nrOficio": "33/8ªCEC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-12-03",
+            "dataResposta": "2016-01-22",
+            "entidades": [
+              "Câmara Municipal de Setúbal"
+            ],
+            "nrOficio": "34/8ªCEC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-12-11",
+            "dataResposta": "2015-12-28",
+            "entidades": [
+              "Parque Escolar E.P.E."
+            ],
+            "nrOficio": "44/8ªCEC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2015-12-03",
+            "dataResposta": "2016-01-18",
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "32/8ªCEC/2015",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-01-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "757627",
+                "obs": null,
+                "pag": [
+                  "12-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-22",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/011/2016-01-22/12?pgs=12-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-12-01",
+        "DataArquivo": "2016-01-19",
+        "DataBaixaComissao": "2015-11-20",
+        "DataEnvioPAR": "2016-01-20",
+        "DataReaberta": "2015-12-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-12-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b334f444e6c5a6a67304c5749344f4449744e4751305a5331695a5441784c5456684f445932597a6b77596a5269595335775a47593d&fich=9783ef84-b882-4d4e-be01-5a866c90b4ba.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6c4d4451305a5451324c546b314e5467744e47526b4d7931684d325a694c5451314d6d59354d3259324e575a6a595335775a47593d&fich=be044e46-9558-4dd3-a3fb-452f93f65fca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6a4e54597a595468684c574a694d546b744e47526a4f4331685a4467794c5752685a574e684f5755354d4746684e5335775a47593d&fich=3c563a8a-bb19-4dc8-ad82-daeca9e90aa5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249354e7a41784e7a557a4c546b314d3245744e4756684d693168593246684c545a6d596a466b4e6a677a4d5452684d5335775a47593d&fich=b9701753-953a-4ea2-acaa-6fb1d68314a1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-12-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6c4f5463304e444a6a4c5756694e5449744e4446694f4330354f54566c4c544a6d597a51784d7a51784e574d784d6935775a47593d&fich=ce97442c-eb52-41b8-995e-2fc413415c12.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-01-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d794e44646a4d7a597a4c574d33593249744e44526d4e6930344d5759794c574e684e574577593255354e4756695a4335775a47593d&fich=3247c363-c7cb-44f6-81f2-ca5a0ce94ebd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2015-12-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256685a6a6b775a4441344c544d315a6d55744e474d344d5331694d544a684c5449344f5745305a4749314d44646c4d6935775a47593d&fich=eaf90d08-35fe-4c81-b12a-289a4db507e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249774f47517a4e6a63794c5446684d4455744e4449794f433035595759324c5467794e5756685a474668595755344f4335775a47593d&fich=b08d3672-1a05-4228-9af6-825eadaaae88.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d304d4451334e54566d4c5451355a4755744e446c6b5a4331684d4749774c574a694d54677a5a6a42694e575a69596935775a47593d&fich=c404755f-49de-49dd-a0b0-bb183f0b5fbb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2015-12-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251344d5752684f44566c4c544d31597a55744e4441315a6931684e4455774c574d7a596d5a6a4e446b344e54646b4d6935775a47593d&fich=d81da85e-35c5-405f-a450-c3bfc49857d2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-12-01",
+            "gp": "PS",
+            "id": "6050",
+            "motivoCessacao": null,
+            "nome": "André Pinotes Batista"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-02-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-11-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314f444932596a59345969316d4e4751354c5451324e6a5574596a6b325a53316b4d7a45325a44466a4e6d49344f4441756347526d&fich=5826b68b-f4d9-4665-b96e-d316d1c6b880.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "39881",
+      "39845",
+      "40048",
+      "40055",
+      "40067",
+      "40069"
+    ],
+    "Iniciativasoriginadas": [
+      "39881",
+      "39845",
+      "40048",
+      "40055",
+      "40067",
+      "40069"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=02:58:08:222&drc=00:05:24:246"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:03:38:177&drc=00:03:56:391"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:24:56:298&drc=00:01:42:118"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52",
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/51?pgs=51-52,58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:07:42:684&drc=00:02:14:826"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:10:08:415&drc=00:04:22:660"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:14:42:502&drc=00:04:56:378"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/54?pgs=54-56&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-02-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160211pln&url=l13/sl1/a2016/m02/&tI=03:19:46:311&drc=00:04:57:467"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-02-12",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/56?pgs=56-58&org=PLC"
+              }
+            ],
+            "Sumario": "Construção Urgente da Escola Secundária na Quinta do Conde, Concelho de Sesimbra, Distrito de Setúbal; Recomenda ao Governo a construção da Escola Secundária da Quinta do Perú, na freguesia da Quinta do Conde, Sesimbra;   Recomenda ao Governo a construção da Escola Secundária na Quinta do Conde, concelho de Sesimbra, distrito de Setúbal;  Recomenda ao Governo a construção da Escola Secundária do Perú, na freguesia da Quinta do Conde, Sesimbra;   Necessidade de construção urgente de uma escola secundária na Quinta do Conde, concelho de Sesimbra;  Recomenda ao Governo priorizar a construção da Escola da Quinta do Perú no concelho de Sesimbra; Solicitam a construção duma escola secundária na Quinta do Conde.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12682",
+    "PetAssunto": "Solicitam a construção duma escola secundária na Quinta do Conde.",
+    "PetDataEntrada": "2015-11-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12682",
+    "PetLeg": "XIII",
+    "PetNr": "4",
+    "PetNrAssinaturas": "5830",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2156",
+        "obs": null,
+        "pag": [
+          "50-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-02-12",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/037/2016-02-12/50?pgs=50-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "755767",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-04",
+        "pubLeg": "XIII",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/005/2015-12-04/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
