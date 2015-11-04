@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2015-11-04, processo 0724/15
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0724/15
+
+**Data do Acordão:** 11/04/2015
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** MARIA DO CÉU NEVES
+
+**Descritores:** PEDIDO DE INFORMAÇÃO PRÉVIA SOBRE CONSTRUÇÃO; CÉRCEA; PRETERIÇÃO DE AUDIÊNCIA PRÉVIA; VIOLAÇÃO DO PLANO DIRECTOR MUNICIPAL; PRINCÍPIO DO APROVEITAMENTO DO ACTO ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00069412
+
+**Nº do Documento:** SA1201511040724
+
+**Data de Entrada:** 06/08/2015
+
+**Recorrente:** A... SA
+
+**Recorrido 1:** VEREADOR DO ORDENAMENTO DO TERRITÓRIO, URBANISMO, PLANEAMENTO URBANÍSTICO E PAISAGEM URBANA DA CM DE VILA NOVA DE GAIA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL
+
+**Objecto:** SENT TAF PENAFIEL
+
+**Decisão:** NEGA PROVIMENTO
+
+**Área Temática 1:** DIR URB - LICENCIAMENTO CONSTRUÇÃO.
+
+**Legislação Nacional:** RPDM VILA NOVA GAIA ART9.; RJUE ART24 ART16 ART111.; REGEU ART59.; CPA ART100 ART140 ART124 ART139 ART134.
+
+**Jurisprudência Nacional:** AC STA PROC046946 DE 2007/05/29.
+
+**Referência a Doutrina:** DIOGO LEITE DE CAMPOS, BENJAMIM SILVA RODRIGUES E JORGE LOPES DE SOUSA - LEI GERAL TRIBUTÁRIA ANOTADA E COMENTADA 4ED PAG515 E SEGS.
+
+## Sumário
+
+Violação do artigo 9º do RPDM de Vila Nova de Gaia.
