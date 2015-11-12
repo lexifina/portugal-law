@@ -1,0 +1,5 @@
+Aviso n.º 80/2015
+Por ordem superior se torna público que a República Italiana notificou, pela Nota Verbal do Ministério dos Negócios Estrangeiros n.º 6510/06630 de 14 de janeiro de 2015, ter a República da Roménia procedido, naquela data, ao depósito do instrumento de ratificação do Tratado entre o Reino de Espanha, a República Francesa, a República Italiana, o Reino dos Países Baixos e a República Portuguesa, visando a Criação da Força de Gendarmerie Europeia (EUROGENDFOR), assinado em Velsen, nos Países Baixos, a 18 de outubro de 2007.
+Nos termos do seu artigo 46.º, o Tratado em apreço entrou em vigor em 1 de junho de 2012 para todas as Partes contratantes.
+A República Portuguesa é Parte no referido Tratado, aprovado pela Resolução da Assembleia da República n.º 55/2008 e ratificado pelo Decreto do Presidente da República n.º 72/2008, de 26 de setembro, ambos publicados no Diário da República, 1.ª série, n.º 187, de 26 de setembro de 2008.
+Direção-Geral de Política Externa, 2 de novembro de 2015. - A Subdiretora-Geral de Política Externa, Rita Laranjinha.
