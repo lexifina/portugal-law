@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 51/2015
+Por ter sido publicado com inexatidão no Diário da República, 1.ª série, n.º 213, de 30 de outubro de 2015, o Decreto do Presidente da República n.º 124-D/2015, de 30 de outubro, retifica-se que onde se lê «Secretário de Estado do Ordenamento, do Território e da Conservação da Natureza» deve ler-se «Secretário de Estado do Ordenamento do Território e da Conservação da Natureza» e onde se lê «Dr. Miguel Martinez de Castro Pinto Luz» deve ler-se «Eng.º Miguel Martinez de Castro Pinto Luz».
+Secretaria-Geral da Presidência da República, 10 de novembro de 2015. - O Secretário-Geral, Arnaldo Pereira Coutinho.
