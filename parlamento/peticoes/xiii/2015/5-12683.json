@@ -1,0 +1,642 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12683",
+  "numero": "5",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-11-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-03-30",
+            "entidades": null,
+            "id": "101808",
+            "tipo": null,
+            "titulo": "Audição em 2016-03-30 com Movimento Cívico Refutar, Plataforma Algarve Livre de Petróleo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-01-07",
+            "dataResposta": null,
+            "entidades": [
+              "Conselho da Comunidade Intermunicipal do Algarve (AMAL)"
+            ],
+            "nrOficio": "1/CAOTPL",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2016-04-07",
+                "dataResposta": null,
+                "nrOficio": "62/CAOTPL",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-07",
+            "dataResposta": "2016-01-14",
+            "entidades": [
+              "Conselho de Administração da Entidade Nacional para o Mercado dos Combustíveis, E.P.E."
+            ],
+            "nrOficio": "2/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-07",
+            "dataResposta": "2016-01-29",
+            "entidades": [
+              "MIN. DA ECONOMIA"
+            ],
+            "nrOficio": "3/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-08",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DO AMBIENTE"
+            ],
+            "nrOficio": "61/CAOTPL",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-05-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "767885",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-06-17",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/036/2016-06-17/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2015-12-01",
+        "DataArquivo": "2016-06-15",
+        "DataBaixaComissao": "2015-11-20",
+        "DataEnvioPAR": "2016-06-17",
+        "DataReaberta": "2015-12-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2015-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324530597a6334597a52694c5759794e6a59744e445577596931684d7a4d794c5455314e474a694e5451325a5745344e6935775a47593d&fich=a4c78c4b-f266-450b-a332-554bb546ea86.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-01-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4d775a6a6332597a4e684c5441334d6d4d744e44457a4d433169595755774c546b794e6d566b5a5455305a574d79595335775a47593d&fich=30f76c3a-072c-4130-bae0-926ede54ec2a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c3259775a54566a4d6d51354c57566d4d474d744e4463794d5330345a6d4a6a4c5463344d7a59304e7a6468596d51354e7935775a47593d&fich=f0e5c2d9-ef0c-4721-8fbc-7836477abd97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a52694e5749314f4446694c5464694f5451744e4759784e53303459544d774c546b774d575977596d4535596a67324d6935775a47593d&fich=4b5b581b-7b94-4f15-8a30-901f0ba9b862.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-07",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a51774d6d4a6b4f4455344c5759354e5467744e47497a4d433034597a426d4c544d314d4749784e325133596a466b4f4335775a47593d&fich=402bd858-f958-4b30-8c0f-350b17d7b1d8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a686b4e5449305a44597a4c5449344d5455744e444d304d433035597a49784c546b334d444d335a47466d4d6a4e6b5a4335775a47593d&fich=8d524d63-2815-4340-9c21-97037daf23dd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a49784e7a4a684d6a67324c54466c4e4441744e4759334d4331695a546c6a4c54517a4d446b7a5a54686d5a6a49795a6935515245593d&fich=2172a286-1e40-4f70-be9c-43093e8ff22f.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-01-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c325a684e5463304f5467774c5746695a5749744e444d314e5330354f5441354c54466b5a4445345a4451785a6d4a6d4f4335775a47593d&fich=fa574980-abeb-4355-9909-1dd18d41fbf8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c32466a5a57466b595446694c575669595759744e47526b4f5331695a4467334c544a6b4d5463774e5467775a4467794e6935775a47593d&fich=aceada1b-ebaf-4dd9-bd87-2d170580d826.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2015-12-01",
+            "gp": "PSD",
+            "id": "5685",
+            "motivoCessacao": null,
+            "nome": "José Carlos Barros"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-10-26",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-11-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793833596a59305a54466c4d43316d4d6a46694c5451325a575574596a67304d6931694d47557a4d4745345a54686c597a63756347526d&fich=7b64e1e0-f21b-46ee-b842-b0e30a8e8ec7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40744",
+      "40744",
+      "40749"
+    ],
+    "Iniciativasoriginadas": [
+      "40744",
+      "40749",
+      "40748",
+      "40750",
+      "40751"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:03:25:534&drc=00:02:35:566"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:06:08:989&drc=00:01:36:345"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:07:55:444&drc=00:02:31:810"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:10:33:140&drc=00:02:51:775"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:13:28:331&drc=00:02:22:668"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/71?pgs=71&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:15:56:085&drc=00:02:48:321"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-10-27",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161026plen&url=l13/sl2/a2016/m10/&tI=04:18:47:990&drc=00:02:16:361"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-27",
+                "pubLeg": "XIII",
+                "pubNr": "17",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/72?pgs=72-73&org=PLC"
+              }
+            ],
+            "Sumario": "Obriga à avaliação de impacto ambiental as operações de prospeção de extração de petróleo e gás natural; Procede à revogação do Decreto-Lei n.º 109/94, de 26 de Abril, que regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo em Portugal; De modo a tornar obrigatória a avaliação de impacte ambiental para as fases de prospeção e pesquisa de hidrocarbonetos, promove a terceira alteração ao Decreto-Lei nº 151-B/2013, de 31 de outubro, que estabelece o novo regime jurídico de avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente; Suspensão dos contratos para prospeção, pesquisa, desenvolvimento e produção de hidrocarbonetos no Algarve e na Costa Alentejana; Recomenda ao Governo a adoção de novas opções energéticas e a realização de uma avaliação rigorosa e independente dos contratos de prospeção, pesquisa, desenvolvimento e produção de petróleo no Algarve; Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12683",
+    "PetAssunto": "Um Algarve livre de pesquisa, prospeção, exploração e produção de petróleo e gás natural (convencional ou não-convencional).",
+    "PetDataEntrada": "2015-11-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12683",
+    "PetLeg": "XIII",
+    "PetNr": "5",
+    "PetNrAssinaturas": "7416",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2241",
+        "obs": null,
+        "pag": [
+          "3-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-27",
+        "pubLeg": "XIII",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/017/2016-10-27/3?pgs=3-74&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "755768",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2015-12-04",
+        "pubLeg": "XIII",
+        "pubNr": "5",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/005/2015-12-04/3?pgs=3-4&org=PLC"
+      }
+    ]
+  }
+}
