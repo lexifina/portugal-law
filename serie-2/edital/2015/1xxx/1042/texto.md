@@ -1,0 +1,8 @@
+Edital n.º 1042/2015
+Carlos Filipe Camelo Miranda de Figueiredo, Presidente da Câmara Municipal de Seia, torna público que, por deliberação desta Câmara Municipal, tomada na sua reunião de 05 de novembro de 2015, nos termos e para os efeitos do disposto na alínea c), do n.º 3, do artigo 100.º e do n.º 1, do artigo 101.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, e no uso das competências previstas na alínea k), do n.º 1, do artigo 33.º, conjugado com a alínea b), do artigo 35.º e com o n.º 1, do artigo 56.º, ambos do anexo I da Lei n.º 75/2013, de 12 de setembro, se encontra em apreciação pública e audiência nesta Câmara Municipal, pelo prazo de 30 (trinta) dias, o Projeto de Regulamento do Conselho Municipal da Juventude de Seia.
+O referido projeto encontra-se disponível para consulta no placard do edifício da Câmara Municipal, sito no Largo Dr. António Borges Pires, em Seia, durante o horário de funcionamento dos serviços (09:00h às 17:00h), bem como na página oficial deste município, em www.cm-seia.pt, durante o período de consulta pública.
+Todos os interessados na apresentação de sugestões e/ou reclamações, deverão fazê-lo por escrito, dentro do prazo referido, presencialmente ou enviado por correio, para o endereço: Câmara Municipal de Seia, Largo Dr. António Borges Pires, 6270-494 Seia. Poderá também ser enviado via correio eletrónico para: cm-seia@cm-seia.pt.
+Em qualquer das opções escolhidas deverá ser sempre dirigido ao Presidente da Câmara Municipal de Seia.
+Para constar se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+10 de novembro de 2015. - O Presidente da Câmara, Carlos Filipe Camelo Miranda de Figueiredo.
+309103341
