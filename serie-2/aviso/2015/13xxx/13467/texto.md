@@ -1,0 +1,6 @@
+Aviso n.º 13467/2015
+Projeto de Regulamento de Utilização e Funcionamento do Estádio Municipal de Mêda
+Anselmo Antunes de Sousa, Presidente da Câmara Municipal de Mêda, ao abrigo da competência prevista na alínea t) do n.º 1 do artigo 35.º e para os efeitos do estatuído no artigo 56.º da Lei n.º 75/2013, de 12 de setembro, torna público que, na reunião do Executivo Municipal realizada no dia 10 de novembro de 2015, foi deliberado, para efeitos do artigo 101.º do Código do Procedimento Administrativo, submeter a consulta pública, pelo prazo de 30 dias a contar da data de publicação do presente Aviso no Diário da República, o "Projeto de Regulamento de Utilização e Funcionamento do Estádio Municipal de Mêda".
+Durante esse período poderão os interessados consultar o mencionado projeto de Regulamento no Setor de Obras Municipais, desta Autarquia, durante o horário normal de expediente, o qual ficará igualmente disponível na página eletrónica do Município (www.cm-meda.pt).Os interessados, no decurso desse prazo, poderão dirigir por escrito as suas sugestões ao Presidente da Câmara Municipal, Largo do Município, 6430-197 Mêda.
+10 de novembro de 2015. - O Presidente da Câmara Municipal, Anselmo Antunes de Sousa.
+309104702
