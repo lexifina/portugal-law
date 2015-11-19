@@ -1,0 +1,19 @@
+# Artigo 31.º
+
+### Critérios Específicos de Elegibilidade das Operações
+
+Sem prejuízo dos critérios gerais de elegibilidade definidos no artigo 5.º do presente regulamento, para serem elegíveis as operações enquadradas na tipologia prevista nas alíneas a) e b) do artigo 29.º devem ainda satisfazer os seguintes critérios:
+
+a) Comprovar que a operação corresponde à otimização do investimento na perspetiva do interesse público e dos benefícios esperados;
+
+b) Apresentar auditoria energética que demonstre a adequação do investimento;
+
+c) Evidenciar que foram considerados como requisitos mínimos obrigatórios os estabelecidos na Diretiva relativa ao Desempenho Energético nos Edifícios e na Diretiva relativa à Promoção de Energia proveniente de fontes de renováveis;
+
+d) Evidenciar que as intervenções resultam em melhoramentos significativos em termos de eficiência energética, correspondendo a um aumento em, pelo menos, dois níveis no certificado de desempenho energético face à categoria de desempenho energético anterior à realização do investimento;
+
+e) Demonstrar que geram benefícios financeiros líquidos positivos, devendo o valor atualizado das poupanças líquidas geradas exceder sempre o valor atualizado do custo de investimento, operação, manutenção e reinvestimento por substituição, se aplicável;
+
+f) Incidir apenas sobre infraestruturas já existentes de propriedade e de utilização da Administração Pública, não sendo financiadas despesas de funcionamento e de manutenção;
+
+g) No caso das operações que sejam implementadas ao abrigo de um contrato de gestão de eficiência energética, promovido por uma entidade da Administração Pública, evidenciar que têm condições de apresentar um contrato de gestão de eficiência energética nos termos do Decreto-Lei n.º 29/2011, de 28 de fevereiro, para efeitos de assinatura do termo de aceitação, em termos a definir nos Avisos de Abertura.

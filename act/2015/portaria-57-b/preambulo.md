@@ -42,7 +42,7 @@ k) Secção 11 - Proteção do Litoral - cofinanciada através do Fundo de Coes�
 
 l) Secção 12 - Adaptação às Alterações Climáticas e Prevenção e Gestão de Riscos - cofinanciada através do Fundo de Coesão no PO SEUR;
 
-m) Secção 13 - Valorização de Resíduos Urbanos - cofinanciada através do Fundo de Coesão no PO SEUR;
+m) Secção 13 - Valorização de Resíduos - cofinanciada através do Fundo de Coesão no PO SEUR;
 
 n) Secção 14 - Gestão Eficiente do Ciclo Urbano da Água - cofinanciada através do Fundo de Coesão no PO SEUR;
 
