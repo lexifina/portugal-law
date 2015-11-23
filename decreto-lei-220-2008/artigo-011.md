@@ -14,7 +14,7 @@ a) Espaços em anfiteatro, onde a diferença de cotas pode corresponder à médi
 
 b) Plataformas de embarque afetas à utilização-tipo VIII.
 
-3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m3, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou constituam locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
+3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m3, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou serem locais de pintura ou aplicação de vernizes em oficinas, ou constituírem locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
 
 a) Situar-se, sempre que possível, ao nível do plano de referência e na periferia do edifício;
 

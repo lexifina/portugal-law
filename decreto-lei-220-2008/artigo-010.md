@@ -22,7 +22,7 @@ ii) As atividades nele exercidas ou os produtos, materiais e equipamentos que co
 
 c) Local de risco C - local que apresenta riscos particulares agravados de eclosão e de desenvolvimento de incêndio devido, quer às atividades nele desenvolvidas, quer às características dos produtos, materiais ou equipamentos nele existentes, designadamente à carga de incêndio modificada, à potência útil e à quantidade de líquidos inflamáveis e, ainda, ao volume dos compartimentos. Sempre que o local de risco C se encontre numa das condições referidas no n.º 3 do artigo 11.º, designa-se como local de risco C agravado;
 
-d) Local de risco D - local de um estabelecimento com permanência de pessoas acamadas ou destinado a receber crianças com idade não superior a 3 anos ou pessoas limitadas na mobilidade ou nas capacidades de perceção e reação a um alarme;
+d) Local de risco D - local de um estabelecimento com permanência de pessoas acamadas ou destinado a receber crianças com idade inferior a seis anos ou pessoas limitadas na mobilidade ou nas capacidades de perceção e reação a um alarme;
 
 e) Local de risco E - local de um estabelecimento destinado a dormida, em que as pessoas não apresentem as limitações indicadas nos locais de risco D;
 
@@ -74,7 +74,7 @@ b) Enfermarias ou grupos de enfermarias e respetivas circulações horizontais e
 
 c) Salas de estar, de refeições e de outras atividades ou grupos dessas salas e respetivas circulações horizontais exclusivas, destinadas a pessoas idosas ou doentes em locais afetos à utilização-tipo V;
 
-d) Salas de dormida, de refeições e de outras atividades destinadas a crianças com idade não superior a 3 anos ou grupos dessas salas e respetivas circulações horizontais exclusivas, em locais afetos à utilização-tipo iv;
+d) Salas de dormida, de refeições e de outras atividades destinadas a crianças com idade inferior a 6 anos ou grupos dessas salas e respetivas circulações horizontais exclusivas, em locais afetos à utilização-tipo IV;
 
 e) Locais destinados ao ensino especial de deficientes.
 

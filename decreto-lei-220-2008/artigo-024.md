@@ -6,7 +6,7 @@
 
 a) A Autoridade Nacional de Protecção Civil;
 
-b) Os municípios, na sua área territorial, quanto à 1.ª categoria de risco;
+b) Os municípios, na sua área territorial, quanto às utilizações-tipo I, II, III, VI, VII, VIII, IX, X, XI e XII da 1.ª categoria de risco;
 
 c) A Autoridade de Segurança Alimentar e Económica, no que respeita à colocação no mercado dos equipamentos referidos no regulamento técnico referido no artigo 15.º
 

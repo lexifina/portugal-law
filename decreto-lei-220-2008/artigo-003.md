@@ -26,7 +26,7 @@ a) Os estabelecimentos prisionais e os espaços classificados de acesso restrito
 
 b) Os paióis de munições ou de explosivos e as carreiras de tiro.
 
-3 - Estão ainda sujeitas ao regime jurídico de segurança contra incêndio em edifícios, em matéria de acessibilidade dos meios de socorro e de disponibilidade de água para combate a incêndio, os edifícios ou recintos que estejam fora do âmbito de aplicação do presente decreto-lei e legislação complementar, mas cuja legislação específica não contemple aquelas matérias.
+3 - Estão apenas sujeitas ao regime de segurança em matéria de acessibilidade dos meios de socorro e de disponibilidade de água para combate a incêndio, aplicando-se nos demais aspetos os respetivos regimes específicos, as instalações que não disponham de legislação específica ou que dispondo de legislação específica a mesma não contemple as referidas matérias.
 
 4 - Nos edifícios de habitação, excetuam-se do disposto no n.º 1, os espaços interiores de cada habitação, onde se aplicam as condições de segurança das instalações técnicas e demais exceções previstas no regulamento técnico.
 

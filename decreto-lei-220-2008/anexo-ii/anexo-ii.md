@@ -210,7 +210,7 @@ Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-2, 8, 10; EN 12101-8
 
 (ver documento original)
 
-Aplicação: Barreiras antifumo
+Aplicação: Barreiras anti-fumo
 
 Normas: EN 13501-4; EN 1363-1, 2; EN 12101-1
 
