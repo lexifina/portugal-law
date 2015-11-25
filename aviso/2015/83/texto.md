@@ -1,0 +1,4 @@
+Aviso n.º 83/2015
+Por ordem superior se torna público que, por notificação de 2 de outubro de 2015, o Secretário-Geral do Conselho da Europa comunicou ter a República Portuguesa depositado, a 29 de setembro de 2015, o seu instrumento de ratificação da Convenção do Conselho da Europa sobre a Manipulação de Competições Desportivas, aberta a assinatura em Magglingen, a 18 de setembro de 2014.
+A Convenção do Conselho da Europa sobre a Manipulação de Competições Desportivas foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 109/2015 e ratificada pelo Decreto do Presidente da República n.º 92/2015, publicados no Diário da República, 1.ª série, n.º 153, de 7 de agosto de 2015.
+Direção-Geral de Política Externa, 2 de novembro de 2015. - A Subdiretora-Geral, Rita Laranjinha.
