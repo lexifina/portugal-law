@@ -14,4 +14,6 @@
 
 6 - Nos casos em que os actos complementares de diagnóstico e terapêutica sejam integrantes de um atendimento de urgência ou de uma sessão de hospital de dia, o apuramento do valor devido no final está sujeito a acerto de liquidação, globalmente considerando o montante total devido e os limites constantes do n.º 2 e n.º 3 do presente artigo.
 
-7 - A Administração Central do Sistema de Saúde, I. P. divulga na sua página electrónica as tabelas actualizadas das taxas moderadoras e a correspondente taxa de actualização anual aplicável.
+7 - O montante da taxa moderadora a cobrar no âmbito dos cuidados de saúde primários não difere consoante o horário em que esses cuidados são prestados.
+
+8 - A Administração Central do Sistema de Saúde, I. P. divulga na sua página electrónica as tabelas actualizadas das taxas moderadoras e a correspondente taxa de actualização anual aplicável.
