@@ -2,9 +2,9 @@
 
 ### Atribuição e valor dos direitos ao pagamento provenientes da reserva nacional
 
-1 - O valor dos direitos ao pagamento atribuídos aos agricultores referidos no artigo anterior é igual ao valor da média nacional dos direitos ao pagamento no ano de atribuição, calculado de acordo com o estabelecido no n.º 8 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, sem prejuízo do disposto no n.º 9 do mesmo artigo relativamente às situações de decisão judicial transitada em julgado ou ato administrativo definitivo.
+1 - O valor dos direitos ao pagamento atribuídos aos agricultores referidos no artigo anterior, com exceção dos previstos na alínea c) do n.º 1, é igual ao valor da média nacional dos direitos ao pagamento no ano de atribuição, calculado de acordo com o estabelecido no n.º 8 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, sem prejuízo do disposto no n.º 9 do mesmo artigo relativamente às situações de decisão judicial transitada em julgado ou ato administrativo definitivo.
 
-2 - Aos agricultores que se enquadrem numa das situações previstas nos n.os 1 e 5 do artigo anterior e da alínea b) do artigo 6.º é atribuído o número de direitos mais elevado que resulta da aplicação em separado de cada um dos respetivos cálculos.
+2 - Aos agricultores que se enquadrem numa das situações previstas nos n.os 1 e 5 do artigo anterior e na alínea b) do artigo 6.º, são atribuídos, em primeiro lugar, os direitos resultantes da primeira atribuição, sendo subsequentemente atribuídos os direitos por via da reserva nacional, caso reúnam as condições para tal.
 
 3 - O número de direitos a atribuir é igual:
 
@@ -12,7 +12,7 @@ a) Ao número de hectares elegíveis declarados no PU, até ao máximo de 90, pa
 
 b) Ao menor número entre o número de direitos constantes da decisão judicial e o número de hectares elegíveis declarados no PU, descontados dos direitos ao pagamento já detidos, a nível de propriedade ou de arrendamento, no ano da atribuição para os beneficiários referidos no n.º 8 do artigo anterior;
 
-c) Ao menor número entre o número de direitos que foram atribuídos em 2014 e o número de hectares elegíveis declarados em 2015 para os agricultores da alínea a) do n.º 5 do artigo anterior;
+c) Ao número de hectares elegíveis declarados no PU, até ao máximo de 90, ou ao máximo de direitos atribuídos da reserva nacional em 2014, consoante o mais elevado, para os agricultores da alínea a) do n.º 5 do artigo anterior;
 
 d) A 0,5 direitos no caso dos agricultores da alínea b) do n.º 5 do artigo anterior;
 

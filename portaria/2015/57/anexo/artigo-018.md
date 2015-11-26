@@ -14,4 +14,4 @@
 
 a) Nos casos em que tenha sido formalizada a cláusula contratual prevista nos n.os 2 e 3 do artigo 9.º;
 
-b) Nos casos em que a diminuição da área elegível decorra de alteração de critérios de elegibilidade.
+b) Nos casos em que a diminuição da área elegível decorra de alteração de critérios de elegibilidade, nomeadamente, em áreas de baldio.

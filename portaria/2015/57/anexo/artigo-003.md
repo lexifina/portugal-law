@@ -6,7 +6,7 @@
 
 ### Requisitos mínimos para a concessão de pagamento diretos
 
-1 - Podem beneficiar de pagamentos diretos os agricultores ativos que exerçam atividade agrícola em território continental, e que respeitem as condições previstas no presente artigo.
+1 - Podem beneficiar de pagamentos diretos os agricultores ativos que exerçam atividade agrícola em território nacional e que respeitem as condições previstas no presente artigo.
 
 2 - A superfície mínima elegível da exploração que pode beneficiar de pagamentos diretos é de 0,5 hectares, antes da aplicação de reduções e sanções.
 

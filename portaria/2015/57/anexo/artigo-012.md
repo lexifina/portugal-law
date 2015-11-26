@@ -24,9 +24,9 @@ d) Formação com base nas unidades de formação de curta duração do referenc
 
 4 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências em termos de competências e formação tem de ser verificada em pelo menos num dos jovens agricultores que participa no capital e gestão da pessoa coletiva, em aplicação da alínea c) do n.º 1 do artigo 49.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.
 
-5 - Podem ainda solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores nas seguintes situações:
+5 - Podem, ainda, solicitar a atribuição de direitos ao pagamento provenientes da reserva nacional os agricultores ou os seus herdeiros, nas seguintes situações:
 
-a) Jovens agricultores que receberam direitos ao pagamento provenientes da reserva nacional do RPU em 2014 e não apresentaram PU em 2013, se a candidatura à reserva nacional for apresentada em 2015;
+a) Jovens agricultores que receberam direitos ao pagamento provenientes da reserva nacional do RPU em 2014, se a candidatura à reserva nacional for apresentada em 2015.
 
 b) Agricultores que apresentaram PU em 2013 com número de hectares elegíveis inferior a 0,5 hectares, se a candidatura à reserva nacional for apresentada em 2015;
 
@@ -42,8 +42,12 @@ d) Agricultores titulares de direitos de RPU em 2013, sem ativação nesse ano, 
 
 e) Agricultores que tenham comprado hectares elegíveis entre 15 de maio de 2013 e 31 de dezembro de 2014, cumpram o n.º 3 do artigo 7.º e tenham concluído, até 31 de dezembro de 2014, um investimento ao abrigo da ação n.º 1.1.1 «Modernização e capacitação das empresas», Componente 1 - Investimentos em explorações agrícolas para a produção primária de produtos agrícolas ou da ação n.º 1.1.2 «Investimentos de pequena dimensão», ambas do programa PRODER, se a candidatura à reserva nacional for submetida em 2015.
 
-6 - Para efeitos do disposto nas alíneas a) e b) do n.º 1 consideram-se agricultores que se instalam pela primeira vez numa exploração agrícola na qualidade de responsáveis da exploração, os agricultores que se instalaram, na qualidade de responsáveis da exploração, nos cinco anos anteriores ao início da atividade agrícola.
+6 - Para efeitos do disposto na alínea a) do n.º 1, consideram-se jovens agricultores os agricultores que se encontrem nas condições da alínea a) do n.º 11 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
 
-7 - Os agricultores referidos no número anterior só são elegíveis para atribuição de direitos se iniciaram a atividade agrícola no ano de 2013 ou em ano posterior e que apresentem um pedido de atribuição de direitos, o mais tardar dois anos após o ano em que tenham iniciado a sua atividade agrícola.
+7 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se agricultores que se instalem pela primeira vez numa exploração agrícola na qualidade de responsáveis da exploração, os agricultores que se encontrem nas condições da alínea b) do n.º 11 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
 
-8 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.
+8 - Os agricultores referidos no n.º 6 só são elegíveis para atribuição de direitos se iniciaram a atividade agrícola no ano de 2010 ou em ano posterior e que apresentem um pedido de atribuição de direitos, o mais tardar, cinco anos após o ano em que tenham iniciado a sua atividade agrícola.
+
+9 - Os agricultores referidos no n.º 7 só são elegíveis para atribuição de direitos se iniciaram a atividade agrícola no ano de 2013 ou em ano posterior e que apresentem um pedido de atribuição de direitos, o mais tardar, dois anos após o ano em que tenham iniciado a sua atividade agrícola.
+
+10 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.
