@@ -1,0 +1,105 @@
+# Acórdão do Tribunal Constitucional n.º 608/2015, de 2015-11-26
+
+**Acórdão:** 608/15
+
+**Processo:** 642/15
+
+**Formação:** Conf.
+
+**Espécie:** Recurso
+
+**Data:** 26.11.2015
+
+**Relator:** Cons. Lino Rodrigues Ribeiro
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20150608.html
+
+## Texto integral
+
+ACÓRDÃO Nº 608/2015
+
+Processo n.º 642/15
+
+3ª Secção
+
+Relator: Conselheiro Lino Rodrigues Ribeiro
+
+Acordam, em conferência, na 3ª Secção do Tribunal Constitucional
+
+I – Relatório
+
+1. A Santa Casa da Misericórdia de Belmonte instaurou ação declarativa sob a forma comum ordinária contra A., pedindo que se declarasse resolvido um contrato promessa de arrendamento e de compra e venda celebrado com o Réu, com perda do sinal prestado, bem como a condenação deste no pagamento à Autora da quantia de €500,00 de rendas em falta e de € 108.889,76 correspondentes ao valor dos bens que o Réu retirou do local. Por sentença proferida pelo 2º Juízo do Tribunal Judicial da Covilhã, a ação foi julgada parcialmente procedente, por parcialmente provada, tendo o Réu sido absolvido do pedido de pagamento do valor dos bens retirados e condenado no demais peticionado.
+
+2. Inconformado com tal despacho, o Réu interpôs recurso de apelação para o Tribunal da Relação de Coimbra que, por acórdão proferido em 9 de setembro de 2014, negou provimento ao recurso.
+
+De novo inconformado, o Autor recorreu para o Supremo Tribunal de Justiça, tendo o relator neste último Tribunal proferido despacho de não conhecimento do objeto do recurso, por a decisão recorrida ter sido desfavorável ao recorrente em valor inferior a metade da alçada do tribunal recorrido, nos termos do artigo 629.º, n.º 1 do Código de Processo Civil. O recorrente apresentou reclamação do despacho do relator que decidiu não conhecer do objeto do recurso, a qual veio a ser decidida por Acórdão da conferência datado de 5 de maio de 2015, que confirmou o despacho reclamado.
+
+3. Deste último aresto recorreu A. para o Tribunal Constitucional, ao abrigo da alínea b) do n.º 1 do artigo 70.º da LTC, em extenso requerimento ao qual fez juntar intempestivamente as motivações e das quais consta, para além da suscitação de várias nulidades e omissões de pronúncia, que “pretende ver apreciada a inconstitucionalidade da norma contida no artigo 629.º n.º 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, com o sentido de que, estando em causa no processo a anulação de um contrato promessa em que estão em causa bens no valor de 34.000,00€ segundo o próprio contrato constante dos autos (segundo a A o valor desses bens é 109.389,76, sendo o valor de 109.389,76, o valor da ação), mesmo assim decide não tomar conhecimento do objeto do recurso por considerar que a sentença não é desfavorável ao R em pelo menos metade da alçada do TR”.
+
+De seguida, declara ainda o recorrente que “pretende ver apreciada a inconstitucionalidade da norma contida no art.º 629.º n.º 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, sem tal interpretação dar qualquer relevância ao previsto no art.º 629.º, n.º 2 d) do CPC, pois, tendo o R. alegado que o Acórdão recorrido, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, vai contra a jurisprudência dominante do STJ (…), mesmo assim, a decisão recorrida não se pronunciando sequer sobre esta questão, decidindo (sic) não tomar conhecimento do objeto do recurso” Mais referiu que “tal imprevista omissão de pronúncia e de qualquer fundamentação, constitui uma violação do direito de defesa, da possibilidade do contraditório e da tutela jurisdicional efetiva violando-se nomeadamente os artigos 2.º, 18.º, 20.º, 26.º, 52.º, 260.º e 268.º da CRP e do art.º 6.º da Convenção europeia sobre os Direitos do Homem”.
+
+Ainda no mesmo requerimento (pese embora, na verdade, sempre em sede de “motivações”) veio ainda recorrer, ao abrigo da alínea b) do n.º 1 do artigo 70 da LTC, agora para apreciação da “inconstitucionalidade da norma contida no art.º 808.º n.º 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, com o sentido de que, tendo os outorgantes estabelecido num contrato promessa, dentro da sua liberdade contratual e da livre iniciativa um prazo fatal expresso, clarificando que o desrespeito desse prazo constituía incumprimento e verificava-se automaticamente uma consequência prevista numa cláusula penal expressa, mesmo assim decide que o não cumprimento desse prazo fatal por parte da A não constitui incumprimento e não se verifica a cláusula penal automática, desrespeitando assim frontalmente o princípio da liberdade contratual e da pontualidade do cumprimento dos contratos (405.º e 406.º do CC), e ainda a garantia constitucional da liberdade de iniciativa prevista no artigo 61.º da CRP que deve ser respeitada”.
+
+4. Notificado de convite do Relator, para vir indicar, de modo exato e preciso, a(s) norma(s) cuja inconstitucionalidade pretende ver apreciada, o recorrente limitou-se a reproduzir as “motivações” que apresentara, nada acrescentando ou precisando, e juntando inclusivamente cópias de várias peças processuais, totalizando cerca de 60 páginas.
+
+5. Foi, então, proferida pelo Relator a Decisão Sumária n.º 545/2015, de 23/09/2015, com o seguinte teor:
+
+«7. (...) em primeiro lugar, há que referir que o recorrente não definiu, no requerimento de interposição de recurso, uma questão de constitucionalidade normativa, referente a uma norma ou dimensão normativa precisa, remetendo para o entendimento do tribunal a quo. O relator convidou-o para o efeito, tendo o recorrente apresentado resposta na qual se limitou a reproduzir – quase integralmente – o “requerimento” de interposição de recurso, continuando a não identificar qual o sentido normativo preciso e determinado cuja constitucionalidade pretende ver apreciada.
+
+8. O Tribunal tem reiteradamente afirmado que nada obsta a que seja questionada apenas uma certa interpretação ou dimensão normativa de um determinado preceito, ou ainda uma norma não escrita, resultante da conjugação de vários preceitos. Nesses casos, contudo, tem o recorrente o ónus de enunciar, de forma clara e percetível, o exato sentido normativo do preceito que considera inconstitucional. Como se disse, por exemplo, no Acórdão nº 178/95 (Acórdãos do Tribunal Constitucional, 30º vol., p.1118.) “tendo a questão de constitucionalidade que ser suscitada de forma clara e percetível (cfr., entre outros, o Acórdão nº 269/94, Diário da República, II Série, de 18 de junho de 1994), impõe-se que, quando se questiona apenas uma certa interpretação de determinada norma legal, se indique esse sentido (essa interpretação) em termos que, se este Tribunal o vier a julgar desconforme com a Constituição, o possa enunciar na decisão que proferir, por forma a que o tribunal recorrido que houver de reformar a sua decisão, os outros destinatários daquela e os operadores jurídicos em geral, saibam qual o sentido da norma em causa que não pode ser adotado, por ser incompatível com a Lei Fundamental”.
+
+Ora, como decorre dos termos em que o recorrente formula as questões de inconstitucionalidade, esse ónus claramente não foi cumprido. O recorrente não logra enunciar de forma compreensível o sentido normativo cuja inconstitucionalidade pretende ver sindicada, de forma a poder ser enunciada como questão de constitucionalidade normativa.
+
+9. Na verdade, é patente que o recorrente questiona a própria bondade da decisão recorrida. Basta ler o longo requerimento de interposição de recurso para se perceber que os recorrentes pretendem que o Tribunal Constitucional fiscalize o mérito da própria decisão recorrida – aliás, sob pretexto de inconstitucionalidades, o recorrente reputa o acórdão recorrido de nulo por omissão de pronúncia, entre outras nulidades. É à própria decisão condenatória que imputa, em vários momentos, a violação da Lei Fundamental, e não a nenhuma norma em concreto. E quando se reportam a normas em concreto, fazem-no de modo que impossibilita a respetiva autonomização do caso concreto, não logrando configurar, como se disse, uma questão de constitucionalidade normativa.
+
+Como tal, há que relembrar a inexistência, no nosso ordenamento jurídico, da figura do “recurso de amparo” ou da ação constitucional para defesa de direitos fundamentais, na apreciação de alegadas inconstitucionalidades, diretamente imputadas pelo recorrente a decisões judiciais proferidas. Tal resulta do disposto no artigo 280º da Constituição e no artigo 70º da LTC, e assim tem sido afirmado por este Tribunal em inúmeras ocasiões.
+
+Permanecendo o objeto do recurso indeterminado, o Tribunal Constitucional não pode tomar conhecimento do mesmo.»
+
+6. Vem agora o recorrente reclamar para a conferência, ao abrigo do n.º 3 do artigo 78.º-A.º da LTC, da Decisão Sumária n.º 545/2015. A reclamação apresenta o seguinte teor:
+
+«(…)
+
+Primeira:
+
+Solicitou, nos termos e para os efeitos do preceituado no artigo 75º-A, nº 1, da Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, que pretende interpor recurso, ao abrigo da alínea b), do n.º 1, do artigo 70.º, da Lei de O. E F. do Tribunal Constitucional, pois pretende ver apreciada a inconstitucionalidade da norma contida no artigo art.º 629º nº 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, com o sentido de que, estando em causa no processo a anulação de um contrato promessa em que estão em causa bens no valor de 34.000,00€ segundo o próprio contrato constante dos autos (segundo a A o valor desses bens é 109.389,76€, sendo o valor de 109.389,76€, o valor da ação), mesmo assim decide não tomar conhecimento do objeto do recurso por considerar que a Sentença não é desfavorável ao R em pelo menos metade da alçada do TR.
+
+Pelo que, o artigo art.º 629º nº 1 do CPC devia ser interpretado com o sentido de que, estando em causa no processo a anulação de um contrato promessa em que estão em causa bens no valor de 34.000,00€, valor este mencionado expressamente no próprio contrato constante dos autos (na opinião da parte contrária o valor desses bens é de 109.389,76€, sendo também o valor de 109.389,76€, o valor da ação), deveria ser proferida a decisão de tomar conhecimento do objeto do recurso por considerar que a Sentença é desfavorável ao R em mais de metade da alçada do TR, e também porque, em último caso, o valor da causa, 109.389,76€, permitiria sempre essa admissibilidade, isto no respeito do direito a um processo equitativo como corolário do direito à tutela jurisdicional efetiva, do acesso ao direito em todas as instâncias, do direito de defesa, da prevalência da justiça material sobre a justiça formal, do respeito pelo Estado de Direito Democrático, tudo consagrado no artigo 20.º e nos artigos 2º, 18º, 26º, 52º, 260º e 268° da CRP.
+
+Segunda:
+
+Solicitou ainda, nos termos e para os efeitos do preceituado no artigo 75º-A, nº 1, da Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, que pretende também interpor recurso, ao abrigo da alínea b), do n.º 1, do artigo 70.º, da Lei de O. E F. do Tribunal Constitucional, pois pretende ver apreciada a inconstitucionalidade da norma contida no art.º 629º nº 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, sem tal interpretação dar qualquer relevância ao previsto no art.º 629º nº 2 d) do CPC, pois, tendo o R alegado que o Acórdão recorrido, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, vai contra a jurisprudência dominante do STJ (Pr. Nº 2265/06.5TVSLB.S1 de 09-02-2010 e Pro.º Nº 473/06.8TVLSB.L1.S1 de 17-01-2012 – parcialmente transcritos nas alegações) e está também em contradição com o Acórdão do TRL, Pro.º nº 505/07.1TVLSB.L1-1 de 24-05-2011, acessível em http://www.dgsi.pt, mesmo assim, a decisão recorrida não se pronunciando sequer sobre esta questão, decidiu não tomar conhecimento do objeto do recurso.
+
+Pelo que, deveria ter havido uma pronúncia acerca do artigo art.º 629º nº 2 d) do CPC (o que inviabilizaria a interpretação in singelo do art.º 629º nº 1 do CPC), que devia ser interpretado no sentido de ser admissível o recurso uma vez que no domínio da mesma legislação e sobre a mesma questão fundamental de direito, o acórdão recorrido vai contra a jurisprudência dominante do STJ (Pr. Nº 2265/06.5TVSLB.S1 de 09-02-2010 e Pro.º Nº 473/06.8TVLSB.L1.S1 de 17-01-2012 – parcialmente transcritos nas alegações) e está também em contradição com o Acórdão do TRL, Pro.º nº 505/07.1TVLSB.L1-1 de 24-05-2011, acessível em http://www.dgsi.pt, insto no respeito pelas exigências de pronúncia, pelo direito à fundamentação, pelo direito de defesa, da possibilidade do contraditório e da tutela jurisdicional efetiva, violando-se nomeadamente os artigos 2º, 18º, 20º, 26º, 52º, 260º e 268° da CRP.
+
+Terceira:
+
+Solicitou, finalmente, nos termos e para os efeitos do preceituado no artigo 75º- A, nº 1, da Lei da Organização, Funcionamento e Processo do Tribunal Constitucional, que pretende interpor recurso, ao abrigo da alínea b), do n.º 1, do artigo 70.º, da Lei de O. E F. do Tribunal Constitucional, pois pretende ver apreciada a inconstitucionalidade da norma contida no art.º 808º Nº 1 do CPC quando interpretada nos termos plasmados na decisão recorrida, mais precisamente, com o sentido de que, tendo os outorgantes estabelecido num contrato promessa, dentro da sua liberdade contratual e da livre iniciativa um prazo fatal expresso, clarificando que o desrespeito desse prazo constituía incumprimento e verificava-se automaticamente uma consequência prevista numa cláusula penal expressa, mesmo assim decide que o não cumprimento desse prazo fatal por parte da A não constitui incumprimento e não se verifica a cláusula penal automática, desrespeitando assim frontalmente o princípio da liberdade contratual e da pontualidade do cumprimento dos contratos (405º e 406º do CC), e ainda a garantia constitucional da liberdade de iniciativa prevista no art.º 61º da CRP. Efetivamente, após a verificação do prazo fatal com consequência automática, tudo expressamente clausulado, é contraditório e ofende a liberdade contratual e a livre iniciativa, exigir-se a concessão de novo prazo. Efetivamente, nenhuma interpelação admonitória, carecia, pois, de ser feita à recorrida, nem seria possível sequer, já, operar nova resolução do contrato, por este não estar já em vigor por se ter verificado a resolução automática e respetiva cláusula penal automática, tudo livre e expressamente clausulado.
+
+Pelo que, a norma contida no artigo art.º 808º Nº 1 do CPC deve ser interpretada no sentido de que, tendo os outorgantes estabelecido num contrato promessa, dentro da sua liberdade contratual e da livre iniciativa um prazo fatal expresso, clarificando que o desrespeito desse prazo constituía incumprimento e verificava-se automaticamente uma consequência prevista numa cláusula penal expressa, o não cumprimento desse prazo fatal por parte da A constitui incumprimento e verifica-se a cláusula penal automática, por respeito do princípio da liberdade contratual, da pontualidade do cumprimento dos contratos (405º e 406º do CC), e ainda da garantia constitucional da liberdade de iniciativa prevista no art.º 61º da CRP que deve ser respeitada.».
+
+7. Decorrido o prazo, a recorrida não respondeu.
+
+II – Fundamentação
+
+8. O recorrente reclama para a conferência da Decisão Sumária n.º 545/2015, por discordar do decidido quanto ao não conhecimento do objeto do recurso. Entendeu-se na decisão reclamada que o requerimento de interposição do recurso não delimitava de forma suficientemente precisa o respetivo objeto, de forma a que o Tribunal Constitucional dele pudesse conhecer e, por outro lado, que o mesmo não possuía natureza normativa.
+
+Ora, cumpre sublinhar que incumbe ao recorrente formular, de forma precisa, o objeto do recurso de constitucionalidade, no requerimento de interposição do mesmo. A formulação precisa do objeto do recurso constitui um ónus do recorrente, já que o Tribunal Constitucional tem de saber de antemão qual a norma, ou sentido normativo concretos sobre os quais recairá o seu juízo. O ora reclamante foi, aliás, expressamente convidado para indicar de modo preciso o sentido normativo que pretendia ver sindicado. Não o tendo feito na altura própria e após esse convite, bem esteve a Decisão Sumária ao considerar que o Tribunal Constitucional não podia conhecer do presente recurso por falta de determinabilidade do objeto do mesmo.
+
+Ainda que se entendesse ir ainda a tempo para o efeito, acrescente-se que na presente reclamação o recorrente continua a não formular qualquer norma ou interpretação normativa que configure um objeto normativo sobre o qual possa incidir um juízo do Tribunal Constitucional aplicável a um número indeterminado de casos.
+
+8.1. Nas várias passagens da reclamação ora apresentada, o ora reclamante confirma que, com a interposição do presente recurso, pretende, tal como referido na decisão reclamada, a sindicância da própria decisão recorrida. Assim, veja-se a seguinte passagem: «pretende ver apreciada a inconstitucionalidade da norma contida no artigo art.º 629º nº 1 do CPC quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, com o sentido de que, estando em causa no processo a anulação de um contrato promessa em que estão em causa bens no valor de 34.000,00€ segundo o próprio contrato constante dos autos (segundo a A o valor desses bens é 109.389,76€, sendo o valor de 109.389,76€, o valor da ação), mesmo assim decide não tomar conhecimento do objeto do recurso por considerar que a Sentença não é desfavorável ao R em pelo menos metade da alçada do TR.» Como decorre do que se acabou de transcrever, o ora reclamante não consegue prescindir da referência a circunstancialismos respeitantes à própria decisão reclamada, não logrando, assim, delinear uma questão normativa que possa constituir um objeto idóneo de um recurso de fiscalização da constitucionalidade, por não permitir ao Tribunal Constitucional formular um juízo aplicável a um conjunto geral e indeterminado de casos.
+
+8.2. Em segundo lugar, refere-se à inconstitucionalidade da norma contida no art.º 629º nº 1 do CPC «quando interpretada nos termos plasmados na decisão recorrida do STJ, mais precisamente, sem tal interpretação dar qualquer relevância ao previsto no art.º 629º nº 2 d) do CPC, pois, tendo o R alegado que o Acórdão recorrido, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, vai contra a jurisprudência dominante do STJ (Pr. Nº 2265/06.5TVSLB.S1 de 09-02-2010 e Pro.º Nº 473/06.8TVLSB.L1.S1 de 17-01-2012 – parcialmente transcritos nas alegações) e está também em contradição com o Acórdão do TRL, Pro.º nº 505/07.1TVLSB.L1-1 de 24-05-2011, acessível em http://www.dgsi.pt, mesmo assim, a decisão recorrida não se pronunciando sequer sobre esta questão, decidiu não tomar conhecimento do objeto do recurso». Nesta parte, o ora reclamante limita-se a defender qual, no seu entender, corresponde à interpretação mais correta do artigo 629.º nº 1 do CPC. Assim, o que está em causa neste ponto é apenas discutir a melhor interpretação de direito ordinário, o que extravasa a competência do Tribunal Constitucional, por se tratar de matéria reservada aos tribunais comuns.
+
+8.3. Por fim, o ora reclamante refere pretender ver apreciada a inconstitucionalidade da norma contida no art.º 808º n.º 1 do CPC «quando interpretada nos termos plasmados na decisão recorrida, mais precisamente, com o sentido de que, tendo os outorgantes estabelecido num contrato promessa, dentro da sua liberdade contratual e da livre iniciativa um prazo fatal expresso, clarificando que o desrespeito desse prazo constituía incumprimento e verificava-se automaticamente uma consequência prevista numa cláusula penal expressa, mesmo assim decide que o não cumprimento desse prazo fatal por parte da A não constitui incumprimento e não se verifica a cláusula penal automática, desrespeitando assim frontalmente o princípio da liberdade contratual e da pontualidade do cumprimento dos contratos (405º e 406º do CC), e ainda a garantia constitucional da liberdade de iniciativa prevista no art.º 61º da CRP».
+
+Também neste ponto o ora reclamante limita-se a contestar a subsunção dos factos a normas de direito infraconstitucional, e assim, o próprio juízo feito pelo tribunal a quo. Assim, também neste ponto demonstra, mais uma vez, que o recurso não tem objeto normativo, pelo que bem esteve a decisão reclamada em decidir não poder o Tribunal Constitucional conhecer do mesmo.
+
+III – Decisão
+
+Pelo exposto, decide-se indeferir a presente reclamação.
+
+Custas devidas pelo reclamante, fixando-se a taxa de justiça em 20 (vinte) UC, nos termos dos artigos 7.º e 9.º, n.º 1, do Decreto-Lei n.º 303/98, de 7 de outubro.
+
+Lisboa, 26 de novembro de 2015 - Lino Rodrigues Ribeiro - Catarina Sarmento e Castro - Maria Lúcia Amaral
