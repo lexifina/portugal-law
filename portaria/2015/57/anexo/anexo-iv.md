@@ -1,8 +1,8 @@
 # Anexo IV
 
-### Medidas e ações dos programas de desenvolvimento rural para efeitos da verificação da formação e competência adquirida
+### (a que se referem o n.º 2 do artigo 12.º e o n.º 1 do artigo 27.º)
 
-(a que se referem o n.º 2 do artigo 12.º e o n.º 1 do artigo 27.º)
+Medidas e ações dos programas de desenvolvimento rural para efeitos da verificação da formação e competência adquirida
 
 a) Ação 1.1.1 - «Modernização e Capacitação das Empresas» - Componente 1 (Investimentos em explorações agrícolas para a produção primária de produtos agrícolas), no âmbito do PRODER;
 
