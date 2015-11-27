@@ -1,0 +1,504 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12685",
+  "numero": "7",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-11-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-10",
+            "entidades": null,
+            "id": "102033",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-10 com 1ª Peticionária da Petição nº 7/XIII/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-01-13",
+            "dataResposta": "2016-04-05",
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "11/COM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-04-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-06",
+        "DataArquivo": "2016-04-20",
+        "DataBaixaComissao": "2015-12-17",
+        "DataEnvioPAR": "2016-04-20",
+        "DataReaberta": "2016-01-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f47566d4d5449304f4745744d7a55334d5330305a5459334c57466b593255744d54566a4f445a6c4e4455354e7a457a4c6c424552673d3d&fich=8ef1248a-3571-4e67-adce-15c86e459713.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e4445784f474e6d4d5455744d445a6c5a5330304e6a63304c574931595463744f4745794d474a694e5746694e47466c4c6e426b5a673d3d&fich=4118cf15-06ee-4674-b5a7-8a20bb5ab4ae.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-04-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876595441794e546c6b4d574d74597a566a4e6930304e54457a4c5745795a6a59744e6a4a694e6a45784d54686d5a475a6a4c6e426b5a673d3d&fich=a0259d1c-c5c6-4513-a2f6-62b61118fdfc.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-04-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d6a526a59574e6b4f5749744d4467794d6930305a444e6a4c574a694e7a6b744e7a6c6b4f5463334d57597a4f5746684c6e426b5a673d3d&fich=24cacd9b-0822-4d3c-bb79-79d9771f39aa.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-01-06",
+            "gp": "PS",
+            "id": "5531",
+            "motivoCessacao": null,
+            "nome": "Luís Soares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-07-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-12-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938324f5751794d5759785969316b4d474a6c4c5451774d324d74596d4a695a43316a593259345a445133597a526d4d6a6b756347526d&fich=69d21f1b-d0be-403c-bbbd-ccf8d47c4f29.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40111",
+      "40570",
+      "40572",
+      "40579"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:40:30:984&drc=00:02:13:015"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:42:48:113&drc=00:02:25:621"
+              },
+              {
+                "link": null
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:45:22:308&drc=00:02:22:079"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:47:48:743&drc=00:02:37:256"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:50:33:692&drc=00:02:20:201"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:52:56:622&drc=00:02:39:702"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência; Recomenda ao Governo a realização de obras urgentes nos serviços de urgência do Hospital Nossa Senhora da Oliveira, em Guimarães; Por condições de atendimento e de trabalho dignas no serviço de urgência do Hospital de Guimarães; Recomenda ao Governo que dote o Hospital de Guimarães das adequadas condições aos seu normal funcionamento; Pela Valorização e Reforço da Prestação de Cuidados de Saúde no Hospital da Senhora da Oliveira, Guimarães.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12685",
+    "PetAssunto": "Defender o Hospital de Guimarães e todos os seus serviços e exigir condições dignas de atendimento na urgência.",
+    "PetDataEntrada": "2015-11-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12685",
+    "PetLeg": "XIII",
+    "PetNr": "7",
+    "PetNrAssinaturas": "4660",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2210",
+        "obs": null,
+        "pag": [
+          "56-59"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/56?pgs=56-59&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "756998",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-01-08",
+        "pubLeg": "XIII",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/009/2016-01-08/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
