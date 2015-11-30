@@ -1,0 +1,527 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12687",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-11-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-11",
+            "entidades": null,
+            "id": "101511",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-11 com Ana Carina Pereira, Drª. Graça Gonçalves, Enfermeira Ana Lucia Torgal, Senhora Jacqueline De Montaigne, Vera Ramos, Ema Rodrigues, Elsa Tomé, Elisabete Firmo,Tiago Cara Nova e - Micael Pacheco"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-03-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-27",
+        "DataArquivo": "2016-03-23",
+        "DataBaixaComissao": "2015-12-17",
+        "DataEnvioPAR": "2016-03-23",
+        "DataReaberta": "2016-01-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6a4d324d546b355a4445744d7a41784d7930304e6a45794c5746694e574d744f5452684f4442684f444a6a4d324e684c6e426b5a673d3d&fich=236199d1-3013-4612-ab5c-94a80a82c3ca.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-03-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765954566d4e5449784d5463744e6a59304e6930304d324e684c57466d4f4451745a6d5578596a466a597a49795a6a56684c6e426b5a673d3d&fich=a5f52117-6646-43ca-af84-fe1b1cc22f5a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-02-03",
+            "gp": "PSD",
+            "id": "4299",
+            "motivoCessacao": null,
+            "nome": "Clara Marques Mendes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-04-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2015-12-18",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344f444a6d5a6d46684d69316b4d3249324c54526a4f445174596a41784e7930774d7a4d784f574e6b596a6c6d4d446b756347526d&fich=882ffaa2-d3b6-4c84-b017-03319cdb9f09.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40239",
+      "40242"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:10:29:381&drc=00:02:13:157"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:12:54:140&drc=00:04:04:598"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:17:01:939&drc=00:03:18:560"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:20:26:739&drc=00:02:55:721"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:36:59:300&drc=00:01:50:358"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/21?pgs=21-22,25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:23:39:140&drc=00:03:34:000"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:27:20:579&drc=00:04:48:521"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-04-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160422pln&url=l13/sl1/a2016/m04/&tI=01:32:31:979&drc=00:04:23:639"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "201471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-23",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Procede à alteração do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro e do Decreto-Lei n.º 91/2009, de 9 de Abril, reforçando o regime de protecção na parentalidade; Alarga a licença parental inicial e o período de dispensa para aleitação; Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12687",
+    "PetAssunto": "Licença parental de 6 meses, exclusiva da mãe, pela saúde dos nossos bebés.",
+    "PetDataEntrada": "2015-11-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12687",
+    "PetLeg": "XIII",
+    "PetNr": "9",
+    "PetNrAssinaturas": "6740",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2181",
+        "obs": null,
+        "pag": [
+          "18-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-04-23",
+        "pubLeg": "XIII",
+        "pubNr": "58",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/058/2016-04-23/18?pgs=18-26&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "758724",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-01-30",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/012/2016-01-30/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
