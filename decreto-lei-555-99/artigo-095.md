@@ -6,4 +6,4 @@
 
 2 - O disposto no número anterior não dispensa a obtenção de prévio mandado judicial para a entrada no domicílio de qualquer pessoa sem o seu consentimento.
 
-3 - O mandado previsto no número anterior é concedido pelo juiz da comarca respectiva a pedido do presidente da câmara municipal e segue os termos do procedimento cautelar comum.
+3 - O mandado previsto no número anterior é requerido pelo presidente da câmara municipal junto dos tribunais administrativos e segue os termos previstos no código do processo nos tribunais administrativos para os processos urgentes.

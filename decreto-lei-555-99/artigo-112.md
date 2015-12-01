@@ -2,17 +2,17 @@
 
 ### Intimação judicial para a prática de acto legalmente devido
 
-1 - No caso previsto na alínea a) do artigo 111.º, pode o interessado pedir ao tribunal administrativo de círculo da área da sede da autoridade requerida a intimação da autoridade competente para proceder à prática do acto que se mostre devido.
+1 - No caso previsto na alínea a) do artigo anterior, o interessado pode deduzir junto dos tribunais administrativos um pedido de intimação dirigido à interpelação da entidade competente para o cumprimento do dever de decisão.
 
-2 - O requerimento de intimação deve ser apresentado em duplicado e instruído com cópia do requerimento para a prática do acto devido.
+2 - O requerimento de intimação deve ser instruído com cópia do requerimento apresentado.
 
-3 - A secretaria, logo que registe a entrada do requerimento, expede por via postal notificação à autoridade requerida, acompanhada do duplicado, para responder no prazo de 14 dias.
+3 - O prazo para a contestação da entidade requerida é de 14 dias e, apresentada a contestação ou decorrido o respetivo prazo, o processo é concluso ao juiz para decisão no prazo de 5 dias.
 
-4 - Junta a resposta ou decorrido o respectivo prazo, o processo vai com vista ao Ministério Público, por dois dias, e seguidamente é concluso ao juiz, para decidir no prazo de cinco dias.
+4 - A intimação pode ser rejeitada por falta de preenchimento dos pressupostos para a constituição do dever de decisão, por violação de disposições legais ou regulamentares.
 
-5 - Se não houver fundamento de rejeição, o requerimento só será indeferido quando a autoridade requerida faça prova da prática do acto devido até ao termo do prazo fixado para a resposta.
+5 - O processo pode terminar por inutilidade superveniente da lide se for provada a prática do ato pretendido dentro do prazo da contestação.
 
-6 - Na decisão, o juiz estabelece prazo não superior a 30 dias para que a autoridade requerida pratique o acto devido e fixa sanção pecuniária compulsória, nos termos previstos no Código de Processo nos Tribunais Administrativos.
+6 - Na decisão, o juiz estabelece prazo não inferior a 30 dias para o cumprimento do dever de decisão e fixa sanção pecuniária compulsória, nos termos previstos no Código de Processo nos Tribunais Administrativos.
 
 7 - Ao pedido de intimação é aplicável o disposto no Código de Processo nos Tribunais Administrativos quanto aos processos urgentes.
 

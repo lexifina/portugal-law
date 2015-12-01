@@ -22,7 +22,7 @@ c) Quaisquer outros elementos que o requerente entenda necessários para o conhe
 
 7 - Da sentença cabe recurso nos termos gerais.
 
-8 - Compete ao tribunal judicial da comarca onde se localiza o prédio no qual se devem realizar as obras de urbanização conhecer dos pedidos previstos no presente artigo.
+8 - Compete aos tribunais administrativos de círculo onde se localiza o prédio no qual se devam realizar as obras de urbanização conhecer os pedidos previstos no presente artigo.
 
 9 - A câmara municipal emite oficiosamente alvará para execução de obras por terceiro, competindo ao seu presidente dar conhecimento das respetivas deliberações à Direção-Geral do Território, para efeitos cadastrais, e à conservatória do registo predial, quando:
 
