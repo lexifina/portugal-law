@@ -1,11 +1,11 @@
 # Artigo 90.º
 
-### Instrução do processo
+### Instrução e decisão parcelar da causa
 
-1 - No caso de não poder conhecer do mérito da causa no despacho saneador, o juiz ou relator pode ordenar as diligências de prova que considere necessárias para o apuramento da verdade.
+1 - A instrução tem por objeto os factos relevantes para o exame e decisão da causa que devam considerar-se controvertidos ou necessitados de prova.
 
-2 - O juiz ou relator pode indeferir, mediante despacho fundamentado, requerimentos dirigidos à produção de prova sobre certos factos ou recusar a utilização de certos meios de prova quando o considere claramente desnecessário, sendo, quanto ao mais, aplicável o disposto na lei processual civil no que se refere à produção de prova.
+2 - A instrução rege-se pelo disposto na lei processual civil, sendo admissíveis todos os meios de prova nela previstos.
 
-3 - Quando tenham sido cumulados pedidos dirigidos à condenação da Administração à prática de actos ou à realização de prestações, fundados no reconhecimento da ilegalidade da acção ou da omissão a que se refira o pedido principal, o tribunal pode determinar que a instrução respeitante a esses pedidos seja diferida para momento posterior ao da eventual instrução a realizar para esclarecer as questões respeitantes ao pedido principal, ou mesmo para momento subsequente ao da apresentação das alegações, quando esta tenha lugar.
+3 - No âmbito da instrução, o juiz ou relator ordena as diligências de prova que considere necessárias para o apuramento da verdade, podendo indeferir, por despacho fundamentado, requerimentos dirigidos à produção de prova sobre certos factos ou recusar a utilização de certos meios de prova, quando o considere claramente desnecessário.
 
-4 - No caso previsto no número anterior, a instrução respeitante aos demais pedidos pode vir a ser dispensada se o tribunal, entretanto, concluir pela improcedência do pedido principal.
+4 - Quando tenham sido cumulados pedidos fundados no reconhecimento, a título principal, da ilegalidade da conduta administrativa e a complexidade da apreciação desses pedidos o justifique, o tribunal pode antecipar a decisão do pedido principal em relação à instrução respeitante ao pedido ou pedidos cumulados, que apenas terá lugar se a procedência destes pedidos não ficar prejudicada pela decisão tomada quanto ao pedido principal.

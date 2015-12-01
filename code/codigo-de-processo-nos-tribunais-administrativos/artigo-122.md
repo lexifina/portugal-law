@@ -2,7 +2,7 @@
 
 ### Efeitos da decisão
 
-1 - A decisão sobre a adopção de providências cautelares é urgentemente notificada à autoridade requerida, para cumprimento imediato.
+1 - A decisão sobre a adoção de providências cautelares determina a notificação com urgência às partes para cumprimento imediato e, quando seja caso disso, às demais pessoas e entidades que lhe devam dar cumprimento.
 
 2 - As providências cautelares podem ser sujeitas a termo ou condição.
 

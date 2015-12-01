@@ -2,13 +2,13 @@
 
 ### Petição de execução
 
-1 - Quando a Administração não dê execução espontânea à sentença no prazo estabelecido no n.º 1 do artigo 162.º, pode o interessado pedir a respectiva execução ao tribunal que tenha proferido a sentença em primeiro grau de jurisdição.
+1 - Quando a Administração não dê execução espontânea à sentença no prazo estabelecido no n.º 1 do artigo 162.º, o interessado e o Ministério Público, quando tenha sido autor no processo ou estejam em causa os valores referidos no n.º 2 do artigo 9.º, podem pedir a respetiva execução ao tribunal que tenha proferido a sentença em primeiro grau de jurisdição.
 
-2 - Caso outra solução não resulte de lei especial, a petição de execução, que é autuada por apenso aos autos em que foi proferida a decisão exequenda, deve ser apresentada no prazo de seis meses contado desde o termo do prazo do n.º 1 do artigo 162.º ou da notificação da invocação de causa legítima de inexecução.
+2 - Caso outra solução não resulte de lei especial, a petição de execução, que é autuada por apenso aos autos em que foi proferida a decisão exequenda, deve ser apresentada no prazo de um ano, contado desde o termo do prazo do n.º 1 do artigo 162.º ou da notificação da invocação de causa legítima de inexecução.
 
-3 - Na petição, o exequente pode pedir a declaração de nulidade dos actos desconformes com a sentença, bem como a anulação daqueles que mantenham, sem fundamento válido, a situação ilegal.
+3 - Na petição, o exequente pode pedir a declaração de nulidade dos atos desconformes com a sentença, bem como a anulação daqueles que mantenham, sem fundamento válido, a situação ilegal.
 
-4 - Na petição, o exequente deve especificar os actos e operações em que entende que a execução deve consistir, podendo requerer, para além da indemnização moratória a que tenha direito:
+4 - Na petição, o exequente deve especificar os atos e operações em que entende que a execução deve consistir, podendo requerer, para além da indemnização moratória a que tenha direito:
 
 a) A entrega judicial da coisa devida;
 

@@ -8,7 +8,7 @@ a) Responsabilidade civil, nos termos gerais, quer da Administração quer das p
 
 b) Responsabilidade disciplinar, também nos termos gerais, dessas mesmas pessoas.
 
-2 - A inexecução também importa a pena de desobediência, sem prejuízo de outro procedimento especialmente fixado na lei, quando, tendo a Administração sido notificada para o efeito, o órgão administrativo competente:
+2 - A inexecução também constitui crime de desobediência qualificada, sem prejuízo de outro procedimento especialmente fixado na lei, quando, tendo a Administração sido notificada para o efeito, o órgão administrativo competente:
 
 a) Manifeste a inequívoca intenção de não dar execução à sentença, sem invocar a existência de causa legítima de inexecução;
 

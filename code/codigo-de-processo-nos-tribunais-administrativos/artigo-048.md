@@ -1,25 +1,25 @@
 # Artigo 48.º
 
-### Processos em massa
+### Seleção de processos com andamento prioritário
 
-1 - Quando sejam intentados mais de 20 processos que, embora reportados a diferentes pronúncias da mesma entidade administrativa, digam respeito à mesma relação jurídica material ou, ainda que respeitantes a diferentes relações jurídicas coexistentes em paralelo, sejam susceptíveis de ser decididos com base na aplicação das mesmas normas a idênticas situações de facto, o presidente do tribunal pode determinar, ouvidas as partes, que seja dado andamento a apenas um ou alguns deles, que neste último caso são apensados num único processo, e se suspenda a tramitação dos demais.
+1 - Quando, num mesmo tribunal, sejam intentados mais de dez processos que, embora referidos a diferentes pronúncias da mesma entidade administrativa, digam respeito à mesma relação jurídica material ou, ainda que respeitantes a diferentes relações jurídicas coexistentes em paralelo, sejam suscetíveis de ser decididos com base na aplicação das mesmas normas a situações de facto do mesmo tipo, o presidente do tribunal deve determinar, ouvidas as partes, que seja dado andamento apenas a um deles e se suspenda a tramitação dos demais.
 
 2 - O tribunal pode igualmente determinar, ouvidas as partes, a suspensão dos processos que venham a ser intentados na pendência do processo seleccionado e que preencham os pressupostos previstos no número anterior.
 
-3 - No exercício dos poderes conferidos nos números anteriores, o tribunal deve certificar-se de que no processo ou processos aos quais seja dado andamento prioritário a questão é debatida em todos os seus aspectos de facto e de direito e que a suspensão da tramitação dos demais processos não tem o alcance de limitar o âmbito da instrução, afastando a apreciação de factos ou a realização de diligências de prova necessárias para o completo apuramento da verdade.
+3 - No exercício dos poderes conferidos nos números anteriores, o tribunal deve certificar-se de que no processo ao qual seja dado andamento prioritário a questão é debatida em todos os seus aspetos de facto e de direito e que a suspensão da tramitação dos demais processos não tem o alcance de limitar o âmbito de instrução, afastando a apreciação de factos ou a realização de diligências de prova necessárias para o completo apuramento da verdade.
 
-4 - Ao processo ou processos seleccionados segundo o disposto no n.º 1 é aplicável o disposto neste Código para os processos urgentes e no seu julgamento intervêm todos os juízes do tribunal ou da secção.
+4 - Quando a verificação dos pressupostos requeridos no número anterior apenas possa ser alcançada através da seleção conjugada, para efeito de decisão prioritária, de mais do que um processo, os processos selecionados devem ser apensados num único processo.
 
-5 - Quando, no processo seleccionado, seja emitida pronúncia transitada em julgado e seja de entender que a mesma solução pode ser aplicada aos processos que tenham ficado suspensos, por estes não apresentarem qualquer especificidade em relação àquele, as partes nos processos suspensos são imediatamente notificadas da sentença, podendo o autor nesses processos optar, no prazo de 30 dias, por:
+5 - Das decisões de suspensão de tramitação ou de apensação de processos, podem as partes interpor, no prazo de 15 dias, recurso com efeito devolutivo com fundamento na ausência de qualquer dos pressupostos referidos no n.º 1.
 
-a) Desistir do seu próprio processo;
+6 - O disposto nos números anteriores também é aplicável quando a situação se verifique no conjunto de diferentes tribunais, podendo o impulso partir do presidente de qualquer dos tribunais envolvidos ou de qualquer das partes nos processos em causa.
 
-b) Requerer ao tribunal a extensão ao seu caso dos efeitos da sentença proferida, deduzindo qualquer das pretensões enunciadas nos n.os 3, 4 e 5 do artigo 176.º;
+7 - A aplicação do regime do presente artigo a situações de processos existentes em diferentes tribunais, segundo o previsto no número anterior, é determinada pelo Presidente do Supremo Tribunal Administrativo, a quem compete estabelecer qual ou quais os processos aos quais deve ser dado andamento, com suspensão dos demais, oficiosamente ou mediante proposta dos presidentes dos tribunais envolvidos.
 
-c) Requerer a continuação do seu próprio processo;
+8 - Ao processo ou processos selecionados é aplicável o disposto no n.º 4 do artigo 36.º para os processos urgentes e no seu julgamento intervêm todos os juízes do tribunal ou da secção.
 
-d) Recorrer da sentença, se ela tiver sido proferida em primeira instância.
+9 - A decisão emitida no processo ou nos processos selecionados é notificada às partes nos processos suspensos, podendo o autor nestes processos optar, no prazo de 30 dias, por desistir do pedido ou recorrer da sentença proferida no processo ou nos processos selecionados.
 
-6 - Quando seja apresentado o requerimento a que se refere a alínea b) do número anterior, seguem-se, com as devidas adaptações, os trâmites previstos nos artigos 177.º a 179.º
+10 - O tribunal decide oficiosamente a extensão dos efeitos da sentença aos processos suspensos em cujo âmbito não haja sido praticado, no prazo determinado no número anterior, qualquer dos atos ali previstos.
 
-7 - Se o recurso previsto na alínea d) do n.º 5 vier a ser julgado procedente, pode o autor exercer a faculdade prevista na alínea b) do mesmo número, sendo também neste caso aplicável o disposto no número anterior.
+11 - Quando mereça provimento, o recurso previsto no n.º 9 produz efeitos apenas na esfera jurídica do recorrente.

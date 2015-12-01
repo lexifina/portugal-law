@@ -1,15 +1,25 @@
 # Artigo 91.º
 
-### Discussão da matéria de facto e alegações facultativas
+### Audiência final
 
-1 - Finda a produção de prova, quando tenha lugar, pode o juiz ou relator, sempre que a complexidade da matéria o justifique, ordenar oficiosamente a realização de uma audiência pública destinada à discussão oral da matéria de facto.
+1 - Há lugar à realização de audiência final quando haja prestação de depoimentos de parte, inquirição de testemunhas ou prestação de esclarecimentos verbais pelos peritos.
 
-2 - A audiência pública a que se refere o número anterior pode ter também lugar a requerimento de qualquer das partes, podendo, no entanto, o juiz recusar a sua realização, mediante despacho fundamentado, quando entenda que ela não se justifica por a matéria de facto, documentalmente fixada, não ser controvertida.
+2 - Salvo em tribunal superior, a audiência decorre perante juiz singular e rege-se pelos princípios da plenitude da assistência do juiz e da publicidade e continuidade da audiência, segundo o disposto na lei processual civil, gozando o juiz de todos os poderes necessários para tornar útil e breve a discussão e para assegurar a justa decisão da causa.
 
-3 - Quando a audiência pública se realize por iniciativa das partes, nela são também deduzidas, por forma oral, as alegações sobre a matéria de direito.
+3 - No início da audiência, o juiz procura conciliar as partes, se a causa estiver no âmbito do seu poder de disposição, findo o que se realizam os seguintes atos, se a eles houver lugar:
 
-4 - Quando não se verifique a situação prevista no número anterior e as partes não tenham renunciado à apresentação de alegações escritas, são notificados o autor, pelo prazo de 20 dias, e depois, simultaneamente, a entidade demandada e os contra-interessados, por igual prazo, para, querendo, as apresentarem.
+a) Prestação dos depoimentos de parte;
 
-5 - Nas alegações pode o autor invocar novos fundamentos do pedido, de conhecimento superveniente, ou restringi-los expressamente e deve formular conclusões.
+b) Exibição de reproduções cinematográficas ou de registos fonográficos, podendo o juiz determinar que ela se faça apenas com assistência das partes, dos seus advogados e das pessoas cuja presença se mostre conveniente;
 
-6 - O autor também pode ampliar o pedido nas alegações, nos termos em que, neste Código, é admitida a modificação objectiva da instância.
+c) Esclarecimentos verbais dos peritos cuja comparência tenha sido determinada oficiosamente ou a requerimento das partes;
+
+d) Inquirição das testemunhas;
+
+e) Alegações orais, nas quais os advogados exponham as conclusões, de facto e de direito, que hajam extraído da prova produzida, podendo cada advogado replicar uma vez.
+
+4 - O juiz pode, nos casos em que tal se justifique, alterar a ordem de produção de prova referida no número anterior e, quando o considere conveniente para a descoberta da verdade, determinar a audição em simultâneo, sobre determinados factos, de testemunhas de ambas as partes.
+
+5 - Quando a complexidade da matéria o justifique ou qualquer das partes não prescinda da sua apresentação, o juiz, no termo da audiência, determina que as alegações previstas na alínea e) do n.º 3 sejam apresentadas por escrito pelo prazo simultâneo de 20 dias.
+
+6 - [Revogado].

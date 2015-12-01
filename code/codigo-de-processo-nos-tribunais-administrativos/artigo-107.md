@@ -2,6 +2,6 @@
 
 ### Tramitação
 
-1 - Apresentado o requerimento, o juiz ordena a citação da autoridade requerida para responder no prazo de 10 dias.
+1 - Deduzido o pedido de intimação, a secretaria promove oficiosamente a citação da entidade demandada e dos contrainteressados para responder no prazo de 10 dias.
 
-2 - Apresentada a resposta ou decorrido o respectivo prazo e concluídas as diligências que se mostrem necessárias, o juiz profere decisão.
+2 - Apresentada a resposta ou decorrido o respetivo prazo e concluídas as diligências que se mostrem necessárias, o juiz profere decisão no prazo de cinco dias.

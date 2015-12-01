@@ -1,6 +1,6 @@
 ## Secção III
 
-## Impugnação de normas e declaração de ilegalidade por omissão
+## Impugnação de normas e condenação à emissão de normas
 
 # Artigo 72.º
 

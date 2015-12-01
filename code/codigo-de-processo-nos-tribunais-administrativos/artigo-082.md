@@ -1,13 +1,13 @@
 # Artigo 82.º
 
-### Publicação de anúncio
+### Prazo da contestação e cominação
 
-1 - Quando os contra-interessados sejam em número superior a 20, o tribunal pode promover a respectiva citação mediante a publicação de anúncio, com a advertência de que os interessados dispõem do prazo de 15 dias para se constituírem como contra-interessados no processo.
+1 - Os demandados podem contestar no prazo de 30 dias a contar da citação, começando o prazo a correr desde o termo da dilação, quando a esta houver lugar.
 
-2 - Quando esteja em causa a impugnação de um acto que tenha sido publicado, a publicação do anúncio mencionado no número anterior faz-se pelo meio e no local utilizados para dar publicidade ao acto impugnado.
+2 - Quando, por erro cometido na petição inicial, na hipótese prevista no n.º 3 do artigo 78.º, seja citado um órgão diferente daquele que praticou ou devia ter emitido a norma ou o ato administrativo, o órgão citado deve dar imediato conhecimento àquele que o deveria ter sido, beneficiando, nesse caso, a entidade demandada de um prazo suplementar de 15 dias para apresentar a contestação e enviar o processo administrativo, quando exista.
 
-3 - Se o acto impugnado não tiver sido objecto de publicação, o anúncio a que se refere o n.º 1 é publicado em dois jornais diários de circulação nacional ou local, dependendo do âmbito da matéria em causa.
+3 - Se a um contrainteressado não tiver sido facultada, em tempo útil, a consulta ao processo administrativo, ele pode dar conhecimento disso ao juiz do processo, podendo, nesse caso, apresentar a contestação no prazo de 15 dias, contado desde o momento em que venha a ser notificado de que o processo administrativo foi junto aos autos.
 
-4 - Uma vez expirado o prazo previsto no n.º 1, os contra-interessados que como tais se tenham constituído consideram-se citados para contestar no prazo de 30 dias.
+4 - Mediante pedido devidamente fundamentado, é concedida ao Ministério Público prorrogação de prazo, não superior a 30 dias, quando careça de informações que não possa obter dentro dele ou quando tenha de aguardar resposta a consulta feita a instância superior.
 
-5 - Quando esteja em causa um pedido de declaração com força obrigatória geral da ilegalidade de uma norma, o juiz, no despacho que ordene ou dispense a citação da entidade demandada, manda publicar anúncio da formulação do pedido, pelo meio e no local utilizados para dar publicidade à norma, a fim de permitir a intervenção no processo de eventuais contra-interessados, admissível até ao termo da fase dos articulados.
+5 - [Revogado].

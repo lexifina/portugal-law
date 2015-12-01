@@ -4,6 +4,6 @@
 
 # Artigo 23.º
 
-### Entrega ou remessa das peças processuais
+### Regime aplicável
 
-É aplicável o disposto na lei processual civil no que se refere aos termos em que se procede à entrega ou remessa das peças processuais.
+É subsidiariamente aplicável ao processo administrativo o disposto na lei processual civil em matéria de entrega ou remessa das peças processuais, dos duplicados dos articulados e das cópias dos documentos apresentados, bem como em matéria de realização das citações e notificações.

@@ -12,14 +12,8 @@
 
 1 - A toda a causa deve ser atribuído um valor certo, expresso em moeda legal, o qual representa a utilidade económica imediata do pedido.
 
-2 - Atende-se ao valor da causa para determinar:
+2 - Atende-se ao valor da causa para determinar se cabe recurso da sentença proferida em primeira instância e que tipo de recurso.
 
-a) A forma do processo na acção administrativa comum;
-
-b) Se o processo, em acção administrativa especial, é julgado em tribunal singular ou em formação de três juízes;
-
-c) Se cabe recurso da sentença proferida em primeira instância e que tipo de recurso.
-
-3 - Para o efeito das custas e demais encargos legais, o valor da causa é fixado segundo as regras estabelecidas na legislação respectiva.
+3 - Para o efeito das custas e demais encargos legais, o valor da causa é fixado segundo as regras estabelecidas na legislação respetiva.
 
 4 - É aplicável o disposto na lei processual civil quanto aos poderes das partes e à intervenção do juiz na fixação do valor da causa.

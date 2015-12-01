@@ -1,13 +1,19 @@
 # Artigo 110.º
 
-### Tramitação
+### Despacho liminar e tramitação subsequente
 
-1 - Apresentado o requerimento, com duplicado, o juiz ordena a notificação do requerido, com remessa do duplicado, para responder no prazo de sete dias.
+1 - Uma vez distribuído, o processo é concluso ao juiz com a maior urgência, para despacho liminar, a proferir no prazo máximo de 48 horas, no qual, sendo a petição admitida, é ordenada a citação da outra parte para responder no prazo de sete dias.
 
-2 - Concluídas as diligências que se mostrem necessárias, cabe ao juiz decidir no prazo de cinco dias.
+2 - Quando a complexidade da matéria o justifique, pode o juiz determinar que o processo siga a tramitação estabelecida no capítulo III do título II, sendo, nesse caso, os prazos reduzidos a metade.
 
-3 - Quando a complexidade da matéria o justifique, pode o juiz determinar que o processo siga a tramitação estabelecida no capítulo III do título III, sendo, nesse caso, os prazos reduzidos a metade.
+3 - Em situações de especial urgência, em que a petição permita reconhecer a possibilidade de lesão iminente e irreversível do direito, liberdade ou garantia, o juiz pode optar, no despacho liminar, por:
 
-4 - Na decisão, o juiz determina o comportamento concreto a que o destinatário é intimado e, sendo caso disso, o prazo para o cumprimento e o responsável pelo mesmo.
+a) Reduzir o prazo previsto no n.º 1 para a resposta do requerido;
 
-5 - O incumprimento da intimação sujeita o particular ou o titular do órgão ao pagamento de sanção pecuniária compulsória, a fixar pelo juiz na decisão de intimação ou em despacho posterior, segundo o disposto no artigo 169.º, sem prejuízo do apuramento da responsabilidade civil, disciplinar e criminal a que haja lugar.
+b) Promover a audição do requerido através de qualquer meio de comunicação que se revele adequado;
+
+c) Promover a realização, no prazo de 48 horas, de uma audiência oral, no termo da qual a decisão é tomada de imediato.
+
+4 - [Revogado].
+
+5 - [Revogado].

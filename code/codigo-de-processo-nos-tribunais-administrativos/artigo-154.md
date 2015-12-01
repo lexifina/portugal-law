@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Recurso de revisão
-
 # Artigo 154.º
 
 ### Objecto

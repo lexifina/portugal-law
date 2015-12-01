@@ -6,20 +6,20 @@
 
 ### Prazos
 
-1 - A impugnação de actos nulos ou inexistentes não está sujeita a prazo.
-
-2 - Salvo disposição em contrário, a impugnação de actos anuláveis tem lugar no prazo de:
+1 - Salvo disposição legal em contrário, a impugnação de atos nulos não está sujeita a prazo e a de atos anuláveis tem lugar no prazo de:
 
 a) Um ano, se promovida pelo Ministério Público;
 
 b) Três meses, nos restantes casos.
 
-3 - A contagem dos prazos referidos no número anterior obedece ao regime aplicável aos prazos para a propositura de acções que se encontram previstos no Código de Processo Civil.
+2 - Sem prejuízo do disposto no n.º 4 do artigo 59.º, os prazos estabelecidos no número anterior contam-se nos termos do artigo 279.º do Código Civil.
 
-4 - Desde que ainda não tenha expirado o prazo de um ano, a impugnação será admitida, para além do prazo de três meses da alínea b) do n.º 2, caso se demonstre, com respeito pelo princípio do contraditório, que, no caso concreto, a tempestiva apresentação da petição não era exigível a um cidadão normalmente diligente, por:
+3 - A impugnação é admitida, para além do prazo previsto na alínea b) do n.º 1:
 
-a) A conduta da Administração ter induzido o interessado em erro;
+a) Nas situações em que ocorra justo impedimento, nos termos previstos na lei processual civil;
 
-b) O atraso dever ser considerado desculpável, atendendo à ambiguidade do quadro normativo aplicável ou às dificuldades que, no caso concreto, se colocavam quanto à identificação do acto impugnável, ou à sua qualificação como acto administrativo ou como norma;
+b) No prazo de três meses, contado da data da cessação do erro, quando se demonstre, com respeito pelo contraditório, que, no caso concreto, a tempestiva apresentação da petição não era exigível a um cidadão normalmente diligente, em virtude de a conduta da Administração ter induzido o interessado em erro; ou
 
-c) Se ter verificado uma situação de justo impedimento.
+c) Quando, não tendo ainda decorrido um ano sobre a data da prática do ato ou da sua publicação, quando obrigatória, o atraso deva ser considerado desculpável, atendendo à ambiguidade do quadro normativo aplicável ou às dificuldades que, no caso concreto, se colocavam quanto à identificação do ato impugnável, ou à sua qualificação como ato administrativo ou como norma.
+
+4 - [Revogado].

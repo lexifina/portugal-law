@@ -1,11 +1,3 @@
-## Título III
-
-## Da acção administrativa especial
-
-## Capítulo I
-
-## Disposições gerais
-
 # Artigo 46.º
 
 ### Objecto

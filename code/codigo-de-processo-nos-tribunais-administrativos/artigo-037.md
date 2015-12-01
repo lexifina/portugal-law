@@ -1,33 +1,45 @@
 ## Título II
 
-## Da acção administrativa comum
+## Da acção administrativa
+
+## Capítulo I
+
+## Disposições gerais
 
 # Artigo 37.º
 
 ### Objecto
 
-1 - Seguem a forma da acção administrativa comum os processos que tenham por objecto litígios cuja apreciação se inscreva no âmbito da jurisdição administrativa e que, nem neste Código nem em legislação avulsa, sejam objecto de regulação especial.
+1 - Seguem a forma da ação administrativa, com a tramitação regulada no capítulo III do presente título, os processos que tenham por objeto litígios cuja apreciação se inscreva no âmbito da competência dos tribunais administrativos e que nem neste Código, nem em legislação avulsa sejam objeto de regulação especial, designadamente:
 
-2 - Seguem, designadamente, a forma da acção administrativa comum os processos que tenham por objecto litígios relativos a:
+a) Impugnação de atos administrativos;
 
-a) Reconhecimento de situações jurídicas subjectivas directamente decorrentes de normas jurídico-administrativas ou de actos jurídicos praticados ao abrigo de disposições de direito administrativo;
+b) Condenação à prática de atos administrativos devidos, nos termos da lei ou de vínculo contratualmente assumido;
 
-b) Reconhecimento de qualidades ou do preenchimento de condições;
+c) Condenação à não emissão de atos administrativos, nas condições admitidas neste Código;
 
-c) Condenação à adopção ou abstenção de comportamentos, designadamente a condenação da Administração à não emissão de um acto administrativo, quando seja provável a emissão de um acto lesivo;
+d) Impugnação de normas emitidas ao abrigo de disposições de direito administrativo;
 
-d) Condenação da Administração à adopção das condutas necessárias ao restabelecimento de direitos ou interesses violados;
+e) Condenação à emissão de normas devidas ao abrigo de disposições de direito administrativo;
 
-e) Condenação da Administração ao cumprimento de deveres de prestar que directamente decorram de normas jurídico-administrativas e não envolvam a emissão de um acto administrativo impugnável, ou que tenham sido constituídos por actos jurídicos praticados ao abrigo de disposições de direito administrativo, e que podem ter por objecto o pagamento de uma quantia, a entrega de uma coisa ou a prestação de um facto;
+f) Reconhecimento de situações jurídicas subjetivas diretamente decorrentes de normas jurídico-administrativas ou de atos jurídicos praticados ao abrigo de disposições de direito administrativo;
 
-f) Responsabilidade civil das pessoas colectivas, bem como dos titulares dos seus órgãos, funcionários ou agentes, incluindo acções de regresso;
+g) Reconhecimento de qualidades ou do preenchimento de condições;
 
-g) Condenação ao pagamento de indemnizações decorrentes da imposição de sacrifícios por razões de interesse público;
+h) Condenação à adoção ou abstenção de comportamentos pela Administração Pública ou por particulares;
 
-h) Interpretação, validade ou execução de contratos;
+i) Condenação da Administração à adoção das condutas necessárias ao restabelecimento de direitos ou interesses violados, incluindo em situações de via de facto, desprovidas de título que as legitime;
 
-i) Enriquecimento sem causa;
+j) Condenação da Administração ao cumprimento de deveres de prestar que diretamente decorram de normas jurídico-administrativas e não envolvam a emissão de um ato administrativo impugnável, ou que tenham sido constituídos por atos jurídicos praticados ao abrigo de disposições de direito administrativo, e que podem ter por objeto o pagamento de uma quantia, a entrega de uma coisa ou a prestação de um facto;
 
-j) Relações jurídicas entre entidades administrativas.
+k) Responsabilidade civil das pessoas coletivas, bem como dos titulares dos seus órgão ou respetivos trabalhadores em funções públicas, incluindo ações de regresso;
+
+l) Interpretação, validade ou execução de contratos;
+
+m) A restituição do enriquecimento sem causa, incluindo a repetição do indevido;
+
+n) Relações jurídicas entre entidades administrativas.
+
+2 - [Revogado].
 
 3 - Quando, sem fundamento em acto administrativo impugnável, particulares, nomeadamente concessionários, violem vínculos jurídico-administrativos decorrentes de normas, actos administrativos ou contratos, ou haja fundado receio de que os possam violar, sem que, solicitadas a fazê-lo, as autoridades competentes tenham adoptado as medidas adequadas, qualquer pessoa ou entidade cujos direitos ou interesses sejam directamente ofendidos pode pedir ao tribunal que condene os mesmos a adoptaram ou a absterem-se de certo comportamento, por forma a assegurar o cumprimento dos vínculos em causa.

@@ -1,29 +1,35 @@
 # Artigo 89.º
 
-### Fundamentos que obstam ao prosseguimento do processo
+### Exceções
 
-1 - Para o efeito do disposto nos artigos anteriores, obstam nomeadamente ao prosseguimento do processo:
+1 - As exceções são dilatórias ou perentórias.
 
-a) Ineptidão da petição;
+2 - As exceções dilatórias são de conhecimento oficioso e obstam a que o tribunal conheça do mérito da causa, dando lugar à absolvição da instância ou à remessa do processo para outro tribunal.
 
-b) Falta de personalidade ou capacidade judiciária do autor;
+3 - As exceções perentórias consistem na invocação de factos que impedem, modificam ou extinguem o efeito jurídico dos factos articulados pelo autor, são de conhecimento oficioso quando a lei não faz depender a sua invocação da vontade do interessado e importam a absolvição total ou parcial do pedido.
 
-c) Inimpugnabilidade do acto impugnado;
+4 - São dilatórias, entre outras, as exceções seguintes:
 
-d) Ilegitimidade do autor ou do demandado;
+a) Incompetência do tribunal;
 
-e) Ilegalidade da coligação;
+b) Nulidade de todo o processo;
 
-f) Falta da identificação dos contra-interessados;
+c) Falta de personalidade ou de capacidade judiciária de alguma das partes;
 
-g) Ilegalidade da cumulação de pretensões;
+d) Falta de autorização ou deliberação que o autor devesse obter;
 
-h) Caducidade do direito de acção;
+e) Ilegitimidade de alguma das partes, designadamente por falta da identificação dos contrainteressados;
 
-i) Litispendência e caso julgado.
+f) Coligação de autores ou demandados, quando entre os pedidos não exista a conexão exigida no artigo 12.º
 
-2 - A absolvição da instância sem prévia emissão de despacho de aperfeiçoamento não impede o autor de, no prazo de 15 dias contado da notificação da decisão, apresentar nova petição, com observância das prescrições em falta, a qual se considera apresentada na data em que o tinha sido a primeira, para efeitos da tempestividade da sua apresentação.
+g) Pluralidade subjetiva subsidiária, salvo caso de dúvida fundamentada sobre o sujeito da relação controvertida;
 
-3 - O disposto no número anterior é designadamente aplicável quando o pedido formulado em processo impugnatório não tenha sido o adequado, por erro na qualificação do acto jurídico impugnado como norma ou como acto administrativo ou na identificação do acto impugnável.
+h) Falta de constituição de advogado ou de representante legal por parte do autor e a falta, insuficiência ou irregularidade de mandato judicial por parte do mandatário que propôs a ação;
 
-4 - Nos casos previstos nos números anteriores, é aplicável o disposto no n.º 4 do artigo anterior.
+i) Inimpugnabilidade do ato impugnado;
+
+j) Ilegalidade da cumulação de pretensões;
+
+k) Intempestividade da prática do ato processual;
+
+l) Litispendência e caso julgado.

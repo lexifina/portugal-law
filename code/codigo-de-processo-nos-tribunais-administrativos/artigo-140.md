@@ -1,4 +1,4 @@
-## Título VII
+## Título VI
 
 ## Dos recursos jurisdicionais
 
@@ -8,6 +8,10 @@
 
 # Artigo 140.º
 
-### Regime aplicável
+### Espécies de recursos e regime aplicável
 
-Os recursos ordinários das decisões jurisdicionais proferidas pelos tribunais administrativos regem-se pelo disposto na lei processual civil, com as necessárias adaptações, e são processados como os recursos de agravo, sem prejuízo do estabelecido na presente lei e no Estatuto dos Tribunais Administrativos e Fiscais.
+1 - Os recursos das decisões proferidas pelos tribunais administrativos são ordinários ou extraordinários, sendo ordinários a apelação e a revista e extraordinários o recurso para uniformização de jurisprudência e a revisão.
+
+2 - Só existe recurso de revista para o Supremo Tribunal Administrativo nos casos e termos previstos no capítulo seguinte.
+
+3 - Os recursos das decisões proferidas pelos tribunais administrativos regem-se pelo disposto na lei processual civil, salvo o disposto no presente título.

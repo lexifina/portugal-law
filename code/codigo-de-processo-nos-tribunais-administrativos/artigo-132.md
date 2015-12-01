@@ -1,17 +1,17 @@
 # Artigo 132.º
 
-### Providências relativas a procedimentos de formação de contratos
+### Processos cautelares relativos a procedimentos de formação de contratos
 
-1 - Quando esteja em causa a anulação ou declaração de nulidade ou inexistência jurídica de actos administrativos relativos à formação de contratos, podem ser requeridas providências destinadas a corrigir a ilegalidade ou a impedir que sejam causados outros danos aos interesses em presença, incluindo a suspensão do procedimento de formação do contrato.
+1 - Os processos cautelares relativos a procedimentos de formação de contratos não abrangidos pelo regime dos artigos 100.º a 103.º-B, dirigidos designadamente a obter a suspensão da eficácia de atos praticados no âmbito do procedimento, a suspensão do próprio procedimento e a proibição da celebração ou da execução do contrato, regem-se pelo presente Título, com ressalva do disposto nos números seguintes.
 
-2 - Para os efeitos do disposto no número anterior, são equiparados a actos administrativos os actos praticados por sujeitos privados, no âmbito de procedimentos pré-contratuais de direito público.
+2 - O requerimento cautelar deve ser instruído com todos os elementos de prova.
 
-3 - Aplicam-se, neste domínio, as regras do capítulo anterior, com ressalva do disposto nos números seguintes.
+3 - A autoridade requerida e os contrainteressados dispõem do prazo de sete dias para responderem.
 
-4 - O requerimento deve ser instruído com todos os elementos de prova.
+4 - A concessão da providência depende do juízo de probabilidade do tribunal quanto a saber se, ponderados os interesses suscetíveis de serem lesados, os danos que resultariam da adoção da providência se mostrem superiores aos prejuízos que podem resultar da sua não adoção, sem que tal lesão possa ser evitada ou atenuada pela adoção de outras providências.
 
-5 - A autoridade requerida e os contra-interessados dispõem do prazo de sete dias para responderem.
+5 - Quando, no processo cautelar, o juiz considere demonstrada a ilegalidade de especificações contidas nos documentos conformadores do procedimento que era invocada como fundamento do processo principal, pode determinar a sua imediata correção, decidindo, desse modo, o mérito da causa, segundo o disposto no artigo 121.º
 
-6 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 120.º, a concessão da providência depende do juízo de probabilidade do tribunal quanto a saber se, ponderados os interesses susceptíveis de serem lesados, os danos que resultariam da adopção da providência são superiores aos prejuízos que podem resultar da sua não adopção, sem que tal lesão possa ser evitada ou atenuada pela adopção de outras providências.
+6 - [Revogado].
 
-7 - Quando, logo no processo cautelar, o juiz considere demonstrada a ilegalidade de especificações contidas nos documentos do concurso que era invocada como fundamento do processo principal, pode determinar a sua correcção, decidindo, desse modo, o fundo da causa, segundo o disposto no artigo 121.º
+7 - [Revogado].

@@ -2,7 +2,7 @@
 
 ### Alteração e revogação das providências
 
-1 - A decisão tomada no sentido de adoptar ou recusar a adopção de providências cautelares pode ser revogada, alterada ou substituída na pendência da causa principal, por iniciativa do próprio tribunal ou a requerimento de qualquer dos interessados ou do Ministério Público, quando tenha sido este o requerente, com fundamento na alteração das circunstâncias inicialmente existentes.
+1 - A decisão de adotar ou recusar a adoção de providências cautelares, desde que transitada em julgado, pode ser revogada ou alterada, oficiosamente ou mediante requerimento, com fundamento em alteração dos pressupostos de facto e de direito inicialmente existentes.
 
 2 - À situação prevista no número anterior é aplicável, com as devidas adaptações, o preceituado nos n.os 3 a 5 do artigo anterior.
 
