@@ -4,7 +4,7 @@
 
 ## Capítulo I
 
-## Das impugnações urgentes
+## Ação administrativa urgente
 
 # Artigo 97.º
 
