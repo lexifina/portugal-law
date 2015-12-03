@@ -1,0 +1,5 @@
+# Anexo
+
+### (a que se refere o artigo 1.º)
+
+ESTATUTO DAS INSTITUIÇÕES PARTICULARES DE SOLIDARIEDADE SOCIAL
