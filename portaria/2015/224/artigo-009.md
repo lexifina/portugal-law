@@ -49,3 +49,5 @@ iv) Data do termo da vigência da linha de prescrição;
 v) Os elementos previstos nas alíneas a) a f) do número anterior.
 
 4 - Por opção do utente, a receita desmaterializada pode incluir o seu número de contacto telefónico móvel, para efeitos de comunicação do código de dispensa e dos direitos de opção.
+
+5 - Para efeitos do disposto na alínea e) do n.º 1, nos casos em que não seja de imediato apurada a entidade financeira responsável distinta do SNS, nomeadamente por motivos de acidente ou ocorrência semelhante, os sistemas de prescrição eletrónica devem assegurar a sinalização dessa situação.
