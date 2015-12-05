@@ -16,4 +16,4 @@ c) Notas de crédito e notas de débito recebidas.
 
 4 - O valor a pagar corresponde ao valor da fatura mensal, entregue no mês anterior, corrigido do valor das retificações.
 
-5 - No dia referido no n.º 3, a ARS, ou a entidade por esta designada, informa a farmácia, sempre que possível por via eletrónica, do montante transferido, do valor da fatura, das eventuais retificações a crédito ou a débito, da data da transferência e do número de identificação bancária da conta bancária para onde esta foi efetuada.
+5 - Para efeitos do disposto na alínea e) do n.º 1, nos casos em que não seja de imediato apurada a entidade financeira responsável distinta do SNS, nomeadamente por motivos de acidente ou ocorrência semelhante, os sistemas de prescrição eletrónica devem assegurar a sinalização dessa situação.
