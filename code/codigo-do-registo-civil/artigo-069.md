@@ -10,7 +10,7 @@ b) O estabelecimento da filiação;
 
 c) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;
 
-d) A adopção plena e a revisão da respectiva sentença e a adopção restrita, sua conversão, revisão e revogação;
+d) A adoção e a revisão da respetiva sentença;
 
 e) A regulação do exercício do poder paternal, sua cessação e a alteração que respeite à confiança do filho;
 
@@ -53,3 +53,5 @@ r) Em geral, todos os factos jurídicos que modifiquem os elementos de identific
 a) Aos assentos de nascimento dos filhos maiores da pessoa que mudou de sexo, a requerimento daqueles;
 
 b) Ao assento de nascimento do outro cônjuge com consentimento deste prestado através de declaração perante oficial do registo civil ou de documento autêntico ou autenticado.
+
+5 - Após o averbamento do facto referido na alínea d) deverá ser feita a comunicação a que se reporta o n.º 3 do artigo 56.º do Regime Jurídico do Processo de Adoção, a efetuar com preservação dos elementos de identificação dos adotantes, designadamente identidade, filiação, residência, número de documentos de identificação e do tribunal por onde correu o processo de adoção.
