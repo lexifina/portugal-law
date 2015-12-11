@@ -1,0 +1,4 @@
+Aviso n.º 84/2015
+Torna-se público que, a 27 de outubro de 2015, foi enviada a notificação por escrito ao Imamat Ismaili pela República Portuguesa, em que se comunica terem sido concluídos os procedimentos constitucionais da República Portuguesa exigidos para a entrada em vigor do Acordo celebrado entre a República Portuguesa e o Imamat Ismaili para o estabelecimento da sede do Imamat Ismaili em Portugal, assinado em Lisboa em 3 de junho de 2015.
+O referido Acordo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 135/2015 e ratificado pelo Decreto do Presidente da República n.º 124/2015, de 27 de outubro de 2015, publicados no Diário da República, 1.ª série, n.º 210, de 27 de outubro de 2015, e nos termos do seu artigo 21.º, o Acordo entra em vigor no dia 27 de novembro de 2015.
+O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete, em 25 de novembro de 2015.
