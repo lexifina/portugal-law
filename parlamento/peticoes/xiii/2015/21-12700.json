@@ -1,0 +1,460 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12700",
+  "numero": "21",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-12-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-09-27",
+            "entidades": null,
+            "id": "102942",
+            "tipo": null,
+            "titulo": "Audição em 2016-09-27 com Peticionários: Mauro Germano de Carvalho Rosa, Duarte Nuno Moreira Leal e Marco Diogo de Araújo Veríssimo."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-03-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-07-13",
+        "DataArquivo": "2017-03-15",
+        "DataBaixaComissao": "2015-12-30",
+        "DataEnvioPAR": "2017-03-15",
+        "DataReaberta": "2016-07-13",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-07-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e44526a5a44526b4d3259744e5467354e5330304d57526b4c5749324e4755744e6d59784d474d784d4442694e7a49324c6e426b5a673d3d&fich=44cd4d3f-5895-41dd-b64e-6f10c100b726.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-03-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6d5669597a5a6d5a446b74593255784e6930305a5759774c54686c595751744f4459324d4463775a6d4a6a4d6a42684c6e426b5a673d3d&fich=2ebc6fd9-ce16-4ef0-8ead-866070fbc20a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-09-14",
+            "gp": "PS",
+            "id": "466",
+            "motivoCessacao": null,
+            "nome": "Wanda Guimarães"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-07-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-07-22",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4d544d7a4e6d566a4e7930304d47566c4c54526c597a55744f546b794d43316c4d3251775954677a5a6d4e694f54457555455247&fich=f1336ec7-40ee-4ec5-9920-e3d0a83fcb91.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-01-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939694d5463334e5463315a5331684d7a63324c5451354d6a4d74596a4d355a4330345a6a6b784d545a684d546b78597a4d756347526d&fich=b177575e-a376-4923-b39d-8f9116a191c3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41587",
+      "41590",
+      "41599"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31",
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/30?pgs=30-31,36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português; Igualdade de condições de trabalho entre todos os trabalhadores da administração pública e do setor empresarial do Estado independentemente do vínculo; Recomenda ao Governo que assegure igualdade de direitos entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/31?pgs=31,36&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12700",
+    "PetAssunto": "Igualdade de direitos laborais entre trabalhadores com Contrato Individual de Trabalho e trabalhadores com Contrato de Trabalho em Funções Públicas, nas instituições do Estado Português.",
+    "PetDataEntrada": "2015-12-20",
+    "PeticoesAssociadas": [
+      "12733",
+      "12821"
+    ],
+    "PetId": "12700",
+    "PetLeg": "XIII",
+    "PetNr": "21",
+    "PetNrAssinaturas": "4111",
+    "PetNrAssinaturasInicial": "2182",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2365",
+        "obs": null,
+        "pag": [
+          "7-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/7?pgs=7-22&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "767911",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-15",
+        "pubLeg": "XIII",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/043/2016-07-15/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
