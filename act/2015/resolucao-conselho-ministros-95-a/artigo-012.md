@@ -1,0 +1,27 @@
+## Capítulo II
+
+## Reunião de Secretárias e Secretários de Estado
+
+# Artigo 12.º
+
+### Composição
+
+1 - As Reuniões de Secretárias/os de Estado são presididas pela Ministra da Presidência e da Modernização Administrativa ou, na sua ausência e impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros, que a coadjuva nas demais.
+
+2 - Participam nas Reuniões de Secretárias/os de Estado:
+
+a) O Secretário de Estado dos Assuntos Parlamentares;
+
+b) A Secretária de Estado Adjunta do Primeiro-Ministro;
+
+c) Uma/um- secretária/o de Estado em representação de cada ministra/o.
+
+3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.
+
+4 - Podem assistir às Reuniões de Secretárias/os de Estado:
+
+a) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;
+
+b) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
+
+5 - O Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.
