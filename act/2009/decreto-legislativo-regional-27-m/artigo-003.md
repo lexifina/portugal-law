@@ -6,7 +6,7 @@
 
 2 - Tratando-se de institutos públicos, a adaptação referida no número anterior é aprovada por regulamento interno, homologado pelos membros do Governo Regional referidos no número anterior.
 
-3 - A adaptação do regime previsto no presente diploma pode constar de acordo colectivo de trabalho, no caso de relações jurídicas de emprego público constituídas por contrato.
+3 - A adaptação do regime previsto no presente diploma pode constar de instrumento de regulamentação coletiva de trabalho, no caso de relações jurídicas de emprego público constituídas por contrato.
 
 4 - As adaptações a que se referem os números anteriores deverão respeitar o disposto no presente diploma em matéria de:
 

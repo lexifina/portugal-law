@@ -8,9 +8,9 @@
 
 3 - Nos serviços de grande dimensão podem ser constituídas várias comissões paritárias, em que os representantes da administração são designados de entre os membros das secções autónomas previstas no n.º 4 do artigo anterior e os representantes dos trabalhadores eleitos pelos universos de trabalhadores que correspondam à competência daquelas secções autónomas.
 
-4 - Os vogais representantes da administração são designados em número de quatro, pelo período de dois anos, sendo dois efectivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
+4 - Os vogais representantes da Administração são designados em número de quatro, pelo período de quatro anos, sendo dois efetivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
 
-5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de dois anos, em número de seis, sendo dois efectivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
+5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de quatro anos, em número de seis, sendo dois efetivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
 
 6 - O processo de eleição dos vogais representantes dos trabalhadores deve decorrer em Dezembro e é organizado nos termos de despacho do dirigente máximo do serviço que é publicitado na respectiva página electrónica, do qual devem constar, entre outros, os seguintes pontos:
 

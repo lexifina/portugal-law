@@ -6,7 +6,7 @@
 
 ### Fases
 
-O processo de avaliação comporta as seguintes fases:
+O processo de avaliação dos trabalhadores comporta as seguintes fases:
 
 a) Planeamento do processo de avaliação e definição de objectivos e resultados a atingir;
 

@@ -12,10 +12,12 @@
 
 1 - A avaliação global do desempenho dos dirigentes superiores e intermédios é feita no termo das respectivas comissões de serviço, conforme o respectivo estatuto, ou no fim do prazo para que foram nomeados.
 
-2 - Sem prejuízo do disposto no número anterior, o desempenho dos dirigentes superiores e intermédios é objecto de avaliação intercalar, efectuada anualmente nos termos do presente diploma.
+2 - Sem prejuízo do disposto no número anterior, o desempenho dos dirigentes superiores e intermédios é objeto de monitorização intercalar.
 
-3 - O período de avaliação intercalar corresponde ao ano civil, pressupondo o desempenho como dirigente por um período não inferior a seis meses, seguidos ou interpolados.
+3 - O período de monitorização intercalar corresponde ao ano civil, pressupondo o desempenho como dirigente por um período não inferior a seis meses, seguidos ou interpolados.
 
-4 - A avaliação do desempenho dos trabalhadores que exercem cargos dirigentes repercute-se na carreira de origem, nomeadamente para efeitos de alteração do posicionamento remuneratório.
+4 - (Revogado.)
 
-5 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direcção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita anualmente, nos termos do presente título.
+5 - A avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores que exercem cargos dirigentes é realizada bienalmente nos termos dos n.os 5 a 7 do artigo 39.º e do artigo 40.º
+
+6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita bienalmente, nos termos do SIADAP-RAM 3, não sendo aplicável o disposto no n.º 5.

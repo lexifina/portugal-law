@@ -1,10 +1,10 @@
 # Artigo 33.º
 
-### Avaliação intercalar
+### Avaliação
 
-1 - A avaliação anual intercalar prevista no n.º 2 do artigo 25.º fundamenta-se na avaliação dos parâmetros referidos no artigo anterior, através de indicadores de medida previamente estabelecidos.
+1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início da sua comissão de serviço e no quadro das suas competências legais, negoceiam com o respetivo avaliador a definição dos objetivos, quantificados e calendarizados, a atingir no decurso do exercício de funções, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
 
-2 - O parâmetro relativo a «Resultados» assenta nos objectivos, em número não inferior a três, anualmente negociados com o avaliado, prevalecendo, em caso de discordância, a posição do superior hierárquico.
+2 - O parâmetro relativo a 'Resultados' assenta nos objetivos, em número não inferior a três, negociados com o dirigente, prevalecendo, em caso de discordância, a posição do superior hierárquico.
 
 3 - Os resultados obtidos em cada objectivo são valorados, através de uma escala de três níveis, nos seguintes termos:
 
@@ -18,7 +18,7 @@ c) «Objectivo não atingido», a que corresponde uma pontuação de 1.
 
 5 - O parâmetro relativo a «Competências» assenta em competências previamente escolhidas, para cada dirigente, em número não inferior a cinco.
 
-6 - As competências referidas no número anterior são escolhidas, mediante acordo entre avaliador e avaliado, prevalecendo a escolha do superior hierárquico se não existir acordo, de entre as fixadas na lista constante do anexo vi da Portaria n.º 1633/2007, de 31 de Dezembro, para os correspondentes grupos de pessoal, considerando-se a referência a ministérios reportada a departamentos do Governo Regional.
+6 - As competências referidas no número anterior são escolhidas, mediante acordo entre avaliador e avaliado, prevalecendo a escolha do superior hierárquico se não existir acordo, de entre as fixadas na lista constante do anexo VI da Portaria n.º 359/2013, de 13 de dezembro, para os correspondentes grupos de pessoal, considerando-se a referência a Ministérios reportada a departamentos do Governo Regional.
 
 7 - O dirigente máximo do serviço, ouvido o conselho coordenador da avaliação, pode estabelecer por despacho as competências a que se subordina a avaliação dos dirigentes intermédios, escolhidas de entre as constantes na lista referida no número anterior.
 

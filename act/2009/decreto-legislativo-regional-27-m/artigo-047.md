@@ -6,7 +6,7 @@
 
 2 - Para o parâmetro «Resultados» é atribuída uma ponderação mínima de 60 % e para o parâmetro «Competências», uma ponderação máxima de 40 %.
 
-3 - Podem ser estabelecidos limites diferentes dos fixados no número anterior, em função de carreiras gerais ou especiais ou de especificidades das atribuições de serviços ou da sua gestão, por despacho conjunto do membro do Governo Regional responsável pela área da administração pública e do membro do Governo respectivo.
+3 - Por despacho do membro do Governo Regional responsável pela área da Administração Pública, podem ser estabelecidos limites diferentes dos fixados no número anterior em função de carreiras e, por despacho conjunto com o membro do Governo Regional da tutela, podem igualmente ser fixados outros limites diferentes para carreiras especiais ou em função de especificidades das atribuições de serviços ou da sua gestão.
 
 4 - A avaliação final é expressa em menções qualitativas, em função das pontuações finais em cada parâmetro, nos seguintes termos:
 

@@ -2,7 +2,7 @@
 
 ### Auto-avaliação
 
-1 - A auto-avaliação tem carácter obrigatório e deve evidenciar os resultados alcançados e os desvios verificados de acordo com a estrutura do SIADAP-RAM 1 do serviço, em particular face aos objectivos anualmente fixados.
+1 - A autoavaliação tem caráter obrigatório e deve evidenciar os resultados alcançados e os desvios verificados de acordo com o QUAR do serviço, em particular face aos objetivos anualmente fixados.
 
 2 - A auto-avaliação é parte integrante do relatório de actividades anual e deve ser acompanhada de informação relativa:
 

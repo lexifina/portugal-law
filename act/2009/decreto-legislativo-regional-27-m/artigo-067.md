@@ -2,4 +2,4 @@
 
 ### Homologação das avaliações
 
-A homologação das avaliações de desempenho deve ser efectuada até 30 de Março, dela devendo ser dado conhecimento ao avaliado no prazo de cinco dias úteis.
+A homologação das avaliações de desempenho deve ser, em regra, efetuada até 30 de abril, dela devendo ser dado conhecimento ao avaliado no prazo de cinco dias úteis.

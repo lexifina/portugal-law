@@ -1,8 +1,8 @@
 # Artigo 20.º
 
-### Programa de hetero-avaliações
+### Programa anual de heteroavaliações
 
-1 - O órgão inspectivo propõe ao Governo Regional, através dos membros do Governo responsáveis pelas áreas das finanças e da administração pública, o programa de hetero-avaliações, que terá, em regra, periodicidade anual.
+1 - O órgão inspetivo propõe ao Governo Regional, através do membro do Governo Regional responsável pelas áreas das finanças e da administração pública, o programa de heteroavaliações, que terá periodicidade anual.
 
 2 - O programa tem em conta as propostas efectuadas nos termos da alínea b) do n.º 3 do artigo 16.º, bem como outras situações que indiciem maior insatisfação por parte dos utilizadores externos e ainda as propostas feitas nos termos do n.º 3 do artigo 19.º que se revelarem pertinentes.
 

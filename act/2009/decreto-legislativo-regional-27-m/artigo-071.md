@@ -2,7 +2,7 @@
 
 ### Diferenciação de desempenhos
 
-1 - Sem prejuízo do disposto na alínea a) do artigo 24.º, a diferenciação de desempenhos é garantida, em regra, pela fixação da percentagem máxima de 25 % para as avaliações finais qualitativas de Desempenho relevante e de, entre estas, 5 % do total dos trabalhadores para o reconhecimento de Desempenho excelente.
+1 - A diferenciação de desempenhos é garantida pela fixação da percentagem máxima de 25 % para as avaliações finais qualitativas de Desempenho relevante e, de entre estas, 5 % do total dos trabalhadores para o reconhecimento de Desempenho excelente.
 
 2 - As percentagens previstas no número anterior incidem sobre o número de trabalhadores previstos nos n.os 2 a 7 do artigo 39.º, com aproximação por excesso, quando necessário, e devem, em regra, ser distribuídas proporcionalmente por todas as carreiras.
 

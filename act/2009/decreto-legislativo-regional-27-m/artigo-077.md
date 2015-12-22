@@ -16,4 +16,4 @@ c) Do n.º 3 do artigo 2.º da Lei n.º 15/2006, de 26 de Abril.
 
 4 - No caso de quem não tenha avaliação do desempenho por motivo que não lhe seja imputável, pode ser requerida a ponderação curricular, nos termos do artigo 40.º, a realizar por avaliador designado pelo dirigente máximo do serviço.
 
-5 - As avaliações obtidas pelos dirigentes intermédios e trabalhadores ao abrigo da Lei n.º 10/2004, de 22 de Março, regulamentada, na Região Autónoma da Madeira, pelo Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho, relevam, consoante os casos, para os efeitos previstos nos n.os 2, 4, 5 e 8 do artigo 36.º e nos n.os 3, 5, 6 e 7 do artigo 49.º, reportando-se a avaliação de Excelente e Muito bom, respectivamente, a Desempenho excelente e Desempenho relevante.
+5 - (Revogado.)
