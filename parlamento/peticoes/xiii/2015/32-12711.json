@@ -1,0 +1,894 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12711",
+  "numero": "32",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-12-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-16",
+            "entidades": null,
+            "id": "101545",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-16 com FENPROF - Federação Nacional dos Professores"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "31/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-11",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "32/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-01",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "33/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-05",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "34/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Federação Sindical da Administração Pública"
+            ],
+            "nrOficio": "35/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-08",
+            "entidades": [
+              "STE - Sindicato dos Quadros Técnicos do Estado"
+            ],
+            "nrOficio": "36/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-04-07",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "37/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-07",
+            "entidades": [
+              "Associação Nacional dos Professores Contratados"
+            ],
+            "nrOficio": "38/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-08",
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "39/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-17",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "40/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-02",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "41/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-12",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "42/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-05",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "30/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "29/8ªCEC/2016",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2016-03-01",
+                "dataResposta": null,
+                "nrOficio": "112/8ªCEC/2016",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-03-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "760820",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-04-01",
+                "pubLeg": "XIII",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/022/2016-04-01/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-19",
+        "DataArquivo": "2016-03-29",
+        "DataBaixaComissao": "2015-12-30",
+        "DataEnvioPAR": "2016-03-30",
+        "DataReaberta": "2016-01-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6334597a5534596d59774c544e694f4445744e475a6d5a4330345932557a4c544e6c4f5759314e474d345a6a526a4f4335775a47593d&fich=78c58bf0-3b81-4ffd-8ce3-3e9f54c8f4c8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b78596a4e685932466d4c5467795a6a6b744e444d345a5331694d6d45774c546b7a5a6d45784e7a646b5a474a6a4e5335775a47593d&fich=91b3acaf-82f9-438e-b2a0-93fa177ddbc5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245774f54426b5a6d59304c544e684e4759744e47497a4e7930354e3245784c5449325a4467315a6a49355a6a466b4d4335775a47593d&fich=a090dff4-3a4f-4b37-97a1-26d85f29f1d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5578596a63354e325a684c5759354e6d49744e4455354e6931685a6d52694c574d794e3245794e54526a4f474d344e5335775a47593d&fich=51b797fa-f96b-4596-afdb-c27a254c8c85.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63794e7a51335a4449314c5745355a4751744e4449794d6931694e5463334c5464694e546869596a59334f57566a595335775a47593d&fich=72747d25-a9dd-4222-b577-7b58bb679eca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6d597a466a5a6a677a4c5442684e4745744e4455354f433034597a4a6c4c544932593249334e4455344f4759774f4335775a47593d&fich=9fc1cf83-0a4a-4598-8c2e-26cb74588f08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55304f44686a597a686b4c546469596d45744e444a6c5a6931684d4446684c544d794e6a59324e474a694d5451344e7935775a47593d&fich=5488cc8d-7bba-42ef-a01a-326664bb1487.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a46694d5455344f47466b4c574535593249744e4455784d7930354e6d526c4c546c68597a5978597a55784d324a6c4e4335775a47593d&fich=1b1588ad-a9cb-4513-96de-9ac61c513be4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a6d5a5455304d7a49314c5441335a5467744e4451334d7931684f574d324c5746684e7a51794e7a55775a54417a4f4335775a47593d&fich=6fe54325-07e8-4473-a9c6-aa742750e038.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41785957526a4d6a6c684c546b795a6d45744e4441784f4330344e32466d4c545a6a4d7a6333596a45784f474e6a595335775a47593d&fich=01adc29a-92fa-4018-87af-6c377b118cca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6d5a6a63774d6a64684c545a6a595459744e444d344e4330354d7a4d7a4c5445324f5468684d6a63344d4459304e6935775a47593d&fich=fff7027a-6ca6-4384-9333-1698a2780646.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259304e444a6d4e6d497a4c5455775a4463744e444530595330354e7a6c684c546b304e54597a4d7a4178597a466d595335775a47593d&fich=f442f6b3-50d7-414a-979a-94563301c1fa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-03-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686a4d6a41304d5751304c5442694d3249744e4759794e6931684f4446694c57457a4e546b794d546c6b4f574d34597935775a47593d&fich=8c2041d4-0b3b-4f26-a81b-a359219d9c8c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6b4e44466d4e6a49784c574d7a4d7a41744e446b344d793034597a6b314c57466c4d47526d5a6d4e6b4f5445324e6935775a47593d&fich=fd41f621-c330-4983-8c95-ae0dffcd9166.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63795a475133597a4a694c546731595467744e444d785a6930344d7a45344c546c6b4e474e694e7a64694e7a45354e7935775a47593d&fich=72dd7c2b-85a8-431f-8318-9d4cb77b7197.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256694f54466b5a6d5a6c4c574e6c4d7a41744e4745784d79303559574e6d4c5456695a44426b4f54466b4e5445314d7935775a47593d&fich=eb91dffe-ce30-4a13-9acf-5bd0d91d5153.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-03-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255324f474933596a4d794c575531597a41744e475a685a4331695a546b7a4c574e6c4f444d32596a55794e4749304e5335775a47593d&fich=e68b7b32-e5c0-4fad-be93-ce836b524b45.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-02-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63315a6d45355a574a6a4c5759344f5745744e4759355a6931694e4451774c54426d4e6a686d5a546b775a5445774f5335775a47593d&fich=75fa9ebc-f89a-4f9f-b440-0f68fe90e109.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d344e32557a4d446c6b4c5745305a6a59744e4455314e4331684d6a4d324c5455314d5467794d446c6c5a6d526d4d6935775a47593d&fich=387e309d-a4f6-4554-a236-5518209efdf2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245325a57566b4e6a4e684c54497a4d6d55744e4449354d5330344d4751324c5463794d6a55774f546c6a5a6d55315a5335775a47593d&fich=a6eed63a-232e-4291-80d6-7225099cfe5e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5268596a6b304f4759794c54417a4d474d744e4467314d4331684e5751314c5449324d6a646a4e7a59354e57566c5a5335775a47593d&fich=4ab948f2-030c-4850-a5d5-2627c7695eee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526b4e6a64684e5455794c54566b5a4755744e474a6b4e7930344d5467354c54646a4d6a4d7a596d517a5a444177595335775a47593d&fich=dd67a552-5dde-4bd7-8189-7c233bd3d00a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3246684d47566c4d6a5a6a4c575a685a5441744e4745794d4331694d6a41314c5449774e7a646a5a546b334d5755794f5335775a47593d&fich=aa0ee26c-fae0-4a20-b205-2077ce971e29.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a457a4e324e694e3252694c574d324e4441744e44457759533035596d51794c54457a4e6a6c6c595445794e6a4e6b4e5335775a47593d&fich=137cb7db-c640-410a-9bd2-1369ea1263d5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6b595745344d4755334c574a684e6a45744e475a6c4d4330354d574a6a4c5463324d6d59334e5759784f5751784e7935775a47593d&fich=2daa80e7-ba61-4fe0-91bc-762f75f19d17.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6d4d475935596d52684c574a694e3249744e4745314e5330344e6a63354c5749784e324577597a686c5a5441324d5335775a47593d&fich=bf0f9bda-bb7b-4a55-8679-b17a0c8ee061.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259794e6a67784f5449354c5755355a6d4d744e44637a4e7930354d7a41344c5456684e4759784f474d794e3255354d7935775a47593d&fich=f2681929-e9fc-4737-9308-5a4f18c27e93.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a64685a4745335a4467794c5449794d6a45744e444d774f4330344d446b784c5463774f444a6b4e7a526c593246694e7935775a47593d&fich=7ada7d82-2221-4308-8091-7082d74ecab7.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-01-19",
+            "gp": "PSD",
+            "id": "5984",
+            "motivoCessacao": null,
+            "nome": "Maria Germana Rocha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-07-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-01-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304f54466b4f4467784e79316d4d474d774c54517759324d74596d55304e69316b4e4467325a546b784f446777595449756347526d&fich=491d8817-f0c0-40cc-be46-d486e91880a2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40571",
+      "40577"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:16:35:471&drc=00:03:27:010"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:20:06:406&drc=00:02:28:593"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:36:42:884&drc=00:01:30:238"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/51?pgs=51,55&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:22:40:262&drc=00:02:49:301"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:25:34:468&drc=00:04:10:755"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:29:47:523&drc=00:03:19:510"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:33:10:148&drc=00:03:25:611"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:38:18:759&drc=00:00:53:843"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=03:39:13:519&drc=00:00:24:480"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Propõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo a possibilidade de aposentação aos 40 anos de descontos sem penalizações e a aplicação de regimes de aposentação relativos a situações específicas; Um regime de aposentação justo para os docentes.",
+            "Teor": "Responde a Heloísa a Apolónia acerca da sua interpelação à mesa sobre a assistência de peticionários ao debate da respetiva petição."
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12711",
+    "PetAssunto": "Um regime de aposentação justo para os docentes.",
+    "PetDataEntrada": "2015-12-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12711",
+    "PetLeg": "XIII",
+    "PetNr": "32",
+    "PetNrAssinaturas": "27977",
+    "PetNrAssinaturasInicial": "26575",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2209",
+        "obs": null,
+        "pag": [
+          "50-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/50?pgs=50-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "758725",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-01-30",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/012/2016-01-30/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
