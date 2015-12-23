@@ -1,0 +1,6 @@
+Edital n.º 1183/2015
+Valdemar de Carvalho Pereira, Presidente da Câmara Municipal de Tarouca:
+Faz público nos termos e em cumprimento do disposto no n.º 4 do artigo 3.º do Dec. Lei n.º 555/99, de 16 de dezembro, na redação dada pela Lei n.º 60/2007, de 4 de setembro, na Lei n.º 53-E/2006, de 29 de dezembro e no artigo 56.º da Lei n.º 75/2013, de 12.09, que a Assembleia Municipal de Tarouca, em sessão ordinária de 28.11.2015, mediante proposta da Câmara Municipal aprovada em reunião de 02.11.2015, deliberou aprovar a atualização em 1,2 %, de acordo com a taxa de variação média anual do Índice harmonizado de preços no consumidor (IHPC), publicada pelo Banco de Portugal no Boletim Económico, em julho de 2015, das taxas estabelecidas no Regulamento e Tabela de Taxas do Município de Tarouca, publicado no Diário da República, 2.ª série, n.º 135, de 14.07.2010, com as alterações e atualizações que posteriormente lhe foram introduzidas.
+Para constar e legais efeitos, se publica o presente edital e outros de igual teor, que vão ser afixados nos Paços do Município e demais lugares de estilo, no sitio da Internet www.cm-tarouca.pt e no Diário da República.
+11 de dezembro de 2015. - O Presidente da Câmara Municipal, Valdemar de Carvalho Pereira.
+309192604
