@@ -4,17 +4,17 @@
 
 # Artigo 76.º
 
-### Gestão e acompanhamento do SIADAPRA 2 e do SIADAPRA 3
+### Gestão e acompanhamento do SIADAPRA 3
 
 1 - O disposto no presente diploma em matéria de processos de avaliação e respectivos instrumentos de suporte não impede o seu cumprimento em versão electrónica e, quando for o caso, com utilização de assinaturas digitais.
 
-2 - Compete, em cada departamento, aos serviços com competência em matéria de planeamento, estratégia e avaliação elaborar relatórios síntese evidenciando a forma como o SIADAPRA 2 e o SIADAPRA 3 foram aplicados, nomeadamente quanto à fase de planeamento e quanto aos resultados de avaliação final.
+2 - Compete, em cada departamento, aos serviços com competência em matéria de planeamento, estratégia e avaliação elaborar relatórios síntese evidenciando a forma como o SIADAPRA 3 foi aplicado no âmbito dos respetivos serviços, nomeadamente quanto à fase de planeamento e quanto aos resultados de avaliação final.
 
 3 - Compete à direcção regional com competência na área da Administração Pública:
 
 a) Acompanhar e apoiar a aplicação da avaliação do desempenho, designadamente através da produção de instrumentos de orientação normativa;
 
-b) Elaborar relatório anual que evidencie a forma como o SIADAPRA foi aplicado na administração pública regional dos Açores.
+b) Elaborar relatório no final de cada ciclo avaliativo que evidencie a forma como o SIADAPRA 3 foi aplicado na administração pública regional dos Açores.
 
 4 - Para efeitos do disposto no número anterior, a direcção regional com competência na área da Administração Pública recolhe informação junto dos serviços com competência em matéria de planeamento, estratégia e avaliação.
 

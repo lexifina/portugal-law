@@ -8,9 +8,9 @@
 
 3 - Caso se justifique, dada a natureza e dimensão dos serviços, podem ser constituídas várias comissões paritárias, mediante despacho do membro do Governo Regional, em que os representantes da administração correspondem a um membro do conselho coordenador da avaliação e aos dirigentes máximos daqueles serviços e os representantes dos trabalhadores eleitos pelos universos de trabalhadores que correspondam à competência daqueles serviços.
 
-4 - Os vogais representantes da administração são designados em número de quatro, pelo período de dois anos, sendo dois efectivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
+4 - Os vogais representantes da administração são designados em número de quatro, pelo período de quatro anos, sendo dois efetivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.
 
-5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de dois anos, em número de seis, sendo dois efectivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
+5 - Os vogais representantes dos trabalhadores são eleitos, pelo período de quatro anos, em número de seis, sendo dois efetivos e quatro suplentes, através de escrutínio secreto pelos trabalhadores que constituem o universo de trabalhadores de todo o serviço ou de parte dele, nos termos do n.º 3.
 
 6 - O processo de eleição dos vogais representantes dos trabalhadores deve decorrer em Dezembro e é organizado nos termos de despacho do membro do Governo que é publicitado no portal do Governo Regional, do qual devem constar, entre outros, os seguintes pontos:
 

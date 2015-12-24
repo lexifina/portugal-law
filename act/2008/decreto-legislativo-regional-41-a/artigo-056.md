@@ -6,11 +6,11 @@
 
 a) Negociar os objectivos do avaliado, de acordo com os objectivos e resultados fixados para a sua unidade orgânica ou em execução das respectivas competências, e fixar os indicadores de medida do desempenho, designadamente os critérios de superação de objectivos, no quadro das orientações gerais fixadas pelo conselho coordenador da avaliação;
 
-b) Rever regularmente com o avaliado os objectivos anuais negociados, ajustá-los, se necessário, e reportar ao avaliado a evolução do seu desempenho e possibilidades de melhoria;
+b) Rever regularmente com o avaliado os objetivos negociados, ajustá-los, se necessário, e reportar ao avaliado a evolução do seu desempenho e possibilidades de melhoria;
 
 c) Negociar as competências que integram o segundo parâmetro de avaliação, nos termos da alínea b) do artigo 45.º e do artigo 48.º;
 
-d) Avaliar anualmente os trabalhadores directamente subordinados, assegurando a correcta aplicação dos princípios integrantes da avaliação;
+d) Avaliar os trabalhadores diretamente subordinados, assegurando a correta aplicação dos princípios integrantes da avaliação;
 
 e) Ponderar as expectativas dos trabalhadores no processo de identificação das respectivas necessidades de desenvolvimento;
 

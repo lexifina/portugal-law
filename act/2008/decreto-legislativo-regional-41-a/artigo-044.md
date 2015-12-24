@@ -2,7 +2,7 @@
 
 ### Publicidade
 
-1 - As menções qualitativas e respectiva quantificação quando fundamentam, no ano em que são atribuídas, a mudança de posição remuneratória na carreira ou a atribuição de prémio de desempenho são objecto de publicitação, bem como as menções qualitativas anteriores que tenham sido atribuídas e que contribuam para tal fundamentação.
+1 - As menções qualitativas e respetiva quantificação quando fundamentam, no ano em que são atribuídas, a mudança de posição remuneratória na carreira ou a atribuição de prémio de desempenho, bem como as menções qualitativas anteriores que tenham sido atribuídas e que contribuam para tal fundamentação, são objeto de publicitação interna pelos meios ao dispor no serviço ou organismo.
 
 2 - Sem prejuízo do disposto no número anterior e de outros casos de publicitação previstos no presente diploma, os procedimentos relativos ao SIADAPRA 3 têm carácter confidencial, devendo os instrumentos de avaliação de cada trabalhador ser arquivados no respectivo processo individual.
 

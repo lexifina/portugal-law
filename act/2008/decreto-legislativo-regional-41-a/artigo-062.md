@@ -16,4 +16,4 @@ d) A definição de orientações que permitam assegurar o cumprimento das perce
 
 3 - Na fase de planeamento estabelecem-se as articulações necessárias na aplicação dos vários subsistemas que constituem o SIADAPRA, nomeadamente visando o alinhamento dos objectivos do serviço, dos dirigentes e demais trabalhadores.
 
-4 - A fase de planeamento deve decorrer no último trimestre de cada ano civil.
+4 - A fase de planeamento deve decorrer no último trimestre do ano anterior ao início do ciclo avaliativo.

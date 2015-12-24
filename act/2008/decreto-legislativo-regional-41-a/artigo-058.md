@@ -4,13 +4,13 @@
 
 1 - Junto de cada departamento governamental funciona um conselho coordenador da avaliação, ao qual compete:
 
-a) Estabelecer directrizes para uma aplicação objectiva e harmónica do SIADAPRA 2 e do SIADAPRA 3, tendo em consideração os documentos que integram o ciclo de gestão referido no artigo 8.º;
+a) Estabelecer diretrizes para uma aplicação objetiva e harmónica do SIADAPRA 3, tendo em consideração os documentos que integram o ciclo de gestão referido no artigo 8.º;
 
 b) Estabelecer orientações gerais em matéria de fixação de objectivos, de escolha de competências e de indicadores de medida, em especial os relativos à caracterização da situação de superação de objectivos;
 
 c) Estabelecer o número de objectivos e de competências a que se deve subordinar a avaliação de desempenho, podendo fazê-lo para os trabalhadores dos serviços dependentes ou, quando se justifique, por unidade orgânica ou por carreira;
 
-d) Garantir o rigor e a diferenciação de desempenhos do SIADAPRA 2 e do SIADAPRA 3, cabendo-lhe validar as avaliações de Desempenho relevante e Desempenho inadequado bem como proceder ao reconhecimento do Desempenho excelente;
+d) Garantir o rigor e a diferenciação de desempenhos do SIADAPRA 3, cabendo-lhe validar as avaliações de Desempenho relevante e Desempenho inadequado, bem como proceder ao reconhecimento do Desempenho excelente;
 
 e) Emitir parecer sobre os pedidos de apreciação das propostas de avaliação dos dirigentes intermédios avaliados;
 
