@@ -1,0 +1,7 @@
+Edital n.º 1199/2015
+Luís Miguel da Silva Mendonça Alves, Presidente da Câmara Municipal de Caminha, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do art.º 35.º conjugado com os n.º (s) 1 e 2 do art.º 56.º, da Lei n.º 75/2013 de 12 de setembro, que a Câmara Municipal na sua reunião ordinária realizada em 18 de novembro de 2015 deliberou aprovar o projeto de Regulamento de Cobrança de Taxa Pela realização, Manutenção e Reforço de Infraestruturas Urbanísticas (TMU), no sentido de submeter o mesmo à apreciação pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar do dia seguinte à data da publicação deste edital no Diário da República para cumprimento do disposto no art.º 101.º do Código Administrativo.
+Torna ainda público, que o referido documento se encontra disponível para consulta e formulação de sugestões, no balcão de atendimento da Câmara Municipal de Caminha, durante o horário normal de funcionamento dos serviços, e na página eletrónica do município com endereço www.cm-caminha.pt. As sugestões deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Caminha, até às
+16.30 horas do último dia do prazo acima referido.
+Para constar se lavrou e publica o presente Edital e outros de igual teor que vão ser afixados nos locais públicos do costume.
+23 de novembro de 2015. - O Presidente da Câmara Municipal, Miguel Alves.
+309153854
