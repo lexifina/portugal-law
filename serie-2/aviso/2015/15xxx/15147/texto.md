@@ -1,0 +1,4 @@
+Aviso n.º 15147/2015
+Torna-se público, ao abrigo da competência conferida pela alínea b) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Assembleia Municipal de Gavião, na sua reunião ordinária de 5 de dezembro de 2015, aprovou nos termos da alínea b) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro, sob proposta aprovada pela Câmara Municipal na sua reunião ordinária realizada em 18 de novembro de 2015, a redução em 50 % dos valores de algumas das taxas previstas no Regulamento e Tabela de Taxas Municipais, as quais podem ser consultadas na página eletrónica do Município em: www.cm-gaviao.pt ou nos serviços de atendimento ao público da Câmara Municipal de Gavião, sito no Largo do Município em Gavião.
+11 de dezembro de 2015. - O Presidente da Câmara Municipal, José Fernando da Silva Pio.
+309192353
