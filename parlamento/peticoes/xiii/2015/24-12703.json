@@ -1,0 +1,487 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12703",
+  "numero": "24",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2015-12-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-17",
+            "entidades": null,
+            "id": "101551",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-17 com António Pedro Saraiva de Barros e Vasconcelos, Dr. José Ribeiro e Castro, Ivo Miguel Barroso Pêgo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-02-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-27",
+        "DataArquivo": "2016-03-23",
+        "DataBaixaComissao": "2016-01-06",
+        "DataEnvioPAR": "2016-03-23",
+        "DataReaberta": "2016-01-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a5a6c5a5749334f5459334c544d32597a4d744e44566b4d7931684e54426c4c5441314e7a426a597a457a59544577595335775a47593d&fich=6eeb7967-36c3-45d3-a50e-0570cc13a10a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-03-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4e6b5a6d55344e574a6a4c546b33595441744e4449775a6931694d5463794c546c6d4d4464685a544d314f4463304e7935775a47593d&fich=3dfe85bc-97a0-420f-b172-9f07ae358747.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-01-27",
+            "gp": "PSD",
+            "id": "271",
+            "motivoCessacao": null,
+            "nome": "José Silvano"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-05-06",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-01-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e6d55314e57566c597930795a474d314c5452694e5751744f54646a4d6930314e6a59345a546b335a546731596a41756347526d&fich=06e55eec-2dc5-4b5d-97c2-5668e97e85b0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40100",
+      "40230",
+      "40280",
+      "40318",
+      "40321",
+      "40326",
+      "40327"
+    ],
+    "Iniciativasoriginadas": [
+      "40100",
+      "40230",
+      "40280",
+      "40279",
+      "40318",
+      "40321",
+      "40326",
+      "40327"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:29:38:254&drc=00:03:47:745"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:33:30:501&drc=00:03:51:925"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:37:28:907&drc=00:04:00:231"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:41:33:643&drc=00:04:08:638"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:45:45:487&drc=00:04:15:740"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-05-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160506pln&url=l13/sl1/a2016/m05/&tI=03:50:07:549&drc=00:04:05:243"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-07",
+                "pubLeg": "XIII",
+                "pubNr": "65",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Segunda alteração à Lei n.º 17/2003, de 4 de Junho (Iniciativa Legislativa de Cidadãos); Altera a Lei n.º 17/2003, de 4 de junho, que regula a Iniciativa Legislativa de Cidadãos (segunda alteração à Lei n.º 17/2003, de 4 de junho); Altera a Lei nº 17/2003,de 4 de Junho (Iniciativa Legislativa de Cidadãos”), simplificando os procedimentos e requisitos nela previstos; Propõe a criação de um grupo de trabalho para estudo e implementação de um mecanismo de entrega eletrónica das iniciativas legislativas de cidadãos; Segunda alteração à Lei nº 17/2003, de 4 de junho, para tornar acessível a Iniciativa Legislativa de Cidadãos; Aprova a 2.ª Alteração à Lei n.º 17/2003, de 4 de junho, procedendo à revisão dos requisitos e procedimentos de entrega de iniciativas legislativas de cidadãos; 2ª alteração à Lei n.º 17/2003, de 4 de junho, reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Legislativas de Cidadãos; 5ª alteração à Lei n.º 15-A/98, de 3 de abril (aprova a Lei Orgânica do Regime do Referendo), reduzindo em 20% o número de assinaturas necessárias para a apresentação de Iniciativas Populares de Referendo; Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12703",
+    "PetAssunto": "Solicitam a simplificação dos requisitos legais para a apresentação de iniciativas legislativas de cidadãos e de iniciativas populares de referendo e a consagração de prazos para a sua apreciação.",
+    "PetDataEntrada": "2015-12-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12703",
+    "PetLeg": "XIII",
+    "PetNr": "24",
+    "PetNrAssinaturas": "4181",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2190",
+        "obs": null,
+        "pag": [
+          "57-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-05-07",
+        "pubLeg": "XIII",
+        "pubNr": "65",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/065/2016-05-07/57?pgs=57-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "758962",
+        "obs": null,
+        "pag": [
+          "7-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-02-06",
+        "pubLeg": "XIII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/013/2016-02-06/7?pgs=7-9&org=PLC"
+      }
+    ]
+  }
+}
