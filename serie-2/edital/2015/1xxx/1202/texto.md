@@ -1,0 +1,6 @@
+Edital n.º 1202/2015
+Alteração do Regulamento de Atribuição de Lotes de Terreno na Zona Industrial de Pinhel
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal de Pinhel, torna publico, que nos termos e para os efeitos do disposto no artigo 56.º da Lei n.º 75/2013. de 12 de setembro e no uso das competências que lhe são conferidas nos termos da alínea c) n.º 1 do artigo 35.º da mesma lei, que foi aprovado pela Assembleia Municipal realizada em 14 de dezembro de 2015, sob proposta da Câmara de 2 de dezembro, a Alteração do Regulamento de Atribuição de Lotes de Terreno na Zona Industrial de Pinhel, cuja proposta foi publicada no Diário da República por Aviso n.º 12088/2015, 2.ª série, de 20 de outubro, a qual após decurso do prazo de apreciação publica, não foi objeto de sugestões ou reclamações, considerando-se o mesmo aprovado de forma definitiva.
+A Alteração do Regulamento de Atribuição de Lotes de Terreno na Zona Industrial de Pinhel, entra em vigor no dia seguinte à publicação do presente Edital no DR, e encontra-se disponível no site da Câmara Municipal de Pinhel em www.cm-pinhel.pt, onde poderá ser consultado e descarregado.
+16 de dezembro de 2015. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+309202364
