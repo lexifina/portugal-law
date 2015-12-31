@@ -1,0 +1,9 @@
+# Artigo 13.º
+
+### Aquisição de ativos e assunção e regularização de passivos e responsabilidades
+
+1 - Fica o Governo Regional autorizado, através do Secretário Regional das Finanças e da Administração Pública, a assumir passivos e responsabilidades de entidades públicas e a celebrar acordos para a sua regularização, podendo pagar diretamente aos credores, mediante a conversão em capital dessas entidades.
+
+2 - O Governo Regional fica autorizado, através do Secretário Regional das Finanças e da Administração Pública em conjunto com o membro do Governo Regional responsável pela assunção da despesa ou com a tutela da entidade, a assumir passivos e responsabilidades e a proceder à celebração de acordos de pagamento com credores das entidades que integrem o universo das administrações públicas em contas nacionais, incluindo a assunção liberatória e transmissão de dívidas, salvaguardando os devidos efeitos ao nível da execução orçamental, decorrentes da alteração da sua exigibilidade.
+
+3 - Fica igualmente o Governo Regional autorizado, através do Secretário Regional das Finanças e da Administração Pública em conjunto com o Secretário Regional de Educação, a proceder à celebração de acordos de pagamento com entidades desportivas ou outras entidades que cooperam com o sistema desportivo regional, destinados à regularização de encargos de anos anteriores advenientes, nomeadamente, da aplicação de regulamentos ou de contratos-programa de desenvolvimento desportivo celebrados, desde que os encargos correspondentes tenham sido devidamente contabilizados para efeitos de contas nacionais, ficando, neste caso, dispensada a aplicação do disposto no artigo 57.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de janeiro, bem como a aprovação através de Resolução do Conselho do Governo Regional.
