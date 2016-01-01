@@ -1,8 +1,8 @@
 # Artigo 11.º-B
 
-### Advertências de saúde combinadas para produtos do tabaco para fumar, incluindo cigarros, tabaco de enrolar, tabaco para cachimbo de água e produtos de tabaco aquecido
+### Advertências de saúde combinadas para produtos do tabaco para fumar, incluindo cigarros, tabaco de enrolar e tabaco para cachimbo de água
 
-1 - Cada embalagem individual e cada embalagem exterior de produtos do tabaco para fumar, incluindo cigarros, tabaco de enrolar, tabaco para cachimbo de água e produtos de tabaco aquecido, na medida em que sejam produtos de tabaco para fumar, deve apresentar advertências de saúde combinadas, que incluem uma das advertências de texto e uma correspondente fotografia a cores, constantes do anexo ii da presente lei, da qual faz parte integrante.
+1 - Cada embalagem individual e cada embalagem exterior de produtos do tabaco para fumar, incluindo cigarros, tabaco de enrolar e tabaco para cachimbo de água, deve apresentar advertências de saúde combinadas, que incluem uma das advertências de texto e uma correspondente fotografia a cores, constantes do anexo II à presente lei, da qual faz parte integrante.
 
 2 - As advertências de saúde combinadas devem incluir informações para deixar de fumar, tais como números de telefone, endereços de correio eletrónico e/ou sítios web destinados a informar os consumidores sobre os programas de apoio disponíveis para as pessoas que pretendam deixar de fumar, a regulamentar por portaria a aprovar pelos membros do Governo responsáveis pela área da saúde.
 

@@ -14,7 +14,7 @@ d) Nos estabelecimentos onde sejam prestados cuidados de saúde, nomeadamente ho
 
 e) Nos lares e outras instituições que acolham pessoas idosas ou com deficiência ou incapacidade;
 
-f) Nos locais destinados a menores de 18 anos, nomeadamente infantários, creches e outros estabelecimentos de assistência infantil, lares de infância e juventude, centros de ocupação de tempos livres, colónias e campos de férias, parques infantis, e demais estabelecimentos similares;
+f) Nos locais destinados a menores de 18 anos, nomeadamente infantários, creches e outros estabelecimentos de assistência infantil, lares de infância e juventude, centros de ocupação de tempos livres, colónias e campos de férias e demais estabelecimentos similares;
 
 g) Nos estabelecimentos de ensino, independentemente da idade dos alunos e do grau de escolaridade, incluindo, nomeadamente, salas de aula, de estudo, de professores e de reuniões, bibliotecas, ginásios, átrios e corredores, bares, restaurantes, cantinas, refeitórios e espaços de recreio;
 
@@ -56,6 +56,4 @@ bb)Em qualquer outro lugar onde, por determinação da gerência, da administra�
 
 2 - É ainda proibido fumar nos veículos afectos aos transportes públicos urbanos, suburbanos e interurbanos de passageiros, bem como nos transportes rodoviários, ferroviários, aéreos, marítimos e fluviais, nos serviços expressos, turísticos e de aluguer, nos táxis, ambulâncias, veículos de transporte de doentes e teleféricos.
 
-3 - O disposto nos números anteriores é aplicável à utilização de novos produtos do tabaco sem combustão que produzam aerossóis, vapores, gases ou partículas inaláveis, e de cigarros eletrónicos com nicotina, ou seja, produtos que podem ser utilizados para consumir vapor por meio de boquilha, e que contenham nicotina ou qualquer componente desse produto.
-
-4 - Nos estabelecimentos referidos nas alíneas d) e g) do n.º 1 devem, sempre que possível, ser definidos espaços para fumar no exterior que garantam a devida proteção dos elementos climatéricos, bem como da imagem dos profissionais que os utilizam.
+3 - O disposto nos números anteriores é aplicável à utilização de cigarros eletrónicos com nicotina, ou seja, produtos que podem ser utilizados para consumir vapor por meio de boquilha, e que contenham nicotina ou qualquer componente desse produto.

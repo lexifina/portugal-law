@@ -11,5 +11,3 @@
 4 - O dístico referido no n.º 1 deve ainda conter o montante da coima máxima aplicável aos fumadores que violem a proibição de fumar.
 
 5 - Os dísticos devem ser afixados ou colados de forma a serem dificilmente amovíveis e devem ser visíveis a partir do exterior dos estabelecimentos.
-
-6- (Revogado).

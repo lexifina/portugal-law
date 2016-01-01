@@ -10,7 +10,7 @@ b) Tenham, na entrada, indicação visível sobre a lotação máxima permitida,
 
 c) Sejam separadas fisicamente das restantes instalações ou, no caso de se situarem no interior de edifícios, sejam totalmente compartimentadas de acordo com normas a regulamentar por portaria a aprovar pelos membros do Governo responsáveis pelas áreas da economia, do ambiente e da saúde;
 
-d) Disponham de um sistema de ventilação para o exterior com extração de ar que permita a manutenção de uma pressão negativa, definido em função da lotação, dimensão e localização da sala e autónomo do sistema geral de climatização do edifício, a regulamentar por portaria a aprovar pelos membros do Governo responsáveis pelas áreas da economia, do ambiente e da saúde.
+d) Disponham de um sistema de ventilação para o exterior com extração de ar que permita a manutenção de uma pressão negativa de pelo menos 5 Pa (Pascal), medidos com pressostato diferencial, definido em função da lotação, dimensão e localização da sala e autónomo do sistema geral de climatização do edifício, a regulamentar por portaria a aprovar pelos membros do Governo responsáveis pelas áreas da economia, do ambiente e da saúde.
 
 2 - Sem prejuízo do disposto no artigo anterior, podem ser criadas nos estabelecimentos prisionais unidades de alojamento, em celas ou camaratas, para reclusos fumadores, desde que satisfaçam os requisitos previstos nas alíneas c) e d) do número anterior, sendo ainda admitido fumar nas áreas ao ar livre.
 
@@ -31,5 +31,3 @@ d) Disponham de um sistema de ventilação para o exterior com extração de ar 
 10- Sem prejuízo do disposto no n.º 2 do artigo anterior e das limitações constantes dos regulamentos emitidos pelas empresas transportadoras ou pelas capitanias de portos, é permitido fumar nas áreas descobertas nos barcos afectos a carreiras marítimas ou fluviais.
 
 11 - A definição das áreas para fumadores cabe às entidades responsáveis pelos estabelecimentos em causa, devendo ser consultados os respectivos serviços de segurança, higiene e saúde no trabalho e as comissões de segurança, higiene e saúde no trabalho, ou, na sua falta, os representantes dos trabalhadores para a segurança, higiene e saúde no trabalho.
-
-12 - É proibida qualquer discriminação dos fumadores no âmbito das relações laborais, designadamente no que se refere à seleção e admissão, à cessação da relação laboral, ao salário ou a outros direitos e regalias.

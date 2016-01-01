@@ -27,5 +27,3 @@
 10 - É proibida a comunicação comercial audiovisual, prevista na Lei n.º 27/2007, de 30 de julho, alterada pelas Leis n.os 8/2011, de 11 de abril, e 40/2014, de 9 de julho, a produtos do tabaco.
 
 11 - O disposto no presente artigo é aplicável aos produtos à base de plantas para fumar.
-
-12 - O disposto no presente artigo é igualmente aplicável aos dispositivos ou recargas, incluindo o papel de enrolar, dispositivos eletrónicos para aquecimento de tabaco e outros dispositivos ou acessórios necessários à utilização de produtos do tabaco, de cigarros eletrónicos e de produtos à base de plantas para fumar.

@@ -40,7 +40,7 @@ q) 'Estabelecimento retalhista', qualquer estabelecimento onde sejam comercializ
 
 r) 'Fabricante', a pessoa singular ou coletiva que fabrique um produto ou o faça conceber ou fabricar, e o comercialize em seu nome ou sob a sua marca comercial;
 
-s) 'Fumar' o consumo de produtos do tabaco para fumar, o consumo de produtos à base de plantas para fumar, a utilização de cigarros eletrónicos com nicotina, ou o consumo de novos produtos do tabaco sem combustão que produzam aerossóis, vapores, gases ou partículas inaláveis;
+s) 'Fumar', o consumo de produtos do tabaco, com exceção dos produtos do tabaco sem combustão, o consumo de produtos à base de plantas para fumar ou a utilização de cigarros eletrónicos;
 
 t) 'Fumo ambiental', fumo libertado para a atmosfera proveniente da combustão de produtos do tabaco;
 
@@ -86,23 +86,21 @@ ll) «Suporte publicitário» o veículo utilizado para a transmissão da mensag
 
 mm) 'Tabaco', as folhas e outras partes naturais, transformadas ou não transformadas, da planta do tabaco, incluindo tabaco expandido e reconstituído;
 
-nn) 'Tabaco aquecido' ou 'produto de tabaco aquecido' um novo produto do tabaco que é aquecido para produzir uma emissão contendo nicotina e outros produtos químicos, a qual é em seguida inalada pelos utilizadores, e que, em função das suas características, é um produto do tabaco sem combustão ou um produto do tabaco para fumar;
+nn) 'Tabaco de enrolar', tabaco que pode ser utilizado para fazer cigarros pelos consumidores ou pelos estabelecimentos retalhistas;
 
-oo) 'Tabaco de enrolar', tabaco que pode ser utilizado para fazer cigarros pelos consumidores ou pelos estabelecimentos retalhistas;
+oo) 'Tabaco de mascar', um produto do tabaco sem combustão destinado exclusivamente para ser mascado;
 
-pp) 'Tabaco de mascar', um produto do tabaco sem combustão destinado exclusivamente para ser mascado;
+pp) 'Tabaco para cachimbo', tabaco que pode ser consumido através de um processo de combustão e destinado exclusivamente para ser utilizado num cachimbo;
 
-qq) 'Tabaco para cachimbo', tabaco que pode ser consumido através de um processo de combustão e destinado exclusivamente para ser utilizado num cachimbo;
+qq) 'Tabaco para cachimbo de água', um produto do tabaco que pode ser consumido através de cachimbo de água (narguilé), considerando-se, para efeitos do disposto na presente lei, que o tabaco para cachimbo de água é um produto do tabaco para fumar, salvo se o produto for utilizável tanto em cachimbos de água como tabaco de enrolar, caso em que se considera que é tabaco de enrolar;
 
-rr) 'Tabaco para cachimbo de água', um produto do tabaco que pode ser consumido através de cachimbo de água (narguilé), considerando-se, para efeitos do disposto na presente lei, que o tabaco para cachimbo de água é um produto do tabaco para fumar, salvo se o produto for utilizável tanto em cachimbos de água como tabaco de enrolar, caso em que se considera que é tabaco de enrolar;
+rr) 'Tabaco para uso oral', todos os produtos do tabaco para uso oral, com exceção dos destinados a ser inalados ou mascados, constituídos total ou parcialmente por tabaco, sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos;
 
-ss) 'Tabaco para uso oral', todos os produtos do tabaco para uso oral, com exceção dos destinados a ser inalados ou mascados, constituídos total ou parcialmente por tabaco, sob a forma de pó ou de partículas finas ou qualquer combinação destas formas, nomeadamente os que se apresentam em doses individuais ou pacotes porosos;
+ss) 'Televenda', a difusão de ofertas diretas ao público, realizada por canais televisivos, com vista ao fornecimento de cigarros ou outros produtos derivados do tabaco, de produtos à base de plantas para fumar ou de cigarros eletrónicos, mediante pagamento;
 
-tt) 'Televenda', a difusão de ofertas diretas ao público, realizada por canais televisivos, com vista ao fornecimento de cigarros ou outros produtos derivados do tabaco, de produtos à base de plantas para fumar ou de cigarros eletrónicos, mediante pagamento;
+tt) 'Toxicidade', o grau em que uma substância pode causar efeitos nocivos ao organismo humano, incluindo efeitos que se verificam a longo prazo, habitualmente por consumo ou exposição repetida ou contínua;
 
-uu) 'Toxicidade', o grau em que uma substância pode causar efeitos nocivos ao organismo humano, incluindo efeitos que se verificam a longo prazo, habitualmente por consumo ou exposição repetida ou contínua;
-
-vv) 'Vendas à distância transfronteiriças', as vendas à distância a consumidores nas quais, no momento em que encomenda o produto a um estabelecimento retalhista, o consumidor se encontra num país que não aquele em que está estabelecido o estabelecimento retalhista, considerando-se que o estabelecimento retalhista está estabelecido num país:
+uu) 'Vendas à distância transfronteiriças', as vendas à distância a consumidores nas quais, no momento em que encomenda o produto a um estabelecimento retalhista, o consumidor se encontra num país que não aquele em que está estabelecido o estabelecimento retalhista, considerando-se que o estabelecimento retalhista está estabelecido num país:
 
 i) No caso de uma pessoa singular, se esta tiver o seu local de atividade comercial nesse país;
 

@@ -16,9 +16,9 @@
 
 5 - As advertências de saúde devem permanecer intactas quando a embalagem individual for aberta, com exceção dos maços com aba macia articulada, caso em que a advertência de saúde pode ser dividida quando a embalagem for aberta, mas apenas de um modo que assegure a integridade gráfica e a visibilidade do texto, fotografias e informações de ajuda a deixar de fumar.
 
-6 - As dimensões das advertências de saúde previstas nos artigos 11.º-A, 11.º-B, 11.º-C e 11.º-D são calculadas em relação à superfície em questão quando a embalagem está fechada.
+6 - As dimensões das advertências de saúde previstas nos artigos 11.º-A, 11.º-B e 11.º-C são calculadas em relação à superfície em questão quando a embalagem está fechada.
 
-7 - As advertências de saúde são rodeadas de uma moldura negra com 1 mm de largura dentro da superfície reservada a essas advertências, com exceção das advertências de saúde previstas no artigo 11.º-C.
+7 - As advertências de saúde são rodeadas de uma moldura negra com 1 mm de largura dentro da superfície reservada a essas advertências.
 
 8 - Às imagens de embalagens individuais e de qualquer embalagem exterior para efeitos publicitários são aplicáveis as regras do presente capítulo.
 

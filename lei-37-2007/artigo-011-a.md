@@ -16,8 +16,6 @@ a) Impressas em corpo negro Helvética sobre fundo branco, em minúsculas, com e
 
 b) Colocadas no centro da superfície que lhes está reservada e, nas embalagens paralelepipédicas e em qualquer embalagem exterior, paralelas ao bordo lateral da embalagem individual ou da embalagem exterior.
 
-c) Cobrir 50 % das superfícies em que são impressas.
-
 4 - Nos maços de cigarros, bem como nas embalagens de tabaco de enrolar, com forma paralelepipédica, a advertência geral deve figurar na parte inferior de uma das superfícies laterais das embalagens individuais e a mensagem informativa na parte inferior da outra superfície lateral, devendo estas advertências de saúde ter uma largura não inferior a 20 mm.
 
 5 - Nos maços com forma de caixa com uma tampa articulada, em que as superfícies laterais se dividem em duas partes quando o maço é aberto, a advertência geral e a mensagem informativa devem figurar na sua totalidade nas maiores dessas superfícies que se dividem, devendo a advertência geral figurar também no lado de dentro da aba superior que fica visível quando o maço é aberto e não podendo as superfícies laterais deste tipo de maço ter uma altura inferior a 16 mm.
