@@ -12,4 +12,4 @@
 
 5 - A dívida de prémio pode ainda ser extinta por compensação com crédito reconhecido, exigível e líquido até ao montante a compensar, mediante declaração de uma das partes à outra, desde que se verifiquem os demais requisitos da compensação.
 
-6 - Nos seguros de pessoas, é lícito às partes convencionar outros meios e modalidades de pagamento do prémio, desde que respeitem as disposições legais e regulamentares em vigor.
+6 - (Revogado).
