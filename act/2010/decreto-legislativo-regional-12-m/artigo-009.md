@@ -14,9 +14,9 @@
 
 2 - A nomeação é feita mediante resolução do Conselho do Governo Regional, devidamente fundamentada e publicada no Jornal Oficial da Região Autónoma da Madeira juntamente com uma nota relativa ao currículo académico e profissional do designado, sob proposta dos membros do Governo Regional responsáveis pela área das finanças e pelo respetivo setor de atividade.
 
-3 - A proposta referida no número anterior deve ser acompanhada de avaliação, não vinculativa, de currículo e de adequação de competências ao cargo de gestor público da personalidade a que respeita a proposta de designação, realizada pela Comissão de Recrutamento e Seleção para a Administração Regional da Madeira.
+3 - (Revogado).
 
-4 - Para efeitos do disposto no número anterior, a Comissão de Recrutamento e Seleção para a Administração Regional da Madeira pode realizar entrevista de avaliação de competências exigíveis ao exercício de funções de gestor público e aplicar outros métodos de avaliação.
+4 - .(Revogado).
 
 5 - Não pode ocorrer a nomeação ou proposta de eleição de gestor público entre a convocação de eleições para a Assembleia Legislativa da Madeira ou a demissão do Governo Regional e a aprovação do programa do novo Governo Regional, salvo, se verificada a vacatura dos cargos em causa ou a urgência da designação, caso em que as referidas nomeação ou proposta de que ainda não tenha resultado eleição dependem de confirmação pelo Governo Regional recém-nomeado.
 
