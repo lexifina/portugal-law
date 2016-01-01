@@ -16,11 +16,11 @@ b) A um conselho fiscal e a um revisor oficial de contas ou uma sociedade de rev
 
 a) É obrigatória em relação a sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado e a sociedades que, não sendo totalmente dominadas por outra sociedade, que adopte este modelo, durante dois anos consecutivos, ultrapassem dois dos seguintes limites:
 
-i) Total do balanço - (euro) 100000000;
+i) Total do balanço: (euro) 20 000 000;
 
-ii) Total das vendas líquidas e outros proveitos (euro) 150000000;
+ii) Volume de negócios líquido: (euro) 40 000 000;
 
-iii) Número de trabalhadores empregados em média durante o exercício - 150;
+iii) Número médio de empregados durante o período: 250;
 
 b) É facultativa, nos restantes casos.
 
