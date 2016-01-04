@@ -1,0 +1,5 @@
+Aviso n.º 1/2016
+Por ordem superior se torna público que o Secretariado-geral do Conselho da União Europeia comunicou, pela Nota n.º SGS15/12850, de 11 de novembro de 2015, terem todos os Estados-Membros da União Europeia concluído os procedimentos internos necessários à entrada em vigor do Acordo entre os Estados-Membros da União Europeia, reunidos no Conselho, relativo à Proteção das Informações Qualificadas trocadas no interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011.
+Mais se torna público que, tendo todas as Partes concluído idênticos procedimentos, o presente acordo entrou em vigor no dia 1 de dezembro de 2015, nos termos do seu artigo 13.º
+Portugal é Parte neste Acordo, aprovado pela Resolução da Assembleia da República n.º 125/2012 e ratificado pelo Decreto do Presidente da República n.º 152 /2012, ambos publicados no Diário da República, 1.ª série, n.º 187, de 26 de setembro.
+Direção-Geral dos Assuntos Europeus, 10 de dezembro de 2015. - O Diretor-Geral, Pedro Costa Pereira.
