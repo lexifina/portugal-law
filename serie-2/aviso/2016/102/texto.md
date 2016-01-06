@@ -1,0 +1,6 @@
+Aviso n.º 102/2016
+Projeto de Regulamento da Tarifa de Qualidade das Infraestruturas e Ambiente da Infraquinta, E. M.
+Vítor Manuel Gonçalves Aleixo, Presidente da Câmara Municipal de Loulé, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 100.º e no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 11 de novembro de 2015 e reunião extraordinária da Assembleia Municipal de 14 de dezembro de 2015, submeter a audiência dos interessados e a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente aviso o Projeto de Regulamento da Tarifa de Qualidade das Infraestruturas e Ambiente da Infraquinta, E. M., que se encontra disponível para consulta na página do Município em www.cm-loule.pt e na página da Infraquinta, E. M. em www.infraquinta.pt.
+Os interessados podem dirigir as suas sugestões à Câmara Municipal de Loulé e enviar para Praça da República, 8104-001 Loulé, ou através de correio eletrónico para cmloule @cm-loule.pt, dentro do prazo referido.
+22 de dezembro de 2015. - O Presidente da Câmara Municipal de Loulé, Vítor Manuel Gonçalves Aleixo.
+309215608
