@@ -1,0 +1,37 @@
+# Acórdão do Supremo Tribunal Administrativo de 2016-01-07, processo 01886/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01886/13
+
+**Data do Acordão:** 01/07/2016
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** TERESA DE SOUSA
+
+**Descritores:** ACÇÃO ADMINISTRATIVA ESPECIAL; DESPACHO SANEADOR; RELATOR; RECLAMAÇÃO PARA A CONFERÊNCIA; CONVOLAÇÃO
+
+**Nº Convencional:** JSTA000P19897
+
+**Nº do Documento:** SA12016010701886
+
+**Data de Entrada:** 06/20/2014
+
+**Recorrente:** A............ E OUTRO
+
+**Recorrido 1:** MUNICÍPIO DE LOULÉ
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I – Sempre que se verificasse a previsão do art. 40º, nº 3 do ETAF, o juiz a quem o processo é distribuído funciona ab initio como relator, sendo nesta qualidade que profere todas as decisões que tome singularmente, e não na de juiz singular, funcionando o tribunal em formação colectiva, nos casos não contemplados no nº 1 do art. 27º do CPTA, que elenca diversos poderes do relator (havendo outros contemplados na lei).
+
+II - Na acção administrativa especial de valor superior à alçada, um dos poderes concedidos ao relator é o de, findos os articulados, proferir despacho saneador, quando deva conhecer obrigatoriamente de todas as questões que obstem ao conhecimento do objecto da acção (art. 87º, nº 1, alínea a) do CPTA).
+
+III – Assim, da decisão que em sede de despacho saneador, conhece de uma excepção, julgando-a procedente, por se tratar de um despacho do relator, cabe reclamação para a conferência do próprio tribunal de 1ª instância, no prazo de 10 dias, por aplicação do art. 29º, nº 1 do CPTA e não directamente recurso jurisdicional.
+
+IV – Se na data da interposição do recurso já estava esgotado o prazo para a apresentação da reclamação para a conferência, não é possível a convolação em reclamação do recurso interposto.
+
+V - A não se entender assim, qualquer prazo para a prática de um acto se poderia renovar depois de esgotado, desde que se manifestasse a vontade de praticar acto de natureza idêntica.
