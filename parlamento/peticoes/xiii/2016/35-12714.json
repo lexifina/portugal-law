@@ -1,0 +1,601 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12714",
+  "numero": "35",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-01-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-05-04",
+            "entidades": null,
+            "id": "102061",
+            "tipo": null,
+            "titulo": "Audição em 2016-05-04 com Peticionante"
+          },
+          {
+            "data": "2016-10-25",
+            "entidades": null,
+            "id": "103224",
+            "tipo": null,
+            "titulo": "Audição em 2016-10-25 com IMT - Instituto da Mobilidade e dos Transportes,I.P."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-05-04",
+            "dataResposta": null,
+            "entidades": [
+              "IMT - Instituto da Mobilidade e dos Transportes,I.P."
+            ],
+            "nrOficio": "109/CEIOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2016-06-30",
+                "dataResposta": "2016-07-22",
+                "nrOficio": "123/CEIOP",
+                "oficioResposta": "070200103799247"
+              },
+              {
+                "dataOficio": "2017-02-10",
+                "dataResposta": null,
+                "nrOficio": "26/CEIOP",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2016-10-18",
+            "dataResposta": "2016-10-28",
+            "entidades": [
+              "Via Verde"
+            ],
+            "nrOficio": "241/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2016-11-14",
+            "dataResposta": "2016-12-07",
+            "entidades": [
+              "APCAP - Associação Portuguesa das Sociedades Concessionárias de Auto-Estradas ou Pontes com Portagens"
+            ],
+            "nrOficio": "253/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2016-05-04",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS"
+            ],
+            "nrOficio": "110/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2016-04-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA ECONOMIA"
+            ],
+            "nrOficio": "104/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-04-13",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "785441",
+                "obs": null,
+                "pag": [
+                  "9-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-17",
+                "pubLeg": "XIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/028/2017-02-17/9?pgs=9-16&org=PLC"
+              },
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "792222",
+                "obs": null,
+                "pag": [
+                  "13-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-21",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/041/2017-04-21/13?pgs=13-20&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-02-03",
+        "DataArquivo": "2017-04-19",
+        "DataBaixaComissao": "2016-01-19",
+        "DataEnvioPAR": "2017-04-20",
+        "DataReaberta": "2016-02-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-02-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f546b774f44686b4d7a4d7459546c6a4e793030596a55784c546c6d4d545974596a5a694e7a426d4d446b344f5441324c6e426b5a673d3d&fich=99088d33-a9c7-4b51-9f16-b6b70f098906.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-02",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f54426b4d47526a59575174597a4533596930304e44646a4c574a6d5a5451744e574e6c4d325a695a6a55334f44466b4c6c424552673d3d&fich=90d0dcad-c17b-447c-bfe4-5ce3fbf5781d.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-10",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e4452684d324a6b4e544d745a6d56695a6930304e5468684c5745324f4751744e574e6c4f446735595467785a54526d4c6c424552673d3d&fich=44a3bd53-febf-458a-a68d-5ce889a81e4f.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a5749345a6d46684d7a41744e7a5a6a4d793030596a41354c54677a4d575974597a4a6a4e6d51314f475a6d4e5455324c6e426b5a673d3d&fich=eb8faa30-76c3-4b09-831f-c2c6d58ff556.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a4467334e5445774e5751744f474d355a4330304d4749354c546c6a4d7a51744e44686c596d56695a5467324e7a4a6a4c6e426b5a673d3d&fich=d875105d-8c9d-40b9-9c34-48ebebe8672c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d6a646d4e6a6334597a4d744f54677a5a5330305a6d45774c5467774d474d74597a51324d6a45355a6a4a6c4d7a51794c6e426b5a673d3d&fich=27f678c3-983e-4fa0-800c-c46219f2e342.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a59344e6a41344f4463744d574e695a4330304e5451784c5745344d5751744f5749794d475a6a4e7a63334d5451794c6e426b5a673d3d&fich=b6860887-1cbd-4541-a81d-9b20fc777142.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a6a56684f54426d4d474d744d575a6d4e4330305a5451354c5467784d446374595755315a5759314d6a63344d4445334c6e426b5a673d3d&fich=f5a90f0c-1ff4-4e49-8107-ae5ef5278017.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e544d33597a67784d5749744d4745324d6930304f574e6c4c5749795a544d744e324e6c4d6d55334d474a6d4d7a68684c6e426b5a673d3d&fich=537c811b-0a62-49ce-b2e3-7ce2e70bf38a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e7a526d4d6a6b344d5759744f445a685a693030597a59774c546c68597a55744e574d774d446c6b5a6a566a4d3259314c6e426b5a673d3d&fich=74f2981f-86af-4c60-9ac5-5c009df5c3f5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-04-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d44466c5a4459795a6a41745a6a52684d793030597a63794c546b334e7a41744d4441314e7a4e684f4463335a5749304c6c424552673d3d&fich=01ed62f0-f4a3-4c72-9770-00573a877eb4.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e6d59784e5463334d7a41745954426b4f5330304d7a6b794c57466c4e7a6b744f44457a5a6d5930596d5134595445794c6e426b5a673d3d&fich=6f157730-a0d9-4392-ae79-813ff4bd8a12.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d3245334d54526c4d4751744d6a6b7a4e5330304d6d55304c57466b4d6d59744d474e6c596d51334e4445324d7a4d7a4c6e426b5a673d3d&fich=3a714e0d-2935-42e4-ad2f-0cebd7416333.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a445a695954597959324d744d545533595330304f4451354c546b344e44497459574d354d574e6a5a544534596a41324c6e426b5a673d3d&fich=d6ba62cc-157a-4849-9842-ac91cce18b06.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-02-03",
+            "gp": "BE",
+            "id": "4059",
+            "motivoCessacao": null,
+            "nome": "Heitor de Sousa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-09-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-01-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a5a444134597a6b344d4330784e32526b4c5451794e4445744f4751344d4330315a544935596a6c6a4f4463304e7a41756347526d&fich=3d08c980-17dd-4241-8d80-5e29b9c87470.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_09_20_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=01:50:45:814&drc=00:04:39:509"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a reclassificação de veículos em portagens.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_09_20_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=01:55:30:059&drc=00:03:28:333"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a reclassificação de veículos em portagens.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_09_20_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=01:59:02:153&drc=00:03:47:795"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a reclassificação de veículos em portagens.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_09_20_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=02:02:56:905&drc=00:03:35:095"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a reclassificação de veículos em portagens.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_09_20_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=02:06:36:728&drc=00:02:34:533"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "216947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "3",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a reclassificação de veículos em portagens.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12714",
+    "PetAssunto": "Solicitam a reclassificação de veículos em portagens.",
+    "PetDataEntrada": "2016-01-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12714",
+    "PetLeg": "XIII",
+    "PetNr": "35",
+    "PetNrAssinaturas": "5983",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "622",
+        "obs": null,
+        "pag": [
+          "33-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-09-21",
+        "pubLeg": "XIII",
+        "pubNr": "3",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/003/2017-09-21/33?pgs=33-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "782636",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-11",
+        "pubLeg": "XIII",
+        "pubNr": "27",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/027/2017-02-11/8?pgs=8-10&org=PLC"
+      }
+    ]
+  }
+}
