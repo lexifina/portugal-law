@@ -1,0 +1,6 @@
+Aviso n.º 316/2016
+Projeto de Regulamento do Orçamento Participativo
+Anselmo Antunes de Sousa, Presidente da Câmara Municipal de Mêda, ao abrigo da competência constante da alínea t) do n.º 1 do artigo 35.º e para os efeitos do estatuído pelo artigo 56.º da Lei n.º 75/2013, de 12 de setembro, torna público que, na reunião do executivo municipal realizada no dia 09 de dezembro de 2015, foi deliberado, para efeitos do artigo 101.º do Código do Procedimento Administrativo, submeter a consulta pública, pelo prazo de 30 dias a contar da data da publicação do presente aviso no Diário da República, o "Projeto de Regulamento do Orçamento Participativo".
+Durante esse período poderão os interessados consultar o mencionado projeto de regulamento no Setor de Serviços Urbanos, desta Autarquia, durante o horário normal de expediente: das 9H00 às 12H30 e das 14H00 às 16H00, o qual ficará igualmente disponível na página eletrónica do Município (www.cm-meda.pt). Os interessados, no decurso desse prazo poderão dirigir por escrito as suas sugestões ao Presidente da Câmara Municipal, Largo do Município, 6430-183 Meda.
+29 de dezembro de 2015. - O Presidente da Câmara Municipal, Anselmo Antunes de Sousa.
+309230341
