@@ -1,0 +1,222 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12717",
+  "numero": "38",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-01-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-03-16",
+            "entidades": null,
+            "id": "101603",
+            "tipo": null,
+            "titulo": "Audição em 2016-03-16 com Subscritor da Petição n.º 38/XII/1 - Estêvão Domingos de Sá Sequeira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-02-16",
+            "entidades": [
+              "CNJ - Conselho Nacional de Juventude"
+            ],
+            "nrOficio": "21/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "Corpo Nacional de Escutas"
+            ],
+            "nrOficio": "22/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "20/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "20/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-01-26",
+            "dataResposta": "2016-03-18",
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "20/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-03-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-26",
+        "DataArquivo": "2016-03-29",
+        "DataBaixaComissao": "2016-01-19",
+        "DataEnvioPAR": "2016-03-29",
+        "DataReaberta": "2016-01-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32557759546731595463324c5759324d6a59744e445a694e6930344e474d314c574a6a596a4d305a6d4a6c4d3255794e5335775a47593d&fich=e0a85a76-f626-46b6-84c5-bcb34fbe3e25.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4a6c4d446c6a596a466b4c57526c4f444d744e446778595331694f5745784c544579596a6b355a5468695a6a466b4e6935775a47593d&fich=2e09cb1d-de83-481a-b9a1-12b99e8bf1d6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324d7a4d574e6c4d5459334c5449305a6a49744e4441314e7931684f54686a4c57466c4f5755774f54466a4d6a646a4e7935775a47593d&fich=c31ce167-24f2-4057-a98c-ae9e091c27c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a51354e575a69597a4d774c5745354d5459744e475a6c4d533035595749314c574e6a4d44526b4f4459334d5746684d5335775a47593d&fich=495fbc30-a916-4fe1-9ab5-cc04d8671aa1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a49795a54566b596a59354c5749774f4755744e4441354e7931694d6a4d784c574d324e6a67325a6d55314d474d304d7935775a47593d&fich=22e5db69-b08e-4097-b231-c6686fe50c43.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-01-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324e6d597a45354e4464694c546b784d6a67744e4452694e693035595463794c5459334e7a41314e6a426c4e5441334f5335775a47593d&fich=cfc1947b-9128-44b6-9a72-6770560e5079.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-03-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3249335a6a4d30595456684c574d314f5451744e444d314d7930344f574d354c574a6b5a4467304d57526d4e3255315a5335775a47593d&fich=b7f34a5a-c594-4353-89c9-bdd841df7e5e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-02-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3255315a4445334d7a6b344c5459354d4467744e44426c4f4331694d5451354c57526a4e325a6a4e4749774d7a4d325a4335775a47593d&fich=e5d17398-6908-40e8-b149-dc7fc4b0336d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-03-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a6868595459334d54526a4c5749334e7a67744e4445344f5330345a4455344c546b314d44566d5a6a63335a544e6b5a5335775a47593d&fich=8aa6714c-b778-4189-8d58-9505ff77e3de.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-01-26",
+            "gp": "PS",
+            "id": "4405",
+            "motivoCessacao": null,
+            "nome": "João Torres"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-01-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794f574e69593245784f43316d5a5752694c5452684e5755744f5755334f5330334d3259354e6d5a6c4e6d51354d5459756347526d&fich=29cbca18-fedb-4a5e-9e79-73f96fe6d916.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12717",
+    "PetAssunto": "Solicita o desenvolvimento de uma plataforma, congregadora das associações promotoras dos direitos dos jovens, para resolução dos problemas dos jovens em situação social aguda.",
+    "PetDataEntrada": "2016-01-12",
+    "PeticoesAssociadas": null,
+    "PetId": "12717",
+    "PetLeg": "XIII",
+    "PetNr": "38",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
