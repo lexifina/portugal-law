@@ -1,0 +1,814 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "180",
+    "id": "37997",
+    "titulo": "Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2016-01-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "10977",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2016-01-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39763",
+        "leg": "XIII",
+        "nr": "7",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à 3ª alteração à Lei n.º35/2014, de 20 de junho"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39778",
+        "leg": "XIII",
+        "nr": "18",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reposição das 35 horas de trabalho semanal na Administração Pública"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39953",
+        "leg": "XIII",
+        "nr": "96",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "35 horas para maior criação de emprego e reposição dos direitos na função pública"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39954",
+        "leg": "XIII",
+        "nr": "97",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2126",
+            "obs": null,
+            "pag": [
+              "9-17"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-01-14",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-01-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:29:05:395&drc=00:04:18:601"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:33:33:056&drc=00:03:15:369"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:54:11:791&drc=00:02:13:144"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11",
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/11?pgs=11,16-17&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:37:09:601&drc=00:04:37:144"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2092",
+                "nome": "Luísa Salgueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:41:55:996&drc=00:04:02:706"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4172",
+                "nome": "Filipe Lobo D' Ávila"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:46:04:322&drc=00:03:28:460"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3966",
+                "nome": "Álvaro Batista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:49:41:056&drc=00:04:25:601"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "16:53",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:56:30:416&drc=00:00:51:635"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "200565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-01-14",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/17?pgs=17&org=PLC"
+              }
+            ],
+            "sumario": "Reposição das 35 horas de trabalho semanal na Administração Pública; Repõe as 35 horas por semana como período normal de trabalho na função pública, procedendo à terceira alteração à Lei n.º 35/2014, de 20 de junho; Estabelece a duração do período normal de trabalho dos trabalhadores em funções públicas na Região Autónoma dos Açores; Trinta e cinco horas para maior criação de emprego e reposição dos direitos na função pública; Estabelece as 35 horas como período normal de trabalho dos trabalhadores em funções públicas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "312521",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "757485",
+        "obs": null,
+        "pag": [
+          "9-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-01-14",
+        "pubLeg": "XIII",
+        "pubNr": "24",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/9?pgs=9-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
