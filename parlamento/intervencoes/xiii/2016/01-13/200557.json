@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "200557",
+  "tipo": "Intervenção",
+  "orador": "Pedro Filipe Soares (BE)",
+  "data_registo": "2016-01-13",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "101205",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "39899",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo a construção do novo Estabelecimento Prisional de Ponta Delgada"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "39958",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo a construção de um novo estabelecimento prisional na Ilha de São Miguel"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "39943",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Pela requalificação do atual e construção de novo edifício do Estabelecimento Prisional de Ponta Delgada"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "39952",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Recomenda ao Governo a construção de um novo estabelecimento prisional em Ponta Delgada"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apresentação do projeto de resolução n.º 79/XIII (1.ª) — Recomenda ao Governo a construção de um novo estabelecimento prisional na ilha de São Miguel (BE).",
+        "duracao": "00:04:06:506",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160113pln&url=l13/sl1/a2016/m01/&tI=00:17:22:830&drc=00:04:06:506"
+      }
+    ],
+    "DataReuniaoPlenaria": "2016-01-13",
+    "Debate": "PJR n.º 49/XIII/1; PJR n.º 69/XIII/1; PJR n.º 75/XIII/1; PJR n.º 79/XIII/1",
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "3926",
+      "nome": "Pedro Filipe Soares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "200557",
+    "IdDebate": "10971",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "200557",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-01-14",
+        "pubLeg": "XIII",
+        "pubNr": "24",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/024/2016-01-14/6?pgs=6-7&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Recomenda ao Governo a construção do novo estabelecimento prisional de Ponta Delgada; Recomenda ao Governo a construção de um novo estabelecimento prisional na ilha de São Miguel; Pela requalificação do atual e construção de novo edifício do estabelecimento prisional de Ponta Delgada; Recomenda ao Governo a construção de um novo estabelecimento prisional em Ponta Delgada.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
