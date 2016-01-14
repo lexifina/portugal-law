@@ -1,0 +1,530 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12719",
+  "numero": "40",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-01-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-02-25",
+            "entidades": null,
+            "id": "101609",
+            "tipo": null,
+            "titulo": "Audição em 2016-02-25 com Frederico Calado Cordeiro e outros"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-02-10",
+            "dataResposta": "2016-03-02",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "42/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-02-10",
+            "dataResposta": "2016-04-01",
+            "entidades": [
+              "Presidente do Conselho de Administração da Comissão do Mercado de Valores Mobiliários"
+            ],
+            "nrOficio": "43/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-02-25",
+            "dataResposta": "2016-03-03",
+            "entidades": [
+              "Autoridade da Concorrência"
+            ],
+            "nrOficio": "70/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-14",
+            "dataResposta": "2016-05-04",
+            "entidades": [
+              "Comissão Diretiva do Fundo de Resolução"
+            ],
+            "nrOficio": "116/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-02-10",
+            "dataResposta": "2016-03-04",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "41/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-07-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-01-27",
+        "DataArquivo": "2016-07-13",
+        "DataBaixaComissao": "2016-01-19",
+        "DataEnvioPAR": "2016-07-13",
+        "DataReaberta": "2016-01-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-01-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e575a6d596d59324f5441744e7a633159793030595441354c574a694e3259744e5451794f4467355a446b7a4d4445794c6e426b5a673d3d&fich=5ffbf690-775c-4a09-bb7f-542889d93012.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-02-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f54646a5a544134595441744e325269597930304d6a45344c574a6c5a5463744e4755304e5445315a6a51784d6a55794c6e426b5a673d3d&fich=97ce08a0-7dbc-4218-bee7-4e4515f41252.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f474d324d44686a4e5463744d32453059693030596a4d304c546b774d546b745a5467775957497a4d6d4a684d4464694c6e426b5a673d3d&fich=8c608c57-3a4b-4b34-9019-e80ab32ba07b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a444d305a4749315a5467744d4445344d4330305a54566d4c574a6c4d3251744d6d55794f545930597a42695a4468684c6e426b5a673d3d&fich=d34db5e8-0180-4e5f-be3d-2e2964c0bd8a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e47566a4e575931597a59745a5441345a5330305a6a526d4c5467354d4745744e5749775a47597a4e57466a4d7a4e6b4c6e426b5a673d3d&fich=4ec5f5c6-e08e-4f4f-890a-5b0df35ac33d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-02-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d574a6b4e44557a596a6b744d6a63314d5330304e44426a4c57466b593251744e6a67775a44526d4d6a41324d546b324c6e426b5a673d3d&fich=1bd453b9-2751-440c-adcd-680d4f206196.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a444a6d4e6d45335a446b745a4445335953303059544d794c546b785a5745745a544d344e444a6c5a6a51324e7a426a4c6e426b5a673d3d&fich=d2f6a7d9-d17a-4a32-91ea-e3842ef4670c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-03-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e5441325a47526959574d74597a517a5a4330305a4451344c5467774e7a6374593259354f4451785a4455794d6d566c4c6e426b5a673d3d&fich=506ddbac-c43d-4d48-8077-cf9841d522ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d546334595751305a6a55744f5451794f4330305a4755324c546c6c4d4441745954637a4f54453559544d784d7a49324c6e426b5a673d3d&fich=178ad4f5-9428-4de6-9e00-a73919a31326.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-03-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6d45344d6a5668596d55744f5467774f4330304d44686b4c574534595451744e6d457a5a546378596a49324f574d344c6e426b5a673d3d&fich=2a825abe-9808-408d-a8a4-6a3e71b269c8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-03-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765957466a4f544d774d574d744d7a41324e7930304d7a6c6b4c546b775a5449745a6d5a684f57557a4d3259775a574d794c6e426b5a673d3d&fich=aac9301c-3067-439d-90e2-ffa9e33f0ec2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f5442694e6a5979593249744f5759325a5330304d4463784c5468694d5755744e6d4d7a4e6d526a4e6a637a5932557a4c6e426b5a673d3d&fich=90b662cb-9f6e-4071-8b1e-6c36dc673ce3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-01-27",
+            "gp": "PSD",
+            "id": "6136",
+            "motivoCessacao": null,
+            "nome": "Inês Domingos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-12-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-01-20",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939694f4451794f44526c4d4331694f444d354c5452694f474d744f54686b4e4330794f5759344e5467344e3251354d444d756347526d&fich=b84284e0-b839-4b8c-98d4-29f85887d903.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_15_15_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=02:01:00:596&drc=00:01:50:404"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_15_15_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=02:03:02:242&drc=00:00:53:757"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_15_15_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=02:03:59:627&drc=00:01:21:372"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_15_15_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=02:05:24:492&drc=00:02:21:909"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_15_15_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=02:07:50:537&drc=00:02:37:462"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12719",
+    "PetAssunto": "Contra o prolongamento do vencimento dos Valores Mobiliários Obrigatoriamente Convertíveis (VMOC) do Sporting.",
+    "PetDataEntrada": "2016-01-14",
+    "PeticoesAssociadas": null,
+    "PetId": "12719",
+    "PetLeg": "XIII",
+    "PetNr": "40",
+    "PetNrAssinaturas": "4162",
+    "PetNrAssinaturasInicial": "2125",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "582",
+        "obs": null,
+        "pag": [
+          "2-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-16",
+        "pubLeg": "XIII",
+        "pubNr": "29",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/029/2016-12-16/2?pgs=2-34&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "767908",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-09",
+        "pubLeg": "XIII",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/042/2016-07-09/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
