@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 455/2016
+Na sequência da publicação no Diário da República, 2.ª série, n.º 207 de 22 de outubro de 2015 (fls. 30645 a 30647), do aviso n.º 12285/2015, torna-se público que em Sessão Ordinária da Assembleia de Freguesia, realizada em 27 de dezembro de 2015, sob proposta da Junta de Freguesia, e após ter decorrido o prazo para consulta pública, nos termos dispostos no artigo 101.º do Código do Procedimento Administrativo (Dl n.º 4/2015, de 7 de janeiro), foi aprovado o Regulamento de Incentivo à Natalidade, com o conteúdo constante da citada publicação, o qual não sofreu qualquer alteração, entrando em vigor decorrido o prazo constante do edital afixado nas instalações desta Junta de Freguesia.
+29 de dezembro de 2015. - O Presidente da Junta de Freguesia do Ameixial, Abílio Vargas Sousa.
+309246412
