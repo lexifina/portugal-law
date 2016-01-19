@@ -6,7 +6,7 @@
 
 ### Alteração da candidatura
 
-1 - Os beneficiários do apoio previsto na presente portaria podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento do efetivo pecuário objeto de apoio, desde que se encontrem reunidos os critérios de elegibilidade.
+1 - [Revogado].
 
 2 - Salvo o disposto no número seguinte, os beneficiários podem, aquando da apresentação do pedido de pagamento anual, sem lugar à devolução dos apoios já recebidos, proceder à redução do efetivo pecuário objeto de apoio até ao limite máximo de 25 % do efetivo sob compromisso.
 
