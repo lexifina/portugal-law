@@ -1,0 +1,7 @@
+Deliberação n.º 46/2016
+Tendo em vista a gradual implementação do processo de atribuição de matrícula às máquinas industriais, foram sendo estabelecidas datas-limite faseadas para a conclusão daquele processo.
+Dado o tempo decorrido desde a entrada em vigor do Decreto-Lei n.º 107/2006 e tendo já sido matriculada parte significativa do parque de máquinas industriais sujeitas a matrícula, importa assegurar que o restante parque ainda não matriculado seja objeto de matriculação de forma a não perturbar não só o normal funcionamento dos serviços regionais deste Instituto, como garantir que as máquinas matriculadas apresentam as necessárias condições para circular em segurança.
+Assim delibera o Conselho Diretivo do IMT, I. P., em reunião realizada em 7 de dezembro de 2016, ao abrigo do disposto na alínea k) do n.º 3 do artigo 3.º do Decreto-Lei n.º 236/2012, de 31 de outubro, com a última redação em vigor, o seguinte:
+Para efeitos da conclusão do processo de atribuição de matrícula às máquinas industriais dos tipos constantes do anexo I ao Regulamento de Atribuição de Matrícula a Máquinas Industriais, aprovado pelo Decreto-Lei n.º 107/2006, de 6 de junho, é fixada em 30 de junho de 2016, a data-limite para a atribuição de matrícula a todos os tipos de máquinas industriais.
+7 de dezembro de 2015. - O Conselho Diretivo: Paulo Jorge Marcelino Batista de Andrade, Presidente - Ana Isabel Silva Pereira de Miranda Vieira de Freitas, Vogal.
+209227775
