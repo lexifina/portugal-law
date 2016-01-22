@@ -1,0 +1,5 @@
+Aviso n.º 726/2016
+António dos Santos Robalo, Presidente da Câmara Municipal de Sabugal: Torna Público, que em reunião ordinária realizada a vinte e sete de novembro de dois mil e quinze, foi deliberado, por unanimidade, submeter o Projeto de Regulamento do Serviço de Saneamento Público de Águas Residuais no Município do Sabugal, a consulta pública, para recolha de sugestões, pelo período de 30 dias úteis, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, para cumprimento do n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009, de 20/08, que se encontra disponível para consulta na página do Município em www.cm-sabugal.pt.
+Assim, poderão os interessados apresentar os seus contributos e sugestões no Edifício desta Câmara Municipal, Divisão de Gestão Administrativa e Financeira, nos dias úteis das 9:00 h às 12:30 h e das 14:00 às 17:30 horas ou por correio eletrónico: geral@cm-sabugal.pt ou ainda por correio postal endereçadas ao Presidente da Câmara Municipal do Sabugal - Praça da República, 6324-007 Sabugal.
+5 de janeiro de 2016. - O Presidente da Câmara, Eng.º António dos Santos Robalo.
+309248721
