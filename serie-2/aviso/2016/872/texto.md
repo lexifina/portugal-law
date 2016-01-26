@@ -1,0 +1,8 @@
+Aviso n.º 872/2016
+Período de Discussão Pública
+1.ª Alteração ao Plano de Pormenor de Salvaguarda e Renovação Urbana de S. Paio
+Torna-se público que, a Câmara Municipal de Arcos de Valdevez em reunião ordinária de 23 de dezembro de 2015, deliberou proceder à abertura de um período de discussão pública da proposta da 1.ª Alteração ao Plano de Pormenor de Salvaguarda e Renovação Urbana de S. Paio, que decorrerá por um prazo de 20 dias, contados a partir do 5.º dia da publicação do presente aviso no Diário da República, para efeitos do disposto no artigo 89.º, n.os 1 e 2, do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio.
+Durante o referido período os interessados poderão consultar os a proposta de plano, bem como o respetivo relatório de qualificação do plano a avaliação ambiental, o parecer final e demais pareceres emitidos, na página eletrónica da autarquia e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez.
+A apresentação de sugestões, observações ou reclamações sobre quaisquer questões que possam ser consideradas úteis no âmbito do procedimento da discussão pública deve ser formalizada por escrito, através de requerimento dirigido ao presidente da Câmara Municipal, para a morada: Praça Municipal, 4974-003 Arcos de Valdevez, por correio eletrónico para geral@cmav.pt ou por preenchimento em formulário próprio disponibilizado em www.cmav.pt e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez.
+13 de janeiro de 2016. - O Presidente da Câmara Municipal, Dr. João Manuel Esteves.
+609265504
