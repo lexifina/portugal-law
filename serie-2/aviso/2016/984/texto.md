@@ -1,0 +1,37 @@
+Aviso n.º 984/2016
+Plano Diretor Municipal de Sobral de Monte Agraço - Alteração Parcial
+Eng.º José Alberto Quintino da Silva, Presidente da Câmara Municipal de Sobral de Monte Agraço, torna público que a Câmara Municipal deliberou, por unanimidade, em reunião ordinária realizada no dia 19 de outubro de 2015, submeter a Proposta de Alteração Parcial do Plano Diretor Municipal de Sobral de Monte Agraço a discussão pública, por um período de 30 dias seguidos, contados a partir do 5.º dia após publicação do presente aviso no Diário da República, conforme o previsto no artigo 89.º e nos termos da alínea a) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão do Território, na redação do Decreto-Lei n.º 80/2015, de 14 de maio.
+No decurso do período de discussão pública, os interessados poderão consultar a proposta de alteração, bem como os demais elementos que a acompanham, nomeadamente o parecer final da Comissão de Coordenação e Desenvolvimento Regional do Centro, no edifício sede do Município de Sobral de Monte Agraço, nos dias úteis, durante as horas normais de expediente (9:00 h/18:00 h) e no sítio da internet www.cm-sobral.pt.
+Mais se informa que os interessados podem apresentar reclamações, observações ou sugestões, entregues presencialmente na Divisão de Obras, Urbanismo e Ambiente, por correio dirigidas ao Presidente da Câmara Municipal de Sobral de Monte Agraço para o endereço: Praça Dr. Eugénio Dias, n.º 4, 2590-016 Sobral de Monte Agraço ou através de correio eletrónico para o endereço: pdm@cm-sobral.pt.
+19 de outubro de 2015. - O Presidente da Câmara Municipal, José Alberto Quintino da Silva, Eng.º.
+Ata da Reunião Ordinária da Câmara Municipal de Sobral de Monte Agraço
+Realizada no dia 19 de outubro de 2015
+1 - Plano Diretor Municipal (PDM)
+1.1 - Alteração parcial do Plano Diretor Municipal de Sobral de Monte Agraço - discussão pública
+O Sr. Presidente apresentou a proposta que a seguir se transcreve:
+"Proposta
+Alteração parcial ao PDM de Sobral de Monte Agraço - Discussão Pública - Estação de Transferência e Ecocentro
+Considerando que:
+a) A Câmara Municipal de Sobral de Monte Agraço deliberou, por unanimidade, em 08 de julho de 2014, proceder à alteração do PDM de Sobral de Monte Agraço numa área com cerca de 8.400 m2 localizada no Casal do Passarinho, freguesia de Sapataria, onde está implantada a Estação de Transferência e Ecocentro de Sobral de Monte Agraço, nos termos da alínea a), do n.º 2, do artigo 93.º do RJIGT, cuja planta de localização e inserção na planta de ordenamento do PDMSMA se encontram em anexo à deliberação dela fazendo parte integrante para os devidos e legais efeitos;
+b) Mais deliberou, fixar um prazo de 15 dias nos termos do n.º 2, do artigo 77.º, do RJIGT, a contar da data da publicação da deliberação em Diário da República, para a formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do Plano Diretor Municipal;
+c) Deliberou, também, estabelecer um prazo de 8 meses para a elaboração da alteração, a contar da publicação da presente deliberação;
+d) Deliberou, ainda, dispensar de Avaliação Ambiental Estratégica dado que os pressupostos que estão na base da presente alteração parcial do PDM não são suscetíveis de ter efeitos significativos sobre o ambiente;
+e) Deliberou, publicar esta deliberação em Diário da República e divulgar através da comunicação social e na página da internet em www.cm-sobral.pt nos termos do disposto no n.º 1, do artigo 74.º, do Decreto-Lei n.º 380/99 de 22 de setembro, na sua atual redação;
+f) Por fim, deliberou solicitar à Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo o agendamento da Conferência de Serviços, nos termos do artigo 75.ºC do RJIGT;
+g) Por informação datada de 14 de outubro de 2015 - informação n.º 80/2015 -, subscrita pelo Arq. Diogo Mata, que por inutilidade de repetição se anexa à presente proposta dela fazendo parte integrante para todos os devidos e legais efeitos, informa-se, grosso modo, que após os pareceres favoráveis da CCDR LVT e DRAP LVT, e de acordo com o disposto no artigo 89.º, do Decreto-Lei n.º 80/2015, de 14 de maio, deverá a Câmara Municipal deliberar a aprovação parcial do PDM [versão final] e proceder à abertura de um período de discussão pública, nos termos da norma citada;
+h) Mau grado o procedimento de revisão do PDM ter sido iniciado ao abrigo do disposto no Decreto-Lei n.º 380/99, de 22 de setembro, com a publicação do Decreto-Lei n.º 80/2015, de 14 de maio, opera-se a revogação daquele diploma, sendo que, nos termos do disposto no artigo 197.º, sob a epígrafe "Aplicação direta", se dispõe:
+"...1 - As regras estabelecidas no presente decreto-lei aplicam -se aos procedimentos já iniciados à data da sua entrada em vigor, sem prejuízo da salvaguarda dos atos já praticados."
+i) Nos termos do artigo 89.º, do Decreto-Lei n.º 80/2015, de 14 de maio:
+"1 - ... a Câmara Municipal, procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social, da plataforma colaborativa de gestão territorial e do respetivo sítio na Internet, do qual consta o período de discussão, a forma como os interessados podem apresentar as suas reclamações, observações ou sugestões, as eventuais sessões públicas a que haja lugar e os locais onde se encontra disponível a proposta, o respetivo relatório ambiental, o parecer final, a ata da comissão consultiva, os demais pareceres emitidos e os resultados da concertação.
+2 - O período de discussão pública deve ser anunciado com a antecedência mínima de cinco dias, e não pode ser inferior a 30 dias, para o plano diretor municipal..."
+Propõe-se que:
+A Câmara Municipal de Sobral de Monte Agraço, delibere a aprovação parcial do PDM [versão final] e a abertura de um período de discussão pública, nos termos do disposto no artigo 89.º, do Decreto-Lei n.º 80/2015, de 14 de maio.
+Sobral de Monte Agraço, 14 de outubro de 2015
+O Presidente da Câmara Municipal, assinado, José Alberto Quintino, Eng.º"
+O Sr. Presidente disse que a presente proposta surge na sequência de um assunto já abordado numa anterior reunião de Câmara e que se prende com a renovação da licença da Estação de Transferência e Ecocentro, cuja infraestrutura se localiza numa área abrangida pela RAN. Neste sentido, referiu que foram efetuadas todas as diligências necessárias, tendo já sido obtidos os pareceres favoráveis por parte da CCDR LVT e DRAP LVT, pelo que importa agora que a Autarquia delibere sobre a versão final da alteração parcial do PDM, sendo que, para o efeito, será necessário proceder à abertura de um novo período para discussão pública, período esse que não deverá ser inferior a 30 dias.
+Deliberação: A Câmara Municipal de Sobral de Monte Agraço deliberou, por unanimidade, a aprovação parcial do PDM [versão final] e a abertura de um período de discussão pública, nos termos do disposto no artigo 89.º, do Decreto-Lei n.º 80/2015, de 14 de maio.
+19 de outubro de 2015. - O Presidente, José Alberto Quintino da Silva.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+34149 - http://ssaigt.dgterritorio.pt/i/Outros_34149_1.jpg
+34149 - http://ssaigt.dgterritorio.pt/i/Outros_34149_2.jpg
+609271555
