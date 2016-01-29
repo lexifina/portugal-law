@@ -1,0 +1,6 @@
+Edital n.º 84/2016
+Fernando dos Santos Freire, Presidente da Câmara Municipal de Vila Nova da Barquinha, torna público que, por deliberação desta Câmara Municipal, tomada na sua reunião ordinária realizada em 14 de outubro de 2015 e nos termos dos artigos 100.º e 101.º, Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e no uso das competências previstas na alínea k), do n.º 1, do artigo 33.º, da Lei n.º 75/2013, de 12 de setembro, se encontra em apreciação pública e audiência nesta Câmara Municipal, pelo prazo de 30 (trinta) dias, a Proposta de Regulamento do Conselho Municipal de Juventude de Vila Nova da Barquinha. Todos os interessados na apresentação de sugestões e/ou reclamações, deverão fazê-lo por escrito, dentro do prazo supracitado, para o Presidente da Câmara Municipal de Vila Nova da Barquinha.
+Mais torna público que a Proposta de Regulamento, poderá ser consultada na Secretaria desta Câmara Municipal, de segunda a sexta-feira, dentro do horário de expediente - das 9:00 às 12:30 horas e das 14:00 às 16:00 horas e na página da Internet, no endereço www.cm-vnbarquinha.pt.
+Para constar e devidos efeitos se publica este Edital e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+5 de janeiro de 2016. - O Presidente da Câmara, Fernando Santos Freire.
+309256376
