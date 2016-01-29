@@ -1,0 +1,5 @@
+Aviso n.º 1071/2016
+Consulta pública de Projetos de Regulamentos
+Joaquim Bernardo dos Santos Diogo, Presidente da Junta de Freguesia da União das Freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso, torna público que de acordo com a deliberação da Junta de Freguesia de 2 de dezembro de 2015 e em cumprimento com o artigo 101.º do Código do Procedimento Administrativo, foi deliberado submeter à consulta pública, pelo prazo de 30 dias, a contar do dia seguinte ao da publicação do presente aviso, os Projetos de Regulamento e Tabela de Taxas e Preços e de Regulamento dos Cemitérios, os quais poderão ser consultados na sede da União das Freguesias (Rua da Portela, 22, Apartado 24, 7430-143 Crato) e no respetivo sítio institucional na internet (www.uf-concelhodocrato.pt). Os interessados podem apresentar eventuais sugestões, as quais deverão ser formuladas por escrito e dirigidas ao senhor Presidente da Junta de Freguesia.
+2 de dezembro de 2015. - O Presidente da União das Freguesias, Joaquim Bernardo dos Santos Diogo.
+309277785
