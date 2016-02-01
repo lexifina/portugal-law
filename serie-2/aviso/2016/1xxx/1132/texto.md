@@ -1,0 +1,8 @@
+Aviso n.º 1132/2016
+Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Comércio, Serviços e Restauração
+Rui Jorge Cordeiro Gonçalves dos Santos, Presidente da Câmara Municipal de Vila Real, torna público, que a Câmara Municipal, na sua reunião realizada a 11 de janeiro de 2016, deliberou dar início ao período de consulta pública do Projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos de Comércio, Serviços e Restauração, pelo período de trinta dias úteis, a contar da data da publicação do presente Aviso na 2.ª série do Diário da República, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+O projeto de regulamento encontra-se disponível para consulta na página da internet da Câmara Municipal de Vila Real (em www.cm-vilareal.pt), bem como, no Edifício dos Paços do Concelho, nos serviços de Atendimento ao Público.
+Durante o período de consulta pública, qualquer interessado poderá formular as reclamações, observações ou sugestões que entenda por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Vila Real, podendo ser remetidas por correio convencional ou por correio eletrónico para o endereço geral@cm-vilareal.pt ou entregues nos serviços de Atendimento ao Público da Câmara Municipal de Vila Real, durante o período normal do expediente.
+E, para que conste, mandei publicar este Aviso no Diário da República e outros de igual teor, que serão afixados nos locais de estilo e na página da internet da Câmara Municipal de Vila Real.
+18 de janeiro de 2016. - O Presidente da Câmara Municipal, Rui Jorge Cordeiro Gonçalves dos Santos, engenheiro
+209276894
