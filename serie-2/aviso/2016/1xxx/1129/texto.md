@@ -1,0 +1,15 @@
+Aviso n.º 1129/2016
+Revogação do Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua
+Mário de Almeida Loureiro, Presidente da Câmara Municipal de Tábua, torna público, para efeitos do disposto no n.º 3 do artigo 127.º do Decreto-Lei n.º 80/2015, de 14 de maio, e para efeitos de eficácia, que a Assembleia Municipal de Tábua, na sua reunião ordinária de 30 de dezembro de 2015, deliberou, sob proposta da Câmara Municipal datada de 25 de novembro de 2015, revogar o Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua.
+12 de janeiro de 2016. - O Presidente da Câmara, Mário de Almeida Loureiro.
+Deliberação
+Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua - Revogação do Plano de Pormenor:
+Pelo Senhor Presidente da Assembleia Municipal foi presente o Processo respeitante à proposta de revogação do Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua (PPZHCPCET), elaborada pela Senhora Eng.ª Luísa Marques, Chefe da Divisão de Obras Particulares e Gestão Urbanística e pela Jurista, Senhora Dra. Alexandra Bento, que se faz acompanhar da Deliberação n.º 408 tomada na Reunião Pública da Câmara Municipal de 25 de novembro de 2015, documentos apresentados pela Câmara Municipal, os quais foram distribuídos aos Exmos. Membros da Assembleia para apreciação e que aqui se dão por integralmente reproduzidos para os devidos efeitos legais, ficando arquivados em pasta própria.
+Depois de analisados os documentos apresentados e prestados os devidos esclarecimentos, pelo Senhor Presidente da Assembleia Municipal foi colocado à votação, pela forma usual de votar, a proposta de revogação do Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua, nos termos do disposto no artigo 90.º, n.º 1, do Decreto-Lei n.º 80/2015, de 14 de maio, que aprova a Revisão ao Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), e para efeitos do disposto no artigo 127.º, n.os 1 e 3, do mesmo diploma legal, conjugado com o disposto no artigo 50.º, n.º 1, da Lei n.º 31/2014, de 30 de maio, que aprova a Lei de bases gerais da política pública de solos, de ordenamento do território e de urbanismo.
+Da contagem dos votos dos vinte e quatro Membros presentes no momento, apurou-se o seguinte resultado: votos contra: zero; abstenções: zero; votos a favor: vinte e quatro.
+Aprovado por Unanimidade, a proposta de revogação do Plano de Pormenor da Zona do Hospital/Casa do Povo/Cruzamento de Espariz/Tábua.
+Mais foi aprovado por Unanimidade, proceder de acordo com os procedimentos estabelecidos no referido decreto-lei para a sua revogação e publicação.
+Atendendo ao exposto, nenhum Membro quis usar da palavra, contudo o Senhor Presidente da Assembleia Municipal, Dr. Alfredo Laranjeira Rodrigues de Areia, passou a palavra ao Senhor Presidente da Câmara Municipal para esclarecer os Membros da Assembleia Municipal.
+Nada mais havendo a tratar, o Senhor Presidente da Assembleia passou para o ponto seguinte.
+30 de dezembro de 2015. - O Presidente da Assembleia Municipal, Dr. Alfredo Laranjeira Rodrigues de Areia.
+609277209
