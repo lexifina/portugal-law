@@ -1,0 +1,5 @@
+Regulamento n.º 122/2016
+PCI - Paramédicos de Catástrofe Internacional publica para uso exclusivo das suas atividades o regulamento de uso do veículo de emergência médica SIV-Suporte Imediato de Vida, concebido com equipamento capaz de medicar em operações de emergência, socorro humanitário e cooperação para o desenvolvimento, a ser utilizado por todos os elementos institucionais tanto a nível nacional como internacional.
+O presente regulamento atesta que a referida viatura deverá estar devidamente equipada com material de suporte básico de vida, suporte avançado de vida, material de avaliação e estabilização quer nas vertentes de trauma e doença súbita, farmacologia, oxigenoterapia e todo o restante material de emergência médica necessário ao exercício das funções contempladas nos estatutos da PCI, nomeadamente as operações de execução e coordenação levadas a cabo pela UOE - Unidade Operacional de Emergência - centradas no socorro humanitário em situações de catástrofe, crise humanitária e cooperação para o desenvolvimento tanto a nível nacional como internacional.
+1 de dezembro de 2015. - O Presidente e Fundador dos PCI, Bruno Reis Ferreira.
+309301524
