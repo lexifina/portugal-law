@@ -1,0 +1,485 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12730",
+  "numero": "51",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-02-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-05-03",
+            "entidades": null,
+            "id": "102029",
+            "tipo": null,
+            "titulo": "Audição em 2016-05-03 com Peticionários da Petição nº 51/XII/1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-02-23",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-05-18",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-02-17",
+        "DataArquivo": "2016-05-18",
+        "DataBaixaComissao": "2016-02-10",
+        "DataEnvioPAR": "2016-05-18",
+        "DataReaberta": "2016-02-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f44686a595463784e444974596d49314d5330305a6d45354c57466c595449744d32526d5954497a4e6d46684d7a6c6a4c6e426b5a673d3d&fich=88ca7142-bb51-4fa9-aea2-3dfa236aa39c.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-05-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876596a63354e32457a4e6a6774597a67784f4330304d7a6b794c5468694d7a6b744d54517a597a677a4e6a6b30597a55774c6e426b5a673d3d&fich=b797a368-c818-4392-8b39-143c83694c50.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-02-10",
+            "gp": "PSD",
+            "id": "4148",
+            "motivoCessacao": null,
+            "nome": "Luís Vales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-09-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-02-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939685a4464695a445668595330304e4755314c54526a4f5451745954686c5a4331694d6d55304e6d4a684f4442694f4449756347526d&fich=ad7bd5aa-44e5-4c94-a8ed-b2e46ba80b82.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40617",
+      "40618"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:06:53:834&drc=00:03:36:364"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:10:36:769&drc=00:03:05:213"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:13:49:578&drc=00:02:53:422"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:16:47:668&drc=00:03:23:604"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:20:18:613&drc=00:03:24:631"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-09-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160915plen&url=l13/sl2/a2016/m09/&tI=03:23:47:168&drc=00:03:16:351"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-16",
+                "pubLeg": "XIII",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo a divulgação de um relatório sobre a implementação de rastreios de base populacional de cancro da mama, cancro do cólo do útero, retinopatia diabética e cancro do cólon e reto; Pelo reforço de medidas de prevenção, diagnóstico, tratamento e apoio aos doentes de cancro da mama.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12730",
+    "PetAssunto": "Pela Equidade no Acesso ao Rastreio, Diagnóstico e Tratamento das mulheres com Cancro da Mama.",
+    "PetDataEntrada": "2016-02-03",
+    "PeticoesAssociadas": null,
+    "PetId": "12730",
+    "PetLeg": "XIII",
+    "PetNr": "51",
+    "PetNrAssinaturas": "27505",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2215",
+        "obs": null,
+        "pag": [
+          "53-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-09-16",
+        "pubLeg": "XIII",
+        "pubNr": "1",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/001/2016-09-16/53?pgs=53-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "759585",
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-02-20",
+        "pubLeg": "XIII",
+        "pubNr": "17",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/017/2016-02-20/2?pgs=2&org=PLC"
+      }
+    ]
+  }
+}
