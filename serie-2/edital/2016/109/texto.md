@@ -1,0 +1,5 @@
+Edital n.º 109/2016
+José António Gomes de Jesus, Presidente da Câmara Municipal de Tondela, torna público e de acordo com o exposto no artigo 35.º n.º 1 alínea t) da Lei n.º 75/2013 de 12 de setembro, que em reunião de Câmara de 26 de janeiro de 2016 foi deliberado a proposta de regulamento do mercado municipal de Tondela. Mais se torna público que nos termos do n.º 101.º numero 1 do Decreto-Lei n.º 4/2015, de 7 de janeiro se submete à discussão pública, para recolha sugestões, por trinta dias a contar da publicação no Diário da República. Durante o período de apreciação pública o projeto de regulamento pode ser consultado no Balcão Único da Câmara Municipal de Tondela no seu horário de funcionamento ou no site do Município. Os interessados devem formular por escrito, dirigido ao presidente da câmara as eventuais sugestões.
+Para conhecimento geral se torna público o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo.
+26 de janeiro de 2016. - O Presidente da Câmara, José António Gomes de Jesus.
+309310986
