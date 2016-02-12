@@ -10,17 +10,19 @@ b) Agricultor que inicie a atividade agrícola;
 
 c) Agricultor que, devido a caso de força maior ou circunstância excecional, tenha sido impedido de solicitar a primeira atribuição de direitos ao pagamento.
 
-2 - Os agricultores ativos previstos nas alíneas a) e b) do número anterior devem demonstrar pelo menos uma das seguintes competências ou formação adquirida no âmbito de um projeto aprovado ao abrigo de medida ou ação dos programas de desenvolvimento rural previstas no anexo IV à presente portaria, da qual faz parte integrante:
+2 - Os agricultores ativos previstos nas alíneas a) e b) do número anterior devem demonstrar até à data-limite de alteração do PU, pelo menos, uma das seguintes competências ou formação adquirida:
 
-a) Qualificação de nível 2, 3, 4, 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça ou uma qualificação de nível 6, 7 ou 8, relativas ao ensino superior, nas áreas agrícola, florestal ou animal;
+a) Qualificação de nível 3, 4, ou 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, ou qualificação de nível 6, 7 ou 8, relativas ao ensino superior, nas áreas agrícola, florestal ou animal;
 
-b) Curso de empresário agrícola homologado pelo Ministério da Agricultura e do Mar;
+b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Florestas e Desenvolvimento Rural;
 
 c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
 
 d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, «Técnico/a de Produção Agropecuária», de nível 4, do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas de duração, complementada por «formação-ação» prevista no Programa Operacional de Competitividade e Internacionalização 2014-2020 com duração mínima de 150 horas.
 
-3 - O projeto referido no número anterior tem de estar aprovado até ao último dia do prazo para a apresentação do PU.
+e) Qualificação de nível 2, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, no caso dos agricultores ativos previstos na alínea a) do número anterior.
+
+3 - (Revogado.)
 
 4 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências em termos de competências e formação tem de ser verificada em pelo menos num dos jovens agricultores que participa no capital e gestão da pessoa coletiva, em aplicação da alínea c) do n.º 1 do artigo 49.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.
 
@@ -46,8 +48,8 @@ e) Agricultores que tenham comprado hectares elegíveis entre 15 de maio de 2013
 
 7 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se agricultores que se instalem pela primeira vez numa exploração agrícola na qualidade de responsáveis da exploração, os agricultores que se encontrem nas condições da alínea b) do n.º 11 do artigo 30.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
 
-8 - Os agricultores referidos no n.º 6 só são elegíveis para atribuição de direitos se iniciaram a atividade agrícola no ano de 2010 ou em ano posterior e que apresentem um pedido de atribuição de direitos, o mais tardar, cinco anos após o ano em que tenham iniciado a sua atividade agrícola.
+8 - Os agricultores referidos no n.º 6 apenas são elegíveis para efeitos de atribuição de direitos ao pagamento quando tenham iniciado a atividade agrícola até cinco anos antes da data de apresentação de um pedido de atribuição de direitos.
 
-9 - Os agricultores referidos no n.º 7 só são elegíveis para atribuição de direitos se iniciaram a atividade agrícola no ano de 2013 ou em ano posterior e que apresentem um pedido de atribuição de direitos, o mais tardar, dois anos após o ano em que tenham iniciado a sua atividade agrícola.
+9 - Os agricultores referidos no n.º 7 apenas são elegíveis para efeitos de atribuição de direitos ao pagamento quando tenham iniciado a atividade agrícola até dois anos antes da data de apresentação de um pedido de atribuição de direitos.
 
 10 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.

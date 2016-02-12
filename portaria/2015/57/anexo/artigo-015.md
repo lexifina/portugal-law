@@ -18,7 +18,11 @@ ii) Sem predominância de vegetação arbustiva;
 
 iii) Com predominância de vegetação arbustiva em prática local, inseridas em zonas de baldio.
 
-3 - São ainda elegíveis para efeitos de RPB ao longo do período do compromisso do agricultor, as parcelas de superfícies florestadas ao abrigo das medidas relativas à florestação de terras agrícolas do Regulamento (CE) n.º 1257/1999, do Conselho de 17 de maio, do Regulamento (CE) n.º 1698/2005, do Conselho de 20 de setembro ou do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho de 17 de dezembro, desde que essas superfícies pudessem permitir a utilização de direitos ao abrigo do RPU em 2008.
+3 - São ainda elegíveis para efeitos de RPB:
+
+a) As subparcelas exploradas em regime de talhadia de curta rotação;
+
+b) Ao longo do período de compromisso, as parcelas de superfícies florestadas ao abrigo das medidas relativas à florestação de terras agrícolas previstas no Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de maio, no Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de setembro, ou no Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, desde que essas superfícies pudessem permitir a utilização de direitos ao abrigo do RPU em 2008.
 
 4 - As subparcelas agrícolas com a ocupação cultural prevista nos números 2 e 3 são elegíveis para efeitos do RPB, na área máxima elegível determinada no iSIP.
 

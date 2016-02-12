@@ -14,7 +14,9 @@ d) Os hectares dedicados a sistemas agroflorestais que recebem ou tenham recebid
 
 e) Florestação de terras agrícolas, no âmbito dos programas de desenvolvimento rural;
 
-f) Com culturas fixadoras de azoto de tremocilha (Lupinus spp), fava (Vicia faba), feijão (Phaseolus spp), amendoim (Arachis spp), grão-de-bico (Cicer spp), ervilha (Pisum spp), tremoço (Lupinus spp), e luzerna (Medicago spp), quando cultivadas em parcelas com IQFP 1 e 2, com exceção das zonas vulneráveis do continente onde prevalecem as obrigações definidas nos respetivos programas de ação.
+f) Com culturas fixadoras de azoto, de tremocilha (Lupinus spp), fava (Vicia faba), feijão (Phaseolus spp), amendoim (Arachis spp), grão-de-bico (Cicer spp), ervilha (Pisum spp), tremoço (Lupinus spp), luzerna (Medicago spp), serradela (Ornithopus spp), ervilhaca (Vicia spp) e trevo (Trifolium spp) e misturas destas espécies, quando cultivadas em parcelas com IQFP 1 e 2, com exceção das zonas vulneráveis a nitratos do continente onde prevalecem as obrigações definidas nos respetivos programas de ação;
+
+g) Bosquetes localizados no interior das parcelas de superfície agrícola, no âmbito da condicionalidade.
 
 2 - Para serem consideradas como superfícies de interesse ecológico em determinado ano, as superfícies identificadas no número anterior têm de ser identificadas no PU desse ano.
 

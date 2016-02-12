@@ -2,11 +2,11 @@
 
 ### Critérios de competências e formação
 
-1 - Em aplicação do n.º 3 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu de 17 de dezembro, para efeitos de pagamento para os jovens agricultores, é exigida pelo menos uma das seguintes competências ou formação adquirida no âmbito de um projeto aprovado ao abrigo de medida ou ação dos programas de desenvolvimento rural previstas no anexo IV à presente portaria, da qual faz parte integrante:
+1 - Em aplicação do disposto no n.º 3 do artigo 50.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, podem beneficiar do pagamento previsto no presente capítulo os jovens agricultores que demonstrem até à data-limite de alteração do PU, pelo menos, uma das seguintes competências ou formação adquirida:
 
 a) Qualificação de nível 2, 3, 4, 5, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça ou uma qualificação de nível 6, 7 ou 8, relativas ao ensino superior, nas áreas agrícola, florestal ou animal;
 
-b) Curso de empresário agrícola homologado pelo Ministério da Agricultura e do Mar;
+b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Florestas e Desenvolvimento Rural;
 
 c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
 

@@ -12,8 +12,8 @@ a) As suas atividades agrícolas não são insignificantes, representando as rec
 
 b) A sua principal atividade ou objeto social consiste no exercício de uma atividade agrícola, nos termos do n.º 3 do artigo 13.º do Regulamento n.º (UE) 639/2014, da Comissão de 11 de março.
 
-4 - Para efeitos de aplicação do disposto na alínea a) do número anterior o beneficiário tem que indicar no formulário de Identificação do Beneficiário o código de validação da informação empresarial simplificada do exercício fiscal mais recente, discriminando os rendimentos totais por CAE.
+4 - Para efeitos de aplicação do disposto na alínea a) do número anterior, o beneficiário deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, informação relativa ao exercício fiscal mais recente que permita avaliar os rendimentos totais por atividade.
 
-5 - No caso dos beneficiários serem pessoas singulares a condição de agricultor ativo é verificada pelo exercício da atividade agrícola.
+5 - (Revogado.)
 
 6 - A condição de agricultor ativo é verificada, anualmente, com a apresentação do PU, ficando sujeita a confirmação, se aplicável, produzindo efeitos para os pagamentos diretos relativos ao PU do ano em causa.

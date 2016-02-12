@@ -2,7 +2,7 @@
 
 ### Casos de força maior e circunstâncias excecionais
 
-Para além das situações previstas nas alíneas a), c), d) e e) do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, podem ser também reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:
+Para além das situações previstas nas alíneas a), c), d) e e) do n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro, podem ser também reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:
 
 a) Incapacidade profissional do beneficiário, desde que por período superior a seis meses, devidamente verificada nos termos legais;
 

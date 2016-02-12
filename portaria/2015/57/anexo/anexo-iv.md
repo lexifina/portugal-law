@@ -1,6 +1,6 @@
 # Anexo IV
 
-### (a que se referem o n.º 2 do artigo 12.º e o n.º 1 do artigo 27.º)
+### (a que se refere o n.º 6 do artigo 26.º)
 
 Medidas e ações dos programas de desenvolvimento rural para efeitos da verificação da formação e competência adquirida
 

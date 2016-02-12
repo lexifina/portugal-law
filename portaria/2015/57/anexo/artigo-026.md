@@ -16,8 +16,8 @@
 
 5 - Caso o beneficiário seja uma pessoa coletiva, o efetivo e duradouro controlo da pessoa coletiva, em termos de decisões relativas à gestão, benefícios e riscos financeiros deve ser exercido por jovem agricultor no primeiro ano do pedido do pagamento para os jovens agricultores.
 
-6 - Para efeitos de primeira instalação na exploração, é considerada a data mais antiga das seguintes situações:
+6 - Para efeitos de primeira instalação na exploração, é considerada a mais antiga das seguintes datas:
 
-a) Apresentação do primeiro PU;
+a) De apresentação do primeiro PU;
 
-b) Data da decisão de aprovação do projeto.
+b) Da decisão de aprovação do projeto relativo às medidas e ações constantes do anexo IV da presente portaria, da qual faz parte integrante.
