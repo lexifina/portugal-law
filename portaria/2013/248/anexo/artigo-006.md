@@ -2,7 +2,7 @@
 
 ### Identificação de casos
 
-1 - Os casos de doenças sujeitas a notificação obrigatória e outros riscos para a saúde pública são identificados por médicos no exercício da sua profissão, sem prejuízo da notificação a efetuar por outros profissionais de saúde expressamente implicados para o efeito de acordo com Despacho do Diretor-Geral da Saúde, e comunicados, através da aplicação informática de suporte ao SINAVE, às autoridades de saúde.
+1 - Os casos de doenças sujeitas a notificação obrigatória e outros riscos para a saúde pública são identificados por médicos no exercício da sua profissão que efetuam a notificação clínica e completados com a notificação laboratorial, sempre que aplicável, sem prejuízo da notificação a efetuar por outros profissionais de saúde expressamente implicados para o efeito de acordo com despacho do diretor-geral da Saúde, e comunicados, através da aplicação informática de suporte ao SINAVE, às autoridades de saúde.
 
 2 - Após a identificação e notificação das doenças sujeitas a notificação obrigatória, os casos são categorizados pelas autoridades de saúde como «possíveis», «prováveis» e «confirmados».
 

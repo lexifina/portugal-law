@@ -2,4 +2,4 @@
 
 ### Âmbito de aplicação
 
-O Regulamento de notificação obrigatória de doenças transmissíveis e outros riscos em saúde pública aplica-se a todos os serviços de saúde do sector público, privado ou social.
+O Regulamento de Notificação Obrigatória de Doenças Transmissíveis e Outros Riscos em Saúde Pública aplica-se a todos os serviços de saúde e laboratórios do sector público, privado ou social.
