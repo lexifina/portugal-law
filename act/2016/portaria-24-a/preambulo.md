@@ -1,0 +1,21 @@
+Portaria n.º 24-A/2016
+
+O Código dos Impostos Especiais de Consumo prevê que os valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicável às gasolinas, aos gasóleos, aos petróleos, aos fuelóleos e à eletricidade são fixados, para o continente, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+Ao longo dos últimos anos verificou-se uma redução significativa do valor da tributação total da gasolina e do gasóleo rodoviários, na medida em que uma das componentes de tal tributação é o IVA, que incide proporcionalmente sobre o preço de venda ao público. Deste modo, em caso de descida do preço desses combustíveis, há também uma redução do imposto associado; enquanto em caso de subida do preço, verifica-se igualmente uma subida do montante total de impostos.
+
+Uma maior neutralidade fiscal das variações de preço dos produtos petrolíferos implica uma revisão regular dos valores de ISP, compensando neste imposto aquelas alterações verificadas no IVA.
+
+No final do primeiro semestre de 2015, segundo dados da Entidade Nacional do Mercado de Combustíveis, em relação ao preço de referência da comercialização de combustíveis, verificava-se uma tributação de (euro) 0,88/l na gasolina e (euro) 0,61/l no gasóleo. Porém, os últimos dados indicam que até 29 de janeiro tal tributação total havia diminuído para (euro) 0,83 na gasolina e (euro) 0,56 no gasóleo, ou seja, uma redução muito significativa da tributação total.
+
+As taxas unitárias base do ISP aplicável às gasolinas e aos gasóleos não são revistas há oito anos, desde a publicação da Portaria n.º 16-C/2008, de 9 de janeiro. Àquelas taxas acresce um adicionamento sobre as emissões de CO(índice 2), que foi atualizado em (euro) 0,003 59 para a gasolina e em (euro) 0,003 91 para o gasóleo, nos termos da Portaria n.º 420-B/2015, de 31 de dezembro.
+
+Visando ajustar o ISP à redução do IVA cobrado por litro de combustível, atendendo à oscilação da cotação internacional dos combustíveis e tendo em consideração os impactos negativos adicionais ao nível ambiental e no volume das importações nacionais causados pelo aumento do consumo promovido pela redução do preço de venda ao público, o Governo determina um aumento de 6 cêntimos por litro no imposto aplicável à gasolina sem chumbo e ao gasóleo rodoviário.
+
+Em linha com esta atualização do ISP sobre a gasolina sem chumbo e o gasóleo rodoviário, o Governo determina um aumento de 3 cêntimos por litro no imposto aplicável ao gasóleo colorido e marcado. Este aumento mais reduzido, que prossegue o objetivo de manter a diferenciação de preços em apoio a um conjunto de atividades económicas - nomeadamente, entre outras, a agricultura, a aquicultura e as pescas - , está ainda conexo com a consignação da receita deste imposto, prevista na proposta de lei do Orçamento do Estado de 2016, ao financiamento da contrapartida nacional dos programas PDR 2020 e MAR 2020.
+
+Assim, no quadro do disposto no n.º 1 do artigo 92.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, que determina o modo de fixação dos valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicáveis no continente às gasolinas e aos gasóleos, procede-se à alteração das taxas unitárias do ISP incidentes sobre a gasolina sem chumbo e sobre o gasóleo rodoviário, mantendo-se em vigor o adicional às taxas do ISP e a contribuição do serviço rodoviário.
+
+Nestes termos:
+
+Manda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:
