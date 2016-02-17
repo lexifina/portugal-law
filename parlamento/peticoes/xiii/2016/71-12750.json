@@ -1,0 +1,232 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12750",
+  "numero": "71",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-02-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-04-07",
+            "entidades": null,
+            "id": "101862",
+            "tipo": null,
+            "titulo": "Audição em 2016-04-07 com "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-04-21",
+            "dataResposta": "2016-07-04",
+            "entidades": [
+              "Presidente da Câmara Municipal da Lousã"
+            ],
+            "nrOficio": "65/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-21",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Assembleia Municipal da Lousã"
+            ],
+            "nrOficio": "66/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-21",
+            "dataResposta": "2016-05-31",
+            "entidades": [
+              "Presidente da Assembleia de Freguesia da União de Freguesias de Lousã e Vilarinho"
+            ],
+            "nrOficio": "67/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-21",
+            "dataResposta": "2016-05-31",
+            "entidades": [
+              "Presidente da Junta de Freguesia da União de Freguesias de Lousã e Vilarinho"
+            ],
+            "nrOficio": "68/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-06-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "767886",
+                "obs": null,
+                "pag": [
+                  "15-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-06-17",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/036/2016-06-17/15?pgs=15-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-03-22",
+        "DataArquivo": "2016-06-15",
+        "DataBaixaComissao": "2016-02-29",
+        "DataEnvioPAR": "2016-06-17",
+        "DataReaberta": "2016-03-22",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-03-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4933597a426b5a54686d4c575a694d6a45744e446778596930354d4755774c5751784f446b794f4756685a6a5977595335775a47593d&fich=27c0de8f-fb21-481b-90e0-d18928eaf60a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c32526a5954557a596a51304c574e6a4d5451744e4751334f4331684d444d334c5451304e545177595467354d5759334e5335775a47593d&fich=dca53b44-cc14-4d78-a037-44540a891f75.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a5131596a55355a6d59344c5445304d5745744e4449324d7930354e544e684c546b345954466b4e6a526d4e57466b4d5335775a47593d&fich=45b59ff8-141a-4263-953a-98a1d64f5ad1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a59794f4755794e474d314c54417a593249744e44557a59793169597a526c4c54426a5a54673559324a6c4f5751794e6935775a47593d&fich=628e24c5-03cb-453c-bc4e-0ce89cbe9d26.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a466c59324d304d6a49794c5745334d7a51744e444979595331684e7a4a694c5751354d474e6b4d446c6a4e4468694d4335775a47593d&fich=1ecc4222-a734-422a-a72b-d90cd09c48b0.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-06-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324e6a596a4e6a4f544e6c4c5459324d5751744e444979596930355a5449784c544930596a566a5a546c684f444d32595335515245593d&fich=ccb3c93e-661d-422b-9e21-24b5ce9a836a.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a56684d4445334d324e6c4c544d35596a51744e4749335a6930344d6d45324c544931596a45304e5445344d446b345a4335775a47593d&fich=5a0173ce-39b4-4b7f-82a6-25b14518098d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a566c4f5751345a544d304c545a695a6d55744e474d304d7930344e32526d4c54466a4f474e6a4e7a566d4e444a6a4f4335775a47593d&fich=5e9d8e34-6bfe-4c43-87df-1c8cc75f42c8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4d7a4f445a6d4d544e6b4c54646d4d4459744e4463315a433034595451354c5751305a4455795a4755335a6a67794d4335775a47593d&fich=3386f13d-7f06-475d-8a49-d4d52de7f820.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-03-22",
+            "gp": "PSD",
+            "id": "4328",
+            "motivoCessacao": null,
+            "nome": "Maurício Marques"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-03-11",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938354d4467314e6d4d7a5a4330785954597a4c54526a4e6a6374595467775a6930795a545a6d596a67304f4451774e54557555455247&fich=90856c3d-1a63-4c67-a80f-2e6fb8484055.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12750",
+    "PetAssunto": "Pedido de abertura da reanálise pela restituição do estatuto de Freguesia",
+    "PetDataEntrada": "2016-02-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12750",
+    "PetLeg": "XIII",
+    "PetNr": "71",
+    "PetNrAssinaturas": "2250",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
