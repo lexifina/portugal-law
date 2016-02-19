@@ -1,0 +1,29 @@
+# Portaria n.º 49/2016
+
+**Emissor:** SECRETARIAS REGIONAIS DOS ASSUNTOS PARLAMENTARES E EUROPEUS E DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
+
+**Publicação:** JORAM, I série, n.º 30/2016, suplemento, de 2016-02-19
+
+**Sumário:** Dá nova redação aos n.ºs 1 e 2 da Portaria n.º 159/2015, de 3 de setembro, que procedeu à distribuição dos encargos relativos à “PRESTAÇÃO DE SERVIÇOS DE AQUISIÇÃO DE ADVOGADO/MANDATÁRIO - PROC. N. 246/15.7BEFUN - TRIBUNAL ADMINISTRATIVO E FISCAL DO FUNCHAL” - Processo n.º 17/2015.
+
+## Texto
+
+Portaria n.º 49/2016
+de 19 de fevereiro
+Através da Portaria n.º 159/2015, de 3 de setembro, procedeu-se à distribuição dos encargos relativos à “PRESTA-
+ÇÃO DE SERVIÇOS DE AQUISIÇÃO DE ADVOGADO/MANDATÁRIO - PROC. N. 246/15.7BEFUN - TRIBUNAL ADMI-
+NISTRATIVO E FISCAL DO FUNCHAL” - Processo n.º 17/2015. Havendo necessidade de efetuar uma alteração à referi-
+da Portaria n.º 159/2015, de 3 de setembro, manda o Governo Regional pelo Secretário Regional Secretário Regional das Finanças e da Administração Pública e pelo Secretário Regional dos Assuntos Parlamentares e Europeus o seguinte:
+
+1. Os n.ºs 1 e 2 da Portaria n.º 159/2015, de 3 de setembro, passam a ter a seguinte redação:
+“1. Os encargos orçamentais previstos para a “PRESTAÇÃO
+DE SERVIÇOS DE AQUISIÇÃO DE ADVOGDO/MANDATÁRIO - PROC. N. 246/15.7BEFUN - TRIBUNAL ADMINISTRATIVO E FISCAL DO FUNCHAL”, processo n.º 17/2015, encontram-se escalonados na forma abaixo indicada:
+Ano económico de 2015 ................................€ 22.284,32 Ano económico de 2016 ................................€ 30.500,00 Ano económico de 2017 ................................€ 26.013,02 Ano económico de 2018 ................................€ 30.500,00
+2. A despesa prevista para o corrente ano económico tem cabimento na rubrica da Secretaria 43 Capítulo 50 Divisão 02 Subdivisão 01 Classificação económica 02.02.20.S0.00, Projeto 50469 e Fonte de Financiamento 111, do Orçamento da RAM para 2016.”
+2. Todos os valores acima mencionados incluem IVA à taxa legal aplicável.
+3. Esta Portaria entra imediatamente em vigor.
+Assinada a 2016/02/03.
+O SECRETÁRIO REGIONAL DAS FINANÇAS E DA ADMINIS-
+TRAÇÃO PÚBLICA, Rui Manuel Teixeira Gonçalves
+O SECRETÁRIO REGIONAL DOS ASSUNTOS PARLAMENTA-
+RES E EUROPEUS, Mário Sérgio Quaresma Gonçalves Marques
