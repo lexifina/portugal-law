@@ -1,0 +1,552 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12742",
+  "numero": "63",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-02-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-04-19",
+            "entidades": null,
+            "id": "101793",
+            "tipo": null,
+            "titulo": "Audição em 2016-04-19 com Primeiro Andar (Ateneu) e Outros"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-03-28",
+            "dataResposta": "2016-04-14",
+            "entidades": [
+              "Câmara Municipal de Lisboa"
+            ],
+            "nrOficio": "57/12ªCCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-04",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Junta de Freguesia de Arroios"
+            ],
+            "nrOficio": "66/12ªCCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              "Deputado Ricardo Robles - Assembleia Municipal de Lisboa"
+            ],
+            "nrOficio": "67/12ªCCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-04",
+            "dataResposta": "2016-04-14",
+            "entidades": [
+              "Vereador Carlos Moura - Câmara Municipal de Lisboa"
+            ],
+            "nrOficio": "68/12ªCCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-05-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-03-17",
+        "DataArquivo": "2016-05-11",
+        "DataBaixaComissao": "2016-02-29",
+        "DataEnvioPAR": "2016-05-13",
+        "DataReaberta": "2016-03-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-03-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324e6b4d44637a5a6a59354c5445774e5449744e4463794f5330355a4441344c544579596a4d774f446735596d4a6c597935775a47593d&fich=cd073f69-1052-4729-9d08-12b30889bbec.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-03-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a55794d5449304d6a49314c5459345a5759744e446c6d4e6931685a574d7a4c5463324f574d314e6a526a4f5751344f4335775a47593d&fich=52124225-68ef-49f6-aec3-769c564c9d88.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4178593255784e57526b4c5759325a574d744e4749325a6930354f4463344c574e6d5a6d51315a6a6c6a597a52684d4335775a47593d&fich=01ce15dd-f6ec-4b6f-9878-cffd5f9cc4a0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a5530596a59314f445a694c57597a4e474d744e446b324e7930344d5455324c5449304d5759335a5451344d6a6b304e6935775a47593d&fich=54b6586b-f34c-4967-8156-241f7e482946.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4a6c4f5745784e5751774c54466d5a6d55744e474978597931684d6a67314c54686a4d7a67794f4463344f4746684f5335775a47593d&fich=2e9a15d0-1ffe-4b1c-a285-8c3828788aa9.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-05-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a55774e474e684d3251784c5445314e4451744e4449354d6931684d444d7a4c5751344e6a566c5a4455324e574e6c5a6935775a47593d&fich=504ca3d1-1544-4292-a033-d865ed565cef.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-04-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a426a59574a6a4f44466a4c5455775a4441744e44566d4e4331684e5751344c5467784e3255794f5755785932566d4f5335515245593d&fich=0cabc81c-50d0-45f4-a5d8-817e29e1cef9.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324d354e6a67795a6a45354c5451314f474d744e474a684f4330344d6a49334c5751794d574d7859545a6a595459774e7935515245593d&fich=c9682f19-458c-4ba8-8227-d21c1a6ca607.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-03-17",
+            "gp": "PSD",
+            "id": "4095",
+            "motivoCessacao": null,
+            "nome": "Sérgio Azevedo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-07-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-03-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4d574a6c596d56694f5330774e54646d4c5451305a4463744f4467344f4330354e6a466b4f5449354d7a6b314e5755756347526d&fich=c1bebeb9-057f-44d7-8888-961d9293955e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40559",
+      "40587"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:23:15:703&drc=00:01:47:234"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "82-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/82?pgs=82-83&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:25:26:234&drc=00:02:38:765"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-83"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/83?pgs=83&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:28:09:179&drc=00:02:05:823"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "83-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/83?pgs=83-84&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:30:21:488&drc=00:02:11:923"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "84-84"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/84?pgs=84&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:32:38:148&drc=00:02:46:359"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-85"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/85?pgs=85&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=05:35:28:090&drc=00:03:04:106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "85-86"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/85?pgs=85-86&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido; Recomenda ao Governo a salvaguarda do Ateneu Comercial de Lisboa de forma prosseguir os fins a que foi destinado; Recuperação do Ateneu Comercial de Lisboa.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12742",
+    "PetAssunto": "Solicitam a intervenção da AR no sentido de impedir que o Ateneu Comercial de Lisboa seja vendido.",
+    "PetDataEntrada": "2016-02-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12742",
+    "PetLeg": "XIII",
+    "PetNr": "63",
+    "PetNrAssinaturas": "7196",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2213",
+        "obs": null,
+        "pag": [
+          "82-86"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/82?pgs=82-86&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "760821",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-04-01",
+        "pubLeg": "XIII",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/022/2016-04-01/14?pgs=14-15&org=PLC"
+      }
+    ]
+  }
+}
