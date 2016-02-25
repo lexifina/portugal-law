@@ -1,0 +1,4 @@
+Aviso n.º 4/2016
+Por ordem superior se torna público que deu entrada, a 18 de agosto de 2015, no Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, para efeito de depósito, a Carta de Ratificação pela República de Cabo Verde do Acordo sobre a Concessão de Visto para Estudantes Nacionais dos Estados Membros da CPLP.
+Nos termos do seu artigo 8.º, sendo esta a terceira notificação da conclusão dos procedimentos internos de ratificação a dar entrada no Secretariado Executivo da CPLP, após os depósitos da República Democrática de Timor-Leste e da República Portuguesa, o Acordo sobre a Concessão de Visto para Estudantes Nacionais dos Estados Membros da CPLP entrou em vigor no dia 1 de setembro de 2015.
+Direção-Geral de Política Externa, 16 de fevereiro de 2016. - O Diretor-Geral, Francisco Duarte Lopes.
