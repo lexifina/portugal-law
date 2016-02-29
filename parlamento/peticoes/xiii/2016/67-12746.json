@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12746",
+  "numero": "67",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-02-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-05-17",
+            "entidades": null,
+            "id": "102094",
+            "tipo": null,
+            "titulo": "Audição em 2016-05-17 com Artur Ligne, subscritor da Petição 67/XIII/1“Pela extinção da taxa de regulação e supervisão para a Comunicação Social e da Entidade Reguladora para a Comunicação Social”"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-04-01",
+            "dataResposta": "2016-05-09",
+            "entidades": [
+              "Entidade Reguladora para a Comunicação Social"
+            ],
+            "nrOficio": "65/12CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-12",
+            "dataResposta": "2016-04-22",
+            "entidades": [
+              "Associação Portuguesa de Imprensa"
+            ],
+            "nrOficio": "72/12CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-12",
+            "dataResposta": "2016-05-02",
+            "entidades": [
+              "Direção do Sindicato dos Jornalistas"
+            ],
+            "nrOficio": "73/12CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-05-31",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-03-29",
+        "DataArquivo": "2016-05-31",
+        "DataBaixaComissao": "2016-03-07",
+        "DataEnvioPAR": "2016-06-01",
+        "DataReaberta": "2016-03-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-03-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c325534595455785a47566c4c5455325a4751744e445a6a597931685a6d4a6a4c5759334d446331597a466a4e6a5530597935775a47593d&fich=e8a51dee-56dd-46cc-afbc-f7075c1c654c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3255324f5759304e44466d4c574d79597a63744e446b355a6930344f54566a4c5745314f5463334f544e68593249784e4335775a47593d&fich=e69f441f-c2c7-499f-895c-a597793acb14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a646c4d6a59785a4751324c5745314e474d744e444578596930355a6d52684c5745344e6d5a6b597a49315a4752685a6935775a47593d&fich=7e261dd6-a54c-411b-9fda-a86fdc25ddaf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a597a59544e694f4445314c544d334d3245744e4455775969303459544d784c5455335a5445324d3245774e4756684d5335775a47593d&fich=63a3b815-373a-450b-8a31-57e163a04ea1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-06-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a55335a4752684d5441354c545979596a67744e446c6d4d7931695a6d5a684c5452694d3249324d7a55774e574a6c4e7935775a47593d&fich=57dda109-62b8-49f3-bffa-4b3b63505be7.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-04-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4a6b596a63785a6d4d344c57526a4d7a6b744e47517a595331694e5745344c545a6c4f5752684d545577593245324d6935515245593d&fich=2db71fc8-dc39-4d3a-b5a8-6e9da150ca62.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4130597a67344d47526a4c5751324d6a45744e444d774e693035595467774c544d774f47597959545a6d4e6a63344e4335515245593d&fich=04c880dc-d621-4306-9a80-308f2a6f6784.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a45324d7a426a4d5745304c57457a4d324d744e4752685a6930355a4451794c544a685a5751344d44417a4f44646b4f4335515245593d&fich=1630c1a4-a33c-4daf-9d42-2aed800387d8.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-03-29",
+            "gp": "PS",
+            "id": "5635",
+            "motivoCessacao": null,
+            "nome": "Norberto Patinho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-03-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774f4755334e3255334d6930774e444e6a4c5451774f4755744f5759774d53316c597a4e6d4d57513359575a69595449756347526d&fich=08e77e72-043c-408e-9f01-ec3f1d7afba2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12746",
+    "PetAssunto": "Pela extinção da taxa de regulação e supervisão para a comunicação social, e da Entidade Reguladora para a Comunicação Social.",
+    "PetDataEntrada": "2016-02-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12746",
+    "PetLeg": "XIII",
+    "PetNr": "67",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
