@@ -1,0 +1,23 @@
+# Portaria n.º 82/2016
+
+**Emissor:** SECRETARIAS REGIONAIS DOS ASSUNTOS PARLAMENTARES E EUROPEUS E DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
+
+**Publicação:** JORAM, I série, n.º 36/2016, 2.º suplemento, de 2016-02-29
+
+**Sumário:** Autoriza a repartição dos encargos orçamentais previstos para o contrato de prestação de serviços de “Elaboração do Projeto de Execução da Via Rápida Câmara de Lobos/Estreito de Câmara de Lobos”.
+
+## Texto
+
+Portaria n.º 82/2016
+de 29 de fevereiro
+Dando cumprimento ao disposto no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, mantido em vigor pelo artigo 14.º, n.º 1, alínea f) do Decreto-Lei n.º 18/2008, de 29 de janeiro, manda o Governo Regional, através do Secretário Regional dos Assuntos Parlamentares e Europeus e do Secretário Regional das Finanças e da Administração Pública, o seguinte:
+1.º - Os encargos orçamentais previstos para o contrato de prestação de serviços de “Elaboração do Projeto de Execução da Via Rápida Câmara de Lobos/Estreito de Câmara de Lobos”, encontram-se escalonados na forma abaixo indicada:
+Ano económico de 2007 ......................€ 181.524,40 Ano económico de 2008 ......................€ 305.491,29 Ano económico de 2009 ......................€ 143.636,92 Ano económico de 2010 ......................€ 161.639,93 Ano económico de 2011 ........................€ 13.073,73 Ano económico de 2012 ..........................€ 7.307,84 Ano económico de 2016 ........................€ 15.839,09 Ano económico de 2017 ..........................€ 2.966,49
+2.º - A despesa relativa ao ano económico de 2016 tem cabimento na rubrica da Secretaria 43, Capítulo 50, Divisão 03, Subdivisão 01, Projeto 50322, Fontes de Financiamento 172 e 211, Código de Classificação Económica 02.02.14.S0.00, inscrita no Orçamento da RAM para 2016.
+3.º - Esta Portaria entra imediatamente em vigor.
+Assinada a 26 de fevereiro de 2016.
+O SECRETÁRIO REGIONAL DOS ASSUNTOS PARLAMENTA-
+RES E EUROPEUS, Mário Sérgio Quaresma Gonçalves Marques
+
+O SECRETÁRIO REGIONAL DAS FINANÇAS E DA ADMINIS-
+TRAÇÃO PÚBLICA, Rui Manuel Teixeira Gonçalves
