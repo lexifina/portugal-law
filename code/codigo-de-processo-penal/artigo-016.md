@@ -10,7 +10,7 @@ a) Previstos no capítulo II do título V do livro II do Código Penal; ou
 
 b) Cuja pena máxima, abstractamente aplicável, seja igual ou inferior a cinco anos de prisão.
 
-c) Que devam ser julgados em processo sumário.
+c) (Revogado.)
 
 3 - Compete ainda ao tribunal singular julgar os processos por crimes previstos no artigo 14.º, n.º 2, alínea b), mesmo em caso de concurso de infracções, quando o Ministério Público, na acusação, ou, em requerimento, quando seja superveniente o conhecimento do concurso, entender que não deve ser aplicada, em concreto, pena de prisão superior a cinco anos.
 

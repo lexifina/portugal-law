@@ -24,6 +24,6 @@ c) Até ao limite de 20 dias após a detenção, sempre que o arguido tiver requ
 
 8 - Os exames, relatórios periciais e documentos que se destinem a instruir processo sumário revestem, para as entidades a quem são requisitados, carácter urgente, devendo o Ministério Público ou juiz requisitá-las ou insistir pelo seu envio, consoante os casos, com essa menção.
 
-9 - Em caso de crime punível com pena de prisão cujo limite máximo não seja superior a 5 anos, ou em caso de concurso de infrações cujo limite máximo não seja superior a 5 anos de prisão, toda a prova deve ser produzida no prazo máximo de 60 dias a contar da data da detenção, podendo, excecionalmente, por razões devidamente fundamentadas, designadamente por falta de algum exame ou relatório pericial, ser produzida no prazo máximo de 90 dias a contar da data da detenção.
+9 - (Revogado.)
 
-10 - Em caso de crime punível com pena de prisão cujo limite máximo seja superior a 5 anos, ou em caso de concurso de infrações cujo limite máximo seja superior a 5 anos de prisão, os prazos a que alude o número anterior elevam-se para 90 e 120 dias, respetivamente.
+10 - (Revogado.)

@@ -2,7 +2,7 @@
 
 ### (Tramitação)
 
-1 - O Ministério Público pode substituir a apresentação da acusação pela leitura do auto de notícia da autoridade que tiver procedido à detenção, exceto em caso de crime punível com pena de prisão cujo limite máximo seja superior a 5 anos, ou em caso de concurso de infrações cujo limite máximo seja superior a 5 anos de prisão, situação em que deverá apresentar acusação.
+1 - O Ministério Público pode substituir a apresentação da acusação pela leitura do auto de notícia da autoridade que tiver procedido à detenção.
 
 2 - Caso seja insuficiente, a factualidade constante do auto de notícia pode ser completada por despacho do Ministério Público proferido antes da apresentação a julgamento, sendo tal despacho igualmente lido em audiência.
 

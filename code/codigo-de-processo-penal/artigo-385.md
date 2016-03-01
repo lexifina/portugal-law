@@ -2,7 +2,7 @@
 
 ### Libertação do arguido
 
-1 - Se a apresentação ao juiz não tiver lugar em ato seguido à detenção em flagrante delito, em caso de crime punível com pena de prisão cujo limite máximo não seja superior a 5 anos, ou em caso de concurso de infrações cujo limite máximo não seja superior a 5 anos de prisão, o arguido só continua detido se houver razões para crer que:
+1 - Se a apresentação ao juiz não tiver lugar em ato seguido à detenção em flagrante delito, o arguido só continua detido se houver razões para crer que:
 
 a) Não se apresentará voluntariamente perante a autoridade judiciária na data e hora que lhe forem fixadas;
 
