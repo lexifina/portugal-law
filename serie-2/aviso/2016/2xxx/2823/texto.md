@@ -1,0 +1,8 @@
+Aviso n.º 2823/2016
+Abertura do período de discussão pública da alteração ao regulamento do Plano Diretor Municipal de Vila Verde
+Torna-se público, nos termos do artigo 89.º, n.º 1 e n.º 2, do Decreto-Lei n.º 80/2015, de 14 de maio e nos termos do artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Lei da Autarquias Locais) que a Câmara Municipal de Vila Verde, em reunião de 22 de fevereiro de 2016, deliberou proceder à abertura de um período de discussão pública da proposta de alteração ao regulamento do Plano Diretor Municipal de Vila Verde.
+Mais se informa que, nos termos do disposto no n.º 2 do artigo 89.º do já citado decreto-lei, o período de discussão pública terá início 5 dias após a publicação do presente aviso na 2.ª série do Diário da República e terá a duração de 30 dias úteis.
+Os interessados poderão consultar a proposta de alteração ao regulamento do PDM, o parecer da comissão de Comissão de Coordenação e Desenvolvimento Regional do Norte, e outra documentação na página da internet (http://www.cm-vilaverde.pt) ou na Unidade de Ordenamento do Território da Câmara Municipal de Vila Verde, sita na Praça do Município, Vila Verde.
+Os interessados podem formular, por escrito, reclamações, observações ou sugestões sobre a alteração ao regulamento do PDM até ao termo do referido período, dirigidas ao Presidente da Câmara Municipal de Vila Verde, utilizando para o efeito o impresso próprio que pode ser obtido na Câmara Municipal ou na página da internet (http://www.cm-vilaverde.pt).
+22 de fevereiro de 2016. - O Vereador da Qualidade, Ordenamento e Gestão do Território, Dr. Manuel de Oliveira Lopes.
+609381042
