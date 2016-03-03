@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 2874/2016
+António Vassalo Abreu, Presidente da Câmara Municipal de Ponte da Barca, torna público, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo e no seguimento da deliberação tomada pelo Executivo, em sua reunião de 14/12/2015, que, durante o período de trinta dias úteis, a contar da data da publicação do presente aviso (extrato) no Diário da República, é submetido a apreciação pública, para recolha de sugestões, o Projeto de Regulamento Municipal dos Horários de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços no Município de Ponte da Barca.
+Durante aquele período, os interessados poderão consultar o projeto de regulamento atrás mencionado, que se encontra disponível na Divisão de Administração Geral e Finanças - Serviço de Atendimento ao Munícipe, deste Município, e sobre ele formularem, por escrito, as sugestões ou observações tidas por convenientes, encontrando-se publicado, na íntegra, na página da Internet desta Câmara Municipal em www.cmpb.pt
+24/02/2016. - O Presidente da Câmara, António Vassalo Abreu.
+309382388
