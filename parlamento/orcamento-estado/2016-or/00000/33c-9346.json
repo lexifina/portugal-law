@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BFR%2bLSfMCcbdXBJRhjsO6ymq0sIm3XLdJlLcmKhiB1UdZdLVfResZyDJS2H5U2Mv1xlhklVOb2EDfnx0W21oVs4K3qiLNqzfXw39OZRhapDnkBO9%2fjG30JhF63JMuihzvGF451PUJ5puGPhVBosoUtHaMRgSwO561fXPRnRhEXJDASMUukSk%2fK9vUkovuLJqokwLs02g7QvIhQQjjTEjBpz4bqZ4qVld8l1xovvHMUp7%2fTI6XPUfx5IuThaOi2uUDXPNnp38W6G0bW95hjU9l4sFKuWlcNLTLzvQX6gXwVp%2fw5qzEqqypkKotxu%2fc0jOsKkl0WRiMH1ZMowIUSYeyBqShW3rpZQJmBYsby94AKzRZeMnUTajzewO05B%2bMuIt1wO155DcVTErdTe%2bQIYHHbxBk61guwZuz3%2fK1JV0Aro%3d&fich=OEPropostasAlteracao2016Or_json.txt&Inline=true",
+  "ficheiro_sha256": "865830f7792ceb5a8b43e97e958e0622e199c2cbedcd7c6699a46a31605e14b6",
+  "legislatura": "XIII",
+  "id": "9346",
+  "numero": "33C",
+  "orcamento": "2016",
+  "versao": "Or",
+  "data_registo": "2016-03-03",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9346",
+    "Numero": "33C",
+    "Data": "03/03/2016 18:22:00",
+    "Titulo": "Novo Artigo 22.º-A (Redução das contribuições dos beneficiários titulares para a ADSE)",
+    "Tema": "Orçamento, Finanças e Modernização Administrativa; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 22.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e6a49774d5459774d6a41314c3142424c7a6c6b59574931595449794c544e68596d4d744e444977597931694e4745794c5746694e54686d59545130596d4a6b5a4335775a47593d&Fich=9dab5a22-3abc-420c-b4a2-ab58fa44bbdd.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DIANA FERREIRA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "RITA RATO"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 22.º-A",
+        "Titulo": "Redução das contribuições dos beneficiários titulares para a ADSE",
+        "Texto": "1 – São alterados os artigos 46.º e 47.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, com as alterações introduzidas pelos Decretos-Lei n.º 90/98, de 14 de abril, n.º 279/99, de 26 de julho, n.º 234/2005, de 30 de dezembro e n.º 161/2013, de 22 de novembro e pelas Leis n.º 53-D/2006, de 29 de dezembro, n.º ",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 22.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Redução das contribuições dos beneficiários titulares para a ADSE",
+        "Data": "10/03/2016 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
