@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BFR%2bLSfMCcbdXBJRhjsO6ymq0sIm3XLdJlLcmKhiB1UdZdLVfResZyDJS2H5U2Mv1xlhklVOb2EDfnx0W21oVs4K3qiLNqzfXw39OZRhapDnkBO9%2fjG30JhF63JMuihzvGF451PUJ5puGPhVBosoUtHaMRgSwO561fXPRnRhEXJDASMUukSk%2fK9vUkovuLJqokwLs02g7QvIhQQjjTEjBpz4bqZ4qVld8l1xovvHMUp7%2fTI6XPUfx5IuThaOi2uUDXPNnp38W6G0bW95hjU9l4sFKuWlcNLTLzvQX6gXwVp%2fw5qzEqqypkKotxu%2fc0jOsKkl0WRiMH1ZMowIUSYeyBqShW3rpZQJmBYsby94AKzRZeMnUTajzewO05B%2bMuIt1wO155DcVTErdTe%2bQIYHHbxBk61guwZuz3%2fK1JV0Aro%3d&fich=OEPropostasAlteracao2016Or_json.txt&Inline=true",
+  "ficheiro_sha256": "865830f7792ceb5a8b43e97e958e0622e199c2cbedcd7c6699a46a31605e14b6",
+  "legislatura": "XIII",
+  "id": "9436",
+  "numero": "119C",
+  "orcamento": "2016",
+  "versao": "Or",
+  "data_registo": "2016-03-04",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9436",
+    "Numero": "119C",
+    "Data": "04/03/2016 20:00:00",
+    "Titulo": "Novo Artigo 187.º-A (Combate ao desperdício alimentar)",
+    "Tema": "Agricultura e Mar; Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação; Economia, Inovação e Obras Públicas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 187.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e6a49774d5459774d6a41314c3142424c7a41325a6d55324d474e694c545a6b4e546b744e445a69596931694f544d314c54457759546b784f5468684d6a6b315a5335775a47593d&Fich=06fe60cb-6d59-46bb-b935-10a9198a295e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 187.º-A",
+        "Titulo": "Combate ao desperdício alimentar",
+        "Texto": "1 – No ano de 2016, de acordo com a Resolução da Assembleia da República n.º 65/2015, de 17 de junho, é elaborada uma Estratégia Nacional de combate ao desperdício alimentar.\r\n2 – No âmbito desta Estratégia Nacional será definido um quadro plurianual de ações a desenvolver pelo Estado em coordenação com as au",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 187.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Combate ao desperdício alimentar",
+        "Data": "15/03/2016 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
