@@ -14,7 +14,7 @@ b) A participação referida no número anterior tenha sido detida, de modo inin
 
 c) O sujeito passivo não seja abrangido pelo regime da transparência fiscal previsto no artigo 6.º;
 
-d) A entidade que distribui os lucros ou reservas esteja sujeita e não isenta de IRC, do imposto referido no artigo 7.º, de um imposto referido no artigo 2.º da Diretiva n.º 2011/96/UE, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC e a taxa legal aplicável à entidade não seja inferior a 60 % da taxa do IRC prevista no n.º 1 do artigo 87.º;
+d) A entidade que distribui os lucros ou reservas esteja sujeita e não isenta de IRC, do imposto referido no artigo 7.º, de um imposto referido no artigo 2.º da Diretiva n.º 2011/96/UE</`�, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC e a taxa legal aplicável à entidade não seja inferior a 60 % da taxa do IRC prevista no n.º 1 do artigo 87.º;
 
 e) A entidade que distribui os lucros ou reservas não tenha residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
@@ -49,3 +49,7 @@ b) Não obstante o disposto no n.º 2, sejam distribuídos por entidades não su
 11 - (Revogado.)
 
 12 - (Revogado.)
+
+13 - O disposto no n.º 1 não é aplicável aos lucros e reservas distribuídos quando exista uma construção ou série de construções que, tendo sido realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal que fruste o objeto e finalidade de eliminar a dupla tributação sobre tais rendimentos, não seja considerada genuína, tendo em conta todos os factos e circunstâncias relevantes.
+
+14 - Para efeitos do número anterior, considera-se que uma construção ou série de construções não é genuína na medida em que não seja realizada por razões económicas válidas e não reflita substância económica.
