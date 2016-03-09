@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12755",
+  "numero": "76",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-03-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-10-19",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "150/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-11-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-10-12",
+        "DataArquivo": "2016-12-07",
+        "DataBaixaComissao": "2016-03-16",
+        "DataEnvioPAR": "2016-12-07",
+        "DataReaberta": "2016-10-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-10-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a574a6d596a686a4e3259744d475a694f53303059546b334c546b324f5449745a6d55795a6d52694f4749304d4455784c6e426b5a673d3d&fich=ebfb8c7f-0fb9-4a97-9692-fe2fdb8b4051.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e7a426b5a546333596d4d744e7a6379596930304e6d4e6a4c546c6d596a51745957526a4d6a526c4f5442684e6a49344c6c424552673d3d&fich=70de77bc-772b-46cc-9fb4-adc24e90a628.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-12-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a6d4e6a4e7a6b354d6a45745a6a63304d5330304f544d7a4c57466c4d3249745a6a5178597a51775a5759354f5749304c6e426b5a673d3d&fich=fcc79921-f741-4933-ae3b-f41c40ef99b4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-11-02",
+            "gp": "PSD",
+            "id": "5491",
+            "motivoCessacao": null,
+            "nome": "Susana Lamas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-03-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4e6a41775a6a49325a5330784e7a56684c54526b4d4449744f4449775979316c4e44566b5a4463774e6a5268595451756347526d&fich=d600f26e-175a-4d02-820c-e45dd7064aa4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12755",
+    "PetAssunto": "Solicita a alteração do n.º 1 do artigo 44.º do Decreto-Lei 187/2007, de 10 de maio (Valores mínimos de pensão de invalidez relativa e de pensão de velhice)",
+    "PetDataEntrada": "2016-03-09",
+    "PeticoesAssociadas": [
+      "12816",
+      "12844"
+    ],
+    "PetId": "12755",
+    "PetLeg": "XIII",
+    "PetNr": "76",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "As Petições n.º 135/XIII/1ª e n.º 163/XIII/1ª encontram-se apensas a esta Petição",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
