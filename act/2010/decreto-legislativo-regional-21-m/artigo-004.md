@@ -1,5 +1,5 @@
 # Artigo 4.º
 
-### Faltas para o exercício de actividade operacional
+### Regulamentação
 
-Para além das faltas previstas no n.º 4 do artigo 26.º do Decreto-Lei n.º 241/2007, de 21 de Junho, alterado pela Lei n.º 48/2009, de 4 de Agosto, consideram-se também justificadas as faltas dadas pelos bombeiros voluntários pertencentes a corpos de bombeiros da Região para efeitos da frequência de cursos de formação promovidos pelo Serviço Regional de Protecção Civil, IP-RAM.
+A Regulamentação do Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, e pelo Decreto-Lei n.º 249/2012, de 21 de novembro, é aplicável à Região Autónoma da Madeira, em tudo o que não contrarie o disposto no presente diploma, e sem prejuízo da Região Autónoma da Madeira proceder à respetiva adaptação ou aprovação de regulamentação própria.
