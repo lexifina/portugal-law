@@ -1,29 +1,43 @@
 # Artigo 16.º
 
-### Quadro de honra
+### Quadro de honra nos corpos de bombeiros voluntários ou mistos
 
-1 - Podem ingressar no quadro de honra os elementos que:
+1 - Podem ingressar no quadro de honra, no cargo que detinham, os elementos do quadro de comando que:
 
-a) Tenham prestado serviço efectivo durante mais de 15 anos no quadro de comando;
+a) Tenham 40 ou mais anos de idade e exercido funções de comando durante mais de 15 anos;
 
-b) Tenham prestado, com zelo, dedicação, disponibilidade e abnegação, durante mais de 15 anos, sem qualquer punição disciplinar, funções no quadro activo;
+b) Tenham 40 ou mais anos de idade e prestado serviço efetivo, no corpo de bombeiros, com zelo, dedicação, disponibilidade e abnegação, durante mais de 20 anos, com pelo menos 10 anos de funções no quadro de comando;
 
-c) Tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos em serviço;
+c) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos no exercício das funções de comando;
 
-d) Tenham prestado serviços à causa dos bombeiros, classificados, justificadamente, como de carácter excepcional.
+d) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros nas funções de comando, classificados, justificadamente, como de caráter excecional.
 
-2 - No caso previsto na alínea a) do número anterior, o ingresso no quadro de honra é feito por comunicação da direcção da associação humanitária ao SRPC, IP-RAM.
+2 - Podem ingressar no quadro de honra os elementos do quadro ativo que:
 
-3 - Nos casos previstos nas alíneas b), c) e d) do número anterior, o ingresso no quadro de honra é feito mediante comunicação do comandante da corporação à direcção da respectiva associação humanitária de bombeiros, que fará a sua comunicação final ao SRPC, IP-RAM.
+a) Tenham 40 ou mais anos de idade e prestado serviço efetivo, com zelo, dedicação, disponibilidade e abnegação, durante mais de 15 anos;
 
-4 - O ingresso no quadro de honra permite a promoção, a título honorífico, à categoria seguinte da que era exercida no respectivo quadro activo.
+b) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos em serviço;
 
-5 - Aos elementos do quadro de honra podem ser atribuídas, pelo comandante, as seguintes funções:
+c) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros, classificados, justificadamente, como de caráter excecional.
 
-a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros actos similares;
+3 - Podem ingressar no quadro de honra os elementos do quadro de reserva que venham a reunir os requisitos previstos no número anterior.
 
-b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em acções de formação, no seio do corpo de bombeiros;
+4 - Para efeitos do disposto na alínea d) do n.º 1 e da alínea c) do n.º 2, o elemento deverá ser titular de medalha de mérito de proteção e socorro ou distinção honorífica atribuída pela Liga dos Bombeiros Portugueses, designadamente, a fénix de honra, o crachá de ouro ou a medalha de coragem e abnegação.
 
-c) Colaborar nas diversas actividades de natureza não operacional, desenvolvidas pelo corpo de bombeiros, compatíveis com as respectivas capacidades físicas e intelectuais.
+5 - O ingresso no quadro de honra é feito a requerimento do interessado, dirigido ao SRPC, IP-RAM, e depende de parecer favorável da entidade detentora do corpo de bombeiros, caso se trate do comandante, ou do comandante e da entidade detentora do corpo de bombeiros, tratando-se dos restantes elementos.
 
-6 - Para os fins do número anterior, os elementos do quadro de honra devem ser dotados de fardamento adequado e, bem assim, incluídos em apólice especial de seguros de acidentes pessoais.
+6 - O ingresso no quadro de honra de elementos do quadro ativo permite a promoção, a título honorífico, à categoria seguinte da que era exercida na respetiva carreira do quadro ativo, desde que requerida pelo interessado, obtido o parecer favorável das entidades referidas no número anterior.
+
+7 - O comandante do corpo de bombeiros pode acordar com os elementos que integram o quadro de honra a execução das seguintes funções ou missões:
+
+a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros atos similares;
+
+b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em ações de formação, no seio do corpo de bombeiros;
+
+c) Colaborar nas diversas atividades de natureza não operacional, desenvolvidas pelo corpo de bombeiros, compatíveis com as respetivas capacidades físicas e intelectuais.
+
+8 - Para os fins do número anterior, os elementos do quadro de honra devem ser dotados de fardamento adequado e, bem assim, incluídos em apólice especial de seguros de acidentes pessoais.
+
+9 - Aos elementos que integram o quadro de honra está vedado o exercício de qualquer atividade operacional.
+
+10 - Os elementos do quadro de honra, oriundos do quadro ativo, não podem solicitar o seu regresso a este quadro, podendo, no entanto, ser nomeados para a estrutura de comando.

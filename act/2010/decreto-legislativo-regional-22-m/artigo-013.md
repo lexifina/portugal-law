@@ -1,15 +1,19 @@
 # Artigo 13.º
 
-### Quadro activo
+### Quadro ativo nos corpos de bombeiros voluntários ou mistos
 
-1 - O quadro activo compreende as seguintes carreiras verticais:
+1 - O quadro ativo compreende as seguintes carreiras:
 
 a) Carreira de oficial bombeiro;
 
-b) Carreira de bombeiro.
+b) Carreira de bombeiro;
 
-2 - Aplica-se o disposto no Decreto-Lei n.º 241/2007, de 21 de Junho, alterado pela Lei n.º 48/2009, de 4 de Agosto, e demais legislação vigente quanto às carreiras de oficial de bombeiro e de bombeiro, sem prejuízo do disposto nos números seguintes.
+c) Carreira de bombeiro especialista.
 
-3 - Para o ingresso no quadro activo, quer na carreira de oficial de bombeiro quer na carreira de bombeiro, os elementos não podem revelar qualquer incapacidade física ou psíquica para o exercício das suas funções.
+2 - À carreira de oficial bombeiro deverão corresponder, preferencialmente, funções técnicas de execução e chefia intermédia ou superior.
 
-4 - A idade dos elementos a ingressar na carreira de oficial de bombeiro é a compreendida entre os 20 e os 45 anos.
+3 - À carreira de bombeiro deverão corresponder, preferencialmente, funções de execução e chefia intermédia.
+
+4 - À carreira de bombeiro especialista correspondem funções especializadas de apoio e socorro.
+
+5 - O desempenho da atividade de bombeiro nas diferentes carreiras do quadro ativo, quer em fase de admissão quer no decurso das várias fases de progressão, depende da avaliação física e psíquica.

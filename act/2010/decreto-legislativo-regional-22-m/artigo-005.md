@@ -20,7 +20,11 @@ d) Corpos privativos de bombeiros.
 
 a) São criados, detidos e mantidos na dependência directa de uma câmara municipal;
 
-b) São exclusivamente integrados por elementos profissionais.
+b) São exclusivamente integrados por elementos profissionais.;
+
+c) Poderão deter uma estrutura que compreenda a existência de companhias e secções, ou pelo menos uma destas unidades estruturais;
+
+d) Por opção dos municípios a que pertencem e verificado o cumprimento dos requisitos legais aplicáveis, poderão ser designados bombeiros sapadores.
 
 3 - Os corpos de bombeiros mistos têm as seguintes características:
 
@@ -40,7 +44,7 @@ c) Podem dispor de uma unidade profissional mínima a definir por regulamento do
 
 d) Estão organizados de acordo com o modelo próprio, definido pela respectiva associação humanitária de bombeiros, nos termos de regulamento aprovado pelo SRPC, IP-RAM.
 
-5 - Os corpos de bombeiros profissionais, mistos e voluntários integram o Sistema Regional de Protecção Civil, através das entidades que os detêm e mantêm, filiadas na Federação dos Bombeiros da Região Autónoma da Madeira.
+5 - Os corpos de bombeiros profissionais, mistos e voluntários, integram o dispositivo de resposta operacional do Sistema Regional de Proteção Civil e, através das entidades que os detêm e mantêm, estão filiados na Federação dos Bombeiros da Região Autónoma da Madeira.
 
 6 - Os corpos privativos de bombeiros têm as características seguintes:
 

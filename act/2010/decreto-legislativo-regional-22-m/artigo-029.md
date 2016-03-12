@@ -10,12 +10,12 @@
 
 2 - As escolas de infantes e cadetes destinam-se à formação no âmbito do voluntariado e da protecção e socorro.
 
-3 - O universo de recrutamento das escolas de infantes é feito de entre indivíduos com idades entre os 9 e os 16 anos.
+3 - O universo de recrutamento das escolas de infantes é feito de entre indivíduos com idades entre os 6 e os 13 anos.
 
-4 - O universo de recrutamento das escolas de cadetes é feito de entre indivíduos com idades entre os 16 e os 18 anos.
+4 - O universo de recrutamento das escolas de cadetes é feito de entre indivíduos com idades entre os 14 e os 16 anos.
 
-5 - A matéria objecto da formação a que se refere o n.º 2 do presente artigo articula-se com a área de formação cívica ministrada no ensino básico.
+5 - A matéria objeto da formação a que se refere o n.º 2 do presente artigo articula-se com a área de formação cívica ministrada no ensino básico, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas da proteção civil e da educação.
 
 6 - É vedado aos infantes e cadetes o exercício de actividade operacional.
 
-7 - Os infantes e cadetes integram a apólice de seguros do quadro auxiliar do respectivo corpo de bombeiros.
+7 - Os infantes e cadetes integram a apólice de seguros do quadro de reserva do respetivo corpo de bombeiros.
