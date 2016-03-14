@@ -1,0 +1,5 @@
+Aviso n.º 5/2016
+Por ordem superior se torna público que, em 19 de novembro de 2014 e em 19 de fevereiro de 2016, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério dos Negócios Estrangeiros e dos Senegaleses no Exterior, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República do Senegal para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa, a 13 de junho de 2014.
+A República Portuguesa é Parte nesta Convenção, a qual foi aprovada pela Resolução da Assembleia da República n.º 92/2014, em 3 de outubro, ratificada pelo Decreto do Presidente da República n.º 102/2014, de 12 de novembro, e publicada no Diário da República, 1.ª série, n.º 219, de 12 de novembro de 2014.
+Nos termos do artigo 31.º da Convenção, esta entrará em vigor em 20 de março de 2016.
+Direção-Geral de Política Externa, 29 de fevereiro de 2016. - O Diretor-Geral, Francisco António Duarte Lopes.
