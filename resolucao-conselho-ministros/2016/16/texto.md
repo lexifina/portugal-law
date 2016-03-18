@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 16/2016
+A Resolução do Conselho de Ministros n.º 55/2013, de 21 de agosto, autorizou, no âmbito do projeto para alienação pelo Estado Português de 12 aeronaves F-16 à República da Roménia, a realização da despesa destinada a suportar os encargos decorrentes do contrato a celebrar, até ao montante de (euro) 108 200 000,00 ao qual, quando aplicável, acresce o IVA à taxa legal em vigor, repartido pelos anos económicos de 2013 a 2017.
+A referida Resolução delegou no Ministro da Defesa Nacional, com faculdade de subdelegação, a competência para a prática de todos os atos relacionados com o referido contrato.
+Sendo a delegação de poderes um ato praticado intuitu personae e tendo havido alteração dos titulares dos órgãos delegante e delegado, operou-se a sua extinção por caducidade, de acordo com o disposto na alínea b) do artigo 50.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Deste modo, sendo necessário continuar a assegurar a prática dos diferentes atos necessários à concretização do projeto para alienação pelo Estado Português de 12 aeronaves F-16 à República da Roménia, urge proceder a uma nova delegação de poderes no Ministro da Defesa Nacional, com faculdade de subdelegação.
+Assim:
+Nos termos dos artigos 44.º, 46.º, 47.º e 164.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito do projeto para alienação pelo Estado Português de 12 aeronaves F-16 à República da Roménia, autorizados pela Resolução do Conselho de Ministros n.º 55/2013, de 21 de agosto.
+2 - Ratificar todos os atos entretanto praticados ao abrigo da Resolução do Conselho de Ministros n.º 55/2013, de 21 de agosto.
+3 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
+Presidência do Conselho de Ministros, 3 de março de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
