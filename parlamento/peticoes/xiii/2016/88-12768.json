@@ -1,0 +1,358 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12768",
+  "numero": "88",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-03-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-06-09",
+            "entidades": null,
+            "id": "102273",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-09 com Peticionário, Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-06-20",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "274/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-30",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "275/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-17",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "276/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-25",
+            "entidades": [
+              "Federação Portuguesa de Professores"
+            ],
+            "nrOficio": "277/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-27",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "278/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-20",
+            "entidades": [
+              "SPLIU - Sindicato Nacional dos Professores Licenciados pelos Politécnicos e Universidades"
+            ],
+            "nrOficio": "279/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-31",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "280/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-06-08",
+            "entidades": [
+              "Universidade do Algarve"
+            ],
+            "nrOficio": "281/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": "2016-05-13",
+            "entidades": [
+              "Ordem dos Engenheiros Técnicos"
+            ],
+            "nrOficio": "282/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR"
+            ],
+            "nrOficio": "273/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-05-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "272/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-07-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-04-19",
+        "DataArquivo": "2016-07-14",
+        "DataBaixaComissao": "2016-04-07",
+        "DataEnvioPAR": "2016-07-13",
+        "DataReaberta": "2016-04-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-04-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49324e6a6c6b59544d794c54526d5a6a51744e444130597930345a6a4e6a4c574d774d6a6332595449314f5455344e6935775a47593d&fich=2669da32-4ff4-404c-8f3c-c0276a259586.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325578595459794e6a45304c5441334f444d744e4459314d4331694d4759344c5464684d54426c4e7a4932595442694f4335775a47593d&fich=e1a62614-0783-4650-b0f8-7a10e726a0b8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a68695a5749784f544e6b4c574d774d7a41744e4464695a4331694d7a56684c5749354d6a4a6c5a6d4e6a5a6d55794e6935775a47593d&fich=8beb193d-c030-47bd-b35a-b922efccfe26.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466c4f475534596a55314c5745314d574d744e4749355a5330344e3246684c54526c59325669596a4a6d4d7a55344d7935775a47593d&fich=1e8e8b55-a51c-4b9e-87aa-4ecebb2f3583.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6d59574d32596d55334c544934595751744e474e6c4d4330344d6a4d324c57466b596d45784d4463785a6d5a6a5a5335775a47593d&fich=9fac6be7-28ad-4ce0-8236-adba1071ffce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566a597a45354d6d566a4c574a68595455744e4467334e6931684e5755324c545931596a49334d445a6d4e444d354d7935775a47593d&fich=ecc192ec-baa5-4876-a5e6-65b2706f4393.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a46694d6d49794d6a63324c5463774e5441744e474a694d7930355a4442684c574e6d4e5756694e444e684d4449315a4335775a47593d&fich=1b2b2276-7050-4bb3-9d0a-cf5eb43a025d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324930597a4d7a4d4449344c5446694d5451744e446b355a6930344f446b774c546b785a446c6d4e4459784f54646d4e5335775a47593d&fich=b4c33028-1b14-499f-8890-91d9f46197f5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426b4e4451304f574d774c54426a4d6a6b744e444d33596930354e4749304c54646c4d6d526a4f44526d4d7a6c6c4e4335775a47593d&fich=0d4449c0-0c29-437b-94b4-7e2dc84f39e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a52684e7a6777596a526a4c574d7a596d49744e475977597930355a574d354c5445305a444e6c5a57466a4f57517a4d4335775a47593d&fich=4a780b4c-c3bb-4f0c-9ec9-14d3eeac9d30.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e684e7a6b334f4445334c574d7a4f4759744e474a694d7931694e4745324c546c6b5a4464684d4745324e5452684f4335775a47593d&fich=ca797817-c38f-4bb3-b4a6-9dd7a0a654a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3252694f545a6c4f4751784c57517a5a474d744e446b354e4330344e5467774c544178595755344d6a4d345a6d55355a6935775a47593d&fich=db96e8d1-d3dc-4994-8580-01ae8238fe9f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325178597a513359574d344c54646b4f4455744e47526b4d4330344e57497a4c57526b4e574a6a4e6a4a6d4d6a4d775a4335775a47593d&fich=d1c47ac8-7d85-4dd0-85b3-dd5bc62f230d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-05-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251354e7a633059574a6a4c5755794e5463744e44517a597931684d6a6b784c5463304d6a67344d546b774f5455304e4335775a47593d&fich=d9774abc-e257-443c-a291-742881909544.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d794f544e694e6d56694c5449794d7a59744e4455334d5331694e546b304c5459775a4755325a54466a5a6a59354f5335775a47593d&fich=3293b6eb-2236-4571-b594-60de6e1cf699.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249355a444a6a4e5451304c5449784e6a55744e4759774d7930354d5459774c546c6d5a44677a4d6d45335a6a4132596935775a47593d&fich=b9d2c544-2165-4f03-9160-9fd832a7f06b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e684f5441774d6d55304c54417a597a51744e44426a4d4331684d6d59794c5455324d4445324e4449324d54566c5a5335775a47593d&fich=ca9002e4-03c4-40c0-a2f2-5601642615ee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a637a4d6a6b795a4455354c544d7a4e474d744e44426a5a4331694e4755334c5451304d324e6a596d4a6d5a6d5933595335775a47593d&fich=73292d59-334c-40cd-b4e7-443ccbbfff7a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6a4d444a6d4e546b794c546b314d7a59744e474a684e4330354d32566b4c5746694e54526a4e5464684d7a41784e7935775a47593d&fich=2c02f592-9536-4ba4-93ed-ab54c57a3017.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32597a4e7a63354d475a694c5445315a446b744e4441784d6931695a4745334c574a6b4e6d45324f5452695a6a59774e5335775a47593d&fich=f37790fb-15d9-4012-bda7-bd6a694bf605.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304e54517a595749784c5459325a6d51744e444e6a595330354d5467344c5467335a6a4d785a57466d596d56684f5335775a47593d&fich=74543ab1-66fd-43ca-9188-87f31eafbea9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51354d6a63355a6a68694c545a69597a67744e4749314d7930354d546b344c546c6a596d466d4d446b794d7a67784d7935775a47593d&fich=49279f8b-6bc8-4b53-9198-9cbaf0923813.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6b4e6d51334d444e6a4c575531595449744e474d784e433035593249354c574e694e7a4e6a4d4467344e444e6b595335775a47593d&fich=bd6d703c-e5a2-4c14-9cb9-cb73c08843da.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-04-19",
+            "gp": "PS",
+            "id": "5530",
+            "motivoCessacao": null,
+            "nome": "Maria Augusta Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-04-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4e6a59354e7a4934597930324f5455324c54526c4d6a49744f475a6b5a433033596d59774f4751795a5745315a6a41756347526d&fich=3669728c-6956-4e22-8fdd-7bf08d2ea5f0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12768",
+    "PetAssunto": "Pretende que o Decreto-Lei n.º 22/2014, de 11 de fevereiro seja alterado, de modo a prever a atribuição de certificação a ações de formação de curta duração.",
+    "PetDataEntrada": "2016-03-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12768",
+    "PetLeg": "XIII",
+    "PetNr": "88",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
