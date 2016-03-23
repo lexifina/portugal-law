@@ -1,0 +1,9 @@
+Aviso n.º 4022/2016
+Alteração ao Plano de Pormenor da Zona de Expansão Sul-Nascente da Cidade de Sines
+Filipa Faria, Vereadora com competências delegadas da Câmara Municipal de Sines, nos termos Decreto-Lei n.º 80/2015, de 14 de maio, torna público que a Câmara Municipal de Sines, em Reunião de Câmara Pública de 3 de março de 2016, deliberou iniciar o processo de elaboração e o período de audiência prévia das alterações ao Plano de Pormenor da Zona de Expansão Sul-Nascente da Cidade de Sines, deliberando igualmente pela dispensa de avaliação ambiental estratégica.
+O Plano de Pormenor da Zona de Expansão Sul-Nascente da Cidade de Sines abrange uma área de intervenção de aproximadamente 27,50 ha, delimitado a Sul-Poente, pela arriba e pela estrada marginal, a norte-nascente, pela estrada da ZIL 2, a nascente pelo terreno livre situado a nascente da Escola Secundária; a poente pelo Bairro da Quinta dos Passarinhos, pela Quinta do Meio, pela Urbanização de São Rafael II e pela Urbanização de Santa Catarina.
+O prazo estabelecido para a elaboração da alteração ao plano é de 12 meses.
+Os interessados poderão, no prazo máximo de 15 dias após a publicação no Diário da República, proceder junto da Câmara Municipal de Sines, à formulação de sugestões, bem como apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do plano.
+Os termos de referência e a justificação para a não sujeição do plano a avaliação ambiental estratégica, com a indicação da área de intervenção poderão ser consultados no Serviço Administrativo do Departamento de Gestão Territorial, da Câmara Municipal de Sines, todos os dias úteis, entre as 9 horas e as 15 horas e 30 minutos ou ainda em www.sines.pt.
+8 de março de 2016. - A Vereadora, com competências delegadas, Filipa Faria.
+609445495
