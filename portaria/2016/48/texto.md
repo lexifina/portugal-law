@@ -1,0 +1,77 @@
+Portaria n.º 48/2016
+de 22 de março
+O Despacho n.º 18419/2010, de 2 de dezembro, na sua atual redação, definiu as condições de dispensa e utilização de medicamentos a doentes com artrite reumatoide, espondilite anquilosante, artrite psoriática, artrite idiopática juvenil poliarticular e psoríase em placas.
+A permissão da prescrição em todas as consultas especializadas originou um total de mais de 300 centros registados no formulário eletrónico da Direção-Geral da Saúde (DGS), gerando grande dificuldade de verificação dos requisitos dos centros prescritores. Este efeito terá contribuído de forma decisiva para o acréscimo de prescrição destes medicamentos biológicos e, consequentemente, do encargo para o Serviço Nacional de Saúde (SNS).
+A sustentabilidade do SNS impõe a melhoria do acesso aos medicamentos e da dinâmica da prescrição, mas o elevado custo destes medicamentos, numa conjuntura de forte contenção orçamental, implica assegurar a redução do seu preço.
+Assim e ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
+Artigo 1.º
+Regime excecional de comparticipação
+Os medicamentos destinados ao tratamento de doentes com artrite reumatoide, espondilite anquilosante, artrite psoriática, artrite idiopática juvenil poliarticular e psoríase em placas beneficiam de um regime excecional de comparticipação, nos termos estabelecidos na presente Portaria.
+Artigo 2.º
+Medicamentos abrangidos
+Os medicamentos que beneficiam do regime excecional de comparticipação, previsto no artigo anterior, são os constantes do Anexo I à presente Portaria, que dela faz parte integrante, sem prejuízo do disposto nos artigos seguintes.
+Artigo 3.º
+Prescrição
+1 - Os medicamentos constantes do anexo à presente Portaria podem apenas ser prescritos em consultas especializadas no diagnóstico e tratamento da artrite reumatoide, espondilite anquilosante, artrite psoriática, artrite idiopática juvenil poliarticular e psoríase em placas, devendo o médico prescritor mencionar expressamente o regime excecional aqui previsto.
+2 - Entende-se por consulta especializada aquela que disponha dos meios técnicos e humanos adequados ao acompanhamento do doente desde o início do tratamento e, especialmente, em caso de reação adversa ao medicamento, devendo a mesma funcionar diariamente, de forma organizada, com horário definido, e dispor de uma equipa com, pelo menos, dois médicos, um dos quais coordena.
+3 - A prescrição dos medicamentos constantes do anexo à presente Portaria deve respeitar o resultado do processo de aquisição centralizada e previsto na legislação aplicável.
+Artigo 4.º
+Obrigatoriedade de registo
+Cada ato da prescrição de medicamentos destinados ao tratamento de doentes com artrite reumatoide, espondilite anquilosante, artrite psoriática, artrite idiopática juvenil poliarticular e psoríase em placas deve ser, especificamente, registado na ficha do doente, com indicação expressa da situação clínica.
+Artigo 5.º
+Dispensa dos medicamentos
+1 - A dispensa de medicamentos ao abrigo da presente Portaria é efetuada exclusivamente através dos serviços farmacêuticos dos hospitais do Serviço Nacional de Saúde (SNS).
+2 - Os medicamentos previstos no Anexo I só podem ser adquiridos pelos hospitais do SNS por preços unitários 7,5 % inferiores aos praticados na data da entrada em vigor da presente Portaria.
+3 - Os serviços farmacêuticos dos hospitais do SNS podem dispensar os medicamentos previstos nesta Portaria apenas quando se verifiquem, cumulativamente, os requisitos seguintes:
+a) O centro prescritor esteja registado no site da Direção-Geral da Saúde;
+b) A dispensa do medicamento esteja registada em base de dados específica para este efeito.
+4 - A Direção-Geral da Saúde deve criar as condições necessárias para o registo das dispensas de todos os medicamentos biológicos, para acompanhamento e monitorização do historial terapêutico do doente, por parte das farmácias hospitalares, nas bases de dados da Sociedade Portuguesa de Reumatologia e da Sociedade Portuguesa de Medicina Interna, com observância das regras estabelecidas pela Comissão Nacional de Proteção de Dados.
+Artigo 6.º
+Encargos
+A dispensa destes medicamentos ao abrigo da presente portaria não implica custos para o doente, sendo os respetivos encargos referentes à aquisição dos medicamentos da responsabilidade:
+a) Do hospital do SNS onde o mesmo é prescrito, salvo se a responsabilidade pelo encargo couber legal ou contratualmente a qualquer subsistema de saúde, empresa seguradora ou outra entidade pública ou privada;
+b) Da Administração Regional de Saúde (ARS) territorialmente competente, nos demais casos, salvo se a responsabilidade pelo encargo couber, legal ou contratualmente, a qualquer subsistema de saúde, empresa seguradora ou outra entidade pública ou privada.
+Artigo 7.º
+Extensão do regime
+1 - A inclusão de outros medicamentos no presente regime excecional de comparticipação depende de requerimento dos respetivos titulares de autorização de introdução no mercado, nos termos definidos no Decreto-Lei n.º 97/2015, de 1 de junho, devendo, em caso de deferimento, ser alterado o Anexo I à presente Portaria.
+2 - Compete à Direção-Geral da Saúde certificar o cumprimento dos requisitos constantes do n.º 2 do artigo 3.º, a requerimento das entidades interessadas, e divulgar, na sua página eletrónica, as consultas certificadas.
+3 - Compete, igualmente, à Direção-Geral da Saúde manter um registo nacional dos doentes abrangidos por este regime, com o objetivo de permitir o controlo da efetividade e o acompanhamento da adesão dos mesmos à terapêutica, bem como que este registo possa ser auditado pelas entidades competentes.
+4 - Transitoriamente, até à entrada em funcionamento do registo previsto no número anterior, a Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), assegurará um registo mínimo com o conteúdo e condições previstos no Anexo II à presente Portaria e que desta faz parte integrante.
+Artigo 8.º
+Norma revogatória
+É revogado o Despacho n.º 18419/2010, de 2 de dezembro, com as alterações introduzidas pelos Despachos n.os 1845/2011, publicado no Diário da República, 2.ª série, n.º 17, de 25 de janeiro, 17503-A/2011, publicado no Diário da República, 2.ª série, 2.º suplemento, de 29 de dezembro, 14242/2012, publicado no Diário da República, 2.ª série, n.º 202, de 2 de novembro, e 9082/2014, publicado no Diário da República, 2.ª série, n.º 134, de 15 de julho.
+Artigo 9.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado, em 7 de março de 2016.
+ANEXO I
+(a que se refere o artigo 2.º da presente portaria)
+São sujeitos ao regime excecional de comparticipação definido na presente portaria, os medicamentos destinados ao tratamento da artrite reumatoide, espondilite anquilosante, artrite psoriática, artrite idiopática juvenil poliarticular e psoríase em placas, contendo as seguintes substâncias ativas:
+a) Abatacept;
+b) Adalimumab;
+c) Anacinra;
+d) Certolizumab pegol;
+e) Etanercept;
+f) Golimumab;
+g) Infliximab;
+h) Tocilizumab;
+i) Ustecinumab.
+ANEXO II
+(a que se refere o n.º 4 do artigo 7.º da presente Portaria)
+Registo mínimo
+O registo mínimo é feito através dos Serviços Farmacêuticos dos Hospitais do Serviço Nacional de Saúde, devendo incluir os dados seguintes:
+a) Data de dispensa;
+b) Número de processo do utente;
+c) Iniciais relativas ao primeiro, segundo e último nome do doente;
+d) Género;
+e) Data de nascimento;
+f) Diagnóstico;
+g) Data de diagnóstico;
+h) Data de início de terapêutica atual;
+i) Terapêutica prescrita;
+j) Quantidade dispensada (número de unidades, dosagem/concentração, posologia);
+k) Local de prescrição (próprio hospital, outro local);
+l) Ocorrência de reações adversas notificável ao sistema nacional de farmacovigilância (relativa a este doente);
+m) Data de notificação;
+n) Data do fim da terapêutica.
+Estes elementos devem ser reportados mensalmente através do formulário acessível na página eletrónica do INFARMED, I. P., incluindo dados relativos a todos os doentes e ser enviado para o endereço de e-mail comparticipa.medicamentos@infarmed.pt.
