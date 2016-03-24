@@ -1,0 +1,7 @@
+Edital n.º 289/2016
+Regulamento de Alienação dos Fogos Propriedade do Município aos Seus Arrendatários e Alienação dos Fogos Devolutos
+Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem, Presidente da Câmara Municipal de Monforte, no uso das competências conferidas pelas alíneas b) e t), n.º 1 do artigo 35.º conjugado com o artigo 56.º do anexo I, ambos da Lei n.º 75/2013, de 12 de setembro, torna público que, decorrido o período de inquérito público, por proposta da Câmara Municipal tomada na reunião de 19 de fevereiro/2016, a Assembleia Municipal de Monforte, ao abrigo do previsto na alínea g), n.º 1, artigo 25.º do referido R.J.A.L, em sua sessão ordinária de 26 do corrente mês de fevereiro, aprovou, por unanimidade, sem qualquer alteração à versão inicial, o Regulamento de Alienação dos Fogos Propriedade do Município aos seus Arrendatários e Alienação dos Fogos Devolutos, que entrará em vigor no dia seguinte à sua publicação no Diário da República.
+Para constar e surtir os devidos efeitos publica-se o presente Edital e outros de igual teor que vão ser afixados nos lugares do costume, nas Juntas de Freguesia do Concelho e publicado no site do Município, www.cm-monforte.pt.
+E eu, António Joaquim Morais Medalhas, Técnico Superior do Serviço de Apoio aos Órgãos Autárquicos o subscrevi.
+29 de fevereiro de 2016. - O Presidente da Câmara, Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem.
+309398961
