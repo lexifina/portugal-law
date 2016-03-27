@@ -1,3 +1,5 @@
+## IV - Do exercício das actividades
+
 # Artigo 22.º
 
 ### Reclamações dos utentes

@@ -2,6 +2,8 @@
 
 ## Regulamento das Actividades Industriais, Comerciais e de Serviços Integradas no Âmbito Institucional da Zona Franca da Madeira.
 
+## I - Administração e concessão da Zona Franca da Madeira
+
 # Artigo 1.º
 
 ### Objecto

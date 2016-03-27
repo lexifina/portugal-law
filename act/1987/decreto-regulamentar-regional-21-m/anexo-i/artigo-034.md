@@ -1,3 +1,5 @@
+## VII - Disposições finais
+
 # Artigo 34.º
 
 ### Diferendos

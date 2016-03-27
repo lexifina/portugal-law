@@ -1,3 +1,5 @@
+## VI - Da fiscalização
+
 # Artigo 32.º
 
 ### Competência
