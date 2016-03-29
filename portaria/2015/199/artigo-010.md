@@ -8,6 +8,8 @@
 
 a) 80 % da despesa total elegível, no caso de beneficiários detentores de coberturas de riscos seguráveis pelos sistemas de gestão de risco em vigor no âmbito da atividade agrícola;
 
-b) 50 % da despesa total elegível, no caso de beneficiários não abrangidos pela alínea anterior.
+b) 80 % da despesa total elegível, no caso de organizações de agricultores responsáveis pela gestão de infraestruturas coletivas de apoio à atividade agrícola;
 
-3 - Do apoio a conceder são deduzidos os montantes das indemnizações de seguros ou outros mecanismos de gestão de risco, bem como outras ajudas recebidas a título de compensação pelas perdas registadas.
+c) 85 % da despesa total elegível, no caso de tipologias de intervenções específicas definidas no despacho a que se refere o n.º 2 do Artigo 6.º
+
+d) 50 % da despesa total elegível, no caso de beneficiários não abrangidos pelas alíneas anteriores.

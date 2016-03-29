@@ -12,4 +12,4 @@ c) «Exploração agrícola», o conjunto de parcelas ou animais utilizados para
 
 d) «Fenómeno climático adverso», as condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou seca severa;
 
-e) «Potencial agrícola», os ativos fixos tangíveis e os ativos biológicos.
+e) «Potencial produtivo», os ativos fixos tangíveis, incluindo infraestruturas coletivas de apoio à atividade agrícola, e os ativos biológicos.

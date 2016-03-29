@@ -16,6 +16,6 @@ e) Não terem sido condenados em processo-crime por factos que envolvem disponib
 
 f) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;
 
-g) Serem titulares da exploração agrícola e terem efetuado o respetivo registo no Sistema de Identificação Parcelar.
+g) Serem titulares da exploração agrícola e terem efetuado o respetivo registo no Sistema de Identificação Parcelar ou serem responsáveis pela gestão de infraestruturas coletivas de apoio à atividade agrícola.
 
 2 - A condição prevista na alínea c) do número anterior pode ser aferida até à data de apresentação do primeiro pedido de pagamento.

@@ -6,7 +6,7 @@
 
 1 - Despesas elegíveis - despesas de investimento relativas à reconstituição e ou reposição de:
 
-1.1 - Ativos fixos tangíveis, incluindo edifícios agrícolas, máquinas e equipamentos agrícolas, estufas e outras infraestruturas dentro da exploração;
+1.1 - Ativos fixos tangíveis, incluindo, infraestruturas coletivas de apoio à atividade agrícola, edifícios agrícolas, máquinas e equipamentos agrícolas, estufas e outras infraestruturas dentro da exploração;
 
 1.2 - Ativos biológicos, incluindo a reposição de efetivos animais e plantações plurianuais.
 
