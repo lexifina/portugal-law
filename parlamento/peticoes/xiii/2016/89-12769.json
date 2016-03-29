@@ -1,0 +1,596 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12769",
+  "numero": "89",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-03-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-04-27",
+            "entidades": null,
+            "id": "101991",
+            "tipo": null,
+            "titulo": "Audição em 2016-04-27 com Peticionante"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-04-27",
+            "dataResposta": "2016-05-17",
+            "entidades": [
+              "ANSR - Autoridade Nacional de Segurança Rodoviária"
+            ],
+            "nrOficio": "106/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-04-27",
+            "dataResposta": "2016-07-01",
+            "entidades": [
+              "IMT - Instituto da Mobilidade e dos Transportes,I.P."
+            ],
+            "nrOficio": "107/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-05-04",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "762430",
+                "obs": null,
+                "pag": [
+                  "8-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-05-06",
+                "pubLeg": "XIII",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/028/2016-05-06/8?pgs=8-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-04-20",
+        "DataArquivo": "2016-05-04",
+        "DataBaixaComissao": "2016-04-07",
+        "DataEnvioPAR": "2016-05-05",
+        "DataReaberta": "2016-04-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-04-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d6a426c4e32466a4f5751744d574e69597930305a4468694c574669596a49744e6a63355a4441794d325a6b4d47497a4c6e426b5a673d3d&fich=20e7ac9d-1cbc-4d8b-abb2-679d023fd0b3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-04-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e7a6335596a4d304d6a59744e7a52694f433030595441334c5745325a444d744f4759785932497759324a68593249314c6e426b5a673d3d&fich=779b3426-74b8-4a07-a6d3-8f1cb0cbacb5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-04-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a68684d446b79596a4d744e6d466a4e5330304e7a51334c5745784d6d45744d4755324d7a526b5a6d497a4d5745794c6e426b5a673d3d&fich=b8a092b3-6ac5-4747-a12a-0e634dfb31a2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-05-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d7a51775954466b5a4441744d545a6b4e5330305a6a4d314c574a684e5467744f4745325a544e684e444e6b4f544d304c6e426b5a673d3d&fich=340a1dd0-16d5-4f35-ba58-8a6e3a43d934.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-05-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d7a59774d6a4d774d5441744e6a63325a4330304f5463304c54686a5a4445744d7a41784f5445775a6d466b5a6d526a4c6e426b5a673d3d&fich=36023010-676d-4974-8cd1-301910fadfdc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e6d59314e546b774e5449744d4463775a6930305a6a646b4c5749355a6d59744e544e6a4d444e6c4f44646a4e474e6a4c6e426b5a673d3d&fich=6f559052-070f-4f7d-b9ff-53c03e87c4cc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-04-20",
+            "gp": "PSD",
+            "id": "1597",
+            "motivoCessacao": null,
+            "nome": "Fátima Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-07-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-04-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684d546b774f5745794f4330344d5755324c5451344e6a41744f54557a5a69307a5a6a4a694e7a6c6a4e7a51784d5751756347526d&fich=a1909a28-81e6-4860-953f-3f2b79c7411d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40581"
+    ],
+    "Iniciativasoriginadas": [
+      "40581"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:22:37:188&drc=00:02:50:753"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:47:50:448&drc=00:01:16:814"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66",
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/66?pgs=66,72&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:25:49:827&drc=00:03:52:875"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202908",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:29:46:333&drc=00:03:16:734"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202909",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:33:08:399&drc=00:03:53:600"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:38:16:709&drc=00:03:05:291"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:41:25:211&drc=00:03:54:111"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-07-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160720pln&url=l13/sl1/a2016/m07/&tI=04:45:23:077&drc=00:02:21:824"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública; Recomenda ao Governo a elaboração de levantamento sobre a utilização de veículos de tracção animal e consequente regulamentação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12769",
+    "PetAssunto": "Solicitam a alteração da legislação em vigor sobre veículos de tração animal no sentido de ser proibida a sua circulação em via pública.",
+    "PetDataEntrada": "2016-03-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12769",
+    "PetLeg": "XIII",
+    "PetNr": "89",
+    "PetNrAssinaturas": "4389",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "573",
+        "obs": null,
+        "pag": [
+          "66-72"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/66?pgs=66-72&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "760831",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-04-22",
+        "pubLeg": "XIII",
+        "pubNr": "26",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/026/2016-04-22/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
