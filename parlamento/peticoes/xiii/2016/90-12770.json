@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12770",
+  "numero": "90",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-03-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-02-22",
+            "entidades": null,
+            "id": "104163",
+            "tipo": null,
+            "titulo": "Audição em 2017-02-22 com Ana Cristina Pinto Rebelo dos Santos Abrantes Pires; Mafalda Oliveira Monteiro; António Bagão Félix e Ricardo Jorge Carriço de Carvalho."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-11-07",
+            "dataResposta": "2016-11-16",
+            "entidades": [
+              "CES - Conselho Económico e Social"
+            ],
+            "nrOficio": "164/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-07",
+            "dataResposta": "2016-11-18",
+            "entidades": [
+              "CNOD - Confederação Nacional dos Organismos de Deficientes"
+            ],
+            "nrOficio": "165/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-07",
+            "dataResposta": "2016-11-17",
+            "entidades": [
+              "APD - Associação Portuguesa de Deficientes"
+            ],
+            "nrOficio": "166/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-07",
+            "dataResposta": "2016-11-29",
+            "entidades": [
+              null
+            ],
+            "nrOficio": "167/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-07",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "163/CTSS/2016",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2017-01-16",
+                "dataResposta": null,
+                "nrOficio": "9/CTSS/2017",
+                "oficioResposta": null
+              },
+              {
+                "dataOficio": "2017-02-23",
+                "dataResposta": null,
+                "nrOficio": "28/CTSS/2017",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-04-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-11-02",
+        "DataArquivo": "2017-04-26",
+        "DataBaixaComissao": "2016-04-07",
+        "DataEnvioPAR": "2017-04-27",
+        "DataReaberta": "2016-11-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-11-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e474d325a6a566b4e546b74597a5577597930304d6a426b4c546734597a59744d4755794d32593559546b784d446b334c6e426b5a673d3d&fich=4c6f5d59-c50c-420d-88c6-0e23f9a91097.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d546b34596a67325a5459744d5755354d6930304d6a4e6c4c5745314f5441744d3255344e44557a4f47526a4e3251784c6e426b5a673d3d&fich=198b86e6-1e92-423e-a590-3e84538dc7d1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a5755784e6d55334d7a63744d6d55774e5330305a6a63314c5745304d7a6b745a44566c4e445a695a574a6d4d544d7a4c6e426b5a673d3d&fich=ee16e737-2e05-4f75-a439-d5e46bebf133.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e57517a4d444a6b5a5751744f4745314d6930304f474a6d4c546b324f546b74596a42684e5445304e4751795a4451304c6e426b5a673d3d&fich=5d302ded-8a52-48bf-9699-b0a5144d2d44.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6d4a6d5a6a4d784d4459745a6d466a4e6930304e7a63304c5749334e5759744d6a64694e6d45304e325a6a4d7a63774c6e426b5a673d3d&fich=6bff3106-fac6-4774-b75f-27b6a47fc370.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876596a49344f44517a59544574596a41324e5330304f4456684c546c6b5a5751744f47466d4e6a6b794e4745354e7a686c4c6e426b5a673d3d&fich=b28843a1-b065-485a-9ded-8af6924a978e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876596a6c6a5a6a5a6c5a6d4d744e5441774d6930304d6d4d354c5468694d7a41744d4759775a4467335a6a526d59325a694c6e426b5a673d3d&fich=b9cf6efc-5002-42c9-8b30-0f0d87f4fcfb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a574e685a5751334e325974597a566c4d6930305a474d354c54686d5a4749744e444a6b4e7a526d4e4449324f4446694c6e426b5a673d3d&fich=ecaed77f-c5e2-4dc9-8fdb-42d74f42681b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-04-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659575668597a417a4d5459744e544d774e5330304e6d566b4c5467794e475974597a4a694f446c695932497a5a5445784c6e426b5a673d3d&fich=aeac0316-5305-46ed-824f-c2b89bcb3e11.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d7a55314d7a5a6a4f4451744d5455795a5330304d6d4d794c57466a4e4455745a5445334e7a55314d7a517a4e545a694c6e426b5a673d3d&fich=35536c84-152e-42c2-ac45-e1775534356b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659324e6c4e6d5979596d45745a6a49304e6930305a47466c4c5467774d7a51744f4445334f575a694e6d557a4d3251774c6e426b5a673d3d&fich=cce6f2ba-f246-4dae-8034-8179fb6e33d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d474e6a4e6a526a4e444174593249334e6930305a57517a4c5467345a4455744d6a64684e6a42694f5751325a6a41334c6e426b5a673d3d&fich=0cc64c40-cb76-4ed3-88d5-27a60b9d6f07.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d474d354e4745774e4449745a4449344d7930305a6a51344c5468694d7a517459546c6d4d6a4d774f54466d5a44566d4c6e426b5a673d3d&fich=0c94a042-d283-4f48-8b34-a9f23091fd5f.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-11-02",
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": null,
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-06-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-04-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344d3251304f57466b4f43316c4f4749774c5451785a546b74596d4e6d4e5330785a6a5a6a4d546733596a49794d7a55756347526d&fich=83d49ad8-e8b0-41e9-bcf5-1f6c187b2235.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-06-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_22_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=01:31:15:212&drc=00:02:51:787"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-23",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/21?pgs=21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-06-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_22_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=01:34:14:882&drc=00:04:02:118"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-23",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-06-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_22_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=01:38:21:965&drc=00:03:07:034"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-23",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-06-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_22_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=01:41:38:145&drc=00:02:37:854"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-23",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-06-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_22_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=01:44:24:414&drc=00:03:37:586"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-23",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12770",
+    "PetAssunto": "Solicitam a criação do \"Dia Nacional da Inclusão\", no dia 17 de junho.",
+    "PetDataEntrada": "2016-03-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12770",
+    "PetLeg": "XIII",
+    "PetNr": "90",
+    "PetNrAssinaturas": "4501",
+    "PetNrAssinaturasInicial": "3629",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "615",
+        "obs": null,
+        "pag": [
+          "21-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-06-23",
+        "pubLeg": "XIII",
+        "pubNr": "100",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/100/2017-06-23/21?pgs=21-24&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "775587",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-11-04",
+        "pubLeg": "XIII",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/010/2016-11-04/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
