@@ -1,0 +1,93 @@
+# Artigo 205.º
+
+### Alteração ao Decreto-Lei n.º 113/2011, de 29 de novembro
+
+Os artigos 2.º, 4.º e 8.º do Decreto-Lei n.º 113/2011, de 29 de novembro, que regula o acesso às prestações do Serviço Nacional de Saúde por parte dos utentes no que respeita ao regime das taxas moderadoras e à aplicação de regimes especiais de benefícios, republicado pelo Decreto-Lei n.º 117/2014, de 5 de agosto, alterado pelo Decreto-Lei n.º 61/2015, de 22 de abril, e pelas Leis n.os 134/2015, de 7 de setembro, e 3/2016, de 29 de fevereiro, passam a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+a) ...
+
+b) Na realização de exames complementares de diagnóstico e terapêutica em serviços de saúde públicos ou privados, designadamente em entidades convencionadas, com exceção dos efetuados em regime de internamento, no hospital de dia e no serviço de urgência para o qual haja referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde ou pelo INEM;
+
+c) Nos serviços de urgência hospitalar;
+
+d) (Revogada.)
+
+Artigo 4.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Os dadores benévolos de sangue;
+
+f) Os dadores vivos de células, tecidos e órgãos;
+
+g) Os bombeiros;
+
+h) ...
+
+i) ...
+
+j) ...
+
+k) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+2 - ...
+
+3 - ...
+
+Artigo 8.º
+
+[...]
+
+...
+
+a) ...
+
+b) Consultas, bem como atos complementares prescritos no decurso destas no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, saúde mental, deficiências congénitas de fatores de coagulação, infeção pelo vírus da imunodeficiência humana/SIDA, diabetes, tratamento e seguimento da doença oncológica;
+
+c) Primeira consulta de especialidade hospitalar, com referenciação pela rede de prestação de cuidados de saúde primários;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+k) ...
+
+l) ...
+
+m) ...
+
+i) Referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde e pelo INEM para um serviço de urgência, incluindo os atos complementares prescritos;
+
+ii) ...
+
+n) Atendimento na rede de prestação de cuidados de saúde primários, no seguimento de referenciação pelo Centro de Atendimento do Serviço Nacional de Saúde.»
