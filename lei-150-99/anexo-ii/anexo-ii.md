@@ -166,6 +166,8 @@
 
 17.3.4 - Outras comissões e contraprestações por serviços financeiros ... 4%
 
+17.3.4 - Outras comissões e contraprestações por serviços financeiros, incluindo as taxas relativas a operações de pagamento baseadas em cartões - 4 %.».
+
 18 - Precatórios ou mandados para levantamento e entrega de dinheiro ou valores existentes - sobre a importância a levantar ou a entregar ... 0,5%
 
 19 - Publicidade:

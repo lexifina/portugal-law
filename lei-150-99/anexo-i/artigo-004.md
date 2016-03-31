@@ -37,3 +37,5 @@ f) Os direitos de propriedade industrial, direitos de autor e direitos conexos r
 6 - Nas situações previstas na verba n.º 28 da Tabela Geral, o imposto é devido sempre que os prédios estejam situados em território português.
 
 7 - Nas situações previstas na verba n.º 29 da Tabela Geral, o imposto é devido sempre que os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário sejam constituídos e operem de acordo com a legislação nacional.
+
+8 - Nas operações previstas na verba 21 da Tabela Geral, o imposto é devido sempre que o primeiro adquirente ou o primeiro alienante sejam domiciliados em território nacional, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável que intervenham na realização das operações.
