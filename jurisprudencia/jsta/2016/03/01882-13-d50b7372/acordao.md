@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 2016-03-31, processo 01882/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01882/13
+
+**Data do Acordão:** 03/31/2016
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** SÃO PEDRO
+
+**Descritores:** MAGISTRADO DO MINISTÉRIO PÚBLICO; LISTA DE ANTIGUIDADE; INCONSTITUCIONALIDADE MATERIAL; INCONSTITUCIONALIDADE FORMAL
+
+**Nº Convencional:** JSTA00069638
+
+**Nº do Documento:** SA12016033101882
+
+**Data de Entrada:** 12/12/2013
+
+**Recorrente:** A............ E OUTRAS
+
+**Recorrido 1:** CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** ACÇÃO ADM ESPECIAL
+
+**Objecto:** DEL CSMP
+
+**Decisão:** IMPROCEDENTE
+
+**Área Temática 1:** DIR ADM CONT - ACÇÃO ADM ESPECIAL.; DIR ADM GER - ESTATUÁRIO.
+
+**Área Temática 2:** DIR JUDIC - EST MAG.
+
+**Legislação Nacional:** CONST05 ART13 ART56 N2 A ART59 N1.; EMP98 ART153 N1 ART157 N2.; L 95/09 DE 2009/09/02 ART9 N2.; L 23/98 DE 1998/05/26 ART10 ART11.
+
+**Jurisprudência Nacional:** AC TC N374/04 DE 2004/05/26.; AC TC N1188/96 DE 1996/11/20.; AC TC N1186/96 DE 1996/11/20.; AC TC N468/96 DE 1996/03/14.; AC TC N309/95 DE 1995/06/20.; AC TC N231/94 DE 1994/03/09.; AC TC N303/90 DE 1990/11/21.; AC TC N191/88 DE 1988/09/20.; AC TC N44/84 DE 1984/05/22.; AC STAPLENO PROC0609/06 DE 2010/10/14.; AC STA PROC0609/06 DE 2009/10/07.; AC STA PROC035373 DE 1996/11/22.; AC STA PROC032156 DE 1996/11/07.; AC STA PROC036001 DE 1996/04/30.; AC STA PROC033730 DE 1995/02/07.; AC STA PROC031319 DE 1994/06/16.
+
+**Referência a Doutrina:** JORGE MIRANDA - DIREITO CONSTITUCIONAL TOMOIV PÁG248.; JORGE MIRANDA E RUI MEDEIROS - CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADA TOMOI PÁG566.
+
+## Sumário
+
+O art. 9º, 2 da Lei 95/2009 de 2 de Setembro não enferma de inconstitucionalidade material (violação do princípio da igualdade), nem formal (violação do art. 56º, 2, a) da CRP).
