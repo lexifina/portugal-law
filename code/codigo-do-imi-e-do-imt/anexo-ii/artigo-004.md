@@ -2,7 +2,7 @@
 
 ### Incidência subjectiva
 
-O IMT é devido pelas pessoas, singulares ou colectivas, para quem se transmitam os bens imóveis, sem prejuízo das seguintes regras:
+O IMT é devido pelos adquirentes dos bens imóveis, sem prejuízo das seguintes regras:
 
 a) Nas divisões e partilhas, o imposto é devido pelo adquirente dos bens imóveis cujo valor exceda o da sua quota nesses bens;
 

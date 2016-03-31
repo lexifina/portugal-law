@@ -10,7 +10,7 @@ a) No caso a que se refere a alínea b) do artigo 6.º, de documento emitido pel
 
 b) Nos casos a que se referem as alíneas d), e) e f) do artigo 6.º, de documento comprovativo da qualidade do adquirente e de certidão ou cópia autenticada da deliberação sobre a aquisição onerosa dos bens, da qual conste expressa e concretamente o destino destes;
 
-c) No caso a que se refere a alínea g) do artigo 6.º, de documento emitido pelo serviço competente do Ministério da Cultura;
+c) No caso a que se refere a alínea g) do artigo 6.º, de documento emitido pelas entidades competentes;
 
 d) Nos casos a que se referem as alíneas h), i) e l) do artigo 6.º, de documento comprovativo da qualidade do adquirente e certidão ou cópia autenticada da deliberação sobre a aquisição onerosa dos bens, da qual conste expressa e concretamente o destino destes;
 

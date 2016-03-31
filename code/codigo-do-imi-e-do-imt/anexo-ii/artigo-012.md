@@ -44,7 +44,7 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 11.ª Nas partilhas judiciais ou extrajudiciais, o valor do excesso de imóveis sobre a quota-parte do adquirente, nos termos da alínea c) do n.º 5 do artigo 2.º, é calculado em face do valor patrimonial tributário desses bens adicionado do valor atribuído aos imóveis não sujeitos a inscrição matricial ou, caso seja superior, em face do valor que tiver servido de base à partilha;
 
-12.ª Nos actos previstos nas alíneas e) e f) do n.º 5 do artigo 2.º, o valor dos imóveis é o valor patrimonial tributário ou aquele por que os mesmos entrarem para o activo das sociedades, consoante o que for maior;
+12.ª Nos atos previstos nas alíneas e) e f) do n.º 5 do artigo 2.º, o valor dos imóveis é o valor patrimonial tributário ou, caso seja superior, aquele por que os mesmos entraram para o ativo das sociedades ou para o património dos fundos de investimento imobiliário;
 
 13.ª Na fusão ou na cisão das sociedades ou dos fundos de investimento referidos na alínea g) do n.º 5 do artigo 2.º, o imposto incide sobre o valor patrimonial tributário de todos os imóveis das sociedades ou dos fundos de investimento objeto de fusão ou cisão que se transfiram para o ativo das sociedades ou dos fundos de investimento que resultarem da fusão ou cisão, ou sobre o valor por que esses bens entrarem para o ativo das sociedades ou dos fundos de investimento, se for superior;
 
@@ -58,13 +58,15 @@ b) Na constituição do direito de superfície, bem como na transmissão deste d
 
 18.ª Nas situações previstas nas alíneas a) e b) do n.º 3 do artigo 2.º, o imposto incide apenas sobre a parte do preço paga pelo promitente adquirente ao promitente alienante ou pelo cessionário ao cedente;
 
-19.ª Quando se verificar a transmissão prevista na alínea d) do n.º 2 do artigo 2.º, o imposto será liquidado nos termos seguintes:
+19.ª Quando se verificarem as transmissões previstas nas alíneas d) e e) do n.º 2 do artigo 2.º, o imposto é liquidado nos termos seguintes:
 
 a) Pelo valor patrimonial tributário dos imóveis correspondente à quota ou parte social maioritária, ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do balanço, se superior;
 
 b) No caso de aquisições sucessivas, o imposto respeitante à nova transmissão será liquidado sobre a diferença de valores determinada nos termos da alínea anterior;
 
-c) Se a sociedade vier a dissolver-se e todos ou alguns dos seus imóveis ficarem a pertencer ao sócio ou sócios que já tiverem sido tributados, o imposto respeitante à nova transmissão incidirá sobre a diferença entre o valor dos bens agora adquiridos e o valor por que anteriormente o imposto foi liquidado.
+c) Se a sociedade ou o fundo de investimento imobiliário vierem a dissolver-se e todos ou alguns dos seus imóveis ficarem a pertencer ao sócio, sócios, participante ou participantes que já tiverem sido tributados, o imposto respeitante à nova transmissão incidirá sobre a diferença entre o valor dos bens agora adquiridos e o valor por que anteriormente o imposto foi liquidado;
+
+d) Pelo valor patrimonial tributário dos imóveis correspondente à participação maioritária ou pelo valor total desses bens, consoante os casos, preferindo em ambas as situações o valor do relatório de avaliação para a sociedade gestora, se superior.
 
 20.ª O valor dos bens imóveis adquiridos ao abrigo de regimes legais de apoio financeiro à habitação, quando se trate da primeira transmissão, é o valor ou o preço fixado pelo Instituto da Habitação e da Reabilitação Urbana, I. P., nos termos estabelecidos nesses regimes.
 

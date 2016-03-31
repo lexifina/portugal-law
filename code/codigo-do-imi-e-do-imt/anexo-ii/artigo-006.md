@@ -29,3 +29,5 @@ i) As aquisições de bens por associações de cultura física, quando destinad
 j) As aquisições de prédios rústicos que se destinem à primeira instalação de jovens agricultores candidatos aos apoios previstos no Decreto-Lei n.º 81/91, de 18 de Fevereiro, ainda que operadas em épocas diferentes, até ao valor de (euro) 80000, independentemente de o valor sobre que incidiria o imposto ultrapassar aquele limite;
 
 l) As aquisições por museus, bibliotecas, escolas, entidades públicas empresariais responsáveis pela rede pública de escolas, institutos e associações de ensino ou educação, de cultura científica, literária ou artística e de caridade, assistência ou beneficência, quanto aos bens destinados, directa ou indirectamente, à realização dos seus fins estatutários.
+
+m) Os fundos de investimento imobiliário cujas unidades de participação sejam integralmente detidas pelas entidades referidas na alínea a).

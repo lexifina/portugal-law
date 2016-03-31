@@ -12,7 +12,9 @@ b) O arrendamento com a cláusula de que os bens arrendados se tornam propriedad
 
 c) Os arrendamentos ou subarrendamentos a longo prazo, considerando-se como tais os que devam durar mais de 30 anos, quer a duração seja estabelecida no início do contrato, quer resulte de prorrogação, durante a sua vigência, por acordo expresso dos interessados, e ainda que seja diferente o senhorio, a renda ou outras cláusulas contratuais;
 
-d) A aquisição de partes sociais ou de quotas nas sociedades em nome colectivo, em comandita simples ou por quotas, quando tais sociedades possuam bens imóveis, e quando por aquela aquisição, por amortização ou quaisquer outros factos, algum dos sócios fique a dispor de, pelo menos, 75% do capital social, ou o número de sócios se reduza a dois, sendo marido e mulher, casados no regime de comunhão de bens ou de adquiridos.
+d) A aquisição de partes sociais ou de quotas nas sociedades em nome coletivo, em comandita simples ou por quotas, quando tais sociedades possuam bens imóveis, e quando por aquela aquisição, por amortização ou quaisquer outros factos, algum dos sócios fique a dispor de, pelo menos, 75 % do capital social, ou o número de sócios se reduza a dois casados ou unidos de facto;
+
+e) A aquisição de unidades de participação em fundos de investimento imobiliário fechados de subscrição particular, independentemente da localização da sociedade gestora, bem como operações de resgate, aumento ou redução do capital ou outras, das quais resulte que um dos titulares ou dois titulares casados ou unidos de facto fiquem a dispor de, pelo menos, 75 % das unidades de participação representativas do património do fundo.
 
 3 - Considera-se que há também lugar a transmissão onerosa para efeitos do n.º 1 na outorga dos seguintes actos ou contratos:
 
@@ -38,7 +40,7 @@ c) O excesso da quota-parte que ao adquirente pertencer, nos bens imóveis, em a
 
 d) A venda ou cessão do direito a determinadas águas, ainda que sob a forma de autorização para as explorar ou para minar em terreno alheio;
 
-e) As entradas dos sócios com bens imóveis para a realização do capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica e, bem assim, a adjudicação dos bens imóveis aos sócios na liquidação dessas sociedades e a adjudicação de bens imóveis como reembolso em espécie de unidades de participação decorrente da liquidação de fundos de investimento imobiliário fechados de subscrição particular;
+e) As entradas dos sócios com bens imóveis para a realização do capital das sociedades comerciais ou civis sob a forma comercial ou das sociedades civis a que tenha sido legalmente reconhecida personalidade jurídica, as entregas de bens imóveis dos participantes no ato de subscrição de unidades de participação de fundos de investimento imobiliário fechados de subscrição particular e, bem assim, a adjudicação dos bens imóveis aos sócios na liquidação dessas sociedades e a adjudicação de bens imóveis como reembolso em espécie de unidades de participação decorrente da liquidação de fundos de investimento imobiliário fechados de subscrição particular;
 
 f) As entradas dos sócios com bens imóveis para a realização do capital das restantes sociedades civis, na parte em que os outros sócios adquirirem comunhão, ou qualquer outro direito, nesses imóveis, bem como, nos mesmos termos, as cessões de partes sociais ou de quotas ou a admissão de novos sócios;
 
