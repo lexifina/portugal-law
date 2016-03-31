@@ -66,6 +66,10 @@ Nos restantes casos previstos neste artigo, a isenção é reconhecida pelo chef
 
 9 - Nas situações abrangidas nos n.os 7 e 8, se o pedido for apresentado para além do prazo aí referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação
 
-10 - Os benefícios constantes das alíneas b) a m) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) cessam no ano, inclusive, em que os prédios venham a ser desclassificados ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis.
+10 - Os benefícios constantes das alíneas b) a m), o) e p) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto na alínea g) do n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis, e os constantes da alínea n) do n.º 1 cessam no ano, inclusive, em que os prédios venham a ser desclassificados ou sejam considerados devolutos ou em ruínas, nos termos do n.º 3 do artigo 112.º do Código do Imposto Municipal sobre Imóveis.
 
 11 - As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
+
+12 - O benefício previsto na alínea g) do n.º 1 não é aplicável às entidades que exerçam atividades de intermediação financeira, de seguros e às instituições auxiliares de intermediação financeira e de seguros (NACE Rev. 1.1, secção J, códigos 65, 66 e 67) e do tipo «serviços intragrupo», designadamente centros de coordenação, de tesouraria e de distribuição (NACE Rev. 1.1, secção K,
+
+código 74).

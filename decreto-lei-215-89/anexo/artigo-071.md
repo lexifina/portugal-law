@@ -44,23 +44,27 @@ b) Imóveis arrendados passíveis de actualização faseada das rendas nos termo
 
 15 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respetivos titulares ser tributados às taxas previstas no artigo 22.º-A, acrescendo os juros compensatórios correspondentes.
 
-16 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+15 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa nessa data a aplicação do regime previsto no presente artigo, passando a aplicar-se aos fundos referidos no n.º 1 o regime previsto no artigo 22.º, considerando-se, para este efeito, como um período de tributação, o período decorrido entre a data de cessação e o final do ano civil em que esta ocorreu.
 
-17 - Os encargos a que se refere o n.º 4 devem ser devidamente comprovados e dependem de certificação prévia por parte do órgão de gestão da área de reabilitação ou da comissão arbitral municipal, consoante os casos.
+16 - Cessando a aplicação do regime previsto no presente artigo nos termos do número anterior, os rendimentos de unidades de participação nos fundos de investimento referidos no n.º 1 que sejam pagos ou colocados à disposição dos participantes após a data daquela cessação, bem como as mais-valias realizadas após essa data que resultem da transmissão onerosa, resgate ou liquidação dessas unidades de participação, são tributados nos termos previstos no artigo 22.º-A.
 
-18 - As entidades mencionadas no número anterior devem remeter à administração tributária as certificações referidas no número anterior.
+17 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
 
-19 - As isenções previstas nos n.os 7 e 8 estão dependentes de deliberação da assembleia municipal, que define o seu âmbito e alcance, nos termos do n.º 2 do artigo 12.º da Lei das Finanças Locais.
+18 - Os encargos a que se refere o n.º 4 devem ser devidamente comprovados e dependem de certificação prévia por parte do órgão de gestão da área de reabilitação ou da comissão arbitral municipal, consoante os casos.
 
-20 - Os incentivos fiscais consagrados no presente artigo são aplicáveis aos imóveis objecto de acções de reabilitação iniciadas após 1 de Janeiro de 2008 e que se encontrem concluídas até 31 de Dezembro de 2020.
+19 - As entidades mencionadas no número anterior devem remeter à administração tributária as certificações referidas no número anterior.
 
-21 - São abrangidas pelo presente regime as acções de reabilitação que tenham por objecto imóveis que preencham, pelo menos, uma das seguintes condições:
+20 - As isenções previstas nos n.os 7 e 8 estão dependentes de deliberação da assembleia municipal, que define o seu âmbito e alcance, nos termos do n.º 2 do artigo 12.º da Lei das Finanças Locais.
+
+21 - Os incentivos fiscais consagrados no presente artigo são aplicáveis aos imóveis objecto de acções de reabilitação iniciadas após 1 de Janeiro de 2008 e que se encontrem concluídas até 31 de Dezembro de 2020.
+
+22 - São abrangidas pelo presente regime as acções de reabilitação que tenham por objecto imóveis que preencham, pelo menos, uma das seguintes condições:
 
 a) Sejam prédios urbanos arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do NRAU;
 
 b) Sejam prédios urbanos localizados em 'áreas de reabilitação urbana'.
 
-22 - Para efeitos do presente artigo, considera-se:
+23 - Para efeitos do presente artigo, considera-se:
 
 a) 'Acções de reabilitação' as intervenções destinadas a conferir adequadas características de desempenho e de segurança funcional, estrutural e construtiva a um ou vários edifícios, ou às construções funcionalmente adjacentes incorporadas no seu logradouro, bem como às suas fracções, ou a conceder-lhe novas aptidões funcionais, com vista a permitir novos usos ou o mesmo uso com padrões de desempenho mais elevados, das quais resulte um estado de conservação do imóvel, pelo menos, dois níveis acima do atribuído antes da intervenção;
 
@@ -68,8 +72,8 @@ b) 'Área de reabilitação urbana' a área territorialmente delimitada, compree
 
 c) 'Estado de conservação' o estado do edifício ou da habitação determinado nos termos do disposto no NRAU e no Decreto-Lei n.º 156/2006, de 8 de Agosto, para efeito de actualização faseada das rendas ou, quando não seja o caso, classificado pelos competentes serviços municipais, em vistoria realizada para o efeito, com referência aos níveis de conservação constantes do quadro do artigo 33.º do NRAU.
 
-23 - A comprovação do início e da conclusão das acções de reabilitação é da competência da câmara municipal ou de outra entidade legalmente habilitada para gerir um programa de reabilitação urbana para a área da localização do imóvel, incumbindo-lhes certificar o estado dos imóveis, antes e após as obras compreendidas na acção de reabilitação.
+24 - A comprovação do início e da conclusão das acções de reabilitação é da competência da câmara municipal ou de outra entidade legalmente habilitada para gerir um programa de reabilitação urbana para a área da localização do imóvel, incumbindo-lhes certificar o estado dos imóveis, antes e após as obras compreendidas na acção de reabilitação.
 
-24 - A delimitação das áreas de reabilitação urbana para efeitos do presente artigo é da competência da assembleia municipal, sob proposta da câmara municipal, obtido parecer do IHRU, I. P., no prazo de 30 dias, improrrogáveis.
+25 - A delimitação das áreas de reabilitação urbana para efeitos do presente artigo é da competência da assembleia municipal, sob proposta da câmara municipal, obtido parecer do IHRU, I. P., no prazo de 30 dias, improrrogáveis.
 
-25 - Caso a delimitação opere sobre uma área classificada como área crítica de recuperação ou reconversão urbanística (ACRRU), não há lugar à emissão do parecer referido no número anterior.
+26 - Caso a delimitação opere sobre uma área classificada como área crítica de recuperação ou reconversão urbanística (ACRRU), não há lugar à emissão do parecer referido no número anterior.

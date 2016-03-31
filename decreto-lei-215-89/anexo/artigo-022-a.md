@@ -20,11 +20,17 @@ e) Nos restantes casos, nos termos previstos no Código do IRS ou no Código do 
 
 2 - O disposto na subalínea i) da alínea a) e na alínea b) do número anterior não prejudica a opção pelo englobamento quando os rendimentos sejam obtidos por sujeitos passivos de IRS fora do âmbito de uma atividade comercial, industrial ou agrícola, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
 
-3 - O disposto nas alíneas c) e d) do n.º 1 não é aplicável, sendo os rendimentos tributados nos termos das alíneas a), b) ou e) do mesmo número, quando:
+3 - O disposto nas alíneas c) e d) do n.º 1 não é aplicável quando:
 
-a) Os titulares sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças;
+a) Os titulares sejam residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, caso em que os rendimentos são tributados:
 
-b) Os titulares sejam entidades não residentes que sejam detidas, direta ou indiretamente, em mais de 25 % por entidades ou pessoas singulares residentes em território nacional.
+i) Por retenção na fonte a título definitivo à taxa prevista no n.º 12 do artigo 71.º do Código do IRS ou na alínea i) do n.º 4 do artigo 87.º do Código do IRC, consoante o caso, tratando-se de rendimentos distribuídos ou decorrentes do resgate de unidades de participação;
+
+ii) Nos termos da alínea e) do n.º 1, nos restantes casos.
+
+b) Os rendimentos sejam pagos ou colocados à disposição em contas abertas em nome de um ou mais titulares mas por conta de terceiros não identificados, caso em que, exceto quando seja identificado o beneficiário efetivo, os rendimentos são tributados, por retenção na fonte a título definitivo à taxa prevista no n.º 12 do artigo 71.º do Código do IRS ou na alínea h) do n.º 4 do artigo 87.º do Código do IRC, consoante o caso;
+
+c) Os titulares sejam entidades não residentes que sejam detidas, direta ou indiretamente, em mais de 25 % por entidades ou pessoas singulares residentes em território nacional, exceto quando essa entidade seja residente noutro Estado membro da União Europeia, num Estado membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações, caso em que os rendimentos são tributados nos termos da alínea e) do n.º 1.
 
 4 - Nas situações referidas nas alíneas c) e d) do n.º 1, os titulares dos rendimentos devem fazer prova da qualidade de não residente em território português perante a entidade que se encontra obrigada a efetuar a retenção na fonte, até ao termo do prazo estabelecido para a entrega do imposto, devendo observar-se, com as necessárias adaptações, o disposto nos artigos 15.º, 16.º e 18.º do Decreto-Lei n.º 193/2005, de 7 de novembro.
 

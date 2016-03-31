@@ -6,7 +6,17 @@
 
 2 - O disposto no número anterior não é aplicável:
 
-a) A entidades não residentes e sem estabelecimento estável em território português que sejam detidas, directa ou indirectamente, em mais de 25 %, por entidades residentes;
+a) A entidades não residentes e sem estabelecimento estável em território português que sejam detidas, direta ou indiretamente, em mais de 25 %, por entidades residentes, exceto quando se verifiquem cumulativamente os seguintes requisitos e condições relativamente à sociedade alienante:
+
+i) Seja residente noutro Estado membro da União Europeia, num Estado membro do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia ou num Estado com o qual tenha sido celebrada e se encontre em vigor convenção para evitar a dupla tributação que preveja a troca de informações;
+
+ii) Esteja sujeita e não isenta de um imposto referido no artigo 2.º da Diretiva 2011/96/UE, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC desde que a taxa legal aplicável à entidade não seja inferior a 60 % da taxa prevista no n.º 1 do artigo 87.º do CIRC;
+
+iii) Detenha direta ou direta e indiretamente, nos termos do n.º 6 do artigo 69.º do CIRC, uma participação não inferior a 10 % do capital social ou dos direitos de voto da entidade objeto de alienação;
+
+iv) Detenha a referida participação de modo ininterrupto, durante o ano anterior à alienação;
+
+v) Não seja parte de uma construção, ou série de construções, artificial ou artificiais, com o principal objetivo, ou com um dos principais objetivos, de obtenção de uma vantagem fiscal.
 
 b) A entidades não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;
 

@@ -24,6 +24,8 @@ b) As entidades não residentes detidas, directa ou indirectamente, em mais de 2
 
 9 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido aos titulares das unidades de participação, bem como a dedução que lhes corresponder, para efeitos do disposto no n.º 6.
 
-10 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa a aplicação do regime previsto no presente artigo, passando a aplicar-se o regime previsto no artigo 22.º, devendo os rendimentos dos fundos de investimento referidos no n.º 1 que, à data, não tenham ainda sido pagos ou colocados à disposição dos respetivos titulares, ser tributados nos termos previstos no artigo 22.º-A, acrescendo os juros compensatórios correspondentes.
+10 - Caso os requisitos referidos no n.º 1 deixem de verificar-se, cessa nessa data a aplicação do regime previsto no presente artigo, passando a aplicar-se aos fundos de investimento referidos no n.º 1 o regime previsto no artigo 22.º, considerando-se, para este efeito, como um período de tributação, o período decorrido entre a data de cessação e o final do ano civil em que esta ocorreu.
 
-11 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
+11 - Cessando a aplicação do regime previsto no presente artigo nos termos do número anterior, os rendimentos de unidades de participação nos fundos de investimento referidos no n.º 1 que sejam pagos ou colocados à disposição dos participantes após a data daquela cessação, bem como as mais-valias realizadas após essa data que resultem da transmissão onerosa, resgate ou liquidação dessas unidades de participação, são tributados nos termos previstos no artigo 22.º-A.
+
+12 - As entidades gestoras dos fundos de investimento referidos no n.º 1 são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.

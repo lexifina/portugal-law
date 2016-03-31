@@ -1,9 +1,7 @@
 # Artigo 32.º-B
 
-### Aquisição de acções em ofertas públicas de venda realizadas pelo Estado
+### Regime fiscal dos empréstimos externos
 
-1 - Para efeitos de IRS são dedutíveis à colecta, nos termos e condições previstos no artigo 80.º do respectivo Código, 5% dos montantes aplicados na aquisição de acções no âmbito de operações de privatização realizadas até ao final do ano 2002, com o limite de 34100$00 por sujeito passivo não casado ou 68200$00 por ambos os cônjuges não separados judicialmente de pessoas e bens.
+1 - Ficam isentos de IRS ou de IRC os juros de capitais provenientes do estrangeiro representativos de contratos de empréstimo Schuldscheindarlehen celebrados pelo IGCP, E. P. E., em nome e em representação da República Portuguesa, desde que o credor seja um não residente sem estabelecimento estável em território português ao qual o empréstimo seja imputado.
 
-2 - Para efeitos de IRS são dedutíveis à colecta, nos termos e condições previstos no artigo 80.º do respectivo Código, 7,5% dos montantes aplicados na aquisição de acções no âmbito de operações de privatização realizadas até ao final do ano 2002, com o limite de 51400$00 por sujeito passivo não casado ou 102800$00 por ambos os cônjuges não separados judicialmente de pessoas e bens, quando a aquisição seja efectuada pelos próprios trabalhadores da empresa objecto de privatização.
-
-3 - Os benefícios previstos nos números anteriores não são acumuláveis quando se trate das mesmas acções.
+2 - A isenção fiscal prevista no número anterior fica subordinada à verificação, pelo IGCP, E. P. E., da não residência dos credores em Portugal e da não existência de estabelecimento estável em território português ao qual o empréstimo seja imputado, até à data de pagamento do rendimento ou, caso o IGCP, E. P. E., não conheça nessa data o beneficiário efetivo, nos 60 dias posteriores ao respetivo conhecimento.

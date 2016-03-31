@@ -49,3 +49,5 @@ b) Os rendimentos resultantes das quotas pagas pelas cooperativas associadas e c
 12 - As cooperativas estão isentas de imposto do selo sobre os actos, contratos, documentos, títulos e outros factos, incluindo as transmissões gratuitas de bens, quando este imposto constitua seu encargo.
 
 13 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
+
+14 - As cooperativas de habitação e construção estão isentas de imposto do selo previsto na verba 28.1 da Tabela Geral do Imposto do Selo.
