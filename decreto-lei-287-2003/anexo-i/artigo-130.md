@@ -6,7 +6,7 @@
 
 2 - Sem prejuízo do disposto no número anterior, os pedidos sobre a existência de imóveis efectuados por qualquer entidade devem ser dirigidos ao serviço de finanças do domicílio fiscal do sujeito passivo.
 
-3 - Os sujeitos passivos referidos no n.º 1 podem, a todo o tempo, reclamar de qualquer incorrecção nas inscrições matriciais, nomeadamente com base nos seguintes fundamentos:
+3 - O sujeito passivo, a câmara municipal e a junta de freguesia podem, a todo o tempo, reclamar de qualquer incorreção nas inscrições matriciais, nomeadamente com base nos seguintes fundamentos:
 
 a) Valor patrimonial tributário considerado desactualizado;
 

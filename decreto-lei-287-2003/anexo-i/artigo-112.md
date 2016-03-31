@@ -12,7 +12,7 @@ a) Prédios rústicos: 0,8%;
 
 b) (Revogada.)
 
-c) Prédios urbanos - de 0,3 % a 0,5 %.
+c) Prédios urbanos - de 0,3 % a 0,45 %.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
@@ -20,7 +20,7 @@ c) Prédios urbanos - de 0,3 % a 0,5 %.
 
 4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeito a regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 7,5 %.
 
-5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos nas alíneas b) e c) do n.º 1, podendo esta ser fixada por freguesia.
+5 - Os municípios, mediante deliberação da assembleia municipal, fixam a taxa a aplicar em cada ano, dentro dos intervalos previstos na alínea c) do n.º 1, podendo esta ser fixada por freguesia.
 
 6 - Os municípios, mediante deliberação da assembleia municipal, podem definir áreas territoriais, correspondentes a freguesias ou zonas delimitadas de freguesias, que sejam objecto de operações de reabilitação urbana ou combate à desertificação, e majorar ou minorar até 30% a taxa que vigorar para o ano a que respeita o imposto.
 
@@ -42,14 +42,14 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 12 - Os municípios, mediante deliberação da assembleia municipal, podem fixar uma redução até 50 % da taxa que vigorar no ano a que respeita o imposto a aplicar aos prédios classificados como de interesse público, de valor municipal ou património cultural, nos termos da respetiva legislação em vigor, desde que estes prédios não se encontrem abrangidos pela alínea n) do n.º 1 do artigo 44.º do Estatuto dos Benefícios Fiscais.
 
-13 - Os municípios, mediante deliberação da assembleia municipal, nos casos de imóvel destinado a habitação própria e permanente coincidente com o domicílio fiscal do proprietário, podem fixar uma redução da taxa que vigorar no ano a que respeita o imposto, atendendo ao número de dependentes que, nos termos do previsto no artigo 13.º do Código do IRS, compõem o agregado familiar do proprietário a 31 de dezembro, de acordo com a seguinte tabela:
+13 - (Revogado.)
 
-(ver documento original)
+14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
 
-14 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos, por transmissão electrónica de dados, para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
 
-15 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
-
-16 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
+16 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
 
 17 - O disposto no n.º 4 não se aplica aos prédios que sejam propriedade de pessoas singulares.
+
+18 - Os municípios abrangidos por programa de apoio à economia local, ao abrigo da Lei n.º 43/2012, de 28 de agosto, ou programa de ajustamento municipal, ao abrigo da Lei n.º 53/2014, de 25 de agosto, alterada pela Lei n.º 69/2015, de 16 de julho, podem determinar que a taxa máxima do imposto municipal prevista na alínea c) do n.º 1, seja de 0,5 /prct., com fundamento na sua indispensabilidade para cumprir os objetivos definidos nos respetivos planos ou programas.

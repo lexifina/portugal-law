@@ -16,6 +16,8 @@ e) Propor à Direcção-Geral dos Impostos as medidas que entender convenientes 
 
 f) Organizar listas de peritos avaliadores independentes por distrito e por ordem alfabética e designar os mesmos para efeitos da segunda avaliação de prédios urbanos, ao abrigo do disposto nos artigos 15.º-A a 15.º-N do Decreto-Lei n.º 287/2003, de 12 de Novembro, com a redacção actual.
 
+g) Propor a lista de prédios a que se refere o n.º 4 do artigo 38.º
+
 2 - Tratando-se de conjuntos ou empreendimentos urbanísticos implantados em áreas cujo zonamento não tenha ainda sido aprovado ou, tendo-o sido, se encontre desactualizado, as propostas referidas nas alíneas a) e b) do n.º 1 são apresentadas anualmente.
 
 3 - As propostas a que se referem as alíneas a) a d) do n.º 1 e o número anterior são aprovadas por portaria do Ministro das Finanças.
