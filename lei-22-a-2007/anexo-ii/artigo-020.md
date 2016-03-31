@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Obrigações acessórias, fiscalização e regime contra-ordenacional
+
 # Artigo 20.º
 
 ### Competência para a fiscalização

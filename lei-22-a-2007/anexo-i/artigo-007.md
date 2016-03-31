@@ -42,7 +42,7 @@ Componente cilindrada
 
 3 - Ficam sujeitos a um agravamento de (euro) 500 no total do montante do imposto a pagar os veículos ligeiros equipados com sistema de propulsão a gasóleo, sendo o valor acima referido reduzido para (euro) 250 relativamente aos veículos ligeiros de mercadorias referidos no n.º 2 do artigo 9.º, com exceção dos veículos que apresentarem nos respetivos certificados de conformidade ou, na sua inexistência, nas homologações técnicas, um valor de emissão de partículas inferior a 0,002 g/km.
 
-4 - Quando da aplicação das tabelas de taxas a que se referem os n.os 1 e 2 resultar o apuramento de imposto inferior a (euro) 100, há lugar ao pagamento desta importância.
+4 - Sempre que o imposto relativo à componente ambiental apresentar um resultado negativo, será o mesmo deduzido ao montante do imposto da componente cilindrada, não podendo o total do imposto a pagar ser inferior a (euro) 100, independentemente do cálculo que resultar da aplicação da tabela A ou da tabela B.
 
 5 - A cilindrada dos automóveis movidos por motores Wankel corresponde ao dobro da cilindrada nominal, calculada nos termos do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes, aprovado pelo Decreto-Lei n.º 202/2000, de 1 de Setembro.
 
