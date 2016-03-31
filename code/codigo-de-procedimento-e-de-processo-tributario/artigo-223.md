@@ -15,3 +15,5 @@
 6 - Quando, por culpa do depositário, não for possível cobrar a dívida exequenda e o acrescido, incorrerá ele em responsabilidade subsidiária.
 
 7 - Além das coisas que obrigatoriamente são depositadas em instituição de crédito competente, poderão também ser ali guardadas outras, desde que isso se mostre conveniente.
+
+8 - O executado pode solicitar à instituição detentora do depósito penhorado que proceda ao depósito das quantias e valores penhorados à ordem do órgão de execução fiscal.

@@ -8,9 +8,9 @@
 
 3 - Não haverá instrução, caso a entidade referida no número anterior disponha de todos os elementos necessários para a decisão.
 
-4 - Quando o valor do processo não exceda o valor da alçada do tribunal tributário, o órgão periférico local decide de imediato após o fim da instrução, caso esta tenha tido lugar.
+4 - (Revogado).
 
-5 - Caso não se verifiquem as circunstâncias referidas no número anterior, o órgão periférico local remeterá de imediato a reclamação para o órgão competente para a decisão.
+5 - (Revogado).
 
 6 - (Revogado).
 

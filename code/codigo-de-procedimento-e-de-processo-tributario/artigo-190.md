@@ -13,3 +13,7 @@
 5 - A citação poderá ser feita na pessoa do legal representante do executado, nos termos do Código de Processo Civil.
 
 6 - Sem prejuízo do disposto nos números anteriores, só ocorre falta de citação quando o respectivo destinatário alegue e demonstre que não chegou a ter conhecimento do acto por motivo que lhe não foi imputável.
+
+7 - Nos casos de dívidas cobradas no mesmo processo de execução fiscal, os elementos da citação previstos no n.º 1 podem referir-se à globalidade das dívidas, indicando a sua natureza, o ano ou período a que se reportam e o seu montante global, considerando-se os executados apenas citados, nestes casos, no quinto dia posterior à citação efetuada nos termos dos artigos seguintes.
+
+8 - Sem prejuízo do disposto no número anterior, as citações assim efetuadas contêm a referência de que os elementos relativos a cada uma das dívidas podem ser consultados no Portal das Finanças ou, no caso de sujeitos passivos não abrangidos pela obrigação prevista no n.º 10 do artigo 19.º da Lei Geral Tributária ou que não tenham optado por aderir ao serviço de caixa postal eletrónica, e desde que não possuam senha de acesso ao Portal das Finanças, gratuitamente, junto do órgão de execução fiscal.

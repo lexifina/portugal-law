@@ -19,3 +19,7 @@
 6 - A administração tributária pode, em qualquer momento, notificar o devedor ou terceiros para a apresentação de elementos que se revelem necessários à cobrança da dívida, incluindo os elementos da contabilidade das empresas.
 
 7 - O envio dos elementos referidos no número anterior é feito por via eletrónica.
+
+8 - A frustração da citação não obsta à aplicação, no respetivo processo de execução fiscal, dos montantes depositados, se aquela não vier devolvida ou, sendo devolvida, não indicar a nova morada do executado e ainda em caso de não acesso à caixa postal eletrónica.
+
+9 - A aplicação efetuada nos termos do número anterior não prejudica o exercício de direitos por parte do executado, designadamente quanto à oposição à execução.
