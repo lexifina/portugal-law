@@ -46,7 +46,7 @@ a) Por actores, chefes de orquestra, músicos e outros artistas, actuando quer i
 
 b) Por desportistas e artistas tauromáquicos, actuando quer individualmente quer integrados em grupos, em competições desportivas e espectáculos tauromáquicos;
 
-16) A transmissão do direito de autor ou de direitos conexos e a autorização para a utilização da obra intelectual ou prestação, definidas no Código dos Direitos de Autor e dos Direitos Conexos, quando efetuadas pelos próprios titulares, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o titular do direito seja pessoa coletiva;
+16) A transmissão do direito de autor ou de direitos conexos e a autorização para a utilização da obra intelectual ou prestação, definidas no Código dos Direitos de Autor e dos Direitos Conexos, quando efetuadas pelos próprios titulares, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, ainda que o titular do direito seja pessoa coletiva, incluindo a consignação ou afetação, imposta por lei, dos montantes recebidos pelas respetivas entidades de gestão coletiva, a fins sociais, culturais e de investigação e divulgação dos direitos de autor e direitos conexos;
 
 17) A transmissão de exemplares de qualquer obra literária, científica, técnica ou artística editada sob forma bibliográfica pelo autor, quando efectuada por este, seus herdeiros ou legatários, ou ainda por terceiros, por conta deles, salvo quando o autor for pessoa colectiva;
 
