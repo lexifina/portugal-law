@@ -10,9 +10,17 @@ b) Secção G, classe 45402 - Manutenção e reparação de motociclos, de suas 
 
 c) Secção I - Alojamento, restauração e similares;
 
-d) Secção S, classe 9602 - Atividades de salões de cabeleireiro e institutos de beleza.
+d) Secção S, classe 9602 - Atividades de salões de cabeleireiro e institutos de beleza;
 
-2 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído à mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa coletiva de utilidade pública de fins de beneficência, de assistência ou humanitários, ou à mesma instituição particular de solidariedade social, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista na Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho.
+e) Secção M, classe 75000 - atividades veterinárias.
+
+2 - O valor do incentivo, calculado nos termos do presente artigo, pode ser atribuído:
+
+a) À mesma igreja ou comunidade religiosa radicada em Portugal, à mesma pessoa coletiva de utilidade pública de fins de beneficência, de assistência ou humanitários ou à mesma instituição particular de solidariedade social constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista na Lei da Liberdade Religiosa, aprovada pela Lei n.º 16/2001, de 22 de junho;
+
+b) À mesma organização não-governamental de ambiente e à mesma pessoa coletiva de utilidade pública de fins ambientais constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista nos n.os 5 e 7 do artigo 14.º da Lei n.º 35/98, de 18 de julho, que define o estatuto das organizações não-governamentais de ambiente, alterada pela Lei n.º 82-D/2014, de 31 de dezembro;
+
+c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista no artigo 152.º deste Código.
 
 3 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 

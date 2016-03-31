@@ -22,19 +22,19 @@ c) Que constem de outros documentos, no caso de prestações de serviços e tran
 
 3 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 
-4 - Não obstante o disposto na alínea a) do n.º 1, o limite da dedução à coleta aí previsto é elevado para os seguintes montantes:
+4 - Não obstante o disposto na alínea a) do n.º 1, o limite da dedução à coleta aí previsto é elevado para os seguintes montantes, sendo o rendimento coletável, no caso de tributação conjunta, o que resultar da aplicação do divisor previsto no artigo 69.º:
 
-a) Para contribuintes que depois de aplicado os divisores previstos no artigo 69.º tenham um rendimento coletável inferior a (euro) 7 000, um montante de (euro) 800;
+a) Para contribuintes que tenham um rendimento coletável inferior a (euro) 7 035, um montante de (euro) 800;
 
-b) Para contribuintes que depois de aplicado os divisores previstos no artigo 69.º tenham um rendimento coletável superior a (euro) 7.000 e inferior a (euro) 30.000, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que tenham um rendimento coletável superior a (euro) 7 035 e inferior a (euro) 30.000, o limite resultante da aplicação da seguinte fórmula:
 
 (ver documento original)
 
-5 - Não obstante o disposto nas alíneas b) a d) do n.º 1, os limites das deduções à coleta aí previstos são elevados para os seguintes montantes:
+5 - Não obstante o disposto nas alíneas b) a d) do n.º 1, os limites das deduções à coleta aí previstos são elevados para os seguintes montantes, sendo o rendimento coletável, no caso de tributação conjunta, o que resultar da aplicação do divisor previsto no artigo 69.º:
 
-a) Para contribuintes que depois de aplicado os divisores previstos no artigo 69.º tenham um rendimento coletável inferior a (euro) 7 000, um montante de (euro) 450;
+a) Para contribuintes que tenham um rendimento coletável inferior a (euro) 7 035, um montante de (euro) 450;
 
-b) Para contribuintes que depois de aplicado os divisores previstos no artigo 69.º tenham um rendimento coletável superior a (euro) 7 000 e inferior a (euro) 30 000, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que tenham um rendimento coletável superior a (euro) 7 035 e inferior a (euro) 30 000, o limite resultante da aplicação da seguinte fórmula:
 
 (ver documento original)
 

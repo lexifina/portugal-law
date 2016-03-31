@@ -26,7 +26,7 @@ d) Que conste de faturas que titulem prestações de serviços e aquisições de
 
 4 - Os n.os 2 a 8 do artigo anterior são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 
-5 - Caso as despesas de saúde tenham sido realizadas noutro Estado membro da União Europeia ou do Espaço Económico Europeu, neste último caso desde que exista intercâmbio de informações em matéria fiscal, pode o sujeito passivo comunicá-las através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte.
+5 - Caso as despesas de saúde tenham sido realizadas fora do território português, pode o sujeito passivo comunicá-las através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte, sendo ainda de observar o disposto no artigo 128.º
 
 6 - A dedução prevista no n.º 1 não abrange a parte das despesas no mesmo referida que tenha sido comparticipada por seguradoras, associações mutualistas ou instituições sem fins lucrativos que tenham por objeto a prestação de cuidados de saúde.
 

@@ -26,6 +26,6 @@ b) Que tenham sido objeto de comunicação nos termos dos n.os 5 e 8.
 
 7 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
 
-8 - Caso as despesas de educação e formação tenham sido realizadas noutro Estado membro da União Europeia ou do Espaço Económico Europeu, neste último caso desde que exista intercâmbio de informações em matéria fiscal, pode o sujeito passivo comunicá-las através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte.
+8 - Caso as despesas de educação e formação tenham sido realizadas fora do território português, pode o sujeito passivo comunicá-las através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte, sendo ainda de observar o disposto no artigo 128.º
 
 9 - Nas atividades previstas na alínea a) do n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º

@@ -2,11 +2,11 @@
 
 ### Deduções dos dependentes e ascendentes
 
-1 - Sem prejuízo da aplicação da ponderação por dependente ou ascendente no âmbito do quociente familiar previsto no artigo 69.º, à coleta do IRS devido pelos sujeitos passivos é dedutível:
+1 - À coleta devida pelos sujeitos passivos residentes em território português e até ao seu montante são deduzidos:
 
-a) Por cada dependente, o montante fixo de (euro) 325;
+a) Por cada dependente o montante fixo de (euro) 600;
 
-b) Por cada ascendente que viva efetivamente em comunhão de habitação com o sujeito passivo, desde que aquele não aufira rendimento superior à pensão mínima do regime geral, o montante fixo de (euro) 300.
+b) Por cada ascendente que viva efetivamente em comunhão de habitação com o sujeito passivo, desde que aquele não aufira rendimento superior à pensão mínima do regime geral, o montante fixo de (euro) 525.
 
 2 - Às deduções previstas no número anterior somam-se os seguintes montantes:
 

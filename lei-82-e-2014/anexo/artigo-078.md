@@ -44,15 +44,15 @@ i) Fatura, fatura-recibo ou recibo, emitidos nos termos do Código do IVA ou da 
 
 ii) Outro documento, quando o fornecedor dos bens ou prestador dos serviços esteja dispensado daquela obrigação.
 
-7 - A soma das deduções à coleta previstas nas alíneas c) a h) e k) do n.º 1 não pode exceder, por agregado familiar, os limites constantes das seguintes alíneas:
+7 - A soma das deduções à coleta previstas nas alíneas c) a h) e k) do n.º 1 não pode exceder, por agregado familiar, e, no caso de tributação conjunta, após aplicação do divisor previsto no artigo 69.º, os limites constantes das seguintes alíneas:
 
-a) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável inferior a (euro) 7 000, sem limite;
+a) Para contribuintes que tenham um rendimento coletável inferior a (euro) 7 035, sem limite;
 
-b) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável superior a (euro) 7 000 e inferior a (euro) 80 000, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que tenham um rendimento coletável superior a (euro) 7 035 e inferior a (euro) 80 000, o limite resultante da aplicação da seguinte fórmula:
 
 (ver documento original)
 
-c) Para contribuintes que, depois de aplicado os divisores previstos no artigo 69.º, tenham um rendimento coletável superior a (euro) 80 000, o montante de (euro) 1 000.
+c) Para contribuintes que tenham um rendimento coletável superior a (euro) 80 000, o montante de (euro) 1 000.
 
 8 - Nos agregados com três ou mais dependentes a seu cargo, os limites previstos no número anterior são majorados em 5 % por cada dependente ou afilhado civil que não seja sujeito passivo do IRS.
 

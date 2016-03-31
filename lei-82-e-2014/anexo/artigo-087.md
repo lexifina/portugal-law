@@ -2,7 +2,7 @@
 
 ### Dedução relativa às pessoas com deficiência
 
-1 - São dedutíveis à coleta por cada sujeito passivo com deficiência uma importância correspondente a quatro vezes o valor do IAS e por cada dependente com deficiência, bem como, por cada ascendente com deficiência que esteja nas condições da alínea e) do n.º 1 do artigo 79.º, uma importância igual a 1,5 vezes o valor do IAS.
+1 - São dedutíveis à coleta por cada sujeito passivo com deficiência uma importância correspondente a quatro vezes o valor do IAS e por cada dependente com deficiência, bem como por cada ascendente com deficiência que esteja nas condições da alínea b) do n.º 1 do artigo 78.º-A, uma importância igual a 2,5 vezes o valor do IAS.
 
 2 - São ainda dedutíveis à coleta 30 % da totalidade das despesas efetuadas com a educação e a reabilitação do sujeito passivo ou dependentes com deficiência, bem como 25 % da totalidade dos prémios de seguros de vida ou contribuições pagas a associações mutualistas que garantam exclusivamente os riscos de morte, invalidez ou reforma por velhice.
 
