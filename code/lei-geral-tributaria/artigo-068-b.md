@@ -17,3 +17,9 @@ c) As entidades com valor global de pagamento de impostos superior a montante a 
 d) As sociedades integradas em grupos abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do IRC, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;
 
 e) As sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes atendendo à sua relação jurídica ou económica com as sociedades abrangidas por essas alíneas.
+
+f) As pessoas singulares com rendimentos superiores a montante a definir;
+
+g) As pessoas singulares que detenham, direta ou indiretamente, ou sejam beneficiárias efetivas de património, incluindo bens e direitos, de valor superior a montante a definir;
+
+h) As pessoas singulares, bem como as sociedades e outras entidades, que não sendo abrangidas por qualquer das alíneas anteriores sejam consideradas relevantes, atendendo à sua relação jurídica ou económica com os sujeitos passivos abrangidos por essas alíneas.
