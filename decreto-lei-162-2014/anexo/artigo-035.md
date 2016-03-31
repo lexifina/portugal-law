@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Dedução por lucros retidos e reinvestidos
-
 ## Capítulo V
 
 ## Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
@@ -10,4 +6,4 @@
 
 ### Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
 
-O SIFIDE II, a vigorar nos períodos de tributação de 2014 a 2026, processa-se nos termos dos artigos seguintes.
+O SIFIDE II, a vigorar nos períodos de tributação de 2014 a 2020, processa-se nos termos dos artigos seguintes.

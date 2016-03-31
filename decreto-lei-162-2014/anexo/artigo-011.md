@@ -22,10 +22,6 @@ vii) Outros bens de investimento que não sejam afetos à exploração da empres
 
 b) Ativos intangíveis, constituídos por despesas com transferência de tecnologia, nomeadamente através da aquisição de direitos de patentes, licenças, «know-how» ou conhecimentos técnicos não protegidos por patente.
 
-c) Custos salariais estimados decorrentes da criação de postos de trabalho, quando digam respeito a pessoal com habilitações literárias do nível 7 ou do nível 8 do Quadro Nacional de Qualificações, em virtude do investimento inicial em causa, calculados ao longo de um período de dois anos, conforme previsto na alínea b) do n.º 4 e no n.º 9 do artigo 14.º do Regulamento Geral de Isenção por Categoria, entendendo-se que estes representam o custo total suportado pelas empresas beneficiárias em relação àqueles postos de trabalho criados, incluindo o salário bruto antes de impostos, as contribuições obrigatórias para a segurança social, o seguro de acidentes de trabalho, os encargos com a guarda de crianças e ascendentes, bem como outros encargos de origem legal ou advenientes de regulamentação coletiva de trabalho;
-
-d) Uma combinação das alíneas a), b) e c) que não exceda o montante de a), b) ou c), consoante o que for mais elevado.
-
 2 - No caso de sujeitos passivos de IRC que não se enquadrem na categoria das micro, pequenas e médias empresas, tal como definidas na Recomendação n.º 2003/361/CE, da Comissão, de 6 de maio de 2003, as despesas de investimento a que se refere a alínea b) do número anterior não podem exceder 50 % das aplicações relevantes.
 
 3 - Os ativos previstos na alínea a) do número anterior podem ser adquiridos em regime de locação financeira, nos termos definidos na alínea b) do parágrafo 6 do artigo 14.º do RGIC, desde que seja exercida a opção de compra prevista no respetivo contrato durante o período de vigência do contrato de concessão de benefícios fiscais.
@@ -37,13 +33,3 @@ d) Uma combinação das alíneas a), b) e c) que não exceda o montante de a), b
 6 - São elegíveis os adiantamentos relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição, desde que realizados há menos de um antes da data de candidatura a benefícios fiscais.
 
 7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o projeto de investimento, contabilizadas como ativo intangível, desde que realizados há menos de um ano antes da data de candidatura a benefícios fiscais.
-
-8 - No caso de as aplicações relevantes tidas em conta para efeitos de cálculo dos benefícios fiscais incluírem as despesas a que se refere a alínea c) do n.º 1, devem ser preenchidas as seguintes condições:
-
-a) O projeto de investimento deve conduzir a um aumento líquido do número de trabalhadores da entidade beneficiária, em comparação com a média dos 12 meses anteriores, ou seja, durante a vigência do contrato de concessão de benefícios fiscais, qualquer perda de postos de trabalho deve ser deduzida do número aparente de postos de trabalho criados nesse período;
-
-b) Cada posto de trabalho deve ser preenchido no prazo de três anos após a conclusão dos trabalhos;
-
-c) Cada posto de trabalho criado através do investimento deve ser mantido durante um período mínimo de cinco anos, a contar da data em que a vaga foi preenchida pela primeira vez.
-
-9 - O prazo previsto na alínea c) do número anterior é de três anos caso o sujeito passivo se qualifique como micro, pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), de acordo com os critérios previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
