@@ -20,7 +20,7 @@ g) As operações financeiras, incluindo os respetivos juros, por prazo não sup
 
 h) As operações, incluindo os respectivos juros, referidas na alínea anterior, quando realizadas por detentores de capital social a entidades nas quais detenham directamente uma participação no capital não inferior a 10% e desde que esta tenha permanecido na sua titularidade durante um ano consecutivo ou desde a constituição da entidade participada, contanto que, neste último caso, a participação seja mantida durante aquele período;
 
-i) Os empréstimos com características de suprimentos, incluindo os respectivos juros efectuados por sócios à sociedade;
+i) Os empréstimos com características de suprimentos, incluindo os respetivos juros, quando realizados por detentores de capital social a entidades nas quais detenham diretamente uma participação no capital não inferior a 10 % e desde que esta tenha permanecido na sua titularidade durante um ano consecutivo ou desde a constituição da entidade participada, contando que, neste caso, a participação seja mantida durante aquele período;
 
 j) Os mútuos constituídos no âmbito do regime legal do crédito à habitação até ao montante do capital em dívida, quando deles resulte mudança da instituição de crédito ou sub-rogação nos direitos e garantias do credor hipotecário, nos termos do artigo 591.º do Código Civil;
 
@@ -42,6 +42,8 @@ s) (Revogada.);
 
 t) As aquisições onerosas ou a título gratuito de imóveis por entidades públicas empresariais responsáveis pela rede pública de escolas, destinadas directa ou indirectamente à realização dos seus fins estatutários.
 
+u) A constituição de garantias a favor do Estado ou das instituições de segurança social, no âmbito da aplicação do artigo 196.º do Código de Procedimento e de Processo Tributário e do Decreto-Lei n.º 42/2001, de 9 de fevereiro.
+
 2 - O disposto nas alíneas g) e h) do n.º 1 não se aplica quando qualquer dos intervenientes não tenha sede ou direcção efectiva no território nacional, com excepção das situações em que o credor tenha sede ou direcção efectiva noutro Estado membro da União Europeia ou num Estado em relação ao qual vigore uma convenção para evitar a dupla tributação sobre o rendimento e o capital acordada com Portugal, caso em que subsiste o direito à isenção, salvo se o credor tiver previamente realizado os financiamentos previstos nas alíneas g) e h) do n.º 1 através de operações realizadas com instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou com filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional.
 
 3 - O disposto nas alíneas g), h) e i) do n.º 1 não se aplica quando qualquer das sociedades intervenientes ou o sócio, respetivamente, seja entidade domiciliada em território sujeito a regime fiscal privilegiado, a definir por portaria do membro do Governo responsável pela área das finanças.
@@ -51,3 +53,5 @@ t) As aquisições onerosas ou a título gratuito de imóveis por entidades púb
 5 - Mantêm-se em vigor as isenções nas transmissões gratuitas, constantes de acordos entre o Estado e quaisquer pessoas, de direito público ou privado.
 
 6 - São ainda aplicáveis às situações previstas na verba n.º 28 da Tabela Geral as isenções previstas no artigo 44.º do Estatuto dos Benefícios Fiscais.
+
+7 - O disposto na alínea e) do n.º 1 apenas se aplica às garantias e operações financeiras diretamente destinadas à concessão de crédito, no âmbito da atividade exercida pelas instituições e entidades referidas naquela alínea.
