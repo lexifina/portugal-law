@@ -12,7 +12,7 @@
 
 5 - A falta de comunicação, ou a comunicação fora do prazo legal, da adesão à caixa postal eletrónica é punível com coima de (euro) 50 a (euro) 250.
 
-6 - A falta de apresentação no prazo que a administração tributária fixar da documentação respeitante à política adoptada em matéria de preços de transferência é punível com coima de (euro) 500 a (euro) 10 000.
+6 - A falta de apresentação, no prazo que a administração tributária fixar, da documentação respeitante à política adotada em matéria de preços de transferência, bem como da declaração de informação financeira e fiscal por país ou jurisdição relativa às entidades de um grupo multinacional, é punível com coima de (euro) 500 a (euro) 10 000.
 
 7 - A falta de apresentação no prazo que a administração tributária fixar dos elementos referidos no n.º 9 do artigo 66.º do Código do IRC é punível com coima de (euro) 500 a (euro) 10 000.
 
