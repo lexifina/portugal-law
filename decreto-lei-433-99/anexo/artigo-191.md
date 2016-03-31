@@ -16,7 +16,7 @@ c) Quando houver necessidade de proceder à venda de bens;
 
 d) Quando o órgão de execução fiscal a considerar mais eficaz para a cobrança da dívida.
 
-4 - As citações referidas no presente artigo podem ser efetuadas por transmissão eletrónica de dados, que equivalem, consoante os casos, à remessa por via postal simples ou registada ou por via postal registada com aviso de receção, valendo como citação pessoal.
+4 - As citações referidas no presente artigo podem ser efetuadas por transmissão eletrónica de dados, valendo como citação pessoal.
 
 5 - As citações efectuadas nos termos do número anterior consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
 
