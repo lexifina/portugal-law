@@ -16,4 +16,4 @@ ii) O transporte coletivo de crianças, de acordo com a Lei n.º 13/2006, de 17 
 
 iii) Os serviços de transporte ocasionais e regulares especializados, de acordo com o Decreto-Lei n.º 3/2001, de 10 de janeiro, alterado pelo Decreto-Lei n.º 90/2002, de 11 de abril;
 
-iv) Revogada.
+iv) O serviço de transporte regular fluvial, de acordo com o Decreto-Lei n.º 16/2014, de 3 de fevereiro.
