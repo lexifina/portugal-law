@@ -112,6 +112,8 @@ Consignação
 
 1 - A receita obtida com a contribuição é consignada ao Serviço Nacional de Saúde, gerido pela ACSS, I. P., constituindo sua receita própria.
 
-2 - Os encargos de liquidação e cobrança incorridos pela Autoridade Tributária e Aduaneira são compensados através da retenção de uma percentagem de 3 % do produto da contribuição, a qual constitui receita própria.
+2 - A receita referida no número anterior é transferida do orçamento do subsector Estado para a ACSS, I. P.
 
-3 - Em função da adesão ao acordo a que se refere o artigo 5.º é ainda determinada uma compensação adicional à Autoridade Tributária e Aduaneira mediante protocolo com a ACSS, I. P.»
+3 - Os encargos de liquidação e cobrança incorridos pela Autoridade Tributária e Aduaneira são compensados através da retenção de uma percentagem de 3 % do produto da contribuição, a qual constitui receita própria.
+
+4 - Em função da adesão ao acordo a que se refere o artigo 5.º é ainda determinada uma compensação adicional à Autoridade Tributária e Aduaneira mediante protocolo com a ACSS, I. P.»
