@@ -4,7 +4,7 @@
 
 1 - A introdução no consumo de tabaco manufaturado está sujeita a regras de condicionamento aplicáveis no período que medeia entre o dia 1 de setembro e o dia 31 de dezembro de cada ano civil.
 
-2 - Durante o período referido no número anterior, as introduções no consumo de tabaco manufaturado efetuadas mensalmente, por cada operador económico, não podem exceder os limites quantitativos, decorrentes da aplicação de um fator de majoração de 10 % à quantidade média mensal do tabaco manufaturado introduzido no consumo ao longo dos 12 meses imediatamente anteriores.
+2 - Durante o período referido no número anterior, as introduções no consumo de tabaco manufaturado efetuadas mensalmente, por cada operador económico, não podem exceder os limites quantitativos, decorrentes da aplicação de um fator de majoração, definido por portaria do membro do Governo com a tutela da área das finanças, à quantidade média mensal do tabaco manufaturado introduzido no consumo ao longo dos 12 meses imediatamente anteriores.
 
 3 - Para efeitos do disposto no número anterior, o cálculo da média mensal tem por base a quantidade total das introduções no consumo de tabaco manufaturado não isento, efetuadas entre o dia 1 de setembro do ano anterior e o dia 31 de agosto do ano subsequente.
 

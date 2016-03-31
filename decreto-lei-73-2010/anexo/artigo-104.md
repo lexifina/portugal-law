@@ -14,7 +14,11 @@ d) (Revogada.)
 
 e) Tabaco para cachimbo de água - 50 %.
 
-2 - O imposto resultante da aplicação do número anterior não pode ser inferior a (euro) 60 por milheiro de charutos ou cigarrilhas.
+2 - O imposto resultante da aplicação do número anterior não pode ser inferior a:
+
+a) Charutos - (euro) 400 por milheiro;
+
+b) Cigarrilhas - (euro) 60 por milheiro.
 
 3 - (Revogado.)
 

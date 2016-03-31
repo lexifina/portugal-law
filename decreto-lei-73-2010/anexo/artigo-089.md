@@ -12,7 +12,7 @@ c) Sejam utilizados na navegação marítima costeira e na navegação interior,
 
 d) Sejam utilizados na produção de eletricidade, de eletricidade e calor (cogeração), ou de gás de cidade, por entidades que desenvolvam tais atividades como sua atividade principal, no que se refere aos produtos classificados pelos códigos NC 2701, 2702 e 2704, pelos códigos NC 2710 19 61 a 2710 19 69, pelo código NC 2711, bem como os produtos classificados pelos códigos NC 2710 19 41 a 2710 19 49, consumidos nas Regiões Autónomas dos Açores e da Madeira;
 
-e) Sejam utilizados em transportes públicos, no que se refere aos produtos classificados pelo código NC 2711 00 00, com inclusão do gás natural;
+e) Sejam utilizados em transportes públicos de passageiros, no que se refere aos produtos classificados pelo código NC 2711;
 
 f) Sejam utilizados em instalações sujeitas ao regime de comércio europeu de emissão de licenças de gases com efeitos de estufa (CELE), identificadas no anexo ii do Decreto-Lei n.º 38/2013, de 15 de março, ou a um acordo de racionalização dos consumos de energia (ARCE), no que se refere aos produtos energéticos classificados pelos códigos NC 2701, 2702, 2704 e 2713, ao fuelóleo com teor de enxofre igual ou inferior a 1 %, classificado pelo código NC 2710 19 61 e aos produtos classificados pelo código NC 2711;
 
