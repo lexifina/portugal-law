@@ -13,3 +13,5 @@ a) Não cumpra o limite previsto no n.º 1, deve reduzir, no exercício subseque
 b) Cumpra o limite previsto no n.º 1, só pode aumentar, em cada exercício, o valor correspondente a 20 % da margem disponível no início de cada um dos exercícios.
 
 4 - Para efeito de responsabilidade financeira, o incumprimento da obrigação prevista no número anterior é equiparado à ultrapassagem do limite previsto no n.º 1, nos termos e para os efeitos da Lei de Organização e Processo do Tribunal de Contas, aprovada pela Lei n.º 98/97, de 26 de agosto.
+
+5 - Para efeitos do apuramento da dívida total dos municípios referida no n.º 1, não é considerado o valor dos empréstimos destinados exclusivamente ao financiamento da contrapartida nacional de projetos com comparticipação dos Fundos Europeus Estruturais e de Investimento (FEEI) ou de outros fundos de apoio aos investimentos inscritos no orçamento da União Europeia e o valor das subvenções reembolsáveis ou dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
