@@ -12,7 +12,7 @@
 
 1 - Estão isentos do imposto:
 
-a) Os veículos adquiridos para funções operacionais pela Autoridade Nacional de Protecção Civil, bem como os veículos para serviço de incêndio adquiridos pelas associações de bombeiros, incluindo os municipais;
+a) Os veículos identificados pelo Despacho n.º 3974/2013, de 15 de março, com as classes L, M ou S, adquiridos para funções operacionais pela Autoridade Nacional de Proteção Civil ou pelas associações humanitárias ou câmaras municipais para o conjunto das missões de proteção, socorro, assistência, apoio e combate aos incêndios atribuídas aos seus corpos de bombeiros;
 
 b) Os veículos adquiridos em estado novo, destinados às forças militares, militarizadas e de segurança, incluindo as polícias municipais, quando afectos exclusivamente ao exercício de funções de autoridade, considerando-se como tais as funções de vigilância, patrulhamento, policiamento, apoio ao serviço de inspecção e investigação e fiscalização de pessoas e bens;
 

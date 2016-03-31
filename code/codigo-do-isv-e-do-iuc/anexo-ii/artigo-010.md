@@ -6,6 +6,6 @@
 
 (ver documento original)
 
-2 - Na determinação do valor total do IUC, devem multiplicar-se à colecta obtida a partir da tabela prevista no número anterior os seguintes coeficientes, em função do ano de aquisição do veículo:
+2 - Na determinação do valor total do IUC, devem multiplicar-se à coleta obtida a partir da tabela prevista no número anterior os seguintes coeficientes, em função do ano de matrícula do veículo em território nacional:
 
 (ver documento original)
