@@ -8,9 +8,9 @@
 
 1 - É criado um regime excecional de incentivo fiscal à destruição de automóveis ligeiros em fim de vida, traduzido na redução do ISV até à sua concorrência, quando aplicável, ou na atribuição de um subsídio, no montante de:
 
-a) (euro) 4500, devido pela introdução no consumo de um veículo elétrico novo sem matrícula;
+a) (euro) 2250, devido pela introdução no consumo de um veículo elétrico novo sem matrícula;
 
-b) Redução de ISV até (euro) 3250, devido pela introdução no consumo de um veículo híbrido plug-in novo sem matrícula;
+b) Redução de ISV até (euro) 1125, devido pela introdução no consumo de um veículo híbrido plug-in novo sem matrícula;
 
 c) (euro) 1000, devido pela introdução no consumo de um veículo quadriciclo pesado elétrico novo sem matrícula.
 
