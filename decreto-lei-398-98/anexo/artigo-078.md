@@ -4,7 +4,7 @@
 
 1 - A revisão dos actos tributários pela entidade que os praticou pode ser efectuada por iniciativa do sujeito passivo, no prazo de reclamação administrativa e com fundamento em qualquer ilegalidade, ou, por iniciativa da administração tributária, no prazo de quatro anos após a liquidação ou a todo o tempo se o tributo ainda não tiver sido pago, com fundamento em erro imputável aos serviços.
 
-2 - Sem prejuízo dos ónus legais de reclamação ou impugnação pelo contribuinte, considera-se imputável aos serviços, para efeitos do número anterior, o erro na autoliquidação.
+2 - (Revogado).
 
 3 - A revisão dos actos tributários nos termos do n.º 1, independentemente de se tratar de erro material ou de direito, implica o respectivo reconhecimento devidamente fundamentado nos termos do n.º 1 do artigo anterior.
 
