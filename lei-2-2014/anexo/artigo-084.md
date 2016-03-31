@@ -2,7 +2,7 @@
 
 ### Cessação da atividade de estabelecimento estável
 
-1 - O disposto no n.º 1 do artigo anterior é aplicável, com as necessárias adaptações, na determinação do lucro tributável imputável a um estabelecimento estável de entidade não residente situado em território português, quando ocorra:
+1 - O disposto nos n.os 1 e 15 do artigo anterior é aplicável, com as necessárias adaptações, na determinação do lucro tributável imputável a um estabelecimento estável de entidade não residente situado em território português, quando ocorra:
 
 a) A cessação da atividade em território português;
 

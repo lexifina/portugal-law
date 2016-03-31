@@ -12,7 +12,7 @@ b) As operações devem ser registadas cronologicamente, sem emendas ou rasuras,
 
 3 - Não são permitidos atrasos na execução da contabilidade superiores a 90 dias, contados do último dia do mês a que as operações respeitam.
 
-4 - Os livros, registos contabilísticos e respetivos documentos de suporte devem ser conservados em boa ordem durante o prazo de 12 anos.
+4 - Os livros, registos contabilísticos e respetivos documentos de suporte devem ser conservados em boa ordem durante o prazo de 10 anos.
 
 5 - Quando a contabilidade for estabelecida por meios informáticos, a obrigação de conservação referida no número anterior é extensiva à documentação relativa à análise, programação e execução dos tratamentos informáticos.
 

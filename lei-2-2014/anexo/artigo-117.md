@@ -30,7 +30,7 @@ c) Declaração anual de informação contabilística e fiscal, nos termos do ar
 
 7 - (Revogado.)
 
-8 - A obrigação referida na alínea b) do n.º 1 também não abrange as entidades não residentes que apenas aufiram, em território português, rendimentos isentos.
+8 - A obrigação referida na alínea b) do n.º 1 também não abrange as entidades não residentes sem estabelecimento estável em território português e que neste território apenas aufiram rendimentos isentos ou sujeitos a retenção na fonte a título definitivo.
 
 9 - A não tributação em IRC das entidades abrangidas pelo regime de transparência fiscal nos termos do artigo 6.º não as desobriga de apresentação ou envio das declarações referidas no n.º 1.
 

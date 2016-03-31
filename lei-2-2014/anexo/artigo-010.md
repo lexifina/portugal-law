@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Isenções
-
 # Artigo 10.º
 
 ### Pessoas coletivas de utilidade pública e de solidariedade social

@@ -8,13 +8,13 @@
 
 1 - Os lucros e reservas distribuídos a sujeitos passivos de IRC com sede ou direção efetiva em território português não concorrem para a determinação do lucro tributável, desde que se verifiquem cumulativamente os seguintes requisitos:
 
-a) O sujeito passivo detenha direta ou direta e indiretamente, nos termos do n.º 6 do artigo 69.º, uma participação não inferior a 5 % do capital social ou dos direitos de voto da entidade que distribui os lucros ou reservas;
+a) O sujeito passivo detenha direta ou direta e indiretamente, nos termos do n.º 6 do artigo 69.º, uma participação não inferior a 10 % do capital social ou dos direitos de voto da entidade que distribui os lucros ou reservas;
 
-b) A participação referida no número anterior tenha sido detida, de modo ininterrupto, durante os 24 meses anteriores à distribuição ou, se detida há menos tempo, seja mantida durante o tempo necessário para completar aquele período;
+b) A participação referida no número anterior tenha sido detida, de modo ininterrupto, durante o ano anterior à distribuição ou, se detida há menos tempo, seja mantida durante o tempo necessário para completar aquele período;
 
 c) O sujeito passivo não seja abrangido pelo regime da transparência fiscal previsto no artigo 6.º;
 
-d) A entidade que distribui os lucros ou reservas esteja sujeita e não isenta de IRC, do imposto referido no artigo 7.º, de um imposto referido no artigo 2.º da Diretiva n.º 2011/96/UE</`�, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC e a taxa legal aplicável à entidade não seja inferior a 60 % da taxa do IRC prevista no n.º 1 do artigo 87.º;
+d) A entidade que distribui os lucros ou reservas esteja sujeita e não isenta de IRC, do imposto referido no artigo 7.º, de um imposto referido no artigo 2.º da Diretiva n.º 2011/96/UE, do Conselho, de 30 de novembro, ou de um imposto de natureza idêntica ou similar ao IRC e a taxa legal aplicável à entidade não seja inferior a 60 % da taxa do IRC prevista no n.º 1 do artigo 87.º;
 
 e) A entidade que distribui os lucros ou reservas não tenha residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
@@ -26,7 +26,7 @@ e) A entidade que distribui os lucros ou reservas não tenha residência ou domi
 
 5 - O disposto nos n.os 1 e 2 é ainda aplicável ao reembolso efetuado aos sócios em consequência da amortização de participações sociais sem redução de capital.
 
-6 - O disposto nos n.os 1 e 2 é aplicável, independentemente da percentagem de participação e do prazo em que esta tenha permanecido na sua titularidade, aos rendimentos de participações sociais em que tenham sido aplicadas as reservas técnicas das sociedades de seguros e das mútuas de seguros e, bem assim, aos rendimentos das seguintes sociedades:
+6 - O disposto nos n.os 1 e 2 é aplicável, independentemente da percentagem de participação e do prazo em que esta tenha permanecido na sua titularidade, à parte dos rendimentos de participações sociais que, estando afetas às provisões técnicas das sociedades de seguros e das mútuas de seguros, não sejam, direta ou indiretamente, imputáveis aos tomadores de seguros e, bem assim, aos rendimentos das seguintes sociedades:
 
 a) Sociedades de desenvolvimento regional;
 

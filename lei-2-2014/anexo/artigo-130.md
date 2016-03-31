@@ -2,7 +2,7 @@
 
 ### Processo de documentação fiscal
 
-1 - Os sujeitos passivos de IRC, com exceção dos isentos nos termos do artigo 9.º, são obrigados a manter em boa ordem, durante o prazo de 12 anos, um processo de documentação fiscal relativo a cada período de tributação, que deve estar constituído até ao termo do prazo para entrega da declaração a que se refere a alínea c) do n.º 1 do artigo 117.º, com os elementos contabilísticos e fiscais a definir por portaria do membro do Governo responsável pela área das finanças.
+1 - Os sujeitos passivos de IRC, com exceção dos isentos nos termos do artigo 9.º, são obrigados a manter em boa ordem, durante o prazo de 10 anos, um processo de documentação fiscal relativo a cada período de tributação, que deve estar constituído até ao termo do prazo para entrega da declaração a que se refere a alínea c) do n.º 1 do artigo 117.º, com os elementos contabilísticos e fiscais a definir por portaria do membro do Governo responsável pela área das finanças.
 
 2 - O referido processo deve estar centralizado em estabelecimento ou instalação situada em território português nos termos do artigo 125.º ou nas instalações do representante fiscal, quando o sujeito passivo não tenha a sede ou direção efetiva em território português e não possua estabelecimento estável aí situado.
 

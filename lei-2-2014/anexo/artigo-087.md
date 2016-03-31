@@ -32,7 +32,7 @@ h) Rendimentos de capitais sempre que sejam pagos ou colocados à disposição e
 
 i) Rendimentos de capitais, tal como definidos no artigo 5.º do Código do IRS, obtidos por entidades não residentes em território português, que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças, em que a taxa é de 35 %.
 
-5 - Relativamente ao rendimento global de entidades com sede ou direção efetiva em território português que não exerçam, a título principal, atividades de natureza comercial, industrial ou agrícola, a taxa é de 21,5 %.
+5 - Relativamente ao rendimento global de entidades com sede ou direção efetiva em território português que não exerçam, a título principal, atividades de natureza comercial, industrial ou agrícola, a taxa é de 21 %.
 
 6 - (Revogado.)
 

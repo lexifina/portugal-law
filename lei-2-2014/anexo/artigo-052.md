@@ -6,7 +6,7 @@
 
 ### Dedução de prejuízos fiscais
 
-1 - Sem prejuízo do disposto no número seguinte, os prejuízos fiscais apurados em determinado período de tributação, nos termos das disposições anteriores, são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos 12 períodos de tributação posteriores.
+1 - Sem prejuízo do disposto no número seguinte, os prejuízos fiscais apurados em determinado período de tributação, nos termos das disposições anteriores, são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos cinco períodos de tributação posteriores, à exceção dos sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial e que estejam abrangidos pelo Decreto-Lei n.º 372/2007, de 6 de novembro, os quais podem fazê-lo em um ou mais dos doze períodos de tributação posteriores.
 
 2 - A dedução a efetuar em cada um dos períodos de tributação não pode exceder o montante correspondente a 70 % do respetivo lucro tributável, não ficando, porém, prejudicada a dedução da parte desses prejuízos que não tenham sido deduzidos, nas mesmas condições e até ao final do respetivo período de dedução.
 

@@ -43,3 +43,5 @@ b) Até ao último dia do mês de maio de cada ano, independentemente de esse di
 13 - O regime estabelecido nos n.os 10, 11 e 12 não se aplica nos casos abrangidos pelo n.º 10 do artigo 73.º
 
 14 - Os termos para o cumprimento das obrigações declarativas e para prestação da garantia são definidos por portaria do membro do Governo responsável pela área das finanças.
+
+15 - No caso de transferência da residência de uma sociedade com sede ou direção efetiva em território português para outro Estado membro da União Europeia ou do Espaço Económico Europeu que esteja vinculado a cooperação administrativa no domínio da fiscalidade equivalente à estabelecida no âmbito da União Europeia, às componentes positivas ou negativas, apuradas nos termos deste artigo, relativas a partes sociais, é aplicável o disposto no artigo 51.º-C, desde que, à data da cessação de atividade, se verifiquem os requisitos aí referidos.

@@ -87,3 +87,5 @@ c) Ao final do período de tributação anterior ao da verificação de qualquer
 13 - O requisito temporal referido na alínea b) do n.º 3 não é aplicável quando se trate de sociedades constituídas há menos de um ano pela sociedade dominante ou por outra sociedade que integre o grupo, desde que o nível de participação exigido nos termos do n.º 2 seja detido desde a data da constituição.
 
 14 - Para efeitos da contagem dos prazos previstos na alínea b) do n.º 3, bem como do previsto na alínea c) do n.º 4, nos casos em que a participação tiver sido adquirida no âmbito de processo de fusão, cisão ou entrada de ativos, considera-se o período durante o qual a participação tiver permanecido na titularidade das sociedades fundidas, cindidas ou da sociedade contribuidora, respetivamente.
+
+15 - A renúncia à taxa referida na alínea d) do n.º 4 deve ser mantida por um período mínimo de três anos.

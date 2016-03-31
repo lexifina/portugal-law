@@ -51,3 +51,9 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 17 - No caso de viaturas ligeiras de passageiros híbridas plug-in, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 5 %, 10 % e 17,5 %.
 
 18 - No caso de viaturas ligeiras de passageiros movidas a GPL ou GNV, as taxas referidas nas alíneas a), b) e c) do n.º 3 são, respetivamente, de 7,5 %, 15 % e 27,5 %.
+
+19 - No caso de se verificar o incumprimento de qualquer das condições previstas na parte final da alínea b) do n.º 13, o montante correspondente à tributação autónoma que deveria ter sido liquidada é adicionado ao valor do IRC liquidado relativo ao período de tributação em que se verifique aquele incumprimento.
+
+20 - Para efeitos do disposto no n.º 14, quando seja aplicável o regime especial de tributação dos grupos de sociedades estabelecido no artigo 69.º, é considerado o prejuízo fiscal apurado nos termos do artigo 70.º
+
+21 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado.
