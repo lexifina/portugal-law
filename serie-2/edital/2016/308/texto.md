@@ -1,0 +1,6 @@
+Edital n.º 308/2016
+Luís Miguel da Silva Mendonça Alves, Presidente da Câmara Municipal de Caminha, torna público que a Câmara Municipal na sua reunião ordinária realizada no dia 02 de março do corrente ano, deliberou aprovar e remeter a audiência dos interessados e discussão pública o projeto de Regulamento Municipal do Horário de Funcionamento dos Estabelecimentos Comerciais e de Prestação de Serviços do Município de Caminha.
+Assim, nos termos dos artigos 100.º e 101.º do CPA, submete -se o referido projeto, a audiência dos interessados e consulta pública, pelo prazo de 30 dias úteis, contados a partir da data da publicação do presente edital, na 2.ª série do Diário da República.
+Durante o período de consulta pública, os interessados poderão apresentar, por escrito, as sugestões que entendam convenientes, dirigidas ao Presidente da Câmara Municipal, ficando o projeto de Regulamento disponível para consulta no site institucional do Município em www.cm-caminha.pt, bem como, no Balcão de Atendimento da Câmara Municipal e no Gabinete de Apoio ao Munícipe de Vila Praia de Âncora, em formato papel para constar se lavrou o presente edital e outros de igual teor que vão ser afixados nos lugares públicos do estilo e na página do Município www.cm-caminha.pt.
+10 de março de 2016. - O Presidente, Luís Miguel Alves.
+309427034
