@@ -1,0 +1,18 @@
+Despacho normativo n.º 1-E/2016
+O Programa Retomar foi criado pelo Despacho Normativo n.º 8-A/2014 (2.ª série), de 17 de julho, assumindo-se como uma iniciativa de combate ao abandono escolar e conclusão de cursos superiores interrompidos dirigida a pessoas que, entre outros requisitos, devem estar em situação de desemprego e poder concluir o curso até aos 30 anos.
+O programa prevê a atribuição de uma bolsa de estudos anual de mil e duzentos euros independentemente da situação económica do agregado familiar.
+No entanto, apesar do elevado número potencial de beneficiários estimado pelo Ministro da Educação e Ciência à data do lançamento do programa, que referiu a possibilidade de atribuição de bolsas a até 3000 estudantes por ano, o impacto da iniciativa foi reduzido. Com efeito:
+a) No ano letivo 2014-2015 foram apresentadas 482 candidaturas, sendo atribuída bolsa a apenas 195 estudantes;
+b) No ano letivo 2015-2016, foram apresentadas 333 candidaturas, sendo atribuída bolsa a apenas 133 estudantes.
+Face à pouca adesão registada, é manifesto que o programa não atingiu os objetivos inicialmente fixados, sendo imperioso garantir uma resposta mais bem-sucedida ao desafio do combate ao abandono escolar, em articulação com outras iniciativas estratégicas de qualificação de ativos.
+Assim, encontra-se em curso uma avaliação do programa a par do lançamento de medidas direcionadas para o desenvolvimento e o aprofundamento de competências digitais nos jovens em todas as regiões. Neste contexto, passará a ser apoiado o regresso ao ensino superior a jovens que pretendam ingressar em ciclos de estudos direcionados para a formação nestas áreas, apoiando-se assim o esforço de digitalização de economia, a qualificação do tecido produtivo e a empregabilidade da população ativa.
+Tal reorientação enquadra-se na «Iniciativa Competências Digitais» inscrita no Plano Nacional de Reformas lançado em março de 2016, presentemente em processo de discussão, pelo que não se revela adequado proceder à abertura de candidaturas para o Programa Retomar antes da conclusão deste processo.
+Assim, através do presente despacho procede-se ao adiamento do período de candidaturas, em sintonia com a discussão do Plano Nacional de Reformas e o lançamento da «Iniciativa Competências Digitais». Esta medida não afetará os direitos dos estudantes a quem foram atribuídas bolsas ou que aguardam decisão sobre os seus pedidos.
+Assim:
+Considerando o disposto no n.º 1 do artigo 27.º da Lei n.º 46/86, de 14 de outubro (estabelece a Lei de Bases do Sistema Educativo), alterada pelas Leis n.os 85/2009, de 27 de agosto, 49/2005, de 30 de agosto e 115/97, de 19 de setembro, no n.º 6 do artigo 20.º da Lei n.º 62/2007, de 10 de setembro (estabelece o Regime Jurídico das Instituições de Ensino Superior), e na alínea d) do n.º 3 do artigo 20.º da Lei n.º 37/2003, de 22 de agosto (estabelece as Bases do Financiamento do Ensino Superior), alterada pelas Leis n.os 49/2005, de 30 de agosto, e 62/2007, de 10 de setembro.
+Determino:
+1 - São revogados os n.os 1 e 2 do artigo 9.º do Regulamento aprovado pelo Despacho Normativo n.º 8-A/2014 (2.ª série), de 17 de julho, alterado pelos Despachos Normativos n.os 13-A/2014 (2.ª série), de 1 de outubro, e 15/2015 (2.ª série), de 13 de agosto.
+2 - O prazo de submissão de requerimentos para o programa de regresso ao ensino superior e de requalificação será fixado em sintonia com o lançamento da «Iniciativa Competências Digitais» inscrita no Plano Nacional de Reformas.
+3 - O presente despacho produz efeitos a partir de 1 de abril de 2016, inclusive.
+1 de abril de 2016. - A Secretária de Estado da Ciência, Tecnologia e Ensino Superior, Maria Fernanda Fernandes Garcia Rollo.
+209481815
