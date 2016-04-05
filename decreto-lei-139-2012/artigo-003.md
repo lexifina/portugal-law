@@ -8,9 +8,9 @@ a) Coerência e sequencialidade entre os três ciclos do ensino básico e o ensi
 
 b) Diversidade de ofertas educativas, tomando em consideração as necessidades dos alunos, por forma a assegurar a aquisição de conhecimentos e o desenvolvimento de capacidades essenciais para cada ciclo e nível de ensino, bem como as exigências decorrentes das estratégias de desenvolvimento do País;
 
-c) Promoção da melhoria da qualidade do ensino;
+c) Promoção da melhoria da qualidade do ensino e da aprendizagem;
 
-d) Redução da dispersão curricular e do reforço da carga horária nas disciplinas fundamentais;
+d) Redução da dispersão curricular e do reforço da carga horária num conjunto de disciplinas;
 
 e) Reforço da autonomia pedagógica e organizativa das escolas na gestão do currículo e uma maior liberdade de escolha de ofertas formativas, no sentido da definição de um projeto de desenvolvimento do currículo adequado às características próprias e integrado no respetivo projeto educativo;
 
@@ -26,12 +26,18 @@ j) Favorecimento da integração das dimensões teórica e prática dos conhecim
 
 k) Articulação do currículo e da avaliação, assegurando que esta constitua um elemento de referência que reforce a sistematização do que se ensina e do que se aprende;
 
-l) Promoção do rigor da avaliação, valorizando os resultados escolares e reforçando a avaliação sumativa externa no ensino básico;
+l) Promoção da capacidade reguladora dos instrumentos de avaliação externa, através da sua utilização com objetivos de aferição da forma como os alunos adquirem os conhecimentos e desenvolvem as aprendizagens essenciais nos diversos domínios curriculares;
 
-m) Reforço do caráter transversal da educação para a cidadania, estabelecendo conteúdos e orientações programáticas, mas não a autonomizando como disciplina de oferta obrigatória;
+m) Valorização de uma intervenção atempada e rigorosa, sustentada pela informação decorrente da avaliação externa, com objetivos de aferição, no sentido de superar dificuldades nos diferentes domínios curriculares;
 
-n) Valorização da língua e da cultura portuguesas em todas as componentes curriculares;
+n) Valorização da complementaridade entre os processos de avaliação interna e externa das aprendizagens;
 
-o) Utilização das tecnologias de informação e comunicação nas diversas componentes curriculares;
+o) Reconhecimento da importância da avaliação externa para efeitos de certificação e prosseguimento de estudos no final do 3.º ciclo do ensino básico e do ensino secundário;
 
-p) Enriquecimento da aprendizagem, através da oferta de atividades culturais diversas e de disciplinas, de caráter facultativo em função do projeto educativo de escola, possibilitando aos alunos diversificação e alargamento da sua formação, no respeito pela autonomia de cada escola.
+p) Reforço do caráter transversal da educação para a cidadania, estabelecendo conteúdos e orientações programáticas, mas não a autonomizando como disciplina de oferta obrigatória;
+
+q) Valorização da língua e da cultura portuguesas em todas as componentes curriculares;
+
+r) Utilização das tecnologias de informação e comunicação nas diversas componentes curriculares;
+
+s) Enriquecimento da aprendizagem, através da oferta de atividades culturais diversas e de disciplinas, de caráter facultativo em função do projeto educativo de escola, possibilitando aos alunos diversificação e alargamento da sua formação, no respeito pela autonomia de cada escola.
