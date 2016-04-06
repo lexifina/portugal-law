@@ -1,0 +1,5 @@
+Aviso n.º 9/2016
+Por ordem superior se torna público que, em 22 de maio de 2015, a República Portuguesa depositou, junto do Ministério dos Assuntos Exteriores do Governo do Reino de Espanha, o seu instrumento de ratificação da Emenda ao Artigo 38.º dos Estatutos da Organização Mundial do Turismo, adotada na sua 17.ª Sessão da Assembleia Geral de 2007 [Resolução A/RES/521 (XVII)], realizada em Cartagena de Índias (Colômbia).
+Em cumprimento do n.º 1 do artigo 33.º dos Estatutos da Organização Mundial do Turismo, a Emenda ainda não entrou em vigor na ordem jurídica internacional por ainda não se ter verificado o requisito aí previsto de notificação da aprovação da Emenda ao Governo depositário por parte de dois terços dos Estados Membros.
+Portugal é Membro Efetivo da Organização Mundial do Turismo desde 1976, tendo os Estatutos da OMT sido aprovados, para ratificação, pelo Decreto n.º 579/76, publicado no Diário da República, 1.ª série, n.º 169, de 21 de julho de 1976.
+Direção-Geral de Política Externa, 21 de março de 2016. - O Subdiretor-Geral, Luís Cabaço.
