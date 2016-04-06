@@ -1,0 +1,11 @@
+Aviso n.º 4656/2016
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, torna público que, por deliberação de 1 de fevereiro de 2016 e nos termos previstos no artigo 76.º e no n.º 1 do artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal determinou fosse iniciado o procedimento de alteração do Plano de Pormenor da Zona Industrial de Laúndos, tendo sido fixado o prazo de seis meses para a respetiva conclusão.
+As alterações ao PPZIL incidirão sobre o aumento dos lotes contíguos ao limite nascente da área do plano, permitindo o correspondente aumento da área de construção e o ajustamento do desenho urbano no que respeita à reconfiguração de alguns dos lotes e polígonos de construção.
+Quem pretender formular sugestões e/ou apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do Plano poderá fazê-lo no prazo de quinze dias a contar da data de publicação do presente aviso no Diário da República.
+As sugestões e/ou informações que os interessados entendam apresentar deverão ser reduzidas a suporte escrito e entregues na Secção de Gestão Documental, no Edifício dos Paços do Concelho, ou remetidas por correio registado, endereçado ao Presidente da Câmara Municipal da Póvoa de Varzim - Alteração do Plano de Pormenor da Zona Industrial de Laúndos - Praça do Almada, 4490-438 Póvoa de Varzim.
+Para constar se publica o presente aviso no Diário da República, na comunicação social e no sítio da Internet da Câmara Municipal, sendo ainda afixados nos lugares de estilo outros de igual teor.
+17 de fevereiro de 2016. - O Presidente da Câmara Municipal, Aires Henrique do Couto Pereira.
+Deliberação
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, certifica, para os devidos efeitos, que por deliberação de 1 de fevereiro de 2016, a Câmara Municipal determinou fosse iniciado o procedimento de alteração do Plano de Pormenor da Zona Industrial de Laúndos, nos termos da informação prestada pela Divisão de Planeamento e Gestão Urbanística, tendo sido fixado o prazo de seis meses para a respetiva conclusão.
+Póvoa de Varzim, 17 de fevereiro de 2016. - O Presidente da Câmara Municipal, Aires Henrique do Couto Pereira.
+609474769
