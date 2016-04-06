@@ -6,7 +6,7 @@
 
 ### Deveres de comunicação
 
-1 - Quem atinja ou ultrapasse participação de 10 %, 20 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade aberta, sujeita a lei pessoal portuguesa, e quem reduza a sua participação para valor inferior a qualquer daqueles limites deve, no prazo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento:
+1 - Quem atinja ou ultrapasse participação de 10 %, 20 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade aberta, sujeita a lei pessoal portuguesa, e quem reduza a sua participação para valor inferior a qualquer daqueles limites deve, o mais rapidamente possível e no prazo máximo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento:
 
 a) Informar desse facto a CMVM e a sociedade participada;
 
@@ -34,19 +34,21 @@ b) Os direitos de voto são calculados com base na totalidade das acções com d
 
 a) A identificação de toda a cadeia de entidades a quem a participação qualificada é imputada nos termos do n.º 1 do artigo 20.º, independentemente da lei a que se encontrem sujeitas;
 
-b) A percentagem de direitos de voto imputáveis ao titular de participação qualificada, a percentagem de capital social e o número de acções correspondentes, bem como, quando aplicável, a discriminação da participação por categoria de acções;
+b) A percentagem de direitos de voto imputáveis ao titular de participação qualificada, a percentagem de capital social e o número de ações correspondentes, bem como, quando aplicável, a discriminação da participação por categoria de ações e por título de imputação de direitos de voto;
 
 c) A data em que a participação atingiu, ultrapassou ou foi reduzida aos limiares previstos nos n.os 1 e 2.
 
-5 - Caso o dever de comunicação incumba a mais do que um participante pode ser feita uma única comunicação, que exonera os participantes do dever de comunicar na medida em que a comunicação se considere feita.
+5 - Quando a ultrapassagem dos limiares relevantes resultar da detenção de instrumentos financeiros, nos termos das alíneas e) ou i) do n.º 1 do artigo 20.º, o participante deve:
 
-6 - Quando a ultrapassagem dos limiares relevantes resultar, nos termos da alínea e) do n.º 1 do artigo 20.º, da detenção de instrumentos financeiros que confiram ao participante o direito à aquisição, exclusivamente por sua iniciativa, por força de acordo, de acções com direitos de voto, já emitidas por emitente cujas acções estejam admitidas à negociação em mercado regulamentado, o participante deve:
+a) Agregar, na comunicação, todos os instrumentos que tenham o mesmo ativo subjacente;
 
-a) Agregar, na comunicação, todos os instrumentos que tenham o mesmo activo subjacente;
+b) Fazer tantas comunicações quantos os emitentes dos ativos subjacentes de um mesmo instrumento financeiro;
 
-b) Fazer tantas comunicações quantos os emitentes dos activos subjacentes de um mesmo instrumento financeiro;
+c) Incluir na comunicação referida no número anterior, a indicação da data ou período em que os direitos de aquisição que o instrumento confere podem ser exercidos e da data em que o instrumento expira;
 
-c) Incluir na comunicação referida no número anterior, a indicação da data ou período em que os direitos de aquisição que o instrumento confere podem ser exercidos, e da data em que o instrumento expira.
+d) Discriminar o número e a percentagem de direitos de voto imputáveis por tipo de instrumento financeiro e consoante tenham liquidação física ou financeira.
+
+6 - O participante deve renovar a comunicação sempre que se verifique uma alteração do título de imputação de direitos de voto, nomeadamente quando adquirir as ações a que se referem os instrumentos financeiros previstos no número anterior.
 
 7 - Quando a redução ou ultrapassagem dos limiares relevantes resultar, nos termos da alínea g) do n.º 1 do artigo 20.º, da atribuição de poderes discricionários para uma única assembleia geral:
 
@@ -54,6 +56,8 @@ a) Quem confere poderes discricionários pode, nesse momento, fazer uma comunica
 
 b) Aquele a quem são imputados os direitos de voto pode fazer uma comunicação única, no momento em que lhe são conferidos poderes discricionários, desde que explicite a informação exigida no n.º 4 referente ao início e ao termo dos poderes discricionários para o exercício do direito de voto.
 
-8 - Os deveres estabelecidos no presente artigo não se aplicam a participações resultantes de transacções envolvendo membros do Sistema Europeu de Bancos Centrais, actuando na qualidade de autoridades monetárias, no âmbito de uma garantia, de um acordo de recompra ou de um acordo similar de liquidez autorizado por razões de política monetária ou no âmbito de um sistema de pagamentos, desde que as transacções se realizem dentro de um período de tempo curto e desde que não sejam exercidos os direitos de voto inerentes às acções em causa.
+8 - Caso o dever de comunicação incumba a mais do que um participante pode ser feita uma única comunicação, que exonera os participantes do dever de comunicar na medida em que a comunicação se considere feita.
 
 9 - Os titulares de participação qualificada em sociedade referida na subalínea i) da alínea a) do n.º 2 devem prestar à CMVM, a pedido desta, informação sobre a origem dos fundos utilizados na aquisição ou no reforço daquela participação.
+
+10 - Para efeitos da presente secção, no caso de certificados de depósito admitidos à negociação em mercado regulamentado, as referências a emitente correspondem ao emitente dos valores mobiliários representados, independentemente de os mesmos estarem admitidos à negociação em mercado regulamentado.

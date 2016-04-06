@@ -8,7 +8,7 @@
 
 1 - As seguintes entidades enviam à CMVM os documentos e as informações a que se referem os artigos seguintes, até ao momento da sua divulgação, se outro prazo não estiver especialmente previsto:
 
-a) Os emitentes, sujeitos a lei pessoal portuguesa, de acções e de valores mobiliários representativos de dívida com valor nominal inferior a (euro) 1000 admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal ou noutro Estado membro;
+a) Os emitentes, sujeitos a lei pessoal portuguesa, de ações e de valores mobiliários representativos de dívida com valor nominal inferior a (euro) 1 000, ou, quando denominados noutra moeda, de valor equivalente na data de emissão, admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal ou noutro Estado membro;
 
 b) Os emitentes, com sede estatutária noutro Estado Membro da União Europeia, dos valores referidos na alínea anterior exclusivamente admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal;
 
@@ -22,7 +22,7 @@ d) Os emitentes de valores mobiliários não abrangidos pelas alíneas anteriore
 
 4 - As informações exigidas nos artigos seguintes são:
 
-a) Divulgadas de for3ma a permitir aos investidores de toda a Comunidade Europeia o acesso rápido, dentro dos prazos especialmente previstos, e sem custos específicos a essas informações numa base não discriminatória; e
+a) Divulgadas de forma a permitir aos investidores de toda a União Europeia o acesso rápido, dentro dos prazos especialmente previstos, e sem custos específicos, a essas informações numa base não discriminatória; e
 
 b) Enviadas para o sistema previsto no artigo 367.º
 
@@ -47,3 +47,5 @@ b) Decidir torná-la pública através do sistema previsto no artigo 367.º
 7 - Os emitentes de valores mobiliários admitidos à negociação em mercado regulamentado colocam e mantêm no seu sítio Internet durante um ano, salvo outros prazos especialmente previstos, todas as informações que sejam obrigados a tornar públicas ao abrigo do presente Código, da sua regulamentação e da legislação materialmente conexa.
 
 8 - A informação referida no número anterior deve ser autonomamente acessível em relação a informação não obrigatória, designadamente de natureza publicitária.
+
+9 - No caso de certificados de depósito admitidos à negociação em mercado regulamentado, as referências a emitente para efeitos dos artigos seguintes correspondem ao emitente dos valores mobiliários representados, independentemente de os mesmos estarem admitidos à negociação em mercado regulamentado.
