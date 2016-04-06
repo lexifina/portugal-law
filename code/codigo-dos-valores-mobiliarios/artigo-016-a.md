@@ -1,19 +1,39 @@
 # Artigo 16.º-A
 
-### Liquidação e criação de mercado
+### Isenção de dever de comunicação
 
-1 - À excepção do dever de comunicação à CMVM, o disposto nos n.os 1 e 2 do artigo anterior não se aplica no que respeita a acções transaccionadas exclusivamente para efeitos de operações de compensação e de liquidação no âmbito do ciclo curto e habitual de liquidação.
+1 - Os deveres de comunicação previstos nos n.os 1, 2 e 5 do artigo anterior não se aplicam a:
 
-2 - Para efeitos do número anterior, o ciclo curto e habitual de negociação é de três dias de negociação contados a partir da operação.
+a) Participações resultantes de transações envolvendo membros do Sistema Europeu de Bancos Centrais, atuando na qualidade de autoridades monetárias, no âmbito de uma garantia, de um acordo de recompra ou de um acordo similar de liquidez autorizado por razões de política monetária ou no âmbito de um sistema de pagamentos, desde que as transações se realizem dentro de um período de tempo curto e desde que não sejam exercidos os direitos de voto inerentes às ações em causa;
 
-3 - À excepção do dever de comunicação à CMVM, o disposto nos n.os 1 e 2 do artigo anterior não se aplica às participações de intermediário financeiro actuando como criador de mercado que atinjam, ultrapassem ou se tornem inferiores a 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão do emitente em causa, nem o influencie a adquirir essas acções ou a apoiar o seu preço.
+b) Ações transacionadas exclusivamente para efeitos de operações de compensação e de liquidação no âmbito do ciclo curto e habitual de liquidação, cuja duração máxima é três dias de negociação a contar da operação;
 
-4 - Para efeitos do número anterior, o intermediário financeiro deve:
+c) Ações detidas por entidades de custódia nessa qualidade, desde que apenas possam exercer os direitos de voto inerentes a essas ações ou instrumentos de acordo com instruções do titular dadas por escrito;
 
-a) Comunicar à CMVM, no prazo previsto no n.º 1 do artigo 16.º, que actua ou pretende actuar como criador de mercado relativamente ao emitente em causa;
+d) Ações detidas por intermediário financeiro que resultem da sua atividade como criador de mercado, atuando nessa qualidade, cujos direitos de voto inerentes atinjam, ultrapassem ou se tornem inferiores ao limiar de 5 % dos direitos de voto correspondentes ao capital social, desde que:
 
-b) Informar a CMVM da cessação da actuação como criador de mercado, logo que tomar essa decisão;
+i) Não intervenha na gestão do emitente em causa, nem o influencie a adquirir essas ações ou a apoiar o seu preço;
 
-c) Identificar, a pedido da CMVM, as acções detidas no âmbito da actividade de criação de mercado, podendo fazê-lo por qualquer meio verificável excepto se não conseguir identificar esses instrumentos financeiros, caso em que os mantém em conta separada;
+ii) Comunique à CMVM, no prazo previsto no n.º 1 do artigo 16.º, que atua ou pretende atuar como criador de mercado relativamente ao emitente em causa.
 
-d) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando exigível.
+e) Ações detidas por intermediário financeiro na sua carteira de negociação, na aceção do ponto 86 do n.º 1 do artigo 4.º do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013, desde que:
+
+i) Os direitos de voto detidos na carteira de negociação não excedam 5 % dos direitos de voto correspondentes ao capital social; e
+
+ii) Os direitos de voto inerentes às ações detidas na carteira de negociação não sejam exercidos nem de outro modo utilizados para intervir na gestão do emitente.
+
+f) Ações adquiridas para efeitos de estabilização ao abrigo do Regulamento (CE) n.º 2273/2003, da Comissão, de 22 de dezembro de 2003, no que diz respeito às derrogações para os programas de recompra e para as operações de estabilização de instrumentos financeiros, desde que os direitos de voto inerentes a essas ações não sejam exercidos nem de outro modo utilizados para intervir na gestão do emitente.
+
+2 - A participação referida nas alíneas d) e e) do número anterior é calculada de acordo com o disposto nos artigos 2.º e 3.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014.
+
+3 - O intermediário financeiro que atue como criador de mercado nos termos da alínea d) do n.º 1 está obrigado a:
+
+a) Informar a CMVM da cessação da atuação como criador de mercado, logo que tomar essa decisão;
+
+b) Identificar, a pedido da CMVM, as ações detidas no âmbito da atividade de criação de mercado, podendo fazê-lo por qualquer meio verificável, exceto se não conseguir identificar esses instrumentos financeiros, caso em que os mantém em conta separada;
+
+c) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando exigível.
+
+4 - Os direitos de voto que beneficiem das isenções previstas no n.º 1 não podem ser exercidos, salvo no caso previsto na alínea c) do mesmo número.
+
+5 - As isenções previstas no n.º 1, com exceção da alínea f) do mesmo número, aplicam-se, com as necessárias adaptações, aos instrumentos financeiros referidos nas alíneas e) e i) do n.º 1 do artigo 20.º, bem como nos termos previstos no artigo 6.º do Regulamento Delegado (UE) n.º 2015/761, da Comissão, de 17 de dezembro de 2014.
