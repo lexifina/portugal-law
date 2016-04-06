@@ -1,0 +1,5 @@
+Aviso n.º 8/2016
+Por ordem superior se torna público que, em 17 de julho de 2015, a República Portuguesa depositou, junto do Diretor-Geral do Secretariado Internacional do Trabalho, na qualidade de depositário, o seu instrumento de ratificação da Convenção n.º 189 relativa ao Trabalho Digno para as Trabalhadoras e Trabalhadores do Serviço Doméstico, adotada pela Conferência Geral da Organização Internacional do Trabalho, na sua 100.ª sessão, realizada em Genebra, em 16 de junho de 2011.
+Em cumprimento do n.º 3 do artigo 21.º da Convenção, esta entrará em vigor para a República Portuguesa no dia 17 de julho de 2016.
+A República Portuguesa é Membro da Organização Internacional do Trabalho, tendo a adesão à Organização sido aprovada por Carta de Confirmação e Ratificação, publicada no Diário do Governo, 1.ª série, n.º 67, de 2 de abril de 1921, tendo Portugal depositado o respetivo instrumento de ratificação em 8 de abril de 1920, conforme Aviso publicado no Diário do Governo, 1.ª série, n.º 76, de 12 de abril de 1920.
+Direção-Geral de Política Externa, 21 de março de 2016. - O Subdiretor-Geral, Luís Cabaço.
