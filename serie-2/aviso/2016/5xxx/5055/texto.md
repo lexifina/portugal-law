@@ -1,0 +1,4 @@
+Aviso n.º 5055/2016
+Rui Vaz Alves, Presidente da Câmara Municipal de Ribeira de Pena, faz saber, nos termos e para os efeitos legais, que por deliberação da Câmara Municipal na reunião ordinária de 04 de abril de 2016 e em conformidade com o estabelecido na Lei 75/2013, de 12 de setembro, foi aprovado o Projeto de Regulamento de Atribuição de Medalhas Municipais pelo que, para os efeitos do que determina o artigo 101.º do CPA o mesmo se encontra em consulta pública. O projeto em causa está disponível na Divisão Administrativa e Financeira e no sítio da Internet www.cm.rpena.pt, devendo os interessados dirigir, por escrito, as suas sugestões à Câmara Municipal, dentro do prazo de 30 dias úteis, a contar da data de publicitação do presente aviso no Diário da República.
+5 de abril de 2016. - O Presidente da Câmara, Rui Vaz Alves.
+309486051
