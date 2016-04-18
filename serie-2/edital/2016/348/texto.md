@@ -1,0 +1,10 @@
+Edital n.º 348/2016
+Consulta Pública
+Projeto
+Regulamento Interno da Comissão de Ética do Instituto Politécnico de Leiria
+Nuno André Oliveira Mangas Pereira, Presidente do IPLeiria, torna público, no uso da competência que lhe é conferida pelo artigo 92.º, n.º 1, alínea o), do Regime Jurídico das Instituições de Ensino Superior (RJIES) e pelo artigo 44.º, n.º 1, alínea n) dos Estatutos do IPLeiria, o projeto de Regulamento Interno da Comissão de Ética do IPLeiria, submetendo-o, nos termos do artigo 101.º do Código de Procedimento Administrativo, do artigo 110.º, n.º 3 do RJIES e do n.º 3 do artigo 121.º dos Estatutos do IPLeiria, homologados pelo Despacho Normativo n.º 35/2008, publicado no Diário da República, 2.ª série, n.º 139, de 21 de julho de 2008, retificado pela Retificação n.º 1826/2008, publicada no Diário da República, 2.ª série, n.º 156, de 13 de agosto de 2008, a consulta pública, para recolha de sugestões, pelo prazo de 10 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+O projeto pode ser consultado nos Serviços Administrativos do Edifício Sede do IPLeiria, sitos em Rua General Norton de Matos, 2411-901 Leiria, e ainda no sítio do Instituto na Internet (www.ipleiria.pt), área de Discussão Pública.
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais devem ser endereçadas ao Presidente do IPLeiria, podendo ser entregues nos serviços administrativos supra identificados, ou remetidas por via postal, para Serviços Centrais do IPLeiria, Rua General Norton de Matos, apartado 4133, 2410-911, Leiria, ou através de correio eletrónico para o seguinte endereço ipleiria@ipleiria.pt.
+Os contributos recebidos serão disponibilizados na área de discussão pública, salvo pedido expresso de reserva pelo signatário. Para constar se publica o presente edital, que vai ainda ser disponibilizado no sítio na Internet do Instituto.
+6 de abril de 2016. - O Presidente, Nuno André Oliveira Mangas Pereira.
+209499109
