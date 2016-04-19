@@ -1,0 +1,5 @@
+Aviso n.º 15/2016
+Por ordem superior se torna público que foram emitidas notas pela Embaixada da República da Croácia em Lisboa e pelo Ministério dos Negócios Estrangeiros, respetivamente em 5 de maio de 2014 e em 23 de janeiro de 2015, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República da Croácia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Dubrovnik em 4 de outubro de 2013.
+A Convenção foi aprovada pela Resolução da Assembleia da República n.º 3/2015, de 12 de janeiro de 2015, e ratificada pelo Decreto do Presidente da República n.º 6/2015, de 12 de janeiro de 2015, publicados no Diário da República, 1.ª série, n.º 7, de 12 de janeiro de 2015.
+Nos termos do artigo 28.º, n.º 1, a Convenção entrou em vigor em 28 de fevereiro de 2015.
+Direção-Geral dos Assuntos Europeus, 7 de abril de 2016. - O Diretor-Geral dos Assuntos Europeus, Pedro Costa Pereira.
