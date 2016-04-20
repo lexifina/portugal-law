@@ -1,0 +1,106 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "201423",
+  "tipo": "Declaração politica",
+  "orador": "Pedro Mota Soares (CDS-PP)",
+  "data_registo": "2016-04-20",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "30316",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "30316",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Pronuncia-se sobre cada um dos eixos do Plano Nacional de Reformas."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pronuncia-se sobre cada um dos eixos do Plano Nacional de Reformas.",
+        "duracao": "00:07:42:310",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160420pln&url=l13/sl1/a2016/m04/&tI=00:21:36:592&drc=00:07:42:310"
+      },
+      {
+        "assunto": "Responde a Sérgio Azevedo acerca da sua declaração sobre o Plano Nacional de Reformas.",
+        "duracao": "00:02:25:029",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160420pln&url=l13/sl1/a2016/m04/&tI=00:31:50:113&drc=00:02:25:029"
+      },
+      {
+        "assunto": "Responde a João Galamba acerca da sua declaração sobre o Plano Nacional de Reformas.",
+        "duracao": "00:02:21:391",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160420pln&url=l13/sl1/a2016/m04/&tI=00:38:45:608&drc=00:02:21:391"
+      },
+      {
+        "assunto": "Responde a António Filipe acerca da sua declaração sobre o Plano Nacional de Reformas.",
+        "duracao": "00:02:31:606",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160420pln&url=l13/sl1/a2016/m04/&tI=00:44:19:394&drc=00:02:31:606"
+      }
+    ],
+    "DataReuniaoPlenaria": "2016-04-20",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1102",
+      "nome": "Pedro Mota Soares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "201423",
+    "IdDebate": "5040",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "201423",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "12-13",
+          "14-15",
+          "7-9",
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-04-21",
+        "pubLeg": "XIII",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/056/2016-04-21/7?pgs=7-9,9-10,12-13,14-15&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde a pedidos de esclarecimento dos Deputados Sérgio Azevedo (PSD), João Galamba (PS) e António Filipe (PCP).",
+    "Sessao": "1",
+    "Sumario": "Pronuncia-se sobre cada um dos eixos do Plano Nacional de Reformas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
