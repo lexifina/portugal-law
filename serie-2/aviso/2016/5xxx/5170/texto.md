@@ -1,0 +1,5 @@
+Aviso n.º 5170/2016
+Armando Jorge Mendonça Varela, Presidente da Câmara Municipal de Sousel, torna público que, por sua deliberação, tomada em reunião ordinária pública de 22 de junho de 2015 e na sessão da Assembleia Municipal de 25 de junho 2015, nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, que aprova o Novo Código do Procedimento Administrativo, é submetido a consulta pública o projeto de Regulamento do Cartão Jovem Municipal, pelo período de 30 dias a contar da data da publicação do presente aviso no Diário da República, 2.ª série, o qual se encontra disponível no site, podendo também ser consultado no Serviço de Atendimento desta Câmara Municipal durante as horas normais de expediente e sobre ele serem formuladas por escrito as observações tidas por convenientes, dirigidas ao Presidente da Câmara Municipal.
+Para geral conhecimento se publica este aviso e outros de igual teor que vão ser afixados nos locais de estilo.
+5 de abril de 2016. - O Presidente da Câmara Municipal, Armando Jorge Mendonça Varela.
+309485825
