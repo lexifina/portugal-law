@@ -1,0 +1,446 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12786",
+  "numero": "105",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-04-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-07-06",
+            "entidades": null,
+            "id": "102616",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-06 com Peticionária da Petição nº 105"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-07-14",
+            "dataResposta": "2016-10-13",
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "162/9ª-CS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-10-24",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-05-04",
+        "DataArquivo": "2016-12-07",
+        "DataBaixaComissao": "2016-04-26",
+        "DataEnvioPAR": "2016-12-07",
+        "DataReaberta": "2016-05-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-07-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e325668597a6c694f5745744e4752694e53303059544e694c5749784e5441744d4451315a546b334e32566b4d6d45344c6e426b5a673d3d&fich=7eac9b9a-4db5-4a3b-b150-045e977ed2a8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-07-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d6a6b7a4f546b785a6a41744e6d51324e693030597a59334c54686a4d6a49744d6a67315932526c5a5463334e5759334c6e426b5a673d3d&fich=293991f0-6d66-4c67-8c22-285cdee775f7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-12-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e7a41314f4449794d6d45744d446b775a4330304e3245354c5749334f5745744d6d59335a4455344e5455334d444d7a4c6e426b5a673d3d&fich=7058222a-090d-47a9-b79a-2f7d58557033.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-10-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e4455354f4467324f546b744e6d513559533030596a5a684c546c685a4759744e54466b4e4442694d3245324e54526a4c6c424552673d3d&fich=45988699-6d9a-4b6a-9adf-51d40b3a654c.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-05-04",
+            "gp": "PS",
+            "id": "6128",
+            "motivoCessacao": null,
+            "nome": "Marisabel Moutela"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-03-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-04-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938325a6d45784f574e694d5330345a54686c4c5451355a6a55744f44686d4d43316c4e7a49314f4455795a6a5268596d45756347526d&fich=6fa19cb1-8e8e-49f5-88f0-e725852f4aba.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:13:27:391&drc=00:03:54:609"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a criação do Dia Nacional da Anemia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:17:27:520&drc=00:01:43:479"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a criação do Dia Nacional da Anemia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:19:16:191&drc=00:03:11:808"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a criação do Dia Nacional da Anemia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:22:36:041&drc=00:03:42:959"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a criação do Dia Nacional da Anemia.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_01_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:26:25:247&drc=00:02:50:753"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-02",
+                "pubLeg": "XIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Pretendem a criação do Dia Nacional da Anemia.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12786",
+    "PetAssunto": "Pretendem a criação do Dia Nacional da Anemia.",
+    "PetDataEntrada": "2016-04-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12786",
+    "PetLeg": "XIII",
+    "PetNr": "105",
+    "PetNrAssinaturas": "4521",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "604",
+        "obs": null,
+        "pag": [
+          "3-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-02",
+        "pubLeg": "XIII",
+        "pubNr": "57",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/057/2017-03-02/3?pgs=3-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "762433",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-05-06",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/028/2016-05-06/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
