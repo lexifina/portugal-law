@@ -1,0 +1,624 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12783",
+  "numero": "103",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-04-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-06-22",
+            "entidades": null,
+            "id": "102341",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-22 com Comissão Representativa do Movimento Cívico \"Direito a morrer com dignidade\", Comissão Representativa dos Subcritores da Petição n.º 103/XIII/1.ª - \"Solicitam a despenalização da morte assistida\""
+          },
+          {
+            "data": "2016-06-22",
+            "entidades": null,
+            "id": "102342",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-22 com Comissão Representativa do Movimento Cívico \"Direito a morrer com dignidade\", Comissão Representativa dos Subcritores da Petição n.º 103/XIII/1.ª - \"Solicitam a despenalização da morte assistida\""
+          },
+          {
+            "data": "2016-06-23",
+            "entidades": null,
+            "id": "102365",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-23 com Conselho Nacional de Ética para as Ciências da Vida - CNECV"
+          },
+          {
+            "data": "2016-06-29",
+            "entidades": null,
+            "id": "102390",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-29 com Professor Jorge Reis Novais - Faculdade de Direito da Universidade de Lisboa"
+          },
+          {
+            "data": "2016-06-29",
+            "entidades": null,
+            "id": "102391",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-29 com Professora Luísa Neto - Faculdade de Direito da Universidade do Porto"
+          },
+          {
+            "data": "2016-06-30",
+            "entidades": null,
+            "id": "102406",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-30 com Bastonário da Ordem dos Médicos"
+          },
+          {
+            "data": "2016-06-30",
+            "entidades": null,
+            "id": "102407",
+            "tipo": null,
+            "titulo": "Audição em 2016-06-30 com Bastonária da Ordem dos Enfermeiros"
+          },
+          {
+            "data": "2016-07-06",
+            "entidades": null,
+            "id": "102499",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-06 com Professora Doutora Teresa Beleza - Faculdade de Direito da Universidade Nova de Lisboa"
+          },
+          {
+            "data": "2016-07-06",
+            "entidades": null,
+            "id": "102500",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-06 com Juiz Conselheiro Dr. José Adriano Machado Souto de Moura"
+          },
+          {
+            "data": "2016-07-12",
+            "entidades": null,
+            "id": "102519",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-12 com Professora Doutora Mafalda Miranda Barbosa - Faculdade de Direito da Universidade de Coimbra"
+          },
+          {
+            "data": "2016-07-12",
+            "entidades": null,
+            "id": "102524",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-12 com Professor Doutor José Francisco de Faria Costa - Faculdade de Direito da Universidade de Coimbra"
+          },
+          {
+            "data": "2016-07-12",
+            "entidades": null,
+            "id": "102533",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-12 com Professor Doutor Manuel Costa Andrade - Faculdade de Direito da Universidade de Coimbra"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-11-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-05-04",
+        "DataArquivo": "2016-11-30",
+        "DataBaixaComissao": "2016-04-26",
+        "DataEnvioPAR": "2016-12-06",
+        "DataReaberta": "2016-05-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-11-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245774d6d466a4e4449784c546c6c59324d744e4456695a5331684d444d314c5467334d4446695a4745774d6a466a595335775a47593d&fich=a02ac421-9ecc-45be-a035-8701bda021ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32593359544177597a63774c5455794e7a63744e444a6d4e6931684d3251344c575a6b4d7a63354e445978596a6b784d5335775a47593d&fich=f7a00c70-5277-42f6-a3d8-fd379461b911.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-18",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a526c4f574a68596a4d784c5445304d5463744e47526b595330344e4759344c5467324e44426a597a67324d6a49354d4335775a47593d&fich=4e9bab31-1417-4dda-84f8-8640cc862290.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-05-04",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a59314d474577596a67334c5751314e6a45744e4745774d6930354d54426a4c544d34597a6c6d597a426a5a6a457a4e5335775a47593d&fich=650a0b87-d561-4a02-910c-38c9fc0cf135.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-17",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a55304f545668597a67314c57466d4e6a49744e4749784e6930354d5455794c574e6c59324a695a5745305932526a4e5335775a47593d&fich=5495ac85-af62-4b16-9152-cecbbea4cdc5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-12-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245344e7a4a684e6a686b4c57566d4e446b744e4445355a433169596d466d4c544a6b4d5459314e57466b4f446869597935775a47593d&fich=a872a68d-ef49-419d-bbaf-2d1655ad88bc.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-05-04",
+            "gp": "BE",
+            "id": "3998",
+            "motivoCessacao": null,
+            "nome": "José Manuel Pureza"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-02-01",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-04-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793830596d51794e324d34596930784d7a67794c54513559546774595455334e6930354e7a426c5a54457a5a6a52684d5455756347526d&fich=4bd27c8b-1382-49a8-a576-970ee13f4a15.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=02:46:32:674&drc=00:03:18:325"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=02:50:13:090&drc=00:03:12:909"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=02:53:50:475&drc=00:03:54:069"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=02:58:02:805&drc=00:04:08:194"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=03:02:28:065&drc=00:03:58:934"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=03:06:50:040&drc=00:03:42:845"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-02-02",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_01_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=03:10:43:466&drc=00:03:25:697"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a despenalização da morte assistida.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2016-06-28",
+        "TipoDocumento": "Link",
+        "URL": "http://www.parlamento.pt/sites/COM/XIIILEG/1CACDLG/GTDMA/Paginas/default.aspx"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12783",
+    "PetAssunto": "Solicitam a despenalização da morte assistida.",
+    "PetDataEntrada": "2016-04-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12783",
+    "PetLeg": "XIII",
+    "PetNr": "103",
+    "PetNrAssinaturas": "8428",
+    "PetNrAssinaturasInicial": "8427",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "600",
+        "obs": null,
+        "pag": [
+          "3-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-02",
+        "pubLeg": "XIII",
+        "pubNr": "45",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/045/2017-02-02/3?pgs=3-53&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "762432",
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-05-06",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/028/2016-05-06/11?pgs=11-12&org=PLC"
+      }
+    ]
+  }
+}
