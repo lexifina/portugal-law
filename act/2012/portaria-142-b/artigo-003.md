@@ -4,7 +4,7 @@
 
 1 - O SNS assegura os encargos com o transporte não urgente prescrito aos utentes em situação de insuficiência económica e quando a situação clínica o justifique nos seguintes termos:
 
-a) Incapacidade igual ou superior a 60%, desde que o transporte se destine à realização de cuidados originados pela incapacidade;
+a) Incapacidade igual ou superior a 60 %;
 
 b) Condição clínica incapacitante, resultante de:
 
@@ -33,6 +33,8 @@ xi) Doença infetocontagiosa que implique risco para a saúde pública;
 xii) Insuficiência renal crónica.
 
 xiii) Paralisia cerebral e situações neurológicas afins com comprometimento motor.
+
+c) Menores com doença limitante/ameaçadora da vida.
 
 2 - Para os efeitos do disposto no número anterior considera-se estar em situação clínica incapacitante o utente acamado, necessitado de transporte em isolamento, em cadeira de rodas por se encontrar impossibilitado de assegurar a marcha de forma autónoma, com dificuldade de orientação e ou inconveniência de locomoção na via pública e de modo próprio, devendo o transporte ser efetuado em ambulância.
 

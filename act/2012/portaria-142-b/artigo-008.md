@@ -12,7 +12,7 @@
 
 5 - Os encargos resultantes do transporte para consultas de pré-transplante são da responsabilidade da ARS da área de residência do utente.
 
-6 - Os encargos resultantes do transporte para consultas de pós-transplante são da responsabilidade do hospital responsável pela transplantação.
+6 - Os encargos resultantes do transporte para o transplante e para as consultas de pós-transplante são da responsabilidade do hospital responsável pela transplantação.
 
 7 - Os encargos com o transporte solicitado pelas equipas referenciadoras dos Agrupamentos de Centros de Saúde, no âmbito da Rede Nacional de Cuidados Continuados Integrados (RNCCI), são da responsabilidade da respetiva ARS, assim como os encargos com o transporte não urgente de doentes proveniente da RNCCI, sem prejuízo do disposto no número seguinte.
 
