@@ -1,0 +1,5 @@
+Aviso n.º 16/2016
+Por ordem superior se torna público que, em 12 de agosto de 2013 e em 10 de março de 2015, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros da Geórgia e pela Embaixada de Portugal em Ancara, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a Geórgia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e sobre o Património.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 23/2015, de 3 de outubro de 2014, publicada no Diário da República, 1.ª série, n.º 45, de 5 de março de 2015, e ratificada pelo Decreto do Presidente da República n.º 24/2015, de 5 de março de 2015, publicado no Diário da República, 1.ª série, n.º 45, de 5 de março de 2015.
+Nos termos do artigo 29.º, n.º 1, da referida Convenção, esta entrou em vigor em 18 de abril de 2015.
+Direção-Geral de Política Externa, 21 de abril de 2016. - A Subdiretora-Geral, Virgínia Pina.
