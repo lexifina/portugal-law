@@ -1,0 +1,30 @@
+Regulamento n.º 429/2016
+Alteração ao Regulamento do Cemitério de Campanhã e Tabela de Taxas e Licenças
+A presente alteração ao Regulamento e tabela de taxas e licenças (Anexo A) do Cemitério de Campanhã, tem por objeto adequar e reintroduzir no nosso Regulamento, em linha com o praticado noutros cemitérios da região, o regime do direito à ocupação "vitalícia" de ossário, mantendo-se como opção o direito ao uso designado por ocupação anual, sendo para o efeito criada a taxa de ocupação "vitalícia". Assim, a Junta de Freguesia de Campanhã, na sua reunião de 30 de março de 2016, deliberou, ao abrigo da alínea h) n.º 4 n.º 1 do artigo 16.º da Lei n.º 75/2013, de 12 setembro, conjugada com as als. c) e b) n.º 1 do artigo 23.º e artigo 24.º da Lei n.º 73/2013, de 3 de outubro e artigo 8.º al. b), n.º 3 do artigo 6.º e artigo 1.º todos da Lei n.º 53-E/06, de 29 de dezembro, e artigo 9.º do Regulamento de Taxas e Licenças, aprovar a alteração ao Regulamento do Cemitério de Campanhã e respetiva Tabela de Taxas e Licenças.
+Fundamentos: A Junta de Freguesia dispõe atualmente de um elevado número de ossário disponíveis, permitindo uma gestão flexível entre a procura de ocupações anuais e vitalícias.
+Porém, por deliberação aprovada em Assembleia de Freguesia de 29 de dezembro de 2009, foi alterado o Regulamento do Cemitério, criando-se um regime próprio para ossário através da introdução ex novo do artigo 24.º-A no Regulamento, tendo entrado em vigor em 1 de janeiro de 2010. Esta alteração e a introdução do referido artigo deveu-se à omissão relativamente ao regime de uso dos ossários e extinguiu-se a atribuição dos então designados por "aluguer" perpétuo (termo de uso corrente praticados em equipamentos congéneres), atendendo à escassez de ossários e subocupação dos mesmos.
+No entanto e atendendo ao investimento feito pela Junta de Freguesia, hoje a realidade é diferente, há ossários disponíveis e há procura para o que aqui designamos de ocupação "vitalícia".
+Face ao exposto e ao investimento que vem sendo realizado no Cemitério, estão reunidas as condições para se reintroduzir o regime de ocupação "vitalícia", indo ao encontro da vontade manifestada por muitos cidadãos e permitindo à autarquia a arrecadação de receita para continuar o investimento. Sublinha-se que o valor agora proposto na tabela de taxas pela reintrodução do regime de ocupação vitalícia, sofre um acréscimo de 2,8 % comparativamente ao valor praticada à data da extinção deste regime
+Nestes termos, procede-se à alteração do artigo 24.º-A do Regulamento do Cemitério de Campanhã em vigor, publicado no DR n.º 69 - 2.ª série de 22-03-2000, com as alterações publicadas no DR n.º 23 - 2.ª série de 01-02-2008, DR. 213 - 2.ª série de 03-11-2008 e DR n.º 230 - 2.ª série de 30-11-2011 assim como à respetiva tabela de taxas e licenças.
+SECÇÃO III
+Trasladação/ossários
+Artigo 24.º-A
+Ossários
+1 - Aos interessados pode ser atribuído o direito ao uso de ossário no cemitério de Campanhã, em regime de ocupação vitalícia ou anual, mediante o pagamento das respetivas taxas em vigor, para o depósito de ossadas ou cinzas.
+2 - O regime de ocupação vitalícia extingue-se com a morte do seu titular, sem prejuízo de pessoa com disposição testamentária expressa ou os legítimos herdeiros, pretendam manter a ocupação do ossário, devendo para o efeito dirigir requerimento à Junta de Freguesia de Campanhã, no prazo máximo de 60 dias a contar da data da morte do titular do direito de ocupação vitalício.
+3 - Para efeitos do número anterior e em caso dos interessados pretenderem manter a ocupação do ossário, esta converte-se em regime de ocupação anual.
+4 - O pagamento da taxa anual de renovação da ocupação do ossário, é efetuada durante o respetivo mês de atribuição da ocupação até ao último dia útil do mês subsequente. O não cumprimento do prazo previsto, é anulado o direito à ocupação e libertado o respetivo espaço do ossário.
+Alteração à Tabela de Taxas e Licenças
+(anexo A)
+Tendo em consideração a pretensão de reintroduzir o regime de ocupação vitalícia de ossários, assim como o valor da respetiva taxa, há que proceder a alterações ao Regulamento da Tabela de Taxas e Licenças, aprovado em Assembleia de Freguesia de 29 de dezembro de 2009, dando cumprimento ao quadro legal em vigor exposto no preambulo da Proposta.
+Nos termos do Regime das Taxas e Licenças das Autarquias, aprovado pela Lei 53-E/2006, de 29 de dezembro e Lei 73/2013, de 3 setembro, os regulamentos que criem taxas nas freguesias tem de ter, obrigatoriamente, a fundamentação económica-financeira relativamente ao valor das taxas, já previsto no artigo 9.º do Regulamento das Taxas e Licenças em vigor nesta autarquia. Ora, é o caso concreto, pretendendo-se introduzir, no artigo 8.º do Regulamento, a taxa de ocupação vitalícia de ossário.
+A fixação do valor da taxa deve obedecer, neste sentido, ao princípio da equivalência jurídica, segundo o qual deve ser respeitado o princípio da proporcionalidade, sem que se ultrapasse o custo da atividade pública local ou o benefício auferido pelo particular, sem prejuízo da arrecadação de receita necessária para a prossecução do interesse público. Contudo, ainda que com obediência a este princípio, o valor das taxas pode ser fixado com base em critérios de desincentivo à prática de certos atos ou operações, tendo uma função moderadora de acesso aos serviços os bens públicos.
+Na formação das taxas aqui aprovadas, tem-se em consideração o custo da atividade pública local e o benefício para o particular.
+A taxa aplicável é determinada pela fórmula:
+Tx = (IN + VS - VU)/BP
+em que: VS - Valor do serviço; VU - Valor Unitário; IN - Investimento; BP - coeficiente de benefício para o particular (variável por estimativa de 0 a 100)
+Tx = ((12.000 + 25 - 300)/18) = 617,00 (euro)
+Taxa aplicável à ocupação vitalícia de ossário é de 617,00 (euro)
+Aprovado em Assembleia de Freguesia de 8 de abril de 2016. Entra de imediato em vigor.
+28 de abril de 2016. - O Presidente da Junta, Ernesto Santos.
+209541674
