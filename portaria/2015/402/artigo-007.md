@@ -6,7 +6,7 @@ Podem beneficiar dos apoios previstos na presente portaria as operações que se
 
 a) Serem desenvolvidas por um grupo operacional constituído por três ou mais entidades parceiras, incluindo, obrigatoriamente, entidades de cada uma das alíneas a), b) e c) do n.º 1 do artigo 5.º;
 
-b) Resultem de uma iniciativa registada na Bolsa de Iniciativas até à data de publicação do anúncio do período de apresentação das candidaturas;
+b) Resultem de uma iniciativa registada na Bolsa de Iniciativas até 10 dias úteis antes do termo do período de apresentação de candidaturas;
 
 c) Apresentem um plano de ação de duração não superior a 5 anos, que desenvolva de forma fundamentada, nomeadamente, os seguintes elementos:
 
