@@ -30,6 +30,8 @@ B) Outros custos diretos
 
 9 - Aquisição de bens e serviços, incluindo os recursos a apoios técnicos especializados, como o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;
 
+9-A - Encargos relacionados com a constituição de garantia relativa ao adiantamento previsto no n.º 5 do artigo 14.º
+
 C) Custos indiretos
 
 10 - Encargos com instalações, tais como despesas de funcionamento como água, eletricidade, comunicações, serviços de limpeza, produtos de higiene e limpeza.
