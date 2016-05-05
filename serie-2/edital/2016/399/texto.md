@@ -1,0 +1,4 @@
+Edital n.º 399/2016
+Ricardo Manuel de Amaral Rodrigues, Presidente da Câmara Municipal de Vila Franca do Campo, torna público que em reunião ordinária da Câmara Municipal realizada em 13 de abril de 2016 foi deliberado aprovar a Proposta do Regulamento Municipal de Apoio à Habitação Degradada e submetê-lo a audiência de interessados e consulta pública nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, pelo prazo de 30 dias úteis, contados da publicação do presente edital no Diário da República, encontrando-se o mesmo disponível para consulta púbica no Gabinete de Apoio ao Munícipe, durante o horário de expediente e no sítio da Câmara Municipal de Vila Franca do Campo em www.cmvfc.pt.
+28 de abril de 2016. - O Presidente da Câmara, Ricardo Manuel de Amaral Rodrigues.
+209540556
