@@ -46,4 +46,4 @@ T2 - total das horas de formação/consultoria ministradas numa candidatura por 
 
 5 - O valor resultante da aplicação do valor padrão nos termos do número anterior, não pode exceder, para cada formador externo ou consultor, mais de 50 % dos valores constantes das alíneas previstas respetivamente nos n.os 2 e 3.
 
-6 - Não pode ser paga aos formadores externos ou aos consultores remuneração inferior a 75 % da remuneração resultante da aplicação das regras previstas nos n.os 2 a 5.
+6 - Não pode ser paga aos formadores externos ou aos consultores remuneração inferior a 75 % da remuneração resultante da aplicação das regras previstas no n.os 2 a 5, exceto quando a prática desses valores decorra da aplicação das normas da Lei do Orçamento do Estado em contratos de aquisição de serviços.

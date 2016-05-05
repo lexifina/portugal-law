@@ -16,8 +16,10 @@ d) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas 
 
 3 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um técnico oficial de contas (TOC) ou revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento da operação, a regularidade das operações contabilísticas.
 
-4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade.
+4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade;
 
-5 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo.
+5 - As entidades públicas sujeitas à apresentação da conta de gerência ao Tribunal de Contas podem, em situações excecionais, devidamente fundamentadas, nomeadamente quando assumam a qualidade de entidades beneficiárias responsáveis pela execução de políticas públicas, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, ser dispensadas, pela autoridade de gestão, do cumprimento do disposto na alínea b) do n.º 2, desde que respeitados os princípios da não duplicação de apoios comunitários e do registo contabilístico e que não resulte prejudicada a verificação da respetiva despesa.
 
-6 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.
+6 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo;
+
+7 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.
