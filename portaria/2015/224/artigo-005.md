@@ -6,7 +6,7 @@
 
 2 - A prescrição de um medicamento inclui obrigatoriamente a respetiva denominação comum internacional (DCI) da substância ativa, a forma farmacêutica, a dosagem, a apresentação, a quantidade e a posologia.
 
-3 - A prescrição de medicamentos é feita por via eletrónica, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.
+3 - A prescrição de medicamentos é feita por via eletrónica desmaterializada, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.
 
 4 - Salvo o disposto nos n.os 5 a 8, em cada receita médica, podem ser prescritos:
 
