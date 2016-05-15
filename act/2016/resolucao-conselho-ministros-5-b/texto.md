@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 5-B/2016
+Humberto Delgado presidiu, enquanto Diretor-Geral do Secretariado da Aeronáutica Civil, à institucionalização dos Transportes Aéreos Portugueses e contribuiu para a criação da moderna aviação comercial.
+Criou as primeiras linhas aéreas de ligação ao exterior, tendo estabelecido a primeira ligação aérea comercial entre Lisboa, Luanda e Lourenço Marques e conquistou para Portugal o controlo do tráfego aéreo do Atlântico Norte. Impulsionou a aviação civil e promoveu e dignificou o papel de Portugal no mundo. Foi o primeiro representante de Portugal no Conselho da Organização da Aviação Civil Internacional.
+Durante três anos, e incansavelmente, construiu de raiz um novo sistema de transportes e estabeleceu as bases para a aviação moderna em Portugal, abrindo, ao país, uma porta de entrada à cultura e à experiência do exterior.
+Com uma carreira militar sólida, Humberto Delgado foi ao encontro do apelo de vários sectores oposicionistas da sociedade civil, submetendo-se ao escrutínio como candidato presidencial independente contra o candidato da União Nacional.
+Depois desse sufrágio, o ambiente político em Portugal alterou-se radicalmente. Pela primeira vez, um militar condecorado havia afrontado o regime, como exemplo para outros que o seguiriam.
+Humberto Delgado contribuiu para manter ativa a oposição ao regime, e, do exterior, perpetua a luta pela liberdade e a democracia, continuando a estar associado a momentos marcantes da resistência ao Estado Novo.
+A lealdade, sentido de dever, inteligência e o brio profissional valeram-lhe diversas homenagens e condecorações, nomeadamente a de Oficial da Ordem Militar de Avis, Comendador da Ordem Militar de Avis, Comendador da Ordem do Império Britânico e Comendador da Ordem Militar de Cristo, entre outras. A postura de inconformismo e de desafio pela liberdade e democracia granjearam-lhe o epíteto de «General sem Medo». Por outro lado, a sua faceta política, bem como a constante luta pela liberdade e pela democracia, confirmou este militar condecorado como um forte opositor ao Estado Novo.
+Por estas razões, pretende o Governo homenagear esta figura notável do país político do século XX e um vulto da aviação civil portuguesa, pelo que o Conselho de Ministros, decorridos quase 51 anos sobre o seu assassinato, a 13 de fevereiro de 1965, decidiu atribuir o seu nome à denominação oficial do Aeroporto de Lisboa.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Denominar o Aeroporto de Lisboa de Aeroporto Humberto Delgado.
+2 - Determinar que todas as referências feitas ao Aeroporto de Lisboa, designadamente em contratos, devem ser entendidas como efetuadas ao Aeroporto Humberto Delgado.
+3 - Estabelecer que a presente resolução entra em vigor a 15 de maio de 2016, podendo, por razões operacionais, esta data ser adiada por despacho do membro do Governo responsável pela área dos aeroportos.
+Presidência do Conselho de Ministros, 11 de fevereiro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
