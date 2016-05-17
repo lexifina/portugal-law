@@ -1,0 +1,775 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12795",
+  "numero": "114",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-05-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-07-19",
+            "entidades": null,
+            "id": "102606",
+            "tipo": null,
+            "titulo": "Audição em 2016-07-19 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-07",
+            "entidades": [
+              "Conselho Nacional de Educação"
+            ],
+            "nrOficio": "367/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-18",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "368/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-11",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "369/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-18",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "370/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos"
+            ],
+            "nrOficio": "371/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "STE - Sindicato dos Quadros Técnicos do Estado"
+            ],
+            "nrOficio": "372/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-12",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "373/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-13",
+            "entidades": [
+              "Associação Nacional dos Professores Contratados"
+            ],
+            "nrOficio": "374/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "Conselho de Escolas"
+            ],
+            "nrOficio": "375/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "376/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "377/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-22",
+            "entidades": [
+              "Confederação Nacional de Educação e Formação"
+            ],
+            "nrOficio": "378/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": "2016-07-22",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "379/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-20",
+            "dataResposta": "2016-12-22",
+            "entidades": [
+              "Frente Comum de Sindicatos da Administração Pública"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": null,
+            "dataResposta": "2016-12-21",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-06-29",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "366/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-09-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-06-14",
+        "DataArquivo": "2016-09-27",
+        "DataBaixaComissao": "2016-05-25",
+        "DataEnvioPAR": "2016-10-03",
+        "DataReaberta": "2016-06-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-06-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59324f4449355a47526d4c574e684f544d744e4445314f5331684d6a67794c544a68596a466c4e5751775a6a6b354f4335775a47593d&fich=66829ddf-ca93-4159-a282-2ab1e5d0f998.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51784f4441304d544a694c546335595755744e4446695a4330354f474a6a4c54466c5932457a5a5745305a475932596935775a47593d&fich=4180412b-79ae-41bd-98bc-1eca3ea4df6b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256694d5451354d44526b4c544a6d4e7a41744e4749344d53316959544d344c5449314f54457a4d6a5a6b4d57557a4e5335775a47593d&fich=eb14904d-2f70-4b81-ba38-2591326d1e35.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a646c4e324934596a55354c544e6a5a6a51744e474e6a5a6931694d6a45304c574d35596a45345a6d51314d7a6734596935775a47593d&fich=7e7b8b59-3cf4-4ccf-b214-c9b18fd5388b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49354e5751355a474e684c57526a5a544d744e44686c597931694d4445314c574577596d55314f57526b4d5751355a5335775a47593d&fich=295d9dca-dce3-48ec-b015-a0be59dd1d9e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5131597a646d4e7a526c4c545a6c4d4751744e44526d596930345a546b794c5755315a6a637a4e57566b59325a695a5335775a47593d&fich=45c7f74e-6e0d-44fb-8e92-e5f735edcfbe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6859544a6d4f5751344c544e6c4e4755744e444e6d5a4330354f4467774c54493559544d774d5446685a4451785a5335775a47593d&fich=faa2f9d8-3e4e-43fd-9880-29a3011ad41e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466d4f47526b4d54517a4c57466b4e6d59744e445979596931685957466a4c575a6d4d32466a5957517a4e4751324d6935775a47593d&fich=af8dd143-ad6f-462b-aaac-ff3acad34d62.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4935593245334d4449794c5759334d444d744e4746695a6930344d6a4a684c5759774d7a45344f544530596a6468597935775a47593d&fich=29ca7022-f703-4abf-822a-f0318914b7ac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6734593255344e7a6b334c5745324e5451744e4467775a4330344e7a45354c5441334f574a6d595463334f446b334e6935775a47593d&fich=88ce8797-a654-480d-8719-079bfa778976.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251794d7a646d4d6d597a4c5463795a5449744e47597a4d7931695a6d51334c574a6d596a46684e6a51774f5455354d5335775a47593d&fich=d237f2f3-72e2-4f33-bfd7-bfb1a6409591.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466a4e6d55785a6a517a4c5455354e7a55744e44686a4d6931684f4755784c5749344d5459334d7a49304e544a6b4e6935775a47593d&fich=ac6e1f43-5975-48c2-a8e1-b816732452d6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45344d7a6b335a5445784c5451304e5445744e446b774d5330354e44517a4c54426d596a466b4d545177596a517a4e5335775a47593d&fich=18397e11-4451-4901-9443-0fb1d140b435.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255784f5445304e3245784c57566859546b744e444d3359793169597a6b334c544d314e47566a5a544a684f575a69595335775a47593d&fich=e19147a1-eaa9-437c-bc97-354ece2a9fba.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256684d6d51784f474d774c5759354f474d744e444e6d595330344e324a6d4c5455314f4451304f57557a5a44566b4d4335775a47593d&fich=ea2d18c0-f98c-43fa-87bf-558449e3d5d0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-06-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245785a6d4e6a4d6a686a4c574d774e4467744e445a6a4d7931695a544d334c546b774e444530596a6b344d4755304e4335775a47593d&fich=a1fcc28c-c048-46c3-be37-90414b980e44.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-10-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d354f444a69593255794c5759794d7a55744e44686c595331694e574e684c5441314e324533593259794d7a6b344d6935775a47593d&fich=c982bce2-f235-48ea-b5ca-057a7cf23982.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d324f474a6b59324e6c4c575177595745744e474531595331694e7a426d4c5751314e6a45325a6a466a4d32566c4e6935775a47593d&fich=c68bdcce-d0aa-4a5a-b70f-d5616f1c3ee6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5668596d5178595752684c54557a4d6a4d744e445177597931694f4745324c5449775a6a59784f475a6d4e4745314f5335775a47593d&fich=5abd1ada-5323-440c-b8a6-20f618ff4a59.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466b4e6a4a6c4e4467784c574e6c4e6a63744e4755354d6930354e57497a4c5445304e5467794e6a5a685a6a5530595335775a47593d&fich=1d62e481-ce67-4e92-95b3-1458266af54a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566b4e7a63784d3255354c5756694d6d59744e47526b4d7930344d4467774c545178596d56694d446b334f47526b4f4335775a47593d&fich=5d7713e9-eb2f-4dd3-8080-41beb0978dd8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6c4d5759304e7a4e684c5441774d6a63744e475978597931694f4749334c545a6c5a5451784d4752685a4755315a4335775a47593d&fich=2e1f473a-0027-4f1c-b8b7-6ee410dade5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41774e475a6d4d574d784c5745794d4759744e4755784f433035597a63304c54466b4f5759354f444e684f5759784d4335775a47593d&fich=004ff1c1-a20f-4e18-9c74-1d9f983a9f10.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a637a596a51304d7a4d304c546c6c4d6a51744e4449334e6931694d7a4d774c5459784e54457a4d6d56694d32526c5a6935775a47593d&fich=73b44334-9e24-4276-b330-615132eb3def.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a646b4e6d4e6a4f4745324c546869596d49744e4759334d4330354e4759324c54497a5a544d784e4449795a6a526d4d5335775a47593d&fich=7d6cc8a6-8bbb-4f70-94f6-23e31422f4f1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c684d57466c4e7a686d4c5463344f474d744e444d7a4d533168597a67784c5468694d7a5a6d4e7a45345957526b4e5335775a47593d&fich=9a1ae78f-788c-4331-ac81-8b36f718add5.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-06-14",
+            "gp": "PSD",
+            "id": "3919",
+            "motivoCessacao": null,
+            "nome": "Amadeu Soares Albergaria"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2016-12-23",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-05-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4e4468684e5441355a6930784e325a6c4c545130596a5174595445334e53316c4d3245794f54466c596a457a4f5445756347526d&fich=e48a509f-17fe-44b4-a175-e3a291eb1391.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=00:54:21:070&drc=00:01:36:929"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=01:12:45:154&drc=00:02:26:730"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18",
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/17?pgs=17-18,23&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=00:56:03:380&drc=00:03:40:759"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=00:59:47:469&drc=00:03:22:411"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=01:03:14:655&drc=00:02:58:344"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=01:06:19:489&drc=00:03:31:285"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2016-12-24",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2016_12_23_10_00_00_14_plenario&url=l13/sl2/a2016/m12/&tI=01:09:54:145&drc=00:02:46:654"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-12-24",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12795",
+    "PetAssunto": "Todos os cidadãos têm a mesma dignidade social e são iguais perante a lei - educação.",
+    "PetDataEntrada": "2016-05-17",
+    "PeticoesAssociadas": null,
+    "PetId": "12795",
+    "PetLeg": "XIII",
+    "PetNr": "114",
+    "PetNrAssinaturas": "5785",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "591",
+        "obs": null,
+        "pag": [
+          "3-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-24",
+        "pubLeg": "XIII",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/033/2016-12-24/3?pgs=3-31&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "767888",
+        "obs": null,
+        "pag": [
+          "24-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-06-17",
+        "pubLeg": "XIII",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/036/2016-06-17/24?pgs=24-26&org=PLC"
+      }
+    ]
+  }
+}
