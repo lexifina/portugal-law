@@ -1,0 +1,7 @@
+Despacho n.º 6483/2016
+Informação sobre inscrições nos Cursos de Mestrado da Faculdade de Motricidade Humana
+O n.º 2 do artigo 15.º do Regulamento de Estudos de Pós-Graduação da Universidade de Lisboa, aprovado pelo Despacho n.º 2950/2015, de 12 de fevereiro, publicado no Diário da República, 2.ª série, n.º 57, de 23 de março de 2015, vem sancionar a existência de regulamentos próprios de cada Escola da ULisboa para o ingresso no ciclo de estudos de mestrado.
+O Regulamento n.º 851/2010 - Regulamento dos Mestrados da Faculdade de Motricidade Humana, de 12 de novembro, publicado no Diário da República, 2.ª série, n.º 227, de 23 de novembro de 2010 e mantido em vigor por força do n.º 7 do artigo 44.º do Estatutos da Universidade de Lisboa, aprovados pelo Despacho normativo n.º 5-A/2013, de 18 de abril, publicado no Diário da República, 2.ª série, n.º 77, de 19 de abril de 2013, prevê, no seu n.º 3 do artigo 9.º a inscrição provisória, até ao final do segundo semestre, de estudantes finalistas do primeiro ciclo.
+Verificando-se que a data anteriormente prescrita já não se justifica, perante o calendário de exames em vigor e no sentido de evitar um atraso excessivo na conclusão dos processos de matrícula para os cursos do 2.º ciclo, vem o Conselho Científico determinar que os candidatos aos cursos de mestrado devem obrigatoriamente apresentar comprovativo do grau de licenciado até ao dia 30 de setembro do ano letivo em que se candidatam.
+3 de maio de 2016. - O Presidente do Conselho Científico, Prof. Doutor Francisco José Bessone Ferreira Alves.
+209561713
