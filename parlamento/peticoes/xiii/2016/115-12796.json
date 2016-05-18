@@ -1,0 +1,700 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12796",
+  "numero": "115",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-05-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-10-18",
+            "entidades": null,
+            "id": "103142",
+            "tipo": null,
+            "titulo": "Audição em 2016-10-18 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-07",
+            "entidades": [
+              "Conselho Nacional de Educação"
+            ],
+            "nrOficio": "384/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-29",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "385/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "386/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-18",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "3876/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "388/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "389/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "Frente Comum de Sindicatos da Administração Pública"
+            ],
+            "nrOficio": "390/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Frente Sindical da Administração Pública"
+            ],
+            "nrOficio": "391/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "STE - Sindicato dos Quadros Técnicos do Estado"
+            ],
+            "nrOficio": "392/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-12",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "393/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-14",
+            "entidades": [
+              "Associação Nacional dos Professores Contratados"
+            ],
+            "nrOficio": "394/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": "2016-07-26",
+            "entidades": [
+              "Conselho das Escolas"
+            ],
+            "nrOficio": "395/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "396/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-06",
+            "dataResposta": "2016-07-12",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "413/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-04",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "383/8ªCEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-11-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-06-14",
+        "DataArquivo": "2016-11-02",
+        "DataBaixaComissao": "2016-05-25",
+        "DataEnvioPAR": "2016-11-07",
+        "DataReaberta": "2016-06-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-06-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45355a5755334f544d774c5459325a5441744e4745344d4330344e7a426a4c54646a5a5455794f4749344e7a59345a4335775a47593d&fich=19ee7930-66e0-4a80-870c-7ce528b8768d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b354f444a6b4e7a6b314c57597a4f5445744e4459344f43316859574d774c54677a596a4e6d5a6a5533596a49794e6935775a47593d&fich=9982d795-f391-4688-aac0-83b3ff57b226.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d7a4d6a4d775a5749354c5459324d4441744e474577595331684d4459354c54646c4d54646a4e7a49314d5746694e4335775a47593d&fich=33230eb9-6600-4a0a-a069-7e17c7251ab4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426a5a4445784d5467304c544d784d6a59744e474d794f5331684f44557a4c546778595467314f47526c5a5455335a4335775a47593d&fich=0cd11184-3126-4c29-a853-81a858dee57d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45784e6a4d304e5459304c5463794e4755744e445a6c4d5331694f4467314c57566c59324d324d445a6c4f4441794d5335775a47593d&fich=11634564-724e-46e1-b885-eecc606e8021.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d77596a6b354d54646d4c5441315a446b744e4759784f5331684e474e684c57566b5a445579596a526c596a526c5a6935775a47593d&fich=c0b9917f-05d9-4f19-a4ca-edd52b4eb4ef.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49344d546b304d6a45344c5445774d5451744e44566c5a6930354e6a646a4c5759344d6a646d4e6a5130597a5579596935775a47593d&fich=28194218-1014-45ef-967c-f827f644c52b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32557a5a5463314e3251794c544d7a4f5451744e44466b4e5331685a444d314c546469597a45335a546b7a4d4745324f4335775a47593d&fich=e3e757d2-3394-41d5-ad35-7bc17e930a68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32553359546b794f5751794c544d334e324d744e4759774e5330344d7a5a6d4c5451344d4459335a57526a5a47466b4d6935775a47593d&fich=e7a929d2-377c-4f05-836f-48067edcdad2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45794f4755784d6a646d4c5755344e474d744e4759794e5330344f5745314c5456684f5755774d4759304f4752694d7935775a47593d&fich=128e127f-e84c-4f25-89a5-5a9e00f48db3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55354d546b354d574d324c544d774e5445744e4759305a6930354e6d51334c5467324e6a4a685a54686b4d44566a4e6935775a47593d&fich=591991c6-3051-4f4f-96d7-8662ae8d05c6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426a5a575a6c596a49774c546c6b4e4745744e446b795a6930354e546c6c4c54466a4e4749314e32497a4e54566d5a5335775a47593d&fich=0cefeb20-9d4a-492f-959e-1c4b57b355fe.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325533596a59775a474d7a4c54526a5a4451744e446c6d4d4330344e57566d4c544d334d544132595467354e5467354d5335775a47593d&fich=e7b60dc3-4cd4-49f0-85ef-37106a895891.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41324e54646c4e5455314c574e684d4759744e444d345979303459544a6c4c5467325a44466c4d7a4a6b4f446b774d6935775a47593d&fich=0657e555-ca0f-438c-8a2e-86d1e32d8902.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304e7a55355a6d59784c5752694f5459744e44466d4f53316859575a684c544d78597a51774d4459325a6a4e6d5a6935775a47593d&fich=74759ff1-db96-41f9-aafa-31c40066f3ff.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255785a5745795a6a49344c5755305a4467744e44466d597931694d445a6d4c544132596d51774f5468695a6a4a694d6935775a47593d&fich=e1ea2f28-e4d8-41fc-b06f-06bd098bf2b2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-11-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325177595449324d3249774c5449305a6a59744e4463794f4331685a4756694c5759794e3255795a6d4e6a4f5467794d6935515245593d&fich=d0a263b0-24f6-4728-adeb-f27e2fcc9822.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-08-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67784e7a5a6c4e7a6b354c5749795a4751744e446b334e6930345a5745794c5751784f446c6b4f5449785a5759354e5335775a47593d&fich=8176e799-b2dd-4976-8ea2-d189d921ef95.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259325a6d55794f546b794c5467354d6d59744e445a694f433169595464684c5751794d7a6b7a4d545a6a59545532595335775a47593d&fich=f6fe2992-892f-46b8-ba7a-d239316ca56a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5978596d4d794d5449794c54466b4f4445744e44517a4d7931684d4459774c546c695a6d5a6a597a6c6b4e6a52695a5335775a47593d&fich=61bc2122-1d81-4433-a060-9bffcc9d64be.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a6c5a544d314d6d45314c5445354e4441744e444e6a596931694f4463334c546c684d324579596d4533597a55784f4335775a47593d&fich=6ee352a5-1940-43cb-b877-9a3a2ba7c518.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55304e6a41784e5445774c575130596d59744e4745315953316859546c694c5759314e3255334d6a67355a545a6d4f4335775a47593d&fich=54601510-d4bf-4a5a-aa9b-f57e7289e6f8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6c4e44466d5a5445304c574532596a41744e474d794e533168595751324c5755344d5441334e446c6a4d4442694d7935775a47593d&fich=3e41fe14-a6b0-4c25-aad6-e810749c00b3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686d5932493359544e684c5468694e4459744e4468694d53316959545a694c574a6d4f4467305a6a6735597a637a4d5335775a47593d&fich=8fcb7a3a-8b46-48b1-ba6b-bf884f89c731.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-06-14",
+            "gp": "PS",
+            "id": "2260",
+            "motivoCessacao": null,
+            "nome": "Odete João"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-01-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-05-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793833597a41344d6a59305a5331685a5751334c54526b593259744f4749354f53307a4e44597959324d315a444932595449756347526d&fich=7c08264e-aed7-4dcf-8b99-3462cc5d26a2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:53:22:933&drc=00:03:11:066"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:56:37:388&drc=00:03:42:611"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=03:00:25:567&drc=00:03:05:815"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=03:03:35:347&drc=00:02:41:281"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=03:06:21:108&drc=00:04:00:891"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12796",
+    "PetAssunto": "Solicitam a Revogação do Despacho Normativo n.º 1-H/2016, que altera os artigos 3.º, 6.º, 8.º, 9.º, 18.º, 19.º, 20.º, 22.º, 23.º, 25.º e 26.º do Despacho Normativo n.º 7-B/2015, publicado no Diário da República, 2.ª série, n.º 88, de 7 de maio de 2015, que determina os procedimentos da matrícula e respetiva renovação.",
+    "PetDataEntrada": "2016-05-18",
+    "PeticoesAssociadas": null,
+    "PetId": "12796",
+    "PetLeg": "XIII",
+    "PetNr": "115",
+    "PetNrAssinaturas": "15876",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "596",
+        "obs": null,
+        "pag": [
+          "3-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-01-13",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/3?pgs=3-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "767889",
+        "obs": null,
+        "pag": [
+          "26-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-06-17",
+        "pubLeg": "XIII",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/036/2016-06-17/26?pgs=26&org=PLC"
+      }
+    ]
+  }
+}
