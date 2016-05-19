@@ -1,0 +1,6 @@
+Aviso n.º 6345/2016
+Projeto de alteração do Regulamento das medidas de apoio às famílias no âmbito das políticas de incentivo à natalidade
+Teófilo Alírio Reis Cunha, Presidente da Câmara Municipal de Santana, torna público que, em reunião ordinária da Câmara Municipal de 22 de abril de 2016, foi deliberado aprovar o projeto de alteração ao Regulamento das medidas de apoio às famílias no âmbito das politicas de incentivo à natalidade e submetê-lo à consulta pública, para recolha de sugestões, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, durante 30 (trinta) dias, a contar da data da publicação do presente aviso, na 2.ª série do Diário da República, encontrando-se o mesmo disponível para consulta pública, no Serviço de Atendimento e Apoio ao Munícipe, durante o horário de expediente e no site da Câmara Municipal www.cm-santana.com, bem como nas Juntas de Freguesia.
+Os eventuais contributos, devem ser endereçados ao Presidente da Câmara Municipal de Santana, Avenida 25 de maio, n.º 2 - 9230-116 Santana, entregues em mão, remetidos pelo correio eletrónico: gap@cm-santana.com ou ainda via CTT registados com aviso de receção.
+2 de maio de 2016. - O Presidente da Câmara, Teófilo Alírio Reis Cunha.
+309550251
