@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "92462",
+  "tipo": "Requerimento",
+  "numero": "1088",
+  "data_registo": "2016-05-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Agenda 21 local",
+    "Autores": [
+      {
+        "GP": "PEV",
+        "idCadastro": "834",
+        "nome": "Heloísa Apolónia"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "780",
+        "nome": "José Luís Ferreira"
+      }
+    ],
+    "DataEnvio": "2016-05-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2016-05-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Benavente",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2016-06-08",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Benavente",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443387a4d32597a4f4745304e6930324e4745354c545269593245744f546b35597930355a5751785a44646d4f544d354f446b756347526d&fich=33f38a46-64a9-4bca-999c-9ed1d7f93989.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2016-05-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396c596d526d5a5452684d53316a4e4459344c54526b4e7a5974596a5534597930324e57526b597a49334e324d774e3245756347526d&fich=ebdfe4a1-c468-4d76-b58c-65ddc277c07a.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "92462",
+    "Legislatura": "XIII",
+    "Nr": "1088",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
