@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "92389",
+  "tipo": "Pergunta",
+  "numero": "1789",
+  "data_registo": "2016-05-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Futuro da Ligação Ferroviária até Beja",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "3934",
+        "nome": "João Ramos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1715",
+        "nome": "Bruno Dias"
+      }
+    ],
+    "DataEnvio": "2016-05-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2016-05-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2017-07-21",
+            "docRemetida": null,
+            "entidade": "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433833597a4d314f446c6d4e53316a4e7a6b774c54526d4d7a5574596a566a4f533077597a4e6b4f4749324d5755794d3245756347526d&fich=7c3589f5-c790-4f35-b5c9-0c3d8b61e23a.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2016-05-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a46545443396d4e47466b4d474a6b4e6931695a544e6d4c545132597a41744f574d324d533030596d55314f5756684d4456684d5749756347526d&fich=f4ad0bd6-be3f-46c0-9c61-4be59ea05a1b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "92389",
+    "Legislatura": "XIII",
+    "Nr": "1789",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Pergunta"
+  }
+}
