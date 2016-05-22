@@ -1,0 +1,581 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12800",
+  "numero": "119",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-05-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-12-21",
+            "entidades": null,
+            "id": "103605",
+            "tipo": null,
+            "titulo": "Audição em 2016-12-21 com Carlos Mineiro Aires – Bastonário da Ordem dos Engenheiros; Ricardo David Lopes Leão; Arménio Manuel S. Oliveira; Manuel Sousa Gomes e Carlos A. Alvarinhas Costa"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-12-23",
+            "dataResposta": "2017-02-13",
+            "entidades": [
+              "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS"
+            ],
+            "nrOficio": "187/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-03-22",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-11-02",
+        "DataArquivo": "2017-03-22",
+        "DataBaixaComissao": "2016-06-08",
+        "DataEnvioPAR": "2017-03-22",
+        "DataReaberta": "2016-11-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-11-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6d49324d5745355a444174595459324e4330304e7a67324c5749304f5445744d4455334e546b794d544531597a49774c6e426b5a673d3d&fich=6b61a9d0-a664-4786-b491-057592115c20.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876595459314e546c6d596a517459324a6d4e7930304f4755774c54686a4f5749744f4749325a544d784d47457a597a5a684c6e426b5a673d3d&fich=a6559fb4-cbf7-48e0-8c9b-8b6e310a3c6a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-03-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e7a49304d7a6c694d4467744d7a5a684d5330304d32566c4c5745314d4467744e3251344e6a4e695a4445344d6a6b324c6e426b5a673d3d&fich=72439b08-36a1-43ee-a508-7d863bd18296.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-02-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659574a685a57566d5a574d744f544d325a6930304d5467334c5468684d5467744e4459325a47453559546868595745354c6e426b5a673d3d&fich=abaeefec-936f-4187-8a18-466da9a8aaa9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-11-02",
+            "gp": "PSD",
+            "id": "4193",
+            "motivoCessacao": null,
+            "nome": "Maria das Mercês Borges"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-07-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-06-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684d44686a4e6d5a6d4f43307a5a57526b4c5451334e6a49744f4459344d7930324e4455344d6a41775a474a6d4f4455756347526d&fich=a08c6ff8-3edd-4762-8683-6458200dbf85.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "41246",
+      "41588",
+      "41589",
+      "41246",
+      "41246",
+      "41588",
+      "41589",
+      "41246",
+      "41588",
+      "41589",
+      "41246"
+    ],
+    "Iniciativasoriginadas": [
+      "41246",
+      "41588",
+      "41589"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41",
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/41?pgs=41,46&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214998",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215002",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Em Defesa do Exercício da Profissão de Engenheiro; Segunda alteração à Lei n.º 31/2009, de 3 de julho que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, que não esteja sujeita a legislação especial, e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de fevereiro; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra e os deveres que lhes são aplicáveis e revoga o Decreto n.º 73/73, de 28 de Fevereiro, assegurando a correcta transposição da Directiva 2005/36/CE; Procede à alteração da Lei n.º 31/2009, de 03 de Julho, que aprova o regime jurídico que estabelece a qualificação profissional exigível aos técnicos responsáveis pela elaboração e subscrição de projectos, pela fiscalização de obra e pela direcção de obra, modificando a norma referente à qualificação dos autores de projecto.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12800",
+    "PetAssunto": "Em Defesa do Exercício da Profissão de Engenheiro.",
+    "PetDataEntrada": "2016-05-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12800",
+    "PetLeg": "XIII",
+    "PetNr": "119",
+    "PetNrAssinaturas": "4088",
+    "PetNrAssinaturasInicial": "4045",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2367",
+        "obs": null,
+        "pag": [
+          "7-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/7?pgs=7-122&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "775590",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-11-04",
+        "pubLeg": "XIII",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/010/2016-11-04/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
