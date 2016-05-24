@@ -17,3 +17,5 @@ e) Revogada.
 2 - Os actos e comunicações referidos no número anterior são efectuados, sempre que possível, por via electrónica, podendo os elementos da caderneta predial ser substituídos por consulta directa à matriz predial informatizada.
 
 3 - A comunicação da penhora contém a assinatura electrónica qualificada do titular do órgão da execução, valendo como autenticação a certificação de acesso das conservatórias aos serviços electrónicos da administração tributária.
+
+5 - A penhora de imóveis pode também ser efetuada nos termos do Código de Processo Civil, com as especificidades previstas na presente lei.

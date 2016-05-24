@@ -10,4 +10,6 @@
 
 4 - Caso a dívida tenha garantia real onerando bens do devedor por estes começará a penhora que só prosseguirá noutros bens quando se reconheça a insuficiência dos primeiros para conseguir os fins da execução.
 
-5 - Quando exista plano de pagamento em prestações devidamente autorizado, e a execução fiscal deva prosseguir os seus termos normais, pode a penhora iniciar-se por bens distintos daqueles cujo valor pecuniário seja de mais fácil realização, quando indicados pelo executado e desde que o pagamento em prestações se encontre a ser pontualmente cumprido.
+5 - A penhora sobre o bem imóvel com finalidade de habitação própria e permanente está sujeita às condições previstas no artigo 244.º.
+
+6 - Quando exista plano de pagamento em prestações devidamente autorizado, e a execução fiscal deva prosseguir os seus termos normais, pode a penhora iniciar-se por bens distintos daqueles cujo valor pecuniário seja de mais fácil realização, quando indicados pelo executado e desde que o pagamento em prestações se encontre a ser pontualmente cumprido.
