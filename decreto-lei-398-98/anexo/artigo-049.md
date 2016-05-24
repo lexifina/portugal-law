@@ -16,4 +16,6 @@ b) Enquanto não houver decisão definitiva ou transitada em julgado, que ponha 
 
 c) Desde a instauração até ao trânsito em julgado da ação de impugnação pauliana intentada pelo Ministério Público.
 
+d) Durante o período de impedimento legal à realização da venda de imóvel afeto a habitação própria e permanente.
+
 5 - O prazo de prescrição legal suspende-se, ainda, desde a instauração de inquérito criminal até ao arquivamento ou trânsito em julgado da sentença.
