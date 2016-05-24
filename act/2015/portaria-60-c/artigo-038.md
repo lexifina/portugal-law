@@ -8,7 +8,7 @@ a) Intervenções na rede da educação pré-escolar e do 1.º ciclo do ensino b
 
 b) Intervenções na rede do 2.º e 3.º ciclos do ensino básico e/ou ensino secundário no âmbito de programas específicos de intervenção em infraestruturas escolares;
 
-c) Intervenções nas infraestruturas de formação profissional;
+c) Intervenções em infraestruturas e aquisição de equipamentos de formação profissional;
 
 d) Intervenções que permitem dar cumprimento à Resolução da Assembleia da República n.º 24/2003, de 2 de abril, e à Lei n.º 2/2011, de 9 de fevereiro, para a remoção de fibrocimento e conferir ao edifício maior conforto térmico e condições de estanquidade;
 

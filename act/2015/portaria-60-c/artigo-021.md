@@ -4,11 +4,11 @@
 
 1 - São elegíveis no âmbito do PO CH as seguintes ações, cuja legislação de referência se encontra acessível no Portal Portugal 2020:
 
-a) Os apoios sociais atribuídos a estudantes do ensino superior, nomeadamente bolsas de estudo, bolsas de estudo por mérito e, sem prejuízo do disposto no n.º 1 do artigo 44.º, as bolsas no âmbito do Programa Retomar;
+a) Os apoios a estudantes do ensino superior, nomeadamente bolsas de estudo, bolsas de estudo por mérito e, sem prejuízo do disposto no n.º 1 do artigo 44.º, as bolsas no âmbito do Programa Retomar;
 
-b) Os cursos Técnicos Superiores Profissionais (TeSP), quando alinhados com as prioridades nacionais da Estratégia de I&I para a Especialização Inteligente ou para operações multi regiões quando situadas nas regiões menos desenvolvidas do continente;
+b) Os cursos Técnicos Superiores Profissionais (TeSP), quando alinhados com as prioridades nacionais da Estratégia de I&I para a Especialização Inteligente e da Agenda Portugal Digital ou para operações multirregiões situadas nas regiões menos desenvolvidas do continente;
 
-c) Os programas de formação avançada, nomeadamente Bolsas Individuais de Doutoramento (BD), de Doutoramento em Empresas (BDE) e de Pós-Doutoramento (BPD) e os Programas de Doutoramento desenvolvidos por Instituições de Ensino Superior (IES), incluindo Bolsas de Doutoramento (BD), Bolsas de Investigação (BI) e Bolsas de Doutoramento em Empresas (BDE), quando alinhados com as prioridades nacionais da Estratégia de I&I para a Especialização Inteligente ou para operações multi regiões quando situadas nas regiões menos desenvolvidas do Continente;
+c) As bolsas de formação avançada, nomeadamente Bolsas de Doutoramento (BD), de Doutoramento em Empresas (BDE) e de Pós-doutoramento (BPD) e os Programas de Doutoramento desenvolvidos por Instituições de Ensino Superior (IES), incluindo Bolsas de Doutoramento (BD), Bolsas de Investigação (BI) e Bolsas de Doutoramento em Empresas (BDE), quando alinhadas com as prioridades nacionais da Estratégia de I&I definidas no âmbito das políticas públicas, nomeadamente para a Especialização Inteligente ou para operações multirregiões situadas nas regiões menos desenvolvidas do continente;
 
 d) Programas de reforço de competências de docentes do ensino superior.
 

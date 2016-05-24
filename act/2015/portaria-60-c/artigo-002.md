@@ -12,13 +12,13 @@ c) «Bolsa de estudo», uma prestação pecuniária anual para comparticipação
 
 d) «Bolsa Retomar», o apoio financeiro anual, para comparticipação nos encargos com a frequência de um curso, destinado a estudantes que pretendam completar formações anteriormente iniciadas ou realizar uma formação em área diferente e o apoio anual à graduação desse estudante a atribuir às Instituições do Ensino Superior (IES);
 
-e) «Bolsas de Doutoramento (BD)», uma prestação pecuniária mensal para apoio à formação avançada de candidatos detentores do grau de licenciado (pré-Bolonha) ou mestre e que tenham ingressado ou venham a ingressar num ciclo de estudos conducente à obtenção do grau académico de doutor;
+e) 'Bolsas de Doutoramento (BD)', uma prestação pecuniária mensal para apoio à formação avançada a quem satisfaça as condições necessárias ao ingresso em ciclo de estudos conducente à obtenção do grau académico de doutor e que pretenda desenvolver trabalhos de investigação conducentes à obtenção do grau académico de doutor;
 
 f) «Bolsas de Doutoramento em empresas (BDE)», uma prestação pecuniária mensal para apoio à formação avançada de investigadores que satisfaçam as condições necessárias ao ingresso em ciclo de estudos conducente à obtenção do grau de doutor e que pretendam desenvolver atividades de investigação em ambiente empresarial;
 
-g) «Bolsas de Investigação (BI)», uma prestação pecuniária mensal destinada à formação de licenciados (pré-Bolonha), mestres ou doutores, no âmbito de projetos de investigação em instituições científicas portuguesas;
+g) 'Bolsas de Investigação (BI)', uma prestação pecuniária mensal destinada à formação de licenciados, mestres ou doutores, para obterem formação científica em projetos de investigação, ou em instituições científicas e tecnológicas portuguesas;
 
-h) «Bolsas de Pós-doutoramento (BPD)», uma prestação pecuniária mensal para apoio à formação especializada de doutorados com vista à realização de trabalhos de investigação em todas as áreas do conhecimento no âmbito de instituições científicas portuguesas ou estrangeiras;
+h) 'Bolsas de Pós-doutoramento (BPD)', uma prestação pecuniária mensal para apoio à formação especializada de doutorados com vista à realização de trabalhos de investigação em todas as áreas do conhecimento no âmbito de instituições científicas portuguesas de reconhecida idoneidade;
 
 i) «Bolsas Individuais», bolsas atribuídas através de concurso nacional promovido pela Fundação para a Ciência e a Tecnologia (FCT), relativamente a BD, BDE e BPD;
 

@@ -1,3 +1,11 @@
+## Parte II
+
+## Regime de acesso aos apoios concedidos no âmbito do financiamento Fundo Social Europeu
+
+## Título I
+
+## Educação e formação de jovens e adultos
+
 # Artigo 12.º
 
 ### Objetivos específicos

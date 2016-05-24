@@ -46,7 +46,7 @@ d) Cursos profissionais ministrados pelas escolas de hotelaria e turismo do Turi
 
 6 - No âmbito das ações previstas na alínea d) do n.º 1 são elegíveis os cursos conferentes de nível 4 de qualificação do QNQ.
 
-7 - Para efeitos de cofinanciamento são considerados elegíveis nas ações previstas no número anterior, os formandos maiores de idade ou, de forma excecional, os menores de idade, desde que em ações desenvolvidas pela rede de centros de gestão direta e participada do IEFP, I. P., de forma articulada com a rede do Ministério da Educação e Ciência, incluindo a coordenação da oferta educativa e formativa para o início de cada ano escolar, ou por entidades formadoras, neste caso nos termos a definir por despacho conjunto dos Ministérios da Educação e Ciência e da Solidariedade, Emprego e Segurança Social, nomeadamente quanto às condições de definição da rede desta oferta.
+7 - Para efeitos de cofinanciamento são considerados elegíveis, nas ações previstas no número anterior, os formandos maiores de idade ou, de forma excecional, os menores de idade, desde que autorizados pelo IEFP, I.
 
 8 - No âmbito das ações previstas na alínea e) do n.º 1 são elegíveis as seguintes ações:
 

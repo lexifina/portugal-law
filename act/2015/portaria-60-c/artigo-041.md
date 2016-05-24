@@ -16,7 +16,7 @@ d) Coordenação e gestão do projeto, fiscalização, coordenação de seguran�
 
 e) Aquisição de terrenos que se revelem imprescindíveis, sujeita ao limite de 10 % da despesa total elegível, desde que preenchidas as condições legais previstas;
 
-f) Aquisição e instalação de equipamento escolar, de equipamento informático, eletrónico e redes de informação, de comunicação e de monitorização;
+f) Aquisição e instalação de equipamento técnico e didático e de redes de informação e comunicação;
 
 g) Despesas relativas a ações de informação e publicidade imprescindíveis à operação e à divulgação e promoção dos resultados da mesma;
 

@@ -40,7 +40,11 @@ b) Apoios com alimentação dos alunos nas condições de acesso definidas na a�
 
 3 - No âmbito das operações referidas na alínea b) do n.º 1 são elegíveis as iniciativas integradas no «Programa de Aprofundamento da Autonomia das Escolas».
 
-4 - No âmbito das operações previstas na alínea c) do n.º 1 é elegível o apoio à contratação de psicólogos, bem como a sua formação e supervisão, a aquisição e o desenvolvimento de instrumentos de apoio à sua atividade em meio escolar.
+4 - No âmbito das operações previstas na alínea c) do n.º 1 é elegível:
+
+a) O apoio à contratação de psicólogos;
+
+b) A aquisição e o desenvolvimento de instrumentos de apoio à sua atividade em meio escolar.
 
 5 - No âmbito das ações previstas na alínea d) do n.º 1 são elegíveis as operações integradas nas medidas promovidas por escolas, especificamente orientadas para a promoção da qualidade do ensino e da aprendizagem, do sucesso escolar, para a prevenção do abandono, a redução da indisciplina e do absentismo escolares, nomeadamente através das seguintes intervenções:
 
@@ -68,7 +72,7 @@ e) Parcerias com entidades de reconhecida relevância no território para o dese
 
 a) Formação contínua de docentes;
 
-b) Formação de gestores escolares e outros agentes;
+b) Formação de gestores escolares e outros agentes do sistema de educação e formação que exercem a sua atividade em escolas, centros de emprego e formação profissional ou outras entidades formadoras certificadas;
 
 c) Formação de formadores, tutores e outros agentes de formação, incluindo a componente da formação em contexto de trabalho;
 
@@ -110,7 +114,7 @@ a) Produção e adaptação de materiais escolares em formatos acessíveis ou de
 
 b) Promoção da transição para a vida pós-escolar;
 
-c) Disponibilização de produtos e tecnologias de apoio para acesso ao currículo.
+c) Disponibilização de produtos e tecnologias de apoio.
 
 10 - No âmbito das operações previstas na alínea k) são elegíveis os apoios aos contratos de desenvolvimento, celebrados no âmbito do estatuto do ensino particular e cooperativo de nível não superior, aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
 
