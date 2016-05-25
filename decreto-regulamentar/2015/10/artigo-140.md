@@ -11,3 +11,7 @@
 4 - Encontra-se estabelecida em permanência uma força tarefa, com o respetivo comandante e estado-maior e com unidades operacionais atribuídas, que podem variar consoante a missão, constituindo a Força Naval Portuguesa.
 
 5 - A estrutura e o funcionamento das forças e unidades operacionais são definidos por despacho do CEMA.
+
+6 - As designações comuns das unidades navais e que permitem identificar os seus diferentes tipos são fixadas por portaria do membro do Governo responsável pela área da defesa nacional, mediante proposta do CEMA.
+
+7 - O aumento e abate das unidades navais ao efetivo dos navios de guerra da Marinha são estabelecidos por portaria do membro do Governo responsável pela área da defesa nacional.

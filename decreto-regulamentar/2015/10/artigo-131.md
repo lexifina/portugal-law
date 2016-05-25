@@ -1,7 +1,3 @@
-## Subsecção II
-
-## Academia de Marinha
-
 # Artigo 131.º
 
 ### Aquário Vasco da Gama
