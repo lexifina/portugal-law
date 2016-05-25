@@ -1,3 +1,7 @@
+## Secção VI
+
+## Disposições comuns
+
 # Artigo 99.º
 
 ### Apoio administrativo

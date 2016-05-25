@@ -2,6 +2,10 @@
 
 ## Juntas médicas da Armada
 
+## Secção I
+
+## Disposição geral
+
 # Artigo 74.º
 
 ### Juntas médicas da Armada

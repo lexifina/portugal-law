@@ -1,3 +1,7 @@
+## Secção II
+
+## Junta de Recrutamento e Classificação
+
 # Artigo 75.º
 
 ### Dependência
