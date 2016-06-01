@@ -16,17 +16,17 @@
 
 3 - A condução, nas vias públicas, do equipamento militar circulante ou de intervenção de ordem pública referido no artigo 120.º e dos veículos que se deslocam sobre carris rege-se por legislação especial.
 
-4 - O documento que titula a habilitação legal para conduzir ciclomotores, motociclos, triciclos, quadriciclos, automóveis e veículos agrícolas, exceto motocultivadores operados a pé, designa-se carta de condução.
+4 - O documento que titula a habilitação legal para conduzir ciclomotores, motociclos, triciclos, quadriciclos pesados e automóveis designa-se «carta de condução».
 
-5 - [Revogado.]
+5 - O documento que titula a habilitação legal para conduzir outros veículos a motor diferentes dos mencionados no número anterior designa-se «licença de condução».
 
-6 - A condução de velocípedes e de veículos a eles equiparados não carece de habilitação legal para conduzir.
+6 - A condução, na via pública de velocípedes e de veículos a eles equiparados, está dispensada da titularidade de licença de condução.
 
-7 - O IMT, I. P., as entidades fiscalizadoras e outras entidades com competência para o efeito podem substituir as cartas de condução por guias de substituição provisórias, válidas apenas em território nacional e para as categorias constantes do título que substituem, pelo prazo a definir por deliberação do conselho diretivo do IMT, I. P.
+7 - O IMT, I. P., as entidades fiscalizadoras e outras entidades com competência para o efeito podem, provisoriamente e nos termos previstos na lei, substituir as cartas e licenças de condução por guias de substituição, válidas apenas dentro do território nacional e para as categorias constantes do título que substituem, pelo tempo julgado necessário ou, quando for o caso, pelo prazo que a lei diretamente estabeleça.
 
 8 - Nenhum condutor pode, simultaneamente, ser titular de mais de um título de condução, do modelo comunitário, emitido por qualquer dos Estados membros da União Europeia ou do espaço económico europeu.
 
-9 - As cartas de condução são emitidas pelo IMT, I. P. aos cidadãos que provem preencher os respetivos requisitos legais, sendo válidas para as categorias de veículos e pelos prazos legalmente estabelecidos.
+9 - As cartas e licenças de condução são emitidas pelo IMT, I. P., e atribuídas aos indivíduos que provem preencher os respetivos requisitos legais, e são válidas para as categorias de veículos e pelos períodos de tempo delas constantes.
 
 10 - O IMT, I. P., organiza, nos termos fixados em diploma próprio, um registo nacional de condutores.
 

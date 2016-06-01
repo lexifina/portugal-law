@@ -28,7 +28,7 @@ a) Os comitentes que exijam dos condutores um esforço inadequado à prática se
 
 b) Os pais ou tutores que conheçam a inabilidade ou a imprudência dos seus filhos menores ou dos seus tutelados e não obstem, podendo, a que eles pratiquem a condução;
 
-c) Os pais ou tutores de menores habilitados com cartas de condução da categoria AM, com a menção da restrição 790;
+c) Os pais ou tutores de menores habilitados com licença especial de condução emitida nos termos do n.º 2 do artigo 125.º;
 
 d) Os condutores de veículos que transportem passageiros menores ou inimputáveis e permitam que estes não façam uso dos acessórios de segurança obrigatórios;
 

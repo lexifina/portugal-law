@@ -2,7 +2,7 @@
 
 ### Utilização de dispositivos de segurança
 
-1 - O condutor e passageiros transportados em veículos a motor são obrigados a usar cintos e demais dispositivos de segurança com que, por lei, os veículos estejam equipados.
+1 - O condutor e passageiros transportados em automóveis são obrigados a usar os cintos e demais dispositivos de segurança com que os veículos estejam equipados.
 
 2 - Em regulamento são fixadas:
 
@@ -14,8 +14,6 @@ b) O modo de utilização e características técnicas dos mesmos dispositivos.
 
 4 - Excetuam-se do disposto no número anterior os condutores e passageiros de veículos providos de caixa rígida ou de veículos que possuam, simultaneamente, estrutura de proteção rígida e cintos de segurança.
 
-5 - [Revogado.]
+5 - Os condutores e passageiros de velocípedes com motor e os condutores de trotinetas com motor e de dispositivos de circulação com motor elétrico, autoequilibrados e automotores ou de outros meios de circulação análogos devem proteger a cabeça usando capacete devidamente ajustado e apertado.
 
-6 - O condutor de trator ou máquina agrícola ou florestal deve assegurar-se de que a estrutura de proteção em caso de capotagem se encontra instalada, caso se trate de estrutura amovível, ou que a mesma se encontra erguida em posição de serviço, caso se trate de estrutura rebatível.
-
-7 - Quem não utilizar ou utilizar incorretamente os dispositivos de segurança previstos no presente artigo é sancionado com coima de (euro) 120 a (euro) 600.
+6 - Quem não utilizar ou utilizar incorretamente os dispositivos de segurança previstos no presente artigo é sancionado com coima de (euro) 120 a (euro) 600, salvo se se tratar dos referidos no n.º 5, caso em que a coima é de (euro) 60 a (euro) 300.

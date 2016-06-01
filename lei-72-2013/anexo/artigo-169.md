@@ -10,26 +10,20 @@
 
 ### Competência para o processamento e aplicação das sanções
 
-1 - Sem prejuízo do disposto no n.º 7:
+1 - Sem prejuízo do disposto no n.º 7, o processamento das contraordenações rodoviárias compete à ANSR.
 
-a) O processamento das contraordenações rodoviárias compete à ANSR;
+2 - Sem prejuízo do disposto no n.º 7, a competência para aplicação das coimas e sanções acessórias pertence ao presidente da ANSR.
 
-b) A competência para aplicação das coimas e sanções acessórias pertence ao presidente da ANSR.
+3 - O presidente da ANSR pode delegar a competência a que se refere o número anterior nos dirigentes e pessoal da carreira técnica superior da Autoridade Nacional de Segurança Rodoviária.
 
-2 - [Revogado.]
-
-3 - O presidente da ANSR pode delegar a competência a que se refere a alínea b) do n.º 1 nos dirigentes e pessoal da carreira técnica superior da ANSR, exceto para decidir sobre a verificação dos respetivos pressupostos e ordenar a cassação do título de condução.
-
-4 - [Revogado.]
+4 - O presidente da ANSR tem competência exclusiva, sem poder de delegação, para decidir sobre a verificação dos respetivos pressupostos e ordenar a cassação do título de condução.
 
 5 - No exercício das suas funções, a ANSR é coadjuvada pelas autoridades policiais e outras autoridades ou serviços públicos cuja colaboração solicite.
 
-6 - Para efeitos da alínea a) do n.º 1, o pessoal da ANSR é equiparado a autoridade pública, competindo-lhe:
+6 - O pessoal da ANSR afeto a funções de fiscalização das disposições legais sobre o trânsito é equiparado a autoridade pública, para efeitos de:
 
-a) O levantamento e a notificação de auto de contraordenação, na sequência da participação, denúncia ou conhecimento próprio de contraordenação rodoviária;
+a) Levantamento e notificação de autos de contraordenação instaurados com recurso a meios telemáticos de fiscalização automática;
 
-b) O levantamento e notificação de auto de contraordenação cujos factos constitutivos sejam conhecidos através de meios automáticos de fiscalização.
+b) Instrução e decisão de processos de contraordenação rodoviária.
 
-7 - A competência para o processamento e aplicação de coimas nas contraordenações rodoviárias por infrações leves relativas a estacionamento proibido, indevido ou abusivo nos parques ou zonas de estacionamento, nas vias e nos demais espaços públicos quer dentro das localidades, quer fora das localidades, neste caso desde que estejam sob jurisdição municipal, é da respetiva câmara municipal.
-
-8 - Para efeitos do disposto na alínea b) do n.º 6, consideram-se meios automáticos de fiscalização os instrumentos de medição da velocidade instantânea ou da velocidade média, fixos ou móveis, e os demais sistemas que integram a Rede Nacional de Fiscalização Automática de Velocidade (SINCRO), com exceção dos sistemas de videovigilância para captação, gravação e tratamento de imagem e som.
+7 - A competência para o processamento das contraordenações previstas no artigo 71.º e a competência para aplicação das respetivas coimas e sanções acessórias podem ser atribuídas à câmara municipal competente para aprovar a localização do parque ou zona de estacionamento, por designação do membro do Governo responsável pela área da administração interna, mediante proposta da câmara municipal, com parecer favorável da ANSR, desde que reunidas as condições definidas por portaria do membro do Governo responsável pela área da administração interna.

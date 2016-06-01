@@ -28,20 +28,14 @@ i) A não cedência de passagem aos peões pelo condutor que mudou de direção 
 
 j) O trânsito de veículos sem utilização das luzes referidas no n.º 1 do artigo 61.º, nas condições previstas no mesmo número, bem como o trânsito de motociclos e de ciclomotores sem utilização das luzes de cruzamento;
 
-l) A condução sob influência de álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l e inferior a 0,8 g/l ou igual ou superior a 0,2 g/l e inferior a 0,5 g/l quando respeite a condutor em regime probatório, condutor de veículo de socorro ou de serviço urgente, de transporte coletivo de crianças e jovens até aos 16 anos, de táxi, de TVDE, de automóvel pesado de passageiros ou de mercadorias ou de transporte de mercadorias perigosas;
+l) A condução sob influência de álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l e inferior a 0,8 g/l ou igual ou superior a 0,2 g/l e inferior a 0,5 g/l quando respeite a condutor em regime probatório, condutor de veículo de socorro ou de serviço urgente, de transporte coletivo de crianças e jovens até aos 16 anos, de táxi, de automóvel pesado de passageiros ou de mercadorias ou de transporte de mercadorias perigosas;
 
 m) A não utilização do sinal de pré-sinalização de perigo e das luzes avisadoras de perigo;
 
-n) A utilização, durante a marcha do veículo, de equipamento ou aparelho nos termos do n.º 1 do artigo 84.º;
+n) A utilização, durante a marcha do veículo, de auscultadores sonoros e de aparelhos radiotelefónicos, salvo nas condições previstas no n.º 2 do artigo 84.º;
 
 o) A paragem e o estacionamento nas passagens assinaladas para a travessia de pões ou velocípedes;
 
 p) O transporte de passageiros menores ou inimputáveis sem que estes façam uso dos acessórios de segurança obrigatórios.
 
-q) A paragem e o estacionamento em lugar reservado a pessoa com deficiência condicionada na sua mobilidade, nos termos previstos no Decreto-Lei n.º 307/2003, de 10 de dezembro, alterado pelo Decreto-Lei n.º 17/2011, de 27 de janeiro, por qualquer condutor que não esteja autorizado para tal.
-
-2 - Considera-se igualmente contraordenação grave:
-
-a) A circulação de veículo sem seguro de responsabilidade civil, caso em que é aplicável o disposto na alínea b) do n.º 3 do artigo 135.º, com os efeitos previstos e equiparados nos n.os 2 e 3 do artigo 147.º;
-
-b) A circulação de veículos nos termos do n.º 6 do artigo 112.º
+2 - Considera-se igualmente grave a circulação de veículo sem seguro de responsabilidade civil, caso em que é aplicável o disposto na alínea b) do n.º 3 do artigo 135.º, com os efeitos previstos e equiparados nos n.os 2 e 3 do artigo 147.º

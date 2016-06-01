@@ -14,6 +14,6 @@ b) Se a criança tiver idade igual ou superior a 3 anos e o automóvel não disp
 
 4 - As crianças com deficiência que apresentem condições graves de origem neuromotora, metabólica, degenerativa, congénita ou outra podem ser transportadas sem observância do disposto na parte final do n.º 1, desde que os assentos, cadeiras ou outros sistemas de retenção tenham em conta as suas necessidades específicas e sejam prescritos por médico da especialidade.
 
-5 - Nos automóveis destinados ao transporte público de passageiros, ao transporte individual e remunerado de passageiros em veículo descaracterizado a partir de plataforma eletrónica (TVDE) e ao transporte em veículo dedicado ao transporte de doentes, podem ser transportadas crianças sem observância do disposto nos números anteriores, desde que não o sejam nos bancos da frente.
+5 - Nos automóveis destinados ao transporte público de passageiros podem ser transportadas crianças sem observância do disposto nos números anteriores, desde que não o sejam nos bancos da frente.
 
 6 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600 por cada criança transportada indevidamente.
