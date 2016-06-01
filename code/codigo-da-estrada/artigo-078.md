@@ -4,7 +4,7 @@
 
 1 - Quando existam pistas especialmente destinadas a animais ou veículos de certas espécies, o trânsito destes deve fazer-se preferencialmente por aquelas pistas.
 
-2 - É proibida a utilização das pistas referidas no número anterior a quaisquer outros veículos, salvo para acesso a garagens, a propriedades e a locais de estacionamento ou, quando a sinalização o permita, para efetuar a manobra de mudança de direção no cruzamento ou entroncamento mais próximo.
+2 - É proibida a utilização das pistas referidas no número anterior a quaisquer outros veículos, salvo para acesso a garagens, a propriedades e a locais de estacionamento ou, quando a sinalização o permita, para efectuar a manobra de mudança de direcção no cruzamento ou entroncamento mais próximo.
 
 3 - Nas pistas destinadas a velocípedes, é proibido o trânsito daqueles que tiverem mais de duas rodas não dispostas em linha ou que atrelem reboque, exceto se o conjunto não exceder a largura de 1 m.
 

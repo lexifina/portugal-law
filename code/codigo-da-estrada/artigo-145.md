@@ -34,7 +34,7 @@ m) A não utilização do sinal de pré-sinalização de perigo e das luzes avis
 
 n) A utilização, durante a marcha do veículo, de auscultadores sonoros e de aparelhos radiotelefónicos, salvo nas condições previstas no n.º 2 do artigo 84.º;
 
-o) A paragem e o estacionamento nas passagens assinaladas para a travessia de peões;
+o) A paragem e o estacionamento nas passagens assinaladas para a travessia de pões ou velocípedes;
 
 p) O transporte de passageiros menores ou inimputáveis sem que estes façam uso dos acessórios de segurança obrigatórios.
 

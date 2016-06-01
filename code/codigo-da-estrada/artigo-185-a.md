@@ -6,7 +6,7 @@
 
 2 - A certidão de dívida é assinada e autenticada pelo presidente da ANSR ou por quem tiver competência delegada para o efeito, e contém os seguintes elementos:
 
-a) Identificação do agente da infração, incluindo o nome completo ou denominação social, a residência e o número do documento legal de identificação ou, quando se trate de pessoa coletiva, o número de identificação fiscal e o domicílio fiscal;
+a) Identificação do agente da infração, incluindo o nome completo ou denominação social, a residência ou sede social, o número do documento legal de identificação, o domicílio fiscal e o número de identificação fiscal;
 
 b) Descrição da infração, incluindo dia, hora e local em que foi cometida;
 
@@ -20,6 +20,4 @@ f) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
 3 - A assinatura da certidão de dívida pode ser efetuada por assinatura autógrafa autenticada com selo branco ou por assinatura digital qualificada com certificado digital.
 
-4 - A certidão de dívida serve de base à instrução do processo de execução a promover pelos tribunais competentes, nos termos do regime geral do ilícito de mera ordenação social.
-
-Aditado pelo seguinte diploma: Lei n.º 72/2013, de 03 de Setembro
+4 - A certidão de dívida serve de base à instauração do processo de execução a promover pelos tribunais competentes, nos termos do regime geral das contraordenações.

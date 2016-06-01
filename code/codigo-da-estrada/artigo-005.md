@@ -14,7 +14,7 @@ b) Prejudicar a visibilidade nas curvas, cruzamentos ou entroncamentos;
 
 c) Perturbar a atenção do condutor, prejudicando a segurança da condução;
 
-d) Dificultar, restringir ou comprometer a comodidade e segurança da circulação de peões nos passeios.
+d) Dificultar, restringir ou comprometer a comodidade e segurança da circulação de peões nos passeios ou nas zonas de coexistência.
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 100 a (euro) 500.
 

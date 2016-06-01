@@ -20,6 +20,4 @@ f) O condutor que saia de uma zona residencial ou de coexistência deve ceder pa
 
 3 - Quem infringir o disposto nas alíneas c), d) e e) do n.º 1 é sancionado com coima de (euro) 60 a (euro) 300.
 
-4 - Quem infringir o disposto na alínea f) do n.º 1 é sancionado com coima de (euro) 90 a (euro) 450.
-
-Aditado pelo seguinte diploma: Lei n.º 72/2013, de 03 de Setembro
+4 - Quem infringir o disposto na alínea f) do n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.

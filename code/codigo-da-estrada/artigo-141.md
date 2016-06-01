@@ -8,7 +8,7 @@
 
 3 - A suspensão pode ainda ser determinada, pelo período de um a dois anos, se o infrator, nos últimos cinco anos, tiver praticado apenas uma contraordenação grave, devendo, neste caso, ser condicionada, singular ou cumulativamente:
 
-a) À prestação de caução de boa conduta;
+a) (Revogada.)
 
 b) Ao cumprimento do dever de frequência de ações de formação, quando se trate de sanção acessória de inibição de conduzir;
 
@@ -18,4 +18,4 @@ c) Ao cumprimento de deveres específicos previstos noutros diplomas legais.
 
 5 - Os encargos decorrentes da frequência de ações de formação são suportados pelo infrator.
 
-6 - A imposição do dever de frequência de ação de formação deve ter em conta a personalidade e as aptidões profissionais do infrator, não podendo prejudicar o exercício normal da sua atividade profissional nem representar obrigações cujo cumprimento não lhe seja razoavelmente exigível.
+6 - (Revogado.)

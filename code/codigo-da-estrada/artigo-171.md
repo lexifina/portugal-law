@@ -2,25 +2,25 @@
 
 ### Identificação do arguido
 
-1 - A identificação do arguido deve ser efetuada através da indicação de:
+1 - A identificação do arguido deve ser efectuada através da indicação de:
 
-a) Nome completo ou, quando se trate de pessoa coletiva, denominação social;
+a) Nome completo ou, quando se trate de pessoa colectiva, denominação social;
 
 b) Domicílio fiscal;
 
-c) Número do documento legal de identificação pessoal, data e respetivo serviço emissor e número de identificação fiscal;
+c) Número do documento legal de identificação pessoal, data e respectivo serviço emissor ou, quando se trate de pessoa colectiva, do número de pessoa colectiva;
 
-d) Número do título de condução e respetivo serviço emissor;
+d) Número do título de condução e respectivo serviço emissor;
 
 e) (Revogada.)
 
-f) Número e identificação do documento que titula o exercício da atividade, no âmbito da qual a infração foi praticada.
+f) Número e identificação do documento que titula o exercício da actividade, no âmbito da qual a infracção foi praticada.
 
-2 - Quando se trate de contraordenação praticada no exercício da condução e o agente de autoridade não puder identificar o autor da infração, deve ser levantado o auto de contraordenação ao titular do documento de identificação do veículo, correndo contra ele o correspondente processo.
+2 - Quando se trate de contra-ordenação praticada no exercício da condução e o agente de autoridade não puder identificar o autor da infracção, deve ser levantado o auto de contra-ordenação ao titular do documento de identificação do veículo, correndo contra ele o correspondente processo.
 
-3 - Se, no prazo concedido para a defesa, o titular do documento de identificação do veículo identificar, com todos os elementos constantes do n.º 1, pessoa distinta como autora da contraordenação, o processo é suspenso, sendo instaurado novo processo contra a pessoa identificada como infratora.
+3 - Se, no prazo concedido para a defesa, o titular do documento de identificação do veículo identificar, com todos os elementos constantes do n.º 1, pessoa distinta como autora da contra-ordenação, o processo é suspenso, sendo instaurado novo processo contra a pessoa identificada como infractora.
 
-4 - O processo referido no n.º 2 é arquivado quando se comprove que outra pessoa praticou a contraordenação ou houve utilização abusiva do veículo.
+4 - O processo referido no n.º 2 é arquivado quando se comprove que outra pessoa praticou a contra-ordenação ou houve utilização abusiva do veículo.
 
 5 - Quando o agente da autoridade não puder identificar o autor da contraordenação e verificar que o titular do documento de identificação é pessoa coletiva, deve esta ser notificada para, no prazo de 15 dias úteis, proceder à identificação do condutor, ou, no caso de existir aluguer operacional do veículo, aluguer de longa duração ou locação financeira, do locatário, com todos os elementos constantes do n.º 1 sob pena de o processo correr contra ela, nos termos do n.º 2.
 

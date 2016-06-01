@@ -12,7 +12,7 @@ c) Das sanções aplicáveis;
 
 d) Do prazo concedido e do local para a apresentação da defesa, bem como do prazo e local para apresentação do requerimento para atenuação especial ou suspensão da sanção acessória;
 
-e) Da possibilidade de pagamento voluntário da coima pelo mínimo, nos termos e com os efeitos referidos no artigo 172.º, do prazo e modo de o efetuar, bem como das consequências do não pagamento;
+e) Da possibilidade de pagamento voluntário da coima pelo mínimo nos termos e com os efeitos estabelecidos no artigo 172.º, da possibilidade de prestação de depósito nos termos e efeitos referidos do artigo 173.º, do prazo e do modo de o efetuar, bem como das consequências do não pagamento;
 
 f) Da possibilidade de requerer o pagamento da coima em prestações, no local e prazo indicados para a apresentação da defesa;
 
@@ -26,7 +26,7 @@ b) Apresentar defesa e, querendo, indicar testemunhas, até ao limite de três, 
 
 c) Requerer atenuação especial ou suspensão da sanção acessória e, querendo, indicar testemunhas, até ao limite de três, e outros meios de prova;
 
-d) Requerer o pagamento da coima em prestações, desde que o valor mínimo da coima aplicável seja igual ou superior a (euro) 200.
+d) Requerer o pagamento da coima em prestações, desde que o valor mínimo da coima aplicável seja igual ou superior a 2 UC.
 
 3 - A defesa e os requerimentos previstos no número anterior devem ser apresentados por escrito, em língua portuguesa e conter os seguintes elementos:
 

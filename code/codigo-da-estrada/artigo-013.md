@@ -8,6 +8,6 @@
 
 3 - Sempre que, no mesmo sentido, existam duas ou mais vias de trânsito, este deve fazer-se pela via mais à direita, podendo, no entanto, utilizar-se outra se não houver lugar naquela e, bem assim, para ultrapassar ou mudar de direção.
 
-4 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300, salvo o disposto no número seguinte.
+4 - Quem infringir o disposto nos n.os 1 e 3 é sancionado com coima de (euro) 60 a (euro) 300, salvo o disposto no número seguinte.
 
 5 - Quem circular em sentido oposto ao estabelecido é sancionado com coima de (euro) 250 a (euro) 1250.
