@@ -1,0 +1,6 @@
+Aviso n.º 6894/2016
+Por despacho de 16 de maio de 2016, do Reitor da Universidade de Coimbra (UC), Prof. Doutor João Gabriel Monteiro de Carvalho e Silva, torna-se público que, nos termos do artigo 101.º do Novo Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro e do artigo 110.º do Regime Jurídico das Instituições de Ensino Superior, estabelecido pela Lei n.º 62/2007, de 10 de setembro, durante o período de 30 dias a contar da publicação do presente aviso na 2.ª série do Diário da República, é submetido a discussão pública o projeto de Novo Regulamento Geral das Residências Universitárias dos Serviços de Ação Social da Universidade de Coimbra.
+Durante o período em apreço poderão os interessados consultar o mencionado projeto de regulamento na página oficial institucional da UC, na Internet, através do seguinte endereço: www.uc.pt/regulamentos/discussao.
+Os interessados poderão dirigir, por escrito, dentro do prazo indicado, as sugestões que tiverem por convenientes, para a seguinte morada: Serviços de Ação Social da Universidade de Coimbra, Rua Dr. Guilherme Moreira, n.º 12, 3000-210 Coimbra, ou, por correio eletrónico, para gabadmin@sas.uc.pt.
+18 de maio de 2016. - A Administradora dos SASUC, Regina Helena Lopes Dias Bento.
+209598115
