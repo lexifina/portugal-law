@@ -1,0 +1,16 @@
+Resolução da Assembleia da República n.º 97/2016
+Reforço das medidas de prevenção e combate à diabetes
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Na senda do Dia Mundial da Saúde 2016, dedicado pela Organização Mundial de Saúde à diabetes, aproveite ocasiões públicas para sensibilizar os cidadãos para o problema da diabetes, promovendo ações e campanhas de informação visando a sensibilização da população para esta problemática e para a importância de estilos de vida saudáveis, em especial pela divulgação de boas práticas alimentares, nomeadamente através da alimentação vegetariana, sob a coordenação do Programa Nacional para a Diabetes, designadamente junto de escolas e universidades, devendo estas conter recomendações a adotar para prevenção da doença, por forma a alertar as crianças e os jovens para os seus riscos.
+2 - Assuma as recomendações da Resolução do Parlamento Europeu sobre as medidas para fazer face à epidemia de diabetes na União Europeia, de 12 de março de 2012.
+3 - Identifique de forma sistemática as pessoas potencialmente diabéticas ou pré-diabéticas, alargando o preenchimento sistemático da ficha de risco em todas as pessoas com mais de 40 anos de idade ou com fatores de risco de diabetes, nas unidades de cuidados primários de saúde do Serviço Nacional de Saúde (SNS), que deverão ser encaminhadas para programas de educação específicos.
+4 - Crie mecanismos de acompanhamento de crianças e jovens com diabetes e hiperglicemia intermédia, de modo a prevenir a evolução da doença.
+5 - Desencadeie formação específica sobre a diabetes aos profissionais de saúde, nomeadamente no âmbito dos cuidados de saúde primários, através das Administrações Regionais de Saúde (ARS) e em coordenação com o Programa Nacional para a Diabetes.
+6 - Envolva e motive organizações da sociedade civil, nomeadamente associações de doentes, na estratégia nacional de combate à diabetes.
+7 - Assuma como prioridade a prevenção da diabetes, desenvolvendo programas transversais nacionais com outros ministérios envolvidos nesta problemática, e apoie o desafio «Não à Diabetes» promovido pela Fundação Calouste Gulbenkian, com vista a evitar que, em cinco anos, 50 000 pessoas desenvolvam a doença.
+8 - Desafie as autarquias a desenvolver planos municipais e multimunicipais de combate à diabetes em articulação com a Unidade Coordenadora Funcional para a Diabetes (UCFD), os Agrupamentos de Centros de Saúde (ACES) e as Unidades Locais de Saúde (ULS) de todo o País.
+9 - Promova a divulgação de boas práticas na prevenção e tratamento da diabetes, reforçando as capacidades e o financiamento do Programa Nacional para a Diabetes.
+10 - Identifique as necessidades de tratamento e acompanhamento das crianças com diabetes, permitindo os adequados recursos para garantir o seu desenvolvimento físico, psíquico e social.
+11 - Desenvolva uma quantificação dos custos da diabetes, em termos sociais e a título de despesa pública com o SNS (anos de vida, custo dos tratamentos, custo dos internamentos), comparando os dados obtidos com os ganhos e as poupanças que resultem das políticas de prevenção e de tratamento.
+Aprovada em 15 de abril de 2016.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
