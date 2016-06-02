@@ -1,0 +1,6 @@
+Regulamento n.º 547/2016
+Alteração ao Regulamento das Bolsas de Estudo
+No uso das competências que se encontram previstas na alínea g), do n.º 1 do artigo 25.º, e alínea k), n.º 1 do artigo 33.º do Anexo I, da Lei n.º 75/2013, de 12.09, torna-se público que, em conformidade com o disposto nos artigos 99.º, 100.º e 101.º do Código do Procedimento Administrativo, se encontra em apreciação pública pelo prazo de 30 dias, a contar da data da publicação no Diário da República, a Alteração ao Regulamento das Bolsas de Estudo, aprovada por unanimidade em Projeto, em reunião ordinária da Câmara Municipal, realizada no dia 21 de abril de 2016, e na segunda reunião da sessão ordinária da Assembleia Municipal, realizada no dia 02 de maio de 2016.
+No decurso desse período, o Projeto de Alteração ao Regulamento das Bolsas de Estudo, encontra-se disponível para consulta nos serviços de atendimento ao público da Câmara Municipal de Odemira, onde poderá ser consultado todos os dias úteis, das 9:00 às 16:00 horas, bem como no sítio do Município na Internet (www.cm-odemira.pt), devendo quaisquer sugestões, serem formuladas por escrito e dirigidas à Câmara Municipal de Odemira até às 16:00 horas do último dia do prazo acima referido.
+16 de maio de 2016. - O Presidente da Câmara, José Alberto Candeias Guerreiro.
+309592729
