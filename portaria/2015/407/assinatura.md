@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 22 de outubro de 2015. - A Ministra da Administração Interna, Anabela Maria Pinto de Miranda Rodrigues, em 25 de setembro de 2015. - O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 23 de outubro de 2015.
