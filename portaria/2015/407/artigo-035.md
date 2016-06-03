@@ -2,7 +2,7 @@
 
 ### Revogação da decisão
 
-1 - Os fundamentos para a revogação da decisão de aprovação do pedido de financiamento são os seguintes:
+Os fundamentos para a revogação da decisão de aprovação do pedido de financiamento são os seguintes:
 
 a) Falsas declarações;
 
@@ -16,7 +16,7 @@ e) Verificação posterior, em sede de acompanhamento ou auditoria, do incumprim
 
 f) Constatação de situação não regularizada face à administração fiscal, à segurança social ou ao Fundo, que coloque em causa a continuação das atividades;
 
-g) Não regularização das deficiências detetadas no prazo previsto no n.º 2 do artigo 28.º da presente Portaria;
+g) Não regularização das deficiências detetadas no prazo previsto no n.º 2 do artigo 29.º da presente portaria;
 
 h) Recusa das entidades ao controlo a que estejam legalmente sujeitas;
 

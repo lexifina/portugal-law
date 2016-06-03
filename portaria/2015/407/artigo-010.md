@@ -8,7 +8,7 @@ a) Tenham a sua situação contributiva regularizada perante a administração f
 
 b) Não tenham dívidas ao Fundo;
 
-c) Não estejam inibidas de concorrer nos termos das alíneas b) e i) do n.º 1 do artigo 34.º da presente Portaria;
+c) Não estejam inibidas de concorrer nos termos das alíneas b) e i) do artigo 35.º da presente portaria;
 
 d) Demonstrem capacidade de financiamento do projeto;
 

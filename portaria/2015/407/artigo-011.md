@@ -2,7 +2,7 @@
 
 ### Processo de candidatura
 
-1 - A apresentação das candidaturas é efetuada exclusivamente na plataforma eletrónica da Autoridade Responsável, através da submissão em formulário eletrónico próprio disponibilizado para o efeito no sítio do FAMI, devidamente preenchido e acompanhado de toda a documentação relevante de suporte.
+1 - A apresentação das candidaturas é efetuada exclusivamente no sítio da Internet da Autoridade Responsável, através da submissão em formulário eletrónico próprio disponibilizado para o efeito, devidamente preenchido e acompanhado de toda a documentação relevante de suporte.
 
 2 - Sem prejuízo de outra documentação que venha a ser exigida pela Autoridade Responsável ou pela Autoridade Delegada, com a candidatura é ainda exigível a apresentação de um termo de responsabilidade onde constem o cumprimento dos requisitos constantes do artigo anterior.
 

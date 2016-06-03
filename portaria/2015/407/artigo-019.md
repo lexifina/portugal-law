@@ -8,7 +8,7 @@
 
 1 - Na medida das disponibilidades decorrentes do ritmo dos fluxos financeiros comunitários, os pagamentos do financiamento do Fundo são efetuados do seguinte modo:
 
-a) Pré-financiamento de 50 % do montante financiado pelo Fundo, após a comunicação à Autoridade Responsável da data de início de execução do projeto;
+a) Pré-financiamento até 50 % do montante financiado pelo Fundo, após a comunicação à Autoridade Responsável da data de início de execução do projeto;
 
 b) O reembolso das despesas realizadas e pagas, mais o pré-financiamento referido na alínea anterior, não pode ultrapassar os 95 %;
 
