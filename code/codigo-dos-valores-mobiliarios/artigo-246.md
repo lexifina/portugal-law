@@ -2,7 +2,7 @@
 
 ### Informação semestral
 
-1 - Os emitentes de acções e de valores mobiliários representativos de dívida referidos no n.º 1 do artigo 244.º divulgam, até dois meses após o termo do 1.º semestre do exercício, relativamente à actividade desse período, e mantêm à disposição do público por cinco anos:
+1 - Os emitentes de ações e de valores mobiliários representativos de dívida referidos no n.º 1 do artigo 244.º divulgam, tão cedo quanto possível e decorridos, no máximo, três meses após o termo do primeiro semestre do exercício, relativamente à atividade desse período, e mantêm à disposição do público durante, pelo menos, 10 anos:
 
 a) As demonstrações financeiras condensadas;
 

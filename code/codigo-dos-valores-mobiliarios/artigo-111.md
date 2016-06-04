@@ -12,7 +12,7 @@ c) As ofertas relativas a valores mobiliários emitidos por uma instituição de
 
 d) As ofertas em mercado regulamentado ou sistema de negociação multilateral registado na CMVM que sejam apresentadas exclusivamente através dos meios de comunicação próprios desse mercado ou sistema e que não sejam precedidas ou acompanhadas de prospecção ou de recolha de intenções de investimento junto de destinatários indeterminados ou de promoção publicitária;
 
-e) As ofertas públicas de distribuição de valores mobiliários de valor nominal unitário igual ou superior a (euro) 100 000 ou cujo preço de subscrição ou de venda por destinatário seja igual ou superior àquele montante;
+e) As ofertas públicas de distribuição de valores mobiliários de valor nominal unitário igual ou superior a (euro) 100 000 ou cujo preço de subscrição ou de venda por destinatário seja igual ou superior àquele montante, por cada oferta distinta;
 
 f) As ofertas públicas de distribuição de valores mobiliários não representativos de capital social emitidos por organismos públicos internacionais de que façam parte um ou vários Estados membros;
 
