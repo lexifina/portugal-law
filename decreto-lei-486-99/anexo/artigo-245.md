@@ -2,7 +2,7 @@
 
 ### Relatório e contas anuais
 
-1 - As entidades referidas no n.º 1 do artigo 244.º divulgam, no prazo de quatro meses a contar da data de encerramento do exercício e mantêm à disposição do público por cinco anos:
+1 - As entidades referidas no n.º 1 do artigo 244.º divulgam, no prazo de quatro meses a contar da data de encerramento do exercício, e mantêm à disposição do público durante, pelo menos, 10 anos:
 
 a) O relatório de gestão, as contas anuais, a certificação legal de contas e demais documentos de prestação de contas exigidos por lei ou regulamento, ainda que não tenham sido submetidos a aprovação em assembleia geral;
 

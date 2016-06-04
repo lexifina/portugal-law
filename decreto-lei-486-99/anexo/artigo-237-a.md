@@ -1,17 +1,7 @@
 # Artigo 237.º-A
 
-### Idioma
+### Regime linguístico
 
-1 - O prospecto de admissão pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais:
+1 - Sem prejuízo do disposto no número seguinte, é aplicável ao prospeto de admissão, com as devidas adaptações, o disposto no artigo 163.º-A.
 
-a) Se os valores mobiliários a admitir tiverem um valor nominal igual ou superior a (euro) 100 000 ou, em caso de valores mobiliários sem valor nominal, se o valor inicial previsto de admissão for igual ou superior àquele montante;
-
-b) Se tiver sido elaborado no âmbito de um pedido de admissão dirigido a mercados de vários Estados;
-
-c) Se a lei pessoal do emitente for estrangeira;
-
-d) Se se destinar a mercado ou segmento de mercado que, pelas suas características, apenas seja acessível a investidores qualificados.
-
-2 - Aos casos previstos nas alíneas b) e c) do número anterior é aplicável o n.º 2 do artigo 163.º-A.
-
-3 - A informação periódica relativa a emitentes de valores mobiliários admitidos à negociação nas situações previstas no artigo 163.º-A pode ser redigida numa língua de uso corrente nos mercados financeiros internacionais.
+2 - O prospeto de admissão relativo a valores mobiliários não representativos de capital com valor nominal unitário igual ou superior a (euro) 100 000 ou, quando denominados noutra moeda, de valor equivalente na data de emissão, pode ser redigido em idioma aceite pela CMVM ou num idioma de uso corrente nos mercados financeiros internacionais, à escolha do emitente, do oferente ou da pessoa que solicita a admissão.

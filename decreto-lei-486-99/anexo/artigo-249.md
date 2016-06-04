@@ -16,7 +16,7 @@ b) Alteração, atribuição e pagamento ou exercício de quaisquer direitos ine
 
 c) Alteração dos direitos dos obrigacionistas que resultem, nomeadamente, de modificação das condições do empréstimo ou da taxa de juro;
 
-d) Emissão de acções e obrigações, com indicação dos privilégios e garantias de que beneficiam, incluindo informações sobre quaisquer procedimentos de atribuição, subscrição, cancelamento, conversão, troca ou reembolso;
+d) Emissão de ações, com indicação dos privilégios de que beneficiam, incluindo informações sobre quaisquer procedimentos de atribuição, subscrição, cancelamento, conversão, troca ou reembolso;
 
 e) Alterações aos elementos que tenham sido exigidos para a admissão dos valores mobiliários à negociação;
 

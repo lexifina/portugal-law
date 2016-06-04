@@ -1,13 +1,17 @@
 # Artigo 163.º-A
 
-### Idioma
+### Regime linguístico
 
-1 - O prospecto de oferta pública de distribuição pode ser, no todo ou em parte, redigido numa língua de uso corrente nos mercados financeiros internacionais:
+1 - O prospeto relativo a oferta pública de distribuição efetuada exclusivamente em Portugal, sendo a CMVM a autoridade competente nos termos do artigo 145.º, deve ser redigido em idioma aceite pela CMVM.
 
-a) Se a sua apresentação não resultar de exigência legal;
+2 - O prospeto relativo a oferta pública de distribuição efetuada num ou mais Estados membros, mas não em Portugal, sendo a CMVM a autoridade competente, deve ser redigido, à escolha do emitente ou oferente, num idioma aceite pelas autoridades competentes desses Estados membros ou num idioma de uso corrente nos mercados financeiros internacionais.
 
-b) Se tiver sido elaborado no âmbito de uma oferta dirigida a vários Estados; ou
+3 - Nos casos previstos no número anterior, para efeitos de aprovação do prospeto pela CMVM, o mesmo deve ser redigido em idioma aceite pela CMVM ou num idioma de uso corrente nos mercados financeiros internacionais.
 
-c) Se a lei pessoal do emitente for estrangeira.
+4 - Tratando-se de prospeto relativo a oferta pública de distribuição efetuada num ou mais Estados membros, incluindo em Portugal:
 
-2 - Nos casos previstos nas alíneas b) e c) do número anterior, a CMVM pode exigir que o sumário seja divulgado também em português.
+a) Sendo a CMVM a autoridade competente, deve ser redigido em idioma aceite pela CMVM e disponibilizado num idioma aceite pelas autoridades competentes de cada Estado membro de acolhimento ou num idioma de uso corrente nos mercados financeiros internacionais, à escolha do emitente ou do oferente;
+
+b) Não sendo a CMVM a autoridade competente, deve ser disponibilizado, à escolha do emitente ou oferente, em idioma aceite pela CMVM ou num idioma de uso corrente nos mercados financeiros internacionais.
+
+5 - No caso previsto na alínea b) do número anterior, a CMVM pode exigir que o sumário seja divulgado também em português.

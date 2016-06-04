@@ -14,7 +14,7 @@
 
 2 - Exceptuam-se do disposto no número anterior:
 
-a) As ofertas de valores mobiliários a atribuir, por ocasião de uma fusão ou cisão, a pelo menos 150 acionistas que não sejam investidores qualificados, desde que esteja disponível, com pelo menos 15 dias de antecedência em relação à data da assembleia geral, um documento com informações consideradas pela CMVM equivalentes às de um prospeto;
+a) As ofertas de valores mobiliários a atribuir, por ocasião de uma fusão ou cisão, desde que esteja disponível, com pelo menos 15 dias de antecedência em relação à data da assembleia geral, um documento com informações consideradas pela CMVM equivalentes às de um prospeto;
 
 b) O pagamento de dividendos sob a forma de acções da mesma categoria das acções em relação às quais são pagos os dividendos, desde que esteja disponível um documento com informações sobre o número e a natureza das acções, bem como sobre as razões e características da oferta;
 

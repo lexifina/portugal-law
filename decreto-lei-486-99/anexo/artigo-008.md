@@ -13,3 +13,5 @@ c) Respeitem a instituições de investimento colectivo.
 2 - O revisor oficial de contas e a sociedade de revisor oficial de contas referidos no número anterior são, para efeitos deste Código, designados por auditor, e por auditoria a atividade por eles desenvolvida.
 
 3 - (Revogado.)
+
+4 - No caso de as informações trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, é incluído o relatório de auditoria ou de revisão ou, no caso de não terem sido, deve ser declarado tal facto.
