@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12808",
+  "numero": "127",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-06-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-10-04",
+            "entidades": null,
+            "id": "103013",
+            "tipo": null,
+            "titulo": "Audição em 2016-10-04 com Sindicato dos Professores da Região Centro - Direção Distrital de Viseu - FENPROF"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": null,
+            "entidades": [
+              "Instituto Politécnico de Viseu"
+            ],
+            "nrOficio": "424/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": "2016-07-21",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "425/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": null,
+            "entidades": [
+              "SNESup - Sindicato Nacional do Ensino Superior"
+            ],
+            "nrOficio": "426/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": "2016-07-21",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "427/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": "2016-07-27",
+            "entidades": [
+              "APESP - Associação Portuguesa do Ensino Superior Privado"
+            ],
+            "nrOficio": "428/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-19",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR"
+            ],
+            "nrOficio": "423/CEC/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-09-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-07-12",
+        "DataArquivo": "2016-10-12",
+        "DataBaixaComissao": "2016-06-24",
+        "DataEnvioPAR": "2016-10-13",
+        "DataReaberta": "2016-07-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-07-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d795a57526c4e6a4e6a4c54426c4e4441744e4759774f5331694f5452694c5749775a474a6d4e574e684e7a646b4f4335775a47593d&fich=32ede63c-0e40-4f09-b94b-b0dbf5ca77d8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a46694d6d497a4e6a4d774c546c6a5a4749744e4759344d7931684d6a4a6a4c5749345a4755774e446b795a6d4d344d7935775a47593d&fich=1b2b3630-9cdb-4f83-a22c-b8de0492fc83.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b315a4459774d544d7a4c5749784e5445744e4759314f5331684e5455784c5745784f4751324e6a6733596a637a4d4335775a47593d&fich=95d60133-b151-4f59-a551-a18d6687b730.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d774d3259794d3259334c5749784f474d744e445178596930344d4446694c546c694d444d33595445344d44566b4e4335775a47593d&fich=303f23f7-b18c-441b-801b-9b037a1805d4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a646d4f574534595749774c5755794d6a51744e44677a4e43303559544e6d4c5759784d7a45304e54677a5a44457a4d7935775a47593d&fich=7f9a8ab0-e224-4834-9a3f-f1314583d133.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324977595459314f5441304c544e694d4745744e475a6a5a5331684d574a694c5445304e5463354d5756695a6a5179597935775a47593d&fich=b0a65904-3b0a-4fce-a1bb-145791ebf42c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466c4d7a56694e7a41334c57566c596a45744e4751314d7931685a546b334c574d344d7a51314d32517759544e6d4d6935775a47593d&fich=1e35b707-eeb1-4d53-ae97-c83453d0a3f2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-10-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a46685a4459794d7a59324c5455794d5451744e444d324f5330354d574e6d4c5445774e5463314d6a5669593249354e6935775a47593d&fich=1ad62366-5214-4369-91cf-1057525bcb96.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-07-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426b5957566b4e3249334c5755344d6a41744e444a6c4d4330344d7a55314c545a6c595749794d7a51305a57466a4f5335775a47593d&fich=0daed7b7-e820-42e0-8355-6eab2344eac9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6a5a6d45334f474d304c5455784e6a51744e44646a4e4331694d7a4e6b4c544e6c4f54686b4e47566b5932526b4d7935775a47593d&fich=bcfa78c4-5164-47c4-b33d-3e98d4edcdd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a646d595463304d7a59354c5751304e4463744e4445324e6930344f4759794c54466d4e5449334e3245324d44646d4d6935775a47593d&fich=7fa74369-d447-4166-88f2-1f5277a607f2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-07-12",
+            "gp": "CDS-PP",
+            "id": "5748",
+            "motivoCessacao": null,
+            "nome": "Ana Rita Bessa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-06-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774f444e6c4d5455354f4330354e5451794c5451785a446b745954526a5a5330355a4755784e6a55314e6d4d7a4e6a51756347526d&fich=083e1598-9542-41d9-a4ce-9de16556c364.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12808",
+    "PetAssunto": "Pela estabilidade de emprego dos docentes em funções no Instituto Politécnico de Viseu.",
+    "PetDataEntrada": "2016-06-07",
+    "PeticoesAssociadas": null,
+    "PetId": "12808",
+    "PetLeg": "XIII",
+    "PetNr": "127",
+    "PetNrAssinaturas": "718",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
