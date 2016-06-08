@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12805",
+  "numero": "124",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-06-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-10-25",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "775593",
+                "obs": null,
+                "pag": [
+                  "13-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-04",
+                "pubLeg": "XIII",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/010/2016-11-04/13?pgs=13-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-07-05",
+        "DataArquivo": "2016-10-25",
+        "DataBaixaComissao": "2016-06-15",
+        "DataEnvioPAR": "2016-10-27",
+        "DataReaberta": "2016-07-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-07-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e515a585270593246764c7a466a597a49314f5445304c546b31595441744e474d334d6930354e6a51354c545531596a4a6d4e325a6b4d446c6c4d4335775a47593d&fich=1cc25914-95a0-4c72-9649-55b2f7fd09e0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-10-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e515a585270593246764c7a49794d7a6b795932466d4c54517a4e6a55744e4755774d6931684e4441774c544a69597a49354f5441784d474a6d597935515245593d&fich=22392caf-4365-4e02-a400-2bc299010bfc.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4527",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Europeus",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-07-05",
+            "gp": "PSD",
+            "id": "3963",
+            "motivoCessacao": null,
+            "nome": "Carlos Costa Neves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-01-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-06-21",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344d6a686c596d4d785953307859544d774c5451795a6a41744f474a6b4e5330314d6a686c5a444d32596d55304f574d756347526d&fich=828ebc1a-1a30-42f0-8bd5-528ed36be49c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40487",
+      "40890"
+    ],
+    "Iniciativasoriginadas": [
+      "40487",
+      "40884",
+      "40890",
+      "40893"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:26:44:748&drc=00:02:52:252"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:49:52:477&drc=00:01:25:522"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:29:40:575&drc=00:02:50:424"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:51:23:532&drc=00:01:20:468"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46",
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/46?pgs=46,52&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:32:40:415&drc=00:01:44:449"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:34:31:351&drc=00:03:30:305"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:38:06:816&drc=00:03:20:183"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:41:32:298&drc=00:03:55:774"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-01-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_01_12_15_00_00_14_plenario&url=l13/sl2/a2017/m01/&tI=02:45:32:852&drc=00:04:14:420"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-13",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República; Recomenda ao Governo que garanta a natureza democrática no processo do Acordo Económico e Comercial Global - CETA; Pela rejeição dos Acordos de Livre Comércio e Serviços, designadamente do Acordo Económico e Comercial Global (CETA) entre a União Europeia e o Canadá; Recomenda ao Governo português a promoção de um debate alargado, com a sociedade civil e organizações não-governamentais, sobre os impactos do CETA em Portugal e na Europa; Pela rejeição do Acordo Económico e Comercial Global - CETA (União Europeia-Canadá) e a criação de garantias de transparência e participação democrática.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12805",
+    "PetAssunto": "Pelo debate e decisão sobre a ratificação do CETA na Assembleia da República.",
+    "PetDataEntrada": "2016-06-08",
+    "PeticoesAssociadas": null,
+    "PetId": "12805",
+    "PetLeg": "XIII",
+    "PetNr": "124",
+    "PetNrAssinaturas": "4230",
+    "PetNrAssinaturasInicial": "1952",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2268",
+        "obs": null,
+        "pag": [
+          "3-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-01-13",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/037/2017-01-13/3?pgs=3-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "767913",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-08-03",
+        "pubLeg": "XIII",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/01/048/2016-08-03/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
