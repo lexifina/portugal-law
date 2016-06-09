@@ -1,0 +1,151 @@
+Portaria n.º 160/2016
+de 9 de junho
+A Portaria n.º 135/2012, de 8 de maio, aprova os estatutos do Instituto da Segurança Social, I. P., adiante abreviadamente designado por ISS, I. P., definindo a respetiva organização interna, a qual compreende unidades orgânicas centrais, serviços desconcentrados, o Centro Nacional de Pensões e, ainda, estabelecimentos integrados.
+Os estabelecimentos integrados têm por objeto a prestação de modalidades de ação social integrada, visando o apoio às populações, nomeadamente nas áreas da infância, juventude, reabilitação, idosos e família, podendo funcionar sob a gestão direta do ISS, I. P., na dependência do centro distrital da área geográfica onde se inserem, ou sob a gestão de outras entidades, designadamente instituições particulares de solidariedade social, através de acordos de gestão.
+Têm-se assim assistido a um processo gradual de transferência da gestão dos estabelecimentos integrados sob gestão direta do ISS, I. P., para entidades da rede solidária, entre as quais instituições particulares de solidariedade social, misericórdias e mutualidades, mediante a celebração de acordos de gestão.
+Paralelamente, verificou-se, também, a adoção de procedimentos tendentes à extinção de alguns estabelecimentos integrados, cuja continuidade se não justificava, situação que cumpre dotar da adequada forma legal.
+Os motivos supra enunciados determinam uma alteração da configuração da organização interna do ISS, I. P., nomeadamente no que concerne aos estabelecimentos integrados referenciados nos anexos I e II dos estatutos, pelo que, em conformidade, importa proceder à alteração da Portaria n.º 135/2012, de 8 de maio.
+Assim, ao abrigo do disposto no n.º 1 do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação vigente, manda o Governo, pelos Ministros das Finanças e do Trabalho, Solidariedade e Segurança Social, o seguinte:
+Artigo 1.º
+Âmbito
+A presente portaria visa formalizar as alterações ocorridas no âmbito da gestão e extinção dos estabelecimentos integrados do ISS, I. P., previstos no artigo 23.º da Portaria n.º 135/2012, de 8 de maio.
+Artigo 2.º
+Alteração ao anexo I dos Estatutos do ISS, I. P.
+O anexo I dos Estatutos do Instituto da Segurança Social (ISS, I. P.), aprovados pela Portaria n.º 135/2012, de 8 de maio, passa a ter o seguinte conteúdo:
+«ANEXO I
+(n.º 4 do artigo 23.º dos Estatutos)
+Castelo Branco
+Centro Infantil de Cebolais de Cima (Creche)
+Porto
+Centro de Educação Especial de S. José e Campo Lindo
+Centro de Reabilitação da Areosa
+Centro de Reabilitação de Granja
+Lar de São Miguel
+Centro de Educação Especial de António Cândido
+Centro de Reabilitação de Condessa de Lobão»
+Artigo 3.º
+Alteração ao anexo II dos Estatutos do ISS, I. P.
+O anexo II dos Estatutos do Instituto da Segurança Social (ISS, I. P.), aprovados pela Portaria n.º 135/2012, de 8 de maio, passa a ter o seguinte conteúdo:
+«ANEXO II
+(n.º 5 do artigo 23.º dos Estatutos)
+Aveiro
+Centro Infantil de Aveiro
+Centro Infantil de Lourosa
+Centro Infantil de Espinho II
+Centro Infantil de Ílhavo
+Centro Infantil de São João da Madeira
+Centro Infantil de Santa Maria da Feira
+Centro Infantil de Santa Maria de Lamas
+Centro Infantil de Cortegaça
+Casa da Criança de Albergaria-a-Velha
+Beja
+Casa Pia de Beja (Centro Infantil Coronel Sousa Tavares)
+Braga
+Centro Infantil de Barcelos
+Centro Infantil de Guimarães
+Centro Infantil de Delães
+Centro Social de Bairro
+Centro Infantil de Pevidém
+Centro Social de Pousada de Saramagos
+Centro Infantil de Fafe
+Bragança
+Centro de Educação Especial de Bragança
+Centro Infantil de Bragança
+Lar de São Francisco
+Castelo Branco
+Centro Infantil de Alcains
+Centro Infantil de Castelo Branco I
+Centro Infantil de Castelo Branco II
+Centro Infantil de Teixoso - O Meu Cantinho
+Centro Infantil da Covilhã III - Bolinha de Neve
+Centro Infantil de Tortosendo - Capuchinho Vermelho
+Lar de Infância e Juventude Especializado Casa da Tapada da Renda - Louriçal do Campo
+Casa de Acolhimento de Jovens de Castelo Branco
+Coimbra
+Centro Acolhimento do Loreto
+Centro de Apoio à Terceira Idade de São Martinho do Bispo - CATI
+Centro de Reabilitação de Paralisia Cerebral de Coimbra
+Centro Infantil de Coimbra Centro Infantil de Miranda do Corvo Instituto de Surdos de Bencanta
+Évora
+Casa de Acolhimento dos Pinheiros
+Faro
+Creche e Jardim-de-Infância de Albufeira O Búzio
+Centro de Bem-Estar Infantil de Nossa Senhora de Fátima
+Jardim-de-Infância de Tavira O Pinóquio
+Jardim-de-Infância de Sagres A Alvorada
+Jardim-de-Infância de Cabanas A Boneca
+Jardim-de-Infância de Santa Luzia O Girassol
+Guarda
+Infantário Favo de Mel - Manteigas
+Lar Feminino da Guarda
+Leiria
+Centro Infantil da Nazaré o Balancé
+Centro Infantil de Peniche O Traquinas
+Centro Infantil da Marinha Grande/ATL Arco-Íris
+Internato Masculino de Leiria
+Lar Residencial de Alcobaça
+Lisboa
+Casa da Luz
+Centro de Apoio Social do Pisão
+Centro Infantil de Alvalade I
+Centro Infantil de Alvalade II
+Colónia de Férias da Praia Azul
+Lar de Santa Tecla
+Lar Madre Teresa de Saldanha
+Mansão de Santa Maria de Marvila
+Centro de Acolhimento Temporário de Tercena
+Centro de Apoio a Jovens Deficientes (CAO Luz)
+Centro Infantil A-da-Beja
+Centro Infantil Olivais Sul
+Casa de Repouso de Cascais
+Centro de Acolhimento Temporário Francisca Lindoso/Centro Infantil da Madorna (Instituto da Sagrada Família)
+Centro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian
+Centro Infantil da Parede
+Centro Infantil de Odivelas
+Lar de Odivelas
+Lar de Santa Clara
+Portalegre
+Centro Infantil de Santa Eulália
+Internato Distrital de N.ª Sr.ª da Conceição
+Internato Distrital de Santo António
+Centro Infantil de Santo António das Areias
+Porto
+Centro de Educação Especial do Dr. Leonardo Coimbra
+Centro de Reabilitação de Paralisia Cerebral do Porto
+Centro Infantil de Crestuma
+Centro Infantil A Minha Janela
+Centro Infantil de São Mamede de Infesta
+Colónia de Férias da Praia da Árvore
+Jardim-de-Infância Monsenhor Pires Quesado
+Lar Monte dos Burgos
+Centro Infantil de Matosinhos
+Centro Infantil de Santo Tirso
+Centro Infantil de Valbom
+Centro Infantil do Bougado/Trofa
+Serviços de Assistência e Organização de Maria (SAOM)
+Associação dos Pescadores Aposentados de Matosinhos (Casa dos Pescadores)
+Casa da Amizade - Centro de Apoio aos Sem-Abrigo
+Santarém
+Lar de Idosos de S. Domingos
+Setúbal
+Centro de Bem-Estar da Baixa da Banheira
+Centro de Bem-Estar Social do Laranjeiro
+Centro de Santo André O Moinho
+Centro Infantil da Costa da Caparica
+Centro Infantil da Trafaria
+Centro Infantil de Alcácer do Sal
+Centro Infantil de Sines - A Conchinha
+Centro Infantil do Barreiro - O Caracol
+Centro Infantil do Lavradio - O Barquinho
+Centro Infantil do Lousal
+Centro Infantil Setúbal I - O Ninho
+Centro Infantil Setúbal II - O Comboio
+Infantário e Jardim-de-Infância da Romeira
+Centro de Apoio à Terceira Idade - CATI
+Vila Real
+Escola de Ensino Especial de Vila Real
+Viseu
+Infantário do Caramulo
+Internato Vítor Fontes
+Lar de S. José»
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 11 de maio de 2016. - Pelo Ministro do Trabalho, Solidariedade e Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, Secretária de Estado da Segurança Social, em 28 de abril de 2016.
