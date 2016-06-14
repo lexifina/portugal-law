@@ -1,0 +1,14 @@
+Aviso n.º 30/2016
+Por ordem superior se torna público que, por notificação de 27 de fevereiro de 2015, a República da Polónia comunicou ter depositado, junto do Secretário-Geral do Conselho da Europa, a 20 de fevereiro de 2015, o seu instrumento de ratificação do Protocolo Adicional à Convenção sobre o Cibercrime relativo à Incriminação de Atos de Natureza Racista e Xenófoba Praticados através de Sistemas Informáticos, aberto à assinatura em Estrasburgo, a 28 de janeiro de 2003, tendo formulado as seguintes reservas:
+Reservas e Declarações (original em inglês)
+Reservations contained in the instrument of ratification deposited on 20 February 2015 - Or. Engl.
+Pursuant to Article 3, paragraph 3, of the Additional Protocol, the Republic of Poland reserves that the condition that is necessary to consider a conduct referred to in Article 3, paragraph 1, a criminal offence is discrimination associated with violence or hatred, as referred to in Article 3, paragraph 2.
+Pursuant to Article 6, paragraph 2.a, of the Additional Protocol, the Republic of Poland reserves that the condition that is necessary to consider a conduct referred to in Article 6, paragraph 1, a criminal offence is the intent as specified in Article 6, paragraph 2.a.
+Tradução
+Reservas contidas no instrumento de ratificação depositado em 20 de fevereiro 2015 - Or. Ingl.
+Nos termos do n.º 3, do artigo 3.º, do Protocolo Adicional, a República da Polónia faz reserva de que a condição necessária para considerar uma conduta referida no n.º 1, do no artigo 3.º uma ofensa criminal é a discriminação associada à violência ou ao ódio, tal como referido no parágrafo 2, do artigo 3.º
+Nos termos do parágrafo 2.a, do artigo 6.º, do Protocolo Adicional, a República da Polónia faz reserva de que a condição necessária para considerar uma conduta referida no artigo 6.º, n.º 1, uma ofensa criminal é a intenção, tal como especificado no artigo 6.º, n.º 2.a.
+Nos termos do n.º 2 do artigo 10.º, o Protocolo em apreço entrou em vigor para este Estado no primeiro dia do mês seguinte ao termo de um período de três meses após a data do depósito do seu instrumento de ratificação, ou seja, no dia 1 de junho de 2015.
+A República Portuguesa é Parte deste Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 91/2009, e ratificado pelo Decreto do Presidente da República n.º 94/2009, publicado no Diário da República, série I, n.º 179, de 15 de setembro de 2009, tendo depositado o seu instrumento de ratificação a 24 de março de 2010, conforme o Aviso n.º 99/2013, publicado no Diário da República, série I, n.º 210, de 30 de outubro de 2013.
+O Protocolo Adicional à Convenção sobre o Cibercrime relativo à Incriminação de Atos de Natureza Racista e Xenófoba Praticados através dos Sistemas Informáticos entrou em vigor na ordem jurídica portuguesa a 1 de julho de 2010.
+Direção-Geral de Política Externa, 9 de maio de 2016. - O Subdiretor-Geral, Luís Cabaço.
