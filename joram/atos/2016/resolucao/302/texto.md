@@ -1,0 +1,24 @@
+# Resolução n.º 302/2016
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 103/2016, suplemento, de 2016-06-14
+
+**Sumário:** Autoriza a celebração de um acordo de cooperação, na modalidade de apoio eventual, entre o Instituto de Segurança Social da Madeira, IP-RAM, abreviadamente designado ISSM, IP-RAM e o Centro Social e Paroquial de São Bento da Ribeira Brava, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira de nove lugares, considerada indispensável ao adequado funcionamento das respostas sociais que são prosseguidas no Centro de Dia do Campanário.
+
+## Texto
+
+Resolução n.º 302/2016
+Considerando que, nos termos da autorização conferida pela alínea a) do n.º 1 da Resolução do Conselho do Governo Regional n.º 879/2015, de 1 de outubro, publicada no JORAM, I série, n.º 154, a 7 de outubro, foi confiada a gestão ao Centro Social e Paroquial de São Bento da Ribeira Brava, adiante designado por Instituição, do estabelecimento integrado no Instituto de Segurança Social da Madeira, IP-RAM, (ISSM, IP-RAM), nos termos previstos no
+
+artigo 5.º dos respetivos Estatutos, aprovados pela Portaria n.º 167/2012, de 20 de dezembro, denominado por Centro de Dia do Campanário, em funcionamento no 1.º andar do edifício público, sito à Rua Comandante Camacho de Freitas, n.º 421, freguesia do Campanário, concelho da Ribeira Brava, assim como a gestão das correspondentes respostas sociais, designadamente, centro de dia, centro de convívio e apoio domiciliário, incluindo a vertente de lavandaria;
+Considerando o pedido de apoio financeiro formulado pela Instituição relativo à aquisição de uma viatura ligeira com capacidade de nove lugares, para afetação às atividades desenvolvidas naquele equipamento social, com vista a serem devidamente assegurados os transportes diários dos utentes que frequentam as respostas sociais anteriormente indicadas, bem como, as relativas à distribuição e recolha de roupa lavada e tratada dos utentes apoiados pelo serviço de ajuda domiciliária;
+Considerando que a aquisição em causa contribuirá para uma melhor rentabilização dos recursos disponíveis e para o bom e regular funcionamento das referidas atividades e à adequada prossecução das respostas sociais anteriormente indicadas.
+Nestes termos, o Conselho do Governo reunido em plenário em 9 de junho de 2016, resolveu:
+1. Autorizar, nos termos do disposto na alínea c) do n.º 2 do artigo 3.º do Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, que estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM e as instituições particulares de solidariedade social e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira, no n.º 2 do artigo 6.º e artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro, e nos artigos 9.º, 51.º e 52.º do Regulamento que estabelece as normas de cooperação entre o Centro de Segurança Social da Madeira e as Instituições Particulares de Solidariedade Social e outras instituições de apoio social sem fins lucrativos, aprovado pela Portaria n.º 78/2007, de 16 de agosto, da Secretaria Regional dos Assuntos Sociais, a celebração de um acordo de cooperação, na modalidade de apoio eventual entre o Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e o Centro Social e Paroquial de São Bento da Ribeira Brava, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira de nove lugares, considerada indispensável ao adequado funcionamento das respostas sociais que são prosseguidas no Centro de Dia do Campanário.
+2. Atribuir à mesma Instituição, no âmbito do referido acordo, um apoio financeiro até ao montante total máximo previsto de € 35.000,00 (trinta e cinco mil euros), correspondente a 100% da comparticipação com a despesa enunciada no número anterior.
+3. O apoio financeiro no montante referido no número anterior será atribuído até ao termo do corrente ano económico de 2016, contra a apresentação de cópia da fatura da despesa objeto de apoio e após verificação da sua conformidade pelo ISSM, IP-RAM.
+
+4. Aprovar a minuta do referido acordo de cooperação - apoio eventual, que faz parte integrante da presente Resolução.
+5. A despesa em causa tem cabimento no orçamento do ISSM, IP-RAM, no âmbito do seu plano de investimentos, sob a rubrica orçamental com a classificação funcional PJ16030.01 e classificação económica D.08.07.02 e tem compromisso registado sob o n.º 2801 602 134.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque.
