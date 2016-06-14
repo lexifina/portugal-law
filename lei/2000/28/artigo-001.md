@@ -1,3 +1,13 @@
 # Artigo 1.º
 
-O Panteão Nacional, criado pelo Decreto de 26 de Setembro de 1836, fica instalado em Lisboa, na Igreja de Santa Engrácia, e em Coimbra, na Igreja de Santa Cruz, estando o uso desta última, sem prejuízo da prática do culto religioso, destinado em exclusivo à prestação de honras ao primeiro rei de Portugal e seus sucessores aí sepultados.
+### Panteão Nacional
+
+1 - O Panteão Nacional, criado pelo Decreto de 26 de setembro de 1836, fica instalado em Lisboa, na Igreja de Santa Engrácia.
+
+2 - É ainda reconhecido o estatuto de Panteão Nacional, sem prejuízo da prática do culto religioso:
+
+a) Ao Mosteiro dos Jerónimos, em Lisboa;
+
+b) Ao Mosteiro de Santa Maria da Vitória, na Batalha;
+
+c) À Igreja de Santa Cruz, em Coimbra.
