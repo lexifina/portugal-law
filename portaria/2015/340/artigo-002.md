@@ -18,8 +18,8 @@ b) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP);
 
 c) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).
 
-2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com as Equipas Coordenadoras Regionais da RNCCI, previstas no Decreto-Lei n.º 101/2006, de 6 de junho.
+2 - As equipas locais referidas no número anterior encontram-se integradas na RNCP e articulam-se entre si e com outros serviços e equipas do Serviço Nacional de Saúde de forma a assegurar a continuidade de cuidados de que o doente necessita.
 
-3 - As UCP podem ter diferentes valências assistenciais e funcionar em instalações da RNCCI.
+3 - As equipas locais de âmbito hospitalar podem organizar-se em termos de resposta assistencial, de forma integrada, agregando as valências de cuidados paliativos, nomeadamente a equipa de apoio intra-hospitalar, unidade de internamento, quando existente, hospital de dia, consulta externa e consulta domiciliária.
 
-4 - Nas unidades de média duração e reabilitação e de longa duração e manutenção da RNCCI, previstas no Decreto-Lei n.º 101/2006, de 6 de junho, podem também ser prestados cuidados paliativos, desde que assegurados os serviços constantes do artigo 7.º
+4 - As Unidades de Convalescença, as Unidades de Média Duração e Reabilitação, as Unidades de Longa Duração e Manutenção e as Equipas de Cuidados Continuados Integrados (ECCI) da RNCCI, devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de ações paliativas.

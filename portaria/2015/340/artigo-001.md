@@ -14,4 +14,4 @@ b) As condições e requisitos de construção e segurança das instalações de
 
 2 - A presente portaria aplica-se às entidades integradas na RNCP.
 
-3 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, através de um profissional de saúde com formação em cuidados paliativos que integre as Equipas Coordenadoras Regionais da Rede Nacional de Cuidados Continuados Integrados (RNCCI).
+3 - A RNCP é coordenada, a nível regional, pelas respetivas Administrações Regionais de Saúde, através de um profissional de saúde de reconhecida competência em cuidados paliativos, assessorado por um Grupo Técnico de Apoio, o qual deve articular-se com os Agrupamentos de Centros de Saúde (ACES), as instituições hospitalares e as estruturas da Rede Nacional de Cuidados Continuados Integrados (RNCCI), nomeadamente as Equipas Coordenadoras Regionais.

@@ -23,3 +23,5 @@ h) Higiene, conforto e alimentação;
 i) Convívio e lazer;
 
 j) Formação em cuidados paliativos.
+
+l) Assessoria na área dos cuidados paliativos a profissionais de saúde, designadamente dos cuidados de saúde primários, hospitalares e continuados, da respetiva área de influência da instituição de saúde onde a UCP se encontra integrada.

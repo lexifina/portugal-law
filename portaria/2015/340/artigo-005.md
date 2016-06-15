@@ -6,7 +6,7 @@
 
 ### Direção das equipas locais de cuidados paliativos
 
-Cada equipa local funciona sob a direção de um profissional de saúde com formação e experiência reconhecida em cuidados paliativos, nomeadamente tendo em consideração qualificações existentes, ao qual compete, nomeadamente:
+Cada equipa local funciona sobre a direção técnica de um médico com formação e experiência reconhecida em cuidados paliativos, nomeadamente tendo em consideração qualificações existentes, ao qual compete, nomeadamente:
 
 a) Garantir a elaboração do regulamento interno;
 

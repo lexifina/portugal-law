@@ -24,6 +24,6 @@ i) Equipamento médico;
 
 j) Sistemas de gestão de resíduos, consoante a respetiva natureza.
 
-2 - A definição e caracterização dos espaços necessários ao desenvolvimento das atividades das unidades da RNCP devem ainda obedecer às condições específicas de instalação previstas no anexo à presente portaria, da qual faz parte integrante.
+2 - Aplica-se com as necessárias adaptações às UCP, o disposto na Portaria n.º 290/2012, de 24 de setembro, no que se refere às especificações técnicas aplicáveis às unidades com internamento, constantes dos anexos III, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI e XVII, sendo obrigatório que, pelo menos, 20 % dos quartos correspondam a quartos individuais.
 
 3 - Sem prejuízo do disposto na presente portaria, o licenciamento de construção e autorização de utilização rege-se pela legislação aplicável.
