@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "202575",
+  "tipo": "Intervenção",
+  "orador": "João Ramos (PCP)",
+  "data_registo": "2016-06-16",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "102289",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "40000",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Inclusão de opção vegetariana em todas as cantinas públicas"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "40458",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Determina a inclusão da opção vegetariana nas refeições nas cantinas públicas"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "40479",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Ementa vegetariana nas cantinas públicas"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Projeto de lei n.º 111/XIII (1.ª) — Inclusão de opção vegetariana em todas as cantinas públicas (PAN).\nProjeto de lei n.º 265/XIII (1.ª) — Determina a inclusão da opção vegetariana nas refeições nas cantinas públicas (BE). \nProjeto de lei n.º 268/XIII (1.ª) — Ementa vegetariana nas cantinas públicas (Os Verdes).",
+        "duracao": "00:03:17:250",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=20160616pln&url=l13/sl1/a2016/m06/&tI=03:50:30:452&drc=00:03:17:250"
+      }
+    ],
+    "DataReuniaoPlenaria": "2016-06-16",
+    "Debate": "PJL n.º 111/XIII/1; PJL n.º 265/XIII/1; PJL n.º 268/XIII/1",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "3934",
+      "nome": "João Ramos"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "202575",
+    "IdDebate": "11424",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "202575",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "56-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-06-17",
+        "pubLeg": "XIII",
+        "pubNr": "79",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/079/2016-06-17/56?pgs=56-57&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Inclusão de opção vegetariana em todas as cantinas públicas; Determina a inclusão da opção vegetariana nas refeições nas cantinas públicas; Ementa vegetariana nas cantinas públicas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
