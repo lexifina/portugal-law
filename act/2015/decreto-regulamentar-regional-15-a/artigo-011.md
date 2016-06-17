@@ -70,4 +70,12 @@ c) Atualização dos documentos referidos nos n.os 2, 4 e 5 e nas alíneas a) e 
 
 d) Os documentos referidos nas alíneas a) e c), do n.º 4, no caso de existir alteração de morada.
 
-8 - A não instrução do processo de renovação do apoio nos termos indicados e dentro do prazo estabelecido no n.º 3, do artigo anterior, determina a caducidade do direito à renovação.
+8 - Para comprovar que a habitação esteve arrendada a militares norte-americanos:
+
+a) Cópia do contrato de arrendamento, registado no Housing Office e no serviço de finanças, que comprove que à data de 21 de novembro de 2012 ou durante um período de nove meses, entre 21 de novembro de 2011 e 2012, o imóvel esteve arrendado a militares norte-americanos;
+
+b) Cópia das declarações de rendimentos prediais em sede de IRS ou IRC do proprietário do imóvel, desde 2013, inclusive;
+
+c) Cópia do contrato de arrendamento, registado no Housing Office e no serviço de finanças, no caso de o imóvel constar das declarações referidas na alínea anterior.
+
+9 - A não instrução do processo de renovação do apoio nos termos indicados e dentro do prazo estabelecido no n.º 3, do artigo anterior, determina a caducidade do direito à renovação.
