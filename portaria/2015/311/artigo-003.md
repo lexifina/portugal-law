@@ -10,7 +10,7 @@ b) «Banhistas» todos os utilizadores dos espaços qualificados como espaços d
 
 c) «Espaços destinados a banhistas» as praias marítimas, fluviais e lacustres, qualificadas como tal por diploma legal, e as piscinas de uso público;
 
-d) «Piscina de uso público» todas as piscinas de acesso público, condicionado ou não, a título gratuito ou oneroso, disponibilizadas como valência autónoma ou como parte de outra ou outras valências ou serviços, independentemente do fim a que se destinam, excetuando as piscinas dedicadas exclusivamente à pratica de tratamentos de saúde, beleza e bem-estar, bem como as piscinas com o plano de água inferior a 100 m2;
+d) 'Piscina de uso público' todas as piscinas de acesso público, condicionado ou não, a título gratuito ou oneroso, disponibilizadas como valência autónoma ou como parte de outra ou outras valências ou serviços, independentemente do fim a que se destinam, excetuando as piscinas dos empreendimentos turísticos, quando utilizadas exclusivamente pelos seus hóspedes, e as destinadas exclusivamente ao alto rendimento desportivo, à formação e competição e aos tratamentos de saúde, beleza e bem-estar, bem como as piscinas com o plano de água inferior a 100 m2;
 
 e) «Nadadores-salvadores» os cidadãos habilitados com curso de nadador-salvador certificado ou reconhecido pelo Instituto de Socorros a Náufragos a quem compete, para além dos conteúdos técnicos profissionais específicos, informar, prevenir, socorrer e prestar suporte básico de vida em qualquer circunstância nas praias de banhos, em áreas concessionadas, em piscinas e outros locais onde ocorram práticas aquáticas com obrigatoriedade de vigilância;
 
