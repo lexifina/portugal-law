@@ -2,4 +2,4 @@
 
 ### Pessoal docente
 
-Para efeitos de aplicação do presente Estatuto, considera-se pessoal docente aquele é portador de qualificação profissional para o desempenho de funções de educação ou de ensino, com carácter permanente, sequencial e sistemático, ou a título temporário, após aprovação em prova de avaliação de conhecimentos e capacidades.
+Para efeitos da aplicação do presente Estatuto, considera-se pessoal docente aquele que é portador de qualificação profissional para o desempenho de funções de educação ou de ensino, com caráter permanente, sequencial e sistemático ou a título temporário.
