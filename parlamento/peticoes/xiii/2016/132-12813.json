@@ -1,0 +1,187 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12813",
+  "numero": "132",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-06-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-07-13",
+            "dataResposta": "2016-08-04",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "210/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-13",
+            "dataResposta": "2016-08-03",
+            "entidades": [
+              "MIN. DA PRESIDÊNCIA E DA MODERNIZAÇÃO ADMINISTRATIVA"
+            ],
+            "nrOficio": "208/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-07-13",
+            "dataResposta": "2016-08-03",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "208/COFMA/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2016-10-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-07-06",
+        "DataArquivo": "2016-10-19",
+        "DataBaixaComissao": "2016-06-24",
+        "DataEnvioPAR": "2016-10-20",
+        "DataReaberta": "2016-07-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-07-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f44686a596d51785a446b744d324e6d59693030597a4a6b4c57497a4e5759744d546c6d595451314e545a6b4d5755314c6e426b5a673d3d&fich=88cbd1d9-3cfb-4c2d-b35f-19fa4556d1e5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876597a41314d32557a5a5755744e6a4a68596930304f444a684c57466c4d4749745a6a4e6d4e5445794d44646b4f57566b4c6e426b5a673d3d&fich=c053e3ee-62ab-482a-ae0b-f3f51207d9ed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6d457a593259335a5751744e5749774e5330304d5452694c5749314d3245744e575930596d49335a6a6b794d54426c4c6e426b5a673d3d&fich=2a3cf7ed-5b05-414b-b53a-5f4bb7f9210e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-07-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d474d314e6a55355a4441744d6d49785a5330304f575a6d4c5749794d6a55744e5467324e5459315a6d4e684e54677a4c6e426b5a673d3d&fich=0c5659d0-2b1e-49ff-b225-586565fca583.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2016-10-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d7a6c6c4e6a6b7a5a445574596a557a597930305a544a694c546734597a6774596a557a4f5446685957526d596a55304c6e426b5a673d3d&fich=39e693d5-b53c-4e2b-88c8-b5391aadfb54.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-09-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6a55775a544d354d7a4174596d4e694e4330304f4445344c546b324e6a41745a6a51354e7a49334e6d51304f546c6b4c6e426b5a673d3d&fich=250e3930-bcb4-4818-9660-f497276d499d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-09-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6a5a684e475532596a63744e6d51784d7930304f5467794c574a6c4e3245744f54566d597a55304e6d51785a544d324c6e426b5a673d3d&fich=66a4e6b7-6d13-4982-be7a-95fc546d1e36.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-09-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e7a55335a6a59794d4745744e7a4a6b5a4330304d7a686b4c546c6d596a4574597a466d4d4749355954566d4f4749784c6e426b5a673d3d&fich=757f620a-72dd-438d-9fb1-c1f0b9a5f8b1.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-07-06",
+            "gp": "PSD",
+            "id": "6136",
+            "motivoCessacao": null,
+            "nome": "Inês Domingos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-06-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344e6d4d334e4468694d79316d4e546b7a4c54526a5957557459575a694d5330345a574935597a41785a444e6d4e7a51756347526d&fich=86c748b3-f593-4cae-afb1-8eb9c01d3f74.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12813",
+    "PetAssunto": "Pretende que os cidadãos estrangeiros que desejem residir em Portugal possam abrir provisoriamente uma conta bancária com o respetivo passaporte.",
+    "PetDataEntrada": "2016-06-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12813",
+    "PetLeg": "XIII",
+    "PetNr": "132",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
