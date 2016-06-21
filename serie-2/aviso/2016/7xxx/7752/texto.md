@@ -1,0 +1,12 @@
+Aviso n.º 7752/2016
+Plano de Pormenor de Salvaguarda das Marinhas do Sal
+Isaura Maria Elias Crisóstomo Bernardino Morais, Presidente da Câmara Municipal de Rio Maior, torna público que a Câmara Municipal com o endereço postal no edifício dos Paços do Concelho, Praça da República, 2040-320 Rio Maior, telefone n.º 243 999 300, fax n.º 243 992 182 e endereço eletrónico geral@cm-riomaior.pt, deliberou, na reunião do dia 13 de maio de 2016, aprovar os termos de referência e promover a elaboração do Plano de Pormenor de Salvaguarda das Marinhas do Sal nos termos dos n.os 1 e 3 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+Mais deliberou fixar o prazo de 5 (cinco) meses para a sua elaboração bem como, estabelecer o período de participação de 20 (vinte) dias úteis, contados a partir do dia seguinte ao da publicação do presente aviso no Diário da República, para formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+Durante o período fixado para a participação, que poderá revestir qualquer meio escrito, poderão os interessados consultar os elementos que constituem este processo, na Unidade de Urbanismo, Planeamento e Ordenamento do Território e Espaço Público desta Câmara Municipal, durante o horário de expediente ou através do site do município (www.cm-riomaior.pt).
+As sugestões e informações a apresentar no âmbito do período de participação deverão ser dirigidas à Presidente da Câmara Municipal para os endereços acima referidos.
+19 de maio de 2016. - A Presidente da Câmara Municipal, Isaura Maria Elias Crisóstomo Bernardino Morais.
+Deliberação
+Na sua reunião ordinária de 13 de maio de 2016, a Câmara Municipal de Rio Maior deliberou o seguinte:
+Aprovar os termos de referência e promover a elaboração do Plano de Pormenor de Salvaguarda das Marinhas do Sal nos termos dos n.os 1 e 3 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio. Mais deliberou fixar o prazo de 5 (cinco) meses para a sua elaboração bem como, estabelecer o período de participação de 20 (vinte) dias úteis, contados a partir do dia seguinte ao da publicação do presente aviso no Diário da República, para formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+19 de maio de 2016. - A Presidente da Câmara, Isaura Maria Elias Crisóstomo Bernardino Morais.
+609648781
