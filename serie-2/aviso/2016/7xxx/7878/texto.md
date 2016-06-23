@@ -1,0 +1,14 @@
+Aviso n.º 7878/2016
+Alteração do Plano de Pormenor de Armação de Pêra
+Rosa Cristina Gonçalves da Palma, Presidente da Câmara Municipal de Silves, pelo presente torna público, nos termos dos artigos 76.º, n.º 1 e 191.º, n.º 4, alínea c) do Decreto-Lei n.º 80/2015 de 14 de maio e do artigo 56.º do anexo I da Lei n.º 75/2013 de 12 de setembro, que a Câmara Municipal de Silves, em reunião de Câmara de 11 de maio de 2016, deliberou proceder à elaboração da alteração ao Plano de Pormenor de Armação de Pêra tendo aprovado os Termos de Referência que fundamentam a sua oportunidade, fixam os respetivos objetivos e estabelecem o prazo de 270 dias para a sua elaboração. Mais deliberou celebrar um contrato para planeamento para a elaboração da alteração ao Plano de Pormenor de Armação de Pêra e aprovar a minuta de contrato.
+Torna-se ainda público, nos termos do artigo 88.º, n.º 2, do Decreto-Lei n.º 80/2015 de 14 de maio, que terá início no 5.º dia, após a publicação do presente aviso no Diário da República, 2.ª série um período de 15 dias úteis para participação dos interessados, podendo ser formuladas sugestões e apresentadas informações. Durante este período, os interessados poderão consultar os termos de referência, a proposta de contrato e a qualificação da alteração do Plano para efeitos de avaliação ambiental estratégica, na página da Câmara Municipal de Silves (www.cm-silves.pt) ou nos locais a seguir identificados:
+Divisão de Ordenamento e Gestão Urbanística, Ordenamento do Território, Edifício dos Paços de Concelho, Silves,
+Junta de Freguesia de Armação de Pêra, Rua Bartolomeu Dias, 63 A, 1.º Andar, Armação de Pêra.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, dirigidas à Presidente da Câmara Municipal de Silves, utilizando para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou na página da Câmara Municipal de Silves (www.cm-silves.pt).
+15 de junho de 2016. - A Presidente da Câmara Municipal de Silves, Rosa Cristina Gonçalves da Palma.
+Deliberação
+Deliberar por unanimidade iniciar a elaboração da alteração do PPAP, aprovar os termos de referência, promover a sua publicitação através de consulta pública com a duração de 15 (quinze) dias, para a formulação de sugestões e para a apresentação de informações.
+Mais se deliberou contratualizar a alteração do PPAP, aprovando a minuta de contrato para planeamento, mandatando a Exma. Sr.ª Presidente para a sua outorga, sujeitando o mesmo a um período de consulta pública de 15 (quinze) dias.
+Aprovar a minuta de aviso a publicitar a deliberação de alteração do plano, bem como aprovar a qualificação da alteração do plano, isento de Avaliação Ambiental Estratégica, dando conhecimento à CCDR da presente e da documentação que a acompanha, nos termos e condições da informação.
+15 de junho de 2016. - A Presidente da Câmara Municipal de Silves, Rosa Cristina Gonçalves da Palma.
+609659668
