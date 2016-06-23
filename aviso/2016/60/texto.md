@@ -1,0 +1,6 @@
+Aviso n.º 60/2016
+Por ordem superior se torna público que, por notificação de 11 de abril de 2014, o Secretário-Geral do Conselho da Europa comunicou ter a República Helénica depositado, a 3 de abril de 2014, o seu instrumento de ratificação à Convenção do Conselho da Europa Relativa à Luta Contra o Tráfico de Seres Humanos, aberta à assinatura em Varsóvia, a 16 de maio de 2005.
+Nos termos do n.º 4 do artigo 42.º, a Convenção em apreço entrará em vigor para este Estado no primeiro dia do mês seguinte ao termo de um período de três meses após a data do depósito do instrumento de ratificação, aceitação ou aprovação, ou seja, no dia 1 de agosto de 2014.
+A República Portuguesa é Parte desta Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 1/2008, e ratificada pelo Decreto do Presidente da República n.º 9/2008, publicados no Diário da República, série I, n.º 9, de 14 de janeiro de 2008, tendo depositado o seu instrumento de ratificação a 27 de fevereiro de 2008, conforme o Aviso n.º 15/2012, publicado no Diário da República, série I, n.º 75, de 16 de abril de 2012.
+A Convenção do Conselho da Europa Relativa à Luta Contra o Tráfico de Seres Humanos entrou em vigor na ordem jurídica portuguesa a 1 de junho de 2008.
+Direção-Geral de Política Externa, 31 de maio de 2016. - O Subdiretor-Geral, Luís Cabaço.
