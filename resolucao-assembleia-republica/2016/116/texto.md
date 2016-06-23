@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 116/2016
+Recomenda ao Governo a defesa e promoção da alheira transmontana
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Adote as medidas necessárias para garantir padrões de qualidade na produção de alheira que permitam restabelecer a relação de confiança dos consumidores com este produto tradicional.
+2 - Avalie as medidas necessárias para minorar o impacto negativo que certas notícias tiveram sobre as unidades produtoras de alheira situadas na região de Trás-os-Montes.
+3 - Prossiga o trabalho de esclarecimento do mercado acerca das garantias que este produto oferece.
+4 - Estabeleça um programa estratégico a nível nacional, de promoção, divulgação e valorização da produção tradicional, sob tutela dos ministérios da Economia e da Agricultura, envolvendo, nomeadamente, as entidades regionais de turismo e as associações de desenvolvimento local, numa estratégia de marketing territorial, dirigida aos mercados, promovendo a alheira como ex-líbris gastronómico e mais-valia da região de Trás-os-Montes.
+5 - Através das entidades públicas que superintendem e executam a atribuição de nomes de pessoas coletivas, marcas industriais ou outros registos de denominações que identifiquem bens e serviços artesanais e regionais, particularmente os que gozam de denominações de origens geográfica, protegida, controlada ou certificada, analise o caso da alheira transmontana, produzindo regulação legislativa ou administrativa no sentido de impedir a «contaminação» da imagem e da qualidade no mercado de um conjunto de produtores e produtos pelo uso indevido e abusivo de uma denominação geográfica e do património público.
+6 - Promova ações conjuntas de sensibilização e apoio destinadas aos produtores de alheira, em colaboração com associações empresariais da região, visando potenciar candidaturas ao atual quadro comunitário, respondendo às necessidades específicas de cada empresa e assegurando os postos de trabalho neste setor de atividade.
+7 - Avalie o impacto da subida da taxa de imposto sobre valor acrescentado de 13 % para 23 % em todos os «produtos tradicionais portugueses» objeto de certificação comunitária, designadamente na alheira, nos anos de 2012 a 2015, com vista a encontrar soluções alternativas no quadro da legislação vigente.
+8 - No quadro do Portugal 2020 e do trabalho da Unidade de Missão para a Valorização do Interior criada pela Resolução do Conselho de Ministros n.º 3/2016, de 14 de janeiro, apoie a instalação e modernização de micro, pequenas e médias empresas nas regiões do interior do País.
+Aprovada em 20 de maio de 2016.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
