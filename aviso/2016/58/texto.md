@@ -1,0 +1,4 @@
+Aviso n.º 58/2016
+Por ordem superior se torna público que, em 10 de maio de 2016 e em 29 de julho de 2015, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da Tunísia e pela Embaixada de Portugal em Tunes, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e a República Tunisina de Cooperação no domínio da Defesa, assinada em Tunes em 18 de janeiro de 2013.
+A referida Convenção foi aprovada pela Resolução da Assembleia da República n.º 78/2015, de 6 de fevereiro, e ratificada pelo Decreto do Presidente da República n.º 51/2015, de 8 de julho, ambos publicados no Diário da República, 1.ª série, n.º 131, de 8 de julho de 2015. Nos termos do artigo 10.º da referida Convenção, esta entra em vigor a 9 de junho de 2016.
+Direção-Geral de Política Externa, 31 de maio de 2016. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
