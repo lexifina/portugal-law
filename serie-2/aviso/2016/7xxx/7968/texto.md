@@ -1,0 +1,7 @@
+Aviso n.º 7968/2016
+Alteração do Plano Diretor Municipal
+Ricardo Oliveira Figueiredo, Presidente da Câmara Municipal de São João da Madeira, torna público que, no âmbito da alteração do Plano Diretor Municipal, e em cumprimento da deliberação da Câmara Municipal de 7 de junho de 2016, nos termos e para efeitos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, se encontra aberto um período de participação preventiva para a formulação de sugestões e para a apresentação de informações, de todos os interessados, sobre quaisquer questões que possam ser consideradas, única e exclusivamente, no âmbito do presente processo de alteração, por um prazo de 30 (trinta) dias úteis, contados a partir do quinto dia útil seguinte à data da publicação do presente Aviso no Diário da República.
+Os interessados poderão consultar os elementos disponíveis na página da Internet da Câmara Municipal de S. João da Madeira (www.cm-sjm.pt), ou no Gabinete de Atendimento ao Munícipe, entre as 9 horas e as 16 horas, convidando-se todos os interessados para, no decorrer do prazo acima referido, apresentarem, por escrito, as informações, observações ou sugestões que acharem por conveniente.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal de S. João da Madeira, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+13 de junho de 2016. - O Presidente da Câmara, Ricardo Oliveira Figueiredo.
+609661498
