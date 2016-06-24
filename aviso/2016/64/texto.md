@@ -1,0 +1,6 @@
+Aviso n.º 64/2016
+Por ordem superior se torna público que, em 9 de abril de 2014, a República de Malta depositou, junto do Governo da Confederação Suíça, na qualidade de depositário, o seu instrumento de adesão à Emenda do artigo XXI da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagem Ameaçadas de Extinção, concluída em Gaborone, em 30 de abril de 1983.
+Em cumprimento do parágrafo 3 do artigo XVII da Convenção, a Emenda entrou em vigor para a República de Malta em 8 de junho de 2014.
+Portugal é parte da Convenção, aprovada para ratificação pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de dezembro de 1980, conforme o Aviso publicado no Diário da República, 1.ª série-A, n.º 260, de 11 de novembro de 1981.
+Portugal é parte da Emenda, aprovada para ratificação pelo Decreto n.º 17/88, publicado no Diário da República, 1.ª série-A, n.º 173, de 28 de julho de 1988, tendo depositado o seu instrumento de ratificação em 5 de março de 1992, conforme o Aviso n.º 132/92, publicado no Diário da República, 1.ª série-A, n.º 197, de 27 de agosto de 1992.
+Direção-Geral de Política Externa, 31 de maio de 2016. - O Subdiretor-Geral, Luís Cabaço.
