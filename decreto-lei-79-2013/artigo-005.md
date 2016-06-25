@@ -16,6 +16,14 @@ e) Bifenilos polibromados (PBB) (0,1 %);
 
 f) Éteres difenílicos polibromados (PBDE) (0,1 %).
 
+g) Ftalato de bis(2-etil-hexilo) (DEHP) (0,1 %);
+
+h) Ftalato de benzilo e butilo (BBP) (0,1 %);
+
+i) Ftalato de dibutilo (DBP) (0,1 %);
+
+j) Ftalato de di-isobutilo (DIBP) (0,1 %).
+
 2 - O disposto no número anterior não se aplica:
 
 a) À reutilização de peças sobresselentes, recuperadas de EEE colocados no mercado antes de 1 de julho de 2006 e usadas em equipamento colocado no mercado antes de 1 de julho de 2016, desde que a reutilização tenha lugar no âmbito de sistemas fechados de retorno interempresas, passíveis de controlo, e que o consumidor seja informado da reutilização de peças;
@@ -35,3 +43,5 @@ d) Instrumentos de monitorização e controlo colocados no mercado antes de 22 d
 e) Instrumentos industriais de monitorização e controlo colocados no mercado antes de 22 de julho de 2017;
 
 f) EEE que tenham beneficiado de uma isenção e que tenham sido colocados no mercado durante o período de validade dessa isenção, no que respeita a essa isenção específica.
+
+4 - As restrições de utilização das substâncias referidas nas alíneas g), h) e i) do n.º 1 não se aplicam aos brinquedos sujeitos à restrição constante da entrada 51 do anexo xvii do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006.

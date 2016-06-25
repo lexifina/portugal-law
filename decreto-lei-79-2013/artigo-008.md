@@ -10,8 +10,8 @@
 
 a) Manter à disposição das autoridades de fiscalização a documentação técnica e a declaração «UE» de conformidade, durante um prazo não inferior a 10 anos a contar da data de colocação dos EEE em causa no mercado;
 
-b) Facultar à entidade competente, mediante pedido fundamentado, toda a informação e documentação necessárias para demonstrar a conformidade de EEE;
+b) Facultar às autoridades de fiscalização de mercado, mediante pedido fundamentado, a informação a documentação necessárias para demonstrar a conformidade dos EEE;
 
-c) Cooperar com a entidade competente, a pedido desta, em qualquer ação para assegurar a conformidade de EEE abrangidos pelo seu mandato.
+c) Cooperar, a pedido das autoridades de fiscalização de mercado, em qualquer ação para assegurar a conformidade dos EEE abrangidos pelo respetivo mandato.
 
 4 - A pedido da entidade competente ou das autoridades de fiscalização, os mandatários devem ainda facultar, traduzida para língua portuguesa, toda a informação e documentação necessárias para demonstrar a conformidade dos EEE.

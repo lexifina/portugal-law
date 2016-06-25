@@ -6,7 +6,7 @@
 
 a) «Avaliação da conformidade» o processo de verificação através do qual se demonstra que um determinado equipamento elétrico ou eletrónico cumpre os requisitos do presente decreto-lei;
 
-b) «Cabos» todos os cabos de tensão nominal inferior a 250 Volts que servem como ligação ou extensão para ligar EEE ao ponto de alimentação elétrica ou para ligar dois ou mais EEE entre si;
+b) 'Cabos' todos os cabos de tensão nominal inferior a 250 volts que servem como ligação ou extensão para ligar EEE ao ponto de alimentação elétrica ou para ligar dois ou mais EEE entre si;
 
 c) «Colocação no mercado» a primeira disponibilização de EEE no mercado da União Europeia;
 
@@ -22,7 +22,7 @@ h) «Dispositivo médico implantável ativo» um dispositivo médico implantáve
 
 i) «Distribuidor» qualquer pessoa singular ou coletiva integrada no circuito comercial, distinta do fabricante ou do importador, que disponibilize EEE no mercado;
 
-j) «Equipamentos elétricos e eletrónicos» ou «EEE» os equipamentos cujo funcionamento adequado depende de correntes elétricas ou campos eletromagnéticos, bem como os equipamentos para geração, transferência e medição dessas correntes e campos e destinados a utilização com uma tensão nominal não superior a 1000 Volts para corrente alternada e 1500 Volts para corrente contínua;
+j) 'Equipamentos elétricos e eletrónicos' ou 'EEE' os equipamentos cujo funcionamento adequado depende de correntes elétricas ou campos eletromagnéticos, bem como os equipamentos para geração, transferência e medição dessas correntes e campos e destinados a utilização com uma tensão nominal não superior a 1000 volts para corrente alternada e 1500 volts para corrente contínua;
 
 k) «Especificação técnica» o documento que estabelece os requisitos técnicos que devem ser cumpridos por um produto, um processo ou um serviço;
 

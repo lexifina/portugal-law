@@ -106,7 +106,7 @@ Caduca em 30 de junho de 2020.
 
 33 - Chumbo em soldas sobre placas de circuito impresso de alta densidade utilizadas em dispositivos médicos móveis, que não sejam desfibrilhadores portáteis de emergência, das classes IIa e IIb da Diretiva 93/42/CEE. A isenção caduca em 30 de junho de 2016 no que se refere aos equipamentos da classe IIa e em 31 de dezembro de 2020 no que se refere aos equipamentos da classe IIb.
 
-34 - Chumbo como ativador do pó fluorescente de lâmpadas de descarga, utilizadas para fotoférese extracorpórea com substâncias fosforescentes à base de BSP (BaSi2O5:Pb). Caduca em 22 de julho de 2021.
+34 - Chumbo como ativador do pó fluorescente de lâmpadas de descarga, utilizadas para fotoférese extracorpórea com substâncias fosforescentes à base de BSP (BaSi(índice 2)O(índice 5):Pb). Caduca em 22 de julho de 2021.
 
 35 - Mercúrio em lâmpadas fluorescentes de cátodo frio para retroiluminação de ecrãs de cristais líquidos, numa quantidade não superior a 5 mg por lâmpada, utilizadas em instrumentos industriais de monitorização e controlo colocados no mercado antes de 22 de julho de 2017. Caduca em 21 de julho de 2024.
 
@@ -122,13 +122,13 @@ i) soluções com acidez (menor que) pH 1;
 
 ii) soluções com alcalinidade (maior que) pH 13;
 
-iii) soluções corrosivas de gases halogénios.
+iii) Soluções corrosivas de gases halogéneos.
 
 c) Medições de condutividades superiores a 100 mS/m, efetuadas com instrumentos portáteis.
 
 Caduca em 31 de dezembro de 2018.
 
-38 - Chumbo em soldas de interfaces de elementos de pigmentos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocadas no mercado antes de 1 de janeiro de 2020.
+38 - Chumbo em soldas de interfaces de elementos empilhados de grande superfície, com mais de 500 interconexões por interface, utilizados em detetores de raios X para tomografia computorizada e em sistemas de raios X. Caduca em 31 de dezembro de 2019. Após essa data, pode ser utilizado em peças sobresselentes para tomografia computorizada e sistemas de raios X colocados no mercado antes de 1 de janeiro de 2020.
 
 39 - Chumbo em placas de microcanais (PMC) utilizadas em equipamentos que possuam, pelo menos, uma das seguintes propriedades:
 
@@ -140,13 +140,13 @@ i) tempo de resposta inferior a 25 ns;
 
 ii) área de deteção de amostras superior a 149 mm2;
 
-iii) fator multiplicador superior a 1,3 x 103.
+iii) Fator multiplicador superior a 1,3 x 10(elevado a 3).
 
 c) Tempo de resposta inferior a 5 ns na deteção de eletrões ou iões;
 
 d) Área de deteção de amostras superior a 314 mm2, para a deteção de eletrões ou iões;
 
-e) Fator multiplicador superior a 4,0 x 107.
+e) Fator multiplicador superior a 4,0 x 10(elevado a 7).
 
 Caduca nas seguintes datas:
 
@@ -157,3 +157,7 @@ b) 21 de julho de 2023, no respeitante aos dispositivos médicos de diagnóstico
 c) 21 de julho de 2024, no respeitante aos instrumentos industriais de monitorização e controlo.
 
 40 - Chumbo em materiais cerâmicos dielétricos de condensadores com tensão nominal inferior a 125 V AC ou 250 V DC para instrumentos industriais de monitorização e controlo. Caduca em 31 de dezembro de 2020. Após essa data, pode ser utilizado em peças sobresselentes de instrumentos industriais de monitorização e controlo colocados no mercado antes de 1 de janeiro de 2021.
+
+41 - Chumbo como estabilizador térmico no policloreto de vinilo (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos, que são usados em dispositivos médicos para diagnóstico in vitro para a análise de amostras de sangue e de outros fluidos e gases corporais. Caduca em 31 de dezembro de 2018.
+
+42 - Mercúrio em conectores elétricos rotativos utilizados em sistemas de imagiologia de ultrassom intravascular capazes de funcionar a alta frequência (maior que) 50 MHz). Caduca em 30 de junho de 2019.

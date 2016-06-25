@@ -1,17 +1,19 @@
 # Artigo 4.º
 
-### Entidade competente
+### Entidades de acompanhamento
 
-1 - A entidade competente para efeitos da aplicação do presente decreto-lei é a Agência Portuguesa do Ambiente, I.P. (APA).
+1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e a Direção-Geral das Atividades Económicas (DGAE) são as entidades de acompanhamento da execução do presente decreto-lei.
 
-2 - Enquanto entidade competente, a APA articula a sua ação com a Direção-Geral das Atividades Económicas (DGAE), em função das respetivas competências no domínio da competitividade e da inovação, nas seguintes áreas de intervenção:
+2 - Para efeitos do disposto no número anterior, compete à APA, I. P.:
 
-a) Avaliação técnica e preparação de propostas de revisão e de alteração da lista de substâncias sujeitas a restrição referidas no artigo seguinte;
+a) Apreciar as propostas, de revisão e de alteração, apresentadas pela Comissão Europeia, da lista de substâncias sujeitas a restrição constante dos anexos ii, iii e iv da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011;
 
-b) Colaboração no desenvolvimento das ações previstas na alínea k) do artigo 7.º, alínea c) do artigo 8.º, alínea j) do artigo 9.º e alínea f) do artigo 10.º, todos do presente decreto-lei;
+b) Assegurar a representação nacional nos comités e grupos de trabalho constituídos junto da Comissão Europeia, no âmbito da matéria objeto do presente decreto-lei.
 
-c) Representação nacional na Comissão Europeia e grupos de trabalho, consoante a matéria objeto de discussão;
+3 - Para efeitos do disposto no n.º 1, compete à DGAE:
 
-d) Trabalhos no âmbito de futuras revisões ou alterações do presente decreto-lei, acautelando o seu impacto na indústria nacional.
+a) Cooperar com as autoridades de fiscalização de mercado, de modo a assegurar a aplicação do presente decreto-lei;
 
-3 - A articulação prevista no número anterior é assegurada, nomeadamente, através da promoção de consultas prévias e troca de informação, incluindo a informação e documentação recebida dos operadores económicos no âmbito das obrigações estabelecidas no presente decreto-lei.
+b) Assegurar o envio, às autoridades de fiscalização de mercado, da informação recolhida junto dos fabricantes, importadores e distribuidores, nos termos da alínea i) do n.º 1 do artigo 7.º, da alínea g) do n.º 1 do artigo 9.º e da alínea d) do n.º 1 do artigo 10.º
+
+4 - As competências referidas nos números anteriores são exercidas pela APA, I. P., e pela DGAE em articulação, entre si e com outras entidades competentes em razão da matéria, designadamente a Direção-Geral da Saúde (DGS), no domínio da promoção e proteção da saúde.
