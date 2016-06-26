@@ -8,6 +8,6 @@ a) Medicamentos sujeitos a receita médica comparticipados ou para os quais tenh
 
 b) Medicamentos não sujeitos a receita médica comparticipados.
 
-2 - Podem ficar sujeitos ao regime de preços notificados os medicamentos sujeitos a receita médica não comparticipados ou não comparticipáveis nos termos da Portaria que fixa os grupos e subgrupos farmacoterapêuticos que podem ser comparticipados e que tenham preço de venda ao público (PVP) máximo aprovado.
+2 - (Revogado).
 
 3 - Ficam excluídos do disposto no n.º 1 os medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar de acordo com a alínea a) do n.º 1 do artigo 118.º do Decreto-Lei n.º 176/2006, de 30 de agosto.
