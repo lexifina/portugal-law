@@ -1,0 +1,7 @@
+Aviso n.º 8180/2016
+Alteração à Tabela de Taxas, Tarifas e Outras Receitas Municipais do Município de Golegã
+O Eng.º Rui Manuel Lince Singeis Medinas Duarte, Presidente da Câmara Municipal de Golegã, torna público que nos termos do artigo 56.º da Lei n.º 75/2013, de 12 de setembro e em cumprimento do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 17 de janeiro e ainda na sequência da deliberação tomada em reunião pública ordinária da Câmara Municipal realizada em 16 de maio de 2016, se encontra em consulta pública pelo prazo de 30 dias úteis a contar da data de publicação no Diário da República do presente Aviso, a Alteração à Tabela de Taxas, Tarifas e Outras Receitas Municipais.
+Assim, poderão os interessados consultar o citado documento na Divisão Municipal de Obras Urbanismo e Ambiente, nos dias úteis das 9:00 horas às 12:30 horas e das 13:30 horas às 16:00 horas ou na página do Município em http://www.cm-golega.pt e apresentarem as sugestões que entenderem convenientes, devendo estas serem formuladas por escrito ao Presidente da Câmara Municipal de Golegã, para Largo D. Manuel I - 2150-128 Golegã ou por correio eletrónico para o endereço presidencia@cm-golega.pt.
+O presente aviso vai ser publicado no Diário da República e outros de igual teor vã ser afixados nos locais públicos do costume.
+15 de junho de 2016. - O Presidente da Câmara Municipal, Rui Manuel Lince Singeis Medinas Duarte, Eng.º
+309671136
