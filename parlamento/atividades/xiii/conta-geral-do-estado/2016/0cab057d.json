@@ -1,0 +1,515 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Conta Geral do Estado",
+  "numero": null,
+  "data_registo": "2016-06-30",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Conta Geral do Estado de 2015",
+    "Audicoes": [
+      "103966",
+      "104051",
+      "105248"
+    ],
+    "Comissao": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+    "DataAgendamentoDebate": "2017-07-06",
+    "DataEntrada": "2016-06-30",
+    "DataParecerUTAO": "2016-12-27",
+    "DataPedidoParecer": "2016-12-23",
+    "DescTipo": "Conta Geral do Estado",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-02-01 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Agricultura e Mar",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c3255774d47526c4f44686d4c544e6a5a5449744e4449335a4330344d5455324c5749334d32466d5a6a45324e6a426b5a5335775a47593d&fich=e00de88f-3ce2-427d-8156-b73aff1660de.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a6c695a6d517a4e5441314c545579595751744e47526d4f4330354d6a59324c544d345954497a4e4449334d444a6d4e5335775a47593d&fich=9bfd3505-52ad-4df8-9266-38a2342702f5.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c32553459325578596a677a4c5459324d324d744e444177596930344d474d304c574a6b4d4751334e546333596d4e6b4d7935775a47593d&fich=e8ce1b83-663c-400b-80c4-bd0d7577bcd3.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-26 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Assuntos Europeus",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a51774f4745334e4749324c54686b4e6d55744e4745314e5330344e5445314c544933596a67324e6d4d7a4d446c69595335775a47593d&fich=408a74b6-8d6e-4a55-8515-27b866c309ba.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a55344d6a49334e6a566b4c5463344d5759744e44637a4f4330355932566a4c5749794e474e685932466d4d6a686d5a6935775a47593d&fich=5822765d-781f-4738-9cec-b24cacaf28ff.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-02-01 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Defesa Nacional",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4e6a4d545a6b596d45774c574a6b4e7a49744e47566b4d5331684f574e6a4c54466c4d5451354e7a64684e7a55794d4335775a47593d&fich=3c16dba0-bd72-4ed1-a9cc-1e14977a7520.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Economia, Inovação e de Obras Públicas",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c325977596d4a6a596d466d4c545a694e7a49744e475a6c4d5330354e6a45304c5449345a57517a4d6a41354d6a5a6a4e4335775a47593d&fich=f0bbcbaf-6b72-4fe1-9614-28ed320926c4.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-02-03 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Educação e Ciência",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c32517a59324534596d51314c546c6d4d574d744e4455354f4330345a6d59354c57526a593255774d44637a59575131597935775a47593d&fich=d3ca8bd5-9f1c-4598-8ff9-dcce0073ad5c.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c3255794d6a63774f446b774c544e685a4455744e4455774d6931694e4759774c574d344f5759795a6a646d4d6a5177596935515245593d&fich=e2270890-3ad5-4502-b4f0-c89f2f7f240b.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-25 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Saúde",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4e6b4e3251324d5445334c57566a4f546b744e475668597931694e6a6c694c544d33593249785a6a42694d5467785a5335775a47593d&fich=3d7d6117-ec99-4eac-b69b-37cb1f0b181e.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-03-02 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da Comissão de Trabalho e Segurança Social",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c3255354d44426d4e57566c4c545a6b4d7a51744e474532595330354f4746684c5751324e6a457a4f4751324e5449354d7935775a47593d&fich=e900f5ee-6d34-4a6a-98aa-d66138d65293.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-03 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer da UTAO",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4d30597a5578597a67774c54466c596d4d744e446b33597931684f47566b4c5445774e545930593249344d5751784d7935775a47593d&fich=34c51c80-1ebc-497c-a8ed-10564cb81d13.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-02-10 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer do CES - Conselho Económico e Social",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a41334e7a59304d32526d4c5749344d574d744e44526b4d7930354e7a4d794c54646d4d3259784f574e6a597a55304e4335775a47593d&fich=077643df-b81c-44d3-9732-7f3f19ccc544.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-07-06 00:00:00.0",
+        "TipoDocumento": "Relatório",
+        "TituloDocumento": "Relatório da COFMA",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a45324e5459304e6a45324c5459304d4451744e44526a4e5331694d324a6d4c54466c596a4d7a59324d794d7a46684d6935775a47593d&fich=16564616-6404-44c5-b3bf-1eb33cc231a2.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-01-24 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Retificação ao parecer do Tribunal de Contas",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a51314d6a41774d7a55314c5459344e6d49744e4445775a5331694d575a694c545178597a517a4f5455344e7a55305a5335515245593d&fich=45200355-686b-410e-b1fb-41c43958754e.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-12-09 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Retificações ao Relatório da CGE 2015",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a426a4d546b7a4e5745354c544978593259744e44566c4d7930354e474d334c574d314e574d34593245335a6a5578597935515245593d&fich=0c1935a9-21cf-45e3-94c7-c55c8ca7f51c.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume I - Tomo 1",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a4d794e7a4e685a4451784c54646a595451744e474d794d7931694e44646a4c5759355a6a64684f57466d4d6d49354f5335775a47593d&fich=3273ad41-7ca4-4c23-b47c-f9f7a9af2b99.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume I - Tomo 2",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a51305a6a646c4e4455314c5445335a6a45744e47597959793035595749794c5455794e7a59314f4745794d474a68595335775a47593d&fich=44f7e455-17f1-4f2c-9ab2-527658a20baa.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume I - Tomo 3",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a63334d546b314e546c6a4c54526b4d5749744e444d324e5331684e574d344c544d344e5467344e54526b4e7a566c4d5335775a47593d&fich=7719559c-4d1b-4365-a5c8-3858854d75e1.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 1",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a63335a444d335a6d466a4c5445314e6d51744e444d305a5331684d4459774c5467335a6a497a4d545a6b5a6a59794e7935775a47593d&fich=77d37fac-156d-434e-a060-87f2316df627.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 10",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c32566a4e4455784d54646d4c5456684f5459744e475269597930344d446b324c5755345a47557859324e6959574e6d4f5335775a47593d&fich=ec45117f-5a96-4dbc-8096-e8de1ccbacf9.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 11",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a566a4d47457a5954526d4c5451354e4441744e4455794f5330344e6a677a4c54646b4e574d784d7a566a5a4755774e4335775a47593d&fich=5c0a3a4f-4940-4529-8683-7d5c135cde04.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 2",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a526b4f5449324d6a67774c5752685a4755744e44426a5a4331694e6a55324c544a6c4d6a686a4d575534596a4a684f4335775a47593d&fich=4d926280-dade-40cd-b656-2e28c1e8b2a8.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 3",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a5a684d5752684e575a684c544933595759744e444e6b4e5331695a4463794c5755314d6d55784e6d4d334f445a6b4e5335775a47593d&fich=6a1da5fa-27af-43d5-bd72-e52e16c786d5.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 4",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a63774d44646d4d44646b4c54686c4f5745744e445268597931694d4446684c544a6d5a4455794d4745794f4445344e7935775a47593d&fich=7007f07d-8e9a-44ac-b01a-2fd520a28187.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 5",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a51314e5755784d44466d4c544d775a4745744e44466d4d6930354d474e6a4c5446684e7a677a4d4749314f44677a595335775a47593d&fich=455e101f-30da-41f2-90cc-1a7830b5883a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 6",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a5a6a4d47457a4d5467344c575a6b593255744e4449344e4330344e6a457a4c57557a4f44566b5a6d4d785a6a4934595335775a47593d&fich=6c0a3188-fdce-4284-8613-e385dfc1f28a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 7",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c7a677a4e3245324d54466d4c5751305a6a59744e4756684f533035597a55774c57466d4f4445775a6d55774f4459775a5335775a47593d&fich=837a611f-d4f6-4ea9-9c50-af810fe0860e.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 8",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c324a694d574d77596a59324c5751324f444d744e4463794d6931694d47526d4c5459774e574930597a56694f475132596935775a47593d&fich=bb1c0b66-d683-4722-b0df-605b4c5b8d6b.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-07-01 00:00:00.0",
+        "TipoDocumento": "Documento que entra na A.R.",
+        "TituloDocumento": "Volume II - Tomo 9",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766330567564476c6b5957526c6330563464475679626d467a4c3255304d5449304e6a55784c5745314e5467744e446b79596930354e324a6c4c57517a4d6d4a6d59324a68595749774f5335775a47593d&fich=e4124651-a558-492b-97be-d32bfcbaab09.pdf&Inline=true"
+      }
+    ],
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Links": [
+      {
+        "DataDocumento": "2016-12-20 00:00:00.0",
+        "TipoDocumento": "Link",
+        "TituloDocumento": "Parecer do Tribunal de Contas",
+        "URL": "http://www.tcontas.pt/pt/actos/parecer-cge/2015/pcge2015.pdf"
+      }
+    ],
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": [
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4524",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "1",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "3998",
+            "motivoCessacao": null,
+            "nome": "José Manuel Pureza"
+          }
+        ],
+        "Sigla": "CACDLG"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4525",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "Numero": "2",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1741",
+            "motivoCessacao": null,
+            "nome": "Paulo Pisco"
+          }
+        ],
+        "Sigla": "CNECP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4526",
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "3",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "5831",
+            "motivoCessacao": null,
+            "nome": "Diogo Leão"
+          }
+        ],
+        "Sigla": "CDN"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4527",
+        "Nome": "Comissão de Assuntos Europeus",
+        "Numero": "4",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6136",
+            "motivoCessacao": null,
+            "nome": "Inês Domingos"
+          }
+        ],
+        "Sigla": "CAE"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4529",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "Numero": "6",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1893",
+            "motivoCessacao": null,
+            "nome": "Pedro Coimbra"
+          }
+        ],
+        "Sigla": "CEIOP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4530",
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "7",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6013",
+            "motivoCessacao": null,
+            "nome": "Hugo Costa"
+          }
+        ],
+        "Sigla": "CAM"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4531",
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "5748",
+            "motivoCessacao": null,
+            "nome": "Ana Rita Bessa"
+          }
+        ],
+        "Sigla": "CEC"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4532",
+        "Nome": "Comissão de Saúde",
+        "Numero": "9",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2071",
+            "motivoCessacao": null,
+            "nome": "Miguel Santos"
+          }
+        ],
+        "Sigla": "CS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4533",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "Numero": "10",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "5833",
+            "motivoCessacao": null,
+            "nome": "Rui Riso"
+          }
+        ],
+        "Sigla": "CTSS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4534",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "Numero": "11",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "695",
+            "motivoCessacao": null,
+            "nome": "Maria da Luz Rosinha"
+          }
+        ],
+        "Sigla": "CAOTDPLH"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4535",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "12",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6207",
+            "motivoCessacao": null,
+            "nome": "Margarida Balseiro Lopes"
+          }
+        ],
+        "Sigla": "CCCJD"
+      }
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "825137",
+        "obs": "Relatório da Comissão de Orçamento, Finanças e Administração Pública e pareceres das Comissões Parlamentares, da Unidade Técnica de Apoio Orçamental e do Conselho Económico e Social",
+        "pag": [
+          "2-216"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-06",
+        "pubLeg": "XIII",
+        "pubNr": "134",
+        "pubSL": "2",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/134S1/2017-07-06/2?pgs=2-216&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "82",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-07",
+        "pubLeg": "XIII",
+        "pubNr": "106",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/106/2017-07-07?org=PLC"
+      }
+    ],
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "PSD",
+        "id": "4129",
+        "motivoCessacao": null,
+        "nome": "Cristóvão Crespo"
+      }
+    ],
+    "Sessao": "1",
+    "TextoRelatorio": null,
+    "TextosAprovados": [
+      "20154",
+      "20155"
+    ],
+    "Tipo": "CGE",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2017-07-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>BE</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>PAN</I>",
+        "id": "76412",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "798825",
+            "obs": null,
+            "pag": [
+              "68-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-07-08",
+            "pubLeg": "XIII",
+            "pubNr": "107",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/107/2017-07-08/68?pgs=68&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "107",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ],
+    "VotacaoRelatorio": null
+  }
+}
