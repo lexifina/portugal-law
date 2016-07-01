@@ -14,4 +14,4 @@ a) Assegurar ações de bem-estar social dos beneficiários;
 
 b) Assegurar a gestão do sistema de assistência na doença aos militares das Forças Armadas.
 
-3 - O IASFA, I. P., é dirigido por um conselho diretivo, constituído por um presidente e um vogal.
+3 - O IASFA, I. P., é dirigido por um conselho diretivo, constituído por um presidente e dois vogais.
