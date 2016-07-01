@@ -1,0 +1,7 @@
+# Artigo 93.º
+
+### Regras de movimento e permanência do pessoal diplomático
+
+1 - Os prazos previstos nas secções ii e iii do capítulo iii do Estatuto da Carreira Diplomática, aprovado pelo Decreto-Lei n.º 40-A/98, de 27 de fevereiro, alterado pelos Decretos-Leis n.os 153/2005, de 2 de setembro, e 10/2008, de 17 de janeiro, pela Lei n.º 55-A/2010, de 31 de dezembro, e pelos Decretos-Leis n.os 140/2014, de 16 de setembro, e 79/2015, de 14 de maio, podem ser alterados por despacho fundamentado do membro do Governo responsável pela área dos negócios estrangeiros, sob proposta do respetivo secretário-geral, a publicar no Diário da República.
+
+2 - O disposto no número anterior não prejudica o preenchimento do requisito relativo ao cumprimento do tempo mínimo em exercício de funções nos serviços internos ou externos, consoante o caso, nomeadamente para efeitos de promoção e progressão, nos termos e para os efeitos previstos no n.º 3 do artigo 18.º, no n.º 1 do artigo 19.º e no n.º 1 do artigo 20.º do Estatuto da Carreira Diplomática, aprovado pelo Decreto-Lei n.º 40-A/98, de 27 de fevereiro, alterado pelos Decretos-Leis n.os 153/2005, de 2 de setembro, e 10/2008, de 17 de janeiro, pela Lei n.º 55-A/2010, de 31 de dezembro, e pelos Decretos-Leis n.os 140/2014, de 16 de setembro, e 79/2015, de 14 de maio, sendo aplicáveis os limites às valorizações remuneratórias previstos na Lei do Orçamento do Estado.
