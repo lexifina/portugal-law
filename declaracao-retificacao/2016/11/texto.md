@@ -1,0 +1,7 @@
+Declaração de Retificação n.º 11/2016
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Portaria n.º 130/2016, de 10 de maio, publicada no Diário da República, 1.ª série, n.º 90, de 10 maio de 2016, saiu com a seguinte inexatidão, que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 4 do artigo 3.º, onde se lê:
+«As pessoas singulares referidas nas alíneas f) a h) do artigo 1.º, quando se verifique o preenchimento de pelo menos um dos critérios ali previstos, são notificadas de que passam a ser acompanhadas pela Unidade dos Grandes Contribuintes, mantendo-se nessa situação durante os quatro anos seguintes ao da notificação e ainda que deixem de preencher o critério que levou ao seu acompanhamento por aquela Unidade.»
+deve ler-se:
+«As pessoas singulares referidas nas alíneas f) a i) do artigo 1.º, quando se verifique o preenchimento de pelo menos um dos critérios ali previstos, são notificadas de que passam a ser acompanhadas pela Unidade dos Grandes Contribuintes, mantendo-se nessa situação durante os quatro anos seguintes ao da notificação e ainda que deixem de preencher o critério que levou ao seu acompanhamento por aquela Unidade.»
+27 de junho de 2016. - A Secretária-Geral Adjunta, Catarina Maria Romão Gonçalves.
