@@ -8,7 +8,7 @@ a) Os bens serão efectivamente apreendidos e entregues a um depositário idóne
 
 b) O depositário é escolhido pelo funcionário, podendo a escolha recair no executado;
 
-c) Na penhora lavrar-se-á um auto que será lido em voz alta e assinado pelo depositário ou por duas testemunhas, onde se registe o dia, hora e local da diligência, se mencione o valor da execução, se relacionem os bens por verbas numeradas, se indique o seu estado de conservação e valor aproximado e se refiram as obrigações e responsabilidades a que fica sujeito o depositário a quem será entregue uma cópia;
+c) Na penhora lavra-se um auto, que é assinado pelo depositário ou por duas testemunhas, onde se regista o dia, a hora e o local da diligência, se menciona o valor da execução, se relacionam os bens por verbas numeradas, se indica o seu estado de conservação e o valor aproximado e se referem as obrigações e responsabilidades a que fica sujeito o depositário, a quem é entregue uma cópia;
 
 d) Se o executado estiver presente e se recuse a assinar, mencionar-se-á o facto.
 
