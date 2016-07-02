@@ -8,7 +8,7 @@ a) Quando a modalidade de venda for a de propostas em carta fechada e no dia des
 
 b) Quando os bens a vender forem valores mobiliários admitidos à cotação em bolsa;
 
-c) ...
+c) Quando for determinado pelo órgão de execução fiscal.
 
 d) ...
 

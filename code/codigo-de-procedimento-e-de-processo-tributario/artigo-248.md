@@ -14,6 +14,6 @@
 
 4 - Não sendo apresentadas propostas nos termos fixados nos números anteriores, é aberto de novo leilão electrónico, que decorre durante 15 dias, adjudicando-se o bem à proposta de valor mais elevado.
 
-5 - O dirigente máximo do serviço pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
+5 - O órgão de execução fiscal pode determinar a venda em outra modalidade prevista no Código de Processo Civil.
 
 6 - Os procedimentos e especificações da realização da venda por leilão electrónico são definidos por portaria do Ministro das Finanças.
