@@ -26,4 +26,4 @@ f) O reembolso com a aquisição de suportes magnéticos necessários à gravaç
 
 4 - No processo de execução fiscal, o reembolso a que se refere o n.º 2 não pode exceder o montante das despesas efectivamente realizadas.
 
-5 - As custas abrangem também os encargos relativos ao reembolso das despesas referidas nas alíneas a) a f) do n.º 1, levados a cabo no procedimento de verificação e graduação de créditos previsto no artigo 245.º do CPPT, os quais são devidos pelo credor ou credores reclamantes.
+5 - Quando se encontrar em execução fiscal quantia devida a entidade externa, cobrada pela Autoridade Tributária e Aduaneira e a mesma venha a ser anulada, o credor deve ressarcir a Autoridade Tributária e Aduaneira dos encargos que forem apurados no respetivo processo de execução fiscal.
