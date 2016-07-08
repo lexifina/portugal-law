@@ -1,0 +1,1 @@
+Pela Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, Secretário de Estado Adjunto e do Orçamento, em 29 de dezembro de 2014. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 9 de dezembro de 2014.
