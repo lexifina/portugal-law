@@ -1,0 +1,5 @@
+Aviso n.º 8734/2016
+Ricardo Jorge Martins Aires, Presidente da Câmara Municipal de Vila de Rei:
+Torna público, no uso da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, ambos da Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal de Vila de Rei, na reunião camarária, realizada a 07 de junho de 2016, deliberou submeter a consulta pública o "Projeto de regulamento de estímulos ao investimento no concelho de Vila de Rei", em cumprimento do artigo 101.º do Código do Procedimento Administrativo (Decreto-Lei n.º 4/2015, de 07 de abril). Assim, durante o período de 30 dias, a contar da data da publicação do presente edital, no Diário da República, poderá a Proposta de Projeto de Regulamento, ser consultada no Edifício dos Paços do Concelho, na Divisão de Planeamento de Coordenação Estratégica e no site da autarquia: www.cm-viladerei.pt, sobre a qual os interessados devem dirigir por escrito as suas sugestões ao Presidente da Câmara Municipal de Vila de Rei.
+13 de junho de 2016. - O Presidente da Câmara, Ricardo Jorge Martins Aires.
+309666188
