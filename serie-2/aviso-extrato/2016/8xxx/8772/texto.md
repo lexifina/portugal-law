@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 8772/2016
+José António Fontão Tulha, Presidente da Câmara Municipal de S. João da Pesqueira, torna público que, para cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo e em execução da deliberação proferida pela Câmara Municipal, em 16 de junho de 2016, a partir da publicação do presente Aviso, no Diário da República, 2.ª série e pelo prazo de 30 dias, estará em apreciação pública, para recolha de sugestões, o projeto de alteração do «Regulamento Municipal de Apoio e Financiamento ao Associativismo de Caça e Pesca». Mais faz saber que a proposta de alteração do regulamento estará disponível no sítio da Internet do Município de S. João da Pesqueira, www.sjpesqueira.pt, bem como no Balcão Único de Atendimento, durante o horário normal de expediente.
+30 de junho de 2016. - O Presidente da Câmara Municipal, José António Fontão Tulha.
+309700871
