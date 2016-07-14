@@ -1,0 +1,33 @@
+Despacho normativo n.º 5/2016
+O Despacho normativo n.º 14/2014, de 29 de outubro e o Despacho normativo n.º 2/2015, de 20 de janeiro, ambos na atual redação, estabelecem as normas complementares de execução dos regimes de apoio associados, respetivamente, «animais» e «superfícies», apresentados por Portugal e aprovados pela Decisão de Execução da Comissão C (2015) 2806 final, de 4 de maio de 2015.
+Face às alterações introduzidas ao Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março, através do Regulamento Delegado (UE) n.º 2016/141, da Comissão, de 30 de novembro de 2015, nos termos do qual se tornou admissível a transferência de fundos entre regimes de apoio, procedeu-se à alteração dos referidos despachos normativos, que passaram a consagrar tal possibilidade, a título excecional, para o ano de 2016, ainda que parcialmente limitada.
+Tendo sido entretanto apuradas, em concreto, as disponibilidades financeiras e insuficiências orçamentais dos referidos regimes de apoio e com vista a fazer face às atuais dificuldades enfrentadas pelo setor do leite, importa otimizar a utilização da transferência de fundos entre regimes de apoio, suprimindo o limite máximo anteriormente estabelecido.
+Assim, ao abrigo e nos termos do disposto no artigo 53.º-A do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março, alterado pelo Regulamento Delegado (UE) n.º 2016/141, da Comissão, de 30 de novembro de 2015, determino o seguinte:
+Artigo 1.º
+Objeto
+1 - O presente despacho normativo procede à terceira alteração ao despacho normativo n.º 14/2014, de 29 de outubro, alterado pelos Despachos normativos n.os 4/2015, de 27 de janeiro, e 1-A/2016, de 11 de fevereiro, que estabelecem as normas complementares de execução dos regimes de apoio associados «animais».
+2 - O presente despacho normativo procede à segunda alteração ao despacho normativo n.º 2/2015, de 20 de janeiro, alterado pelo Despachos normativos n.º 1-A/2016, de 11 de fevereiro, que estabelece as normas complementares de execução dos regimes de apoio associados «superfícies».
+Artigo 2.º
+Alteração ao Despacho normativo n.º 14/2014, de 29 de outubro
+O artigo 15.º do Despacho normativo n.º 14/2014, de 29 de outubro, alterado pelos Despachos normativos n.os 4/2015, de 27 de janeiro, e 1-A/2016, de 11 de fevereiro, passa a ter a seguinte redação:
+«Artigo 15.º
+[...]
+1 - [...].
+2 - [...].
+3 - [...].
+4 - [...].
+5 - Para o ano de 2016, em aplicação do n.º 6 do artigo 53.º-A do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março, alterado pelo Regulamento Delegado (UE) 2016/141, da Comissão, de 30 de novembro de 2015, os montantes financeiros não utilizados relativos aos apoios referidos nas alíneas a) e b) do n.º 1 do artigo 3.º, são transferidos para o apoio identificado na alínea c) do mesmo artigo.»
+Artigo 3.º
+Alteração ao Despacho normativo n.º 2/2015, de 20 de janeiro
+O artigo 12.º do Despacho normativo n.º 2/2015, de 20 de janeiro, alterado pelo Despacho normativo n.º 1-A/2016, de 11 de fevereiro, passa a ter a seguinte redação:
+«Artigo 12.º
+[...]
+1 - [...].
+2 - [...].
+3 - [...].
+4 - Para o ano de 2016, em aplicação do n.º 6 do artigo 53.º-A do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março, alterado pelo Regulamento Delegado (UE) 2016/141, da Comissão, de 30 de novembro de 2015, os montantes financeiros não utilizados são transferidos para o apoio referido na alínea c) do n.º 1 do artigo 3.º do Despacho normativo n.º 14/2014, de 29 de outubro.»
+Artigo 4.º
+Entrada em vigor e produção de efeitos
+O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos à data de entrada em vigor do Despacho normativo n.º 1-A/2016, de 11 de fevereiro.
+6 de julho de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+209717599
