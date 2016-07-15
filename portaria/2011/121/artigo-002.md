@@ -8,6 +8,6 @@ a) As instituições de crédito com sede principal e efectiva da administraçã
 
 b) As filiais, em Portugal, de instituições de crédito que não tenham a sua sede principal e efectiva da administração em território português;
 
-c) As sucursais, em Portugal, de instituições de crédito com sede principal e efectiva da administração fora da União Europeia.
+c) As sucursais em Portugal de instituições de crédito com sede principal e efetiva fora do território português.
 
-2 - Para efeitos do disposto no número anterior, consideram-se instituições de crédito, filiais e sucursais as referidas, respectivamente, no artigo 2.º e nos n.os 1 e 5 do artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.
+2 - Para efeitos do disposto no número anterior, consideram-se instituições de crédito, filiais e sucursais as definidas, respetivamente, nas alíneas w), u) e ll) do artigo 2.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
