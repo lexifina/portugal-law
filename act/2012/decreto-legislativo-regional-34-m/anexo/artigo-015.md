@@ -4,6 +4,8 @@
 
 # Artigo 15.º
 
-### Regime de pessoal
+### Regime e mapa de pessoal
 
-O regime aplicável ao pessoal do ISSM, IP-RAM, é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma.
+1 - O regime aplicável ao pessoal do ISSM, IP-RAM, é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma.
+
+2 - Compete ao membro do Governo Regional da tutela aprovar o mapa de pessoal do ISSM, IP-RAM.

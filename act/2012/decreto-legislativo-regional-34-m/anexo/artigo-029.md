@@ -4,10 +4,10 @@
 
 # Artigo 29.º
 
-### Mandatos dos órgãos
+### Mandato do fiscal único
 
-1 - Os mandatos em curso dos membros do conselho diretivo mantêm-se até ao final dos respetivos prazos ou quando ocorrer a tomada de posse da comissão de recrutamento e seleção para a administração regional da Madeira, caso esta venha a ocorrer em data anterior à cessação dos respetivos mandatos.
+1 - [Revogado.]
 
-2 - O mandato em curso do fiscal único mantém-se, até nova designação.
+2 - O mandato em curso do fiscal único mantém-se, até nova designação, nos termos da lei.
 
-3 - O disposto no n.º 1 deste artigo não prejudica a aplicação das novas regras de remuneração introduzidas pelo Decreto-Lei n.º 8/2012, de 18 de janeiro, aos mandatos em curso.
+3 - [Revogado.]

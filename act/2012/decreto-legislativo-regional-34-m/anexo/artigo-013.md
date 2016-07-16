@@ -20,7 +20,7 @@ g) Os encargos de administração;
 
 h) As despesas e transferências de capital, designadamente investimentos do ISSM, IP-RAM, e financiamento de investimentos realizados através das IPSS e de outras instituições que exerçam atividades na área da segurança social;
 
-i) As transferências para o Instituto de Gestão Financeira da Segurança Social, I. P., designadamente a título de excedente de execução orçamental;
+i) As transferências para o Instituto de Gestão Financeira da Segurança Social, IP, designadamente a título de excedente de execução orçamental, no âmbito das dotações integradas no Orçamento da Segurança Social;
 
 j) Outras despesas que sejam afetas a entidades do sistema de segurança social, cuja execução na RAM caiba ou seja atribuída ao ISSM, IP-RAM;
 

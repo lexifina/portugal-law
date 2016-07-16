@@ -10,35 +10,39 @@ b) Elaborar os regulamentos e as normas internas necessários ao funcionamento d
 
 c) Dinamizar e gerir as prestações do sistema de segurança social e dos seus subsistemas;
 
-d) Dirigir, coordenar e assegurar a gestão dos serviços e dos estabelecimentos integrados do ISSM, IP-RAM, programar as respetivas ações e zelar pelo seu bom funcionamento, com vista à prossecução das suas atribuições;
+d) Conceder as prestações ou apoios sociais;
 
-e) Elaborar os planos de atividade, anuais e plurianuais, o relatório de atividades, as contas e o balanço social;
+e) Dirigir, coordenar e assegurar a gestão dos serviços e dos estabelecimentos integrados do ISSM, IP-RAM, programar as respetivas ações e zelar pelo seu bom funcionamento, incluindo os serviços médicos e de enfermagem necessários, com vista à prossecução das suas atribuições.
 
-f) Arrecadar e gerir as receitas e autorizar despesas, nos termos da lei;
+f) Elaborar os planos de atividade, anuais e plurianuais, o relatório de atividades, as contas e o balanço social;
 
-g) Contratar com entidades terceiras, públicas ou privadas, a prestação de serviços de apoio ao ISSM, IP-RAM, com vista ao adequado desempenho das suas atribuições;
+g) Arrecadar e gerir as receitas e autorizar despesas, nos termos da lei;
 
-h) Assegurar a regularidade da relação contributiva de segurança social, bem como constituir hipotecas legais e autorizar o respetivo distrate;
+h) Contratar com entidades terceiras, públicas ou privadas, o fornecimento de bens e serviços, nos termos da lei;
 
-i) Autorizar o pagamento em prestações das dívidas, no âmbito de acordos para regularização da dívida, na forma, condições e requisitos estabelecidos na lei para a recuperação da dívida à segurança social e no âmbito do processo de execução de dívidas nos termos da lei;
+i) Contratar com entidades terceiras, públicas ou privadas, a prestação de serviços de apoio ao ISSM, IP-RAM, com vista ao adequado desempenho das suas atribuições;
 
-j) Exercer a ação inspetiva e fiscalizadora do cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das IPSS e de outras entidades privadas que exerçam atividades de apoio social;
+j) Assegurar a regularidade da relação contributiva de segurança social, bem como constituir hipotecas legais e autorizar o respetivo distrate;
 
-k) Aplicar coimas e sanções acessórias às contraordenações praticadas por beneficiários, contribuintes e estabelecimentos de apoio social;
+k) Autorizar o pagamento em prestações das dívidas, no âmbito de acordos para regularização da dívida, na forma, condições e requisitos estabelecidos na lei para a recuperação da dívida à segurança social e no âmbito do processo de execução de dívidas nos termos da lei;
 
-l) Celebrar os acordos de cooperação e acordos de gestão com as IPSS;
+l) Exercer a ação inspetiva e fiscalizadora do cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das IPSS e de outras entidades privadas que exerçam atividades de apoio social;
 
-m) Assegurar a aplicação dos instrumentos internacionais em matéria de segurança social e a intervenção em sede de negociação, conforme a alínea j) do n.º 2 do artigo 4.º;
+m) Aplicar coimas e sanções acessórias às contraordenações praticadas por beneficiários, contribuintes e estabelecimentos de apoio social;
 
-n) Promover medidas de modernização administrativa e intervir na definição do sistema de informação da segurança social, em articulação e colaboração com o Instituto de Informática, I. P.;
+n) Celebrar os acordos de cooperação e acordos de gestão com as IPSS;
 
-o) Constituir mandatários do ISSM, IP-RAM, em juízo e fora dele, incluindo com o poder de substabelecer;
+p) Assegurar a aplicação dos instrumentos internacionais em matéria de segurança social e a intervenção em sede de negociação, conforme a alínea j) do n.º 2 do artigo 4.º;
 
-p) Exercer os atos de direção, gestão e disciplina do pessoal, e praticar os demais atos previstos na lei e nos estatutos;
+p) Promover medidas de modernização administrativa e intervir na definição do sistema de informação da segurança social, em articulação e colaboração com o Instituto de Informática, I. P.;
 
-q) Praticar quaisquer outros atos necessários à prossecução das atribuições do ISSM, IP-RAM.
+q) Constituir mandatários do ISSM, IP-RAM, em juízo e fora dele, incluindo com o poder de substabelecer;
 
-2 - Compete ainda ao conselho diretivo, no âmbito da gestão financeira e patrimonial, gerir os recursos humanos, financeiros e patrimoniais do ISSM, IP-RAM.
+r) Elaborar a proposta de orçamento, coordenar a respetiva execução e aprovar a conta do ISSM, IP-RAM;
+
+s) Praticar quaisquer outros atos necessários à prossecução das atribuições do ISSM, IP-RAM.
+
+2 - Compete ainda ao conselho diretivo, no âmbito da gestão financeira e patrimonial, gerir os recursos humanos, financeiros e patrimoniais do ISSM, IP-RAM e as demais competências decorrentes da lei, nomeadamente, as previstas no regime jurídico dos institutos públicos.
 
 3 - O conselho diretivo pode distribuir entre os seus membros, sob proposta do presidente, a gestão de áreas de atuação do ISSM, IP-RAM.
 
@@ -46,4 +50,6 @@ q) Praticar quaisquer outros atos necessários à prossecução das atribuiçõe
 
 5 - Compete, em geral, ao presidente do conselho diretivo dirigir e orientar a ação deste órgão e exercer as competências que lhe sejam conferidas por lei ou que nele forem delegadas ou subdelegadas e, em especial, representar o ISSM, IP-RAM, em juízo ou na prática de atos jurídicos, com a faculdade de delegação nos restantes membros do conselho diretivo, nos termos da lei.
 
-6 - O presidente é substituído, nas faltas e impedimentos, pelo vogal que ele indicar e, na sua falta, pelo vogal mais antigo.
+6 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente.
+
+7 - O presidente do conselho diretivo pode decidir e praticar atos inadiáveis, os quais, sendo da competência do conselho diretivo, não possam, por motivos imperiosos de urgência, aguardar reunião deste órgão, devendo tais decisões e atos ser submetidos a ratificação do conselho diretivo, na primeira reunião subsequente deste órgão.
