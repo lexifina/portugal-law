@@ -1,0 +1,5 @@
+Aviso n.º 77/2016
+Por ordem superior se torna público que o Secretariado-geral do Conselho da União Europeia comunicou, pela nota n.º SGS 16/04979, de 1 de junho de 2016, ter a União Europeia concluído os procedimentos internos necessários à entrada em vigor do Acordo que cria uma Associação entre a União Europeia e a Comunidade Europeia de Energia Atómica e os seus Estados-Membros, por um lado, e a Geórgia, por outro, assinado em Bruxelas em 27 de junho de 2014.
+Mais se torna público que, tendo todas as Partes concluído idênticos procedimentos, o presente acordo entrou em vigor no dia 1 de julho de 2016, nos termos do seu artigo 431.º, n.º 2.
+Portugal é Parte neste Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 54/2015 e ratificado pelo Decreto do Presidente da República n.º 32/2015, publicados no Diário da República, 1.ª série, n.º 99, de 22 de maio de 2015.
+Direção-Geral dos Assuntos Europeus, 7 de julho de 2016. - O Diretor-Geral, Pedro Costa Pereira.
