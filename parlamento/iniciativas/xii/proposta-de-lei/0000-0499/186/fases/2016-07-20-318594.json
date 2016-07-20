@@ -1,0 +1,371 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=1fBKYLP2a1rw%2f9LV3jYQiVrXZW%2fZt0kCMlTEghYUA5jb5tyr5kNZ5lIvqNCpgQ3lCbDe9tAyXj%2bW1HtbxyLcqEW%2fsMZSuopvzn%2bKm%2bZJhuVAf6faXaF9o1Drd539UzItQrNNleHX0cng%2b55xPd0rBlwT5QI%2b3WnmjFwE%2bQSgllX3fU6BPBGsqOq4q%2b814Jns9W2E%2foIsDYgL%2byrtlkyRCi23GkwxSAABo0YLo6q0TKAaGHt1HDnKdElO0jHplIT%2fxoKjVqDjEFdu3evklLfYuXOETBcqE4QjPvTTpyAxIWvimz6yN4QH639%2fLRLCIKvqWcW3KCBFGx8ARcWsyElkwYKyeOUVVwMjKSke0oiK1F4%3d&fich=IniciativasXII_json.txt&Inline=true",
+  "ficheiro_sha256": "03b2ee5c4ac2f6eacf083303dc24d38cc96b59956d06e43d24f1b36108e0131a",
+  "legislatura": "XII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "186",
+    "id": "38038",
+    "titulo": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2016-07-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11477",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2016-07-20",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-07-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6147",
+                "nome": "Berta Cabral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "118-119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/118?pgs=118-119&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6176",
+                "nome": "Sara Madruga da Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "118-119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/118?pgs=118-119&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6148",
+                "nome": "António Ventura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202988",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "118-119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/118?pgs=118-119&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6177",
+                "nome": "Rubina Berardo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "118-119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/118?pgs=118-119&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6178",
+                "nome": "Paulo Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202990",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "118-119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/118?pgs=118-119&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "19:13",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "202996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "120-120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-07-21",
+                "pubLeg": "XIII",
+                "pubNr": "89",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21/120?pgs=120&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 54/2005, de 15 de novembro, que estabelece a titularidade dos recursos hídricos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "318594",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "11477",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-07-21",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/01/089/2016-07-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2016-07-20",
+        "descricao": "Texto de Substituição apresentado pela Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação relativo à Proposta de Lei n.º 186/XII/3.ª (ALRAA) e Proposta de Lei n.º 17/XIII/1.ª (ALRAM)",
+        "detalhe": "A Favor: <I>PS</I>, <I> CDS-PP</I>, <I> PAN</I>, <I> Berta Cabral (PSD)</I>, <I> António Ventura (PSD)</I>, <I> Sara Madruga Da Costa (PSD)</I>, <I> Rubina Berardo (PSD)</I>, <I> Paulo Neves (PSD)</I><BR>Contra:<I>BE</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>",
+        "id": "73168",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "89",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
