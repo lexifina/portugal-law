@@ -1,3 +1,7 @@
+## Secção IV
+
+## Área protegida para gestão de recursos
+
 # Artigo 19.º
 
 ### Área marinha protegida para a gestão de recursos

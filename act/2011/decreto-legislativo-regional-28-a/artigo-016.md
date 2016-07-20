@@ -1,3 +1,7 @@
+## Secção III
+
+## Áreas marinhas protegidas para a gestão de habitats ou espécies
+
 # Artigo 16.º
 
 ### Áreas marinhas protegidas para a gestão de habitats ou espécies
