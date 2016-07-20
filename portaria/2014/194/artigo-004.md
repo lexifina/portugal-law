@@ -23,3 +23,5 @@ b) Divulgar pública e periodicamente os resultados da sua atividade;
 c) Comunicar à Comissão Nacional para os Centros de Referência qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos ao seu reconhecimento;
 
 d) Iniciar, no prazo de um ano, após o seu reconhecimento, o processo de certificação e acreditação da qualidade e segurança da prestação de cuidados, seguindo o modelo de acreditação indicado pela Direção-Geral da Saúde.
+
+e) Notificar a Comissão Nacional para os Centros de Referência quando da sua candidatura à integração em Redes Europeias de Referência.

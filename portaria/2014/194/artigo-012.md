@@ -15,3 +15,5 @@
 6 - O acordo de colaboração referido no n.º 3 deve especificar a atividade complementar de prestação de cuidados de saúde, de formação ou de investigação desenvolvidas pelo Centro Afiliado do Centro de Referência, no âmbito da colaboração acordada com o Centro de Referência ao qual se pretende associar e ser notificado à Comissão Nacional para os Centros de Referência.
 
 7 - Um Centro Afiliado pode ainda ser uma Unidade de Investigação, creditada pela Fundação para a Ciência e Tecnologia/Ministério de Educação e Ciência, que apoia o Centro de Referência na elaboração e condução da investigação científica devida ao Centro de Referência.
+
+8 - As condições e critérios a que devem obedecer os Centros Afiliados de um Centro de Referência são definidos pela Comissão Nacional para os Centros de Referência e publicitados no sítio eletrónico da Direção-Geral da Saúde.
