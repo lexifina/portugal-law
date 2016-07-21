@@ -1,0 +1,12 @@
+Aviso n.º 9121/2016
+Revogação do Plano de Pormenor Integrado do Parque Industrial de Pombal
+Luís Diogo de Paiva Morão Alves Mateus, Presidente da Câmara Municipal:
+Torna público que, em observância do disposto no artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais) e nos termos do n.º 3 do artigo 127.º do Dec. Lei n.º 80/2015, de 14 de maio (Novo Regime Jurídico dos Instrumentos de Gestão Territorial), conjugado com a alínea f), n.º 4 do artigo 191.º, do mesmo diploma legal, a Assembleia Municipal de Pombal deliberou, na sua sessão ordinária realizada em 30 de junho de 2016, sob proposta da Câmara Municipal aprovada na sua reunião ordinária realizada em 14 de junho de 2016, proceder à revogação do Plano de Pormenor Integrado do Parque Industrial de Pombal, publicado pelo Aviso n.º 26616/2008, de 6 de novembro e retificado pelo Aviso n.º 27347/2008, de 14 de novembro, do Diário da República, 2.ª série - ns.º 216 e 222, respetivamente, objeto de uma correção material, publicada pela Declaração n.º 196/2014, no Diário da República, 2.ª série - N.º 214, de 5 de novembro, de uma alteração por adaptação, publicada pelo Aviso n.º 12457/2014, no Diário da República, 2.ª série - N.º 216, de 7 de novembro e de uma suspensão parcial, publicada pelo Aviso n.º 11814/2015, no Diário da República, 2.ª série - N.º 202, de 15 de outubro.
+O Relatório Justificativo - Proposta de Revogação subjacente à deliberação anteriormente mencionada, poderá ser consultado na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, desta Câmara Municipal, dentro do horário de expediente (9,00 Horas - 12,30 Horas e 14,00 Horas - 17,30 Horas).
+11 de julho de 2016. - O Presidente da Câmara, Dr. Diogo Alves Mateus.
+Deliberação
+Narciso Ferreira Mota, Presidente da Assembleia Municipal de Pombal, certifica que esta Assembleia Municipal, em sessão ordinária realizada no dia 30 de junho de 2016, deliberou, por unanimidade, no uso da competência que lhe é conferida pela alínea r) do n.º 1 do artigo 25.º da Lei 75/2013 de 12 de setembro na sua atual redação, aprovar o Ponto 2.6 da Ordem de Trabalhos intitulado:
+"Apresentação, discussão e votação da proposta da Câmara sobre a Revogação do Plano de Pormenor Integrado do Parque Industrial de Pombal".
+Por ser verdade e para constar, mandei passar a presente certidão, que assino e autentico com o selo branco em uso nesta Assembleia Municipal.
+5 de julho de 2016. - O Presidente da Assembleia Municipal, Narciso Ferreira Mota, Eng.
+609733628
