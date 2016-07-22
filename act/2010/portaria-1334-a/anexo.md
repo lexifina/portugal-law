@@ -25,3 +25,15 @@ Actos técnicos
 7 - Renovação da aprovação dos equipamentos mencionados no número anterior - (euro) 200.
 
 8 - Acção de formação - preço formador/hora: (euro) 150.
+
+9 - Processo de candidatura à ministração das ações de formação previstas no n.º 2 do artigo 4.º do Decreto Regulamentar n.º 1-A/2016, de 30 de maio:
+
+9.1 - Apreciação do processo - (euro) 100 por candidatura;
+
+9.2 - Emissão de autorização para ministração das ações de formação - (euro) 400 por autorização.
+
+10 - Processo de renovação da autorização para ministração das ações de formação previstas no n.º 3 do artigo 4.º do Decreto Regulamentar n.º 1-A/2016, de 30 de maio:
+
+10.1 - Apreciação do processo - (euro) 50 por candidatura;
+
+10.2 - Emissão da renovação da autorização para ministração das ações de formação - (euro) 200 por renovação da autorização.
