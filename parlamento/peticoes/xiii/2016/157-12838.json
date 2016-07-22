@@ -1,0 +1,462 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12838",
+  "numero": "157",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-07-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-10-13",
+            "entidades": null,
+            "id": "103117",
+            "tipo": null,
+            "titulo": "Audição em 2016-10-13 com ACORS - Associação dos Comerciantes de Ourivesaria e Relojoaria do Sul, ANUSA - Associação Nacional do Comércio e Valorização do Bem Usado, AORP - Associação de Ourivesaria e Relojoaria de Portugal, APA - Associação Portuguesa dos Antiquários, APAOINCM - Associação dos Peritos Avaliadores Oficiais de Ourivesaria e Joalharia, APIO - Associação Portuguesa da Industria de Ourivesaria, APP - Associação de Prestamistas de Portugal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "258/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "799175",
+                "obs": "Relatório final",
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-07",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/058/2017-07-07/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-09-21",
+        "DataArquivo": "2017-07-05",
+        "DataBaixaComissao": "2016-07-26",
+        "DataEnvioPAR": "2017-07-06",
+        "DataReaberta": "2016-09-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-09-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876593251324e7a6b314d4759744d5445354e5330305a5755304c546b31596a51745a444131595749355a6a6b324e324d7a4c6e426b5a673d3d&fich=cd67950f-1195-4ee4-95b4-d05ab9f967c3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d6d4a6a4d5755324d7a55744d4467314e7930304e6d46694c54686b4f4441744d47466b4d6a41795a5745355a4759794c6e426b5a673d3d&fich=2bc1e635-0857-46ab-8d80-0ad202ea9df2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-07-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d54466a4e4746694e6d45744f474d784e6930305954566d4c546869595751745a54526b4f544134596a4d31596a526d4c6e426b5a673d3d&fich=11c4ab6a-8c16-4a5f-8bad-e4d908b35b4f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-09-21",
+            "gp": "PSD",
+            "id": "2117",
+            "motivoCessacao": null,
+            "nome": "Joel Sá"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-10-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-07-28",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938334f4445784e47466c4d433034595751314c5451354f4449744f5445314e6931685a5745775a446b314e475a6a4d3251756347526d&fich=78114ae0-8ad5-4982-9156-aea0d954fc3d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41791"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-10-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_10_27_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=02:10:15:135&drc=00:03:47:072"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218393",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão da Lei n.º 98/2015, de 18 de agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (Estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias) (AORP — Associação de Ourivesaria e Relojoaria de Portugal e outros) e Recomenda a revisão do Regime Jurídico da Ourivesaria e das Contrastarias.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_10_27_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=02:14:02:207&drc=00:03:54:789"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218394",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão da Lei n.º 98/2015, de 18 de agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (Estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias) (AORP — Associação de Ourivesaria e Relojoaria de Portugal e outros) e Recomenda a revisão do Regime Jurídico da Ourivesaria e das Contrastarias.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_10_27_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=02:17:58:577&drc=00:03:40:802"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218395",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão da Lei n.º 98/2015, de 18 de agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (Estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias) (AORP — Associação de Ourivesaria e Relojoaria de Portugal e outros) e Recomenda a revisão do Regime Jurídico da Ourivesaria e das Contrastarias.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_10_27_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=02:21:39:379&drc=00:04:28:332"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218396",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão da Lei n.º 98/2015, de 18 de agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (Estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias) (AORP — Associação de Ourivesaria e Relojoaria de Portugal e outros) e Recomenda a revisão do Regime Jurídico da Ourivesaria e das Contrastarias.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_10_27_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=02:26:07:712&drc=00:03:44:065"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão da Lei n.º 98/2015, de 18 de agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (Estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias) (AORP — Associação de Ourivesaria e Relojoaria de Portugal e outros) e Recomenda a revisão do Regime Jurídico da Ourivesaria e das Contrastarias.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12838",
+    "PetAssunto": "Solicitam a revisão da Lei n.º 98/2015, de 18 de Agosto, e da Portaria n.º 403-B/2015, de 13 de novembro (estabelece o novo RJOC-Regime Jurídico da Ourivesaria e das Contrastarias).",
+    "PetDataEntrada": "2016-07-22",
+    "PeticoesAssociadas": null,
+    "PetId": "12838",
+    "PetLeg": "XIII",
+    "PetNr": "157",
+    "PetNrAssinaturas": "4015",
+    "PetNrAssinaturasInicial": "3968",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "624",
+        "obs": null,
+        "pag": [
+          "31-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-28",
+        "pubLeg": "XIII",
+        "pubNr": "14",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/014/2017-10-28/31?pgs=31-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "774868",
+        "obs": null,
+        "pag": [
+          "24-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-21",
+        "pubLeg": "XIII",
+        "pubNr": "8",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/008/2016-10-21/24?pgs=24-26&org=PLC"
+      }
+    ]
+  }
+}
