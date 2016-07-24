@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12839",
+  "numero": "158",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-07-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-09-15",
+            "dataResposta": "2016-10-26",
+            "entidades": [
+              "MIN.   DA  SAÚDE"
+            ],
+            "nrOficio": "180/9ªCS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-09-14",
+        "DataArquivo": "2016-09-28",
+        "DataBaixaComissao": "2016-08-06",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2016-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-09-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f4463324d7a46684f4755744e7a63334d5330304d5455304c546c6d4f5441745a6a56694d475a685a6a4d345a4755794c6e426b5a673d3d&fich=87631a8e-7771-4154-9f90-f5b0faf38de2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-15",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d6d51324e6a6b335a574d744d7a59354d7930305a6a56684c5467334e5451744f4745794e44566b4e32566d596d51784c6e426b5a673d3d&fich=2d6697ec-3693-4f5a-8754-8a245d7efbd1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a444931595451774e3245744e7a5533597930305a6d4d344c5745314d544d744f54686b4f54566d4d6a413059574e6a4c6e426b5a673d3d&fich=d25a407a-757c-4fc8-a513-98d95f204acc.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-10-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d4445354e575268595451744f574e6d4e5330305a4441794c546c684f446b744d5463344e325a6c4f545933595755334c6c424552673d3d&fich=0195daa4-9cf5-4d02-9a89-1787fe967ae7.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-09-14",
+            "gp": "PS",
+            "id": "6197",
+            "motivoCessacao": null,
+            "nome": "António Sales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-09-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938354f44686c597a63314d69316c4d44646c4c5451794d4749744f4467774d6930795a4455354f444d35596a45315a5441756347526d&fich=988ec752-e07e-420b-8802-2d59839b15e0.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12839",
+    "PetAssunto": "O Grupo de Estudos de Cancro de Cabeça e Pescoço sugere a adoção de uma medida legislativa que permita a reabilitação oral aos doentes tratados com cancro de cabeça e pescoço de forma gratuita no SNS.",
+    "PetDataEntrada": "2016-07-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12839",
+    "PetLeg": "XIII",
+    "PetNr": "158",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
