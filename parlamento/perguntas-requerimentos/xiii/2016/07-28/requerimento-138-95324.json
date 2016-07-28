@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "95324",
+  "tipo": "Requerimento",
+  "numero": "138",
+  "data_registo": "2016-07-28",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Listagem das intervenções do Instituto da Conservação da Natureza e das Florestas nas Áreas Protegidas",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "5705",
+        "nome": "Ana Mesquita"
+      }
+    ],
+    "DataEnvio": "2016-07-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2016-07-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DO AMBIENTE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2016-09-05",
+            "docRemetida": null,
+            "entidade": "MIN.  DO AMBIENTE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338324e4463345a6a51785a43307a4d3259354c54526a4e7a6b74595745314d5331695a575a69595755774e5467354e3259756347526d&fich=6478f41d-33f9-4c79-aa51-befbae05897f.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2016-07-28",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338794e6a51354e5749314d7931684e3255334c54517a4e7a4974596a4d33596930775a6d49315a4459774d3246695a4459756347526d&fich=26495b53-a7e7-4372-b37b-0fb5d603abd6.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "95324",
+    "Legislatura": "XIII",
+    "Nr": "138",
+    "Observacoes": "intervenções territoriais do Instituto da Conservação da Natureza e das Florestas - ICNF; programa de acompanhamento; número de vigilantes da natureza e técnicos do ambiente; número de viaturas operacionais; informação descriminada do número e tipologia de operações de recuperação de património, abate de infestantes, defesa de habitats e ecossistemas específicos;",
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
