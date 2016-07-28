@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 150/2016
+Recomenda ao Governo o reforço e a consolidação da prestação de cuidados de saúde no Hospital de Santa Luzia, em Elvas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Reforce o serviço de urgência do Hospital de Santa Luzia, em Elvas, no sentido de o adequar às necessidades dos utentes, tendo em conta as características geográficas da região, assim como as suas especificidades socioeconómicas, mantendo as valências de cirurgia e ortopedia.
+2 - Mantenha e reforce todas as valências médicas disponibilizadas pelo Hospital de Santa Luzia, garantindo a contratação dos profissionais indispensáveis ao seu normal funcionamento, designadamente médicos, enfermeiros e assistentes técnicos.
+3 - Assegure as condições para a internalização de meios complementares de diagnóstico e terapêutica, nomeadamente nas áreas de análises clínicas, radiologia, medicina física e reabilitação, cardiologia e gastrenterologia.
+4 - Proceda a um levantamento das obras de requalificação do Hospital de Santa Luzia tidas por convenientes para melhorar a prestação de cuidados de saúde aos utentes, assegurando, posteriormente, as condições necessárias para a sua implementação.
+5 - Numa ótica de partilha de recursos, garanta aos utentes dos concelhos próximos, nomeadamente do distrito de Évora, a possibilidade de recorrem à oferta de cuidados de saúde do Hospital de Santa Luzia, designadamente consultas e meios complementares de diagnóstico e terapêutica, agilizando o estabelecimento de protocolos de modo a assegurar que a unidade local de saúde (ULS) é ressarcida pela prestação deste serviço de saúde.
+6 - Garanta a articulação entre a resposta dada pelo Hospital de Santa Luzia e os cuidados de saúde primários, bem como entre os Hospitais de Santa Luzia (Elvas), Dr. José Maria Grande (Portalegre) e Espírito Santo (Évora), em função de critérios de acessibilidade, respeitando a proximidade e alargando a capacidade de resposta às necessidades de saúde dos utentes.
+7 - Estabeleça critérios que permitam contrariar lógicas de disputa de utentes entre serviços públicos.
+8 - Promova as ações necessárias para possibilitar a prestação de cuidados de saúde a utentes da Estremadura espanhola que aguardam em lista de espera, rentabilizando os recursos existentes e a capacidade instalada nesta unidade hospitalar, por via de mecanismos de contratualização com a Junta Regional de Extremadura.
+Aprovada em 7 de julho de 2016.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
