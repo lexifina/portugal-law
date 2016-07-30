@@ -12,6 +12,8 @@ b) Carta ou licença de condução cassadas, nos termos do artigo 148.º do Cód
 
 c) Carta ou licença de condução cassadas ou anuladas por decisão de Estado-membro da União Europeia ou do espaço económico europeu.
 
+d) Carta de condução caducada nos termos da alínea b) do n.º 1 do artigo 130.º do Código da Estrada, por terem faltado ou reprovado no exame de condução ou em qualquer das suas provas determinadas ao abrigo dos n.os 1 e 5 do artigo anterior.
+
 3 - Estão sujeitos a exame, restrito à prova prática, para revalidação do título de que são portadores, os condutores:
 
 a) Titulares de carta ou licença de condução caducadas há mais de dois anos;
@@ -24,6 +26,6 @@ b) Titulares de carta ou licença de condução caducadas por não se terem subm
 
 6 - Sem prejuízo do disposto no número anterior, deve ser solicitado ao candidato, durante a prova, que execute as manobras cuja realização indevida tenha resultado na prática de infrações que determinaram o cancelamento ou cassação da carta de condução.
 
-7 - O candidato que reprove em qualquer das provas do exame especial de condução pode repetir a prova por uma única vez, no mesmo centro de exames, desde que a requeira no prazo de 30 dias úteis a contar da data da reprovação.
+7 - O candidato que reprove em qualquer das provas do exame especial de condução pode repetir a prova por uma única vez, no mesmo centro de exames, desde que a requeira no prazo de 90 dias a contar da data da reprovação.
 
 8 - O candidato que reprove duas vezes no exame especial, ou em qualquer das suas provas, só pode efetuar novo exame de condução após formação e mediante propositura por escola de condução.

@@ -8,11 +8,11 @@
 
 1 - A prova prática só pode ser prestada em veículos licenciados para instrução ou para exame, com possibilidade de recurso a equipamento de monitorização da prova, nos termos a fixar por deliberação do conselho diretivo do IMT, I. P.
 
-2 - Exceciona-se do disposto no número anterior das provas dos candidatos:
+2 - Exceciona-se do disposto no número anterior as provas dos candidatos:
 
 a) Cujos certificados de aptidão médica e psicológica imponham a condução de veículos com determinadas características ou especialmente adaptados;
 
-b) Em regime de autopropositura.
+b) Em regime de autopropositura, nos termos previstos no n.º 2 e na alínea e) do n.º 3 do artigo 33.º
 
 3 - A prova prática pode ser prestada em veículo de caixa manual ou de caixa automática.
 

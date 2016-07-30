@@ -30,4 +30,4 @@ b) Veículos agrícolas das categorias II e III: 18 anos.
 
 4 - A obtenção de título de condução por pessoa com idade inferior a 18 anos depende, ainda, de autorização escrita de quem sobre ela exerça o poder paternal.
 
-5 - Só podem conduzir veículos da categoria CE cuja massa máxima autorizada exceda 20000 kg os condutores que não tenham completado 65 anos de idade.
+5 - Só podem conduzir veículos da categoria CE cuja massa máxima autorizada exceda 20.000 kg os condutores que não tenham completado 67 anos de idade.

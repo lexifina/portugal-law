@@ -18,7 +18,7 @@ ii) Tratores agrícolas ou florestais com reboque ou máquina agrícola ou flore
 
 c) Categoria III - tratores agrícolas ou florestais com ou sem reboque e máquinas agrícolas pesadas.
 
-4 - Os titulares de licença de condução de tratores agrícolas válida para veículos da categoria I estão habilitados a conduzir máquinas industriais com massa máxima autorizada não superior a 2 500 kg.
+4 - Os titulares de licença de condução de trator agrícola válida para veículos da categoria I estão habilitados a conduzir máquinas industriais com massa máxima autorizada não superior a 2500 kg.
 
 5 - Os titulares de licença de condução de tratores agrícolas válida para veículos da categoria II estão habilitados a conduzir:
 

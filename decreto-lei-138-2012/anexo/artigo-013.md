@@ -20,4 +20,4 @@ b) Os títulos de condução emitidos por Estado membro da União Europeia ou do
 
 5 - Findo o prazo referido no número anterior, o título deve ser revalidado nos termos e com os requisitos exigidos na lei portuguesa para os títulos nacionais.
 
-6 - As condições impostas no n.º 1 são aplicáveis a todos os títulos de condução que habilitem a conduzir em Portugal.
+6 - As condições impostas no n.º 1 são também aplicáveis aos restantes títulos estrangeiros que, nos termos do artigo 125.º do Código da Estrada, habilitam a conduzir em Portugal.

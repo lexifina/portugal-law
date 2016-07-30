@@ -6,12 +6,12 @@
 
 2 - As entidades e os procedimentos técnicos e administrativos necessários ao disposto no número anterior são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-3 - Os originais dos atestados médicos e dos certificados de avaliação psicológica, quando exigível, bem como de outros documentos necessários à instrução do processo, devem ser conservados, durante dois anos:
+3 - Os atestados médicos, certificados de avaliação psicológica, quando exigível, e outros documentos necessários à instrução do processo de emissão de títulos de condução devem:
 
-a) Pelas entidades com quem o IMT, I. P., estabeleceu protocolo;
+a) Ser registados por via eletrónica pelo IMT, I. P., ou remetidos a este instituto pela mesma via, nas situações em que os pedidos são efetuados por outras entidades com as quais tenham sido celebrados os protocolos referidos no n.º 1.
 
-b) Pelos titulares daqueles documentos, quando a emissão do título de condução tenha sido solicitado diretamente ao IMT, I. P.
+b) Ser conservados pelo IMT, I. P., por via eletrónica, durante um período de dois anos, salvo nas situações em que, excecionalmente, os documentos sejam emitidos manualmente, cabendo, nesses casos, a obrigação de conservação, pelo mesmo período, aos titulares dos mesmos.
 
 4 - A não apresentação dos documentos referidos no número anterior quando solicitado pelo IMT, I. P., pode dar lugar a submissão do condutor a nova avaliação médica ou psicológica.
 
-5 - Findo o prazo fixado no n.º 3, as entidades referidas na alínea a) do mesmo número devem, no prazo de três meses, destruir os documentos e comunicá-lo ao IMT, I. P.
+5 - [Revogado]
