@@ -24,12 +24,14 @@ i) Autorizações temporárias de condução.
 
 2 - A emissão das licenças e das autorizações especiais de condução bem como as condições em que os títulos estrangeiros habilitam a conduzir em território nacional são fixadas no RHLC.
 
-3 - Os titulares das licenças referidas nas alíneas c), d) e e) do n.º 1 só estão autorizados a conduzir veículos a motor em Portugal durante os primeiros 185 dias subsequentes à fixação da sua residência.
+3 - Os titulares das licenças referidas nas alíneas c), d) e e) do n.º 1 estão autorizados a conduzir veículos a motor, em Portugal durante os primeiros 185 dias subsequentes à sua entrada no País, desde que não sejam residentes.
 
-4 - Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação.
+4 - Após fixação da residência em Portugal, o titular das licenças referidas no número anterior deve proceder à troca do título de condução, no prazo de 90 dias.
 
-5 - Quem infringir o disposto nos n.os 3 e 4, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1500.
+5 - Os títulos referidos no n.º 1 só permitem conduzir em território nacional se os seus titulares tiverem a idade mínima exigida pela lei portuguesa para a respetiva habilitação.
 
 6 - (Revogado.)
 
 7 - (Revogado.)
+
+8 - Quem infringir o disposto nos n.os 3 e 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1 500.

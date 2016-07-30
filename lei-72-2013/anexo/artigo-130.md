@@ -12,7 +12,9 @@ b) O seu titular não se submeter ou reprovar na avaliação médica ou psicoló
 
 a) A causa de caducidade prevista na alínea a) do número anterior tenha ocorrido há mais de dois anos, com exceção da revalidação dos títulos das categorias AM, A1, A2, A, B1, B e BE cujos titulares não tenham completado 50 anos;
 
-b) O título se encontre caducado há mais de um ano, nos termos da alínea b) do número anterior.
+b) A causa de caducidade seja a falta ou reprovação no exame de condução ou em qualquer das suas provas determinadas ao abrigo dos n.os 1 e 5 do artigo anterior.
+
+c) A causa de caducidade seja a falta ou reprovação na avaliação médica ou psicológica, determinada ao abrigo dos n.os 1 e 5 do artigo anterior e o título se encontre caducado há mais de um ano.
 
 3 - O título de condução é cancelado quando:
 
