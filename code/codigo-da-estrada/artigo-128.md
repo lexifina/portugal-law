@@ -22,8 +22,16 @@ b) Em que seja necessário proceder a qualquer alteração.
 
 6 - Os titulares de títulos de condução estrangeiros não enumerados no n.º 1 do artigo 125.º podem obter carta de condução por troca dos seus títulos desde que comprovem, através de certidão da entidade emissora do título, que os mesmos foram obtidos mediante aprovação em exame de condução com grau de exigência idêntico ao previsto na lei portuguesa.
 
-7 - A troca de título de condução estrangeiro pode ser condicionada à aprovação do requerente a uma prova prática componente do exame de condução quando:
+7 - A troca de título de condução estrangeiro é condicionada à aprovação do requerente a uma prova prática componente do exame de condução quando:
 
 a) Não for possível comprovar o requisito exigido no número anterior; ou
 
 b) Existam dúvidas justificadas sobre a autenticidade do título cuja troca é requerida.
+
+c) Não for requerida a troca do título estrangeiro no prazo estabelecido no n.º 4 do artigo 125.º;
+
+d) Não for requerida dois anos após o termo do prazo fixado para a troca de título de condução vitalício emitido por Estado-membro da União Europeia ou do espaço económico europeu;
+
+e) Exista registo de prova prática realizada em território nacional, em data posterior à da obtenção do título estrangeiro, com resultado de reprovado.
+
+8 - A troca de título de condução estrangeiro é condicionada à aprovação do requerente a uma prova teórica componente do exame de condução quando exista registo de prova teórica realizada em território nacional, em data posterior à da obtenção do título estrangeiro, com resultado de reprovado.
