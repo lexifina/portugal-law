@@ -15,3 +15,5 @@ b) Quatro personalidades nomeadas pelos membros do Governo que tutelam a saúde 
 4 - O mandato dos membros do Conselho é de cinco anos.
 
 5 - Cada membro do Conselho pode cumprir um ou mais mandatos.
+
+6 - Os membros do CNPMA mantêm-se em pleno exercício de funções até à tomada de posse dos novos membros.
