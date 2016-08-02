@@ -4,7 +4,7 @@
 
 1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 30 % do valor suportado a título de despesas de formação e educação por qualquer membro do agregado familiar, com o limite global de (euro) 800:
 
-a) Que conste de faturas que titulem prestações de serviços e aquisições de bens, isentos de IVA ou tributados à taxa reduzida, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 197/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
+a) Que conste de faturas que titulem prestações de serviços e aquisições de bens, isentos do IVA ou tributados à taxa reduzida, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
 i) Secção P, classe 85 - Educação;
 

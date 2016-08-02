@@ -2,7 +2,7 @@
 
 ### Dedução pela exigência de fatura
 
-1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 15 % do IVA suportado por qualquer membro do agregado familiar, com o limite global de (euro) 250 por agregado familiar, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 197/2012, de 24 de agosto, ou emitidas no Portal das Finanças, nos termos da Portaria n.º 426-B/2012, de 28 de dezembro, pelos emitentes que estejam enquadrados, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
+1 - À coleta do IRS devido pelos sujeitos passivos é dedutível um montante correspondente a 15 % do IVA suportado por qualquer membro do agregado familiar, com o limite global de (euro) 250 por agregado familiar, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, ou emitidas no Portal das Finanças, nos termos da alínea a) do n.º 1 do artigo 115.º, pelos emitentes que estejam enquadrados, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, nos seguintes setores de atividade:
 
 a) Secção G, classe 4520 - Manutenção e reparação de veículos automóveis;
 

@@ -14,7 +14,7 @@ d) Com importâncias pagas a título de rendas por contrato de locação finance
 
 2 - Para efeitos do disposto na alínea a) do número anterior, apenas são considerados os encargos:
 
-a) Que constem de faturas que titulem prestações de serviços, isentos de IVA, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 197/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, no setor de atividade da secção L, classe 68200 - Arrendamento de bens imobiliários; ou
+a) Que constem de faturas que titulem prestações de serviços, isentos do IVA, comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, enquadradas, de acordo com a Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, no setor de atividade da secção L, classe 68200 - Arrendamento de bens imobiliários; ou
 
 b) Que foram comunicados utilizando os meios descritos no n.º 5 do artigo 115.º sempre que os senhorios sejam sujeitos passivos de IRS não abrangidos pela obrigação de emissão de fatura;
 

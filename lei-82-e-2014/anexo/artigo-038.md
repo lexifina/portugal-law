@@ -1,8 +1,6 @@
 # Artigo 38.º
 
-### Entrada de património para realização
-
-do capital de sociedade
+### Entrada de património para realização do capital de sociedade
 
 1 - Não há lugar ao apuramento de qualquer resultado tributável por virtude da realização de capital social resultante da transmissão da totalidade do património afeto ao exercício de uma atividade empresarial e profissional por uma pessoa singular, desde que, cumulativamente, sejam observadas as seguintes condições:
 
@@ -18,4 +16,4 @@ e) A sociedade referida na alínea a) se comprometa, através de declaração, a
 
 2 - O disposto no número anterior não é aplicável aos casos em que façam parte do património transmitido bens em relação aos quais tenha havido diferimento de tributação dos respetivos ganhos, nos termos da alínea b) do n.º 3 do artigo 10.º
 
-3 - Os ganhos resultantes da transmissão onerosa, qualquer que seja o seu título, das partes de capital recebidas em contrapartida da transmissão referida no n.º 1 são qualificados, antes de decorridos cinco anos a contar da data desta, como rendimentos empresariais e profissionais, e considerados como rendimentos líquidos da categoria B, não podendo durante aquele período efetuar-se operações sobre as partes sociais que beneficiem de regimes de neutralidade, sob pena de, no momento da concretização destas, se considerarem realizados os ganhos.
+3 - Os ganhos resultantes da transmissão onerosa, qualquer que seja o seu título, das partes de capital recebidas em contrapartida da transmissão referida no n.º 1 são qualificados, antes de decorridos cinco anos a contar da data desta, como rendimentos empresariais e profissionais, e considerados como rendimentos líquidos da categoria B.

@@ -4,7 +4,7 @@
 
 1 - As entidades que disponham ou devam dispor de contabilidade organizada são obrigadas a reter o imposto, mediante a aplicação, aos rendimentos ilíquidos de que sejam devedoras e sem prejuízo do disposto nos números seguintes, das seguintes taxas:
 
-a) 16,5 %, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º, de rendimentos da categoria E ou de incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artigo 9.º;
+a) 16,5 %, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º ou de incrementos patrimoniais previstos nas alíneas b) e c) do n.º 1 do artigo 9.º;
 
 b) 25 %, tratando-se de rendimentos decorrentes das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;
 

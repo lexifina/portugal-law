@@ -2,11 +2,9 @@
 
 ### Comunicação de encargos
 
-1 - As instituições de crédito, as cooperativas de habitação, as empresas de locação financeira, as empresas de seguros e as empresas gestoras dos fundos e de outros regimes complementares referidos nos artigos 16.º, 17.º
+1 - As instituições de crédito, as cooperativas de habitação, as empresas de locação financeira, as empresas de seguros e as empresas gestoras dos fundos e de outros regimes complementares referidos nos artigos 16.º, 17.º e 21.º do Estatuto dos Benefícios Fiscais, incluindo as associações mutualistas e as instituições sem fins lucrativos que tenham por objeto a prestação de cuidados de saúde, e as demais entidades que possam comparticipar em despesas de saúde, comunicam à Autoridade Tributária e Aduaneira, até ao final do mês de janeiro de cada ano, em declaração de modelo oficial, relativamente ao ano anterior e a cada sujeito passivo:
 
-e 21.º do Estatuto dos Benefícios Fiscais, incluindo as associações mutualistas e as instituições sem fins lucrativos que tenham por objeto a prestação de cuidados de saúde, e as demais entidades que possam comparticipar em despesas de saúde, comunicam à Autoridade Tributária e Aduaneira, até ao final do mês de fevereiro de cada ano, em declaração de modelo oficial, relativamente ao ano anterior e a cada sujeito passivo:
-
-a) Os juros e amortizações suportados respeitantes a dívidas contraídas com a aquisição, construção ou beneficiação de imóveis para habitação própria e permanente ou arrendamento, com exceção das amortizações efetuadas por mobilização dos saldos das contas poupança-habitação, que possam ser deduzidos à coleta;
+a) Os juros suportados respeitantes a dívidas contraídas com a aquisição, construção ou beneficiação de imóveis para habitação própria e permanente ou arrendamento;
 
 b) Os prémios pagos respeitantes a contratos de seguro que cubram exclusivamente riscos de saúde, que possam ser deduzidos à coleta nos termos deste Código e, bem assim, as contribuições efetuadas às associações mutualistas, às instituições sem fins lucrativos que tenham por objeto a prestação de cuidados de saúde;
 

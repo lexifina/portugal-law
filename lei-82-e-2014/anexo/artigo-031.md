@@ -18,7 +18,7 @@ f) 0,10 aos subsídios destinados à exploração e restantes rendimentos da cat
 
 g) 1 aos rendimentos decorrentes de prestações de serviços efetuadas pelo sócio a uma sociedade abrangida pelo regime da transparência fiscal, nos termos da alínea b) do n.º 1 do artigo 6.º do Código do IRC.
 
-2 - Os sujeitos passivos que obtenham os rendimentos previstos nas alíneas b) e c) do número anterior, após aplicação dos coeficientes aí previstos, podem deduzir, até à concorrência do rendimento líquido desta categoria, os montantes comprovadamente suportados com contribuições obrigatórias para regimes de proteção social, conexas com as atividades em causa, na parte em que excedam 10 % dos rendimentos brutos, quando não tenham sido deduzidas a outro título.
+2 - Os sujeitos passivos que obtenham os rendimentos previstos nas alíneas b) e c) do número anterior, após aplicação dos coeficientes aí previstos, podem deduzir, até à concorrência do rendimento líquido assim obtido, os montantes comprovadamente suportados com contribuições obrigatórias para regimes de proteção social, conexas com as atividades em causa, na parte em que excedam 10 % dos rendimentos brutos, quando não tenham sido deduzidas a outro título.
 
 3 - O rendimento coletável é objeto de englobamento e tributado nos termos gerais.
 
@@ -30,7 +30,7 @@ g) 1 aos rendimentos decorrentes de prestações de serviços efetuadas pelo só
 
 7 - (Revogado.)
 
-8 - Cessando a aplicação do regime simplificado no decurso do período referido no número anterior, as frações dos subsídios ainda não tributadas serão imputadas, para efeitos de tributação, ao último exercício de aplicação daquele regime.
+8 - Cessando a aplicação do regime simplificado no decurso do período referido no n.º 5, as frações de subsídios ainda não tributadas serão imputadas, para efeitos de tributação, ao último exercício de aplicação daquele regime.
 
 9 - Para efeitos do cálculo das mais-valias referidas na alínea c) do n.º 2 do artigo 3.º, são utilizadas as quotas mínimas de amortização, calculadas sobre o valor definitivo, se superior, considerado para efeitos de liquidação de imposto municipal sobre as transmissões onerosas de imóveis.
 

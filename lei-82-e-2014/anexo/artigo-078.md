@@ -34,7 +34,7 @@ k) Aos benefícios fiscais.
 
 5 - As deduções previstas no n.º 1 aplicam-se apenas aos sujeitos passivos residentes em território português.
 
-6 - As deduções referidas nas alíneas a) a h) bem como na alínea j) do n.º 1 só podem ser realizadas:
+6 - As deduções referidas nas alíneas a) a i) e na alínea k) do n.º 1 só podem ser realizadas:
 
 a) Mediante a identificação fiscal dos dependentes, ascendentes, colaterais ou beneficiários a que se reportem, feita na declaração a que se refere o n.º 1 do artigo 57.º;
 
