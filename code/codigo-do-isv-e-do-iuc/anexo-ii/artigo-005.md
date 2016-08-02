@@ -16,7 +16,7 @@ e) Automóveis ligeiros de passageiros que se destinem ao serviço de aluguer co
 
 f) Veículos apreendidos no âmbito de um processo-crime, enquanto durar a apreensão;
 
-g) Veículos considerados abandonados nos termos do Código da Estrada a partir do momento em que sejam adquiridos por ocupação pelo Estado ou pelas autarquias locais;
+g) Veículos considerados abandonados, nos termos do Código da Estrada, a partir do momento em que sejam adquiridos por ocupação pelo Estado ou pelas autarquias locais, bem como navios considerados abandonados que integrem o património do Estado nos termos do Decreto-Lei n.º 202/98, de 10 de julho, alterado pelo Decreto-Lei n.º 64/2005, de 15 de março;
 
 h) Veículos declarados perdidos a favor do Estado;
 
@@ -24,7 +24,7 @@ i) Veículos utilizados pelas equipas de sapadores florestais que integrem o Sis
 
 2 - Estão ainda isentos de imposto, os seguintes sujeitos passivos:
 
-a) Pessoas com deficiência cujo grau de incapacidade seja igual ou superior a 60 % em relação a veículos das categorias A, B e E e nas condições previstas nos n.os 5 e 6;
+a) Pessoas com deficiência cujo grau de incapacidade seja igual ou superior a 60 %, em relação a veículos da categoria B que possuam um nível de emissão de CO(índice 2) até 180 g/km ou a veículos das categorias A e E, e nas condições previstas nos n.os 5 e 6;
 
 b) Instituições particulares de solidariedade social, nas condições previstas no n.º 7.
 
@@ -32,7 +32,7 @@ b) Instituições particulares de solidariedade social, nas condições prevista
 
 4 - A isenção a que se refere a alínea c) do n.º 1 deve ser objecto de comprovação em qualquer serviço de finanças, relativamente a cada ano a que respeite, mediante pedido apresentado no prazo para pagamento do imposto e acompanhado do título de propriedade e documento de identificação ou certificado de registo ou matrícula do veículo.
 
-5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano e é reconhecida nos seguintes termos:
+5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, e não pode ultrapassar o montante de (euro) 200, sendo reconhecida nos seguintes termos:
 
 a) Em qualquer serviço de finanças, produzindo efeitos a partir do ano do pedido, ou da data do nascimento da obrigação tributária se anterior e o pedido for efetuado até ao termo do prazo de pagamento previsto no artigo 17.º, desde que verificados os respetivos pressupostos;
 
