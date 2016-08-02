@@ -14,7 +14,7 @@ a) Estabelecimentos localizados em imóveis a que seja aplicável um coeficiente
 
 b) Estabelecimentos localizados em imóveis a que seja aplicável um coeficiente entre 1,2 e 1,8 - 7;
 
-c) Estabelecimentos localizados em imóveis a que seja aplicável um coeficiente entre 1,8 e 3 - 10;
+c) Estabelecimentos localizados em imóveis a que seja aplicável um coeficiente entre 1,8 e 3,5 - 10;
 
 d) Estabelecimentos não localizados em imóveis urbanos - 5.
 

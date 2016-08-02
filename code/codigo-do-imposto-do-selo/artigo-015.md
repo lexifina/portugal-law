@@ -8,21 +8,9 @@
 
 3 - O valor das acções, títulos e certificados da dívida pública e outros papéis de crédito é o da cotação na data da transmissão e, não a havendo nesta data, o da última mais próxima dentro dos seis meses anteriores, observando-se o seguinte na falta de cotação oficial:
 
-a) O valor das acções é o correspondente ao seu valor nominal, quando o total do valor assim determinado, relativamente a cada sociedade participada, correspondente às acções transmitidas, não ultrapassar (euro) 500 e o que resultar da aplicação da seguinte fórmula nos restantes casos:
+a) O valor das ações é o correspondente ao seu valor nominal, quando o total do valor assim determinado, relativamente a cada sociedade participada, correspondente às ações transmitidas, não ultrapassar (euro) 500 e o que resultar da aplicação da seguinte fórmula nos restantes casos:
 
-Va = 1/2n[S + ((R1 + R2)/2)f]
-
-em que:
-
-Va representa o valor de cada acção à data da transmissão;
-
-n é o número de acções representativas do capital da sociedade participada;
-
-S é o valor substancial da sociedade participada, o qual é calculado a partir do valor contabilístico correspondente ao último exercício anterior à transmissão com as correcções que se revelem justificadas, considerando-se, sempre que for caso disso, a provisão para impostos sobre lucros;
-
-R1 e R2 são os resultados líquidos obtidos pela sociedade participada nos dois últimos exercícios anteriores à transmissão, considerando-se R1 + R2 = 0 nos casos em que o somatório desses resultados for negativo;
-
-f é o factor da capitalização dos resultados líquidos calculado com base na taxa de juro aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento, tal como publicada no Jornal Oficial da União Europeia e em vigor na data em que ocorra a transmissão;
+(ver documento original)
 
 b) No caso de sociedades constituídas há menos de dois anos, quando tiver de recorrer-se ao uso da fórmula, o valor das respectivas acções é o que lhes corresponder no valor substancial, ou seja:
 
