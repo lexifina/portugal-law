@@ -10,7 +10,7 @@
 
 2 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º devem pagar nos locais de cobrança legalmente autorizados o imposto que se mostre devido pelas aquisições intracomunitárias de bens que não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo até ao final do mês seguinte àquele em que o imposto se torne exigível.
 
-3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado, de acordo com o Código do Imposto sobre Veículos, devem pagar o imposto devido pelas aquisições intracomunitárias de meios de transporte novos sujeitos a imposto sobre os veículos junto das entidades competentes para a cobrança deste imposto.
+3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado ou de operador reconhecido, de acordo com o Código do Imposto sobre Veículos, devem pagar o imposto devido pelas aquisições intracomunitárias de meios de transporte novos sujeitos a imposto sobre os veículos junto das entidades competentes para a cobrança deste imposto.
 
 4 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º e aos particulares que efectuem aquisições intracomunitárias de meios de transporte novos, não sujeitos a imposto sobre veículos.
 
