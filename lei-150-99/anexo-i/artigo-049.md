@@ -6,4 +6,4 @@
 
 2 - Aplica-se às liquidações do imposto previsto nas verbas 1.1 e 1.2 da tabela geral, com as necessárias adaptações, o disposto nos artigos 41.º a 47.º do CIMT.
 
-3 - Aplica-se às liquidações do imposto previsto na verba n.º 28 da Tabela Geral, com as necessárias adaptações, o disposto no artigo 115.º do CIMI.
+3 - Aplica-se às liquidações do imposto previsto na verba n.º 28 da Tabela Geral, com as necessárias adaptações, o disposto no artigo 115.º e no n.º 2 do artigo 129.º do CIMI.

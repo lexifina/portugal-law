@@ -17,3 +17,5 @@
 5 - No prazo para a apresentação da participação a que se refere o artigo 26.º, podem os interessados requerer a avaliação de imóveis nos termos e para os efeitos previstos no artigo 30.º do CIMT.
 
 6 - Quando a propriedade for transmitida separadamente do usufruto, o imposto devido pelo adquirente, em consequência da consolidação da propriedade com o usufruto, incide sobre a diferença entre o valor patrimonial tributário do prédio constante da matriz e o valor da sua propriedade considerado na respectiva liquidação.
+
+7 - Nas aquisições por usucapião, em que o prédio usucapido seja habitacional, comercial, industrial ou para serviços, e a totalidade das construções erigidas durante a posse tenham sido comprovadamente realizadas a expensas do usucapiente, considera-se que o valor tributável é correspondente a 20 % do valor patrimonial tributário constante da matriz à data do nascimento da obrigação tributária.
