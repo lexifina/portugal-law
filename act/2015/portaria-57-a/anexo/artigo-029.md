@@ -6,7 +6,7 @@
 
 a) Apresentar uma situação económico-financeira equilibrada conforme estabelecido no anexo C;
 
-b) Ter concluído os projetos anteriormente aprovados ao abrigo da presente secção para o mesmo estabelecimento da empresa, exceto nos casos de projetos do regime contratual de investimento;
+b) Ter concluído os projetos aprovados ao abrigo da presente secção para o mesmo estabelecimento da empresa, exceto no caso de projetos do regime contratual de investimento ou quando o cumprimento desta condição esteja excecionado no aviso para apresentação de candidaturas;
 
 c) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço Económico Europeu nos dois anos que antecedem a data de candidatura ou que, à data de candidatura, tenha planos concretos para encerrar essa atividade no prazo máximo de dois anos após a conclusão do projeto a apoiar, conforme previsto na alínea d) do artigo 13.º do Regulamento (UE) n.º 651/2014, de 16 de junho.
 

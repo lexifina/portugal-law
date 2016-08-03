@@ -24,8 +24,8 @@ iii) Com investimento total igual ou inferior a 4 M (euro).
 
 II - Incentivos à qualificação e internacionalização das PME
 
-2 - À exceção do vale inovação e internacionalização, estão excluídos do âmbito de aplicação do Qualificação e internacionalização das PME os auxílios concedidos:
+2 — À exceção do vale inovação e internacionalização, estão excluídos do âmbito de aplicação do Qualificaçãoe internacionalização das PME os auxílios concedidos:
 
-a) No setor da pesca e da aquicultura, nos termos do Regulamento (UE) n.º 1379/2013, de 11 de dezembro, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009 do Conselho e revoga o Regulamento (CE) n.º 104/2000 do Conselho;
+a) No setor da pesca e da aquicultura, nos termos do Regulamento (UE) n.º 1379/2013, de 11 de dezembro, que estabelece a organização comum dos mercados dos produtos da pesca e da aquicultura, altera os Regulamentos (CE) n.º 1184/2006 e (CE) n.º 1224/2009 do Conselho e revoga o Regulamento (CE) n.º 104/2000 do Conselho, exceto quando abrangidos pelo Regulamento (UE) n.º 717/2014, de 27 de junho, relativo aos auxílios de minimis no setor das pescas e da aquicultura;
 
-b) No setor da produção agrícola primária, os auxílios para participação em feiras e os auxílios à inovação em matéria de processos e organização (artigos 19.º e 29.º do Regulamento (UE) n.º 651/2014, de 16 de junho).
+b) No setor da produção agrícola primária, os auxílios para participação em feiras e os auxílios à inovação em matéria de processos e organização [artigos 19.º e 29.º do Regulamento (UE) n.º 651/2014, de 16 de junho], exceto quando abrangidos pelo Regulamento (UE) n.º 1408/2013, de 18 de dezembro, relativo aos auxílios de minimis no setor agrícola;

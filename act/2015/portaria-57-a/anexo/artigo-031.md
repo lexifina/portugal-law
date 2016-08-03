@@ -20,6 +20,8 @@ e) Majoração «empreendedorismo jovem ou feminino»: 10 p.p. a atribuir a proj
 
 f) Majoração «sustentabilidade»: 10 p.p. a atribuir a projetos que demonstrem atuações ou impactos em matéria de uso eficiente de recursos, eficiência energética, mobilidade sustentável e redução de emissões de gases com efeitos de estufa, a apreciar pela autoridade de gestão financiadora.
 
+g) Majoração «execução do investimento»: até 10 p.p. a atribuir a projetos que cumpram ou antecipem o plano de execução dos investimentos aprovado em candidatura nas condições a definir por deliberação da CIC Portugal 2020.
+
 2- Para efeitos de atribuição da majoração referida na anterior alínea b) do número anterior, os territórios de baixa densidade são definidos em aviso para apresentação de abertura de candidatura.
 
 3- O incentivo atribuído por projeto não pode exceder as taxas máximas, expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 38571), sendo que o ajustamento, quando necessário, é efetuado na taxa máxima de isenção de reembolso do incentivo, prevista no n.º 3 do artigo anterior.

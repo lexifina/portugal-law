@@ -14,7 +14,7 @@ d) Demonstrar o efeito de incentivo, conforme previsto no artigo seguinte do pre
 
 e) Ter uma duração máxima de execução de 24 meses, exceto em casos devidamente justificados;
 
-f) Demonstrar, quando integrar ações de formação profissional, que o projeto formativo se revela coerente e consonante com os objetivos do projeto, cumpre os normativos estabelecidos no âmbito dos incentivos à formação profissional, e não inclui ações de formação obrigatórias para cumprir as normas nacionais em matéria de formação;
+f) Demonstrar, quando integrar ações de formação profissional, que o projeto formativo se revela coerente e consonante com os objetivos do projeto, que cumpre os normativos estabelecidos no âmbito dos incentivos à formação profissional e que não inclui ações de formação obrigatórias para cumprir as normas nacionais em matéria de formação, não sendo esta última condição aplicável quando o incentivo é atribuído ao abrigo da regra de minimis;
 
 g) Iniciar a execução do projeto no prazo máximo de seis meses, após a comunicação da decisão de financiamento;
 
