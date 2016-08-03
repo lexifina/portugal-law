@@ -8,4 +8,4 @@ a) As alíneas a), b) e c) não podem exceder individualmente 60 % do montante d
 
 b) As alíneas d) e e) não podem exceder individualmente 20 % do montante disponível.
 
-2 - Cabe ao conselho directivo do IGFIJ deliberar anualmente a afectação financeira, no quadro do plano anual de actividades do Fundo.
+2 - [Revogado.]

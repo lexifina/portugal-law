@@ -6,14 +6,14 @@
 
 2 - No exercício das competências de administração e gestão, cabe ao conselho directivo do IGFIJ:
 
-a) Aprovar até ao dia 31 de Dezembro do ano civil anterior o plano anual de actividades, no qual devem constar as medidas a financiar enquadradas nas finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro;
+a) Aprovar, até ao dia 31 de dezembro do ano civil anterior a que respeita, o plano anual de atividades do Fundo;
 
-b) Aprovar o relatório de execução anual até ao dia 1 de Março do ano seguinte, no qual conste a execução material e financeira dos apoios concedidos;
+b) Aprovar, até ao dia 15 de abril do ano seguinte ao que respeita, o relatório de execução anual no qual conste a descrição da execução material e financeira dos apoios concedidos;
 
-c) Apresentar ao Ministro da Justiça, até ao dia 31 de Outubro do ano civil anterior, as propostas de orientação estratégicas de aplicação do Fundo;
+c) Apresentar ao membro do Governo responsável pela área da justiça, até ao dia 31 de outubro do ano civil anterior a que respeitem, as propostas de orientação estratégicas de aplicação do Fundo, nas quais devem constar as medidas a financiar, enquadradas nas finalidades previstas no artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de janeiro, bem como a respetiva afetação financeira;
 
 d) Aprovar relatórios trimestrais de gestão do Fundo.
 
 3 - O conselho directivo do IGFIJ pode delegar competências de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto desde que essa delegação não implique aumento de despesa.
 
-4 - A contabilidade e execução orçamental do Fundo são registadas em rubricas económicas pertencentes a uma actividade própria no orçamento do IGFIJ.
+4 - [Revogado.]

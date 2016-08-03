@@ -6,26 +6,22 @@ São potenciais beneficiários do Fundo os serviços, organismos, órgãos consu
 
 a) Direcção-Geral de Política da Justiça;
 
-b) Instituto de Tecnologias e Informática da Justiça, I. P.;
+b) Secretaria-Geral do Ministério da Justiça;
 
-c) Secretaria-Geral do Ministério da Justiça;
+c) Inspecção-Geral dos Serviços da Justiça;
 
-d) Inspecção-Geral dos Serviços da Justiça;
+d) Direcção-Geral da Administração da Justiça;
 
-e) Direcção-Geral da Administração da Justiça;
+e) Centro de Estudos Judiciários;
 
-f) Centro de Estudos Judiciários;
+f) Instituto de Registos e do Notariado, I. P.;
 
-g) Instituto de Registos e do Notariado, I. P.;
+g) Polícia Judiciária;
 
-h) Polícia Judiciária;
+h) Direção-Geral de Reinserção e Serviços Prisionais;
 
-i) Direcção-Geral dos Serviços Prisionais;
+i) Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;
 
-j) Direcção-Geral de Reinserção Social;
+j) Instituto Nacional de Medicina Legal e Ciências Forenses;
 
-k) Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;
-
-l) Instituto Nacional de Medicina Legal, I. P.;
-
-m) Instituto Nacional da Propriedade Industrial, I. P.
+k) Instituto Nacional da Propriedade Industrial, I. P.

@@ -16,18 +16,32 @@ d) As regras e os critérios de decisão, bem como a ponderação de cada crité
 
 e) A calendarização do processo de decisão.
 
+f) A percentagem de financiamento a conceder, que pode ser até 100 % da despesa elegível.
+
 3 - As candidaturas são apresentadas através de um formulário disponibilizado no sítio electrónico do IGFIJ.
 
 4 - Do formulário constam, entre outros elementos:
 
 a) Identificação do serviço/organismo proponente ou serviços/organismos proponentes em caso de candidatura conjunta;
 
-b) Descrição do projecto;
+b) Descrição do projeto e seus objetivos;
 
 c) Enquadramento do projecto nas finalidades do Fundo;
 
 d) Programação financeira, física e temporal, por classificação económica;
 
-e) Descrição dos benefícios decorrentes da realização do projecto, incluindo indicadores e metas quantificadas relativas a redução da despesa e ou aumento da receita;
+e) Descrição dos benefícios decorrentes da realização do projeto, incluindo os indicadores e metas quantificadas que, na perspetiva do beneficiário, sintetizam os resultados que se pretendem atingir com a realização do projeto;
 
-f) Contribuição do projecto para os objectivos definidos no QUAR do serviço proponente.
+f) Contribuição do projeto para o cumprimento dos objetivos do programa de modernização da Justiça e dos objetivos definidos no Quadro de Avaliação e Responsabilização (QUAR) do serviço proponente;
+
+g) Declaração de compromisso de honra do dirigente do organismo beneficiário, de execução do financiamento conforme respetiva candidatura.
+
+5 - A publicitação do aviso de abertura prevista no n.º 1 e a disponibilização do formulário para as candidaturas prevista no n.º 3 podem ser divulgadas ainda noutro sítio eletrónico que se considere adequado para o efeito.
+
+6 - O Fundo pode assegurar a contrapartida nacional em projetos cofinanciados por outros fundos de financiamento.
+
+7 - Não se aplica o disposto no n.º 4, nos seguintes casos:
+
+a) Projetos cofinanciados por outros fundos de financiamento sendo obrigatória a apresentação de cópia da candidatura submetida àquele fundo, em formato eletrónico;
+
+b) Provas de conceito e/ou projetos-piloto inseridos nos objetivos de modernização da Justiça, desde que aprovados pelo membro do Governo responsável pela área da justiça.
