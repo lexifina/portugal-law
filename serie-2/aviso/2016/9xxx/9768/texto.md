@@ -1,0 +1,7 @@
+Aviso n.º 9768/2016
+Hermínio José da Cruz Rodrigues, Presidente da Câmara Municipal de Alcobaça, faz saber que, tendo a proposta do Plano de Pormenor da Área de Localização Empresarial da Benedita sido submetida a conferência de serviços e posterior período de concertação, com as entidades representativas dos interesses a ponderar, e tendo a proposta sido adequada aos pareceres destas mesmas entidades, considerou-se estar reunidas as condições para abertura do período de discussão pública, de acordo com o artigo 89.º do DL n.º 80/2015 de 14 de maio.
+Assim ficou deliberado em reunião extraordinária realizada no dia 30 de maio de 2016 proceder à abertura do período de discussão pública para a proposta do Plano de Pormenor da Área de Localização Empresarial da Benedita, por um período de 20 dias, a contar do 5.º dia útil seguinte à publicação no Diário da República.
+Durante o período de discussão pública, a proposta de plano estará disponível para consulta de todos os interessados, no edifício dos serviços técnicos da Câmara Municipal de Alcobaça, sito na Rua da Liberdade em Alcobaça.
+Quaisquer reclamações, observações ou sugestões deverão ser dirigidas ao Senhor Presidente da Câmara Municipal de Alcobaça, através dos Correios, entregues diretamente na Secção de Expediente Geral ou nos Serviços Técnicos da Câmara Municipal de Alcobaça, ou para o seguinte endereço de correio eletrónico: planopormenor@cm-alcobaca.pt.
+26 de julho de 2016. - O Vice-Presidente da Câmara, Hermínio José da Cruz Rodrigues.
+609768556
