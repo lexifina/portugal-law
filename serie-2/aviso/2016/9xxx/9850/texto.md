@@ -1,0 +1,8 @@
+Aviso n.º 9850/2016
+Projeto de alteração ao "Regulamento Municipal de Urbanização e Edificação do Concelho do Entroncamento e Tabela de Taxas"
+Jorge Manuel Alves de Faria, Presidente da Câmara Municipal de Entroncamento, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, que, por deliberação da Câmara Municipal tomada na sua reunião ordinária de 1 de agosto de 2016, e nos termos do artigo 101.º do Código do Procedimento Administrativo, é submetido a consulta pública, para recolha de sugestões, durante o período de 30 dias a contar da data da publicação do presente aviso no Diário da República, o projeto de alteração ao "Regulamento Municipal de Urbanização e Edificação do Concelho do Entroncamento e Tabela de Taxas" o qual faz parte integrante do presente aviso.
+Os eventuais interessados poderão dirigir, por escrito, as suas sugestões, dentro do período atrás referido, as quais deverão ser dirigidas ao Presidente da Câmara Municipal do Entroncamento, Largo José Duarte Coelho, 2330-078 Entroncamento ou para o endereço eletrónico da Câmara Municipal (obras@cm-entroncamento.pt).
+O referido projeto de alteração ao Regulamento encontra-se à disposição do público, para consulta, no Setor de Apoio Administrativo da Divisão de Gestão Urbanística e Obras, sito na Praça Marechal Carmona no Entroncamento, durante as horas normais de expediente e ainda no sítio www.cm-entroncamento.pt.
+Para conhecimento geral se torna público o presente aviso e outros de igual teor que vão ser afixados nos lugares públicos de estilo e ainda no sítio www.cm-entroncamento.pt.
+1 de agosto de 2016. - O Presidente da Câmara Municipal, Jorge Manuel Alves de Faria.
+309779256
