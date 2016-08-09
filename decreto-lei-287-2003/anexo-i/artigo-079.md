@@ -2,7 +2,7 @@
 
 ### Inscrição de prédio situado em mais de uma freguesia
 
-1 - Se um prédio se encontrar em duas freguesias do mesmo ou de diferentes concelhos e for urbano, é inscrito na matriz da freguesia em que se localize a parte onde tenha a entrada principal.
+1 - Se um prédio urbano se encontrar em duas freguesias do mesmo ou de diferentes concelhos, é inscrito na matriz da freguesia em que se localize a parte onde tenha a entrada principal, exceto quando se trate de um complexo de edifícios ou construções submetidas ao regime de propriedade horizontal ou similar, cujas frações autónomas são inscritas na matriz da freguesia em que se localizem.
 
 2 - Se o prédio for rústico e não vedado, é inscrito na freguesia onde esteja situada a maior parte.
 
