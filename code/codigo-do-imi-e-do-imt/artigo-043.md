@@ -47,3 +47,5 @@ n) Considera-se haver localização e operacionalidade relativas quando o prédi
 o) (Revogada.)
 
 3 - As directrizes para definição da qualidade de construção, localização excepcional, estado deficiente de conservação e localização e operacionalidade relativas são estabelecidas pela CNAPU com base em critérios dotados de objectividade e, sempre que possível, com base em fundamentos técnico-científicos adequados.
+
+4 - Sem prejuízo do disposto no n.º 1, caso o produto do valor base do prédio edificado, determinado nos termos do artigo 39.º, pela área bruta de construção mais a área excedente à área de implantação, definida no n.º 1 do artigo 38.º, seja inferior a (euro) 250 000, o limite do coeficiente de localização e operacionalidade relativas da Tabela I é 0,05.'

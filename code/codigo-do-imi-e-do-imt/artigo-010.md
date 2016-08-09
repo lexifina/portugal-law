@@ -6,7 +6,7 @@
 
 a) Em que for concedida licença camarária, quando exigível;
 
-b) Em que for apresentada a declaração para inscrição na matriz com indicação da data de conclusão das obras;
+b) Que a declaração de inscrição na matriz indique como data de conclusão das obras;
 
 c) Em que se verificar uma qualquer utilização, desde que a título não precário;
 
