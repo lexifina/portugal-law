@@ -1,0 +1,5 @@
+Edital n.º 710/2016
+Regulamento de Apoio a Instituições sem Fins Lucrativos do Concelho de Monforte
+Gonçalo Nuno Lagem, Presidente da Câmara Municipal de Monforte, no uso das competências conferida pelas alíneas b) e t) n.º 1, artigo 35.º, conjugado com o artigo 56.º, do anexo I, ambas da Lei n.º 75/2013, de 12 de setembro, torna público que, decorrido o período de inquérito público, por proposta da Câmara Municipal tomada em reunião de 17 de junho/2016, a Assembleia de Monforte, ao abrigo do previsto na alínea g), n.º 1, artigo 25.º do referido Regime Jurídico das Autarquias Locais, em sessão ordinária de 30 de junho/2016, aprovou, por unanimidade, sem qualquer alteração à versão inicial, o Regulamento de Apoio a Instituições Sem Fins Lucrativos do Concelho de Monforte, que entrará em vigor no dia seguinte à sua publicação no Diário da República. Para constar e surtir os devidos efeitos publica-se o presente Edital e outros de igual teor que vão ser afixados nos lugares públicos do costume, nas Juntas de Freguesia do Concelho e no site do Município, www.cm-monforte.pt.
+28 de julho de 2016. - O Presidente da Câmara, Gonçalo Nuno Lagem.
+309770353
