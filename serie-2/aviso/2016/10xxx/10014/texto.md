@@ -1,0 +1,6 @@
+Aviso n.º 10014/2016
+Projeto de Alteração do Regulamento do Programa de Incentivo à Recuperação do Património Edificado Concelhio (PIRPEC)
+Rui Manuel Leal Marqueiro, Presidente da Câmara Municipal de Mealhada, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 18 de julho de 2016, submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente aviso o Projeto de Alteração do Regulamento do Programa de Incentivo à Recuperação do Património Edificado Concelhio (PIRPEC), que se encontra disponível para consulta na Divisão de Gestão Urbanística desta Câmara Municipal, sita na Urbanização do Choupal, lote 12 C, R/chão, onde poderá ser consultado todos os dias úteis das 9:00h às 12:30h e das 13:30h às 16:00h, bem como na página institucional do Município de Mealhada na Internet.
+Os interessados podem dirigir as suas sugestões à Câmara Municipal de Mealhada via postal, ou para o endereço eletrónico dgu@cm-mealhada.pt ou junto dos serviços da Divisão de Gestão Urbanística, dentro do prazo referido.
+19 de julho de 2016. - O Presidente de Câmara, Rui Manuel Leal Marqueiro.
+309758682
