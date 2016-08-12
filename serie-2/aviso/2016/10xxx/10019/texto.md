@@ -1,0 +1,7 @@
+Aviso n.º 10019/2016
+Regulamento Municipal de Urbanização e Edificação do Município de Penela
+Luís Filipe da Silva Lourenço Matias, Presidente da Câmara Municipal de Penela, torna público, que a Câmara Municipal, em sua reunião ordinária de 18 de julho de 2016, deliberou aprovar por unanimidade a proposta de Regulamento Municipal de Urbanização e Edificação do Município de Penela (RMUE) e a sua submissão a discussão pública pelo prazo de 30 dias úteis a contar do dia seguinte à data da sua publicação na 2.ª série do Diário da República, em cumprimento do n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, alterado e republicado pelo Decreto-Lei n.º 136/2016, de 9 de setembro.
+O projeto de RMUE, encontra-se disponível para consulta no Balcão Único da Câmara Municipal de Penela, entre as 9:00 e 16:00 e na página da Internet da Câmara Municipal de Penela (http://www.cm-penela.pt).
+Todos os interessados poderão apresentar sugestões e dirigi-las ao Presidente da Câmara Municipal de Penela, podendo as mesmas ser entregues nos serviços da Câmara Municipal, remetidas por correio ou para o endereço eletrónico cmpenela@cm-penela.pt até ao fim do referido período.
+29 de julho de 2016. - O Presidente da Câmara Municipal, Luís Filipe da Silva Lourenço Matias.
+309778568
