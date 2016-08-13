@@ -2,8 +2,10 @@
 
 ### Afetação da receita
 
-A afetação da receita proveniente da liquidação das contrapartidas devidas é a seguinte:
+A afetação da receita proveniente da liquidação das contrapartidas devidas tem a seguinte distribuição:
 
-a) Fundo de Reabilitação e Conservação Patrimonial: 49%;
+a) 50 % para o Fundo de Reabilitação e Conservação Patrimonial;
 
-b) A parte remanescente é distribuída conforme despacho proferido pela Secretária de Estado do Tesouro e das Finanças.
+b) 5 % para a DGTF;
+
+c) 45 % para a Receita Geral do Estado.
