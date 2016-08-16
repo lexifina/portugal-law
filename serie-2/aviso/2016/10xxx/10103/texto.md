@@ -1,0 +1,8 @@
+Aviso n.º 10103/2016
+Período de Discussão Pública
+2.ª Alteração ao Plano de Urbanização da Sede do Município de Arcos de Valdevez
+Torna-se público que, a Câmara Municipal de Arcos de Valdevez em reunião ordinária de 8 de agosto de 2016, deliberou, por unanimidade, proceder à abertura de um período de discussão pública da proposta da 2.ª Alteração ao Plano de Urbanização da sede do concelho de Arcos de Valdevez, que decorrerá por um período de 20 dias úteis, contados a partir do 5.º dia da publicação do presente aviso no Diário da República, para efeitos do disposto no artigo 89.º, n.os 1 e 2, do Regime Jurídico dos Instrumentos de Gestão Territorial, revisto pelo Decreto-Lei n.º 80/2015, de 14 de maio.
+Durante o referido período os interessados podem consultar a proposta de plano, bem como o respetivo relatório de qualificação do plano a avaliação ambiental, o parecer final e demais documentos, na página eletrónica da autarquia e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez.
+A apresentação de sugestões, observações ou reclamações sobre quaisquer questões que possam ser consideradas úteis no âmbito do procedimento da discussão pública deve ser formalizada por escrito, através de requerimento dirigido ao presidente da Câmara Municipal, para a morada: Praça Municipal, 4974-003 Arcos de Valdevez, por correio eletrónico para geral@cmav.pt ou por preenchimento em formulário próprio disponibilizado em www.cmav.pt e no Serviço de Planeamento e Ordenamento do Território do Município de Arcos de Valdevez.
+9 de agosto de 2016. - O Presidente da Câmara, Dr. João Manuel de Amaral Esteves.
+609798753
