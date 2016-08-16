@@ -1,0 +1,5 @@
+Aviso n.º 10106/2016
+Dr. Paulo Jorge Mira Lucas Cegonho Queimado, Presidente da Câmara Municipal de Chamusca.
+Torna público que, nos termos e para os efeitos do disposto no art. 101.º do Código do Procedimento Administrativo e durante o período de 30 dias a contar do dia seguinte ao da publicação deste aviso no Diário da República, 2.ª série, é submetido a apreciação pública o Projeto de Regulamento Municipal de Uso do Fogo e Limpeza dos Terrenos, que foi presente à reunião ordinária pública desta Câmara Municipal, realizada em 05 de julho de 2016. Durante o referido período poderão os interessados consultar, no Gabinete Técnico Florestal Intermunicipal, nas horas normais de expediente e em www.cm-chamusca.pt, o mencionado Projeto de Regulamento e sobre ele formular quaisquer sugestões, reclamações ou observações, as quais deverão ser dirigidas, por escrito, ao Presidente da Câmara Municipal.
+2 de agosto de 2016. - O Presidente da Câmara, Dr. Paulo Jorge Mira Lucas Cegonho Queimado.
+309786254
