@@ -1,0 +1,19 @@
+Resolução do Conselho de Ministros n.º 41/2016
+O investimento no ensino, na formação e nas competências e aprendizagem ao longo da vida, através da requalificação e modernização das infraestruturas de formação e ensino, é uma prioridade do XXI Governo Constitucional.
+O Acordo de Parceria PORTUGAL 2020 integra esta medida entre os seus objetivos temáticos, concretizada na prioridade de investimento 10.05 que prevê o financiamento comunitário para intervenções de reabilitação e modernização de escolas da educação pré-escolar e dos ensinos básico e secundário.
+Esta prioridade de investimento, estruturada em Pactos para o Desenvolvimento e Coesão Territorial celebrados no âmbito das entidades intermunicipais, contempla intervenções promovidas pelos Municípios portugueses em escolas com oferta educativa do 2.º e 3.º ciclos do ensino básico e do ensino secundário, independentemente da titularidade destas infraestruturas.
+Com base neste pressuposto e no espírito que subjaz ao aprofundamento da descentralização de competências e progressiva partilha de responsabilidades entre a administração central e a administração local no domínio da educação, o Ministério da Educação e Municípios portugueses encetaram um processo de diálogo que culminou na concordância para a celebração de acordos de colaboração, celebrados ao abrigo do artigo 17.º do Decreto-Lei n.º 384/87, de 24 de dezembro, alterado pelos Decretos-Leis n.os 157/90, de 17 de maio, e 319/2001, de 10 de dezembro.
+Nestes acordos de colaboração são definidas as condições de transferência para os Municípios das atribuições a que se refere o artigo 39.º da Portaria n.º 60-C/2015, de 2 de março, alterada e republicada pela Portaria n.º 148/2016, de 23 de maio, que aprovou o Regulamento Específico do Domínio do Capital Humano, designadamente a elegibilidade, enquanto entidade beneficiária, para intervenções de requalificação e modernização de escolas, a executar no âmbito dos Programas Operacionais Regionais e a repartição, em partes iguais, dos encargos com a contrapartida pública nacional nestes investimentos.
+Torna-se, por isso, necessária a assunção dos compromissos plurianuais, no âmbito dos acordos de colaboração a celebrar com os Municípios portugueses nos anos de 2017, 2018 e 2019.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Direção-Geral dos Estabelecimentos Escolares (DGEstE) a realizar a despesa relativa aos encargos decorrentes da celebração de acordos de colaboração para intervenções de requalificação e modernização das instalações de escolas do 2.º e 3.º ciclos do ensino básico e do ensino secundário a executar no âmbito dos Programas Operacionais Regionais do Acordo de Parceria PORTUGAL 2020 até ao montante global de (euro) 22 400 000,00.
+2 - Determinar que os encargos financeiros resultantes dos apoios referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+a) 2017 - (euro) 8 500 000,00;
+b) 2018 - (euro) 8 500 000,00;
+c) 2019 - (euro) 5 400 000,00.
+3 - Determinar que os encargos financeiros resultantes dos apoios são satisfeitos pelas verbas adequadas a inscrever no orçamento da DGEstE.
+4 - Estabelecer que o montante fixado nas alíneas b) e c) do n.º 2, para os anos económicos de 2018 e 2019, pode ser acrescido dos saldos apurados nos anos económicos anteriores.
+5 - Delegar no Ministro da Educação, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito dos contratos-programa referidos no n.º 1.
+6 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 28 de julho de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
