@@ -2,9 +2,11 @@
 
 ### Critérios para a fixação das tarifas
 
-1. As tarifas são fixadas de forma a assegurar a proteção dos interesses dos utilizadores, a gestão eficiente do sistema de águas e de resíduos, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
+1 - As tarifas são fixadas de forma a assegurar a proteção dos interesses dos utilizadores, a gestão eficiente do sistema de águas e de resíduos, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
-2. A fixação das tarifas obedece aos seguintes objetivos:
+2 - A aplicação pela Concessionária de tarifários distintos a utilizadores da mesma natureza apenas pode ter lugar em razão da aplicação de critérios ou de condicionalismos legais ou regulamentares, incluindo a aplicação de taxas municipais pela ocupação do domínio público municipal, independentemente da sua designação, ou ainda, da manifesta diversidade das condições técnicas de exploração.
+
+3 - A fixação das tarifas obedece aos seguintes objetivos:
 
 a) Assegurar as condições financeiras necessárias para garantir a sustentabilidade presente e futura dos recursos hídricos, da recolha de águas residuais e da gestão dos resíduos e a garantia de um serviço em qualidade e quantidade;
 

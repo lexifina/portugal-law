@@ -14,7 +14,7 @@
 
 4 - O pessoal com vínculo à administração pública que atualmente exerce as suas funções profissionais em regime de mobilidade na IGSERV - Investimentos, Gestão e Serviços, S.A., na IGA - Investimentos e Gestão da Água, S.A., na Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S.A. e na IGH - Investimentos e Gestão Hidroagrícola, S.A. transita automaticamente para a ARM, S.A., mantendo o regime de mobilidade existente à data.
 
-5 - O acordo de empresa aplicável a alguns trabalhadores da Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S.A., apenas é aplicável até ao termo do respetivo prazo de vigência ou durante um período de 12 meses a contar da incorporação da Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S.A. na ARM, S.A., consoante a situação que ocorrer primeiro.
+5 - O acordo de empresa aplicável a alguns trabalhadores da Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A., apenas é aplicável até ao termo do respetivo prazo de vigência ou durante um período de 24 meses a contar da incorporação da Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A. na ARM, S. A., consoante a situação que ocorrer primeiro.
 
 6 - Finda a concessão, os trabalhadores de origem pública cedidos na ARM, S.A. regressam ao seu serviço de origem.
 
