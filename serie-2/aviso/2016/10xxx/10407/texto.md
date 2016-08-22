@@ -1,0 +1,9 @@
+Aviso n.º 10407/2016
+2.ª Alteração do Plano de Pormenor da Quinta de Geão
+Dr. Joaquim Barbosa Ferreira Couto, Presidente da Câmara Municipal de Santo Tirso torna público, para efeitos do disposto na alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Santo Tirso em reunião de 23 de junho de 2016, item 10, deliberou iniciar a 2.ª Alteração do Plano de Pormenor da Quinta de Geão, determinando a abertura do período de Participação pública inicial e fixando para o efeito o prazo de 15 dias úteis, após publicação no Diário da República.
+A formulação de sugestões e a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da referida alteração podem ser realizadas na página da Internet da Câmara Municipal, em www.cm-stirso.pt, enviadas por correio para o endereço "Câmara Municipal de Santo Tirso, Praça 25 de Abril, 4780-373 Santo Tirso", ou através de correio eletrónico para o endereço dpua@cm-stirso.pt., ou diretamente Departamento de Planeamento, Urbanismo e Ambiente desta Câmara Municipal.
+2 de julho de 2016. - O Presidente da Câmara Municipal, Dr. Joaquim Barbosa Ferreira Couto.
+2.ª Alteração do Plano de Pormenor da Quinta de Geão
+Para efeitos do disposto na alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, declara-se que a Câmara Municipal de Santo Tirso, em sessão ordinária realizada no dia 23 de junho de 2016, deliberou dar início ao procedimento de 2.ª Alteração do Plano de Pormenor da Quinta de Geão, determinando a abertura do período de Participação pública inicial e fixando para o efeito o prazo de 15 dias úteis, após publicação no Diário da República.
+2 de julho de 2016. - O Presidente da Câmara Municipal, Dr. Joaquim Barbosa Ferreira Couto.
+609800136
