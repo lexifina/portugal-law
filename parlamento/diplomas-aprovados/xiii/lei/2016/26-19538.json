@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=KN8asRY3F%2boLwzlW%2bWxN0cdlpy6IvLCOFPR5X84uKPHMAY3P2RQEfr1P5sqbl%2brhRP2KxbI7X5ozrkHdifucwVJhHVVkEAo%2f2CdtgMVDfGQwaQLkn9%2fJ8TY7ADGKoCdFZiBnJaOAKqAJlstTjUigXy4nWnmuR2jbJcjcXtAMgXWuR6pxNa3eJ2kUfPaUcVpHGETkA2yoS0k%2b4jTliOkBpJdEpOyflajEM4QzO%2biQWFciqqvZjeA1%2buytfKyhCkdjtaPiV9B6tcNyXa8n6lGo3PDFkOgWevu5Qyn3ww7Kytpek4Hq1uBE%2bNFIOYb15GX7oW96d%2ffBTLDONnA2gh9JNqhLzrYJ9KllVK8ZN43bEBcuRRr5YfaHysppv%2flq1wawjUw2Sfn0Lo2BlYxNXoigDA%3d%3d&fich=DiplomasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6ca685f682ed6e372d8e4c9a26faabbdb3cbba2a01111d82ab17c788115cc3bb",
+  "legislatura": "XIII",
+  "id": "19538",
+  "tipo": "Lei",
+  "numero": "26",
+  "data_registo": "2016-08-22",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2016",
+    "Id": "19538",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "40194",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466d4d5755325a444d7a4c57566d5a5463744e4759774e6930345a546b344c544d355a57526b4f4441795a6a59314e69356b62324d3d&fich=1f1e6d33-efe7-4f06-8e98-39edd802f656.doc&Inline=true",
+        "IniNr": "18",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764e6a6377597a59324e7a63744e5451334d4330304d5463784c546c694e5451745a5446684f57497a4e6d566d4d6a4e6a4c6e426b5a673d3d&fich=670c6677-5470-4171-9b54-e1a9b36ef23c.pdf&Inline=true",
+    "Numero": "26",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "766481",
+        "obs": null,
+        "pag": [
+          "2777-2788"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-08-22",
+        "pubLeg": "XIII",
+        "pubNr": "160",
+        "pubSL": "1",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/160/2016/0/pt/html"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Lei",
+    "Titulo": "Aprova o regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos, transpondo a Diretiva 2003/4/CE, do Parlamento Europeu e do Conselho, de 28 de janeiro, e a Diretiva 2003/98/CE, do Parlamento Europeu e do Conselho, de 17 de novembro",
+    "Tp": "L",
+    "Versao": null
+  }
+}
