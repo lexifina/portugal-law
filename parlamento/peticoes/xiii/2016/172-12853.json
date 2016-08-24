@@ -1,0 +1,523 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12853",
+  "numero": "172",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-08-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-04-05",
+            "entidades": null,
+            "id": "104773",
+            "tipo": null,
+            "titulo": "Audição em 2017-04-05 com Peticionante"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-04-13",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "792223",
+                "obs": null,
+                "pag": [
+                  "20-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-21",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/041/2017-04-21/20?pgs=20-22&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-09-28",
+        "DataArquivo": "2017-04-19",
+        "DataBaixaComissao": "2016-09-15",
+        "DataEnvioPAR": "2017-04-20",
+        "DataReaberta": "2016-09-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-09-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a47597a4e32566c5a6a67744d6a63774e5330305a47557a4c5745334e6d49744e4463335a4446694e7a68685a5751304c6e426b5a673d3d&fich=df37eef8-2705-4de3-a76b-477d1b78aed4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-04-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a444978596a55304e474d745a57517a5a6930304d7a4e6b4c5467774e5749744d44597a5a474d784d7a686b4d4746694c6c424552673d3d&fich=d21b544c-ed3f-433d-805b-063dc138d0ab.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-09-28",
+            "gp": "BE",
+            "id": "4059",
+            "motivoCessacao": null,
+            "nome": "Heitor de Sousa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-10-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-09-16",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a596a6378597a4d304e5331694d325a6b4c54517a4e7a5174595459774d79316d4d6a426b4e474a6b4f5446685a546b756347526d&fich=cb71c345-b3fd-4374-a603-f20d4bd91ae9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40236",
+      "41728",
+      "41731"
+    ],
+    "Iniciativasoriginadas": [
+      "40236",
+      "41728",
+      "41731"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45",
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/44?pgs=44-45,50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/45?pgs=45-46,49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-10-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma alteração ao Decreto-lei n.º 10/2015, de 16 de janeiro (Regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais; Possibilidade de permissão de animais em estabelecimentos comerciais (altera o Decreto-Lei n.º 10/2015, de 16 de janeiro); Autoriza a criação de áreas de permissão a animais em estabelecimentos comerciais (segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro) (BE) e Possibilita a permanência de animais em estabelecimentos comerciais, sob condições específicas, procedendo à segunda alteração do Decreto-Lei n.º 10/2015, de 16 de janeiro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12853",
+    "PetAssunto": "Solicita uma alteração ao Decreto-lei n.º 10/2015, de 16 de Janeiro (regime de acesso e de exercício de diversas atividades de comércio, serviços e restauração e estabelece o regime contraordenacional respetivo), de forma a permitir a entrada de animais em estabelecimentos comerciais.",
+    "PetDataEntrada": "2016-08-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12853",
+    "PetLeg": "XIII",
+    "PetNr": "172",
+    "PetNrAssinaturas": "5569",
+    "PetNrAssinaturasInicial": "1",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2379",
+        "obs": null,
+        "pag": [
+          "44-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-12",
+        "pubLeg": "XIII",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/006/2017-10-12/44?pgs=44-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "770740",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-09-30",
+        "pubLeg": "XIII",
+        "pubNr": "3",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/003/2016-09-30/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
