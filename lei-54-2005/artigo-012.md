@@ -10,4 +10,4 @@ b) As margens das albufeiras públicas de serviço público, com exceção das p
 
 2 - No caso de águas públicas não navegáveis e não flutuáveis localizadas em prédios particulares, o respectivo leito e margem são particulares, nos termos do artigo 1387.º do Código Civil, sujeitos a servidões administrativas.
 
-3 - Nas Regiões Autónomas, os terrenos tradicionalmente ocupados junto à crista das arribas alcantiladas das respectivas ilhas constituem propriedade privada.
+3 - Nas regiões autónomas, os terrenos junto à crista das arribas alcantiladas e bem assim os terrenos inseridos em núcleos urbanos consolidados, tradicionalmente existentes nas margens das águas do mar nas respetivas ilhas, constituem propriedade privada, constituindo a presente lei título suficiente para o efeito.

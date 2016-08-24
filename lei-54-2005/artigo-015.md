@@ -17,3 +17,5 @@ a) Hajam sido objeto de um ato de desafetação do domínio público hídrico, n
 b) Ocupem as margens dos cursos de água previstos na alínea a) do n.º 1 do artigo 5.º, não sujeitas à jurisdição dos órgãos locais da Direção-Geral da Autoridade Marítima ou das autoridades portuárias;
 
 c) Estejam integrados em zona urbana consolidada como tal definida no Regime Jurídico da Urbanização e da Edificação, fora da zona de risco de erosão ou de invasão do mar, e se encontrem ocupados por construção anterior a 1951, documentalmente comprovado.
+
+6 - Sem prejuízo do disposto nos números anteriores, compete às Regiões Autónomas dos Açores e da Madeira regulamentar, por diploma das respetivas Assembleias Legislativas o processo de reconhecimento de propriedade privada sobre parcelas de leitos e margens públicos, nos respetivos territórios.
