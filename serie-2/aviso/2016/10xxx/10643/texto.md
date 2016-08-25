@@ -1,0 +1,6 @@
+Aviso n.º 10643/2016
+Discussão Pública da Proposta de Plano de Urbanização
+Luís Manuel do Nascimento, Vice-Presidente da Câmara Municipal de Vila Viçosa; Torna público que, no cumprimento do disposto no n.º 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal deliberou na sua reunião ordinária de 11 de agosto de 2016, proceder à abertura de um período de discussão pública da Proposta de Plano de Urbanização de Vila Viçosa, período esse que se fixa em 20 dias contados a partir do 5.º dia após a data da publicação do respetivo aviso no Diário da República. Os interessados poderão consultar a referida Proposta de Plano de Urbanização, no BU - Balcão Único da CMVV, sito na Praça da República em Vila Viçosa, durante o horário normal de expediente (das 9H00 às 12H30 e das 14H00 às 17H30). As sugestões ou observações, informações ou esclarecimentos deverão ser apresentados por escrito e dirigidos ao Presidente da Câmara Municipal, com referência expressa do assunto, em documento identificado com nome e morada.
+Para conhecimento geral se publica o presente aviso e outros de igual teor que serão afixados nos lugares e formas do costume, no Diário da República e no site do Município de Vila Viçosa www.cm-vilavicosa.pt.
+17 de agosto de 2016. - O Vice-Presidente da Câmara Municipal, Dr. Luís Manuel do Nascimento.
+609818338
