@@ -1,0 +1,929 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12846",
+  "numero": "165",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-08-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-12-13",
+            "entidades": null,
+            "id": "103545",
+            "tipo": null,
+            "titulo": "Audição em 2016-12-13 com Peticionários - Petição 165/XIII/1ª - Jorge Manuel dos Santos Pereira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-15",
+            "entidades": [
+              "FORESTIS - Associação Florestal de Portugal"
+            ],
+            "nrOficio": "85/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "FNAPF - Federação Nacional das Associações de Proprietários Florestais"
+            ],
+            "nrOficio": "86/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "Fórum Florestal - Estrutura Federativa da Floresta"
+            ],
+            "nrOficio": "87/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "ANEFA - Associação Nacional de Empresas Florestais, Agrícolas e do Ambiente"
+            ],
+            "nrOficio": "88/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "Associação de Agricultores da Charneca"
+            ],
+            "nrOficio": "89/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-25",
+            "entidades": [
+              "CAULE - Associação Florestal da Beira Serra"
+            ],
+            "nrOficio": "90/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Florestal do Lima"
+            ],
+            "nrOficio": "91/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "CAP - Confederação dos Agricultores de Portugal"
+            ],
+            "nrOficio": "92/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "CNA - Confederação Nacional da Agricultura"
+            ],
+            "nrOficio": "93/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "AJAP - Associação dos Jovens Agricultores de Portugal"
+            ],
+            "nrOficio": "94/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAGRI - Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal"
+            ],
+            "nrOficio": "95/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "CNJ - Confederação Nacional dos Jovens Agricultores de Portugal e do Desenvolvimento Rural"
+            ],
+            "nrOficio": "96/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-17",
+            "entidades": [
+              "BALADI - Federação Nacional dos Baldios"
+            ],
+            "nrOficio": "97/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2017-01-13",
+            "entidades": [
+              "ICNF - Instituto da Conservação da Natureza e das Florestas, I.P."
+            ],
+            "nrOficio": "100/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-23",
+            "entidades": [
+              "ANPC - Autoridade Nacional de Proteção Civil"
+            ],
+            "nrOficio": "101/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-15",
+            "entidades": [
+              "Liga dos Bombeiros Portugueses"
+            ],
+            "nrOficio": "102/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-22",
+            "entidades": [
+              "APBV - Associação Portuguesa dos Bombeiros Voluntários"
+            ],
+            "nrOficio": "103/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-22",
+            "entidades": [
+              "ANBP - Associação Nacional dos Bombeiros Profissionais"
+            ],
+            "nrOficio": "104/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-03",
+            "entidades": [
+              "ANMP - Associação Nacional dos Municípios Portugueses"
+            ],
+            "nrOficio": "105/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-25",
+            "entidades": [
+              "ANAFRE - Associação Nacional de Freguesias"
+            ],
+            "nrOficio": "106/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": "2016-11-22",
+            "entidades": [
+              "MIN.  DA   ADMINISTRAÇÃO  INTERNA"
+            ],
+            "nrOficio": "99/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-02",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL"
+            ],
+            "nrOficio": "98/CAM/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-01-05",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "785413",
+                "obs": null,
+                "pag": [
+                  "6-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-21",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/023/2017-01-21/6?pgs=6-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-09-20",
+        "DataArquivo": "2017-01-17",
+        "DataBaixaComissao": "2016-09-07",
+        "DataEnvioPAR": "2017-01-17",
+        "DataReaberta": "2016-09-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-09-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4e684d6a6b784d7a68684c5455355a5445744e44566b5a6931684f5749324c546b775a44457a597a4e6b4f474a695a4335515245593d&fich=3a29138a-59e1-45df-a9b6-90d13c3d8bbd.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-10-07",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3255304f446777596a59324c546b354d4451744e444d785a5331684e7a677a4c5445324e4451324e7a59344f5459314e7935775a47593d&fich=e4880b66-9904-431e-a783-164467689657.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-09-30",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a67344e4449354e6a5a684c575a694f5449744e444d324d533169597a45344c544e6b597a417a4d6a5a6a4e4755354d4335775a47593d&fich=8842966a-fb92-4361-bc18-3dc0326c4e90.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-09-30",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a63315a44457a5a4449334c5459794e4445744e444a6b4f4331684e7a63324c574e6a4f574d784e54426c596d55324f5335775a47593d&fich=75d13d27-6241-42d8-a776-cc9c150ebe69.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6c6c4f5445334d4745794c574e68595463744e4751795a6930354f5467334c57466a5a545a6b4d57457a4d5749784e4335775a47593d&fich=9e9170a2-caa7-4d2f-9987-ace6d1a31b14.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3251334e5756684e5455784c574a6b4e6d55744e446c6b4f4330354e7a6c6a4c54497a4d474a6d596a4669595751774e5335775a47593d&fich=d75ea551-bd6e-49d8-979c-230bfb1bad05.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324a6b597a493159546b304c54457a4e6a6b744e444268597930355a474d354c546c6b4d6a45314e6a4931596d526a4d6935775a47593d&fich=bdc25a94-1369-40ac-9dc9-9d215625bdc2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3245794f5455354f44637a4c5467794d4755744e4451354d793169596d49794c54566c4d47526a4e5755334e44526d4e4335775a47593d&fich=a2959873-820e-4493-bbb2-5e0dc5e744f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a517a4e7a42694d4751304c546b314d6a55744e444d325a693035596d45354c545a6d5a6a63334d4441324e6d5979595335775a47593d&fich=4370b0d4-9525-436f-9ba9-6ff770066f2a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324d315a444e694e4455784c574d314d3251744e474d774f5331694f54526d4c54466b4e7a686a597a55794d324a6d595335775a47593d&fich=c5d3b451-c53d-4c09-b94f-1d78cc523bfa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a41314e444e6b4e7a67344c5467325a6a55744e475977595331684d7a55334c544d314e544934593251775a6a45775a6935775a47593d&fich=0543d788-86f5-4f0a-a357-35528cd0f10f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a55334d7a466a4e6a59334c5467344d7a4d744e4759794d4331695a446c6a4c54526a4d4456694d7a55354f5755354d4335775a47593d&fich=5731c667-8833-4f20-bd9c-4c05b3599e90.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a566a4f546c694f54526a4c546b345a6a6b744e4451344d6931694d4749354c5467795a6a45314d6d5a68595759324f4335775a47593d&fich=5c99b94c-98f9-4482-b0b9-82f152faaf68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4d7a4e6a526d5954686b4c545532597a51744e4759795a6930354d474e6d4c546b7a5a5459344d6a51344f546b77596935775a47593d&fich=3364fa8d-56c4-4f2f-90cf-93e68248990b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a466a4e54417a5a4467314c5467354e4445744e4449794d693168595759784c5459354e44466b596a67344e444d784d7935775a47593d&fich=1c503d85-8941-4222-aaf1-6941db884313.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a51334d6a45795a6a4e6a4c575133596d45744e4468694d6930344e54517a4c5441774d3245334f574d354e5445344e5335775a47593d&fich=47212f3c-d7ba-48b2-8543-003a79c95185.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4d334e57566b4d54426b4c54526d5a4455744e475578596930345a444a6b4c545935596a426d595759794e44646b4d6935775a47593d&fich=375ed10d-4fd5-4e1b-8d2d-69b0faf247d2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a453359574e6a596a51774c545134595449744e44466d4d7931694d6a646b4c57526a4e6a45795a544932596a426c4d7935775a47593d&fich=17accb40-48a2-41f3-b27d-dc612e26b0e3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3252684e6d59315a575a6a4c574935595467744e4455785a5330354e7a59774c57526c5a5751795a4745334e6a51304e6935775a47593d&fich=da6f5efc-b9a8-451e-9760-deed2da76446.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a466b4d32466d595467784c54566b4e6a51744e474e6a4d6931684e3251314c5459325a4755344e54557a5a6a4d345a5335775a47593d&fich=1d3afa81-5d64-4cc2-a7d5-66de8553f38e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3255355a6a4535596a5a6c4c545935597a55744e444d774f4330354d7a59314c544977595749315a6a4a6a4e7a67785a5335775a47593d&fich=e9f19b6e-69c5-4308-9365-20ab5f2c781e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a55355a6a41314f4745774c5464685a6a4d744e4445314d6931684e444e6b4c5751344f57597a5a6a4e6c4d7a4d324e7935775a47593d&fich=59f058a0-7af3-4152-a43d-d89f3f3e3367.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4e685a54466b4e32466a4c5759324f4459744e4752684f433034597a566a4c5463335a6a6b355a5459335a5445324d7935775a47593d&fich=3ae1d7ac-f686-4da8-8c5c-77f99e67e163.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a46695a6d51785a4451344c57466c4e4451744e4467314e6931694e4759324c54526b4e325579597a5934596d4979596935775a47593d&fich=1bfd1d48-ae44-4856-b4f6-4d7e2c68bb2b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a63304f4441784d6d4d794c54646d4f4755744e474d344f5331685a5459774c5445344e7a49314d5749324d324577595335775a47593d&fich=748012c2-7f8e-4c89-ae60-187251b63a0a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a49324e6d49324f5749794c546c6c4e4459744e44637859533034597a55354c5467785a474a684e7a4d314e4755334f4335775a47593d&fich=266b69b2-9e46-471a-8c59-81dba7354e78.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-01-17",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a466a5a6d5978595749334c54466b5a6d45744e445133596930354d7a4e6c4c544d78596a517759544269596d4a6b4d7935515245593d&fich=1cff1ab7-1dfa-447b-933e-31b40a0bbbd3.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-11-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c32557a4e6a45354d6d56684c5755784d4463744e4759324d4330344d474e6b4c5441344d4751334d324931597a67304e6935775a47593d&fich=e36192ea-e107-4f60-80cd-080d73b5c846.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324d34595468694e5759774c54566a5a6d49744e4467774e6931694f47557a4c5749784d47517a59325a6c4d7a67324d5335775a47593d&fich=c8a8b5f0-5cfb-4806-b8e3-b10d3cfe3861.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3246694d474a6a4d4445784c544d355a574d744e47466d4f5331685a444d344c545a6c4f44426d4d4445354f54426d4e4335775a47593d&fich=ab0bc011-39ec-4af9-ad38-6e80f01990f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a49334d4445345a6a4d774c54597a4d5745744e4451774d5330354e444d794c574d7a596d45354d544933596d597a4e7935515245593d&fich=27018f30-631a-4401-9432-c3ba9127bf37.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a63304d44497a593249344c54497a4d3245744e4441324d7930354e6d4a6d4c544d774d324a6c4e7a4d784e3252694e4335775a47593d&fich=74023cb8-233a-4063-96bf-303be7317db4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a59324e7a59334e44686c4c546c695a5459744e4455314d7930354e6a63334c5441354d6d45784e5755795a47457a597935775a47593d&fich=6676748e-9be6-4553-9677-092a15e2da3c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a41354d4463334e44426c4c544e6c595441744e4755344f4330354d3259794c544d334d47466d4e6a4d794e6a6469596935775a47593d&fich=0907740e-3ea0-4e88-93f2-370af63267bb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a637a59324e694d4459784c5468684f4459744e444a6c5a5331684e4755794c5451344f444d334e444579596a59354f5335775a47593d&fich=73ccb061-8a86-42ee-a4e2-48837412b699.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a55324d5445324d3259344c575a694d4463744e4459304e6930344d4463784c5755314f446b324d47566d596a4a694e4335775a47593d&fich=561163f8-fb07-4646-8071-e58960efb2b4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6c6b4e5449344e6a55774c5463334e7a63744e4463794f5330354e6a59344c574668595441334e32526d4e5751794d4335515245593d&fich=9d528650-7777-4729-9668-aaa077df5d20.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3255784f5745344d6d5a684c5455344d6d55744e444a6d596931694f5441324c544535595445344f444a68596a4934596935775a47593d&fich=e19a82fa-582e-42fb-b906-19a1882ab28b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-11-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3255324d5451775a6a6c6d4c5449314e7a55744e4449784d6931694f44566c4c5442694e7a45344d6d5a6a4e545930596935775a47593d&fich=e6140f9f-2575-4212-b85e-0b7182fc564b.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4530",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-09-20",
+            "gp": "PSD",
+            "id": "3966",
+            "motivoCessacao": null,
+            "nome": "Álvaro Batista"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-03-29",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-09-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344e6d466d4d324e6b5a69316d4d4451794c5451304e6d59744f4455774d6930784e4459355954677a4f545533595467756347526d&fich=86af3cdf-f042-446f-8502-1469a83957a8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41191"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:47:01:471&drc=00:01:49:441"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=03:05:33:452&drc=00:02:39:548"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46",
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/46?pgs=46,50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:48:55:522&drc=00:03:14:477"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:52:16:266&drc=00:02:26:734"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:54:47:347&drc=00:03:24:653"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:58:18:977&drc=00:03:50:022"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-03-30",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_29_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=03:02:14:198&drc=00:03:09:801"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-30",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas; Recomenda ao Governo que aprofunde a colaboração entre a Força Aérea Portuguesa (FAP) e a Autoridade Nacional de Proteção Civil (ANPC) nas missões de socorro, resgate e, particularmente, de combate a incêndios florestais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12846",
+    "PetAssunto": "Solicitam que a Força Aérea Portuguesa volte a combater diretamente o flagelo dos incêndios nas florestas portuguesas.",
+    "PetDataEntrada": "2016-08-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12846",
+    "PetLeg": "XIII",
+    "PetNr": "165",
+    "PetNrAssinaturas": "30569",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "606",
+        "obs": null,
+        "pag": [
+          "3-52"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-30",
+        "pubLeg": "XIII",
+        "pubNr": "69",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/069/2017-03-30/3?pgs=3-52&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "770732",
+        "obs": null,
+        "pag": [
+          "13-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-09-23",
+        "pubLeg": "XIII",
+        "pubNr": "2",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/002/2016-09-23/13?pgs=13-14&org=PLC"
+      }
+    ]
+  }
+}
