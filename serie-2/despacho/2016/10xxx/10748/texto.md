@@ -1,0 +1,13 @@
+Despacho n.º 10748/2016
+Através da Resolução da Assembleia da República n.º 59/2016, aprovada em 23 de março do corrente ano, a Assembleia recomendou ao Governo uma avaliação do impacto do novo Regulamento da Caixa de Previdência dos Advogados e Solicitadores. Neste contexto, determina-se:
+1 - A constituição de um Grupo de Trabalho interministerial para avaliação do novo Regulamento da Caixa de Previdência dos Advogados e Solicitadores, no que respeita a matéria de proteção social.
+2 - O Grupo de Trabalho tem por missão proceder a uma avaliação do impacto da aplicação do novo Regulamento da Caixa de Previdência, tendo particularmente em consideração os advogados e solicitadores cuja prática é exercida em nome individual ou em pequenas sociedades e cujo rendimento se revele mais afetado pelas obrigações contributivas dele decorrentes, devendo ainda avaliar as respetivas fontes de financiamento, a sustentabilidade da caixa de previdência, os mecanismos de supervisão, bem como âmbito e restrições de acesso às prestações sociais
+3 - O Grupo de Trabalho integra dois elementos da Direção-Geral da Segurança Social, em representação da área do Trabalho, Solidariedade e Segurança Social; dois elementos da Secretaria-Geral do Ministério da Justiça, em representação da área da Justiça; um elemento da Ordem dos Advogados; um elemento da Ordem dos Solicitadores e Agentes de Execução e um elemento da Direção da Caixa de Previdência dos Advogados e Solicitadores.
+4 - O Grupo de Trabalho é presidido por um dos elementos da Direção-Geral da Segurança Social, entidade a quem compete o apoio logístico e técnico necessários ao seu funcionamento.
+5 - O Grupo de Trabalho pode proceder à audição ou consulta de outros serviços e ou entidades que considere relevantes no âmbito da prossecução e cumprimento do presente despacho.
+6 - Os elementos do Grupo de Trabalho são indicados pelos respetivos organismos e entidades no prazo de 15 dias úteis, a contar da data de assinatura do presente despacho.
+7 - A participação no Grupo de Trabalho não confere direito a remuneração ou qualquer outra compensação.
+8 - A primeira reunião do Grupo de Trabalho realiza-se no prazo máximo de 15 dias úteis após a designação de todos os elementos do Grupo de Trabalho.
+9 - O Grupo de Trabalho apresenta ao Governo, no prazo de três meses a contar da reunião prevista no número anterior, um relatório com as suas conclusões.
+23 de agosto de 2016. - A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem. - 22 de agosto de 2016. - O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva.
+209826892
