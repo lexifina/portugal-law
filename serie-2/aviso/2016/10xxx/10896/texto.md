@@ -1,0 +1,6 @@
+Aviso n.º 10896/2016
+Por despacho da Administradora dos SASNOVA, Dra. Teresa Lemos, antecedido da publicitação do início do procedimento e participação procedimental, previsto no artigo 98.º do Decreto-Lei n.º 4/2015 de 7 de janeiro, do Código de Procedimento Administrativo (CPA) do projeto de alteração ao Regulamento do Fundo de Apoio Social dos Serviços de Ação Social da Universidade Nova de Lisboa, aprovado pelo Conselho de Ação Social em reunião de 27 de junho de 2016, no âmbito da competência que lhe foi conferida pela alínea h) do n.º 1 do artigo 11.º do Decreto-Lei n.º 129/93 de 22 de abril, e divulgado no site dos SASNOVA dia 20 de julho, torna-se publico que, nos termos e em cumprimento do artigo 99.º do CPA, durante o período de 30 dias a contar da publicação do presente aviso na 2.ª serie do Diário da República, é submetida a discussão a alteração do projeto de Regulamento do Fundo de Apoio Social dos Serviços de Ação Social da Universidade Nova de Lisboa.
+Durante o período em apreço poderão os interessados consultar o referido projeto de Regulamento no site dos SASNOVA, através do seguinte endereço http://sas.unl.pt
+Os interessados poderão dirigir, por escrito, dentro do prazo indicado, as sugestões que tiverem por convenientes, para o endereço eletrónico srodrigues@unl.pt
+5-08-2016. - A Administradora dos SASNOVA, M. Teresa Lemos.
+209833647
