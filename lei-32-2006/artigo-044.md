@@ -10,7 +10,7 @@
 
 a) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem as condições previstas no artigo 4.º;
 
-b) A aplicação de qualquer técnica de PMA fora dos centros autorizados;
+b) A aplicação de qualquer técnica de PMA, incluindo as realizadas no âmbito das situações de gestação de substituição previstas no artigo 8.º, fora dos centros autorizados;
 
 c) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem os requisitos previstos no artigo 6.º;
 

@@ -38,7 +38,7 @@ n) Receber e avaliar os relatórios previstos na alínea anterior;
 
 o) Contribuir para a divulgação das técnicas disponíveis e para o debate acerca das suas aplicabilidades;
 
-p) Centralizar toda a informação relevante acerca da aplicação das técnicas de PMA, nomeadamente registo de dadores, beneficiários e crianças nascidas;
+p) Centralizar toda a informação relevante acerca da aplicação das técnicas de PMA, nomeadamente registo de dadores, incluindo as gestantes de substituição, beneficiários e crianças nascidas;
 
 q) Deliberar caso a caso sobre a utilização das técnicas de PMA para selecção de grupo HLA compatível para efeitos de tratamento de doença grave.
 

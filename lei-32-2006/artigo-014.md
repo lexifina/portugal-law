@@ -9,3 +9,7 @@
 3 - As informações constantes do número anterior devem constar de documento, a ser aprovado pelo Conselho Nacional de Procriação medicamente Assistida, através do qual os beneficiários prestam o seu consentimento.
 
 4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA.
+
+5 - O disposto nos números anteriores é aplicável à gestante de substituição nas situações previstas no artigo 8.º
+
+6 - Nas situações previstas no artigo 8.º, devem os beneficiários e a gestante de substituição ser ainda informados, por escrito, do significado da influência da gestante de substituição no desenvolvimento embrionário e fetal.
