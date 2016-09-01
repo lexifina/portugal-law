@@ -23,5 +23,3 @@ b) Aplicação da correção prevista na alínea g) do artigo 3.º em caso de su
 8 - A não atualização ou a não revisão da renda por motivo imputável ao senhorio impossibilita-o de recuperar os montantes que lhe seriam devidos a esse título.
 
 9 - Não há lugar a aumento de renda por efeito de atualização quando, em resultado de vistoria técnica à habitação por parte da entidade locadora, se constate um estado de conservação mau ou péssimo, nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro, que não resulte de razões imputáveis ao arrendatário e enquanto tal condição persistir.
-
-10 - Quando no âmbito de processos de regularização de dívida o valor da renda revista representar um aumento superior ao dobro da renda anterior, há lugar à sua aplicação faseada nos primeiros três anos contados desde a data da celebração do acordo de liquidação de dívida, aplicando-se as condições previstas nas alíneas a) e b) do n.º 2 do artigo 37.

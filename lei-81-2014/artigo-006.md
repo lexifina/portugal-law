@@ -8,7 +8,7 @@ a) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título 
 
 b) Esteja a usufruir de apoios financeiros públicos para fins habitacionais ou seja titular, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 14.º;
 
-c) (Revogada);
+c) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento; ou
 
 d) Esteja abrangido por uma das situações previstas no n.º 1 do artigo 29.º
 
