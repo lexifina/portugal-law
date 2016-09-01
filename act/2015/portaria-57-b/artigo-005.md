@@ -31,3 +31,5 @@ l) Apresentem um plano de comunicação a desenvolver no decurso da implementaç
 m) Cumpram as orientações e normas técnicas aplicáveis à tipologia de operação, tal como definidas pelas entidades competentes;
 
 n) Os beneficiários devem declarar não terem salários em atraso.
+
+o) Evidenciem o cumprimento das disposições em matéria de Auxílios de Estado, se aplicável.

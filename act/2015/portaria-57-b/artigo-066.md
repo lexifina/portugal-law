@@ -30,6 +30,6 @@ b) O Plano de ação para a regeneração urbana;
 
 c) Os Planos de ação integrados para as comunidades desfavorecidas.
 
-3 - No caso dos restantes centros urbanos, os territórios dos Municípios devem estar abrangidos por Planos de ação de mobilidade urbana sustentável, definido ao nível de NUTS III.
+3 - No caso dos restantes centros urbanos, os territórios dos Municípios devem estar abrangidos por Planos de ação de mobilidade urbana sustentável, definido ao nível de NUTS III, ou sub-regional, no caso do POR Algarve.
 
 4 - Os planos referidos nos números 2 e 3 do presente artigo são os referidos no artigo 120.º

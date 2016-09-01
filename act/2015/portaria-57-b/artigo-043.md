@@ -20,7 +20,7 @@ vi) Intervenções nos sistemas de ventilação, iluminação e outros sistemas 
 
 b) Intervenções ao nível da promoção de energias renováveis na habitação para autoconsumo, desde que façam parte de soluções integradas que visem a eficiência energética, nas quais se inclui nomeadamente:
 
-i) Instalação de painéis solares térmicos para produção de água quente sanitária;
+i) Instalação de painéis solares térmicos para produção de água quente sanitária e climatização;
 
 ii) Instalação de sistemas de produção de energia para autoconsumo a partir de fontes de energia renovável;
 
@@ -28,4 +28,4 @@ c) Auditorias, estudos, diagnósticos e análises energéticas necessárias à r
 
 d) Campanhas de sensibilização e de promoção da eficiência energética na habitação particular.
 
-2 - As auditorias, estudos e análises energéticas previstas na alínea b) do número anterior, deverão obrigatoriamente incidir sobre as componentes comuns do edifício e as frações individuais, permitindo estruturar e elaborar o projeto que deverá concretizar as soluções apontadas, no todo ou pelo menos para um conjunto de medidas identificadas que resultem em melhoramentos significativos em eficiência energética, e que constituem soluções integradas no domínio da eficiência energética.
+2 - As auditorias, estudos e análises energéticas previstas na alínea c) do número anterior, devem obrigatoriamente incidir sobre as componentes comuns do edifício e as frações individuais, permitindo estruturar e elaborar o projeto que deve concretizar as soluções apontadas, no todo ou pelo menos para um conjunto de medidas identificadas que resultem em melhoramentos significativos em eficiência energética, e que constituem soluções integradas no domínio da eficiência energética.

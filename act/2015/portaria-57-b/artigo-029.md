@@ -6,7 +6,7 @@ As operações abrangidas são as que se revelem indispensáveis para a prossecu
 
 a) Intervenções que visem o aumento da eficiência energética dos edifícios e equipamentos públicos da administração central, nas quais se inclui:
 
-i) Intervenções na envolvente opaca dos edifícios, com o objetivo de proceder à instalação de isolamento térmico em paredes, pavimentos, coberturas e caixas de estore;
+i) Instalação de painéis solares térmicos para produção de água quente sanitária e climatização;
 
 ii) Intervenções na envolvente envidraçada dos edifícios, nomeadamente através da substituição de caixilharia com vidro simples, e caixilharia com vidro duplo sem corte térmico, por caixilharia com vidro duplo e corte térmico, ou solução equivalente em termos de desempenho energético, e respetivos dispositivos de sombreamento;
 

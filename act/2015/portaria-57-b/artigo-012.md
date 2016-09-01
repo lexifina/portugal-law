@@ -18,7 +18,7 @@ f) Realizar as ações previstas no plano de comunicação da operação, junto 
 
 g) Executar, se a operação incidir sobre prédio(s) e tiver uma incidência territorial, o cadastro predial do(s) mesmo(s), até à data de conclusão da operação;
 
-h) Comunicar anualmente as economias de energia ou energia produzida resultantes do(s) projeto(s) apoiados no âmbito da eficiência energética ou produção de energia proveniente de fontes renováveis, à Autoridade de Gestão e à Direção-Geral de Energia e Geologia(DGEG);
+h) Comunicar anualmente as economias de energia ou energia produzida, resultantes do(s) projeto(s) apoiado(s) no âmbito da eficiência energética ou produção de energia proveniente de fontes renováveis, à Direção-Geral de Energia e Geologia (DGEG);
 
 i) Apresentar, no prazo de 3 meses, a contar da data de conclusão da operação:
 

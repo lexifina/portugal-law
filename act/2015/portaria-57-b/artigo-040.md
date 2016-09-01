@@ -2,6 +2,12 @@
 
 ### Forma dos apoios
 
-1 - Os apoios a conceder a entidades da Administração Local, revestem a natureza de subvenções não reembolsáveis, havendo no entanto lugar à entrega de 70 % das poupanças líquidas proporcionais ao montante de apoio concedido, em condições a definir pela Autoridade de Gestão em articulação com a DGEG.
+1 - Os apoios a conceder aos beneficiários revestem a natureza de subvenção reembolsável, a qual é integralmente restituída sem lugar ao pagamento de juros.
 
-2 - Nos casos em que os apoios sejam concedidos a ESE, as subvenções são reembolsáveis a 100 %, não estando o reembolso dependente das economias de energia alcançadas.
+2 - O reembolso é efetuado em condições a definir por Orientação Técnica, devendo a amortização anual ser superior a 70 % das poupanças energéticas líquidas anuais até à liquidação da totalidade da subvenção no prazo máximo fixado.
+
+3 - Por iniciativa do beneficiário e nos termos a acordar com a Autoridade de Gestão, o reembolso programado pode ser antecipado.
+
+4 - Nos casos em que os apoios sejam concedidos a ESE, as subvenções são reembolsáveis a 100 %, não estando o reembolso dependente das economias de energia alcançadas.
+
+5 - Os apoios a conceder à tipologia de operação prevista na alínea d) do artigo 36.º têm a natureza de subvenções não reembolsáveis.

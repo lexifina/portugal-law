@@ -36,7 +36,7 @@ ii) Aquisição de Equipamentos de Proteção Individual (EPI);
 
 iii) Aquisição de Veículos Operacionais de Proteção e Socorro;
 
-iv) Intervenções na rede de infraestruturas para reforço da operacionalidade, especificamente em edificação nova ou ampliação ou remodelação de edifícios operacionais de bombeiros, que visem a refuncionalização das áreas operacionais dos edifícios, em áreas de elevada suscetibilidade a incêndios florestais, não abrangendo obras de beneficiação nem intervenções em infraestruturas já cofinanciadas;
+iv) Intervenções na rede de infraestruturas para reforço da operacionalidade, especificamente em edificação nova, ampliação ou remodelação de edifícios operacionais, que visem restabelecer as condições de funcionamento das áreas operacionais, em zonas de muito alta e de média perigosidade a incêndios florestais, não abrangendo obras de beneficiação nem intervenções em infraestruturas já cofinanciadas;
 
 v) Reforço da instalação de redes de defesa da floresta contra incêndios, em terreno não privado, visando a diminuição da carga combustível e de acesso a pontos de água.
 
@@ -66,7 +66,7 @@ i) Elaboração de planos, incluindo Planos Gerais de Emergência ainda em falta
 
 ii) Elaboração de estudos técnicos e cartografia com vista à caracterização de riscos naturais e tecnológicos;
 
-iii) Reforço dos sistemas de informação e de monitorização, incluindo a modernização do Sistema de Informação da Qualidade do Ar (QualAr), da Rede Nacional de Alerta de Radioatividade no Ambiente (RADNET), do sistema integrado de videovigilância para a prevenção de incêndios florestais (CICLOPE) e da Rede de Alerta Geofísico Precoce e do Sistema de Alerta e Aviso à População;
+iii) Reforço dos sistemas de informação e de monitorização, incluindo a modernização do Sistema de Informação da Qualidade do Ar (QualAr), da Rede Nacional de Alerta de Radioatividade no Ambiente (RADNET), do Sistema Integrado de Videovigilância para a Prevenção de Incêndios Florestais e da Rede de Alerta Geofísico Precoce e do Sistema de Alerta e Aviso à População;
 
 iv) Realização de campanhas nacionais de divulgação e sensibilização e criação de instrumentos de comunicação;
 
@@ -84,14 +84,54 @@ iv) Desenvolvimento de sistemas de informação e aquisição de equipamento em 
 
 v) Promoção de novas ações em termos de gestão de informação e monitorização associadas aos riscos, potenciando o uso de tecnologias e metodologias inovadoras, numa dimensão de inteligência territorial que deve ser integrada e articulada com a perspetiva mais tradicional de proteção civil, prevenção de riscos e gestão de recursos naturais.
 
-2.2 - Para as operações localizadas na Região Autónoma da Madeira, tendo por base o Estudo sobre o Risco de Aluviões (ERAIM), está prevista a execução das seguintes intervenções de hidráulica torrencial de proteção contra os efeitos dos aluviões:
+2.2 - Para as operações localizadas na Região Autónoma da Madeira:
+
+a) No domínio de intervenção prioritário 'Redução de Incêndios Florestais':
+
+i) Aquisição de Equipamentos de Proteção Individual (EPI);
+
+ii) Aquisição de Veículos Operacionais de Proteção e Socorro;
+
+iii) Intervenções na rede de infraestruturas para reforço da operacionalidade, especificamente em edificação nova, ampliação ou remodelação de edifícios operacionais, que visem restabelecer as condições de funcionamento das áreas operacionais, em zonas de muito alta e de média perigosidade a incêndios florestais, não abrangendo obras de beneficiação nem intervenções em infraestruturas já cofinanciadas;
+
+iv) Reforço da instalação de redes de defesa da floresta contra incêndios, em terreno não privado, visando a diminuição da carga combustível e de acesso a pontos de água.
+
+b) No domínio de intervenção prioritário 'Prevenção e Gestão de Riscos de Cheias e Inundações', e tendo por base o Estudo sobre o Risco de Aluviões (ERAIM), está prevista a execução das seguintes intervenções de hidráulica torrencial de proteção contra os efeitos de aluviões:
 
 i) Medidas de redução da perigosidade hidrológica e da vulnerabilidade territorial, de modo a garantir condições de vazão adequadas para responder a eventos de chuva forte, influenciados pelas alterações climáticas em curso, e condicionados pelos cenários de projeção do clima futuro, que estimam o aumento da frequência e intensidade das precipitações intensas;
 
 ii) Medidas estruturais defensivas e de reforço em áreas sensíveis para reduzir a vulnerabilidade, designadamente na consolidação de estruturas de contenção de taludes e na intervenção dos troços terminais de ribeiras;
 
-iii) Adaptação das normas vigentes sobre Planos de gestão de riscos e inundações;
+iii) Adaptação das normas vigentes sobre planos de gestão de riscos e inundações;
 
 iv) Implementação de sistemas de alerta de aluviões, a realização de planos de emergência e de socorro, divulgação pública e ações de sensibilização das populações.
 
-3 - A tipologia de operações prevista na subalínea iii) da alínea a) do ponto 1 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro, visa manter operacional o dispositivo mínimo de segurança previsto no Dispositivo Especial de Combate a Incêndios Florestais (DECIF), podendo incluir a substituição de veículos sinistrados.
+c) No domínio de intervenção prioritário 'Meios de emergência e ações preventivas face a acidentes graves e catástrofes':
+
+i) Aquisição de equipamentos para combate à poluição marinha, incluindo sistemas de reboque de barreiras e barreiras;
+
+ii) Investimentos de natureza estrutural face a situações de risco elevado em termos de movimentos de massa em vertentes cujo risco iminente de derrocada seja suscetível de provocar acidentes graves e catástrofes.
+
+d) No domínio de intervenção prioritário 'Instrumentos de planeamento, monitorização e comunicação':
+
+i) Elaboração de planos, incluindo Planos Gerais de Emergência ainda em falta para os diferentes níveis territoriais e Planos Especiais de Emergência para riscos específicos;
+
+ii) Elaboração de estudos técnicos e cartografia com vista à caracterização de riscos naturais e tecnológicos;
+
+iii) Reforço dos sistemas de informação e de monitorização, incluindo a modernização do Sistema de Informação da Qualidade do Ar (QualAr), do Sistema Integrado de Videovigilância para a Prevenção de Incêndios Florestais e da Rede de Alerta Geofísico Precoce e do Sistema de Alerta e Aviso à População;
+
+iv) Realização de campanhas de divulgação e sensibilização e criação de instrumentos de comunicação;
+
+v) Execução do cadastro predial através da adaptação e melhoria do sistema de informação predial web numa lógica de interoperabilidade de sistemas, o que permite a adoção de medidas que conduzam não só à redução ou eliminação de riscos associados a incêndios florestais, mas também de inundações e movimentos de massa.
+
+e) No domínio de intervenção prioritário 'Ações inovadoras para a prevenção e gestão de riscos':
+
+i) Aplicação de novas tecnologias em projetos-piloto ao nível do apoio ao planeamento e gestão de riscos, incluindo aplicações informáticas e uso de sensores;
+
+ii) Elaboração de planos de resiliência urbana vocacionados para a escala local (sobretudo municípios) para redução de riscos de catástrofe seguindo as orientações internacionais das Nações Unidas e da sua estratégia 'Making Cities Resilient';
+
+iii) Desenvolvimento de sistemas de informação e aquisição de equipamento em projetos inovadores associados aos riscos, numa dimensão de inteligência territorial, incluindo estudos de quantificação e georreferenciação de sedimentos de origem biogénica e telúrica.
+
+3 - A tipologia de operações prevista na subalínea iii) da alínea a) do ponto 2.1 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro, visa manter operacional o dispositivo mínimo de segurança previsto no Dispositivo Especial de Combate a Incêndios Florestais (DECIF), respeitando a dotação mínima prevista na Portaria n.º 174/2009, de 18 de fevereiro, alterada pela Portaria n.º 974/2009, de 1 de setembro, podendo incluir a substituição de veículos sinistrados.
+
+4 - A tipologia de operações prevista na subalínea ii) da alínea a) do ponto 2.2 do n.º 2 do presente artigo, referente à aquisição de veículos operacionais de proteção e socorro na RAM, visa manter o dispositivo mínimo de segurança previsto no Programa Operacional de Combate a Incêndios Florestais (POCIF), aprovado nos termos da Resolução do Conselho do Governo Regional da Madeira n.º 280/2016, de 31 de maio, podendo incluir a substituição de veículos sinistrados.

@@ -11,3 +11,7 @@ a) 85 % das despesas elegíveis, nos caso dos POR Norte, Centro e Alentejo;
 b) 50 % das despesas elegíveis, no caso do PO Lisboa;
 
 c) 80 % das despesas elegíveis, no caso do PO Algarve.
+
+3 - Em casos devidamente justificados, por deliberação da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020), as taxas de cofinanciamento referidas no presente diploma podem ser aumentadas até 10 pontos percentuais.
+
+4 - A deliberação prevista no número anterior deve ainda prever o modo de compensação de forma a garantir o cumprimento das taxas de financiamento nos respetivos eixos prioritários.

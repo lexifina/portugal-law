@@ -16,7 +16,7 @@ iv) Instalação de sistemas e equipamentos que permitam a gestão de consumos d
 
 b) Intervenções ao nível da promoção de energias renováveis nos edifícios e equipamentos da administração local para autoconsumo desde que façam parte de soluções integradas que visem a eficiência energética, nos quais se inclui:
 
-i) Instalação de painéis solares térmicos para produção de água quente sanitária;
+i) Instalação de painéis solares térmicos para produção de água quente sanitária e climatização;
 
 ii) Instalação de sistemas de produção de energia para autoconsumo a partir de fontes de energia renovável.
 

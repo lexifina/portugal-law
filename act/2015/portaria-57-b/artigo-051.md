@@ -14,7 +14,7 @@ a) Apoios a intervenções em frações autónomas, de edifícios ou fogos de ha
 
 b) Despesas associadas a outras intervenções em edifícios que não se encontrem relacionadas com o aumento do desempenho energético, como sejam:
 
-i) Pintura, exceto nos casos em que seja promovida a instalação de isolamento térmico pelo exterior da fachada;
+i) Pintura, exceto nos casos em que seja promovida a instalação de isolamento térmico pelo exterior da fachada, bem como nas situações em que o isolamento térmico seja instalado pelo interior, sendo que em ambos os casos apenas se considera elegível a despesa associada à pintura das superfícies que foram objeto da colocação de isolamento térmico;
 
 ii) Reforço estrutural;
 

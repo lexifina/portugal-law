@@ -6,7 +6,7 @@ As operações abrangidas são as que se revelem indispensáveis para a prossecu
 
 a) No domínio "Conservação da Natureza":
 
-i) Ações dirigidas para a recuperação e proteção de espécies e habitats com estatuto de conservação desfavorável, tais como a recuperação da conectividade fluvial nos cursos de água e bacias hidrográficas relevantes para as populações piscícolas migradoras, protegidas e ameaçadas, a proteção e recuperação de locais de desova de espécies de peixes migradores, a recuperação de habitats naturais e o fomento de presas;
+i) Ações dirigidas para a recuperação e proteção de espécies e habitats com estatuto de conservação desfavorável, tais como a recuperação da conectividade fluvial nos cursos de água e bacias hidrográficas relevantes para as populações piscícolas migradoras, protegidas e ameaçadas, a proteção e recuperação de locais de desova de espécies de peixes migradores, a recuperação de habitats naturais e o fomento de presas, incluindo ações de diagnóstico de fatores de ameaça;
 
 ii) Ações de prevenção, controlo e erradicação de espécies exóticas invasoras;
 

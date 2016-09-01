@@ -10,11 +10,11 @@ b) Evidenciem a existência de cadastro das infraestruturas existentes, verific�
 
 c) Evidenciem, através da última ficha de avaliação individual referida na alínea anterior ou através de dados mais recentes já validados pela ERSAR, a disponibilização à entidade reguladora dos dados com vista à aferição dos indicadores da ERSAR "Índice das melhorias nos sistemas de AA e SAR";
 
-d) Cumpram os requisitos mínimos definidos para o efeito pela entidade reguladora em matéria de estrutura tarifária e de grau de recuperação de custos, com base no regulamento tarifário da ERSAR;
+d) Cumpram os requisitos mínimos definidos para o efeito pela entidade reguladora em matéria de estrutura tarifária e de grau de recuperação de custos;
 
 e) Evidenciem a inexistência de dívidas reconhecidas por sentença judicial transitada em julgado, relativas ao serviço em alta, através de documento emitido para o efeito pela entidade gestora em alta, ou a celebração de um plano de pagamentos acordado;
 
-f) Nos casos de beneficiários que constituam entidades gestoras de sistemas de abastecimento de água e ou de saneamento de águas residuais que não sejam responsáveis pela gestão simultânea das vertentes em alta e baixa, evidenciem que as ligações alta-baixa existem e estão operacionais, exceto nas situações em que a candidatura contemple ações para resolver esta situação, ou quando a ausência de ligação não seja da sua responsabilidade.
+f) Nos casos de beneficiários que constituam entidades gestoras de sistemas de abastecimento de água e ou de saneamento de águas residuais que não sejam responsáveis pela gestão simultânea das vertentes em alta e baixa, evidenciem que as ligações alta-baixa no(s) território(s) abrangido(s) pela candidatura existem e estão operacionais, exceto nas situações em que a candidatura contemple ações para resolver esta situação, ou quando a ausência de ligação não seja da sua responsabilidade.
 
 2 - As alíneas b) a d) não se aplicam aos beneficiários da Região Autónoma da Madeira.
 
