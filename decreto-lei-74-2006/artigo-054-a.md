@@ -6,7 +6,7 @@
 
 2 - O procedimento de registo dos ciclos de estudos é fixado por portaria do membro do Governo responsável pela área do ensino superior.
 
-3 - Proferida decisão sobre a acreditação de um ciclo de estudos, a mesma é comunicada pela Agência de Avaliação e Acreditação do Ensino Superior ao requerente e ao serviço do ministério da tutela competente para a realização do registo, acompanhada da informação necessária ao cumprimento por este dos ulteriores termos procedimentais.
+3 - Proferida decisão sobre a acreditação de um ciclo de estudos, a mesma é comunicada pela Agência de Avaliação e Acreditação do Ensino Superior ao requerente e à Direção-Geral do Ensino Superior para a realização do registo, acompanhada da informação necessária ao cumprimento por este dos ulteriores termos procedimentais.
 
 4 - No caso de pedido de acreditação de ciclo de estudos a ministrar inicialmente, inserido em processo de reconhecimento ou de alteração de reconhecimento de interesse público de estabelecimento de ensino superior privado ou de criação de um estabelecimento de ensino superior público, a decisão de acreditação deve ser proferida no prazo máximo de seis meses sobre a formulação do pedido devidamente instruído.
 

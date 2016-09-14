@@ -4,7 +4,7 @@
 
 1 - A decisão sobre o pedido de registo da criação de um curso técnico superior profissional é da competência do diretor-geral do Ensino Superior.
 
-2 - Do despacho de deferimento do registo da criação de um curso técnico superior profissional devem constar os seguintes elementos:
+2 - O despacho de deferimento do registo da criação de um curso técnico superior profissional é publicado na 2.ª série do Diário da República, dele devendo constar os seguintes elementos:
 
 a) A denominação da instituição de ensino superior;
 
@@ -25,5 +25,3 @@ h) As condições de ingresso;
 i) As localidades e instalações em que é autorizada a ministração do curso;
 
 j) O número máximo para cada admissão de novos estudantes e o número máximo de estudantes que podem estar inscritos em simultâneo no curso em cada localidade em que esteja autorizada a sua ministração.
-
-3 - O despacho de deferimento do registo é notificado à instituição de ensino superior, sendo publicado nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.

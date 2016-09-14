@@ -2,9 +2,9 @@
 
 ### Inscrição em unidades curriculares
 
-1 - Os estabelecimentos de ensino facultam a inscrição nas unidades curriculares que ministram.
+1 - As instituições de ensino superior facultam a inscrição nas unidades curriculares que ministram.
 
-2 - A inscrição pode ser feita quer por alunos inscritos num curso de ensino superior quer por outros interessados.
+2 - A inscrição pode ser feita quer por estudantes inscritos num ciclo de estudos de ensino superior, quer por outros interessados.
 
 3 - A inscrição pode ser feita em regime sujeito a avaliação ou não.
 
@@ -12,7 +12,7 @@
 
 a) São objecto de certificação;
 
-b) São obrigatoriamente creditadas, com os limites fixados na alínea c) do n.º 1 do artigo 45.º, caso o seu titular tenha ou venha a adquirir o estatuto de aluno de um ciclo de estudos de ensino superior;
+b) São obrigatoriamente creditadas, nos termos do artigo 45.º, caso o seu titular tenha ou venha a adquirir o estatuto de aluno de um ciclo de estudos de ensino superior;
 
 c) São incluídas em suplemento ao diploma que venha a ser emitido.
 

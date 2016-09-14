@@ -1,7 +1,3 @@
-## Título VII
-
-## Normas finais e transitórias
-
 # Artigo 81.º
 
 ### Mestrados e doutoramentos em curso

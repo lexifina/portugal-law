@@ -2,7 +2,7 @@
 
 ### Normas regulamentares do doutoramento
 
-O órgão legal e estatutariamente competente de cada universidade aprova as normas relativas às seguintes matérias:
+O órgão legal e estatutariamente competente de cada universidade ou instituto universitário aprova as normas relativas às seguintes matérias:
 
 a) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura e os critérios de selecção;
 

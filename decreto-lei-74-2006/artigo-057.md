@@ -14,7 +14,7 @@ c) Os recursos humanos e materiais indispensáveis para garantir o nível e a qu
 
 3 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de mestre numa determinada especialidade os fixados pelo artigo 16.º.
 
-4 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de doutor num determinado ramo do conhecimento ou especialidade, os fixados pelo artigo 29.º.
+4 - São requisitos especiais para a acreditação de um ciclo de estudos conducente ao grau de doutor num determinado ramo do conhecimento ou numa sua especialidade, os fixados pelo artigo 29.º
 
 5 - A Agência de Avaliação e Acreditação do Ensino Superior pode, excecional e fundamentadamente, e por referência aos valores padrão fixados nos artigos 6.º, 16.º e 29.º, admitir, transitoriamente, a aplicação de valores inferiores, quando se trate:
 

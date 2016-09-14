@@ -6,13 +6,13 @@
 
 2 - O júri de doutoramento é constituído:
 
-a) Pelo reitor, que preside, ou por quem dele receba delegação para esse fim;
+a) Pelo reitor, que preside, ou por quem ele nomeie para esse fim;
 
-b) Por um mínimo de quatro vogais doutorados, devendo um destes ser o orientador.
+b) Por um mínimo de quatro vogais doutorados, podendo um destes ser o orientador;
 
-3 - Sempre que exista mais do que um orientador pode, excecionalmente, integrar o júri um segundo orientador, caso este pertença a área científica distinta.
+3 - Sempre que exista mais do que um orientador apenas um pode integrar o júri.
 
-4 - Na situação de integrarem o júri dois orientadores, deve este ser alargado a seis vogais, sendo dois destes os orientadores.
+4 - (Revogado).
 
 5 - Pelo menos dois dos membros do júri referidos na alínea b) do n.º 2 são designados de entre professores e investigadores doutorados de outros estabelecimentos de ensino superior ou de investigação, nacionais ou estrangeiros.
 

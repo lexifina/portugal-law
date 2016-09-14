@@ -1,6 +1,10 @@
 ## Capítulo V
 
-## Diplomas de ensino superior
+## Diploma de técnico superior profissional
+
+## Secção I
+
+## Princípios gerais
 
 # Artigo 39.º
 

@@ -2,7 +2,7 @@
 
 ### Depósito legal
 
-1 - As teses de doutoramento, os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e as dissertações de mestrado ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e Tecnologia, I. P..
+1 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo, as dissertações de mestrado e os trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e a Tecnologia, I. P.
 
 2 - O depósito visa o tratamento e a preservação dos referidos trabalhos científicos, bem como a difusão, em regime de acesso aberto, da produção que não for objeto de restrições ou embargos.
 

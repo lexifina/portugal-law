@@ -52,6 +52,6 @@ ii) Um mínimo de 20% do corpo docente total é constituído por doutores especi
 
 7 - Os docentes com o grau de doutor especializados na área ou áreas de formação fundamentais do ciclo de estudos podem, igualmente, ser contabilizados para os efeitos da alínea b) do número anterior.
 
-8 - Quando exista mais de uma área de formação fundamental num ciclo de estudos, os docentes especializados a que se referem a alínea b) do n.º 3 e a alínea b) do n.º 5 devem ter uma distribuição por áreas adequada ao peso de cada uma.
+8 - Quando exista mais de uma área de formação fundamental num ciclo de estudos, os docentes especializados a que se referem a alínea c) do n.º 3 e a alínea c) do n.º 6 devem ter uma distribuição por áreas adequada ao peso de cada uma.
 
 9 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.

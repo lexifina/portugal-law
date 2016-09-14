@@ -4,18 +4,24 @@
 
 1 - Tendo em vista o prosseguimento de estudos para a obtenção de grau académico ou diploma, os estabelecimentos de ensino superior:
 
-a) Creditam a formação realizada no âmbito de outros ciclos de estudos superiores conferentes de grau em estabelecimentos de ensino superior nacionais ou estrangeiros, quer a obtida no quadro da organização decorrente do Processo de Bolonha, quer a obtida anteriormente;
+a) Podem creditar a formação realizada no âmbito de outros ciclos de estudos superiores conferentes de grau em instituições de ensino superior nacionais ou estrangeiras, quer a obtida no quadro da organização decorrente do Processo de Bolonha, quer a obtida anteriormente;
 
-b) Creditam a formação realizada no âmbito dos cursos de especialização tecnológica até ao limite de um terço do total dos créditos do ciclo de estudos;
+b) Podem creditar a formação realizada no âmbito dos cursos técnicos superiores profissionais até ao limite de 50 % do total dos créditos do ciclo de estudos;
 
 c) Creditam as unidades curriculares realizadas com aproveitamento, nos termos do artigo 46.º-A, até ao limite de 50% do total dos créditos do ciclo de estudos;
 
-d) Podem atribuir créditos pela formação realizada no âmbito de cursos não conferentes de grau académico em estabelecimentos de ensino superior nacionais ou estrangeiros, até ao limite de 50% do total dos créditos do ciclo de estudos;
+d) Podem creditar a formação realizada no âmbito de cursos não conferentes de grau académico ministrados em instituições de ensino superior nacionais ou estrangeiras, até ao limite de 50 % do total dos créditos do ciclo de estudos;
 
-e) Podem atribuir créditos por outra formação não abrangida pelas alíneas anteriores, até ao limite de um terço do total dos créditos do ciclo de estudos;
+e) Podem creditar a formação realizada no âmbito dos cursos de especialização tecnológica até ao limite de um terço do total dos créditos do ciclo de estudos;
 
-f) Podem atribuir créditos pela experiência profissional devidamente comprovada, até ao limite de um terço do total dos créditos do ciclo de estudos.
+f) Podem creditar outra formação não abrangida pelas alíneas anteriores, até ao limite de um terço do total dos créditos do ciclo de estudos;
 
-2 - O conjunto dos créditos atribuídos ao abrigo das alíneas b), d), e) e f) do número anterior não pode exceder dois terços do total dos créditos do ciclo de estudos.
+g) Podem creditar experiência profissional devidamente comprovada, até ao limite de um terço do total dos créditos do ciclo de estudos.
 
-3 - A atribuição de créditos ao abrigo da alínea f) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.
+2 - O conjunto dos créditos atribuídos ao abrigo das alíneas d) a g) do número anterior não pode exceder dois terços do total dos créditos do ciclo de estudos.
+
+3 - Nos ciclos de estudos conducentes aos graus de mestre e de doutor, os limites à creditação fixados pelos números anteriores referem-se, respetivamente, ao curso de mestrado mencionado na alínea a) do n.º 1 do artigo 20.º e ao curso de doutoramento mencionado no n.º 3 do artigo 31.º
+
+4 - São nulas as creditações realizadas ao abrigo das alíneas a) e d) do n.º 1 quando as instituições estrangeiras em que a formação foi ministrada não sejam reconhecidas pelas autoridades competentes do Estado respetivo como fazendo parte do seu sistema de ensino superior, como estabelecido pelo artigo I.1 da Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 25/2000, de 30 de março.
+
+5 - A atribuição de créditos ao abrigo da alínea g) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.

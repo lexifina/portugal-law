@@ -12,18 +12,14 @@ c) O funcionamento em local não autorizado;
 
 d) Uma avaliação externa desfavorável;
 
-e) A não inscrição de novos estudantes no 1.º ano durante três anos letivos consecutivos;
-
-f) A cessação da ministração do curso por decisão do órgão legal e estatutariamente competente da instituição de ensino superior.
+e) A não inscrição de novos estudantes no 1.º ano durante três anos letivos consecutivos.
 
 2 - O cancelamento do registo é da competência do diretor-geral do Ensino Superior, após audiência prévia da instituição em causa e ouvida a comissão de acompanhamento a que se refere o artigo seguinte.
 
-3 - O despacho de cancelamento do registo é notificado à instituição de ensino superior, sendo publicado nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
+3 - O despacho de cancelamento do registo é notificado à instituição de ensino superior e publicado na 2.ª série do Diário da República.
 
 4 - Com a receção da notificação pela instituição de ensino superior, o curso técnico superior profissional:
 
 a) Deixa de poder admitir novos estudantes;
 
 b) Cessa o seu funcionamento, sem prejuízo de o diretor-geral do Ensino Superior poder autorizar que, durante o período por ele fixado, prossiga a ministração do ensino aos estudantes nele inscritos à data de cancelamento do registo e, se for caso disso, lhes sejam atribuídos os respetivos diplomas.
-
-5 - Na situação prevista na alínea f) do n.º 1, a decisão de cessação deve incluir os prazos de cessação do funcionamento do curso e as medidas de salvaguarda das expectativas dos estudantes nele inscritos e deve ser comunicada nos termos aprovados por despacho do Diretor-Geral do Ensino Superior.

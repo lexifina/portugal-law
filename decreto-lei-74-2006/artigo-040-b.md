@@ -8,14 +8,14 @@
 
 a) De um projeto educativo, científico e cultural próprio, adequado aos objetivos fixados para o ciclo de estudos a ele conducente;
 
-b) De um corpo docente total que seja qualificado e especializado na área ou áreas de formação fundamentais do ciclo de estudos;
+b) De um corpo docente constituído por especialistas de reconhecida experiência e competência profissional e por doutores:
 
-c) Dos recursos humanos e materiais indispensáveis para garantir o nível e a qualidade da formação.
+i) Maioritariamente próprio;
 
-3 - Para os efeitos da alínea b) do número anterior, considera-se que o corpo docente é:
+ii) Adequado em número;
 
-a) Qualificado quando o corpo docente total é constituído por um mínimo de 30 % de docentes com o grau de doutor, docentes integrados na carreira docente respetiva ou por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos em causa;
+iii) Qualificado na área ou áreas em causa;
 
-b) Especializado quando o corpo docente não integrado na alínea anterior é constituído por assistentes ou professores convidados a tempo parcial que desenvolvem a sua atividade profissional principal na área ou áreas de formação fundamentais do ciclo de estudos em causa.
+c) Dos recursos humanos e materiais indispensáveis para garantir o nível e a qualidade da formação, designadamente espaços letivos, equipamentos, bibliotecas e laboratórios adequados.
 
-4 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de registo a que se referem os artigos 40.º-S e seguintes.
+3 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de registo a que se referem os artigos 40.º-S e seguintes.

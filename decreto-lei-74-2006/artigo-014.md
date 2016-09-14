@@ -8,7 +8,7 @@ a) Condições específicas de ingresso;
 
 b) Condições de funcionamento;
 
-c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro;
+c) Estrutura curricular, plano de estudos e créditos, nos termos das normas técnicas a que se refere o artigo 12.º do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho;
 
 d) Processo de creditação;
 
@@ -16,7 +16,7 @@ e) Regime de avaliação de conhecimentos;
 
 f) Regime de precedências;
 
-g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de Agosto;
+g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, alterada pelas Leis n.os 49/2005, de 30 de agosto, e 62/2007, de 10 de setembro;
 
 h) Coeficientes de ponderação e procedimentos para o cálculo da classificação final;
 
