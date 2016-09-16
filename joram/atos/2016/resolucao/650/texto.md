@@ -1,0 +1,28 @@
+# Resolução n.º 650/2016
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 164/2016, de 2016-09-16
+
+**Sumário:** Reconhece e declara, para todos os efeitos legais, de interesse público o projeto de requalificação e modernização do Centro de Bananicultura a promover pela sociedade denominada GESBA – Empresa de Gestão do Sector da Banana, Lda. e designa-o de Centro de Investigação e Experimentação de Banana da Madeira.
+
+## Texto
+
+Resolução n.º 650/2016
+Considerando que a GESBA - Empresa de Gestão do Sector da Banana, Lda. (GESBA), tem por objeto a “Gestão, administração e exploração dos meios de produção da banana na Madeira, a sua subsequente distribuição e comercialização e, em especial, a obrigação de prestar apoio à produção, à sua recolha junto do produtor, à sua classificação, embalamento e preparação para o comércio e distribuição e, ainda, a gestão e comercialização de outros produtos nos sectores de produção que integram o sector primário e agroindustrial da região que contribuam para a sua valorização.”
+Considerando que a GESBA, por força do disposto no artigo 3.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro, é uma empresa pública, que integra o sector empresarial da Região Autónoma da Madeira.
+Considerando que a sua criação assentou em motivos e razões de interesse público. Com efeito, através da Resolução n.º 834/2007, de 8 de agosto, o Governo Regional decidiu reestruturar/reorganizar o sector da banana, de forma a assegurar o escoamento e valorização da produção e o aumento do rendimento dos produtores. Pela Resolução n.º 271/2008, de 13 de março, o Governo Regional salientou ser “(…) necessário praticar atos necessários à constituição da sociedade que irá gerir o sector da banana, em defesa do interesse público, dada a importância social, económica e ambiental do mesmo.”
+Considerando que do exposto decorre que está em causa uma sociedade comercial com um objeto singular, constituída com o propósito de estabilizar, fomentar e valorizar um sector fundamental para a economia regional, cuja atuação é norteada por um inegável interesse público, bem como pela valorização e apoio a todos os produtores de banana da Madeira.
+Considerando que a GESBA é uma entidade reconhecida pela Secretaria Regional de Agricultura e Pescas, nos termos da Portaria n.º 88/2012, de 2 de julho, para processar/intermediar o pagamento da ajuda da União Europeia, no âmbito do Programa POSEI, aos produtores de banana da Madeira - Acão 2.5 Fileira da Banana, prevista na Portaria n.º 88/2012, de 2 de julho.
+Considerando que a GESBA, em síntese, enquanto empresa pública, prossegue uma atividade de interesse público e essencial para a economia da Região Autónoma da Madeira.
+Considerando que no Programa do Governo Regional da Madeira 2015-2019 está previsto desenvolver ações e implementar medidas de apoio aos agricultores, com vista à modernização e desenvolvimento sustentado do setor agrícola.
+
+Considerando que a GESBA, enquanto empresa pública responsável pela gestão do setor da banana da Madeira, manifestou interesse em requalificar e modernizar o Centro de Bananicultura, situado no Sitio do Lugar de Baixo, freguesia e concelho da Ponta de Sol, através do desenvolvimento de um projeto a designar de “Centro de Investigação e Experimentação de Banana da Madeira (CIEBM)”, de modo a dotá-lo de todas as condições necessárias para prestar apoio aos produtores e desenvolver atividades de investigação e de experimentação de novas técnicas agrícolas que possam contribuir para o desenvolvimento do setor da banana da Madeira.
+Considerando que a missão do CIEBM passará pelo fomento da investigação, da qualidade, da certificação (Certificação da Segurança Alimentar - ISO22000, Certificação GLOBALGAP à produção de banana da Madeira, Denominação de Origem/Identificação Geográfica) da formação, do apoio técnico e pedagógico aos produtores, do desenvolvimento de projetos, parcerias e intercâmbios com as regiões ultraperiféricas da União Europeia produtoras de banana (Canárias, Guadalupe e Martinica).
+Considerando que o referido projeto possuirá uma componente turística, com vista a promover a marca Banana da Madeira e a própria Ilha da Madeira com destino, através de visitas guiadas e de um roteiro de divulgação da produção da banana da Madeira desde a plantação à expedição.
+Considerando que para a execução do referido projeto será necessário realizar um relevante e imprescindível investimento de modo a dotar o atual Centro de Bananicultura das infraestruturas, dos meios técnicos, informáticos e logísticos e dos recursos humanos necessários à prossecução dos seus objetivos.
+Considerando que, para o efeito, a GESBA irá recorrer a fundos comunitários aplicáveis à natureza e ao tipo do projeto a desenvolver, nas suas diversas aceções (agrícola, cientifica e turística).
+Considerando que é manifesto e inegável que o projeto em apreço assume primordial importância para o desenvolvimento do setor da banana e, consequentemente, para a economia regional.
+O Conselho do Governo reunido em plenário em 15 de setembro de 2016, resolveu:
+Reconhecer e declarar, para todos os efeitos legais, de interesse público o projeto de requalificação e modernização do Centro de Bananicultura a promover pela GESBA - Empresa de Gestão do Sector da Banana, Lda. e designar de “Centro de Investigação e Experimentação de Banana da Madeira”.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque.
