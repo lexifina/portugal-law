@@ -1,0 +1,4 @@
+Aviso n.º 11391/2016
+Para os devidos efeitos se torna público que, na sequência do Regulamento de Organização dos Serviços Municipais da Câmara Municipal de Sines, publicado no Diário da República, 2.ª série, n.º 157, de 17 de agosto de 2016, sob o Despacho n.º 1036/2016, e da 1.ª Alteração ao Mapa de Pessoal para o ano 2016, por despacho de 29 de agosto de 2016, se procedeu à afetação de trabalhadores, ao abrigo do disposto na alínea a) do n.º 2 do artigo 35.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, conjugado com o artigo 8.º e n.º 6 do artigo 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro, encontrando-se a mesma publicitada na página eletrónica do Município - www.sines.pt - e nos locais públicos de costume.
+29 de agosto de 2016. - O Presidente da Câmara Municipal, Nuno José Gonçalves Mascarenhas.
+309843804
