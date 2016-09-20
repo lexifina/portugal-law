@@ -1,0 +1,627 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12860",
+  "numero": "179",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-09-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-12-06",
+            "entidades": null,
+            "id": "103571",
+            "tipo": null,
+            "titulo": "Audição em 2016-12-06 com Daniel José Henriques Almeida"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Assembleia Municipal de Santa Maria da Feira"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-09",
+            "entidades": [
+              "Câmara Municipal de Santa Maria da Feira"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-09",
+            "entidades": [
+              "Assembleia Municipal de São João da Madeira"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-11",
+            "entidades": [
+              "Câmara Municipal de São João da Madeira"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Junta de Freguesia de Milheirós de Poiares"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Assembleia de Freguesia de Milheirós de Poiares"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-02-01",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "782637",
+                "obs": null,
+                "pag": [
+                  "10-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-11",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/027/2017-02-11/10?pgs=10-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-11-02",
+        "DataArquivo": "2017-02-01",
+        "DataBaixaComissao": "2016-10-20",
+        "DataEnvioPAR": "2017-02-02",
+        "DataReaberta": "2016-11-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-11-08",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c325a6a597a59324e6a59304c54497a5a4759744e444e694f5331684e544a6b4c5459334e575a6c4e7a51334e5759795a6935775a47593d&fich=fcc66664-23df-43b9-a52d-675fe7475f2f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a59335a6a4e69596a63354c544e6a4d6a6b744e444d78597931685a6a51324c54566d4e4455795a4451784e5445794e5335775a47593d&fich=67f3bb79-3c29-431c-af46-5f452d415125.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a51334e5749794d6a41304c544533597a4d744e4441304d4331684f4755774c544a695a54597a4e47557a4d5451304e6935775a47593d&fich=475b2204-17c3-4040-a8e0-2be634e31446.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4a694f444a6c4e544d794c5745314e6a63744e4441784f4331685a444d314c544d34596d56684d47566c4f444a6b5a4335775a47593d&fich=2b82e532-a567-4018-ad35-38bea0ee82dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a55784d7a457a597a59344c54646c4e5755744e4451784e4330354f5455314c5463355a6d4e6b4d4749314d575134597935775a47593d&fich=51313c68-7e5e-4414-9955-79fcd0b51d8c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c325934596a41344e7a4a6a4c5451794d4755744e44566a596931684d4751784c5463774d5463785a574d345a6d4a68597935775a47593d&fich=f8b0872c-420e-45cb-a0d1-70171ec8fbac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4e6c4d54646b4e6d45354c575a69597a49744e444a6b5a433035595459784c54686d5a5755354e6a597a5a57526a4d6935775a47593d&fich=3e17d6a9-fbc2-42dd-9a61-8fee9663edc2.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-02-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a637a4d6a45314e474a6d4c54677a596a59744e445a68595330344e546b774c5756694e44686b595755355a6d51345a5335775a47593d&fich=732154bf-83b6-46aa-8590-eb48dae9fd8e.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a42694f47466d5a6d49774c57466b4e4451744e47557a4d4331694e5455324c5745335a575579596d4d7a4d7a5533597935775a47593d&fich=0b8affb0-ad44-4e30-b556-a7ee2bc3357c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a49335a6a4d324e574e684c574d7a4e7a49744e4463335a4330355a6a4a6d4c574d354f44466c5a544d31597a59795a6935775a47593d&fich=27f365ca-c372-477d-9f2f-c981ee35c62f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a5535595441774f5745334c5445334e446b744e444931595331684d325a6d4c57513059546b334d3246694d7a686c4f4335775a47593d&fich=59a009a7-1749-425a-a3ff-d4a973ab38e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a45354e5449335a544e684c5445324f4749744e4463334d6931684e7a51334c5449334d544532596a55324d5451785a6935775a47593d&fich=19527e3a-168b-4772-a747-27116b56141f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a45314d474669597a5a694c546b774e5749744e445533597930354d4463324c574a6c4d47466d4f5441344d546b354e7935775a47593d&fich=150abc6b-905b-457c-9076-be0af9081997.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4933595456694d4442684c5745774f4451744e446c6d4d4331684e44677a4c5755345a6a41794e325a6b4f54497a4e5335775a47593d&fich=27a5b00a-a084-49f0-a483-e8f027fd9235.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-11-02",
+            "gp": "BE",
+            "id": "4194",
+            "motivoCessacao": null,
+            "nome": "Jorge Costa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-04-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-03-08",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793834597a517a4e575a6d5a4331695a446c6a4c5451344f4455744f44677a4d5331684d4751325a4451314e6d4a6c4e5459756347526d&fich=8c435ffd-bd9c-4885-8831-a0d6d456be56.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2016-10-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939694e3249315a6a49335a4330784e5441304c5451305a6a5174596d4e6c4e53316d4f4455344e5441304d325a6d5a5463756347526d&fich=b7b5f27d-1504-44f4-bce5-f8585043ffe7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:19:49:981&drc=00:02:55:019"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:22:48:886&drc=00:03:35:113"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:26:27:511&drc=00:02:30:055"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:29:01:577&drc=00:02:30:422"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:31:36:884&drc=00:02:36:115"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_07_10_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=01:34:17:783&drc=00:03:19:216"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-08",
+                "pubLeg": "XIII",
+                "pubNr": "74",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a freguesia de Milheirós de Poiares se mantenha no concelho de Santa Maria da Feira; Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12860",
+    "PetAssunto": "Solicitam que a freguesia de Milheirós de Poiares seja integrada no concelho de São João da Madeira.",
+    "PetDataEntrada": "2016-09-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12860",
+    "PetLeg": "XIII",
+    "PetNr": "179",
+    "PetNrAssinaturas": "5320",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2328",
+        "obs": null,
+        "pag": [
+          "24-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-08",
+        "pubLeg": "XIII",
+        "pubNr": "74",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/074/2017-04-08/24?pgs=24-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785425",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-04",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/025/2017-02-04/7?pgs=7-8&org=PLC"
+      }
+    ]
+  }
+}
