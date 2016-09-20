@@ -1,0 +1,8 @@
+Aviso n.º 11486/2016
+Abertura de período de discussão pública da revisão do Plano Diretor Municipal de Marvão
+Torna-se público que a Câmara Municipal de Marvão, na sessão pública da Reunião de Câmara de cinco de setembro de dois mil e dezasseis, deliberou, por unanimidade, proceder à abertura de um período de discussão pública da Revisão do Plano Diretor Municipal, que irá decorrer por um período de 30 dias úteis, contados a partir do 5.º dia da publicação do presente aviso no Diário da República, para efeitos do disposto no artigo 89.º, n.os 1 e 2, do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio.
+Durante o referido período, os interessados poderão consultar a Proposta de Revisão do Plano Diretor Municipal, o respetivo relatório ambiental, o parecer da Comissão de acompanhamento, os demais pareceres emitidos, os resultados da concertação e outra documentação que consubstanciou o período de acompanhamento na página da internet www.cm-marvao.pt ou na Divisão de Obras, Ambiente e Qualidade de Vida no edifício da Câmara Municipal de Marvão, no Largo de St.ª Maria, Marvão.
+No decorrer deste período realizar-se-ão duas sessões públicas a agendar no site do Município de Marvão.
+Os interessados podem formular por escrito, reclamações, observações ou sugestões sobre a Revisão do Plano Diretor Municipal até ao termo do referido período, formalizada por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal de Marvão.
+14 de setembro de 2016. - O Presidente da Câmara Municipal, Victor Manuel Martins Frutuoso.
+609863341
