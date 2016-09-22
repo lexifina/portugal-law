@@ -8,4 +8,4 @@
 
 3 - Se o infractor for pessoa colectiva ou equiparada, respondem pelo pagamento da coima, solidariamente com aquela, os respectivos administradores, gerentes ou directores.
 
-4 - O contratante é responsável solidariamente pelo pagamento da coima aplicada ao subcontratante que execute todo ou parte do contrato nas instalações daquele ou sob responsabilidade do mesmo, pela violação de disposições a que corresponda uma infracção muito grave, salvo se demonstrar que agiu com a diligência devida.
+4 - O contratante e o dono da obra, empresa ou exploração agrícola, bem como os respetivos gerentes, administradores ou diretores, assim como as sociedades que com o contratante, dono da obra, empresa ou exploração agrícola se encontrem em relação de participações recíprocas, de domínio ou de grupo, são solidariamente responsáveis pelo cumprimento das disposições legais e por eventuais violações cometidas pelo subcontratante que executa todo ou parte do contrato nas instalações daquele ou sob responsabilidade do mesmo, assim como pelo pagamento das respetivas coimas.
