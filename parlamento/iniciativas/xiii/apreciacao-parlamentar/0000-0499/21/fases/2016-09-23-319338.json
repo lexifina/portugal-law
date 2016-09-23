@@ -1,0 +1,546 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "21",
+    "id": "40633",
+    "titulo": "Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2016-09-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11500",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2016-09-23",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "40606",
+        "leg": "XIII",
+        "nr": "19",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2221",
+            "obs": null,
+            "pag": [
+              "3-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-09-24",
+            "pubLeg": "XIII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/3?pgs=3-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2221",
+            "obs": null,
+            "pag": [
+              "3-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-09-24",
+            "pubLeg": "XIII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/3?pgs=3-46&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\""
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "40609",
+        "leg": "XIII",
+        "nr": "20",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2221",
+            "obs": null,
+            "pag": [
+              "3-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-09-24",
+            "pubLeg": "XIII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/3?pgs=3-46&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2221",
+            "obs": null,
+            "pag": [
+              "3-46"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-09-24",
+            "pubLeg": "XIII",
+            "pubNr": "5",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/3?pgs=3-46&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-09-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:27:01:342&drc=00:03:05:089"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:54:27:809&drc=00:01:12:914"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10",
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/10?pgs=10,17&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:30:12:916&drc=00:03:35:513"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:52:52:364&drc=00:01:28:190"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11",
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/10?pgs=10-11,16-17&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5855",
+                "nome": "Jorge Falcato Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:33:54:743&drc=00:02:47:720"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:36:49:248&drc=00:03:06:025"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:40:31:753&drc=00:03:43:615"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:44:44:809&drc=00:04:40:193"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Rocha  Andrade"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:49",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20160923plen&url=l13/sl2/a2016/m09/&tI=00:49:29:693&drc=00:01:46:306"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-09-24",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 41/2016, de 1 de agosto - \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos n.ºs 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7-A/2016, de 30 de março, altera o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o Código do Imposto sobre o Valor Acrescentado, o Regime do IVA nas Transações Intracomunitárias, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do Imposto do Selo, o Código do Imposto Municipal sobre Imóveis e o Código do Imposto Único de Circulação\"; Decreto-Lei n.º 41/2016, de 1 de Agosto que \"No uso da autorização legislativa concedida pelo artigo 131.º, pelos ?n.?^os 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março\" altera o Código do Imposto do Selo, o Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto-Lei n.º 185/86, de 14 de julho, o Código do IRS, o Código do IRC, o Regime do IVA nas Transações Intracomunitárias e o Código do Imposto Municipal sobre Imóveis; Decreto-Lei n.º 41/2016, de 1 de agosto, \"no uso da Autorização Legislativa concedida pelo artigo 131.º, pelos n.º 3 e 4 do artigo 140.º e pelos artigos 148.º a 150.º, 156.º, 166.º e 169.º da Lei n.º 7 -A/2016, de 30 de março, altera o Código do Imposto do Selo, Código do Imposto Único de Circulação, o Código do Imposto sobre o Valor Acrescentado, o Decreto -Lei n.º 185/86, de 14 de julho, o Código do Imposto sobre o Rendimento das Pessoas Singulares, o Código do Imposto sobre o Rendimento das Pessoas Coletivas, o regime do IVA nas transações intracomunitárias e o Código do Imposto Municipal sobre imóveis.\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "319338",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "770822",
+        "obs": null,
+        "pag": [
+          "10-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-09-24",
+        "pubLeg": "XIII",
+        "pubNr": "5",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/005/2016-09-24/10?pgs=10-17&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
