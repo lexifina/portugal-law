@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 16-A/2016
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, conjugadas com o disposto no n.º 4 do artigo 9.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo Despacho Normativo n.º 35-A/2008, de 29 de julho, e alterado pelo Despacho Normativo n.º 13/2009, de 1 de abril, declara-se nula e sem efeito a Portaria n.º 206/2016, publicada no Diário da República, 1.ª série, n.º 142, de 26 de julho.
+Secretaria-Geral, 23 de setembro de 2016. - A Secretária-Geral, em regime de suplência, Catarina Romão Gonçalves.
