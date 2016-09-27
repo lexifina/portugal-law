@@ -1,0 +1,14 @@
+Edital n.º 863/2016
+Maria Amélia de Jesus Pardal, Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea da Câmara Municipal de Almada, torna público que:
+A Câmara Municipal de Almada na sua reunião de 12 de agosto de 2016 deliberou:
+«1 - Determinar, nos termos dos artigos 118.º e 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, a elaboração da alteração ao Plano Diretor Municipal de Almada (PDMA) e à Reserva Ecológica Nacional (REN) Municipal no prazo de 8 meses, contados a partir da publicação da presente deliberação, e de acordo com os seguintes termos de referência para a alteração:
+Regularização da atividade de OGR desenvolvida no Ecocentro da AMARSUL, localizada na UNOP 8 - Funchalinho;
+Para o efeito, adequação do regime de uso do solo e regras de ocupação do solo do PDMA e redelimitação da REN.
+2 - Dispensar de Avaliação Ambiental Estratégica, nos termos do disposto do n.º 1 e n.º 2 do artigo 120.º do Decreto-Lei n.º 80/2015, de 14 de maio, atendendo a que os pressupostos base da presente alteração ao PDMA consubstanciam-se em pequenas alterações (n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio), as quais não conflituam com as caraterísticas do território, pelo que não são suscetíveis de ter efeitos significativos sobre o ambiente, de acordo com os critérios estabelecidos no anexo ao Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio.
+3 - Abrir, nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, um período para a formulação de sugestões e apresentação de informações de 15 dias, a partir da data da publicação do respetivo aviso no Diário da República e da divulgação na comunicação social e na página da internet da Câmara Municipal, nos termos do disposto no n.º 1, do artigo 76.º, do Decreto-Lei n.º 80/2015, de 14 de maio, indicando também que a proposta se encontra disponível para consulta:
+Nas instalações dos serviços técnicos da Câmara Municipal de Almada - Avenida D. Nuno Álvares Pereira 67 - 2800-181 Almada, no horário de expediente (entre as 9h e as 15h).
+Na União das Freguesias Charneca de Caparica e Sobreda, sita na Rua do Vale Linhoso 6A, 2819-502 Sobreda, no horário entre as 9h-12h30 e 14h-17h.
+4 - Concluído o período de participação, e respetiva análise, submeter à CCDRLVT a proposta de alteração a conferência procedimental, nos termos do artigo 86.º do Decreto-Lei n.º 80/2015, de 14 de maio.»
+E para constar se passou o presente Edital e outros de igual teor que vão ser afixados nos lugares de estilo.
+20 de setembro de 2016. - A Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea da Câmara Municipal de Almada, Maria Amélia de Jesus Pardal.
+609878108
