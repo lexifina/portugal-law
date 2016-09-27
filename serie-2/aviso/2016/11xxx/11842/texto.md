@@ -1,0 +1,10 @@
+Aviso n.º 11842/2016
+Alteração do Plano Diretor Municipal
+Ricardo Oliveira Figueiredo, Presidente da Câmara Municipal de São João da Madeira, torna público que, no âmbito da alteração do Plano Diretor Municipal, e em cumprimento da deliberação da Câmara Municipal de 6 de setembro de 2016, nos termos e para efeitos do n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, se encontra aberto um período de discussão pública no âmbito do presente processo de alteração, por um prazo de 30 (trinta) dias úteis, contados a partir do quinto dia útil seguinte à data da publicação do presente Aviso no Diário da República.
+Os interessados poderão consultar os elementos disponíveis na página da internet da Câmara Municipal de S. João da Madeira (www.cm-sjm.pt), ou no Gabinete de Atendimento ao Munícipe, entre as 9 horas e as 16 horas, convidando-se todos os interessados para, no decorrer do prazo acima referido, apresentarem, por escrito, as reclamações, observações ou sugestões que acharem por conveniente.
+Os interessados deverão apresentar as sugestões, informações ou observações mediante exposição dirigida ao Presidente da Câmara Municipal de S. João da Madeira, devendo neste constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam.
+21 de setembro de 2016. - O Presidente da Câmara, Ricardo Oliveira Figueiredo.
+Deliberação
+Nos termos da informação técnica prestada pelo Chefe da divisão de Planeamento, Ordenamento e Ambiente, na reunião ordinária pública realizada no dia 06 de setembro de 2016, a Câmara Municipal deliberou, por maioria, com quatro votos a favor e três abstenções, proceder à abertura de um período de discussão pública de 30 dias relativo à alteração do Plano Diretor Municipal. Mais deliberou que as alterações propostas não estão sujeitas a avaliação ambiental estratégica atendendo aos critérios definidos no Decreto-Lei n.º 232/2007, de 15 de junho, na redação introduzida pelo Decreto-Lei n.º 58/2001, de 4 de maio.
+9 de setembro de 2016. - A Coordenadora Técnica, Madalena Pinho.
+609879664
