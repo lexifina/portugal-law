@@ -22,11 +22,11 @@ h) Falta de comparência a convocatória do centro de emprego;
 
 i) Falta de comparência nas entidades para onde foi encaminhado pelo centro de emprego;
 
-j) Segunda verificação, pelo centro de emprego, do incumprimento do dever de apresentação quinzenal.
+j) (Revogada.)
 
 2 - Para efeitos da alínea d) do número anterior, considera-se como recusa do PPE a não aceitação ou sua não assinatura injustificada.
 
-3 - Nos casos previstos nas alíneas f), g) e j) do n.º 1, a anulação da inscrição só tem lugar nas situações em que o beneficiário já tenha sido advertido por escrito nos termos do artigo anterior.
+3 - Nos casos previstos nas alíneas f), g) e h) do n.º 1, a anulação da inscrição só tem lugar nas situações em que o beneficiário já tenha sido advertido por escrito nos termos do artigo anterior.
 
 4 - Determinam, ainda, a anulação da inscrição no centro de emprego a desistência injustificada ou exclusão justificada de trabalho socialmente necessário e formação profissional e a recusa ou desistência injustificada ou a exclusão justificada de medidas activas de emprego previstas no PPE.
 

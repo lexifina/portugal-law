@@ -22,7 +22,7 @@ d) Aceitar outras medidas activas de emprego em vigor não previstas nas alínea
 
 e) Procurar activamente emprego pelos seus próprios meios e efectuar a sua demonstração perante o centro de emprego;
 
-f) Cumprir o dever de apresentação quinzenal e efectuar a sua demonstração perante o centro de emprego;
+f) (Revogada.)
 
 g) Sujeitar-se a medidas de avaliação, acompanhamento e controlo, nomeadamente comparecer nas datas e nos locais que lhes forem determinados pelo centro de emprego.
 

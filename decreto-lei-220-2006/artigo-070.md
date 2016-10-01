@@ -12,11 +12,11 @@ c) Implementar medidas personalizadas de acompanhamento, avaliação e controlo 
 
 d) Prestar apoio e acompanhamento personalizado ao beneficiário na aquisição de estratégias de aproximação ao mercado de trabalho ou outras intervenções promotoras da empregabilidade, nomeadamente através da orientação, formação e acompanhamento dos esforços de procura activa e melhoria das condições de empregabilidade a desenvolver pelo beneficiário;
 
-e) Convocar os beneficiários das prestações de desemprego para comparência periódica no serviço público de emprego;
+e) Convocar os beneficiários das prestações de desemprego para comparência no serviço público de emprego, ou outro local a definir em função do objetivo e proximidade com a residência do beneficiário, no âmbito de ações de controlo não periódicas, acompanhamento personalizado e avaliação;
 
 f) Proceder à qualificação do emprego como conveniente e do trabalho como socialmente necessário;
 
-g) Avaliar a justificação das faltas de comparência do beneficiário a convocatória do serviço público de emprego e à apresentação quinzenal;
+g) Avaliar a justificação das faltas de comparência do beneficiário a convocatória do serviço público de emprego;
 
 h) Avaliar a justificação da recusa de emprego conveniente e da recusa, desistência ou exclusão de trabalho socialmente necessário ou formação profissional;
 
