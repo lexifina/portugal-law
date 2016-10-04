@@ -1,0 +1,8 @@
+Aviso n.º 12142/2016
+Elaboração do Plano de Pormenor do Parque Termal do Cró
+Para os devidos efeitos, torna-se público que, nos termos e para os efeitos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, em reunião ordinária ocorrida a 16 de setembro, a Câmara Municipal deliberou proceder à abertura da discussão pública do Plano de Pormenor do Parque Termal do Cró e estabeleceu um prazo de 20 dias a contar do quinto dia após data de publicação do presente Aviso no Diário da República, para formulação de sugestões e observações sobre quaisquer questões que possam ser consideradas no âmbito da elaboração, por todos os interessados.
+Em cumprimento do disposto no n.º 1 do artigo 89.º e no n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio o presente Aviso será publicado na 2.ª série do Diário da República, e divulgado na comunicação social, na plataforma colaborativa de gestão territorial e no sítio eletrónico do Município do Sabugal.
+A proposta de elaboração, o Relatório Ambiental, a ata da conferência de serviços e demais pareceres emitidos estão disponíveis para consulta no edifício do Auditório Municipal, de terças a domingo, e no Balcão Único, nos dias úteis das 9:00 às 16:00, bem como no sitio electrónico do Município: http://www.cm-sabugal.pt
+Os interessados deverão apresentar as observações e sugestões, mediante requerimento devidamente identificado dirigido ao Presidente da Câmara Municipal do Sabugal, por correio cuja morada é Praça da República 6324-007 Sabugal ou através de correio electrónico para o endereço: presidencia@cm-sabugal.pt.
+16 de setembro de 2016. - O Presidente da Câmara, António dos Santos Robalo.
+609892607
