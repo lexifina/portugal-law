@@ -1,0 +1,4 @@
+Aviso n.º 12150/2016
+António Carlos da Costa Camilo, Presidente da Junta de Freguesia da Golegã, torna público que, de acordo com a deliberação da Junta de Freguesia 21 de setembro de 2016 e em cumprimento com o artigo 101.º do Código do Procedimento Administrativo, foi deliberado submeter à consulta pública, pelo prazo de 30 dias, a contar do dia seguinte ao da publicação do presente aviso, o Projeto de Regulamento e Tabela de Taxas e Preços, o qual poderá ser consultado na sede da Freguesia e no respetivo sítio institucional na Internet (http://www.jfgolega.com). Os interessados podem apresentar eventuais sugestões, as quais deverão ser formuladas por escrito e dirigidas ao senhor Presidente da Junta de Freguesia.
+26 de setembro de 2016. - O Presidente da Freguesia, António Carlos da Costa Camilo.
+309891595
