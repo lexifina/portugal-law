@@ -1,0 +1,615 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12868",
+  "numero": "187",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-10-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2016-12-20",
+            "entidades": null,
+            "id": "103522",
+            "tipo": null,
+            "titulo": "Audição em 2016-12-20 com Subscritores da Petição n.º 187/XIII (2.ª) Proteção do Forte de Peniche da concessão a privados."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-11-30",
+            "dataResposta": "2017-01-17",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "183/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-30",
+            "dataResposta": "2017-01-16",
+            "entidades": [
+              "MIN.  DA  CULTURA"
+            ],
+            "nrOficio": "183/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-11-30",
+            "dataResposta": "2017-01-04",
+            "entidades": [
+              "MIN. DA ECONOMIA"
+            ],
+            "nrOficio": "183/CCCJD/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-01-19",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "785414",
+                "obs": null,
+                "pag": [
+                  "15-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-01-21",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/023/2017-01-21/15?pgs=15-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-11-30",
+        "DataArquivo": "2017-01-20",
+        "DataBaixaComissao": "2016-10-31",
+        "DataEnvioPAR": "2017-01-20",
+        "DataReaberta": "2016-11-30",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3251355a474e694e4441784c5746685a5441744e4446685a6930345a446c6c4c54597a4e5451304d4455354d6a63785a4335775a47593d&fich=d9dcb401-aae0-41af-8d9e-63544059271d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3249785a4755315a6a5a6b4c5459774e4745744e4751344e6931684d7a42694c5456684e6d457a4e7a5a6a4d5445784d4335775a47593d&fich=b1de5f6d-604a-4d86-a30b-5a6a376c1110.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a49344e546c6d4e4459794c544534595445744e4449304f5331694f544d334c544d334d7a6b344e4759314e5755774d4335775a47593d&fich=2859f462-18a1-4249-b937-373984f55e00.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c325a6c4f4751344f4459794c54646a4f444d744e44426c4d4331694d4467774c546b7a4f4759354e7a457a596a45774e6935775a47593d&fich=fe8d8862-7c83-40e0-b080-938f9713b106.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-01-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a41314e5468694e6a67354c544a6a593251744e47566c4e4330344e6a45354c5751315a6a45774e5459795a4451785a4335775a47593d&fich=0558b689-2ccd-4ee4-8619-d5f10562d41d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3245784d6a55774e5442694c54457a4d5455744e4759774e7931695a445a6d4c5445314e4452695a6d4d78596d4a6a4d4335775a47593d&fich=a125050b-1315-4f07-bd6f-1544bfc1bbc0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32566c4e7a4a6d4d44686a4c5464694e6a41744e4441344e7931684e6a466d4c5749315a5749324d7a63784e6a55324f4335775a47593d&fich=ee72f08c-7b60-4087-a61f-b5eb63716568.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a63354f574977593246684c5441784d6d45744e4464684e693035596a677a4c54526a5a6a566a4d57466d4f575a6c597935775a47593d&fich=799b0caa-012a-47a6-9b83-4cf5c1af9fec.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-11-30",
+            "gp": "PS",
+            "id": "1851",
+            "motivoCessacao": null,
+            "nome": "Gabriela Canavilhas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-04-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-11-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344d544979595751785953307a4f4449774c5451324f445974595759314d7930304e6a41795a47466d596a686b4d5463756347526d&fich=8122ad1a-3820-4686-af53-4602dafb8d17.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40769"
+    ],
+    "Iniciativasoriginadas": [
+      "40769",
+      "41226",
+      "41241"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=02:56:28:981&drc=00:02:37:019"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208937",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=02:59:09:877&drc=00:02:42:122"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=03:01:54:742&drc=00:02:49:257"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=03:04:49:163&drc=00:02:51:836"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=03:07:43:628&drc=00:01:58:371"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=03:09:47:532&drc=00:02:19:945"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-04-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_05_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=03:12:16:052&drc=00:00:28:948"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-06",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção do Forte de Peniche da concessão a privados; Preservação da memória e história do Forte de Peniche; Recomenda ao Governo a preservação, a conservação e a dignificação da Fortaleza de Peniche e Recuperação, requalificação e valorização do Forte de Peniche.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12868",
+    "PetAssunto": "Proteção do Forte de Peniche da Concessão a Privados",
+    "PetDataEntrada": "2016-10-05",
+    "PeticoesAssociadas": null,
+    "PetId": "12868",
+    "PetLeg": "XIII",
+    "PetNr": "187",
+    "PetNrAssinaturas": "9635",
+    "PetNrAssinaturasInicial": "4768",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2324",
+        "obs": null,
+        "pag": [
+          "49-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-06",
+        "pubLeg": "XIII",
+        "pubNr": "72",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/072/2017-04-06/49?pgs=49-53&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "778145",
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-09",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/016/2016-12-09/5?pgs=5&org=PLC"
+      }
+    ]
+  }
+}
