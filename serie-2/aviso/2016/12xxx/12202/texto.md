@@ -1,0 +1,6 @@
+Aviso n.º 12202/2016
+Discussão pública da Alteração do Plano Diretor Municipal (PDM)
+Dr. Aníbal Sousa Reis Coelho da Costa, Presidente da Câmara Municipal de Ferreira do Alentejo, torna público, que no cumprimento do disposto no n.º 1 do artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), conjugado com o n.º 2 do artigo 88.º do mesmo regime, a Câmara Municipal deliberou na sua reunião ordinária, realizada no dia 7 de setembro de 2016, deliberou proceder à abertura de um período de discussão pública, período esse que se fixa em 15 dias úteis, contados a partir do 5.º dia útil após a data da publicação do respetivo Aviso no Diário da República, para a formulação de sugestões e apresentação de informações que possam ser consideradas relevantes no âmbito do respetivo procedimento de alteração.
+Os interessados poderão consultar a referida deliberação, bem como os documentos que a compõem, na página eletrónica da Câmara Municipal de Ferreira do Alentejo (www..cm-ferreira-alentejo.pt) e nas instalações da Divisão Técnica-Edifício da Assembleia Municipal-Praça Comendador Infante Passanha-Ferreira do Alentejo.
+8 de setembro de 2016. - O Presidente da Câmara Municipal, Dr. Aníbal Sousa Reis Coelho da Costa.
+609894673
