@@ -44,6 +44,6 @@ Grossistas - 1,18 %, calculada sobre o PVA, acrescido de (euro) 3,68;
 
 Farmácias - 2,66 %, calculada sobre o PVA, acrescido de (euro) 8,28.
 
-2 - A dispensa de medicamentos genéricos, e de entre estes dos mais baratos, pode ser objeto de remuneração adicional às farmácias participantes em programas de saúde pública nos termos e nas condições a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+2 - (Revogado).
 
 3 - Aos medicamentos integrados no regime de preços notificados podem ser aplicadas margens de comercialização diferentes das previstas no presente artigo, nos termos a definir por portaria do membro do Governo responsável pela área da saúde.
