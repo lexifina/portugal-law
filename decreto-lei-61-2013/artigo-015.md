@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Relações com países terceiros
-
 # Artigo 15.º
 
 ### Troca de informações com países terceiros

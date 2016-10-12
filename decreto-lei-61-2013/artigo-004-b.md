@@ -4,11 +4,7 @@
 
 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, entende-se por 'Instituição financeira não reportante' qualquer instituição financeira que seja:
 
-a) Uma entidade pública, uma organização internacional ou um banco central, salvo no que diz respeito:
-
-i) Ao pagamento resultante de uma obrigação detida em ligação com uma atividade financeira comercial exercida por uma empresa de seguros especificada, uma instituição de custódia ou uma instituição de depósito; ou
-
-ii) À atividade de manutenção de moedas digitais de banco central para titulares de contas que não sejam instituições financeiras, entidades públicas, organizações internacionais ou bancos centrais;
+a) Uma entidade pública, uma organização internacional ou um banco central, salvo no que diz respeito ao pagamento resultante de uma obrigação detida em ligação com uma atividade financeira comercial exercida por uma empresa de seguros especificada, uma instituição de custódia ou uma instituição de depósito;
 
 b) Um fundo de pensões de participação alargada, um fundo de pensões de participação limitada, um fundo de pensões de uma entidade pública, de uma organização internacional ou de um banco central, ou um emitente qualificado de cartões de crédito;
 
@@ -20,7 +16,7 @@ e) Um trust (estrutura fiduciária), desde que o trustee (fiduciário) seja uma 
 
 2 - Entende-se por 'Entidade pública' o governo de um Estado-Membro ou outra jurisdição, qualquer subdivisão política de um Estado-membro ou outra jurisdição, incluindo estados, regiões autónomas, províncias, distritos ou municípios, bem como qualquer agência ou instrumento de intervenção totalmente detido por um Estado-Membro ou outra jurisdição ou por uma ou várias entidades públicas, abrangendo ainda:
 
-a) «Partes integrantes» de um Estado-Membro ou outra jurisdição, que se entendem como incluindo qualquer pessoa, organização, agência, gabinete, fundo, instrumento de intervenção ou outro organismo, seja qual for a sua designação, que constitua uma autoridade de governação de um Estado-Membro ou outra jurisdição, desde que os rendimentos líquidos dessa autoridade de governação sejam creditados na sua própria conta ou noutras contas do Estado-Membro ou outra jurisdição, não podendo nenhuma parte desses rendimentos reverter a favor de uma pessoa singular, e como excluindo qualquer pessoa que seja membro do governo, funcionário, ou administrador que atue a título privado ou pessoal;
+a) 'Partes integrantes' de um Estado-Membro ou outra jurisdição, que se entendem como incluindo qualquer pessoa, organização, agência, gabinete, fundo, instrumento de intervenção ou outro organismos, seja qual for a sua designação, que constitua uma autoridade de governação de um Estado-Membro ou outra jurisdição, desde que os rendimentos líquidos dessa autoridade de governação sejam creditados na sua própria conta ou noutras contas do Estado-Membro ou outra jurisdição, não podendo nenhuma parte desses rendimentos reverter a favor de uma pessoa singular, e como excluindo qualquer pessoa que seja membro do governo, funcionário, ou administrador que atue a título privado ou pessoal;
 
 b) 'Entidades controladas', que se entendem como incluindo qualquer entidade formalmente distinta de um Estado-Membro ou outra jurisdição que seja totalmente detida e controlada por uma ou várias entidades públicas, diretamente ou através de uma ou várias entidades controladas, desde que os respetivos rendimentos líquidos sejam creditados na sua própria conta ou nas contas de uma ou várias entidades públicas, não podendo nenhuma parte dos seus rendimentos reverter a favor de uma pessoa singular, e desde que, em caso de dissolução, os ativos dessa entidade revertam a favor de uma ou várias entidades públicas.
 
@@ -36,7 +32,7 @@ b) O rendimento reverte a favor de pessoas singulares caso esse rendimento resul
 
 6 - Em território nacional, são qualificáveis como instituições financeiras não reportantes para efeitos do disposto na alínea a) do n.º 1, nomeadamente:
 
-a) O Estado Português, as regiões autónomas e as autarquias locais, ou qualquer instituição ou organismo detido na totalidade por estes, excluindo as instituições financeiras;
+a) O Estado Português, as regiões autónomas e as autarquias locais, ou qualquer instituição ou organismo detido na totalidade por este, excluindo as instituições financeiras;
 
 b) As instituições de segurança social e previdência e os fundos de capitalização por elas administrados;
 
@@ -60,7 +56,7 @@ ii) O fundo receba pelo menos 50 % das suas contribuições totais dos empregado
 
 iii) As distribuições ou levantamentos do fundo, salvo no caso de transferências de ativos para qualquer outro dos fundos de pensões qualificados como instituições financeiras não reportantes nos termos do presente artigo, ou para contas de reforma ou de pensões qualificadas como excluídas nos termos da alínea a) do n.º 1 do artigo 4.º-E, só estejam autorizadas no momento da ocorrência de determinados eventos relacionados com a reforma, invalidez, ou morte, sendo aplicadas penalizações a distribuições ou levantamentos efetuados antes da ocorrência de tais eventos;
 
-iv) As contribuições dos assalariados para o fundo, salvo quando correspondentes a contribuições compensatórias autorizadas, estejam limitadas por referência ao rendimento do trabalho dos assalariados ou não excedam, anualmente, um montante correspondente a USD 50 000, aplicando-se as regras de agregação previstas nos artigos 25.º a 27.º do anexo ao presente decreto-lei;
+iv) As contribuições dos assalariados para o fundo, salvo quando correspondentes a contribuições compensatórias autorizadas, estejam limitadas por referência ao rendimento do trabalho dos assalariados ou não excedam, anualmente, um montante correspondente a USD 50 000;
 
 b) 'Fundo de pensões de participação limitada' um fundo instituído para conceder prestações de reforma, de invalidez, ou por morte a beneficiários que são ou foram assalariados, ou pessoas por estes designadas, de um ou vários empregadores em contrapartida de serviços prestados, desde que:
 
@@ -80,9 +76,7 @@ d) 'Emitente qualificado de cartões de crédito' uma instituição financeira q
 
 i) Evitar que os clientes efetuem pagamentos em excesso superiores a USD 50 000, incluindo-se neste cômputo os saldos credores resultantes da devolução de mercadorias e excluindo-se os saldos credores imputáveis a taxas em litígio; ou
 
-ii) Garantir que qualquer pagamento em excesso superior ao montante referido na subalínea anterior seja reembolsado ao cliente no prazo de 60 dias;
-
-iii) Para efeitos das subalíneas anteriores, aplicam-se as regras de agregação previstas nos artigos 25.º a 27.º do anexo ao presente decreto-lei.
+ii) Garantir que qualquer pagamento em excesso superior ao montante referido na subalínea anterior seja reembolsado ao cliente no prazo de 60 dias.
 
 8 - Para efeitos da alínea d) do n.º 1, entende-se por 'Veículo de investimento coletivo isento' uma entidade de investimento regulada enquanto tal, ainda que em legislação especial, desde que todas as participações no veículo de investimento coletivo sejam detidas por pessoas singulares ou entidades que não sejam pessoas sujeitas a comunicação, ou através de tais pessoas ou entidades, exceto se essa entidade for qualificável como ENF com pessoas que exercem o controlo que são pessoas sujeitas a comunicação.
 

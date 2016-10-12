@@ -4,7 +4,7 @@
 
 1 - Entende-se por 'Conta preexistente':
 
-a) Uma conta financeira mantida por uma instituição financeira reportante em 31 de dezembro de 2015 ou, quando a conta seja considerada conta financeira unicamente por força das alterações introduzidas pela Lei n.º 26/2026, que transpõe a Diretiva (UE) 2023/2226 do Conselho da União Europeia, em 31 de dezembro de 2025;
+a) Uma conta financeira mantida por uma instituição financeira reportante em 31 de dezembro de 2015;
 
 b) Qualquer conta financeira do titular da conta, independentemente da data de abertura dessa conta financeira, desde que estejam verificados os seguintes requisitos cumulativos:
 
@@ -16,7 +16,7 @@ iii) Relativamente a uma conta financeira que esteja sujeita aos procedimentos a
 
 iv) A abertura da conta financeira não exigir a prestação de informações novas, adicionais ou alteradas sobre o cliente por parte do titular da conta, exceto para efeitos do presente decreto-lei.
 
-2 - Entende-se por ‘Conta nova’ uma conta financeira mantida por uma instituição financeira reportante aberta em 1 de janeiro de 2016 ou após essa data ou quando a conta seja considerada conta financeira unicamente por força das alterações introduzidas pela Lei n.º 26/2026, em 1 de janeiro de 2026 ou após essa data.
+2 - Entende-se por 'Conta nova' uma conta financeira mantida por uma instituição financeira reportante aberta em 1 de janeiro de 2016 ou após essa data, a não ser que seja equiparada a conta preexistente nos termos da alínea b) do número anterior.
 
 3 - Entende-se por 'Conta preexistente de pessoa singular' uma conta preexistente detida por uma ou várias pessoas singulares.
 

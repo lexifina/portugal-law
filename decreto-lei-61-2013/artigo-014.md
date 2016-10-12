@@ -1,4 +1,4 @@
-# Artigo 14
+# Artigo 14.º
 
 ### Obrigações da Autoridade Tributária e Aduaneira
 
@@ -19,9 +19,3 @@ c) As informações que são objeto do pedido constarem da base de dados da Auto
 5 - A pessoa referida no n.º 3 pode, no prazo que lhe for concedido para o efeito, pronunciar-se sobre o pedido e apresentar as razões pelas quais considera que as informações não devem ser prestadas.
 
 6 - O disposto nos n.os 2 e 4 do artigo 13.º não pode, em caso algum, ser entendido como autorizando a autoridade competente nacional a escusar-se a prestar informações, invocando apenas como fundamento o facto de as informações solicitadas estarem na posse de uma instituição bancária, de outra instituição financeira, de uma pessoa designada ou atuando na qualidade de agente ou de fiduciário ou pelo facto de estarem relacionadas com uma participação no capital de uma pessoa.
-
-7 - A Autoridade Tributária e Aduaneira cria um mecanismo eficaz para assegurar a utilização das informações obtidas através da comunicação ou da troca de informações nos termos do artigo 6.º
-
-8 - A Autoridade Tributária e Aduaneira envida esforços para assegurar que uma entidade reportante seja autorizada a obter confirmação por meios eletrónicos da validade das informações relativas ao NIF de qualquer contribuinte sujeito à troca de informações nos termos do artigo 6.º
-
-9 - A confirmação das informações relativas ao NIF, a que se refere o número anterior, só pode ser solicitada para efeitos de validação da exatidão dos dados referidos no artigo 6.º

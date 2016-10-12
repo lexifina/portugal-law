@@ -6,9 +6,9 @@
 
 2 - Para efeitos do número anterior, entende-se por 'Pessoa sujeita a comunicação' uma pessoa de um Estado-Membro que não seja:
 
-a) Uma entidade cujos títulos sejam regularmente negociados num ou em vários mercados regulamentados de valores mobiliários;
+a) Uma sociedade de capitais cujos títulos são regularmente negociados num ou em vários mercados regulamentados de valores mobiliários;
 
-b) Qualquer entidade que seja uma entidade relacionada de uma sociedade mencionada na alínea anterior;
+b) Qualquer sociedade que seja uma entidade relacionada de uma sociedade descrita na subalínea anterior;
 
 c) Uma entidade pública;
 
