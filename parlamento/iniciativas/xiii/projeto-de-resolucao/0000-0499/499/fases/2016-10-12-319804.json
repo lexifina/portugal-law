@@ -1,0 +1,369 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "499",
+    "id": "40690",
+    "titulo": "Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2016-10-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11555",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2016-10-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40686",
+        "leg": "XIII",
+        "nr": "494",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2235",
+            "obs": null,
+            "pag": [
+              "3-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-13",
+            "pubLeg": "XIII",
+            "pubNr": "11",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/3?pgs=3-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-10-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=02:44:45:583&drc=00:03:47:416"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=03:03:14:825&drc=00:01:43:174"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45",
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-13",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/44?pgs=44-45,49&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas; Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2010",
+                "nome": "Ascenso Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=02:48:37:218&drc=00:04:12:781"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-13",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas; Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5645",
+                "nome": "António Costa Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=02:52:55:731&drc=00:03:06:836"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-13",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas; Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=02:56:06:537&drc=00:02:58:462"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-13",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas; Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:52",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161012plen&url=l13/sl2/a2016/m10/&tI=02:59:08:681&drc=00:04:02:318"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-13",
+                "pubLeg": "XIII",
+                "pubNr": "11",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que desenvolva as medidas necessárias para que a UNICER cumpra integralmente os compromissos assumidos no âmbito do projeto PIN em Pedras Salgadas; Recomenda ao Governo a valorização do turismo termal do eixo Chaves/Peso da Régua.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "319804",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "774207",
+        "obs": null,
+        "pag": [
+          "44-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-13",
+        "pubLeg": "XIII",
+        "pubNr": "11",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/011/2016-10-13/44?pgs=44-49&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
