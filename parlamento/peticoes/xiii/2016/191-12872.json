@@ -1,0 +1,534 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12872",
+  "numero": "191",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-10-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-04-12",
+            "entidades": null,
+            "id": "104895",
+            "tipo": null,
+            "titulo": "Audição em 2017-04-12 com Srª. Liliana Gonçalves; Srª. Maria Catapirra; Srª.Sofia Figueiredo e Srª. Anabela  Lima"
+          },
+          {
+            "data": "2019-04-11",
+            "entidades": null,
+            "id": "112129",
+            "tipo": null,
+            "titulo": "Audição em 2019-04-11 com 1.ª Subscritora da Petição n.º 191/XIII/2.ª  - D. Liliana Gonçalves, APRe! Aposentados, Pensionistas e Reformados, Associação Nacional de Cuidadores Informais, FamiliarMente-Federação Portuguesa das Associações das Famílias de Pessoas Com Experiência de Doença Mental, Grupo Estatuto do Cuidador Informal Já, Grupo O céu é o limite, HUMANITAS Federação Portuguesa para a Deficiência Mental"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-07-05",
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "186/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2016-12-22",
+            "dataResposta": "2017-07-17",
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "185/CTSS/2016",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-10-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-12-21",
+        "DataArquivo": "2017-10-04",
+        "DataBaixaComissao": "2016-10-31",
+        "DataEnvioPAR": "2017-10-04",
+        "DataReaberta": "2016-12-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a51354d7a5a684e3251744d4745774d7930305a4749324c546733597a6b744e6a526c4d6d46684e7a686c4d324a6a4c6e426b5a673d3d&fich=c4936a7d-0a03-4db6-87c9-64e2aa78e3bc.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6a59304d546b7a4d7a6774597a6b79597930304e575a6c4c574578597a6b744e5463784d4749774f544a6a4f4463324c6e426b5a673d3d&fich=26419338-c92c-45fe-a1c9-5710b092c876.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2016-12-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6a6b774d6d4d775a445574596a41324d5330305954557a4c57457959574d744e6a4d324f4751324d6d4e6b4e546b314c6e426b5a673d3d&fich=2902c0d5-b061-4a53-a2ac-6368d62cd595.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-10-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6a466c4d6d49324d546b744e5751775a6930304d4749774c54686a5a4751744d5451334d4467334f5467355a6a646a4c6e426b5a673d3d&fich=61e2b619-5d0f-40b0-8cdd-147087989f7c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-09-25",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d5445314d6a4e6d4e5751744d4745315a5330304d6d4d304c5746694e575574595451324d4449314d5455304d4441794c6e426b5a673d3d&fich=11523f5d-0a5e-42c4-ab5e-a46025154002.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-07-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e54426a597a6b334e4463744d6a557a4e4330304d6a59344c5745345a6a55744e3249335a575a6d4d4745334e474a6d4c6e426b5a673d3d&fich=50cc9747-2534-4268-a8f5-7b7eff0a74bf.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-12-21",
+            "gp": "BE",
+            "id": "2433",
+            "motivoCessacao": null,
+            "nome": "José Moura Soeiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-03-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-11-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938324f446b324f4755355a6930794f54466a4c5452684d5445744f575134597931694f44673559545134597a67355a6a51756347526d&fich=68968e9f-291c-4a11-9d8c-b889a48c89f4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42302",
+      "42306",
+      "42287",
+      "42297"
+    ],
+    "Iniciativasoriginadas": [
+      "42287",
+      "42297",
+      "42302",
+      "42306"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:03:42:646&drc=00:03:33:332"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:07:15:979&drc=00:01:36:725"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:08:52:704&drc=00:03:37:134"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:12:29:838&drc=00:03:09:996"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:15:39:834&drc=00:03:28:436"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:19:08:271&drc=00:03:05:066"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador; Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal; Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12872",
+    "PetAssunto": "Criação do Estatuto do Cuidador Informal da pessoa com doença de Alzheimer e outras demências ou patologias neurodegenerativas e criação do Dia nacional do Cuidador.",
+    "PetDataEntrada": "2016-10-12",
+    "PeticoesAssociadas": null,
+    "PetId": "12872",
+    "PetLeg": "XIII",
+    "PetNr": "191",
+    "PetNrAssinaturas": "8057",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2475",
+        "obs": null,
+        "pag": [
+          "52-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-17",
+        "pubLeg": "XIII",
+        "pubNr": "61",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/52?pgs=52-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "780609",
+        "obs": null,
+        "pag": [
+          "15-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-22",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/018/2016-12-22/15?pgs=15-16&org=PLC"
+      }
+    ]
+  }
+}
