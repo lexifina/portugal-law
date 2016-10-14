@@ -1,0 +1,12 @@
+Aviso n.º 12597/2016
+Prorrogação da V Suspensão Parcial do Plano Diretor Municipal de Benavente e das respetivas Medidas Preventivas
+Carlos António Pinto Coutinho, Presidente da Câmara Municipal de Benavente, torna público, nos termos do disposto no n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), que a Assembleia Municipal de Benavente aprovou, em sessão extraordinária realizada no dia 5 de setembro de 2016, sob proposta da Câmara Municipal, a prorrogação por mais um ano, do prazo de vigência da V suspensão parcial do Plano Diretor Municipal de Benavente (PDMB) e das respetivas medidas preventivas, estabelecidas para a área de 29,39 ha, localizada na Fonte das Somas, Gatinheiras, na freguesia de Benavente e publicadas no Diário da República, 2.ª série, de 3 de novembro de 2014, através do Aviso n.º 12280/2014, produzindo efeitos a partir do dia 4 de novembro de 2016.
+O município fundamenta a necessidade desta prorrogação devido ao facto da ampliação da unidade industrial da Sugal, S. A., anterior Sugalidal, S. A., se encontrar ainda em execução e do procedimento de revisão do PDMB para a área em causa não estar concluído no prazo de vigência das medidas preventivas.
+A Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo emitiu parecer favorável no âmbito do n.º 7 do artigo 141.º do RJIGT (ofício referência S08572-201608-P-S de 2016/08/08).
+No respeito pelo disposto nas alíneas h) e i) do n.º 4 do artigo 191.º do RJIGT, publica-se a certidão da respetiva deliberação.
+29 de setembro de 2016. - O Presidente da Câmara, Carlos António Pinto Coutinho.
+Deliberação
+Irina Noel Matias Batista, Primeira Secretária da Assembleia Municipal de Benavente, certifica que, na sessão extraordinária, realizada no dia cinco de setembro de dois mil e dezasseis, a Assembleia Municipal de Benavente deliberou, por maioria, com dezoito votos a favor (treze da CDU, quatro do PSD e um do PS) e cinco abstenções do PS, aprovar a Proposta de Prorrogação do Prazo de Vigência da Suspensão Parcial do Plano Diretor Municipal de Benavente e de Estabelecimento de Medidas Preventivas - Quinta da Brasileira/Benavente - Fonte das Somas - Gatinheiras/Benavente - Ampliação da área industrial da SUGALIDAL, nos termos do RJIGT - Regime Jurídico dos Instrumentos de Gestão Territorial.
+Por ser verdade o certifica.
+Benavente, cinco de setembro de dois mil e dezasseis. - A Primeira Secretária da Assembleia Municipal, Irina Noel Matias Batista.
+609921191
