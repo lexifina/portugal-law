@@ -7,3 +7,5 @@ Podem ser apresentadas candidaturas nos termos do disposto no n.º 1 do artigo 6
 a) Formação modular para empregados e desempregados;
 
 b) Formação modular para desempregados de longa duração.
+
+c) Capacitação para a inclusão.

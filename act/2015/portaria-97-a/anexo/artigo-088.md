@@ -7,3 +7,5 @@ Podem ser apresentadas candidaturas integradas de formação nos termos do dispo
 a) Formação modular para empregados e desempregados;
 
 b) Formação modular para desempregados de longa duração.
+
+c) Capacitação para a inclusão.

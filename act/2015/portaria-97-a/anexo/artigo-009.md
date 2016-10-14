@@ -8,9 +8,13 @@
 
 3 - Os avisos para apresentação de candidaturas devem conter os elementos previstos no n.º 6 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 
-4 - As candidaturas apresentadas pelas entidades beneficiárias podem ter uma duração anual ou plurianual, não podendo ultrapassar, neste último caso, os 36 meses, sem prejuízo do disposto no n.º 3 do artigo 242.º no que diz respeito às operações de Títulos de Impacto Social.
+4 - As candidaturas apresentadas pelas entidades beneficiárias podem ter uma duração anual ou plurianual, não podendo ultrapassar, neste último caso, os 36 meses, exceto nas seguintes situações:
 
-5 - Após a submissão da candidatura, o beneficiário deve submeter eletronicamente o termo de responsabilidade, no prazo máximo de 10 dias úteis, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+a) Programa Escolhas, que podem ter a duração máxima de 42 meses nos casos previstos no artigo 215.º-A;
+
+b) Títulos de Impacto Social, que podem ter a duração máxima de cinco anos nos casos previstos no artigo 242.º
+
+5 - No momento da submissão da candidatura, o beneficiário submete eletronicamente o termo de responsabilidade, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro.
 
 6 - A apresentação de candidaturas pode ser feita por convite, em casos excecionais, devidamente justificados, mediante deliberação da Comissão Interministerial de Coordenação (CIC Portugal 2020) ou da CIC especializada da Inclusão Social e Emprego por delegação daquela.
 
