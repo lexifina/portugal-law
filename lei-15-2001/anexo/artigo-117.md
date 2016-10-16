@@ -19,3 +19,5 @@
 8 - A falta de apresentação ou a apresentação fora do prazo legal das declarações previstas nas alíneas b) e d) do n.º 7 do artigo 69.º do Código do IRC é punível com coima de (euro) 500 a (euro) 22 500.
 
 9 - Quando a infração prevista no n.º 1 diga respeito às comunicações exigidas nos artigos 3.º e 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 71/2013, de 30 de maio, a mesma constitui contraordenação grave, punível com coima de (euro) 200 a (euro) 10 000.
+
+10 - A falta de apresentação ou apresentação fora do prazo legal da declaração de registo e da comunicação à administração tributária, da informação a que as instituições financeiras reportantes se encontram obrigadas a prestar por força do disposto no Decreto-Lei n.º 61/2013, de 10 de maio, ou do Regime de acesso automático a informações financeiras relativas a residentes, no prazo que legalmente seja fixado, é punível com coima de (euro)500 a (euro)22 500.
