@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Condições que regem a cooperação administrativa
+
 # Artigo 12.º
 
 ### Divulgação de informações e de documentos

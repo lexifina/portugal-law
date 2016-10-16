@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Obrigações das instituições financeiras para efeitos da troca obrigatória e automática de informações
+
 # Artigo 7.º-A
 
 ### Regras de comunicação e diligência devida a aplicar pelas instituições financeiras

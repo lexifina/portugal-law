@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Troca de informações
+
 # Artigo 5.º
 
 ### Troca de informações a pedido

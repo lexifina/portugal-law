@@ -2,6 +2,10 @@
 
 ## Procedimentos de diligência devida para contas de pessoas singulares
 
+## Secção I
+
+## Procedimentos de diligência devida para contas preexistentes de pessoas singulares
+
 # Artigo 4.º
 
 ### Âmbito de aplicação

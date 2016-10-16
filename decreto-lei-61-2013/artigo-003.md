@@ -1,7 +1,3 @@
-## Capítulo I
-
-## Disposições gerais
-
 # Artigo 3.º
 
 ### Definições

@@ -1,3 +1,7 @@
+## Capítulo I
+
+## Requisitos gerais
+
 # Artigo 1.º
 
 ### Requisitos gerais de comunicação

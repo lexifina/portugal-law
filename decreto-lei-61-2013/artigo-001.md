@@ -2,11 +2,11 @@
 
 ## Disposições gerais
 
-# Artigo 1
+# Artigo 1.º
 
 ### Objeto
 
-1 - O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva 2011/16/UE do Conselho, de 15 de fevereiro de 2011, relativa à cooperação administrativa no domínio da fiscalidade, com as alterações introduzidas pelas Diretivas 2014/107/UE do Conselho, de 9 de dezembro de 2014, (UE) 2015/2376 do Conselho, de 8 de dezembro de 2015, (UE) 2016/881 do Conselho, de 25 de maio de 2016, (UE) 2021/514 do Conselho, de 22 de março de 2021, (UE) 2023/2226 do Conselho, de 17 de outubro de 2023, e (UE) 2025/872 do Conselho, de 14 de abril de 2025.
+1 - O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva 2014/107/UE do Conselho, de 9 de dezembro de 2014, que altera a Diretiva 2011/16/UE no que respeita à troca automática de informações obrigatória no domínio da fiscalidade.
 
 2 - As regras e os procedimentos de cooperação administrativa abrangidos pelo presente decreto-lei têm em vista a troca de informações previsivelmente relevantes para a aplicação e execução da legislação dos Estados-Membros respeitante aos impostos referidos no artigo 2.º.
 
