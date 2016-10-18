@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 12699/2016
+Jorge Manuel Fernandes de Abreu, Presidente da Câmara Municipal de Figueiró dos Vinhos, torna público que, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pela Lei n.º 4/2015, de 7 de janeiro, e durante o período de 30 dias a contar do dia seguinte ao da publicação deste aviso no Diário da República, 2.ª série, é submetido a consulta pública o projeto de regulamento municipal de apoio à recuperação de habitações degradadas, que foi aprovado, por unanimidade, em reunião de Câmara Municipal de 28 de setembro de 2016.
+Durante o referido período poderão os interessados consultar, no gabinete jurídico, nas horas normais de expediente e em www.cm-figueirodosvinhos.pt (edital n.º 38/2016) o mencionado projeto e sobre ele formular quaisquer sugestões, reclamações ou observações, as quais deverão ser dirigidas, por escrito, ao Presidente da Câmara Municipal.
+6 de outubro de 2016. - O Presidente da Câmara, Jorge Manuel Fernandes de Abreu.
+309916964
