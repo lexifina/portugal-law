@@ -1,0 +1,5 @@
+Aviso n.º 12791/2016
+Margarida Cármen Nazaré Martins, Presidente da Junta de Freguesia de Arroios, torna público que, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, é submetido a consulta pública, para recolha de sugestões, e durante o prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento relativo à concessão de apoios da Junta de Freguesia de Arroios, aprovado na reunião pública da Junta de Freguesia realizada no dia 06 de junho de 2016.
+As sugestões que se entendam por convenientes, poderão ser feitas por escrito, dirigidas ao Presidente da Junta, e remetidas por correio postal ou eletrónico para o endereço, discussaopublica@jfarroios.pt ou entregues na Sede e Polos de Atendimento da Junta de Freguesia de Arroios, nos dias úteis, entre as 9:30 e as 17,00 horas.
+10 de outubro de 2016. - A Presidente da Junta de Freguesia de Arroios, Margarida Cármen Nazaré Martins.
+309779361
