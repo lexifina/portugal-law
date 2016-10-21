@@ -1,0 +1,1509 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "512",
+    "id": "40712",
+    "titulo": "Por uma maior inclusão dos Estudantes com Necessidades Educativas Especiais no Ensino Superior"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2016-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11568",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2016-10-21",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40695",
+        "leg": "XIII",
+        "nr": "321",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Isenção de propinas no primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40729",
+        "leg": "XIII",
+        "nr": "329",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Acessibilidade efectiva para todos os estudantes com Necessidades Educativas Especiais no Ensino Superior"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40711",
+        "leg": "XIII",
+        "nr": "511",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Por um ensino público e inclusivo no Ensino Superior"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40714",
+        "leg": "XIII",
+        "nr": "514",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE)"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40719",
+        "leg": "XIII",
+        "nr": "515",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao governo português que elabore um plano de acção que permita uma efectiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40727",
+        "leg": "XIII",
+        "nr": "516",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Apoio aos estudantes com necessidades educativas especiais no Ensino Superior"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40439",
+        "leg": "XIII",
+        "nr": "358",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2238",
+            "obs": null,
+            "pag": [
+              "14-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Estudantes com Necessidades Educativas Especiais no Ensino Superior"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4338",
+                "nome": "Sandra Pontedeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=00:47:00:918&drc=00:04:19:798"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=00:51:31:978&drc=00:04:37:119"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=00:56:13:152&drc=00:03:56:800"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:00:18:827&drc=00:04:03:172"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:04:29:282&drc=00:02:16:105"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5855",
+                "nome": "Jorge Falcato Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:06:52:427&drc=00:03:47:369"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/19?pgs=19&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5748",
+                "nome": "Ana Rita Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:10:45:342&drc=00:03:02:658"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Estudantes com Necessidades Educativas Especiais no Ensino Superior; Por um ensino público e inclusivo no Ensino Superior; Por uma maior inclusão dos estudantes com necessidades educativas especiais no ensino superior; Respostas, ao nível do ensino superior, para estudantes com necessidades educativas especiais (NEE); Recomenda ao Governo português que elabore um plano de ação que permita uma efetiva acessibilidade dos alunos com necessidades educativas especiais ao ensino superior; Apoio aos estudantes com necessidades educativas especiais no ensino superior; Isenção de propinas nos primeiro e segundo ciclos de estudos no ensino superior para estudantes com deficiência; Acessibilidade efetiva para todos os estudantes com necessidades educativas especiais no ensino superior.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320064",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "775605",
+        "obs": null,
+        "pag": [
+          "14-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-22",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/14?pgs=14-20&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
