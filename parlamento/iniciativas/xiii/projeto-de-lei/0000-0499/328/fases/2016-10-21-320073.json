@@ -1,0 +1,499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "328",
+    "id": "40726",
+    "titulo": "6.ª Alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2016-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11576",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2016-10-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40672",
+        "leg": "XIII",
+        "nr": "308",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2239",
+            "obs": null,
+            "pag": [
+              "20-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-29&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2239",
+            "obs": null,
+            "pag": [
+              "20-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-29&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Procede à sexta alteração à lei eleitoral dos órgãos das autarquias locais, aprovada pela lei orgânica n.º 1/2001, de 14 de agosto"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40692",
+        "leg": "XIII",
+        "nr": "318",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2239",
+            "obs": null,
+            "pag": [
+              "20-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-29&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2239",
+            "obs": null,
+            "pag": [
+              "20-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-22",
+            "pubLeg": "XIII",
+            "pubNr": "16",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-29&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera a Lei Orgânica nº 1/2001, de 14 de Agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-10-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:14:32:798&drc=00:04:04:695"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:45:12:587&drc=00:01:28:704"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-21,29&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:18:42:953&drc=00:04:09:860"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:23:00:918&drc=00:05:06:776"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:41:16:853&drc=00:01:59:809"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/23?pgs=23-24,27-28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:28:16:224&drc=00:06:14:231"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4392",
+                "nome": "Paulo Rios de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:34:37:966&drc=00:06:33:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/25?pgs=25-27&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "13:15",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161021plen&url=l13/sl2/a2016/m10/&tI=01:43:19:693&drc=00:01:49:184"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-22",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, aprovada pela Lei Orgânica n.º 1/2001, de 14 de agosto; Altera a Lei Orgânica n.º 1/2001, de 14 de agosto (Lei Eleitoral dos Órgãos das Autarquias Locais), em matéria de candidaturas por grupos de cidadãos eleitores e Sexta alteração à Lei Eleitoral dos Órgãos das Autarquias Locais, simplificando e clarificando as condições de apresentação de candidaturas por grupos de cidadãos e alargando o âmbito de aplicação da Lei da Paridade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320073",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "775621",
+        "obs": null,
+        "pag": [
+          "20-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-22",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/016/2016-10-22/20?pgs=20-29&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
