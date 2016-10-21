@@ -1,0 +1,248 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "32",
+    "id": "40715",
+    "titulo": "Estabelece o regime jurídico da qualidade e segurança relativa à dádiva, colheita análise, processamento, preservação, armazenamento, distribuição e aplicação de tecidos e células de origem humana e os procedimentos de verificação da equivalência das normas de qualidade e segurança dos tecidos e células importados, e procede à segunda alteração à Lei n.º 12/2009, de 26 de março, transpondo a Diretiva n.º 2015/565/UE, da Comissão, de 8 de abril, que altera a Diretiva n.º 2006/86/CE, da Comissão, de 24 de outubro, no que se refere a certos requisitos técnicos para a codificação dos tecidos e células de origem humana, e a Diretiva n.º 2015/566/UE, da Comissão, de 8 de abril"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2016-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "38673",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2017-02-07",
+            "id": "103982",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-02-14",
+            "id": "104060",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-02-14",
+            "id": "104059",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-02-21",
+            "id": "104128",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-03-07",
+            "id": "104314",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-03-07",
+            "id": "104313",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2016-10-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2016-10-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo I - PA1 - PSD - ppl32-XIII Gov  Tecidos (Propostas Alteração PSD).",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e4445334f5441774e53316b5a5455324c5451334e6d59744f5751345969316b596a45355a544e6b4e44646d4e5463756347526d&fich=04179005-de56-476f-9d8b-db19e3d47f57.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo II - PA2 - Propostas de Alteração CDS à PPL 32-XIII - Versão Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a5a4755305a4467324f4331684e7a45324c545134597a49744f444d314e7931694d6a5a6b4d4445774d6a4d795a5463756347526d&fich=3de4d868-a716-48c2-8357-b26d010232e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo IV - Votações indiciárias GT - Mapa PPL 32 e PAs ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d7a45315a6a51784d4330314f474d784c5451775a6a55744f4459324d4330334e6a45344e6a4d31593245314f5455756347526d&fich=d315f410-58c1-40f5-8660-7618635ca595.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Anexo V - GT - projetoTexto Final - PPL n.º 32",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325954566b4e4746684f4330304d4455354c5452694d6d51744f5751344f43316d5a546735596a55334e474d314d4745756347526d&fich=6a5d4aa8-4059-4b2d-9d88-fe89b574c50a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos - Insitituto Portugues do Sangue e Transplantação ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a47466a5a5455304e79316d4e6d55324c5451784f5463745957517a5a43307a4f54566b5a6d526b4d5467774d6a63756347526d&fich=fdace547-f6e6-4197-ad3d-395dfdd18027.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos - Ordem dos Médicos I",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e6d4d324d7a4d774d4330354f5449794c54526a4f575974596a6b344f43316b59574a6d4e575a694f4751304d5463756347526d&fich=b6c63300-9922-4c9f-b988-dabf5fb8d417.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos - Ordem dos Médicos II",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e6a59304d6d526c5a6930794d7a4d324c5451304d6a5974595755314e433077596d4e694d545135596d4e6a596a51756347526d&fich=f6642def-2336-4426-ae54-0bcb149bccb4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-04-05",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação da CNPMA sobre a Transposição das Diretivas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e324d324e5463775a43307a4f5445774c5451774e6d59744f5749344f5330785a6d493159324d794e544a6c4d5463756347526d&fich=07c6570d-3910-406f-9b89-1fb5cc252e17.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2016-12-14",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Mapa Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a6d55334d44686d4e43316859546c6d4c54526a4e4445744f47526c4f5330354d324a694e54526d4d7a59304f5759756347526d&fich=1fe708f4-aa9f-4c41-8de9-93bb54f3649f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2016-12-14",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d7a63344d6d52694f5331694d4441324c54526a5a6d4974596a6c6a4e69316b596a45354d7a5178597a646d5a6a49756347526d&fich=63782db9-b006-4cfb-b9c6-db19341c7ff2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CNECV - Conselho Nacional de Ética para as Ciências da Vida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f475a685a445a6b4e43307a5a44646b4c5451324f544d74596a49335969316b4e6a5a6c4d32513359574d344d4441756347526d&fich=f8fad6d4-3d7d-4693-b27b-d66e3d7ac800.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CNPD - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d54466c4f54466a4e43307a4d6a45354c5452694d7a59745954597a4d7931684d4449314f54646a4e7a6b304f4759756347526d&fich=011e91c4-3219-4b36-a633-a02597c7948f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2016-11-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer CNPMA - Conselho Nacional de Procriação Medicamente Assistida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969596d5a684d7a63304e7931694d6a55304c5451345a4759744f5759795a433033593259354e6a59794e324668595441756347526d&fich=bbfa3747-b254-48df-9f2d-7cf96627aaa0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer SPT - Sociedade Portuguesa de Transplantação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d6a5a6c4e5745344e7930324e6d59774c5451314d446b744f47566a5a693169595759794f4446684e475a6a5a6d59756347526d&fich=326e5a87-66f0-4509-8ecf-baf281a4fcff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Discussão e Votação da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d474a6b4d3249314e43316959324e6d4c5451304e6a6374595452685a43316c596a677a4d4449345a4759314d7a67756347526d&fich=90bd3b54-bccf-4467-a4ad-eb83028df538.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-10",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793968596a59304d6a41794e6930324f474a6b4c545131596a63744f546734595331694f54686b5a6a677a4f5759784f5455756347526d&fich=ab642026-68bd-45b7-988a-b98df839f195.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4532",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "4532",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final e propostas de alteração apresentadas pelo CDS-PP e pelo PS",
+            "pag": [
+              "2-84"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2017-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "133",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/133S1/2017-07-05/2?pgs=2-84&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão na especialidade, texto final e propostas de alteração apresentadas pelo CDS-PP e pelo PS",
+            "pag": [
+              "2-84"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "2017-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "133",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/133S1/2017-07-05/2?pgs=2-84&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2016-10-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320160",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
