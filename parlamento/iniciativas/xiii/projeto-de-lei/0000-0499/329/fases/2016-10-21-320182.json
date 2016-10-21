@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "329",
+    "id": "40729",
+    "titulo": "Acessibilidade efectiva para todos os estudantes com Necessidades Educativas Especiais no Ensino Superior"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2016-10-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "38684",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2016-10-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2016-10-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-02-06",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "2.ª Prorrogação por mais 45 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a55334e47566d4f4463744f545135597930304e5745344c574a684d324974595463314d3256684d54526a4d4751794c6e426b5a673d3d&fich=c574ef87-949c-45a8-ba3b-a753ea14c0d2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-22",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "3.ª Prorrogação por mais 45 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4441794d546c6d597a557459544d784f4330305a6a566a4c546734593251744f4755354d57497a4e6d59334e546b354c6e426b5a673d3d&fich=00219fc5-a318-4f5c-88cd-8e91b36f7599.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-05-03",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "4.ª Prorrogação por mais 30 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4449784d4467775a4445744d7a646c4d6930304e474e694c574a6c4e4441744f5756694e32566a5a5749784d6a526c4c6e426b5a673d3d&fich=d21080d1-37e2-44cb-be40-9eb7eceb124e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-05-26",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "5.ª Prorrogação por mais 30 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a526d4f44673059574d744d3255314e6930304e5751334c546b77597a51744d4745355a57493159324d344f5755304c6e426b5a673d3d&fich=74f884ac-3e56-45d7-90c4-0a9eb5cc89e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-04",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "6.ª Prorrogação por mais 30 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e444a694d5459794f4755744e4745334f4330304e4449304c5745304e474d74596d4e6a5a54417a4d3245794d6a51774c6e426b5a673d3d&fich=42b1628e-4a78-4424-a44c-bcce033a2240.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo da ANAFRE - Associação Nacional de Freguesias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4759325a575a684d7a45745954526a4d4330304e7a6b774c574a684e4455744f545530596a6b334e544130595455304c6e426b5a673d3d&fich=4f6efa31-a4c0-4790-ba45-954b97504a54.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-30",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos recebidos sobre esta iniciativa",
+            "URL": "http://www.parlamento.pt/sites/COM/XIIILEG/8CEC/Paginas/ContributosIniciativasII.aspx?ID_Ini=71"
+          },
+          {
+            "DataDocumento": "2017-07-18",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Informação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d55304e54646b4d3255744d5751784d5330305a6a4a6d4c5749785a5745744d6a526c4f4455314d4463334f4459784c6e426b5a673d3d&fich=6e457d3e-1d11-4f2f-b1ea-24e855077861.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-17",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "Prorrogação por mais 45 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a4a694d7a4d785a54497459574530596930304e6a686c4c5745314e3245744d6a4e684d5463304d7a597a5a446b314c6e426b5a673d3d&fich=22b331e2-aa4b-468e-a57a-23a174363d95.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4531",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "4531",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2017-07-18",
+            "dataRemessa": "2017-07-18",
+            "numeroOficio": "329/CEC/2017",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2016-10-21",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320182",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
