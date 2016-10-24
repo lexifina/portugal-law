@@ -1,0 +1,8 @@
+Edital n.º 921/2016
+Consulta pública do projeto de Regulamento Municipal de Atribuição de Canídeos Produzidos no CRRA - Centro de Reprodução do Rafeiro do Alentejo
+Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem, Presidente da Câmara Municipal de Monforte, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º do anexo I, ambos da Lei n.º 75/2013, de 12 de setembro, torna público que, por deliberação deste órgão executivo, tomada na reunião ordinária de 17 de junho de 2016, e em cumprimento do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se a consulta pública, pelo prazo de 30 dias, a contar da data da publicação do presente edital na 2.ª série do Diário da República, o projeto de Regulamento Municipal de Atribuição de Canídeos Produzidos no CRRA - Centro de Reprodução do Rafeiro do Alentejo.
+Mais torna público que o referido projeto de Regulamento se encontra disponível para consulta no átrio do edifício da Câmara Municipal, sito na Praça da República, no Serviço de Apoio aos Órgãos Autárquicos, todos os dias úteis, entre as (9h.00 e as 16h.00), bem como nas freguesias do concelho e na página oficial deste município em www.cm-monforte.pt, onde poderão ser entregues, por escrito, as sugestões ou observações tidas por convenientes.
+Para constar e surtir os devidos efeitos publica-se o presente edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+E eu, António Joaquim Morais Medalhas, Técnico Superior do Serviço de Apoio aos Órgãos Autárquicos o subscrevi.
+28 de setembro de 2016. - O Presidente da Câmara, Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem.
+309897468
