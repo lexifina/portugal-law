@@ -2,8 +2,12 @@
 
 ### Dever de apresentação e informação
 
-1 - O pessoal docente deve efetuar a sua apresentação na instituição de destino no prazo de três dias a contar da data de entrada no país e até oito dias antes do início do funcionamento dos cursos e contactar, de imediato, o respetivo diretor ou professor responsável pelo departamento ou grupo de disciplinas em que vai integrar-se.
+1 - [Revogado].
 
-2 - No prazo de 15 dias a contar da data de entrada no país de acolhimento, o pessoal docente deve efectuar a sua apresentação e promover a sua inscrição na missão diplomática portuguesa da área.
+2 - No prazo de cinco dias úteis a contar da data de entrada no país de acolhimento para o início do exercício de funções, o pessoal docente deve apresentar-se na Coordenação de Ensino ou no Departamento de Apoio Pedagógico, sitos no posto consular da sua área, e promover a sua inscrição no mesmo posto consular.
 
-3 - A ausência do docente da área consular onde exerce funções por período superior a dois dias é obrigatoriamente comunicada, com a devida antecedência, salvo caso de força maior, ao coordenador ou, na sua falta, ao presidente do Camões, I. P., e à embaixada ou consulado da respectiva área.
+3 - A ausência do docente da área consular onde exerce funções por período superior a três dias úteis é obrigatoriamente comunicada, com a devida antecedência, e salvo caso de força maior:
+
+a) Ao coordenador ou, na sua falta, ao presidente do Camões, I. P.; e
+
+b) À embaixada ou consulado da respetiva área.

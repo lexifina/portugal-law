@@ -4,7 +4,7 @@
 
 1 - A intervenção do Estado concretiza-se nas seguintes linhas de actuação:
 
-a) Desenvolvimento de iniciativas diplomáticas especialmente dirigidas a obter a plena integração do ensino da língua portuguesa e em língua portuguesa nos sistemas educativos dos países estrangeiros, em particular onde se encontrem estabelecidas comunidades portuguesas;
+a) Desenvolvimento de iniciativas diplomáticas especialmente dirigidas a obter a plena integração do ensino da língua portuguesa e em língua portuguesa nos sistemas educativos dos países estrangeiros, em particular, onde se encontrem estabelecidas comunidades portuguesas, bem como a inclusão de exames de língua portuguesa no acesso ao ensino superior nesses sistemas;
 
 b) Promoção de cursos e atividades em regime de complementaridade relativamente aos sistemas educativos dos países onde se encontrem estabelecidas comunidades portuguesas significativas ou apoio às iniciativas de associações portuguesas e de entidades estrangeiras, públicas e privadas, que prossigam o mesmo fim;
 
@@ -12,9 +12,9 @@ c) Promoção e divulgação do ensino da língua, da história, da geografia e 
 
 d) Definição e aprovação de um quadro de referências que permita a elaboração e avaliação de programas, linhas de orientação curricular e escolha de materiais pedagógicos e didácticos e estabeleça as bases de certificação das aprendizagens;
 
-e) Recrutamento, colocação e contratação do pessoal docente;
+e) Recrutamento, colocação, contratação ou provimento em comissão de serviço do pessoal docente para os cargos de professor e de leitor;
 
-f) Apoio ao recrutamento e selecção do pessoal docente, quando este seja contratado por outras entidades;
+f) Apoio ao recrutamento e seleção do pessoal docente quando este seja contratado por outras entidades ao abrigo de protocolos de cooperação;
 
 g) Formação e apoio à formação do pessoal docente;
 

@@ -2,8 +2,8 @@
 
 ### Direito subsidiário
 
-Em tudo o que não se encontrar especialmente previsto no presente decreto-lei em matéria de pessoal docente aplica-se, por esta ordem:
+Em tudo o que não se encontrar especialmente previsto no presente decreto-lei em matéria de pessoal docente, aplica-se, por esta ordem:
 
-a) O diploma que estabelece os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas;
+a) A LTFP;
 
-b) O estatuto da carreira docente do ensino não superior.
+b) O Estatuto da Carreira Docente.

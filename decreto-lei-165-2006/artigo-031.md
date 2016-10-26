@@ -24,7 +24,7 @@ c) Grau de doutor ou estudos pós-graduados especialmente qualificados no domín
 
 4 - Os candidatos ao exercício de funções docentes no ensino português no estrangeiro devem ainda comprovar o domínio da língua estrangeira da área consular a que se candidatam, nos termos do aviso de abertura.
 
-5 - A abertura do procedimento concursal para cada um dos cargos previstos nos números anteriores é autorizada por despacho conjunto dos membros do Governo responsáveis pela área dos negócios estrangeiros, das finanças e da Administração Pública.
+5 - A abertura do procedimento concursal para cada um dos cargos previstos nos números anteriores é autorizada por despacho dos membros do Governo responsáveis pela área dos negócios estrangeiros, das finanças e da Administração Pública.
 
 6 - O procedimento concursal é bienal e segue os termos fixados em aviso publicado no Diário da República e na página eletrónica do Camões, I. P., difundido pelas estruturas de coordenação de ensino criadas junto das missões diplomáticas e consulares e divulgado através de órgão de comunicação social de âmbito nacional.
 
@@ -67,3 +67,13 @@ n) Forma de publicitação da lista unitária para a ordenação final dos candi
 12 - Não podem ser opositores ao procedimento concursal referido no n.º 1 os docentes do ensino português no estrangeiro que requeiram a cessação da comissão de serviço após ter ocorrido a sua renovação nos termos do artigo 20.º ou que não tenham aceitado, em procedimento concursal anterior, a colocação.
 
 13 - A limitação referida no número anterior tem a duração de dois anos.
+
+14 - Ao apoio ao recrutamento de docentes ao abrigo da alínea f) do n.º 1 do artigo 5.º, são aplicáveis, com as necessárias adaptações, os requisitos constantes dos n.os 2 a 4 do presente artigo.
+
+15 - O apoio ao recrutamento de docentes ao abrigo da alínea f) do n.º 1 do artigo 5.º, observa os princípios gerais da atividade administrativa, sendo precedido de prévia publicitação, que inclui, nomeadamente:
+
+a) A forma e o prazo de apresentação de candidatura;
+
+b) Os métodos e critérios de seleção;
+
+c) A composição e identificação do júri.

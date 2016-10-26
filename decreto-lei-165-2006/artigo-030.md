@@ -4,7 +4,7 @@
 
 1 - A comissão de serviço cessa:
 
-a) Por ter atingido os limites de duração previstos nos n.os 2 e 3 do artigo 20.º;
+a) (Revogada.);
 
 b) No seu termo, em caso de comunicação da decisão de não renovação;
 
@@ -36,4 +36,4 @@ a) Três dias de remuneração base por cada mês de duração do vínculo no ca
 
 b) Dois dias de remuneração base por cada mês de duração do vínculo no caso em que a comissão de serviço cumprida exceda seis meses.
 
-3 - A identificação das doenças incapacitantes referidas na subalínea iv) da alínea f) do n.º 1 é efectuada por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças, da Administração Pública e da saúde, publicado no Diário da República, e deve ser justificada com relatório médico que a ateste e comprove.
+3 - A identificação das doenças incapacitantes referidas na subalínea iv) da alínea f) do n.º 1 é efectuada por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças, da Administração Pública e da saúde, publicado no Diário da República, e deve ser justificada com relatório médico que a ateste e comprove.

@@ -4,17 +4,23 @@
 
 1 - Aos coordenadores do ensino português cabe promover e coordenar, nos respectivos países, o ensino português a nível da educação pré-escolar e dos ensinos básico, secundário e superior e da educação ao longo da vida, e em especial:
 
-a) Avaliar os docentes que exerçam funções na sua área de coordenação, bem como os membros da estrutura de coordenação;
+a) Na integração, acompanhamento e avaliação do ensino português nos planos curriculares dos respetivos países;
 
 b) Participar na planificação anual da respectiva rede de ensino e apresentar propostas de eventual redimensionamento;
 
-c) Apresentar relatórios ao Camões, I. P., com a periodicidade que for estipulada;
+c) Na definição dos recursos tecnológicos, eletrónicos e multimédia mais adequados em função da área geográfica de coordenação;
 
-d) (Revogada.)
+d) Apresentar relatórios ao Camões, I. P., com a periodicidade que for estipulada;
 
 e) (Revogada.)
 
 f) (Revogada.)
+
+g) (Revogada.)
+
+h) Na avaliação dos resultados dos protocolos de cooperação;
+
+i) Na implementação da certificação dos conhecimentos adquiridos na rede do ensino português no estrangeiro.
 
 2 - Cabe ainda aos coordenadores do ensino português no estrangeiro participar e colaborar:
 
