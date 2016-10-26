@@ -1,0 +1,18 @@
+Aviso n.º 13199/2016
+Alteração Pontual do Plano Diretor Municipal
+(Abertura de Procedimento)
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público, que a Câmara Municipal, em sessão ordinária realizada no dia 27 de julho de 2016, deliberou, aprovar por unanimidade, a proposta para alteração pontual do Plano Diretor Municipal, nos termos do disposto no n.º 1 do artigo 115.º, articulado com o disposto no artigo 76.º e no artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio).
+O Plano Diretor Municipal está disponibilizado em http://www.mun-planhoso.pt/documentos/category/3-regulamentos.html?start=30, plano este acerca do qual se pretende iniciar o procedimento da alteração pontual.
+Nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de
+14 de maio, estabelece-se o prazo de 15 dias, a contar do dia seguinte ao da publicação do presente aviso no Diário da República, para formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento.
+Os interessados poderão apresentar os seus contributos e sugestões por meio eletrónico para o endereço geral@mun-planhoso.pt, ou por correio postal, endereçado ao Senhor Presidente da Câmara Municipal, para a morada: Avenida da República, 4830-513 Póvoa de Lanhoso.
+13 de outubro de 2016. - O Presidente da Câmara Municipal, Manuel José Torcato Soares Baptista.
+Proposta para alteração pontual do Plano Diretor Municipal
+Manuel José Torcato Soares Baptista, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público que a Câmara Municipal da Póvoa de Lanhoso, deliberou aprovar, por unanimidade, em reunião ordinária de 27 de julho de 2016, uma proposta para alteração pontual do Plano Diretor Municipal, nos termos do disposto no n.º 1 do artigo 115.º, articulado com o disposto no artigo 76.º e no artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio), conforme a seguir se indica:
+1 - Determinar, nos termos do disposto no n.º 1 do artigo 115.º, articulado com o disposto no artigo 76.º e no artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (Decreto-Lei n.º 80/2015, de 14 de maio), que seja iniciado um procedimento de alteração pontual do Plano Diretor Municipal, disponível em http://www.mun-planhoso.pt/documentos/category/3-regulamentos.html?start=30 de acordo com o preconizado na referida proposta, a incidir sobre:
+a) A alteração do Regulamento, nomeadamente a correção de incongruências, lapsos e omissões;
+2 - Estabelecer, nos termos da mesma disposição legal, o prazo de 4 meses para a respetiva elaboração.
+3 - Considerando a matéria relativa à alteração em causa, pronunciar-se no sentido de que as alterações em causa não são suscetíveis de ter efeitos significativos no ambiente, e consequentemente determinar, de acordo com o disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, que o procedimento agora aberto não seja objeto de avaliação ambiental.
+4 - Estabelecer, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, um prazo de 15 dias, a contar do dia seguinte ao da publicação do anúncio da presente deliberação no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento.
+Município da Póvoa de Lanhoso, 13 de outubro de 2016. - O Presidente da Câmara, Manuel José Torcato Soares Baptista.
+609940412
