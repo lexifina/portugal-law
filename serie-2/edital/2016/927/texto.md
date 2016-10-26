@@ -1,0 +1,7 @@
+Edital n.º 927/2016
+Mário Fernando Maciel Caldeira, Presidente do Instituto Superior de Economia e Gestão da Universidade de Lisboa, torna público que, aprovou, em 6 de outubro de 2016, o Projeto de Regulamento Geral dos Ciclos de Estudos Conducentes ao Grau de Doutor, submetendo-o, nos termos do artigo 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º do regime jurídico das instituições de ensino superior, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente edital no Diário da República.
+O projeto de regulamento pode ser consultado nos Serviços Académicos do Instituto Superior de Economia e Gestão da Universidade de Lisboa atendimento geral da Direção de Serviços Académicos do Instituto Superior de Economia e Gestão da Universidade de Lisboa, sitos em Rua do Quelhas, n.º 6, 1200-781 Lisboa, bem como na Internet, no sítio institucional da Escola (www.iseg.ulisboa.pt).
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao Presidente, podendo ser entregues no atendimento geral supra identificado ou remetidas por correio eletrónico (presidencia@iseg.ulisboa.pt).
+Para constar se publica o presente edital, o qual vai ser disponibilizado na Internet, no sítio institucional da Escola.
+13 de outubro de 2016. - O Presidente do Instituto Superior de Economia e Gestão da Universidade de Lisboa, Professor Doutor Mário Fernando Maciel Caldeira.
+209939652
