@@ -1,0 +1,60 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Projeto de Resolução",
+  "numero": "532",
+  "id": "40755",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2016-10-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2017-09-14",
+    "DataInicioleg": "2016-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "163",
+        "nome": "Eduardo Ferro Rodrigues"
+      }
+    ],
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "PAR",
+      "sigla": "R"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": [
+      {
+        "assunto": "Constituição de uma comissão eventual para o Reforço da Transparência no Exercício de Funções Públicas",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40170",
+        "legislatura": "XIII",
+        "numero": "215",
+        "sessao": "1",
+        "tipo": "R"
+      }
+    ],
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "40755",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4e6d4d7a55344d7a63314c54566b4f5467744e44426a5a5330344d3251354c545a6a596d4a6b4d6a593059544e6c4f43356b62324d3d&fich=3f358375-5d98-40ce-83d9-6cbbd264a3e8.doc&Inline=true",
+    "IniNr": "532",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Suspensão do prazo de funcionamento da Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas, entre 27 de outubro e 1 de dezembro de 2016, e prorrogação do seu prazo de funcionamento por mais 90 dias",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
