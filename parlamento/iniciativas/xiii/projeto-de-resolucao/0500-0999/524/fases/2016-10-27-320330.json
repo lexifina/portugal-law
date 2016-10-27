@@ -1,0 +1,612 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "524",
+    "id": "40738",
+    "titulo": "Pela necessidade de resolução de problemas ambientais na Ria Formosa e pela suspensão das demolições anunciadas nas Ilhas Barreira"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2016-10-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11602",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2016-10-27",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40689",
+        "leg": "XIII",
+        "nr": "498",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das Ilhas-Barreira da Ria Formosa"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40735",
+        "leg": "XIII",
+        "nr": "521",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Pelo fim do processo de demolições nas ilhas-barreira da Ria Formosa"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40752",
+        "leg": "XIII",
+        "nr": "530",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2245",
+            "obs": null,
+            "pag": [
+              "35-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-10-28",
+            "pubLeg": "XIII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da Ria Formosa"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-10-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:11:22:390&drc=00:03:32:609"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:37:30:647&drc=00:01:36:085"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-36,42&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:15:02:505&drc=00:04:41:515"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:20:05:100&drc=00:03:38:899"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:36:39:827&drc=00:00:45:826"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38",
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/37?pgs=37-38,42&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5677",
+                "nome": "Luís Graça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:24:03:307&drc=00:04:31:784"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5685",
+                "nome": "José Carlos Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:28:40:897&drc=00:03:31:115"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1923",
+                "nome": "Teresa Caeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161027plen&url=l13/sl2/a2016/m10/&tI=02:32:17:558&drc=00:04:14:209"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "203874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-10-28",
+                "pubLeg": "XIII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Pela necessidade de resolução de problemas ambientais na ria Formosa e pela suspensão das demolições anunciadas nas ilhas-barreira; Recomenda ao Governo a imediata suspensão de novas demolições, o diálogo com as populações e o reconhecimento do valor económico, social e cultural dos núcleos populacionais das ilhas-barreira da ria Formosa; Pelo fim do processo de demolições nas ilhas-barreira da ria Formosa; Recomenda ao Governo um conjunto de ações em torno da requalificação e valorização da ria Formosa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320330",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "775703",
+        "obs": null,
+        "pag": [
+          "35-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-10-28",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/018/2016-10-28/35?pgs=35-43&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
