@@ -1,0 +1,458 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12883",
+  "numero": "202",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-10-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-01-19",
+            "entidades": null,
+            "id": "103789",
+            "tipo": null,
+            "titulo": "Audição em 2017-01-19 com Mariana Dias da Cruz Morais"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-11",
+            "entidades": [
+              "IAVE - Instituto de Avaliação Educativa"
+            ],
+            "nrOficio": "5/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-31",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "6/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-19",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "7/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-16",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "8/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-18",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "9/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": null,
+            "entidades": [
+              "Associação de Professores de Física e Química"
+            ],
+            "nrOficio": "10/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Sociedade de Física"
+            ],
+            "nrOficio": "11/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Sociedade de Química"
+            ],
+            "nrOficio": "12/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-10",
+            "entidades": [
+              "Sociedade de Matemática"
+            ],
+            "nrOficio": "13/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-16",
+            "entidades": [
+              "Associação de Professores de Matemática"
+            ],
+            "nrOficio": "14/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-24",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "15/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-25",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "16/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "17/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-17",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "18/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-01-13",
+            "entidades": [
+              "Conselho das Escolas"
+            ],
+            "nrOficio": "19/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-04",
+            "dataResposta": "2017-02-06",
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "4/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-12-06",
+        "DataArquivo": "2017-02-14",
+        "DataBaixaComissao": "2016-11-11",
+        "DataEnvioPAR": "2017-02-16",
+        "DataReaberta": "2016-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a685a6a686c4e7a59304c545a694e7a59744e4751775a6931694d5749354c5467314f5451334e5751304e5445345a5335775a47593d&fich=6af8e764-6b76-4d0f-b1b9-859475d4518e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6c596d4d794e7a63334c5455795a4749744e4442694e4331694f5755314c5749335957566a4e474534597a4d77597935775a47593d&fich=9ebc2777-52db-40b4-b9e5-b7aec4a8c30c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e694f5459344e6d45324c546333596a63744e4451314d4330344f5445304c5451344d7a4533596d4a6b4e4749304f4335775a47593d&fich=3b9686a6-77b7-4450-8914-48317bbd4b48.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249305a6a526d4f5441354c5456694d7a63744e47566d5a6930354d444d794c54466b4e445533596a686c5a5463335a4335775a47593d&fich=b4f4f909-5b37-4eff-9032-1d457b8ee77d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6a5a444d354e544e6d4c544e6d596d51744e475978596930344d324d324c575178597a5a6a4e6d59305a474669597935775a47593d&fich=3cd3953f-3fbd-4f1b-83c6-d1c6c6f4dabc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6c4f5441304f5441354c5759794d5463744e4449785a4330354e4441354c5451314f4756695a4755785a6a49354d5335775a47593d&fich=fe904909-f217-421d-9409-458ebde1f291.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b7a4d32597a4d4455784c57517a5a4463744e444a694f4330354d6a63334c5445335a57497a597a63335a474a68596935775a47593d&fich=933f3051-d3d7-42b8-9277-17eb3c77dbab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251314e5759355a6a45334c5459314e4449744e4749334d79316959544d784c57566b596a4932596d5669595759305a6935775a47593d&fich=d55f9f17-6542-4b73-ba31-edb26bebaf4f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49344d546c6d4d6a5a694c544134595759744e474d33595331684f5441324c5751334e54426c4d7a6b344e6a55304d7935775a47593d&fich=2819f26b-08af-4c7a-a906-d750e3986543.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245774d574d344d5441314c544e6a596a4d744e4745344e4330354e324d7a4c574d324f544e6b4e6a59345a6a6c6c4f4335775a47593d&fich=a01c8105-3cb3-4a84-97c3-c693d668f9e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566b4d5455784e544e684c544a684d4751744e47557a4d5331695a6d49304c545178596a41774e474d784f47466d4e6935775a47593d&fich=ed15153a-2a0d-4e31-bfb4-41b004c18af6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51344e6d5a6c597a45314c546468596d4d744e446b78597930344e6d59794c57526d5932566a4f4455325a4441314f4335775a47593d&fich=486fec15-7abc-491c-86f2-dfcec856d058.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5932596a42694e6d59334c545133595449744e4467314f433168596a5a6b4c5755774e57526c4d4759304f5451314e6935775a47593d&fich=66b0b6f7-47a2-4858-ab6d-e05de0f49456.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d325a445a6a4d5745304c575a694d7a63744e4749314d433168597a6c6a4c57497a5a5445794d3259324d6a6c694d6935775a47593d&fich=c6d6c1a4-fb37-4b50-ac9c-b3e123f629b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a457a4d5463324e446c6c4c57466d4f444d744e4449324e5331694e6a52694c544e6c5a446c6c4e6d59334d325135597935775a47593d&fich=1317649e-af83-4265-b64b-3ed9e6f73d9c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45324e544a695a5459314c5751775a4463744e47526959793035596a526b4c54646a5a544e6a4d574e685a574a68597935775a47593d&fich=1652be65-d0d7-4dbc-9b4d-7ce3c1caebac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67324e6a686a4f5751334c5456684f5751744e4442684d7931694f5759314c54597a4d4751794e324d314e32566b4d5335775a47593d&fich=8668c9d7-5a9d-40a3-b9f5-630d27c57ed1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-02-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566d4f574d325a4468694c546b354d6a49744e445530595330354d445a6a4c5456684f57526c596a466a596d56694d5335775a47593d&fich=ef9c6d8b-9922-454a-906c-5a9deb1cbeb1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324668596d5178596d5a6d4c5451315a5759744e445535596931684d6a41794c54597a4f544133596d4d344d57517a596935775a47593d&fich=aabd1bff-45ef-459b-a202-63907bc81d3b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63344d7a55314e4751354c5467784e7a45744e474978597931685a44566a4c5452685a5449354d7a45344d444d355a4335775a47593d&fich=783554d9-8171-4b1c-ad5c-4ae29318039d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245314e7a526a4f5445344c54686d4d5459744e44426b4e433168596d566a4c5751784e6d497a4f4442684e474d774f5335775a47593d&fich=a574c918-8f16-40d4-abec-d16b380a4c09.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b774e47466b597a5a6b4c5441344e7a67744e474e6a5a6931694d6a4e694c5467314e3249324d47566c4e7a4579595335775a47593d&fich=904adc6d-0878-4ccf-b23b-857b60ee712a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6330595445344e4745354c544a6959546b744e475532596930344f5751304c5752684d7a63304f474a694e7a49794e7935775a47593d&fich=74a184a9-2ba9-4e6b-89d4-da3748bb7227.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304d54526b4d32526d4c544669595459744e4759344e6930345a546b324c5749344e6a5978595459314d4749344d5335775a47593d&fich=7414d3df-1ba6-4f86-8e96-b8661a650b81.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a694d7a59344e3245794c5463335a6a59744e444d334e533034597a4e6a4c5459355a4749774f4463324f545a6a5a6935775a47593d&fich=bb3687a2-77f6-4375-8c3c-69db087696cf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255335a6a63334f575a6c4c57566a4d6d49744e4455314d533169597a417a4c5467314e7a41314f44426d4f4746694e5335775a47593d&fich=e7f779fe-ec2b-4551-bc03-8570580f8ab5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566c5a44466c4e5441304c546b344e3245744e4463315a6930344d57566c4c5449784d6d4e685a4449314f444d354d6935775a47593d&fich=eed1e504-987a-475f-81ee-212cad258392.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a684d6a6b314d444a694c544d344e4463744e4463784d6931694f4449784c5441344e546b784e47566b59574e684f5335775a47593d&fich=2a29502b-3847-4712-b821-085914edaca9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255785a44526c5a544d354c57457a4e5455744e4749324e533168595752684c574e6c5a54686c4e474a694d7a526a596935775a47593d&fich=e1d4ee39-a355-4b65-aada-cee8e4bb34cb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466d596a4e6b596d4d774c5455795a4441744e44466b4d693168597a5a6d4c5463304e44677a4d5464694d6a6b344d4335775a47593d&fich=afb3dbc0-52d0-41d2-ac6f-7448317b2980.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566a4e444932593256694c57526b4d4749744e444d304e5330344d5449334c54466d5a6d45335a4467304d6a45354e7935775a47593d&fich=5c426ceb-dd0b-4345-8127-1ffa7d842197.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a64685a5755784d5451774c5451305a5449744e4751344d4331684e3249314c5749784d7a6b775a4755784e4759354d6935775a47593d&fich=7aee1140-44e2-4d80-a7b5-b1390de14f92.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-12-06",
+            "gp": "PSD",
+            "id": "5580",
+            "motivoCessacao": null,
+            "nome": "Laura Monteiro Magalhães"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-11-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344d5442695a54597a5a6930354f4759784c5451314e6a55744f4441304e6930304e44426a5a6a46694e474e6b596d51756347526d&fich=810be63f-98f1-4565-8046-440cf1b4cdbd.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12883",
+    "PetAssunto": "Solicita intervenção com vista à aprovação do uso de calculadora gráfica em exame do ensino secundário.",
+    "PetDataEntrada": "2016-10-27",
+    "PeticoesAssociadas": null,
+    "PetId": "12883",
+    "PetLeg": "XIII",
+    "PetNr": "202",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
