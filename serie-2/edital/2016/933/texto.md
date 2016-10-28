@@ -1,0 +1,6 @@
+Edital n.º 933/2016
+João Manuel Rocha da Silva, Presidente da Câmara Municipal de Beja, torna público que, em cumprimento do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro e, por deliberação da Câmara Municipal de Beja, de 21 de setembro de 2016, encontra-se em consulta pública pelo prazo de 30 dias úteis a contar da data da publicação do presente edital na 2.ª série do Diário da República, a Proposta de Alteração ao Regulamento Municipal das Hortas Urbanas de Beja.
+Os interessados podem consultar o referido projeto de alteração de regulamento durante o horário normal de expediente, das 09:00 h às 16:00, no Gabinete Desenvolvimento Empreendedorismo e Inovação ou na página da internet do Município www.cm-beja.pt e, querendo, apresentar as suas sugestões ou reclamações, dentro do período atrás referido, por escrito, dirigidas ao Presidente da Câmara Municipal de Beja ou remetidas por correio eletrónico para o endereço hortasurbanas@cm-beja.pt.
+Para constar se lavrou o presente edital e outros de igual teor que vão ser afixados nos locais públicos do costume.
+30 de setembro de 2016. - O Presidente da Câmara Municipal, João Manuel Rocha da Silva.
+309906652
