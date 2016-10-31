@@ -1,0 +1,31 @@
+# Resolução n.º 758/2016
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 190/2016, suplemento, de 2016-10-31
+
+**Sumário:** Autoriza um acordo de cooperação, na modalidade de apoio eventual entre o Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e a associação denominada Causa Social -Associação para a Promoção da Cidadania, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira de 9 lugares, considerada indispensável ao adequado funcionamento da resposta social prosseguida no Centro de Acolhimento Temporário Aconchego.
+
+## Texto
+
+Resolução n.º 758/2016
+Considerando que a Causa Social -Associação para a Promoção da Cidadania, adiante designada de Instituição, é uma instituição particular de solidariedade social, vocacionada para o desenvolvimento de atividades no âmbito da Segurança Social, designadamente as direcionadas para as áreas da terceira idade e da infância e juventude;
+Considerando a solicitação da mesma Instituição com vista a lhe ser atribuído apoio financeiro destinado a promover a aquisição de uma viatura ligeira, de nove lugares, necessária ao bom e regular funcionamento da resposta social prosseguida no Centro de Acolhimento Temporário Aconchego, localizado no Ex - empreendimento da Matur, Água de Pena, concelho de Machico, estabelecimento integrado na estrutura orgânica do ISSM, IP-RAM, de harmonia com o previsto no artigo 5.º dos respetivos Estatutos, aprovados pela Portaria n.º 167/2012, de 20 de dezembro;
+Considerando que urge promover a aquisição da viatura em causa, face à atual incapacidade de resposta no quadro vigente da Instituição, atenta a insuficiência da sua atual frota automóvel para cobrir de forma atempada todas as solicitações de que é alvo, face ao conjunto de outras respostas sociais que desenvolve;
+Considerando que se entende que o pedido ora requerido tem fundamento atenta a localização geográfica do mesmo estabelecimento e à insuficiência da rede de trans-
+
+portes públicos na localidade, bem como face à integração das crianças provenientes do Centro de Acolhimento Temporário Aconchego, em diferentes estruturas da comunidade, nomeadamente escola, jardim-de-infância, atividades de tempos livres e atividades desportivas, que obriga à disponibilidade permanente de viatura para assegurar o transporte diário das mesmas.
+Nestes termos, o Conselho do Governo reunido em plenário em 27 de outubro de 2016, resolveu:
+1. Autorizar a celebração, nos termos da alínea c) do n.º 2 do artigo 3.º do Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, que estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM e as instituições particulares de solidariedade social (IPSS) e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira, conjugada com o n.º 2 do artigo 6.º e artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro, e com o disposto nos artigos 9.º, 51.º e 52.º do Regulamento que estabelece as normas de cooperação entre o Centro de Segurança Social da Madeira e as instituições particulares de solidariedade social e outras instituições de apoio social sem fins lucrativos, aprovadas pela Portaria n.º 78/2007, de 16 de agosto, da Secretaria Regional dos Assuntos Sociais, de um acordo de cooperação, na modalidade de apoio eventual entre o Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e a Causa Social -Associação para a Promoção da Cidadania, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira de nove lugares, considerada indispensável ao adequado funcionamento da resposta social prosseguida no Centro de Acolhimento Temporário Aconchego.
+2. Atribuir à mesma Instituição, no âmbito do referido acordo, um apoio financeiro até ao montante total máximo previsto de € 35.000,00 (trinta e cinco mil euros), para a comparticipação da despesa enunciada no número anterior.
+2.1. O apoio financeiro será pago até ao termo do corrente ano económico de 2016, com base na apresentação, por parte da Instituição, de orçamento comercial ou fatura pró-forma, já com opção de compra, relativa à aquisição da viatura ligeira enunciada no número um, bem como apresentação de documentação demonstrativa do cumprimento do procedimento pré contratual exigido.
+2.2. O montante de apoio a pagar será correspondente ao valor elegível para efeitos de financiamento indicado na opção de compra.
+2.3. A Instituição, até ao termo do primeiro semestre de 2017, apresentará fotocópia da fatura relativa à aquisição da viatura ligeira e confirmará o fornecimento da mesma nos termos contratados, reservando-se o ISSM, IP-RAM
+
+no direito de aceitar que esse fornecimento seja efetuado posteriormente, até ao final do ano de 2017.
+2.4. O ISSM, IP-RAM, após a verificação da conformidade do processo de aquisição e do documento justificativo da despesa indicado no número anterior, decidirá se há lugar à restituição de apoio, no valor correspondente ao diferencial entre montante recebido e o valor elegível.
+2.5. São elegíveis para efeitos de apoio os encargos com a aquisição da viatura objeto de financiamento, excluindo os impostos passíveis de não constituírem encargo para a IPSS ou objeto de restituição à mesma, nos termos da legislação aplicável.
+3. O presente acordo produz efeitos a partir da data da sua celebração, sem prejuízo de virem a ser considerados objeto de apoio, procedimentos para a aquisição da viatura iniciados anteriormente.
+4. Aprovar a minuta do referido acordo de cooperação, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência do Governo Regional.
+5. A despesa decorrente do presente acordo, no montante de € 35.000,00, tem cabimento na rubrica DA123001/ D.08.07.02 - Outras despesas de capital -Apoios a IPSS/ Transferências de capital do orçamento do ISSM, IP-RAM e tem compromisso registado sob o n.º 2801 605 405.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque.
