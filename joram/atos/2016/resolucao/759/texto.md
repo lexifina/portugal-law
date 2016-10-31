@@ -1,0 +1,30 @@
+# Resolução n.º 759/2016
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 190/2016, suplemento, de 2016-10-31
+
+**Sumário:** Autoriza um acordo de cooperação, na modalidade de apoio eventual entre o Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e a associação denominada Associação Santana Cidade Solidária, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira, de 9 lugares, e de um fogão, recursos materiais necessários e indispensáveis ao bom e regular funcionamento das respostas sociais prosseguidas no estabelecimento denominado por Lar de Idosos de Santana.
+
+## Texto
+
+Resolução n.º 759/2016
+Considerando que a Associação Santana Cidade Solidária, adiante designada de Instituição, é uma Instituição Particular de Solidariedade Social vocacionada para o desenvolvimento de atividades na área da Segurança Social, designadamente as direcionadas para a área da terceira idade;
+Considerando a solicitação da mesma Instituição com vista a lhe ser atribuído apoio financeiro destinado a promover a aquisição de uma viatura ligeira, de nove lugares, e de um fogão, dado tratarem-se de recursos materiais necessários e indispensáveis ao bom e regular funcionamento das respostas sociais prosseguidas no estabelecimento denominado por Lar de Idosos de Santana, localizado no Sítio da Achada do Gramacho, concelho de Santana;
+Considerando que o equipamento e viatura em causa são necessários para apoiar o funcionamento das atividades decorrentes do alojamento coletivo e acolhimento de idosos, nas respostas sociais de estrutura residencial para idosos e de centro de dia, revestindo uma mais-valia na dinamização das atividades diárias da Instituição;
+Considerando ainda que o aludido equipamento e viatura serão utilizados no apoio à produção e transporte de refeições ao domicílio dos utentes abrangidos pelo serviço de ajuda domiciliária, refeições essas confecionadas na unidade alimentar em funcionamento no estabelecimento já referenciado.
+
+Nestes termos, o Conselho do Governo reunido em plenário em 27 de outubro de 2016, resolveu:
+1. Autorizar a celebração, nos termos da alínea c) do n.º 2 do artigo 3.º do Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, que estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM e as instituições particulares de solidariedade social (IPSS) e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira, conjugada com o n.º 2 do artigo 6.º e artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro, e com o disposto nos artigos 9.º, 51.º e 52.º do Regulamento que estabelece as normas de cooperação entre o Centro de Segurança Social da Madeira e as instituições particulares de solidariedade social e outras instituições de apoio social sem fins lucrativos, aprovado pela Portaria n.º 78/2007, de 16 de agosto, da Secretaria Regional dos Assuntos Sociais, de um acordo de cooperação, na modalidade de apoio eventual entre o Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM) e a Associação Santana Cidade Solidária, tendo em vista a comparticipação das despesas decorrentes da aquisição de uma viatura ligeira, de nove lugares, e de um fogão, recursos materiais necessários e indispensáveis ao bom e regular funcionamento das respostas sociais prosseguidas no estabelecimento denominado por Lar de Idosos de Santana.
+2. Atribuir à mesma Instituição, no âmbito do referido acordo, um apoio financeiro até ao montante total máximo previsto de € 37.100,00 (trinta e sete mil e cem euros), para a comparticipação das despesas enunciadas no número anterior.
+2.1. O apoio financeiro será pago até ao termo do corrente ano económico de 2016, com base na apresentação, por parte da Instituição, de orçamentos comerciais ou faturas pró-forma, já com opção de compra, relativa às aquisições do equipamento e da viatura enunciadas no número um, bem como apresentação de documentação demonstrativa do cumprimento do procedimento pré contratual exigido.
+2.2. O montante de apoio a pagar será correspondente ao valor elegível para efeitos de financiamento indicado na opção de compra.
+2.3. A Instituição, até ao termo do primeiro semestre de 2017, apresentará fotocópia das faturas relativas à aquisição do equipamento e viatura em causa, e confirmará o fornecimento dos mesmos nos termos contratados, reservandose ao ISSM, IP-RAM o direito de aceitar que esses fornecimentos possam ser efetuados posteriormente, até ao final do ano de 2017.
+2.4. O ISSM, IP-RAM, após a verificação da conformidade do processo de aquisição e dos documentos justificativos da despesa indicados no número anterior, decidirá se há lugar à res-
+
+tituição de apoio, no valor correspondente ao diferencial entre montante recebido e o valor elegível.
+2.5. São elegíveis para efeitos de apoio os encargos com as aquisições do equipamento e viatura objeto de financiamento, excluindo os impostos passíveis de não constituírem encargo para a IPSS ou objeto de restituição à mesma, nos termos da legislação aplicável.
+3. O presente acordo produzirá efeitos a partir da data da sua celebração, sem prejuízo de virem a ser considerados objeto de apoio, procedimentos para as aquisições em causa iniciados anteriormente.
+4. Aprovar a minuta do referido acordo de cooperação, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência do Governo Regional.
+5. A despesa decorrente do presente acordo, no montante de € 37.100,00, tem cabimento na rubrica DA123001/ D.08.07.02 -Outras despesas de capital -Apoios a IPSS/ Transferências de capital do orçamento do ISSM, IP-RAM e tem compromisso registado sob o n.º 2801 605 430.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque.
