@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 2016-11-03, processo 63/10.0P6PRT.P1.S1
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 63/10.0P6PRT.P1.S1
+
+**Nº Convencional:** 5.ª SECÇÃO
+
+**Relator:** SOUTO MOURA
+
+**Descritores:** RECURSO PENAL; OMISSÃO DE PRONÚNCIA; NULIDADE; ESCUTAS TELEFÓNICAS; BUSCA; MÉTODOS PROIBIDOS DE PROVA; QUESTÃO INTERLOCUTÓRIA; MEDIDA CONCRETA DA PENA; TRÁFICO DE ESTUPEFACIENTES
+
+**Data do Acordão:** 11/03/2016
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** S
+
+**Privacidade:** 1
+
+**Meio Processual:** RECURSO PENAL
+
+**Decisão:** NEGADO PROVIMENTO
+
+**Área Temática:** DIREITO PENAL - CRIME DE TRÁFICO DE ESTUPEFACIENTES.; DIREITO PROCESSUAL PENAL - PROVA / MEIOS DE OBTENÇÃO DE PROVA - SENTENÇA ( NULIDADES ) - RECURSOS.
+
+**Legislação Nacional:** CÓDIGO DE PROCESSO PENAL (CPP): - ARTIGOS 120.º, N.º 3, AL. C), 122.º, 126.º, 188.º, N.ºS 3 E 4, 190.º, 379.º, N.º 1, AL. C) EX VI DO ART. 425.º, N.º 4, 400.º, N.º 1, AL. C).; D.L. N.º 15/93 DE 22 DE JANEIRO: - ARTIGOS 21.º, N.º 1 E 24.º, AL. J).
+
+## Sumário
+
+I - O acórdão recorrido encarou o problema da nulidade das escutas. Não ignorou que tivesse sido levantada essa questão. O que se passou foi que ao tomar posição sobre ela entendeu que se mostrava desnecessária determinada declaração de invalidade das escutas por desrespeito de prazos (art. 188.º, n.ºs 3 e 4, do CPP), ao ter considerado não provados os factos que se relacionavam com tais escutas.
+
+II - No acórdão recorrido, independentemente da questão de saber se o recorrente deveria ter especificado as concretas consequências da declaração de nulidade das escutas, tendo em conta o art. 122.º, do CPP, o certo é que o acórdão recorrido elencou os factos que deixaram de ser dados por provados e tomou posição sobre a ausência de consequências da pretendida nulidade de escutas. O vício, tido por inócuo, não releva em termos de contaminação de outros meios de prova.
+
+III - De qualquer modo, independentemente de se poder discordar do modo como o acórdão recorrido tratou a questão, o que é certo é que ela foi tratada. Daí que não se possa falar de omissão de pronúncia com a consequente nulidade do art. 379.º, n.º 1, al. c), ex vi do art. 425.º, n.º 4, ambos do CPP.
+
+IV - O acórdão recorrido justifica circunstanciadamente a inexistência de um meio proibido de obtenção de prova (aqui a busca) pelo facto de se não ter colhido o consentimento do recorrente. Por outro lado, a sanção pretendida da nulidade, protege, para além do mais, uma privacidade que, no caso, dificilmente se considera existir. A proteção dirige-se ao espaço domiciliário e dependências anexas, que podem incluir uma garagem, mas onde com estabilidade se processe a vida privada, como extensão da vida doméstica.
+
+V - No presente condicionalismo o local objecto de busca era uma das 3 garagens usadas pelo grupo para guardar o produto estupefaciente, sem ligação a residências. O acórdão recorrido explica proficientemente porque é que o espaço objecto de busca não pode ser objecto de uma protecção da projecção espacial da pessoa que reside em certa habitação. Tratava-se de um espaço comum, e não um local onde o recorrente guardasse objectos que só a si diziam respeito. Daí que a haver privacidade com a protecção pretendida, nunca a privacidade do recorrente se destacaria da do co-arguido a ponto de se exigir o consentimento de ambos.
+
+VI - Enquanto que o art. 126.º, do CPP se refere a métodos proibidos de prova, sendo as provas obtidas por tais métodos não só nulas como inutilizáveis, a prova colhida sem observância de formalidade estipuladas é nula, sem mais. No primeiro caso, estão os métodos de prova que atentam directamente contra a dignidade e a integridade física e moral humana, percebendo-se que a lei considere as provas absolutamente nulas. No segundo caso, prevê-se o desrespeito de formalidades que a lei estabeleceu, e em que se se prosseguem finalidades diversas, como a da eficácia do procedimento e sobretudo a garantia de controlo judicial, ao lado de um simples interesse de celeridade. A eventual violação do art. 190.º, do CPP, alegada pelo recorrente é pois uma nulidade dependente de arguição e com prazo para essa arguição, que à data da interposição deste recurso há muito tinha expirado, atento o disposto no art. 120.º, n.º 3, al. c), do CPP).
+
+VII – Para além disso, estamos perante uma questão processual relativa à produção de prova e que portanto interessa ao apuramento dos factos. Acresce que, tal questão foi objecto já de decisão interlocutória, decisão que deve considerar-se definitiva. Não estamos aqui perante uma questão conhecida oficiosamente ex novo pelo tribunal da relação e claro que a constitucionalidade da disciplina processual pertinente, como se sabe, não depende de se consagrarem dois graus de recurso, antes se basta com a existência de dois graus de jurisdição. É portanto aplicável o art. 400.º, n.º 1, al. c), do CPP, o que sempre tornaria, neste ponto, o acórdão da relação irrecorrível.
+
+VIII – O recorrente foi condenado, tanto em primeira instância como na Relação, por um crime de tráfico de estupefacientes agravado, p. e p. pelos arts. 21.º, n.º 1 e 24.º, al. j), do DL 15/93, de 22-01, cuja moldura penal é de 5 a 15 anos de prisão. Desempenhava no grupo um papel proeminente como seu fundador e organizador do abastecimento de haxixe, que era recolhido no sul de Espanha. O número de elementos do bando, os meios utilizados e as quantidades apreciáveis transaccionadas apontam para um grau apreciável de ilicitude. Beneficia o arguido do facto de se estar perante um tráfico que não é de drogas consideradas duras. Tudo ponderado, a pena de 9 anos de prisão aplicada pelas instâncias afigura-se-nos adequada.
