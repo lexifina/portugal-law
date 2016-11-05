@@ -8,7 +8,7 @@
 
 3 - A prescrição de medicamentos é feita por via eletrónica desmaterializada, sem prejuízo de, excecionalmente e nos casos previstos no artigo 8.º da presente portaria, poder ser feita por via manual.
 
-4 - Salvo o disposto nos n.os 5 a 8, em cada receita médica, podem ser prescritos:
+4 - Salvo o disposto nos n.os 5 a 8, a cada ato de prescrição, corresponde a emissão de uma única receita onde podem ser prescritos:
 
 a) No caso de receita materializada ou por via manual, até quatro medicamentos ou produtos de saúde distintos, em receitas distintas não podendo, em caso algum, o número total de embalagens prescritas ultrapassar o limite de duas por medicamento ou produto, nem o total de quatro embalagens;
 
@@ -16,7 +16,7 @@ b) No caso de receita desmaterializada, mas em linhas de prescrição distintas,
 
 5 - Excetua-se do disposto no número anterior a prescrição de medicamentos para dispensa ao público em quantidade individualizada, sujeita a regulamentação própria.
 
-6 - Podem ser prescritas numa receita até quatro embalagens do mesmo medicamento no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.
+6 - Podem ser prescritas num ato de prescrição, a que corresponde apenas uma receita, até quatro embalagens do mesmo medicamento, no caso de os medicamentos prescritos se apresentarem sob a forma de embalagem unitária, entendendo-se como tal aquela que contém uma unidade de forma farmacêutica na dosagem média usual para uma administração.
 
 7 - A prescrição de medicamentos contendo uma substância classificada como estupefaciente ou psicotrópica, compreendida nas tabelas I a II anexas ao Decreto-Lei n.º 15/93, de 22 de janeiro, ou qualquer das substâncias referidas no n.º 1 do artigo 86.º do Decreto Regulamentar n.º 61/94, de 12 de outubro, não pode constar de receita materializada ou por via manual, onde sejam prescritos outros medicamentos ou produtos de saúde.
 
@@ -24,6 +24,14 @@ b) No caso de receita desmaterializada, mas em linhas de prescrição distintas,
 
 a) No caso de receita materializada, ser prescritos em receita eletrónica renovável, sem prejuízo das adaptações e especificações que venham a justificar-se, a aprovar por despacho do membro do Governo responsável pela área da saúde;
 
-b) No caso de receita desmaterializada, coexistir com outros medicamentos, com um limite máximo de seis embalagens por receita.
+b) No caso da receita desmaterializada coexistir com outros medicamentos, com um limite máximo de seis embalagens por ato de prescrição, ou, no caso de medicamentos em dose unitária, com um limite máximo de 12 embalagens.
 
-9 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.
+9 - Em casos excecionais, devidamente fundamentados pelo prescritor, podem efetuar-se prescrições sem limite de embalagens, desde que observados os seguintes requisitos:
+
+a) A prescrição seja emitida obrigatoriamente de forma desmaterializada;
+
+b) A fundamentação seja inserida no Processo Clínico do Utente;
+
+c) As quantidades sejam adequadas e ajustadas à posologia instituída e à duração do tratamento.
+
+10 - A SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E. e o INFARMED Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., devem disponibilizar ao prescritor informação relativa a interações medicamentosas, por meios eletrónicos.

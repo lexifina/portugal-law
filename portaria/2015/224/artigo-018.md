@@ -13,3 +13,5 @@
 5 - Os dados do cartão de cidadão, bem como os códigos de acesso e dispensa e de direito de opção inseridos pelo utente não podem ser utilizados para finalidades diferentes das previstas no presente diploma, nem podem ser arquivados pelo sistema da farmácia.
 
 6 - O utente pode adquirir medicamentos ou produtos prescritos em diferentes linhas de prescrição da mesma receita desmaterializada em farmácias diferentes ou em momentos diferentes, exceto em situações de falência do sistema em que aplica o disposto no artigo 23.º
+
+7 - No momento da dispensa, as farmácias podem, sempre que tal se justifique, remeter através dos respetivos sistemas informáticos, notas terapêuticas relativamente a cada medicamento ou produto de saúde que é dispensado, podendo receber informação de retorno sobre se o médico prescritor viu essas notas.

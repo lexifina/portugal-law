@@ -21,3 +21,5 @@ Para efeitos do disposto na presente portaria, entende-se por:
 8) «Linha de prescrição» é o item de prescrição que, quando aplicável, tem uma correspondência unívoca com um Código Nacional para a Prescrição Eletrónica de Medicamentos (CNPEM), ou um número de registo de um medicamento ou outro código oficial identificador do produto prescrito.
 
 9) «Tipo de linha» corresponde ao tipo de produto constante em cada linha de prescrição.
+
+10) «Ato de prescrição» - ato durante o qual o prescritor efetua a prescrição de medicamentos, nomeadamente por meios eletrónicos.

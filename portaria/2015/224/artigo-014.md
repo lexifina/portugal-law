@@ -14,4 +14,4 @@
 
 6 - Os modelos de guia de tratamento são aprovados por despacho do membro do governo responsável pela área da saúde.
 
-7 - Nos casos de receita desmaterializada, o guia de tratamento e os códigos previstos no n.º 5 podem ser remetidos, no momento da prescrição, para o endereço de correio eletrónico do utente ou por SMS, mantendo-se a possibilidade de, a pedido do utente, serem fornecidos em suporte papel.
+7 - Nos casos de receita desmaterializada, a informação constante no guia de tratamento e os códigos previstos no n.º 5 podem ser remetidos, no momento da prescrição, para o endereço de correio eletrónico do utente, por SMS, através da app MySNS, ou disponibilizados por outros meios eletrónicos, mantendo-se a possibilidade de, a pedido do utente, serem fornecidos em suporte papel.
