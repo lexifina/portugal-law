@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Dw8KxpYa5HN50ztpuJ0fvOV9LU6oyRjKuelkdRxXp%2fzj2QeyPsLGY6n2XpJDG7HKSAS9W1XvzjEbgqFl5ubccYPiY5uMWuAMV78gLG11gpCZIIqopY8QSfwMU7c6oZ7dlH0NuLZlbjydXPmrCRYaDH2XKpSp9mPK2mYCOtsaXH5F%2b4QgZvOsTGdf1dO9%2bXKdyH6Ewi8RKyAZEmy7M8EwVyKDRwdgZY2yjKWvBmK8QpDNXq7CCO%2f%2bQChNxiCdotpmWTwqL1MQ5yV42Tw2uPivHxSrXLFFA%2f45pX%2fiQJ%2bnMqNm1pyhlXpeUBeOOpjGVcoK0eKIcHzd88h0DKVHHjPKvjZ5%2fa8NAHkhao9Xkm5Vx%2fKJ1Kt5ntdoXgE3hsDWS3JMmirYLobP3cO1usUCE0QxdA%3d%3d&fich=OEPropostasAlteracao2017Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d6c11ba731e05318d99b5266eb4351f37d3b95a4eb39ab38276d6f0101f235b7",
+  "legislatura": "XIII",
+  "id": "9574",
+  "numero": "9C",
+  "orcamento": "2017",
+  "versao": "Or",
+  "data_registo": "2016-11-07",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9574",
+    "Numero": "9C",
+    "Data": "07/11/2016 10:38:00",
+    "Titulo": "Novo Artigo 143.º-A (Incentivo à investigação do património cultural)",
+    "Tema": "Cultura, Comunicação, Juventude e Desporto; Educação e Ciência; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 143.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e7a49774d5459784d4445304c3142424c3259774f4745324f5451354c54637a593255744e446b354d6930344d3245794c574a6b4e444e684e6a49314f475a6a4f4335775a47593d&Fich=f08a6949-73ce-4992-83a2-bd43a6258fc8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN",
+    "Proponentes": {
+      "Proponente": {
+        "GP_Partido": "PAN",
+        "Deputado": "ANDRÉ SILVA"
+      }
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 143.º-A",
+        "Titulo": "Incentivo à investigação do património cultural",
+        "Texto": "1 - Estabelece-se a gratuitidade no acesso aos museus e monumentos nacionais para estudantes do ensino profissional e superior nas áreas histórico-artísticas e de turismo, património e gestão cultural, procedendo-se à alteração do n.º 5 do Despacho n.º 6474/2014.\r\n2 – Para beneficiar da isenção, o estudante d",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 143.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Incentivo à investigação do património cultural",
+        "Data": "25/11/2016 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
