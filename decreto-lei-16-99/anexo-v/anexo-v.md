@@ -1,0 +1,21 @@
+# Anexo V
+
+Equipamentos mínimos a considerar na lavagem e tratamento de roupa, nas unidades, para os efeitos dos n.os 2 e 3 do artigo 24.º
+
+1 - Unidades com lavagem e engomagem da roupa utilizada:
+
+a) Máquina de lavar roupa com programa de desinfecção térmica;
+
+b) Secador;
+
+c) Ferro de engomar, do tipo industrial, com produção de vapor;
+
+d) Tábua de engomar do tipo industrial.
+
+2 - Unidades que não procedam à lavagem e tratamento da roupa utilizada:
+
+a) Máquina de lavar roupa do tipo doméstico;
+
+b) Ferro de engomar com produção de vapor;
+
+c) Tábua de engomar.
