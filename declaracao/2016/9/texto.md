@@ -1,0 +1,3 @@
+Declaração n.º 9/2016
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 17/XIII ao Decreto-Lei n.º 39/2016, de 28 de julho, que «Procede à terceira alteração ao Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março», apresentada pelo Grupo Parlamentar do Partido Social Democrata, uma vez que a proposta de alteração apresentada foi rejeitada pela Comissão de Orçamento, Finanças e Modernização Administrativa, tendo o Plenário sido informado do facto.
+Assembleia da República, 21 de outubro de 2016. - Pelo Deputado Secretário da Mesa da Assembleia da República, Pedro Alves.
