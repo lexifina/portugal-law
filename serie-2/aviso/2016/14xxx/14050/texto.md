@@ -1,0 +1,24 @@
+Aviso n.º 14050/2016
+Elaboração do Plano de Urbanização da Cidade Universitária de Lisboa
+Nos termos da subdelegação de competências conferida através do Despacho n.º 3/DMU/2016, publicado no Boletim Municipal n.º 1169 de 14 de julho de 2016, torna-se público, ao abrigo do n.º 1 do artigo 76.º e da alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, que a Câmara Municipal de Lisboa, em reunião pública de 26 de outubro de 2016, de acordo com a deliberação n.º 441/CM/2016, deliberou proceder à revogação da Deliberação n.º 133/CM/2010 que determinou o início do procedimento de elaboração do Plano de Pormenor da Cidade Universitária de Lisboa e aprovar o início do procedimento de elaboração do Plano de Urbanização da Cidade Universitária de Lisboa, tendo aprovado os Termos de Referência que fundamentam a sua oportunidade, fixam os respetivos objetivos e estabelecem o prazo de 300 dias para a sua elaboração.
+A área de intervenção, que pertence à Freguesia de Alvalade, inclui, para além dos terrenos afetos à Universidade de Lisboa, os terrenos do Museu da Cidade, da Torre do Tombo, do núcleo habitacional da Rua Dr. João Soares e da Biblioteca Nacional.
+Torna-se ainda público que, nos termos do n.º 2 do artigo 88.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, terá início no 5.º dia, após a publicação do presente Aviso no Diário da República, 2.ª série, um período de 15 dias úteis, para formulação de sugestões por qualquer interessado ou para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Durante o mencionado período de participação pública, decorre também o período de discussão pública da proposta de Adenda ao Contrato para Planeamento celebrado entre o Município de Lisboa e a Universidade de Lisboa.
+Os interessados poderão consultar os Termos de Referência e demais documentação no sítio eletrónico da Câmara Municipal de Lisboa, na Secção Planeamento Urbano (http://www.cm-lisboa.pt/viver/urbanismo/planeamento-urbano/planos-com-termos-de-referencia-aprovados) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, na Rua do Viriato n.º 13 a n.º 17;
+Centro de Documentação, sito no Edifício Central do Município, no Campo Grande, n.º 25, Piso 1.º F;
+Junta de Freguesia de Alvalade, sita na Rua Conde de Arnoso, n.º 5-B.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, até ao termo do referido período e dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando, para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no sítio eletrónico da Câmara Municipal de Lisboa (http://www.cm-lisboa.pt/viver/urbanismo), e deverão ser entregues por via eletrónica, através do endereço eletrónico dmu.dp.dpt@cm-lisboa.pt ou apresentadas presencialmente nos seguintes locais:
+Loja Lisboa - Alcântara, sita na Rua da Cozinha Económica, 36A - loja E, com acesso também pela R. de Cascais, junto ao Pingo Doce;
+Loja Lisboa - Baixa, sita na Rua Nova do Almada, 2 - 3.º;
+Loja Lisboa - Lumiar, sita na Rua Manuel Marques, 6H, Edifício Odense - Lumiar;
+Loja Lisboa - Entrecampos, sita no Edifício Central do Município, Campo Grande, 25;
+Loja Lisboa - Marvila, sita na Loja do Cidadão de Marvila, Centro Comercial Pingo Doce da Bela Vista, Av. Santo Condestável, lote 8 - loja 34.
+2 de novembro de 2016. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+Deliberação
+Através da Deliberação n.º 441/CM/2016, de 26 de outubro de 2016, a Câmara Municipal de Lisboa aprovou, por unanimidade, a revogação da Deliberação n.º 133/CM/2010 que determinou o início do procedimento de elaboração do Plano de Pormenor da Cidade Universitária de Lisboa, determinou o início do procedimento de elaboração do Plano de Urbanização da Cidade Universitária de Lisboa, tendo aprovado os respetivos termos de referência e a abertura de um período de participação pública preventiva, e aprovou, por maioria, com votos a favor (7 PS e 2 Independentes) e votos contra (2 PPD/PSD e 2PCP), a minuta de Adenda ao Contrato para Planeamento celebrado entre o Município de Lisboa e a Universidade de Lisboa para efeito de abertura do respetivo período de discussão pública, ao abrigo do disposto no n.º 1 e n.º 3 do artigo 76.º, no n.º 2 do artigo 88.º, e no n.º 2 e n.º 3 do artigo 81.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial.
+2 de novembro de 2016. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+37059 - http://ssaigt.dgterritorio.pt/i/Planta_area_interv_37059_1.jpg
+609996977
