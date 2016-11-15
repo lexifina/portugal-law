@@ -1,0 +1,6 @@
+Aviso n.º 14173/2016
+Luis Simão Duarte de Matos, Presidente da Câmara Municipal de Mora, torna público que, de acordo com o estipulado no artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015 de 7/1 e para os fins previstos no artigo 56.º da Lei n.º 75/2013 de 12/09, em cumprimento da deliberação tomada pela Câmara Municipal de Mora na sua reunião ordinária realizada no dia 19 de outubro de 2016, que se procede à abertura de um período de apreciação pública, pelo prazo de 30 dias, a contar da data da publicação no Diário da República, do projeto de Regulamento de Taxas Municipais e Tabela Geral de Taxas e licenças Municipais.
+Nestes termos, convidam-se os interessados a apresentar eventuais sugestões dentro do período atrás referido para: Município de Mora, Rua do Município, n.º 41, 7490-243 Mora ou através do endereço eletrónico: www.cm-mora.pt com referência expressa ao projeto em causa.
+O processo está disponível para consulta no portal da Autarquia www.cm-mora.pt e na Divisão Administrativa e Financeira, entre as 9.00 e as 12.30 horas e entre as 14.00 e as 16.00 horas.
+24 de outubro de 2016. - O Presidente da Câmara Municipal, Luís Simão Duarte de Matos.
+309970675
