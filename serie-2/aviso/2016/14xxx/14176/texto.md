@@ -1,0 +1,5 @@
+Aviso n.º 14176/2016
+Revogação da elaboração do Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural (PIER) da Herdade das Jans - Amieira do Tejo
+Maria Idalina Alves Trindade, presidente da Câmara Municipal de Nisa, para efeitos do disposto nos n.º 1 e 3 do artigo 127.º e por força do disposto na alínea c) do n.º 4 do artigo 191.º todos do Decreto-Lei n.º 80/2015, de 14 de maio, torna público que pela deliberação n.º 187/2016 tomada em reunião de Câmara de 01/06/2016 e pela deliberação n.º 19/2016 tomada em sessão de Assembleia Municipal de 24/06/2016, foi deliberado revogar a elaboração do Plano de Pormenor na modalidade de Plano de Intervenção em Espaço Rural (PIER) da Herdade das Jans - Amieira do Tejo, cujo contrato havia sido celebrado entre o Município de Nisa e Maria Isilda Pelicano Lopes, em 03/06/2013 e devidamente publicitado pelo Aviso n.º 8644/2013 publicado na 2.ª série do DR n.º 129 de 08/07/2013.
+2 de novembro de 2016. - A Presidente da Câmara, Maria Idalina Alves Trindade.
+609988025
