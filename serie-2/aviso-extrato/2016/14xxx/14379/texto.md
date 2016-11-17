@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 14379/2016
+António Vassalo Abreu, Presidente da Câmara Municipal de Ponte da Barca, torna público, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo e no seguimento da deliberação tomada pelo Executivo, em sua reunião de 31/10/2016, que durante o período de trinta dias úteis, a contar da data da publicação do presente aviso no Diário da República, é submetido a consulta pública, para recolha de sugestões, o Projeto do Regulamento de Funcionamento, Atendimento e Horário de Trabalho da Câmara Municipal de Ponte da Barca.
+Durante aquele período, os interessados poderão consultar o projeto de regulamento atrás mencionado, que se encontra disponível na Divisão de Administração Geral e Finanças - Serviço de Atendimento ao Munícipe, e sobre ele formularem, por escrito, as sugestões ou observações tidas por convenientes, encontrando-se publicado, na íntegra, na página da Internet desta Câmara Municipal em www.cmpb.pt.
+8 de novembro de 2016. - O Presidente da Câmara, António Vassalo Abreu.
+310004733
