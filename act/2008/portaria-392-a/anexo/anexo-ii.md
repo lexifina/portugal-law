@@ -8,9 +8,9 @@ Despesas elegíveis:
 
 a) Obras de adaptação ou remodelação das instalações do GAL;
 
-b) Compra ou locação, até ao final de 2011, de uma viatura nova quando o seu uso for indispensável ao funcionamento do GAL, salvo situações de substituição previamente autorizadas pela autoridade de gestão do PRODER;
+b) Compra ou, até ao final de 2011, locação de uma viatura nova quando o seu uso for indispensável ao funcionamento do GAL, salvo situações de substituição previamente autorizadas pela autoridade de gestão do PRODER;
 
-c) Compra ou locação de equipamentos administrativos novos, designadamente mobiliário de escritório, equipamento informático, software e equipamentos de som e imagem, adquiridos até ao final de 2011, salvo situações de substituição previamente autorizadas pela autoridade de gestão do PRODER;
+c) Compra ou, até ao final de 2011, locação de equipamentos administrativos novos, designadamente mobiliário de escritório, equipamento informático, software e equipamentos de som e imagem, salvo situações de substituição previamente autorizadas pela autoridade de gestão do PRODER;
 
 d) Despesas com a aquisição de serviços, designadamente serviços de assessoria e consultoria em áreas específicas, e com a elaboração de estudos de mercado ou de impacte estratégico;
 
@@ -38,7 +38,7 @@ m) Despesas com a constituição das cauções relativas aos adiantamentos de aj
 
 n) Despesas com pessoal, nomeadamente remunerações, subsídio de refeição, encargos sobre as remunerações e seguros de acidentes de trabalho;
 
-o) Despesas com formação dos elementos do GAL no âmbito da aquisição de competências;
+o) Despesas com formação no âmbito da aquisição de competências;
 
 p) IVA - O IVA poderá ser considerado elegível nas seguintes situações, a demonstrar por certidão da repartição de finanças:
 
@@ -50,7 +50,7 @@ ii) Regimes mistos:
 
 2) Pro rata - o IVA é elegível na percentagem em que não for dedutível.
 
-Despesas não elegíveis:
+Despesas não elegíveis.
 
 a) Aquisição de imóveis;
 
