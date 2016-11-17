@@ -1,0 +1,7 @@
+Aviso n.º 14399/2016
+Projeto de Regulamento e Tabela de Taxas e Preços da Câmara Municipal para 2017
+Alberto Simões Maia Mesquita, Presidente da Câmara Municipal de Vila Franca de Xira, faz saber, em cumprimento do disposto no n.º 1, do artigo 56.º, do anexo I, da Lei n.º 75/2013, de 12 de setembro, e nos termos da alínea c) do n.º 3 do artigo 100.º e do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de trinta dias o projeto de Regulamento e Tabela de Taxas e Preços da Câmara Municipal para 2017, aprovado pela câmara municipal na sua reunião extraordinária e pública de 28 de outubro de 2016, sendo que o projeto não apresenta quaisquer alterações ao Regulamento e Tabela de Taxas e Preços em vigor no concelho.
+O referido Regulamento e Tabela de Taxas e Preços está publicado no Diário da República, 2.ª série, n.º 47, de 8 de março de 2016, e qualquer interessado pode consultar os documentos em apreço no site da câmara municipal, ou solicitando-os diretamente nos Paços do Município.
+Os interessados devem dirigir por escrito as suas sugestões ao Sr. Presidente da Câmara Municipal, Loja do Munícipe, Praça Bartolomeu Dias, n.º 9, Quinta da Mina, 2600-076 Vila Franca de Xira, dentro do prazo de 30 dias úteis contados da data da publicação do referido projeto na 2.ª série do Diário da República.
+2 de novembro de 2016. - O Presidente da Câmara Municipal, Alberto Simões Maia Mesquita.
+309987612
