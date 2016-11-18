@@ -1,0 +1,7 @@
+Edital n.º 999-A/2016
+Consulta pública de Alteração por Aditamento ao Regulamento Municipal do Loteamento da Zona Industrial de Alcoutim
+Osvaldo dos Santos Gonçalves, presidente da Câmara Municipal de Alcoutim, torna público, de harmonia com a deliberação do órgão executivo, tomada na sua reunião realizada em 16 de novembro de 2016 e nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo, que a Alteração por Aditamento ao Regulamento Municipal do Loteamento da Zona Industrial de Alcoutim encontra-se em consulta pública, durante 30 dias, a contar da data de publicação do presente edital no Diário da República.
+A referida alteração por Aditamento ao regulamento encontra-se disponível para consulta na Divisão Administrativa e Financeira de Cultura e Desporto, Rua do Município, n.º 12, 8970-066 Alcoutim, todos os dias úteis e durante o horário normal de expediente, onde os interessados poderão apresentar por escrito, dirigidas ao presidente da Câmara Municipal, ou enviar por via postal para Rua do Município, n.º 12, 8970-066 Alcoutim, por fax 281 546 363 ou e-mail geral@cm-alcoutim.pt, durante o referido prazo, as observações ou sugestões que entenderem por convenientes.
+Para constar e devidos efeitos se publica o presente edital e outros de igual teor, que além do Diário da República e do sítio eletrónico deste Município (www.cm-alcoutim.pt), vão ser afixados nos lugares públicos do costume.
+16 de novembro de 2016. - O Presidente da Câmara, Osvaldo dos Santos Gonçalves.
+310026888
