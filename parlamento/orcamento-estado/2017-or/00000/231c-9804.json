@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Dw8KxpYa5HN50ztpuJ0fvOV9LU6oyRjKuelkdRxXp%2fzj2QeyPsLGY6n2XpJDG7HKSAS9W1XvzjEbgqFl5ubccYPiY5uMWuAMV78gLG11gpCZIIqopY8QSfwMU7c6oZ7dlH0NuLZlbjydXPmrCRYaDH2XKpSp9mPK2mYCOtsaXH5F%2b4QgZvOsTGdf1dO9%2bXKdyH6Ewi8RKyAZEmy7M8EwVyKDRwdgZY2yjKWvBmK8QpDNXq7CCO%2f%2bQChNxiCdotpmWTwqL1MQ5yV42Tw2uPivHxSrXLFFA%2f45pX%2fiQJ%2bnMqNm1pyhlXpeUBeOOpjGVcoK0eKIcHzd88h0DKVHHjPKvjZ5%2fa8NAHkhao9Xkm5Vx%2fKJ1Kt5ntdoXgE3hsDWS3JMmirYLobP3cO1usUCE0QxdA%3d%3d&fich=OEPropostasAlteracao2017Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d6c11ba731e05318d99b5266eb4351f37d3b95a4eb39ab38276d6f0101f235b7",
+  "legislatura": "XIII",
+  "id": "9804",
+  "numero": "231C",
+  "orcamento": "2017",
+  "versao": "Or",
+  "data_registo": "2016-11-18",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9804",
+    "Numero": "231C",
+    "Data": "18/11/2016 19:38:00",
+    "Titulo": "Novo Artigo 136.º-B (Tarifas de energia elétrica)",
+    "Tema": "Economia, Inovação e Obras Públicas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 136.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e7a49774d5459784d4445304c3142424c7a6b774f545931593259354c57566c597a6b744e44526a4d6931694e7a42684c5452694f54566c4d6d59355a444931595335775a47593d&Fich=90965cf9-eec9-44c2-b70a-4b95e2f9d25a.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 136.º-B",
+        "Titulo": "Tarifas de energia elétrica",
+        "Texto": "1 – Em 2017, o Governo procede:\r\na) Ao prolongamento do prazo para a extinção das tarifas transitórias para fornecimentos de eletricidade aos clientes finais de baixa tensão normal, prevista no nº 5 da Portaria nº 97/2015 de 30 de Março para 31 de Dezembro de 2017, estabelecendo 31 de Dezembro de 2020 como no",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 136.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Tarifas de energia elétrica",
+        "Data": "25/11/2016 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Favor",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
