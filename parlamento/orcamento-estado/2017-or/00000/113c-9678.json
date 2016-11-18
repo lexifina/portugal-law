@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Dw8KxpYa5HN50ztpuJ0fvOV9LU6oyRjKuelkdRxXp%2fzj2QeyPsLGY6n2XpJDG7HKSAS9W1XvzjEbgqFl5ubccYPiY5uMWuAMV78gLG11gpCZIIqopY8QSfwMU7c6oZ7dlH0NuLZlbjydXPmrCRYaDH2XKpSp9mPK2mYCOtsaXH5F%2b4QgZvOsTGdf1dO9%2bXKdyH6Ewi8RKyAZEmy7M8EwVyKDRwdgZY2yjKWvBmK8QpDNXq7CCO%2f%2bQChNxiCdotpmWTwqL1MQ5yV42Tw2uPivHxSrXLFFA%2f45pX%2fiQJ%2bnMqNm1pyhlXpeUBeOOpjGVcoK0eKIcHzd88h0DKVHHjPKvjZ5%2fa8NAHkhao9Xkm5Vx%2fKJ1Kt5ntdoXgE3hsDWS3JMmirYLobP3cO1usUCE0QxdA%3d%3d&fich=OEPropostasAlteracao2017Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d6c11ba731e05318d99b5266eb4351f37d3b95a4eb39ab38276d6f0101f235b7",
+  "legislatura": "XIII",
+  "id": "9678",
+  "numero": "113C",
+  "orcamento": "2017",
+  "versao": "Or",
+  "data_registo": "2016-11-18",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9678",
+    "Numero": "113C",
+    "Data": "18/11/2016 15:53:00",
+    "Titulo": "Novo Artigo 214.º-C (Circuitos curtos de comercialização)",
+    "Tema": "Agricultura e Mar; Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 214.º-C",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e7a49774d5459784d4445304c3142424c7a426a596d526d595463304c546b7a4e5451744e445178595331694e4445324c57526a4d6d4979597a56685a6d45305a5335775a47593d&Fich=0cbdfa74-9354-441a-b416-dc2b2c5afa4e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 214.º-C",
+        "Titulo": "Circuitos curtos de comercialização",
+        "Texto": "No ano de 2017 O Governo apresenta e desenvolve uma estratégia com vista ao estímulo aos mercados de proximidade e circuitos curtos de comercialização.",
+        "Estado": "Aprovado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 214.º-C"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Circuitos curtos de comercialização",
+        "Data": "28/11/2016 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
