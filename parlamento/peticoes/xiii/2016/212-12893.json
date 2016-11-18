@@ -1,0 +1,207 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12893",
+  "numero": "212",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-11-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-01-18",
+            "entidades": null,
+            "id": "103795",
+            "tipo": null,
+            "titulo": "Audição em 2017-01-18 com Comissão de Utentes do IC1 de Alcácer do Sal e Grândola"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-12-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS"
+            ],
+            "nrOficio": "287/CEIOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2017-01-13",
+                "dataResposta": "2017-01-19",
+                "nrOficio": "6/CEIOP",
+                "oficioResposta": "126/2017"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-02-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "785466",
+                "obs": null,
+                "pag": [
+                  "3-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-24",
+                "pubLeg": "XIII",
+                "pubNr": "29",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/029/2017-02-24/3?pgs=3-5&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-12-06",
+        "DataArquivo": "2017-02-08",
+        "DataBaixaComissao": "2016-11-23",
+        "DataEnvioPAR": "2017-02-20",
+        "DataReaberta": "2016-12-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a4d784e545979595755744d54637a4f433030597a49324c5745785a4441744f4441774d6a4e684e6a4533597a6c684c6e426b5a673d3d&fich=b31562ae-1738-4c26-a1d0-80023a617c9a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d3251325a54517759546b744d446c6a597930304e6a64684c546b785a44457459574a694d446b335a5467355a5755794c6e426b5a673d3d&fich=3d6e40a9-09cc-467a-91d1-abb097e89ee2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a6a45314d546c6a4e5445745a4446685a4330305a57566b4c57466c4f5455744f4455795a6d4d304f546b355a5755304c6e426b5a673d3d&fich=f1519c51-d1ad-4eed-ae95-852fc4999ee4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-02-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a47457a5a6d4e6a4f475974596d49355a5330305a475a6a4c57466b597a49744e6a49795a47517a5a6a6b7a59324d344c6e426b5a673d3d&fich=da3fcc8f-bb9e-4dfc-adc2-622dd3f93cc8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a6a41345a6d4e685a4459744d6a4a6d4f4330305a4755304c5467325a4463744d6a5a694e7a51794e5463304e57566a4c6e426b5a673d3d&fich=f08fcad6-22f8-4de4-86d7-26b7425745ec.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-12-06",
+            "gp": "PSD",
+            "id": "1993",
+            "motivoCessacao": null,
+            "nome": "Pedro do Ó Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-11-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938324f54646c597a49355a433032595441324c5452684d6d557459574d31597930304d47557759574d774d44466a596a59756347526d&fich=697ec29d-6a06-4a2e-ac5c-40e0ac001cb6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12893",
+    "PetAssunto": "Pela reparação da estrada nacional nº 120/IC1 (troço entre Alcácer do Sal e Grândola)",
+    "PetDataEntrada": "2016-11-18",
+    "PeticoesAssociadas": null,
+    "PetId": "12893",
+    "PetLeg": "XIII",
+    "PetNr": "212",
+    "PetNrAssinaturas": "2861",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "780585",
+        "obs": null,
+        "pag": [
+          "14-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-16",
+        "pubLeg": "XIII",
+        "pubNr": "17",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/017/2016-12-16/14?pgs=14&org=PLC"
+      }
+    ]
+  }
+}
