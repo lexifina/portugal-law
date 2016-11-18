@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=Dw8KxpYa5HN50ztpuJ0fvOV9LU6oyRjKuelkdRxXp%2fzj2QeyPsLGY6n2XpJDG7HKSAS9W1XvzjEbgqFl5ubccYPiY5uMWuAMV78gLG11gpCZIIqopY8QSfwMU7c6oZ7dlH0NuLZlbjydXPmrCRYaDH2XKpSp9mPK2mYCOtsaXH5F%2b4QgZvOsTGdf1dO9%2bXKdyH6Ewi8RKyAZEmy7M8EwVyKDRwdgZY2yjKWvBmK8QpDNXq7CCO%2f%2bQChNxiCdotpmWTwqL1MQ5yV42Tw2uPivHxSrXLFFA%2f45pX%2fiQJ%2bnMqNm1pyhlXpeUBeOOpjGVcoK0eKIcHzd88h0DKVHHjPKvjZ5%2fa8NAHkhao9Xkm5Vx%2fKJ1Kt5ntdoXgE3hsDWS3JMmirYLobP3cO1usUCE0QxdA%3d%3d&fich=OEPropostasAlteracao2017Or_json.txt&Inline=true",
+  "ficheiro_sha256": "d6c11ba731e05318d99b5266eb4351f37d3b95a4eb39ab38276d6f0101f235b7",
+  "legislatura": "XIII",
+  "id": "9887",
+  "numero": "312C-1",
+  "orcamento": "2017",
+  "versao": "Or",
+  "data_registo": "2016-11-18",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "9887",
+    "Numero": "312C-1",
+    "Data": "18/11/2016 20:23:00",
+    "Titulo": "Novo Artigo 213.º-A (Alteração ao Decreto-Lei n.º 159/2014, de 27 de outubro)",
+    "Tema": "Economia, Inovação e Obras Públicas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 213.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784e7a49774d5459784d4445304c3142424c32566a4e6d497a4d7a49354c544d31597a6b744e44566c4e5331694f5455354c5467304d6d59775a6d55354e44466a4f4335775a47593d&Fich=ec6b3329-35c9-45e5-b959-842f0fe941c8.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PSD",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "ANTÓNIO LEITÃO AMARO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS LEITE RAMOS"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "LUÍS MONTENEGRO"
+        },
+        {
+          "GP_Partido": "PSD",
+          "Deputado": "MARIA LUÍS ALBUQUERQUE"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 213.º-A",
+        "Titulo": "Alteração ao Decreto-Lei n.º 159/2014, de 27 de outubro",
+        "Texto": "Os artigos 25.º e 27.º do Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais e dos programas de desenvolvimento rural financiados pelos fundos europeus estruturais e de investimento, para o período de programação 2014-2020 passam a ter a seguint",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 213.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Alteração ao Decreto-Lei n.º 159/2014, de 27 de outubro",
+        "Data": "28/11/2016 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra"
+          ]
+        }
+      }
+    }
+  }
+}
