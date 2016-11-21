@@ -1,0 +1,11 @@
+Aviso n.º 14571/2016
+António Miguel Cabedal Borges, Presidente da Câmara Municipal de Sardoal, torna público que a Câmara Municipal deliberou, em reunião ordinária realizada no dia 09 de novembro de 2016, submeter a Proposta de Alteração ao Artigo 9.º do Regulamento do Plano Diretor Municipal de Sardoal a discussão pública, por um período de 30 dias seguidos, contados a partir do 5.º dia após publicação do presente aviso no Diário da República, conforme o previsto no artigo 89.º e nos termos da alínea a) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão do Território, na redação do Decreto-Lei n.º 80/2015, de 14 de maio.
+No decurso do período de discussão pública, os interessados poderão consultar a proposta de alteração, bem como os demais elementos que a acompanham, nomeadamente o parecer final da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, no balcão de atendimento geral sito no edifício dos Paços do Concelho, durante as horas normais de expediente (9:00 h/16.30 h), bem como no sítio da internet em www.cm-sardoal.pt.
+Mais se informa que os interessados podem apresentar reclamações, observações ou sugestões, formuladas por escrito e entregues no balcão de atendimento geral do Município, enviadas por correio para o endereço "Câmara Municipal de Sardoal, Praça da República, 2230-222 Sardoal", ou através de correio eletrónico para o endereço geral@cm-sardoal.pt.
+Para constar, publica-se o presente Aviso no Diário da República, na comunicação social, na página da internet do Município (www.cm-sardoal.pt), sendo ainda afixado nos locais de estilo.
+10 de novembro de 2016. - O Presidente da Câmara, António Miguel Cabedal Borges.
+Deliberação
+(em reunião pública de 09 de novembro de 2016)
+Considerando que a proposta de alteração ao artigo 9.º do Regulamento do Plano Diretor Municipal de Sardoal, já integra os pareceres da CCDR-LVT e da IP, a Câmara Municipal deliberou por unanimidade submeter a mesma a discussão pública pelo período de 30 dias seguidos conforme previsto no artigo 89.º e nos termos da alínea a) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015 de 14 de maio.
+10 de novembro de 2016. - O Presidente da Câmara, António Miguel Cabedal Borges.
+610015336
