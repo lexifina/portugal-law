@@ -8,10 +8,8 @@ a) Taxa de instalação;
 
 b) Taxa anual de funcionamento.
 
-2 - O montante das taxas referidas no número anterior consta do anexo II do presente diploma.
+2 - O montante das taxas referidas no número anterior será regulado e revisto por Portaria da Secretaria Regional da tutela, sob proposta da concessionária, sendo os montantes revistos somente aplicados aos utentes que se instalem depois da data de revisão.
 
-3 - Os montantes das taxas serão revistos por portaria do Governo Regional da Madeira, sob proposta da concessionária, sendo os montantes revistos somente aplicados aos utentes que se instalem depois da data de revisão.
+3 - A concessionária não poderá cobrar taxas diversas das aprovadas.
 
-4 - A concessionária não poderá cobrar taxas diversas das aprovadas.
-
-5 - As licenças emitidas estipularão o coeficiente de actualização das taxas devidas até ao fim do prazo inicialmente concedido, caso se justifique a sua previsão.
+4 - As licenças emitidas estipularão o coeficiente de actualização das taxas devidas até ao fim do prazo inicialmente concedido, caso se justifique a sua previsão.

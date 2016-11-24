@@ -4,7 +4,7 @@
 
 1 - Os utentes prestarão, a favor da concessionária, no momento da emissão da licença, uma caução para garantia do exacto e pontual cumprimento das obrigações que assumem com a licença.
 
-2 - O Secretário Regional do Plano fixará o valor da caução, mediante proposta da concessionária.
+2 - O Secretário Regional fixará o valor da caução, mediante proposta da concessionária e parecer da AT-RAM.
 
 3 - A concessionária poderá recorrer à caução, independentemente de quaisquer formalidades, nos casos em que os utentes não cumpram as suas obrigações.
 

@@ -1,5 +1,5 @@
 # Artigo 24.º
 
-### Infra-estruturas e equipamentos portuários
+### Infraestruturas e equipamentos
 
-As infra-estruturas e os equipamentos portuários da Zona Franca não poderão ser utilizados pelos utentes para fins diferentes dos previstos na licença.
+As infraestruturas e os equipamentos da Zona Franca não poderão ser utilizados pelos utentes para fins diferentes dos previstos na licença.

@@ -2,7 +2,7 @@
 
 ### Infra-estruturas e instalações
 
-1 - A Região Autónoma da Madeira, através do Gabinete da Zona Franca, assegurará a existência e conveniente funcionamento das infra-estruturas externas necessárias às operações na área geograficamente delimitada no Caniçal, nomeadamente os respectivos arruamentos de acesso e redes de abastecimento de energia eléctrica e de água com capacidade suficiente para satisfazer os requisitos da Zona e dos seus utentes.
+1 - A Região Autónoma da Madeira assegurará a existência e conveniente funcionamento das infraestruturas externas necessárias às operações na área geograficamente delimitada no Caniçal, nomeadamente os respetivos arruamentos de acesso e redes de abastecimento de energia elétrica e de água com capacidade suficiente para satisfazer os requisitos da Zona e dos seus utentes.
 
 2 - É da responsabilidade da concessionária o fornecimento de água e de energia eléctrica consumidas na área referida no número anterior e a manutenção das respectivas redes internas, sendo tais encargos debitados aos utentes, de acordo com os respectivos consumos.
 

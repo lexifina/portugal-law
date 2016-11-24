@@ -6,12 +6,22 @@
 
 a) Com a apresentação do requerimento, a taxa de instalação correspondente à autorização de instalação;
 
-b) Com a emissão da licença, a taxa anual de funcionamento correspondente à autorização de funcionamento para esse ano;
+b) Com a emissão da licença:
 
-c) No mês de Janeiro de cada ano e liquidada de uma só vez, a taxa anual de funcionamento correspondente à autorização de funcionamento, sob pena de caducidade imediata da autorização concedida.
+i) Para as entidades instaladas na Zona Franca Industrial, a taxa anual de funcionamento correspondente ao licenciamento, na proporção dos meses de vigência da licença no ano civil em causa;
 
-2 - No caso de a autorização não ser concedida por facto não imputável ao requerente, este terá direito à restituição do montante pago pela requisição da autorização de instalação.
+ii) Para as restantes entidades, a taxa anual de funcionamento relativa ao primeiro ano de atividade contado a partir da emissão da licença.
 
-3 - Se a autorização de instalação e funcionamento for concedida no 2.º semestre do ano, o montante da taxa anual de funcionamento referente a esse ano será reduzido a metade.
+c) Nos períodos seguintes, as taxas anuais de funcionamento vencem-se e são cobradas nos termos seguintes:
 
-4 - As empresas instaladas na Zona Franca Industrial pagam a taxa a que se refere a alínea b) do n.º 1 do artigo anterior em doze prestações mensais, até ao último dia do mês a que digam respeito.
+i) Para as entidades instaladas na Zona Franca Industrial, as taxas anuais de funcionamento vencem-se em janeiro de cada ano e são pagas nos termos previstos nos números quatro e cinco deste artigo;
+
+ii) Para as restantes entidades, as taxas anuais de funcionamento vencem-se e são pagas no prazo de doze meses contado a partir da data de vencimento da taxa anual anterior.
+
+2 - A falta de pagamento da taxa anual de funcionamento nos termos previstos no número anterior determina a suspensão do licenciamento concedido até a finalização do procedimento de cobrança coerciva, findo o qual o Secretário Regional procederá à declaração de caducidade da licença, salvo se o titular da mesma requerer a continuidade do licenciamento.
+
+3 - No caso de a autorização não ser concedida por facto não imputável ao requerente, este terá direito à restituição do montante pago pela requisição da autorização de instalação.
+
+4 - As empresas instaladas na Zona Franca Industrial pagam as taxas a que se referem a subalínea i) da alínea b) e a subalínea i) da alínea c) do n.º 1 em prestações mensais e uniformes até ao último dia do mês a que digam respeito.
+
+5 - Nos casos referidos no número anterior, a falta de pagamento de uma prestação importa o vencimento das seguintes se, no prazo de trinta dias a contar da notificação para o efeito, a empresa não proceder ao pagamento da prestação incumprida.

@@ -2,7 +2,7 @@
 
 ### Forma e elementos do pedido
 
-1 - O pedido de licença para a instalação, funcionamento e exercício de actividades comerciais e de serviços será formulado em requerimento dirigido ao Secretário Regional do Plano, acompanhado de memória descritiva e justificativa, e deverá conter:
+1 - O pedido de licença para a instalação, funcionamento e exercício de atividades comerciais e de serviços será formulado em requerimento dirigido ao Secretário Regional, acompanhado de memória descritiva e justificativa, e deverá conter:
 
 a) Nome ou denominação social e domicílio ou sede do requerente;
 

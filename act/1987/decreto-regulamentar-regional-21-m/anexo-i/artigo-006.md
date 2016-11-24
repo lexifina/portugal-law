@@ -2,9 +2,9 @@
 
 ### Requisitos e recusa da autorização
 
-1 - O Secretário Regional do Plano aquilatará da idoneidade do requerente e do interesse económico da actividade a desenvolver.
+1 - O licenciamento referido no n.º 1 do artigo 4.º deste Regulamento efetua-se com base nos pareceres emitidos pela concessionária e pela AT-RAM respeitantes à idoneidade do requerente e ao interesse económico da atividade a desenvolver.
 
-2 - A autorização a que se refere o número anterior poderá ser recusada nos seguintes casos:
+2 - Nos termos do número anterior, o Secretário Regional poderá recusar o licenciamento, nos seguintes casos:
 
 a) Por motivos de segurança nacional ou de interesse público;
 
