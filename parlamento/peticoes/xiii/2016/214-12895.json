@@ -1,0 +1,539 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12895",
+  "numero": "214",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-11-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2016-12-14",
+        "DataArquivo": "2017-01-06",
+        "DataBaixaComissao": "2016-11-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2016-12-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-01-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d44426d4d47566b4d6d49744d47526c4e5330304e7a42694c5468684e7a6b744e3259774e6a63344d7a4178596a59334c6e426b5a673d3d&fich=00f0ed2b-0de5-470b-8a79-7f0678301b67.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-09",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a5445304e5759795a4445744f574d345a433030596d526b4c5467305a6d4d745a6a63354e325a684e6a6335593245304c6e426b5a673d3d&fich=e145f2d1-9c8d-4bdd-84fc-f797fa679ca4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Trabalho e Segurança Social."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-03-23",
+            "entidades": null,
+            "id": "104621",
+            "tipo": null,
+            "titulo": "Audição em 2017-03-23 com - João Dias da Silva; Jorge Gomes Santos; Laura Rocha; António Jorge Pinto; Maria José Rangel; Paulo Fernandes e Cristina Ferreira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-03-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "42/CTSS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-03-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "43/CTSS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-06-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-01-25",
+        "DataArquivo": "2017-07-05",
+        "DataBaixaComissao": "2017-01-06",
+        "DataEnvioPAR": "2017-07-06",
+        "DataReaberta": "2017-01-25",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-03-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e474a6a4d4749334e4759745a444a6d4d5330305a546b784c5467304e5755744f54557a4d6d49304e7a52684e4755794c6e426b5a673d3d&fich=4bc0b74f-d2f1-4e91-845e-9532b474a4e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-03-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659546b355a44646a4f5751744f4463314d6930304d7a4a6c4c546b7a4d6d49744e6a526a4e7a63354d7a4d79596d51784c6e426b5a673d3d&fich=a99d7c9d-8752-432e-932b-64c779332bd1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-07-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d3251354d6a63324e6a59744e32517a5a4330304f5441784c574535596a597459574579596a5535593255355a574d304c6e426b5a673d3d&fich=3d927666-7d3d-4901-a9b6-aa2b59ce9ec4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-01-25",
+            "gp": "PSD",
+            "id": "5491",
+            "motivoCessacao": null,
+            "nome": "Susana Lamas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Orçamento, Finanças e Modernização Administrativa para esta comissão."
+      }
+    ],
+    "DataDebate": "2017-12-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-11-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d5a6d5131596d59355a53316b4e6a59354c54526d4f546774596d4e684d4330774d5749784d6d4e6b4d6a517a597a55756347526d&fich=ffd5bf9e-d669-4f98-bca0-01b12cd243c5.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=02:34:56:500&drc=00:03:01:340"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=02:37:57:840&drc=00:03:29:514"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=02:41:27:355&drc=00:03:32:872"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=03:01:54:814&drc=00:03:50:940"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=02:48:46:244&drc=00:03:18:010"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=02:52:04:255&drc=00:02:47:745"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "25",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12895",
+    "PetAssunto": "Solicitam o descongelamento da progressão nos escalões da Carreira de Docente e das posições remuneratórias do Pessoal Não Docente.",
+    "PetDataEntrada": "2016-11-24",
+    "PeticoesAssociadas": null,
+    "PetId": "12895",
+    "PetLeg": "XIII",
+    "PetNr": "214",
+    "PetNrAssinaturas": "7400",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "627",
+        "obs": null,
+        "pag": [
+          "49-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-14",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/49?pgs=49-53&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "781297",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-01-27",
+        "pubLeg": "XIII",
+        "pubNr": "24",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/024/2017-01-27/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
