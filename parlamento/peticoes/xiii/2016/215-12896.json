@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12896",
+  "numero": "215",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-11-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-01-13",
+            "entidades": null,
+            "id": "104905",
+            "tipo": null,
+            "titulo": "Audição em 2017-01-13 com Estevão Domingos de Sá Sequeira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-05-03",
+            "dataResposta": "2017-05-25",
+            "entidades": [
+              "MIN. DOS  NEGÓCIOS ESTRANGEIROS"
+            ],
+            "nrOficio": "72/CNECP/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-06-09",
+            "dataResposta": "2017-06-29",
+            "entidades": [
+              "MIN.  DA   ADMINISTRAÇÃO  INTERNA"
+            ],
+            "nrOficio": "85/CNECP/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-03",
+            "dataResposta": "2017-05-09",
+            "entidades": [
+              "MIN.  DA   JUSTIÇA"
+            ],
+            "nrOficio": "72/CNECP/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-12-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-01-04",
+        "DataArquivo": "2017-12-12",
+        "DataBaixaComissao": "2016-12-06",
+        "DataEnvioPAR": "2017-12-14",
+        "DataReaberta": "2017-01-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-01-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764d6a6c6c4d6d4e6c596d51744e7a6b324d7930304f57566a4c546b784e5459744f5468684d5759314d57566a4f4745794c6e426b5a673d3d&fich=29e2cebd-7963-49ec-9156-98a1f51ec8a2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764f574d345a5467344e5755745a574d354e433030596a68684c5745794d7a4d745a6a6379595441794e7a646a4e6d4a6a4c6e426b5a673d3d&fich=9c8e885e-ec94-4b8a-a233-f72a0277c6bc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764e324d794f47466d5a6d55744d44426a4d433030596d4d774c546b324f5745744e6a51794e3255314e44526d595467794c6e426b5a673d3d&fich=7c28affe-00c0-4bc0-969a-6427e544fa82.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738765a4445304f545a6b5a5455745a6a49344e4330304d54646b4c546b7a5a5467745a5759334f44466d5a6a4d794e444a684c6e426b5a673d3d&fich=d1496de5-f284-417d-93e8-ef781ff3242a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-12-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764d5459774e6a566c4f5745744d6a4d3359533030597a6b304c546c6b4e5441744e7a566d4d6a56684e6d4d315a47457a4c6e426b5a673d3d&fich=16065e9a-237a-4c94-9d50-75f25a6c5da3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a5957387659324a6c4e6a6b794d7a55744f44646b5a5330305a4746694c546b775a6a45744f5745794e7a4a6c4e4468684d7a426a4c6e426b5a673d3d&fich=cbe69235-87de-4dab-90f1-9a272e48a30c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a59573876595759355a575579597a59744e5442684e4330304d574a6b4c546c684f4441744e7a686a596a426c4f4751304e6a526b4c6e426b5a673d3d&fich=af9ee2c6-50a4-41bd-9a80-78cb0e8d464d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764d5451305a6a55335a546b745932466859793030597a55314c546b355a4451745a4467335a5441795a445a6d59575a694c6e426b5a673d3d&fich=144f57e9-caac-4c55-99d4-d87e02d6fafb.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4525",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-01-04",
+            "gp": "PSD",
+            "id": "4441",
+            "motivoCessacao": null,
+            "nome": "Ricardo Baptista Leite"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2016-12-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4e44466d4e7a4531595331694d444a684c545130595455745954597a5a4331684d6d56694e6a41794e6a42685a4459756347526d&fich=d41f715a-b02a-44a5-a63d-a2eb60260ad6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12896",
+    "PetAssunto": "Solicita a criação de Vistos Eletrónicos.",
+    "PetDataEntrada": "2016-11-25",
+    "PeticoesAssociadas": null,
+    "PetId": "12896",
+    "PetLeg": "XIII",
+    "PetNr": "215",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
