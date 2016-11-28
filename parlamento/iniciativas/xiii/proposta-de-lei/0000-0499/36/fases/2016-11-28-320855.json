@@ -1,0 +1,2540 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "36",
+    "id": "40720",
+    "titulo": "Aprova as Grandes Opções do Plano para 2017"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2016-11-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11627",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2016-11-28",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "40721",
+        "leg": "XIII",
+        "nr": "37",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2250",
+            "obs": null,
+            "pag": [
+              "2-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2016-11-29",
+            "pubLeg": "XIII",
+            "pubNr": "23",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/2?pgs=2-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Aprova o Orçamento do Estado para 2017"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2016-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:05:30:853&drc=00:01:15:146"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-2"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/2?pgs=2&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:06:55:966&drc=00:01:25:290"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-3"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/2?pgs=2-3&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:08:29:877&drc=00:02:45:075"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:08:29:877&drc=00:02:45:075"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:35:40:425&drc=00:02:04:574"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "36-36",
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/3?pgs=3-4,9-10,36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:11:19:092&drc=00:04:58:908"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:46:40:908&drc=00:00:36:049"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27",
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/4?pgs=4,27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:16:21:769&drc=00:01:47:230"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204948",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5855",
+                "nome": "Jorge Falcato Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:18:17:567&drc=00:01:25:432"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204949",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/5?pgs=5&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:19:49:257&drc=00:01:33:742"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:21:29:653&drc=00:01:00:346"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:22:38:003&drc=00:04:22:997"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:27:07:317&drc=00:02:47:682"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:30:02:205&drc=00:02:34:795"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:32:43:358&drc=00:02:51:642"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:58:38:858&drc=00:03:50:141"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:12:04:363&drc=00:03:06:636"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:26:06:557&drc=00:03:00:443"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:32:01:757&drc=00:01:47:243"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:49:02:518&drc=00:01:49:100"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:01:55:297&drc=00:01:45:703"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Rocha  Andrade"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15",
+                  "18-19",
+                  "21-22",
+                  "24-24",
+                  "28-28",
+                  "31-31",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/8?pgs=8-9,14-15,18-19,21-22,24,28,31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4012",
+                "nome": "Fernando Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:51:01:514&drc=00:03:42:210"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:54:55:454&drc=00:01:57:545"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:24:06:067&drc=00:01:06:475"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/13?pgs=13-14,37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=00:56:57:693&drc=00:01:34:306"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:02:36:599&drc=00:01:59:400"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:04:52:106&drc=00:03:05:088"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:09:06:740&drc=00:01:15:221"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:33:07:465&drc=00:01:17:534"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16",
+                  "17-18",
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/15?pgs=15-16,17-18,40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:08:13:155&drc=00:00:48:844"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:19:48:663&drc=00:00:36:308"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17",
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/17?pgs=17,35-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6177",
+                "nome": "Rubina Berardo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:10:40:905&drc=00:00:16:095"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:44:00:438&drc=00:00:12:561"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/18?pgs=18,26&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2225",
+                "nome": "Hortense Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:15:21:099&drc=00:05:53:278"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:21:27:222&drc=00:02:52:074"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:12:49:332&drc=00:02:50:667"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/20?pgs=20-21,34&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:24:50:783&drc=00:01:09:216"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:31:10:773&drc=00:00:47:443"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21",
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/21?pgs=21,23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:29:10:750&drc=00:00:53:250"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:45:53:207&drc=00:00:41:000"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:17:52:907&drc=00:01:45:093"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "27-27",
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/22?pgs=22,27,35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1450",
+                "nome": "Helder Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:34:20:728&drc=00:01:30:408"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4194",
+                "nome": "Jorge Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:36:05:342&drc=00:01:18:658"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:37:29:953&drc=00:02:21:046"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ENERGIA",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Jorge Seguro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4328",
+                "nome": "Maurício Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:40:06:792&drc=00:00:45:207"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/26?pgs=26&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:41:11:948&drc=00:02:31:051"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/26?pgs=26&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4453",
+                "nome": "Pedro Delgado Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:44:19:507&drc=00:01:08:493"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/27?pgs=27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:47:33:898&drc=00:01:25:720"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "792",
+                "nome": "Carlos Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:51:01:643&drc=00:01:39:970"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2071",
+                "nome": "Miguel Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:52:47:712&drc=00:02:29:287"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:55:34:699&drc=00:00:57:301"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:11:07:574&drc=00:01:30:067"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30",
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/29?pgs=29-30,33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "839",
+                "nome": "Pedro Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:56:45:023&drc=00:01:53:533"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4052",
+                "nome": "Pedro Pimpão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:58:51:658&drc=00:01:04:341"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3387",
+                "nome": "Jorge Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:00:02:398&drc=00:01:45:601"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1028",
+                "nome": "Sónia Fertuzinhos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:03:56:087&drc=00:02:15:912"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1597",
+                "nome": "Fátima Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:06:28:917&drc=00:00:43:134"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:07:20:759&drc=00:01:08:240"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204983",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:08:35:000&drc=00:00:59:000"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204984",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4030",
+                "nome": "Carlos Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:09:39:039&drc=00:01:21:961"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204985",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:16:48:263&drc=00:00:58:754"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:21:41:427&drc=00:02:19:011"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204987",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204988",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29?org=PLC"
+              }
+            ],
+            "sumario": null,
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=01:30:10:018&drc=00:00:39:163"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:25:19:288&drc=00:07:39:561"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=20161128plen&url=l13/sl2/a2016/m11/&tI=02:34:31:905&drc=00:02:57:094"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS  PARLAMENTARES",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Nuno Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "23-23",
+                  "37-39",
+                  "40-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2016-11-29",
+                "pubLeg": "XIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/18?pgs=18,23,37-39,40-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2017",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "320855",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "779182",
+        "obs": null,
+        "pag": [
+          "2-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-11-29",
+        "pubLeg": "XIII",
+        "pubNr": "23",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/023/2016-11-29/2?pgs=2-43&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
