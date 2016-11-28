@@ -1,0 +1,628 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12897",
+  "numero": "216",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-11-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-03-19",
+            "entidades": null,
+            "id": "111819",
+            "tipo": null,
+            "titulo": "Audição em 2019-03-19 com Peticionantes"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2016-12-16",
+            "dataResposta": "2017-06-08",
+            "entidades": [
+              "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS"
+            ],
+            "nrOficio": "291/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-05-29",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "871692",
+                "obs": null,
+                "pag": [
+                  "7-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-07",
+                "pubLeg": "XIII",
+                "pubNr": "51",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/051/2019-06-07/7?pgs=7-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-12-14",
+        "DataArquivo": "2019-06-05",
+        "DataBaixaComissao": "2016-12-06",
+        "DataEnvioPAR": "2019-06-05",
+        "DataReaberta": "2016-12-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a444d32595755784e6d49744d5445325a6930304f545a694c5745334d4459744d7a4e6b4e5452684f54426b59324d794c6e426b5a673d3d&fich=d36ae16b-116f-496b-a706-33d54a90dcc2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2016-12-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a5957387659324d775a544e684e325574597a4932597930304d5446694c546b335a574d744d6a5533595441324e444d33596d51334c6e426b5a673d3d&fich=cc0e3a7e-c26c-411b-97ec-257a06437bd7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-06-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f546b7a5a545535595441744d6d59334f4330305a544d304c5749774d4749744d4751354f444e6b4d5745314f5449324c6e426b5a673d3d&fich=993e59a0-2f78-4e34-b00b-0d983d1a5926.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a4934596a5a69597a4d744d546732597930304f575a6c4c5749784e474d744e544e694f4463335a4463794d7a6c6c4c6e426b5a673d3d&fich=b28b6bc3-186c-49fe-b14c-53b877d7239e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-12-14",
+            "gp": "PS",
+            "id": "4210",
+            "motivoCessacao": null,
+            "nome": "José Rui Cruz"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-02-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-12-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396959575a6c5a545a695a69307a595467354c54526859324d744f444934597930794e6d566a4e7a4a684d7a686a4f4755756347526d&fich=bafee6bf-3a89-4acc-828c-26ec72a38c8e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43977",
+      "44384",
+      "44393",
+      "44413",
+      "44413"
+    ],
+    "Iniciativasoriginadas": [
+      "43977",
+      "44384",
+      "44393",
+      "44413"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:40:25:537&drc=00:03:46:324"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:44:11:861&drc=00:03:52:448"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:48:04:310&drc=00:03:47:068"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:51:51:378&drc=00:03:42:215"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:55:33:594&drc=00:01:41:758"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/50?pgs=50&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:57:15:352&drc=00:02:25:887"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=02:59:41:240&drc=00:03:36:387"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_12_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=03:03:17:627&drc=00:01:33:750"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-13",
+                "pubLeg": "XIV",
+                "pubNr": "27",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a elaboração pelo Governo de relatório anual sobre as assimetrias regionais em Portugal, prévia à apresentação do Orçamento do Estado, com vista à sua apresentação à Assembleia da República; Investir na coesão territorial e combater a desertificação do interior do País; Plataforma Digital em Sistema de Informação Geográfica (SIG); Recomenda ao Governo a realização de um plano de desenvolvimento do território nacional com medidas de valorização do interior e de combate ao abandono do mundo rural",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12897",
+    "PetAssunto": "Solicitam a adoção de medidas de combate à desertificação do interior do país.",
+    "PetDataEntrada": "2016-11-28",
+    "PeticoesAssociadas": null,
+    "PetId": "12897",
+    "PetLeg": "XIII",
+    "PetNr": "216",
+    "PetNrAssinaturas": "4426",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2643",
+        "obs": null,
+        "pag": [
+          "46-53"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-13",
+        "pubLeg": "XIV",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/027/2020-02-13/46?pgs=46-53&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "781298",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-01-27",
+        "pubLeg": "XIII",
+        "pubNr": "24",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/024/2017-01-27/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
