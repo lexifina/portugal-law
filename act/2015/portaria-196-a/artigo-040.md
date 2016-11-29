@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Comissões de Acompanhamento
+
 # Artigo 40.º
 
 ### Comissão Nacional de Cooperação

@@ -1,3 +1,7 @@
+## Secção II
+
+## Fiscalização
+
 # Artigo 39.º
 
 ### Ações de fiscalização
