@@ -1,0 +1,497 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12900",
+  "numero": "219",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-11-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-01-18",
+            "entidades": null,
+            "id": "103815",
+            "tipo": null,
+            "titulo": "Audição em 2017-01-18 com Maria Clara Martins da Silva Carvalho"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-01-29",
+            "dataResposta": "2017-04-18",
+            "entidades": [
+              "MIN.  DO AMBIENTE"
+            ],
+            "nrOficio": "14/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-02-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "785470",
+                "obs": null,
+                "pag": [
+                  "4-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "34",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/034/2017-03-17/4?pgs=4-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2016-12-20",
+        "DataArquivo": "2017-03-14",
+        "DataBaixaComissao": "2016-12-06",
+        "DataEnvioPAR": "2017-03-16",
+        "DataReaberta": "2016-12-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2016-12-20",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a42695a5451335a4755354c5467314e7a51744e47526a4d7930344f4751334c544a6a4e4759344d4442684f47466b597935515245593d&fich=0be47de9-8574-4dc3-88d7-2c4f800a8adc.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a6331597a41314f4756684c575a6a5a4455744e474d334d7931694e7a41774c574e6a4e6d466c593249314d7a566a597935775a47593d&fich=75c058ea-fcd5-4c73-b700-cc6aecb535cc.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-03-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a677a5a4468694d6a55314c545269595745744e4441354e7931694e445a6a4c5467334d6d49314d6d4d794e5745795a6935775a47593d&fich=83d8b255-4baa-4097-b46c-872b52c25a2f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a646c4f4441774e324d304c54686c596a4d744e474e6b5a5331684d7a64694c5759794d6a4a69596d566d4f546b344e7935515245593d&fich=7e8007c4-8eb3-4cde-a37b-f222bbef9987.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2016-12-20",
+            "gp": "PSD",
+            "id": "5489",
+            "motivoCessacao": null,
+            "nome": "António Topa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-07-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2016-12-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938795a5451334d446b354d53316d4e7a41334c54517759546774596a4e6a4d69307a4f544e6c4d57553359325578593249756347526d&fich=2e470991-f707-40a8-b3c2-393e1e7ce1cb.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41548",
+      "41570",
+      "41556"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214989",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/37?pgs=37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214990",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214991",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira; Para resolver a poluição causada por duas unidades de transformação instaladas em Arrifana - Santa Maria da Feira; Recomenda ao Governo medidas para findar definitivamente a poluição e os maus-cheiros causados por duas unidades fabris em Arrifana, Santa Maria da Feira; Recomenda ao Governo que tome medidas urgentes para resolver os problemas ambientais causados por unidades de transformação de subprodutos de origem animal, em Santa Maria da Feira.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12900",
+    "PetAssunto": "Solicitam a adoção das medidas necessárias para cessar o cheiro a casqueira proveniente de fábricas localizadas no concelho de Santa Maria da Feira.",
+    "PetDataEntrada": "2016-11-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12900",
+    "PetLeg": "XIII",
+    "PetNr": "219",
+    "PetNrAssinaturas": "5100",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2366",
+        "obs": null,
+        "pag": [
+          "7-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/7?pgs=7-22&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785385",
+        "obs": null,
+        "pag": [
+          "3-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2016-12-28",
+        "pubLeg": "XIII",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/019/2016-12-28/3?pgs=3&org=PLC"
+      }
+    ]
+  }
+}
