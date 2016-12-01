@@ -18,9 +18,11 @@ f) Manter um sistema de contabilidade organizada ou simplificada nos termos da l
 
 g) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;
 
-h) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;
+h) Não locar ou alienar os equipamentos, as plantações e as instalações cofinanciadas, durante o período de cinco anos a contar do último pagamento, sem a prévia autorização da autoridade de gestão.
 
 i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas.
+
+j) Manter a situação relativa aos critérios de seleção nas condições definidas no aviso de abertura.
 
 2 - Os beneficiários do apoio à ação 3.2, «Investimento na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.
 

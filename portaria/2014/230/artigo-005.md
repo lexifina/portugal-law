@@ -14,7 +14,7 @@ d) Terem a situação regularizada em matéria de reposições no âmbito do fin
 
 e) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;
 
-f) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;
+f) Deterem um sistema de contabilidade organizada ou, no caso da ação 3.2 «Investimento na exploração agrícola», um sistema de contabilidade simplificada, nos termos da legislação em vigor.
 
 g) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à ação 3.2, «Investimento na exploração agrícola».
 

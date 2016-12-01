@@ -9,3 +9,7 @@
 3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.
 
 4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.
+
+5 - A omissão ou prestação de falsas informações para efeitos da aplicação do artigo 10.º e n.º 2 do artigo 12.º da presente portaria determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.
+
+6 - O incumprimento, à data da apresentação do último pedido de pagamento, de qualquer dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a redução de 20 % da ajuda atribuída por cada critério não cumprido.

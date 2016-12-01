@@ -6,7 +6,7 @@
 
 2 - Podem beneficiar dos apoios à ação 3.3, «Investimento na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos nas alíneas b) e c) do artigo 2.º e que reúnam as seguintes condições:
 
-a) Se enquadrem num dos sectores identificados no anexo I à presente portaria da qual faz parte integrante;
+a) Incidam sobre a conservação, preparação e comercialização ou transformação de produtos agrícolas, cujo produto final resultante seja um produto agrícola;
 
 b) Se enquadrem numa das seguintes dimensões de investimento:
 
@@ -20,7 +20,7 @@ c) Contribuam para o desenvolvimento da produção ou do valor acrescentado da p
 
 3 - Os projetos de investimento previstos nos n.os 1 e 2 devem ainda reunir as seguintes condições:
 
-a) Não se enquadrem na mesma tipologia de operações previstas e aprovadas no âmbito de regimes de apoio ao abrigo da OCM única e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
+a) (Revogada);
 
 b) Tenham início após a data de apresentação da candidatura, sem prejuízo das disposições transitórias;
 
