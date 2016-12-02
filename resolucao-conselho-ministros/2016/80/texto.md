@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 80/2016
+O Exército Português tem por missão principal participar, de forma integrada, na defesa militar da República, sendo fundamentalmente vocacionado para a geração, preparação e sustentação de forças da componente operacional do sistema de forças.
+Decorrente das especificidades operacionais resultantes do cumprimento da sua missão, o Exército Português deve fornecer diariamente alimentação confecionada aos militares que prestam serviço nas suas unidades, estabelecimentos e órgãos, conforme decorre do n.º 1 do artigo 1.º e do artigo 5.º do Decreto-Lei n.º 329-G/75, de 30 de junho, alterado pelo Decreto-Lei n.º 434-J/82, de 29 de outubro.
+Como tal, a despesa com alimentação constitui-se como uma das mais críticas para o normal funcionamento e desempenho operacional do Exército, afigurando-se como essencial para que este se encontre em condições de cumprir cabalmente as missões que lhe são confiadas.
+A presente resolução visa, assim, autorizar a despesa relativa ao procedimento aquisitivo para o fornecimento de víveres e alimentação confecionada às unidades, estabelecimentos e órgãos do Exército Português, para o ano de 2017.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, mantida em vigor pela alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Exército Português a realizar a despesa relativa à aquisição de víveres e alimentação confecionada às suas unidades, estabelecimentos e órgãos, para o ano de 2017, até ao montante máximo de (euro) 17 742 243,04, a que acresce IVA à taxa legal em vigor.
+2 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas no orçamento do Ministério da Defesa Nacional.
+3 - Delegar no Ministro da Defesa Nacional, com a faculdade de subdelegação no Chefe de Estado-Maior do Exército, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+4 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
+Presidência do Conselho de Ministros, 3 de novembro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
