@@ -1,0 +1,13 @@
+Aviso n.º 15159/2016
+Alteração da Revisão Plano Diretor Municipal de Castelo de Vide
+António Manuel das Neves Nobre Pita, Presidente da Câmara Municipal de Castelo de Vide:
+Torna público, que a Câmara Municipal de Castelo de Vide, nos termos do disposto no n.º 1 do artigo 76.º em conjugação com o n.º 2 do artigo 115.º, artigo118.º e artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio, deliberou, por unanimidade, em reunião ordinária realizada no dia 2 de novembro de 2016, proceder à Alteração da Revisão do Plano Diretor Municipal de Castelo de Vide no que diz respeito à integração do conteúdo dos planos especiais, nomeadamente o Plano de Ordenamento do Parque Natural da Serra de S. Mamede (POPNSSM) e o Plano de Ordenamento da Albufeira de Póvoa e Meadas (POAPM).
+Nos termos do n.º 2 do artigo 88.º do diploma acima mencionado é estabelecido o prazo de 15 dias, a contar da data de publicação no Diário da República, para qualquer interessado formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito da alteração da revisão do Plano Diretor Municipal.
+As sugestões e informações supramencionadas deverão ser entregues no prazo referenciado e dirigidas, por escrito, ao Presidente da Câmara Municipal, a entregar no edifício dos paços do município, sito na rua Bartolomeu Alvares da Santa, 7320-117 Castelo de Vide, nos dias úteis, das 9 horas às 17 horas, ou a enviar por carta registada com aviso de receção para a morada supra, devendo nesta constar a identificação e o endereço dos seus autores.
+Quaisquer outras informações que se mostrem necessárias poderão ser obtidas na divisão de planeamento e projetos desta Câmara Municipal, através do endereço electrónico luis.cruz@cm-castelo-vide.pt ou do número de telefone 245908220.
+23 de novembro de 2016. - O Presidente da Câmara, António Manuel das Neves Nobre Pita.
+Deliberação
+António Manuel das Neves Nobre Pita, Presidente da Câmara Municipal de Castelo de Vide, declara, que a Câmara Municipal de Castelo de Vide, em reunião ordinária realizada no passado dia 2 de novembro, e para os efeitos do disposto no n.º 3 do artigo 78.º da Lei n.º 31/2014, de 30 de maio, deliberou por unanimidade dos membros presentes, aprovar a proposta do Senhor Presidente e dar início ao processo de alteração de revisão do Plano Diretor Municipal de Castelo de Vide, publicado através do Aviso n.º 9 513/2015, na 2.ª série do Diário da República, de 25 de agosto de 2015.
+A presente deliberação foi aprovada em minuta nos termos do n.º 3 do artigo 57.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, a sua atual redação, para produzir efeitos imediatos.
+23 de novembro de 2016. - O Presidente da Câmara, António Manuel das Neves Nobre Pita.
+610043865
