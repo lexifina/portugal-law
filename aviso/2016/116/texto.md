@@ -1,0 +1,5 @@
+Aviso n.º 116/2016
+Por ordem superior se torna público que o Secretariado-geral do Conselho da União Europeia notificou o Governo Português, pela nota n.º SGS16/09190, de 21 de outubro de 2016, ter a União Europeia concluído os procedimentos internos necessários à entrada em vigor do Acordo Quadro Global de Parceria e Cooperação entre a União Europeia e os seus Estados-Membros, por um lado, e a República Socialista do Vietname, por outro, assinado em Bruxelas em 27 de junho de 2012.
+Mais se torna público que, tendo todas as partes concluído idênticos procedimentos, o presente acordo entrou em vigor no dia 1 de outubro de 2016, em conformidade com o seu artigo 63.º, n.º 1.
+Portugal é Parte neste acordo, aprovado e ratificado, respetivamente, pela Resolução da Assembleia da República n.º 138/2013 e pelo Decreto do Presidente da República n.º 108/2013, ambos publicados no Diário da República, 1.ª série, n.º 177, de 13 de setembro de 2013.
+Direção-Geral dos Assuntos Europeus, 18 de novembro de 2016. - O Diretor-Geral, Pedro Costa Pereira.
