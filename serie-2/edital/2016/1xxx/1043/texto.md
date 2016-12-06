@@ -1,0 +1,6 @@
+Edital n.º 1043/2016
+Hélder Manuel Esménio, Presidente da Câmara Municipal de Salvaterra de Magos.
+Torna público que, a Câmara Municipal em reunião ordinária realizada em 16 de novembro de 2016, deliberou aprovar o Projeto de Regulamento Municipal de Uso do Fogo e Limpeza de Terrenos Privados e proceder à apreciação pública de tal documento, nos termos do artigo 101.º do Código do Procedimento Administrativo, pelo prazo de 30 dias, a contar da data da publicação do presente Edital na 2.ª série do Diário da República, podendo o projeto ser consultado no site do Município em www.cm-salvaterrademagos.pt, bem como no Balcão Único de Atendimento, durante o horário normal de atendimento, das 9:00 horas às 12:30 horas e das 13:30 horas às 17:00 horas. Assim, convidam-se todos os interessados a pronunciarem-se acerca de qualquer questão que se ligue com o projeto de regulamento, devendo para o efeito dirigir as mesmas por escrito e em carta fechada ao Presidente da Câmara Municipal de Salvaterra de Magos, Praça da Republica n.º 1, 2120-072 Salvaterra de Magos.
+Para constar, se publica este edital e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+21 de novembro de 2016. - O Presidente da Câmara Municipal, Hélder Manuel Esménio, Eng.º
+210053528
