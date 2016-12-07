@@ -1,0 +1,208 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "353",
+    "id": "40807",
+    "titulo": "Afirma a necessidade de regulação urgente das responsabilidades parentais em situações de violência doméstica"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2016-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "38956",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2017-03-15",
+            "id": "104496",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2016-12-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2016-12-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-03-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PS/BE/PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a686d5a4459314f544d744e444a6d4d6930304f4441344c5468684f5467744e445a685a4463794f47513259546b7a4c6c424552673d3d&fich=38fd6593-42f2-4808-8a98-46ad728d6a93.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Igualdade Parental",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544a6c59575532597a45744f4459784e433030595459794c546b35596a63744d7a46695a57466c595745354e6a4a6d4c6c424552673d3d&fich=12eae6c1-8614-4a62-99b7-31beaeaa962f.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a41774d445530596a6b745a6d49314e4330305932566c4c5745315a5441744f474d344e6a4d305a6a67335a4446684c6e426b5a673d3d&fich=c00054b9-fb54-4cee-a5e0-8c8634f87d1a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5451304d324d354e5441744f54526d59793030597a4d324c546c6b4e6a63744e4467774d446b774d6d4a6c4e325a684c6c424552673d3d&fich=9443c950-94fc-4c36-9d67-4800902be7fa.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-01-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradora-Geral da República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4451314d6a63304f5467744d6d56694e4330304d6a67334c57497a4e5445744e475a6c4f5441305a444d334e324a6d4c6e426b5a673d3d&fich=04527498-2eb4-4287-b351-4fe904d377bf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-04-05",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e324a694d5751324f5745744e3245794d4330304f574d774c574533597a59744e475a6c4e574d345a546468596a4e6b4c6e426b5a673d3d&fich=7bb1d69a-7a20-49c0-a7c6-4fe5c8e7ab3d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-04-05",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5751794e445578597a4d74597a4a6a4f5330304f4755314c5745314d5749744f4455304e57457a4e7a63304f57526b4c6e426b5a673d3d&fich=1d2451c3-c2c9-48e5-a51b-8545a37749dd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2017-02-03"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2017-01-27"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2016-12-27"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2016-12-27"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e proposta de alteração conjunta apresentada pelos PS, BE e PAN",
+            "pag": [
+              "6-13"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-05",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/090/2017-04-05/6?pgs=6-13&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, texto final e proposta de alteração conjunta apresentada pelos PS, BE e PAN",
+            "pag": [
+              "6-13"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-05",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/090/2017-04-05/6?pgs=6-13&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2017-04-05",
+            "numeroOficio": "340/XIII/2.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2017-04-05",
+            "descricao": null,
+            "detalhe": null,
+            "id": "75195",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "115",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2016-12-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "321026",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
