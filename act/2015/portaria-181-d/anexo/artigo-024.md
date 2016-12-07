@@ -7,3 +7,5 @@
 2 - Aos concursos para o preenchimento das vagas abertas nos termos do número anterior apenas podem ser admitidos os estudantes que se encontrem inscritos no par instituição/curso na data da deliberação de cancelamento da acreditação.
 
 3 - As vagas eventualmente sobrantes dos concursos a que se refere o presente artigo não podem ser destinadas a qualquer outro fim.
+
+4 - Nos concursos a que se refere o presente artigo, as condições habilitacionais fixadas pelas alíneas b) e c) do n.º 1 do artigo 9.º bem como pelos artigos 10.º e 12.º podem, por decisão do órgão legal e estatutariamente competente da instituição de ensino superior que abre o concurso, ser substituídas por uma avaliação do currículo já realizado pelo estudante no curso encerrado que demonstre que dispõe da formação adequada ao prosseguimento dos estudos naquela instituição.
