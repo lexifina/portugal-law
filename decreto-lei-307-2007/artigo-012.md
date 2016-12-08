@@ -13,3 +13,5 @@ b) Os pedidos de entrega de medicamentos ao domicílio e os serviços prestados 
 c) As aquisições efetuadas ao abrigo da alínea c) do n.º 1 do artigo 92.º do Decreto-Lei n.º 176/2006, de 30 de agosto.
 
 3 - O dever de colaboração deve garantir o respeito pelos dados pessoais dos utentes, designadamente os respeitantes à reserva da intimidade da vida privada.
+
+4 - A comunicação prevista na alínea a) do n.º 2, pode ser substituída por informação equivalente, fornecida pelas farmácias à Administração Central do Sistema de Saúde, I. P., através do Centro de Conferência de Faturas do Serviço Nacional de Saúde.

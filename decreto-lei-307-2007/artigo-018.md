@@ -22,4 +22,10 @@ d) A declaração de insolvência da proprietária.
 
 6 - O preceituado no número anterior é aplicável com as necessárias adaptações no caso de partilha de bens por divórcio ou separação judicial da proprietária.
 
-7 - Os atos, factos ou negócios jurídicos que impliquem alteração da propriedade da farmácia são comunicados ao INFARMED, pelo outorgante referido no alvará, ou pelo seu procurador, ou por qualquer interessado, no prazo de 30 dias a contar da respetiva ocorrência ou celebração, para efeitos de averbamento no alvará.
+7 - A alteração da propriedade de farmácia está sujeita a comunicação, por meios eletrónicos, em local apropriado no sítio eletrónico do INFARMED, I. P., no prazo de 30 dias a contar da data da respetiva alteração, mediante declaração assinada pelo proprietário averbada em alvará, bem como pelo novo proprietário, com as assinaturas reconhecidas presencialmente por entidade legalmente habilitada, para efeitos de averbamento em alvará, sendo da responsabilidade dos declarantes a veracidade do teor das referidas declarações.
+
+8 - Nos casos em que não seja possível a subscrição da declaração referida no número anterior pelo proprietário averbado em alvará, designadamente por morte do mesmo, morte do sócio, insolvência ou decisão judicial, entre outros, a declaração é subscrita por entidade com poderes para o efeito.
+
+9 - O INFARMED, I. P., dispõe de um prazo de 60 dias contado da comunicação referida no n.º 7 para notificar os subscritores da declaração da decisão quanto ao averbamento no alvará de alteração da propriedade.
+
+10 - A caducidade do alvará ocorre se decorridos dois anos após o termo do prazo referido no n.º 5, sem que tenha ocorrido a adjudicação ou alienação da farmácia a favor de quem possa ser seu proprietário.

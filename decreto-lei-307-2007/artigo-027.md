@@ -6,7 +6,7 @@
 
 ### Designação da farmácia
 
-1 - É proibida a utilização, na designação da farmácia, de quaisquer vocábulos enganosos ou que constituam concorrência desleal.
+1 - É proibida a utilização, na designação da farmácia, de quaisquer vocábulos enganosos, que constituam concorrência desleal, que sejam suscetíveis de criar confusão com outras farmácias localizadas no mesmo concelho ou que estabeleçam qualquer equívoco quanto ao disposto no artigo 15.º
 
 2 - A designação da farmácia depende de aprovação do INFARMED.
 

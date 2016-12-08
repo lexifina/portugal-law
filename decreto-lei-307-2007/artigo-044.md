@@ -12,6 +12,6 @@
 
 3 - Os postos farmacêuticos móveis são objeto de averbamento no alvará da farmácia a que respeitam e dela fazem parte integrante para todos os efeitos, designadamente sancionatórios, do presente decreto-lei.
 
-4 - O INFARMED define, em relação a cada posto farmacêutico móvel, a respectiva área geográfica de actuação.
+4 - O INFARMED, I. P., define, em relação a cada posto farmacêutico móvel, a respetiva área geográfica de atuação e a duração da referida autorização a conceder nos termos do n.º 2.
 
 5 - O regime do concurso e os requisitos de funcionamento dos postos farmacêuticos móveis são definidos por regulamento do INFARMED, publicado no Diário da República.

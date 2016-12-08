@@ -2,12 +2,20 @@
 
 ### Registo
 
-1 - O INFARMED organiza e mantém um registo permanentemente atualizado de cada farmácia e das respetivas vicissitudes.
+1 - O INFARMED, I. P., organiza e mantém um registo permanentemente atualizado de cada farmácia e de todos os atos sujeitos a averbamento nos termos do presente decreto-lei.
 
-2 - Estão sujeitos a registo todos os atos, factos e negócios que este decreto-lei faz depender de registo ou de averbamento no alvará, bem como a constituição, alteração ou extinção de ónus que recaiam sobre a farmácia.
+2 - São sujeitos a averbamento no alvará da farmácia os seguintes atos:
 
-3 - Está ainda sujeita a registo a identidade do diretor técnico e de quem o substitui nas suas ausências e impedimentos.
+a) Propriedade e respetiva alteração;
 
-4 - O registo dos atos, factos e negócios jurídicos a ele sujeitos deve ser requerido pela proprietária da farmácia ou, se for o caso, pelo interessado, no prazo de 30 dias a contar da sua prática ou ocorrência.
+b) Direção técnica;
 
-5 - O registo requerido após o decurso do prazo previsto no número anterior não prejudica os direitos entretanto adquiridos por terceiro de boa fé.
+c) Localização da farmácia;
+
+d) Postos farmacêuticos móveis dependentes da farmácia.
+
+3 - Os dados atuais da farmácia, previstos no número anterior estão disponíveis para consulta pública, por meios eletrónicos em local apropriado no sítio eletrónico do INFARMED, I. P.
+
+4 - [Revogado].
+
+5 - [Revogado].

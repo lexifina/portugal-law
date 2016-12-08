@@ -2,8 +2,8 @@
 
 ### Reclamações
 
-1 - As farmácias dispõem de livro de reclamações.
+1 - As farmácias devem dispor de livro de reclamações nos termos e nas condições estabelecidas no regime jurídico do livro de reclamações.
 
-2 - As farmácias enviam mensalmente ao INFARMED cópia das reclamações efectuadas pelos utentes.
+2 - [Revogado].
 
 3 - O INFARMED disponibiliza, no seu sítio da Internet, uma área destinada às reclamações dos utentes.

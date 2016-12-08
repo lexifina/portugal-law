@@ -14,6 +14,6 @@
 
 4 - As farmácias só podem abrir ao público depois de lhes ser atribuído o respetivo alvará, emitido pelo INFARMED.
 
-5 - A alteração da propriedade ou a transferência da localização da farmácia dependem de averbamento no alvará.
+5 - A alteração da propriedade ou a transferência da localização da farmácia estão sujeitas a averbamento no alvará, disponibilizado em local apropriado no sítio eletrónico do INFARMED, I. P., de forma a permitir a consulta pública do mesmo.
 
 6 - O INFARMED indefere os pedidos de emissão ou averbamento de alvará que não cumpram o preceituado no presente decreto-lei.
