@@ -18,4 +18,4 @@ c) Existência de sobreposição com outras iniciativas, quanto aos objetivos vi
 
 5 - Podem ser apresentadas alterações às iniciativas após registo, sendo aplicável o disposto nos n.os 2 a 4 do artigo 4.º e nos n.os 1 a 3 do presente artigo, com as devidas adaptações.
 
-6 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação da candidatura à ação 1.1, «Grupos Operacionais», do PDR 2020.
+6 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação da candidatura à ação 1.1, «Grupos Operacionais», do PDR 2020 ou à submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», do PRORURAL+ e do PRODERAM 2020
