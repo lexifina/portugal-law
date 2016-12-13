@@ -56,6 +56,8 @@ d) Encargos com realização de encontros, workshops e estudos de diagnóstico;
 
 e) Encargos com a promoção e divulgação das ações.
 
+f) Encargos com formandos, nomeadamente remunerações dos ativos pelo período em que se encontrem em formação, contabilizadas nos termos do artigo 20.º da Portaria n.º 60-A/2015, de 2 de março, alterada pelas Portarias n.os 242/2015, de 13 de agosto, e 122/2016, de 4 de maio, bem como outras despesas associadas à da frequência das ações formativas no que respeita a transportes, alimentação e alojamento dos formandos nos termos previstos no artigo 13.º da mesma portaria.
+
 8 - No âmbito das ações previstas na alínea g) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
 
 a) Encargos com salários dos docentes e técnicos afetos aos projetos;
