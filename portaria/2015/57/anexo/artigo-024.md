@@ -2,7 +2,7 @@
 
 ### Obrigações dos beneficiários
 
-1 - Sempre que a proporção anual de prados permanentes seja inferior a 95 % da proporção de referência nacional, é efetuada uma reconversão nacional até atingir 97,5 % da proporção de referência nacional de prados permanentes.
+1 - Sempre que a proporção anual de prados permanentes seja inferior a 95 % da proporção de referência nacional, é efetuada uma reconversão nacional até atingir 98 % da proporção de referência nacional de prados permanentes.
 
 2 - Sempre que se verifique a situação prevista no número anterior, o beneficiário é notificado, até 31 de dezembro, da obrigação de reconversão para prado permanente de uma determinada área, antes do termo do prazo para apresentação do PU para o ano seguinte, nos termos do disposto nos n.os 2 e 3, do artigo 44.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão de 11 de março.
 
