@@ -26,11 +26,11 @@ b) Ao longo do período de compromisso, as parcelas de superfícies florestadas 
 
 4 - As subparcelas agrícolas com a ocupação cultural prevista nos números 2 e 3 são elegíveis para efeitos do RPB, na área máxima elegível determinada no iSIP.
 
-5 - Para efeitos da aplicação do número anterior, a elegibilidade das subparcelas agrícolas com a ocupação cultural prevista na alínea c) do n.º 2 fica condicionada a pelo menos uma marca de exploração registada no Sistema Nacional de Informação e Registo Animal (SNIRA) na data referida no n.º 1.
+5 - [Revogado]
 
-6 - Nas explorações em que as subparcelas de prados e pastagens permanentes com vegetação arbustiva entre 25 % e 50 % da superfície da subparcela, só são elegíveis se apresentarem um encabeçamento igual ou superior a 0,20 CN por hectare, caso contrário as subparcelas de prados e pastagens permanentes não podem apresentar vegetação arbustiva superior a 25 % da superfície da subparcela.
+6 - [Revogado]
 
-7 - Para efeitos do número anterior o encabeçamento é calculado com base nos animais do próprio, em pastoreio, das espécies bovina, ovina e caprina e a área de superfície forrageira, na data definida no n.º 1, de acordo com tabela de conversão no anexo III à presente portaria, da qual faz parte integrante.
+7 - [Revogado]
 
 8 - Sempre que sejam realizadas atividades não agrícolas nas subparcelas referidas no n.º 2, a duração máxima dessas atividades está limitada a 30 dias, devendo ser comunicada ao IFAP, I. P., com uma antecedência mínima de 10 dias úteis.
 

@@ -18,4 +18,6 @@ d) Ao pagamento específico para o algodão;
 
 e) Ao regime da pequena agricultura (RPA).
 
+f) Ao regime do pagamento redistributivo.
+
 2 - O presente Regulamento estabelece ainda os requisitos mínimos para a concessão dos pagamentos diretos, a definição de agricultor ativo e a redução de pagamentos, previstos nos artigos 9.º, 10.º e 11.º do Regulamento (UE) n.º 1307/2013, do Conselho e do Parlamento Europeu, de 17 de dezembro.
