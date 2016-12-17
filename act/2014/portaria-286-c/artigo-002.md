@@ -6,14 +6,16 @@
 
 a) 12,5% é atribuída à frota do largo licenciada para operar no Atlântico Norte;
 
-b) 81,5% é atribuída à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar até 30 de junho de cada ano;
+b) 65 % é atribuída às embarcações autorizadas a operar com arrasto, com malhagem 65-69 mm e/ou 70 mm, na zona VIIIc do CIEM, ao abrigo do Acordo Luso-Espanhol, nos termos do artigo seguinte;
 
-c) 6,0% é atribuída à frota local e costeira licenciada para operar nas zonas referidas no artigo anterior, a utilizar a partir de 1 de julho de cada ano.
+c) 16,5 % é atribuída à frota local e costeira licenciada para operar nas zonas IX e X do CIEM e na Divisão 34.1.1 definida pelo CECAF, bem como pelas embarcações autorizadas a operar na zona VIIIc do CIEM ao abrigo do Acordo Luso-Espanhol que não utilizem artes de arrasto, a utilizar até 30 de junho de cada ano;
 
-2 - Caso a quota a que se refere a alínea b) do número anterior não seja integralmente utilizada até 30 de junho, o remanescente pode ser utilizado a partir de 1 de julho e acresce à quantidade disponível nos termos da alínea c).
+d) 6 % é atribuída à frota local e costeira licenciada para operar apenas nas zonas IX e X do CIEM e na Divisão 34.1.1 definida pelo CECAF, a utilizar a partir de 1 de julho de cada ano.
 
-3 - Quando a utilização de cada uma das quantidades de sarda (Scomber scombrus) a que se referem as alíneas b) e c) do n.º 1 atingir 90%, a pesca desta espécie fora das águas sob jurisdição nacional fica limitada a capturas acessórias até 5% do total do pescado a bordo.
+2 - Caso a quota a que se refere a alínea c) do número anterior não seja integralmente utilizada até 30 de junho, o remanescente pode ser utilizado a partir de 1 de julho, acrescendo à quantidade disponível nos termos da alínea d).
 
-4 - A partir da data de entrada em vigor da presente portaria e até 30 de junho de cada ano, em cada semana, entre as 00:00 horas de segunda-feira e as 24:00 horas de domingo, cada embarcação pode descarregar uma quantidade máxima de 60 toneladas de sarda, exceto no período entre 1 de janeiro e 15 de fevereiro em que essa quantidade está limitada a 20 toneladas.
+3 - A captura anual de sarda das embarcações licenciadas ao abrigo do Acordo Luso-Espanhol a que se refere a alínea c) do n.º 1, está limitada a 126 toneladas por embarcação, que corresponde à média das respetivas capturas nos anos de 2012 a 2015.
 
-5 - A quantidade máxima semanal fixada no número anterior pode ser alterada por despacho do diretor-geral da Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM) em função da quota disponível para Portugal em cada ano, publicitado no sítio da Internet da DGRM.
+4 - Sem prejuízo dos números anteriores, a captura desta espécie fora das águas sob jurisdição nacional por embarcações não abrangidas pela alínea b) do n.º 1 e pelo n.º 3 fica limitada a capturas acessórias até 5 % do total do pescado a bordo.
+
+5 - (Revogado.)
