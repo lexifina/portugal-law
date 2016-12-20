@@ -32,7 +32,7 @@ b) Instituições particulares de solidariedade social, nas condições prevista
 
 4 - A isenção a que se refere a alínea c) do n.º 1 deve ser objecto de comprovação em qualquer serviço de finanças, relativamente a cada ano a que respeite, mediante pedido apresentado no prazo para pagamento do imposto e acompanhado do título de propriedade e documento de identificação ou certificado de registo ou matrícula do veículo.
 
-5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, e não pode ultrapassar o montante de (euro) 200, sendo reconhecida nos seguintes termos:
+5 - A isenção prevista na alínea a) do n.º 2 só pode ser usufruída por cada beneficiário em relação a um veículo em cada ano, e não pode ultrapassar o montante de (euro) 240, sendo reconhecida nos seguintes termos:
 
 a) Em qualquer serviço de finanças, produzindo efeitos a partir do ano do pedido, ou da data do nascimento da obrigação tributária se anterior e o pedido for efetuado até ao termo do prazo de pagamento previsto no artigo 17.º, desde que verificados os respetivos pressupostos;
 
