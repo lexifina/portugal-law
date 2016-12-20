@@ -21,3 +21,5 @@ c) Exista erro de identificação ou omissão de veículo tributável na base de
 4 - No momento da liquidação do imposto é emitido documento único de cobrança que, certificado pelos meios em uso na rede da cobrança, comprova o bom pagamento do imposto.
 
 5 - Quando se verifique furto, extravio ou inutilização da documentação comprovativa do pagamento do imposto ou de isenção pode ser obtida certidão comprovativa em qualquer serviço de finanças ou através da Internet.
+
+6 - Não é devido pagamento nem há lugar a qualquer cobrança sempre que o montante do imposto liquidado seja inferior a (euro) 10.'
