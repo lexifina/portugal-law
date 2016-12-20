@@ -1,0 +1,237 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12915",
+  "numero": "234",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-12-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-02-07",
+            "entidades": null,
+            "id": "103940",
+            "tipo": null,
+            "titulo": "Audição em 2017-02-07 com Filipe de Matos Sales e outros, subscritor da Petição n.º 234/XIII(2) - Solicitam a concessão parcial do Forte de Peniche, no âmbito do Programa REVIVE"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-01-24",
+            "dataResposta": "2017-02-21",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "13/CCCDLD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-24",
+            "dataResposta": "2017-02-23",
+            "entidades": [
+              "MIN.  DA  CULTURA"
+            ],
+            "nrOficio": "13/CCCDLD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-01-24",
+            "dataResposta": "2017-02-21",
+            "entidades": [
+              "MIN. DA ECONOMIA"
+            ],
+            "nrOficio": "13/CCCDLD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-02-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "824190",
+                "obs": null,
+                "pag": [
+                  "5-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/031/2017-03-03/5?pgs=5-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-01-20",
+        "DataArquivo": "2017-02-22",
+        "DataBaixaComissao": "2017-01-05",
+        "DataEnvioPAR": "2017-02-23",
+        "DataReaberta": "2017-01-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-02-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32517a4f575530596a51344c5468684d6a63744e47517959793169596a63354c574d794f4467794e3255314e3251344e7935775a47593d&fich=d39e4b48-8a27-4d2c-bb79-c28827e57d87.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-01-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4d794d57526c4e545a6c4c574d305a6a41744e4467354e7931694d544e6c4c54677959544179596d517759574a6a5a6935775a47593d&fich=321de56e-c4f0-4897-b13e-82a02bd0abcf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32597a4f4441785a4463314c5751315a6a4d744e446b344f4331685a44466a4c5749354d545a6b596a41794e5459794d7935775a47593d&fich=f3801d75-d5f3-4988-ad1c-b916db025623.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-01-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32566c4d6a417a4e6a41304c5445785a4445744e4759355a5330344e6d517a4c5464694d3245774d574d784e44566b4d5335775a47593d&fich=ee203604-11d1-4f9e-86d3-7b3a01c145d1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a6b77596a63314e7a4a6a4c5451775a574d744e446334596930344e5467314c5459354d44686c597a49314e7a63315a6935775a47593d&fich=90b7572c-40ec-478b-8585-6908ec25775f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4d784e474669595451354c5759354d6a6b744e475977595330344f574d314c5451784e54566d4f4755334e575931596935775a47593d&fich=314aba49-f929-4f0a-89c5-4155f8e75f5b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a45324f44466a597a51324c5445344e5745744e44526d4e79316959324a6d4c5751354f4759794d324d334e446c6b4e5335775a47593d&fich=1681cc46-185a-44f7-bcbf-d98f23c749d5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a5a6b4f44526a4f44426a4c544935597a55744e475977595330344e5459334c5463794d7a526a4d4751794d6a5179595335775a47593d&fich=6d84c80c-29c5-4f0a-8567-7234c0d2242a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-01-20",
+            "gp": "PSD",
+            "id": "4052",
+            "motivoCessacao": null,
+            "nome": "Pedro Pimpão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-01-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793834596a5935593251304e6930304e4459344c5452694d32497459544e6d595330794d44517a4d44686d4d6a646c4d4455756347526d&fich=8b69cd46-4468-4b3b-a3fa-204308f27e05.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12915",
+    "PetAssunto": "Solicitam a concessão parcial do Forte de Peniche, no âmbito do Programa REVIVE.",
+    "PetDataEntrada": "2016-12-20",
+    "PeticoesAssociadas": null,
+    "PetId": "12915",
+    "PetLeg": "XIII",
+    "PetNr": "234",
+    "PetNrAssinaturas": "1221",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785446",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-17",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/028/2017-02-17/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
