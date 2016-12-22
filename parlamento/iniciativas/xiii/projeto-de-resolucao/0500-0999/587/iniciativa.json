@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Projeto de Resolução",
+  "numero": "587",
+  "id": "40865",
+  "fases": 10,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2016-12-22",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2017-09-14",
+    "DataInicioleg": "2016-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "129",
+        "nome": "Pedro Passos Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1561",
+        "nome": "Luís Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4095",
+        "nome": "Sérgio Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4365",
+        "nome": "Maria Manuela Tender"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3919",
+        "nome": "Amadeu Soares Albergaria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6147",
+        "nome": "Berta Cabral"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6148",
+        "nome": "António Ventura"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4031",
+        "nome": "Ângela Guerra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2104",
+        "nome": "Carlos Páscoa Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4441",
+        "nome": "Ricardo Baptista Leite"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4434",
+        "nome": "Paula Teixeira da Cruz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "40865",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "",
+    "IniNr": "587",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Desenvolvimento da rede do Ensino Português no Estrangeiro",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
