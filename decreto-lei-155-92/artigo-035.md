@@ -14,4 +14,8 @@
 
 4 - O decurso do prazo a que se refere o número anterior interrompe-se ou suspende-se por acção das causas gerais de interrupção ou suspensão da prescrição.
 
-5 - As restituições ou reembolsos serão processados por abate à receita.
+5 - Quando o montante a restituir não exceda o limite estabelecido no regime jurídico para a realização de despesas públicas para a autorização de despesas pelo membro do Governo responsável pela área setorial, a competência para autorização do respetivo processamento e pagamento cabe à entidade competente nos termos do mesmo diploma.
+
+6 - Quando o montante a restituir exceda o limite estabelecido no número anterior, a competência para autorização do respetivo processamento e pagamento cabe ao membro do Governo responsável pela área das finanças.
+
+7 - As restituições ou reembolsos serão processados por abate à receita, sendo os respetivos procedimentos definidos por instruções da Direção-Geral do Orçamento.
