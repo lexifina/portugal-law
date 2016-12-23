@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 3 de dezembro de 2014. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete, em 4 de dezembro de 2014.
