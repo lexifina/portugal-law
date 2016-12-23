@@ -1,0 +1,641 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12918",
+  "numero": "237",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2016-12-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-05-10",
+            "entidades": null,
+            "id": "108629",
+            "tipo": null,
+            "titulo": "Audição em 2018-05-10 com Movimento Peniche Livre de Petróleo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-05-18",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "821161",
+                "obs": null,
+                "pag": [
+                  "10-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-04",
+                "pubLeg": "XIII",
+                "pubNr": "49",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/049/2018-06-04/10?pgs=10-13&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-01-17",
+        "DataArquivo": "2018-05-30",
+        "DataBaixaComissao": "2017-01-06",
+        "DataEnvioPAR": "2018-06-01",
+        "DataReaberta": "2017-01-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-01-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324d35596d4e6859545a684c5459334d5451744e444a6b4d7931694f4749324c574a6c596d5669596a41344d6a42694e6935775a47593d&fich=c9bcaa6a-6714-42d3-b8b6-bebebb0820b6.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-06-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a55334d6a59335a4459314c574934593249744e474a6d4e6931694f4445344c544533597a67334f546c6b4d446b315a4335515245593d&fich=57267d65-b8cb-4bf6-b818-17c8799d095d.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-02",
+            "gp": "PS",
+            "id": "4405",
+            "motivoCessacao": null,
+            "nome": "João Torres"
+          },
+          {
+            "dataCessacao": "2018-05-02",
+            "dataNomeacao": "2017-01-17",
+            "gp": "PS",
+            "id": "5677",
+            "motivoCessacao": null,
+            "nome": "Luís Graça"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-12-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-01-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793968593249354e444e695a43316a5a6a4d344c5452684d7a59744f54526b5979316a59574d785a6a466c4e545933596a59756347526d&fich=acb943bd-cf38-4a36-94dc-cac1f1e567b6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43152",
+      "43158",
+      "43184",
+      "43152",
+      "43158",
+      "43158",
+      "43184"
+    ],
+    "Iniciativasoriginadas": [
+      "43152",
+      "43158",
+      "43184"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:07:02:104&drc=00:04:54:237"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-22",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DR I série",
+                "pubTp": "M",
+                "supl": null,
+                "URLDiario": "http://data.dre.pt/eli/diario/1/38/2019/0/pt/html/48?pgs=48-49"
+              }
+            ],
+            "Sumario": "Pela suspensão imediata dos processos de concessão, exploração e extração de petróleo e gás na região centro; Cancelamento dos contratos de prospeção e exploração de hidrocarbonetos - Batalha e Pombal; Garante o fim das concessões para a exploração de hidrocarbonetos on e offshore em todo o território nacional.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:11:56:341&drc=00:03:15:753"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:15:12:095&drc=00:01:58:230"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:17:10:326&drc=00:03:26:589"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:20:36:659&drc=00:04:08:577"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:24:45:236&drc=00:03:45:705"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:28:32:313&drc=00:03:54:661"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/38?pgs=38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12918",
+    "PetAssunto": "Solicitam o cancelamento dos contratos de prospeção e produção de petróleo na Bacia de Peniche e na Bacia Lusitânica.",
+    "PetDataEntrada": "2016-12-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12918",
+    "PetLeg": "XIII",
+    "PetNr": "237",
+    "PetNrAssinaturas": "5858",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2544",
+        "obs": null,
+        "pag": [
+          "32-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-22",
+        "pubLeg": "XIII",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/32?pgs=32-38&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5949",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-02-22",
+        "pubLeg": "XIII",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/38/2019/0/pt/html"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785417",
+        "obs": null,
+        "pag": [
+          "22-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-01-21",
+        "pubLeg": "XIII",
+        "pubNr": "23",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/023/2017-01-21/22?pgs=22&org=PLC"
+      }
+    ]
+  }
+}
