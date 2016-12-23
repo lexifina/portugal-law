@@ -26,6 +26,6 @@ c) Realizar as entrevistas de seleção dos candidatos aprovados na fase de aval
 
 d) Elaborar o modelo de formulário de avaliação do estágio;
 
-e) Receber os relatórios dos estagiários.
+e) (Revogada.)
 
 7 - Sempre que o número de candidatos o justifique podem ser constituídas comissões de seleção e avaliação adicionais para cada uma das áreas de estágio.

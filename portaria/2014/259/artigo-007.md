@@ -22,7 +22,7 @@ b) Experiência de trabalho no estrangeiro;
 
 c) Outra experiência laboral ou de voluntariado.
 
-5 - Na competência linguística é avaliado o domínio da língua inglesa, bem como de outras línguas estrangeiras.
+5 - Na competência linguística é avaliado o domínio das línguas portuguesa e inglesa, bem como de outras línguas estrangeiras.
 
 6 - A ordenação dos candidatos na lista a que se refere o n.º 2 do artigo 11.º e que se encontrem em igualdade de valoração e em situação não configurada pela lei como preferencial, é efetuada, de forma decrescente:
 
@@ -30,6 +30,6 @@ a) Em função da titularidade de grau académico mais elevado;
 
 b) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico mais elevado;
 
-c) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior, até à classificação final obtida no ensino secundário ou equivalente;
+c) (Revogada.)
 
 d) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.

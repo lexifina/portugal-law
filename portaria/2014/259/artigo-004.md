@@ -22,7 +22,7 @@ a) A área de formação académica, com indicação da respetiva licenciatura e
 
 b) Outras habilitações académicas de grau superior à licenciatura e referência à respetiva classificação final, arredondada à unidade;
 
-c) Classificação final do 12.º ano ou equivalente, arredondada à primeira casa decimal;
+c) (Revogada.);
 
 d) Competências linguísticas;
 

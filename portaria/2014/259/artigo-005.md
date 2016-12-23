@@ -2,7 +2,7 @@
 
 ### Informação relativa aos estágios
 
-1 - A oferta de estágios é distribuída por 3 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.
+1 - A oferta de estágios é distribuída por 2 áreas, com base nas funções a desempenhar nos serviços periféricos externos e das áreas de educação e formação exigidas.
 
 2 - Cada candidato pode concorrer a uma única área de estágio.
 
@@ -22,15 +22,7 @@ a) Estágio em Diplomacia Económica:
 
 - Cód. 380 - Direito.
 
-b) Estágio em Política Comercial:
-
-- Cód. 313 - Ciência Política e Cidadania;
-
-- Cód. 314 - Economia;
-
-- Cód. 345 - Gestão e Administração;
-
-- Cód. 380 - Direito.
+b) (Revogada.)
 
 c) Estágio em Diplomacia Política e Apoio Consular
 

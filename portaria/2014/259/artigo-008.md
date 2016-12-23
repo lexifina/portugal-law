@@ -6,7 +6,7 @@
 
 2 - As entrevistas de seleção são conduzidas por uma comissão de seleção e avaliação, designada para cada uma das áreas de estágio, nos termos do artigo 15.º.
 
-3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação.
+3 - A entrevista consiste na realização de um conjunto de perguntas previamente determinadas pela comissão de seleção e avaliação, com a duração mínima de 15 e máxima de 30 minutos.
 
 4 - Na avaliação da entrevista são ponderados os seguintes elementos:
 

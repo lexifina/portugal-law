@@ -16,7 +16,9 @@ b) Subsídio de refeição, no valor correspondente ao praticado para a generali
 
 a) Seguro que cubra os riscos de eventualidades que possam ocorrer e por causa das atividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio;
 
-b) Viagem de ida e volta entre Portugal e o país onde se realiza o estágio.
+b) Viagem de ida e volta entre Portugal e o local onde se realiza o estágio;
+
+c) Consulta de medicina para viajantes e vacinas.
 
 5 - A bolsa de estágio e o subsídio de refeição não são devidos em caso de:
 
@@ -29,3 +31,5 @@ c) Faltas justificadas por motivo de acidente, desde que a responsabilidade civi
 6 - O processamento dos pagamentos referidos no presente artigo é efetuado pela Secretaria-Geral do Ministério dos Negócios Estrangeiros.
 
 7 - A negociação centralizada do seguro referido na alínea a) do n.º 4 compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e dos negócios estrangeiros.
+
+8 - A Secretaria-Geral do Ministério dos Negócios Estrangeiros presta apoio aos estagiários na procura de alojamento, quando solicitado, por referência à informação prestada pelos serviços periféricos externos.
