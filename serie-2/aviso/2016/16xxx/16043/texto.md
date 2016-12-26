@@ -1,0 +1,6 @@
+Aviso n.º 16043/2016
+Luís Filipe Pereira Mourinha, Presidente da Câmara Municipal de Estremoz, torna público que, nos termos e para efeitos do disposto no artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal de Estremoz deliberou, em reunião ordinária de 7 de dezembro de 2016, proceder à abertura do período de discussão pública da proposta da 3.ª alteração do Plano de Pormenor da Zona Industrial de Arcos, pelo período de 20 dias úteis, contados a partir do 5.º dia da data de publicação do presente aviso no Diário da República.
+Os elementos que constituem a referida alteração encontram-se disponíveis para consulta na Divisão de Ordenamento do Território da Câmara Municipal de Estremoz, todos os dias úteis, durante o horário de expediente, e na página oficial do município na internet, através do endereço www.cm-estremoz.pt.
+As reclamações, observações ou sugestões deverão ser apresentadas por escrito, dirigidas ao Presidente da Câmara Municipal, e enviadas através do correio, para a morada Rossio Marquês de Pombal, Apartado 86, 7100-513 Estremoz, ou para o email cgap@cm-estremoz.pt.
+9 de dezembro de 2016. - O Presidente da Câmara, Luís Filipe Pereira Mourinha.
+610093201
