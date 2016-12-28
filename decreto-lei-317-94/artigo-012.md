@@ -1,8 +1,8 @@
 # Artigo 12.º
 
-### Certidão do registo de infracções do condutor
+### Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
 
-1 - A certidão do registo de infracções do condutor é emitida, com recurso preferencial a meios informáticos, pela ANSR, a requerimento do titular dos dados.
+1 - A certidão do registo de infrações do condutor e do número de pontos associados ao título de condução é emitida pela ANSR, preferencialmente por meio eletrónico, a requerimento do titular, podendo ser disponibilizada online mediante a introdução de um código de validação facultado para o efeito.
 
 2 - (Revogado).
 

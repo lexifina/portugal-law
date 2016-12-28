@@ -1,6 +1,6 @@
 # Artigo 4.º
 
-### Registo de infracções de condutores
+### Registo de infrações e da pontuação dos condutores
 
 1 - O RIC é um ficheiro constituído por dados relativos:
 
@@ -10,9 +10,11 @@ b) A cada infracção punida com inibição ou proibição de condução em terr
 
 c) À existência de inibição ou proibição de condução aplicada por organismos estrangeiros;
 
-d) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução.
+d) À existência de decisões em medida de segurança que impliquem cassação dos títulos de condução;
 
-e) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal.
+e) À aplicação, alteração ou extinção da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal;
+
+f) Ao número de pontos detidos por cada condutor.
 
 2 - São dados de identificação do condutor:
 
@@ -20,13 +22,13 @@ a) Os tipos dos títulos de condução de que é titular;
 
 b) Os números dos títulos de condução;
 
-c) O número do bilhete de identidade;
+c) O número do bilhete de identidade ou do cartão de cidadão;
 
 d) A residência;
 
 e) O nome.
 
-3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, são recolhidos os seguintes dados:
+3 - Relativamente a cada infração punida com inibição ou proibição de condução em território nacional, bem como em relação à aplicação da proibição de conduzir veículos a motor em sede de suspensão provisória do processo penal, e para efeitos do disposto no n.º 7 do artigo 148.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, alterado pelos Decretos-Leis n.os 44/2005, de 23 de fevereiro, 113/2008, de 1 de julho, e 113/2009, de 18 de maio e pelas Leis n.os 78/2009, de 13 de agosto, 46/2010, de 7 de setembro, 72/2013, de 3 de setembro, e 116/2015, de 28 de agosto, e pelo Decreto-Lei n.º 40/2016, de 29 de julho, são recolhidos os seguintes dados:
 
 a) Número do auto;
 
@@ -72,7 +74,23 @@ v) Data do início da frequência de acção de formação;
 
 x) Data do fim da frequência de acção de formação;
 
-z) Acidente de viação.
+z) Acidente de viação;
+
+aa) Número de pontos subtraídos;
+
+bb) Data da notificação de que o condutor tem cinco ou menos pontos;
+
+cc) Frequência voluntária de ação de formação de segurança rodoviária, para efeitos de atribuição de um ponto no momento da revalidação da carta de condução;
+
+dd) Datas de início e de fim do período em que frequentou a ação de formação de segurança rodoviária;
+
+ee) Data da notificação de que o condutor tem três ou menos pontos;
+
+ff) Data de realização da prova teórica do exame de condução;
+
+gg) Indicação de falta injustificada à ação de formação ou à prova teórica do exame de condução;
+
+hh) Indicação da reprovação na prova teórica do exame de condução.
 
 4 - Relativamente à existência de uma inibição ou proibição de condução comunicada por organismo estrangeiros, são recolhidos os seguintes dados:
 

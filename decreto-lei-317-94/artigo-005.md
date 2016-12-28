@@ -12,7 +12,7 @@ b) Os números dos títulos de condução;
 
 c) A identificação da entidade emissora;
 
-d) O número do bilhete de identidade ou do passaporte;
+d) O número do bilhete de identidade, ou do cartão do cidadão, ou do passaporte;
 
 e) A residência;
 
