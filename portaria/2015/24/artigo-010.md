@@ -18,8 +18,8 @@
 
 8 - Para efeitos de aplicação do disposto no n.º 4, são considerados os seguintes períodos de retenção:
 
-a) De 1 de fevereiro a 31 de julho para os bovinos;
+a) 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos:
 
-b) De 1 de fevereiro a 31 de maio para os ovinos e caprinos;
+b) (Revogada.)
 
-c) De 1 de janeiro a 31 de dezembro para o restante efetivo.
+c) 1 de janeiro e 31 de dezembro, para o restante efetivo.
