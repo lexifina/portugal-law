@@ -12,4 +12,4 @@
 
 5 - Para efeitos das majorações previstas nos números anteriores, o agrupamento ou organização de produtores deve encontrar-se reconhecido à data do termo do período de candidatura aos apoios previstos na presente portaria.
 
-6 - Os apoios a conceder no âmbito do presente capítulo, quando respeitem à mesma subparcela agrícola e sejam acumulados com o apoio 7.1 «Agricultura biológica» ou com o apoio 7.2 «Produção integrada» no âmbito da medida 7 «Agricultura e recursos naturais», correspondem a 70 % dos montantes previstos no anexo V à presente portaria, da qual faz parte integrante.
+6 - Os apoios a conceder no âmbito do presente capítulo, quando respeitem à mesma área e sejam acumulados com o apoio 7.1 'Agricultura biológica' ou com o apoio 7.2 'Produção integrada' no âmbito da medida 7 'Agricultura e recursos naturais', correspondem a 70 % dos montantes previstos no anexo V à presente portaria, da qual faz parte integrante.
