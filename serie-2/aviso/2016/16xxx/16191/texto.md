@@ -1,0 +1,5 @@
+Aviso n.º 16191/2016
+Maria das Dores Marques Banheiro Meira, Presidente da Câmara Municipal de Setúbal, torna público que nos termos e para os efeitos do disposto nos Artigos 139.º e 140.º, do novo Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, foi aprovada a "Alteração ao Regulamento de Taxas e Outras Receitas do Município de Setúbal - Nova taxa correspondente à apreciação de operações urbanísticas de pedido de legalização", tendo sido presente à reunião ordinária da Câmara Municipal realizada em 17 de agosto de 2016 e aprovada em sessão ordinária da Assembleia Municipal de 30 de setembro e 4 de outubro de 2016.
+Assim, foi adicionado ao RTORMS o ponto "11.1.1" na Secção II, do Capítulo II, no valor de 522,70 (euro) (quinhentos e vinte e dois euros e setenta cêntimos) e com a introdução da nota: "e) A legalização de edificações e/ou utilizações, fica sujeita a todas as taxas relativas a variáveis urbanísticas que sejam aplicáveis à pretensão em causa", na mesma secção e capítulo.
+18 de novembro de 2016. - A Presidente da Câmara, Maria das Dores Meira.
+310081505
