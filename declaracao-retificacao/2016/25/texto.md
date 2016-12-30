@@ -1,0 +1,11 @@
+Declaração de Retificação n.º 25/2016
+Ao abrigo do disposto no artigo 5.º da Lei n.º 74/98, de 11 de novembro, alterada pelas Leis n.os 2/2005, de 24 de janeiro, 26/2006, de 30 de junho, 42/2007, de 24 de agosto, e 43/2014, de 11 de julho, declara-se que a Portaria n.º 321/2016, de 16 de dezembro, publicada no Diário da República, 1.ª série, n.º 240, de 16 de dezembro de 2016, saiu com as seguintes inexatidões que assim se retificam:
+1 - No artigo 2.º, na alteração introduzida ao n.º 2 do artigo 5.º da Portaria n.º 57/2015, de 27 de fevereiro, onde se lê:
+«2 - Para efeitos de determinação do montante de pagamento base referido no número anterior, é subtraído o montante correspondente aos salários de mão-de-obra permanente ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.»
+deve ler-se:
+«2 - Para efeitos de determinação do montante de pagamento base referido no número anterior, é subtraído o montante correspondente aos salários ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.»
+2 - No artigo 2.º, na alteração introduzida ao n.º 3 do artigo 5.º da Portaria n.º 57/2015, de 27 de fevereiro, onde se lê:
+«3 - Para efeitos do número anterior, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, declaração que contenha informação sobre os salários relativos à mão de obra permanente ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.»
+deve ler-se:
+«3 - Para efeitos do número anterior, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, declaração que contenha informação sobre os salários ligados à atividade agrícola, efetivamente pagos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego.»
+21 de dezembro de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
