@@ -20,10 +20,12 @@ f) Parecer prévio favorável do membro do Governo de que depende o órgão ou s
 
 3 - O requisito previsto na alínea a) do número anterior pode ser dispensado nos casos de recrutamento para ocupação de postos trabalho das carreiras especiais médica e de enfermagem, desde que devidamente demonstrada e fundamentada a necessidade do recrutamento que se pretende efetuar.
 
-4 - O parecer a que se refere a alínea f) do n.º 2 incide, nomeadamente, sobre as atribuições, a evolução dos efetivos nos últimos três anos e o impacto orçamental da despesa com o recrutamento que se pretende efetuar.
+4 - A autorização para a abertura de procedimentos concursais referentes a pessoal docente prevista no n.º 2 está sujeita à verificação dos requisitos previstos nas alíneas b) a f) do mesmo normativo, em condições a fixar por despacho do membro do Governo responsável pela área das finanças e da Administração Pública.
 
-5 - Quando tenha decorrido o prazo de seis meses após a data da emissão da autorização prevista no n.º 2 sem que tenha sido homologada a lista de classificação final, devem os serviços que procedem ao recrutamento, após a fase de aplicação dos métodos de seleção, solicitar autorização aos membros do Governo a que refere a mesma disposição legal, para prosseguir com o recrutamento.
+5 - O parecer a que se refere a alínea f) do n.º 2 incide, nomeadamente, sobre as atribuições, a evolução dos efetivos nos últimos três anos e o impacto orçamental da despesa com o recrutamento que se pretende efetuar.
 
-6 - Sem prejuízo da produção plena dos seus efeitos durante o tempo em que tenham estado em execução, as contratações e as nomeações de trabalhadores efetuadas na sequência de procedimentos concursais realizados em violação do disposto nos n.os 1 a 3 do presente artigo são nulas e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
+6 - Quando tenha decorrido o prazo de seis meses após a data da emissão da autorização prevista no n.º 2 sem que tenha sido homologada a lista de classificação final, devem os serviços que procedem ao recrutamento, após a fase de aplicação dos métodos de seleção, solicitar autorização aos membros do Governo a que refere a mesma disposição legal, para prosseguir com o recrutamento.
 
-7 - O disposto no presente artigo tem caráter excecional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.
+7 - Sem prejuízo da produção plena dos seus efeitos durante o tempo em que tenham estado em execução, as contratações e as nomeações de trabalhadores efetuadas na sequência de procedimentos concursais realizados em violação do disposto nos n.os 1 a 3 do presente artigo são nulas e fazem incorrer os seus autores em responsabilidade civil, financeira e disciplinar.
+
+8 - O disposto no presente artigo tem caráter excecional e prevalece sobre todas as disposições legais, gerais ou especiais, contrárias.

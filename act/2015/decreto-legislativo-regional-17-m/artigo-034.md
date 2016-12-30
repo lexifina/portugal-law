@@ -20,18 +20,20 @@ d) Recuperação de habitações pertencentes a famílias carenciadas.
 
 3 - Fica ainda o Governo Regional autorizado a conceder subsídios e outras formas de apoio a entidades públicas no âmbito da subsidiação do preço de água de rega tendo em conta o enquadramento social e ambiental da atividade agrícola na Região Autónoma da Madeira.
 
-4 - No âmbito do disposto no n.º 2, os apoios a conceder podem assumir a forma de compensação pelos financiamentos utilizados pelas entidades beneficiárias na prossecução dos objetivos inerentes.
+4 - O Governo Regional pode ainda criar linhas de crédito bonificadas, nomeadamente nas áreas da educação, da formação profissional e da agricultura, cujas condições são aprovadas por resolução do Conselho do Governo Regional.
 
-5 - Em casos excecionais, devidamente fundamentados, podem ser comparticipadas despesas de funcionamento assumidas antes da vigência do respetivo contrato-programa, incluindo a consolidação do passivo de entidades integradas no universo das administrações públicas em contas nacionais cujas despesas tenham sido devidamente contabilizadas para efeitos de contas nacionais.
+5 - No âmbito do disposto no n.º 2, os apoios a conceder podem assumir a forma de compensação pelos financiamentos utilizados pelas entidades beneficiárias na prossecução dos objetivos inerentes.
 
-6 - A concessão destes auxílios fundamenta-se em motivo de interesse público e faz-se com respeito pelos princípios da publicidade, da transparência, da concorrência e da imparcialidade.
+6 - Em casos excecionais, devidamente fundamentados, podem ser comparticipadas despesas de funcionamento assumidas antes da vigência do respetivo contrato-programa, incluindo eventos que tenham sido realizados dentro do mesmo ano económico e a consolidação do passivo de entidades integradas no universo das administrações públicas em contas nacionais cujas despesas tenham sido devidamente contabilizadas para efeitos de contas nacionais.
 
-7 - Os subsídios e outras formas de apoio concedidos são formalizados através de contrato-programa com o beneficiário, onde são definidos os objetivos, as formas de auxílio, as obrigações das partes e as penalizações em caso de incumprimento.
+7 - A concessão destes auxílios fundamenta-se em motivo de interesse público e faz-se com respeito pelos princípios da publicidade, da transparência, da concorrência e da imparcialidade.
 
-8 - A concessão dos auxílios previstos neste preceito é sempre precedida de uma quantificação da respetiva despesa, devendo ser autorizada através de resolução do Conselho do Governo Regional, após parecer favorável da Secretaria Regional das Finanças e da Administração Pública.
+8 - Com exceção das linhas de crédito bonificado a que se refere o n.º 4 deste artigo, os subsídios e outras formas de apoio concedidos são formalizados através de contrato-programa com o beneficiário, onde são definidos os objetivos, as formas de auxílio, as obrigações das partes e as penalizações em caso de incumprimento, podendo não ser efetuada a transferência dos montantes em causa caso subsista qualquer tipo de incumprimento à Região Autónoma da Madeira por parte da entidade beneficiária, ficando, nestes casos, a Secretaria Regional das Finanças e da Administração Pública autorizada a proceder, sem qualquer formalidade adicional, à retenção dos subsídios e outras formas de apoio atribuídos, até ao montante do incumprimento.
 
-9 - É nula a concessão de auxílios prevista no presente artigo com omissão de quaisquer formalidades exigíveis, designadamente sem o parecer prévio favorável da Secretaria Regional das Finanças e da Administração Pública.
+9 - A concessão dos auxílios previstos neste preceito é sempre precedida de uma quantificação da respetiva despesa, devendo ser autorizada através de resolução do Conselho do Governo Regional, após parecer favorável da Secretaria Regional das Finanças e da Administração Pública.
 
-10 - Todos os subsídios e formas de apoio concedidos são objeto de publicação no Jornal Oficial da Região Autónoma da Madeira.
+10 - É nula a concessão de auxílios prevista no presente artigo com omissão de quaisquer formalidades exigíveis, designadamente sem o parecer prévio favorável da Secretaria Regional das Finanças e da Administração Pública.
 
-11 - Os demais procedimentos inerentes aos apoios previstos nesta norma são definidos no decreto que põe em execução o Orçamento da Região Autónoma da Madeira para 2016.
+11 - Todos os subsídios e formas de apoio concedidos são objeto de publicação no Jornal Oficial da Região Autónoma da Madeira.
+
+12 - Os demais procedimentos inerentes aos apoios previstos nesta norma são definidos no decreto que põe em execução o Orçamento da Região Autónoma da Madeira para 2016.
