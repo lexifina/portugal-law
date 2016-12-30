@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 84-M/2016
+Com a entrada em vigor, a 11 de maio de 2015, do acordo quadro para prestação de serviços de higiene e limpeza com fornecimento de consumíveis (AQ-HL-2015) celebrado pela Entidade de Serviços Partilhados da Administração Pública, I. P., é vedada à Administração Regional de Saúde do Norte, I. P. (ARS do Norte, I. P.), a contratação de serviços fora do referido acordo quadro.
+A ARS do Norte, I. P., estando vinculada a adoção de procedimentos de contratação ao abrigo do referido acordo quadro, pretende proceder à aquisição de serviços de higiene e limpeza com fornecimento de consumíveis, celebrando o correspondente contrato para o ano de 2017, nos termos do artigo 259.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.
+Considerando que o referido contrato gera encargos orçamentais em ano diferente do da sua realização, é necessária autorização para a assunção de compromissos plurianuais.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, mantidos em vigor pela alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, do artigo 109.º e do artigo 259.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Administração Regional de Saúde do Norte, I. P. (ARS do Norte, I. P.), a realizar a despesa relativa à aquisição de serviços de higiene e limpeza e fornecimento de consumíveis de casa de banho, ao abrigo do acordo quadro da Entidade de Serviços Partilhados da Administração Pública, I. P., no montante de (euro) 5 203 149,60, a que acresce IVA à taxa legal em vigor.
+2 - Determinar que o encargo resultante do número anterior seja integralmente pago em 2017.
+3 - Delegar, no Ministro da Saúde, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+4 - Determinar que os encargos decorrentes da presente resolução sejam suportados por verbas adequadas a inscrever no orçamento da ARS do Norte, I. P.
+5 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de dezembro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
