@@ -20,6 +20,6 @@ b) As operações devem ser registadas cronologicamente, sem emendas ou rasuras,
 
 7 - É ainda permitido o arquivamento em suporte eletrónico das faturas ou documentos equivalentes, dos talões de venda ou de quaisquer outros documentos com relevância fiscal emitidos pelo sujeito passivo, desde que processados por computador, nos termos definidos no n.º 7 do artigo 52.º do Código do IVA.
 
-8 - As entidades referidas no n.º 1 que organizem a sua contabilidade com recurso a meios informáticos devem dispor de capacidade de exportação de ficheiros nos termos e formatos a definir por portaria do membro do Governo responsável pela área das finanças.
+8 - As entidades referidas no n.º 1 devem dispor de capacidade de exportação de ficheiros nos termos e formatos a definir por portaria do Ministro das Finanças.
 
 9 - Os programas e equipamentos informáticos de faturação dependem da prévia certificação pela Autoridade Tributária e Aduaneira, sendo de utilização obrigatória, nos termos a definir por portaria do membro do Governo responsável pela área das finanças.

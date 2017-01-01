@@ -27,3 +27,5 @@ b) Os bens em que seja reinvestido o valor de realização:
 8 - O disposto nos n.os 1 e 2 não é aplicável aos ativos intangíveis adquiridos ou alienados a entidades com as quais existam relações especiais nos termos do n.º 4 do artigo 63.º
 
 9 - O disposto nos n.os 1 e 2 não é aplicável às mais e menos-valias realizadas pelas sociedades fundidas, cindidas ou contribuidoras no âmbito de operações de fusão, cisão ou entrada de ativos, bem como às mais e menos-valias realizadas na afetação permanente de bens a fins alheios à atividade exercida pelo sujeito passivo ou realizadas pelas sociedades em liquidação.
+
+10 - Não são suscetíveis de beneficiar deste regime as propriedades de investimento, ainda que reconhecidas na contabilidade como ativo fixo tangível.

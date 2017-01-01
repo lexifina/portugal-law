@@ -4,7 +4,7 @@
 
 1 - A matéria coletável relevante para efeitos da aplicação do presente regime simplificado obtém-se através da aplicação dos seguintes coeficientes:
 
-a) 0,04 das vendas de mercadorias e produtos, bem como das prestações de serviços efetuadas no âmbito de atividades hoteleiras e similares, restauração e bebidas;
+a) 0,04 das vendas de mercadorias e produtos, bem como das prestações de serviços efetuadas no âmbito de atividades de restauração e bebidas e de atividades hoteleiras e similares, com exceção daquelas que se desenvolvam no âmbito da atividade de exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento;
 
 b) 0,75 dos rendimentos das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º do Código do IRS;
 
@@ -15,6 +15,8 @@ d) 0,30 dos subsídios não destinados à exploração;
 e) 0,95 dos rendimentos provenientes de contratos que tenham por objeto a cessão ou utilização temporária da propriedade intelectual ou industrial ou a prestação de informações respeitantes a uma experiência adquirida no setor industrial, comercial ou científico, dos outros rendimentos de capitais, do resultado positivo de rendimentos prediais, do saldo positivo das mais e menos-valias e dos restantes incrementos patrimoniais;
 
 f) 1,00 do valor de aquisição dos incrementos patrimoniais obtidos a título gratuito determinado nos termos do n.º 2 do artigo 21.º
+
+g) 0,35 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento.
 
 2 - O valor determinado nos termos do número anterior não pode ser inferior a 60 % do valor anual da retribuição mensal mínima garantida.
 

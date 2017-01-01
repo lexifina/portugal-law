@@ -11,3 +11,5 @@
 4 - O disposto no n.º 1 não é aplicável às mais-valias e menos-valias realizadas mediante transmissão onerosa de partes sociais, bem como à transmissão de outros instrumentos de capital próprio associados às partes sociais, designadamente prestações suplementares, quando o valor dos bens imóveis ou dos direitos reais sobre bens imóveis situados em território português, com exceção dos bens imóveis afetos a uma atividade de natureza agrícola, industrial ou comercial que não consista na compra e venda de bens imóveis, represente, direta ou indiretamente, mais de 50 % do ativo.
 
 5 - Para efeitos da prova do cumprimento dos requisitos previstos no presente artigo, é aplicável, com as necessárias adaptações, o disposto no artigo anterior.
+
+6 - As perdas por imparidade e outras correções de valor de partes sociais ou de outros instrumentos de capital próprio, que tenham concorrido para a formação do lucro tributável, ao abrigo do estabelecido no n.º 2 do artigo 28.º-A, consideram-se componentes positivas do lucro tributável no período de tributação em que ocorra a respetiva transmissão onerosa, sempre que seja aplicado o disposto nos n.os 1 a 3 do presente artigo.

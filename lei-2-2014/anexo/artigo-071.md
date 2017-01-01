@@ -20,4 +20,4 @@ d) Quando houver continuidade de aplicação do regime após a saída de uma ou 
 
 5 - Sem prejuízo do disposto no artigo 52.º, no caso em que a sociedade dominante de um grupo de sociedades (nova sociedade dominante) adquire o domínio de uma sociedade dominante de um outro grupo de sociedades (anterior sociedade dominante) e a nova sociedade dominante opte pela inclusão das sociedades pertencentes ao grupo da anterior sociedade dominante nos termos da subalínea 1) da alínea b) do n.º 7 do artigo 69.º, que preencham os requisitos previstos nos n.os 2, 3 e nas alíneas a), b) e d) a g) do n.º 4 do artigo 69.º, as quotas-partes dos prejuízos fiscais do grupo da anterior sociedade dominante imputáveis às sociedades que integrem o grupo da nova sociedade dominante são dedutíveis nos termos da alínea a) do n.º 1.
 
-6 - Na dedução dos prejuízos fiscais devem ser primeiramente deduzidos os apurados há mais tempo.
+6 - (Revogado).

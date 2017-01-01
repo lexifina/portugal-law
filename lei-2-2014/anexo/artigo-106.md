@@ -4,11 +4,11 @@
 
 1 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 104.º, os sujeitos aí mencionados ficam sujeitos a um pagamento especial por conta, a efetuar durante o mês de março ou em duas prestações, durante os meses de março e outubro do ano a que respeita, ou, no caso de adotarem um período de tributação não coincidente com o ano civil, nos 3.º e 10.º meses do período de tributação respetivo.
 
-2 - O montante do pagamento especial por conta é igual a 1 % do volume de negócios relativo ao período de tributação anterior, com o limite mínimo de (euro) 1 000 e, quando superior, é igual a este limite acrescido de 20 % da parte excedente com o limite máximo de (euro) 70 000.
+2 - O montante do pagamento especial por conta é igual a 1 % do volume de negócios relativo ao período de tributação anterior, com o limite mínimo de (euro) 850, e, quando superior, é igual a este limite acrescido de 20 % da parte excedente, com o limite máximo de (euro) 70 000.
 
 3 - Ao montante apurado nos termos do número anterior deduzem-se os pagamentos por conta calculados nos termos do artigo 105.º, efetuados no período de tributação anterior.
 
-4 - Para efeitos do disposto no n.º 2, o volume de negócios corresponde ao valor das vendas e dos serviços prestados.
+4 - Para efeitos do disposto no n.º 2, o volume de negócios corresponde ao valor das vendas e dos serviços prestados geradores de rendimentos sujeitos e não isentos.
 
 5 - No caso dos bancos, empresas de seguros e outras entidades do setor financeiro para as quais esteja prevista a aplicação de planos de contabilidade específicos, o volume de negócios é substituído pelos juros e rendimentos similares e comissões ou pelos prémios brutos emitidos e comissões de contratos de seguro e operações consideradas como contratos de investimento ou contratos de prestação de serviços, consoante a natureza da atividade exercida pelo sujeito passivo.
 
@@ -40,7 +40,7 @@ f) 30 % nos rendimentos relativos à venda dos restantes tabacos de fumar.
 
 11 - Ficam dispensados de efetuar o pagamento especial por conta:
 
-a) Os sujeitos passivos totalmente isentos de IRC, ainda que a isenção não inclua rendimentos que sejam sujeitos a tributação por retenção na fonte com caráter definitivo;
+a) Os sujeitos passivos totalmente isentos de IRC, ainda que a isenção não inclua rendimentos que sejam sujeitos a tributação por retenção na fonte com caráter definitivo, bem como os sujeitos passivos que apenas aufiram rendimentos não sujeitos ou isentos;
 
 b) Os sujeitos passivos que se encontrem com processos no âmbito do Código da Insolvência e da Recuperação de Empresas, a partir da data de instauração desse processo;
 

@@ -8,7 +8,7 @@ a) As pessoas coletivas de utilidade pública administrativa;
 
 b) As instituições particulares de solidariedade social, bem como as pessoas coletivas àquelas legalmente equiparadas;
 
-c) As pessoas coletivas de mera utilidade pública que prossigam, exclusiva ou predominantemente, fins científicos ou culturais, de caridade, assistência, beneficência, solidariedade social ou defesa do meio ambiente.
+c) As pessoas coletivas de mera utilidade pública que prossigam, exclusiva ou predominantemente, fins científicos ou culturais, de caridade, assistência, beneficência, solidariedade social, defesa do meio ambiente e interprofissionalismo agroalimentar.
 
 2 - A isenção prevista na alínea c) do número anterior carece de reconhecimento pelo membro do Governo responsável pela área das finanças, a requerimento dos interessados, mediante despacho publicado no Diário da República, que define a respetiva amplitude, de harmonia com os fins prosseguidos e as atividades desenvolvidas para a sua realização, pelas entidades em causa e as informações dos serviços competentes da Autoridade Tributária e Aduaneira e outras julgadas necessárias.
 

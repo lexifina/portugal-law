@@ -4,7 +4,7 @@
 
 1 - O IRC, salvo o disposto no n.º 10, é devido por cada período de tributação, que coincide com o ano civil, sem prejuízo das exceções previstas neste artigo.
 
-2 - As pessoas coletivas com sede ou direção efetiva em território português, bem como as pessoas coletivas ou outras entidades sujeitas a IRC que não tenham sede nem direção efetiva neste território e nele disponham de estabelecimento estável, podem adotar um período anual de imposto diferente do estabelecido no número anterior, o qual deve ser mantido durante, pelo menos, os cinco períodos de tributação imediatos.
+2 - As pessoas coletivas com sede ou direção efetiva em território português, bem como as pessoas coletivas ou outras entidades sujeitas a IRC que não tenham sede nem direção efetiva neste território e nele disponham de estabelecimento estável, podem adotar um período anual de imposto diferente do estabelecido no número anterior, o qual deve coincidir com o período social de prestação de contas, devendo ser mantido durante, pelo menos, os cinco períodos de tributação imediatos.
 
 3 - A limitação prevista na parte final do número anterior não se aplica quando o sujeito passivo passe a integrar um grupo de sociedades obrigado a elaborar demonstrações financeiras consolidadas, em que a empresa mãe adote um período de tributação diferente daquele adotado pelo sujeito passivo.
 

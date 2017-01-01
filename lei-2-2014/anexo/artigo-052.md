@@ -44,4 +44,4 @@ e) Quando o adquirente seja trabalhador ou membro dos órgãos sociais da socied
 
 14 - Sempre que estejam em causa prejuízos fiscais relativos ao período imediatamente anterior ao da ocorrência de alguma das alterações previstas no n.º 8 e esta ocorra antes do termo do prazo de entrega da respetiva declaração de rendimentos, o requerimento referido no n.º 12 pode ser apresentado no prazo de 30 dias contados do termo do prazo de entrega dessa declaração.
 
-15 - Para efeitos do n.º 1, devem ser deduzidos em 1.º lugar os prejuízos fiscais apurados há mais tempo.
+15 - (Revogado).
