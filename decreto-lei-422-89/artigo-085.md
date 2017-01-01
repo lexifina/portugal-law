@@ -10,7 +10,7 @@ a) Bancas simples:
 
 Estoril - 0,75%;
 
-Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo - 0,1%, no 1.º quinquénio, 0,15% no 2.º quinquénio, 0,2% no 3.º quinquénio, 0,25% nos 4.º e 5.º quinquénios e 0,55% nos demais quinquénios;
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 0,1 % no 1.º quinquénio, 0,15 % no 2.º quinquénio, 0,2 % no 3.º quinquénio, 0,25 % nos 4.º e 5.º quinquénios e 0,55 % nos demais quinquénios;
 
 Restantes zonas - 0,55%;
 
@@ -18,13 +18,13 @@ b) Bancas duplas:
 
 Estoril - 1,2%;
 
-Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo - 0,15% no 1.º quinquénio, 0,25% no 2.º quinquénio, 0,3% no 3.º quinquénio, 0,35% nos 4.º e 5.º quinquénios e 0,9% nos demais quinquénios;
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 0,15 % no 1.º quinquénio, 0,25 % no 2.º quinquénio, 0,3 % no 3.º quinquénio, 0,35 % nos 4.º e 5.º quinquénios e 0,9 % nos demais quinquénios;
 
 Restantes zonas - 0,9%;
 
 2) A segunda parcela constará de uma percentagem sobre os lucros brutos das bancas, fixada da seguinte forma, qualquer que seja o modelo das bancas:
 
-Funchal, Algarve, Tróia, Vidago-Pedras Salgadas e Porto Santo - 10% no 1.º quinquénio, 12,5% no 2.º quinquénio, 15% no 3.º quinquénio e 20% nos demais quinquénios;
+Funchal, Açores, Algarve, Troia, Vidago-Pedras Salgadas e Porto Santo - 10 % no 1.º quinquénio, 12,5 % no 2.º quinquénio, 15 % no 3.º quinquénio e 20 % nos demais quinquénios;
 
 Restantes zonas - 20%;
 
