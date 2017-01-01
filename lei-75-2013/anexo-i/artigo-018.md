@@ -32,9 +32,9 @@ m) Colaborar com outras entidades no domínio da proteção civil, tendo em vist
 
 n) Participar no conselho municipal de segurança;
 
-o) Presidir à unidade local de proteção civil;
+o) Presidir à unidade local de proteção civil, salvo em caso de justo impedimento, em que é representado pelo substituto legal por si designado;
 
-p) Determinar a instrução dos processos de contraordenação e proceder à aplicação das coimas, com a faculdade de delegação em qualquer dos restantes membros da junta de freguesia;
+p) Determinar a instrução dos processos de contraordenação e proceder à aplicação das coimas;
 
 q) Comunicar à assembleia de freguesia as faltas injustificadas marcadas aos membros da junta de freguesia;
 
@@ -71,3 +71,5 @@ c) A subscrição dos atestados que devam ser assinados pelo presidente da junta
 d) A execução do expediente da junta de freguesia;
 
 e) A arrecadação das receitas, o pagamento das despesas autorizadas e a escrituração dos modelos contabilísticos da receita e da despesa, com base nos respetivos documentos que são assinados pelo presidente da junta de freguesia.
+
+4 - O presidente da junta de freguesia pode delegar nos vogais as competências previstas nas alíneas d), g), h), i), j), l), m), n), p), u), w), x) e y) do n.º 1 do presente artigo.
