@@ -18,4 +18,4 @@
 
 7 - (Revogado.)
 
-8 - A actualização da base de incidência resultante da actualização do IAS produz efeitos a partir do 1.º dia do mês seguinte ao da publicação do diploma que proceda àquela actualização.
+8 - A atualização da base de incidência resultante da atualização do IAS produz efeitos a partir da fixação anual da base de incidência contributiva, prevista no n.º 5, posterior à entrada em vigor do diploma que procede àquela atualização.
