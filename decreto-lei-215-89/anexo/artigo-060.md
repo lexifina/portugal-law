@@ -1,7 +1,3 @@
-## Capítulo IX
-
-## Benefícios fiscais à reestruturação empresarial
-
 # Artigo 60.º
 
 ### Reorganização de empresas em resultado de operações de restruturação ou de acordos de cooperaçã

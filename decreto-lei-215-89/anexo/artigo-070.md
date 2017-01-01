@@ -19,3 +19,5 @@ c) Veículos afectos ao transporte em táxi, registados como elementos do activo
 5 - O benefício previsto no número anterior encontra-se excluído do âmbito de aplicação do n.º 1 do artigo 92.º do Código do IRC.
 
 6 - Os benefícios fiscais previstos no presente artigo são aplicáveis durante o período de tributação que se inicie em ou após 1 de janeiro de 2016 e seguintes.
+
+7 - O benefício fiscal previsto no presente artigo não é aplicável, nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2017, aos gastos suportados com a aquisição de combustíveis que tenham beneficiado do regime de reembolso parcial para gasóleo profissional.

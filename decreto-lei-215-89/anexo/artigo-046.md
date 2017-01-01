@@ -12,9 +12,13 @@
 
 5 - 5 - Para efeitos do disposto nos n.os 1 e 3, o período de isenção a conceder é de três anos, aplicável a prédios urbanos cujo valor patrimonial tributário não exceda (euro) 125 000.
 
-6 - Nos casos previstos neste artigo, a isenção é reconhecida pelo chefe de finanças da área da situação do prédio, em requerimento devidamente documentado.
+6 - Nos casos previstos no presente artigo, a isenção é:
 
-7 - Se o pedido for apresentado para além do prazo, ou se a afetação a residência própria e permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo, a isenção inicia-se a partir do ano da comunicação, cessando, todavia, no ano em que findaria se a afetação se tivesse verificado nos seis meses imediatos ao da conclusão da construção, ampliação, melhoramentos ou aquisição a título oneroso.
+a) Automática, nas situações de aquisição onerosa a que se refere o n.º 1, com base nos elementos de que a Autoridade Tributária e Aduaneira disponha;
+
+b) Reconhecida, nos demais casos, pelo chefe do serviço de finanças da área da situação do prédio, em requerimento devidamente documentado.
+
+7 - Se a afetação a habitação própria e permanente do sujeito passivo ou do seu agregado familiar ocorrer após o decurso do prazo previsto no n.º 1 e, nas situações dependentes de reconhecimento, se o pedido for apresentado fora do prazo, a isenção inicia-se no ano da afetação ou do pedido, respetivamente, cessando, todavia, no ano em que findaria se os prazos tivessem sido cumpridos.
 
 8 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários, usufrutuários ou superficiários dar cumprimento ao disposto no n.º 1 do artigo 13.º do Código do Imposto Municipal sobre Imóveis.
 

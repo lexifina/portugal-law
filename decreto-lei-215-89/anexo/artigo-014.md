@@ -18,6 +18,12 @@ b) A dívida tributária não tenha sido objecto de reclamação, impugnação o
 
 6 - Verificando-se as situações previstas nas alíneas a) e b) do número anterior, os benefícios automáticos não produzem os seus efeitos no ano ou período de tributação em que ocorram os seus pressupostos.
 
-7 - O disposto nos números anteriores aplica-se sempre que as situações previstas nas alíneas a) e b) do n.º 5 ocorram, relativamente aos impostos periódicos, no final do ano ou período de tributação em que se verificou o facto tributário e, nos impostos de obrigação única, na data em que o facto tributário ocorreu.
+7 - O disposto nos números anteriores aplica-se sempre que as situações previstas no n.º 5 ocorram:
+
+a) Relativamente aos impostos sobre o rendimento, no final do ano ou período de tributação em que se verificou o facto tributário e se mantenham no termo do prazo para o exercício do direito de audição no âmbito do procedimento de liquidação do imposto a que o benefício respeita;
+
+b) Relativamente aos impostos periódicos sobre o património, no momento em que se verificou o facto tributário e se mantenham no termo do prazo para o pagamento voluntário do imposto ou da primeira prestação, quando aplicável;
+
+c) Nos impostos de obrigação única, na data em que o facto tributário ocorreu.
 
 8 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração tributária.

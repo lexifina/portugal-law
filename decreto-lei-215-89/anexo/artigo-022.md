@@ -12,7 +12,7 @@
 
 3 - Para efeitos do apuramento do lucro tributável, não são considerados os rendimentos referidos nos artigos 5.º, 8.º e 10.º do Código do IRS, exceto quando tais rendimentos provenham de entidades com residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada em portaria do membro do Governo responsável pela área das finanças, os gastos ligados àqueles rendimentos ou previstos no artigo 23.º-A do Código do IRC, bem como os rendimentos, incluindo os descontos, e gastos relativos a comissões de gestão e outras comissões que revertam para as entidades referidas no n.º 1.
 
-4 - Os prejuízos fiscais apurados em determinado período de tributação nos termos do disposto nos números anteriores são deduzidos aos lucros tributáveis, havendo-os, de um ou mais dos 12 períodos de tributação posteriores, aplicando-se o disposto no n.º 2 do artigo 52.º do Código do IRC.
+4 - Os prejuízos fiscais apurados nos termos do disposto nos números anteriores são deduzidos aos lucros tributáveis nos termos do disposto nos n.º 1 e 2 do artigo 52.º do Código do IRC.
 
 5 - Sobre a matéria coletável correspondente ao lucro tributável deduzido dos prejuízos fiscais, tal como apurado nos termos dos números anteriores, aplica-se a taxa geral prevista no n.º 1 do artigo 87.º do Código do IRC.
 
