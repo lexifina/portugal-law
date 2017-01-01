@@ -1,6 +1,6 @@
 # MAPA IV
 
-### Tribunais de competência territorial alargada
+Tribunais de competência territorial alargada
 
 Tribunais de Execução das Penas
 
@@ -8,7 +8,7 @@ Sede: Coimbra.
 
 Tribunal da Relação competente: Coimbra.
 
-Área de competência: comarcas de Castelo Branco, Coimbra, Guarda, Leiria (com exceção do Estabelecimento Prisional das Caldas da Rainha) e Viseu.
+Área de competência territorial: comarcas de Castelo Branco, Coimbra, Guarda, Leiria (com exceção do estabelecimento prisional das Caldas da Rainha) e Viseu.
 
 Juízes: 3.
 
@@ -16,33 +16,25 @@ Sede: Évora.
 
 Tribunal da Relação competente: Évora.
 
-Área de competência: comarcas de Beja, Évora (com exceção dos estabelecimentos prisionais de Alcoentre e de Vale de Judeus), Faro, Portalegre, Santarém e Setúbal.
+Área de competência territorial: comarcas de Beja, Évora (com exceção dos estabelecimentos prisionais de Alcoentre e de Vale de Judeus), Faro, Portalegre, Santarém e Setúbal.
 
-Juízes: 3.
+Juízes: 2.
 
-Sede: Lisboa.
+Sede: Lisboa
 
 Tribunal da Relação competente: Lisboa.
 
-Área de competência: comarcas de Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
+Área de competência territorial: comarcas dos Açores, Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
 
-Juízes: 8.
+Juízes: 7.
 
 Sede: Porto.
 
 Tribunal da Relação competente: Porto.
 
-Área de competência: comarcas de Aveiro, Braga, Bragança, Porto, Porto Este, Viana do Castelo e Vila Real.
+Área de competência territorial: comarcas de Aveiro, Braga, Bragança, Porto, Porto Este, Viana do Castelo e Vila Real.
 
-Juízes: 5.
-
-Sede: Ponta Delgada.
-
-Tribunal da Relação competente: Lisboa.
-
-Área de competência: comarca dos Açores, estabelecimento prisional de Angra do Heroísmo, estabelecimento prisional regional de Ponta Delgada e cadeia de apoio da Horta.
-
-Juízes: 1.
+Juízes: 4.
 
 Tribunal Marítimo
 

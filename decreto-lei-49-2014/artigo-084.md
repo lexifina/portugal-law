@@ -16,7 +16,7 @@ c) 2.ª Secção cível, com sede em Almada;
 
 d) 2.ª Secção criminal, com sede em Almada;
 
-e) (Revogada);
+e) 1.ª Secção de instrução criminal, com sede em Lisboa;
 
 f) 2.ª Secção de instrução criminal, com sede em Almada;
 

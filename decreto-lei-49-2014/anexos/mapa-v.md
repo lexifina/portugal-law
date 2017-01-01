@@ -1,6 +1,6 @@
 # MAPA V
 
-### Quadro de magistrados do Ministério Público
+Quadro de magistrados do Ministério Público
 
 Supremo Tribunal de Justiça
 
@@ -34,9 +34,9 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 8 a 9.
+Procuradores da República: de 6 a 7.
 
-Procuradores-adjuntos: de 27 a 28.
+Procuradores-adjuntos: de 24 a 25.
 
 Angra do Heroísmo
 
@@ -46,17 +46,15 @@ Procurador-adjunto: 3.
 
 Horta
 
-Procurador-adjunto: 2.
+Procurador-adjunto: 1.
 
 Ponta Delgada
 
-Procurador da República: 6.
+Procurador da República: 5.
 
-Procurador-adjunto: 10.
+Procurador-adjunto: 8.
 
 Praia da Vitória
-
-Procurador da República: 1.
 
 Procurador-adjunto: 2.
 
@@ -248,7 +246,7 @@ Procurador-adjunto: 5.
 
 Braga
 
-Procurador da República: 11.
+Procurador da República: 10.
 
 Procurador-adjunto: 12.
 
@@ -272,7 +270,7 @@ Procurador-adjunto: 4.
 
 Guimarães
 
-Procurador da República: 12.
+Procurador da República: 13.
 
 Procurador-adjunto: 10.
 
@@ -382,7 +380,7 @@ Quadro de magistrados do Ministério Público:
 
 Procuradores da República: de 20 a 21.
 
-Procuradores-adjuntos: de 31 a 33.
+Procuradores-adjuntos: de 30 a 32.
 
 Arganil
 
@@ -394,7 +392,7 @@ Procurador-adjunto: 2.
 
 Coimbra
 
-Procurador da República: 16.
+Procurador da República: 17.
 
 Procurador-adjunto: 14.
 
@@ -420,17 +418,11 @@ Oliveira do Hospital
 
 Procurador-adjunto: 1.
 
-Penacova
-
-Procurador-adjunto: 1.
-
-Soure
-
-Procurador da República: 1.
-
-Procurador-adjunto: 1.
-
 Tábua
+
+Procurador-adjunto: 1.
+
+Penacova
 
 Procurador-adjunto: 1.
 
@@ -478,7 +470,7 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 26 a 27.
+Procuradores da República: de 24 a 25.
 
 Procuradores-adjuntos: de 49 a 51.
 
@@ -491,10 +483,6 @@ Faro
 Procurador da República: 12.
 
 Procurador-adjunto: 10.
-
-Lagoa
-
-Procurador da República: 1.
 
 Lagos
 
@@ -514,7 +502,7 @@ Procurador-adjunto: 3.
 
 Portimão
 
-Procurador da República: 10.
+Procurador da República: 9.
 
 Procurador-adjunto: 10.
 
@@ -586,7 +574,7 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 21 a 22.
+Procuradores da República: de 19 a 20.
 
 Procuradores-adjuntos: de 32 a 34.
 
@@ -596,13 +584,9 @@ Procurador da República: 3.
 
 Procurador-adjunto: 4.
 
-Ansião
-
-Procurador da República: 1.
-
 Caldas da Rainha
 
-Procurador da República: 3.
+Procurador da República: 2.
 
 Procurador-adjunto: 6.
 
@@ -612,7 +596,7 @@ Procurador-adjunto: 1.
 
 Leiria
 
-Procurador da República: 13.
+Procurador da República: 12.
 
 Procurador-adjunto: 9.
 
@@ -630,7 +614,7 @@ Procurador-adjunto: 2.
 
 Pombal
 
-Procurador da República: 1.
+Procurador da República: 2.
 
 Procurador-adjunto: 3.
 
@@ -644,27 +628,25 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 82 a 86.
+Procuradores da República: de 74 a 78.
 
 Procuradores-adjuntos: de 120 a 125.
 
 Almada
 
-Procurador da República: 11. (a)
+Procurador da República: 8.
 
 Procurador-adjunto: 12.
 
-(a) Dois lugares a preencher à data da entrada em funcionamento do Juízo do Trabalho de Almada.
-
 Barreiro e Moita
 
-Procurador da República: 10.
+Procurador da República: 8.
 
 Procurador-adjunto: 10.
 
 Lisboa
 
-Procurador da República: 58.
+Procurador da República: 56
 
 Procurador-adjunto: 82.
 
@@ -674,7 +656,7 @@ Procurador-adjunto: 5.
 
 Seixal
 
-Procurador da República: 3.
+Procurador da República: 2.
 
 Procurador-adjunto: 11.
 
@@ -720,13 +702,13 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 43 a 44.
+Procuradores da República: de 41 a 42.
 
-Procuradores-adjuntos: de 71 a 75.
+Procuradores-adjuntos: de 70 a 74.
 
 Amadora
 
-Procurador da República: 5.
+Procurador da República: 4.
 
 Procurador-adjunto: 13.
 
@@ -734,7 +716,7 @@ Cascais
 
 Procurador da República: 13.
 
-Procurador-adjunto: 15.
+Procurador-adjunto: 14.
 
 Mafra
 
@@ -750,7 +732,7 @@ Procurador-adjunto: 11.
 
 Sintra
 
-Procurador da República: 22.
+Procurador da República: 21.
 
 Procurador-adjunto: 28.
 
@@ -760,13 +742,13 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 9 a 10.
+Procuradores da República: de 8 a 9.
 
 Procuradores-adjuntos: de 17 a 19.
 
 Funchal
 
-Procurador da República: 9.
+Procurador da República: 8.
 
 Procurador-adjunto: 11.
 
@@ -820,61 +802,55 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 74 a 77.
+Procuradores da República: de 67 a 70.
 
 Procuradores-adjuntos: de 119 a 122.
 
 Gondomar
 
-Procurador da República: 5.
+Procurador da República: 4.
 
 Procurador-adjunto: 9.
 
 Maia
 
-Procurador da República: 5.
+Procurador da República: 3.
 
-Procurador-adjunto: 9.
+Procurador-adjunto: 10.
 
 Matosinhos
 
-Procurador da República: 8.
+Procurador da República: 10.
 
-Procurador-adjunto: 16.
+Procurador-adjunto: 15.
 
 Porto
 
-Procurador da República: 25.
+Procurador da República: 24.
 
 Procurador-adjunto: 43.
 
-Póvoa de Varzim
+Póvoa de Varzim e Vila do Conde
 
-Procurador da República: 3.
+Procurador da República: 8.
 
-Procurador-adjunto: 5.
+Procurador-adjunto: 10.
 
 Santo Tirso
 
-Procurador da República: 5.
+Procurador da República: 4.
 
 Procurador-adjunto: 6.
 
 Valongo
 
-Procurador da República: 3.
+Procurador da República: 2.
 
 Procurador-adjunto: 6.
 
-Vila do Conde
-
-Procurador da República: 5.
-
-Procurador-adjunto: 5.
-
 Vila Nova de Gaia
 
-Procurador da República: 15.
+Procurador da República: 12.
 
 Procurador-adjunto: 20.
 
@@ -884,7 +860,7 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 17 a 18.
+Procuradores da República: de 15 a 16.
 
 Procuradores-adjuntos: de 26 a 28.
 
@@ -920,13 +896,13 @@ Procurador-adjunto: 3.
 
 Paredes
 
-Procurador da República: 4.
+Procurador da República: 3.
 
 Procurador-adjunto: 6.
 
 Penafiel
 
-Procurador da República: 9.
+Procurador da República: 8.
 
 Procurador-adjunto: 5.
 
@@ -936,9 +912,9 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 22 a 24.
+Procuradores da República: de 19 a 21.
 
-Procuradores-adjuntos: de 34 a 36.
+Procuradores-adjuntos: de 31 a 33.
 
 Abrantes
 
@@ -970,7 +946,7 @@ Procurador-adjunto: 3.
 
 Ourém
 
-Procurador-adjunto: 2.
+Procurador-adjunto: 3.
 
 Rio Maior
 
@@ -978,15 +954,15 @@ Procurador-adjunto: 2.
 
 Santarém
 
-Procurador da República: 15.
+Procurador da República: 12.
 
-Procurador-adjunto: 7.
+Procurador-adjunto: 4.
 
 Tomar
 
 Procurador da República: 5.
 
-Procurador-adjunto: 4.
+Procurador-adjunto: 3.
 
 Torres Novas
 
@@ -1008,7 +984,7 @@ Procurador-adjunto: 2.
 
 Santiago do Cacém
 
-Procurador da República: 1.
+Procurador da República: 2.
 
 Procurador-adjunto: 3.
 
@@ -1022,23 +998,19 @@ Procurador da República: 11.
 
 Procurador-adjunto: 14.
 
-Sines
-
-Procurador da República: 1.
-
 Comarca de Viana do Castelo
 
 Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 7 a 8.
+Procuradores da República: de 6 a 7.
 
 Procuradores-adjuntos: de 17 a 18.
 
-Arcos de Valdevez
+Arcos de Valdevez e Ponte da Barca
 
-Procurador-adjunto: 1.
+Procurador-adjunto: 2.
 
 Caminha
 
@@ -1052,25 +1024,17 @@ Monção
 
 Procurador-adjunto: 1.
 
-Paredes de Coura
-
-Procurador-adjunto: 1.
-
-Ponte da Barca
-
-Procurador-adjunto: 1.
-
 Ponte de Lima
 
 Procurador-adjunto: 3.
 
 Valença
 
-Procurador-adjunto: 1.
+Procurador-adjunto: 2.
 
 Viana do Castelo
 
-Procurador da República: 7.
+Procurador da República: 6.
 
 Procurador-adjunto: 6.
 
@@ -1084,7 +1048,7 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 7 a 8.
+Procuradores da República: de 6 a 7.
 
 Procuradores-adjuntos: de 13 a 15.
 
@@ -1116,7 +1080,7 @@ Procurador-adjunto: 1.
 
 Vila Real
 
-Procurador da República: 6.
+Procurador da República: 5.
 
 Procurador-adjunto: 4.
 
@@ -1126,9 +1090,9 @@ Ministério Público
 
 Quadro de magistrados do Ministério Público:
 
-Procuradores da República: de 14 a 15.
+Procuradores da República: de 10 a 11.
 
-Procuradores-adjuntos: de 26 a 28.
+Procuradores-adjuntos: de 24 a 26.
 
 Castro Daire
 
@@ -1142,7 +1106,7 @@ Lamego
 
 Procurador da República: 2.
 
-Procurador-adjunto: 4.
+Procurador-adjunto: 3.
 
 Mangualde
 
@@ -1178,6 +1142,6 @@ Procurador-adjunto: 2.
 
 Viseu
 
-Procurador da República: 12.
+Procurador da República: 8.
 
-Procurador-adjunto: 9.
+Procurador-adjunto: 8.
