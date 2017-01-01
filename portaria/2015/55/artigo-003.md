@@ -26,7 +26,7 @@ j) «Livro genealógico», o registo que tem por fim assegurar a identidade e pr
 
 k) «Machos reprodutores», os machos que estejam inscritos no livro de adultos como reprodutores da raça;
 
-l) «Período de retenção», o período durante o qual os animais têm de ser mantidos na exploração agrícola, compreendido entre, 1 de fevereiro e 31 de julho, para os bovinos, 1 de fevereiro e 31 de maio, para os ovinos e caprinos, e 1 de janeiro e 31 de dezembro, para o restante efetivo;
+l) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos e 1 de janeiro e 31 de dezembro, para o restante efetivo;
 
 m) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;
 
