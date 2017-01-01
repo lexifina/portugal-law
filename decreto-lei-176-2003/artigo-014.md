@@ -16,13 +16,15 @@
 
 3.º escalão - rendimentos superiores a 1 e iguais ou inferiores a 1,5;
 
-4.º escalão - rendimentos superiores a 1,5.
+4.º escalão - rendimentos superiores a 1,5 e iguais ou inferiores a 2,5;
+
+5.º escalão - rendimentos superiores a 2,5;
 
 3 - O valor anual dos rendimentos a considerar para efeitos do número anterior corresponde a 14 vezes o valor do IAS.
 
 4 - O montante do abono de família para crianças e jovens inseridos em agregados familiares monoparentais é majorado em 35 %.
 
-5 - Nos primeiros 12 meses de vida, o montante do abono de família para crianças e jovens é majorado nos termos a fixar em portaria.
+5 - Nos primeiros 36 meses de vida, o montante do abono de família para crianças e jovens é majorado nos termos a fixar em portaria.
 
 6 - A majoração prevista no n.º 4 incide sobre o valor dos respectivos subsídios e das respectivas majorações e bonificações previstas na lei.
 
