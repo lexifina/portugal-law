@@ -21,3 +21,5 @@ e) Beneficiários da pensão social de invalidez.
 4 - Estão isentos da contribuição os consumidores cujo consumo anual fique abaixo de 400 KWh.
 
 5 - Os valores da contribuição devem ser atualizados à taxa anual de inflação, através da Lei do Orçamento do Estado.
+
+6 - A contribuição para o audiovisual, nos termos previstos nos números anteriores, não incide sobre a eletricidade fornecida para o exercício das atividades incluídas nos grupos 011 a 015 da divisão 01 da secção A da Classificação Portuguesa das Atividades Económicas - Revisão 3 (CAE-Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, quando o contador permitir a individualização, de forma inequívoca, da energia consumida nas referidas atividades.
