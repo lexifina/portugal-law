@@ -2,7 +2,7 @@
 
 ### Dizeres das embalagens
 
-1 - Sem prejuízo de outras obrigações impostas por lei especial, o tabaco destinado ao consumo no continente e nas regiões autónomas deve conter impresso, em local bem visível das respetivas embalagens:
+1 - Sem prejuízo de outras obrigações impostas por lei especial, os produtos de tabaco destinado ao consumo no continente e nas regiões autónomas devem conter impresso, em local bem visível das respetivas embalagens individuais:
 
 a) O nome da empresa fabricante;
 
@@ -12,7 +12,7 @@ c) O preço de venda ao público no território de consumo;
 
 d) O número de unidades, ou o peso líquido no caso dos tabacos de fumar, do tabaco para cachimbo de água, do rapé, do tabaco de mascar e do tabaco aquecido, ou o volume de líquido no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
 
-e) Os teores de condensado e nicotina no caso dos maços de cigarros e os teores de nicotina no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
+e) O teor de nicotina, no caso dos recipientes utilizados para carga e recarga de cigarros eletrónicos;
 
 f) A designação do tipo de produto;
 

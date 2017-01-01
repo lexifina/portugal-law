@@ -17,3 +17,5 @@ b) Após a recepção dos produtos, apresentar nessa estância aduaneira cópia 
 c) Manter um registo dos produtos recepcionados.
 
 5 - No caso de incumprimento das obrigações previstas no número anterior, é responsável pelo pagamento do imposto o adquirente dos produtos.
+
+6 - Tratando-se de bebidas não alcoólicas, é responsável pelo cumprimento das obrigações constantes do presente artigo o adquirente dos produtos.

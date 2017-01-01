@@ -30,6 +30,8 @@ c) Na situação referida na alínea f) do número anterior, ao momento da cessa
 
 d) Na situação referida no n.º 4 do artigo 35.º, ao momento da entrega do relatório de receção desses produtos pelo depositário autorizado ou pelo destinatário registado.
 
+e) No caso das bebidas não alcoólicas, que circulem em regime de suspensão do imposto, ao momento da receção desses produtos pelo destinatário registado.
+
 3 - No caso de não ser possível determinar, com exactidão, o momento em que ocorreu a introdução no consumo, o momento a considerar para efeitos de exigibilidade do imposto é o da constatação dessa introdução pela autoridade aduaneira.
 
 4 - Não é considerada introdução no consumo a inutilização total ou a perda irreparável dos produtos em regime de suspensão do imposto, por causa inerente à natureza dos produtos, dentro dos limites fixados no presente Código, devido a caso fortuito ou de força maior ou na sequência de autorização da estância aduaneira competente.

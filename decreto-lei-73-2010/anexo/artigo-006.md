@@ -39,3 +39,9 @@ b) 1 l de bebidas espirituosas, 1 l de produtos intermédios ou 2 l de cerveja, 
 6 - A violação das condições fixadas nos n.os 3 e 4 determina a liquidação do imposto à entidade requisitante, sem prejuízo das sanções previstas na lei.
 
 7 - As pequenas remessas sem valor comercial e as mercadorias contidas na bagagem pessoal dos viajantes, procedentes de um Estado que não seja membro da União Europeia, estão isentas na importação nos termos previstos em legislação especial.
+
+8 - Sem prejuízo do disposto no número anterior, estão isentos na importação, os seguintes produtos contidos na bagagem pessoal dos viajantes provenientes de países ou territórios terceiros:
+
+a) O rapé, o tabaco de mascar, o tabaco aquecido e os líquidos, contendo nicotina em recipientes utilizados para carga e recarga de cigarros eletrónicos, nas quantidades previstas nas alíneas e) a h) do n.º 3 do artigo 61.º;
+
+b) As bebidas não alcoólicas, na quantidade prevista na alínea e) do n.º 4 do artigo 61.º

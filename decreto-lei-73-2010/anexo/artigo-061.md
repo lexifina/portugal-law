@@ -34,7 +34,7 @@ g) Tabaco aquecido, 20 g;
 
 h) Líquidos contendo nicotina, em recipientes utilizados para carga e recarga de cigarros eletrónicos, 30 ml.
 
-4 - Para efeitos de aplicação da alínea e) do n.º 2, presume-se que a detenção de bebidas alcoólicas tem fins comerciais quando forem ultrapassados os seguintes limites quantitativos:
+4 - Para efeitos de aplicação da alínea e) do n.º 2, presume-se que a detenção de bebidas alcoólicas e de bebidas não alcoólicas tem fins comerciais quando forem ultrapassados os seguintes limites quantitativos:
 
 a) Bebidas espirituosas, 10 l;
 
@@ -43,6 +43,8 @@ b) Produtos intermédios, 20 l;
 c) Vinhos (dos quais 60 l, no máximo, de vinhos espumantes), 90 l;
 
 d) Cervejas, 110 l.
+
+e) Bebidas não alcoólicas, 20 l.
 
 5 - Presume-se que a detenção de produtos petrolíferos não se destina ao uso pessoal do seu detentor quando forem transportados por formas de transporte atípicas, efectuadas por particulares ou por sua conta.
 

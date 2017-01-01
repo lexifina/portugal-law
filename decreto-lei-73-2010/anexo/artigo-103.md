@@ -10,9 +10,9 @@
 
 4 - As taxas dos elementos específico e ad valorem são as seguintes:
 
-a) Elemento específico - (euro) 90,85;
+a) Elemento específico - (euro) 93,58;
 
-b) Elemento ad valorem - 17 %.
+b) Elemento ad valorem - 16 %.
 
 5 - Os cigarros ficam sujeitos a um montante mínimo de imposto sobre o tabaco que corresponde ao imposto mínimo total de referência deduzido do montante do imposto de valor acrescentado correspondente ao preço de venda ao público desses cigarros.
 

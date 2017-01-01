@@ -2,11 +2,11 @@
 
 ### Pequenas destilarias
 
-1 - Sem prejuízo do cumprimento dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, o estatuto de pequena destilaria pode ser concedido pelo director da alfândega a empresas, inscritas como destilarias no organismo competente do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, que detenham um único entreposto fiscal de produção de bebidas espirituosas e que, simultaneamente:
+1 - Sem prejuízo do cumprimento dos requisitos relativos à constituição e funcionamento dos entrepostos fiscais de produção, o estatuto de pequena destilaria pode ser concedido pelo diretor da alfândega a empresas, que detenham uma única destilaria, e que, simultaneamente:
 
 a) Produzam por ano até ao máximo de 10 hl de álcool puro incorporado em bebidas espirituosas destiladas;
 
-b) Sejam jurídica, económica e contabilisticamente independentes de outras empresas ou destilarias;
+b) Sejam jurídica, económica e contabilisticamente independentes de outras destilarias;
 
 c) Não operem sob licença ou por conta de outrem.
 

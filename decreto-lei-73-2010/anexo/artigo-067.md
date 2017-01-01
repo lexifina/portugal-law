@@ -20,11 +20,11 @@ g) No fabrico de produtos constituintes não sujeitos ao imposto;
 
 h) No fabrico de produtos agro-alimentares desde que se trate de vinhos modificados.
 
-2 - Beneficia ainda da isenção do imposto a aguardente produzida em pequenas destilarias, aprovadas como entreposto fiscal, até ao limite de 30 l de produto acabado, por ano e por produtor, destinada ao seu consumo, e desde que não seja objecto de venda.
+2 - (Revogado).
 
 3 - Está ainda isento do imposto o álcool:
 
-a) Utilizado em fins industriais, nos termos do artigo 69.º;
+a) Utilizado em fins industriais, nos termos do artigo 68.º;
 
 b) Distribuído sob a forma de álcool totalmente desnaturado nos termos fixados pelo Regulamento de Execução (UE) n.º 162/2013, da Comissão, de 21 de fevereiro;
 

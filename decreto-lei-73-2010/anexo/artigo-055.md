@@ -28,4 +28,6 @@ b) A outro Estado membro, com o acordo desse Estado.
 
 11 - A responsabilidade do garante cessa quando for emitido o respectivo relatório de recepção ou, tratando-se de uma exportação, o relatório de exportação ou a certificação de saída.
 
-12 - Sem prejuízo do regime aplicável aos pequenos produtores de vinho, o montante mínimo de fixação da garantia prevista no n.º 5 é reduzido para metade para os expedidores de produtos tributados à taxa 0 e para expedidores de produtos intermédios.
+12 - Tratando-se de bebidas não alcoólicas, a responsabilidade do garante cessa com a receção desses produtos pelo destinatário.
+
+13 - Sem prejuízo do regime aplicável aos pequenos produtores de vinho, o montante mínimo de fixação da garantia prevista no n.º 5 é reduzido para metade para os expedidores de produtos tributados à taxa 0 e para expedidores de produtos intermédios.

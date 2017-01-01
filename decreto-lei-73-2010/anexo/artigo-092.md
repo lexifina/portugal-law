@@ -8,9 +8,9 @@
 
 2 - O gasóleo misturado por razões técnicas ou operacionais com o fuelóleo é tributado com a taxa aplicável ao fuelóleo que for utilizado na mistura, desde que a operação seja aprovada pela autoridade aduaneira e realizada sob controlo aduaneiro.
 
-3 - A taxa aplicável ao metano e aos gases de petróleo usados como carburante é de (euro) 127,88/1000 kg e, quando usados como combustível, é fixada entre (euro) 7,81 e (euro) 9,00/1000 kg, sendo igualmente aplicável ao acetileno usado como combustível.
+3 - A taxa aplicável ao metano e aos gases de petróleo usados como carburante é de (euro) 131,72/ 1000 kg e, quando usados como combustível é fixada entre (euro) 7,81 e (euro) 9,00/1000 kg, sendo igualmente aplicável ao acetileno usado como combustível.
 
-4 - A taxa aplicável ao gás natural usado como carburante é de (euro) 2,84/gJ.
+4 - A taxa aplicável ao gás natural usado como carburante é de (euro) 2,87/GJ e quando usado como combustível é de (euro) 0,303/GJ.
 
 5 - A taxa aplicável aos produtos petrolíferos e energéticos obtidos a partir de óleos usados ou de resíduos e que sejam utilizados como carburante ou como combustível são tributados de acordo com o nível de tributação aplicável a esses produtos.
 

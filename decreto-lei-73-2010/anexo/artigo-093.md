@@ -12,7 +12,7 @@ a) Motores estacionários utilizados na rega;
 
 b) Embarcações referidas nas alíneas c) e h) do n.º 1 do artigo 89.º;
 
-c) Tratores agrícolas, ceifeiras-debulhadoras, motocultivadores, motoenxadas, motoceifeiras, colhedores de batata automotrizes, colhedores de ervilha, colhedores de forragem para silagem, colhedores de tomate, gadanheiras-condicionadoras, máquinas de vindimar, vibradores de tronco para colheita de azeitona e outros frutos, bem como outros equipamentos, incluindo os utilizados para a atividade aquícola, aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do mar;
+c) Tratores agrícolas, ceifeiras debulhadoras, motocultivadores, motoenxadas, motoceifeiras, colhedores de batata automotrizes, colhedores de ervilha, colhedores de forragem para silagem, colhedores de tomate, gadanheiras-condicionadoras, máquinas de vindimar, vibradores de tronco para colheita de azeitona e outros frutos, bem como outros equipamentos, incluindo os utilizados para a atividade aquícola e na pesca com a arte-xávega, aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da agricultura e do mar;
 
 d) Veículos de transporte de passageiros e de mercadorias por caminhos de ferro;
 

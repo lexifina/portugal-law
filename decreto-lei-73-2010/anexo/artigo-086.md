@@ -14,7 +14,7 @@
 
 6 - Para aplicação do disposto no número anterior, a taxa das bebidas espirituosas prevista no n.º 2 do artigo 76.º deve ser aplicada em função do produto a que as estampilhas em falta se destinavam e do teor alcoólico desse produto, habitualmente comercializado pelo operador.
 
-7 - Sempre que não seja possível determinar o produto a que se destinavam as estampilhas referidas nos números anteriores, o imposto é calculado em função do produto com maior teor alcoólico comercializado pelo operador.
+7 - Sempre que não seja possível determinar o produto a que se destinavam as estampilhas referidas nos números anteriores, o imposto é calculado em função do produto comercializado pelo operador de que resulte o maior montante de imposto, na data em que o mesmo se torna exigível.
 
 8 - É proibida a detenção de bebidas espirituosas acondicionadas para comercialização e venda ao público que não ostentem a estampilha especial a que se refere o presente artigo.
 

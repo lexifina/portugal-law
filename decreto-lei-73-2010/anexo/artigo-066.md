@@ -4,7 +4,11 @@
 
 ## Capítulo I
 
-## Imposto sobre o álcool e as bebidas alcoólicas
+## Imposto sobre o álcool, as bebidas alcoólicas e as bebidas adicionadas de açúcar ou outros edulcorantes
+
+## Secção I
+
+## Álcool e bebidas alcoólicas
 
 # Artigo 66.º
 

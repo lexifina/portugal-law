@@ -12,6 +12,6 @@ a) As bebidas destinadas ao consumo humano, adicionadas de açúcar ou de outros
 
 b) As bebidas abrangidas pelos códigos NC 2204, 2205, 2206 e 2208, com um teor alcoólico superior a 0,5 % vol. e inferior ou igual a 1,2 % vol.;
 
-c) Concentrados, sob a forma de xarope ou outra forma líquida, de pó, grânulos ou outras formas sólidas, destinados à preparação de bebidas previstas nas alíneas anteriores, nas instalações do consumidor final ou de retalhista.
+c) Concentrados, sob a forma de xarope ou pó, destinados à preparação, de bebidas previstas nas alíneas anteriores, nas instalações do consumidor final ou de retalhista.
 
 2 - Os produtos adquiridos noutro Estado membro estão sujeitos a imposto no território nacional, exceto se for considerada uma aquisição para uso pessoal, quando transportados pelo próprio para o território nacional, de acordo com os critérios previstos no n.º 2 do artigo 61.º
