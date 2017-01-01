@@ -30,4 +30,4 @@ d) Quando seja ocupado posto de trabalho previsto previamente no mapa de pessoal
 
 10 - Para além dos requisitos do n.º 3, a consolidação da cedência de interesse público, carece de despacho de concordância do membro do Governo competente na respetiva área, bem como de parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
 
-11 - Pode ainda ocorrer a consolidação da mobilidade intercarreiras do mesmo grau de complexidade funcional, verificados os requisitos previstos no n.º 3 e nos termos e condições previstos em portaria do membro do Governo responsável pela área da Administração Pública e do membro do Governo competente no âmbito dos órgãos e serviços em cujos mapas de pessoal se encontre prevista a carreira de origem.
+11 -(Revogado).
