@@ -15,3 +15,5 @@
 6 - As subvenções anteriormente referidas são pagas em duodécimos, por conta de dotações especiais para esse efeito inscritas no Orçamento da Assembleia da República.
 
 7 - A subvenção prevista nos números anteriores é também concedida aos partidos que, tendo concorrido à eleição para a Assembleia da República e não tendo conseguido representação parlamentar, obtenham um número de votos superior a 50000, desde que a requeiram ao Presidente da Assembleia da República.
+
+8 - A cada partido que haja concorrido a ato eleitoral, ainda que em coligação, e que obtenha representação na Assembleia Legislativa da região autónoma é concedida uma subvenção anual, desde que a requeira ao Presidente dessa Assembleia Legislativa, que consiste numa quantia em dinheiro fixada no diploma que estabelece a orgânica dos serviços da respetiva Assembleia Legislativa, adequada às suas necessidades de organização e de funcionamento, sendo paga em duodécimos, por conta de dotações especiais para esse efeito inscritas no Orçamento da respetiva Assembleia Legislativa, aplicando-se, em caso de coligação, o n.º 3.
