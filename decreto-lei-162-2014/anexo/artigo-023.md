@@ -8,9 +8,9 @@ a) Dedução à coleta do IRC apurada nos termos da alínea a) do n.º 1 do arti
 
 1) No caso de investimentos realizados em regiões elegíveis nos termos da alínea a) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia constantes da tabela prevista no n.º 1 do artigo 43.º:
 
-i) 25 % das aplicações relevantes, relativamente ao investimento realizado até ao montante de (euro) 5 000 000,00;
+i) 25 % das aplicações relevantes, relativamente ao investimento realizado até ao montante de (euro) 10 000 000;
 
-ii) 10 % das aplicações relevantes, relativamente à parte do investimento realizado que exceda o montante de (euro) 5 000 000,00;
+ii) 10 % das aplicações relevantes, relativamente à parte do investimento realizado que exceda o montante de (euro) 10 000 000;
 
 2) No caso de investimentos em regiões elegíveis nos termos da alínea c) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia constantes da tabela prevista no n.º 1 do artigo 43.º, 10 % das aplicações relevantes;
 

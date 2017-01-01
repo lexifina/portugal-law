@@ -31,3 +31,9 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 4 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 40.º
 
 5 - As despesas referidas na alínea b) do n.º 1, quando digam respeito a pessoal com habilitações literárias mínimas do nível 8 do Quadro Nacional de Qualificações, são consideradas em 120 % do seu quantitativo.
+
+6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 110 %.
+
+7 - Para efeitos da majoração prevista no número anterior, as entidades interessadas devem submeter previamente o projeto de conceção ecológica do produto à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), para efeitos de demonstração do benefício ambiental associado, devendo o pedido ser instruído com declaração ambiental de produto, patente ou rótulo ecológico, se existirem.
+
+8 - No caso em que o projeto seja validado pela APA, I. P., mediante declaração de benefício ambiental, este é submetido à auditoria tecnológica determinada pela comissão certificadora referida no n.º 1 do artigo 40.º
