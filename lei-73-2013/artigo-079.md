@@ -16,6 +16,8 @@ e) Os regulamentos de taxas municipais;
 
 f) O montante total das dívidas desagregado por rubricas e individualizando os empréstimos bancários.
 
+g) As deliberações previstas no n.º 2 do artigo 16.º, a respetiva fundamentação e os dados da respetiva despesa fiscal, desagregados por tipo de isenção concedida.
+
 2 - As autarquias locais, as entidades intermunicipais, as entidades associativas municipais e as entidades do setor empresarial local disponibilizam no respetivo sítio eletrónico os documentos previsionais e de prestação de contas referidos na presente lei, nomeadamente:
 
 a) A proposta de orçamento apresentada pelo órgão executivo ao órgão deliberativo;

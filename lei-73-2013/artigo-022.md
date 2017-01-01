@@ -27,3 +27,5 @@ d) Reconversão de áreas urbanas de génese ilegal ou programas de reabilitaç�
 8 - O regime de cooperação técnica e financeira, bem como o regime de concessão de auxílios financeiros às autarquias locais são regulados por diploma próprio.
 
 9 - O disposto no presente artigo aplica-se às empresas do setor empresarial do Estado.
+
+10 - A concessão de auxílios financeiros às autarquias locais das regiões autónomas em situação de calamidade pública é efetuada, com as devidas adaptações, no âmbito do Fundo de Emergência Municipal, previsto no Decreto-Lei n.º 225/2009, de 14 de setembro.
