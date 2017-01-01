@@ -12,7 +12,7 @@ a) Situações tributárias de especial complexidade resultante, nomeadamente, d
 
 b) Quando, na acção de inspecção, se apure ocultação dolosa de factos ou rendimentos;
 
-c) Nos casos em que a administração tributária tenha necessidade de recorrer aos instrumentos de assistência mútua e cooperação administrativa internacional;
+c) (Revogada);
 
 d) Outros motivos de natureza excecional, mediante autorização fundamentada do diretor-geral da Autoridade Tributária e Aduaneira.
 
@@ -25,6 +25,8 @@ a) Em processo especial de derrogação do segredo bancário, o familiar do cont
 b) Em caso de oposição às diligências de inspeção pelo sujeito passivo com fundamento em segredo profissional ou qualquer outro dever de sigilo legalmente regulado, seja solicitada autorização judicial ao tribunal da comarca competente, mantendo-se a suspensão até ao trânsito em julgado da decisão;
 
 c) Seja instaurado processo de inquérito criminal sem que seja feita a liquidação dos impostos em dívida, mantendo-se a suspensão até ao arquivamento ou trânsito em julgado da sentença.
+
+d) A administração tributária tenha necessidade de recorrer aos instrumentos de assistência mútua e cooperação administrativa internacional, mantendo-se a suspensão pelo prazo de 12 meses.
 
 6 - Caso se verifique alguma das situações referidas no número anterior, deve o sujeito passivo ser notificado do início da data de suspensão.
 
