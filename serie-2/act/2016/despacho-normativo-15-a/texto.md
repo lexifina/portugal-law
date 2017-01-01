@@ -1,0 +1,10 @@
+Despacho normativo n.º 15-A/2016
+O despacho normativo n.º 14/2014, de 29 de outubro, alterado pelos despachos normativos n.os 4/2015, de 27 de janeiro, 1-A/2016, de 11 de fevereiro, 5/2016, de 13 de julho, e 11-B/2016, de 28 de outubro, estabeleceu as normas complementares de execução dos regimes de apoio associado «animais».
+No âmbito dos referidos regimes, apurou-se, durante do ano de 2016, um aumento anormal de candidaturas aos prémios por vaca leiteira cujos efetivos registaram partos de nados-mortos, havendo justo receio que esta situação possa consubstanciar uma irregularidade que cause prejuízos de difícil reparação. Neste contexto, importa, desde já, adotar medidas que assegurem uma proteção eficaz dos interesses financeiros da União.
+Por outro lado, a fim de dissipar dúvidas na aplicação dos referidos regimes, aproveita-se ainda para clarificar que apenas podem beneficiar dos prémios por vaca leiteira, os candidatos que efetuem entregas de leite ou produtos lácteos no período compreendido entre abril e junho.
+Assim, ao abrigo e nos termos do disposto no artigo 58.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e do artigo 52.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, determino o seguinte:
+1 - Para efeitos da aplicação do disposto na alínea a) do n.º 2 do artigo 10.º do despacho normativo n.º 14/2014, de 29 de outubro, alterado pelos despachos normativos n.os 4/2015, de 27 de janeiro, 1-A/2016, de 11 de fevereiro, 5/2016, de 13 de julho, e 11-B/2016, de 28 de outubro, não são contabilizados os efetivos de vacas leiteiras que tenham parido nados-mortos.
+2 - Apenas podem beneficiar do prémio por vaca leiteira, previstos no despacho normativo n.º 14/2014, de 29 de outubro, na sua redação atual, os candidatos que efetuem entregas de leite ou produtos lácteos no período compreendido entre abril e junho.
+3 - O presente despacho normativo entra em vigor a 1 de janeiro de 2017.
+28 de dezembro de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+210130656
