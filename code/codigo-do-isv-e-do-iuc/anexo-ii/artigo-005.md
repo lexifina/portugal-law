@@ -12,7 +12,7 @@ c) Automóveis e motociclos que, tendo mais de 20 anos e constituindo peças de 
 
 d) Veículos não motorizados, exclusivamente eléctricos ou movidos a energias renováveis não combustíveis, veículos especiais de mercadorias sem capacidade de transporte, ambulâncias, veículos funerários e tractores agrícolas;
 
-e) Automóveis ligeiros de passageiros que se destinem ao serviço de aluguer com condutor (letra «T»), bem como ao transporte em táxi.
+e) Veículos da categoria B que possuam um nível de emissão de CO2 até 180g/km e veículos da categoria A, que se destinem ao serviço de aluguer com condutor (letra «T») ou ao transporte em táxi;
 
 f) Veículos apreendidos no âmbito de um processo-crime, enquanto durar a apreensão;
 

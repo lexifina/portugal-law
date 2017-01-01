@@ -20,4 +20,10 @@ c) Os veículos objecto de redução do imposto não podem ser alugados ou cedid
 
 d) Os alugueres devem ser titulados por contrato, devendo os veículos circular acompanhados de documento emitido pela locadora, que identifique o locatário, a residência e o período de tempo de aluguer do veículo.
 
-6 - O estatuto de entidade beneficiária exige a inscrição prévia na Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, instruído com cópia do alvará para o exercício da actividade e prova da qualidade da forma societária do sujeito passivo, sendo as reduções do imposto para os veículos requeridas através de formulário próprio, anterior ou concomitante à apresentação da declaração aduaneira de veículos (DAV).
+6 - Os automóveis ligeiros de passageiros, que se destinem ao exercício de atividades de aluguer sem condutor, quando adaptados ao acesso e transporte de pessoas com deficiência beneficiam, na introdução no consumo, da isenção prevista no artigo 54.º, desde que:
+
+a) Cumpram o disposto nas alíneas b), c) e d) do número anterior;
+
+b) Os veículos com estas características não representem mais de 10 % da frota da entidade beneficiária.
+
+7 - O estatuto de entidade beneficiária exige a inscrição prévia na Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, instruído com cópia do alvará para o exercício da actividade e prova da qualidade da forma societária do sujeito passivo, sendo as reduções do imposto para os veículos requeridas através de formulário próprio, anterior ou concomitante à apresentação da declaração aduaneira de veículos (DAV).
