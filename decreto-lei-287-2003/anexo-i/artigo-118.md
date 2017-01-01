@@ -9,3 +9,5 @@
 a) Para os prédios destinados a habitação própria e permanente, ao abrigo do artigo 46.º do Estatuto dos Benefícios Fiscais, desde que o requerimento seja apresentado dentro do prazo e o valor patrimonial seja inferior ao limite estabelecido nesse artigo, aplicando-se, para efeitos do pagamento do imposto que venha a ser devido, os prazos previstos nos n.os 2 a 5 do artigo 120.º, sem quaisquer encargos se o indeferimento do pedido for por motivo não imputável ao sujeito passivo; ou
 
 b) Para efeitos do disposto no n.º 9 do artigo 11.º-A, desde que a prova das condições exigidas para beneficiar da isenção seja apresentada dentro do prazo.
+
+3 - Nas situações de aquisição onerosa de prédios destinados a habitação própria e permanente do sujeito passivo ou do seu agregado familiar, a liquidação fica suspensa até ao limite do prazo para afetação constante do n.º 1 do artigo 46.º do Estatuto dos Benefícios Fiscais, quando o valor patrimonial tributário for inferior ao limite estabelecido nesse artigo.

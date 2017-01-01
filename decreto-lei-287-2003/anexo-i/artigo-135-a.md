@@ -16,4 +16,4 @@
 
 3 - A qualidade de sujeito passivo é determinada em conformidade com os critérios estabelecidos no artigo 8.º do presente Código, com as necessárias adaptações, tendo por referência a data de 1 de janeiro do ano a que o adicional ao imposto municipal sobre imóveis respeita.
 
-4 - Não são sujeitos passivos do adicional ao imposto municipal o Estado, as Regiões Autónomas, as autarquias locais e as suas associações e federações de municípios de direito público, bem como qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, incluindo os institutos públicos.
+4 - Não são sujeitos passivos do adicional ao imposto municipal sobre imóveis as empresas municipais.

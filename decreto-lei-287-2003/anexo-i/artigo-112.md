@@ -44,7 +44,7 @@ c) Não terem sido neles praticadas as operações silvícolas mínimas necessá
 
 13 - (Revogado.)
 
-14 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+14 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Autoridade Tributária e Aduaneira, por transmissão eletrónica de dados, para vigorarem no ano seguinte, aplicando-se a taxa mínima referida na alínea c) do n.º 1, caso as comunicações não sejam recebidas até 31 de dezembro.
 
 15 - Para efeitos da aplicação da taxa do IMI prevista no n.º 3, a identificação dos prédios ou fracções autónomas em ruínas compete às câmaras municipais e deve ser comunicada à Direcção-Geral dos Impostos, nos termos e prazos referidos no n.º 13.
 

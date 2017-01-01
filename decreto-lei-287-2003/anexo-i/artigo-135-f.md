@@ -8,14 +8,8 @@
 
 1 - Ao valor tributável determinado nos termos do artigo 135.º-C e após aplicação das deduções aí previstas, quando existam, é aplicada a taxa de 0,4 % às pessoas coletivas e de 0,7 % às pessoas singulares e heranças indivisas.
 
-2 - Ao valor tributável, determinado nos termos do n.º 1 do artigo 135.º-C, superior a 1 000 000 (euro) e igual ou inferior a 2 000 000 (euro), ou o dobro destes valores quando seja exercida a opção prevista no n.º 1 do artigo 135.º-D, é aplicada a taxa marginal de 1 %, quando o sujeito passivo seja uma pessoa singular.
+2 - Ao valor tributável, determinado nos termos do n.º 1 do artigo 135.º-C, superior a um milhão de euros, ou o dobro deste valor quando seja exercida a opção prevista no n.º 1 do artigo 135.º-D, é aplicada a taxa marginal de 1 %, quando o sujeito passivo seja uma pessoa singular.
 
-3 - Ao valor tributável, determinado nos termos do n.º 1 do artigo 135.º-C, superior a 2 000 000 (euro), ou o dobro deste valor quando seja exercida a opção prevista no n.º 1 do artigo 135.º-D, é aplicada a taxa marginal de 1,5 %, quando o sujeito passivo seja uma pessoa singular.
+3 - O valor dos prédios detidos por pessoas coletivas afetos a uso pessoal dos titulares do respetivo capital, dos membros dos órgãos sociais ou de quaisquer órgãos de administração, direção, gerência ou fiscalização ou dos respetivos cônjuges, ascendentes e descendentes, fica sujeito à taxa de 0,7 %, sendo sujeito à taxa marginal de 1 % para a parcela do valor que exceda um milhão de euros.
 
-4 - O valor dos prédios detidos por pessoas coletivas afetos a uso pessoal dos titulares do respetivo capital, dos membros dos órgãos sociais ou de quaisquer órgãos de administração, direção, gerência ou fiscalização ou dos respetivos cônjuges, ascendentes e descendentes, fica sujeito à taxa de 0,7 %, sendo sujeito à taxa marginal de 1 % para a parcela do valor que exceda 1 000 000 (euro) e seja igual ou inferior a 2 000 000 (euro), e à taxa marginal de 1,5 % para a parcela que exceda 2 000 000 (euro).
-
-5 - Para os prédios que sejam propriedade de entidades sujeitas a um regime fiscal mais favorável, a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, a taxa é de 7,5 %.
-
-6 - O disposto no número anterior não se aplica aos prédios que sejam propriedade de pessoas singulares.
-
-7 - Os prédios referidos no n.º 4 devem ser identificados no anexo à declaração periódica de rendimentos prevista no Código do Imposto sobre o Rendimento das Pessoas Coletivas.
+4 - Para os prédios que sejam propriedade de entidades sujeitas a um regime fiscal mais favorável, a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, a taxa é de 7,5 %.

@@ -8,7 +8,7 @@
 
 3 - O rendimento referido no n.º 1 é determinado individualmente sempre que, no ano do pedido da isenção, o sujeito passivo já não integre o agregado familiar a que se refere o número anterior.
 
-4 - As isenções a que se refere o n.º 1 são automáticas, sendo reconhecidas oficiosamente e com uma periodicidade anual pela Autoridade Tributária e Aduaneira, a partir da data da aquisição dos prédios ou da data da verificação dos respetivos pressupostos.
+4 - As isenções a que se refere o n.º 1 são automáticas, nelas não se incluindo os prédios pertencentes a sujeitos passivos não residentes, sendo reconhecidas oficiosamente e com uma periodicidade anual pela Autoridade Tributária e Aduaneira, a partir da data de aquisição dos prédios ou da data da verificação dos respetivos pressupostos.
 
 5 - O não cumprimento atempado, pelo sujeito passivo ou pelos membros do seu agregado familiar, das suas obrigações declarativas em sede de IRS e de IMI, determina a não atribuição das isenções previstas no n.º 1.
 
