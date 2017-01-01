@@ -4,7 +4,7 @@
 
 1 - Nos casos referidos nos artigos anteriores, a responsabilidade pela reposição dos respectivos montantes recai sobre o agente ou agentes da acção.
 
-2 - A responsabilidade prevista no número anterior recai sobre os membros do Governo nos termos e condições fixados para a responsabilidade civil e criminal no artigo 36.º do Decreto n.º 22257, de 25 de Fevereiro de 1933.
+2 - A responsabilidade prevista no número anterior recai sobre os membros do Governo e os titulares dos órgãos executivos das autarquias locais, nos termos e condições fixadas para a responsabilidade civil e criminal nos n.os 1 e 3 do artigo 36.º do Decreto n.º 22 257, de 25 de fevereiro de 1933.
 
 3 - A responsabilidade financeira reintegratória recai também nos gerentes, dirigentes ou membros dos órgãos de gestão administrativa e financeira ou equiparados e exactores dos serviços, organismos e outras entidades sujeitos à jurisdição do Tribunal de Contas.
 
