@@ -8,7 +8,7 @@
 
 3 - A administração tributária pode exigir ao executado o reforço da garantia no caso de esta se tornar manifestamente insuficiente para o pagamento da dívida exequenda e acrescido.
 
-4 - A administração tributária pode, a requerimento do executado, isentá-lo da prestação de garantia nos casos de a sua prestação lhe causar prejuízo irreparável ou manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis para o pagamento da dívida exequenda e acrescido, desde que em qualquer dos casos a insuficiência ou inexistência de bens não seja da responsabilidade do executado.
+4 - A administração tributária pode, a requerimento do executado, isentá-lo da prestação de garantia nos casos de a sua prestação lhe causar prejuízo irreparável ou manifesta falta de meios económicos revelada pela insuficiência de bens penhoráveis para o pagamento da dívida exequenda e acrescido, desde que não existam fortes indícios de que a insuficiência ou inexistência de bens se deveu a atuação dolosa do interessado.
 
 5 - A isenção prevista no número anterior é válida por um ano, salvo se a dívida se encontrar a ser paga em prestações, caso em que é válida durante o período em que esteja a ser cumprido o regime prestacional autorizado, devendo a administração tributária notificar o executado da data da sua caducidade, até 30 dias antes.
 

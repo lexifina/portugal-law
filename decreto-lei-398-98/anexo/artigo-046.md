@@ -2,7 +2,7 @@
 
 ### Suspensão do prazo de caducidade
 
-1 - O prazo de caducidade suspende-se com a notificação ao contribuinte, nos termos legais, da ordem de serviço ou despacho no início da acção de inspecção externa, cessando, no entanto, esse efeito, contando-se o prazo do seu início, caso a duração da inspecção externa tenha ultrapassado o prazo de seis meses após a notificação.
+1 - O prazo de caducidade suspende-se com a notificação ao contribuinte, nos termos legais, da ordem de serviço ou despacho no início da ação de inspeção externa, cessando, no entanto, esse efeito, contando-se o prazo desde o seu início, caso a duração da inspeção externa tenha ultrapassado o prazo de seis meses após a notificação, acrescido do período em que esteja suspenso o prazo para a conclusão do procedimento de inspeção.
 
 2 - O prazo de caducidade suspende-se ainda:
 
