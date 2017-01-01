@@ -19,3 +19,15 @@
 6 - Quando o valor do imposto apurado pelo sujeito passivo na declaração periódica apresentada nos termos do n.º 1 do artigo 41.º for superior ao montante do respetivo meio de pagamento, é extraída, pela Autoridade Tributária e Aduaneira, certidão de dívida, pela diferença entre o valor apurado e o valor do respetivo meio de pagamento, ou pela totalidade do valor declarado no caso da falta do meio de pagamento, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
 
 7 - Quando a saída dos bens do regime de entreposto não aduaneiro, a que se refere o n.º 6 do artigo 15.º, for efectuada por uma pessoa que não esteja obrigada à apresentação da declaração prevista no artigo 41.º, o imposto deve ser entregue em qualquer serviço de finanças, no prazo previsto no n.º 3.
+
+8 - Os sujeitos passivos podem optar pelo pagamento do imposto devido pelas importações de bens nos termos do n.º 1, desde que:
+
+a) Se encontrem abrangidos pelo regime de periodicidade mensal previsto na alínea a) do n.º 1 do artigo 41.º;
+
+b) Tenham a situação fiscal regularizada;
+
+c) Pratiquem exclusivamente operações sujeitas e não isentas ou isentas com direito à dedução, sem prejuízo da realização de operações imobiliárias ou financeiras que tenham caráter meramente acessório;
+
+d) Não beneficiem, à data em que a opção produza efeitos, de diferimento do pagamento do IVA relativo a anteriores importações.
+
+9 - A forma e prazo de exercício da opção prevista no número anterior são reguladas por portaria do membro do Governo responsável pela área das finanças.

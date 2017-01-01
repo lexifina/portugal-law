@@ -16,7 +16,7 @@ Estão isentas do imposto:
 
 2) As prestações de serviços médicos e sanitários e as operações com elas estreitamente conexas efectuadas por estabelecimentos hospitalares, clínicas, dispensários e similares;
 
-3) As prestações de serviços efectuadas no exercício da sua actividade por protésicos dentários;
+3) As prestações de serviços efetuadas no exercício da sua atividade por protésicos dentários bem como as transmissões de próteses dentárias efetuadas por dentistas e protésicos dentários;
 
 4) As transmissões de órgãos, sangue e leite humanos;
 

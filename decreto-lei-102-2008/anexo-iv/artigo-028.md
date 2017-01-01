@@ -6,7 +6,7 @@
 
 2 - No caso previsto no número anterior e na falta do pagamento no prazo aí estabelecido, é extraída, pela Direcção-Geral dos Impostos, certidão de dívida nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.
 
-3 - O pagamento do imposto devido pelas importações de bens é efectuado junto dos serviços aduaneiros competentes, de acordo com as regras previstas na regulamentação comunitária aplicável aos direitos de importação, salvo nas situações em que, mediante a prestação de garantia, seja concedido o diferimento do pagamento, caso em que este é efectuado:
+3 - Sem prejuízo do disposto no n.º 8 do artigo anterior, o pagamento do imposto devido pelas importações de bens é efetuado junto dos serviços aduaneiros competentes, de acordo com as regras previstas na regulamentação comunitária aplicável aos direitos de importação, salvo nas situações em que, mediante a prestação de garantia, seja concedido o diferimento do pagamento, caso em que este é efetuado:
 
 a) No prazo de 60 dias contados da data do registo de liquidação, quando o diferimento for concedido isoladamente para cada montante de imposto objecto daquele registo;
 
