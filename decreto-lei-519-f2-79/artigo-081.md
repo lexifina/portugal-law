@@ -1,3 +1,0 @@
-# Artigo 81.º
-
-Os conservadores e notários colocados em repartições de 3.ª classe das ilhas adjacentes auferem o vencimento acrescido de um terço do vencimento correspondente à classe do lugar, a contar do dia de posse e entrada em exercício, até àquele em que chegue à comarca o Diário da República que publicar o despacho da sua transferência para a repartição de classe superior ou do continente; se o funcionário transferido se encontrar no continente em gozo de licença, o direito ao vencimento acrescido cessa no dia da publicação do despacho de transferência, o qual também não é devido pelo tempo de licença excedente a trinta dias em cada ano.

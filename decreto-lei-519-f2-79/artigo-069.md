@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Disposições diversas
+
 # Artigo 69.º
 
 1 - Das decisões proferidas pelos conservadores e notários sobre reclamações contra erros de conta, bem como da sua recusa a efectuar algum registo nos termos requeridos ou a praticar qualquer acto da sua competência, podem os interessados reclamar para o director-geral dos Registos e do Notariado.

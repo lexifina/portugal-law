@@ -1,3 +1,23 @@
+## Secção V
+
+## Chefes de secção
+
+## Secção VI
+
+## Telefonistas e contínuos
+
+## Secção VII
+
+## Chefes dos postos
+
+## Capítulo III
+
+## Da remuneração dos funcionários e da receita dos serviços
+
+## Secção I
+
+## Remuneração dos funcionários
+
 # Artigo 56.º
 
 1 - Sempre que se verifique a substituição do conservador ou notário nos termos dos nos 1 e 2 do artigo 26.º, o substituto tem direito:
