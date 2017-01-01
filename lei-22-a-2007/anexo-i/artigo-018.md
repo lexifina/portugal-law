@@ -10,4 +10,4 @@
 
 4 - Os operadores registados podem requerer ao director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo a impressão da DAV no domicílio, em termos a regulamentar por portaria do membro do Governo responsável pela área das Finanças, na condição de terem introduzido no consumo, pelo menos, 1000 veículos no ano em que efectuem o pedido ou no ano imediatamente anterior.
 
-5 - Os operadores registados que introduzam no consumo veículos usados ficam sujeitos à apresentação da documentação referida no n.º 2 do artigo 20.º
+5 - Os operadores registados que introduzam no consumo veículos usados ficam sujeitos à apresentação da documentação prevista no artigo 20.º

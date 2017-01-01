@@ -8,4 +8,4 @@
 
 3 - Enquanto perdure a suspensão de imposto, o local de armazenagem usado pelos operadores reconhecidos é considerado como área de entreposto fiscal, não sendo permitido que os veículos usados dele saiam sem autorização expressa do director da alfândega territorialmente competente, considerando-se de outro modo haver introdução ilegal no consumo.
 
-4 - Os operadores reconhecidos que introduzam no consumo veículos usados ficam sujeitos à apresentação da documentação referida no n.º 2 do artigo 20.º
+4 - Os operadores reconhecidos que introduzam no consumo veículos usados ficam sujeitos à apresentação da documentação prevista no artigo 20.º

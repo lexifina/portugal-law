@@ -50,4 +50,6 @@ Componente cilindrada
 
 7 - (Revogado.)
 
-8 - Os veículos que se apresentem equipados com motores preparados para o consumo, no seu sistema de propulsão, exclusivamente de gás de petróleo liquefeito (GPL) ou gás natural são tributados, na componente ambiental, pelas taxas correspondentes aos veículos a gasolina, previstas na tabela a que se refere o n.º 1.
+8 - Os veículos que se encontrem equipados com motores preparados para o consumo, no seu sistema de propulsão, exclusivamente de gás de petróleo liquefeito (GPL), gás natural ou bioetanol, são tributados, na componente ambiental, pelas taxas correspondentes aos veículos a gasolina.
+
+9 - Os veículos que se encontrem equipados com motores preparados para o consumo, no seu sistema de propulsão, de biodiesel são tributados, na componente ambiental, pelas taxas correspondentes aos veículos a gasóleo.

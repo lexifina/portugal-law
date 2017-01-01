@@ -20,4 +20,4 @@ d) A inaptidão para a condução, caso exista.
 
 5 - Em derrogação do prazo a que se refere o n.º 1, nas situações de pessoas com deficiência definitiva não sujeita a reavaliação, o atestado médico de incapacidade multiúso tem validade vitalícia.
 
-6 - Para os efeitos previstos no n.º 1, ficam dispensadas da apresentação da habilitação legal para a condução as pessoas referidas nas alíneas a) e e) do n.º 1 do artigo anterior, desde que apresentem uma incapacidade permanente de natureza motora igual ou superior a 80 %, bem como as pessoas referidas nas alíneas b), c) e d) do n.º 1 do mesmo artigo, desde que observadas as condições e graus de incapacidade fixados nas referidas alíneas.
+6 - Para os efeitos previstos no n.º 1, ficam dispensadas da apresentação da habilitação legal para a condução as pessoas referidas na alínea a) do n.º 1, do artigo anterior, desde que apresentem uma incapacidade permanente de natureza motora igual ou superior a 80 %, bem como as pessoas referidas nas alíneas b), c), d) e e) do n.º 1 do mesmo artigo, desde que observadas as condições e graus de incapacidade fixados nas referidas alíneas.
