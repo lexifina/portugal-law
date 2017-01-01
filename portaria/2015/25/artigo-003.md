@@ -34,7 +34,7 @@ n) «Organismo de controlo e certificação acreditado», a entidade reconhecida
 
 o) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, classificada em função da categoria de ocupação de solo;
 
-p) «Período de retenção», o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de fevereiro e 31 de julho, para os bovinos, e 1 de fevereiro e 31 de maio, para ovinos e caprinos;
+p) 'Período de retenção', o período durante o qual os animais têm que ser mantidos na exploração agrícola, compreendido entre 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos.
 
 q) «Prados e pastagens permanentes», as superfícies ocupadas com erva ou outras forrageiras herbáceas, quer semeadas quer espontâneas, por um período igual ou superior a cinco anos e que não estejam incluídas no sistema de rotação da exploração e as superfícies ocupadas com vegetação arbustiva;
 
