@@ -6,7 +6,7 @@ Compete às secções, segundo a sua especialização:
 
 a) Julgar recursos;
 
-b) Julgar as ações propostas contra juízes de direito e juízes militares de primeira instância e procuradores da República, por causa das suas funções;
+b) Julgar as ações propostas contra juízes de direito e juízes militares de primeira instância, procuradores da República e procuradores-adjuntos, por causa das suas funções;
 
 c) Julgar processos por crimes cometidos pelos magistrados e juízes militares referidos na alínea anterior e recursos em matéria contraordenacional a eles respeitantes;
 

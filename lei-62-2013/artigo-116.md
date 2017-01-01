@@ -6,4 +6,4 @@
 
 ### Competência
 
-O tribunal central de instrução criminal tem competência definida nos termos dos n.os 1, 2 e 5 do artigo 120.º
+O tribunal central de instrução criminal tem competência definida nos termos do n.º 1 do artigo 120.º.

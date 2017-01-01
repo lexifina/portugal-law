@@ -32,7 +32,7 @@ b) Recursos das decisões das autoridades administrativas em processo de contrao
 
 5 - Compete aos juízos de proximidade:
 
-a) Assegurar a realização das audiências de julgamento, de acordo com o regime constante dos n.os 3, 4 e 5 do artigo 82.º;
+a) Assegurar a realização, de acordo com o regime constante dos n.os 3 e 4 do artigo 82.º, das audiências de julgamento dos processos de natureza criminal da competência do tribunal singular;
 
 b) Assegurar a realização das demais audiências de julgamento ou outras diligências processuais que sejam determinadas pelo juiz competente, nomeadamente quando daí resultem vantagens para a aquisição da prova ou as condições de acessibilidade dificultem gravemente a deslocação dos intervenientes processuais.
 

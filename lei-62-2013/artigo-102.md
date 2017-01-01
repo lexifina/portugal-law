@@ -2,4 +2,4 @@
 
 ### Formação
 
-Durante o período em que exerce funções, o magistrado do Ministério Público coordenador frequenta, obrigatoriamente, curso de formação específico.
+O exercício de funções de magistrado do Ministério Público coordenador implica a aprovação em curso de formação específico.

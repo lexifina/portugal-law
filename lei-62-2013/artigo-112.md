@@ -10,27 +10,17 @@
 
 a) Da Autoridade da Concorrência (AdC);
 
-b) Da Autoridade da Mobilidade e dos Transportes (AMT);
+b) Da Autoridade Nacional de Comunicações (ICP-ANACOM);
 
-c) Da Autoridade Nacional da Aviação Civil (ANAC);
+c) Do Banco de Portugal (BP);
 
-d) Da Autoridade Nacional de Comunicações (ANACOM);
+d) Da Comissão do Mercado de Valores Mobiliários (CMVM);
 
-e) Do Coordenador dos Serviços Digitais, designado no artigo 5.º da Lei n.º 12-A/2026, de 15 de abril;
+e) Da Entidade Reguladora para a Comunicação Social (ERC);
 
-f) Da Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF);
+f) Do Instituto de Seguros de Portugal (ISP);
 
-g) Do Banco de Portugal (BP);
-
-h) Da Comissão do Mercado de Valores Mobiliários (CMVM);
-
-i) Da Entidade Reguladora para a Comunicação Social (ERC);
-
-j) Da Entidade Reguladora da Saúde (ERS);
-
-k) Da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR);
-
-l) Da Entidade Reguladora dos Serviços Energéticos (ERSE).
+g) Das demais entidades administrativas independentes com funções de regulação e supervisão.
 
 2 - Compete ainda ao tribunal da concorrência, regulação e supervisão conhecer das questões relativas a recurso, revisão e execução:
 
@@ -38,10 +28,4 @@ a) Das decisões da AdC proferidas em procedimentos administrativos a que se ref
 
 b) Das demais decisões da AdC que admitam recurso, nos termos previstos no regime jurídico da concorrência.
 
-c) Das decisões de aplicação de sanções pecuniárias compulsórias do Coordenador dos Serviços Digitais, em procedimentos administrativos, no âmbito do Regulamento dos Serviços Digitais e da Lei n.º 12-A/2026, de 15 de abril.
-
-3 - Compete ao tribunal julgar ações de indemnização cuja causa de pedir se fundamente exclusivamente em infrações ao direito da concorrência, ações destinadas ao exercício do direito de regresso entre coinfratores, bem como pedidos de acesso a meios de prova relativos a tais ações, nos termos previstos na Lei n.º 23/2018, de 5 de junho.
-
-4 - Compete ainda ao tribunal julgar todas as demais ações civis cuja causa de pedir se fundamente exclusivamente em infrações ao direito da concorrência previstas nos artigos 9.º, 11.º e 12.º da Lei n.º 19/2012, de 8 de maio, em normas correspondentes de outros Estados-Membros e/ou nos artigos 101.º e 102.º do Tratado sobre o Funcionamento da União Europeia bem como pedidos de acesso a meios de prova relativos a tais ações, nos termos previstos na Lei n.º 23/2018, de 5 de junho.
-
-5 - As competências referidas nos números anteriores abrangem os respetivos incidentes e apensos, bem como a execução das decisões.
+3 - As competências referidas nos números anteriores abrangem os respetivos incidentes e apensos, bem como a execução das decisões.

@@ -2,4 +2,4 @@
 
 ### Formação
 
-Durante o período em que exerce funções, o presidente do tribunal frequenta, obrigatoriamente, curso de formação específico.
+O exercício de funções de presidente do tribunal implica a aprovação em curso de formação específico.

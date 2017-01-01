@@ -32,9 +32,9 @@ i) Declarar perdidos e dar destino aos objetos ou valores apreendidos aos reclus
 
 j) Decidir sobre a modificação da execução da pena de prisão, bem como da substituição ou da revogação das respetivas modalidades, relativamente a reclusos portadores de doença grave, evolutiva e irreversível ou de deficiência grave e permanente ou de idade avançada;
 
-k) Decidir sobre a homologação do plano de reinserção social e das respetivas alterações, as autorizações de ausência, a modificação das regras de conduta e a revogação do regime, quando a pena de prisão seja executada em regime de permanência na habitação;
+k) Ordenar o cumprimento da prisão em regime contínuo em caso de faltas de entrada no estabelecimento prisional não consideradas justificadas por parte do condenado em prisão por dias livres ou em regime de semidetenção;
 
-l) Rever a medida de segurança de internamento de inimputáveis;
+l) Rever e prorrogar a medida de segurança de internamento de inimputáveis;
 
 m) Decidir sobre a prestação de trabalho a favor da comunidade e sobre a sua revogação, nos casos de execução sucessiva de medida de segurança e de pena privativas da liberdade;
 
@@ -59,5 +59,3 @@ v) Proferir a declaração de contumácia e decretar o arresto de bens, quanto a
 w) Decidir sobre o cancelamento provisório de factos ou decisões inscritos no registo criminal;
 
 x) Julgar o recurso sobre a legalidade da transcrição nos certificados do registo criminal.
-
-y) Decidir sobre o tratamento involuntário do condenado com necessidade de cuidados de saúde mental, nos termos da lei.
