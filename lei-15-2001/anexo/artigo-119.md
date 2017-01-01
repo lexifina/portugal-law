@@ -9,3 +9,7 @@
 3 - Para os efeitos do n.º 1 são consideradas declarações as referidas no n.º 1 do artigo 116.º e no n.º 2 do artigo 117.º
 
 4 - As inexactidões ou omissões praticadas nas declarações ou fichas para inscrição ou actualização de elementos do número fiscal de contribuinte das pessoas singulares são puníveis com coima entre (euro) 35 e (euro) 750.
+
+5 - Às omissões ou inexatidões relativas à situação tributária nas declarações a que se referem os n.os 2 e 3 do artigo 58.º-A do Código do IRS, que não constituam fraude fiscal nem contraordenação prevista no artigo anterior, é aplicável a coima prevista no n.º 1 do artigo 117.º
+
+6 - Não é aplicada a coima prevista no número anterior se estiver regularizada a falta cometida e a mesma revelar um diminuto grau de culpa, o que se presume quando as inexatidões se refiram ao montante de rendimentos comunicados por substituto tributário.

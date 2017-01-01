@@ -18,7 +18,7 @@ f) Cassação de licenças ou concessões e suspensão de autorizações;
 
 g) Publicação da decisão condenatória a expensas do agente da infracção.
 
-2 - Sempre que a infracção prevista no n.º 6 do artigo 108.º seja cometida a título de dolo e o montante de dinheiro líquido objecto da referida infracção seja de valor superior a (euro) 150000, é decretada, a título de sanção acessória, a perda do montante total que exceda aquele quantitativo.
+2 - Sempre que a infração prevista no n.º 6 do artigo 108.º seja cometida a título de dolo e o montante de dinheiro líquido objeto da referida infração seja de valor superior a (euro) 10 000, é decretada, a título de sanção acessória, a perda do montante total que exceda aquele quantitativo.
 
 3 - Os pressupostos da aplicação das sanções acessórias previstas nos números anteriores são os estabelecidos no regime geral do ilícito de mera ordenação social.
 
