@@ -8,9 +8,9 @@
 
 1 - O valor das pensões atribuídas pelo sistema de segurança social é actualizado anualmente com efeitos a partir do dia 1 de Janeiro de cada ano, tendo em conta os indicadores previstos no artigo 4.º
 
-2 - As pensões de valor igual ou inferior a uma vez e meia o valor do IAS são actualizadas de acordo com a regra prevista no n.º 1 do artigo 5.º
+2 - As pensões de valor igual ou inferior a duas vezes o valor do IAS são atualizadas de acordo com a regra prevista no n.º 1 do artigo 5.º
 
-3 - As pensões de valor compreendido entre uma vez e meia e seis vezes o valor do IAS são actualizadas de acordo com a seguinte regra:
+3 - As pensões de valor compreendido entre duas vezes e seis vezes o valor do IAS são atualizadas de acordo com a seguinte regra:
 
 a) Se a média do crescimento real do PIB for igual ou superior a 3%, a actualização corresponde ao IPC acrescido de 12,5% da taxa de crescimento real do PIB;
 
