@@ -4,7 +4,7 @@
 
 1 - No âmbito do regime simplificado, a determinação do rendimento tributável obtém-se através da aplicação dos seguintes coeficientes:
 
-a) 0,15 às vendas de mercadorias e produtos, bem como às prestações de serviços efetuadas no âmbito de atividades hoteleiras e similares, restauração e bebidas;
+a) 0,15 às vendas de mercadorias e produtos, bem como às prestações de serviços efetuadas no âmbito de atividades de restauração e bebidas e de atividades hoteleiras e similares, com exceção daquelas que se desenvolvam no âmbito da atividade de exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento;
 
 b) 0,75 aos rendimentos das atividades profissionais especificamente previstas na tabela a que se refere o artigo 151.º;
 

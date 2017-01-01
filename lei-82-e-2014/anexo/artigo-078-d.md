@@ -14,6 +14,8 @@ iii) Secção G, Classe 88910 - Atividades de cuidados para crianças, sem aloja
 
 b) Que tenham sido objeto de comunicação nos termos dos n.os 5 e 8.
 
+c) Que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos do Decreto-Lei n.º 198/2012, de 24 de agosto, ou emitidas no Portal das Finanças, nos termos da alínea a) do n.º 1 do artigo 115.º, desde que as mesmas se refiram a refeições escolares e o número de identificação fiscal seja de um prestador de serviços de fornecimento de refeições escolares.
+
 2 - Para efeitos do disposto no presente artigo, consideram-se despesas de educação e formação os encargos com o pagamento de creches, jardins-de-infância, lactários, escolas, estabelecimentos de ensino e outros serviços de educação, bem como as despesas com manuais e livros escolares.
 
 3 - As despesas de educação e formação suportadas só são dedutíveis desde que prestadas, respetivamente, por estabelecimentos de ensino integrados no sistema nacional de educação ou reconhecidos como tendo fins análogos pelos ministérios competentes, ou por entidades reconhecidas pelos ministérios que tutelam a área da formação profissional e, relativamente às últimas, apenas na parte em que não tenham sido consideradas como encargo da categoria B.
@@ -29,3 +31,9 @@ b) Que tenham sido objeto de comunicação nos termos dos n.os 5 e 8.
 8 - Caso as despesas de educação e formação tenham sido realizadas fora do território português, pode o sujeito passivo comunicá-las através do Portal das Finanças, inserindo os dados essenciais da fatura ou documento equivalente que as suporte, sendo ainda de observar o disposto no artigo 128.º
 
 9 - Nas atividades previstas na alínea a) do n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º
+
+10 - Para efeitos do disposto na alínea c) do n.º 1:
+
+a) Os sujeitos passivos devem indicar no Portal das Finanças quais as faturas que titulam as aquisições referentes a refeições escolares;
+
+b) A identificação fiscal dos prestadores de serviços de fornecimento de refeições escolares é comunicada à Autoridade Tributária e Aduaneira nos termos a definir por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação.

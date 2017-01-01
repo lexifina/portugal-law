@@ -26,6 +26,8 @@ j) À dupla tributação internacional;
 
 k) Aos benefícios fiscais.
 
+l) Ao adicional ao imposto municipal sobre imóveis, nos termos do artigo 135.º-I do Código do Imposto Municipal sobre Imóveis.
+
 2 - São ainda deduzidos à coleta os pagamentos por conta do imposto e as importâncias retidas na fonte que tenham aquela natureza, respeitantes ao mesmo período de tributação, bem como as retenções efetuadas ao abrigo do artigo 11.º da Diretiva n.º 2003/48/CE, de 3 de junho.
 
 3 - As deduções referidas neste artigo são efetuadas pela ordem nele indicada e apenas as previstas no número anterior, quando superiores ao imposto devido, conferem direito ao reembolso da diferença.
@@ -46,13 +48,15 @@ ii) Outro documento, quando o fornecedor dos bens ou prestador dos serviços est
 
 7 - A soma das deduções à coleta previstas nas alíneas c) a h) e k) do n.º 1 não pode exceder, por agregado familiar, e, no caso de tributação conjunta, após aplicação do divisor previsto no artigo 69.º, os limites constantes das seguintes alíneas:
 
-a) Para contribuintes que tenham um rendimento coletável inferior a (euro) 7 035, sem limite;
+a) Para contribuintes que tenham um rendimento coletável igual ou inferior ao valor do 1.º escalão do n.º 1 artigo 68.º, sem limite;
 
-b) Para contribuintes que tenham um rendimento coletável superior a (euro) 7 035 e inferior a (euro) 80 000, o limite resultante da aplicação da seguinte fórmula:
+b) Para contribuintes que tenham um rendimento coletável superior ao valor do 1.º escalão e igual ou inferior ao valor do último escalão do n.º 1 do artigo 68.º, o limite resultante da aplicação da seguinte fórmula:
 
-(ver documento original)
+(euro) 1 000 + [(euro) 2 500 - (euro) 1 000) x [valor do último escalão - Rendimento Coletável]]
 
-c) Para contribuintes que tenham um rendimento coletável superior a (euro) 80 000, o montante de (euro) 1 000.
+valor do último escalão - valor do primeiro escalão;
+
+c) Para contribuintes que tenham um rendimento coletável superior ao valor do último escalão do n.º 1 do artigo 68.º, o montante de (euro) 1 000.
 
 8 - Nos agregados com três ou mais dependentes a seu cargo, os limites previstos no número anterior são majorados em 5 % por cada dependente ou afilhado civil que não seja sujeito passivo do IRS.
 
@@ -60,4 +64,8 @@ c) Para contribuintes que tenham um rendimento coletável superior a (euro) 80 0
 
 10 - A dedução à coleta prevista no artigo 83.º-A impede a consideração das demais deduções referentes ao dependente por referência ao qual o sujeito passivo efetua pagamentos de pensões de alimentos.
 
-11 - No caso de sujeitos passivos casados ou unidos de facto, sempre que o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, não havendo opção pela tributação conjunta, esses valores são reduzidos para metade, por sujeito passivo.
+11 - No caso do regime de tributação separada, quando o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, para cada um dos cônjuges ou unidos de facto:
+
+a) Os limites dessas deduções são reduzidos para metade;
+
+b) As percentagens de dedução à coleta são aplicadas à totalidade das despesas de que cada sujeito passivo seja titular acrescida de 50 % das despesas de que sejam titulares os dependentes que integram o agregado.

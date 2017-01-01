@@ -8,7 +8,7 @@ a) Secção G, classe 4520 - Manutenção e reparação de veículos automóveis
 
 b) Secção G, classe 45402 - Manutenção e reparação de motociclos, de suas peças e acessórios;
 
-c) Secção I - Alojamento, restauração e similares;
+c) Secção I - Alojamento, restauração e similares, salvo se a fatura já tiver sido considerada para efeitos de dedução como despesa de educação;
 
 d) Secção S, classe 9602 - Atividades de salões de cabeleireiro e institutos de beleza;
 
@@ -22,6 +22,8 @@ b) À mesma organização não-governamental de ambiente e à mesma pessoa colet
 
 c) À mesma pessoa coletiva de utilidade pública que desenvolva atividades de natureza e interesse cultural, constante da lista oficial de instituições, escolhida pelo sujeito passivo para receber a consignação de quota do IRS prevista no artigo 152.º deste Código.
 
-3 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
+3 - É ainda dedutível à coleta, concorrendo para o limite referido no n.º 1, um montante correspondente a 100 % do IVA suportado por qualquer membro do agregado familiar, com a aquisição de passes mensais para utilização de transportes públicos coletivos, emitidos por operadores de transportes públicos de passageiros com o CAE classe 49310, 49391, 49392, 50102 e 50300, todos da secção H, que conste de faturas que titulem prestações de serviços comunicadas à Autoridade Tributária e Aduaneira nos termos das disposições indicadas no n.º 1.
 
-4 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.
+4 - Os n.os 2 a 8 do artigo 78.º-B são aplicáveis, com as necessárias adaptações, à dedução prevista no presente artigo.
+
+5 - Nas atividades previstas no n.º 1 consideram-se abrangidas as atividades equivalentes previstas na tabela a que se refere o artigo 151.º.

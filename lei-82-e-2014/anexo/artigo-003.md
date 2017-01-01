@@ -41,3 +41,5 @@ i) Os provenientes da prática de atos isolados referentes a atividade abrangida
 7 - Nos casos em que o rendimento não seja determinado com base na contabilidade deve ainda observar-se que as importâncias recebidas a título de provisão ou a qualquer outro título destinadas a custear despesas da responsabilidade dos clientes são consideradas como rendimento do ano posterior ao da sua receção sempre que até ao final desse ano não seja apresentada a conta final relativa ao trabalho prestado.
 
 8 - Sem prejuízo do disposto no número anterior, sempre que ocorra uma alteração do regime de tributação, no primeiro ano de aplicação do novo regime devem ser efetuados os necessários ajustamentos destinados a evitar qualquer duplicação de tributação dos rendimentos, bem como a sua não tributação.
+
+9 - Para efeitos da alínea c) do n.º 2, não configura uma transferência para o património particular do empresário a afetação de bem imóvel habitacional à obtenção de rendimentos da categoria F.

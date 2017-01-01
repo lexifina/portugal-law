@@ -10,7 +10,7 @@
 
 4 - Para efeitos do número anterior entende-se por micro e pequenas empresas as entidades definidas, nos termos do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro.
 
-5 - Para apuramento do saldo positivo ou negativo referido no n.º 1, respeitante às operações efetuadas por residentes previstas nas alíneas b), e), f) e g) do n.º 1 do artigo 10.º, não relevam as perdas apuradas quando a contraparte da operação estiver sujeita no país, território ou região de domicílio a um regime fiscal claramente mais favorável, constante da lista aprovada por portaria do Ministro das Finanças.
+5 - Para apuramento do saldo positivo ou negativo referido no n.º 1, respeitante às operações efetuadas por residentes previstas nas alíneas b), e), f) e g) do n.º 1 do artigo 10.º, não relevam as perdas apuradas quando a contraparte da operação estiver sujeita a um regime fiscal a que se referem o n.º 1 ou 5 do artigo 63.º-D da Lei Geral Tributária.
 
 6 - Para efeitos do número anterior, considera-se que:
 

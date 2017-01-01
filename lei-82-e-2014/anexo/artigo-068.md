@@ -10,4 +10,4 @@
 
 (ver documento original)
 
-2 - O quantitativo do rendimento coletável, quando superior a (euro) 7 035, é dividido em duas partes: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da col. (B) correspondente a esse escalão; outra, igual ao excedente, a que se aplica a taxa da col. (A) respeitante ao escalão imediatamente superior.
+2 - O quantitativo do rendimento coletável, quando superior a (euro) 7 091 é dividido em duas partes: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplica a taxa da col. (B) correspondente a esse escalão; outra, igual ao excedente, a que se aplica a taxa da col. (A) respeitante ao escalão imediatamente superior.

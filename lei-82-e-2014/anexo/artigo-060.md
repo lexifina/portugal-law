@@ -2,11 +2,7 @@
 
 ### Prazo de entrega da declaração
 
-1 - A declaração a que se refere o n.º 1 do artigo 57.º é entregue:
-
-a) De 15 de março a 15 de abril, quando os sujeitos passivos apenas hajam recebido ou tenham sido colocados à sua disposição rendimentos das categorias A e H;
-
-b) De 16 de abril a 16 de maio, nos restantes casos.
+1 - A declaração a que se refere o n.º 1 do artigo 57.º é entregue de 1 de abril a 31 de maio.
 
 2 - A declaração a que se refere o número anterior é ainda apresentada nos 30 dias imediatos à ocorrência de qualquer facto que determine alteração dos rendimentos já declarados ou implique, relativamente a anos anteriores obrigação de os declarar, salvo se outro prazo estiver previsto neste Código.
 
