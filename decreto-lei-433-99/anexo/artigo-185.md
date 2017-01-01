@@ -13,3 +13,5 @@ c) Para cada um dos aludidos actos e termos subsequentes;
 d) Para inquirição ou declarações.
 
 2 - No procedimento de execução informatizado, todos os actos e diligências do procedimento são efectuados pelo titular do órgão competente para a execução fiscal, sem prejuízo da solicitação referida no número anterior, quando se revele mais eficaz para a cobrança da dívida.
+
+3 - Nos casos referidos no número anterior a administração tributária disponibiliza, por meios electrónicos, às entidades referidas no n.º 1 e para a prática dos actos nele referidos, todos os elementos necessários à realização e à confirmação das respectivas diligências.

@@ -2,7 +2,7 @@
 
 ### Caducidade da garantia
 
-1 - A garantia prestada para suspender a execução em caso de reclamação graciosa, impugnação judicial, recurso judicial ou oposição caduca se a reclamação graciosa não estiver decidida no prazo de um ano a contar da data da sua interposição ou se a impugnação judicial, o recurso judicial ou a oposição não estiverem julgados em 1.ª instância no prazo de dois anos a contar da data da sua apresentação.
+1 - A garantia prestada para suspender a execução em caso de reclamação graciosa, impugnação judicial, recurso judicial ou oposição caduca se a reclamação graciosa não estiver decidida no prazo de um ano a contar da data da sua interposição ou se na impugnação judicial ou na oposição não tiver sido proferida decisão em 1.ª instância no prazo de três anos a contar da data da sua apresentação.
 
 2 - Os prazos referidos no número anterior são acrescidos em seis meses quando houver recurso a prova pericial.
 
@@ -12,6 +12,4 @@
 
 5 - Não sendo proferida a decisão referida no número anterior no prazo aí previsto, considera-se tacitamente deferido o requerido.
 
-6 - Em caso de caducidade da garantia, o interessado será indemnizado pelos encargos suportados com a sua prestação, nos termos e com os limites previstos nos n.os 3 e 4 do artigo 53.º da lei geral tributária.»
-
-4 - É revogado o artigo 254.º do Código de Procedimento e de Processo Tributário.
+6 - Em caso de caducidade da garantia, o interessado será indemnizado pelos encargos suportados com a sua prestação, nos termos e com os limites previstos nos n.os 3 e 4 do artigo 53.º da lei geral tributária.
