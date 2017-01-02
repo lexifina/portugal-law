@@ -58,9 +58,9 @@
 
 11.2.3 - Cartões modelo C ... 400$00
 
-11.3 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto, Joker e apostas desportivas à cota de base territorial - incluídos no preço de venda da aposta - 4,5 %;
+11.3 - Jogos sociais do Estado: incluídos no preço de venda da aposta - 4,5 %;
 
-11.4 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto, Joker e apostas desportivas à cota de base territorial - sobre a parcela do prémio que exceder (euro) 5.000 - 20 %
+11.4 - Jogos sociais do Estado: sobre a parcela do prémio que exceder (euro) 5.000 - 20 %;
 
 12 - Licenças:
 

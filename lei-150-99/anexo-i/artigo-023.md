@@ -14,7 +14,7 @@
 
 6 - Nos documentos e títulos sujeitos a imposto são mencionados o valor do imposto e a data da liquidação, com exceção dos contratos previstos na verba 2 da tabela geral, cuja liquidação é efetuada nos termos do n.º 8.
 
-7 - Tratando-se do imposto devido pelas situações previstas na verba n.º 28 da Tabela Geral, o imposto é liquidado anualmente, em relação a cada prédio urbano, pelos serviços centrais da Autoridade Tributária e Aduaneira, aplicando-se, com as necessárias adaptações, as regras contidas no CIMI.
+7 - (Revogado).
 
 8 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado trimestralmente pelo sujeito passivo, até ao último dia do mês subsequente ao do nascimento da obrigação tributária.
 
