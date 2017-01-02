@@ -46,7 +46,7 @@ s) Em quaisquer outros actos, contratos e operações, o requerente, o requisita
 
 t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Estado, bem como em quaisquer prémios de sorteios ou de concursos, o beneficiário;
 
-u) Nas situações previstas na verba n.º 28 da Tabela Geral, o sujeito passivo referido no n.º 4 do artigo anterior.
+u) (Revogada).
 
 v) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário.
 

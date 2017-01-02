@@ -42,11 +42,11 @@ q) Nos créditos litigiosos, definidos nos termos do n.º 3 do artigo 579.º do 
 
 r) Nas aquisições por usucapião, na data em que transitar em julgado a acção de justificação judicial, for celebrada a escritura de justificação notarial ou no momento em que se tornar definitiva a decisão proferida em processo de justificação nos termos do Código do Registo Predial;
 
-s) (Revogada.)
+s) (Revogada).
 
 t) Nos prémios do bingo, das rifas, do jogo do loto e dos jogos sociais do Estado, bem como em quaisquer prémios de sorteios ou de concursos, no momento da atribuição;
 
-u) Nas situações previstas na verba n.º 28 da Tabela Geral, no momento e de acordo com as regras previstas no CIMI, com as devidas adaptações.
+u) (Revogada).
 
 v) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia dos meses de março, junho, setembro e dezembro de cada ano.
 

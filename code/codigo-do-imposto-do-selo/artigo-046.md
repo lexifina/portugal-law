@@ -10,4 +10,4 @@
 
 4 - O documento de cobrança de cada prestação ou da totalidade do imposto é enviado ao interessado até ao fim do mês anterior ao do pagamento.
 
-5 - Havendo lugar a liquidação do imposto a que se refere verba n.º 28 da Tabela Geral, o documento de cobrança é emitido nos prazos, termos e condições definidos no artigo 119.º do CIMI, com as devidas adaptações.
+5 - (Revogado).

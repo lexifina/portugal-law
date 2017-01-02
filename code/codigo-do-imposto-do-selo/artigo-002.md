@@ -54,7 +54,7 @@ b) Nas demais transmissões gratuitas, incluindo as aquisições por usucapião,
 
 3 - Não obstante o disposto no n.º 1, nos atos ou contratos da verba 1.1 da Tabela Geral, são sujeitos passivos do imposto os adquirentes dos bens imóveis.
 
-4 - Nas situações previstas na verba n.º 28 da Tabela Geral, são sujeitos passivos do imposto os referidos no artigo 8.º do CIMI.
+4 - (Revogado).
 
 5 - Para efeitos do disposto na alínea g) do n.º 1, é sujeito passivo:
 
