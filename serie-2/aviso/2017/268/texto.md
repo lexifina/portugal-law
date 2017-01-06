@@ -1,0 +1,4 @@
+Aviso n.º 268/2017
+Torna-se público, ao abrigo da competência conferida pela alínea b) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, que a Assembleia Municipal de Gavião, na sua reunião ordinária de 10 de dezembro de 2016, aprovou nos termos da alínea b) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro, sob proposta aprovada pela Câmara Municipal na sua reunião ordinária realizada em 16 de novembro de 2016, a redução em 50 % dos valores de algumas das taxas previstas no Regulamento e Tabela de Taxas Municipais, e ainda a duplicação dos valores ao apoio à 1.ª infância, previstos no Regulamento de Apoio à Fixação de Famílias Jovens, que podem ser consultados na página eletrónica do Município em: www.cm-gaviao.pt ou nos serviços de atendimento ao público da Câmara Municipal de Gavião, sito no Largo do Município em Gavião.
+22 de dezembro de 2016. - O Presidente da Câmara Municipal, José Fernando da Silva Pio.
+310119487
