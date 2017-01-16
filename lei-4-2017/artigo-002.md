@@ -1,0 +1,49 @@
+# Artigo 2.º
+
+### Alteração à Lei n.º 19/2003, de 20 de junho
+
+Os artigos 5.º e 12.º da Lei n.º 19/2003, de 20 de junho, alterada pelo Decreto-Lei n.º 287/2003, de 12 de novembro, pelas Leis n.os 64-A/2008, de 31 de dezembro, 55/2010, de 24 de dezembro, e 1/2013, de 3 de janeiro, e pela Lei Orgânica n.º 5/2015, de 10 de abril, passam a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - A cada partido que haja concorrido a ato eleitoral, ainda que em coligação, e que obtenha representação na Assembleia Legislativa da região autónoma é concedida uma subvenção anual, desde que a requeira ao Presidente dessa Assembleia Legislativa, que consiste numa quantia em dinheiro fixada no diploma que estabelece a orgânica dos serviços da respetiva Assembleia Legislativa, adequada às suas necessidades de organização e de funcionamento, sendo paga em duodécimos, por conta de dotações especiais para esse efeito inscritas no Orçamento da respetiva Assembleia Legislativa, aplicando-se, em caso de coligação, o n.º 3.
+
+Artigo 12.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Para os efeitos previstos no número anterior, as contas das estruturas regionais referidas no n.º 4 anexam as contas dos grupos parlamentares e do Deputado único representante de partido da Assembleia Legislativa da região autónoma, assim discriminando, quanto aos apoios pecuniários para a atividade política, parlamentar e partidária, atribuídos por essa Assembleia Legislativa, os montantes utilizados pelos partidos e os montantes utilizados pelos grupos parlamentares ou Deputado único representante de partido.
+
+10 - ...»
