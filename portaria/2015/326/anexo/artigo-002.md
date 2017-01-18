@@ -6,7 +6,7 @@ Para aceder à qualificação de verificador os candidatos devem reunir, cumulat
 
 a) Formação de grau superior em áreas de Ciências da Vida, Ciências Físicas, Engenharia e Técnicas Afins ou Proteção do Ambiente;
 
-b) Formação profissional geral, no mínimo de quarenta horas, que contemple as seguintes áreas:
+b) Formação profissional, no mínimo de quarenta horas, que contemple, pelo menos, duas das seguintes áreas:
 
 i) Sistemas de gestão ambiental;
 
@@ -14,19 +14,17 @@ ii) Acompanhamento ambiental de obra;
 
 iii) Metodologia de realização de auditorias;
 
-c) Formação profissional específica, no mínimo de trinta horas, que contemple as seguintes áreas:
+iv) Metodologias de identificação e avaliação de impactes ambientais;
 
-i) Legislação nacional e comunitária relativa ao regime de AIA;
+v) Enquadramento legislativo e regulamentar relevante em matéria de legislação ambiental, nomeadamente legislação nacional e comunitária relativa ao regime de AIA;
 
-ii) Metodologias de identificação e avaliação de impactes ambientais;
+c) A formação prevista na alínea anterior pode ser equiparada à formação ministrada pelo candidato, desde que devidamente comprovada.
 
-iii) Enquadramento legislativo e regulamentar relevante em matéria de legislação ambiental;
-
-d) Experiência profissional, nos dez anos que antecedem a candidatura, que contemple as seguintes áreas:
+d) Experiência profissional de cinco anos que inclua, pelo menos, duas das seguintes áreas:
 
 i) Aplicação de metodologias de avaliação de impactes ambientais ou elaboração de estudos de impacte ambiental;
 
-ii) Definição, implementação e verificação da implementação de planos de acompanhamento ambiental de obra;
+ii) Definição, implementação e/ou verificação da implementação de planos de acompanhamento ambiental de obra;
 
 iii) Realização de auditorias a Sistemas de Gestão Ambiental;
 

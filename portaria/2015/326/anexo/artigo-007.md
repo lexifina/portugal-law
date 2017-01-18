@@ -12,7 +12,7 @@ a) À avaliação positiva de ações de verificação realizadas, sob a forma d
 
 b) Ao cumprimento dos deveres previstos no artigo 3.º;
 
-c) À realização de formação de atualização, no mínimo de trinta horas, no período de quatro anos, nas áreas previstas nas alíneas b) e c) do artigo 2.º ou em áreas específicas recomendadas pela APA, I. P. no seu sítio da internet ou durante o Encontro de Verificadores, a qual deve ser evidenciada em sede do relatório de atividade do verificador;
+c) À realização de formação de atualização, no mínimo de trinta horas, no período de quatro anos, nas áreas previstas na alínea b) do artigo 2.º ou em áreas específicas recomendadas pela APA, I. P., no seu sítio da internet ou durante o Encontro de Verificadores, a qual deve ser evidenciada em sede do relatório de atividade do verificador;
 
 d) À demonstração da atividade do verificador nos quatro anos anteriores à validação da qualificação;
 

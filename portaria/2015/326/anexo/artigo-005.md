@@ -28,6 +28,6 @@ a) Documento, emitido pela pessoa coletiva, que explicite as funções exercidas
 
 b) Declaração, sob compromisso de honra, emitida pela pessoa coletiva, que assegure a independência da mesma para efeitos do disposto no n.º 2 do artigo 4.º
 
-3 - As candidaturas à qualificação de verificador decorrem anualmente entre 1 de janeiro e 1 de março.
+3 - As candidaturas à qualificação de verificador decorrem anualmente entre 1 de janeiro e 1 de março, podendo a APA, I. P., quando necessário, determinar períodos extraordinários de candidatura;
 
 4 - A APA, I. P. aprova a minuta do requerimento previsto no n.º 1 e publicita-o no seu sítio da internet.
