@@ -1,0 +1,26 @@
+Aviso n.º 920/2017
+Alteração do Plano de Pormenor do Eixo Urbano Luz-Benfica
+Nos termos da subdelegação de competências conferida através do Despacho n.º 111/P/2015, publicado no Boletim Municipal n.º 1127, de 24 de setembro de 2015, torna-se público, nos termos do n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais), bem como do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, que a Câmara Municipal de Lisboa, em reunião pública de 21 de dezembro de 2016, de acordo com a deliberação n.º 780/CM/2016, deliberou proceder à alteração do Plano de Pormenor do Eixo Urbano Luz-Benfica, com proposta de estabelecimento de Medidas Preventivas, tendo aprovado os Termos de Referência que fundamentam a sua oportunidade, fixam os respetivos objetivos e estabelecem o prazo de 150 dias para a sua alteração.
+A área de intervenção do Plano de Pormenor Eixo Urbano Luz Benfica abrange as freguesias de Benfica, São Domingos de Benfica e Carnide, compreende uma área de 113 hectares e é delimitada:
+A norte, pela Rua de Ana de Castro Osório e pelo prolongamento do seu eixo para nascente até à 2.ª Circular;
+A nascente, pela Rua Tenente Coronel Ribeiro dos Reis e por troços da Estrada de Benfica, da Rua Professor Reinaldo dos Santos e da 2.ª Circular (Avenida Eusébio da Silva Ferreira);
+A sul, pela Rua de Carolina Michaelis de Vasconcelos e pela Estrada do Calhariz de Benfica;
+A poente, pelo cemitério de Benfica, pela Rua da Actriz Adelina Abranches, e por troços da Rua da Actriz Maria Matos, da Rua da Quinta do Charquinho e da Rua República da Bolívia, pelo alinhamento das fachadas norte do quarteirão localizado entre a Rua da República da Bolívia e a Avenida do Uruguai, e por troços da Avenida do Uruguai e da Avenida de Gomes Pereira.
+Torna-se ainda público que, nos termos do n.º 2 do artigo 88.º e da alínea c) do n.º 4 do artigo 191.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, terá início no 5.º (quinto) dia, após a publicação do presente Aviso no Diário da República, 2.ª série, um período de 15 dias úteis, para formulação de reclamações, observações ou sugestões por qualquer interessado sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano, e que, durante o decurso do mesmo, será realizada, no mínimo, uma sessão pública de apresentação da proposta a anunciar no sítio eletrónico da Câmara Municipal de Lisboa.
+Durante o mencionado período de pública preventiva, os interessados poderão consultar a Proposta de Plano e demais documentação no sítio eletrónico da Câmara Municipal de Lisboa, na Secção Planeamento Urbano (http://www.cm-lisboa.pt/viver/urbanismo/planeamento-urbano/planos-com-termos-de-referencia-aprovados) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, na Rua do Viriato n.º 13 a n.º 17;
+Centro de Documentação, sito no Edifício Central do Município, no Campo Grande, n.º 25, Piso 1.º F;
+Junta de Freguesia de Benfica, sita na Av. Gomes Pereira n.º 17;
+Junta de Freguesia de S. Domingos de Benfica, sita na Quinta da Alfarrobeira, Rua António Saúde, n.º 11 a 13, ou na Rua Lúcio de Azevedo, n.º 12 A;
+Junta de Freguesia de Carnide, sita no Largo das Pimenteiras, n.º 6.
+A formulação de reclamações, observações ou sugestões, deverão ser feitas por escrito, até ao termo do referido período e dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando, para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no sítio eletrónico da Câmara Municipal de Lisboa (http://www.cm-lisboa.pt/viver/urbanismo), e deverão ser entregues por via eletrónica, através do endereço eletrónico dmu.dp.dpt@cm-lisboa.pt ou apresentadas presencialmente nos seguintes locais:
+Loja Lisboa - Alcântara, sita na Rua da Cozinha Económica, 36A - loja E, com acesso também pela R. de Cascais, junto ao Pingo Doce;
+Loja Lisboa - Baixa, sita na Rua Nova do Almada, 2 - 3.º;
+Loja Lisboa - Lumiar, sita na Rua Manuel Marques, 6H, Edifício Odense - Lumiar;
+Loja Lisboa - Entrecampos, sita no Edifício Central do Município, Campo Grande, 25;
+Loja Lisboa - Marvila, sita na Loja do Cidadão de Marvila, Centro Comercial Pingo Doce da Bela Vista, Av. Santo Condestável, lote 8 - loja 34.
+11 de janeiro de 2017. - O Diretor Municipal de Urbanismo, Jorge Catarino Tavares.
+Deliberação
+Através da Deliberação n.º 780/CM/2016, de 21 de dezembro de 2016, a Câmara Municipal de Lisboa aprovou, por maioria, com votos a favor (7 PS, 2 PPD/PSD, 2 PCP e 2 Independentes) e votos contra (1 CDS/PP e 2 PCP), o início do procedimento de Alteração do Plano de Pormenor do Eixo Urbano Luz-Benfica, com proposta de estabelecimento de Medidas Preventivas, tendo aprovado os respetivos termos de referência e a abertura de um período de participação pública preventiva, ao abrigo do disposto no n.º 1 e n.º 3 do artigo 76.º, no n.º 2 do artigo 88.º, conjugados com o n.º 1 do artigo 119.º, todos do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Lisboa, 11 de janeiro de 2017. - O Diretor Municipal de Urbanismo, Jorge Catarino Tavares.
+610178722
