@@ -1,0 +1,499 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12928",
+  "numero": "247",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-01-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-02-23",
+            "entidades": null,
+            "id": "104164",
+            "tipo": null,
+            "titulo": "Audição em 2017-02-23 com Movimento \"Também somos portugueses\""
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-02-13",
+            "dataResposta": "2017-03-28",
+            "entidades": [
+              "Comissão Nacional de Eleições"
+            ],
+            "nrOficio": "159/CACDLG/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-02-01",
+            "dataResposta": "2017-02-24",
+            "entidades": [
+              "MIN. DOS  NEGÓCIOS ESTRANGEIROS"
+            ],
+            "nrOficio": "112/CACDLG/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-02-01",
+            "dataResposta": "2017-03-01",
+            "entidades": [
+              "MIN. DA PRESIDÊNCIA E DA MODERNIZAÇÃO ADMINISTRATIVA"
+            ],
+            "nrOficio": "112/CACDLG/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-02-01",
+            "dataResposta": "2017-02-22",
+            "entidades": [
+              "MIN.  DA   ADMINISTRAÇÃO  INTERNA"
+            ],
+            "nrOficio": "112/CACDLG/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-03-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-02-01",
+        "DataArquivo": "2017-04-05",
+        "DataBaixaComissao": "2017-01-24",
+        "DataEnvioPAR": "2017-04-05",
+        "DataReaberta": "2017-02-01",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-02-01",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245304d574d7a5a6a67334c5455794d6d59744e4455354e6930355a474a694c5759784e445a6c4e54526a596a6b784f5335775a47593d&fich=a41c3f87-522f-4596-9dbb-f146e54cb919.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-03-31",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4935595449325a6a4d334c5445304d4749744e444a6a596930344d5459794c545a6b4d6d49774d6d466c4e6a45795a6935775a47593d&fich=29a26f37-140b-42cb-8162-6d2b02ae612f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-02-13",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32566c4d7a5a6b4e54466c4c544e6d5a6a41744e4755324e533034597a51794c5449784f4468694f446b324d4759334e6935775a47593d&fich=ee36d51e-3ff0-4e65-8c42-2188b8960f76.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3249304d4749774e7a4e6c4c57457a5a4749744e4455774d4331694d6d49334c574d30597a46685a6a59784e54637a4d4335775a47593d&fich=b40b073e-a3db-4500-b2b7-c4c1af615730.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245775a445a6d595749334c546c684f5455744e444e6a4f4330344d5463794c57493259544e684d3259354e544e6d4d6935775a47593d&fich=a0d6fab7-9a95-43c8-8172-b6a3a3f953f2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4e6c4f446b314f54646b4c5752684f5459744e444934595330344f44646c4c5441315a6a677759544d324d445933597935775a47593d&fich=3e89597d-da96-428a-887e-05f80a36067c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a67775a6a63355a57597a4c5749334e5751744e4451324d4331695a6a5a6c4c545a685a5759774d57557a4e6d566b4f4335775a47593d&fich=80f79ef3-b75d-4460-bf6e-6aef01e36ed8.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-04-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a637a4d546335596a526a4c5749794e6a49744e446734596931684d32597a4c5463334f5759305a44526a4f4756694d5335775a47593d&fich=73179b4c-b262-488b-a3f3-779f4d4c8eb1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-03-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324a6c4d5751775a47526d4c544a6d4d7a45744e444d355a5330354d3246684c5749774d574d315957517a4e4463345a5335775a47593d&fich=be1d0ddf-2f31-439e-93aa-b01c5ad3478e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a56685a544e685a47557a4c544d774e7a55744e4751775a4331685a54426c4c54526d59544e6b597a51304d6a526c4d4335775a47593d&fich=5ae3ade3-3075-4d0d-ae0e-4fa3dc4424e0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-03-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a41304f545a684e7a466b4c544a694f4445744e4463344d4330355a546b304c5463344d546c694d546468596a566b597935775a47593d&fich=0496a71d-2b81-4780-9e94-7819b17ab5dc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-02-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4533595745335a4442684c5467334e6a49744e4751314f5330344f5755304c5449314e4463355957597a5a4449315a5335775a47593d&fich=17aa7d0a-8762-4d59-89e4-25479af3d25e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-02-01",
+            "gp": "PSD",
+            "id": "271",
+            "motivoCessacao": null,
+            "nome": "José Silvano"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-07-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-01-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e54677859544a6b4d533033596d49354c5451305a6d45744f4759774e53316859545a6a4e4759774e546b774d7a55756347526d&fich=0581a2d1-7bb9-44fa-8f05-aa6c4f059035.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12928",
+    "PetAssunto": "Solicitam a simplificação das Leis Eleitorais na parte relativa ao exercício do direito de voto pelos portugueses residentes no estrangeiro.",
+    "PetDataEntrada": "2017-01-23",
+    "PeticoesAssociadas": null,
+    "PetId": "12928",
+    "PetLeg": "XIII",
+    "PetNr": "247",
+    "PetNrAssinaturas": "4246",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "621",
+        "obs": null,
+        "pag": [
+          "7-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/7?pgs=7-122&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785428",
+        "obs": null,
+        "pag": [
+          "11-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-04",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/025/2017-02-04/11?pgs=11-12&org=PLC"
+      }
+    ]
+  }
+}
