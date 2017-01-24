@@ -1,0 +1,9 @@
+Aviso n.º 1009/2017
+Consulta Pública do Regulamento da Atividade de Vendedor Ambulante de Lotarias
+Vítor Manuel Calisto Marques, Presidente da Junta de Freguesia da União das Freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório, torna público que foi deliberado, por unanimidade dos membros presentes, na reunião desta União de Freguesias de 31 de março de 2016, aprovar o Projeto de Regulamento da "Atividade de Vendedor Ambulante de Lotarias ".
+Assim, nos termos e para os efeitos do disposto no artigo 100.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 11 de julho, submeter o referido Projeto de Regulamento a consulta pública, pelo prazo de 30 dias úteis, contados a partir da data da publicação do presente aviso na 2.ª série do Diário da República.
+Nos termos do artigo 101.º do Código do Procedimento Administrativo, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da União das Freguesias, eventuais sugestões e/ou reclamações, dentro do período atrás referido, para a Junta de Freguesia da União das Freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório, Rua Almirante Cândido dos Reis, n.º 1 - 2500-125 Caldas da Rainha.
+Mais faz saber que exemplares deste Projeto podem ser consultados nos serviços administrativos da sede da Junta de Freguesia da União das Freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório, durante o horário normal de funcionamento e no site da Junta de Freguesia da União das Freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório, www.nspopulo.pt.
+Para geral conhecimento, se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares do costume, no Diário da República e no site da União das Freguesias.
+16 de janeiro de 2017. - O Presidente da União das Freguesias, Vítor Manuel Calisto Marques.
+310181362
