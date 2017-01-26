@@ -1,0 +1,812 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12934",
+  "numero": "253",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-01-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-05-10",
+            "entidades": null,
+            "id": "105099",
+            "tipo": null,
+            "titulo": "Audição em 2017-05-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-20",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "180/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-28",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "181/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "182/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "FCSAP - Frente Comum de Sindicatos da Administração Pública"
+            ],
+            "nrOficio": "183/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-20",
+            "entidades": [
+              "STE - Sindicato dos Quadros Técnicos do Estado"
+            ],
+            "nrOficio": "184/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-05-02",
+            "entidades": [
+              "Associação Nacional de Professores"
+            ],
+            "nrOficio": "185/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-29",
+            "entidades": [
+              "ANVPC - Associação Nacional dos Professores Contratados"
+            ],
+            "nrOficio": "186/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-05-12",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "187/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "188/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-13",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "189/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-05-03",
+            "entidades": [
+              "AEEP - Associação de Estabelecimentos de Ensino Particular e Cooperativo"
+            ],
+            "nrOficio": "190/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos"
+            ],
+            "nrOficio": "191/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-20",
+            "dataResposta": "2017-04-24",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "215/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-20",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "179/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "178/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "219/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-05-06",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "799168",
+                "obs": null,
+                "pag": [
+                  "3-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-28",
+                "pubLeg": "XIII",
+                "pubNr": "55",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/055/2017-06-28/3?pgs=3-6&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-03-14",
+        "DataArquivo": "2017-06-06",
+        "DataBaixaComissao": "2017-02-02",
+        "DataEnvioPAR": "2017-06-28",
+        "DataReaberta": "2017-03-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-03-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63314e6a646b5954426a4c546335595745744e474a6a4d5330354d574d7a4c57457a4e324e6d4e7a6b7a595749335a5335775a47593d&fich=7567da0c-79aa-4bc1-91c3-a37cf793ab7e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a497a4e4756695a4468694c5751314d6a45744e4755345a5330354d6d566b4c544d794d444a6d4f4445775a5745774f4335775a47593d&fich=234ebd8b-d521-4e8e-92ed-3202f810ea08.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426d4f5441314e544d344c5759785a4451744e446b315a6931684d7a63334c544e6d4f444932597a646b4d4749354e7935775a47593d&fich=0f905538-f1d4-495f-a377-3f826c7d0b97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259305a6d5a684f4467774c5464694e4751744e4445334f5330354e574a6c4c544e6a5a4451784d5749305a6d4a6b595335775a47593d&fich=f4ffa880-7b4d-4179-95be-3cd411b4fbda.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5978597a59304e6a55774c545a6c4d3251744e445a684e5331694e5751304c5752684d6a566b5a545935596a597a4e7935775a47593d&fich=61c64650-6e3d-46a5-b5d4-da25de69b637.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426c4d44566b595755324c5467784f4449744e4455794f4330355a4467794c5455344f4449355a4759324e575a694e7935775a47593d&fich=0e05dae6-8182-4528-9d82-58829df65fb7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6c4e6d4d7a5a4455784c546c684d5755744e446c6a4d793034597a55324c5467314e3259354d546c6b597a6b315a6935775a47593d&fich=be6c3d51-9a1e-49c3-8c56-857f919dc95f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67355a5746685a574a6c4c5745784f5445744e44566d5a5330344e7a56694c544977596a42684e6d526b4f444a6a596935775a47593d&fich=89eaaebe-a191-45fe-875b-20b0a6dd82cb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e685a4746684e6a41324c5745345a474d744e475a684e5331694f54566a4c5749344d6a566d597a4d7a5a4463305a4335775a47593d&fich=cadaa606-a8dc-4fa5-b95c-b825fc33d74d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6c4e7a6b304e4459334c54597a4f4451744e47453259533035596a5a694c5446694e7a526a4d574d324f574d7a597935775a47593d&fich=2e794467-6384-4a6a-9b6b-1b74c1c69c3c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245344d7a4d31595759344c5449324d7a49744e4452684d433035595755314c574d784f546b324e474a6c4d5755354e7935775a47593d&fich=a8335af8-2632-44a0-9ae5-c19964be1e97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59325957517a5a6d45344c575579595749744e474e6a5a6930354d7a6b354c5445354d6a49325a6d46684d5755324e7935775a47593d&fich=66ad3fa8-e2ab-4ccf-9399-19226faa1e67.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d7859544a685954566b4c5451354e6d51744e4441784d4330354e4441334c546c6a4d324a6c4e4456685954426b4f5335775a47593d&fich=c1a2aa5d-496d-4010-9407-9c3be45aa0d9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41794f5455794e5456694c54497759324d744e44646d4d433169596d52684c546735596a67324d6d59774d574a6c597935775a47593d&fich=0295255b-20cc-47f0-bbda-89b862f01bec.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e694d3255774d3255794c5751775a6a6b744e4451794d6930354d5746694c546868596a56694e47466c4f444179595335775a47593d&fich=3b3e03e2-d0f9-4422-91ab-8ab5b4ae802a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6a5a546c6d4f5463794c5745305a6a4d744e47566d4e79303559575a6d4c574a6b4d6d49794e3251354d7a49795a5335775a47593d&fich=cce9f972-a4f3-4ef7-9aff-bd2b27d9322e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6b4d4751334d546b344c5751354f5451744e4459794f4330354d6a49304c574e6d5a44686a4d544e6b596a557a5a6935775a47593d&fich=bd0d7198-d994-4628-9224-cfd8c13db53f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-06-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d355a5455775a574e6b4c574e694e7a49744e446b34595330354e4445324c5455325a4467324e6a6b344d6a637a596935775a47593d&fich=39e50ecd-cb72-498a-9416-56d86698273b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d345a6a4d334e5441314c544e685a6a41744e4459785a4331684f4451334c5459335a5759304d4468694d4445324e6935515245593d&fich=c8f37505-3af0-461d-a847-67ef408b0166.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5577597a457a4f4751774c5759774e5463744e475a6c5a5330355957566d4c5446694d575a694d6a637a4e5449344d7935515245593d&fich=50c138d0-f057-4fee-9aef-1b1fb2735283.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a64694d4759314d5446694c5755305a6d45744e4445795a433169597a6c6c4c54526a4f546330596a5134596a67304d5335515245593d&fich=7b0f511b-e4fa-412d-bc9e-4c974b48b841.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249314f546b304d574d304c57457a595467744e4759784e6930344f5449334c574d355a6a63354e54637a4d474e6b4f5335515245593d&fich=b59941c4-a3a8-4f16-8927-c9f795730cd9.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6b4d7a41354e546b334c5755784d6a49744e4463334d5330355957566a4c546731595463774e7a5178597a5930595335515245593d&fich=9d309597-e122-4771-9aec-85a70741c64a.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a694e5751344d7a6c6a4c5756684d7a55744e47526c5a6931684e7a686d4c5459304e7a67355a4463304e7a67354e5335515245593d&fich=bb5d839c-ea35-4def-a78f-64789d747895.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67795954466c4f5451304c5455314f4463744e47517a595330354d4441794c54457a4d5745314d574e684d5451304d7935515245593d&fich=82a1e944-5587-4d3a-9002-131a51ca1443.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a694e4449304f54566c4c5441774d7a49744e475a6a4e5331685a446b344c5459314e6a41774d475977596a45794d7935515245593d&fich=6b42495e-0032-4fc5-ad98-656000f0b123.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6b4e4459314d4445774c5749325a446b744e4464694d6930354f4441344c5755784e6d45325a6d5979595467344f4335515245593d&fich=2d465010-b6d9-47b2-9808-e16a6ff2a888.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51774f54646c597a4d334c5755354d4759744e4464694e6930354e6d526b4c5451785a5446694f5449334e6a686d4e5335515245593d&fich=4097ec37-e90f-47b6-96dd-41e1b92768f5.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-03-14",
+            "gp": "PCP",
+            "id": "5705",
+            "motivoCessacao": null,
+            "nome": "Ana Mesquita"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-03-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-02-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e4459305a6a51774e69307a4f57566c4c545179596a6774596a4d774e7931684f544a6b4d6a4d334f474930596a63756347526d&fich=0464f406-39ee-42b8-b307-a92d2378b4b7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42282"
+    ],
+    "Iniciativasoriginadas": [
+      "42282",
+      "42289",
+      "42296"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:22:39:201&drc=00:03:09:157"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:25:48:358&drc=00:02:58:118"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:43:00:622&drc=00:01:11:773"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58",
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/57?pgs=57-58,61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:28:46:476&drc=00:03:57:278"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:32:43:754&drc=00:03:31:511"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:36:15:266&drc=00:03:18:224"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-03-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_16_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=03:39:33:490&drc=00:03:27:131"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-17",
+                "pubLeg": "XIII",
+                "pubNr": "61",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores; ropõe um regime transitório para a aposentação de professores e educadores, com vista a criar justiça no regime de aposentação; Recomenda ao Governo que promova o estudo e a posterior abertura de uma negociação para um regime especial de aposentação para educadores de infância e professores do ensino básico e secundário; Valorização das longas carreiras contributivas e consideração de regimes de aposentação relativos a situações específicas, incluindo a docência.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12934",
+    "PetAssunto": "Solicitam a criação de um regime de exceção no acesso à reforma para os professores.",
+    "PetDataEntrada": "2017-01-26",
+    "PeticoesAssociadas": null,
+    "PetId": "12934",
+    "PetLeg": "XIII",
+    "PetNr": "253",
+    "PetNrAssinaturas": "19676",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2476",
+        "obs": null,
+        "pag": [
+          "56-62"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-17",
+        "pubLeg": "XIII",
+        "pubNr": "61",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/061/2018-03-17/56?pgs=56-62&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785471",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-17",
+        "pubLeg": "XIII",
+        "pubNr": "34",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/034/2017-03-17/6?pgs=6&org=PLC"
+      }
+    ]
+  }
+}
