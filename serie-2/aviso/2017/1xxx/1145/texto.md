@@ -1,0 +1,7 @@
+Aviso n.º 1145/2017
+Projeto de Alteração ao Regulamento Municipal do Programa "Apoio ao Idoso"
+Paulo José Gomes Langrouva, Presidente da Câmara Municipal de Figueira de Castelo Rodrigo, torna público, ao abrigo da competência que lhe é conferida pela alínea t) do n.º 1 do artigo 35.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião ordinária, realizada a 12 de maio de 2016, deliberou aprovar o Projeto de Alteração ao Regulamento Municipal do Programa "Apoio ao Idoso", no sentido de submeter o mesmo a consulta pública, para recolha de sugestões, pelo período de 30 dias úteis, a contar da data de publicação do presente aviso, em cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo.
+Mais se informa que, o Projeto de Alteração ao Regulamento acima referenciado se encontra disponível para consulta no Gabinete de Apoio à Presidência, todos os dias úteis das 09:00h às 17:30h, bem como, no sítio de Internet do Município de Figueira de Castelo Rodrigo, em www.cm-fcr.pt.
+Assim, nos termos do disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, convidam-se todos os interessados a apresentar por escritos eventuais sugestões ao Município de Figueira de Castelo Rodrigo, dentro do período atrás referenciado, para Município de Figueira de Castelo Rodrigo, Largo Dr. Vilhena n.º 1, 6440-100 Figueira de Castelo Rodrigo, ou através do endereço de correio eletrónico: cm-fcr@cm-fcr.pt.
+3 de janeiro de 2017. - O Presidente da Câmara, Paulo José Gomes Langrouva.
+310149521
