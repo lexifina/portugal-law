@@ -1,0 +1,116 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12935",
+  "numero": "254",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-01-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2017-09-19",
+        "DataArquivo": "2017-09-25",
+        "DataBaixaComissao": "2017-02-02",
+        "DataEnvioPAR": "2017-09-20",
+        "DataReaberta": "2017-09-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659546c694e6a63794d4459745932517a596930305a44517a4c574669596a55745a5451334e54637a596d46684e54686d4c6e426b5a673d3d&fich=a9b67206-cd3b-4d43-abb5-e47573baa58f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d544178597a6733597a6774593255304f5330304d4749304c574a6a4e6a517459324e694e7a566c4e4459354d574a694c6e426b5a673d3d&fich=101c87c8-ce49-40b4-bc64-ccb75e4691bb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f574e695a6d51344f4755744d474534595330304e3259304c57466c596a45744d5455335a6a4a6a4d6d526c4d4449784c6e426b5a673d3d&fich=9cbfd88e-0a8a-47f4-aeb1-157f2c2de021.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a474e6c5a6d49354d5463744d3259354d7930304e6a63334c546b794e5451744d574e6c4f4441334f546b795a6d49784c6e426b5a673d3d&fich=dcefb917-3f93-4677-9254-1ce807992fb1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e544d784f4455354f474d745954526d4d793030597a4a694c546b78597a4d74593251344e6a6c6d4d47457a5a6a466b4c6e426b5a673d3d&fich=5318598c-a4f3-4c2b-91c3-cd869f0a3f1d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a4749314d574d784d6a4574593259784f433030595455784c574a6c597a59744d6a566b4d4455775a475a695a4451304c6e426b5a673d3d&fich=db51c121-cf18-4a51-bec6-25d050dfbd44.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f474d325a6a59774f544d74596d4e6c4e6930304f544d344c546c6d4d5745745a4755324d474d344f4755324e6a466d4c6e426b5a673d3d&fich=8c6f6093-bce6-4938-9f1a-de60c88e661f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-02-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793878593245794d4745304f53316d5a444d344c54526b595751745954517a4e4330344d6a5a6c4e475134596a4a6d5a6a59756347526d&fich=1ca20a49-fd38-4dad-a434-826e4d8b2ff6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12935",
+    "PetAssunto": "Solicita que sejam averiguados os motivos da cessação da sua comissão de serviço, bem como seja promovida alteração legislativa à Lei n.º 2/2014, de 15 de janeiro, que estabelece o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Pública.",
+    "PetDataEntrada": "2017-01-30",
+    "PeticoesAssociadas": null,
+    "PetId": "12935",
+    "PetLeg": "XIII",
+    "PetNr": "254",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
