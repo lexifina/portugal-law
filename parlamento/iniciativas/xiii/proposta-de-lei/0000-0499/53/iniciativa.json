@@ -1,0 +1,76 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Proposta de Lei",
+  "numero": "53",
+  "id": "40964",
+  "fases": 16,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2017-01-30",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2017-09-14",
+    "DataInicioleg": "2016-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32457a4f444d354d54526b4c57497a4f4459744e474d334e79316859574a6d4c545a6d595467774e5749794f44526a4d4335775a47593d&fich=a383914d-b386-4c77-aabf-6fa805b284c0.pdf&Inline=true",
+        "anexoNome": "Parecer AEM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a526b4d32526c4d7a55784c5759305a5441744e444e6d4e6931694e7a466c4c5752695a44566c4e4441305a6a6b794f4335775a47593d&fich=4d3de351-f4e0-43f6-b71e-dbd5e404f928.pdf&Inline=true",
+        "anexoNome": "Parecer APB"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a55314d4455335a6d49774c546b77597a45744e4755784e69303559545a684c5467324f5752694e574934596d49324e4335775a47593d&fich=55057fb0-90c1-4e16-9a6a-869db5b8bb64.pdf&Inline=true",
+        "anexoNome": "Parecer APFIPP"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3252685a6a6b354e6a4d344c57466a4d3255744e4463344e7930344e5468694c5449784d5452685a57566a4e325a6b4d4335775a47593d&fich=daf99638-ac3e-4787-858b-2114aeec7fd0.pdf&Inline=true",
+        "anexoNome": "Parecer Banco de Portugal"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245324f4441794d444d324c54466c595445744e474a694d7930354d4751354c574d355a444a684e7a526b4d4749344f5335775a47593d&fich=a6802036-1ea1-4bb3-90d9-c9d2a74d0b89.pdf&Inline=true",
+        "anexoNome": "Parecer CMVM"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a426d4e444932596a41784c54686d4e5751744e4449784f4331684e4759314c5451794d6a6b7a4e6d566c5a4467344e6935775a47593d&fich=0f426b01-8f5d-4218-a4f5-422936eed886.pdf&Inline=true",
+        "anexoNome": "Parecer EURONEXT"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63305a474d324d4756694c5745305a6a63744e4759784d4331684d7a51784c57466a4e4755794d6a59774e4463784f4335775a47593d&fich=74dc60eb-a4f7-4f10-a341-ac4e22604718.pdf&Inline=true",
+        "anexoNome": "Parecer IPCG"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4e694e4756694d545a6b4c5759324d3249744e4455304d793169593255774c5451335a5451315a4755795a5745314d5335775a47593d&fich=3b4eb16d-f63b-4543-bce0-47e45de2ea51.pdf&Inline=true",
+        "anexoNome": "Parecer OPEX"
+      }
+    ],
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Governo",
+      "sigla": "V"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Proposta de Lei",
+    "IniEpigrafe": null,
+    "IniId": "40964",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a677a5a6d457a4d574e6a4c5451344d6a45744e4452694e7930354e5759344c5463774f54526c5a57526d5a4751305a43356b62324d3d&fich=83fa31cc-4821-44b7-95f8-7094eedfdd4d.doc&Inline=true",
+    "IniNr": "53",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "P",
+    "IniTitulo": "Revê o regime sancionatório do direito dos valores mobiliários, transpõe a Diretiva n.º 2014/57/UE e a Diretiva de Execução (UE) n.º 2015/2392, e adapta o direito português ao Regulamento (UE) n.º 596/2014.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
