@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "55",
+    "id": "40962",
+    "titulo": "Transpõe a Diretiva n.º 2014/67/UE, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2017-01-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "39270",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-01-31",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-01-31",
+        "DatafimApreciacaoPublica": "2017-03-09",
+        "DatainicioApreciacaoPublica": "2017-02-07",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-03-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link dos Contributos",
+            "URL": "http://www.parlamento.pt/sites/com/xiiileg/10ctss/paginas/iniciativasapreciacaopublica.aspx?t=53556b67553077765132397564484a70596e563062334e665546424d4947347577726f674e54553d&path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765130394e4c7a45775131525455793942636e463161585a765132397461584e7a595738765357357059326c6864476c3259584e4263484a6c59326c68593246765548566962476c6a5953394a535342545443394462323530636d6c6964585276633139515545776762693743756941314e513d3d"
+          },
+          {
+            "DataDocumento": "2017-02-16",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica_PPL 55-XIII",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939685a6d49774e6d45334e5330314e5467314c54526a4f546b74596d59305a5330354e446b784e446c6a4d3249324d3259756347526d&fich=afb06a75-5585-4c99-bf4e-949149c3b63f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-15",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer Proposta de Lei n.º 55",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877595467305a47553159793032597a4d324c54517a4f475174596a4a6b4d79316a4e325a685a5455324f474d794f44557555455247&fich=0a84de5c-6c36-438d-b2d3-c7fae568c285.PDF&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4533",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "Numero": "4533",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "44-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-15",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/069/2017-02-15/44?pgs=44-54&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "44-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-15",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/069/2017-02-15/44?pgs=44-54&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1974",
+            "motivoCessacao": null,
+            "nome": "Ricardo Bexiga"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2017-02-15",
+            "dataRemessa": "2017-02-15",
+            "numeroOficio": "Email à DAPLEN",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2017-02-15",
+            "descricao": null,
+            "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>",
+            "id": "74532",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "74",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2017-01-31",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "322341",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
