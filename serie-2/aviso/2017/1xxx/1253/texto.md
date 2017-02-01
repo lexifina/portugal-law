@@ -1,0 +1,21 @@
+Aviso n.º 1253/2017
+Dr. Gonçalo Fernando Rocha de Jesus, Presidente da Câmara Municipal de Castelo de Paiva:
+Torna público que a Câmara Municipal de Castelo de Paiva na sua reunião ordinária de 12 de janeiro de 2017 deliberou promover a alteração do Regulamento do Plano Diretor Municipal de Castelo de Paiva, ao abrigo da alínea a) do n.º 2 do artigo 115.º e artigo 118.º, do Decreto-Lei n.º 80/2015, de 14 de maio, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIT), conjugado com o n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro (RERAE).
+A referida alteração ao regulamento de PDM não está sujeita a Avaliação Ambiental nos termos do n.º 4 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro (RERAE).
+A discussão pública decorrerá pelo período de 15 dias seguidos contados a partir da publicação do presente aviso na 2.ª serie do Diário da República.
+Durante o período indicado, os interessados poderão dirigir-se ou contactar a Divisão de Planeamento Urbanismo e Habitação, sito no edifício dos Paço do Concelho, para obter qualquer informação ou formular sugestões a este respeito ou consultar todos os documentos no portal da Internet do Município (http://www.cm-castelo-paiva.pt/).
+As reclamações, observações, sugestões ou pedidos de esclarecimentos deverão ser apresentadas por escrito, através de requerimento dirigido ao Presidente da Câmara Municipal de Castelo de Paiva, devidamente identificado o seu subscritor, a identificação do local, acompanhada, sempre que possível, de planta de localização, e o objeto da exposição, devidamente fundamentado e entregue no Gabinete de Atendimento Personalizado da Câmara Municipal, ou remetido através de correio registado ou através do e-mail: geral@cm-castelo-paiva.pt.
+Para constar e devidos efeitos se publica o presente aviso no Diário da República e na comunicação social e outros de igual teor que vão ser afixados nos lugares de estilo.
+20 de janeiro de 2017. - O Presidente da Câmara, Gonçalo Fernando Rocha Jesus.
+Ata
+Vasco André Moreira Pimenta, Chefe da Divisão de Administração Geral da Câmara Municipal de Castelo de Paiva:
+Certifico que, da ata da reunião ordinária da Câmara Municipal, realizada no dia 12 de janeiro de 2017, consta a seguinte deliberação, aprovada por minuta, nos termos e para os efeitos previstos no artigo 57.º da Lei 75/2013, de 12 de setembro:
+13 - Alteração ao Plano Diretor Municipal.
+Os serviços informaram o seguinte: "Na sequência de decisão favorável condicionada expressa na ata de conferência decisória, no âmbito do regime extraordinário de regularização de atividades económicas (RERAE) - Estabelecimentos Industriais do tipo III, propõem-se o seguinte: - Que a presente ata seja submetida ao órgão executivo e como consequência da mesma seja deliberada a alteração do plano diretor municipal de Castelo de Paiva, nos termos do disposto no artigo 118.º do RJIGT (DL 80/2015 de 15/05), com as especificidades do n.º 2 do artigo 12.º do RERAE, que se consubstanciará na introdução do seguinte artigo:
+Artigo n.º 45.º - Regularizações no âmbito do RERAE (DL 165/2014).
+As operações urbanísticas que se enquadrem no regime extraordinário de regularização de atividades económicas tenham obtido decisão favorável ou favorável condicionada tomada em conferência decisória, podem ficar dispensados do cumprimento, parcial ou integral, independentemente da categoria de espaço, das prescrições do PDM que lhe sejam aplicáveis, nos termos definidos nas atas das conferências decisórias.
+Mais deverá ser deliberado, nos termos do disposto no n.º 2 do referido artigo 12.º do RERAE um período de discussão pública de 15 dias."
+A Câmara Municipal deliberou através de votação nominal de que resultou maioria, com a abstenção dos vereadores do PSD, introduzir no regulamento do PDM uma alteração ao artigo 45.º que permita que todos os pedidos que foram submetidos no âmbito do regime extraordinário de regularização de atividades económicas sigam a sua tramitação, bem como submeter a alteração a discussão pública pelo período de 15 dias.
+Por ser verdade passo a presente certidão que assino e autentico com o selo branco em uso nesta Autarquia.
+Divisão de Administração Geral da Câmara Municipal de Castelo de Paiva, 20 de janeiro de 2017. - O Chefe de Divisão, Vasco André Moreira Pimenta.
+610205435
