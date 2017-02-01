@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2017-02-01, processo 01115/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01115/13
+
+**Data do Acordão:** 02/01/2017
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** PEDRO DELGADO
+
+**Descritores:** BENEFÍCIOS FISCAIS; FUNDAÇÃO; MECENATO
+
+**Nº Convencional:** JSTA00070003
+
+**Nº do Documento:** SA22017020101115
+
+**Data de Entrada:** 06/20/2013
+
+**Recorrente:** FUND A........
+
+**Recorrido 1:** MFIN E DA ADMINISTRAÇÃO PÚBLICA
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL
+
+**Objecto:** AC TCAS
+
+**Decisão:** PROVIDO
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - ACÇÃO ADM ESPECIAL; DIR FISC - IRC
+
+**Legislação Nacional:** CONST05 ART2 ART18 N2 ART20; CIRC01 ART10; EBFISC01 ART11 ART62 N1 B; CPPTRIB99 ART97-A; CPA91 ART133 N2 B; CPC13 ART537 N7; CCIV66 ART13; RCP08 ART6 N7 ART11; CCJ96 ART13 N1 ART18 N2; DL 74/99 DE 1999/03/16 ART1; ESTATUTO DO MECENATO ART1; L 24/12 DE 2012/07/09; L 7/12 DE 2012/02/13 ART2; L 107-B/03 DE 2003/12/31; L 109-B/01 DE 2001/12/27; L 3-B/00 DE 2000/04/04; L 30-C/00 DE 2000/12/29; L 30-G/00 DE 2000/12/29; L 176-A/99 DE 1999/12/30; L 160/99 DE 1999/09/14; DL 52/11 DE 2011/04/13
+
+**Jurisprudência Nacional:** AC TC 604/13 DE 2013/09/24; AC STAPLENO PROC01435/12 DE 2014/10/15; AC STA PROC0923/16 DE 2016/11/23; AC STA PROC0261/14 DE 2015/01/07; AC STA PROC0369/14 DE 2014/11/05; AC STA PROC01351/14 DE 2014/05/07; AC STA PROC01319/13 DE 2014/07/09 ; AC STA PROC0471/13 DE 2013/10/21; AC STA PROC0148/13 DE 2014/01/15; AC STA PROC0819/12 DE 2012/10/31; AC STA PROC0768/11 DE 2012/04/26
+
+**Referência a Doutrina:** RELATÓRIO DO GRUPO DE TRABALHO DA COMISSÃO DE ECONOMIA FINANÇAS E PLANO PARA A ALTERAÇÃO DO ESTATUTO DO MECENATO - DIÁRIO DA AR DE 1999/07/03 2SERIE-B N35 PÁG292; SALVADOR DA COSTA - REGULAMENTO DAS CUSTAS PROCESSUAIS ANOTADO E COMENTADO 4ED 2012 PÁG85; IDEM 5ED 2013 ANOTAÇÃO AO ART7
+
+## Sumário
+
+O benefício fiscal previsto na al. d) do nº 1 do Estatuto do Mecenato, aprovado pelo Decreto Lei 74/99 de 16 de Março, na redacção que lhe foi atribuída pela Lei 160/99, relativo à dotação inicial a fundações de iniciativa exclusivamente privada, não carece de reconhecimento, sendo, por conseguinte, automático.
