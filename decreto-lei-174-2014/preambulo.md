@@ -1,0 +1,23 @@
+Decreto-Lei n.º 174/2014
+
+de 5 de dezembro
+
+O serviço público de transporte rodoviário de passageiros é prestado, na cidade de Lisboa, desde há várias décadas, pela Companhia Carris de Ferro de Lisboa, S. A. (Carris, S. A.), tendo por base a concessão que lhe foi atribuída através do Decreto-Lei n.º 688/73, de 21 de dezembro, alterado pelos Decretos-Leis n.os 300/75, de 20 de junho, e 485/88, de 30 de dezembro.
+
+O contexto da prestação deste transporte público sofreu, entretanto, diversas alterações, entre as quais se destacam a nacionalização da empresa e a assunção, pelo Estado, de todas as situações jurídicas que a Câmara Municipal de Lisboa detinha em relação à Carris, S. A. - operadas através do Decreto-Lei n.º 346/75, de 3 de julho -, a aprovação da Lei de Bases do Sistema de Transportes Terrestres (Lei n.º 10/90, de 17 de março) e, mais recentemente, a evolução legislativa a nível europeu no sector dos transportes.
+
+Neste particular, o Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, relativo aos serviços públicos de transporte ferroviário e rodoviário de passageiros, veio estabelecer um novo enquadramento para a prestação dos serviços públicos deste sector, apontando para um regime de concorrência regulada ao impor a abertura progressiva dos mercados do transporte público de passageiros a nível europeu, no respeito pelo princípio da reciprocidade e considerando todos os mercados nacionais de cada Estado-Membro, sendo irrelevante, na ótica do direito europeu, se os serviços públicos de transporte de passageiros são operados por entidades públicas ou privadas.
+
+Por outro lado, e de acordo com as linhas de orientação prioritárias traçadas pelo Governo para o sector dos transportes, plasmadas no Programa do XIX Governo Constitucional e, em termos mais concretos, no Plano Estratégico dos Transportes para o horizonte 2011-2015 (PET), aprovado pela Resolução do Conselho de Ministros n.º 45/2011, de 10 de novembro, têm vindo a ser implementadas medidas de reestruturação das empresas do sector dos transportes públicos terrestres, entre as quais se encontra a Carris, S. A., decorrendo também das referidas linhas de orientação prioritárias que a responsabilidade pela prestação dos serviços públicos de transporte de passageiros deverá ser transferida, nos casos em que isso melhora as condições e a eficiência da referida prestação, mantendo o Estado o seu papel de regulador e coordenador estratégico, assegurando a qualidade e acessibilidade a todos os cidadãos do serviço público.
+
+O Plano Estratégico dos Transportes e Infraestruturas (PETI 3+), estabeleceu, em abril de 2014, o início da segunda fase das reformas preconizadas para este sector, prevendo também a abertura à iniciativa privada das atividades de operação e exploração dos serviços públicos de transporte de passageiros nas áreas metropolitanas de Lisboa e do Porto.
+
+Neste contexto, e na sequência da implementação das diversas medidas de reestruturação desta empresa pública, importa proceder à criação de um quadro legal e contratual da prestação do serviço público pela Carris, S. A., que se revele mais consentâneo com a realidade atual da prestação dos serviços públicos de transporte de passageiros e a possibilidade de uma nova entidade vir a desempenhar atividades hoje prosseguidas por aquela empresa pública.
+
+Com efeito, a concessão atribuída à Carris, S. A., assenta num quadro legal marcadamente obsoleto, que carece de manifesta atualização. Revela-se, por este motivo, adequado modificar o predito quadro legal, estipulando-se um regime jurídico geral para a concessão da Carris, S. A., que permita ir de encontro aos desideratos últimos do Governo de tornar a atividade prosseguida por esta empresa pública mais eficiente a vários níveis e, por conseguinte, financeiramente sustentável, bem como assegurar que o serviço público pela mesma prestado responde aos níveis de qualidade exigidos a um serviço com a importância do serviço de transporte público de passageiros na cidade de Lisboa.
+
+O presente decreto-lei procede, deste modo, à atualização do quadro jurídico geral da concessão de serviço público atribuída à Carris, S. A., na qual o Estado detém a posição de concedente, criando as condições para que, posteriormente, se possa proceder às modificações contratuais que se afigurem necessárias, já em conformidade com as disposições normativas previstas no presente diploma, bem como dar início ao processo tendente ao envolvimento de uma nova entidade na prossecução de atividades hoje prosseguidas por aquela empresa pública.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
