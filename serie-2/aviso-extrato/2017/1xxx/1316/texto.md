@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 1316/2017
+Projeto de Regulamento Municipal das Atividades de Comércio a Retalho Não Sedentário Exercida por Feirantes e Vendedores Ambulantes e de Prestação de Serviços de Restauração ou de Bebidas não Sedentário.
+Rui Manuel Leal Marqueiro, Presidente da Câmara Municipal de Mealhada, para os efeitos do n.º 1 do artigo 101.º do Código do Procedimento Administrativo, torna público que a Câmara Municipal em reunião ordinária realizada em 19 de dezembro de 2016, deliberou aprovar o Projeto de Regulamento Municipal das Atividades de Comércio a Retalho Não Sedentário Exercida por Feirantes e Vendedores Ambulantes e de Prestação de Serviços de Restauração ou Bebidas Não Sedentário e submetê-lo a consulta pública, pelo prazo de trinta dias, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, cujo texto se encontra disponível na página eletrónica oficial do Município de Mealhada www.cm-mealhada.pt.
+Mais se torna público que, nos termos do disposto no n.º 2 do citado artigo 101.º, os interessados deverão dirigir as suas sugestões, por escrito, ao Presidente da Câmara Municipal, Largo do Jardim, 3054-001 Mealhada ou para o seguinte endereço eletrónico: gabpresidencia@cm-mealhada.pt.
+11 de janeiro de 2017. - O Presidente de Câmara, Rui Manuel Leal Marqueiro.
+310208805
