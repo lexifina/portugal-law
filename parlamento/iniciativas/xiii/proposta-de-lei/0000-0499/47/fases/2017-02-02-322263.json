@@ -1,0 +1,380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "47",
+    "id": "40845",
+    "titulo": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-02-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11740",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-02-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-02-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:37:10:326&drc=00:04:00:673"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:59:06:847&drc=00:01:23:152"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   ADMINISTRAÇÃO  INTERNA",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Constança Urbano de Sousa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11",
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/11?pgs=11,16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:41:17:666&drc=00:03:01:333"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206398",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/12?pgs=12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6176",
+                "nome": "Sara Madruga da Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:44:23:860&drc=00:03:01:632"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206399",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:47:28:867&drc=00:03:40:132"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206400",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:51:14:402&drc=00:03:38:597"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_02_15_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=00:54:57:036&drc=00:04:00:963"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206402",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o Estatuto Disciplinar da Polícia de Segurança Pública.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "322263",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "11740",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-03",
+        "pubLeg": "XIII",
+        "pubNr": "46",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/046/2017-02-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
