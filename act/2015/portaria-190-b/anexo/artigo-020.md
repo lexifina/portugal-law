@@ -23,7 +23,3 @@ e) Garantia da regularidade da despesa realizada.
 5 - Compete à autoridade de gestão assegurar o registo, no sistema de informação do POAPMC, dos dados referentes à validação da despesa, ao pagamento e aos montantes a recuperar, devendo ser salvaguardada a compatibilidade e a transferência automática de dados para o sistema de informação da autoridade de certificação.
 
 6 - A Agência, I. P., dá conhecimento à autoridade de gestão dos pagamentos efetuados aos beneficiários, bem como dos montantes por si recuperados, no âmbito do POAPMC, sendo estes últimos transferidos para a Conta FEAC.
-
-CAPÍTULO III
-
-Sistemas de informação

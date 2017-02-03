@@ -11,7 +11,3 @@
 4 - A autoridade de gestão deve disponibilizar aos beneficiários e parceiros as ferramentas de informação e de comunicação, incluindo modelos em formato eletrónico, para cumprimento das obrigações referidas no presente artigo.
 
 5 - Todas as obrigações e ações referidas no presente artigo devem ser concretizadas sem estigmatização dos destinatários finais.
-
-CAPÍTULO V
-
-Promoção das atividades apoiadas

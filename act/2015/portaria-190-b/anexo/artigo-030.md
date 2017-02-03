@@ -7,7 +7,3 @@
 2 - O processo técnico e contabilístico da operação deve estar sempre atualizado e disponível.
 
 3 - A estrutura e conteúdo do processo técnico e contabilístico são definidos no regulamento específico do POAPMC.
-
-CAPÍTULO VIII
-
-Elegibilidades e pagamentos
