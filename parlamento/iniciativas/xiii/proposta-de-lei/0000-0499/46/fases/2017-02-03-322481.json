@@ -1,0 +1,257 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "46",
+    "id": "40844",
+    "titulo": "Altera o exercício da liberdade sindical e os direitos de negociação coletiva e de participação do pessoal da Polícia de Segurança Pública com funções policiais."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2017-02-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "39292",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2017-03-21",
+            "id": "104608",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-02-03",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-02-03",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-03-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a45784d546c6b4f4451745a446b7a4f5330305a54426a4c546b355a574d74596a497a5a6a6c6b4f4467324e5751344c6c424552673d3d&fich=31119d84-d939-4e0c-99ec-b23f9d8865d8.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-29",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Substituição - PS e PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4749324f57466d4e5441744e544e684d4330305a446b314c57466c4d4745744d444e684d324d31597a68694d6d49784c6e426b5a673d3d&fich=db69af50-53a0-4d95-ae0a-03a3c5c8b2b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a44646b4e7a49795a546b74593255314d6930304f44677a4c5749784f5445744e7a4a6b4e5441304d324a6d5a6a51784c6e426b5a673d3d&fich=d7d722e9-ce52-4883-b191-72d5043bff41.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de alteração - CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4445314e6d51794e4451744e5755345a533030596a63324c5745314d7a67744d6a5a694f5463304d7a4a6d4d6a49774c6e426b5a673d3d&fich=d156d244-5e8e-4b76-a538-26b97432f220.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Propostas de alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324d32596a4d334f446b744f47517a4d4330305a5759794c5745334e574d745a4459334f4451354f574d354e324d344c6e426b5a673d3d&fich=cc6b3789-8d30-4ef2-a75c-d678499c97c8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-24",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de alteração ao texto de substituição - PS/PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e44526c4e7a4a6d4e3251744e6d5a684f433030597a4d304c574a6a4e7a63744e44646c4d446c695932566b4f446c6a4c6e426b5a673d3d&fich=44e72f7d-6fa8-4c34-bc77-47e09bced89c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Profissional dos Profissionais da Polícia - ASPP/PSP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d51324e6d49784e5463745a444a685a693030596a426b4c574932596a49744d6a526a4d6d45344e6d5131595455354c6c424552673d3d&fich=2d66b157-d2af-4b0d-b6b2-24c2a86d5a59.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Sindical Autónoma de Polícia - ASAPOL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a59794e6a457a596d55744f44466b4d5330304d5459314c546c6b4d32497459324d344d5451774e54566b5a6a51334c6c424552673d3d&fich=c62613be-81d1-4165-9d3b-cc814055df47.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Federação Nacional dos Sindicatos de Polícia - FENPROF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a51345a6d5534597a497459575177596930304f5746684c57466a596a59744d444e6d4f445a684d4441334e6d5a684c6e426b5a673d3d&fich=f48fe8c2-ad0b-49aa-acb6-03f86a0076fa.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato de Polícia pela Ordem e Liberdade - SPPOL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d46694d6d55345a445174593245794d533030597a5a6c4c574a6b4d6d55744f546c6d5a6d4a6a4f4759794d7a56694c6e426b5a673d3d&fich=bab2e8d4-ca21-4c6e-bd2e-99ffbc8f235b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato dos Profissionais de Polícia - SPP-PSP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54686a4e4451305a4755744f5755784e4330304e6d566a4c5467304f54497459325a6c596a63794f544a6c4e324e6b4c6e426b5a673d3d&fich=e8c444de-9e14-46ec-8492-cfeb7292e7cd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-02-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Independente dos Agentes de Polícia - SIAP ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4745304e7a637a4d574d745a6a46685a5330304d47566a4c54686b4e4459744d32526d5a4449355a6a59354e5459774c6e426b5a673d3d&fich=0a47731c-f1ae-40ec-8d46-3dfd29f69560.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Independente Livre da Polícia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a445a684d6a526a4e5449744e5745774f5330304f546c694c5749794e5755744d544a6b4d575532596a4e6c5a57466b4c6e426b5a673d3d&fich=d6a24c52-5a09-499b-b25e-12d1e6b3eead.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Nacional da Carreira de Chefes da Polícia de Segurança Pública - SNCC-PSP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a4d344d57466c5a4463744e546c6b4e5330304e4749334c54686d4e6a55745a6d49794f54637859325a6d4e3245774c6e426b5a673d3d&fich=2381aed7-59d5-44b7-8f65-fb2971cff7a0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-03-20",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato Vertical de Carreiras da Polícia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e324535595441345a6d51745a6a45774f5330304d7a4a6b4c546c6b4f544d745a47526d4f446469596d4e6a4e5441774c6c424552673d3d&fich=7a9a08fd-f109-432d-9d93-ddf87bbcc500.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-16",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4755784d6d597a59324d744e5755354f43303059324e684c5467344e7a6b744d6a566c4d7a5a684f5749325a6d526d4c6d52765933673d&fich=de12f3cc-5e98-4cca-8879-25e36a9b6fdf.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-14",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição e relatório da nova apreciação na generalidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f446c6b596a4d784e6a59745a574e6c595330305a5467354c57497a4e7a4574596a566b4d7a4d324d6a4d35595746694c6e426b5a673d3d&fich=89db3166-ecea-4e89-b371-b5d336239aab.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da  nova apreciação na generalidade e especialidade, propostas de alteração apresentadas pelo BE, PS e PSD, PCP e CDS-PP e texto de substituição \n",
+            "pag": [
+              "12-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-05-13",
+            "pubLeg": "XIII",
+            "pubNr": "99",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/099/2019-05-13/12?pgs=12-63&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da  nova apreciação na generalidade e especialidade, propostas de alteração apresentadas pelo BE, PS e PSD, PCP e CDS-PP e texto de substituição \n",
+            "pag": [
+              "12-63"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-05-13",
+            "pubLeg": "XIII",
+            "pubNr": "99",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/099/2019-05-13/12?pgs=12-63&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-05-02",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-05-02",
+            "dataRemessa": "2019-05-14",
+            "numeroOficio": "379/XIII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-05-02",
+            "descricao": null,
+            "detalhe": null,
+            "id": "83241",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "254",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2017-02-03",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "322481",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
