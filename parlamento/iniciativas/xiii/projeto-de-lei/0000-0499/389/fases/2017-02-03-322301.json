@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "389",
+    "id": "40951",
+    "titulo": "Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-02-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11754",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-02-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40958",
+        "leg": "XIII",
+        "nr": "638",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2286",
+            "obs": null,
+            "pag": [
+              "3-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-04",
+            "pubLeg": "XIII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/3?pgs=3-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2286",
+            "obs": null,
+            "pag": [
+              "3-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-04",
+            "pubLeg": "XIII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/3?pgs=3-59&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "39772",
+        "leg": "XIII",
+        "nr": "12",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2286",
+            "obs": null,
+            "pag": [
+              "3-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-04",
+            "pubLeg": "XIII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/3?pgs=3-59&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2286",
+            "obs": null,
+            "pag": [
+              "3-59"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-04",
+            "pubLeg": "XIII",
+            "pubNr": "47",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/3?pgs=3-59&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Redução de resíduos de embalagens"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-02-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:32:07:948&drc=00:02:38:051"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:55:01:427&drc=00:02:15:573"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/27?pgs=27-28,33-34&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5900",
+                "nome": "Ana Virgínia Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:34:49:268&drc=00:03:43:731"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:38:37:408&drc=00:01:31:591"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:40:13:278&drc=00:03:19:721"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:43:37:184&drc=00:03:41:815"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:47:23:613&drc=00:03:36:835"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:44",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_02_03_10_00_00_14_plenario&url=l13/sl2/a2017/m02/&tI=01:51:04:073&drc=00:03:47:838"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-02-04",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Redução de resíduos de embalagens; Determina o regime jurídico da utilização de embalagens fornecidas em superfícies comerciais; Recomenda ao Governo que diligencie no sentido de reduzir o número de embalagens plásticas assim fomentado a utilização de outros materiais mais ecológicos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "322301",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "782761",
+        "obs": null,
+        "pag": [
+          "27-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-02-04",
+        "pubLeg": "XIII",
+        "pubNr": "47",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/047/2017-02-04/27?pgs=27-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
