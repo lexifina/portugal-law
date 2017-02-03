@@ -4,7 +4,7 @@
 
 1 - A monitorização e avaliação são implementadas de acordo com as competências atribuídas ao órgão de coordenação técnica e à autoridade de gestão.
 
-2 - Compete à autoridade de gestão, em articulação com o órgão de coordenação política, definir a necessidade e a oportunidade de efetuar avaliações que afiram a eficácia, eficiência e impacto do POAPMC e em sequência elaborar o respetivo Plano de Avaliação.
+2 - Compete à autoridade de gestão, em articulação com os membros do governo responsáveis pela coordenação política do FEAC, definir a necessidade e a oportunidade de efetuar avaliações que afiram a eficácia, eficiência e impacto do POAPMC e em sequência elaborar o respetivo Plano de Avaliação.
 
 3 - Compete à autoridade de gestão assegurar que as avaliações operacionais do POAPMC são realizadas em conformidade com as disposições europeias e com as orientações nacionais aplicáveis.
 

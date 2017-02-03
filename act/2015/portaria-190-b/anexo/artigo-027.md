@@ -8,7 +8,7 @@
 
 a) Estarem legalmente constituídas;
 
-b) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, e em matéria de reposições no âmbito dos FEEI a verificar até ao momento da assinatura do termo de aceitação;
+b) Terem a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, e em matéria de reposições no âmbito dos FEEI e do FEAC a verificar até ao momento da assinatura do termo de aceitação;
 
 c) Possuírem, ou poderem assegurar até à aprovação da candidatura, os meios técnicos, físicos e financeiros e os recursos humanos necessários ao desenvolvimento da operação;
 

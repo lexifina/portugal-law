@@ -6,7 +6,7 @@
 
 2 - As candidaturas são apresentadas na sequência de aviso de abertura de candidaturas devidamente publicitado na página da internet da autoridade de gestão e no portal do Portugal 2020.
 
-3 - As candidaturas às operações de distribuição de alimentos devem:
+3 - Do protocolo de parceria devem constar, designadamente, os seguintes elementos:
 
 a) Corresponder a territórios delimitados, a definir no aviso de abertura de candidatura;
 

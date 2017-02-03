@@ -10,9 +10,9 @@ b) Receber diretamente o financiamento atribuído pela autoridade de gestão, ge
 
 c) Abranger, no âmbito da candidatura que integram em parceria, um número de destinatários finais igual ou superior a 150;
 
-d) Elaborar, logo que tenha conhecimento da quantidade de cada produto atribuído, o plano de distribuição do qual deve constar as quantidades de produtos, por embalagens individuais, a atribuir a cada entidade mediadora em função do respetivo número de destinatários finais a abranger;
+d) Elaborar no SI FEAC, logo que tenha conhecimento da quantidade de cada produto atribuído, o plano de distribuição do qual deve constar as quantidades de produtos, por embalagens individuais, a atribuir a cada entidade mediadora em função do respetivo número de destinatários finais a abranger;
 
-e) Receber os produtos alimentares entregues pelas empresas adjudicatárias, armazená-los e distribuí-los às entidades mediadoras, cumprindo as seguintes condições de conservação, armazenagem e acondicionamento, consoante as características dos produtos:
+e) Receber os produtos alimentares, armazená-los e entregá-los às entidades mediadoras, cumprindo as seguintes condições de conservação, armazenagem, acondicionamento e transporte, consoante as características dos produtos:
 
 i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
 
@@ -26,7 +26,7 @@ g) Garantir a capacidade para executar o plano de distribuição na respetiva á
 
 h) Ter um responsável, a quem compete a gestão do polo de receção, designadamente nos aspetos relacionados com:
 
-i) Segurança, correta armazenagem e acondicionamento dos produtos, respondendo por qualquer anomalia;
+i) Segurança, correta armazenagem, acondicionamento e transporte dos produtos, respondendo por qualquer anomalia;
 
 ii) Receção e conferência dos produtos recebidos;
 
@@ -34,7 +34,7 @@ iii) Prazos de validade dos produtos;
 
 iv) Entregas dos produtos às entidades mediadoras e respetivos registos nas credenciais, disponibilizadas para o efeito no SI FEAC;
 
-i) Efetuar o controlo dos stocks dos produtos, designadamente a quantidade dos produtos recebidos e atribuídos, enquanto estes estiverem sob a sua responsabilidade, utilizando obrigatoriamente para o efeito o SI FEAC;
+i) Efetuar o controlo dos stocks dos produtos, designadamente a quantidade dos produtos recebidos e entregues às entidades mediadoras, enquanto estes estiverem sob a sua responsabilidade, utilizando obrigatoriamente para o efeito o SI FEAC;
 
 j) Elaborar um auto, devidamente assinado pelos responsáveis da entidade, de todas as perdas que se venham a registar, com indicação, designadamente, da data da ocorrência, tipo de produto, quantidade, motivo da perda, entidades envolvidas, apuramento de responsabilidades, destino do produto e conclusões;
 

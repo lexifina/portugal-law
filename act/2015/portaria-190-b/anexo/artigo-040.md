@@ -10,8 +10,4 @@
 
 ### Objeto
 
-O presente regulamento específico define o regime de acesso aos apoios concedidos no âmbito das seguintes medidas do POAPMC, apoiado pelo FEAC:
-
-a) Medida 1 - Aquisição e distribuição de géneros alimentares e ou de bens de primeira necessidade;
-
-b) Medida 2 - Fornecimento de refeições diárias gratuitas.
+O presente regulamento específico define o regime de acesso aos apoios concedidos no âmbito da medida 1, aquisição e distribuição de géneros alimentares e ou bens de primeira necessidade, do POAPMC, apoiado pelo FEAC.

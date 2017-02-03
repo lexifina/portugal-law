@@ -8,4 +8,4 @@
 
 a) A data do ato que determina o início do procedimento de contratação pública, no caso da operação relativa à aquisição de géneros alimentares e ou de bens de primeira necessidade;
 
-b) A data do registo do primeiro destinatário final no SI FEAC, no caso da operação relativa à distribuição de géneros alimentares e ou de bens de primeira necessidade e respetivas medidas de acompanhamento.
+b) A data do registo da elegibilidade do primeiro destinatário final ou a data da primeira receção de produto no polo de receção, correspondente ao registo no SI FEAC, da primeira guia de remessa, no caso da operação relativa à distribuição de géneros alimentares e ou de bens de primeira necessidade e respetivas medidas de acompanhamento.

@@ -2,9 +2,7 @@
 
 ### Coordenação política
 
-1 - O órgão de coordenação política para o FEAC é a Comissão Interministerial de Coordenação, designada por CIC Portugal 2020.
-
-2 - Compete à coordenação política, designadamente:
+1 - A coordenação política do FEAC é da responsabilidade conjunta dos Ministros do Trabalho, Solidariedade e Segurança Social e do Planeamento e das Infraestruturas.
 
 a) Coordenar a execução do POAPMC;
 

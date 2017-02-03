@@ -6,7 +6,7 @@
 
 2 - Nos casos previstos no número anterior, as organizações parceiras na modalidade de polo de receção assumem também a função de entidade coordenadora da parceria.
 
-3 - Das candidaturas desenvolvidas em parceria devem constar, designadamente, os seguintes elementos:
+3 - Do protocolo de parceria devem constar, designadamente, os seguintes elementos:
 
 a) Indicação do território a que se candidatam;
 
@@ -16,7 +16,9 @@ c) Número de destinatários finais a abranger por cada uma das organizações p
 
 d) Função que cada uma das organizações parceiras desempenha na operação, designadamente polo de receção e entidade coordenadora, e ou entidade mediadora;
 
-e) Explicitação da forma como cada organização parceira contribui para o cumprimento dos requisitos e dos critérios de seleção aplicáveis no desenvolvimento da operação previstos nos artigos 62.º, 63.º e 66.º
+e) Explicitação da forma como cada organização parceira contribui para o cumprimento dos requisitos e dos critérios de seleção aplicáveis no desenvolvimento da operação previstos nos artigos 62.º, 63.º e 66.º;
+
+f) A repartição da percentagem do apoio entre as entidades coordenadoras e as entidades mediadoras, de acordo com as normas definidas no aviso de abertura de candidaturas.
 
 4 - Todas as entidades que integram a candidatura são consideradas beneficiárias, devendo respeitar os requisitos definidos nos artigos 62.º e 63.º, e as obrigações previstas nos artigos 68.º e 69.º, na parte correspondente à função que desempenham na operação cofinanciada.
 

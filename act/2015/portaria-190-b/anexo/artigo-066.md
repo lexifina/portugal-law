@@ -4,9 +4,9 @@
 
 1 - Para além do cumprimento dos requisitos previstos no artigo 46.º, na seleção das candidaturas no âmbito da operação de distribuição de géneros alimentares e ou de bens de primeira necessidade, são ainda tidos em conta os seguintes critérios:
 
-a) Existência de capacidade de distribuição do apoio, preferencialmente adquirida no âmbito da operacionalização do Programa Comunitário de Ajuda Alimentar a Carenciados (PCACC);
+a) Experiência de distribuição do apoio, preferencialmente adquirida no âmbito da operacionalização do Programa Comunitário de Ajuda Alimentar a Carenciados (PCAAC);
 
-b) Demonstração de experiência de atendimento e ou acompanhamento social junto dos destinatários finais abrangidos no âmbito da candidatura;
+b) Demonstração de experiência de atendimento e ou acompanhamento social junto das pessoas mais carenciadas no território de intervenção da candidatura;
 
 c) Existência de estruturas logísticas que permitam mais facilmente chegar aos destinatários finais;
 

@@ -15,3 +15,7 @@ a) A entrega direta dos produtos às pessoas mais carenciadas nas instalações 
 b) A confeção de refeições, para consumo pelas pessoas mais carenciadas, nas instalações da organização parceira.
 
 3 - A forma de distribuição prevista na alínea b) do número anterior é implementada, a título excecional, nos anos de 2014 e 2015.
+
+4 - No âmbito da operação prevista na alínea a) do n.º 2, de forma excecional, nos casos em que os destinatários não reúnam condições para confecionar refeições, as entidades parceiras podem, complementarmente à entrega dos bens, proceder à sua confeção, desde que a pedido dos destinatários.
+
+5 - São definidas condições adicionais necessárias à concretização do previsto no número anterior através de despacho do Ministro do Trabalho, Solidariedade e Segurança Social, mediante proposta dos organismos intermédios.

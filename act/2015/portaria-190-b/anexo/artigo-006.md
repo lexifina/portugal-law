@@ -4,7 +4,7 @@
 
 Compete à Agência, I. P., enquanto órgão de coordenação técnica do FEAC:
 
-a) Garantir, em articulação com a autoridade de gestão, o apoio técnico ao órgão de coordenação política;
+a) Garantir, em articulação com a autoridade de gestão, o apoio técnico perante os membros do governo responsáveis pela coordenação política do FEAC;
 
 b) Emitir parecer prévio sobre a regulamentação específica do POAPMC, proposta pela autoridade de gestão;
 

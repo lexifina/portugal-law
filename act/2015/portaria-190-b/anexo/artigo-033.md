@@ -20,13 +20,17 @@ c) Cumpram com os princípios da economia, eficiência e eficácia e da relaçã
 
 a) As despesas com a aquisição de alimentos ou de bens de primeira necessidade.
 
-b) As despesas de transporte de alimentos e os custos de armazenagem, desde que realizados, no âmbito de operações de aquisição de alimentos ou de bens de primeira necessidade, por organismos públicos que os fornecem a organizações parceiras e dentro do limite de 1 % dos encargos suportados com a aquisição desses géneros alimentares ou desses bens de primeira necessidade.
+b) As despesas de transporte de alimentos e os custos de armazenagem, desde que realizados, no âmbito de operações de aquisição de alimentos ou de bens de primeira necessidade, por organismos públicos que os fornecem a organizações parceiras, a uma taxa fixa de 1 % dos encargos suportados com a aquisição desses géneros alimentares ou desses bens de primeira necessidade;
 
-c) As despesas administrativas, de transporte e de armazenamento realizados por organizações parceiras a uma taxa fixa de 5 % do valor dos géneros alimentares ou dos bens de primeira necessidade;
+c) As despesas administrativas, de transporte e de armazenamento realizados por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares ou dos bens de primeira necessidade;
 
-d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operações de distribuição de alimentos ou de bens de primeira necessidade, por organizações parceiras a uma taxa fixa de 5 % do valor dos géneros alimentares ou dos bens de primeira necessidade.
+d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operações de distribuição de alimentos ou de bens de primeira necessidade, por organizações parceiras a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares ou dos bens de primeira necessidade.
 
-6 - Não são elegíveis, nomeadamente, as seguintes despesas:
+6 - As taxas referidas nas alíneas b), c) e d) do número anterior aplicam-se sobre valores de aquisição dos géneros alimentares ou dos bens de primeira necessidade.
+
+7 - A redução da despesa elegível associada à aquisição dos géneros alimentares ou dos bens de primeira necessidade prevista na alínea a) do n.º 5 determina, por consequência, a redução da despesa elegível que resulta da aplicação da taxa fixa referida nas alíneas b), c) e d) do mesmo número.
+
+8 - Não são elegíveis as seguintes despesas:
 
 a) O Imposto sobre o Valor Acrescentado (IVA) recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário;
 
@@ -34,12 +38,8 @@ b) Os juros sobre dívidas;
 
 c) O fornecimento de infraestruturas;
 
-d) Os custos de bens em segunda mão;
+d) Os custos de bens em segunda mão.
 
-e) As despesas pagas no âmbito de contratos efetuados através dos intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis da operação;
+9 - A metodologia de organização dos custos elegíveis, nomeadamente a sua categorização por rubricas, para efeitos de apresentação da candidatura, pedidos de reembolso e saldo, são definidos no regulamento específico do POAPMC.
 
-f) Os pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente em função da natureza de despesas, e desde que num quantitativo inferior a 250 euros.
-
-7 - A metodologia de organização dos custos elegíveis, nomeadamente a sua categorização por rubricas, para efeitos de apresentação da candidatura, pedidos de reembolso e saldo, são definidos no regulamento específico do POAPMC.
-
-8 - O regulamento específico e os avisos para apresentação de candidaturas, por concurso ou convite, podem concretizar e fixar regras mais restritivas de elegibilidade do que as previstas nos números anteriores, bem como definir a elegibilidade das despesas em função da tipologia das operações.
+10 - O regulamento específico e os avisos para apresentação de candidaturas, por concurso ou convite, podem concretizar e fixar regras mais restritivas de elegibilidade do que as previstas nos números anteriores, bem como definir a elegibilidade das despesas em função da tipologia das operações.

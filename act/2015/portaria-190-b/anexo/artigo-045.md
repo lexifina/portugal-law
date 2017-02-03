@@ -8,8 +8,8 @@
 
 3 - Para efeitos do disposto no presente regulamento são ainda destinatários finais as pessoas sem-abrigo e as pessoas na situação de indocumentadas de acordo com as regras em vigor no subsistema de segurança social.
 
-4 - A identificação das pessoas mais carenciadas é efetuada pelo técnico de ação social que acompanha a família, o qual pode pertencer a um organismo público ou a uma organização parceira, de acordo com os critérios de carência, em cada momento, em vigor.
+4 - A identificação das pessoas mais carenciadas é efetuada pelo técnico de acompanhamento e atendimento social das famílias, o qual pode pertencer a um organismo público ou a uma organização habilitada para o efeito, de acordo com os critérios de carência, em cada momento, em vigor.
 
-5 - No âmbito do POAPMC, o destinatário final só pode ser abrangido por uma medida para o mesmo período de tempo, não podendo haver duplicação de destinatários na execução do POAPMC.
+5 - No âmbito do POAPMC, o destinatário final não pode ser abrangido por mais de uma medida de política para o mesmo período de tempo e para o mesmo fim nos termos a fixar em aviso de abertura de candidaturas.
 
-6 - Para efeitos do disposto no número anterior, cabe ao beneficiário indicar a medida mais adequada a cada um dos destinatários finais registado na sua lista, de acordo com as respetivas características.
+6 - [Revogado.]

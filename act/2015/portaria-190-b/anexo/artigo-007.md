@@ -4,7 +4,7 @@
 
 1 - A autoridade de gestão do POAPMC é a autoridade de gestão do Programa Operacional Inclusão Social e Emprego (PO ISE).
 
-2 - A autoridade de gestão responde perante o órgão de coordenação política e presta as informações relevantes e pertinentes sobre a execução do POAPMC, designadamente no que respeita a realizações e resultados, aos órgãos de coordenação técnica, de auditoria e de certificação.
+2 - A autoridade de gestão responde perante os membros do governo responsáveis pela coordenação política do FEAC e presta as informações relevantes e pertinentes sobre a execução do POAPMC, designadamente no que respeita a realizações e resultados, aos órgãos de coordenação técnica, de auditoria e de certificação.
 
 3 - Das decisões da autoridade de gestão não cabe recurso hierárquico.
 

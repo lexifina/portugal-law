@@ -16,7 +16,7 @@ c) Comunicação no SI FEAC do início ou reinício da operação.
 
 a) A listagem de todas as despesas pagas por rubrica;
 
-b) O mapa que evidencie o nível de execução dos indicadores de realização física, incluindo a quantidade de produtos que foram adquiridos e atribuídos.
+b) O mapa que evidencie o nível de execução dos indicadores de realização física, incluindo a quantidade de produtos que foram adquiridos e entregues.
 
 4 - O somatório do adiantamento com os pagamentos intermédios de reembolso não pode exceder 85 % do montante total aprovado para a operação, sendo o pagamento do respetivo saldo, de 15 %, autorizado após a solicitação pelo beneficiário do pedido de pagamento de saldo e confirmação da boa execução da operação.
 

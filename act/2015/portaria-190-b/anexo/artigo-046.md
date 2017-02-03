@@ -22,4 +22,4 @@ h) Localização em Portugal continental e nas regiões autónomas dos Açores e
 
 i) Enquadramento no período definido para a duração da operação.
 
-2 - Na apreciação e seleção das operações são ainda observados os critérios previstos nos artigos 53.º, 66.º e 79.º
+2 - Na apreciação e seleção das operações são ainda observados os requisitos previstos no artigo 53.º e os critérios previstos no artigo 66.º

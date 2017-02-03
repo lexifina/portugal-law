@@ -6,6 +6,6 @@
 
 2 - As entidades referidas no número anterior assumem a qualidade de organismos intermédios.
 
-3 - Compete ao órgão de coordenação política, sob proposta da autoridade de gestão, após consulta aos governos das regiões autónomas dos Açores e da Madeira, aprovar os organismos intermédios do POAPMC.
+3 - Compete aos membros do governo responsáveis pela coordenação política, sob proposta da autoridade de gestão, após consulta aos governos das regiões autónomas dos Açores e da Madeira, aprovar os organismos intermédios do POAPMC.
 
 4 - Aos organismos intermédios são aplicáveis as regras previstas para a autoridade de gestão para o exercício das mesmas competências.

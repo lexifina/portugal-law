@@ -6,14 +6,12 @@
 
 2 - Nos casos previstos no número anterior, carecem de decisão expressa da autoridade de gestão:
 
-a) Alteração dos destinatários finais a abranger em número superior ou inferior a 25 % do número inicialmente aprovado, desde que:
+a) [Revogada.]
 
-i) O número de destinatários finais abrangido por um território não seja inferior a 150;
+b) Substituição de um ou mais beneficiários da operação aprovada e ou das funções desempenhadas no âmbito da parceria;
 
-ii) O número de destinatários finais de um território abrangido por uma entidade mediadora seja inferior a 150, desde que este número corresponda à totalidade dos destinatários desse território;
+c) Adiamento do início das atividades apoiadas por um período superior a 60 dias úteis em relação à data prevista para o início da sua realização ou à data de devolução do termo de aceitação;
 
-iii) O número de destinatários finais de um território abrangido por uma entidade mediadora seja igual ou superior a 150, desde que este número corresponda à totalidade dos destinatários desse território.
-
-b) Substituição de um ou mais beneficiários da operação aprovada e ou das funções desempenhadas no âmbito da parceria.
+d) Eliminação ou introdução de ações de acompanhamento, face ao inicialmente aprovado.
 
 3 - As alterações à decisão que não se enquadrem no número anterior, não carecem de decisão expressa da autoridade de gestão bastando a sua comunicação, nos termos previstos no n.º 2 do artigo 47.º

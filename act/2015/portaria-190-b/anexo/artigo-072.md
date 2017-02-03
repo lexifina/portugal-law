@@ -8,9 +8,9 @@ a) As despesas de natureza administrativa, de transporte e de armazenamento;
 
 b) As despesas com as medidas de acompanhamento.
 
-2 - As despesas de natureza administrativa, de transporte e de armazenamento são financiadas a uma taxa fixa de 5 % do valor dos géneros alimentares e ou bens de primeira necessidade.
+2 - As despesas de natureza administrativa, de transporte e de armazenamento são financiadas a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares e ou bens de primeira necessidade.
 
-3 - As despesas com as medidas de acompanhamento são financiadas a uma taxa fixa de 5 % do valor dos géneros alimentares e ou bens de primeira necessidade.
+3 - As despesas com as medidas de acompanhamento são financiadas a uma taxa fixa de 5 % do valor de aquisição dos géneros alimentares e ou bens de primeira necessidade, consoante os objetivos das ações realizadas se encontrem associadas a um ou outro tipo de bens.
 
 4 - As despesas referidas no número anterior apenas são atribuídas às organizações parceiras caso sejam apresentadas evidências da sua realização junto dos respetivos destinatários finais da operação.
 

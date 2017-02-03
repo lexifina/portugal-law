@@ -16,7 +16,7 @@
 
 7 - Para efeitos da contagem do prazo de apresentação do pedido de pagamento de saldo, considera-se que a data da conclusão da operação é a que consta do cronograma aprovado como data final para a realização da sua última ação.
 
-8 - No caso de candidaturas plurianuais, a não execução integral do financiamento aprovado para cada ano civil pode dar lugar à revisão da decisão de aprovação.
+8 - [Revogado.]
 
 9 - Os pedidos de reembolso e de saldo final são objeto de verificação administrativa e controlo no local, de acordo com as disposições previstas na legislação europeia e no regulamento específico.
 
@@ -25,7 +25,3 @@
 11 - A autoridade de gestão emite os pedidos de pagamento relativos aos pedidos de reembolso e de saldo final, no prazo máximo de 5 dias úteis a contar das datas de tomada de decisão previstas nos n.os 3 e 5 do presente artigo, sem prejuízo do disposto em matéria de compensação de créditos e suspensão de pagamentos.
 
 12 - Os pagamentos a que se refere o número anterior são integralmente efetuados nos termos do n.º 4 do artigo 20.º, não sendo suscetíveis de arresto, de penhora ou de cessão de créditos.
-
-CAPÍTULO IX
-
-Procedimento de candidatura

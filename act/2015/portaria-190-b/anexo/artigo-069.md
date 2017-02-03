@@ -16,9 +16,9 @@ ii) Alteração das quantidades distribuídas aos destinatários finais;
 
 iii) Perdas e ou transferências de produtos.
 
-d) Levantar os produtos que lhe foram atribuídos no polo de receção respetivo e distribuí-los aos destinatários finais da sua área geográfica de atuação;
+d) Receber os produtos que lhe foram atribuídos pela entidade coordenadora respetiva e distribuí-los aos destinatários finais da sua área geográfica de atuação;
 
-e) Respeitar as seguintes condições específicas de armazenagem consoante os produtos alimentares:
+e) Respeitar as seguintes condições específicas de armazenagem consoante os produtos, caso a distribuição dos produtos aos destinatários finais não ocorra em simultâneo com a entrega realizada pela entidade coordenadora:
 
 i) Produtos secos, em local seco, fresco e arejado, sem exposição direta ao sol;
 
