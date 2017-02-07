@@ -1,0 +1,11 @@
+Aviso n.º 1493/2017
+José António Gomes de Jesus, presidente da Câmara Municipal de Tondela, torna público que nos termos do n.º 1 do artigo 76 do Decreto-Lei n.º 80/2015 de 14 de maio, foi deliberado por unanimidade, em reunião, extraordinária pública, da Câmara Municipal de Tondela, realizada em dezassete de janeiro de dois mil e dezassete, mandar elaborar o Plano de Pormenor, com efeitos registais, para a área de 18,78 ha, para ampliação do Parque Industrial Municipal de Tondela.
+17 de janeiro de 2017. - O Presidente da Câmara, José António Gomes de Jesus.
+Deliberação da Câmara Municipal de Tondela de dezassete de janeiro de dois mil e dezassete
+1 - Plano de Pormenor com efeitos registais da ampliação da Zona Industrial Municipal da Adiça
+Foi presente uma informação técnica sobre em epígrafe.
+Após a devida análise, a Câmara deliberou por unanimidade aprovar, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, a elaboração do Plano de Pormenor, com efeitos registais, para a área de 18,78 ha, identificada na planta de localização à escala 1/25 000 e no levantamento topográfico à escala 1/5 000 (anexos à informação técnica), destinada à ampliação do Parque Industrial de Tondela, para a qual dispõe de cartografia homologada pela Direção Geral do Território, em 2016, fixando-se o prazo de seis meses para a sua elaboração.
+Mais deliberou, nos termos do n.º 2 do artigo 88.º do referido diploma, fixar o prazo de vinte dias para formulação de sugestões e para apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração deste plano.
+Deliberou, ainda, nos termos do n.º 2 e 3 do artigo 78.º do RJIGT, qualificar este Plano como sujeito a Avaliação Ambiental e solicitar parecer sobre o âmbito da avaliação ambiental e sobre o alcance da informação a incluir no relatório ambiental, nos termos do artigo 5.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, dado que este plano implica a requalificação de solo rural em solo urbano e as operações urbanísticas a realizar para sua implementação, deverão estar sujeitas a Avaliação de Impacto Ambiental, nos termos do Decreto-Lei n.º 151-B/2013 de 15 de junho.
+17 de janeiro de 2017. - O Presidente da Câmara Municipal, José António Gomes de Jesus.
+610205516
