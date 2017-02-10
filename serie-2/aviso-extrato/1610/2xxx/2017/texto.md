@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 1610/2017
+Projeto de Alteração do Regulamento da Biblioteca Municipal Eduardo Lourenço
+Álvaro dos Santos Amaro, Presidente da Câmara Municipal da Guarda, torna público, ao abrigo da competência que lhe é conferida pela alínea t) do n.º 1 do artigo 35.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, que a Câmara Municipal, na sua reunião ordinária, realizada a 23 de janeiro de 2017, deliberou aprovar o Projeto de Alteração do Regulamento Municipal da Biblioteca Municipal Eduardo Lourenço, para recolha de sugestões, pelo período de 30 dias úteis, a contar da data de publicação do presente aviso, em cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo.
+Mais se informa que, o Projeto de Alteração do Regulamento acima referenciado se encontra disponível para consulta no Gabinete de Apoio ao Munícipe, todos os dias úteis das 09:00h às 13:00h e das 13:30h às 16:30h, bem como no sítio de Internet do Município da Guarda, em www.mun-guarda.pt.
+Assim, nos termos do disposto no n.º 2 do artigo 101.º do Código do Procedimento Administrativo, convidam-se todos os interessados a apresentar por escrito eventuais sugestões, dentro do período atrás referenciado, para Município da Guarda, Praça do Município, 6301-854 Guarda, ou através do endereço de correio eletrónico: geral@mun-guarda.pt.
+31 de janeiro de 2017. - O Presidente da Câmara Municipal, Alvar dos Santos Amaro.
+310225912
