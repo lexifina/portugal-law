@@ -1,0 +1,9 @@
+Despacho Normativo n.º 1/2017
+A disponibilização de títulos de transporte a preços reduzidos, destinados a segmentos específicos da população, constitui, também, medida facilitadora da universalidade do acesso ao sistema de transportes públicos, contribuindo, não só, para a descarbonização do sector dos transportes pela consequente redução das emissões de gases de efeito de estufa e poluentes no município de Lisboa, como também, para a melhoria da qualidade de vida do respetivo meio urbano.
+Neste sentido, o aprofundamento do desconto concedido às modalidades «3.ª idade» e «reformado/pensionista», no passe Navegante Urbano - válido na cidade de Lisboa em autocarros, elétricos, elevadores, metropolitano e percursos urbanos de Lisboa da CP - surge como medida que permitirá reduzir os constrangimentos à utilização dos transportes públicos.
+Assim, tendo em conta o disposto no n.º 1 do artigo 5.º, conjugado com o n.º 1 do artigo 11.º, ambos da Portaria n.º 241-A/2013, de 31 de julho, e ainda, o disposto no artigo 40.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela Lei n.º 52/2015, de 9 de junho, determina-se o seguinte:
+1 - O preço de venda ao público das modalidades «3.ª idade» e «reformado/pensionista», do passe intermodal Navegante Urbano, a que se referem os n.os 3 e 4 do anexo à Portaria n.º 241-A/2013, de 31 de julho, tem um desconto de 60 % sobre a tarifa normal em vigor.
+2 - Os novos preços dos títulos de transporte público de passageiros decorrentes da aplicação do presente despacho produzem efeitos e são praticados a partir de 1 de fevereiro de 2017.
+31 de janeiro de 2017. - O Secretário de Estado Adjunto, do Tesouro e das Finanças, Ricardo Emanuel Martins Mourinho Félix. -
+O Secretário de Estado das Infraestruturas, Guilherme Waldemar Goulão dos Reis d'Oliveira Martins. - O Secretário de Estado Adjunto e do Ambiente, José Fernando Gomes Mendes.
+310229899
