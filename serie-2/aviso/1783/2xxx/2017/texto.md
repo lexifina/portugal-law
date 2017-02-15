@@ -1,0 +1,19 @@
+Aviso n.º 1783/2017
+Abertura do período de divulgação pública da proposta de alteração simplificada do Plano Diretor Municipal de Lisboa
+Nos termos da subdelegação de competências conferida através do Despacho n.º 3/DMU/2016, publicado no Boletim Municipal n.º 1169 de 14 de julho de 2016, torna-se público que, nos termos do n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro (Regime Jurídico das Autarquias Locais) e do n.º 4 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, a Câmara Municipal de Lisboa, em reunião pública de 25 de janeiro de 2017, de acordo com a deliberação n.º 19/CM/2017, determinou o início do procedimento de alteração simplificada do Plano Diretor Municipal de Lisboa, para o imóvel designado PM 164/Lisboa - Manutenção -Militar - Ala Sul, localizado na Rua do Grilo, freguesia do Beato, concelho de Lisboa, e a abertura de um período de divulgação pública da respetiva proposta.
+Torna-se ainda público que, nos termos do mencionado n.º 4 do artigo 123.º e da alínea a) do n.º 4 do artigo 191.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, terá início no 5.º (quinto) dia, após a publicação do presente Aviso no Diário da República, 2.ª série, um período de 10 dias úteis, para formulação de reclamações, observações ou sugestões por qualquer interessado sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do plano.
+Durante o mencionado período de divulgação pública, os interessados poderão consultar a Proposta de Plano e demais documentação no sítio eletrónico da Câmara Municipal de Lisboa, na Secção Planeamento Urbano (http://www.cm-lisboa.pt/viver/urbanismo/planeamento-urbano/plano-diretor-municipal) ou nos locais a seguir identificados:
+Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, Rua Viriato, n.º 13 E, Núcleo 6 - 2.º, 1050-233 Lisboa;
+Centro de Documentação, sito no Edifício Central do Município, no Campo Grande, n.º 25, Piso 1.º F, 1749-099 Lisboa;
+Junta de Freguesia do Beato, sita na Rua de Xabregas, n.º 67 - 1.º, 1900-439 Lisboa.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, até ao termo do referido período e dirigidas ao Presidente da Câmara Municipal de Lisboa, utilizando, para o efeito, o impresso próprio que pode ser obtido nos locais acima referidos ou no sítio eletrónico da Câmara Municipal de Lisboa(http://www.cm-lisboa.pt/viver/urbanismo), e deverão ser entregues por via eletrónica, através do endereço eletrónico dmu.dp.dpdm@cm-lisboa.pt ou apresentadas presencialmente nos seguintes locais:
+Loja Lisboa - Alcântara, sita na Rua da Cozinha Económica, 36A - loja E, com acesso também pela R. de Cascais, junto ao Pingo Doce;
+Loja Lisboa - Baixa, sita na Rua Nova do Almada, 2 - 3.º;
+Loja Lisboa - Lumiar, sita na Rua Manuel Marques, 6H, Edifício Odense - Lumiar;
+Loja Lisboa - Entrecampos, sita no Edifício Central do Município, Campo Grande, 25;
+Loja Lisboa - Marvila, sita na Loja do Cidadão de Marvila, Centro Comercial Pingo Doce da Bela Vista, Av. Santo Condestável, lote 8 - loja 34.
+27 de janeiro de 2017. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+Deliberação
+Através da Deliberação n.º 19/CM/2017, de 25 de janeiro de 2017, a Câmara Municipal de Lisboa aprovou, por maioria, com votos a favor (7 PS, 3 Independentes e 2 PPD/PSD) e abstenções (2 PCP), o início do procedimento de alteração simplificada do Plano Diretor Municipal de Lisboa e a abertura de um período de divulgação pública da respetiva proposta por um prazo de 10 dias úteis, ao abrigo do disposto no n.º 3 e n.º 4 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial.
+27 de janeiro de 2017. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+610236889
