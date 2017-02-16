@@ -1,0 +1,519 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12946",
+  "numero": "265",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-02-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-05-10",
+            "entidades": null,
+            "id": "105101",
+            "tipo": null,
+            "titulo": "Audição em 2017-05-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": "2017-04-28",
+            "entidades": [
+              "Conselho de Administração da Parque Escolar, EPE"
+            ],
+            "nrOficio": "204/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "203/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-06-07",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-03-14",
+        "DataArquivo": "2017-06-07",
+        "DataBaixaComissao": "2017-02-22",
+        "DataEnvioPAR": "2017-07-10",
+        "DataReaberta": "2017-03-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-03-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41344e54686a4e47557a4c545a6b4e4751744e444a6c5a4331684f4759344c545a6b4d4456684e54493559546333596935775a47593d&fich=0858c4e3-6d4d-42ed-a8f8-6d05a529a77b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245344e3252684e6a51314c5451354e6a45744e4452684e7930354e3245324c5455314d7a6b794d6d4e694e47466a597935775a47593d&fich=a87da645-4961-44a7-97a6-553922cb4acc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6d4d6a4e6a4f544a6b4c546b304e4441744e444e6a4f433034595745794c544d354e544d305a4755335a574d34597935775a47593d&fich=9f23c92d-9440-43c8-8aa2-39534de7ec8c.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-07-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49345a57566b4f57557a4c5751315a5749744e44517959693169596d55334c54637a5a6a566b59575a6b4d5467344f5335775a47593d&fich=28eed9e3-d5eb-442b-bbe7-73f5dafd1889.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245304e6d49304d4455334c544d354d6a55744e44466a4e5330344d54426d4c546779596a6c6a4d546731595463344e7935515245593d&fich=a46b4057-3925-41c5-810f-82b9c185a787.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-03-14",
+            "gp": "PS",
+            "id": "1893",
+            "motivoCessacao": null,
+            "nome": "Pedro Coimbra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-12-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-02-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4e54466d5a475a695a69316b4d544e6a4c5451324e544d744f5751784d6930324d4451324d5749344e7a4d314d5449756347526d&fich=f51fdfbf-d13c-4653-9d12-60461b873512.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "40981",
+      "41007",
+      "41039",
+      "41040",
+      "41047",
+      "41910"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:36:02:546&drc=00:03:19:067"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/3?pgs=3-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:39:21:614&drc=00:02:39:268"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:42:00:882&drc=00:02:34:221"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:44:37:399&drc=00:02:12:435"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:46:49:835&drc=00:02:43:439"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:49:33:274&drc=00:02:44:277"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão; Recomenda ao Governo que proceda a curto prazo a obras de fundo de recuperação, modernização e preservação do edifício da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo a reabilitação e requalificação da Escola Secundária José Falcão, em Coimbra; Recomenda ao Governo que proceda a curto Prazo à reabilitação e requalificação da Escola secundária José Falcão, em Coimbra; Sobre a urgente reabilitação da Escola Secundária  José Falcão, em Coimbra; Recomenda a urgente requalificação da Escola Secundária José Falcão (Coimbra); Recomenda ao Governo que proceda, a curto prazo, às obras de reabilitação e requalificação do edifício da Escola Secundária José Falcão, em Coimbra.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12946",
+    "PetAssunto": "Solicitam a adoção de medidas com vista à realização de obras na Escola Secundária José Falcão.",
+    "PetDataEntrada": "2017-02-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12946",
+    "PetLeg": "XIII",
+    "PetNr": "265",
+    "PetNrAssinaturas": "5380",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2420",
+        "obs": null,
+        "pag": [
+          "31-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-16",
+        "pubLeg": "XIII",
+        "pubNr": "27",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/31?pgs=31-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785474",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-17",
+        "pubLeg": "XIII",
+        "pubNr": "34",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/034/2017-03-17/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
