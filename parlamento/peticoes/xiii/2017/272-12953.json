@@ -1,0 +1,204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12953",
+  "numero": "272",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-02-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-05-10",
+            "entidades": null,
+            "id": "105102",
+            "tipo": null,
+            "titulo": "Audição em 2017-05-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-03-22",
+            "dataResposta": null,
+            "entidades": [
+              "Frente Comum de Sindicatos da Administração Pública"
+            ],
+            "nrOficio": "153/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-03-22",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Frente Sindical da Administração Pública"
+            ],
+            "nrOficio": "154/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-03-22",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "152/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-06-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-03-14",
+        "DataArquivo": "2017-06-06",
+        "DataBaixaComissao": "2017-03-07",
+        "DataEnvioPAR": "2017-07-10",
+        "DataReaberta": "2017-03-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-03-16",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55345a6a41355a5467334c575a6a595449744e4749794e5330344d446b344c5755774e6a5a6d4f574a6a5a575578595335775a47593d&fich=58f09e87-fca2-4b25-8098-e066f9bcee1a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-03-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466a595445324d574a6b4c5745344e5451744e474a694e7931684d544a6b4c574e694f44466a5a446b794e3255305a4335775a47593d&fich=1ca161bd-a854-4bb7-a12d-cb81cd927e4d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-03-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63314f54686b4e6d45314c544a684f4451744e47566a4d4331694d7a646a4c544a6c4f474a6c596d55315a6d51324e6935775a47593d&fich=7598d6a5-2a84-4ec0-b37c-2e8bebe5fd66.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-03-22",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6777597a4e68593245324c54426d5a5441744e444d30595330344f4455314c574d355a446c6c4e544e6b5a474d315a4335775a47593d&fich=80c3aca6-0fe0-434a-8855-c9d9e53ddc5d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-07-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6a5a6d51334d44526d4c57566b595445744e4467784d69303459324d354c54597a4d6a646d4e5441345a6a6b785a4335775a47593d&fich=bcfd704f-eda1-4812-8cc9-6327f508f91d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-03-14",
+            "gp": "PS",
+            "id": "4338",
+            "motivoCessacao": null,
+            "nome": "Sandra Pontedeira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-12-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-03-08",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4f544e6d4e54426b4e5330315a4746694c5451354e5759744f444e6b4e43307a5a5755774e6a6b324e6a51335a574d756347526d&fich=f93f50d5-5dab-495f-83d4-3ee0696647ec.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41914",
+      "41915",
+      "41922",
+      "41929"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12953",
+    "PetAssunto": "Solicitam o restabelecimento das carreiras de não docentes.",
+    "PetDataEntrada": "2017-02-16",
+    "PeticoesAssociadas": null,
+    "PetId": "12953",
+    "PetLeg": "XIII",
+    "PetNr": "272",
+    "PetNrAssinaturas": "6591",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "785475",
+        "obs": null,
+        "pag": [
+          "12-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-17",
+        "pubLeg": "XIII",
+        "pubNr": "34",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/034/2017-03-17/12?pgs=12&org=PLC"
+      }
+    ]
+  }
+}
