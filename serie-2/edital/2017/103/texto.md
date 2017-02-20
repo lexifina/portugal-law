@@ -1,0 +1,8 @@
+Edital n.º 103/2017
+Abertura do período de discussão pública da proposta de alteração ao Plano Diretor Municipal de Almada para Regularização do Ecocentro da Amarsul
+Maria Amélia de Jesus Pardal, Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea da Câmara Municipal de Almada, no uso das competências delegadas por despacho do Sr. Presidente da Câmara Municipal de Almada, n.º 121/2013-2017, de 18 de junho de 2015, torna público que:
+A Câmara Municipal de Almada na sua reunião de 01 de fevereiro de 2017 deliberou proceder à abertura de um período de discussão pública da proposta de alteração ao Plano Diretor Municipal de Almada para regularização do Ecocentro da Amarsul, nos termos do disposto no n.º 1 e n.º 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, pelo período de 30 dias, contados a partir do 5.º dia após a data da publicação do respetivo aviso no Diário da República e da divulgação na comunicação social e na página da internet da Câmara Municipal, indicando também que a proposta se encontra disponível para consulta dos interessados nos seguintes locais:
+Nas instalações dos serviços técnicos da Câmara Municipal de Almada - Avenida D. Nuno Álvares Pereira 67 - 2800-181 Almada, no horário de expediente (entre as 9h e as 15h).
+Na União das Freguesias Charneca de Caparica e Sobreda, sita na Rua do Vale Linhoso 6A, 2819-502 Sobreda, no horário entre as 9h-12h30 e 14h-17h.
+2 de fevereiro de 2017. - A Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea da Câmara Municipal de Almada, Maria Amélia de Jesus Pardal.
+610245133
