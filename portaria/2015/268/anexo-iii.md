@@ -4,7 +4,7 @@
 
 a) Inscrições no livro genealógico ou no registo fundador (T)
 
-b) Exames de paternidade por análise de ADN
+b) Exames de paternidade por análise de ADN (T);
 
 c) Caracterização genética por análise demográfica
 
@@ -36,7 +36,7 @@ p) Avaliação genética
 
 q) Caracterização genómica
 
-r) Ações de promoção da raça (exposições, concursos, publicações)
+r) Ações de promoção da raça (exposições, concursos, publicações) (T);
 
 s) Ações de conservação ex situ - recolha de material genético para BPGA (T)
 

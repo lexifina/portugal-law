@@ -34,4 +34,8 @@ i) Genotipagem para características de interesse e indesejáveis;
 
 j) Conservação ex situ;
 
-k) Inseminação Artificial.
+k) Inseminação Artificial;
+
+l) Exames de paternidade por análise de ADN;
+
+m) Ações de promoção da raça (exposições, concursos, publicações).
