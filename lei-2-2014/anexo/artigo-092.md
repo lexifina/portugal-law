@@ -19,3 +19,5 @@ e) O regime fiscal de apoio ao investimento (RFAI), previsto no Código Fiscal d
 f) O regime de dedução por lucros retidos e reinvestidos (DLRR), previsto no Código Fiscal do Investimento;
 
 g) O regime de remuneração convencional do capital social previsto no artigo 41.º-A do Estatuto dos Benefícios Fiscais.
+
+h) O incentivo à produção cinematográfica previsto no artigo 59.º-E do Estatuto dos Benefícios Fiscais.
