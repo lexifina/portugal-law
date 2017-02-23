@@ -1,7 +1,3 @@
-## Capítulo IX
-
-## Benefícios fiscais à reestruturação empresarial
-
 # Artigo 59.º-E
 
 ### Despesas com certificação biológica de explorações
