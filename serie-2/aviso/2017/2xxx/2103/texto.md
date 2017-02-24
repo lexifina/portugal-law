@@ -1,0 +1,11 @@
+Aviso n.º 2103/2017
+Abertura de Procedimento da 1.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Pombal (natureza regulamentar)
+Pedro Filipe Silva Murtinho, Vereador do Ordenamento da Câmara Municipal de Pombal, no uso da competência delegada:
+Torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 76.º, conjugado com o n.º 1 do artigo 119.º, ambos do Decreto-Lei n.º 80/2015, de 14 de maio (novo RJIGT), que a Câmara Municipal, em sua reunião ordinária n.º 0002/CMP/17, de 18 janeiro, deliberou proceder à abertura de procedimento de alteração à 1.ª Revisão do Plano Diretor Municipal de Pombal, a qual incidirá sobre o normativo do Plano.
+Mais deliberou estabelecer um prazo de 180 dias para a elaboração da alteração de natureza regulamentar à 1.ª Revisão do Plano, contados a partir da publicação da presente deliberação no Diário da República.
+Deliberou ainda, para efeitos do disposto no n.º 1 do artigo 120.º do RJIGT, conjugado com o disposto no n.º 1 do artigo 4.º, do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, qualificar a alteração regulamentar à 1.ª Revisão do Plano Diretor Municipal como insuscetível de ter efeitos significativos no ambiente e, como tal, isentá-la de Avaliação Ambiental.
+Nos termos do n.º 2 do artigo 88.º do RJIGT, decorrerá um período de 15 dias úteis, a contar da data de publicação do presente Aviso no Diário da República - 2.ª série, para participação pública preventiva, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da alteração regulamentar à 1.ª Revisão do Plano Diretor Municipal.
+A deliberação da Câmara Municipal de Pombal, bem como a documentação de suporte, poderá ser consultada na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, todos os dias úteis, durante a hora de expediente e na página da Internet, em www.cm-pombal.pt.
+As participações deverão ser apresentadas, por escrito, através de requerimento dirigido ao Vereador do Pelouro do Ordenamento, por correio para Largo do Cardal - 3100 - 440 Pombal, ou para o seguinte e-mail: geral@cm-pombal.pt.
+26 de janeiro de 2017. - O Vereador do Ordenamento, Pedro Murtinho, Eng.º
+610253266
