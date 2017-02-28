@@ -1,0 +1,7 @@
+Edital n.º 115/2017
+Fernando Manuel Moreno D'Eça Braamcamp, Presidente da Junta de Freguesia de Areeiro, submete o Projeto de Regulamento e Tabela Geral de Taxas e Preços da Freguesia de Areeiro, a consulta pública, por um período de 30 dias úteis, a contar da publicação no Diário da República, nos termos e para os efeitos do artigo 101.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro e pela deliberação da Junta de Freguesia de Areeiro de 8 de fevereiro de 2017, sob Proposta n.º 38/2017, em conformidade com o deliberado pela Junta, na sua reunião realizada em 08/02/2017.
+Qualquer sugestão ou reclamação deverá ser dirigida à Junta de Freguesia de Areeiro e poderá ser apresentada por escrito e entregue em mão na Sede e na Delegação da Autarquia, na Rua João Villaret 9; e Rua Abade Faria, 37, em Lisboa, respetivamente, ou enviado, por correio, para o endereço: Rua João Villaret, 9, 1000-182 Lisboa. Poderá, também, ser enviado via e-mail para: geral@jf-areeiro.pt
+O Projeto de Regulamento e Tabela Geral de Taxas e Preços da Freguesia de Areeiro pode ser consultado na Sede e na Delegação bem como no site da Junta de Freguesia de Areeiro, em www.jf-areeiro.pt
+Para constar se publica o presente edital no Diário da República, 2.ª série, no site da Freguesia em www.jf-areeiro.pt e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+14 de fevereiro de 2017. - O Presidente da Junta de Freguesia de Areeiro, Fernando Manuel Moreno d'Eça Braamcamp.
+310264696
