@@ -1,0 +1,5 @@
+Aviso n.º 18/2017
+Por ordem superior se torna público que, em 15 de setembro de 2015, a República Portuguesa procedeu ao depósito junto do Secretário-Geral da Conferência de Ministros de Justiça dos Países Ibero-Americanos, na qualidade de depositário, do respetivo instrumento de ratificação do Acordo sobre Extradição Simplificada entre a República Argentina, a República Federativa do Brasil, o Reino de Espanha e a República Portuguesa, assinado em Santiago de Compostela, em 3 de novembro de 2010.
+O Acordo foi aprovado pela Resolução da Assembleia da República n.º 15/2015 e ratificado pelo Decreto do Presidente da República n.º 14/2015, ambos publicados no Diário da República, 1.ª série, n.º 27/2015, de 9 de fevereiro de 2015.
+Em conformidade com o disposto no n.º 1 do seu artigo 13.º, o Acordo entrou em vigor no dia 16 de setembro de 2015, para o Reino de Espanha e para a República Portuguesa.
+Direção-Geral de Política Externa, 20 de fevereiro de 2017. - O Subdiretor-Geral, João Pedro Lourenço Antunes.
