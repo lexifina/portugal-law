@@ -1,0 +1,8 @@
+Edital n.º 114/2017
+Alterações ao Regulamento Municipal de Urbanização e Edificação do Município de Castro Daire (RMUE)
+José Fernando Carneiro Pereira, Presidente da Câmara Municipal de Castro Daire, torna público, ao abrigo da competência que lhe é conferida pela alínea t) do n.º 1 do artigo 35.º do anexo I à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, que a Câmara Municipal, na sua reunião ordinária de 26 de janeiro de 2017, deliberou aprovar alterações ao Regulamento Municipal de Urbanização e Edificação (RMUE) do município de Castro Daire e submetê-las a consulta pública, para recolha de sugestões, pelo prazo e trinta (30) dias úteis, a contar da publicação do presente edital, em conformidade com o disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Mais torna público que as alterações se encontram disponíveis, para consulta, na Divisão de Planeamento, Urbanismo e Ordenamento do Território, todos os dias úteis das 9 horas às 17 horas, bem como na página eletrónica do município.
+Assim, convidam-se, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo, todos os interessados a apresentarem, por escrito, eventuais sugestões, dentro do prazo acima referido, no Balcão de Atendimento Municipal ou na Divisão de Planeamento, Urbanismo e Ordenamento do Território, onde se encontra o processo.
+Para constar e para os devidos efeitos legais se publica este e outros de igual teor, que vão ser afixados nos lugares públicos de estilo e publicados na página eletrónica do município, no Jornal Notícias de Castro Daire e no Diário da República.
+14 de fevereiro de 2017. - O Presidente da Câmara Municipal, José Fernando Carneiro Pereira.
+310265068
