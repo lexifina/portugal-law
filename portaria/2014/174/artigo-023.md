@@ -8,12 +8,12 @@
 
 3 - A ECL assegura, sob prévia autorização da ECR, sempre que excedido o período de internamento máximo previsto para a unidade da RNCCI e após reavaliação da situação a continuidade do utente na respetiva unidade.
 
-4 - Sempre que considerada a necessidade de mobilidade/transferência do utente, deve a unidade ou equipa elaborar proposta fundamentada à ECL da área de influência da unidade para respetiva validação.
+4 - Sempre que considerada a necessidade de mobilidade por transferência do utente, deve a unidade ou equipa elaborar proposta fundamentada à ECL da área de influência da unidade para respetiva validação.
 
-5 - A mobilidade/transferência do utente deve ter em consideração o critério de proximidade ao domicílio deste, sendo prioritária em relação aos utentes em lista de espera para admissão na RNCCI.
+5 - A mobilidade por transferência do utente deve ter em consideração o critério de proximidade ao domicílio deste, sendo prioritária em relação aos utentes em lista de espera para admissão na RNCCI.
 
 6 - Para efeitos do disposto no número anterior, e caso não haja coincidência entre o domicílio do utente e a área geográfica da unidade ou equipa, compete à ECL da área da unidade articular-se com a competente ECR com vista à observância do critério de proximidade.
 
-7 - Os utentes internados em unidade, quando agudizam e carecem de cuidados em hospital integrado no SNS por período temporal superior ao determinado nos n.os 3 e 4 do artigo anterior, beneficiam de prioridade na readmissão na RNCCI.
+7 - Os utentes internados em unidade, quando agudizam e carecem de cuidados em hospital integrado no SNS, por período temporal superior ao determinado nos n.os 2 e 3 do artigo anterior, beneficiam de prioridade na readmissão na RNCCI.
 
-8 - A preparação da alta deve ser iniciada com uma antecedência que permita encontrar a solução mais adequada à necessidade de continuidade de cuidados, pressupondo a necessária articulação entre a unidade, a competente ECR e ou a ECL da área do domicilio do utente a quem cabem a responsabilidade de todas as diligências.
+8 - A preparação da alta deve ser iniciada com uma antecedência que permita encontrar a solução mais adequada à necessidade de continuidade de cuidados, pressupondo a necessária articulação entre a unidade e as ECL competentes.

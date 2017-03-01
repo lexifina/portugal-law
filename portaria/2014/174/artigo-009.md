@@ -10,7 +10,7 @@ b) Direitos e deveres dos utentes e seus familiares ou cuidadores informais;
 
 c) Serviços e cuidados disponíveis;
 
-d) Condições de pagamento do valor dia, por parte do utente, definidas para as unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório, bem como forma de eventual pagamento antecipado;
+d) Condições de pagamento do valor dia, por parte do utente, definidas para as unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório;
 
 e) Condições do depósito de bens;
 
@@ -22,4 +22,4 @@ h) Gestão de reclamações;
 
 i) Demais regras de funcionamento.
 
-2 - O regulamento interno é aprovado pela entidade promotora e gestora da unidade e submetido à apreciação da ECR que emitirá parecer devidamente fundamentado, no prazo máximo de 30 dias úteis contados da data da receção do mesmo.
+2 - O regulamento interno é elaborado pela entidade promotora e gestora da unidade e é enviado à ECR, para aprovação, antes da entrada em funcionamento da unidade.

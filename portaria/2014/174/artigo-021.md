@@ -2,16 +2,16 @@
 
 ### Processo de admissão nas unidades e equipas
 
-1 - A admissão de utentes nas unidades e equipas é precedida de proposta de referenciação da EGA e ou da equipa referenciadora dos cuidados de saúde primários, de acordo com o referido no artigo 20.º
+1 - A admissão de utentes nas unidades e equipas é precedida de proposta de referenciação dos profissionais de saúde dos hospitais e dos cuidados de saúde primários.
 
-2 - A ECR determina a admissão do utente em unidade ou equipa da RNCCI, preferencialmente, de acordo com a unidade indicada pelo utente, na medida dos recursos/vagas existentes.
+2 - A ECR determina, no prazo de um dia útil, a alocação de vaga do utente em unidade ou equipa da RNCCI, na medida dos recursos e vagas existentes.
 
-3 - A unidade ou equipa da RNCCI deve efetivar a admissão do utente no prazo de 48 horas ou solicitar a reavaliação à equipa da RNCCI.
+3 - A admissão na unidade ou equipa da RNCCI efetiva-se no prazo de um dia útil.
 
-4 - Para efeitos de admissão nas unidades e equipas domiciliárias é necessário obter o prévio consentimento informado por parte do utente.
+4 - Para efeitos de admissão nas unidades de internamento e equipas domiciliárias é necessário obter o prévio consentimento informado por parte do utente, ou do seu representante legal.
 
 5 - Para além do documento referido no número anterior, a admissão nas unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório, carece ainda da assinatura do termo de aceitação das situações de comparticipação do utente, e da tomada de conhecimento da necessidade da celebração de contrato de prestação de serviços, no momento da admissão, em conformidade com a legislação aplicável.
 
-6 - Para efeitos de admissão nas unidades de internamento de média duração e reabilitação, nas de longa duração e manutenção e nas de ambulatório, as entidades promotoras e gestoras celebram com o utente e ou seus familiares e, quando exista, com o representante legal, o contrato de prestação de serviços referido no artigo 11.º
+6 - As unidades e equipas prestadoras não podem recusar a admissão do utente após a validação da ECL.
 
-7 - A ECL deve assegurar a atualização de toda a informação relativa ao utente que consta do processo de referenciação.
+7 - (Revogado).

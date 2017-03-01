@@ -28,8 +28,8 @@ i) Equipamento de uso clínico;
 
 j) Sistema de gestão de resíduos de natureza diversa.
 
-2 - A definição e caracterização dos espaços necessários ao desenvolvimento das atividades das unidades da RNCCI devem ainda obedecer às condições específicas de instalação previstas nos anexos I, II e III à presente portaria que dela fazem parte integrante.
+2 - A definição e caracterização dos espaços necessários ao desenvolvimento das atividades das unidades da RNCCI devem ainda obedecer às condições específicas de instalação previstas nos anexos I e II à presente portaria que dela fazem parte integrante.
 
-3 - Para efeitos do disposto nos números anteriores, mantêm-se válidas as licenças das unidades emitidas ao abrigo da legislação vigente antes da entrada em vigor da presente portaria.
+3 - Para efeitos do disposto nos números anteriores, mantêm-se válidas as autorizações de funcionamento das unidades emitidas ao abrigo da legislação vigente antes da entrada em vigor da presente portaria.
 
 4 - Ao licenciamento de construção e autorização de utilização é aplicável a legislação em vigor, sem prejuízo do disposto na presente portaria.

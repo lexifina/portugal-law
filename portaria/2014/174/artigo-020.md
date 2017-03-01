@@ -1,27 +1,39 @@
 # Artigo 20.º
 
-### Processo de referenciação
+### Processo de referenciação dos utentes provenientes dos hospitais e dos cuidados de saúde primários
 
-1 - A referenciação de doentes internados em hospital integrado no SNS, para a RNCCI, é sempre precedida de sinalização pelos competentes serviços hospitalares à EGA, preferencialmente nas 48 horas após o internamento.
+1 - Os profissionais de saúde dos hospitais designadamente, médicos, enfermeiros e assistentes sociais, referenciam as pessoas com critérios clínicos para potencial ingresso na RNCCI, de acordo com a seguinte informação:
 
-2 - Os doentes provenientes da comunidade, nomeadamente do domicilio, são sinalizados por profissionais da área da saúde e ou social do ACES ou UlLS às equipas referenciadoras dos cuidados de saúde primários.
+Diagnóstico principal de acordo com a Classificação Internacional da Doença;
 
-3 - A referenciação para a RNCCI ocorre na sequência de diagnóstico da situação de dependência, mediante avaliação médica, de enfermagem e social realizada pelas EGA do hospital integrado no SNS ou pelas equipas referenciadoras dos cuidados de saúde primários sujeita a validação pela ECL da área de residência do utente, de acordo com os formulários e processos de registo definidos pelos organismos competentes.
+Registo de comorbilidades;
 
-4 - Após a referenciação, a ECL avalia e valida a proposta de referenciação e tipologia adequada às necessidades do utente.
+Classificação do grau de funcionalidade segundo a Classificação Internacional de Funcionalidade, Incapacidade e Saúde;
 
-5 - A referenciação de doentes, internados no hospital integrado no SNS para cuidados continuados integrados, feita pela EGA à ECL do domicílio do doente, deve ocorrer 48 a 72 horas antes da data prevista para a alta hospitalar.
+Avaliação médica, de enfermagem, do serviço social e qualquer outra informação relevante;
 
-6 - A EGA assegura a atualização de toda a informação que deve acompanhar o utente no momento da alta hospitalar e consequente admissão em unidade ou equipa da RNCCI, designadamente quanto a:
+Proposta da tipologia de cuidados da RNCCI.
 
-a) Nota de alta médica, com informação da situação clínica e medicação;
+2 - A referenciação pode ser realizada desde o início do internamento até quatro dias antes da data prevista da alta.
 
-b) Notas de enfermagem, com indicação das necessidades em cuidados;
+3 - A EGA receciona a proposta de referenciação e no prazo de dois dias úteis, avalia e confirma toda a informação até ao momento da alta, designadamente:
 
-c) Notas do serviço social;
+a) Informação da situação clínica e medicação;
 
-d) Cópia dos meios complementares de diagnóstico e terapêutica realizados ou do relatório dos mesmos;
+b) Indicação das necessidades em cuidados;
 
-e) Anotações sobre o programa de seguimento do doente e de marcações de próximas consultas ou exames complementares, com identificação do responsável pelo seguimento do doente, quando aplicável.
+c) Informação do serviço social;
 
-7 - Na referenciação do utente para unidade ou equipa deve ter-se em conta a proximidade da área do domicílio do utente, relativamente à unidade ou equipa e sempre que possível ter em consideração a sua preferência.
+d) Informação dos meios complementares de diagnóstico e terapêutica realizados;
+
+e) Anotações sobre o programa de seguimento do utente e de marcações de próximas consultas ou exames complementares, com identificação do responsável pelo seguimento, quando aplicável.
+
+4 - Sempre que o utente seja proveniente da comunidade, nomeadamente o domicílio, a referenciação é efetuada, com as devidas adaptações, pelos profissionais de saúde das unidades de saúde familiar (USF) e das unidades de cuidados de saúde personalizados (UCSP) sendo aplicável o procedimento constante do n.º 1.
+
+5 - Os profissionais das unidades de cuidados na comunidade (UCC) sinalizam às USF e UCSP os doentes com potencial de referenciação.
+
+6 - Os profissionais que integram as USF e as UCSP enviam à ECL a proposta de referenciação no prazo máximo de cinco dias, após o início da referenciação.
+
+7 - A ECL valida a proposta de referenciação e a tipologia adequada.
+
+8 - Na referenciação do utente para unidade ou equipa deve ter-se em conta a proximidade da área do domicílio do utente relativamente à unidade ou equipa e sempre que possível ter em consideração a sua preferência.

@@ -22,4 +22,4 @@ f) Participação, ensino e treino dos familiares ou cuidadores informais;
 
 g) Realização de atividades culturais e de lazer, tendo em vista a socialização.
 
-4 - A unidade de ambulatório pode funcionar em instalações físicas das unidades de internamento de média duração e reabilitação e de longa duração e manutenção, ou em espaços físicos a estas acoplados.
+4 - A unidade de ambulatório pode funcionar em instituições com unidades de internamento de média duração e reabilitação, de longa duração e manutenção e em outros estabelecimentos de instituições privadas de solidariedade social ou instituições legalmente equiparadas e entidades privadas com fins lucrativos.
