@@ -4,7 +4,7 @@
 
 1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração agrícola a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 4 do artigo anterior.
 
-2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:
+2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição, nomeadamente nas seguintes situações de força maior:
 
 a) Morte do beneficiário;
 
@@ -20,7 +20,7 @@ f) Destruição das instalações pecuárias não imputáveis ao beneficiário;
 
 g) Epizootia que afete a totalidade ou parte dos efetivos ou razões sanitárias de ordem fitotécnica ou de ordem zootécnica que não resultem de incúria do beneficiário;
 
-h) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário, quando não seja possível cumprir o compromisso de manter os animais objeto de apoio nem proceder à sua substituição.
+h) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da manada ou do rebanho, designadamente morte do animal em consequência de doença ou na sequência de acidente cuja responsabilidade não possa ser imputada ao beneficiário.
 
 3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.
 
