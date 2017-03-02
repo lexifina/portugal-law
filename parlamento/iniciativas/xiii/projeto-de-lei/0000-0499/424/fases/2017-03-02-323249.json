@@ -1,0 +1,446 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "424",
+    "id": "41055",
+    "titulo": "Altera a Lei n.º 90/2001, de 20 de Agosto, que define as medidas de apoio social às mães e pais estudantes"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11820",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-03-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40724",
+        "leg": "XIII",
+        "nr": "326",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2301",
+            "obs": null,
+            "pag": [
+              "38-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-03",
+            "pubLeg": "XIII",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38-43&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2301",
+            "obs": null,
+            "pag": [
+              "38-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-03",
+            "pubLeg": "XIII",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38-43&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Medidas de apoio social às mães e pais estudantes atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41054",
+        "leg": "XIII",
+        "nr": "423",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2301",
+            "obs": null,
+            "pag": [
+              "38-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-03",
+            "pubLeg": "XIII",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38-43&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2301",
+            "obs": null,
+            "pag": [
+              "38-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-03",
+            "pubLeg": "XIII",
+            "pubNr": "58",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38-43&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Medidas de apoio social a mães e pais estudantes (1.ª alteração à Lei n.º 90/2001, de 20 de agosto)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-03-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:31:30:229&drc=00:03:18:186"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:52:35:082&drc=00:01:24:917"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38",
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38,43&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de apoio social às mães e pais estudantes, atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto); Medidas de apoio social a mães e pais estudantes (primeira alteração à Lei n.º 90/2001, de 20 de agosto) e Altera a Lei n.º 90/2001, de 20 de agosto, que define as medidas de apoio social às mães e pais estudantes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:34:53:024&drc=00:03:57:976"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:51:39:231&drc=00:00:51:769"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/39?pgs=39,42-43&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de apoio social às mães e pais estudantes, atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto); Medidas de apoio social a mães e pais estudantes (primeira alteração à Lei n.º 90/2001, de 20 de agosto) e Altera a Lei n.º 90/2001, de 20 de agosto, que define as medidas de apoio social às mães e pais estudantes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:39:12:610&drc=00:02:23:389"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de apoio social às mães e pais estudantes, atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto); Medidas de apoio social a mães e pais estudantes (primeira alteração à Lei n.º 90/2001, de 20 de agosto) e Altera a Lei n.º 90/2001, de 20 de agosto, que define as medidas de apoio social às mães e pais estudantes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2300",
+                "nome": "Ilda Araújo Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:41:41:090&drc=00:03:28:909"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de apoio social às mães e pais estudantes, atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto); Medidas de apoio social a mães e pais estudantes (primeira alteração à Lei n.º 90/2001, de 20 de agosto) e Altera a Lei n.º 90/2001, de 20 de agosto, que define as medidas de apoio social às mães e pais estudantes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_02_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=02:48:31:881&drc=00:03:03:119"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-03",
+                "pubLeg": "XIII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Medidas de apoio social às mães e pais estudantes, atribuindo aos pais o mesmo conjunto de direitos conferidos às grávidas e mães (primeira alteração à Lei n.º 90/2001, de 20 de agosto); Medidas de apoio social a mães e pais estudantes (primeira alteração à Lei n.º 90/2001, de 20 de agosto) e Altera a Lei n.º 90/2001, de 20 de agosto, que define as medidas de apoio social às mães e pais estudantes",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "323249",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "784626",
+        "obs": null,
+        "pag": [
+          "38-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-03",
+        "pubLeg": "XIII",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/058/2017-03-03/38?pgs=38-43&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
