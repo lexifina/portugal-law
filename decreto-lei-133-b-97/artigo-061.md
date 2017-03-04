@@ -10,6 +10,6 @@ i) Através de certificação por equipas multidisciplinares de avaliação méd
 
 ii) Por certificação emitida pelo serviço de verificação de incapacidades do centro regional que abrange a área de residência do interessado, tratando-se de subsídio mensal vitalício;
 
-b) No âmbito do regime de proteção social da função pública, através de certificação pela junta médica da Caixa Geral de Aposentações, I. P.
+b) No âmbito do regime de proteção social da função pública, através de certificação pela junta médica da Caixa Geral de Aposentações, I. P., relativamente aos subsídios atribuídos pela CGA, ou por médico especialista na deficiência em causa, nos demais casos.
 
 2 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.
