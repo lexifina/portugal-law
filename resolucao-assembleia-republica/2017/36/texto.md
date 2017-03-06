@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 36/2017
+Recomenda ao Governo a criação de um selo de garantia para empresas com práticas responsáveis de contratação e inserção de jovens na vida ativa
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que, através do Ministério do Trabalho, Solidariedade e Segurança Social, promova a criação de um selo de garantia para destacar as entidades e empresas que em Portugal contribuam de forma ativa e com boas práticas para a valorização do trabalho, no que diz respeito à política de remunerações, aos contratos sem termo, ao incentivo à natalidade, ao combate à rotatividade injustificada de trabalhadores, à correta adequação dos estágios profissionais aos seus propósitos programáticos, ao fomento de relações intergeracionais em contexto laboral e à definição de práticas de responsabilidade social, de acordo com os melhores critérios cívicos, ambientais e culturais.
+Aprovada em 27 de janeiro de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
