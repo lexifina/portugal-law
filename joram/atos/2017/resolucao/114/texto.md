@@ -1,0 +1,31 @@
+# Resolução n.º 114/2017
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 42/2017, de 2017-03-06
+
+**Sumário:** Autoriza a celebração de um protocolo de desenvolvimento e cooperação cultural com Luís Miguel de Canha Jardim da Silva, tendo em vista a realização de um projeto que consiste na promoção, distribuição e apresentação ao público da longametragem intitulada “Feiticeiro da Calheta”.
+
+## Texto
+
+Resolução n.º 114/2017
+Considerando que o Programa de Governo da Região Autónoma da Madeira 2015-2019, estabelece uma série de prioridades e orientações fundamentais, bem como definiu um exigente quadro de medidas a implementar na área da Cultura, entendida como “um fator de coesão e de identidade”, sendo que, de entre essas prioridades conta-se a “definição de políticas culturais que contribuam, de forma dinâmica, para a preservação e divulgação das heranças patrimoniais (em termos materiais e imateriais) que definem a identidade histórico-cultural dos madeirenses”;
+Considerando que é atribuição da Secretaria Regional da Economia, Turismo e Cultura (SRETC) “Promover e implementar uma estratégia cultural para a valorização da identidade cultural regional, do património cultural, da oferta cultural diversificada e de qualidade”, bem como “Promover a descentralização cultural em articulação com outras entidades públicas e privadas visando uma maior integração das populações em atividades culturais” (cfr. alíneas m) e n) do artigo 3.º da orgânica da SRETC aprovada pelo Decreto Regulamentar Regional n.º 4/2015/M, de 18 de junho, alterado pelo Decreto Regulamentar Regional n.º 16/2016/M, de 19 de maio);
+Considerando que, por força do estatuído na orgânica da Direção Regional da Cultura (DRC), é atribuição desta “Promover ações integradas que visem a preservação e valorização do património cultural imóvel, móvel e imaterial que, pelo seu valor histórico, arquitetónico, artístico e documental, se constituam como elementos fundamentais da identidade cultural da Região Autónoma da Madeira”, bem como “Valorizar e preservar os testemunhos que, independentemente do suporte, tenham relevância etnográfica ou antropológica com significado para a identidade e memória coletivas”, e ainda, “Promover e apoiar, em articulação com outras entidades públicas e privadas, projetos, programas, ações e eventos que dinamizem e fomentem uma oferta cultural de qualidade, contribuindo para a prossecução de uma política cultural descentralizada e para o surgimento de novos públicos” - cfr. alíneas e), f) e g) do artigo 3.º do Decreto Regulamentar Regional n.º 21/2015/M, de 30 de novembro, alterado pelo Decreto Regulamentar Regional n.º 16/2016/M, de 19 de maio;
+Considerando que também é atribuição da Direção Regional da Cultura “Apoiar e incentivar a investigação e a divulgação cultural” cfr. alínea j) do artigo 3.º da orgânica da DRC;
+Considerando que o produtor e realizador madeirense, Luís Miguel Jardim, produziu e realizou uma longametragem intitulada “Feiticeiro da Calheta”, que retrata as vivências e os costumes dos madeirenses nos anos 30 e 50 do século XX, com destaque para o poeta popular madeirense João Gomes de Sousa, conhecido por “Feiticeiro da Calheta”, um autodidata que expressou na sua obra usos e costumes, agruras e aspirações populares, a colonia e outros quadros prosaicos da ruralidade, a quem se deve a letra e música do “Bailinho da Madeira”;
+Considerando que o filme em apreço contribui, de forma ficcional mas pedagógica, para o conhecimento e divul-
+
+gação das heranças patrimoniais imateriais que ajudaram a definir a identidade histórico-cultural dos madeirenses;
+Considerando que importa promover, distribuir e apresentar ao público em geral a obra em causa, dando-a a conhecer e, desta forma, também divulgando importantes aspetos da História e da Cultura da Madeira;
+Considerando a importante e necessária cooperação entre entidades públicas e privadas para o alcance de primordiais objetivos de índole cultural;
+Considerando que é de manifesto interesse público que a Região Autónoma da Madeira contribua para uma oferta cultural de qualidade e diversificada, imprescindível para a promoção e divulgação da Região também enquanto destino de cultura;
+Considerando que foram cumpridos os procedimentos previstos no Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, que estabelece o sistema de enquadramento e definição legal dos apoios financeiros a projetos de interesse cultural, e na Portaria n.º 79/2001, de 17 de julho, alterada pela Portaria n.º 130/2006, de 2 de novembro (regulamento de atribuição de apoio financeiro a projetos de interesse cultural);
+Ao abrigo do disposto no n.º 2 do artigo 36.º do Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro (Orçamento da RAM-2017), conjugado com a alínea b) do artigo 3.º e artigo 5.º do Decreto Legislativo Regional n.º 25/99/M, de 27 de agosto, e com a Portaria n.º 79/2001, de 17 de julho, o Conselho do Governo reunido em plenário em 2 de março de 2017, resolveu:
+1 - Autorizar a celebração de um protocolo de desenvolvimento e cooperação cultural com Luís Miguel de Canha Jardim da Silva, contribuinte n.º 182330281, com efeitos desde a data da sua assinatura até 31 de dezembro de 2017, tendo em vista a realização de um projeto que consiste na promoção, distribuição e apresentação ao público da longa-metragem intitulada “Feiticeiro da Calheta”;
+2 - Conceder a Luís Miguel de Canha Jardim da Silva uma comparticipação financeira que não excederá os € 12.000,00 (doze mil euros) para a prossecução do projeto referido no número anterior;
+3 - Aprovar a minuta do protocolo, que faz parte integrante da presente Resolução, e que fica arquivada na Secretaria-Geral da Presidência;
+4 - Mandatar o Secretário Regional da Economia, Turismo e Cultura e a Diretora Regional da Cultura para, em representação da Região Autónoma da Madeira, outorgar o referido protocolo.
+
+5 - As despesas resultantes do protocolo a celebrar têm cabimento orçamental na Secretaria 46, Capítulo 50, Divisão 01, Subdivisão 03, cl func. 253, Classificação Económica D.04.08.02.B0.00, proj. 50205, fonte 111, prog. 043, med. 007.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque.
