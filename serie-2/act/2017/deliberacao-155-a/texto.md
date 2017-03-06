@@ -1,0 +1,11 @@
+Deliberação n.º 155-A/2017
+Considerando que, o Decreto-Lei n.º 106/2013, de 30 de julho, define o estatuto das organizações não-governamentais das pessoas com deficiência (ONGPD), bem como os apoios a conceder pelo Estado a tais organizações;
+Considerando que, cabe ao Instituto Nacional para a Reabilitação, I. P., adiante designado por INR, I. P., a organização do registo das ONGPD, nos termos do artigo 14.º do Decreto-Lei n.º 106/2013, de 30 de julho e da Portaria n.º 7/2014, de 13 de janeiro;
+Considerando que, a deliberação n.º 18/2017, de 9 de janeiro, que aprova o Regulamento do Programa de Financiamento a Projetos pelo INR, I. P., veio revogar a deliberação n.º 2131/2012, de 31 de dezembro, alterada e republicada pelas Deliberações 2299/2013, de 6 de dezembro e 19/2015, de 6 de janeiro;
+Considerando que, a referida deliberação, veio restringir o acesso ao financiamento a projetos pelo INR, I. P., às ONGPD registadas no INR, I. P., até ao último dia do ano anterior ao ano a que respeita a candidatura;
+Considerando que, a deliberação n.º 18/2017, só foi publicada em 9 de janeiro, não permitindo que algumas ONG embora prosseguindo os objetivos previstos no artigo 3.º do Decreto-Lei n.º 106/2013, de 30 de julho, solicitassem o registo no INR, I. P., nos termos da Portaria n.º 7/2014, de 13 de janeiro, até ao dia 31 de dezembro de 2016;
+Considerando que, esta situação poderá causar prejuízo na defesa e promoção dos direitos e interesses das pessoas com deficiência e suas famílias;
+Determina-se que, excecionalmente, para as candidaturas a decorrer relativas ao ano 2017, serão consideradas entidades elegíveis, para além das referidas no artigo 5.º da Deliberação n.º 18/2017, de 9 de janeiro, as organizações não-governamentais que prosseguem os objetivos previstos no artigo 3.º do Decreto-Lei n.º 106/2013, de 30 de julho, mas que não tenham requerido o registo nos termos da Portaria n.º 7/2014, de 13 de janeiro, até ao dia 31 de dezembro de 2016.
+Mais se determina que, atendendo a esta situação excecional o prazo para candidatura destas ONG será alargado por quinze dias úteis após a publicação no Diário da República.
+27 de fevereiro de 2017. - O Presidente do Conselho Diretivo, Humberto Santos.
+310309464
