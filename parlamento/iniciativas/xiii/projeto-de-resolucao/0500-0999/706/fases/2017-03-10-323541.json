@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "706",
+    "id": "41084",
+    "titulo": "Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2017-03-10",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11852",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2017-03-10",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40590",
+        "leg": "XIII",
+        "nr": "291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2304",
+            "obs": null,
+            "pag": [
+              "11-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-11",
+            "pubLeg": "XIII",
+            "pubNr": "62",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/11?pgs=11-16&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-03-10",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:31:50:285&drc=00:03:37:714"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:52:22:922&drc=00:02:07:077"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12",
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/11?pgs=11-12,16&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:35:43:927&drc=00:02:09:278"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/12?pgs=12&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:37:59:306&drc=00:03:57:693"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:42:00:927&drc=00:02:39:072"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "271",
+                "nome": "José Silvano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:44:50:442&drc=00:03:41:557"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_10_10_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:48:38:666&drc=00:03:29:333"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-11",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Condições de Saúde e Segurança no Trabalho nas Forças e Serviços de Segurança; Recomenda ao Governo que promova a melhoria das condições de saúde mental, em ambiente laboral, nas Forças e Serviços de Segurança, criando um programa de promoção da resiliência psicológica dos operacionais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "323541",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "784682",
+        "obs": null,
+        "pag": [
+          "11-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-11",
+        "pubLeg": "XIII",
+        "pubNr": "62",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/062/2017-03-11/11?pgs=11-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
