@@ -1,0 +1,8 @@
+Aviso n.º 2490/2017
+Consulta Pública do Projeto de Alteração do artigo 37.º do Regulamento Municipal de Abastecimento de Água do Concelho de Castelo de Vide
+António Manuel das Neves Nobre Pita, Presidente da Câmara Municipal de Castelo de Vide, torna público que foi deliberado, por unanimidade, na reunião desta Câmara Municipal de 15 de fevereiro, aprovar o Projeto de alteração do artigo 37.º do Regulamento Municipal de Abastecimento de Água do Concelho de Castelo de Vide, para recolha de sugestões, pelo período de 30 dias úteis, a contar da data da publicação do presente aviso na 2.ª série do Diário da República, em cumprimento do artigo 100.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 11 de julho.
+Nos termos do artigo 101.º do Código do Procedimento Administrativo, convidam-se os interessados, devidamente identificados, a dirigir, por escrito, ao Presidente da Câmara Municipal, eventuais sugestões e/ou reclamações, dentro do período atrás referido, para a Câmara Municipal de Castelo de Vide, Rua Bartolomeu Álvares da Santa, 7320-117 Castelo de Vide, ou através do endereço de correio eletrónico administracaogeral@cm-castelo-vide.pt.
+Mais faz saber que exemplares deste Projeto podem ser consultados na Seção de Expediente e Assuntos Gerais, Taxas e Licenças da Câmara Municipal de Castelo de Vide, durante o horário normal de funcionamento, bem como no sítio institucional desta Câmara Municipal, www.cm-castelo-vide.pt.
+Para geral conhecimento, se publica o presente aviso e outros de igual teor, que vão ser afixados nos lugares do costume, no Diário da República e no site do Município.
+21 de fevereiro de 2017. - O Presidente da Câmara, António Manuel das Neves Nobre Pita.
+310283496
