@@ -30,8 +30,8 @@ k) Exercer as competências que lhe forem conferidas pelo Estatuto do Pessoal Di
 
 3 - Ao Diretor Regional incumbe ainda exercer as competências que, por força da aplicação dos códigos e demais legislação tributária, lhe forem cometidas, ou as que nele forem delegadas pelo secretário regional da tutela.
 
-4 - O Diretor Regional é coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau, abrangido pelo disposto na alínea g) do n.º 2 do presente artigo.
+4 - [Revogado.]
 
-5 - O Diretor Regional pode, nos termos da lei, delegar ou subdelegar competências, no subdiretor regional e em titulares de cargos de direção e de chefia.
+5 - O Diretor Regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção e de chefia.
 
-6 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, pelo subdiretor regional e na falta deste por um titular de cargo de direção intermédia de 1.º grau a designar.
+6 - O Diretor Regional é substituído, nas suas ausências, faltas e impedimentos, por um titular de cargo de direção intermédia de 1.º grau a designar e na falta deste por um titular de cargo de direção intermédia de 2.º grau a designar.
