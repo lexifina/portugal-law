@@ -1,0 +1,7 @@
+Edital n.º 150-A/2017
+Pedro Luís Filipe, Diretor Municipal de Administração Geral e Finanças, no uso dos poderes que me foram delegados pelo Sr. Presidente da Câmara Municipal de Almada, através do seu Despacho n.º 34/2013-2017, de 19 de outubro de 2013, torno público que a Câmara Municipal, na sua reunião ordinária de 01 de março de 2017, deliberou aprovar o Projeto de Revisão do Regulamento de Taxas do Município de Almada e submetê-lo a consulta pública para recolha de sugestões, pelo prazo de 30 dias, a contar da publicação do presente Edital, em conformidade com o previsto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Mais torna público que o citado Projeto se encontra disponível, para consulta, na Divisão Administrativa do Departamento de Administração e Finanças - Atendimento Público - todos os dias úteis, das 8,30h às 15,30h, bem como na página eletrónica do Município.
+As sugestões deverão ser formuladas, dentro do mesmo prazo, por escrito e dirigidas ao Presidente da Câmara, para o endereço eletrónico regulamento.taxas@cmalmada.m-almada.pt ou para a Rua Trigueiros Martel, n.º 1, 2800-213 Almada.
+Para constar e demais efeitos legais se publica este e outros de igual teor, que vão ser afixados nos lugares públicos de estilo e na página eletrónica do município bem como no Diário da República.
+2 de março de 2017. - O Diretor Municipal de Administração Geral e Finanças, Pedro Luís Filipe.
+310330459
