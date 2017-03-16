@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Voto",
+  "numero": "252",
+  "data_registo": "2017-03-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Protesto pelas alegações do Ministro da Saúde relativamente ao investimento no Serviço Nacional de Saúde nos últimos anos",
+    "AutoresGP": [
+      "Luís Montenegro (PSD)",
+      "Susana Lamas (PSD)",
+      "Nilza de Sena (PSD)",
+      "José Silvano (PSD)",
+      "Maurício Marques (PSD)",
+      "Ângela Guerra (PSD)",
+      "Pedro Pimpão (PSD)",
+      "Sandra Pereira (PSD)",
+      "Carlos Silva (PSD)",
+      "Cristóvão Crespo (PSD)",
+      "Marco António Costa (PSD)",
+      "Maria Germana Rocha (PSD)",
+      "Miguel Santos (PSD)",
+      "Carla Barros (PSD)",
+      "Emília Cerqueira (PSD)",
+      "Luís Pedro Pimentel (PSD)",
+      "Maria Manuela Tender (PSD)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2017-03-17",
+    "DataAnuncio": null,
+    "DataEntrada": "2017-03-16",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": "252",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "31345",
+        "obs": null,
+        "pag": [
+          "3-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-18",
+        "pubLeg": "XIII",
+        "pubNr": "65",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/065/2017-03-18/3?pgs=3-55&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2017-03-17",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I>",
+        "id": "74889",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "787063",
+            "obs": null,
+            "pag": [
+              "42-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "65",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/065/2017-02-03/42?pgs=42&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "65",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
