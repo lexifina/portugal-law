@@ -1,0 +1,4 @@
+Aviso n.º 2802/2017
+José de Jesus Pires Louro, Presidente da Junta de Freguesia de Assunção, torna público que o Executivo da Freguesia, reunido em sessão ordinária de 6 de fevereiro de 2017, deliberou, por unanimidade, aprovar a 1.ª alteração ao Regulamento e Tabela de Taxas e Preços da Freguesia de Assunção, assim como a sua sujeição à consulta pública pelo prazo de 30 dias, contados desde a data de publicação do presente aviso no Diário da República. O projeto de alteração encontra-se disponível para consulta, na sede da Freguesia, sita em Rua de Olivença, 17, 7340-019 Arronches, e ainda no sítio da Freguesia, em http://www.jf-assuncao.pt. Os interessados podem apresentar eventuais sugestões, as quais deverão ser formuladas por escrito e dirigidas ao Senhor Presidente da Freguesia.
+20 de fevereiro de 2017. - O Presidente da Freguesia de Assunção, José de Jesus Pires Louro.
+310300018
