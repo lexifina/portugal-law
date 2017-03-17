@@ -1,0 +1,27 @@
+Resolução do Conselho de Ministros n.º 42/2017
+Nos termos do disposto na alínea a) do artigo 3.º e no n.º 1 do artigo 5.º do Decreto-Lei n.º 221/97, de 20 de agosto, alterado pelo Decreto-Lei n.º 136/2004, de 3 de junho, o presidente do Conselho Nacional do Ambiente e do Desenvolvimento Sustentável é designado pelo Conselho de Ministros para exercer funções durante o período de três anos, com possibilidade de renovação.
+Tendo, por falecimento, terminado o mandato do presidente daquele órgão consultivo, justifica-se proceder à designação de novo presidente do Conselho Nacional do Ambiente e do Desenvolvimento Sustentável.
+Assim:
+Nos termos da alínea a) do artigo 3.º e do n.º 1 do artigo 5.º do Decreto-Lei n.º 221/97, de 20 de agosto, alterado pelo Decreto-Lei n.º 136/2004, de 3 de junho, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Designar, em comissão de serviço, o Prof. Doutor Filipe Duarte Santos para o cargo de presidente do Conselho Nacional do Ambiente e do Desenvolvimento Sustentável, cuja nota curricular consta do anexo à presente resolução e da qual faz parte integrante.
+2 - Determinar que a presente resolução produz efeitos a partir de 25 de janeiro de 2017.
+Presidência do Conselho de Ministros, 9 de março de 2017. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+ANEXO
+Nota Curricular Filipe Duarte Santos
+Nasceu em Lisboa em 1942 e é professor catedrático jubilado de Física na Faculdade de Ciências da Universidade de Lisboa. Obteve a licenciatura em Ciências Geofísicas pela Universidade de Lisboa em 1963 e o doutoramento em Física Nuclear Teórica pela Universidade de Londres em 1968. É docente da Faculdade de Ciências da Universidade de Lisboa desde 1969 tendo obtido o grau de agregado em 1974. No período de 1975 a 2007 foi professor visitante em várias Universidades dos Estados Unidos da América entre as quais se destacam a Universidade de Wisconsin, Madison, Universidade de Duke, Durham, Universidade da Carolina do Norte, Chapel Hill, Universidade de Stanford, Palo Alto e a Universidade de Harvard, Boston. No mesmo período foi também professor visitante em várias Universidades Europeias entre as quais se destacam Surrey, Reino Unido, Munique e Vrije Universiteit, Amsterdam.
+Dedicou-se à investigação científica em física nuclear teórica e astrofísica nuclear desde o período do doutoramento até cerca de 1986, tendo-se depois dedicado à investigação em ciências do ambiente e sustentabilidade e especialmente às alterações climáticas.
+Tem mais de 150 trabalhos de investigação publicados em revistas científicas com sistema de arbitragem por pares nas áreas da física nuclear teórica, astrofísica, ciências do ambiente, sustentabilidade e alterações climáticas. Tem vários livros publicados entre os quais "Humans on Earth. From Origins to Possible Futures", Springer, 2011 e Alterações Globais, Fundação Francisco Manuel dos Santos, 2012.
+Tem procurado contribuir para a divulgação das problemáticas do ambiente, do desenvolvimento sustentável e das alterações climáticas antropogénicas. Proferiu mais de 250 palestras e conferências sobre estes temas em Portugal e no estrangeiro.
+Coordenou mais de 20 projetos de investigação científica nacionais e internacionais e participou em muitos outros ao longo da sua carreira profissional. Destacam-se os Projetos SIAM I e SIAM II "Climate Change in Portugal. Scenarios, Impacts and Adaptation Measures", cujos resultados foram publicados em 2002 e 2006 e o recente projeto ClimAdaPT.Local (2015-2016) que consistiu na elaboração de estratégias municipais de adaptação às alterações climáticas para 26 Municípios de Portugal.
+Foi Subdiretor do Instituto Nacional de Meteorologia e Geofísica nos anos de 1987 e 1988.
+Foi nomeado Delegado efetivo na Comissão de Gestão e de Coordenação Ambiente e Climatologia da Comunidade Económica Europeia em 1988.
+Foi nomeado coordenador do grupo de trabalho que elaborou o primeiro Livro Branco sobre o Estado do Ambiente em Portugal publicado em 1991.
+Em 1998 foi designado para integrar a Comissão para as Alterações Climáticas pela RCM n.º 72/98.
+Desde 1998 integra o Conselho Nacional do Ambiente e do Desenvolvimento Sustentável.
+Participou como Delegado de Portugal em várias Conferências das Partes (COP) da Convenção Quadro das Nações Unidas para as Alterações Climáticas, designadamente nas COP5, Bonn, 1999, COP6, Haia, 2000, COP7, Marraquexe, 2001, COP10, Buenos Aires, 2004, COP13, Bali, 2007, COP15, Copenhaga, 2009, COP21, Paris, 2015 e COP22, Marraquexe, 2016.
+É desde 1999 Delegado de Portugal na Comissão das Nações Unidas para o Uso Pacífico do Espaço Exterior, tendo sido eleito 2.º Vice-Presidente da Comissão nos anos de 2008-2009 e 1.º Vice-Presidente nos anos de 2012-2013.
+Foi eleito gestor do Programa Ibero-Americano CYTED (Ciência e Tecnologia para o Desenvolvimento) para a área de Desenvolvimento Sustentável, Ecossistemas e Alterações Globais no período de 2007 a 2011.
+Foi "Review Editor" do 5.º Relatório de Avaliação do IPCC (Painel Intergovernamental das Nações Unidas para as Alterações Climáticas) publicado em 2014.
+É académico efetivo da Academia das Ciências de Lisboa desde 1999 e membro do Painel do Ambiente do EASAC (European Academies Science Advisory Council) desde 2012.
+Foi agraciado com o grau de Grande Oficial da Ordem de Santiago de Espada pelo Presidente da República em 29 de novembro de 2005.
+Recebeu o Prémio Universidade de Lisboa em 2009.
