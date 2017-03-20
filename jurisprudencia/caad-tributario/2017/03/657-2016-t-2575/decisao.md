@@ -1,0 +1,245 @@
+# Decisão arbitral tributária do CAAD de 2017-03-20, processo n.º 657/2016-T
+
+**Processo:** 657/2016-T
+
+**Data da decisão:** 2017-03-20
+
+**Imposto:** IMT
+
+**Valor do pedido:** € 9.439,24
+
+**Tema:** Imposto Municipal sobre Transmissão de Imóveis (IMT) e Imposto do Selo (IS); Artigo 236.º da Lei n.º 83 – C/2013, de 31 de Dezembro (Regime Especial Aplicável aos FIIAH e SIIAH).
+
+## Decisão
+
+DECISÃO ARBITRAL
+
+1. RELATÓRIO
+
+1.1 A…, S.A., contribuinte n.º…, com sede na …, n.º…, Lisboa, na qualidade de sociedade gestora do B…— FUNDO DE INVESTIMENTO IMOBILIÁRIO FECHADO PARA ARRENDAMENTO HABITACIONAL, contribuinte n.º…, veio, aos 3 de novembro de 2016, requerer a constituição de tribunal arbitral, nos termos do artigo 2.º, n.º 1, alínea a) do Decreto-lei n.º 10/2011, de 20 de Janeiro (adiante RJAT).
+
+1.2. É Requerida nos autos a AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+1.3 O Conselho Deontológico do Centro de Arbitragem Administrativa (CAAD) designou a ora signatária para formar o Tribunal Arbitral Singular, notificando as partes, e o Tribunal foi constituído a 19 de janeiro de 2017.
+
+1.4 O pedido de pronúncia arbitral tem por objeto a liquidação de IMT número …, no valor de 7.833,87€, e a liquidação de IS número…, no valor de 1.805,37€, ambas relativas à fração autónoma designada pelas letras … do prédio inscrito na matriz predial urbana sob o artigo … da união das freguesias de …, …, … e …, concelho de Oeiras, liquidações e prédio que estão melhor identificados no pedido da Requerente e nos documentos a ele juntos, para os quais aqui se remete.
+
+A Requerente pede ao Tribunal que afira se o número 2 do artigo 236.º (Norma Transitória no âmbito do Regime Especial Aplicável aos FIIAH e SIIAH) previsto pela Lei n.º 83 – C/2013, de 31 de Dezembro - na medida em que determina a aplicação do atual Regime Tributário dos FIIAH aos prédios que tenham sido adquiridos por FIIAH antes de 1 de Janeiro de 2014, contando-se, nesses casos, o prazo de três anos previsto no n.º 14 a partir de 1 de Janeiro de 2014 - consubstancia um novo regime de caducidade das isenções previstas no n.º 7, alínea a) e n.º 8 do artigo 8.º (Regime Tributário ) do Regime Tributário dos FIIAH e se, nessa medida, revela uma violação flagrante e inequívoca do princípio da não retroatividade da lei fiscal, plasmado no artigo 103.º, número 3, da Constituição da República Portuguesa, o que, no seu entender, conduz à sua inconstitucionalidade.
+
+A Requerente invoca a ilegalidade das liquidações com base na sua inconstitucionalidade que, entende, conduz à respetiva nulidade, que pretende seja declarada pelo Tribunal, ou à sua anulabilidade, pelo que subsidiariamente pede sejam as liquidações anuladas.
+
+Entende a Requerente que as liquidações em crise estão, em consequência, feridas de vício que tem como consequência a nulidade, ao abrigo da alínea d) do n. º. 2 do artigo 133.2 do Código do Procedimento Administrativo (CPA) porque ofendem o conteúdo essencial de um direito fundamental.
+
+Sendo que, entende também, sempre serão as liquidações anuláveis, por ilegais, com o mesmo fundamento.
+
+Mais peticiona a Requerente a condenação da Requerida ao reembolso das quantias pagas por força das liquidações em crise, acrescidas dos juros indemnizatórios sobre todas as quantias pagas vencidos contados até à data do reembolso.
+
+1.5 A AUTORIDADE TRIBUTÁRIA E ADUANEIRA respondeu a 20 de fevereiro de 2016, defendendo-se por exceção e por impugnação.
+
+Por exceção defendeu-se a Requerida dizendo que o Tribunal Arbitral não tem competência para aferir ou declarar a constitucionalidade ou inconstitucionalidade do artigo 236.º da Lei 83-C/2013, de 31 de dezembro, como no fundo pretenderia a Requerente.
+
+Por exceção, a Requerida invocou ainda a “ilegitimidade passiva da Requerida” sustentada, no seu entender, no facto de a Administração Tributária não se poder “recusar a aplicar normas com fundamento na sua inconstitucionalidade ou ilegalidade, pois está sujeita ao princípio da legalidade”, “Donde se conclui que a pretensão aduzida pelo Requerente colide com os poderes da Requerida e com a sua vinculação à lei e à Constituição”. Do que, conclui, a própria inconstitucionalidade de uma norma legal não pode ser objeto de impugnação direta junto dos Tribunais Administrativos e Fiscais e, consequentemente, no Tribunal Arbitral, o que, no seu entender, determina que “estando em causa um acto normativo emanado da Assembleia da República sob a forma típica de ato legislativo, sempre deveria o Tribunal declarar a absolvição da Requerida da instância, atenta a excepção dilatória de ilegitimidade passiva demonstrada nos presentes autos arbitrais, nos termos dos artigos 278.º, nº 1, alínea d) e 576.o, n. os 1 e 2 do CPC, aplicáveis ex vi artigo 29.º, n.º 1, alínea e) do RJAT”.
+
+Defendeu-se também por impugnação, por um lado, repetindo o que já alegara, por exceção, quanto à “impossibilidade de desaplicação pela AT de norma legal com fundamento em inconstitucionalidade” e, por outro lado, sustentando a consonância com a Constituição da norma em crise.
+
+Alega que a lei em questão não é ferida de retroatividade, não tendo estabelecido nenhum novo requisito para aplicação da isenção prevista no regime fiscal dos FIAH, mas apenas tendo concedido um prazo para cumprimento de um requisito já subjacente ao próprio regime, prazo esse que apenas se inicia após a entrada em vigor da lei nova.
+
+Não se trata, pois, de alterar os pressupostos, condições de atribuição ou de reconhecimento de um benefício fiscal, mas tão só e apenas, concretizar aquele regime, regulando o período de tempo para efeitos de comprovação do cumprimento de um requisito previamente estabelecido.
+
+Acrescenta que, no caso em apreço, as liquidações de imposto em crise têm fundamento no facto de a Requerente ter alienado o imóvel, dando-lhe, dessa forma, destino diferente daquele em que assentara o benefício.
+
+Acrescenta, quanto à suposta nulidade dos atos de liquidação, que no ordenamento jurídico-administrativo português o regime regra de invalidade dos atos é, por razões de segurança jurídica, a mera anulabilidade, incluindo para os praticados com fundamento em deliberações ilegais ou inconstitucionais, tendo o Supremo Tribunal Administrativo vindo a pronunciar-se nesse mesmo sentido.
+
+Refere a Requerida que a declaração de nulidade aparece reservada aqueles atos que ofendem o conteúdo essencial de um direito fundamental, contendendo com os direitos, liberdades e garantias dos cidadãos, mas não aqueles que contendem com o princípio da legalidade, como é, diz, o caso nos autos.
+
+Os atos em apreço, sendo, sem que em tal se conceda, violadores do princípio da legalidade tributária, seriam, assim, anuláveis, mas não nulos. Sendo certo que, continua, os actos em causa não são ilegais e, portanto, não padecem de qualquer vício que importasse sequer a respetiva anulabilidade, na medida em que, repete, “as liquidações em apreço no facto de ter sido dado ao imóvel «um destino diferente daquele em que assentou o benefício» então, contrariamente ao que pretende a Requerente, não só não está em causa a retroatividade da norma legal por si melhor identificada no intróito do pedido arbitral, como também não se verifica qualquer lesão das suas expectativas”.
+
+Entende, finalmente, que, ainda que viessem a proceder os pedidos da Requerente, não seriam, em qualquer caso, devidos juros indemnizatórios, por não lhe poder, no seu entender, ser-lhe imputado qualquer erro de facto ou de direito, vinculada que está ao princípio da legalidade, não estando, pois, verificados os pressupostos do artigo 43.º da LGT.
+
+Pelo que a Requerida conclui que devem ser julgados improcedentes os pedidos e termina requerendo que “caso o Tribunal venha a acolher a pretensão da Requerente e, inerentemente, recuse a aplicação do artigo 236.º do Regime aplicável aos FIIAH, com fundamento em inconstitucionalidade, requer-se, por apelo ao disposto no artigo 280.o, n.º 3 da CRP e no artigo 72.º, n.º 3 da Lei do Tribunal Constitucional, seja determinado a notificação ao Ministério Público da douta decisão arbitral, a fim de que este dê cumprimento às suas prerrogativas legais”.
+
+1.6. Na mesma data, a Requerida veio aos autos pugnar pela dispensa da reunião prevista no artigo 18.º do RJAT e, bem assim, informar que” não tendo ocorrido, nos presentes autos, procedimento administrativo prévio, não existe processo administrativo a apresentar pela Requerida nos termos do artigo 17.º, n.º 2, do RJAT.”
+
+1.7 O Tribunal proferiu, aos 22 de fevereiro de 2017, despacho no sentido de dispensar a reunião do tribunal arbitral prevista no artigo 18.º do RJAT e convidando as partes a, querendo, apresentar alegações, em prazos sucessivos de dez dias, e, bem assim, convidando a Requerente a responder, em alegações, à matéria de exceção aduzida pela Requerida,
+
+1.8. A Requerente veio, aos 06 de Março de 2016, apresentar alegações, nas quais respondeu às excepções alegadas pela Requerida.
+
+Sustenta, quanto à alegada excepção da incompetência do Tribunal, esta assenta numa errada interpretação do pedido de pronúncia arbitral, no qual não se pede uma fiscalização da constitucionalidade abstracta da norma do artigo 236.º da Lei 83-C/2013, de 31 de Dezembro, antes estando em causa a apreciação da legalidade da liquidação com fundamento na inconstitucionalidade da norma na qual estas se baseiam, o que são coisas diversas, sendo que o Tribunal arbitral não teria competência para apreciar aquela questão, mas já tem, no entender da requerente, para apreciar esta.
+
+Já no que respeita à invocada excepção da ilegitimidade passiva da requerente, esta alega que tem dificuldade em perceber, da argumentação a requerida, a justificação para tal putativa ilegitimidade e sustenta que é parte legítima.
+
+No mais, pugna pela tese que defende no seu pedido de pronúncia arbitral
+
+1.9 A Requerida veio apresentar as suas alegações a 14 de março de 2017, mantendo as posições já antes manifestadas.
+
+2. SANEAMENTO
+
+O Tribunal foi regularmente constituído.
+
+Foi, no entanto, suscitada pela Requerida a incompetência do Tribunal e a sua ilegitimidade passiva, matérias que são de conhecimento prioritário, pelo que cumpre decidir:
+
+A) DA ALEGADA INCOMPETÊNCIA MATERIAL DO TRIBUNAL ARBITRAL
+
+A Requerida, por excepção, afirma o Tribunal não é competente para decidir sobre a constitucionalidade ou inconstitucionalidade das normas que, no entender da Requerente, deram origem às liquidações em crise.
+
+Verdade que a Requerente subsume o seu pedido de pronúncia arbitral à pretensão de que o Tribunal afira “se o artigo 236.º (Norma Transitória no âmbito do Regime Especial Aplicável aos FIIAH e SIIAH ) previsto pela Lei n.º 83 – C/2013, de 31 de Dezembro - na medida em que determina a aplicação do atual Regime Tributário dos FIIAH «aos prédios que tenham sido adquiridos por FIIAH antes de 1 de Janeiro de 2014, contando-se, nesses casos, o prazo de três anos previsto no n.º 14 a partir de 1 de Janeiro de 2014 » - consubstancia um novo regime de caducidade das isenções previstas no n.º 7, alínea a) e n.º 8 do artigo 8.º (Regime Tributário ) do Regime Tributário dos FIIAH, revelando uma violação flagrante e inequívoca do princípio da não retroactividade da lei fiscal, plasmado no artigo 103.º (Sistema fiscal ), número 3, da Constituição da República Portuguesa”.
+
+O Tribunal Arbitral não teria, parece-nos evidente, competência para uma tal declaração de conformidade ou desconformidade das normas em apreço com a Constituição da República Portuguesa.
+
+No entanto, na verdade, não é isso que a Requerente peticiona, tão só que o Tribunal Arbitral se pronuncie quanto à aplicação das citadas normas aos factos concretos submetidos à sua apreciação, avaliando a legalidade ou não dessa aplicação.
+
+O Tribunal é, nesta medida, materialmente competente, julgando-se improcedente a excepção invocada pela Requerida.
+
+B) DA ALEGADA ILEGITIMIDADE PASSIVA DA REQUERENTE
+
+Alega ainda a Requerida a sua “ilegitimidade passiva” sustentada, no seu entender, no facto de a Administração Tributária não se poder “recusar a aplicar normas com fundamento na sua inconstitucionalidade ou ilegalidade, pois está sujeita ao princípio da legalidade”, “Donde se conclui que a pretensão aduzida pelo Requerente colide com os poderes da Requerida e com a sua vinculação à lei e à Constituição”.
+
+Do que, conclui, a própria inconstitucionalidade de uma norma legal não pode ser objecto de impugnação directa junto dos Tribunais Administrativos e Fiscais e, consequentemente, no Tribunal Arbitral, o que, no seu entender, determina que “estando em causa um acto normativo emanado da Assembleia da República sob a forma típica de acto legislativo, sempre deveria o Tribunal declarar a absolvição da Requerida da instância, atenta a excepção dilatória de ilegitimidade passiva demonstrada nos presentes autos arbitrais, nos termos dos artigos 278.º, nº 1, alínea d) e 576.º, n. os 1 e 2 do CPC, aplicáveis ex vi artigo 29.º, n.º 1, alínea e) do RJAT”.
+
+Acontece que as razões invocadas pela Requerida para sustentar a sua ilegitimidade activa mais não são do que as que alegou em suporte da sua tese da incompetência do Tribunal Arbitral, o que já se deixou supra decidido.
+
+Como supra já se disse, não é a fiscalização abstracta da constitucionalidade da norma que está em crise nos autos e só essa poderia levar à incompetência do Tribunal e, eventualmente, à ilegitimidade da Requerida. O que está em causa nos autos é, reitera-se, a aplicação das citadas normas aos factos concretos submetidos à sua apreciação, avaliando a legalidade ou não dessa aplicação.
+
+Nessa medida, julga-se improcedente a excepção da ilegitimidade passiva invocada pela Requerida.
+
+O Tribunal é, pois, competente em razão da matéria, em conformidade com o artigo 2.9 do RJAT.
+
+As partes têm personalidade e capacidade judiciárias, mostram-se legítimas e encontram-se regularmente representadas.
+
+O processo não sofre de quaisquer vícios que o invalidem.
+
+3. MATÉRIA DE FACTO
+
+Com relevância para a decisão de mérito, o Tribunal considera provada a seguinte factualidade:
+
+1) A Requerente era proprietária da fracção autónoma designada pelas letras … do prédio inscrito na matriz predial urbana sob o artigo … da união das freguesias de …, …, … e …, concelho de Oeiras.
+
+2) O prédio foi adquirido beneficiando das isenções de IMT e de IS constantes, respetivamente, dos números 7, alínea a), e 8 do artigo 8.º do Regime Tributário dos FIIAH, que foram reconhecidas a requerimento, nos termos do artigo 10.º do Código do IMT.
+
+3) A Requerente apresentou, em 10.08.2016, uma declaração para liquidação de IMT e de IS, solicitando o pagamento do IMT e do Imposto de Selo com fundamento de facto na sua intenção de alienar o prédio e, de direito, no disposto no n.º 16.º do artigo 8.º do Regime dos FIIAH, aplicável ex vi do 236.º da Lei n.º 83 – C/2013, de 31 de Dezembro (Norma Transitória no âmbito do Regime Especial Aplicável aos FIIAH e SIIAH).
+
+4) Tais declarações deram origem à liquidação de IMT número …, no valor de 7.833,87€, e à liquidação de IS número …, no valor de 1.805,37€, que a Requerida pagou em 11.08.2016.
+
+Factos não provados
+
+Não se constataram factos essenciais, com relevo para a apreciação do mérito da causa, os quais não se tenham provado.
+
+Fundamentação da Decisão sobre a Matéria de Facto
+
+A convicção sobre os factos dados como provados fundou-se na prova documental junta pela Requerente, cuja autenticidade e correspondência à realidade não foram questionadas pela Requerida.
+
+4. QUESTÕES DECIDENDAS
+
+Apreciadas que foram supra as excepções invocadas pela Requerida, a questão que está sob apreciação do Tribunal é a de aferir da legalidade das liquidações de IMT e IS sub judice e decidir acerca das consequências da sua eventual ilegalidade e, consequentemente, da legalidade das liquidações de IMT e de IS sub judice.
+
+Vejamos:
+
+O artigo 102.º (norma inserida no Capitulo X, sob a epígrafe “Benefícios Fiscais”) da Lei n.º 64-A/2008 de 31 Dezembro aprovou o regime especial aplicável aos fundos de investimento imobiliário para arrendamento habitacional (de ora adiante "FIIAH").
+
+Segundo o n.º 7 do seu artigo 8° do FIIAH, ficam isentas de IMT:
+
+"a) As aquisições de prédios urbanos ou de frações autónomas de prédios urbanos destinados exclusivamente a arrendamento para habitação permanente, pelos fundos de investimento referidos no n.º 1;
+
+b) As aquisições de prédios urbanos ou de frações autónomas de prédios urbanos destinados a habitação própria e permanente, em resultado do exercício da opção de compra a que se refere o n.º 3 do artigo 5.º pelos arrendatários dos imóveis que integram o património dos fundos de investimento referidos no n.º 1."
+
+O artigo 235.º da 83-C/2013, de 31 de Dezembro (Orçamento de Estado para 2014 veio introduzir mais 3 números no referido artigo 8.º:
+
+"14 — Para efeitos do disposto nos n.ºs 6 a 8, considera-se que os prédios urbanos são destinados ao arrendamento para habitação permanente sempre que sejam objeto de contrato de arrendamento para habitação permanente no prazo de três anos contados do momento em que passaram a integrar o património do fundo, devendo o sujeito passivo comunicar e fazer prova junto da AT do respetivo arrendamento efetivo, nos 30 dias subsequentes ao termo do referido prazo. 15 — Quando os prédios não tenham sido objeto de contrato de arrendamento no prazo de três anos previsto no número anterior, as isenções previstas nos n.ºs 6 a 8 ficam sem efeito, devendo nesse caso o sujeito passivo solicitar à AT, nos 30 dias subsequentes ao termo do referido prazo, a liquidação do respetivo imposto. 16 — Caso os prédios sejam alienados, com exceção dos casos previstos no artigo 5.º, ou caso o FIIAH seja objeto de liquidação, antes de decorrido o prazo previsto no n.º 14, deve o sujeito passivo solicitar igualmente à AT, antes da alienação do prédio ou da liquidação do FIIAH, a liquidação do imposto devido nos termos do número anterior.".
+
+No artigo 236.º consta a seguinte disposição transitória: “O disposto nos n.ºs 14 a 16 do artigo 8.º do regime especial aplicável aos FIIAH e SIIAH, aprovado pelos artigos 102.º a 104.º da Lei n.º 64-A/2008, de 31 de dezembro, é aplicável aos prédios que tenham sido adquiridos por FIIAH a partir de 1 de janeiro de 2014. 2 - Sem prejuízo do previsto no número anterior, o disposto nos n.ºs 14 a 16 do artigo 8.º do regime especial aplicável aos FIIAH e SIIAH, aprovado pelos artigos 102.º a 104.º da Lei n.º 64-A/2008, de 31 de dezembro, é igualmente aplicável aos prédios que tenham sido adquiridos por FIIAH antes de 1 de janeiro de 2014, contando-se, nesses casos, o prazo de três anos previsto no n.º 14 a partir de 1 de janeiro de 2014.”
+
+É contra esta norma transitória que a Requerente se insurge, considerando-a inconstitucional, por violação do princípio da não retroatividade da lei fiscal, plasmado no artigo 103.º, número 3, da CRP, na medida em que, no seu entender, consubstancia um novo regime de caducidade das isenções.
+
+Apreciando, resulta dos factos provados que o prédio em causa foi adquirido pela Requerente beneficiando de isenção de IMT ao abrigo da alínea a) do n.º 7 do artigo 8.º do regime jurídico dos FIIAH.
+
+Tal norma obriga a que o imóvel seja destinado ao arrendamento para habitação permanente para que possa beneficiar de tal isenção.
+
+Isto é, a obrigatoriedade de destinar o imóvel ao arrendamento habitacional não é requisito das alterações introduzidas pelos artigos artigo 235.º e 236.º da 83-C/2013, de 31 de Dezembro, antes um requisito do regime fiscal dos FIIAH.
+
+É a natural decorrência das motivações que levaram à criação de um regime especial temporário aplicável a estes Fundos, ligadas à crise económica e à consequente dificuldade acrescida dos indivíduos e das famílias no pagamento das prestações dos contratos de mútuo celebrados para aquisição de habitação própria permanente, pretendendo, portanto, o regime acudir a situações de dificuldade e incentivar o arrendamento para habitação própria permanente.
+
+O Orçamento de Estado para 2014 vem, é certo, estabelecer um novas regras para a isenção: caso a afetação a arrendamento para habitação permanente não ocorra no período de 3 anos após a entrada do imóvel no Fundo e, ainda caso o FIIAH seja objeto de liquidação, antes de decorrido aquele prazo, o adquirente tem que requerer a liquidação do IMT que não foi liquidado.
+
+A Requerente alega que foi só por esta razão – e por aplicação destas regras, que considera inconstitucionais - que procedeu às declarações que deram origem às liquidações em crise.
+
+Não escapa, pois, ao Tribunal que a Requerente pretende circunscrever o âmbito de apreciação da questão sub judice à constitucionalidade da norma e procurar que ao Tribunal fique, dessa forma, vedada a possibilidade de apreciar a legalidade da liquidação por aplicação do disposto, quanto à caducidade da isenção, no Estatuto dos Benefícios Fiscais, dessa forma forçando a via de recurso ao Tribunal Constitucional.
+
+Pois bem, vejamos:
+
+Note-se, desde já, que as liquidações de IMT e IS efetuadas no que à fração autónoma descrita se refere não tiveram por base a sua manutenção no fundo por um período igual ou superior a 3 anos sem que tivesse havido afetação a arrendamento para habitação permanente.
+
+As liquidações em apreço, aliás conforme decorre das notas de liquidação juntas ao processo, basearam-se no facto, nas palavras da própria Requerente, de esta ter decidido alienar a fracção autónoma.
+
+O que, para efeitos do disposto no EBF, corresponde à confessa intenção de lhe dar destino diferente daquele em que assentou o benefício, fazendo, portanto, caducar a isenção.
+
+O facto de a alienação do imóvel fazer caducar a isenção não é, como ao diante se deixará explanado, um facto novo, resultante do aditamento efetuado pelo Orçamento de Estado para 2014.
+
+Nova será, quando muito, a obrigatoriedade de o adquirente requerer a liquidação dos impostos que não foram liquidados antes da alienação.
+
+Disposição que não só é meramente procedimental, como não está sequer em causa nestes autos, tendo em conta que foi precisamente isso que a Requerente fez e a consequência sempre seria, como veremos que resulta do Estatuto dos Benefícios Fiscais, que os impostos seriam liquidados oficiosamente pela Fazenda (acrescidos dos juros e sanções previstas na lei), uma vez constatada a alienação.
+
+A alienação do prédio em questão pela Requerente determina a caducidade da isenção porque lhe foi por ela dado destino diferente daquele que havia determinado a concessão do benefício.
+
+Na verdade, para cumprimento da alínea a) do n.º 7 do artigo 8.º não basta uma intenção declarada na aquisição do imóvel, mas uma efetiva afetação ao arrendamento para habitação permanente.
+
+Não é, pois, verdade que não estivessem já legalmente previstos, no momento do reconhecimento da isenção, os factos ou circunstâncias de que dependia a respetiva caducidade, ao menos no que respeita às circunstâncias que efetivamente ocorreram: a alienação do imóvel.
+
+Na verdade, a concessão de um benefício dependia já – e depende sempre – da efetiva verificação dos respetivos pressupostos, nos termos do artigo 12º do EBF (artigo 11.º), na redação do EBF que se encontrava em vigor previamente à republicação do mesmo pelo Decreto-Lei n.º 108/2008, de 26/06).
+
+O facto de a Requerente ter procedido à alienação do prédio que, ao adquirir, declarou iria afetar a fim que lhe permitia fosse reconhecida – como foi – a isenção de IMT e IS, sempre determinaria, ainda que o aditado número 16 não o previsse expressamente, a caducidade de tais isenções, por efeito do disposto no artigo 12.º e no n.º 3 do artigo 14.º do Estatuto dos Benefícios Fiscais (antigo 12.º, n.º 3, na redação do EBF que se encontrava em vigor previamente à republicação do mesmo pelo Decreto-Lei n.º 108/2008, de 26/06), segundo o qual “Quando o benefício fiscal respeite a aquisição de bens destinados à direta realização dos fins dos adquirentes, fica sem efeito se aqueles forem alienados ou lhes for dado outro destino sem autorização do Ministro das Finanças, sem prejuízo das restantes sanções ou de regimes diferentes estabelecidos por lei.”.
+
+A Requerente não alegou nem, por maioria de razão, demonstrou ter obtido a autorização lá prevista, ou qualquer outra circunstância que obstasse a que as concedidas isenções ficassem sem efeito em consequência da alienação.
+
+Não é, por outro lado, verdade que o regime especial aplicável aos fundos de investimento imobiliário para arrendamento habitacional (FIIAH) e às sociedades de investimento imobiliário para arrendamento habitacional (SIIAH), que, no seu artigo 8.º, cria a isenção, afaste a aplicação do disposto nos citados artigos do EBF, tendo em conta que nada no regime dos Fundos – antes da entrada em vigor do número cuja aplicação retroactiva a requerida põe em causa – afastava a aplicação daquelas disposições, que são gerais.
+
+Parece-nos, portanto, evidente que, na parte correspondente à alienação do imóvel, o n.º 16 do artigo 8.º do Regime Jurídico dos FIIAH se limita a reiterar o que já resultava do disposto no Estatuto dos Benefícios Fiscais.
+
+Pelo que entendemos que a norma em questão, nessa parte, não estabelece qualquer regime novo, substancial, de caducidade do benefício, antes regras procedimentos relativas ao momento e à forma da liquidação dos impostos.
+
+Não é, portanto, certo o que alega a Requerente: a concessão do benefício não constitui ato que fique definitivamente cristalizado na ordem jurídico-tributária.
+
+Na verdade, a ratio para atribuição do benefício fiscal em sede de IMT e IS aos FIIAH é, claramente, a sua afetação a arrendamento para habitação permanente— "As aquisições de prédios urbanos ou de frações autónomas de prédios urbanos destinados exclusivamente a arrendamento para habitação permanente, pelos fundos de investimento...".
+
+Pelo que a consequência de lhe ser dado diverso destino sempre seria a de que a caducidade da isenção, havendo que repor a legalidade, liquidando-se os impostos que, não fosse a declaração de intenção efetuada aquando da aquisição, haveriam de ter sido liquidados.
+
+Concluindo, não é verdade que não estivessem “legalmente previstos, no momento do reconhecimento da isenção, quaisquer factos ou circunstâncias de que dependia a caducidade da isenção reconhecida”, argumento no qual a Requerente alicerça, por completo, a sua tese da inconstitucionalidade da norma (cf. o artigo 41.º do pedido de pronúncia arbitral.
+
+O douto Parecer que a requerente junta e do qual pretende fazer uso pronuncia-se, é verdade, pela inconstitucionalidade da norma, mas em situação diversa daquela aqui ocorrida, circunscrevendo-se àqueles casos em que a caducidade da isenção ocorre por não ter o imóvel adquirido com isenção sido destinado a arrendamento no prazo – esse sim, novo – fixado pela norma cuja inconstitucionalidade se invoca.
+
+O caso em apreço é manifestamente outro. A liquidação de IMT e Selo não teve origem no decurso deste prazo sem que o Fundo tivesse afetado a fração a arrendamento. Outrossim, ocorreu pelo facto de se ter alienado a fração.
+
+E, para esse caso, a norma em crise estabelece até um regime mais favorável: a isenção só caduca, agora, se o imóvel for alienado antes de decorrido o prazo de três anos. Sem esta norma, por mera aplicação do disposto no Estatuto dos Benefícios Fiscais, a isenção caducaria sempre que o imóvel fosse alineado, sem prejuízo, naturalmente, dos prazos de caducidade do direito à liquidação do imposto.
+
+A norma em crise não é, pois, na parte que se aplica ao caso em apreço, uma norma que restrinja o âmbito da aplicação da isenção, antes uma norma que permite que, depois de decorridos três anos sobre a aquisição, o imóvel seja vendido sem que a isenção caduque.
+
+De outro modo, a alienação da fração sempre determinaria a caducidade da isenção por aplicação do disposto no n.º 3 do artigo 14.º do EBF, não estando, portanto, em causa, na situação sub judice, qualquer aplicação retroativa de norma que venha a introduzir novo regime de caducidade das isenções, tampouco existe lesão de expectativas do Requerente ou agravamento da sua posição fiscal, pelo que entendemos assim que as liquidações de IMT e Imposto de Selo em crise são legais.
+
+Entendemos, portanto, que a norma em crise não padece de inconstitucionalidade e, consequentemente, que são legais as liquidações impugnadas.
+
+Nesse sentido, veja-se, entre outras, a decisão proferida no processo 398/2015-T que correu termos no CAAD: “No caso em concreto – alienação de imóveis que não chegaram a ser afetos a arrendamento para habitação permanente pelo fundo – este nº16, conjugado com o nº15, não altera a substância ou requisitos da isenção estabelecida pela alínea a) mas tem uma natureza mais processual/operativa – lendo-se que caso haja alienação de imóveis que não tenham sido objeto de contrato de arrendamento, as isenções cessam (nomeadamente a da alínea a) do nº7), devendo o sujeito passivo solicitar a liquidação do respetivo imposto. Concluindo, mantemos que não está em causa a retroatividade ou não da lei, nem tão pouco existe lesão de expectativas do Requerente ou agravamento da sua posição fiscal, pelo que entendemos assim que a liquidação de IMT em apreço é legal.”.
+
+Bem assim, a decisão proferida no processo 684/2015-T, 688/2015-T, 690/2015-T, 691/2015-T, todos neste CAAD, entre muitos outros no mesmo sentido e com fundamentação idêntica.
+
+No que respeita, agora, à invocada nulidade da liquidação: tendo em conta que supra se decidiu pela constitucionalidade da norma, fica prejudicada a análise da questão proposta pela Requerente, que é a de saber se uma liquidação que tem por base uma norma inconstitucional é inexistente, nula ou apenas anulável.
+
+Tendo decidido pela legalidade das liquidações em crise, fica prejudicado, bem assim, o conhecimento das consequências de uma eventual ilegalidade, bem como o pedido de condenação em juros indemnizatórios.
+
+6. DECISÃO
+
+Em face do exposto, decide-se julgar totalmente improcedentes os pedidos da Requerente.
+
+* * *
+
+Fixa-se o valor do processo em 9.439,24 € (nove mil, quatrocentos e trinta e nove euros e vinte e quatro cêntimos) de harmonia com o disposto nos artigos 3.º, n.º 2 do Regulamento de Custas nos Processos de Arbitragem Tributária (RCPAT), 97.º-A, n.º 1, alínea a) do CPPT e 306.º do CPC.
+
+O montante das custas é fixado em 918,00€ (novecentos e dezoito euros) ao abrigo do artigo 22.º, n.º 4 do RJAT e da Tabela I anexa ao RCPAT, a cargo da Requerente, de acordo com o disposto nos artigos 12.º, n.º 2 do RJAT e 4.º, n.º 4 do RCPAT.
+
+Notifique-se.
+
+Porto, 20 de Março de 2017,
+
+O Árbitro
+
+(Eva Dias Costa)
+
+Texto elaborado em computador, nos termos do artigo 131.º, n.º 5 do Código de Processo Civil, aplicável por remissão do artigo 29.º, n.º 1, alínea e) do RJAT.
