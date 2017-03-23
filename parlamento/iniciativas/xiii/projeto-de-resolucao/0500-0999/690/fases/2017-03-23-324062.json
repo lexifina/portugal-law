@@ -1,0 +1,442 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "690",
+    "id": "41063",
+    "titulo": "Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2017-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11902",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2017-03-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40875",
+        "leg": "XIII",
+        "nr": "596",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2314",
+            "obs": null,
+            "pag": [
+              "3-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/3?pgs=3-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2314",
+            "obs": null,
+            "pag": [
+              "3-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/3?pgs=3-42&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "40432",
+        "leg": "XIII",
+        "nr": "352",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2314",
+            "obs": null,
+            "pag": [
+              "3-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/3?pgs=3-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2314",
+            "obs": null,
+            "pag": [
+              "3-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/3?pgs=3-42&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Propõe a universalização de educação pré-escolar a partir dos três anos de idade"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5984",
+                "nome": "Maria Germana Rocha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:34",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:36:18:784&drc=00:04:50:646"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207378",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade; Propõe a universalização de educação pré-escolar a partir dos três anos de idade; Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:34",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:41:25:729&drc=00:03:33:270"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:57:47:060&drc=00:01:01:939"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30",
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/30?pgs=30,34&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade; Propõe a universalização de educação pré-escolar a partir dos três anos de idade; Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5748",
+                "nome": "Ana Rita Bessa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:34",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:45:02:390&drc=00:03:57:609"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade; Propõe a universalização de educação pré-escolar a partir dos três anos de idade; Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:34",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:49:02:515&drc=00:04:26:484"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/31?pgs=31-33&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade; Propõe a universalização de educação pré-escolar a partir dos três anos de idade; Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:07",
+            "horaTermo": "17:34",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_23_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=01:53:30:935&drc=00:04:12:159"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que dê cumprimento à Lei nº 65/2015, de 3 de Julho e estabeleça o ano de 2017/18 como data para alargar a Universalidade da Educação Pré-Escolar para as Crianças com 3 anos de idade; Propõe a universalização de educação pré-escolar a partir dos três anos de idade; Recomenda que até 2019 seja concretizada a universalidade da educação pré-escolar aos 3 anos e a obrigatoriedade aos 5 anos de idade.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "324062",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "787104",
+        "obs": null,
+        "pag": [
+          "29-34"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-24",
+        "pubLeg": "XIII",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/067/2017-03-24/29?pgs=29-34&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
