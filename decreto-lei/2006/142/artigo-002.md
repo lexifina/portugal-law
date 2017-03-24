@@ -4,9 +4,9 @@
 
 Para efeitos do presente decreto-lei, entende-se por:
 
-a) «Agente identificador» a entidade com competência para aplicar a identificação ou a marcação referida no presente decreto-lei;
+a) (Revogada.);
 
-b) «Animal» qualquer animal das espécies bovina, suína, ovina, caprina, equídeos, aves, leporídeos e outras espécies animais, incluindo espécies cinegéticas criadas em cativeiro, que sejam exploradas para produção de carne, leite, ovos, lã, pelo, peles, trabalho ou certames culturais ou desportivos;
+b) 'Animal' qualquer animal das espécies bovina, suína, ovina, caprina, equídeos, aves, leporídeos e outras espécies animais, incluindo espécies cinegéticas criadas em cativeiro, que sejam destinadas à produção de carne, leite, ovos, lã, pelo, peles, trabalho ou eventos culturais ou desportivos;
 
 c) «Animal para abate» qualquer animal destinado a um matadouro ou a um centro de agrupamento, a partir do qual só pode ser transportado para um matadouro para efeitos de abate;
 
@@ -14,7 +14,7 @@ d) «Animal para reprodução ou produção» qualquer animal, não abrangido pe
 
 e) «Autoridade competente» a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto autoridade sanitária veterinária nacional e, no caso das Regiões Autónomas dos Açores e da Madeira, os respetivos serviços regionais;
 
-f) «Centro de agrupamento» qualquer local, incluindo centros de recolha, feiras e mercados, onde são agrupados animais provenientes de diferentes explorações com vista à constituição de lotes destinados ao comércio ou à sua exposição ou participação em concurso;
+f) (Revogada.);
 
 g) «Certificado sanitário veterinário» o documento emitido por médico veterinário que implica a inspeção prévia dos animais a movimentar e dos efetivos em que se integram, para efeitos de certificação do seu estado sanitário e determinação da classe do efetivo onde podem integrar-se;
 
@@ -22,9 +22,9 @@ h) «Circulação» qualquer movimentação dos animais vivos em território nac
 
 i) «Comerciante» a pessoa singular ou coletiva que compra e vende, direta ou indiretamente, animais para fins comerciais, que tem uma rotação regular desses animais e que, no prazo máximo de 30 dias a contar da aquisição dos animais, os revende ou transfere das primeiras instalações para outras que não são da sua propriedade, sem prejuízo do disposto em legislação aplicável ao comércio de animais das espécies suína, ovina e caprina;
 
-j) «Comércio» o comércio no território nacional de animais dele originários ou de outros Estados membros, bem como de países terceiros;
+j) (Revogada.);
 
-l) «Credencial sanitária» o documento, a emitir pela autoridade competente com jurisdição na área da exploração de destino dos animais a transportar, onde se fixam as condicionantes de natureza profilática ou de polícia sanitária para a emissão da guia sanitária de circulação pela autoridade competente com jurisdição na área de origem dos animais;
+l) (Revogada.);
 
 m) «Declaração de deslocação» o documento emitido pelo detentor que, nos termos do presente decreto-lei, acompanha obrigatoriamente a deslocação dos animais;
 
@@ -32,9 +32,9 @@ n) [Revogada];
 
 o) «Detentor de animais» qualquer pessoa singular ou coletiva, à exceção dos transportadores, responsável, a qualquer título, pelos animais abrangidos pelo presente decreto-lei;
 
-p) «Documento de identificação de equídeos» o documento, que inclui um resenho gráfico e descritivo, onde constam como indicações mínimas a pelagem, o sexo, a raça, a data de nascimento, as marcas e sinais particulares do animal e ainda as marcas do criador e eventual número de identificação por si atribuído;
+p) (Revogada.);
 
-q) «Efetivo» o animal ou conjunto de animais da mesma espécie ou de espécies diferentes mantidos numa exploração;
+q) 'Estabelecimento' qualquer tipo de instalação ou estrutura destinado a deter ou abater animais, incluindo o processamento dos seus subprodutos, quer se trate de exploração pecuária, de entrepostos, de centros de agrupamento, matadouros ou centros de processamento de subprodutos, ou simplesmente do local onde são detidos animais ou produtos germinais, temporária ou permanentemente, excetuando, as clínicas veterinárias;
 
 r) «Exploração» qualquer instalação ou, no caso de uma exploração agropecuária ao ar livre, qualquer local situado no território nacional onde os animais abrangidos pelo presente decreto-lei sejam alojados, criados ou mantidos;
 
@@ -44,26 +44,26 @@ t) «Guia de circulação» o documento emitido pelo sistema informático que au
 
 u) «Guia sanitária de circulação» o documento emitido pela autoridade competente com jurisdição na área da exploração de origem que autoriza a deslocação dos animais e fixa as condicionantes de natureza profilática ou de polícia sanitária a que o transportador ou adquirente se obriga;
 
-v) «Marca» o código que permite individualizar, no território nacional, a exploração ou o centro de agrupamento autorizado, cuja atribuição é feita pela autoridade competente;
+v) (Revogada.);
 
 x) «Meio de transporte» as partes de veículos automóveis, veículos sobre carris, navios e aeronaves utilizados para o carregamento e transporte dos animais, bem como os contentores para transporte por terra, mar ou ar;
 
 z) [Revogada];
 
-aa) «Parcelário» a referência geográfica constante do documento P1 - «Documento de identificação de parcelas», emitido pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);
+aa) 'Operador' qualquer pessoa singular ou coletiva, que tenha animais ou produtos seminais sob a sua responsabilidade, inclusive durante um período limitado ou apenas durante o transporte;
 
-bb) «Passaporte de bovino» o documento emitido pela autoridade competente ou entidade em quem esta delegue, do qual constam a identificação do animal, os registos de detenção e movimentos e a informação sanitária, nomeadamente as classificações sanitárias ou estatutos atribuídos pelos serviços oficiais, no âmbito dos planos de erradicação e vigilância das doenças, quer no que se refere à exploração ou unidade epidemiológica onde o animal se encontra à data da emissão do passaporte, quer das explorações onde foi submetido a intervenções sanitárias;
+bb) 'Passaporte de bovino' o documento exigido na circulação intracomunitária ou para países terceiros, de bovinos, emitido pelo SNIRA com a identificação do animal, o registo dos movimentos entre estabelecimentos e o seu estatuto sanitário;
 
-cc) «Registo de centro de agrupamento» o documento que inclui o número da autorização de funcionamento, as espécies comercializadas e a localização geográfica;
+cc) 'Produtos germinais' o sémen, oócitos e embriões destinados a reprodução artificial, bem como os ovos de incubação;
 
-dd) «Registo de existências e deslocações» (RED) o documento, de modelo próprio ou em suporte informático equivalente, destinado a referenciar, de forma permanente, o número de animais existentes ou detidos numa exploração ou centro de agrupamento;
+dd) 'Registo de existências' o documento ou um suporte informático, destinado a referenciar, de forma permanente, o número de animais ou de produtos germinais existentes ou detidos num estabelecimento;
 
-ee) «Registo de exploração» o documento que inclui a marca da exploração, a atividade do detentor, o tipo de produção, as espécies mantidas e a localização geográfica;
+ee) (Revogada.);
 
-ff) «Reidentificação» a aposição de uma outra marca auricular ou conjunto de marca auricular conjuntamente com um meio de identificação eletrónico, sendo obrigatória a comunicação à base de dados do novo código de forma a assegurar a rastreabilidade;
+ff) 'Reidentificação' a atribuição e registo no SNIRA de uma nova identificação aplicada a um animal em resultado da perda ou inutilização de um meio de identificação anterior;
 
 gg) «Teste de pré-movimentação» os testes para a brucelose e tuberculose bovina que estão definidos no anexo I ao Decreto-Lei n.º 244/2000, de 27 de setembro, e no anexo A do Decreto-Lei n.º 272/2000, de 8 de novembro, respetivamente;
 
 hh) «Transportador» qualquer pessoa, singular ou coletiva, que transporte, com carácter de atividade comercial ou com fins lucrativos, animais por conta própria ou por conta de terceiros ou, ainda, colocando à disposição de terceiros um meio de transporte destinado a transportar animais;
 
-ii) «Transporte» qualquer movimento de animais efetuado com o auxílio de um meio de transporte, incluindo a carga e a descarga dos animais.
+ii) (Revogada.)

@@ -16,11 +16,11 @@
 
 5 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 50 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas coletivas:
 
-a) A não comunicação da alteração de alguns dos elementos do registo da exploração ou do centro de agrupamento nos termos do n.º 2 do artigo 3.º e no prazo ali estabelecido;
+a) A não comunicação da alteração de alguns dos elementos do registo do operador ou do estabelecimento nos termos da alínea a) do n.º 1 do artigo 4.º-B, no prazo ali estabelecido;
 
-b) O desrespeito pelas normas aprovadas nos termos do n.º 1 do artigo 15.º;
+b) (Revogada.);
 
-c) A não atualização do registo nos termos do n.º 1 do artigo 9.º do anexo I, do n.º 1 do artigo 8.º do anexo II, do n.º 1 do artigo 3.º do anexo III, do n.º 1 do artigo 5.º do anexo V, do n.º 1 do artigo 3.º do anexo VI e do n.º 1 do artigo 3.º do anexo VII.
+c) A não atualização do registo nos termos do n.º 1 do artigo 3.º do anexo III, do n.º 1 do artigo 5.º do anexo V, do n.º 1 do artigo 3.º do anexo VI e do n.º 1 do artigo 3.º do anexo VII.
 
 6 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 100 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas coletivas:
 
@@ -46,9 +46,9 @@ g) A remoção de quaisquer partes dos animais mortos na exploração, incluindo
 
 h) A não comunicação, no prazo legalmente estabelecido, da morte dos animais na exploração, bem como o não cumprimento das regras relativas à recolha dos cadáveres nos termos do disposto no artigo 8.º;
 
-i) O exercício da atividade por comerciantes que não se encontrem registados nos termos do artigo 11.º;
+i) (Revogada.);
 
-j) O desrespeito das obrigações relativas a comerciantes previstas no artigo 11.º;
+j) (Revogada.);
 
 k) A venda ambulante de espécies pecuárias;
 
@@ -80,7 +80,7 @@ x) O desrespeito das normas relativas a animais das espécies bovina, ovina e ca
 
 y) A circulação de animais da espécie bovina sem que sejam acompanhados pelo passaporte devidamente preenchido ou dos documentos de acompanhamento, nos termos dos artigos 7.º e 10.º do anexo I;
 
-z) A não devolução do passaporte e dos meios de identificação do animal nos termos do artigo 8.º do anexo I;
+z) (Revogada.);
 
 aa) O desrespeito das obrigações relativas à identificação e registo de ovinos e caprinos constantes dos artigos 2.º e 3.º do anexo II;
 

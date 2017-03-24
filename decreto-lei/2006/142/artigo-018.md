@@ -1,5 +1,5 @@
 # Artigo 18.º
 
-### Transumância
+### Pastagens de transumância e outras de utilização comunitária
 
-As normas a que deve obedecer a movimentação sazonal dos efectivos animais para outra exploração do detentor ou pastagens de uso comum são fixadas por despacho do director-geral de Veterinária.
+A utilização e a movimentação sazonal dos bovinos, ovinos, caprinos e equídeos para baldios ou pastagens de utilização comunitária (PUC), onde os efetivos de diferentes detentores são reunidos, são reguladas por despacho do membro do Governo responsável pela área da agricultura.

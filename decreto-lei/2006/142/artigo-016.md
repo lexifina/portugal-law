@@ -1,9 +1,9 @@
 # Artigo 16.º
 
-### Inutilização dos meios de identificação e documentos de circulação
+### Inutilização dos meios de identificação, passaportes e documentação de suporte ao registo e movimentação animal
 
-1 - Nos dias de abate, os meios de identificação e os documentos de circulação são conferidos e guardados em embalagens seladas sob orientação do inspector sanitário do matadouro e responsabilidade da administração do mesmo, que as remete até ao dia 10 do mês seguinte à autoridade competente da área de localização.
+1 - Compete aos detentores de animais, aos operadores de matadouros, aos operadores das unidades de processamento dos cadáveres de animais mortos, bem como às entidades acreditadas no âmbito do SNIRA, proceder à inutilização dos meios de identificação, passaportes e demais documentação que tenha sido utilizada para suporte ao registo e movimentação animal.
 
-2 - Compete à autoridade competente proceder à inutilização dos meios de identificação e passaportes, após terem sido arquivados pelo período mínimo de seis meses, de tudo elaborando autos de destruição.
+2 - Os meios de identificação, bem como os passaportes devem ser arquivados pelo período de um mês.
 
-3 - A autoridade competente deve conservar, por um período de três anos, os documentos de circulação dos animais e os documentos de suporte ao registo e actualização das bases de dados, bem como os autos de destruição a que se refere o número anterior.
+3 - A documentação referida no n.º 1 que tenha sido utilizada para suporte ao registo e movimentação animal, deve ser arquivada pelo período de três anos.

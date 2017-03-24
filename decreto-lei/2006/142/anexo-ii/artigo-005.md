@@ -8,4 +8,4 @@
 
 3 - Os ovinos e caprinos identificados de acordo o n.º 1 mantidos na exploração para além da idade de 12 meses ou destinados a trocas comerciais intracomunitárias ou com países terceiros devem ser marcados de acordo com os artigos 2.º e 3.º do presente anexo.
 
-4 - Para efeitos do disposto no n.º 1 são considerados apenas os ovinos e caprinos que, até aos 12 meses, sigam diretamente para abate ou para um centro de agrupamento que os conduza igualmente para abate, sem passarem por outra exploração em vida.
+4 - Os ovinos e caprinos destinados ao abate antes dos 12 meses que sejam movimentados para estabelecimentos de recria e acabamento devem manter a marca referida no n.º 2 e devem ser marcados novamente antes da sua saída com o código da exploração de recria ou um código individual que permita identificar a origem do movimento.

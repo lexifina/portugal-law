@@ -8,10 +8,10 @@
 
 O regime de identificação e registo de bovinos inclui os seguintes elementos:
 
-a) Marcas auriculares;
+a) Meios de identificação para identificar individualmente os animais;
 
-b) Passaporte;
+b) Passaporte, apenas nos casos referidos no artigo 7.º;
 
-c) RED mantido em cada exploração e em cada centro de agrupamento;
+c) Registo de existências;
 
 d) Base de dados nacional informatizada.

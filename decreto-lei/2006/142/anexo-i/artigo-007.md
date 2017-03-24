@@ -2,16 +2,16 @@
 
 ### Passaporte
 
-1 - O detentor, no prazo de 14 dias a contar da notificação do seu nascimento, é obrigado a possuir o passaporte do bovino, que é emitido pela base de dados, por sua solicitação.
+1 - O detentor de bovino que pretenda comercializar bovinos para outro Estado membro, em conformidade com a legislação comunitária, ou para país terceiro, deve solicitar a emissão prévia de um passaporte por cada animal, onde são reportadas as informações constantes da base de dados informatizada.
 
-2 - O prazo estabelecido no número anterior aplica-se a contar da data da comunicação de entrada de um animal proveniente de outro Estado membro, devendo o seu detentor solicitar a emissão de um passaporte, entregando o documento de identificação que acompanha o animal à sua chegada à autoridade competente.
+2 - Após a chegada de animais provenientes de outro Estado membro, ou de um país terceiro, os detentores ficam obrigados a comunicar ao Sistema Nacional de Informação e Registo Animal (SNIRA) a sua receção, bem como a entregar o respetivo documento de identificação ou passaporte, à autoridade competente.
 
-3 - Sempre que o animal seja proveniente de país terceiro, o prazo a que se refere o número anterior é contado a partir da notificação da sua identificação, nos termos do n.º 2 do artigo 6.º do presente anexo.
+3 - Os bovinos são obrigados a circular acompanhados pelo passaporte respetivo, sempre que forem movimentados entre Estados membros.
 
-4 - Os bovinos não podem circular sem estar acompanhados do seu passaporte devidamente preenchido em todos os seus campos, incluindo a atualização da informação sanitária.
+4 - Os procedimentos antes descritos podem ser substituídos por um procedimento de transferência eletrónica de dados entre as bases de dados dos Estados membros, a partir da data que a Comissão Europeia reconhecer a operacionalidade plena do sistema de intercâmbio de dados.
 
 5 - O passaporte dos bovinos exportados deve ser entregue pelo último detentor à autoridade competente do local da exportação.
 
-6 - O passaporte deve ser atualizado com o registo da identificação do novo detentor logo após a chegada do animal à exploração, bem como renovado sempre que danificado ou completo.
+6 - Os passaportes de bovinos que foram emitidos pelo SNIRA devem continuar a acompanhar os animais nas suas movimentações nacionais, até que as guias de circulação passem a reportar os dados de identificação dos bovinos.
 
 7 - (Revogado).

@@ -10,4 +10,4 @@
 
 2 - O produto das coimas cobradas nas Regiões Autónomas dos Açores e da Madeira constitui receita própria das mesmas.
 
-3 - O registo de comerciantes referido no artigo 11.º tem validade em todo o território nacional, independentemente de ser requerido perante autoridade competente do continente ou das Regiões Autónomas dos Açores ou da Madeira.
+3 - (Revogado).

@@ -1,8 +1,8 @@
 # Artigo 15.º
 
-### Modelos e emissão de documentos
+### Emissão de documentos
 
-1 - Os modelos de documentos previstos no presente decreto-lei são aprovados por despacho do diretor-geral de Alimentação e Veterinária.
+1 - A emissão das guias de circulação e demais documentos são asseguradas a partir do SNIRA, mediante acesso direto dos operadores ou por via das organizações de agricultores acreditadas perante o SNIRA.
 
 2 - Os formulários referidos no número anterior, bem como as instruções para o seu preenchimento, são disponibilizados, de forma gratuita, no portal do IFAP, I. P., em www.ifap.pt, bem como no Balcão Único Eletrónico.
 

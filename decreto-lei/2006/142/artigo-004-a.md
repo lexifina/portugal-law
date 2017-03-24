@@ -1,5 +1,5 @@
 # Artigo 4.º-A
 
-### Constituição e atribuição de marca de exploração
+### Atribuição de marca
 
-A constituição e os procedimentos inerentes à atribuição da marca de exploração são fixados por despacho do diretor-geral de Alimentação e Veterinária.
+A cada instalação, efetivo ou grupo de animais que constitua um núcleo de produção ou unidade epidemiológica no âmbito de um estabelecimento registado no SNIRA, é atribuída uma marca que o permita individualizar.

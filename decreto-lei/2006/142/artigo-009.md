@@ -2,4 +2,4 @@
 
 ### Financiamento do sistema
 
-Por serviços prestados pela Administração, designadamente pela aposição de meios de identificação, de emissão de guias de circulação e atribuições de licenças de funcionamento, podem ser cobradas importâncias aos detentores dos animais ou outras entidades com eles relacionadas, cujos montantes e condições de aplicação e de cobrança são fixados por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, por proposta do director-geral de Veterinária.
+Pelos serviços prestados pela administração, designadamente pelo registo dos operadores e dos estabelecimentos, autorização de comercialização de meios de identificação, bem como pela atribuição da numeração dos meios de identificação das marcas auriculares e dos meios de identificação eletrónica e emissão de documentos, podem ser cobradas taxas cujo montante e condições de aplicação e cobrança são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.

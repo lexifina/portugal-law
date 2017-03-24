@@ -1,3 +1,7 @@
+## Capítulo II
+
+## Comerciantes e transportadores
+
 # Artigo 12.º
 
 ### Transportadores

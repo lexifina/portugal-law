@@ -2,7 +2,7 @@
 
 ### Apreensão
 
-1 - Os animais que circulem em circunstâncias indiciatórias da prática de alguma das contra-ordenações previstas neste decreto-lei são apreendidos, sendo, neste caso, aplicável à apreensão a tramitação processual prevista neste artigo.
+1 - Os animais que circulem ou sejam encontrados num estabelecimento em circunstâncias indiciárias da prática de alguma das contraordenações previstas no presente decreto-lei, são desde logo apreendidos, sendo, neste caso, aplicável à apreensão a tramitação processual prevista no presente artigo.
 
 2 - Da apreensão é elaborado auto, a enviar à entidade instrutora.
 
