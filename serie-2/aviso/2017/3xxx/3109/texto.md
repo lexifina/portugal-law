@@ -1,0 +1,7 @@
+Aviso n.º 3109/2017
+Regulamento Municipal de Gestão da Habitação Social em Regime de Arrendamento Apoiado do Município de Peniche
+António José Ferreira Sousa Correia Santos, presidente da Câmara Municipal de Peniche, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º do Anexo I, da Lei n.º 75/2013, de 12 de setembro, torna público que por deliberação da Câmara Municipal de Peniche n.º 162/2017, tomada em reunião ordinária de 20 de fevereiro, foi aprovado o Projeto de Regulamento Municipal de Gestão da Habitação Social em Regime de Arrendamento Apoiado do Município de Peniche.
+Assim, em cumprimento da mesma deliberação e nos termos do artigo 101.º do Código do Procedimento Administrativo, submete-se o referido projeto de regulamento a consulta pública, por um prazo de 30 dias úteis, a contar da data de publicação do presente edital no Diário da República, podendo o mesmo ser consultado na internet, na página do Município de Peniche ou nos Serviços Centrais desta Câmara Municipal, situado no edifício dos Paços do Concelho.
+De acordo com o n.º 2 do artigo 118.º do CPA, convidam-se todos os interessados a remeter por escrito, a esta Câmara Municipal, eventuais reclamações, sugestões, observações e propostas dentro do período atrás mencionado, dirigidas ao Presidente da Câmara Municipal, Largo do Município, 2520-239 Peniche, ou para o e -mail: cmpeniche@cm -peniche.pt.
+24 de fevereiro de 2017. - O Presidente da Câmara, António José Ferreira Sousa Correia Santos.
+310319354
