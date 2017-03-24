@@ -1,0 +1,148 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Projeto de Lei",
+  "numero": "473",
+  "id": "41197",
+  "fases": 17,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2017-03-24",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2017-09-14",
+    "DataInicioleg": "2016-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4405",
+        "nome": "João Torres"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5831",
+        "nome": "Diogo Leão"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2260",
+        "nome": "Odete João"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3936",
+        "nome": "Palmira Maciel"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6049",
+        "nome": "Sofia Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6051",
+        "nome": "Francisca Parreira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4453",
+        "nome": "Pedro Delgado Alves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1611",
+        "nome": "Santinho Pacheco"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "523",
+        "nome": "Francisco Rocha"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6129",
+        "nome": "Lúcia  Araújo Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4210",
+        "nome": "José Rui Cruz"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5933",
+        "nome": "Carla Sousa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6157",
+        "nome": "Lara Martinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6158",
+        "nome": "João Azevedo Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5501",
+        "nome": "Carla Tavares"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6013",
+        "nome": "Hugo Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1600",
+        "nome": "Jamila Madeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "4209",
+        "nome": "Elza Pais"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1974",
+        "nome": "Ricardo Bexiga"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "41197",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466c4d3251785a446b774c57566d5a5449744e4745324d6930354f544e6c4c5463795a4451785a47526d4e7a59305953356b62324d3d&fich=1e3d1d90-efe2-4a62-993e-72d41ddf764a.doc&Inline=true",
+    "IniNr": "473",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Indexação automática dos preços máximos de refeição e de alojamento para estudantes do ensino superior ao indexante de apoios sociais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
