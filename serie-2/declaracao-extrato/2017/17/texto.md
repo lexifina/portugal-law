@@ -1,0 +1,8 @@
+Declaração (extrato) n.º 17/2017
+Raúl Cunha, Presidente da Câmara Municipal de Fafe, ao abrigo do disposto no n.º 1 e 2 do artigo 122.º da revisão do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, torna público que a Câmara Municipal de Fafe deliberou por unanimidade, na sua reunião ordinária realizada a 23 de junho de 2016, aprovar a segunda correção material ao Plano de Pormenor da Zona Industrial do Socorro, publicado pela Portaria n.º 265/93, de 9 de março, no Diário da República n.º 57, 1.ª série B, e alterado pelo Edital n.º 1184/2008, de 24 de novembro no Diário da República n.º 228, 2.ª série, fundamentada no disposto nas alíneas a) e b) do n.º 1 do referido artigo do RJIGT, em concreto, na necessidade de correção de erro material na representação cartográfica, determinada por incorreções de cadastro na transposição de escalas, relativamente a um dos proprietários da área de intervenção do Plano.
+A correção material incide no reajustamento do limite da área do lote 113, o qual passa a ter a área de 2.666,00 m2.
+Mais torna público que a referida correção material foi comunicada à Assembleia Municipal de Fafe e à Comissão de Coordenação e Desenvolvimento Regional do Norte, em cumprimento do disposto no n.º 3 do artigo 122.º do RJIGT.
+24 de janeiro de 2017. - O Presidente da Câmara Municipal, Raúl Cunha, Dr.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+38025 - http://ssaigt.dgterritorio.pt/i/Planta_de_implantação_38025_1.jpg
+610264874
