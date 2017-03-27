@@ -1,0 +1,7 @@
+Aviso n.º 3187/2017
+Projeto do Regulamento de insígnias e medalhas municipais
+Teófilo Alírio Reis Cunha, Presidente da Câmara Municipal de Santana, torna público que, em reunião extraordinária de 15 de fevereiro de 2017, o órgão executivo desta autarquia, deliberou aprovar o Projeto de Regulamento de insígnias e medalhas municipais, de modo a que durante o prazo de 30 dias, contados da data de publicação no Diário da República, 2.ª série, deste aviso, seja submetido à apreciação pública para recolha de sugestões, em conformidade com o disposto nos artigos 110.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro
+Durante esse período poderão os interessados consultar o referido Projeto, no Serviço de Atendimento de Apoio ao Munícipe da Câmara Municipal, Avenida 25 de Maio, N.º 2 -9230-116 Santana, no horário normal de expediente (9h00-17h00), nos locais de estilo das Juntas de Freguesia e no site da Autarquia www.cm-santana.com-Destaques - e sobre ele formularem sugestões por escrito, devendo as mesmas serem dirigidas ao Presidente da Câmara e entregues no Gabinete de Apoio à Presidência, ou enviadas por correio eletrónicogap@cm-santana.com, ou por carta registada e com aviso de receção, para aquela morada.
+Para constar e produzir os devidos efeitos, publica-se o presente aviso e se afixam editais de igual teor nos lugares públicos do costume
+6 de março de 2017. - O Presidente da Câmara, Teófilo Alírio Reis Cunha.
+310316487
