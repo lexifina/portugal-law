@@ -1,0 +1,200 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12967",
+  "numero": "286",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-03-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-05-04",
+            "entidades": null,
+            "id": "105075",
+            "tipo": null,
+            "titulo": "Audição em 2017-05-04 com Rui Manuel Lince Singeis Medinas Duarte"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-04-26",
+            "dataResposta": "2017-06-14",
+            "entidades": [
+              "Presidente da Comissão Executiva da Caixa Geral de Depósitos"
+            ],
+            "nrOficio": "101/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-04-26",
+            "dataResposta": "2017-07-14",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "104/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-10-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-04-12",
+        "DataArquivo": "2017-11-02",
+        "DataBaixaComissao": "2017-03-31",
+        "DataEnvioPAR": "2017-11-07",
+        "DataReaberta": "2017-04-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-04-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876595449304d7a6b304f4759744f5755334d4330304f545a6a4c546b335a6a4d745a5445774f446b335a54466d4f54557a4c6e426b5a673d3d&fich=a243948f-9e70-496c-97f3-e10897e1f953.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-04-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6a49774e6d59324f574d745a4745334e533030595449314c546b304d6a45744d7a466c595455784d7a5a6b5a6a6c6b4c6e426b5a673d3d&fich=6206f69c-da75-4a25-9421-31ea5136df9d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e5442694e6d55304e4745744d6a55774e5330305a57566d4c57466c4d324d744f5752685a545a6b5957466b4e4463784c6e426b5a673d3d&fich=50b6e44a-2505-4eef-ae3c-9dae6daad471.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876597a686c59325932595751744e6d59785a5330304d4745354c574a694e474d744e4749315a444d7a4d7a526d5a6d457a4c6e426b5a673d3d&fich=c8ecf6ad-6f1e-40a9-bb4c-4b5d3334ffa3.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-11-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876596a63334d4749304d444d745954466c4e7930304e5759344c54686d4f546b745a5451784f444d305a6d45314d474a6b4c6e426b5a673d3d&fich=b770b403-a1e7-45f8-8f99-e41834fa50bd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-07-19",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e324d354e32566a4f5455745a54637a5a6930304d4445304c54686b4f5441745a5459774d3245335a5756694e5445774c6e426b5a673d3d&fich=7c97ec95-e73f-4014-8d90-e603a7eeb510.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e444933595467794d3259744e7a6b784d5330304e7a646c4c5745334d6a55744e6a6b7a595449785a6d52684d5451794c6e426b5a673d3d&fich=427a823f-7911-477e-a725-693a21fda142.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-04-12",
+            "gp": "BE",
+            "id": "6165",
+            "motivoCessacao": null,
+            "nome": "Paulino Ascenção"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684d6a526a5a6a517a596931684e6a67774c545133597a5174596a6b334d53316a597a566c4d5459314d44566c4d6a63756347526d&fich=a24cf43b-a680-47c4-b971-cc5e16505e27.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12967",
+    "PetAssunto": "Solicitam o não encerramento do Balcão da Caixa Geral de Depósitos na Golegã.",
+    "PetDataEntrada": "2017-03-28",
+    "PeticoesAssociadas": null,
+    "PetId": "12967",
+    "PetLeg": "XIII",
+    "PetNr": "286",
+    "PetNrAssinaturas": "2563",
+    "PetNrAssinaturasInicial": "3151",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "792226",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-21",
+        "pubLeg": "XIII",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/041/2017-04-21/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
