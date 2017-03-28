@@ -6,7 +6,7 @@
 
 a) Evidenciem a existência de sistema de informação contabilística que permita aferir os custos e proveitos do serviço de gestão de AA e de SAR de forma separada, que permita a apresentação de estudo que comprove a sustentabilidade da operação e permita o apuramento da receita líquida, nos termos do n.º 2 do artigo 19.º do Decreto-Lei n.º 159/2014, de 27 de outubro. Na ausência dos referidos sistemas de informação, será aplicada a percentagem forfetária da receita líquida definida no anexo V do Regulamento (UE) 1303/2013, isto é 25 % no setor da água;
 
-b) Evidenciem a existência de cadastro das infraestruturas existentes, verificável através da ficha de avaliação individual publicitada no sítio eletrónico da entidade reguladora, do nível do indicador da ERSAR "Índice de conhecimento infraestrutural e gestão patrimonial", que terá de ser igual ou superior a 40 pontos, exceto nos casos em que a operação contemple ações para o aumento deste índice;
+b) Evidenciem a existência de cadastro das infraestruturas existentes, verificável através da ficha de avaliação individual publicitada no sítio eletrónico da entidade reguladora, do nível do indicador da ERSAR 'Índice de conhecimento infraestrutural e gestão patrimonial', que tem de ser igual ou superior a 40 pontos, exceto nos casos em que a operação contemple ações para o aumento deste índice ou nos casos em que o beneficiário tenha candidatura específica aprovada para a realização de cadastro, que vise atingir esse mínimo;
 
 c) Evidenciem, através da última ficha de avaliação individual referida na alínea anterior ou através de dados mais recentes já validados pela ERSAR, a disponibilização à entidade reguladora dos dados com vista à aferição dos indicadores da ERSAR "Índice das melhorias nos sistemas de AA e SAR";
 
@@ -19,3 +19,5 @@ f) Nos casos de beneficiários que constituam entidades gestoras de sistemas de 
 2 - As alíneas b) a d) não se aplicam aos beneficiários da Região Autónoma da Madeira.
 
 3 - Em casos excecionais, que visem a resolução de situações de incumprimento comunitário, podem ser elegíveis entidades que não evidenciem o cumprimento dos critérios definidos nas alíneas a) a e), desde que se comprometam a evidenciar o seu cumprimento no prazo máximo de um ano a contar da data de aprovação da candidatura.
+
+4 - No caso de beneficiários constituídos há menos de um ano ou de beneficiários cuja abrangência territorial ou atividade tenha sido alterada também há menos de um ano, face à data de apresentação de candidatura, o cumprimento dos critérios de elegibilidade previstos nas alíneas b), c) e d) do n.º 1, que não seja possível comprovar na candidatura, são comprovados através da ficha de avaliação individual da ERSAR que vier a ser publicitada no sítio eletrónico desta entidade reguladora, no máximo até ao final do segundo ano após a aprovação da candidatura.

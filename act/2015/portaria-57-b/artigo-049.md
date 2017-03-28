@@ -2,7 +2,7 @@
 
 ### Tipologias das operações
 
-1 - As operações abrangidas são as que se revelem indispensáveis para a realização das intervenções em edifícios de habitação social, e que decorram da auditoria ou diagnóstico energético que demonstre os ganhos financeiros líquidos resultantes das respetivas operações, podendo assumir as seguintes tipologias:
+1 - As operações abrangidas são as que se revelem indispensáveis para a realização das intervenções em edifícios de habitação social, que decorram da auditoria ou diagnóstico energético que demonstre os ganhos potencialmente resultantes das respetivas operações, podendo assumir as seguintes tipologias:
 
 a) Intervenções na envolvente opaca dos edifícios, com o objetivo de proceder à instalação de isolamento térmico em paredes, pavimentos, coberturas e caixas de estore;
 

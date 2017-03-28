@@ -10,7 +10,7 @@ b) A despesa elegível com investimento em produção de energia elétrica para 
 
 2 - Não são elegíveis as seguintes despesas:
 
-a) Apoios a intervenções em frações autónomas, de edifícios ou fogos de habitação que tenham já sido alvo de apoios comunitários;
+a) Apoios a intervenções em frações autónomas, de edifícios ou fogos de habitação que tenham sido alvo de apoios comunitários há menos de 10 anos;
 
 b) Despesas associadas a outras intervenções em edifícios que não se encontrem relacionadas com o aumento do desempenho energético, como sejam:
 
