@@ -1,0 +1,243 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12969",
+  "numero": "288",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-03-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-09-20",
+            "dataResposta": "2017-10-24",
+            "entidades": [
+              "DGS - Direção-Geral da Saúde"
+            ],
+            "nrOficio": "109/CTSS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-09-20",
+            "dataResposta": null,
+            "entidades": [
+              "DGAE - Direção-Geral da Administração Escolar"
+            ],
+            "nrOficio": "110/CTSS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-09-20",
+            "dataResposta": null,
+            "entidades": [
+              "GPEARI - Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério das Finanças"
+            ],
+            "nrOficio": "111/CTSS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2017-09-19",
+        "DataArquivo": "2017-09-25",
+        "DataBaixaComissao": "2017-03-31",
+        "DataEnvioPAR": "2018-12-12",
+        "DataReaberta": "2017-09-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-09-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a6d4d344d47466c597a59744e324a6d4e5330304d4759334c57466d4d544d745a6d49344d7a45774d6d4d7959574e684c6e426b5a673d3d&fich=fc80aec6-7bf5-40f7-af13-fb83102c2aca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-26",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e3251354f54466c4d546b744e4449794d6930304e7a55304c5745355a4449744e4751334e3252694f544e694e4467314c6e426b5a673d3d&fich=7d991e19-4222-4754-a9d2-4d77db93b485.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-09-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f44457a4d474d7a4d6d59744e4442694e6930305a54466d4c54686a4e444d745a44466b5954686a4f44597a4e474d354c6c424552673d3d&fich=8130c32f-40b6-4e1f-8c43-d1da8c8634c9.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a57526a4e6d51334e5451744e5445314d7930305a4752694c5749334e6a51745a47457759544a6a595463314d6d49304c6c424552673d3d&fich=edc6d754-5153-4ddb-b764-da0a2ca752b4.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a4749304f47457a596d4d744d4467324f4330304d7a41774c574a69596a4d744e444532596a49775a57466b4d6d4d354c6c424552673d3d&fich=db48a3bc-0868-4300-bbb3-416b20ead2c9.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a44686d597a686c5a4755745a6a45324e6930304e446b344c574533596d5574596a51305a44426c4f47526c4e47526a4c6e426b5a673d3d&fich=d8fc8ede-f166-4498-a7be-b44d0e8de4dc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Orçamento, Finanças e Modernização Administrativa."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-11-02",
+            "entidades": null,
+            "id": "106923",
+            "tipo": null,
+            "titulo": "Audição em 2017-11-02 com Mary Neidy Matias da Silva"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2018-12-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-11",
+        "DataArquivo": "2018-12-12",
+        "DataBaixaComissao": "2017-09-25",
+        "DataEnvioPAR": "2018-12-12",
+        "DataReaberta": "2017-10-11",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-12-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6d45775a544a694d4745745a4755774f5330304e7a426d4c5467314e544d745a574a6d4d6a51354d4751774e545a6b4c6e426b5a673d3d&fich=6a0e2b0a-de09-470f-8553-ebf2490d056d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2018-04-13",
+            "dataNomeacao": "2017-10-11",
+            "gp": "PSD",
+            "id": "6177",
+            "motivoCessacao": "Cessação de funções na COFMA",
+            "nome": "Rubina Berardo"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-04-13",
+            "gp": "PSD",
+            "id": "6176",
+            "motivoCessacao": null,
+            "nome": "Sara Madruga da Costa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Trabalho e Segurança Social para esta comissão."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774e4441304d7a4a6c4f5330324e5751784c545135596d55744f574d314f5330314d6d51354f5463325a545134596a59756347526d&fich=040432e9-65d1-49be-9c59-52d9976e48b6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12969",
+    "PetAssunto": "Solicita a criação de um \"Estatuto\" para as mães sozinhas com filhos a cargo.",
+    "PetDataEntrada": "2017-03-29",
+    "PeticoesAssociadas": null,
+    "PetId": "12969",
+    "PetLeg": "XIII",
+    "PetNr": "288",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
