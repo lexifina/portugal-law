@@ -6,31 +6,39 @@
 
 a) Sumário a publicar no Diário da República;
 
-b) Síntese do conteúdo do projeto;
+b) (Revogada.);
 
 c) Necessidade da forma proposta para o projeto;
 
 d) Referência à participação ou audição de entidades, com indicação da norma que a exija e do respetivo conteúdo;
 
-e) Atual enquadramento jurídico da matéria objeto do projeto;
+e) Enquadramento jurídico atual e fundamento para a respetiva alteração;
 
-f) Razões que aconselham a alteração do regime jurídico em vigor;
+f) (Revogada.);
 
-g) Análise comparativa entre o regime jurídico em vigor e o regime jurídico a aprovar, bem como um relatório de avaliação do regime anterior sempre que este seja significativamente alterado;
+g) (Revogada.);
 
-h) Identificação expressa da legislação a alterar ou a revogar e eventual legislação complementar;
+h) Identificação expressa da legislação a alterar ou a revogar;
 
-i) Avaliação sumária dos meios financeiros e humanos envolvidos na respetiva execução a curto e médio prazo, bem como de novos atos administrativos criados;
+i) Identificação expressa de eventual legislação complementar, incluindo instrumentos de regulamentação;
 
-j) Avaliação do impacte do projeto quando, em razão da matéria, o mesmo tenha relação com a igualdade de género;
+j) Avaliação sumária dos meios financeiros e humanos necessários à Administração Pública para execução a curto e médio prazo, bem como de novos atos administrativos criados;
 
-k) Avaliação do impacte do projeto quando, em razão da matéria, o mesmo tenha relação com as condições de participação e integração social dos cidadãos portadores de deficiência;
+k) Avaliação do impacto do projeto relativamente à variação de encargos para as pessoas e/ou para as empresas, em especial, para as micro, pequenas e médias empresas, com referência a audições, que sejam legalmente obrigatórias ou realizadas por determinação do membro do Governo responsável pela respetiva área governativa, a entidades representativas das empresas, incluindo as entidades representativas dos trabalhadores;
 
-l) Relação com o Programa do Governo;
+l) Ponderação sobre a oportunidade de criação de regime de isenção para micro, pequenas e médias empresas ou, não sendo possível, de regime jurídico específico que atenda às particularidades deste segmento de empresas e mitigue o impacto dos referidos encargos;
 
-m) Relação com políticas da União Europeia;
+m) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com a igualdade de género;
 
-n) Nota para a comunicação social.
+n) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com as condições de participação e integração social dos cidadãos portadores de deficiência;
+
+o) Avaliação do impacto concorrencial do projeto;
+
+p) Relação com o Programa do Governo;
+
+q) Relação com políticas da União Europeia;
+
+r) Nota para a comunicação social.
 
 2 - A nota justificativa tem a natureza de documento interno do Governo, para efeitos de confidencialidade.
 
