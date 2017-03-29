@@ -1,0 +1,7 @@
+Aviso n.º 3311/2017
+Projeto de Regulamento do Orçamento Participativo do Município de Pinhel
+Rui Manuel Saraiva Ventura, Presidente da Câmara Municipal da Pinhel, torna público, ao abrigo da competência que lhe confere a alínea t) do n.º 1 do artigo 35.º do anexo I da Lei n.º 75/2013, de 12 de setembro, e nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que se encontra em fase de apreciação pública, o projeto de Regulamento do Orçamento Participativo do Município de Pinhel, aprovado em reunião ordinária da Câmara Municipal, em 15 de fevereiro de 2017.
+O projeto de Regulamento estará disponível, nas horas de expediente, na Loja do Munícipe desta Câmara Municipal e no sítio do Município (www.cm-pinhel.pt) para efeitos de recolhas de sugestões de todos os interessados.
+A apresentação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas, no âmbito do respetivo procedimento de elaboração, devem ser formuladas por escrito e enviadas à Câmara Municipal, dirigidas ao Presidente da Câmara, para a morada de Município de Pinhel - Largo Ministro Duarte Pacheco n.º 8, 6400-358 Pinhel, durante trinta dias, contados a partir do dia de publicação do presente aviso no Diário da República.
+23 de fevereiro de 2017. - O Presidente da Câmara, Rui Manuel Saraiva Ventura.
+310330904
