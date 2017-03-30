@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 55/2017
+Recomenda ao Governo que garanta o estacionamento reservado a pessoas com deficiência
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Proceda ao levantamento da existência, condições e proximidade de lugares de estacionamento reservado a pessoas com deficiência nas instituições ou entidades públicas.
+2 - Quando seja identificada a inexistência de lugares de estacionamento reservado a pessoas com deficiência em instituições ou entidades públicas, estas passem a dispor daqueles lugares, e, quando sejam identificadas insuficiências ao nível das condições físicas e/ou da proximidade destes lugares, estes passem a cumpri-las de forma adequada às necessidades das pessoas com deficiência ou mobilidade reduzida.
+3 - Garanta que, no caso de locais de estacionamento de uso público que pertencem a entidades privadas (como parques de estacionamento de centros comerciais e grandes superfícies), sejam reservados lugares de estacionamento para pessoas com deficiência e que a sua ocupação seja exclusiva das pessoas que tenham o cartão de estacionamento previsto no Decreto-Lei n.º 307/2003, de 10 de dezembro, que «aprova o cartão de estacionamento de modelo comunitário para pessoas com deficiência condicionadas na sua mobilidade».
+4 - Promova uma campanha pública de sensibilização e esclarecimento com vista a dissuadir os comportamentos de utilização indevida destes lugares de estacionamento, na qual destaque as limitações que as pessoas com deficiência ou mobilidade reduzida enfrentam quando não conseguem ter acesso a estes lugares.
+5 - Reforce, em articulação com as entidades competentes, a fiscalização da utilização indevida destes lugares de estacionamento, com vista a prevenir e dissuadir comportamentos que violem o direito à mobilidade das pessoas com deficiência ou mobilidade reduzida.
+6 - Analise, em conjunto com as organizações das pessoas com deficiência, os critérios para atribuição do cartão de estacionamento para pessoas com deficiência condicionadas na sua mobilidade e a necessidade do seu alargamento, designadamente, a pessoas com deficiência visual.
+Aprovada em 10 de fevereiro de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
