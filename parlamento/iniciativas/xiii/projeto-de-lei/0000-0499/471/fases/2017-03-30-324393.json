@@ -1,0 +1,546 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "471",
+    "id": "41195",
+    "titulo": "Altera o Código Penal, reforçando o combate à discriminação racial"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-03-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11951",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-03-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41194",
+        "leg": "XIII",
+        "nr": "470",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2319",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-31",
+            "pubLeg": "XIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2319",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-31",
+            "pubLeg": "XIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "41030",
+        "leg": "XIII",
+        "nr": "61",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2319",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-31",
+            "pubLeg": "XIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2319",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-03-31",
+            "pubLeg": "XIII",
+            "pubNr": "70",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-03-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:01:23:724&drc=00:03:47:840"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:28:12:002&drc=00:02:00:998"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  ADJUNTO",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Eduardo Cabrita"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-3",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3,8-9&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:05:18:389&drc=00:04:17:610"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:09:51:798&drc=00:03:14:201"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:26:21:107&drc=00:01:44:893"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5",
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/4?pgs=4-5,8&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4031",
+                "nome": "Ângela Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:13:12:628&drc=00:03:45:371"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4209",
+                "nome": "Elza Pais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:17:02:903&drc=00:03:42:096"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208388",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:20:52:617&drc=00:03:41:016"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208389",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "17:23",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_03_30_15_00_00_14_plenario&url=l13/sl2/a2017/m03/&tI=00:24:35:778&drc=00:01:39:221"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "208390",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "70",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime jurídico da prevenção, proibição e combate da discriminação, em razão da origem racial e étnica, cor, nacionalidade, ascendência e território de origem; Reforça o regime sancionatório aplicável à discriminação em razão da deficiência, alterando o artigo 240.º do Código Penal; Altera o Código Penal, reforçando o combate à discriminação racial.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "324393",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "787584",
+        "obs": null,
+        "pag": [
+          "3-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-03-31",
+        "pubLeg": "XIII",
+        "pubNr": "70",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/070/2017-03-31/3?pgs=3-9&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
