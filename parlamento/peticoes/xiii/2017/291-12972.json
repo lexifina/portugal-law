@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12972",
+  "numero": "291",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-03-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-04-28",
+            "dataResposta": "2017-09-25",
+            "entidades": [
+              "Autoridade Nacional de Comunicações"
+            ],
+            "nrOficio": "125/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-09-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-04-28",
+        "DataArquivo": "2018-10-10",
+        "DataBaixaComissao": "2017-04-11",
+        "DataEnvioPAR": "2018-10-16",
+        "DataReaberta": "2017-04-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d7a4531597a51314e4441744d7a566b595330304d4467774c5749324e544d744e445a69597a466a5a5759785a6d46694c6e426b5a673d3d&fich=315c4540-35da-4080-b653-46bc1cef1fab.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e544d7a4f57517a5a575174593249784e4330304e324d304c5468684e57557459574e6b4e444930596a5a6c4d44686c4c6e426b5a673d3d&fich=5339d3ed-cb14-47c4-8a5e-acd424b6e08e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-10-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a6a67354f446779595467744d6a557a5a6930304d5464684c57466d5a4463744d5451794f574931597a41774e6d5a694c6e426b5a673d3d&fich=f89882a8-253f-417a-afd7-1429b5c006fb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-09-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d4449794d7a566c4e5463744f446b775a6930305a574e6c4c57497a5a5441744d5467794d446c695a47566b5a6a466a4c6e426b5a673d3d&fich=02235e57-890f-4ece-b3e0-18209bdedf1c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-11-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a6a4932596d497a595751744f54566d5a533030593256684c574a6c4e7a6774596a59314d7a4d314f4464694e6a49334c6e426b5a673d3d&fich=f26bb3ad-95fe-4cea-be78-b6533587b627.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-15",
+            "gp": "BE",
+            "id": "6167",
+            "motivoCessacao": null,
+            "nome": "Ernesto Ferraz"
+          },
+          {
+            "dataCessacao": "2018-05-15",
+            "dataNomeacao": "2017-04-28",
+            "gp": "BE",
+            "id": "6165",
+            "motivoCessacao": null,
+            "nome": "Paulino Ascenção"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4d4751315a444d7a4e6931695a4451344c5451344e4755744f446b784d5330784d5455795a6d4a6c4d544a694d3245756347526d&fich=f0d5d336-bd48-484e-8911-1152fbe12b3a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12972",
+    "PetAssunto": "Solicita criação de legislação no âmbito da proteção do consumidor, no âmbito de subscrições de serviços de aquisição de Apps e outros conteúdos em App Stores e outras Lojas online.",
+    "PetDataEntrada": "2017-03-31",
+    "PeticoesAssociadas": null,
+    "PetId": "12972",
+    "PetLeg": "XIII",
+    "PetNr": "291",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
