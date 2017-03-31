@@ -1,0 +1,241 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "474",
+    "id": "41198",
+    "titulo": "Assegura a liberdade individual de cada pessoa para contrair casamento, eliminando o prazo internupcial previsto pelo artigo 1605.º do CC"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2017-03-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "39849",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-03-31",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-03-31",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - PA - Projeto texto substituição (PS, BE e PAN) - SUBSTITUÍDA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5441784e7a59335a6a59744e546b324e7930304e44426a4c5749774e6a51744d325a6c4e4749794d32526d597a63334c6e426b5a673d3d&fich=101767f6-5967-440c-b064-3fe4b23dfc77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-30",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a426b4d5745795a6d4d745a6a597859793030596a5a6c4c546734596a67744e4751784f444d774d5459324e5755304c6e426b5a673d3d&fich=60d1a2fc-f61c-4b6e-88b8-4d18301665e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Mulheres Jusristas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659545a69595755344d4749744d7a526b5a5330304f5445304c574668596d59744d4452694e474d345a5745335a6d4e6a4c6c424552673d3d&fich=a6bae80b-34de-4914-aabf-04b4c8ea7fcc.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Jorge Duarte Pinheiro",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d475a694d6d466c59544d744d6a4934597930304f4467784c574a695a574574597a5535597a45774d6d4a6c4d544a6a4c6e426b5a673d3d&fich=0fb2aea3-228c-4881-bbea-c59c102be12c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-12",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Paulo Pamplona Côrte-Real",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595751324d6d49314e3245745a5464684d5330304d324e694c5467304d4441744d4749345a6d51784e7a4935596a5a6d4c6e426b5a673d3d&fich=ad62b57a-e7a1-43cb-8400-0b8fd1729b6f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-05-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a544a68595746685a4449744f5441354d433030595755344c5746694f4467744e3245325a57457a595441314f5749354c6e426b5a673d3d&fich=e2aaaad2-9090-4ae8-ab88-7a6ea3a059b9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a67774e574d7a5a4449745a44526d4d6930304e546b774c574a6b4d6a4d744d4455304e32466c4d44526c597a6b304c6e426b5a673d3d&fich=3805c3d2-d4f2-4590-bd23-0547ae04ec94.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-04",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura - 1- Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659545579596d4e684d5463744d6d566d4d69303059574a6b4c54686c4e5467744e5464695a6a4d795a6a63795957466b4c6e426b5a673d3d&fich=a52bca17-2ef2-4abd-8e58-57bf32f72aad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura - nova Redação relativa aos Projetos de Lei n.ºs 436/XIII/2.ª (BE), 472/XIII/2.ª (PS) e 474/XIII/2.ª (PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5451775a4755305a6a4d744e6a646a4e7930304f444e6d4c574a685a44417459575932596a63324e7a646c4f4759314c6e426b5a673d3d&fich=140de4f3-67c7-483f-bad0-af6b7677e8f5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-05-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6b784f5751354d47457459544a695a6930304d6a51324c5749774e5745745a5751325932497a5a6a42695a6d49304c6c424552673d3d&fich=f919d90a-a2bf-4246-b05a-ed6cb3f0bfb4.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4e685a6d51784e5459744d6a51784d5330305a474a6a4c574a694e6a55744d6d49334f444a6b5954517a593256684c6e426b5a673d3d&fich=b3afd156-2411-4dbc-bb65-2b782da43cea.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados - 1 - Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a45774e574d334d5451744f4455794e6930304f44426d4c546c6b4d7a4d744d6a4933597a42685a6d56694d6d46694c6e426b5a673d3d&fich=6105c714-8526-480f-9d33-227c0afeb2ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-05-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradoria-Geral da República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f445534597a4131597a6b74595445795a6930305a6d497a4c5745784e324d744d5467314d574d774d5449774d574d324c6c424552673d3d&fich=858c05c9-a12f-4fb3-a17c-1851c01201c6.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradoria-Geral da República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4455774d7a5578596d49744d5751775a4330305932497a4c574a6d4d4449744d6a417a5a6a4d7a4d324e694e7a6c684c6e426b5a673d3d&fich=450351bb-1d0d-4cb3-bf02-203f333cb79a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - procuradoria-Geral da República - 1 Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4459325a574577593245744d6a4a6c4d7930304d444e684c574668596d5174596d51305a54646c4e4467784e7a4e694c6e426b5a673d3d&fich=866ea0ca-22e3-403a-aabd-bd4e7e48173b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Jorge Duarte Pinheiro - 1 - Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593255344d6a566d4f445574597a55784d6930304e4751344c5746694d444d744d446b7a4e3251314e5455314e4745334c6e426b5a673d3d&fich=ce825f85-c512-44d8-ab03-0937d55554a7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Paulo Pamplona Côrte-Real - 1 - Proposta de substituição (PS, BE e PAN)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a6b354d6d517959544d744e7a417a4d4330304d6a59784c546b334d4759744f5455334e54466a4d5445314e4451354c6e426b5a673d3d&fich=b992d2a3-7030-4261-970f-95751c115449.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-11",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição e relatório da nova apreciação na generalidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574e6c595752684e7a45744d6d4d774f4330305a4451344c5746684d6d4d744d7a6b785a444a6c4f444a68595449344c6e426b5a673d3d&fich=aceada71-2c08-4d48-aa2c-391d2e82aa28.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2017-05-08"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2017-05-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2017-05-15"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2017-04-04"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2017-04-04"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2017-04-04"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-07-11",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-07-11",
+            "dataRemessa": "2019-07-15",
+            "numeroOficio": "614/XIII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-07-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "84521",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "277",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2017-03-31",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "324612",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
