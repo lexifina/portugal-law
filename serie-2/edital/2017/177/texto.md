@@ -1,0 +1,14 @@
+Edital n.º 177/2017
+Projeto de «Regulamento de Uso da Marca "Espinho Surf Destination"»
+Joaquim José Pinto Moreira, Presidente da Câmara Municipal de Espinho:
+Faz público, nos termos e para os efeitos do previsto no artigo 56.º da Lei n.º 75/2013, de 12 de setembro (regime jurídico das autarquias locais - RJAL; aprovado em anexo à Lei n.º 75/2013, de 12 de setembro; alterado pela Lei n.º 25/2015, de 30 de março, Lei n.º 69/2015, de 16 de julho, pela Lei n.º 7-A/2016, de 30 de março, e pela Lei n.º 42/2016, de 28 de dezembro) e em cumprimento do disposto nos artigos 100.º e 101.º/1 do Código do Procedimento Administrativo (CPA - aprovado e publicado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro), que a Câmara Municipal de Espinho aprovou, em sua reunião de 6 de março de 2017, proposta de projeto de «Regulamento de Uso da Marca "Espinho Surf Destination"», instrumento regulamentar com eficácia externa, e deliberou submeter este projeto a Consulta Pública, pelo período
+de 30 dias úteis a contar da publicação do presente Edital no Diário
+da República 2.ª série, com vista à recolha de sugestões e à audiência de interessados (cf. artigo 100.º/1 do CPA) no presente procedimento
+de elaboração do regulamento. Os interessados, devidamente identificados, que pretendam apresentar as suas sugestões ou pronunciar-se sobre este projeto, devem fazê-lo por escrito (presencialmente nos serviços
+do Atendimento Municipal de Espinho, no edifício dos Paços do Concelho; por via postal registada com aviso de receção para a seguinte
+morada: Câmara Municipal de Espinho, Praça Dr. José Oliveira Salvador, Apartado 700, 4501-901 Espinho; ou por correio eletrónico para
+o endereço geral@cm-espinho.pt), mediante requerimento dirigido
+à Assembleia Municipal de Espinho enquanto órgão com competência regulamentar neste âmbito (conforme o fixado na alínea g) do n.º 1 do artigo 25.º da Lei n.º 75/2013, de 12 de setembro), de acordo com o previsto no n.º 2 do artigo 101.º do CPA. Mais se indicando que os contributos e sugestões que sejam apresentados serão remetidos à Assembleia Municipal de Espinho para consideração em sede do processo de elaboração e aprovação deste instrumento regulamentar municipal. A proposta de projeto deste Regulamento encontra-se disponível, para consulta na página institucional da Internet do Município de Espinho (www.cm-espinho.pt) e nos Serviços de Atendimento Municipal de Espinho (dias úteis, entre as 8 h 30 m e as 16 h 00 m).
+Para constar passou-se este e outros de igual teor que vão ser afixados nos locais do estilo do Município, sendo igualmente objeto de publicação no Diário da República 2.ª série (cf. n.º 1 do artigo 101.º do CPA) e na página institucional do Município de Espinho na internet.
+10 de março de 2017. - O Presidente da Câmara Municipal, Joaquim José Pinto Moreira.
+310337799
