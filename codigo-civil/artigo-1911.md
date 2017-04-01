@@ -4,4 +4,4 @@
 
 1 - Quando a filiação se encontre estabelecida relativamente a ambos os progenitores e estes vivam em condições análogas às dos cônjuges, aplica-se ao exercício das responsabilidades parentais o disposto nos artigos 1901.º a 1904.º
 
-2 - No caso de cessação da convivência entre os progenitores, são aplicáveis as disposições dos artigos 1905.º a 1908.º
+2 - No caso de cessação da convivência entre os progenitores, são aplicáveis as disposições dos artigos 1905.º a 1908.º, bem como o disposto no n.º 2 do artigo 1909.º, sempre que os progenitores pretendam regular por mútuo acordo o exercício das responsabilidades parentais.
