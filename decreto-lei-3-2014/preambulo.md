@@ -1,3 +1,5 @@
+Decreto-Lei n.º 3/2014
+
 de 9 de janeiro
 
 O Decreto-Lei n.º 174/93, de 12 de maio, diploma que aprovou o Estatuto dos Guardas Prisionais, regulamentando a carreira do Corpo da Guarda Prisional (CGP), perfez 20 anos em 2013 e, não obstante as sucessivas alterações de que foi alvo, é urgente atualizá-lo e adequá-lo aos novos tempos e aos desafios que se impõem àquela carreira.

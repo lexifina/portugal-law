@@ -8,9 +8,9 @@
 
 a) Antiguidade mínima de cinco anos de serviço efetivo na carreira de chefe da guarda prisional;
 
-b) Avaliação de desempenho com a menção qualitativa de ‘Suficiente’ nos últimos cinco anos, para os trabalhadores integrados na categoria de chefe principal;
+b) Avaliação de desempenho com a menção qualitativa de «Desempenho adequado» nos últimos cinco anos, para os trabalhadores integrados na categoria de chefe principal;
 
-c) Avaliação de desempenho com a menção qualitativa de ‘Muito Bom’ em, pelo menos, três dos últimos cinco anos, para os trabalhadores integrados na categoria de chefe;
+c) Avaliação de desempenho com a menção qualitativa de «Desempenho relevante» em, pelo menos, três dos últimos cinco anos, para os trabalhadores integrados na categoria de chefe;
 
 d) Licenciatura adequada.
 

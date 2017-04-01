@@ -10,7 +10,7 @@ O recrutamento para o ingresso na carreira de guarda prisional faz-se, mediante 
 
 a) Possuir nacionalidade portuguesa, quando não dispensada pela Constituição, convenção internacional ou lei especial;
 
-b) Ter 18 anos de idade completos, à data do termo do prazo de candidatura, e não exceder 35 anos de idade, no final do ano em que seja aberto o procedimento concursal;
+b) Ter 21 anos de idade completos, à data do termo do prazo de candidatura, e não exceder 28 anos de idade, no final do ano em que seja aberto o procedimento concursal;
 
 c) Ter 1,60 m ou 1,65 m de altura, respetivamente, para os candidatos do sexo feminino e do sexo masculino;
 

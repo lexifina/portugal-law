@@ -1,7 +1,3 @@
-## Capítulo VIII
-
-## Avaliação do desempenho
-
 ## Capítulo IX
 
 ## Regime de remunerações
@@ -14,11 +10,11 @@
 
 ### Remunerações
 
-1 - Para efeitos da equiparação prevista no artigo 28.º, é aplicável a tabela constante do anexo ii ao Estatuto Profissional do Pessoal com Funções Policiais da Polícia de Segurança Pública, aprovado pelo Decreto-Lei n.º 243/2015, de 19 de outubro, na sua redação atual, bem como as que lhe sucedam, sendo estabelecidas entre as carreiras da PSP e as do CGP as seguintes equivalências:
+1 - Para efeitos da equiparação prevista no artigo 28.º, são estabelecidas entre as carreiras da PSP e as do CGP as seguintes equivalências:
 
 a) A categoria de comissário da PSP corresponde à de comissário prisional da carreira de chefe da guarda prisional;
 
-b) A categoria de chefe principal da PSP corresponde à de chefe principal da carreira de chefe da guarda prisional;
+b) A categoria de subcomissário da PSP corresponde à de chefe principal da carreira de chefe da guarda prisional;
 
 c) A categoria de chefe da PSP corresponde à de chefe da carreira de chefe da guarda prisional;
 
