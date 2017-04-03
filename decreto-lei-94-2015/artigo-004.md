@@ -1,0 +1,27 @@
+## Capítulo III
+
+## Águas de Lisboa e Vale do Tejo, S. A.
+
+# Artigo 4.º
+
+### Constituição da Águas de Lisboa e Vale do Tejo, S. A.
+
+1 - É constituída a Águas de Lisboa e Vale do Tejo, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por sociedade.
+
+2 - Transfere-se para a sociedade referida no número anterior o património global das sociedades Águas do Norte Alentejano, S. A., Águas do Zêzere e Coa, S. A., SANEST - Saneamento da Costa do Estoril, S. A., SIMARSUL - Sistema Integrado Multimunicipal de Águas Residuais da Península de Setúbal, S. A., SIMTEJO - Sistema Integrado dos Municípios do Tejo e Trancão, S. A., Águas do Oeste, S. A., Águas do Centro, S. A., e Águas do Centro Alentejo, S. A., que integra o capital da sociedade na data de entrada em vigor do presente decreto-lei, atribuindo-se aos acionistas daquelas, nos termos do artigo 6.º, as partes representativas do capital social da sociedade, as quais são fixadas em termos proporcionais, tendo por referência a participação nominal dos acionistas no capital social das entidades gestoras extintas.
+
+3 - A sociedade sucede em todos os direitos e obrigações das sociedades concessionárias referidas no número anterior, que são extintas sem necessidade de liquidação, incluindo na titularidade de quaisquer autorizações, licenças e concessões relativas à utilização de recursos hídricos e ao exercício de atividades acessórias ou complementares e nas respetivas posições em todos os contratos vigentes, designadamente, contratos de trabalho, contratos de cedência de pessoal, contratos de prestação de serviços, contratos celebrados com a EPAL, S. A., contratos de financiamento, contratos relativos à atribuição de fundos europeus, contratos de cedência e de aquisição de infraestruturas, contratos de operação e manutenção de infraestruturas, contratos de gestão dos sistemas municipais que hajam sido celebrados por essas sociedades ao abrigo do Decreto-Lei n.º 90/2009, de 9 de abril, e, sem prejuízo do disposto no artigo 19.º, quaisquer contratos de fornecimento e de recolha celebrados.
+
+4 - A constituição da sociedade e a extinção das concessionárias dos sistemas extintos, bem como a sucessão legal determinada nos números anteriores, não carecem de qualquer formalidade e são plenamente eficazes e oponíveis a terceiros, adquirindo a sociedade personalidade jurídica e existindo como tal a partir da data da entrada em vigor do presente decreto-lei, independentemente do registo.
+
+5 - Sem prejuízo do disposto no número anterior, o registo comercial, bem como todos os demais registos, incluindo os dos bens mencionados no artigo 22.º, devem ser promovidos pela sociedade, com base na publicação do presente decreto-lei, sem necessidade de apresentação de qualquer outro documento e com dispensa de inscrições intermédias.
+
+6 - Dado o relevante interesse público reconhecido à transferência global do património das sociedades concessionárias extintas para a sociedade, subsumível na alínea a) do n.º 1 do artigo 73.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro e na alínea a) do n.º 3 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, e considerando-se cumpridos os requisitos previstos no n.º 5 do mesmo artigo, esta é realizada sem necessidade de observância das demais formalidades prescritas pela legislação comercial e fiscal, ficando a sociedade autorizada a beneficiar da isenção de impostos e de outros encargos legais, nos termos do disposto no n.º 1 do artigo 60.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, relativamente a todos os atos que se mostrem devidos em execução da transferência de património prevista no n.º 2, incluindo os inseridos no processo de criação da sociedade, bem como os relativos à transmissão de imóveis das sociedades concessionárias extintas.
+
+7 - Os prejuízos fiscais, se existirem, das sociedades referidas no n.º 2, podem, sem necessidade de quaisquer autorizações, ser deduzidos aos lucros tributáveis da sociedade, nos termos e para os efeitos do n.º 1 do artigo 75.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, e, com fundamento no interesse público subjacente à sucessão legal prevista no presente decreto-lei, de forma a garantir a neutralidade fiscal da operação.
+
+8 - As operações das sociedades extintas são consideradas, do ponto de vista contabilístico e fiscal, como efetuadas por conta da sociedade reportando os seus efeitos a 1 de janeiro de 2015.
+
+9 - Relativamente aos direitos de voto, aos direitos patrimoniais e aos direitos decorrentes do n.º 8 do artigo 392.º do Código das Sociedades Comerciais, aplicam-se as regras gerais, sem prejuízo do artigo 13.º dos estatutos aprovados pelo presente decreto-lei, sendo que relativamente aos restantes, os municípios acionistas mantêm na sociedade, independentemente da sua participação social, os direitos de que eram titulares em virtude do disposto na lei comercial enquanto acionistas das sociedades concessionárias extintas.
+
+10 - A sociedade rege-se pelo disposto no presente decreto-lei, pelos seus estatutos, pelo regime jurídico do setor público empresarial, consagrado no Decreto-Lei n.º 133/2013, de 3 de outubro e pelo Código das Sociedades Comerciais, pelos seus regulamentos internos, bem como pelas normas especiais que lhe sejam aplicáveis.
