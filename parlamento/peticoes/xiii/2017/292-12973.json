@@ -1,0 +1,798 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12973",
+  "numero": "292",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-04-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-06-26",
+            "entidades": null,
+            "id": "105536",
+            "tipo": null,
+            "titulo": "Audição em 2017-06-26 com ABIC - Associação dos Bolseiros de Investigação Científica"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-21",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "265/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-16",
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "266/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-05-26",
+            "entidades": [
+              "APESP - Associação Portuguesa do Ensino Superior Privado"
+            ],
+            "nrOficio": "267/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "Fundação para a Ciência e a Tecnologia"
+            ],
+            "nrOficio": "268/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "Conselho Nacional de Ciência e Tecnologia"
+            ],
+            "nrOficio": "269/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "SNESup - Sindicato Nacional do Ensino Superior"
+            ],
+            "nrOficio": "270/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-21",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "271/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "272/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-14",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "273/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-23",
+            "entidades": [
+              "Laboratórios do Estado"
+            ],
+            "nrOficio": "274/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "Fórum dos Conselhos Científicos dos Laboratórios do Estado"
+            ],
+            "nrOficio": "275/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-07",
+            "entidades": [
+              "ANICT - Associação Nacional dos Investigadores em Ciência e em Tecnologia"
+            ],
+            "nrOficio": "276/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": "2017-06-07",
+            "entidades": [
+              "Organização dos Trabalhadores Científicos"
+            ],
+            "nrOficio": "277/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-05-23",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR"
+            ],
+            "nrOficio": "264/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-07-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-05-04",
+        "DataArquivo": "2017-07-12",
+        "DataBaixaComissao": "2017-04-11",
+        "DataEnvioPAR": "2017-07-19",
+        "DataReaberta": "2017-05-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d324e6a41344e4756694c5751314d5759744e4445334e793034596a68684c5446684d7a426c596a45314d574d354d7935775a47593d&fich=366084eb-d51f-4177-8b8a-1a30eb151c93.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32457a4e325a6a4f446b314c5759335a5749744e44557a4d5330354e446b314c5745304e5455344e6a526d5a6a45314e4335775a47593d&fich=a37fc895-f7eb-4531-9495-a455864ff154.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256694e7a63775a474e684c546b77596a6b744e474d30597931684d4751334c57526d5a474e6a5a5759794d44426a5a5335775a47593d&fich=eb770dca-90b9-4c4c-a0d7-dfdccef200ce.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255784d5442684d474a684c574d344f4445744e444534597931694d5467324c546b314f5445304e47526a4e4449774e6935775a47593d&fich=e110a0ba-c881-418c-b186-959144dc4206.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6a5a44466a597a4e6c4c5451794f5445744e475a6c5979303559324d354c5441325a545a685a444a6a4e4445335a4335775a47593d&fich=ccd1cc3e-4291-4fec-9cc9-06e6ad2c417d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41305a574a684d6d59314c57466b4e7a51744e445a6c596931695a4463354c5445784e5449784f54466b4e3259334e7935775a47593d&fich=04eba2f5-ad74-46eb-bd79-1152191d7f77.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251784e475a6a4d6d457a4c5745314d4463744e474d795a533168596a51314c54457a4e44637a5a6a497a5a6a426c4d6935775a47593d&fich=d14fc2a3-a507-4c2e-ab45-13473f23f0e2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d785a4463305a6a4d304c574e6d596a59744e4745794e7931694e4452684c5441354e546b774e6a59354d546b305a5335775a47593d&fich=31d74f34-cfb6-4a27-b44a-09590669194e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b304e544e684f4755784c545a6a4d3249744e446c6a4f533035596a67344c5459795a6d4578596d557a4d446c684f5335775a47593d&fich=9453a8e1-6c3b-49c9-9b88-62fa1be309a9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466c59546c6d4f4749354c54646d4d6d49744e4745795a5330345932466c4c5749794e6d51784e574e695a546c694d6935775a47593d&fich=aea9f8b9-7f2b-4a2e-8cae-b26d15cbe9b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6a4d4752694e6d45784c5441774e4441744e474d794f5330355a446b784c54686a4e325934597a6c6b4d7a41774e4335775a47593d&fich=bc0db6a1-0040-4c29-9d91-8c7f8c9d3004.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249354f544a684e3256694c54646a5a6d55744e474d33595330344e4463324c546b335a6d59774d546b305a6a41355a6935775a47593d&fich=b992a7eb-7cfe-4c7a-8476-97ff0194f09f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566a4d4468684e5759774c54566a5a4467744e44646b4e5330344f5464694c5445325a5467344f4459784d475a69597935775a47593d&fich=5c08a5f0-5cd8-47d5-897b-16e888610fbc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3252684d3249344e47597a4c5759324e444d744e4449304d4330344f4759334c5441344e6a646d595445794f44466c4e4335775a47593d&fich=da3b84f3-f643-4240-88f7-0867fa1281e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6d596d4a694d474a694c544a6d4d544d744e446b355a5330344e3246694c57513359546335597a4a694d7a6b785a5335775a47593d&fich=3fbbb0bb-2f13-499e-87ab-d7a79c2b391e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-07-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d7a4e5441774f446c6a4c574a6d595441744e44426b597930354d574d784c544d7a4f474a6a5a5445774d4749794e4335775a47593d&fich=c350089c-bfa0-40dc-91c1-338bce100b24.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45774f546379596d55774c5759314f5445744e474a6c4d6931694e7a4a6b4c5745784e4749314e474d354e32566a5a5335775a47593d&fich=10972be0-f591-4be2-b72d-a14b54c97ece.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51355a6a646a4e5755304c544578596a6b744e474d7a4e4331695a5452684c5759314e444e685a4745784d544933596935775a47593d&fich=49f7c5e4-11b9-4c34-be4a-f543ada1127b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251354e475a68593256684c5745784e5449744e4746684d6930354d324d324c575a6a4d47526b4e32597859324e6a5a6935775a47593d&fich=d94facea-a152-4aa2-93c6-fc0dd7f1cccf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6a4f444a6d4d6d566a4c546b784d6a59744e4752685a4331695a4459774c5759334e6d49794d7a4a6c4d6a686d4d4335775a47593d&fich=fc82f2ec-9126-4dad-bd60-f76b232e28f0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6732595449314e5755334c574e6a5a5463744e446c6c597931694e574d774c5755775a474d314e575931597a5177596935775a47593d&fich=86a255e7-cce7-49ec-b5c0-e0dc55f5c40b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49354d32517a4d7a67304c5451775a5455744e47526b4e5331695a5752694c545a6d4d47526d4d5455334d5459304e5335775a47593d&fich=293d3384-40e5-4dd5-bedb-6f0df1571645.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6c4d54426d4f44526a4c574533597a6b744e44566c59793034595442694c5456684d44426b4f57517a5a6d4d324e6935775a47593d&fich=be10f84c-a7c9-45ec-8a0b-5a00d9d3fc66.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32457a4d5441354d544d334c54646b4d6a49744e44646d5a6930354f5745794c544d345a475a6c4d47526a4d475179597935775a47593d&fich=a3109137-7d22-47ff-99a2-38dfe0dc0d2c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-05-04",
+            "gp": "PS",
+            "id": "4209",
+            "motivoCessacao": null,
+            "nome": "Elza Pais"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2017-12-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4e6d466d4d6a646a4d5330304f44686b4c5451344f4451744f5449355969307959574e6d5954466d4e444d304e4751756347526d&fich=d6af27c1-488d-4884-929b-2acfa1f4344d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "41948",
+      "41949",
+      "41954",
+      "41961"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:28:21:653&drc=00:01:08:297"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221441",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:29:29:951&drc=00:03:49:220"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:33:19:171&drc=00:03:27:828"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:36:47:650&drc=00:02:19:853"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:49:27:203&drc=00:00:52:667"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/26?pgs=26,29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:39:07:503&drc=00:03:04:914"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:42:12:417&drc=00:03:48:731"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2017-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_21_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:46:01:149&drc=00:03:26:054"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Pela atualização do valor das bolsas de investigação científica; Altera o Estatuto do Bolseiro de Investigação quanto ao valor das bolsas de investigação; Recomenda ao Governo a promoção de medidas de apoio aos bolseiros de investigação, nomeadamente a atualização do valor das bolsas de investigação científica; Atualização extraordinária das bolsas de investigação e mecanismo de atualização anual das bolsas de investigação científica (quinta alteração à Lei n.º 40/2004, de 18 de agosto); Atualização das bolsas de investigação científica.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12973",
+    "PetAssunto": "Pela Atualização do Valor das Bolsas de Investigação Científica.",
+    "PetDataEntrada": "2017-04-04",
+    "PeticoesAssociadas": null,
+    "PetId": "12973",
+    "PetLeg": "XIII",
+    "PetNr": "292",
+    "PetNrAssinaturas": "4640",
+    "PetNrAssinaturasInicial": "4626",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2428",
+        "obs": null,
+        "pag": [
+          "24-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-22",
+        "pubLeg": "XIII",
+        "pubNr": "30",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/030/2017-12-22/24?pgs=24-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "794625",
+        "obs": null,
+        "pag": [
+          "3-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-24",
+        "pubLeg": "XIII",
+        "pubNr": "47",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/047/2017-05-24/3?pgs=3-4&org=PLC"
+      }
+    ]
+  }
+}
