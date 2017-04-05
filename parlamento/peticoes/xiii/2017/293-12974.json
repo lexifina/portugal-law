@@ -1,0 +1,448 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12974",
+  "numero": "293",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-04-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-01-18",
+            "entidades": null,
+            "id": "107547",
+            "tipo": null,
+            "titulo": "Audição em 2018-01-18 com Catarina Dornelas Pinheiro, Daniel da Conceição Gonçalves da Silva, José Ferreira Marinho, Luisa Cadaval de Sousa, Paulo Manuel Lopes"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-01-04",
+            "dataResposta": "2018-02-01",
+            "entidades": [
+              "MIN.  DA   ADMINISTRAÇÃO  INTERNA"
+            ],
+            "nrOficio": "4/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-04-26",
+        "DataArquivo": "2018-02-28",
+        "DataBaixaComissao": "2017-04-11",
+        "DataEnvioPAR": "2018-03-01",
+        "DataReaberta": "2017-04-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-04-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4d7a4d6d466a4e7a59794c544e6d596d51744e44677a4e7930344d7a5a694c546b354f54686c5a6a49314f4451305a4335775a47593d&fich=332ac762-3fbd-4837-836b-9998ef25844d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a6c6c4d325a6b4d3256684c574d304d6a59744e47526d5a5331695954466d4c5463304e7a46695a574e695a5451774d4335775a47593d&fich=9e3fd3ea-c426-4dfe-ba1f-7471becbe400.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-03-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c325a6a597a686a597a51334c54457a4d3245744e474d77595331694d6d466c4c57466a597a466c4d5746695a47557a597935775a47593d&fich=fcc8cc47-133a-4c0a-b2ae-acc1e1abde3c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32526b4d6a6b315a5445304c5449305a6d4d744e445a684e793034596a6b324c574d314d5755314d3249345a54597a4e6935775a47593d&fich=dd295e14-24fc-46a7-8b96-c51e53b8e636.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-04-26",
+            "gp": "PS",
+            "id": "4012",
+            "motivoCessacao": null,
+            "nome": "Fernando Anastácio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-09-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4d325a6a4d6a45335a693033593255304c54526a595463744f574d325953316b4d3255785a6a42685a444134597a51756347526d&fich=c3fc217f-7ce4-4ca7-9c6a-d3e1f0ad08c4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "42950"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:34:31:988&drc=00:04:37:760"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas e Recomenda ao Governo a reinstalação de uma esquadra da PSP na zona da freguesia das Avenidas Novas, dotada de efetivo adequado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:39:09:192&drc=00:04:16:518"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas e Recomenda ao Governo a reinstalação de uma esquadra da PSP na zona da freguesia das Avenidas Novas, dotada de efetivo adequado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:43:25:710&drc=00:03:06:618"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas e Recomenda ao Governo a reinstalação de uma esquadra da PSP na zona da freguesia das Avenidas Novas, dotada de efetivo adequado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:46:32:328&drc=00:03:26:721"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230865",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas e Recomenda ao Governo a reinstalação de uma esquadra da PSP na zona da freguesia das Avenidas Novas, dotada de efetivo adequado.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:49:59:049&drc=00:04:14:806"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas e Recomenda ao Governo a reinstalação de uma esquadra da PSP na zona da freguesia das Avenidas Novas, dotada de efetivo adequado.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12974",
+    "PetAssunto": "Solicitam a instalação de uma esquadra da Polícia de Segurança Pública na área da freguesia das Avenidas Novas.",
+    "PetDataEntrada": "2017-04-05",
+    "PeticoesAssociadas": null,
+    "PetId": "12974",
+    "PetLeg": "XIII",
+    "PetNr": "293",
+    "PetNrAssinaturas": "7910",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "666",
+        "obs": null,
+        "pag": [
+          "45-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-09-21",
+        "pubLeg": "XIII",
+        "pubNr": "2",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/45?pgs=45-49&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "792229",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-27",
+        "pubLeg": "XIII",
+        "pubNr": "42",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/042/2017-04-27/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
