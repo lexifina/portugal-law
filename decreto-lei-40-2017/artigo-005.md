@@ -12,13 +12,13 @@ a) Promover o contacto com o interessado em todas as comunicações a que haja l
 
 b) Monitorizar e zelar pelo cumprimento dos prazos e por uma adequada tramitação procedimental;
 
-c) Assegurar a boa instrução do procedimento de instalação e de exploração de culturas em águas marinhas, em águas interiores e em estabelecimentos conexos abrangido pelo presente decreto-lei, designadamente os procedimentos no âmbito dos regimes ambientais ou de controlo prévio urbanístico com as entidades competentes, garantindo o prosseguimento sequencial e articulado dos pedidos, nos termos legais;
+c) Assegurar a boa instrução do procedimento e dos procedimentos conexos ao procedimento de instalação e de exploração de culturas em águas marinhas, em águas interiores e em estabelecimentos conexos abrangido pelo presente decreto-lei, designadamente os procedimentos de AIA e de controlo prévio urbanístico com as entidades competentes, garantindo o prosseguimento sequencial e articulado dos pedidos, nos termos legais;
 
 d) Garantir a eficácia e eficiência dos procedimentos;
 
 e) Promover a realização de pedidos de informação adicional à entidade coordenadora, quando a eles houver lugar;
 
-f) Providenciar a informação solicitada sobre o estado do procedimento, nos termos do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual (CPA);
+f) Providenciar a informação solicitada sobre o estado do procedimento, nos termos do Código do Procedimento Administrativo;
 
 g) Reunir com o interessado, entidade coordenadora e demais intervenientes no procedimento, sempre que tal se revele necessário;
 

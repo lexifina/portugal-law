@@ -2,7 +2,7 @@
 
 ### Transmissão do Título de Atividade Aquícola
 
-1 - Desde que se cumpram os requisitos que deram origem ao TAA, é este título transmissível mediante comunicação prévia com prazo à entidade coordenadora competente, através do BMar, no prazo de 30 dias em relação à data prevista para transmissão do estabelecimento ou da alienação das participações sociais que assegurem o domínio de sociedade detentora do título.
+1 - Desde que se cumpram os requisitos que deram origem ao TAA, é este título transmissível mediante comunicação prévia com prazo à entidade coordenadora competente, através do BdE, no prazo de 30 dias em relação à data prevista para transmissão do estabelecimento ou da alienação das participações sociais que assegurem o domínio de sociedade detentora do título.
 
 2 - Caso a entidade coordenadora não se pronuncie desfavoravelmente, a transmissão é averbada ao TAA.
 

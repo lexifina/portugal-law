@@ -10,9 +10,9 @@
 
 2 - O TAA é constituído pelos seguintes elementos:
 
-a) No caso dos estabelecimentos de culturas em águas marinhas, em águas interiores e estabelecimentos conexos localizados em propriedade privada ou em domínio privado do Estado, sujeito ao regime de comunicação prévia com prazo, o comprovativo eletrónico de entrega no BMar, quando acompanhado do comprovativo do pagamento das taxas devidas;
+a) No caso dos estabelecimentos de culturas em águas marinhas, em águas interiores e estabelecimentos conexos localizados em propriedade privada ou em domínio privado do Estado, sujeito ao regime de comunicação prévia com prazo, o comprovativo eletrónico de entrega no BdE, quando acompanhado do comprovativo do pagamento das taxas devidas;
 
-b) (Revogada;)
+b) No caso dos estabelecimentos de culturas em águas marinhas, em águas interiores e estabelecimentos conexos localizados em propriedade privada ou em domínio privado do Estado, sujeito ao regime de autorização o título atribuído pela entidade coordenadora;
 
 c) No caso dos estabelecimentos de culturas em águas marinhas, em águas interiores e estabelecimentos conexos localizados em domínio público hídrico ou espaço marítimo nacional, sujeitos a licenciamento azul ou a licenciamento geral, o título atribuído pela entidade coordenadora.
 

@@ -1,3 +1,7 @@
+Decreto-Lei n.º 40/2017
+
+de 4 de abril
+
 O desenvolvimento sustentável da aquicultura constitui, no âmbito do crescimento da Economia Azul, um dos objetivos do Programa do XXI Governo Constitucional. A promoção da competitividade passa por assegurar o crescimento e incremento da aquicultura nacional, a proteção do meio ambiente, bem como, por realizar a imprescindível simplificação da legislação que regula esta atividade.
 
 A simplificação dos procedimentos de instalação e de exploração dos estabelecimentos de culturas em águas marinhas, nelas se incluindo as águas de transição, e em águas interiores pretendem contribuir para a promoção do desenvolvimento sustentável da aquicultura e para um melhor ordenamento e aproveitamento do espaço marítimo.
