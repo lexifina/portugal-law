@@ -1,0 +1,9 @@
+Edital n.º 191/2017
+Projeto de Alteração ao Regulamento de Venda de Terrenos na Zona Industria de Proença-a-Nova
+João Manuel Ventura Grilo de Melo Lobo, Presidente da Câmara Municipal de Proença-a-Nova, torna público que, após ter sido dado cumprimento ao previsto no artigo 98.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, não houve lugar à constituição de interessados no procedimento e não foi rececionado nesta autarquia a apresentação de contributos para a elaboração do presente projeto de regulamento.
+Nestes termos, a Câmara Municipal de Proença-a-Nova, na sua reunião ordinária realizada no dia 6 de março, deliberou, por unanimidade, aprovar o Projeto de Alteração ao Regulamento de Venda de Terrenos na Zona Industrial de Proença-a-Nova, e considerando a natureza da matéria a regular, submete-lo a consulta pública pelo prazo de 30 dias, a contar do dia seguinte ao da publicação do presente Edital na 2.ª série do Diário da República.
+Durante o período referido poderão os interessados consultar na Divisão de Obras, Planeamento Urbanístico, Serviços e Equipamentos Urbanos e Ambiente, nas horas normais de expediente, e na Internet, no sítio institucional da Câmara Municipal, no endereço eletrónico www.cm-proencanova.pt (edital n.º 08/2017) o mencionado projeto.
+Assim, convidam-se todos os interessados, a dirigir, por escrito, a esta Câmara Municipal eventuais sugestões ou observações, as quais deverão ser endereçadas ao Presidente da Câmara, Avenida do Colégio s/n, 6150-401 Proença-a-Nova, ou para o endereço eletrónico geral@cm-proencanova.pt.
+Para constar, se publica o presente Edital, e outros de igual teor que vão ser afixados nos lugares públicos do costume.
+8 de março de 2017. - O Presidente da Câmara Municipal, João Manuel Ventura Grilo de Melo Lobo.
+310349024
