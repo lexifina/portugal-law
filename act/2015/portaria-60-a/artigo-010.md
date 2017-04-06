@@ -8,4 +8,6 @@
 
 3 - O disposto no número anterior não dispensa os destinatários ou entidades destinatárias das políticas públicas, do cumprimento de prazos que lhes sejam fixados para efeitos de submissão dos apoios decorrentes da legislação nacional de enquadramento que instituem aquelas medidas de política.
 
-4 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+4 - No caso das candidaturas relativas a tipologias de operação abrangidas pelos Pactos para o Desenvolvimento e Coesão Territorial e pelo Desenvolvimento Local de Base Comunitária, o período de elegibilidade das despesas inicia-se à data de assinatura do Pacto ou do contrato para a gestão da Estratégia de Desenvolvimento Local de Base Comunitária.
+
+5 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
