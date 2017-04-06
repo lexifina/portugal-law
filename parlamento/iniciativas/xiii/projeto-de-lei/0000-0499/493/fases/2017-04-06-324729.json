@@ -1,0 +1,608 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "493",
+    "id": "41239",
+    "titulo": "Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-04-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11982",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-04-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41042",
+        "leg": "XIII",
+        "nr": "420",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens"
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41183",
+        "leg": "XIII",
+        "nr": "466",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem)"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41227",
+        "leg": "XIII",
+        "nr": "487",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2325",
+            "obs": null,
+            "pag": [
+              "3-28"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "73",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-28&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-04-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:01:26:451&drc=00:03:33:549"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:06:43:682&drc=00:01:25:317"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-4,4-5&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:05:17:492&drc=00:01:19:507"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:08:18:952&drc=00:04:41:517"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4194",
+                "nome": "Jorge Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:13:05:673&drc=00:02:15:326"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:15:42:558&drc=00:03:20:442"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:56",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_06_15_00_00_14_plenario&url=l13/sl2/a2017/m04/&tI=00:19:09:409&drc=00:02:42:590"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro - Cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por jovens; Terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro, que cria o programa de apoio financeiro Porta 65 - Arrendamento por Jovens (Porta 65 - Jovem); Alarga em cinco anos a idade máxima para acesso ao programa de apoio ao arrendamento Porta 65 (terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro); Alargamento dos beneficiários e dos apoios do Programa Porta 65 Jovem -terceira alteração ao Decreto-Lei n.º 308/2007, de 3 de setembro que cria e regula o programa de apoio financeiro Porta 65 - Arrendamento por Jovens.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "324729",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "787702",
+        "obs": null,
+        "pag": [
+          "3-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-07",
+        "pubLeg": "XIII",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/073/2017-04-07/3?pgs=3-8&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
