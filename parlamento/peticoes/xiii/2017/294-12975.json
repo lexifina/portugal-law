@@ -1,0 +1,629 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12975",
+  "numero": "294",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-04-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-05-23",
+            "entidades": null,
+            "id": "105263",
+            "tipo": null,
+            "titulo": "Audição em 2017-05-23 com Peticionários sobre a Petição n.º 294/XIII/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-05-29",
+            "dataResposta": "2017-10-16",
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "70/CS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-10-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "803957",
+                "obs": null,
+                "pag": [
+                  "21-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-10-18",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/005/2017-10-18/21?pgs=21-24&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-05-10",
+        "DataArquivo": "2017-10-18",
+        "DataBaixaComissao": "2017-04-18",
+        "DataEnvioPAR": "2017-10-18",
+        "DataReaberta": "2017-05-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-05-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f574e6a4e5445314d6d4574597a426b4d4330304e4449794c546b784f4459744e7a526c5a6a6b784e4467775a6a67784c6e426b5a673d3d&fich=9cc5152a-c0d0-4422-9186-74ef91480f81.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-29",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d5467354d57597a5a5745745a4455335a4330305957466b4c546c6c4d6a49744e4751344e7a63774d6d4a6c4d7a6b7a4c6e426b5a673d3d&fich=1891f3ea-d57d-4aad-9e22-4d87702be393.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-10-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a6a51774d7a49775a474d74596a41774e4330304f47566d4c5467305a446774593256684e54426a4d6a63794d324a6a4c6c424552673d3d&fich=f40320dc-b004-48ef-84d8-cea50c2723bc.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a47466b4d4441344e5467745a57466c4d5330304d57566c4c54686d596a49744d6a4d795a6a4e6a5a4745774d32566a4c6e426b5a673d3d&fich=dad00858-eae1-41ee-8fb2-232f3cda03ec.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-05-24",
+            "gp": "PS",
+            "id": "6197",
+            "motivoCessacao": null,
+            "nome": "António Sales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-01-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304f5459774e544e6d5a6930305a5441794c5452685a4449744f44517a4e5331694f474e6c4d5752695a6d4e6b4e3245756347526d&fich=496053ff-4e02-4ad2-8435-b8ce1dbfcd7a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42022"
+    ],
+    "Iniciativasoriginadas": [
+      "42030",
+      "42022",
+      "42025"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:08:42:403&drc=00:04:11:875"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223536",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o acesso à formação médica especializada a todos os médicos; Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "175-175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/175?pgs=175&org=PLC"
+              }
+            ],
+            "Sumario": "Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que abra, com urgência, concurso de acesso à especialidade para todos os médicos recém-formados, garantindo as boas condições de formação e o aumento do número de vagas; ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, assegure que é atribuída idoneidade formativa em todos os estabelecimentos que cumpram os requisitos necessários para o efeito, de acordo com a proposta da Ordem dos Médicos, independentemente do setor a que pertençam; e que, ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, abra vagas para a realização de internatos médicos em todos os estabelecimentos com idoneidade formativa; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:12:54:278&drc=00:04:06:121"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o acesso à formação médica especializada a todos os médicos; Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235618",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "175-175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/175?pgs=175&org=PLC"
+              }
+            ],
+            "Sumario": "Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que abra, com urgência, concurso de acesso à especialidade para todos os médicos recém-formados, garantindo as boas condições de formação e o aumento do número de vagas; ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, assegure que é atribuída idoneidade formativa em todos os estabelecimentos que cumpram os requisitos necessários para o efeito, de acordo com a proposta da Ordem dos Médicos, independentemente do setor a que pertençam; e que, ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, abra vagas para a realização de internatos médicos em todos os estabelecimentos com idoneidade formativa; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:17:00:400&drc=00:03:24:548"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o acesso à formação médica especializada a todos os médicos; Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "175-175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/175?pgs=175&org=PLC"
+              }
+            ],
+            "Sumario": "Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que abra, com urgência, concurso de acesso à especialidade para todos os médicos recém-formados, garantindo as boas condições de formação e o aumento do número de vagas; ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, assegure que é atribuída idoneidade formativa em todos os estabelecimentos que cumpram os requisitos necessários para o efeito, de acordo com a proposta da Ordem dos Médicos, independentemente do setor a que pertençam; e que, ao abrigo do Decreto-Lei nº 86/2015 de 21 de Maio, abra vagas para a realização de internatos médicos em todos os estabelecimentos com idoneidade formativa; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:20:24:948&drc=00:03:42:188"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o acesso à formação médica especializada a todos os médicos; Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:24:07:136&drc=00:04:22:495"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "37",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o acesso à formação médica especializada a todos os médicos; Primeira alteração ao Decreto-Lei nº 86/2015, de 21 de maio, que procede à definição do regime jurídico da formação médica especializada com vista à obtenção do grau de especialista e estabelece os princípios gerais a que deve obedecer o respetivo processo; Recomenda ao Governo que sejam implementadas medidas para garantir a formação especializada a todos os médicos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12975",
+    "PetAssunto": "Solicitam o acesso à formação médica especializada a todos os médicos.",
+    "PetDataEntrada": "2017-04-07",
+    "PeticoesAssociadas": null,
+    "PetId": "12975",
+    "PetLeg": "XIII",
+    "PetNr": "294",
+    "PetNrAssinaturas": "4138",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2439",
+        "obs": null,
+        "pag": [
+          "20-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-19",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/037/2018-01-19/20?pgs=20-23&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5954",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "108",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "794626",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-24",
+        "pubLeg": "XIII",
+        "pubNr": "47",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/047/2017-05-24/4?pgs=4-5&org=PLC"
+      }
+    ]
+  }
+}
