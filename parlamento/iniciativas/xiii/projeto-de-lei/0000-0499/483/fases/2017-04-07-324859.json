@@ -1,0 +1,185 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "483",
+    "id": "41220",
+    "titulo": "Procede à 1.ª alteração da Lei n.º 23/2006, de 23 de junho, modificando o regime jurídico do associativismo jovem"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2017-04-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "39905",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-07-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-07-04",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-07-20",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "1ª Prorrogação por mais 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d4e695a5441325a444574597a646b4d6930304d6a63334c5467315a4451745a5441774e47466d4f5441774d544a6b4c6c424552673d3d&fich=bcbe06d1-c7d2-4277-85d4-e004af90012d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-20",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "2.ª Prorrogação por mais 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f57466b5954417a5a6a59744d6a4d324e4330304f444d314c574932593255744f574e694e3249784d6a426c4d57457a4c6c424552673d3d&fich=9ada03f6-2364-4835-b6ce-9cb7b120e1a3.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-09-29",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "3.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4449784e544d324d4455744e3245314f4330304d7a45354c546b794e6a67745a6a426d4e5745335a5445355a6d4d354c6e426b5a673d3d&fich=82153605-7a58-4319-9268-f0f5a7e19fc9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-12-22",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "4.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f575a6b595745794e7a45745a4449324e433030596d51774c54673159546b744d5441794d6d526d4d6d497a4d5759774c6e426b5a673d3d&fich=9fdaa271-d264-4bd0-85a9-1022df2b31f0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-26",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "5.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e446779595746694e7a49744d7a4a6a4e7930304d54526b4c5746694d446b744e4745774e44637a4f44566a5a6a45304c6e426b5a673d3d&fich=482aab72-32c7-414d-ab09-4a047385cf14.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-22",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "6.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a6868597a6b774f446b744e7a55314f5330304e7a52694c546b314d4467745932466d5954637a597a5531595755784c6e426b5a673d3d&fich=f8ac9089-7559-474b-9508-cafa73c55ae1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-09-17",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "7.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a453459544d78596a41744d3256685a4330304d57526c4c546c6d4d5759744e4751774e4455354d7a67354e544d7a4c6c424552673d3d&fich=318a31b0-3ead-41de-9f1f-4d0459389533.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-12-17",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "8.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a41794d544133596a41744f5755774f4330304f5755784c574a684d4455744e7a566a4d5463775a4749324d7a517a4c6e426b5a673d3d&fich=b02107b0-9e08-49e1-ba05-75c170db6343.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-08",
+            "TipoDocumento": "Requerimentos AP",
+            "TituloDocumento": "9.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a67354d574d324e7a45744e575930597930305a4751354c57466a5a4755744d7a426c5a6a597a597a4d334d6d5a6d4c6e426b5a673d3d&fich=7891c671-5f4c-4dd9-acde-30ef63c372ff.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-06",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Áudio da discussão e votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c334e79646e5a705a4756764d79397a6158526c4c31684a53556c4d525563764e464e4d4c304e50545338784d6c394451304e4b5243394451304e4b5246394856463953536b464b4c304e44513070455830645558314a4b515570664d6a41784f54417a4d5449756258417a&fich=CCCJD_GT_RJAJ_20190312.mp3&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-01",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos",
+            "URL": "http://www.parlamento.pt/sites/COM/XIIILeg/12CCCJD/Paginas/ContributosIniciativasLegislativas.aspx?t=4e433743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31424b54484d674d5459314946684a53556b674d634b7149464254494451344d79425953556c4a49444c4371694251553051674e4467344946684a53556b674d734b7149454a46494451344f43425953556c4a49444c4371694243525341674e446b794946684a53556b674d734b714946424449464251544341784d7a4e5953556c4a4944504371673d3d&Path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765130394e4c7a457951304e44536b517651584a7864576c3262304e7662576c7a633246764c304e76626e527961574a316447397a4a5449775a47556c4d6a424a626d6c6a6157463061585a68637955794d45786c5a326c7a6247463061585a68637938304c734b7149464e6c633350446f3238675447566e61584e7359585270646d45765545704d637941784e6a556757456c4a5353417877716f6755464d674e44677a4946684a53556b674d734b7149464254524341304f44676757456c4a5353417977716f67516b55674e4467344946684a53556b674d734b7149454a46494341304f54496757456c4a5353417977716f6755454d675546424d4944457a4d31684a53556b674d384b71"
+          },
+          {
+            "DataDocumento": "2019-06-07",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo e Relatório da discussão e votação ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a4e6a4d5449794f5755744d44457a4e4330305a6a566c4c57466b4d3255744d6a426a4e446b32596a4d304d6d51334c6e426b5a673d3d&fich=33c1229e-0134-4f5e-ad3e-20c496b342d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-04",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Redação final do texto de substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a5a6d5a6d4d79596a41744f474a6d4e793030597a6c694c546c6b4e7a41744d6d526a4d4755324e7a51784f4751354c6c424552673d3d&fich=b6ffc2b0-8bf7-4c9b-9d70-2dc0e67418d9.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-06",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593251784e6d466a4d3255744d544a6c4d5330305a5452684c574a685a4759744d6d4e6c5a6a6b774e546c694d4441304c6d527659773d3d&fich=cd16ac3e-12e1-4e4a-badf-2cef9059b004.doc&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4535",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "4535",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-06-05",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-06-05",
+            "dataRemessa": "2019-06-05",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          },
+          {
+            "dataDocumento": "2019-06-05",
+            "dataRemessa": "2019-07-03",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2017-04-07",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "324859",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
