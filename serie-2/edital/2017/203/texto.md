@@ -1,0 +1,8 @@
+Edital n.º 203/2017
+Consulta Pública
+Regulamento de Procedimentos para Ajustamentos das Condições de Exploração do Serviço Público de Transporte de Passageiros
+Torna-se público que o Conselho Intermunicipal da Comunidade Intermunicipal do Oeste, em reunião realizada no dia 9 de fevereiro de 2017, deliberou, por unanimidade, e em cumprimento do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado em Anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, submeter o Projeto de Regulamento de Procedimentos para Ajustamentos das Condições de Exploração do Serviço Público de Transporte de Passageiros a Consulta Pública e a Audiência dos Interessados, pelo período de 30 dias a contar da data da publicação do presente Edital na 2.ª série do Diário da República, podendo o mesmo ser consultado na sede da Comunidade Intermunicipal do Oeste durante o horário normal de funcionamento (09:00h-12h30/14h-17:30h) e no portal da entidade em www.oestecim.pt.
+Assim, convidam-se todos os interessados a dirigir, por escrito, ao Presidente da Comunidade Intermunicipal do Oeste, eventuais sugestões, em sede de Consulta Pública e Audiência dos Interessados, dentro dos períodos atrás referidos, as quais deverão ser remetidas à Comunidade Intermunicipal do Oeste, Avenida General Pedro Cardoso, n.º 9, 2500-922 Caldas da Rainha, ou para o endereço de correio eletrónico: geral@oestecim.pt.
+Para constar e para os devidos efeitos legais se lavrou o presente Edital e outros de igual teor, que vão ser afixados nos lugares de estilo, bem como no portal da Comunidade Intermunicipal do Oeste em www.oestecim.pt.
+14 de março de 2017. - O Presidente do Conselho Intermunicipal, Pedro Miguel Ferreira Folgado, Dr.
+310360445
