@@ -4,10 +4,12 @@
 
 1 - A determinação do capital seguro é da responsabilidade do tomador de seguro ou do segurado, tendo em atenção o disposto nos números seguintes.
 
-2 - Para efeito do cálculo do valor seguro, será considerada a determinada de acordo com os números seguintes, salvo previsão distinta em condição especial da apólice uniforme.
+2 - Para efeito do cálculo do capital seguro, é considerada a produção esperada determinada de acordo com os números seguintes e, ainda, os preços esperados, salvo previsão distinta em condição especial da apólice uniforme.
 
-3 - O cálculo da produção esperada para a cultura e parcelas em causa depende da seguinte circunstância:
+3 - O cálculo da produção esperada para a cultura e parcelas ou subparcelas em causa é efetuado da seguinte forma:
 
-a) Se o agricultor tem histórico de produtividade, tem como limite máximo o valor médio de produtividade obtido nos últimos três anos ou, em alternativa, nos últimos cinco anos excluídos o valor mais elevado e o valor mais baixo;
+a) Valor médio de produtividade obtido nos últimos três anos ou, em alternativa, nos últimos cinco anos, excluídos o valor mais elevado e o valor mais baixo, caso o agricultor tenha histórico de produtividade;
 
-b) Se o agricultor não tem histórico de produtividade, são considerados os valores constantes da tabela de referência fixada pelo Gabinete de Planeamento e Políticas (GPP), a qual é publicitado no seu portal e no portal do IFAP, I. P.
+b) Valor constante da tabela de referência fixada pelo Gabinete de Planeamento, Políticas e Administração Geral (GPP), divulgada no respetivo portal em www.gpp.pt e no portal IFAP, I. P., em www.ifap.pt., caso o agricultor não tenha histórico de produtividade.
+
+4 - Se o preço declarado for igual ou superior a 20 % relativamente ao valor constante da tabela de referência mencionada na alínea b) do número anterior, o tomador de seguros ou o segurado devem estar na posse e disponibilizar, sempre que solicitado, documentos comprovativos do preço declarado.

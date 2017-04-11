@@ -12,4 +12,6 @@ c) Quando ocorrer um sinistro numa fase do ciclo produtivo em que, técnica e ec
 
 d) As indemnizações por sinistros abrangidos pelo seguro de colheitas são pagas após o início das épocas normais de comercialização dos produtos.
 
-2 - São considerados como constituindo um único sinistro as perdas ou danos com a mesma causa que ocorram nas quarenta e oito horas seguintes ao momento em que as coisas seguras sofram os primeiros danos.
+2 - São considerados como constituindo um único sinistro as perdas ou danos com a mesma causa que ocorram nas quarenta e oito horas seguintes ao momento em que as coisas seguras sofram os primeiros danos, sem prejuízo do disposto no número seguinte.
+
+3 - São consideradas as perdas ou danos acumulados dos sinistros únicos ocorridos, durante a vigência do contrato, para efeito da observância de quebras de produção superiores a 30 %.

@@ -40,9 +40,9 @@ i) Plantação de regadio;
 
 ii) Plantação com densidade superior a 200 árvores por hectare, quando realizada com planta enraizadas em estufas de nebulização e conduzida com um só tronco, ou plantação com densidade superior a 1000 árvores por hectare, quando conduzida sob a forma de arbusto;
 
-iii) Apresentação, aquando da celebração do contrato da apresentação de uma informação adicional do produtor que deve discriminar as condições atrás mencionadas, bem como o tipo de podas realizadas e a produção esperada;
+iii) Apresentação pelo agricultor, aquando da celebração do contrato, de informação que discrimine as condições mencionadas na presente alínea, bem como o tipo de podas realizadas e a produção esperada.
 
-i) Frutos secos:
+l) Frutos de casca rija:
 
 i) Nogueira e aveleira a partir do 4.º ano de plantação, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 45 e 150 árvores por hectare, respetivamente;
 
@@ -80,4 +80,6 @@ y) Tomate para indústria;
 
 z) Medronheiro a partir do 5.º ano de plantação, com área mínima de cultivo de 0,5 ha, não sendo permitido o seguro de árvores isoladas;
 
-aa) Viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em regime de ar livre, considerando-se viveiro o local onde é exercida, em conformidade com as disposições legais aplicáveis, a atividade de viveirista, e onde se produzam, para replantação, plantas vitícolas, frutícolas, florestais e plantas ornamentais, em regime de ar livre, sem venda ao público e cujas plantas não sejam produzidas no âmbito de ensaios ou estudos de natureza científica.
+aa) Viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em regime de ar livre;
+
+ab) Plantas aromáticas e medicinais.

@@ -10,4 +10,4 @@
 
 ### Objeto
 
-O presente Regulamento estabelece o regime do seguro de colheitas e a compensação de sinistralidade, integrados no Sistema Integrado de Proteção contra as Aleatoriedades Climáticas (SIPAC), aprovado pelo Decreto-Lei n.º 20/96, de 19 de março, na redação dada pelo Decreto-Lei n.º 23/2000, de 2 de março.
+O presente Regulamento estabelece o regime do seguro de colheitas e da compensação de sinistralidade, previstos no Sistema Integrado de Proteção contra as Aleatoriedades Climáticas (SIPAC), aprovado pelo Decreto-Lei n.º 20/96, de 19 de março, alterado pelo Decreto-Lei n.º 23/2000, de 2 de março, e no sistema de seguros agrícolas (SAA), aprovado pelo Decreto-Lei n.º 162/2015, de 14 de agosto.

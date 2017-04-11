@@ -2,7 +2,7 @@
 
 ### Âmbito do contrato de seguro
 
-1 - O contrato de seguro cobre todas as parcelas de cada cultura segura que o agricultor possua ou explore na mesma unidade de produção, desde que atualizadas no SIP durante o período de vigência do contrato de seguro, sob pena de nulidade da cobertura e reembolso do apoio atribuído pelo beneficiário ou tomador do seguro.
+1 - O contrato de seguro cobre todas as parcelas ou subparcelas de cada cultura segura que o agricultor possua ou explore na mesma unidade de produção, desde que atualizadas no SIP durante o período de vigência do contrato de seguro, sob pena de nulidade da cobertura e reembolso do apoio atribuído pelo beneficiário ou tomador do seguro.
 
 2 - Para além das exclusões gerais constantes da apólice uniforme do seguro, não se encontram abrangidos pelo seguro de colheitas:
 

@@ -20,4 +20,4 @@ b) Associações de agricultores.
 
 3 - O contrato de seguro coletivo baseia-se nos princípios da adesão voluntária dos agricultores e do conhecimento por estes das condições do seguro celebrado com a empresa de seguros em cada campanha, devendo a entidade coletiva que os representa adotar as medidas necessárias para o efeito.
 
-4 - O contrato de seguro coletivo deve garantir os valores individuais de capital seguro de cada um dos agricultores, ficando os mesmos impossibilitados de celebrar um contrato de seguro individual ou coletivo para a mesma parcela e cultura.
+4 - O contrato de seguro coletivo deve garantir os valores individuais de capital seguro de cada um dos agricultores, ficando os mesmos impossibilitados de celebrar um contrato de seguro individual ou coletivo para a mesma parcela ou subparcela e cultura.

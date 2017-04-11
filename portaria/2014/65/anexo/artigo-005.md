@@ -8,7 +8,7 @@ a) Possuir autorização do agricultor para a celebração do contrato de seguro
 
 b) Informar o segurado das condições do seguro em cada campanha e do apoio previsto;
 
-c) Dar apoio ao produtor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;
+c) Dar apoio ao agricultor em caso de sinistro, nomeadamente no acompanhamento de peritagens e arbitragens;
 
 d) Manter e disponibilizar ao IFAP, I. P., ou a qualquer outra entidade por este indicada, ou com competência para o efeito, toda a informação necessária à realização de controlos;
 
