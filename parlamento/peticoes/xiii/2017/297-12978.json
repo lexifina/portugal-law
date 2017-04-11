@@ -1,0 +1,183 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12978",
+  "numero": "297",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-04-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-05-10",
+            "dataResposta": "2017-05-31",
+            "entidades": [
+              "ANPC - Autoridade Nacional de Proteção Civil"
+            ],
+            "nrOficio": "434/CACDLG/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245774e44566a4d7a45324c574530595467744e444d31595331695a6a59794c5755334e7a517a5a6d4d774e54466a4d6935515245593d&fich=a045c316-a4a8-435a-bf62-e7743fc051c2.PDF&Inline=true"
+          },
+          {
+            "dataOficio": "2017-05-10",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Vieira do Minho"
+            ],
+            "nrOficio": "435/CACDLG/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-01-17",
+                "dataResposta": "2018-01-24",
+                "nrOficio": "105/CACDLG/2018",
+                "oficioResposta": "DAF/MJV/18"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245774e44566a4d7a45324c574530595467744e444d31595331695a6a59794c5755334e7a517a5a6d4d774e54466a4d6935515245593d&fich=a045c316-a4a8-435a-bf62-e7743fc051c2.PDF&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-05-10",
+        "DataArquivo": "2018-02-28",
+        "DataBaixaComissao": "2017-04-18",
+        "DataEnvioPAR": "2018-03-01",
+        "DataReaberta": "2017-05-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-05-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a49334d4463794f47457a4c5746694d4751744e474e6a5a5331685a5755784c5459314d7a55304d4452694e7a63334e7935775a47593d&fich=270728a3-ab0d-4cce-aee1-6535404b7777.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-18",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245774e44566a4d7a45324c574530595467744e444d31595331695a6a59794c5755334e7a517a5a6d4d774e54466a4d6935515245593d&fich=a045c316-a4a8-435a-bf62-e7743fc051c2.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-05-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3251354f4755334d4468694c5445354f4467744e475a694d6930354d32526a4c574d304e324d324d6d45775a575178596935775a47593d&fich=d98e708b-1988-4fb2-93dc-c47c62a0ed1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-05-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3245794d44597759574a684c57517a4f5751744e44646b5a6930344d7a41344c546b784e6a4e694e6a6b774f574a6d4e5335775a47593d&fich=a2060aba-d39d-47df-8308-9163b6909bf5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a41784f5467784d44426c4c5452694d6d45744e4441784e5330344e324e6a4c54686b5a6a6b344e5459314d6a51784d5335775a47593d&fich=0198100e-4b2a-4015-87cc-8df985652411.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-03-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4e6c5a6a5a684f544e684c544d7a4e7a59744e444d344d6931684d444d354c5463304f4751315a6d4e6a4e6d566d597935515245593d&fich=3ef6a93a-3376-4382-a039-748d5fcc6efc.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a45794d7a4e6c4e47597a4c5449334e4449744e4459774f5331684d7a4d314c545669595455324e54426c4e4749784f4335775a47593d&fich=1233e4f3-2742-4609-a335-5ba5650e4b18.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32526b5a546b784e4446684c5751345a6a59744e444e694d5331694d7a686b4c54513259544e694d7a67344f4445304e6935775a47593d&fich=dde9141a-d8f6-43b1-b38d-46a3b3888146.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-05-10",
+            "gp": "CDS-PP",
+            "id": "4402",
+            "motivoCessacao": null,
+            "nome": "Vânia Dias da Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d5a474e6a4e7a4a6c5a6930334f54677a4c54526d5a4463744f5749784d6930304d6a4d785a6d4d775a4441344e4463756347526d&fich=fdcc72ef-7983-4fd7-9b12-4231fc0d0847.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12978",
+    "PetAssunto": "Solicitam que não se proceda ao encerramento da Secção de Bombeiros Voluntários de Ruivães - Vieira do Minho.",
+    "PetDataEntrada": "2017-04-11",
+    "PeticoesAssociadas": null,
+    "PetId": "12978",
+    "PetLeg": "XIII",
+    "PetNr": "297",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": "217",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
