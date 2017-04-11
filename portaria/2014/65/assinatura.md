@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 28 de fevereiro de 2014. - Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em 26 de fevereiro de 2014.
