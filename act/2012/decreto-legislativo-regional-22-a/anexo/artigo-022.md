@@ -8,6 +8,6 @@
 
 3 - Cada concorrente pode indicar, de entre as suas preferências, as unidades orgânicas e os estabelecimentos de educação e de ensino em que pretende ser colocado, independentemente dos lugares vagos.
 
-4 - Os candidatos à contratação que pretendam ser colocados em horários incompletos ou em regime de substituição temporária devem manifestar tais preferências aquando da respetiva candidatura.
+4 - Os candidatos ao procedimento concursal para contratação a termo resolutivo que pretendam ser colocados em horários incompletos ou em regime de substituição temporária devem manifestar tais preferências por unidade orgânica, aquando da respetiva candidatura.
 
 5 - Consideram-se nulos os contratos que não obedecerem ao estabelecido no presente Regulamento.

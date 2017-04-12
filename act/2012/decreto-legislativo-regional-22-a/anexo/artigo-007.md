@@ -2,7 +2,7 @@
 
 ### Candidatura
 
-1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado pela direção regional competente em matéria de educação.
+1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado e disponibilizado pela direção regional competente em matéria de educação.
 
 2 - Do formulário devem constar obrigatoriamente:
 
@@ -12,15 +12,15 @@ b) Habilitação profissional ou académica e respetiva classificação;
 
 c) Prioridade em que o docente concorre;
 
-d) Nível de educação ou de ensino a que o candidato concorre, bem como grupo, subgrupo, disciplina ou especialidade dentro dos 2.º e 3.º ciclos do ensino básico e ensino secundário;
+d) Nível de educação ou de ensino a que o candidato concorre e respetivos grupos de recrutamento;
 
-e) Elementos necessários à ordenação do candidato;
+e) Elementos necessários à ordenação do candidato, de acordo com os critérios legais estabelecidos e opções do candidato;
 
 f) Tempo de serviço docente prestado em estabelecimento do ensino oficial e prestado no ensino particular, contado nos termos do artigo 247.º do Estatuto da Carreira Docente;
 
-g) Formulação das preferências por unidade orgânica.
+g) Formulação das preferências por unidade orgânica e de outras opções de candidatura.
 
-3 - Os elementos constantes do formulário, designadamente habilitações profissionais e académicas e tempo de serviço, devem ser devidamente comprovados mediante fotocópia simples dos respetivos documentos.
+3 - Os elementos constantes do formulário, designadamente identificação, habilitações profissionais e académicas, tempo de serviço e elementos de ordenação preferencial, devem ser devidamente comprovados, mediante submissão eletrónica dos respetivos documentos.
 
 4 - Não carecem de prova os dados constantes do processo individual do candidato existente em estabelecimento de educação ou de ensino oficial, sendo, neste caso, devidamente certificados pelo órgão executivo respetivo.
 

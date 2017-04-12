@@ -8,13 +8,9 @@
 
 3 - Exclusivamente para o ensino da disciplina de Educação Moral e Religiosa Católica existe um quadro de âmbito regional, cabendo ao bispo de Angra a distribuição dos docentes pelas escolas, em função das necessidades.
 
-4 - O quadro docente das escolas relativamente à educação pré-escolar e 1.º ciclo do ensino básico é fixado em função da relação professor/aluno, nos seguintes termos:
+4 - Para efeitos da dotação dos lugares dos quadros das unidades orgânicas, a que se refere o artigo 44.º do Estatuto da Carreira Docente, devem ser consideradas, por grupo de recrutamento, as vagas correspondentes ao número de contratos a termo resolutivo celebrados consecutivamente durante os últimos três anos escolares, na medida em que exceda a dotação dos quadros existentes e se destinem à satisfação de necessidades permanentes.
 
-a) Até 24 alunos, 1 lugar docente;
-
-b) Em escolas com mais de 24 alunos o número de lugares docentes é igual ao quociente arredondado, por excesso, da divisão por 25 do total de alunos.
-
-5 - O quadro docente relativamente aos 2.º e 3.º ciclos do ensino básico e ensino secundário resulta do somatório dos lugares correspondentes a horários completos, existentes no início do ano escolar que antecede o procedimento concursal, e ainda dos horários completos resultantes das variações previsíveis das matrículas, considerando turmas de 25 alunos.
+5 - Para o cálculo do número de lugares do quadro, podem, ainda, ser consideradas as horas de redução da componente letiva em função da idade e do tempo de serviço, quando a criação de tais lugares não implique, face à evolução do número de alunos, a existência de docentes excedentários.
 
 6 - Na fixação do número de lugares dos quadros é tido em consideração o número de crianças e alunos a apoiar na educação e ensino especial e na educação de adultos.
 
@@ -30,4 +26,6 @@ b) Havendo nas unidades orgânicas um número insuficiente de docentes interessa
 
 10 - O destacamento por ausência de serviço docente é renovado até ao limite de quatro anos, de modo a garantir a continuidade pedagógica, desde que nas unidades orgânicas subsista o horário letivo.
 
-11 - Sem prejuízo do disposto no número anterior, o docente pode optar por regressar à unidade orgânica de origem, no caso de se verificar a existência de horário letivo.
+11 - Sem prejuízo do disposto no número anterior, o docente pode optar por regressar à unidade orgânica de origem, no caso de se verificar a existência de horário letivo para o ano escolar seguinte.
+
+12 - Os docentes do quadro com vínculo definitivo podem beneficiar, com as devidas adaptações, do regime de deslocação de docentes por um ano a que se refere o artigo 103.º do Estatuto da Carreira Docente, nos termos aí fixados.

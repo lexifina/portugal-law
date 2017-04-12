@@ -8,25 +8,25 @@
 
 3 - Para efeitos da graduação académica constante do artigo 11.º do presente Regulamento, tem-se em conta as classificações académicas e o número de anos de serviço docente, considerando, ainda, os escalões das habilitações próprias, nos termos da legislação em vigor.
 
-4 - Para docentes dos quadros de escola são critérios de prioridade, não cumulativos, por ordem decrescente:
+4 - Para os docentes candidatos ao concurso interno de provimento são critérios de prioridade, não cumulativos, por ordem decrescente:
 
-a) Ser titular de quadro de escola com nomeação definitiva e aceitar provimento em outro quadro de escola por período não inferior a três anos;
+a) Ser titular de quadro de escola com vínculo definitivo;
 
-b) Ser titular de quadro de escola com nomeação provisória e aceitar provimento em outro quadro de escola por período não inferior a três anos;
+b) Ser titular de quadro de escola com vínculo provisório;
 
-c) Ser titular de quadro de escola com nomeação definitiva;
+c) Ser titular de quadro de zona pedagógica de Portugal Continental ou da Região Autónoma da Madeira com vínculo definitivo;
 
-d) Ser titular de quadro de escola com nomeação provisória;
+d) Ser titular de quadro de zona pedagógica de Portugal Continental ou da Região Autónoma da Madeira com vínculo provisório;
 
-e) Ser titular de lugar de quadro de nomeação definitiva que pretenda mudar de grupo de recrutamento para o qual também possui habilitação profissional que, quando provido num lugar do quadro de outra escola, aceite o provimento por um período não inferior a três anos;
+e) [Revogada.]
 
-f) Ser titular de lugar de quadro com nomeação definitiva que pretende mudar de grupo de recrutamento para o qual também possui habilitação profissional.
+f) Ser titular de quadro de escola com vínculo definitivo que pretende mudar de grupo de recrutamento para o qual também possui habilitação profissional.
 
 5 - Para os docentes candidatos ao procedimento concursal externo de provimento são critérios de prioridade, não cumulativos, por ordem decrescente:
 
-a) Candidatos com habilitação profissional, não pertencentes aos quadros, que aceitem ser providos por um período não inferior a três anos;
+a) Candidatos com habilitação profissional;
 
-b) Candidatos com habilitação profissional;
+b) [Revogada.]
 
 c) Candidatos com habilitação própria.
 
@@ -36,16 +36,18 @@ a) Ter sido bolseiro da Região Autónoma dos Açores durante pelo menos um dos 
 
 b) Ser detentor de habilitação profissional não incluído na alínea anterior.
 
-7 - Para os candidatos ao procedimento concursal de contratação a termo resolutivo são critérios de prioridade, não cumulativos, por ordem decrescente:
+7 - Para os candidatos ao procedimento concursal para contratação a termo resolutivo são critérios de prioridade, não cumulativos, por ordem decrescente:
 
-a) Candidatos com habilitação profissional não pertencentes aos quadros, que tenham sido opositores ao concurso externo, por período não inferior a três anos, que se candidatam nessa qualidade e que reúnam, pelo menos, um dos requisitos estipulados na alínea a) do número anterior;
+a) [Revogada.]
 
-b) Candidatos com habilitação profissional não pertencentes aos quadros, que tenham sido opositores ao concurso externo, por período não inferior a três anos, que se candidatam nessa qualidade;
+b) [Revogada.]
 
-c) Candidatos detentores de habilitação profissional não pertencente aos quadros, que tenham sido opositores ao concurso externo por período inferior a três anos, que se candidatam nessa qualidade, e que reúnam os requisitos estipulados na alínea a) do número anterior;
+c) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea a) do número anterior;
 
-d) Candidatos detentores de habilitação profissional não pertencente aos quadros, que tenham sido opositores ao concurso externo por período inferior a três anos, que se candidatam nessa qualidade;
+d) Candidatos detentores de habilitação profissional que, na qualidade de opositores ao concurso externo de provimento precedente, tenham sido integrados no critério de ordenação a que se refere a alínea b) do número anterior;
 
 e) Candidatos com habilitação profissional;
 
 f) Candidatos com habilitação própria.
+
+8 - [Revogado.]

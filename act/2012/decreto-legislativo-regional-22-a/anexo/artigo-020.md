@@ -6,7 +6,7 @@
 
 2 - Podem também candidatar-se indivíduos portadores de habilitação própria, sem prejuízo do disposto no número seguinte.
 
-3 - Condicionado à disponibilidade de meios humanos e materiais para garantia do processo de profissionalização em exercício, nos termos estabelecidos no artigo 122.º do Estatuto da Carreira Docente, e com o objetivo de satisfazer necessidades de grupos carenciados, podem ser fixados por portaria do membro do Governo Regional competente em matéria de educação contingentes de lugares nos quadros, a serem preenchidos por indivíduos portadores de habilitação própria, nos termos da lei em vigor.
+3 - Com o objetivo de satisfazer necessidades de grupos carenciados, podem ser fixados, por portaria do membro do Governo Regional competente em matéria de educação, contingentes de lugares nos quadros, a serem preenchidos por indivíduos portadores de habilitação própria, nos termos da lei em vigor.
 
 4 - Os candidatos ao procedimento concursal externo de provimento devem preencher os requisitos gerais e específicos constantes do artigo 39.º do Estatuto da Carreira Docente.
 
