@@ -1,0 +1,662 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12979",
+  "numero": "298",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-04-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-06-28",
+            "entidades": null,
+            "id": "105593",
+            "tipo": null,
+            "titulo": "Audição em 2017-06-28 com AMELP - Associação Movimento Emigrantes Lesados Portugueses"
+          },
+          {
+            "data": "2017-09-19",
+            "entidades": null,
+            "id": "106480",
+            "tipo": null,
+            "titulo": "Audição em 2017-09-19 com Presidente do Conselho de Administração do Novo Banco, Dr. António Ramalho"
+          },
+          {
+            "data": "2017-11-15",
+            "entidades": null,
+            "id": "107038",
+            "tipo": null,
+            "titulo": "Audição em 2017-11-15 com Ordem dos Advogados"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-06-14",
+            "dataResposta": "2017-08-24",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "120/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-06-14",
+            "dataResposta": "2017-07-13",
+            "entidades": [
+              "CMVM - Comissão do Mercado de Valores Mobiliários"
+            ],
+            "nrOficio": "121/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-06-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "122/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-12-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-05-10",
+        "DataArquivo": "2017-12-06",
+        "DataBaixaComissao": "2017-04-26",
+        "DataEnvioPAR": "2017-12-06",
+        "DataReaberta": "2017-05-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-05-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e444e6a4e6d45305a546b744d7a4668595330304d5749304c5467774e7a4174597a6b794e6a68695a44646d4e6a4d794c6e426b5a673d3d&fich=43c6a4e9-31aa-41b4-8070-c9268bd7f632.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-07-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a446c6a4d5441315a444574595749314d6930304d44646b4c57466a4d446b745a4746694e6d51344d6a4d314d47526d4c6e426b5a673d3d&fich=d9c105d1-ab52-407d-ac09-dab6d82350df.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a5957387659544d354d6a55354d324974597a51344d7930304e6d59334c5467785a4449745a544a6c5a474d79596a4e6a59546b354c6c424552673d3d&fich=a392593b-c483-46f7-81d2-e2edc2b3ca99.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6d4934596d526a4e6a59744d7a67324d433030597a4a6a4c57466c4d4459744f5441774f474a6b4e4756685a4455324c6c424552673d3d&fich=6b8bdc66-3860-4c2c-ae06-9008bd4ead56.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-06-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a6a63355a446b794f4463744d6a41775a4330304d7a4e6d4c546c6b4d4463745a6d4d794f444d335a6a4a6c59544a6b4c6c424552673d3d&fich=f79d9287-200d-433f-9d07-fc2837f2ea2d.PDF&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-12-07",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6a426d4d6d55334d5759744d6a45314d6930304e7a4d354c5467324d7a55744d4752685a575a6c4e6d566d5a545a684c6c424552673d3d&fich=20f2e71f-2152-4739-8635-0daefe6efe6a.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-07-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a5749794f54526c4d4451744f574d31596930304e446b334c546b30597a41744e6d59794e6a67324f574a695a54526b4c6e426b5a673d3d&fich=eb294e04-9c5b-4497-94c0-6f26869bbe4d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-09-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6a49334e475a6c4f4755745a574d77596930304e5467304c5467794e3251744e7a4d304e324e6a4e3245334e6a59334c6e426b5a673d3d&fich=2274fe8e-ec0b-4584-827d-7347cc7a7667.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-05-10",
+            "gp": "PSD",
+            "id": "6177",
+            "motivoCessacao": null,
+            "nome": "Rubina Berardo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-01-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-04-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304d5449784f5441305a6931695a6d55354c5451324f4445744f545932596930324d7a51324d47526c5a44646b4d3255756347526d&fich=4121904f-bfe9-4681-966b-63460ded7d3e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:19:23:529&drc=00:04:32:381"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Proteção dos investidores não qualificados do BANIF",
+            "Teor": "Deputados do PSD eleitos pela Madeira e Açores"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:23:53:563&drc=00:04:03:122"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:49:38:805&drc=00:02:26:648"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/22?pgs=22-23,29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:27:57:143&drc=00:05:20:104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:33:17:247&drc=00:05:59:058"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:52:05:453&drc=00:01:37:976"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-26",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/24?pgs=24-26,30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:39:16:306&drc=00:04:48:968"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:53:43:430&drc=00:02:07:547"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27",
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/26?pgs=26-27,31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:44:05:274&drc=00:03:33:574"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-01-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:47:38:849&drc=00:01:59:956"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de normas com vista à proteção de investidores não qualificados; Solicitam a identificação de práticas de mis-selling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, SA; Solicitam que seja realizada uma investigação parlamentar que culmine numa recomendação com vista ao ressarcimento ou minoração dos prejuízos dos lesados do BES; Recomenda ao Governo que parametrize a resolução da problemática dos lesados não qualificados do BANIF e do BES/GES; Recomenda ao Governo que promova a criação de um mecanismo arbitral, célere e expedito para a resolução de litígios emergentes da venda e comercialização de produtos financeiros a investidores não qualificados por instituições de créditos objeto de medidas de resolução; Proteção dos investidores não qualificados do BANIF e Recomenda ao Governo que agilize, junto da CMVM, o processo de identificação de práticas fraudulentas na comercialização de produtos financeiros no âmbito dos processos do BES/GES e BANIF.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12979",
+    "PetAssunto": "Solicitam a identificação de práticas de misseling, bem como a condenação das propostas comerciais apresentadas pelo Novo Banco, S.A.",
+    "PetDataEntrada": "2017-04-12",
+    "PeticoesAssociadas": [
+      "13022"
+    ],
+    "PetId": "12979",
+    "PetLeg": "XIII",
+    "PetNr": "298",
+    "PetNrAssinaturas": "8332",
+    "PetNrAssinaturasInicial": "7598",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2442",
+        "obs": null,
+        "pag": [
+          "21-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-20",
+        "pubLeg": "XIII",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/21?pgs=21-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "827165",
+        "obs": null,
+        "pag": [
+          "11-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-19",
+        "pubLeg": "XIII",
+        "pubNr": "46",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/046/2017-05-19/11?pgs=11-14&org=PLC"
+      }
+    ]
+  }
+}
