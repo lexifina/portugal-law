@@ -14,4 +14,4 @@
 
 6 - O disposto no número anterior bem como as disposições regulamentares associadas mantêm-se em vigor até à data do início da produção de efeitos do diploma que aprova o Orçamento da Região Autónoma dos Açores para o ano de 2014.
 
-7 - O regime fixado nos números 3 e 4 tem natureza imperativa, prevalecendo sobre quaisquer outras normas especiais ou excecionais em contrário, não podendo ser afastado ou modificado pelas mesmas, com exceção do que se encontrar estabelecido no diploma do Orçamento da Região Autónoma dos Açores, no respeito pelos princípios desse regime.
+7 - Revogado.
