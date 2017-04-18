@@ -2,7 +2,7 @@
 
 ### Requisitos funcionais para avaliação
 
-1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
+1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de um ano, o desempenho relativo a este período é objeto de avaliação conjunta com o ciclo seguinte.
 
 2 - No caso de trabalhador que, no biénio anterior, tenha relação jurídica de emprego público com, pelo menos, um ano e o correspondente serviço efetivo, independentemente do serviço onde o tenha prestado, o desempenho é objeto de avaliação nos termos do presente título.
 
