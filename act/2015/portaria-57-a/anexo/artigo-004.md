@@ -14,6 +14,6 @@ c) Lotarias e outros jogos de aposta.
 
 3 - Os avisos para apresentação de candidaturas podem excluir outras atividades com fundamento em que, nas tipologias a concurso, essas atividades não visam a produção de bens e serviços transacionáveis e internacionalizáveis ou ainda quando digam respeito a serviços de interesse económico geral.
 
-4 - Não são elegíveis os projetos de investimentos incluídos no âmbito dos contratos de concessão com o Estado (Administração Central ou Local) e para o exercício dessa atividade concessionada.
+4 - Não são elegíveis os projetos que incluam investimentos diretamente decorrentes de obrigações expressamente previstas em contratos de concessão com o Estado (Administração Central ou Local).
 
-5 - Tratando-se de serviços de interesse económico geral ou investimentos incluídos no âmbito dos contratos de concessão com o Estado (Administração Central ou Local) para o exercício da atividade concessionada apenas são elegíveis operações ou projetos enquadráveis na área de investigação e desenvolvimento do sistema de incentivos e na formação de recursos humanos.
+5 - (Revogado.)

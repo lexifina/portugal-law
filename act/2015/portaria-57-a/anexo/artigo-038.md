@@ -4,14 +4,6 @@
 
 Sem prejuízo do referido no artigo 15.º, constitui ainda fundamento para redução do incentivo, o estabelecido no n.º 1 do artigo anterior, nos seguintes termos:
 
-a) Para os projetos no âmbito da inovação produtiva e empreendedorismo qualificado:
+a) Nos projetos de inovação produtiva e empreendedorismo qualificado, as despesas elegíveis realizadas até ao final do primeiro, segundo, terceiro e quarto trimestre do prazo de prorrogação fixado na alínea b) do n.º 1 do artigo 37.º são reduzidas, respetivamente, em 5 %, 10 %, 15 % e 20 % do seu valor;
 
-i) As despesas elegíveis realizadas até ao final do 6.º mês para além da data de realização aprovada, serão reduzidas em 20% do seu valor;
-
-ii) As despesas elegíveis realizadas entre o 7.º e até ao máximo do 12.º mês para além da data de realização aprovada, serão reduzidas em 40% do seu valor;
-
-b) Para os projetos no âmbito do vale empreendedorismo:
-
-i) As despesas elegíveis realizadas até ao final do 3.º mês para além da data de realização aprovada, serão reduzidas em 20% do seu valor;
-
-ii) As despesas elegíveis realizadas entre o 4.º e até ao máximo do 6.º mês para além da data de realização aprovada, serão reduzidas em 40% do seu valor.
+b) Nos projetos vale empreendedorismo, as despesas elegíveis realizadas até ao final do primeiro e segundo trimestre do prazo de prorrogação fixado na alínea b) do n.º 1 do artigo 37.º são reduzidas, respetivamente, em 5 % e 10 % do seu valor.

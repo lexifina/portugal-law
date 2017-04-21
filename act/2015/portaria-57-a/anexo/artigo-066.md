@@ -4,7 +4,7 @@
 
 1- Os critérios de elegibilidade dos projetos, com exceção do vale I&D, são os seguintes:
 
-a) Ter data de candidatura anterior à data de início dos trabalhos, não podendo incluir despesas anteriores à data da candidatura, à exceção dos adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50% do custo de cada aquisição, e das despesas relativas aos estudos de viabilidade, desde que realizados há menos de um ano;
+a) Ter data de candidatura anterior à data de início dos trabalhos, conforme definição prevista na alínea uu) do artigo 2.º;
 
 b) Inserir-se nos domínios prioritários da estratégia de investigação e inovação para uma especialização inteligente;
 

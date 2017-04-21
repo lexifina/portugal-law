@@ -12,7 +12,7 @@ Incentivos à inovação empresarial e empreendedorismo
 
 a) No encerramento financeiro - com a apresentação dos dados sobre a conclusão física e financeira do projeto, é avaliada a concretização dos objetivos e condições subjacentes à aprovação do projeto, incluindo a concretização dos indicadores de realização e de resultado;
 
-b) No ano de cruzeiro - que corresponde ao segundo exercício económico completo após o ano de conclusão física e financeira do projeto, com exceção dos projetos do setor do turismo que corresponde ao terceiro exercício económico completo, é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, com vista a aferir da possibilidade de atribuição de uma isenção de reembolso no montante máximo de 50 % do incentivo reembolsável.
+b) No ano de cruzeiro - que corresponde ao segundo exercício económico completo após o ano de conclusão física e financeira do projeto, com exceção dos projetos do setor do turismo que corresponde ao terceiro exercício económico completo, é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, com vista a aferir da possibilidade de atribuição de uma isenção de reembolso no montante máximo de 60 % do incentivo reembolsável.
 
 3 - A avaliação referida na alínea a) do número anterior releva para efeitos de aplicação do disposto no artigo 15.º, incluindo para efeitos do disposto no n.º 3 do artigo 34.º
 
@@ -52,13 +52,7 @@ c) Indicador I3 - (beta)3 = [0,15 a 0,40].
 
 8 - Para os projetos de interesse especial e para os projetos de interesse estratégico podem ser definidos indicadores e ponderadores diferentes dos apresentados nos pontos anteriores.
 
-9 - De acordo com o apuramento previsto no n.º 6 haverá lugar à atribuição de uma isenção de reembolso, proporcionalmente e até ao montante máximo de 50 %, se o Grau de Cumprimento apurado for superior a 100 %, nos seguintes termos:
-
-a) Para 2015 e 2016:
-
-(ver documento original)
-
-b) A partir de 2017, inclusive:
+9 - De acordo com o apuramento previsto no n.º 6, há lugar à atribuição de uma isenção de reembolso, proporcionalmente e até ao montante máximo de 60 %, se o Grau de Cumprimento apurado for superior a 100 %, nos seguintes termos:
 
 (ver documento original)
 

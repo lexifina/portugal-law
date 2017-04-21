@@ -2,17 +2,17 @@
 
 ### Taxas de financiamento
 
-1- O incentivo a conceder, aos projetos no âmbito da inovação empresarial e empreendedorismo qualificado e criativo, para as despesas elegíveis referidas nas alíneas a), b) e c) do n.º 1 e nos n.os 5, e 6, do artigo 32.º é calculado através da aplicação de uma taxa base máxima de 35%, a qual poderá ser acrescida das seguintes majorações, não podendo a taxa ultrapassar 75%:
+1 - O incentivo a conceder aos projetos no âmbito da inovação empresarial e empreendedorismo qualificado e criativo para as despesas elegíveis referidas nas alíneas a), b) e c) do n.º 1 e nos n.os 5 e 6 do artigo 32.º é calculado através da aplicação de uma taxa base máxima de 30 %, a qual pode ser acrescida das seguintes majorações, não podendo a taxa ultrapassar 75 %:
 
 a) Majoração «tipo de empresa»:
 
-i. 15 pontos percentuais (p. p.) a atribuir a médias empresas, independentemente da dimensão do projeto, e a micro e pequenas empresas que desenvolvam projetos com despesa elegível igual ou superior a 5 milhões de euros;
+i) 10 pontos percentuais (p. p.) a atribuir a médias empresas, independentemente da dimensão do projeto, e a micro e pequenas empresas que desenvolvam projetos com despesa elegível igual ou superior a 5 milhões de euros;
 
-ii. 25 p. p. a atribuir a micro e pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
+ii) 20 p. p. a atribuir a micro e pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
 
 b) Majoração «territórios de baixa densidade»: 10 p.p. a atribuir a projetos localizados em territórios de baixa densidade;
 
-c) Majoração «demonstração e disseminação»: 10 p.p. a atribuir a projetos que apresentem um plano de ações de demonstração e disseminação de soluções inovadoras, que incentivem e promovam a adoção alargada de tecnologias consolidadas, sem aplicação corrente no setor, nomeadamente através de mecanismos de fertilização cruzada intersetorial;
+c) (Revogada.)
 
 d) Majoração «empreendedorismo»: 10 p.p. a atribuir aos projetos na tipologia empreendedorismo qualificado e criativo;
 

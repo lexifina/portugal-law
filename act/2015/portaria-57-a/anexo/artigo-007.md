@@ -24,6 +24,12 @@ i) Aquisição de bens em estado de uso;
 
 j) Imposto sobre o valor acrescentado recuperável ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário;
 
-k) Aquisição de veículos automóveis, aeronaves e outro material de transporte, à exceção das despesas previstas no setor do turismo para a tipologia de investimento "Inovação empresarial e empreendedorismo".
+k) Aquisição de veículos automóveis, aeronaves e outro material de transporte, à exceção das despesas previstas no setor do turismo para a tipologia de investimento "Inovação empresarial e empreendedorismo";
+
+l) Juros durante o período de realização do investimento;
+
+m) Fundo de maneio;
+
+n) Estudos de viabilidade, quando realizados antes da data da candidatura.
 
 2 - Não é considerada elegível a despesa declarada pelo beneficiário, que não seja considerada adequada tendo em conta a sua razoabilidade face às condições de mercado, podendo as autoridades de gestão definir, em orientação técnica, os critérios que adotam na análise da elegibilidade de despesas e condições específicas de aplicação.

@@ -4,7 +4,7 @@
 
 1 - Os critérios de elegibilidade dos projetos são os seguintes:
 
-a) Ter data de candidatura anterior à data de início dos trabalhos, não podendo incluir despesas anteriores à data da candidatura, à exceção dos adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50 % do custo de cada aquisição e das despesas relativas aos estudos, desde que realizados há menos de um ano;
+a) Ter data de candidatura anterior à data de início dos trabalhos, conforme definição prevista na alínea uu) do artigo 2.º;
 
 b) Demonstrar que se encontram asseguradas as fontes de financiamento da parcela de investimento total não coberta pelo financiamento público, através de:
 

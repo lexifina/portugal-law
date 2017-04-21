@@ -4,7 +4,7 @@
 
 1- Os critérios de elegibilidade dos projetos para as áreas inovação produtiva Não PME e PME e empreendedorismo qualificado e criativo, com exceção dos vales empreendedorismo, são os seguintes:
 
-a) Ter data de candidatura anterior à data de início dos trabalhos, não podendo incluir despesas anteriores à data da candidatura, à exceção dos adiantamentos para sinalização, relacionados com o projeto, até ao valor de 50% do custo de cada aquisição e das despesas relativas aos estudos de viabilidade, desde que realizados há menos de um ano;
+a) Ter data de candidatura anterior à data de início dos trabalhos, conforme definição prevista na alínea uu) do artigo 2.º;
 
 b) Ser sustentado por uma análise estratégica da empresa que identifique as áreas de competitividade críticas para o negócio em que se insere, diagnostique a situação da empresa nestas áreas críticas e fundamente as opções de investimento consideradas na candidatura;
 
