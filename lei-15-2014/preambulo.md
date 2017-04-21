@@ -1,4 +1,8 @@
+Lei n.º 15/2014
+
 de 21 de março
+
+Lei consolidando a legislação em matéria de direitos e deveres do utente dos serviços de saúde
 
 O presente texto tem por objetivo apresentar de forma clara e integrada os direitos e deveres do utente dos serviços de saúde. Para tal, e partindo da Base XIV da Lei de Bases da Saúde, Lei n.º 48/90 de 24 de agosto, incorporam-se nele as normas e princípios constantes dos seguintes diplomas:
 
