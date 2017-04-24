@@ -1,0 +1,15 @@
+Resolução da Assembleia da República n.º 67/2017
+Recomenda ao Governo que reforce as medidas para a prevenção da violência doméstica e a proteção e assistência às suas vítimas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Tome as medidas necessárias à inventariação das salas de atendimento à vítima (SAV) existentes nos postos da Guarda Nacional Republicana (GNR) e nas esquadras da Polícia de Segurança Pública (PSP), com dados sobre a sua distribuição territorial, e crie instalações onde faltam, garantindo a cobertura total do território nacional.
+2 - Defina as condições concretas que as SAV devem respeitar e diligencie para que as mesmas sejam adaptadas em conformidade.
+3 - Proceda a um levantamento dos elementos das forças de segurança detentores de formação especializada em matéria de violência doméstica, por local e tipo de serviço, assim como à realização de uma avaliação, externa e independente, da formação que lhes foi ministrada, a qual, para além de indicadores quantitativos, deve contemplar indicadores qualitativos que permitam aferir sobre a respetiva qualidade e eficácia.
+4 - Reforce a formação dos agentes das forças de segurança direcionada especificamente para o atendimento e acompanhamento das situações de violência doméstica, em especial dos elementos que integram as patrulhas responsáveis pela resposta imediata às situações de crise e que estabelecem o primeiro contacto com as vítimas e os agressores, de modo a garantir que em todas as esquadras existem elementos com capacidade e sensibilidade para prestar o auxílio necessário.
+5 - Os elementos das forças de segurança possam frequentar as ações de formação disponibilizadas por associações e organizações que intervêm na área da violência doméstica.
+6 - Crie um mecanismo de intercâmbio de informação entre os órgãos de polícia criminal.
+7 - As forças de segurança sejam integradas nas redes locais e municipais de prevenção e combate à violência doméstica sempre que estas estejam constituídas no município da sua área de atuação.
+8 - Desenvolva meios que permitam dar resposta aos casos em que os próprios agentes dos órgãos de polícia criminal são agressores.
+9 - O Relatório Anual de Segurança Interna (RASI), apresentado à Assembleia da República nos termos do n.º 3 do artigo 7.º da Lei n.º 53/2008, de 29 de agosto, inclua dados desagregados sobre o crime de violência doméstica, especificando, nomeadamente, os dados estatísticos sobre violência no namoro, e que desenvolva as medidas necessárias para que estes dados possam constar do próximo RASI.
+10 - Promova, de forma sistemática e continuada, ações de sensibilização junto dos jovens, procurando reforçar o seu impacto na questão da aquisição de novas masculinidades e feminilidades, num quadro de respeito pelas diferenças e de promoção da igualdade entre rapazes e raparigas.
+Aprovada em 10 de março de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
