@@ -1,0 +1,7 @@
+Despacho n.º 3460/2017
+O Aproveitamento Hidroagrícola de Temilobos, adiante designado abreviadamente por Aproveitamento, é uma obra de aproveitamento de águas do domínio público para o regadio dos prédios ou parcelas de prédios na área beneficiada e descritos no respetivo cadastro, através de estruturas de armazenamento, captação, elevação e distribuição de água para rega.
+O Aproveitamento situa-se no distrito de Viseu, nas freguesias de Santa Cruz, São Martinho de Chãs, Armamar, União de freguesias de Ariceira e Goujoim e União das freguesias de São Romão e Santiago, concelho de Armamar, com uma área beneficiada, com rega sob pressão, de 475 hectares.
+Poderá assegurar o fornecimento de água para atividades não agrícolas, desde que devidamente licenciadas.
+Assim, no exercício das competências delegadas pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, nos termos e para os efeitos da subalínea i) da alínea a) do n.º 5 do Despacho n.º 2243/2016, publicado no Diário da República, 2.ª série, n.º 30, de 12 de fevereiro, e ao abrigo do disposto nos n.os 1 e 2 do artigo 20.º do Decreto-Lei n.º 269/82, de 10 de julho, na redação introduzida pelo Decreto-Lei n.º 86/2002, de 6 de abril, aprovo o Regulamento Definitivo do Aproveitamento Hidroagrícola de Temilobos, e anexos correspondentes, cuja publicitação será efetuada no sítio da DGADR.
+27 de março de 2017. - O Secretário de Estado das Florestas e do Desenvolvimento Rural, Amândio José de Oliveira Torres.
+310393437
