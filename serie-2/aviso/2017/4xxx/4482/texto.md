@@ -1,0 +1,12 @@
+Aviso n.º 4482/2017
+Nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 07/01, submete-se a consulta pública, pelo período de trinta dias, o projeto de alteração ao Regulamento de Trânsito do Concelho de Vila Franca de Xira - Anexo para a União de Freguesias de Alverca do Ribatejo e Sobralinho, respeitante a Alverca do Ribatejo, na Urbanização da Malvarosa, aprovado pela câmara municipal na sua reunião ordinária de 2017/03/29, conforme consta do edital n.º 152/2017, datado de 2017/03/30.
+Nota justificativa
+O Regulamento Municipal de Trânsito da União das Freguesias de Alverca do Ribatejo e Sobralinho, carece de alterações, designadamente na Urbanização da Malvarosa, em Alverca do Ribatejo, por forma a regulamentar e melhorar a circulação rodoviária e possibilitar a implementação de novos lugares de estacionamento.
+Assim, ao abrigo do disposto no artigo 241.º da Constituição da República Portuguesa, das alíneas k) e ee) do n.º 1 do artigo 33.º do anexo I à Lei n.º 75/2013, de 12 de setembro, e no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, informa-se que o presente projeto de alteração ao Regulamento de Trânsito do Concelho de Vila Franca de Xira - Anexo para a União das Freguesias de Alverca do Ribatejo e Sobralinho, respeitante a Alverca do Ribatejo, na Urbanização da Malvarosa, aprovado pela câmara municipal na sua reunião ordinária de 2017/03/29, vai ser objeto de consulta pública, pelo prazo de 30 dias, contados a partir da data da publicação do presente aviso no Diário da República, para recolha de sugestões, as quais devem ser redigidas por escrito ao Sr. Presidente da Câmara Municipal, Loja do Munícipe, Praça Bartolomeu Dias, n.º 9, Quinta da Mina, 2600-076 Vila Franca de Xira.
+Projeto de alteração ao Regulamento de Trânsito do Concelho de Vila Franca de Xira
+Anexo para a União das Freguesias de Alverca do Ribatejo e Sobralinho, respeitante a Alverca do Ribatejo
+Urbanização da Malvarosa
+Rua Eng.º Moniz da Maia - Proibida a circulação a veículos no sentido norte-sul, entre o n.º 6 e o cruzamento com a rua Aurélio Galhardo Coelho.
+Rua Eng.º Vaz Guedes - Proibida a circulação a veículos no sentido sul-norte, entre o cruzamento da praça Eng.º Vaz Guedes a avenida da Mague.
+30 de março de 2017. - O Presidente da Câmara Municipal, Alberto Simões Maia Mesquita.
+310398176
