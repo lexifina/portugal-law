@@ -1,0 +1,919 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "508",
+    "id": "41301",
+    "titulo": "Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-04-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12036",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-04-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41253",
+        "leg": "XIII",
+        "nr": "496",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2338",
+            "obs": null,
+            "pag": [
+              "3-29"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-04-28",
+            "pubLeg": "XIII",
+            "pubNr": "82",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/3?pgs=3-29&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-04-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:01:34:519&drc=00:07:06:480"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:11:58:645&drc=00:02:08:355"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/3?pgs=3-4,5-6&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1656",
+                "nome": "António Carlos Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:08:51:510&drc=00:03:03:490"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:14:23:541&drc=00:07:30:458"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:25:00:512&drc=00:02:05:488"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:41:06:614&drc=00:02:06:386"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27",
+                  "6-7",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/6?pgs=6-7,8-9,27&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:22:11:722&drc=00:02:44:951"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "466",
+                "nome": "Wanda Guimarães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:27:29:333&drc=00:13:10:666"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:52:01:760&drc=00:06:09:239"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-16",
+                  "9-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/9?pgs=9-11,14-16&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1656",
+                "nome": "António Carlos Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:41:19:670&drc=00:02:14:329"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:43:39:960&drc=00:03:57:039"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4147",
+                "nome": "Carla Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:47:42:175&drc=00:04:13:824"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1992",
+                "nome": "Pedro Roque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=00:58:34:164&drc=00:08:08:835"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:13:52:396&drc=00:03:06:604"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:19:13:587&drc=00:02:36:412"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18",
+                  "20-21",
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/16?pgs=16-18,20-21,22-23&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:06:55:496&drc=00:06:36:503"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/18?pgs=18-20&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2445",
+                "nome": "Tiago Barbosa Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:17:04:481&drc=00:02:06:519"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:21:56:787&drc=00:03:51:085"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5751",
+                "nome": "Filipe Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:26:06:007&drc=00:06:33:993"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:32:52:063&drc=00:08:06:936"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/25?pgs=25-27&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:08",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_04_27_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m04/&tI=01:43:19:479&drc=00:07:17:520"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-04-28",
+                "pubLeg": "XIII",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao regime jurídico-laboral e alargamento da proteção social do trabalho por turnos e noturno e Reforça os direitos dos trabalhadores no regime de trabalho noturno e por turnos.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "325439",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "791611",
+        "obs": null,
+        "pag": [
+          "3-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-04-28",
+        "pubLeg": "XIII",
+        "pubNr": "82",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/082/2017-04-28/3?pgs=3-30&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
