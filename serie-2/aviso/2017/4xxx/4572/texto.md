@@ -1,0 +1,6 @@
+Aviso n.º 4572/2017
+Abertura de discussão pública do Plano de Urbanização do Vale do Grou
+António José Ferreira Sousa Correia Santos, presidente da Câmara Municipal de Peniche, torna público que, nos termos do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que estabelece o Regime Jurídico dos Instrumentos de Gestão Territorial, a Câmara Municipal, na sua reunião de 04 de abril de 2017, deliberou proceder à abertura do período de discussão pública da proposta de Plano de Urbanização de Vale do Grou. A Discussão Pública ocorrerá por um período de 30 (trinta) dias, decorrido que seja o prazo de 5 (cinco) dias, contado desde a publicação do presente aviso no Diário da República. Durante esse período, os interessados poderão, por escrito, formular reclamações, sugestões ou observações, dirigidas ao senhor presidente da Câmara Municipal.
+Torna ainda público, que a referida proposta de Plano de Urbanização de Vale do Grou encontra-se disponível para consulta no balcão de atendimento da Divisão de Planeamento e Gestão Urbanística da Câmara Municipal de Peniche, durante o horário normal de funcionamento dos serviços e na página eletrónica do município com endereço www.cm-peniche.pt.
+7 de abril de 2017. - O Presidente da Câmara Municipal, António José Ferreira Sousa Correia Santos.
+310420425
