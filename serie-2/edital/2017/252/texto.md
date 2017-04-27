@@ -1,0 +1,5 @@
+Edital n.º 252/2017
+Diamantino Sabina, Presidente da Câmara Municipal de Estarreja, para efeitos do disposto no artigo 98.º do Código de Procedimento Administrativo, torna Público o início do procedimento de atualização do Regulamento da Biblioteca Municipal de Estarreja, atendendo à necessidade de reformulação do regulamento existente, tendo por base os novos serviços e a nova dinâmica da Biblioteca Municipal, assim como, a uniformização de algumas normas e parâmetros estabelecidos a nível da Rede de Bibliotecas da CIM Região de Aveiro.
+Sem prejuízo da apresentação de sugestões no âmbito da consulta pública a que será submetido o projeto de regulamento, após a publicação do presente aviso no sítio da Câmara Municipal de Estarreja (www.cm-estarreja.pt) podem ser apresentados, por escrito, contributos para a elaboração do regulamento, os quais podem ser entregues nos serviços de atendimento ao público da câmara Municipal (SAME), por via postal (Praça Francisco Barbosa, Apartado 132, 3864-909 Estarreja) ou por correio eletrónico (geral@cm-estarreja.pt).
+23 de março de 2017. - O Presidente da Câmara, Diamantino Sabina.
+310401528
