@@ -15,3 +15,5 @@ d) Os objetos especialmente destinados ao exercício de culto público;
 e) Os túmulos;
 
 f) Os instrumentos e os objetos indispensáveis aos deficientes e ao tratamento de doentes.
+
+g) Os animais de companhia.
