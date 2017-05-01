@@ -2,7 +2,7 @@
 
 ### Furto qualificado
 
-1 - Quem furtar coisa móvel alheia:
+1 - Quem furtar coisa móvel ou animal alheios:
 
 a) De valor elevado;
 
@@ -22,11 +22,11 @@ h) Fazendo da prática de furtos modo de vida; ou
 
 i) Deixando a vítima em difícil situação económica;
 
-é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
-
 j) Impedindo ou perturbando, por qualquer forma, a exploração de serviços de comunicações ou de fornecimento ao público de água, luz, energia, calor, óleo, gasolina ou gás;
 
-2 - Quem furtar coisa móvel alheia:
+é punido com pena de prisão até cinco anos ou com pena de multa até 600 dias.
+
+2 - Quem furtar coisa móvel ou animal alheios:
 
 a) De valor consideravelmente elevado;
 
@@ -46,4 +46,4 @@ g) Como membro de bando destinado à prática reiterada de crimes contra o patri
 
 3 - Se na mesma conduta concorrerem mais do que um dos requisitos referidos nos números anteriores, só é considerado para efeito de determinação da pena aplicável o que tiver efeito agravante mais forte, sendo o outro ou outros valorados na medida da pena.
 
-4 - Não há lugar à qualificação se a coisa furtada for de diminuto valor.
+4 - Não há lugar à qualificação se a coisa ou o animal furtados forem de diminuto valor.

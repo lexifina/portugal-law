@@ -4,19 +4,19 @@
 
 1 - Quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável:
 
-a) Coisa alheia de valor elevado;
+a) Coisa ou animal alheios de valor elevado;
 
 b) Monumento público;
 
-c) Coisa destinada ao uso e utilidade públicos ou a organismos ou serviços públicos;
+c) Coisa ou animal destinados ao uso e utilidade públicos ou a organismos ou serviços públicos;
 
 d) Coisa pertencente ao património cultural e legalmente classificada ou em vias de classificação; ou
 
-e) Coisa alheia afecta ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugar destinado ao culto ou em cemitério;
+e) Coisa ou animal alheios afetos ao culto religioso ou à veneração da memória dos mortos e que se encontre em lugar destinado ao culto ou em cemitério;
 
 é punido com pena de prisão até 5 anos ou com pena de multa até 600 dias.
 
-2 - Quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável coisa alheia:
+2 - Quem destruir, no todo ou em parte, danificar, desfigurar ou tornar não utilizável coisa ou animal alheios:
 
 a) De valor consideravelmente elevado;
 
