@@ -10,7 +10,7 @@
 
 a) Destruir, danificar, inutilizar ou fizer desaparecer parte do seu património;
 
-b) Diminuir ficticiamente o seu activo, dissimulando coisas, invocando dívidas supostas, reconhecendo créditos fictícios, incitando terceiros a apresentá-los, ou simulando, por qualquer outra forma, uma situação patrimonial inferior à realidade, nomeadamente por meio de contabilidade inexacta, falso balanço, destruição ou ocultação de documentos contabilísticos ou não organizando a contabilidade apesar de devida;
+b) Diminuir ficticiamente o seu ativo, dissimulando coisas ou animais, invocando dívidas supostas, reconhecendo créditos fictícios, incitando terceiros a apresentá-los, ou simulando, por qualquer outra forma, uma situação patrimonial inferior à realidade, nomeadamente por meio de contabilidade inexata, falso balanço, destruição ou ocultação de documentos contabilísticos ou não organizando a contabilidade apesar de devida;
 
 c) Criar ou agravar artificialmente prejuízos ou reduzir lucros; ou
 

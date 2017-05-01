@@ -10,9 +10,9 @@
 
 ### Definições legais
 
-Para efeito do disposto no presente capítulo, considera-se:
+Para efeito do disposto no presente capítulo considera-se:
 
-a) Documento: a declaração corporizada em escrito, ou registada em disco, fita gravada ou qualquer outro meio técnico, inteligível para a generalidade das pessoas ou para um certo círculo de pessoas, que, permitindo reconhecer o emitente, é idónea para provar facto juridicamente relevante, quer tal destino lhe seja dado no momento da sua emissão quer posteriormente; e bem assim o sinal materialmente feito, dado ou posto numa coisa para provar facto juridicamente relevante e que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas o seu destino e a prova que dele resulta;
+a) Documento - a declaração corporizada em escrito, ou registada em disco, fita gravada ou qualquer outro meio técnico, inteligível para a generalidade das pessoas ou para um certo círculo de pessoas, que, permitindo reconhecer o emitente, é idónea para provar facto juridicamente relevante, quer tal destino lhe seja dado no momento da sua emissão, quer posteriormente; e bem assim o sinal materialmente feito, dado ou posto numa coisa ou animal para provar facto juridicamente relevante e que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas o seu destino e a prova que dele resulta;
 
 b) Notação técnica: a notação de um valor, de um peso ou de uma medida, de um estado ou do decurso de um acontecimento, feita através de aparelho técnico que actua, total ou parcialmente, de forma automática, que permite reconhecer à generalidade das pessoas ou a um certo círculo de pessoas os seus resultados e se destina à prova de facto juridicamente relevante, quer tal destino lhe seja dado no momento da sua realização quer posteriormente;
 
