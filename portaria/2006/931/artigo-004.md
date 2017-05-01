@@ -1,4 +1,4 @@
-# 4.º
+# Artigo 4.º
 
 ### Norma transitória
 
