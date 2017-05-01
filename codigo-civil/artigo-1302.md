@@ -14,4 +14,6 @@
 
 ### (Objecto do direito de propriedade)
 
-Só as coisas corpóreas, móveis ou imóveis, podem ser objecto do direito de propriedade regulado neste código.
+1 - As coisas corpóreas, móveis ou imóveis, podem ser objeto do direito de propriedade regulado neste código.
+
+2 - Podem ainda ser objeto do direito de propriedade os animais, nos termos regulados neste código e em legislação especial.

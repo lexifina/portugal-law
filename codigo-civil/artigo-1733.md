@@ -18,4 +18,6 @@ f) Os vestidos, roupas e outros objectos de uso pessoal e exclusivo de cada um d
 
 g) As recordações de família de diminuto valor económico.
 
+h) Os animais de companhia que cada um dos cônjuges tiver ao tempo da celebração do casamento.
+
 2. A incomunicabilidade dos bens não abrange os respectivos frutos nem o valor das benfeitorias úteis.

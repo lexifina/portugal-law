@@ -18,4 +18,6 @@ d) Acordo sobre o destino da casa de morada de família;
 
 e) Certidão da escritura da convenção antenupcial, caso tenha sido celebrada.
 
+f) Acordo sobre o destino dos animais de companhia, caso existam.
+
 2 - Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.
