@@ -2,13 +2,13 @@
 
 ### Candidaturas de grupos de cidadãos
 
-1 - As listas de candidatos a cada órgão são propostas pelo número de cidadãos eleitores resultante da utilização da fórmula:
+1 - As listas de candidatos aos órgãos das autarquias locais são propostas por um número de cidadãos eleitores correspondente a 3 % dos eleitores inscritos no respetivo recenseamento eleitoral.
 
-n/(3 x m)
+2 - Os resultados da aplicação da fórmula do número anterior, contudo, são sempre corrigidos por forma a não resultar um número de cidadãos proponentes:
 
-em que n é o número de eleitores da autarquia e m o número de membros da câmara municipal ou de membros da assembleia de freguesia, conforme a candidatura se destine aos órgãos do município ou da freguesia.
+a) Inferior a 50 ou superior a 2000, no caso de candidaturas a órgão da freguesia ou de município com menos de 1000 eleitores; ou
 
-2 - Os resultados da aplicação da fórmula do número anterior, contudo, são sempre corrigidos por forma a não resultar um número de cidadãos proponentes inferior a 50 ou superior a 2000, no caso de candidaturas a órgão da freguesia, ou inferior a 250 ou superior a 4000, no caso de candidaturas a órgão do município.
+b) Inferior a 250 ou superior a 4000, no caso de candidaturas a órgão dos restantes municípios.
 
 3 - Os proponentes devem subscrever declaração de propositura da qual resulte inequivocamente a vontade de apresentar a lista de candidatos dela constante.
 
