@@ -32,50 +32,46 @@ k) Não efetuar todas as transações relacionadas com a atividade dos jogos e a
 
 l) Utilizar a conta bancária relativa à atividade de jogos e apostas online para transação que não se relacione com a mesma;
 
-m) Violar a obrigação de assegurar a integridade, a disponibilidade, a confidencialidade e todos os demais atributos de segurança dos jogos e apostas online ou das comunicações, nos termos da alínea i) do n.º 1 do artigo 26.º ou dos n.os 3, 5 ou 6 do artigo 32.º;
+m) Violar a obrigação de assegurar a integridade, a disponibilidade, a confidencialidade e todos os demais atributos de segurança dos jogos e apostas online ou das comunicações, nos termos da alínea i) do n.º 1 do artigo 26.º ou dos n.os 3, 4 ou 5 do artigo 32.º;
 
 n) Não redirecionar para o sítio na Internet com o nome do respetivo domínio subordinado à identificação «.pt» todos os acessos que se estabeleçam a partir de localizações situadas em território português ou que façam uso de contas de jogadores registados em Portugal;
 
-o) Não encaminhar através da infraestrutura de entrada e registo todos os acessos à plataforma de jogo que se estabeleçam a partir de localizações situadas em território português ou por jogadores registados no domínio '.pt';
+o) Não encaminhar todos os acessos à plataforma de jogo e todo o demais tráfego entre o jogador e a plataforma de jogo relacionado com a atividade de jogos e apostas online através da infraestrutura de entrada e registo;
 
-p) Não encaminhar através da infraestrutura de entrada e registo todo o tráfego relacionado com a atividade dos jogos e apostas online que ocorra entre os jogadores que acedam a partir de localizações situadas em território português ou registados no domínio '.pt' e a plataforma de jogo;
+p) Não reportar todas as operações relacionadas com a atividade de jogos e apostas online, ocorridas em qualquer um dos componentes do sistema técnico de jogo, para a infraestrutura de entrada e registo;
 
-q) Não reportar para a infraestrutura de entrada e registo o tráfego relacionado com a atividade de jogos e apostas online que ocorra entre os jogadores e a plataforma de jogo, e cujos acessos a esta se estabeleçam a partir de localizações situadas fora do território português ou sejam efetuados por jogadores que se encontrem registados em domínio diferente do domínio '.pt';
+q) Não registar todos os dados relacionados com a atividade de jogos e apostas online na infraestrutura de entrada e registo;
 
-r) Não reportar todas as operações relacionadas com a atividade de jogos e apostas online, ocorridas em qualquer um dos componentes do sistema técnico de jogo, para a infraestrutura de entrada e registo;
+r) Não reportar todos os dados relacionados com a atividade de jogos e apostas online da infraestrutura de entrada e registo para a infraestrutura de controlo;
 
-s) Não registar todos os dados relacionados com a atividade de jogos e apostas online na infraestrutura de entrada e registo;
+s) Não disponibilizar à entidade de controlo, inspeção e regulação, a todo o tempo, o acesso ao sistema técnico de jogo nos termos previstos nas alíneas a) e b) do artigo 34.º;
 
-t) Não reportar todos os dados relacionados com a atividade de jogos e apostas online da infraestrutura de entrada e registo para a infraestrutura de controlo;
+t) Não manter a infraestrutura de entrada e registo instalada em território nacional;
 
-u) Não disponibilizar à entidade de controlo, inspeção e regulação, a todo o tempo, o acesso ao sistema técnico de jogo nos termos previstos nas alíneas a) e b) do artigo 34.º;
+u) Utilizar um sistema técnico de jogo não certificado e homologado;
 
-v) Não manter a infraestrutura de entrada e registo instalada em território nacional;
+v) Permitir o registo do jogador sem verificar a respetiva identidade ou sem confirmar a inexistência de proibição de jogar;
 
-w) Utilizar um sistema técnico de jogo não certificado e homologado;
+w) Permitir que o jogador tenha mais do que um registo no mesmo sítio na Internet;
 
-x) Permitir o registo do jogador sem verificar a respetiva identidade ou sem confirmar a inexistência de proibição de jogar;
+x) Não criar uma conta de jogador associada ao registo de cada jogador;
 
-y) Permitir que o jogador tenha mais do que um registo no mesmo sítio na Internet;
+y) Criar, para o mesmo jogador, duas ou mais contas de jogador no mesmo sítio na Internet;
 
-z) Não criar uma conta de jogador associada ao registo de cada jogador;
+z) Criar uma conta de jogador para vários jogadores;
 
-aa) Criar, para o mesmo jogador, duas ou mais contas de jogador no mesmo sítio na Internet;
+aa) Movimentar a conta de jogador sem ser por iniciativa deste;
 
-bb) Criar uma conta de jogador para vários jogadores;
+bb) Permitir a transferência de dinheiro entre contas de jogadores;
 
-cc) Movimentar a conta de jogador sem ser por iniciativa deste;
+cc) Permitir que o jogador utilize a conta de jogador de outro jogador;
 
-dd) Permitir a transferência de dinheiro entre contas de jogadores;
+dd) Não dispor, no sítio na Internet, de mecanismos que permitam a transferência do saldo da conta de jogador para a conta de pagamento previamente indicada e titulada pelo jogador;
 
-ee) Permitir que o jogador utilize a conta de jogador de outro jogador;
+ee) Permitir a utilização de instrumento de pagamento em desconformidade com o disposto nos n.os 1 e 2 do artigo 42.º;
 
-ff) Não dispor, no sítio na Internet, de mecanismos que permitam a transferência do saldo da conta de jogador para a conta de pagamento previamente indicada e titulada pelo jogador;
+ff) Ocultar ou alterar factos ou valores contabilísticos à entidade de controlo, inspeção e regulação que impeçam a correta liquidação do IEJO;
 
-gg) Permitir a utilização de instrumento de pagamento em desconformidade com o disposto nos n.os 1 e 2 do artigo 42.º;
+gg) Não efetuar o pagamento do IEJO no prazo legal;
 
-hh) Ocultar ou alterar factos ou valores contabilísticos à entidade de controlo, inspeção e regulação que impeçam a correta liquidação do IEJO;
-
-ii) Não efetuar o pagamento do IEJO no prazo legal;
-
-jj) Não cumprir os regulamentos, instruções ou orientações emitidos pela entidade de controlo, inspeção e regulação.
+hh) Não cumprir os regulamentos, instruções ou orientações emitidos pela entidade de controlo, inspeção e regulação.

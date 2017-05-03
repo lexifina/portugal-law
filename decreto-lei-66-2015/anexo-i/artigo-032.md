@@ -10,7 +10,7 @@
 
 2 - Na estruturação do sistema técnico de jogo, as entidades exploradoras devem garantir, nomeadamente, que:
 
-a) Todos os acessos à plataforma de jogo e todo o demais tráfego relacionado com a atividade de jogos e apostas online que se estabeleçam a partir de localizações situadas em território português ou por jogadores registados no domínio '.pt' sejam sempre encaminhados através da infraestrutura de entrada e registo e seja reportado para esta o tráfego a que se refere a alínea b) do n.º 5 do artigo 26.º;
+a) Todos os acessos à plataforma de jogo e todo o demais tráfego entre o jogador e a plataforma de jogo relacionado com a atividade de jogos e apostas online sejam sempre encaminhados através da infraestrutura de entrada e registo;
 
 b) Todas as demais operações relacionadas com a atividade de jogos e apostas online, ocorridas em qualquer um dos componentes do sistema técnico de jogo, sejam sempre reportadas para a infraestrutura de entrada e registo;
 
@@ -34,8 +34,6 @@ f) Que o acesso ao sistema técnico de jogo é feito exclusivamente nas condiç�
 
 g) A integridade, a disponibilidade, a confidencialidade e todos os demais atributos de segurança das comunicações, bem como de toda a informação processada e armazenada, nomeadamente ao nível de todas as comunicações com a infraestrutura de entrada e registo e entre esta e a infraestrutura de controlo, incluindo os acessos referidos no número anterior.
 
-4 - O disposto no número anterior é aplicável com as necessárias adaptações às situações previstas na alínea b) do n.º 5 do artigo 26.º
+4 - As entidades exploradoras devem adotar controlos de segurança apropriados e conformes ao Standard Internacional ISO 27001, no que respeita, em particular, à política de segurança da informação, organização, recursos humanos, segurança física e ambiental, segurança dos equipamentos, operações e comunicações, controlo de acessos e aquisição, desenvolvimento e manutenção de sistemas de informação e gestão da continuidade de negócio.
 
-5 - As entidades exploradoras devem adotar controlos de segurança apropriados e conformes ao Standard Internacional ISO 27001, no que respeita, em particular, à política de segurança da informação, organização, recursos humanos, segurança física e ambiental, segurança dos equipamentos, operações e comunicações, controlo de acessos e aquisição, desenvolvimento e manutenção de sistemas de informação e gestão da continuidade de negócio.
-
-6 - As entidades exploradoras devem dispor de cópias de segurança e adotar medidas técnicas e planos de contingência e de continuidade de negócio que permitam, nomeadamente e nos casos de perda de dados, garantir a sua recuperação integral.
+5 - As entidades exploradoras devem dispor de cópias de segurança e adotar medidas técnicas e planos de contingência e de continuidade de negócio que permitam, nomeadamente e nos casos de perda de dados, garantir a sua recuperação integral.

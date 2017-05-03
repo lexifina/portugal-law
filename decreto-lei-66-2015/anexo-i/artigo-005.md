@@ -40,12 +40,10 @@ x) Roleta francesa.
 
 6 - São proibidas as apostas desportivas à cota em quaisquer eventos, provas ou competições desportivas de escalões de formação, nestes se compreendendo todos os anteriores ao da categoria sénior, como tal definido pela respetiva federação desportiva dotada do estatuto de utilidade pública desportiva.
 
-7 - A inclusão, na lista referida no n.º 5, de modalidades, competições e provas desportivas organizadas por entidades nacionais deve ser precedida, para cada modalidade, de audição da respetiva federação com utilidade pública desportiva, para verificação da idoneidade da competição e do respetivo organizador, bem como para confirmação do cumprimento das obrigações de transparência relativas à titularidade das sociedades desportivas, se for o caso.
+7 - A inclusão, na lista referida no número anterior, de modalidades, competições e provas desportivas organizadas por entidades nacionais deve ser precedida, para cada modalidade, de audição da respetiva federação com utilidade pública desportiva, nomeadamente para verificação da idoneidade da competição e do respetivo organizador.
 
 8- As competições e corridas de cavalos nacionais a incluir na lista prevista no n.º 5 são as constantes do calendário para o efeito aprovado pela Direção-Geral de Alimentação e Veterinária.
 
 9 - No caso das apostas desportivas à cota e das apostas hípicas, mútuas e à cota, os tipos e os momentos das apostas, bem como os tipos de resultados sobre os quais as mesmas incidem, são fixados, respetivamente, para cada modalidade, competição e prova desportiva e para cada competição e corrida de cavalos, e constam da lista prevista no n.º 5.
 
 10 - A entidade de controlo, inspeção e regulação pode alterar a lista prevista no n.º 5, não tendo as entidades exploradoras qualquer direito a indemnização ou compensação decorrente dessa alteração.
-
-11 - São proibidas as apostas desportivas em eventos em que participem sociedades desportivas que não cumpram as obrigações legalmente definidas de transparência da respetiva titularidade, enquanto durar tal incumprimento.
