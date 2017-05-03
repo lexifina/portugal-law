@@ -2,7 +2,7 @@
 
 ### Contabilidade, contas e tesouraria
 
-1 - As entidades reguladoras aplicam o Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP).
+1 - As entidades reguladoras aplicam o Sistema de Normalização Contabilística.
 
 2 - A prestação de contas rege-se, fundamentalmente, pelo disposto na Lei de Organização e Processo do Tribunal de Contas e respetivas disposições regulamentares.
 

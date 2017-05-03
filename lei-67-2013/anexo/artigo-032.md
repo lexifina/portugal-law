@@ -29,5 +29,3 @@ e) O disposto no n.º 3 do artigo 4.º
 8 - Ficam excluídas do disposto nos n.os 6 e 7 as situações de cessação de funções por caducidade de contrato de trabalho a termo, cessação de comissão de serviço quando regressem ao lugar de origem ou por iniciativa da entidade reguladora.
 
 9 - Os estatutos de cada entidade reguladora podem definir outras incompatibilidades e outros impedimentos aplicáveis aos trabalhadores e prestadores de serviços e aos titulares de cargos de direção ou equiparados.
-
-10 - A gestão do pessoal, incluindo a contratação de trabalhadores, não está sujeita a parecer dos membros do Governo.
