@@ -6,8 +6,8 @@
 
 2 - Se alguma candidatura com direito de antena prescindir do seu exercício, os tempos de antena que lhe cabiam são anulados, sem possibilidade de redistribuição.
 
-3 - A distribuição dos tempos de antena é feita pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma mediante sorteio, até três dias antes do início da campanha, e comunicada de imediato, dentro do mesmo prazo, aos operadores envolvidos.
+3 - A distribuição dos tempos de antena é feita pelo juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que essa distribuição é feita pelo respetivo juiz, mediante sorteio, até três dias antes do início da campanha, e comunicada de imediato, dentro do mesmo prazo, aos operadores envolvidos.
 
-4 - Para efeito do disposto no número anterior, o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma organiza tantas séries de emissões quantas as candidaturas que a eles tenham direito.
+4 - Para efeito do disposto no número anterior, o juiz competente organiza tantas séries de emissões quantas as candidaturas que a elas tenham direito.
 
 5 - Para o sorteio previsto neste artigo são convocados os representantes das candidaturas intervenientes.

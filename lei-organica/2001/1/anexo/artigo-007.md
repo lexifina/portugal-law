@@ -6,7 +6,7 @@
 
 a) Os directores de finanças e chefes de repartição de finanças;
 
-b) Os secretários de justiça;
+b) Os secretários de justiça e administradores judiciários;
 
 c) Os ministros de qualquer religião ou culto;
 

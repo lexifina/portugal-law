@@ -4,7 +4,7 @@
 
 As assembleias de apuramento geral têm a seguinte composição:
 
-a) Um magistrado judicial ou o seu substituto legal ou, na sua falta, um cidadão de comprovada idoneidade cívica, que preside com voto de qualidade, designado pelo presidente do tribunal da relação do distrito judicial respectivo;
+a) Um magistrado judicial de juízo cível ou de competência genérica sediado ou com jurisdição no município, ou um seu substituto, escolhido sempre que possível de entre os magistrados judiciais daquele juízo, que preside com voto de qualidade, designado pelo juiz presidente do tribunal de comarca a que respeite o município;
 
 b) Um jurista designado pelo presidente da assembleia de apuramento geral;
 

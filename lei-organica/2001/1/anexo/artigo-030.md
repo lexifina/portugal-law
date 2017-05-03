@@ -8,4 +8,4 @@
 
 3 - Do acto de sorteio é lavrado auto, de que são imediatamente enviadas cópias à Comissão Nacional de Eleições, e, bem assim, ao presidente da câmara municipal respectiva, para efeitos de impressão dos boletins de voto.
 
-4 - As denominações, siglas e símbolos dos partidos políticos e coligações devidamente legalizados, bem como os símbolos a utilizar na identificação dos órgãos a eleger, são remetidos pela Direcção-Geral de Administração Interna às câmaras municipais, juízes de comarca e, em Lisboa e Porto, aos juízes dos tribunais cíveis, até ao 40.º dia anterior ao da eleição.
+4 - As denominações, siglas e símbolos dos partidos políticos e coligações devidamente legalizados, bem como os símbolos a utilizar na identificação dos órgãos a eleger, são remetidos pela Secretaria-Geral do Ministério da Administração Interna às câmaras municipais e ao juiz do juízo de competência genérica com jurisdição no respetivo município, salvo quando o mesmo esteja abrangido por juízo local cível, caso em que as denominações, siglas e símbolos são remetidos ao respetivo juiz, até ao 40.º dia anterior ao da eleição.

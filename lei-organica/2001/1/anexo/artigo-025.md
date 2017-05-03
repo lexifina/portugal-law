@@ -2,7 +2,7 @@
 
 ### Publicação das listas e verificação das candidaturas
 
-1 - Findo o prazo para a apresentação das candidaturas, é imediatamente afixada a relação das mesmas à porta do edifício do tribunal, com a identificação completa dos candidatos e dos mandatários.
+1 - Findo o prazo para a apresentação das candidaturas, é imediatamente afixada a relação das mesmas à porta do edifício do tribunal onde se encontra o juiz competente nos termos do n.º 1 do artigo 20.º e, sempre que for esse o caso, à porta das instalações do juízo de proximidade que se encontre sediado no município, com a identificação completa dos candidatos e dos mandatários.
 
 2 - Nos cinco dias subsequentes o juiz verifica a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
 
