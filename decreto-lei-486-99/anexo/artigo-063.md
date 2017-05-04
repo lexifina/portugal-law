@@ -4,7 +4,7 @@
 
 1 - São obrigatoriamente registados num único intermediário financeiro, quando não estejam integrados em sistema centralizado:
 
-a) Os valores mobiliários escriturais ao portador;
+a) (Revogada);
 
 b) Os valores mobiliários distribuídos através de oferta pública e outros que pertençam à mesma categoria;
 

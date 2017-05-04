@@ -1,3 +1,7 @@
+## Secção III
+
+## Transmissão, constituição e exercício de direitos
+
 # Artigo 102.º
 
 ### Transmissão de valores mobiliários titulados nominativos

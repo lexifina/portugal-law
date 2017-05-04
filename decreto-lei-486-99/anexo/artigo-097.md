@@ -4,11 +4,11 @@
 
 1 - Dos títulos devem constar, além das menções referidas nas alíneas a) e b) do n.º 1 do artigo 44.º, os seguintes elementos:
 
-a) Número de ordem, excepto os títulos ao portador;
+a) Número de ordem;
 
 b) Quantidade de direitos representados no título e, se for o caso, valor nominal global;
 
-c) Identificação do titular, nos títulos nominativos.
+c) Identificação do titular.
 
 2 - Os títulos são assinados, ainda que através de chancela, por um titular do órgão de administração do emitente.
 
