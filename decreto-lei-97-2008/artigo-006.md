@@ -2,9 +2,9 @@
 
 ### Base tributável
 
-1 - A base tributável da taxa de recursos hídricos é constituída por cinco componentes e expressa pela fórmula seguinte:
+1 - A base tributável da taxa de recursos hídricos é constituída por seis componentes e expressa pela fórmula seguinte:
 
-Taxa = A + E + I + O + U
+Taxa = A + E + I + O + U + S
 
 2 - A aplicação das componentes da base tributável da taxa de recursos hídricos é cumulativa e a inaplicabilidade de uma qualquer das componentes não prejudica a aplicação das demais.
 

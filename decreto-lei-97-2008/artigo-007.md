@@ -4,7 +4,7 @@
 
 1 - A componente A corresponde à utilização privativa de águas do domínio público hídrico do Estado, calculando-se pela aplicação de um valor de base ao volume de água captado, desviado ou utilizado, nomeadamente, na produção de energia hidroeléctrica ou termoeléctrica, expresso em metro cúbico, multiplicado pelo coeficiente de escassez aplicável quando não se trate de águas marinhas.
 
-2 - O valor de base da componente A é de (euro) 0,003 para a agricultura, de (euro) 0,00002 para a produção de energia hidroelétrica, de (euro) 0,0027 para a produção de energia termoelétrica, e de (euro) 0,014 para os sistemas de água de abastecimento público e para os demais casos.
+2 - O valor de base da componente A é de (euro) 0,0032 para a agricultura e para a aquicultura, de (euro) 0,00002 para a produção de energia hidroelétrica, de (euro) 0,0027 para a produção de energia termoelétrica, de (euro) 0,015 para os sistemas de água de abastecimento público e de (euro) 0,014 para os demais casos.
 
 3 - Os coeficientes de escassez aplicáveis são os seguintes:
 

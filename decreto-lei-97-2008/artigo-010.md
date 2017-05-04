@@ -6,9 +6,9 @@
 
 2 - O valor anual de base da componente O é o seguinte:
 
-a) (euro) 0,002 para a produção de energia eléctrica e piscicultura com equipamentos localizados no mar e criação de planos de água, sem prejuízo do disposto na alínea f) do n.º 6;
+a) (euro) 0,002 para a produção de energia elétrica e piscicultura com equipamentos localizados no mar e criação de planos de água, sem prejuízo do disposto na alínea f) do n.º 7;
 
-b) (euro) 0,05 para a agricultura, piscicultura, aquacultura, marinhas, culturas biogenéticas, infra-estruturas e equipamentos de apoio à pesca tradicional, saneamento, abastecimento público de água e produção de energia eléctrica;
+b) (euro) 0,0525 para a agricultura, aquicultura, infraestruturas e equipamentos de apoio à pesca tradicional, saneamento, abastecimento público de água e produção de energia elétrica;
 
 c) Entre (euro) 1,50 e (euro) 2 para a indústria;
 
@@ -22,7 +22,7 @@ g) (euro) 1 para os demais casos.
 
 3 - O valor de base previsto na alínea b) do n.º 2 é reduzido para metade quando aplicável a explorações agrícolas, piscícolas, aquícolas, marinhas e culturas biogenéticas que ocupem área superior a um hectare e na parcela correspondente ao excesso.
 
-4 - O valor da componente de base a que se referem as alíneas c) a f) do número anterior corresponderá ao maior dos valores do intervalo nelas previsto, salvo quando as ARH, por meio de decisão a tomar até ao termo do mês de Novembro, fixem valores diferentes a aplicar ao ano subsequente.
+4 - O valor da componente de base a que se referem as alíneas c) a f) do n.º 2 corresponde ao maior dos valores do intervalo nelas previsto, salvo quando as ARH, por meio de decisão a tomar até ao termo do mês de novembro, fixem valores diferentes a aplicar ao ano subsequente.
 
 5 - O valor da componente de base a que se referem as alíneas e) e f) do n.º 2 é reduzido em 10 %, no caso de apoios de praia, devidamente licenciados, que suportem custos decorrentes da vigilância a banhistas.
 

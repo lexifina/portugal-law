@@ -6,11 +6,11 @@
 
 2 - Os valores de base da componente E são os seguintes:
 
-a) (euro) 0,30 por quilograma de matéria oxidável;
+a) (euro) 0,37 por quilograma de matéria oxidável;
 
-b) (euro) 0,13 por quilograma de azoto total;
+b) (euro) 0,17 por quilograma de azoto total;
 
-c) (euro) 0,16 por quilograma de fósforo total.
+c) (euro) 0,21 por quilograma de fósforo total.
 
 3 - A matéria oxidável apura-se pela aplicação da fórmula (CQO + 2 x CBO5)/3, onde CQO corresponde à carência química de oxigénio e CBO5 à carência bioquímica de oxigénio.
 
@@ -36,8 +36,8 @@ a) Descargas provenientes de habitações isoladas com soluções próprias de t
 
 b) Descargas provenientes de aglomerados urbanos com dimensão até 200 habitantes equivalente, desde que as respectivas águas residuais não contenham efluentes industriais não tratados.
 
-7 - O benefício a que se refere a alínea e) do número anterior vigora até 2020.
+7 - O benefício a que se refere a alínea e) do n.º 5 vigora até 2020.
 
 8 - A componente E é agravada em 20 %, no que respeita a descargas de efluentes em zonas hídricas vulneráveis ou sensíveis, de acordo com a classificação constante do plano de gestão de região hidrográfica aplicável à massa de água em que se efetuam.
 
-9 - A metodologia a utilizar para o cálculo da componente E para o sector da piscicultura, aquacultura e culturas biogenéticas é definida por despacho do membro do Governo responsável pela área do ambiente.
+9 - A metodologia a utilizar para o cálculo da componente E para o sector da aquicultura é definida por despacho do membro do Governo responsável pela área do ambiente.
