@@ -1,0 +1,5 @@
+Aviso n.º 45/2017
+Por ordem superior se torna público que, em 24 de fevereiro de 2017, a República Argentina procedeu ao depósito junto do Secretário-Geral da Conferência de Ministros de Justiça dos Países Ibero-Americanos, na qualidade de depositário, do respetivo instrumento de ratificação do Acordo sobre Extradição Simplificada entre a República Argentina, a República Federativa do Brasil, o Reino de Espanha e a República Portuguesa, assinado em Santiago de Compostela, em 3 de novembro de 2010.
+Nos termos do n.º 2 do seu artigo 13.º, o Acordo entrou em vigor, para a República Argentina, a 25 de fevereiro de 2017.
+Portugal é Parte do Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 15/2015 e ratificado pelo Decreto do Presidente da República n.º 14/2015, ambos publicados no Diário da República, 1.ª série, n.º 27, de 9 de fevereiro de 2015, tendo depositado o respetivo instrumento de ratificação em 15 de setembro de 2015, conforme Aviso n.º 18/2017, publicado no Diário da República, n.º 42, 1.ª série, de 28 de fevereiro de 2017.
+Direção-Geral de Política Externa, 27 de abril de 2017. - O Subdiretor-Geral, João Pedro Antunes.
