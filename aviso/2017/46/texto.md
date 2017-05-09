@@ -1,0 +1,5 @@
+Aviso n.º 46/2017
+Por ordem superior se torna público que, em 17 de novembro de 2014 e em 10 de março de 2017, foram recebidas notas, respetivamente no Ministério dos Negócios Estrangeiros da Etiópia e no Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridos por ambos os Estados os respetivos requisitos de direito interno de entrada em vigor da Convenção entre a República Portuguesa e a República Democrática Federal da Etiópia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Adis Abeba, a 25 de maio de 2013.
+A referida Convenção foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 96/2014 e ratificada pelo Decreto do Presidente da República n.º 104/2014, ambos publicados no Diário da República, 1.ª série, n.º 220, de 13 de novembro de 2014.
+Nos termos do seu artigo 29.º, a Convenção entrou em vigor em 9 de abril de 2017.
+Direção-Geral de Política Externa, 27 de abril de 2017. - O Subdiretor-Geral, João Pedro Antunes.
