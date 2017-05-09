@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13008",
+  "numero": "327",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-05-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-07-06",
+            "entidades": null,
+            "id": "105785",
+            "tipo": null,
+            "titulo": "Audição em 2017-07-06 com Peticionária da Petição n.º 327/XIII/2.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-06-09",
+            "dataResposta": "2017-06-26",
+            "entidades": [
+              "MIN.   DA  SAÚDE"
+            ],
+            "nrOficio": "94/CS/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-10-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-06-07",
+        "DataArquivo": "2017-10-04",
+        "DataBaixaComissao": "2017-05-30",
+        "DataEnvioPAR": "2017-10-04",
+        "DataReaberta": "2017-06-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-06-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e5451304e47466a5a5441745a4449345a6930304e325a6b4c54677a5a4445745a5463334d324d7a597a6731597a51354c6e426b5a673d3d&fich=5444ace0-d28f-47fd-83d1-e773c3c85c49.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d445530597a466a5a5441744d7a6c6a4f4330304d3249774c57466c4e546b744e7a686b4e7a6b775a444a6d4e4449314c6e426b5a673d3d&fich=054c1ce0-39c8-43b0-ae59-78d790d2f425.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-10-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876596a466c5a446c6c4d7a59744d57593259533030597a4e6c4c574a6a59574d7459546733597a526a4f4755314e444d354c6c424552673d3d&fich=b1ed9e36-1f6a-4c3e-bcac-a87c4c8e5439.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-06-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876593251344d6a68694d444d74597a646c5a4330304e5445344c574533597a4d744d3245784e574e6d4e6a566c4d6d4d794c6e426b5a673d3d&fich=cd828b03-c7ed-4518-a7c3-3a15cf65e2c2.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-06-07",
+            "gp": "PSD",
+            "id": "6138",
+            "motivoCessacao": null,
+            "nome": "Isaura Pedro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-05-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793968595745344d574d334e5330315a475a684c5451324d574974596a55334f4330784e7a6c6d4f5449794e325533596d4d756347526d&fich=aaa81c75-5dfa-461b-b578-179f9227e7bc.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13008",
+    "PetAssunto": "Solicitam a criação do Dia Nacional da Síndrome de Angelman.",
+    "PetDataEntrada": "2017-05-09",
+    "PeticoesAssociadas": null,
+    "PetId": "13008",
+    "PetLeg": "XIII",
+    "PetNr": "327",
+    "PetNrAssinaturas": "1027",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "799347",
+        "obs": null,
+        "pag": [
+          "8-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-09-13",
+        "pubLeg": "XIII",
+        "pubNr": "68",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/068/2017-09-13/8?pgs=8-9&org=PLC"
+      }
+    ]
+  }
+}
