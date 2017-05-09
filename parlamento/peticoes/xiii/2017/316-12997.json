@@ -1,0 +1,494 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "12997",
+  "numero": "316",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-05-09",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-04-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "865880",
+                "obs": null,
+                "pag": [
+                  "6-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-26",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/044/2019-04-26/6?pgs=6-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-29",
+        "DataArquivo": "2019-04-16",
+        "DataBaixaComissao": "2017-05-15",
+        "DataEnvioPAR": "2019-04-24",
+        "DataReaberta": "2018-05-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-06-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6a4d354e5755354e4455744e7a4177595330304e6a55324c574935596d4d745a6a466a597a457a4d575a695a475a6b4c6e426b5a673d3d&fich=6395e945-700a-4656-b9bc-f1cc131fbdfd.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-04-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e5749795a5456694e6a59744e7a51334d7930305a4445354c546c6a4e545574596a6c6b4f44466b4e575a6c5a44566b4c6e426b5a673d3d&fich=5b2e5b66-7473-4d19-9c55-b9d81d5fed5d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-29",
+            "gp": "PSD",
+            "id": "5491",
+            "motivoCessacao": null,
+            "nome": "Susana Lamas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-05-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b59575a6a4e4749775979316c4d54526a4c5451774e7a67744f5442684e79316b4d5445794d5752684e474e6a4e6a41756347526d&fich=dafc4b0c-e14c-4078-90a7-d1121da4cc60.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44128",
+      "44135",
+      "44148",
+      "44170",
+      "44128"
+    ],
+    "Iniciativasoriginadas": [
+      "44128",
+      "44135",
+      "44148",
+      "44170"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:01:17:505&drc=00:05:32:899"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:06:50:404&drc=00:03:26:610"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:10:17:015&drc=00:04:19:414"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:14:36:429&drc=00:02:56:449"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:17:32:878&drc=00:03:08:474"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=03:20:41:352&drc=00:02:41:131"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Alarga a proteção na parentalidade aos progenitores com filhos com deficiência, doença rara ou doença oncológica e determina o pagamento a 100% do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica; Reforço de direitos e condições de acompanhamento a filho com doença crónica, oncológica ou resultante de acidente; Reforça a protecção social e laboral dos pais num quadro de assistência do filho com doença oncológica; Acresce em 60 dias o período de licença parental inicial, em caso de nascimento de criança com deficiência ou doença rara e aumenta o montante do subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica, procedendo à 15.ª alteração à Lei n.º 7/2009, de 12 de fevereiro (Código do Trabalho), à 7.ª alteração ao Decreto-Lei Nº 91/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade) e à 4.º alteração Decreto-Lei Nº 89/2009, de 9 de Abril (Regime Jurídico de Proteção Social na Parentalidade dos Trabalhadores da Função Pública Integrados no Regime de Proteção Social Convergente)",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "12997",
+    "PetAssunto": "Solicitam a criação de legislação que colmate a falta de apoio financeiro e os direitos dos pais de crianças/jovens com cancro.",
+    "PetDataEntrada": "2017-05-09",
+    "PeticoesAssociadas": null,
+    "PetId": "12997",
+    "PetLeg": "XIII",
+    "PetNr": "316",
+    "PetNrAssinaturas": "29720",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2636",
+        "obs": null,
+        "pag": [
+          "49-54"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-12-20",
+        "pubLeg": "XIV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/49?pgs=49-54&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "865878",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-04-18",
+        "pubLeg": "XIII",
+        "pubNr": "43",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/043/2019-04-18/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
