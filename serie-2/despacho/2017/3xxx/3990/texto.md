@@ -1,0 +1,7 @@
+Despacho n.º 3990/2017
+O Aproveitamento Hidroagrícola de Veiros, adiante designado abreviadamente por Aproveitamento, é uma obra de aproveitamento de águas do domínio público para o regadio dos prédios ou parcelas de prédios na área beneficiada e descritos no respetivo cadastro, através de estruturas de armazenamento, captação, elevação e distribuição de água para rega.
+O Aproveitamento situa-se a nordeste de Veiros, entre o concelho de Estremoz, distrito de Évora, e o concelho de Monforte, distrito de Portalegre, com uma área beneficiada de 1058 hectares, correspondente a uma área dominada de 1114 hectares.
+Poderá assegurar o fornecimento de água para atividades não agrícolas, desde que devidamente licenciadas.
+Assim, no exercício das competências delegadas pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, nos termos e para os efeitos da subalínea i), alínea a) do n.º 5 do Despacho n.º 2243/2016, publicado na 2.ª série, n.º 30, de 12 de fevereiro, e ao abrigo do disposto no n.º 1 e 2 do artigo 20.º do Decreto-Lei n.º 269/82, de 10 de julho, na redação introduzida pelo Decreto-Lei n.º 86/2002, de 6 de abril, aprovo o Regulamento Definitivo do Aproveitamento Hidroagrícola de Veiros, e anexos correspondentes, cuja publicitação será efetuada no sítio da DGADR.
+27 de março de 2017. - O Secretário de Estado das Florestas e do Desenvolvimento Rural, Amândio José de Oliveira Torres.
+310439348
