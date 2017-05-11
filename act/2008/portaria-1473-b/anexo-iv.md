@@ -22,7 +22,7 @@ As taxas devidas pela utilização de frequências, nos termos do n.º 3 do arti
 
 (ver documento original)
 
-1.2.3 - Serviço móvel terrestre - sistema de comunicações ferroviárias (GSM-R): taxa aplicável por 'área de serviço' e por megahertz:
+1.2.3 - Serviço móvel terrestre - Sistema de comunicações ferroviárias (GSM-R): taxa aplicável por 'área de serviço' e por megahertz:
 
 (ver documento original)
 
@@ -32,7 +32,7 @@ A é a área de serviço, em quilómetros quadrados, calculada pela seguinte exp
 
 A = L*10
 
-em que:
+Em que:
 
 L representa o comprimento (extensão) em quilómetros da rede ferroviária nacional, atualmente com 2600 km;
 
@@ -40,9 +40,9 @@ L representa o comprimento (extensão) em quilómetros da rede ferroviária naci
 
 S representa a área do território nacional: 92 002 km2;
 
-Fr representa a taxa de referência por megahertz ((euro) 82 000/MHz).
+Fr representa a taxa de referência por megahertz ((euro) 90 800/MHz).
 
-Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50% nos primeiros três anos de vigência da licença radioelétrica.
+Na atribuição de espectro para o estabelecimento de novas redes de radiocomunicações, o valor da taxa aplicável tem uma redução de 50 % nos primeiros três anos de vigência da licença radioelétrica.
 
 1.2.4 - Serviço móvel terrestre - redes privativas:
 
@@ -100,29 +100,25 @@ Caso as frequências sejam atribuídas em parte do território nacional, o valor
 
 1.4 - Taxas referentes à utilização de frequências para o serviço fixo:
 
-1.4.1 - Serviço Fixo - Ligações ponto-ponto e ponto-multiponto a operar em faixas de frequências iguais ou superiores a 1 GHz (exceto FWA)
+1.4.1 - Serviço fixo - Ligações ponto-ponto e ponto-multiponto a operar em faixas de frequências iguais ou superiores a 1 GHz (exceto FWA):
 
 Taxa aplicável por ligação hertziana bidirecional e por canal consignado:
 
 (ver documento original)
 
+Sendo que L é o valor da distância da ligação hertziana em quilómetros (valor arredondado a três casas decimais).
+
 As ligações ponto-multiponto são constituídas por um conjunto de ligações ponto-ponto. Neste caso particular, a taxa a aplicar resultará do somatório das taxas calculadas para cada uma das ligações ponto-ponto.
 
-Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, será objeto de uma redução de 50% sobre o valor da taxa aplicável.
+Uma segunda ligação hertziana, cocanal, no mesmo trajeto e com recurso a polarização cruzada, será objeto de uma redução de 50 % sobre o valor da taxa aplicável.
 
-As ligações hertzianas unidirecionais serão objeto de uma redução de 25% sobre o valor da taxa aplicável às ligações bidirecionais.
+As ligações hertzianas unidirecionais serão objeto de uma redução de 25 % sobre o valor da taxa aplicável às ligações bidirecionais.
 
-É fixado em (euro) 50 o valor mínimo da taxa de utilização aplicável por ligação e por canal consignado.
+É fixado em (euro)50 o valor mínimo da taxa de utilização aplicável por ligação e por canal consignado.
 
 1.4.2 - Serviço fixo - ligações ponto-ponto e ponto-multiponto de utilização ocasional e a operarem em faixas de frequências iguais ou superiores a 1 GHz:
 
 Taxa aplicável por rede e por canal consignado:
-
-(ver documento original)
-
-1.4.3 - Serviço fixo - ligações ponto-ponto a operarem em faixas de frequências inferiores a 1 GHz:
-
-Taxa aplicável por ligação hertziana e por canal consignado
 
 (ver documento original)
 
