@@ -1,0 +1,7 @@
+Aviso n.º 5247/2017
+Regulamento Municipal de Incentivo à Produção da Feijoca - Proposta de 3.ª Alteração
+Paulo Jorge Ribeiro Estrela, Vereador da Câmara Municipal de Manteigas, faz saber que o início do presente procedimento regulamentar foi objeto de publicitação através da afixação nos locais de estilo do Edital n.º 2017/100.10.400/6 e divulgação no sítio institucional do Município de Manteigas, por forma a permitir a participação procedimental de eventuais interessados, fixando-se um prazo de dez dias para o efeito, conforme determina o n.º 1 do artigo 98.º do Código de Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, não se tendo constituído quaisquer interessados no prazo estipulado.
+Neste contexto, torna público que, nos termos do disposto nos artigos 100.º e 101.º, n.º1 do CPA, se submete a consulta pública, pelo prazo de trinta (30) dias úteis, contados do dia seguinte ao da publicação do presente Aviso, a proposta de 3.ª Alteração ao Regulamento Municipal de Incentivo à Produção da Feijoca, cujo texto se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em www.cm-manteigas.pt.
+Os interessados podem endereçar as suas sugestões por escrito para a Câmara Municipal de Manteigas, rua 1.º de Maio, 6260-101 Manteigas, dentro do prazo referido.
+13 de abril de 2017. - O Vereador da Câmara Municipal, Paulo Jorge Ribeiro Estrela.
+310432843
