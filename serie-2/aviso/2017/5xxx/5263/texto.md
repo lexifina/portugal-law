@@ -1,0 +1,58 @@
+Aviso n.º 5263/2017
+José Maria da Cunha Costa, Presidente da Câmara Municipal de Viana do Castelo, torna público que, sob prévia proposta da Câmara Municipal, formulada em sua reunião de 16 de março findo, a Assembleia Municipal aprovou, na sua sessão ordinária realizada em 3 do mês de abril de 2017, as seguintes alterações ao:
+"Regulamento Municipal que aprova as condições de venda de lotes de terreno da Zona Industrial de Viana do Castelo (I e II Fases), Alvarães, Chafé e São Romão do Neiva"
+[...]
+Artigo Quarto
+...
+§ Segundo - À Câmara Municipal é reconhecido o direito de preferência, devendo para este efeito o requerente da alienação a que se refere o corpo deste artigo indicar, no respetivo requerimento, a pessoa a quem se pretende transmitir. A Câmara Municipal exercerá o seu direito de preferência na própria deliberação que porventura autorize a requerida alienação ou nos trinta dias subsequentes à notificação daquela mesma deliberação. A condição de preferência resultará da aplicação da tabela de depreciação da moeda aprovado pelo Ministério das Finanças, acrescida do valor das mais-valias entretanto edificadas (valor a determinar por perito oficial da lista do Ministério da Justiça).
+...
+Artigo Nono
+1 - ...
+c) Fica prejudicado o cumprimento das disposições anteriores, liquidação da compensação, caso a alienação do imóvel seja efetuada a favor de uma sociedade de vocação industrial ou logística, devendo, todavia, as obrigações estabelecidas no presente regulamento ser transmitidas para a subadquirente, através da inclusão de todas as cláusulas no respetivo contrato de alienação, ficando responsável pelo pagamento da compensação referida, caso não dê cumprimento à descrita obrigação.
+2 - ...»
+Mais foi deliberado proceder à republicação do referido Regulamento, nos termos que se passam a indicar
+«Regulamento Municipal que aprova as condições de venda de lotes de terreno da Zona Industrial de Viana do Castelo (I e II Fases), Alvarães, Chafé e São Romão do Neiva»
+A competitividade do território resulta dos elementos ativos imateriais ligados às competências e à qualidade das organizações e atores, devendo, ainda, incorporar nas suas decisões as características de contexto e localização territorial, pelo que, a existência de políticas impulsionadoras de desenvolvimento são fatores de exponencial e global diferenciação.
+A existência de diferentes sistemas de incentivos e dos elementos a eles associados, nomeadamente no quadro das políticas económicas direcionadas às empresas e ao investimento, redefinem e alavancam a competitividade de uma cidade, bem como do seu território rural, a qual terá que resultar de uma lógica estratégica que garanta a sustentabilidade territorial do concelho.
+O objeto do Plano Estratégico revisto e aprovado em 2012, na sequência de um novo processo de planeamento municipal, resultou da continuidade de um conjunto, sequencial e articulado, de fases e de métodos de trabalho que visaram dotar a Autarquia de um instrumento de política, de gestão territorial, de inovação, de acolhimento empresarial e de marketing territorial. Estabeleceram-se um conjunto de vetores estratégicos de intervenção, particularmente nos setores dos clusters e fileiras estratégicas e outros setores económicos, que fazem com que Viana do Castelo seja hoje um território competitivo e diferenciador, destacando-se os clusters das energias renováveis e dos componentes automóveis e a das fileiras económicas do mar, metalomecânica, da madeira, do papel, da agricultura praticada em espaços fechados e dos produtos de base regional.
+Formularam-se um conjunto de domínios associados aos recursos e às problemáticas estruturantes no processo de desenvolvimento futuro do concelho e que articulam no seu seio diferentes dimensões de natureza económica, social, territorial, ambiental, cultural e institucional.
+Encontrados os objetivos estratégicos, disponibilizaram-se as ferramentas para a dimensão económica de cada setor que, perante um tecido económico significativamente diverso, pretendem posicionar-se numa lógica de complementaridades potenciadoras de relações de cooperação e de sinergias que contribuam para a afirmação da posição de Viana do Castelo no Cluster do Conhecimento e da Economia do Mar, bem como da promoção do desenvolvimento integrado e sustentado de todas as suas demais fileiras.
+Em sequência do descrito anteriormente, e numa tentativa de responder ao novos desafios, o Regulamento Municipal que aprova as condições de Venda de lotes de terreno da Zona Industrial de Viana do Castelo (I e II Fases), Alvarães, Chafé e São Romão do Neiva foi registando continuos ajustamento, 21 de outubro de 1978, 27 de junho de 1986, 6 de setembro de 1994 e 7 de abril de 2004, terminando com o presente e que lhe confere a seguinte redação:
+Artigo Primeiro
+A Câmara Municipal de Viana do Castelo fica autorizada a proceder à venda direta, em propriedade plena, mas condicionada, nos termos dos artigos seguintes, dos lotes de terreno da Zona Industrial - I e II Fases, ao preço de 2.000$00 (euro) 9,98)/m2.
+Artigo Segundo
+A área de cada lote será, na medida do possível, a que for pretendida pelos respetivos interessados, que devem entretanto justificar a área pretendida, em vista das necessidades correspondentes à unidade industrial a instalar de imediato e, também, tendo presente as exigências futuras.
+Artigo Terceiro
+Quanto ao tratamento dos resíduos industriais poluentes e dada a gama de necessidades decorrentes dos diversos tipos de indústrias a instalar, ficará a cargo de cada um dos utentes, sob fiscalização desta Câmara Municipal, a instalação dos dispositivos necessários em cada caso.
+Artigo Quarto
+O proprietário de qualquer lote de terreno da Zona Industrial do concelho de Viana do Castelo - I e II Fases, não o poderá alienar por qualquer título, salvo se para tanto obtiver prévia autorização da Câmara Municipal, a qual deverá ser requerida por aquele, justificando devidamente a pretensão.
+§ Primeiro - O disposto no corpo deste artigo não se aplica à sucessão "mortis causa".
+§ Segundo - À Câmara Municipal é reconhecido o direito de preferência, devendo para este efeito o requerente da alienação a que se refere o corpo deste artigo indicar, no respetivo requerimento, a pessoa a quem se pretende transmitir. A Câmara Municipal exercerá o seu direito de preferência na própria deliberação que porventura autorize a requerida alienação ou nos trinta dias subsequentes à notificação daquela mesma deliberação. A condição de preferência resultará da aplicação da tabela de depreciação da moeda aprovado pelo Ministério das Finanças, acrescida do valor das mais-valias entretanto edificadas (valor a determinar por perito oficial da lista do Ministério da Justiça).
+§ Terceiro - Todos os ónus ou encargos e quaisquer condições ou obrigações impostas pela Câmara Municipal aos proprietários dos lotes, decorrentes do disposto nas presentes condições de venda, transmitem-se com as correspondentes consequências aos subsequentes adquirentes desses lotes, qualquer que seja o modo, originário ou derivado, da aquisição, para o que tais ónus, encargos ou obrigações terão de ser obrigatoriamente inscritos no Registo Predial.
+Artigo Quinto
+O disposto nas presentes condições de venda não prejudica a constituição de hipoteca sobre o lote, a favor de qualquer instituição de crédito oficialmente reconhecida, para garantia de qualquer empréstimo nela contraído pelo seu proprietário para a realização do fim a que o mesmo lote se destina, sendo, porém, intransmissível o crédito resultante de tal empréstimo.
+Artigo Sexto
+Os lotes de terreno são vendidos expressamente para a instalação de determinada unidade industrial, cujo projeto de construção civil deverá ser previamente aprovado pela Câmara.
+§ Primeiro - Poderá ser autorizada a instalação de unidade industrial diferente da que inicialmente tiver sido prevista, desde que tal seja requerido e os motivos aduzidos sejam de molde a justificar a respetiva alteração.
+§ Segundo - O não cumprimento destas condições implicará a reversão dos referidos terrenos e benfeitorias neles existentes para a Câmara Municipal.
+Artigo Sétimo
+Os lotes de terreno adquiridos pelas empresas interessadas, bem como as instalações e benfeitorias já implantadas reverterão integralmente para a Câmara Municipal, respetivamente:
+a) Quando a licença de construção não for requerido no prazo legal;
+b) Quando a construção não se iniciar no prazo que para este efeito for fixado pela Câmara Municipal e que não poderá exceder o de 12 meses após o licenciamento pela autarquia;
+c) Quando por motivo não devidamente fundamentado a construção se encontrar parada por período superior a seis meses, sem contudo poder exceder duas paragens;
+d) Quando, depois de inteiramente montada, a laboração não se iniciar dentro de três meses;
+e) Quando a laboração se suspender por período superior a 3 meses, sem contudo a soma dos períodos de suspensão poder ultrapassar os 6 meses, em cada ano.
+§ Único - Os prazos referidos no presente artigo podem ser prorrogados por deliberação municipal face a pedido devidamente fundamentado.
+Artigo Oitavo
+1 - O preço por metro quadrado fixado no artigo primeiro será atualizado anualmente, a partir do início de cada ano civil, de acordo com o valor da taxa de inflação (índice de preços no consumidor com habitação) publicado pelo INE, relativamente ao ano anterior.
+2 - Em tudo o mais que as presentes condições de venda forem omissas, será resolvido pela Câmara Municipal.
+Artigo Nono
+1 - As empresas que hajam adquirido os lotes de terreno com subordinação ao regime aqui estabelecido, podem requerer à Câmara Municipal a expurgação das condições a que ficou sujeita a respetiva propriedade, devendo, em caso de deferimento, efetuar o pagamento, a título de compensação à Câmara Municipal pela extinção das condições de que a mesma é beneficiária e titular ativa, das seguintes importâncias:
+a) Relativamente aos contratos celebrados em data anterior à entrada em vigor do novo regime de venda aprovado pela Assembleia Municipal em 24 de setembro de 1990, o montante será igual à diferença entre o preço global efetivamente pago, atualizado pela intervenção dos coeficientes de desvalorização da moeda oficialmente aprovadas, e o preço devido no momento da realização do ato de desoneração do prédio segundo o valor fixado para a propriedade não condicionada;
+b) Relativamente aos contratos celebrados em data posterior à referida na alínea anterior, o montante será igual à diferença entre o preço global que seria devido, no momento atual, em idêntico regime de aquisição, e o preço global que seria devido, em igual momento, em regime de propriedade não condicionada;
+c) Fica prejudicado o cumprimento das disposições anteriores, liquidação da compensação, caso a alienação do imóvel seja efetuada a favor de uma sociedade de vocação industrial ou logística, devendo, todavia, as obrigações estabelecidas no presente regulamento ser transmitidas para a subadquirente, através da inclusão de todas as cláusulas no respetivo contrato de alienação, ficando responsável pelo pagamento da compensação referida, caso não dê cumprimento à descrita obrigação.
+2 - A expurgação das condições da venda dos prédios correspondentes aos lotes será objeto de escritura pública pela qual é alterado, para futuro, o respetivo estatuto real.
+Artigo Décimo
+São abolidas as condições de venda aprovadas para as I e II Fases da Zona Industrial, pelas deliberações da Assembleia Municipal de 21 de outubro de 1978 e de 27 de junho de 1986, respetivamente, subsequentemente alteradas.
+19 de abril de 2017. - O Presidente da Câmara, José Maria Costa.
+310440279
