@@ -1,0 +1,149 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "340",
+    "id": "40761",
+    "titulo": "Altera o Estatuto dos Militares das Forças Armadas (EMFAR)"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2017-05-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "40183",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2017-06-21",
+            "id": "105652",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-06-21",
+            "id": "105651",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2017-06-21",
+            "id": "105650",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-05-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-05-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-12-19",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da nova apreciação na generalidade  em Comissão e Propostas de alteração PJL 340",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3251355a575a694d4751744d446b784d43303059544d7a4c546b304f5751745a6a4d31597a4e6a4d7a6c6b4e44426b4c6e426b5a673d3d&fich=7d9efb0d-0910-4a33-949d-f35c3c39d40d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-12-19",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição do PJL n.º 340-XIII-2.ª (PCP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57466a4d3252694f5759744d5463324e6930304e7a517a4c54686c4e3245744d32457a4f4467324f474530596a686b4c6e426b5a673d3d&fich=5ac3db9f-1766-4743-8e7a-3a38868a4b8d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4526",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "4526",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação, texto de substituição e propostas de alteração apresentadas pelo PS",
+            "pag": [
+              "2-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-12-19",
+            "pubLeg": "XIII",
+            "pubNr": "43",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/043/2017-12-19/2?pgs=2-21&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação, texto de substituição e propostas de alteração apresentadas pelo PS",
+            "pag": [
+              "2-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-12-19",
+            "pubLeg": "XIII",
+            "pubNr": "43",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/043/2017-12-19/2?pgs=2-21&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2017-05-11",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "326048",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
