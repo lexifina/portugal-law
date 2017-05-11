@@ -1,0 +1,618 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13001",
+  "numero": "320",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-05-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-05-15",
+            "entidades": null,
+            "id": "112452",
+            "tipo": null,
+            "titulo": "Audição em 2019-05-15 com Serviços Municipalizados de Transportes de Coimbra"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-01-23",
+            "dataResposta": "2018-04-16",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "6/CTSS/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-23",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO PLANEAMENTO E DAS INFRAESTRUTURAS"
+            ],
+            "nrOficio": "6/CTSS/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": null,
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "871716",
+                "obs": null,
+                "pag": [
+                  "5-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-13",
+                "pubLeg": "XIII",
+                "pubNr": "59",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/059/2019-07-13/5?pgs=5-9&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-11-29",
+        "DataArquivo": "2019-07-10",
+        "DataBaixaComissao": "2017-05-15",
+        "DataEnvioPAR": "2019-07-11",
+        "DataReaberta": "2017-11-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-02-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e5749794f5468694e5751744f4445775a6930305a6d51334c5468694e574974596a6c6b5a6a6869596a59324e5455314c6e426b5a673d3d&fich=5b298b5d-810f-4fd7-8b5b-b9df8bb66555.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876595445794d32466a5a4463744d4751355a69303059574a6d4c57466a4f5449744d4459324f44426c597a51304d5749314c6e426b5a673d3d&fich=a123acd7-0d9f-4abf-ac92-06680ec441b5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a6d5535597a4d324e6d4574596a426c597930304e32566c4c574a6a5a4759744f4455304e5749355a6a526a4d4755784c6e426b5a673d3d&fich=fe9c366a-b0ec-47ee-bcdf-8545b9f4c0e1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d5468695a575577596d59744e3251325a4330304d5749774c5749354d4745744d544d784e4745334f474d794d54457a4c6e426b5a673d3d&fich=18bee0bf-7d6d-41b0-b90a-1314a78c2113.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a44526b4d444932596d59744e6a637a4d6930305a54526c4c546c6b4e4449744e7a41325a574e6a5a475a695a6d466c4c6e426b5a673d3d&fich=d4d026bf-6732-4e4e-9d42-706eccdfbfae.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659325a694f47566d593249744d6a49324d5330304e32466b4c5749324f5451744d444d31593256684d7a6b304d7a466a4c6c424552673d3d&fich=cfb8efcb-2261-47ad-b694-035cea39431c.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-05-10",
+            "gp": "PSD",
+            "id": "3966",
+            "motivoCessacao": null,
+            "nome": "Álvaro Batista"
+          },
+          {
+            "dataCessacao": "2019-05-10",
+            "dataNomeacao": "2017-11-29",
+            "gp": "PSD",
+            "id": "5749",
+            "motivoCessacao": null,
+            "nome": "Sandra Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-03-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-05-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794e444a69595455784d7930354d47466c4c54526c4d7a59744f475a6c595331694e7a4931597a51324e6a55344e5745756347526d&fich=242ba513-90ae-4e36-8fea-b725c466585a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44385",
+      "44441"
+    ],
+    "Iniciativasoriginadas": [
+      "44385",
+      "44441"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:46:53:661&drc=00:02:53:618"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:49:47:279&drc=00:03:39:216"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:53:26:495&drc=00:03:09:082"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:56:35:578&drc=00:03:38:246"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:00:13:824&drc=00:02:14:833"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:02:28:658&drc=00:03:27:337"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_13_09_30_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:05:55:995&drc=00:01:22:975"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a criação da carreira especial de agente único de transportes coletivos; Recomenda ao Governo a criação da Carreira de Agente Único de Transportes Coletivos",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13001",
+    "PetAssunto": "Solicitam a criação da categoria profissional de Agente Único de Transportes.",
+    "PetDataEntrada": "2017-05-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13001",
+    "PetLeg": "XIII",
+    "PetNr": "320",
+    "PetNrAssinaturas": "4130",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2676",
+        "obs": null,
+        "pag": [
+          "43-48"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-03-14",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/041/2020-03-14/43?pgs=43-48&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807951",
+        "obs": null,
+        "pag": [
+          "2-3"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-04",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/012/2017-12-04/2?pgs=2-3&org=PLC"
+      }
+    ]
+  }
+}
