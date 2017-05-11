@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "209010",
+  "tipo": "Intervenção",
+  "orador": "Telmo Correia (CDS-PP)",
+  "data_registo": "2017-05-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "325923",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41257",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Estabelece medidas de combate ao branqueamento de capitais e ao financiamento do terrorismo, transpondo a Diretiva (UE) n.º 2015/849 e executando o Regulamento (UE) n.º 2015/847."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Proposta de lei n.º 72/XIII (2.ª) — Estabelece medidas de combate ao branqueamento de capitais e ao financiamento do terrorismo, transpondo a Diretiva (UE) 2015/849 e executando o Regulamento (UE) 2015/847.",
+        "duracao": "00:03:48:943",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_05_11_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m05/&tI=01:04:57:056&drc=00:03:48:943"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-05-11",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1655",
+      "nome": "Telmo Correia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "209010",
+    "IdDebate": "12073",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "41257",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "209010",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "19-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-12",
+        "pubLeg": "XIII",
+        "pubNr": "87",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/087/2017-05-12/19?pgs=19-20&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Estabelece medidas de combate ao branqueamento de capitais e ao financiamento do terrorismo, transpondo a Diretiva (UE) n.º 2015/849 e executando o Regulamento (UE) n.º 2015/847.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
