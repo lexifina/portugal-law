@@ -1,0 +1,6 @@
+Aviso n.º 49/2017
+Por ordem superior se torna público que a República Portuguesa depositou junto do Secretário-Geral das Nações Unidas, a 11 de abril de 2017, o seu instrumento de ratificação à alteração ao artigo 8.º e outras alterações ao Estatuto de Roma do Tribunal Penal Internacional relativas ao crime de agressão, adotadas na Conferência de Revisão em Kampala, de 31 de maio a 11 de junho de 2010.
+As alterações entrarão em vigor para Portugal a 11 de abril de 2018, em conformidade com o n.º 5 do artigo 121.º do Estatuto de Roma, segundo o qual:
+«Quaisquer alterações aos artigos 5.º, 6.º, 7.º e 8.º do presente Estatuto entrarão em vigor para todos os Estados Partes que as tenham aceitado, um ano após o depósito dos seus instrumentos de ratificação ou de aceitação.»
+A alteração ao artigo 8.º e outras alterações ao Estatuto de Roma do Tribunal Penal Internacional relativas ao crime de agressão, adotadas na Conferência de Revisão em Kampala, de 31 de maio a 11 de junho de 2010, foram aprovadas pela Resolução da Assembleia da República n.º 31/2017, e ratificadas pelo Decreto do Presidente da República n.º 21/2017, publicados no Diário da República, 1.ª série, n.º 36, de 20 de fevereiro de 2017.
+Secretaria-Geral, 3 de maio de 2017. - A Secretária-Geral, Ana Martinho.
