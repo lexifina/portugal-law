@@ -16,8 +16,8 @@ e) Regras éticas e deontológicas a observar no exercício de funções de admi
 
 f) Prática da atividade de administrador judicial.
 
-2 - A data de realização do exame é publicada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, com um mínimo de quatro meses de antecedência sobre a sua realização e de 30 dias de antecedência face ao início do estágio.
+2 - A data de realização do exame é publicada no Portal Citius, com um mínimo de quatro meses de antecedência sobre a sua realização e de 30 dias de antecedência face ao início do estágio.
 
 3 - Considera-se aprovação no exame de admissão a obtenção de uma classificação igual ou superior a 10 valores, numa escala de 0 a 20 valores.
 
-4 - Os resultados do exame e a lista de classificação dos candidatos a administrador judicial são publicados na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, no prazo de 10 dias após a realização do exame.
+4 - Os resultados do exame e a lista de classificação dos candidatos a administrador judicial são publicados no Portal Citius, no prazo de 10 dias após a realização do exame.

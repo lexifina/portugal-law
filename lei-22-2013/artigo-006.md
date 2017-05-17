@@ -8,6 +8,6 @@
 
 3 - A manutenção e atualização das listas oficiais de administradores judiciais, bem como a sua colocação à disposição dos tribunais, preferencialmente por meios eletrónicos, cabem à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.
 
-4 - As listas oficiais de administradores judiciais são públicas e disponibilizadas de forma permanente na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+4 - As listas oficiais de administradores judiciais são públicas e disponibilizadas de forma permanente no Portal Citius.
 
 5 - A inscrição nas listas oficiais não investe os inscritos na qualidade de agente nem garante o pagamento de qualquer remuneração fixa por parte do Estado.

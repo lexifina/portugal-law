@@ -8,7 +8,7 @@ a) Suspender preventivamente o administrador judicial contra o qual tenha sido i
 
 b) Admoestar, por escrito, o administrador judicial que tenha violado de forma leve os deveres profissionais a que está adstrito nos termos dos presentes estatutos e da lei;
 
-c) (Revogado).
+c) Instaurar processo de contraordenação, aplicando-se, neste caso, as sanções mencionadas no artigo seguinte.
 
 2 - A aplicação de qualquer das sanções previstas no número anterior é sempre precedida de audiência do interessado.
 
