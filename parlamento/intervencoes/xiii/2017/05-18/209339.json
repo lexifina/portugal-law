@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "209339",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Álvaro Castello-branco (CDS-PP)",
+  "data_registo": "2017-05-18",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "31463",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "31463",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Em relação à central nuclear de Almaraz, falou dos perigos que o prolongamento da vida útil da central, com a construção do armazém de resíduos, pode trazer para Portugal."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pede esclarecimento a Berta Cabral acerca da sua declaração sobre os perigos que o prolongamento da vida útil da central nuclear de Almaraz, com a construção do armazém de resíduos, pode trazer para Portugal.",
+        "duracao": "00:02:19:181",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_05_18_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m05/&tI=01:29:43:818&drc=00:02:19:181"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-05-18",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1290",
+      "nome": "Álvaro Castello-branco"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "209339",
+    "IdDebate": "5187",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "209339",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "27-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-19",
+        "pubLeg": "XIII",
+        "pubNr": "89",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/089/2017-05-19/27?pgs=27-28&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "À Deputada Berta Cabral (PSD)",
+    "Sessao": "2",
+    "Sumario": "Em relação à central nuclear de Almaraz, falou dos perigos que o prolongamento da vida útil da central, com a construção do armazém de resíduos, pode trazer para Portugal.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
