@@ -1,0 +1,12 @@
+Aviso n.º 5559/2017
+Elaboração do Plano de Pormenor do Aglomerado de Cunheira
+Joviano Martins Vitorino, Presidente da Câmara Municipal de Alter do Chão, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 76.º e do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, que, a Câmara Municipal, na sua reunião pública ordinária de 6 de março de 2017, deliberou proceder à elaboração do Plano de Pormenor do Aglomerado de Cunheira e fixar em 365 dias o prazo para elaboração do mesmo, cujos termos de referência e metodologia foram aprovados na mesma reunião. Foi também deliberada a não sujeição do Plano a Avaliação Ambiental, nos termos e com os fundamentos constantes nos termos de referência.
+Foi ainda deliberado proceder-se ao período de participação pública, por um prazo de 15 (quinze) dias úteis, contados a partir do primeiro dia útil seguinte à data da publicação do presente Aviso no Diário da República, durante o qual os interessados poderão formular observações e sugestões, apresentarem ou obterem informações ou esclarecimentos, sobre quaisquer questões que entendam ser consideradas no âmbito da elaboração do Plano de Pormenor do Aglomerado de Cunheira.
+As sugestões e outras informações atrás referidas deverão ser apresentadas por escrito, endereçadas à Unidade Orgânica Flexível de Obras, Urbanismo e Serviços Urbanos, da Câmara Municipal de Alter do Chão, sita no Largo do Município, n.º 2, 7440-026 Alter do Chão, ou para o seguinte e-mail: geral@cm-alter-chao.pt.
+Para os devidos efeitos se publica o presente aviso no Diário da República, sendo também publicado na comunicação social e na página da Internet da Câmara Municipal de Alter do Chão.
+10 de abril de 2017. - O Presidente da Câmara, Joviano Martins Vitorino.
+Deliberação
+Joviano Martins Vitorino, Presidente da Câmara Municipal de Alter do Chão, certifica, para os devidos efeitos, que a Câmara Municipal de Alter do Chão, reunida em seis de março de dois mil e dezassete, deliberou por unanimidade, iniciar o procedimento de elaboração do Plano de Pormenor do Aglomerado de Cunheira, nos termos da informação n.º 87, de 22 de fevereiro de 2017 da Unidade Orgânica Flexível de Obras, Urbanismo e Serviços Urbanos.
+Por ser verdade, passo a presente certidão que assino e autentico com o selo branco em uso neste Município.
+10 de abril de 2017. - O Presidente da Câmara, Joviano Martins Vitorino.
+610456463
