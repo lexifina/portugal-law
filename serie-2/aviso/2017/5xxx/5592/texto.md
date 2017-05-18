@@ -1,0 +1,15 @@
+Aviso n.º 5592/2017
+Revisão do Plano Diretor Municipal de Soure
+Mário Jorge da Costa Rodrigues Nunes, Presidente da Câmara Municipal de Soure, torna público, para efeitos do disposto no n.º 1 do artigo 76.º e da alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015 de 14 de maio que aprova o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), que a Câmara Municipal, na sua Reunião Ordinária Pública de 05 de abril de 2017, deliberou, por unanimidade, desencadear o processo de revisão do Plano Diretor Municipal de Soure. Foi fixado o prazo de 36 meses para a revisão do Plano e estabelecido, nos termos do previsto no n.º 2 do artigo 88.º do referido diploma legal, um período de 30 dias, contados da data da publicação do presente aviso, para formulação de sugestões e apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento.
+Durante esse período, qualquer interessado, poderá apresentar por escrito, as suas sugestões, dirigidas ao Presidente da Câmara Municipal de Soure, por via postal, presencialmente ou através do e-mail: pdm@cm-soure.pt. O processo encontra-se disponível para consulta na Divisão de Gestão Urbanística e Planeamento, nas horas normais de expediente, e em www.cm-soure.pt.
+26 de abril de 2017. - O Presidente da Câmara, Mário Jorge da Costa Rodrigues Nunes.
+Deliberação
+Mário Jorge da Costa Rodrigues Nunes, Presidente da Câmara Municipal de Soure, certifica, que a Câmara Municipal de Soure, na sua Reunião Ordinária Pública realizada no dia 05 de abril de 2017, aprovou por unanimidade:
+1 - Desencadear a revisão do PDM nos termos previstos no n.º 1 do artigo 76.º do RJIGT;
+2 - Definir um prazo de 36 meses para a revisão do PDM, nos termos da mesma disposição legal;
+3 - Abrir um período para a formulação de sugestões e para a apresentação de informações, sobre quaisquer questões que possam ser consideradas, tal como previsto no n.º 2 do artigo 88.º do RJIGT e que decorrerá nos 30 dias seguintes à publicação do aviso no Diário da República. Durante o período indicado, os interessados poderão dirigir-se ou contactar, durante as horas de expediente, a Divisão de Gestão Urbanística da Câmara Municipal de Soure, para obter qualquer informação a este respeito, e apresentar as sugestões, mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores;
+4 - Determinar a publicação no Diário da República, divulgação na comunicação social e na página da internet da Câmara Municipal, do Aviso que divulgue o teor da presente deliberação, nos termos do n.º 1 do artigo 76.º e da a) do n.º 4 do artigo 191.º do RJIGT;
+5 - Dar conhecimento à CCDRC do teor da deliberação juntamente com o relatório sobre o estado do ordenamento do território.
+Por ser verdade, passo a presente certidão que assino e faço autenticar com selo branco em uso neste Município.
+26 de abril de 2017. - O Presidente da Câmara, Mário Jorge da Costa Rodrigues Nunes.
+610457168
