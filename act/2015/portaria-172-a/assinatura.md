@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - Pelo Ministro da Educação e Ciência, João Casanova de Almeida, Secretário de Estado do Ensino e da Administração Escolar.
