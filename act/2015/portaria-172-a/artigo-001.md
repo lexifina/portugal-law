@@ -6,6 +6,6 @@
 
 ### Objeto
 
-1 - A presente portaria fixa as regras e procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, previstos na alínea c) do n.º 1 do artigo 9.º do Estatuto do Ensino Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
+1 - A presente portaria fixa as regras e procedimentos aplicáveis à atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino particular e cooperativo de nível não superior, nos termos dos artigos 16.º e seguintes do Estatuto do Ensino Particular e Cooperativo (EEPC), aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
 
-2 - A atribuição de apoio financeiro referido no número anterior é formalizada através da celebração de contratos de associação, da extensão do contrato a um novo ciclo de ensino ou da sua renovação entre o Ministério da Educação e Ciência (MEC), através da Direção-Geral da Administração Escolar (DGAE), e entidades titulares de estabelecimentos de ensino particular e cooperativo.
+2 - A atribuição de apoio financeiro referido no número anterior é formalizada através da celebração de contratos de associação, da extensão do contrato a um novo ciclo de ensino ou da sua renovação entre o Ministério da Educação (ME), através da Direção-Geral da Administração Escolar (DGAE) e entidades titulares de estabelecimentos de ensino particular e cooperativo.

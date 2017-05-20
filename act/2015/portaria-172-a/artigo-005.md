@@ -6,7 +6,7 @@
 
 ### Competências
 
-1 - Compete ao membro do Governo que detém a responsabilidade do ensino particular e cooperativo, autorizar a abertura dos concursos, aprovar os subcritérios de análise e a respetiva ponderação propostos pela Comissão de Análise.
+1 - Compete ao membro do Governo que detém a responsabilidade do ensino particular e cooperativo autorizar a abertura dos concursos, aprovar os subcritérios de análise, as ponderações dos critérios e subcritérios conforme propostas da Comissão de Análise, a ponderação dos critérios e a homologação da lista final de avaliação e seleção das candidaturas.
 
 2 - Ao referido membro do Governo cabe ainda, homologar todos os apoios financeiros a conceder nos termos das modalidades previstas na presente portaria.
 

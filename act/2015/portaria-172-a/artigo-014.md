@@ -1,3 +1,7 @@
+## Secção IV
+
+## Contratualização
+
 # Artigo 14.º
 
 ### Obrigações das entidades titulares dos estabelecimentos de ensino
@@ -14,10 +18,10 @@ d) Divulgar o contrato celebrado, a modalidade do ensino ministrado, a gratuitid
 
 e) Garantir a matrícula efetuada nos termos gerais aos interessados até ao limite da lotação estabelecido no respetivo contrato de associação, de acordo com os critérios definidos no despacho que estabelece os procedimentos da matrícula e respetiva renovação;
 
-f) Cumprir as normas estabelecidas pelo MEC para a constituição de turmas;
+f) Cumprir as normas estabelecidas pelo ME para a constituição de turmas;
 
 g) Submeter, para validação da Direção-Geral dos Estabelecimentos Escolares (DGEstE), por via eletrónica e até ao dia 15 de julho, as propostas de turmas a constituir para o ano seguinte;
 
-h) Enviar ao serviço coordenador do sistema de informação do MEC, até 15 de setembro de cada ano, a lista com os alunos abrangidos pelo contrato de associação e respetiva turma.
+h) Enviar à DGEstE, até 15 de setembro de cada ano, a lista com os alunos abrangidos pelo contrato de associação e respetiva turma.
 
 2 - Cumprir as demais obrigações presentes no artigo 18.º do EEPC.

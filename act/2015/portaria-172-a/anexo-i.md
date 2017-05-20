@@ -1,28 +1,30 @@
 # Anexo I
 
-### (Minuta do contrato de associação a que se refere o artigo 20.º)
+### Minuta de Contrato de Associação (a que se refere o artigo 20.º)
 
 CONTRATO DE ASSOCIAÇÃO
 
-I - CONSIDERANDOS
+I - IDENTIFICAÇÃO DAS PARTES
 
-Nos termos do n.º 6 do artigo 10.º do Estatuto do Ensino Particular e Cooperativo, publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, os contratos de associação têm como finalidade possibilitar aos alunos a frequência de escolas do ensino particular e cooperativo em condições idênticas às verificadas no ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.
-
-II - IDENTIFICAÇÃO DAS PARTES
-
-Por Despacho de (*indicar o diploma legal de designação*), publicado em (*indicar o Diário da República, n.º, série e data*), de S. Ex.ª o Secretário de Estado do Ensino e da Administração Escolar, foi autorizada a realização da despesa correspondente ao presente contrato celebrado entre:
-
-O Estado Português, através da Direção-Geral da Administração Escolar, com sede na Avenida 24 de Julho, 142, 1399-024 Lisboa, pessoa coletiva n.º 600 084 817, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), nos termos da competência subdelegada pelo Despacho n.º (*indicar o diploma legal de nomeação *), publicado em (*indicar o Diário da República, n.º, série e data*), de S. Ex.ª o Secretário de Estado do Ensino e da Administração Escolar, doravante designado por PRIMEIRO OUTORGANTE, e
-
-*(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de Certidão Permanente da Sociedade, doravante designado por SEGUNDO OUTORGANTE,
+O Estado Português, através da Direção-Geral da Administração Escolar, com sede na Avenida 24 de Julho, 142, 1399-024 Lisboa, pessoa coletiva n.º 600084817, neste ato representado por (*nome do/a titular do cargo*), nomeado/a pelo Despacho n.º (*indicar o diploma legal de nomeação*), publicado em (*indicar o Diário da República, n.º, série e data*), doravante designado por PRIMEIRO OUTORGANTE, e *(nome da entidade)*, com sede em *(morada completa)*, concelho de *(indicar o concelho)*, pessoa coletiva número *(indicar o número)*, titular da autorização de funcionamento para o(a) *(indicar o nome do estabelecimento de ensino)*, localizado em *(indicar a morada completa)*, neste ato representado(a) por *(indicar o nome do/a representante legal)*, residente em *(indicar a morada completa)*, portador do bilhete de identidade/cartão de cidadão n.º *(indicar o número)*, na qualidade de representante legal da entidade titular, com poderes para o ato nos termos de (Certidão Comercial Permanente da Sociedade, com o código de acesso [...], válida até [...]/[...]/(indicar documento de representação quando não aplicável) doravante designado por SEGUNDO OUTORGANTE,
 
 Em conjunto designados por PARTES.
 
-A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 111, atividade 196, classificação económica ..., com o cabimento prévio n.º ...
+II - CONSIDERANDOS
 
-Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental.
+1 - Nos termos do n.º 6 do artigo 10.º do Estatuto do Ensino Particular e Cooperativo, publicado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro, os contratos de associação têm como finalidade possibilitar aos alunos a frequência de escolas do ensino particular e cooperativo em condições idênticas às verificadas no ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.
 
-O SEGUNDO OUTORGANTE fez prova da situação regularizada relativamente a impostos, a contribuições para a Segurança Social e para a Caixa Geral de Aposentações.
+2 - A análise de rede efetuada para o ano letivo [.../...] revelou a necessidade de prover por oferta educativa pública na área geográfica de implantação da oferta em que se encontra o estabelecimento de ensino do segundo outorgante.
+
+3 - O segundo outorgante foi selecionado, ao abrigo de procedimento lançado pela DGAE nos termos da Portaria n.º 172-A/2015, para prover por oferta educativa pública nos termos do respetivo Aviso de Abertura e do presente contrato.
+
+4 - Por despacho [...] foi autorizada a realização da despesa correspondente ao presente contrato.
+
+5 - A assunção do encargo plurianual correspondente ao presente contrato foi autorizada por [...].
+
+6 - A despesa prevista, em execução do presente contrato, durante o ano económico em curso, é satisfeita por verba inscrita na fonte de financiamento 111, atividade 196, classificação económica [...], com o cabimento prévio n.º [...]. Os encargos nos anos económicos seguintes serão objeto de adequada inscrição orçamental.
+
+7 - O SEGUNDO OUTORGANTE fez prova da situação regularizada relativamente a impostos, a contribuições para a Segurança Social e para a Caixa Geral de Aposentações.
 
 III. CELEBRAÇÃO DO CONTRATO
 
@@ -32,9 +34,11 @@ Cláusula 1.ª
 
 Objeto
 
-1 - O presente Contrato de Associação tem por objeto a concessão, pelo PRIMEIRO OUTORGANTE ao SEGUNDO OUTORGANTE, do apoio financeiro necessário à constituição de (indicar o número de turmas) turmas, do (indicar o nível de ensino) a funcionarem no (indicar o nome do estabelecimento), nos anos letivos (indicar os três anos letivos a que respeitam o contrato), nas mesmas condições de gratuitidade do ensino público.
+1 - O presente Contrato de Associação tem por objeto a concessão, pelo PRIMEIRO OUTORGANTE ao SEGUNDO OUTORGANTE, do apoio financeiro necessário à constituição do número máximo de (indicar o número de turmas) turmas, do (indicar o/s nível/níveis de ensino) a funcionarem no (indicar o nome do estabelecimento), nos anos letivos (indicar os anos letivos a que respeitam o contrato), nas mesmas condições de gratuitidade do ensino público.
 
-2 - O apoio a conceder durante a execução do contrato é atribuído ao número de turmas que efetivamente venham a ser constituídas e validadas, em cada ano letivo.
+2 - Constitui anexo ao presente contrato, dele fazendo parte integrante, quadro com os números parciais das turmas financiadas, discriminados por anos letivos.
+
+3 - O apoio a conceder durante a execução do contrato é atribuído ao número de turmas que efetivamente venham a ser constituídas e validadas, em cada ano letivo.
 
 Cláusula 2.ª
 
@@ -72,17 +76,19 @@ f) Facultar ao primeiro outorgante, em formato eletrónico, os seguintes element
 
 i) Até 31 de maio, o balanço e contas anuais do ano anterior, legalmente aprovados;
 
-ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através do serviço coordenador do sistema de informação do Ministério da Educação e Ciência, todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
+ii) No decorrer dos meses de outubro e agosto de cada ano e sempre que a aplicação de disposição legal o determine, através da DGEstE, todos os elementos necessários ao cálculo do montante do financiamento e aos respetivos ajustes anuais e reduções, designadamente a identificação das turmas e dos alunos, no respeito pela legislação aplicável em matéria de proteção de dados pessoais.
 
 g) Colaborar com a Inspeção-Geral da Educação e Ciência e com outros serviços e órgãos de controlo com competência para a fiscalização do cumprimento dos termos do presente contrato.
 
 2 - Nos termos do n.º 2 do artigo 17.º do EEPC, o SEGUNDO OUTORGANTE compromete-se a assegurar o cumprimento do contrato até à conclusão do ciclo de ensino das turmas por ele abrangido.
 
+Lido e achado conforme, o presente contrato é assinado em dois exemplares, rubricados pelos respetivos OUTORGANTES, ficando um exemplar na posse do PRIMEIRO OUTORGANTE e outro na posse do SEGUNDO OUTORGANTE.
+
 Cláusula 4.ª
 
 Faculdade do SEGUNDO OUTORGANTE
 
-Constitui faculdade do SEGUNDO OUTORGANTE cobrar aos alunos que integram as turmas financiadas ao abrigo do presente contrato, montantes referentes à prestação de serviços não cobertos pelo apoio financeiro concedido ao abrigo do presente contrato de associação, designadamente, de atividades de complemento curricular, de prolongamento de horário e de transporte, desde que cumpridas as condições estabelecidas na alínea f) do n.º 1 do artigo 14.º da Portaria n.º 172-A/2015, de 5 de junho, e demais legislação aplicável à prestação daqueles serviços.
+Constitui faculdade do SEGUNDO OUTORGANTE cobrar aos alunos que integram as turmas financiadas ao abrigo do presente contrato, montantes referentes à prestação de serviços não cobertos pelo apoio financeiro concedido ao abrigo do presente contrato de associação, designadamente, de atividades de complemento curricular, de prolongamento de horário e de transporte, desde que cumpridas as condições estabelecidas no n.º 3 do artigo 57.º do Decreto-Lei n.º 152/2013, de 4 de novembro, e demais legislação aplicável à prestação daqueles serviços.
 
 Cláusula 5.ª
 
@@ -167,3 +173,11 @@ Lisboa, (*data*)
 HOMOLOGO em... de... de 20...
 
 ... (Assinatura do membro do Governo)
+
+QUADRO DO ANEXO I
+
+Números parciais das turmas financiadas, por anos letivos
+
+(a que se refere o n.º 2 da Cláusula 1.ª)
+
+(ver documento original)
