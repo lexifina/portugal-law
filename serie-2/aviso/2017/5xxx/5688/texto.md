@@ -1,0 +1,9 @@
+Aviso n.º 5688/2017
+Período de discussão pública da Alteração ao Plano Diretor Municipal da Maia
+António Gonçalves Bragança Fernandes, Presidente da Câmara Municipal da Maia:
+Torna público, em cumprimento e para os efeitos previstos nos n.os 1 e 2, do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, com as adaptações constantes do Regime Excecional de Regularização das Atividades Económicas (RERAE), que vai decorrer o período de discussão pública da proposta da alteração do Plano Diretor da Maia - Adequação ao Regime Excecional de Regularização das Atividades Económicas.
+Todos os interessados poderão apresentar, durante o prazo de 15 dias úteis, contados após o decurso de 5 dias uteis da data de publicação do presente aviso no Diário da República, reclamações, observações, sugestões ou pedidos de esclarecimento, mediante requerimento, dirigido ao Presidente da Câmara Municipal, onde deverá constar a identificação do subscritor, a identificação do local, acompanhada, sempre que possível, de planta de localização, e o objeto da exposição, devidamente fundamentado, requerimento esse a ser entregue no Gabinete Municipal de Atendimento ou remetido por correio registado ou ainda através da submissão eletrónica no sítio da Internet.
+Para o efeito, a proposta de alteração ao Plano Diretor Municipal, será disponibilizada para consulta na Divisão de Planeamento Territorial e Projetos, sita no 15.º piso da Torre do Lidador da Câmara Municipal da Maia, todos os dias úteis, durante as horas de expediente, bem como na página da internet da Câmara Municipal, em www.cm-maia.pt.
+Para constar se publica este e outros de igual teor que vão ser afixados nos lugares de estilo.
+20 de abril de 2017. - O Presidente da Câmara Municipal, António Gonçalves Bragança Fernandes, Eng.
+610468476
