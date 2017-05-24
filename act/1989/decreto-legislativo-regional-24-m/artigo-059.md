@@ -1,19 +1,21 @@
+## Capítulo VII
+
+## Apoio aos partidos e grupos parlamentares
+
 # Artigo 59.º
 
-### Transição de carreiras
+### Subvenção à Atividade Parlamentar
 
-1 - Transitam para a categoria correspondente da carreira de consultor parlamentar os atuais funcionários parlamentares integrados na carreira de técnico superior parlamentar.
+1 - Os grupos parlamentares e deputado único representante de um partido dispõem, para encargos de assessoria aos deputados, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, para atividade política e partidária em que participem e para outras despesas de funcionamento, de uma subvenção anual.
 
-2 - Os atuais funcionários parlamentares integrados na carreira técnica parlamental podem candidatar-se a um procedimento concursal único e específico, a abrir no prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, para efeitos de integração na carreira de base da categoria de consultor parlamentar, em posição remuneratória não inferior à que detenham, o qual deve incluir:
+2 - A subvenção anual, definida nos termos do n.º 1, corresponde a 2x14xRMMG-2015 (Retribuição Mínima Mensal Garantida, para vigorar na RAM em 2015)/mês, por deputado.
 
-a) Realização de uma prova escrita de conhecimentos específicos para a respetiva área de especialidade;
+3 - O Presidente da Assembleia Legislativa fixa, por despacho o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respetivo grupo, e desde que não ultrapasse o montante referido no número anterior.
 
-b) Avaliação curricular;
+4 - O pessoal nomeado nos termos do n.º 1 não pode auferir remuneração mensal ilíquida superior à de deputado em exercício de funções.
 
-c) Entrevista de avaliação de competências.
+5 - O processamento dos vencimentos do pessoal dos gabinetes dos partidos e dos grupos parlamentares, bem como as despesas com os encargos sociais e respetivo processamento, são da responsabilidade da Assembleia Legislativa.
 
-3 - Transitam para a categoria correspondente da carreira de técnico de apoio parlamentar os funcionários parlamentares integrados nas carreiras de adjunto parlamentar, administrativo parlamentar, tesoureiro e de ecónomo parlamentar.
+6 - É aplicável aos membros dos gabinetes referidos no presente artigo o disposto no n.os 1 e 3 do artigo 12.º do presente diploma.
 
-4 - Transitam para a categoria correspondente da carreira de assistente operacional parlamentar os atuais funcionários parlamentares que se encontram integrados nas carreiras auxiliares e operárias.
-
-5 - Transita para a categoria de encarregado operacional parlamentar o atual encarregado de pessoal auxiliar, contando-se o período já decorrido na atual comissão de serviço para efeitos da eventual renovação da comissão de serviço.
+7 - Os membros dos gabinetes previstos no presente artigo são portadores de um cartão de identificação conforme anexo IV do presente diploma.

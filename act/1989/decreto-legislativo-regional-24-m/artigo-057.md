@@ -1,9 +1,15 @@
 # Artigo 57.º
 
-### Conta
+### Prestação de serviços
 
-1 - O relatório e a conta são organizados pelos serviços competentes, sob a direta coordenação do secretário-geral da Assembleia Legislativa, que os submeterá, dentro do prazo legal, ao Conselho de Administração.
+1 - O Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração, pode:
 
-2 - O Conselho de Administração, após aprovar o relatório e a conta, remete-os para parecer do Tribunal de Contas, Secção Regional da Madeira, nos termos da legislação em vigor, e obtido este parecer submete-os ao Presidente da Assembleia Legislativa para aprovação do Plenário, sem prejuízo da faculdade prevista na alínea c) do artigo 12.º-B.
+a) Encomendar estudos, pareceres e serviços;
 
-3 - A conta é publicada no Diário da Assembleia Legislativa, no Diário da República e no Jornal Oficial da Região.
+b) Convidar entidades regionais, nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;
+
+c) Contratar pessoal em regime de tarefa.
+
+2 - As modalidades de prestação de serviços e as condições gerais da sua realização são estabelecidas pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, sob proposta do secretário-geral da Assembleia Legislativa Regional.
+
+3 - As despesas a que houver lugar nos termos deste artigo são suportadas por força de verba global a inscrever para tal fim no orçamento da Assembleia Legislativa Regional.

@@ -1,11 +1,11 @@
 # Artigo 47.º
 
-### Subvenção aos partidos
+### Técnico de apoio parlamentar
 
-1 - Às representações parlamentares é atribuída uma subvenção mensal para encargos de assessoria, contactos com os eleitores e outras atividades correspondentes aos respetivos mandatos no valor de dois quintos do salário mínimo nacional em vigor na Madeira por deputado eleito, mais a ponderação dos seguintes fatores:
+1 - A carreira de técnico de apoio parlamentar desenvolve-se por duas categorias, a de técnico de apoio parlamentar e a de técnico de apoio parlamentar-coordenador.
 
-a) Representação de um só deputado e grupo parlamentar - três quintos do SMNR (salário mínimo nacional em vigor na Madeira) X o número de deputados.
+2 - À categoria de técnico de apoio parlamentar correspondem nove posições remuneratórias e à de técnico de apoio parlamentar-coordenador quatro posições.
 
-2 - A subvenção referida no presente artigo é paga em duodécimos, por conta de dotações especiais inscritas no orçamento da Assembleia Legislativa Regional.
+3 - O acesso à categoria de técnico de apoio parlamentar-coordenador efetiva-se através de procedimento concursal, com exceção do posicionamento decorrente do disposto no n.º 3 do artigo 59.º
 
-3 - Os partidos mantêm sempre, até final da VIII Legislatura, a subvenção mensal adquirida, em 31 de Dezembro de 2004, se da aplicação do disposto na alínea a) do n.º 1 resultar a sua diminuição.
+4 - Podem candidatar-se à categoria de técnico de apoio parlamentar-coordenador os técnicos de apoio parlamentar posicionados, pelo menos, na 6.ª posição remuneratória que tenham, nos 10 anos anteriores, obtido avaliação positiva de desempenho de funções na Assembleia Legislativa da Região Autónoma da Madeira.

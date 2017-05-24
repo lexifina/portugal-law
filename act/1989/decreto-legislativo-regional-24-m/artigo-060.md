@@ -1,9 +1,13 @@
 # Artigo 60.º
 
-### Reposicionamento remuneratório
+### Subvenção aos partidos
 
-1 - Na transição para a categoria das novas carreiras, os funcionários parlamentares são reposicionados na posição a que corresponda o nível remuneratório igual à respetiva remuneração base atual.
+1 - A cada partido que haja concorrido a eleição para a Assembleia Legislativa da Madeira, ainda que em coligação, e que nela obtenha representação é concedida uma subvenção anual, desde que requerida ao Presidente da Assembleia, que consiste numa quantia em dinheiro, fixada nos termos dos números seguintes, adequada às suas necessidades de organização e funcionamento.
 
-2 - Em caso de falta de correspondência, os funcionários parlamentares são reposicionados em posição remuneratória automaticamente criada que corresponda ao valor da remuneração base a que atualmente têm direito.
+2 - A subvenção referida no n.º 1 é paga em duodécimos e transferida diretamente para os partidos, por conta de dotações especiais para esse efeito inscritas no orçamento da Assembleia Legislativa, nos seguintes termos:
 
-3 - Nos casos previstos no número anterior, a primeira alteração de posicionamento remuneratório far-se-á para a posição imediatamente a seguir àquela em que o funcionário parlamentar está posicionado, se desta não resultar um impulso salarial inferior ao montante pecuniário que estiver fixado na lei geral, sendo que, nesta situação, a alteração se efetuará para a posição remuneratória imediatamente seguinte.
+Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retribuição Mínima Mensal Garantida, para vigorar na RAM em 2015)/mês, por deputado.
+
+3 - Ao montante referido no número anterior, acresce a ponderação de 1xRMMG-2015/mês, por deputado.
+
+4 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos dos números anteriores, corresponder à respetiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido, salvo disposição expressa em sentido distinto constante de acordo da coligação.

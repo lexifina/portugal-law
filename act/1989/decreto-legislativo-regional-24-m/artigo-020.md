@@ -1,17 +1,15 @@
 # Artigo 20.º
 
-### Estatuto
+### Funcionamento
 
-1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa, em comissão de serviço e por Legislatura, sem prejuízo do previsto no número seguinte, e permanece em funções até à nomeação do novo secretário-geral.
+1 - O Conselho de Administração é presidido pelo secretário-geral da Assembleia, o qual goza de voto de qualidade em caso de empate.
 
-2 - O secretário-geral da Assembleia Legislativa pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa.
+2 - O presidente do Conselho de Administração é substituído nas suas faltas ou impedimentos pelo membro do Conselho de Administração que o Presidente da Assembleia Legislativa Regional designar.
 
-3 - O secretário-geral não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa Regional.
+3 - O Conselho de Administração reúne ordinariamente pelo menos uma vez por mês e extraordinariamente quando convocado pelo seu presidente, por sua iniciativa ou a solicitação de dois dos seus membros, com a antecedência mínima de vinte e quatro horas, devendo, neste caso, fazer-se a indicação da ordem do dia.
 
-4 - O secretário-geral é substituído nas suas faltas e impedimentos por quem o Presidente da Assembleia Legislativa Regional designar.
+4 - As deliberações do Conselho de Administração são válidas desde que se verifique a presença de dois dos seus membros, sendo um deles obrigatoriamente o secretário-geral ou o seu substituto, devendo ser lavradas em acta.
 
-5 - A remuneração do secretário-geral é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral, e poderá ser atribuído um abono para despesas de representação a fixar pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, o qual não poderá exceder os limites estabelecidos para os secretários-gerais dos órgãos de soberania.
+5 - Os membros do Conselho de Administração que sejam especificamente nomeados para tal função e que sejam estranhos à Assembleia Legislativa Regional terão a remuneração correspondente a 50% do vencimento ilíquido do secretário-geral.
 
-6 - No exercício das suas atribuições, o secretário-geral dispõe de um serviço de apoio próprio, sendo coadjuvado no exercício das suas funções por um adjunto, nomeado pelo Presidente da Assembleia Legislativa da Região Autónoma da Madeira, sob proposta do secretário-geral e por um secretário, aplicando-se-lhes o disposto no artigo 11.º, sendo portadores de um cartão de identidade, conforme o anexo ii do presente diploma.
-
-7 - O secretário-geral é portador de um cartão de identidade conforme anexo II do presente diploma.
+6 - Os membros do Conselho de Administração que desempenhem tal função por inerência a cargo exercido na Assembleia ou recrutados entre pessoas que, a qualquer título, exerçam e continuem a exercer outro cargo na Assembleia Legislativa Regional, bem como os que estejam na situação do n.º 5 deste artigo, terão direito a uma remuneração por dia de reunião a que compareçam correspondente a 1/15 do vencimento ilíquido mensal do secretário-geral da Assembleia Legislativa Regional.

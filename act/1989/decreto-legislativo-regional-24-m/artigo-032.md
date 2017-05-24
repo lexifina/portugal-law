@@ -1,25 +1,17 @@
 # Artigo 32.º
 
-### Carreiras e constituição de relação jurídica de emprego parlamentar
+### Competências
 
-1 - Os funcionários parlamentares constituem um corpo especial e permanente e exercem as suas funções integrados em carreiras especiais.
+1 - Compete ao Gabinete de Informática:
 
-2 - As carreiras especiais parlamentares são pluricategoriais.
+a) Promover, desenvolver e implementar sistemas e tecnologias de informação, de acordo com as necessidades da Assembleia Legislativa Regional;
 
-3 - O ingresso nas carreiras especiais da Assembleia Legislativa da Região Autónoma da Madeira faz-se pela primeira posição remuneratória das respetivas categorias de base.
+b) Estruturar e criar condições de acesso à informação relevante a todos os utilizadores do sistema;
 
-4 - Excecionalmente, quando estejam em causa funções de elevada complexidade ou especificidade técnica que requeiram o seu pretérito exercício em condições similares às exigíveis na Assembleia Legislativa da Região Autónoma da Madeira, podem ser recrutados, mediante procedimento concursal para ocupação de posto de trabalho em posição remuneratória superior à de ingresso na categoria de base da carreira parlamentar correspondente, indivíduos que possuam habilitação literária, qualificação e experiência profissional iguais ou superiores às normalmente exigíveis para essa categoria e posição remuneratória.
+c) Promover acções de sensibilização e formação e prestar apoio aos órgãos e serviços da Assembleia Legislativa Regional no domínio dos sistemas e tecnologias de informação;
 
-5 - O recrutamento referido no número anterior só pode ter lugar quando estiverem em causa necessidades permanentes da Assembleia da Legislativa da Madeira.
+d) Pronunciar-se nos domínios dos sistemas e tecnologias de informação, quando solicitado, em consonância com os princípios, regras e normas gerais de actuação superiormente aprovadas;
 
-6 - A caracterização das carreiras especiais e as categorias em que se desdobram, bem como os respetivos conteúdos funcionais, os graus de complexidade funcional e o número de posições remuneratórias de cada categoria são os constantes dos anexos i e iv da presente Estrutura Orgânica, dela fazendo parte integrante.
+e) Estudar e promover a implementação de uma arquitectura de informação global, coerente e actualizada no âmbito da Assembleia Legislativa Regional.
 
-7 - A relação jurídica de emprego parlamentar constitui-se por celebração de contrato de trabalho parlamentar, em resultado do processo de recrutamento e seleção nos termos previstos no artigo seguinte.
-
-8 - O contrato de trabalho parlamentar é celebrado por tempo indeterminado na sequência da aprovação em concurso e está sujeito à forma escrita.
-
-9 - A relação jurídica de emprego parlamentar constitui-se em regime de comissão de serviço quando se trate:
-
-a) Do exercício de cargos dirigentes;
-
-b) De funções que, nos termos desta Estrutura, só possam ser exercidas neste regime.
+2 - O Gabinete de Informática é dirigido por um director equiparado a director de serviços.

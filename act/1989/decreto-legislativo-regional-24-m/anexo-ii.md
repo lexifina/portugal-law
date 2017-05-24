@@ -1,5 +1,5 @@
 # Anexo II
 
-### Cartão de Identidade
+### Cartão de identidade
 
 (ver documento original)

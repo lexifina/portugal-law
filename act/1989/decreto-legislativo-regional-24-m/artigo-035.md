@@ -1,13 +1,31 @@
+## Subsecção VI
+
+## Departamento de Relações Externas e para a Comunicação Social
+
 # Artigo 35.º
 
-### Carreira de consultor parlamentar
+### Atribuições
 
-1 - A carreira de consultor parlamentar desenvolve-se por duas categorias, a de consultor parlamentar e a de consultor parlamentar principal.
+1 - O Departamento de Relações Externas e para a Comunicação Social é a unidade orgânica encarregada da divulgação da atividade da Assembleia Legislativa da Região Autónoma da Madeira, da promoção das iniciativas de gestão da imagem institucional e da coordenação da atividade informativa junto dos meios de comunicação social.
 
-2 - À categoria de consultor parlamentar correspondem dez posições remuneratórias e à de consultor parlamentar principal correspondem quatro posições remuneratórias.
+2 - Compete-lhe, nomeadamente:
 
-3 - O acesso à categoria de consultor parlamentar principal efetiva-se através de procedimento concursal, com exceção do posicionamento decorrente do disposto no n.º 1 do artigo 59.º
+a) Assegurar a edição e difusão das publicações da Assembleia Legislativa, em estreita colaboração com o Arquivo;
 
-4 - Podem candidatar-se à categoria de consultor parlamentar principal os consultores parlamentares posicionados, pelo menos, na 4.ª posição, desde que preencham os requisitos necessários para a alteração do posicionamento remuneratório previstos na lei.
+b) Coordenar a divulgação, junto dos órgãos de comunicação social, da informação respeitante ao funcionamento da atividade parlamentar;
 
-5 - Os consultores parlamentares colocados na 10.ª posição remuneratória que ascendam à categoria de consultor parlamentar principal são colocados na 2.ª posição remuneratória desta categoria.
+c) Tratar, arquivar e divulgar a informação produzida por órgãos de comunicação social;
+
+d) Prover ao arquivo, criteriosamente organizado, dos registos áudio, vídeo e de imagem, de atividades e acontecimentos que envolvam a Assembleia Legislativa;
+
+e) Coordenar a divulgação e a gestão de conteúdos do site institucional da Assembleia Legislativa;
+
+f) Apoiar o funcionamento da Sala de Imprensa;
+
+g) Prestar o apoio técnico, tecnológico e administrativo ao serviço do Protocolo da Assembleia Legislativa;
+
+h) Assegurar, em termos de imagem e som, o funcionamento do Plenário e, ainda, eventos para os quais seja determinado tal apoio;
+
+i) Assegurar a gestão, exploração e manutenção do sistema de áudio e do sistema de televisão, incluindo os respetivos equipamentos, pertencentes ao património da Assembleia.
+
+3 - O Departamento de Relações Externas e para a Comunicação Social é dirigido por um técnico de apoio parlamentar coordenador.

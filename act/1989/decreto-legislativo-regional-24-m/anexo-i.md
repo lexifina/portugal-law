@@ -1,7 +1,13 @@
 # Anexo I
 
-### Região Autónoma da Madeira
+### Carreira de consultor parlamentar
 
-Assembleia Legislativa Regional
+(ver documento original)
+
+Carreira de técnico de apoio parlamentar
+
+(ver documento original)
+
+Carreira de assistente operacional parlamentar
 
 (ver documento original)

@@ -1,11 +1,13 @@
+## Capítulo III
+
+## Plenário
+
 # Artigo 6.º
 
-### Órgãos
+### Competência
 
-São órgãos da Assembleia Legislativa Regional:
+Ao Plenário, como órgão supremo da Assembleia Legislativa Regional, compete apreciar, discutir e votar:
 
-a) O Presidente da Assembleia Legislativa Regional;
+a) O orçamento anual das receitas e despesas da Assembleia e os orçamentos suplementares;
 
-b) O Conselho Consultivo;
-
-c) O Conselho de Administração.
+b) O relatório e a conta.

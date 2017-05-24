@@ -1,13 +1,13 @@
 # Artigo 61.º
 
-### Integração de pessoal
+### Apoio logístico
 
-1 - O pessoal que à data de entrada em vigor do Orçamento da Assembleia Legislativa para o ano de 2012 se encontre a prestar serviço na Assembleia Legislativa, em regime de cedência de interesse público, mobilidade interna, comissão de serviço ou política pública de emprego, pode ser integrado no mapa de pessoal, de acordo com as seguintes regras:
+1 - Os grupos e representações parlamentares têm direito a dispor de locais de trabalho, com a dimensão, os equipamentos e o mobiliário indispensável ao respetivo funcionamento, segundo o critério da proporcionalidade ao número de deputados que integram.
 
-a) Para categoria idêntica à que o trabalhador já possui;
+2 - Os grupos e representações parlamentares dispõem, ainda, para o seu funcionamento das respetivas instalações, de material de escritório, de meios de comunicação eletrónica e de acesso a publicações de imprensa escrita ou online, até ao limite do montante destinado para este efeito no início de cada sessão legislativa e proporcional ao número de deputados que integram.
 
-b) Para categoria de outra carreira correspondente às funções que efetivamente desempenha, desde que se enquadre no conteúdo e no grau de complexidade funcional respetivos, mediante acordo celebrado com o dirigente máximo do serviço, que respeite o posicionamento remuneratório da categoria equivalente, bem como as habilitações académicas legalmente exigidas.
+3 - O montante previsto no número anterior é pago através da rubrica própria, prevista no Orçamento da Assembleia Legislativa e fixado pelo Presidente da Assembleia, sob proposta do Conselho de Administração, ouvido o Conselho Consultivo.
 
-2 - A integração prevista no número anterior é efetuada através da lista nominativa e nos termos previstos no regime legal estipulado para a transição de carreiras, a publicar no Jornal Oficial da Região Autónoma da Madeira.
+4 - A natureza, quantificação e especificações dos equipamentos, mobiliário, meios de comunicação eletrónica e publicações de imprensa referidos nos números anteriores, são definidos em regulamento interno da Assembleia Legislativa.
 
-3 - Os funcionários que atualmente se encontram na situação de licença de longa duração são abrangidos por este diploma, para efeitos de integração nas carreiras e categorias, quando, nos termos da lei geral, regressarem ao serviço da Assembleia.
+5 - Os locais de trabalho podem situar-se dentro ou fora da sede da Assembleia.

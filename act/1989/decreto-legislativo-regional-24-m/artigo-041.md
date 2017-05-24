@@ -1,17 +1,25 @@
 # Artigo 41.º
 
-### Provimento
+### Carreiras e constituição de relação jurídica de emprego parlamentar
 
-1 - O pessoal dirigente é provido em comissão de serviço por um período de três anos, que poderá ser renovado por iguais períodos.
+1 - Os funcionários parlamentares constituem um corpo especial e permanente e exercem as suas funções integrados em carreiras especiais.
 
-2 - Para efeitos de eventual renovação da comissão de serviço aplicam-se, com as devidas adaptações, as normas previstas no Estatuto do Pessoal Dirigente, bem como as referentes à suspensão, cessação e substituição.
+2 - As carreiras especiais parlamentares são pluricategoriais.
 
-3 - Nos serviços criados por este diploma o primeiro provimento dos cargos de director de serviços ou equiparado e de chefe de divisão pode ser feito por escolha em regime de comissão de serviço por um ano.
+3 - O ingresso nas carreiras especiais da Assembleia Legislativa da Região Autónoma da Madeira faz-se pela primeira posição remuneratória das respetivas categorias de base.
 
-4 - No caso previsto no número anterior é aberto concurso até 120 dias antes do termo da comissão de serviço do nomeado.
+4 - Excecionalmente, quando estejam em causa funções de elevada complexidade ou especificidade técnica que requeiram o seu pretérito exercício em condições similares às exigíveis na Assembleia Legislativa da Região Autónoma da Madeira, podem ser recrutados, mediante procedimento concursal para ocupação de posto de trabalho em posição remuneratória superior à de ingresso na categoria de base da carreira parlamentar correspondente, indivíduos que possuam habilitação literária, qualificação e experiência profissional iguais ou superiores às normalmente exigíveis para essa categoria e posição remuneratória.
 
-5 - No concurso aberto nos termos do número anterior, os nomeados ao abrigo do n.º 3 deste artigo gozam de preferência em caso de igualdade de classificação, considerando-se prorrogada a respectiva comissão até ao provimento do concurso.
+5 - O recrutamento referido no número anterior só pode ter lugar quando estiverem em causa necessidades permanentes da Assembleia da Legislativa da Madeira.
 
-6 - O provimento dos cargos dirigentes previstos no artigo anterior é feito por despacho do Presidente da Assembleia Legislativa Regional.
+6 - A caracterização das carreiras especiais e as categorias em que se desdobram, bem como os respetivos conteúdos funcionais, os graus de complexidade funcional e o número de posições remuneratórias de cada categoria são os constantes dos anexos i e iv da presente Estrutura Orgânica, dela fazendo parte integrante.
 
-7 - O provimento do pessoal dirigente entende-se sempre feito por urgente conveniência de serviço, salvo se o contrário for expressamente declarado no despacho de nomeação.
+7 - A relação jurídica de emprego parlamentar constitui-se por celebração de contrato de trabalho parlamentar, em resultado do processo de recrutamento e seleção nos termos previstos no artigo seguinte.
+
+8 - O contrato de trabalho parlamentar é celebrado por tempo indeterminado na sequência da aprovação em concurso e está sujeito à forma escrita.
+
+9 - A relação jurídica de emprego parlamentar constitui-se em regime de comissão de serviço quando se trate:
+
+a) Do exercício de cargos dirigentes;
+
+b) De funções que, nos termos desta Estrutura, só possam ser exercidas neste regime.

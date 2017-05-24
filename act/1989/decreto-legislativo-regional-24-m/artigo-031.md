@@ -1,7 +1,9 @@
+## Subsecção III
+
+## Departamento de Informática
+
 # Artigo 31.º
 
-### Quadro de pessoal
+### Atribuições
 
-1 - A Assembleia Legislativa Regional dispõe do pessoal constante do quadro anexo I do presente diploma, do qual faz parte integrante.
-
-2 - O quadro do pessoal da Assembleia Legislativa Regional pode ser alterado por resolução da Assembleia mediante proposta no Conselho de Administração.
+O Gabinete de Informática tem como atribuições os domínios dos sistemas e tecnologias de informação.

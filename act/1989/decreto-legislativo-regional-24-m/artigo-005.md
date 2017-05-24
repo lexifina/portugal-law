@@ -1,13 +1,9 @@
-## Capítulo III
-
-## Plenário
-
 # Artigo 5.º
 
-### Competência
+### Segurança
 
-Ao Plenário, como órgão supremo da Assembleia Legislativa Regional, compete apreciar, discutir e votar:
+1 - O Serviço de Segurança constitui a estrutura especialmente encarregada da prevenção, controlo, vigilância, protecção e defesa das instalações e dos bens da Assembleia Legislativa Regional, dos seus serviços e das pessoas que nela exercem funções e permanecem.
 
-a) O orçamento anual das receitas e despesas da Assembleia e os orçamentos suplementares;
+2 - A segurança das instalações da Assembleia Legislativa Regional é prestada de forma permanente por um dispositivo autónomo da Polícia de Segurança Pública.
 
-b) O relatório e a conta.
+3 - As condições de permanência e de actuação da Polícia de Segurança Pública são definidas pelo Presidente da Assembleia Legislativa Regional, sob proposta do Conselho de Administração, ouvidos o Conselho Consultivo e o Comando Regional da Polícia de Segurança Pública.

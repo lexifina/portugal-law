@@ -1,5 +1,7 @@
 # Artigo 3.º
 
-### Instalações
+### Delegações
 
-A Assembleia Legislativa Regional pode requisitar ao departamento competente da Administração Pública, tomar de arrendamento ou adquirir as instalações e estacionamentos que se revelem indispensáveis ao seu funcionamento.
+1 - A Assembleia Legislativa Regional poderá criar delegações na ilha de Porto Santo e noutros locais da Região, por determinação do seu Presidente, após parecer favorável da Conferência dos Presidentes dos Grupos Parlamentares.
+
+2 - As delegações comportarão, sempre que possível, espaço para os grupos e representações parlamentares e de apoio aos deputados à Assembleia da República e ao Parlamento Europeu.

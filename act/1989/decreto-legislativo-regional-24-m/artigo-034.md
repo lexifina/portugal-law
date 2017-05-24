@@ -1,15 +1,27 @@
+## Subsecção V
+
+## Departamento de Assessoria Técnica
+
 # Artigo 34.º
 
-### Estágio probatório
+### Âmbito funcional
 
-1 - Findo o procedimento concursal de recrutamento, os candidatos admitidos celebram contrato de trabalho parlamentar em regime de estágio probatório, que se destina, em sede de período experimental, a comprovar se o estagiário possui as competências e o perfil exigidos pelo posto de trabalho que vai ocupar.
+1 - O Departamento de Assessoria Técnica é a unidade orgânica de apoio técnico e de assessoria na dependência do secretário-geral.
 
-2 - O período experimental tem ainda como objetivos a preparação e a formação teórico-prática do estagiário para o desenvolvimento eficaz e competente das funções de funcionário parlamentar, bem como a avaliação da sua aptidão e capacidade de adaptação ao serviço da Assembleia Legislativa da Região Autónoma da Madeira.
+2 - Ao Departamento de Assessoria Técnica compete:
 
-3 - O período experimental nas carreiras parlamentares tem a duração de 18 meses, não podendo ser objeto de dispensa total ou parcial, salvo o disposto no número seguinte.
+a) Prestar apoio técnico e de assessoria aos Gabinetes do Presidente e dos Vice-Presidentes e à Secretaria-Geral;
 
-4 - O secretário-geral pode dispensar a frequência do período probatório, com exceção dos primeiros 6 meses, quando, sob proposta do orientador de estágio e a requerimento do interessado, este tenha, por período não inferior a três anos, exercido na Assembleia Legislativa da Região Autónoma da Madeira funções de conteúdo funcional correspondente à carreira e categoria em que se encontra concursado, com avaliação de desempenho não inferior a Bom.
+b) Verificar quaisquer textos legislativos e normativos cuja apreciação lhe seja solicitada e propor alterações que se mostrem adequadas e anotações técnicas pertinentes;
 
-5 - Para os efeitos do número anterior, o desempenho das funções é comprovado pelo ou pelos dirigentes do serviço da Assembleia Legislativa da Região Autónoma da Madeira onde as exerceu.
+c) Efetuar os estudos e trabalhos de investigação e de informação de que for incumbido;
 
-6 - O período experimental começa a contar-se a partir da data contratualmente fixada para o seu início, sendo acrescido dos dias de faltas, ainda que justificadas, e licenças.
+d) Assegurar a representação judiciária da Assembleia em Juízo;
+
+e) Recolher, selecionar, tratar e difundir a informação do Diário da República e do Jornal Oficial da Região de interesse para a Assembleia Legislativa;
+
+f) Recolher e difundir jurisprudência nacional e europeia, obtida através do acesso a bases de dados externas;
+
+g) Assegurar o escrutínio das iniciativas legislativas europeias, em coordenação com as Comissões especializadas competentes.
+
+3 - O Departamento de Assessoria Técnica é superintendido pelo adjunto do secretário-geral.

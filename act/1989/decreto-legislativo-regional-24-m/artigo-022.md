@@ -1,21 +1,19 @@
-## Subsecção II
+## Capítulo V
 
-## Gabinete da Presidência
+## Serviços da Assembleia Legislativa Regional
+
+## Secção I
+
+## Disposições gerais
 
 # Artigo 22.º
 
-### Âmbito funcional
+### Serviços da Assembleia Legislativa Regional
 
-1 - O Gabinete da Presidência é responsável pelo protocolo institucional da Assembleia Legislativa da Região Autónoma da Madeira e funciona na dependência do Presidente da Assembleia Legislativa.
+Os serviços têm por finalidade prestar apoio técnico e administrativo aos órgãos da Assembleia Legislativa Regional e aos deputados, devendo garantir, nomeadamente:
 
-2 - Compete-lhe, nomeadamente:
+a) O suporte técnico e administrativo no domínio das actividades de secretariado e de apoio directo ao Plenário e às comissões;
 
-a) Assegurar todo o serviço de protocolo e receção da Assembleia Legislativa;
+b) A elaboração de estudos técnicos especializados necessários à actividade da Assembleia Legislativa Regional;
 
-b) Prestar apoio às delegações parlamentares nas missões oficiais, quer na Região quer no País e no estrangeiro;
-
-c) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia Legislativa.
-
-3 - O Gabinete é constituído por pessoal designado para o efeito por despacho do Presidente.
-
-4 - O apoio administrativo a este Gabinete é assegurado pela Secretaria-Geral.
+c) A execução das tarefas necessárias à actividade da Assembleia Legislativa Regional.

@@ -1,29 +1,13 @@
-## Capítulo VII
-
-## Apoio aos partidos e grupos parlamentares
-
 # Artigo 46.º
 
-### Gabinetes dos partidos e dos grupos parlamentares
+### Carreira de consultor parlamentar
 
-1 - Os partidos com um único deputado e os grupos parlamentares dispõem, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, de uma verba anual calculada nos seguintes termos:
+1 - A carreira de consultor parlamentar desenvolve-se por duas categorias, a de consultor parlamentar e a de consultor parlamentar principal.
 
-a) Deputado Único/partido e grupos parlamentares - 9X14SMNR (Salário Mínimo Nacional em vigor na Madeira)/mês/número de deputados.
+2 - À categoria de consultor parlamentar correspondem dez posições remuneratórias e à de consultor parlamentar principal correspondem quatro posições remuneratórias.
 
-2 - O Presidente da Assembleia Legislativa Regional fixa, por despacho, o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respectivo grupo, e desde que não ultrapasse o montante referido no número anterior.
+3 - O acesso à categoria de consultor parlamentar principal efetiva-se através de procedimento concursal, com exceção do posicionamento decorrente do disposto no n.º 1 do artigo 59.º
 
-3 - Os grupos parlamentares no exercício das suas funções podem dispor de secretários auxiliares, com vencimento fixado em 85% do vencimento dos secretários, sem prejuízo do n.º 2 do presente artigo.
+4 - Podem candidatar-se à categoria de consultor parlamentar principal os consultores parlamentares posicionados, pelo menos, na 4.ª posição, desde que preencham os requisitos necessários para a alteração do posicionamento remuneratório previstos na lei.
 
-4 - É aplicável aos membros do gabinete dos grupos parlamentares o disposto no artigo 11.º do presente diploma.
-
-5 - O pessoal referido neste artigo tem direito a uma indemnização mensal equivalente a 4 % da remuneração atualizável da categoria que teve nos últimos três anos ou, quando exercendo funções há menos tempo da categoria que durante mais tempo exerceu, por cada ano completo de desempenho de funções e durante o mesmo número de meses em que esteve afeto ao grupo parlamentar.
-
-6 - A indemnização referida no número anterior só tem lugar após a cessação de funções comprovada pela direcção do grupo parlamentar e tem como limite máximo 80% da remuneração referida.
-
-7 - O direito à indemnização referido no n.º 5 deste artigo suspende-se quando o pessoal que a ele tem direito auferir qualquer tipo de remuneração da função pública.
-
-8 - A aplicação do disposto neste artigo não prejudica a situação existente em cada gabinete de apoio aos grupos parlamentares, nem a fixação do quadro previsto no n.º 2 prejudica a utilização da totalidade do montante referido no n.º 1 do presente artigo.
-
-9 - Os membros dos gabinetes dos grupos parlamentares são portadores de um cartão de identidade, conforme anexo IV ao presente diploma.
-
-10 - O processamento dos vencimentos do pessoal dos gabinetes dos partidos e dos grupos parlamentares, bem como as despesas com os encargos sociais e respectivo processamento, são da responsabilidade da Assembleia Legislativa Regional.
+5 - Os consultores parlamentares colocados na 10.ª posição remuneratória que ascendam à categoria de consultor parlamentar principal são colocados na 2.ª posição remuneratória desta categoria.

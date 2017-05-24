@@ -1,19 +1,15 @@
+## Secção II
+
+## Pessoal dirigente
+
 # Artigo 53.º
 
-### Autorização de despesas
+### Recrutamento
 
-1 - São competentes para autorizar a realização de despesas:
+1 - Os titulares dos cargos de direção intermédia são recrutados, por procedimento concursal, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direção intermédia de 1.º ou de 2.º grau, respetivamente.
 
-a) Sem limite, o Presidente da Assembleia Legislativa Regional;
+2 - O procedimento concursal é efetuado por júri nomeado para o efeito, o qual deverá compreender pelo menos um elemento designado pela Direção Regional responsável pela área da Administração Pública ou por indivíduo de reconhecida competência na área funcional respetiva.
 
-b) Até ao limite fixado para os Secretários Regionais do Governo da Região Autónoma, o Conselho de Administração da Assembleia Legislativa Regional;
+3 - O recrutamento para os cargos de direção intermédia pode também ser feito de entre funcionários integrados na carreira de técnico de apoio parlamentar, ainda que não possuidores de curso superior.
 
-c) Até ao limite fixado para os órgãos máximos dos serviços e fundos autónomos da Região Autónoma, o Secretário-Geral da Assembleia Legislativa Regional.
-
-2 - São competentes para autorizar a realização de despesas sem concurso ou com dispensa de contrato escrito:
-
-a) Sem limite, o Presidente da Assembleia Legislativa Regional;
-
-b) Até ao limite fixado para os Secretários Regionais do Governo da Região Autónoma, o Conselho de Administração da Assembleia Legislativa Regional.
-
-3 - Sempre que tal se revele estritamente necessário, pode ser autorizada pelo Conselho de Administração, mediante proposta do Secretário-Geral, a realização de despesas com a aquisição de bens ou a prestação de serviços com dispensa de formalidades legais, sem prejuízo de, em todos os casos, serem observados procedimentos que preservem a transparência e a economia das contratações.
+4 - Ao recrutamento de pessoal para cargos de direção intermédia aplica-se, com as necessárias adaptações e em tudo o que não se encontre expressamente previsto no presente diploma, o regime da lei geral com as adaptações que vigorem na Região Autónoma da Madeira.

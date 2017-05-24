@@ -1,17 +1,19 @@
+## Capítulo VI
+
+## Pessoal dos serviços da Assembleia Legislativa
+
+## Secção I
+
+## Disposições gerais
+
 # Artigo 39.º
 
-### Garantias de imparcialidade e isenção
+### Estatuto do pessoal parlamentar
 
-1 - O exercício de funções na Assembleia Legislativa da Região Autónoma da Madeira, quer em funções dirigentes, quer por funcionário ou agente, é feito em regime de exclusividade, sendo incompatível com qualquer cargo, função ou atividade, públicos ou privados, que possam afetar a isenção e a independência do funcionário parlamentar, bem como o total cumprimento dos deveres estabelecidos no presente diploma.
+1 - O pessoal da Assembleia Legislativa Regional rege-se por estatuto próprio, nos termos do presente decreto legislativo regional e das resoluções e dos regulamentos da Assembleia Legislativa Regional.
 
-2 - Excecionalmente, o exercício das funções na Assembleia Legislativa pode ser acumulado com o de outras funções públicas quando estas não sejam remuneradas e haja na acumulação manifesto interesse público, desde que devidamente autorizado por despacho fundamentado do dirigente máximo dos serviços.
+2 - A legislação referente à Administração Pública, bem como o estatuto do pessoal da Assembleia da República, é aplicável, subsidiariamente, aos funcionários da Assembleia Legislativa Regional, com as necessárias adaptações.
 
-3 - Sendo remuneradas e havendo manifesto interesse público na acumulação, o exercício de outras funções públicas pode ser autorizado por despacho do Presidente da Assembleia Legislativa e apenas nos seguintes casos:
+3 - Salvo motivo justificado, as férias dos funcionários deverão ser gozadas fora do período de funcionamento efetivo da Assembleia Legislativa da Região Autónoma da Madeira.
 
-a) Inerência;
-
-b) Atividade de representação;
-
-c) Atividade docente no ensino superior ou de investigação sem prejuízo do cumprimento integral da duração semanal do trabalho e desde que não se sobreponha em mais de um terço ao horário inerente à função principal;
-
-d) Realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza.
+4 - O pessoal referido no n.º 1 é portador de um cartão de identidade, conforme o anexo III do presente diploma.

@@ -1,5 +1,9 @@
+## Secção IV
+
+## Conselho de Administração
+
 # Artigo 18.º
 
-### Organização interna dos serviços
+### Definição e composição
 
-A organização interna dos serviços e as suas condições de funcionamento são definidas em regulamento próprio, aprovado por despacho do Presidente da Assembleia Legislativa Regional, sob proposta do secretário-geral, obtido o parecer favorável do Conselho de Administração.
+O Conselho de Administração é um órgão de gestão, constituído pelo secretário-geral da Assembleia Legislativa Regional e por dois membros de adequada idoneidade e qualificação, a nomear pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.

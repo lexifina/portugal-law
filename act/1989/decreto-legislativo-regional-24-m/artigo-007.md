@@ -1,11 +1,11 @@
-## Secção II
-
-## Presidente da Assembleia Legislativa Regional
-
 # Artigo 7.º
 
-### Competência
+### Órgãos
 
-1 - O Presidente da Assembleia Legislativa Regional tem as competências que lhe são atribuídas pela Constituição, pelo Estatuto Político-Administrativo, pela lei e pelo Regimento.
+São órgãos da Assembleia Legislativa Regional:
 
-2 - O Presidente da Assembleia Legislativa Regional superintende na administração da Assembleia Legislativa Regional.
+a) O Presidente da Assembleia Legislativa Regional;
+
+b) O Conselho Consultivo;
+
+c) O Conselho de Administração.

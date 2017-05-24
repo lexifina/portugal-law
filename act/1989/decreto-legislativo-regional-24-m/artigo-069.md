@@ -2,7 +2,7 @@
 
 ## Execução orçamental
 
-# Artigo 53.º-A
+# Artigo 69.º
 
 ### Execução
 
