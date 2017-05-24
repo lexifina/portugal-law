@@ -22,11 +22,13 @@ f) Na concessão do crédito, o utilizador do crédito;
 
 g) Nas restantes operações financeiras realizadas por ou com intermediação de instituições de crédito, sociedades ou outras instituições financeiras, o cliente destas;
 
-h) (Revogada.)
+h) Nas operações de pagamento baseadas em cartões, previstas na verba 17.3.4. da Tabela Geral do Imposto do Selo, as instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras a quem aquelas forem devidas;
 
-i) Nos cheques, o titular da conta;
+i) (Revogada.)
 
-j) Nas letras e livranças, o sacado e o devedor;
+j) Nos cheques, o titular da conta;
+
+k) Nas letras e livranças, o sacado e o devedor;
 
 l) Nos títulos de crédito não referidos anteriormente, o credor;
 
