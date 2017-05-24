@@ -1,0 +1,219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "23",
+    "id": "40635",
+    "titulo": "Decreto-Lei nº 57/2016, de 29 de agosto, que \"aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as áreas do conhecimento\""
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2017-05-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12115",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2017-05-24",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "40683",
+        "leg": "XIII",
+        "nr": "25",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2352",
+            "obs": null,
+            "pag": [
+              "41-43"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-05-25",
+            "pubLeg": "XIII",
+            "pubNr": "92",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/092/2017-05-25/41?pgs=41-43&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 57/2016, de 29 de agosto, que \"Aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as áreas do conhecimento\""
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-05-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_05_24_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m05/&tI=02:43:59:837&drc=00:02:33:163"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-05-25",
+                "pubLeg": "XIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/092/2017-05-25/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei nº 57/2016, de 29 de agosto, que \"aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as áreas do conhecimento\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "469",
+                "nome": "Porfírio Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_05_24_15_00_00_clean_14_plenario&url=l13/sl2/a2017/m05/&tI=02:46:42:313&drc=00:02:31:686"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "213136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-05-25",
+                "pubLeg": "XIII",
+                "pubNr": "92",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/092/2017-05-25/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei nº 57/2016, de 29 de agosto, que \"aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as áreas do conhecimento\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "326600",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "793652",
+        "obs": null,
+        "pag": [
+          "40-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-05-25",
+        "pubLeg": "XIII",
+        "pubNr": "92",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/092/2017-05-25/40?pgs=40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2017-05-24",
+        "descricao": "Texto Final apresentado pela Comissão de Educação e Ciência relativo às Apreciações Parlamentares n.ºs 23/XIII/2.ª (BE) e 25/XIII/2.ª (PCP)",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "75819",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "92",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
