@@ -1,0 +1,31 @@
+Aviso n.º 5935/2017
+António José Lopes Anselmo, Presidente da Câmara Municipal de Borba:
+Torna público, nos termos e para efeitos do disposto no artigo 56.º do Anexo I à Lei n.º75/2013, de 12 de setembro e artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, que a Assembleia Municipal de Borba, em sessão ordinária realizada a 28/04/2017, por proposta da Câmara Municipal de Borba de 12/04/2016, aprovou o Regulamento de Adesão aos Serviços Online do Município de Borba, face ao preceituado na alínea g) do n.º 1 do artigo 25.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, o qual entrará em vigor no dia útil seguinte à data da sua publicação.
+8 de maio de 2017. - O Presidente da Câmara Municipal, António José Lopes Anselmo.
+Regulamento de Adesão aos Serviços Online do Município de Borba
+1 - O Serviço Online tem por objeto disponibilizar um conjunto de serviços próprios, com funcionalidades públicas e privadas.
+2 - O acesso ao Serviço Online é efetuado mediante o registo, efetuado por cada utilizador, que se compromete a aceitar as presentes Condições de Adesão a efetivar. Caso a adesão não seja efetuada através do Cartão do Cidadão, é necessária a assinatura, presencialmente, no Balcão Único do Município de Borba.
+3 - Para aderir a este serviço, pode utilizar o certificado do Cartão do Cidadão e respetivo PIN de autenticação ou então terá de apresentar o Bilhete de Identidade e o Cartão de Contribuinte, no Balcão Único do Município de Borba.
+4 - Caso a adesão ao Serviço Online não seja efetuada com o Cartão do Cidadão, após o ato de adesão ao Serviço Online e após validação dos dados por parte dos serviços do Município de Borba, o utilizador receberá um e-mail, atribuindo-lhe o seu Número de Adesão e a Palavra Chave.
+5 - O Número de Adesão e a Palavra-Chave constituem informação de uso exclusivo do utilizador e são exigidos sempre que este pretenda aceder às funcionalidades privadas do Serviço. No caso do acesso com Cartão do Cidadão, o acesso às funcionalidades privadas do Serviço é feito depois de introduzido o PIN de autenticação.
+6 - O sistema centraliza a gestão de Utilizadores do site, identificados através da informação transmitida no ato de registo e adesão ao Serviço Online, os números de adesão e palavras-chaves, definidos nos termos do ponto 4.
+7 - O Utilizador pode, em qualquer momento e quanto às funcionalidades de acesso privado, alterar os serviços a que pretende aceder através do Serviço Online.
+8 - O primeiro acesso do Utilizador a determinados serviços ou funcionalidades privadas disponibilizados pelo Serviço Online pode ser condicionado a ativação prévia, a efetuar, nos termos que se vierem a definir.
+9 - O Utilizador é responsável pela utilização da informação prestada no âmbito do Serviço Online e pela permanente atualização da informação pessoal constante do registo.
+10 - O Município de Borba reserva-se o direito de suspender ou fazer cessar o acesso aos serviços do site, assim como de solicitar a confirmação de qualquer informação fornecida pelo Utilizador.
+11 - O Município de Borba pode suspender o acesso aos serviços nos seguintes casos:
+1) Quando o Utilizador não utilize o serviço por período superior a 12 meses;
+2) Quando, na mesma sessão, o Utilizador efetue 3 tentativas consecutivas de introdução incorreta da chave de acesso.
+12 - Caso o acesso aos serviços seja suspenso, o Utilizador pode efetuar novo pedido de acesso.
+13 - O Utilizador obriga-se a manter a confidencialidade da chave de acesso e a prevenir o seu uso abusivo por parte de terceiros, assumindo a total responsabilidade derivada da utilização por terceiros dos serviços disponibilizados neste site.
+14 - O Serviço Online possui os adequados níveis de segurança contudo, não é responsável pelos prejuízos provenientes de erros de transmissão e de deficiências técnicas ou derivados de interferências ou interceções ilegítimas que ocorram nos sistemas de comunicação e redes informáticas utilizados.
+15 - As presentes condições de adesão poderão ser alteradas, considerando-se as alterações aceites pelo Utilizador desde que, após lhes terem sido comunicadas, o Utilizador não manifeste expressamente a intenção de cessar o acesso ao serviço.
+16 - As consultas de dados e informação efetuadas no âmbito deste serviço presumem-se efetuadas pelo Utilizador, declinando o Município de Borba qualquer responsabilidade decorrente da utilização abusiva ou fraudulenta das informações obtidas.
+17 - Os elementos e informações transmitidos e a requisição de serviços solicitados pelo Utilizador ao Serviço Online gozarão de plenos efeitos jurídicos, não podendo o Utilizador alegar qualquer falta para cumprimento das obrigações assumidas por esta via.
+18 - Sem prejuízo do cumprimento das disposições legais sobre esta matéria, o Utilizador autoriza o Município de Borba a proceder ao tratamento informático dos dados fornecidos no ato de registo e adesão ao Serviço Online ou que, posteriormente, venha a fornecer, podendo estes dados ser partilhados com as empresas municipais ou entidades aderentes, designadamente para fins de natureza estatística, marketing e comunicação de informação.
+19 - Os dados do Utilizador que sejam específicos e particulares de cada uma das entidades ou empresas municipais aderentes ao Serviço Online serão de acesso exclusivo de cada uma delas.
+20 - O Utilizador tem o direito de aceder aos elementos a si referentes constantes das bases de dados referidas no ponto 18, assim como de exigir a sua atualização ou retificação, bem como de exigir a eliminação do seu nome das mesmas, verificando-se a cessação do serviço.
+21 - A informação prestada no âmbito do Serviço Online é propriedade das entidades que a prestam, comprometendo-se o Utilizador a não infringir, qualquer que seja o meio empregue, aqueles direitos de propriedade.
+22 - O Serviço Online é um serviço prestado por prazo indeterminado, podendo cessar mediante simples comunicação ao Utilizador.
+23 - O Serviço Online está implementado num site registado e o serviço prestado pelo próprio site é da responsabilidade do Município de Borba, com sede na Praça da República, em Borba, pessoa coletiva n.º 503 956 546.
+310483193
