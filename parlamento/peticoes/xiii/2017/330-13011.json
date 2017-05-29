@@ -1,0 +1,399 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13011",
+  "numero": "330",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-05-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-09-26",
+            "entidades": null,
+            "id": "110318",
+            "tipo": null,
+            "titulo": "Audição em 2018-09-26 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-12-05",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-06-06",
+        "DataArquivo": "2018-12-05",
+        "DataBaixaComissao": "2017-06-07",
+        "DataEnvioPAR": "2018-12-06",
+        "DataReaberta": "2018-06-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-06-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a5745784e6a5a6a4d7a45744e324a684f5330304d6a4d334c54677a4e6d45744d444a685a4449335954566d597a49774c6e426b5a673d3d&fich=ea166c31-7ba9-4237-836a-02ad27a5fc20.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-12-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e444d345a4751794e574974596a646a59793030596a4a6b4c54686d5a6a5174597a466c5a575a6a597a6c6c4d3245794c6e426b5a673d3d&fich=438dd25b-b7cc-4b2d-8ff4-c1eefcc9e3a2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-06-06",
+            "gp": "PSD",
+            "id": "5491",
+            "motivoCessacao": null,
+            "nome": "Susana Lamas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-05-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-06-07",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938334e57566c4d44417a4d7930314d7a51324c545177596d4974596a68694e7930774d6d4e6c4f574d7a4d7a55305a4755756347526d&fich=75ee0033-5346-40bb-b8b7-02ce9c3354de.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:26:59:615&drc=00:04:16:560"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:31:16:176&drc=00:04:16:129"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/68?pgs=68&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:35:32:305&drc=00:04:19:128"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/69?pgs=69&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:39:51:433&drc=00:03:50:648"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:43:42:082&drc=00:03:49:483"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13011",
+    "PetAssunto": "Solicitam que a licença de parentalidade possa ser gozada até 1 ano a 100%",
+    "PetDataEntrada": "2017-05-29",
+    "PeticoesAssociadas": null,
+    "PetId": "13011",
+    "PetLeg": "XIII",
+    "PetNr": "330",
+    "PetNrAssinaturas": "21038",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "696",
+        "obs": null,
+        "pag": [
+          "66-72"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-05-09",
+        "pubLeg": "XIII",
+        "pubNr": "83",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/66?pgs=66-72&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
