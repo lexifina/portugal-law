@@ -155,3 +155,5 @@ b) Por cada prédio a mais, além do primeiro, adjudicado a cada partilhante - (
 19.2 - Pedido verbalmente num serviço de registo com competência para a prática de atos de registo predial - (euro) 10.
 
 20 - [Revogado].
+
+21 - Pelo procedimento extraordinário de regularização da situação jurídico-registral dos bens do Estado, dos institutos públicos, das regiões autónomas e das autarquias locais - (euro) 550,00.
