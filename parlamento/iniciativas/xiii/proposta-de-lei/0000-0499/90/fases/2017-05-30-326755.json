@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "90",
+    "id": "41417",
+    "titulo": "Procede à quadragésima terceira alteração ao Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, à quinta alteração ao Código da Execução das Penas e Medidas Privativas de Liberdade, aprovado pela Lei n.º 115/2009, de 12 de outubro, à primeira alteração à Lei de vigilância eletrónica, aprovada pela Lei n.º 33/2010, de 2 de setembro e à segunda alteração à Lei da Organização do Sistema Judiciário, aprovada pela Lei n.º 62/2013, de 26 de agosto."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2017-05-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "40365",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-06-01",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-05-30",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2017-07-10",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a526c4d7a646c596a45745a446b33597930304e4449794c546b304e3255744f444a684e474e6c4d7a517a5a4749324c6e426b5a673d3d&fich=c4e37eb1-d97c-4422-947e-82a4ce343db6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-06-12",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a526d5954686b4d7a557459544a6c4d6930305a44426a4c5749304e6a6b74597a6b324d7a67784d546c6b4d44526a4c6c424552673d3d&fich=b4fa8d35-a2e2-4d0c-b469-c9638119d04c.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a646d5a475a6d4d574974597a59355a4330304d6d55334c5746684e6a45744e5445324e544d7a59545a684d4449794c6e426b5a673d3d&fich=f7fdff1b-c69d-42e7-aa61-516533a6a022.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Conselho Superior do Ministério Público",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d59795a5445775a5759745a4459314e433030597a63314c5745354d5463744f57526d4d5751324d5445334f444a684c6e426b5a673d3d&fich=ff2e10ef-d654-4c75-a917-9df1d611782a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-07-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradora-Geral a República",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5445344e6a6b78597a51744d6a51784d5330304e5463304c5749304f446b744d5755794d4452684d44646c5a47597a4c6e426b5a673d3d&fich=518691c4-2411-4574-b489-1e204a07edf3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2017-06-14",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4755344f4455354e7a67745a575178596930304e6d45304c546c694d4749744d5459304e6a59305a574d355a6a4e6b4c6e426b5a673d3d&fich=de885978-ed1b-46a4-9b0b-164664ec9f3d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2017-07-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2017-07-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2017-06-12"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2017-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Publico em 2017-06-01"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2017-06-01"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-13"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-14",
+            "pubLeg": "XIII",
+            "pubNr": "124",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/124/2017-06-14/2?pgs=2-13&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "2-13"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-14",
+            "pubLeg": "XIII",
+            "pubNr": "124",
+            "pubSL": "2",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/02/124/2017-06-14/2?pgs=2-13&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "209",
+            "motivoCessacao": null,
+            "nome": "António Filipe"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2017-06-14",
+            "dataRemessa": "2017-06-14",
+            "numeroOficio": "612/XIII71.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2017-06-14",
+            "descricao": null,
+            "detalhe": null,
+            "id": "76024",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "127",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2017-05-30",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "326755",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
