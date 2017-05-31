@@ -1,9 +1,19 @@
 # Artigo 110.º
 
-### Objectos pertencentes a terceiro
+### Perda de produtos e vantagens
 
-1 - Sem prejuízo do disposto nos números seguintes, a perda não tem lugar se os objectos não pertencerem, à data do facto, a nenhum dos agentes ou beneficiários, ou não lhes pertencerem no momento em que a perda foi decretada.
+1 - São declarados perdidos a favor do Estado:
 
-2 - Ainda que os objectos pertençam a terceiro, é decretada a perda quando os seus titulares tiverem concorrido, de forma censurável, para a sua utilização ou produção, ou do facto tiverem retirado vantagens; ou ainda quando os objectos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a sua proveniência.
+a) Os produtos de facto ilícito típico, considerando-se como tal todos os objetos que tiverem sido produzidos pela sua prática; e
 
-3 - Se os objectos consistirem em inscrições, representações ou registos lavrados em papel, noutro suporte ou meio de expressão audiovisual, pertencentes a terceiro de boa fé, não terá lugar a perda, procedendo-se à restituição depois de apagadas as inscrições, representações ou registos que integrarem o facto ilícito típico. Não sendo isso possível, o tribunal ordena a destruição, havendo lugar à indemnização nos termos da lei civil.
+b) As vantagens de facto ilícito típico, considerando-se como tal todas as coisas, direitos ou vantagens que constituam vantagem económica, direta ou indiretamente resultante desse facto, para o agente ou para outrem.
+
+2 - O disposto na alínea b) do número anterior abrange a recompensa dada ou prometida aos agentes de um facto ilícito típico, já cometido ou a cometer, para eles ou para outrem.
+
+3 - A perda dos produtos e das vantagens referidos nos números anteriores tem lugar ainda que os mesmos tenham sido objeto de eventual transformação ou reinvestimento posterior, abrangendo igualmente quaisquer ganhos quantificáveis que daí tenham resultado.
+
+4 - Se os produtos ou vantagens referidos nos números anteriores não puderem ser apropriados em espécie, a perda é substituída pelo pagamento ao Estado do respetivo valor, podendo essa substituição operar a todo o tempo, mesmo em fase executiva, com os limites previstos no artigo 112.º-A.
+
+5 - O disposto nos números anteriores tem lugar ainda que nenhuma pessoa determinada possa ser punida pelo facto, incluindo em caso de morte do agente ou quando o agente tenha sido declarado contumaz.
+
+6 - O disposto no presente artigo não prejudica os direitos do ofendido.
