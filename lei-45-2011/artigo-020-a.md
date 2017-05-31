@@ -23,7 +23,3 @@
 8 - A ESPAP, I. P., dá conhecimento ao GAB da decisão referida no número anterior, nos termos do disposto no n.º 1 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.
 
 9 - A comunicação referida no n.º 7 não está sujeita à limitação prevista no n.º 2 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.
-
-10 - Excetuam-se do disposto nos n.os 2 a 9, bem como nos diplomas aí referidos, os veículos automóveis, embarcações e aeronaves cujo valor resultante da avaliação seja inferior a 3000 (euro), procedendo o GAB de imediato à sua venda, ao abrigo do disposto no n.º 2 do artigo 14.º ou no n.º 5 do artigo 17.º, consoante o caso, verificados os demais requisitos e observados os demais procedimentos estabelecidos na presente lei para esse efeito.
-
-11 - Nos casos previstos no número anterior, tratando-se de veículo automóvel, embarcação ou aeronave apreendido por órgão de polícia criminal, o GAB comunica-lhe o resultado da avaliação, cessando qualquer procedimento de declaração de utilidade operacional que se encontre pendente ao abrigo do Decreto-Lei n.º 11/2007, de 19 de janeiro, ou a utilidade operacional já declarada ao abrigo do mesmo diploma, e sendo o bem remetido ao GAB.

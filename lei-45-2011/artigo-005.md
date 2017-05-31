@@ -8,10 +8,10 @@ a) Polícia Judiciária;
 
 b) Instituto dos Registos e do Notariado, I. P.;
 
-c) Direcção-Geral dos Impostos;
+c) Autoridade Tributária e Aduaneira;
 
-d) Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
+d) (Revogada.)
 
-2 - A composição e a coordenação do GRA são fixadas por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da justiça.
+2 - A composição e a coordenação do GRA são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.
 
 3 - A nomeação dos elementos que compõem o GRA é efectuada em regime de comissão de serviço, cuja duração é fixada na portaria referida no número anterior.

@@ -16,4 +16,4 @@ b) Quando o valor estimado dos mesmos seja superior a 1000 unidades de conta.
 
 5 - Os procedimentos realizados pelo GRA são documentados em apenso ao processo.
 
-6 - A investigação financeira ou patrimonial pode realizar-se, para efeitos do n.º 2 do artigo 8.º da Lei n.º 5/2002, de 11 de Janeiro, depois de encerrado o inquérito.
+6 - A investigação financeira ou patrimonial pode realizar-se, para efeitos do n.º 2 do artigo 8.º da Lei n.º 5/2002, de 11 de janeiro, depois de encerrado o inquérito e, para efeitos de deteção e rastreio dos bens a declarar perdidos, mesmo depois da condenação, com os limites previstos no artigo 112.º-A do Código Penal.
