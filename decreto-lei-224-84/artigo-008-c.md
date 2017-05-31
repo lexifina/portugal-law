@@ -8,7 +8,7 @@
 
 3 - O registo das decisões finais proferidas nas ações referidas no número anterior deve ser pedido no prazo de um mês a contar da data do respetivo trânsito em julgado.
 
-4 - O registo das providências cautelares decretadas nos procedimentos referidos na alínea d) do n.º 1 do artigo 3.º deve ser pedido no prazo de um mês a contar da data em que os factos tiverem sido titulados.
+4 - O registo das providências cautelares decretadas nos procedimentos referidos na alínea d) do n.º 1 do artigo 3.º, assim como o registo do ato a que se refere a alínea p) do n.º 1 do artigo 2.º, devem ser pedidos no prazo de um mês a contar da data em que os factos tiverem sido titulados.
 
 5 - [Revogado].
 

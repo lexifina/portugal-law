@@ -30,36 +30,38 @@ m) Na de arrolamento, a data da diligência e, na de declaração de insolvênci
 
 n) Na de outros actos ou providências cautelares, o seu conteúdo e a data do negócio jurídico ou do respectivo despacho;
 
-o) Na de locação financeira: o prazo e a data do seu início;
+o) Na da apreensão em processo penal, a identificação do processo e a data de aplicação da medida;
 
-p) Na de consignação de rendimentos: o prazo de duração ou, se for por tempo indeterminado, a quantia para cujo pagamento se fez a consignação e a importância a descontar em cada ano, se tiver sido estipulada uma quantia fixa;
+p) Na de locação financeira: o prazo e a data do seu início;
 
-q) Na de constituição de propriedade horizontal, o valor relativo de cada fracção, expresso em percentagem ou permilagem, a existência de regulamento, caso este conste do título constitutivo, e os direitos dos condóminos neste título especialmente regulados e, na de alteração do título constitutivo, a descrição da alteração;
+q) Na de consignação de rendimentos: o prazo de duração ou, se for por tempo indeterminado, a quantia para cujo pagamento se fez a consignação e a importância a descontar em cada ano, se tiver sido estipulada uma quantia fixa;
 
-r) Na de constituição do direito de habitação periódica, o número de fracções temporais com indicação do início e termo de duração em cada ano, bem como o respectivo regime na parte especialmente regulada no título, e, na de alteração do título constitutivo, a descrição da alteração;
+r) Na de constituição de propriedade horizontal, o valor relativo de cada fracção, expresso em percentagem ou permilagem, a existência de regulamento, caso este conste do título constitutivo, e os direitos dos condóminos neste título especialmente regulados e, na de alteração do título constitutivo, a descrição da alteração;
 
-s) Na de ónus de rendas económicas: as rendas base; e na de ónus de rendas limitadas: o mapa das rendas dos andares para habitação;
+s) Na de constituição do direito de habitação periódica, o número de fracções temporais com indicação do início e termo de duração em cada ano, bem como o respectivo regime na parte especialmente regulada no título, e, na de alteração do título constitutivo, a descrição da alteração;
 
-t) Na de afectação ao caucionamento das reservas técnicas: a espécie de reservas e o valor representado pelo prédio; e na de afectação ao caucionamento da responsabilidade patronal: o fundamento e o valor da caução;
+t) Na de ónus de rendas económicas: as rendas base; e na de ónus de rendas limitadas: o mapa das rendas dos andares para habitação;
 
-u) Na de ónus de anuidade em obras de fomento agrícola: as anuidades asseguradas;
+u) Na de afectação ao caucionamento das reservas técnicas: a espécie de reservas e o valor representado pelo prédio; e na de afectação ao caucionamento da responsabilidade patronal: o fundamento e o valor da caução;
 
-v) Na de renúncia à indemnização por aumento de valor: a especificação das obras e o montante da indemnização ou, na sua falta, o da avaliação do prédio;
+v) Na de ónus de anuidade em obras de fomento agrícola: as anuidades asseguradas;
 
-x) Na de qualquer restrição ou encargo: o seu conteúdo;
+x) Na de renúncia à indemnização por aumento de valor: a especificação das obras e o montante da indemnização ou, na sua falta, o da avaliação do prédio;
 
-z) Na de concessão: o conteúdo do direito, na parte especialmente regulada no título, e o prazo da concessão;
+z) Na de qualquer restrição ou encargo: o seu conteúdo;
 
-aa) Na que tenha por base um contrato para pessoa a nomear: o prazo para a nomeação e, quando exista, a referência à estipulação que obste à produção dos efeitos do contrato.
+aa) Na de concessão: o conteúdo do direito, na parte especialmente regulada no título, e o prazo da concessão;
 
-ab) Na do título constitutivo do empreendimento turístico, a indicação das descrições prediais dos lotes e das fracções autónomas que integram o empreendimento ou o resort, bem como a data da aprovação do título pelo Turismo de Portugal, I. P., e, na de alteração do título constitutivo, a descrição da alteração e a data da sua aprovação pela mesma entidade.
+ab) Na que tenha por base um contrato para pessoa a nomear: o prazo para a nomeação e, quando exista, a referência à estipulação que obste à produção dos efeitos do contrato.
 
-2 - As inscrições referidas na alínea t) do número anterior são feitas a favor, respectivamente, do Instituto de Seguros de Portugal e do juiz do tribunal do trabalho competente e as referidas na alínea v) do mesmo número a favor da entidade expropriante.
+ac) Na do título constitutivo do empreendimento turístico, a indicação das descrições prediais dos lotes e das fracções autónomas que integram o empreendimento ou o resort, bem como a data da aprovação do título pelo Turismo de Portugal, I. P., e, na de alteração do título constitutivo, a descrição da alteração e a data da sua aprovação pela mesma entidade.
+
+2 - As inscrições referidas na alínea u) do número anterior são feitas a favor, respetivamente, da Autoridade de Supervisão de Seguros e Fundos de Pensões e do juiz do tribunal do trabalho competente e as referidas na alínea x) do mesmo número a favor da entidade expropriante.
 
 3 - Se as condições técnicas permitirem o arquivamento electrónico dos documentos junto das inscrições, devem ser efectuadas por remissão para o documento arquivado que serve de base ao registo as seguintes menções especiais:
 
 a) As condições da operação, nos registos a que se refere a alínea f) do n.º 1;
 
-b) Os direitos dos condóminos especialmente regulados no título, nos registos a que se refere a alínea q) do n.º 1;
+b) Os direitos dos condóminos especialmente regulados no título, nos registos a que se refere a alínea r) do n.º 1;
 
-c) O regime do direito de habitação periódica, na parte especialmente regulada pelo título, nos registos a que se refere a alínea r) do n.º 1.
+c) O regime do direito de habitação periódica, na parte especialmente regulada pelo título, nos registos a que se refere a alínea s) do n.º 1.
