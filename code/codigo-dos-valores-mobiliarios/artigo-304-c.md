@@ -12,6 +12,6 @@ c) Justificar a recusa da certificação das contas ou a emissão de reservas.
 
 2 - O dever de comunicação imposto pelo presente artigo prevalece sobre quaisquer restrições à divulgação de informações, legal ou contratualmente previstas, e o seu cumprimento de boa fé não envolve qualquer responsabilidade para os respectivos sujeitos.
 
-3 - Se os factos referidos no n.º 1 constituírem informação privilegiada nos termos do artigo 248.º, a CMVM e o Banco de Portugal devem coordenar as respectivas acções, tendo em vista uma adequada conjugação dos objectivos de supervisão prosseguidos por cada uma dessas autoridades.
+3 - Se os factos referidos no n.º 1 constituírem informação privilegiada nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados, a CMVM e o Banco de Portugal coordenam as respetivas ações, tendo em vista uma adequada conjugação dos objetivos de supervisão prosseguidos por cada uma dessas autoridades.
 
 4 - Os auditores referidos no n.º 1 devem apresentar, anualmente, à CMVM um relatório que ateste o carácter adequado dos procedimentos e medidas, adoptados pelo intermediário financeiro por força das disposições da subsecção iii da presente secção.

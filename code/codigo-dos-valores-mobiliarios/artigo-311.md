@@ -12,7 +12,9 @@ b) A transferência aparente, simulada ou artificial de instrumentos financeiros
 
 c) A execução de ordens destinadas a defraudar ou a limitar significativamente os efeitos de leilão, rateio ou outra forma de atribuição de instrumentos financeiros;
 
-d) A realização de operações de fomento não previamente comunicadas à CMVM ou de operações de estabilização que não sejam efectuadas nas condições legalmente permitidas.
+d) A realização de operações de fomento não previamente comunicadas à CMVM ou de operações de estabilização que não sejam efectuadas nas condições legalmente permitidas;
+
+e) Os padrões de intervenção negocial algorítmica ou de alta frequência que comportem riscos de perturbação, de alteração artificial ou enganosa da negociação ou de atraso no funcionamento do sistema de negociação.
 
 3 - As entidades referidas no n.º 1 analisam ainda com especial cuidado e diligência as ordens e as transacções, nomeadamente as que se possam reconduzir às seguintes situações:
 

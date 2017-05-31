@@ -24,7 +24,11 @@ i) Entidades que se proponham a celebrar ou mediar contratos de seguro ligados a
 
 j) Titulares de posições curtas relevantes sobre ações e dívida soberana e adquirentes de proteção em swaps de risco de incumprimento soberano;
 
-k) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
+k) Participantes, operadores, gestores de mercados de licenças de emissão e produtos derivados de licenças de emissão, leiloeiros e supervisores de leilões de licenças de emissão;
+
+l) Administradores de índices de referência de quaisquer instrumentos financeiros e os contribuidores de informação e dados para esses índices;
+
+m) Outras pessoas que exerçam, a título principal ou acessório, actividades relacionadas com a emissão, a distribuição, a negociação, o registo ou o depósito de instrumentos financeiros ou, em geral, com a organização e o funcionamento dos mercados de instrumentos financeiros.
 
 2 - As pessoas ou entidades que exerçam actividades de carácter transnacional ficam sujeitas à supervisão da CMVM sempre que essas actividades tenham alguma conexão relevante com mercados regulamentados, sistemas de negociação multilateral, operações ou instrumentos financeiros sujeitos à lei portuguesa.
 

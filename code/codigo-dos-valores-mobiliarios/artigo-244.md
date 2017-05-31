@@ -1,6 +1,6 @@
-## Subsecção VI
+## Secção III
 
-## Informação relativa a valores mobiliários admitidos à negociação
+## Informação relativa a instrumentos financeiros admitidos à negociação
 
 # Artigo 244.º
 

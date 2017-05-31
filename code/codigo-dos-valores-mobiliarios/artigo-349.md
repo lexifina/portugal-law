@@ -2,4 +2,4 @@
 
 ### Estabilização de preços
 
-As operações susceptíveis de provocar efeitos estabilizadores nos preços de uma determinada categoria de valores mobiliários apenas são permitidas quando realizadas nas condições estabelecidas no Regulamento (CE) n.º 2273/2003, da Comissão, de 22 de Dezembro.
+As operações de estabilização de preços regem-se pelo Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.o.

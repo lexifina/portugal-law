@@ -8,12 +8,24 @@ a) Apreensão e perda do objecto da infracção, incluindo o produto do benefíc
 
 b) Interdição temporária do exercício pelo infractor da profissão ou da actividade a que a contra-ordenação respeita;
 
-c) Inibição do exercício de funções de administração, direcção, chefia ou fiscalização e, em geral, de representação de quaisquer intermediários financeiros no âmbito de alguma ou de todas as actividades de intermediação em valores mobiliários ou outros instrumentos financeiros;
+c) Inibição do exercício de funções de administração, gestão, direção, chefia ou fiscalização e, em geral, de representação em entidades sujeitas à supervisão da CMVM;
 
 d) Publicação pela CMVM, a expensas do infractor e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da protecção dos mercados de valores mobiliários ou de outros instrumentos financeiros, da sanção aplicada pela prática da contra-ordenação;
 
 e) Revogação da autorização ou cancelamento do registo necessários para o exercício de actividades de intermediação em valores mobiliários ou outros instrumentos financeiros.
 
-2 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a cinco anos, contados da decisão condenatória definitiva.
+f) Interdição temporária de negociar por conta própria em instrumentos financeiros;
 
-3 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extracto, conforme for decido pela CMVM.
+g) Cancelamento do registo ou revogação da autorização para exercício de funções de administração, gestão, direção ou fiscalização em entidades sujeitas à supervisão da CMVM.
+
+2 - As sanções acessórias referidas no número anterior não podem ter duração superior:
+
+a) A cinco anos, contados a partir da decisão condenatória definitiva, nos casos das sanções previstas nas alíneas b) e c);
+
+b) A 12 meses, contados a partir da decisão condenatória definitiva, no caso da sanção prevista na alínea f).
+
+3 - Os prazos referidos no número anterior são elevados ao dobro, a contar da decisão condenatória definitiva, caso a condenação respeite à prática dolosa de contraordenação muito grave e o arguido já tenha sido previamente condenado pela prática de uma infração dessa natureza.
+
+4 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extracto, conforme for decido pela CMVM.
+
+5 - No caso de aplicação de sanção acessória prevista nas alíneas c), e) e g) do n.º 1, a CMVM ou o tribunal comunica a condenação à entidade que concedeu a autorização ou averbou o registo para execução dos efeitos da sanção.

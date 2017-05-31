@@ -20,7 +20,7 @@ g) A falta de divulgação do prospecto de admissão, das respectivas adenda e r
 
 h) A falta de divulgação da informação exigida pelos emitentes de valores mobiliários negociados em mercado regulamentado;
 
-i) A violação do regime da informação privilegiada, excepto no caso em que tal facto constitua crime.
+i) (Revogada).
 
 2 - Constitui contra-ordenação grave a violação de qualquer dos seguintes deveres:
 

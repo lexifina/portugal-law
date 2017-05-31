@@ -18,6 +18,6 @@ f) A organização, pelas entidades gestoras dos mercados, de sistemas de inform
 
 g) Deveres de informação para a admissão à negociação dos valores mobiliários a que se refere a alínea g) do artigo 1.º
 
-h) Os termos e condições em que é comunicada e tornada acessível a informação relativa às transacções previstas no artigo 248.º-B, nomeadamente a possibilidade de tal comunicação ser realizada de forma agregada, em função de um determinado montante e de um período de tempo específico.
+h) (Revogada).
 
 i) A informação que deve ser tornada acessível através do sítio do emitente na Internet, previsto nos n.os 7 e 8 do artigo 244.º

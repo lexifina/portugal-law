@@ -4,7 +4,7 @@
 
 1 - O intermediário financeiro deve adoptar procedimentos destinados a evitar que qualquer pessoa referida no n.º 5 do artigo 304.º envolvida em actividades susceptíveis de originar um conflito de interesses ou que tenha acesso a informação privilegiada ou a outras informações confidenciais realize uma operação pessoal ou aconselhe ou solicite a outrem a realização de uma operação em instrumentos financeiros:
 
-a) Em violação do n.º 4 do artigo 248.º e do artigo 378.º;
+a) Em violação do n.º 1 do artigo 248.º e dos artigos 378.º e 378.º-A;
 
 b) Que implique a utilização ilícita ou a divulgação indevida das informações confidenciais;
 
