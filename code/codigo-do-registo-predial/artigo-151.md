@@ -12,7 +12,7 @@
 
 3 - Sem prejuízo da responsabilidade imputada ao sujeito ativo e ao sujeito da obrigação de registar, e salvo o disposto nos números seguintes, quem apresenta o registo ou pede o ato deve proceder à entrega das importâncias devidas, nestas se incluindo a sanção pecuniária pelo cumprimento tardio da obrigação de registar.
 
-4 - Os tribunais, no que respeita à comunicação das acções, decisões e outros procedimentos e providências judiciais sujeitas a registo, são dispensados do pagamento prévio dos emolumentos e taxas, devendo estas quantias entrar em regra de custas.
+4 - Os tribunais, no que respeita à comunicação das ações, decisões e outros procedimentos e providências ou atos judiciais sujeitos a registo, e o Ministério Público no que respeita à comunicação das apreensões em processo penal que tenha autorizado, ordenado ou validado, são dispensados do pagamento prévio dos emolumentos e taxas, devendo estas quantias entrar em regra de custas.
 
 5 - Quando o pedido for efectuado pelas entidades que celebrem escrituras públicas, autentiquem documentos particulares que titulem factos sujeitos a registo, ou reconheçam as assinaturas neles apostas, estas entidades devem obter do sujeito activo do facto, previamente à titulação ou ao reconhecimento, os emolumentos e taxas devidas pelo registo.
 

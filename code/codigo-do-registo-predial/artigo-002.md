@@ -32,22 +32,24 @@ n) A penhora e a declaração de insolvência;
 
 o) O penhor, a penhora, o arresto e o arrolamento de créditos garantidos por hipoteca ou consignação de rendimentos e quaisquer outros actos ou providências que incidam sobre os mesmos créditos;
 
-p) A constituição do apanágio e as suas alterações;
+p) A apreensão em processo penal;
 
-q) O ónus de eventual redução das doações sujeitas a colação;
+q) A constituição do apanágio e as suas alterações;
 
-r) O ónus de casa de renda limitada ou de renda económica sobre os prédios assim classificados;
+r) O ónus de eventual redução das doações sujeitas a colação;
 
-s) O ónus de pagamento das anuidades previstas nos casos de obras de fomento agrícola;
+s) O ónus de casa de renda limitada ou de renda económica sobre os prédios assim classificados;
 
-t) A renúncia à indemnização, em caso de eventual expropriação, pelo aumento do valor resultante de obras realizadas em imóveis situados nas zonas marginais das estradas nacionais ou abrangidos por planos de melhoramentos municipais;
+t) O ónus de pagamento das anuidades previstas nos casos de obras de fomento agrícola;
 
-u) Quaisquer outras restrições ao direito de propriedade, quaisquer outros encargos e quaisquer outros factos sujeitos por lei a registo;
+u) A renúncia à indemnização, em caso de eventual expropriação, pelo aumento do valor resultante de obras realizadas em imóveis situados nas zonas marginais das estradas nacionais ou abrangidos por planos de melhoramentos municipais;
 
-v) A concessão em bens do domínio público e as suas transmissões, quando sobre o direito concedido se pretenda registar hipoteca;
+v) Quaisquer outras restrições ao direito de propriedade, quaisquer outros encargos e quaisquer outros factos sujeitos por lei a registo;
 
-x) Os factos jurídicos que importem a extinção de direitos, ónus ou encargos registados.
+x) A concessão em bens do domínio público e as suas transmissões, quando sobre o direito concedido se pretenda registar hipoteca;
 
-z) O título constitutivo do empreendimento turístico e suas alterações.
+z) Os factos jurídicos que importem a extinção de direitos, ónus ou encargos registados.
+
+aa) O título constitutivo do empreendimento turístico e suas alterações.
 
 2 - O disposto na alínea a) do número anterior não abrange a comunicabilidade de bens resultante do regime matrimonial.

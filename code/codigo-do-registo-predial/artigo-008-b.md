@@ -8,9 +8,9 @@
 
 3 - Estão ainda obrigados a promover o registo:
 
-a) Os tribunais no que respeita às acções, decisões e outros procedimentos e providências judiciais;
+a) Os tribunais no que respeita às ações, às decisões e a outros procedimentos e providências ou atos judiciais;
 
-b) O Ministério Público quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis;
+b) O Ministério Público, no que respeita às apreensões em processo penal que tenha autorizado, ordenado ou validado, e quando, em processo de inventário, for adjudicado a incapaz ou ausente em parte incerta qualquer direito sobre imóveis;
 
 c) Os agentes de execução, ou o oficial de justiça que realize diligências próprias do agente de execução, quanto ao registo das penhoras, e os administradores judiciais, quanto ao registo da declaração de insolvência.
 
