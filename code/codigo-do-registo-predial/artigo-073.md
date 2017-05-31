@@ -8,7 +8,7 @@
 
 3 - O registo não é lavrado provisoriamente ou recusado se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, desde que o interessado tenha expressamente solicitado ao serviço de registo, pessoalmente ou por escrito, através de correio eletrónico ou sob registo postal, e no prazo referido no número anterior, que diligencie pela sua obtenção diretamente junto das entidades ou dos serviços da Administração Pública.
 
-4 - O serviço de registo competente é reembolsado pelo interessado das despesas resultantes dos pagamentos devidos às entidades referidas no número anterior.
+4 - (Revogado).
 
 5 - (Revogado).
 
@@ -18,6 +18,6 @@
 
 8 - No caso de o registo ser recusado porque o prédio não foi devidamente identificado no pedido, deve ser efetuada nova apresentação, imediatamente após a última apresentação pessoal do dia em que foi efetuado o despacho de recusa, transferindo-se automaticamente a totalidade dos emolumentos que foram pagos.
 
-9 - O suprimento de deficiências nos termos dos n.os 2 e 7 depende da entrega do emolumento devido.
+9 - O suprimento de deficiências nos termos dos n.os 2, 3 e 7 depende da entrega das quantias devidas.
 
 10 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.
