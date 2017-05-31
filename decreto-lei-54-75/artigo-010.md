@@ -2,7 +2,7 @@
 
 1 - Do certificado de matrícula devem constar todos os registos em vigor, exceptuados os que publicitem:
 
-a) Providências judiciais ou administrativas que determinem a apreensão do veículo;
+a) Providências e atos, judiciais ou administrativos, que determinem a apreensão do veículo;
 
 b) A propriedade de veículo adquirida por entidade comercial que tenha por actividade principal a compra de veículos para revenda e que proceda ao pedido de registo de tal facto em virtude de alienação de veículo no exercício dessa actividade, nos termos e com as limitações fixadas por portaria do membro do Governo responsável pela área da justiça.
 

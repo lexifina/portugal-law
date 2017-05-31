@@ -16,7 +16,7 @@ f) A afectação do veículo ao regime de aluguer sem condutor;
 
 g) A transmissão de direitos ou créditos registados e o penhor, o arresto e a penhora desses créditos;
 
-h) A penhora, o arresto, o arrolamento, a apreensão ou quaisquer outras providências judiciais ou administrativas que afectem a livre disposição de veículos;
+h) A penhora, o arresto, o arrolamento, a apreensão, a apreensão em processo penal ou quaisquer outras providências ou atos judiciais ou administrativos que afetem a livre disposição de veículos;
 
 i) Os ónus de inalienabilidade ou indisponibilidade previstos na legislação fiscal;
 
