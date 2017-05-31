@@ -12,7 +12,7 @@ b) Cooperação legal da administração tributária com outras entidades públi
 
 c) Assistência mútua e cooperação da administração tributária com as administrações tributárias de outros países resultante de convenções internacionais a que o Estado Português esteja vinculado, sempre que estiver prevista reciprocidade;
 
-d) Colaboração com a justiça nos termos do Código de Processo Civil e Código de Processo Penal.
+d) Colaboração com a justiça nos termos do Código de Processo Civil e mediante despacho de uma autoridade judiciária, no âmbito do Código de Processo Penal;
 
 e) Confirmação do número de identificação fiscal e domicílio fiscal às entidades legalmente competentes para a realização do registo comercial, predial ou automóvel.
 
@@ -27,3 +27,7 @@ a) A divulgação de listas de contribuintes cuja situação tributária não se
 b) A publicação de rendimentos declarados ou apurados por categorias de rendimentos, contribuintes, sectores de actividades ou outras, de acordo com listas que a administração tributária deve organizar anualmente a fim de assegurar a transparência e publicidade.
 
 6 - Para efeitos do disposto na alínea a) do número anterior, considera-se como situação tributária regularizada o disposto no artigo 177.º-A do CPPT.
+
+7 - Para efeitos do disposto na alínea d) do n.º 2, e com vista à realização das finalidades dos processos judiciais, incluindo as dos inquéritos em processo penal, as autoridades judiciárias acedem diretamente às bases de dados da Autoridade Tributária e Aduaneira.
+
+8 - A concretização do acesso referido no número anterior é disciplinada por protocolo a celebrar entre o Conselho Superior da Magistratura, a Procuradoria-Geral da República e a Autoridade Tributária e Aduaneira.
