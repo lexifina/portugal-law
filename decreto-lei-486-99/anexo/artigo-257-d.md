@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Negociação e informação relativa a licenças de emissão
-
 # Artigo 257.º-D
 
 ### Difusão de informação

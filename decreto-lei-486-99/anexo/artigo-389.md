@@ -22,7 +22,7 @@ c) Falta de envio, total ou parcial, de documentos ou de informações às entid
 
 d) Publicação ou divulgação de informação não acompanhada de relatório ou parecer elaborados por auditor ou a omissão de declaração de que a informação não foi sujeita a auditoria, quando a lei o exija;
 
-e) A violação dos regimes da informação que contenha recomendações de investimento e dos conflitos de interesses com aquela relacionados.
+e) (Revogada).
 
 4 - Constitui contra-ordenação menos grave a divulgação de informação não redigida em português ou não acompanhada de tradução para português, quando exigível.
 

@@ -8,7 +8,9 @@ a) A supervisão das formas organizadas de negociação de instrumentos financei
 
 b) A regulação do mercado de instrumentos financeiros, das ofertas públicas relativas a valores mobiliários, das actividades exercidas pelas entidades sujeitas à sua supervisão e de outras matérias previstas no presente Código e em legislação complementar;
 
-c) A supervisão e a regulação dos deveres de conduta das entidades que se proponham a celebrar ou mediar contratos de seguro ligados a fundos de investimento ou a comercializar contratos de adesão individual a fundos de pensões abertos.
+c) A supervisão e a regulação dos deveres de conduta das entidades que se proponham a celebrar ou mediar contratos de seguro ligados a fundos de investimento ou a comercializar contratos de adesão individual a fundos de pensões abertos;
+
+d) A supervisão dos índices de referência de quaisquer instrumentos financeiros.
 
 2 - No exercício e no âmbito das suas atribuições a CMVM coopera com outras autoridades nacionais e estrangeiras que exerçam funções de supervisão e de regulação do sistema financeiro e com organizações internacionais de que seja membro.
 

@@ -18,7 +18,7 @@ c) Quando, na sequência de oferta pública de aquisição, seja atingido pelo m
 
 5 - O oferente não é responsável pelos danos causados aos accionistas que tenham votado favoravelmente as alterações estatutárias para efeitos do n.º 1 e as pessoas que com eles se encontrem em alguma das relações previstas no artigo 20.º
 
-6 - A aprovação de alterações estatutárias para efeitos do n.º 1 por sociedades sujeitas a lei pessoal portuguesa e por sociedades emitentes de valores mobiliários admitidos à negociação em mercado regulamentado nacional deve ser divulgada à CMVM e, nos termos do artigo 248.º, ao público.
+6 - A aprovação de alterações estatutárias para efeitos do disposto no n.º 1 por sociedades sujeitas a lei pessoal portuguesa e por sociedades emitentes de valores mobiliários admitidos à negociação em mercado regulamentado nacional deve ser divulgada à CMVM e, nos termos do artigo 248.º-A, ao público.
 
 7 - As cláusulas estatutárias referentes à suspensão de eficácia das restrições relativas à transmissão e ao direito de voto referidas no n.º 1 apenas podem vigorar por um prazo máximo de 18 meses, sendo renováveis através de nova deliberação da assembleia geral, aprovada nos termos legalmente previstos para a alteração dos estatutos.
 

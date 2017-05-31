@@ -1,21 +1,29 @@
 # Artigo 248.º
 
-### Informação privilegiada relativa a emitentes
+### Proibição de uso e transmissão de informação privilegiada
 
-1 - Os emitentes que tenham valores mobiliários admitidos à negociação em mercado regulamentado ou requerido a respectiva admissão a um mercado dessa natureza divulgam imediatamente:
+1 - Sem prejuízo de eventual responsabilidade criminal, é proibido o uso e a transmissão de informação privilegiada, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
-a) Toda a informação que lhes diga directamente respeito ou aos valores mobiliários por si emitidos, que tenha carácter preciso, que não tenha sido tornada pública e que, se lhe fosse dada publicidade, seria idónea para influenciar de maneira sensível o preço desses valores mobiliários ou dos instrumentos subjacentes ou derivados com estes relacionados;
+2 - A proibição prevista no número anterior não se aplica:
 
-b) Qualquer alteração à informação tornada pública nos termos da alínea anterior, utilizando para o efeito o mesmo meio de divulgação.
+a) À negociação sobre ações próprias efetuada no âmbito de programas de recompra e às operações de estabilização realizadas nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados;
 
-2 - Para efeitos da presente lei, a informação privilegiada abrange os factos ocorridos, existentes ou razoavelmente previsíveis, independentemente do seu grau de formalização, que, por serem susceptíveis de influir na formação dos preços dos valores mobiliários ou dos instrumentos financeiros, qualquer investidor razoável poderia normalmente utilizar, se os conhecesse, para basear, no todo ou em parte, as suas decisões de investimento.
+b) Às operações, ordens ou condutas de prossecução de política monetária, cambial ou de gestão da dívida pública dos Estados membros, dos membros do Sistema Europeu de Bancos Centrais ou de qualquer outro organismo designado pelo Estado membro ou de país terceiro reconhecido, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados;
 
-3 - Os emitentes asseguram que a divulgação de informação privilegiada é realizada de forma simultânea junto das várias categorias de investidores e nos mercados regulamentados dos Estados membros da União Europeia, em que os seus valores estejam admitidos à negociação ou que tenham sido objecto de um pedido nesse sentido.
+c) Às operações, ordens ou condutas de prossecução da política de gestão da dívida pública efetuadas pela Comissão Europeia ou por qualquer outro organismo ou pessoa designada para esse efeito, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados;
 
-4 - Sem prejuízo de eventual responsabilidade criminal, qualquer pessoa ou entidade que detenha informação com as características referidas nos n.os 1 e 2 não pode, por qualquer modo, transmiti-la para além do âmbito normal das suas funções ou utilizá-la antes de a mesma ser tornada pública.
+d) Às operações, ordens ou condutas da União Europeia, do Banco Europeu de Investimento, do Fundo Europeu de Estabilidade Financeira, do Mecanismo Europeu de Estabilidade, de veículos com finalidades específicas dos Estados membros ou de instituição financeira internacional instituída pelos Estados membros com a finalidade de mobilização de financiamento e prestação de assistência financeira, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados;
 
-5 - A proibição prevista no número anterior não se aplica quando se trate de transacções sobre acções próprias efectuadas no âmbito de programas de recompra realizados nas condições legalmente permitidas.
+e) Às atividades desenvolvidas pelos Estados membros, pela Comissão Europeia ou por qualquer organismo oficial ou pessoa designada no âmbito das licenças de emissão e da prossecução da política climática da União Europeia, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados;
 
-6 - Os emitentes e as pessoas que actuem em seu nome ou por sua conta elaboram e mantêm rigorosamente actualizada uma lista dos seus trabalhadores ou colaboradores, ao abrigo de contrato de trabalho ou de qualquer outro vínculo, que têm acesso, regular ou ocasional, a informação privilegiada, comunicando a essas pessoas a inclusão dos seus nomes na lista e as consequências legais decorrentes da divulgação ou utilização abusiva de informação privilegiada.
+f) Às atividades desenvolvidas por um Estado membro, pela Comissão Europeia ou por outro organismo designado oficialmente ou pessoa que atue por conta dos mesmos no âmbito e promoção da Política Agrícola Comum e da Política Comum das Pescas da União Europeia, nos termos previstos no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
-7 - A lista prevista no número anterior contém a identidade das pessoas, os motivos pelos quais constam da lista, a data da mesma e qualquer actualização relevante, sendo conservada em arquivo pelos emitentes pelo prazo de cinco anos desde a última actualização e imediatamente remetida à CMVM, sempre que esta o solicitar.
+3 - O facto previsto no n.º 1 não é suscetível de gerar responsabilidade se for considerado uma conduta legítima nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+
+4 - A transmissão de informação privilegiada que ocorra no âmbito de sondagens de mercado e respetivo regime de deveres associados rege-se pelo disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)

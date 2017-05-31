@@ -22,4 +22,4 @@ b) Intenção de obter, para si ou para outrem, um benefício ilegítimo ou de c
 
 c) Especial dever de não cometer a infracção.
 
-4 - Na determinação da sanção aplicável são ainda tomadas em conta a situação económica e a conduta anterior do agente.
+4 - Na determinação da sanção aplicável são ainda tomadas em conta a situação económica e a conduta anterior e posterior do agente, designadamente, a sua cooperação e colaboração, com a CMVM ou com o tribunal, no âmbito do processo.

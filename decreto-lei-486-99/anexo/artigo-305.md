@@ -28,7 +28,7 @@ i) Adoptar uma política de continuidade das suas actividades, destinada a garan
 
 j) Adoptar uma organização contabilística que lhe permita, a todo o momento e de modo imediato, efectuar a apresentação atempada de relatórios financeiros que reflictam uma imagem verdadeira e apropriada da sua situação financeira e que respeitem todas as normas e regras contabilísticas aplicáveis, designadamente em matéria de segregação patrimonial.
 
-k) Dispor de procedimentos de controlo interno adequados, incluindo regras relativas às transações pessoais dos seus colaboradores ou à detenção ou gestão de investimentos em instrumentos financeiros para investimento por conta própria.
+k) Adotar sistemas e procedimentos de deteção e comunicação de ordens ou operações que sejam suspeitas de constituírem abuso de mercado, em conformidade com o disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
 2 - Para efeitos do disposto nas alíneas a) a g) do número anterior, o intermediário financeiro deve ter em conta a natureza, a dimensão e a complexidade das suas actividades, bem como o tipo de actividades de intermediação financeira prestadas.
 

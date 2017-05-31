@@ -1,17 +1,9 @@
 # Artigo 377.º-C
 
-### Cooperação no âmbito da supervisão e fiscalização do regime do abuso de mercado, no processamento de infrações e no âmbito do combate ao branqueamento de capitais e prevenção do terrorismo
+### Cooperação
 
-1 - A CMVM coopera, no âmbito da supervisão e fiscalização do regime do abuso de mercado e no processamento de infrações, com:
+1 - A CMVM coopera com as instituições congéneres dos Estados membros ou com instituições da União Europeia, no âmbito da supervisão e fiscalização do regime do abuso de mercado, bem como no processamento de infrações, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
-a) As instituições congéneres dos Estados-Membros;
+2 - A CMVM coopera com instituições congéneres de outros Estados no âmbito da supervisão e fiscalização do regime do abuso de mercado, bem como no processamento de infrações, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
-b) As instituições da União Europeia;
-
-c) Outras entidades, nacionais ou estrangeiras, de supervisão, fiscalização ou com competências no mercado de licenças de emissão ou nos mercados de contratos de mercadorias à vista.
-
-2 - [Revogado.]
-
-3 - [Revogado.]
-
-4 - A CMVM coopera com a Autoridade para o Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, no quadro da legislação nacional e da União Europeia relativa ao combate ao branqueamento de capitais e prevenção do terrorismo.
+3 - A CMVM coopera com outras entidades, nacionais ou estrangeiras, de supervisão, fiscalização ou com competências no mercado de licenças de emissão ou nos mercados de contratos de mercadorias à vista, no âmbito da supervisão e fiscalização do regime do abuso de mercado, bem como no processamento de infrações, nos termos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
