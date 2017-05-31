@@ -12,7 +12,7 @@ c) Proceder a buscas e apreensões em escritório de advogado, consultório méd
 
 d) Tomar conhecimento, em primeiro lugar, do conteúdo da correspondência apreendida, nos termos do artigo 179.º, n.º 3;
 
-e) Declarar a perda, a favor do Estado, de bens apreendidos, quando o Ministério Público proceder ao arquivamento do inquérito nos termos dos artigos 277.º, 280.º e 282.º;
+e) Declarar a perda a favor do Estado de bens apreendidos, com expressa menção das disposições legais aplicadas, quando o Ministério Público proceder ao arquivamento do inquérito nos termos dos artigos 277.º, 280.º e 282.º;
 
 f) Praticar quaisquer outros actos que a lei expressamente reservar ao juiz de instrução.
 

@@ -6,7 +6,7 @@
 
 a) Correndo inquérito contra pessoa determinada em relação à qual haja suspeita fundada da prática de crime, esta prestar declarações perante qualquer autoridade judiciária ou órgão de polícia criminal;
 
-b) Tenha de ser aplicada a qualquer pessoa uma medida de coacção ou de garantia patrimonial;
+b) Tenha de ser aplicada a qualquer pessoa uma medida de coação ou de garantia patrimonial, ressalvado o disposto nos n.os 3 a 5 do artigo 192.º;
 
 c) Um suspeito for detido, nos termos e para os efeitos previstos nos artigos 254.º a 261.º; ou
 

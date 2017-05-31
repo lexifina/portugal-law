@@ -10,4 +10,6 @@
 
 4 - Se as pessoas referidas no número anterior não procederem ao levantamento no prazo de um ano a contar da notificação referida no número anterior, os objectos consideram-se perdidos a favor do Estado.
 
-5 - Ressalva-se do disposto nos números anteriores o caso em que a apreensão de objectos pertencentes ao arguido ou ao responsável civil deva ser mantida a título de arresto preventivo, nos termos do artigo 228.º
+5 - Ressalva-se do disposto nos números anteriores o caso em que a apreensão de objetos pertencentes ao arguido, ao responsável civil ou a terceiro deva ser mantida a título de arresto preventivo, nos termos do artigo 228.º
+
+6 - Quando a restituição ou o arresto referidos nos números anteriores respeitarem a bem cuja apreensão tenha sido previamente registada, é promovido o cancelamento de tal registo e, no segundo caso, o simultâneo registo do arresto.

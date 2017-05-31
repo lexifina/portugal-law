@@ -20,7 +20,7 @@ a) As disposições legais aplicáveis;
 
 b) A decisão condenatória ou absolutória;
 
-c) A indicação do destino a dar a coisas ou objectos relacionados com crime;
+c) A indicação do destino a dar a coisas ou objetos relacionados com o crime, com expressa menção das disposições legais aplicadas;
 
 d) A ordem de remessa de boletins ao registo criminal;
 

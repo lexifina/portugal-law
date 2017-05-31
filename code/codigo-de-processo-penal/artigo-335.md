@@ -2,10 +2,12 @@
 
 ### Declaração de contumácia
 
-1 - Fora dos casos previstos nos n.os 1 e 2 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o n.º 2 e primeira parte do n.º 3, do artigo 313.º, não for possível notificar o arguido do despacho que designa o dia para a audiência, ou executar a detenção ou a prisão preventiva referidas nos artigos 116.º, n.º 2, e 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para se apresentar em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
+1 - Fora dos casos previstos nos n.os 1 e 2 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o artigo o n.º 2 e a primeira parte do n.º 3 do artigo 313.º, não for possível notificar o arguido do despacho que designa o dia para a audiência, ou executar a detenção ou a prisão preventiva referidas nos artigos 116.º, n.º 2, e 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para se apresentar em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
 
 2 - Os editais contêm as indicações tendentes à identificação do arguido, do crime que lhe é imputado e das disposições legais que o punem e a comunicação de que, não se apresentando no prazo assinado, será declarado contumaz.
 
-3 - A declaração de contumácia é da competência do presidente e implica a suspensão dos termos ulteriores do processo até à apresentação ou à detenção do arguido, sem prejuízo da realização de actos urgentes nos termos do artigo 320.º
+3 - A declaração de contumácia é da competência do presidente e implica a suspensão dos termos ulteriores do processo até à apresentação ou à detenção do arguido, sem prejuízo do disposto no n.º 4 e da realização de atos urgentes nos termos do artigo 320.º
 
 4 - Em caso de conexão de processos, a declaração de contumácia implica a separação daqueles em que tiver sido proferida.
+
+5 - A declaração de contumácia não impede o prosseguimento do processo para efeitos da declaração da perda de instrumentos, produtos e vantagens a favor do Estado.
