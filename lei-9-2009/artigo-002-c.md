@@ -10,7 +10,7 @@ b) Emitir a carteira profissional europeia para a prestação temporária e ocas
 
 c) Transmitir imediatamente a carteira profissional europeia, bem como as respetivas atualizações, à autoridade competente de cada Estado membro de acolhimento indicado pelo requerente e informá-lo desse facto.
 
-2 - Para efeitos da alínea b) do número anterior, a carteira profissional europeia deve ser emitida no prazo de três semanas, a contar da receção do requerimento e dos documentos exigidos ou, nos casos dos n.os 3 e 4 do artigo anterior, da receção dos documentos e informações em falta, sob pena de deferimento tácito.
+2 - Para efeitos da alínea b) do número anterior, a carteira profissional europeia deve ser emitida no prazo de 15 dias, a contar da receção do requerimento e dos documentos exigidos ou, nos casos dos n.os 3 e 4 do artigo anterior, da receção dos documentos e informações em falta, sob pena de deferimento tácito.
 
 3 - No caso de verificação prévia das qualificações, prevista no artigo 6.º, a autoridade competente não pode exigir, durante os 18 meses seguintes, qualquer outra declaração para além da carteira profissional europeia.
 

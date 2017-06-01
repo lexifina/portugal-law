@@ -6,7 +6,7 @@
 
 2 - O reconhecimento do estágio profissional não substitui os requisitos em vigor para aprovação num exame tendo em vista o acesso à profissão em causa.
 
-3 - A legislação setorial deve, nomeadamente:
+3 - A legislação sectorial pode:
 
 a) Definir o procedimento de reconhecimento do estágio profissional efetuado noutro Estado membro ou país terceiro de acordo com os critérios definidos no n.º 1;
 
@@ -14,4 +14,4 @@ b) Regular os direitos e deveres do patrono ou orientador do estágio e do estag
 
 c) Estabelecer um limite razoável à duração da parte do estágio profissional que pode ser efetuada no estrangeiro.
 
-4 - As autoridades competentes devem informar a entidade coordenadora da emissão da legislação setorial referida no número anterior e promover a publicação das normas referidas nos números anteriores, nomeadamente nos respetivos sítios na Internet.
+4 - As autoridades competentes devem promover a divulgação das normas referidas nos números anteriores, nomeadamente nos respetivos sítios da Internet.

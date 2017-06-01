@@ -2,7 +2,7 @@
 
 ### Mecanismo de alerta
 
-1 - Quando o exercício, em território nacional, da atividade ou conjunto de atividades que integram a profissão regulamentada tenha sido proibido ou restringido, definitiva ou temporariamente, ou suspenso por decisão jurisdicional ou administrativa, a autoridade nacional competente deve comunicar às autoridades competentes dos outros Estados, através do IMI e no prazo de três dias a contar da data de adoção da decisão que limita ou proíbe o profissional em causa do exercício de determinada atividade profissional, as seguintes informações:
+1 - Quando o exercício, em território nacional, da atividade ou conjunto de atividades que integram a profissão regulamentada tenha sido proibido ou restringido, definitiva ou temporariamente, ou suspenso por decisão jurisdicional ou administrativa, a autoridade nacional competente deve comunicar, no prazo de três dias a contar do respetivo conhecimento, às autoridades competentes dos outros Estados, através do IMI, as seguintes informações:
 
 a) Identificação do profissional;
 
@@ -44,4 +44,4 @@ l) Profissionais que exerçam atividades relacionadas com a educação de menore
 
 5 - Em caso de reclamação ou recurso apresentado pelo profissional, a autoridade competente deve incluir essa menção no mecanismo de alerta.
 
-6 - A autoridade competente deve manter a informação disponibilizada no mecanismo de alerta devidamente atualizada e, em caso de revogação ou caducidade da proibição, suspensão ou restrição, deve eliminar o alerta, no prazo de três dias a contar da data de aprovação da decisão de revogação ou caducidade da proibição, suspensão ou restrição.
+6 - A autoridade competente deve manter a informação disponibilizada no mecanismo de alerta devidamente atualizada e, em caso de revogação ou caducidade da proibição, suspensão ou restrição, deve eliminar o alerta, no prazo de três dias a contar do seu conhecimento.

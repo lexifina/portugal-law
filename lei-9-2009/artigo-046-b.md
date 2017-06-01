@@ -28,4 +28,4 @@ a) As qualificações nacionais e, se for caso disso, os títulos profissionais 
 
 b) As situações abrangidas pelo n.º 2, devidamente justificadas.
 
-5 - Caso a Comissão Europeia solicite esclarecimentos às informações previstas no número anterior, a autoridade competente deve responder num prazo de três meses a contar da data da receção desse pedido.
+5 - Caso a Comissão Europeia solicite esclarecimentos às informações previstas no número anterior, a autoridade competente deve responder num prazo de 90 dias a contar da data da receção desse pedido.

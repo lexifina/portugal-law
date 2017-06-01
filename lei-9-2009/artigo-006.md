@@ -6,18 +6,34 @@
 
 2 - Quando as qualificações profissionais do prestador de serviços tenham divergência substancial relativamente à formação exigida no território nacional, de modo que possa resultar prejuízo para a saúde ou a segurança, o prestador de serviços pode demonstrar que adquiriu os conhecimentos e competências exigíveis, nomeadamente através de uma prova de aptidão.
 
-3 - Nos 30 dias seguintes à receção da declaração prévia e da documentação a ela anexa, apresentadas nos termos dos n.os 1, 3, 5 e 6 do artigo anterior, a autoridade competente informa o requerente, consoante os casos:
+3 - Nos 30 dias seguintes à receção da declaração prévia e da documentação a ela anexa, apresentadas nos termos dos n.os 1, 3, 5, 7 e 8 do artigo anterior, a autoridade competente informa o requerente, consoante os casos:
 
-a) Da verificação da conformidade;
+a) Da não conformidade das suas qualificações profissionais para a profissão regulamentada em causa;
 
-b) Da verificação de divergência substancial;
+b) Da verificação de divergência substancial entre as suas qualificações profissionais e as exigidas para o exercício da profissão regulamentada em causa;
 
-c) Do facto de as circunstâncias da verificação implicarem a prorrogação do prazo para decidir por mais 30 dias.
+c) Da permissão para o exercício da profissão regulamentada.
 
-4 - Aquando da verificação de divergência substancial, o requerente pode optar entre juntar ao processo informação adicional pertinente ou prestar prova de aptidão, sendo certo que a decisão final sobre a verificação deve ser, em qualquer caso, tomada dentro do prazo de 60 dias, contados a partir da recepção dos documentos a que se refere o número anterior.
+4 - No caso de não ser possível cumprir o prazo previsto no n.º 3, a autoridade competente deve informar o requerente sobre os motivos do não cumprimento, dentro do mesmo prazo.
 
-5 - O início da prestação deve ter lugar nos 30 dias seguintes à decisão a que se refere a alínea a) do n.º 3 ou ao termo do prazo de 60 dias previsto no número anterior.
+5 - No caso do número anterior, a autoridade competente tem 30 dias, a contar daquela notificação, para a resolução das dificuldades identificadas.
 
-6 - Caso a autoridade competente não se pronuncie nos prazos indicados nos n.os 3 e 4, considera-se deferida a pretensão do requerente, valendo o comprovativo de receção da declaração prévia e da documentação a ela anexa, acompanhado do comprovativo de pagamento da taxa eventualmente devida, como título profissional para todos os efeitos legais, caso este exista para a profissão em causa.
+6 - Findo o prazo previsto no número anterior para a resolução das dificuldades identificadas, a autoridade competente tem 60 dias para informar o requerente da decisão.
 
-7 - A decisão de reconhecimento por prévia verificação das qualificações, seja expressa ou tácita, é válida para todo o território nacional, independentemente de ser proferida por autoridade nacional, regional ou local.
+7 - No caso da alínea b) do n.º 3, a autoridade competente deve informar o requerente sobre os motivos de divergência substancial e indicar alguma das seguintes medidas, desde que justificada por critérios de estrita necessidade, adequação e proporcionalidade:
+
+a) Prestar informações e apresentar comprovativos validados por autoridade competente sobre a experiência profissional ou sobre conhecimentos, aptidões e competências adquiridas através da aprendizagem ao longo da vida;
+
+b) Realizar prova de aptidão, quando a divergência possa prejudicar a saúde ou a segurança públicas e não possa ser compensada por nenhuma das medidas previstas na alínea anterior.
+
+8 - O requerente deve cumprir a medida determinada nos termos do número anterior no prazo de 30 dias, salvo justo impedimento devidamente comprovado.
+
+9 - O requerente deve ser notificado da decisão no prazo de 60 dias, a contar da data do cumprimento da respetiva medida.
+
+10 - Nos casos em que as qualificações profissionais tenham sido verificadas nos termos dos n.os 5 e 6, a prestação de serviços é efetuada com o título profissional utilizado no território nacional.
+
+11 - Caso a autoridade competente não se pronuncie nos prazos indicados nos n.os 3, 4, 5, 6 e 9, considera-se deferida a pretensão do requerente, valendo o comprovativo de receção da declaração prévia e da documentação a ela anexa, acompanhado do comprovativo de pagamento da taxa eventualmente devida, como título profissional para todos os efeitos legais, caso este exista para a profissão em causa.
+
+12 - A ausência de notificação da decisão final sobre a pretensão dirigida à autoridade competente nos prazos indicados nos n.os 3, 4, 5 e 6, tem o valor de deferimento tácito.
+
+13 - A decisão de reconhecimento por prévia verificação das qualificações, seja expressa ou tácita, é válida para todo o território nacional, independentemente de ser proferida por autoridade nacional, regional ou local.
