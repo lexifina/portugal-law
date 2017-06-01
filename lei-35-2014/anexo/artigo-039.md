@@ -10,7 +10,7 @@
 
 4 - A remessa ao INA da lista referida no n.º 2 compromete o empregador público a, findo o CEAGP, integrar o correspondente número de diplomados.
 
-5 - O recrutamento para frequência do CEAGP observa o disposto nos n.os 3 a 5 do artigo 30.º
+5 - O recrutamento para o CEAGP não depende da detenção de prévio vínculo de emprego público, sendo o número de formandos a recrutar fixado pelo despacho dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, previsto no n.º 6 do artigo 30.º
 
 6 - A integração na carreira geral de técnico superior efetua-se na segunda posição remuneratória ou naquela cujo nível remuneratório seja idêntico ou, na sua falta, imediatamente superior ao nível remuneratório correspondente ao posicionamento do candidato na categoria de origem, quando dela seja titular no âmbito de um vínculo de emprego público constituído por tempo indeterminado.
 

@@ -24,6 +24,8 @@ c) As alterações de posicionamento remuneratório em função das últimas ava
 
 d) As perspetivas de evolução remuneratória das anteriores carreiras, elevando-as apenas de forma sustentável.
 
-3 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, aos níveis remuneratórios das comissões de serviço.
+3 - Por despacho fundamentado da entidade competente para a abertura do procedimento concursal, pode ser determinada a aplicação, com as necessárias adaptações, do disposto nos n.os 1 a 3 do artigo 40.º da Portaria n.º 83-A/2009, de 22 de janeiro, alterada e republicada pela Portaria n.º 145-A/2011, de 6 de abril, no que se refere à constituição de reserva de recrutamento pelo prazo de 18 meses.
 
-4 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas legais ou convencionais, especiais ou excecionais, em contrário, não podendo ser afastado ou modificado pelas mesmas.
+4 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, aos níveis remuneratórios das comissões de serviço.
+
+5 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas legais ou convencionais, especiais ou excecionais, em contrário, não podendo ser afastado ou modificado pelas mesmas.

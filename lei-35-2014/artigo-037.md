@@ -8,4 +8,4 @@
 
 3 - As faltas dadas ao abrigo da Assistência a Funcionários Civis Tuberculosos regem-se pelo disposto no Decreto-Lei n.º 48 359, de 27 de abril de 1968, alterado pelos Decretos-Leis n.os 100/99, de 31 de março, e 319/99, de 11 de agosto.
 
-4 - As faltas a que se referem os números anteriores não descontam para efeitos de antiguidade, promoção e progressão.
+4 - (Revogado.)

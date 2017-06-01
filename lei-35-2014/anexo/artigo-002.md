@@ -16,7 +16,7 @@ a) Continuidade do exercício de funções públicas, previsto no artigo 11.º;
 
 b) Garantias de imparcialidade, previsto nos artigos 19.º a 24.º;
 
-c) Planeamento e gestão de recursos humanos, previsto nos artigos 28.º a 31.º;
+c) Planeamento e gestão de recursos humanos, previsto nos artigos 28.º a 31.º, salvo no que respeita ao plano anual de recrutamento;
 
 d) Procedimento concursal, previsto no artigo 33.º;
 

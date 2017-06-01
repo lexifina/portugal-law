@@ -28,8 +28,12 @@ k) Mecanismos de resolução pacífica de conflitos coletivos;
 
 l) Greve e lock-out.
 
-2 - Quando da aplicação do Código do Trabalho e legislação complementar referida no número anterior resultar a atribuição de competências ao serviço com competência inspetiva do ministério responsável pela área laboral, estas devem ser entendidas como atribuídas ao serviço com competência inspetiva do ministério que dirija, superintenda ou tutele o empregador público em causa e, cumulativamente, à Inspeção-Geral de Finanças (IGF).
+2 - Sem prejuízo do disposto no número seguinte, quando da aplicação do Código do Trabalho e legislação complementar referida no número anterior resultar a atribuição de competências ao serviço com competência inspetiva do ministério responsável pela área do trabalho, estas devem ser entendidas como atribuídas ao serviço com competência inspetiva do ministério que dirija, superintenda ou tutele o empregador público em causa e, cumulativamente, à Inspeção-Geral de Finanças (IGF), no que se refere às suas competências de coordenação, enquanto autoridade de auditoria neste domínio.
 
-3 - Para efeitos da aplicação do regime previsto no Código do Trabalho ao vínculo de emprego público, as referências a empregador e empresa ou estabelecimento, consideram-se feitas a empregador público e órgão ou serviço, respetivamente.
+3 - Compete à Autoridade para as Condições do Trabalho (ACT) a promoção de políticas de prevenção dos riscos profissionais, a melhoria das condições de trabalho e a fiscalização do cumprimento da legislação relativa à segurança e saúde no trabalho.
 
-4 - O regime do Código do Trabalho e legislação complementar, em matéria de acidentes de trabalho e doenças profissionais, é aplicável aos trabalhadores que exercem funções públicas nas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 2.º
+4 - Para efeitos da aplicação do regime previsto no Código do Trabalho ao vínculo de emprego público, as referências a empregador e empresa ou estabelecimento, consideram-se feitas a empregador público e órgão ou serviço, respetivamente.
+
+5 - O regime do Código do Trabalho e legislação complementar, em matéria de acidentes de trabalho e doenças profissionais, é aplicável aos trabalhadores que exercem funções públicas nas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 2.º
+
+6 - Para efeitos de fiscalização do cumprimento da legislação relativa à segurança e saúde no trabalho é aplicável o regime das contraordenações laborais previsto no Código do Trabalho e legislação complementar, com as adaptações a fixar em diploma próprio.

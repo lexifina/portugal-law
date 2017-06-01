@@ -20,7 +20,7 @@ d) Quando seja ocupado posto de trabalho previsto previamente no mapa de pessoal
 
 5 - Na consolidação da mobilidade na categoria é mantido o posicionamento remuneratório detido na situação jurídico-funcional de origem.
 
-6 - Quando se trate de trabalhador em situação de requalificação, o disposto nas alíneas a) e c) do n.º 3 não é aplicável, podendo ainda o posto de trabalho referido na alínea d) do mesmo número ser automaticamente previsto quando necessário para a consolidação.
+6 - (Revogado.)
 
 7 - Nas situações excecionais de mobilidade, a consolidação só pode fazer-se mediante acordo entre o empregador público e o trabalhador.
 
