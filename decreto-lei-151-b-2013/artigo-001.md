@@ -6,7 +6,7 @@
 
 ### Objeto e âmbito de aplicação
 
-1 - O presente decreto-lei estabelece o regime jurídico da avaliação de impacte ambiental (AIA) dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente, transpondo para a ordem jurídica interna a Diretiva n.º 2011/92/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à avaliação dos efeitos de determinados projetos públicos e privados no ambiente.
+1 - O presente diploma estabelece, para todo o território nacional e zonas marítimas sob soberania ou jurisdição nacional, o regime jurídico da avaliação de impacte ambiental (AIA) dos projetos públicos e privados que sejam suscetíveis de produzir efeitos significativos no ambiente, transpondo a Diretiva 2011/92/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à avaliação dos efeitos de determinados projetos públicos e privados no ambiente.
 
 2 - As decisões proferidas no procedimento de AIA e no procedimento de verificação da conformidade ambiental do projeto de execução são prévias ao licenciamento ou autorização dos projetos suscetíveis de provocar efeitos significativos no ambiente, abrangidos pelo presente decreto-lei, devendo a entidade licenciadora ou competente para a autorização do projeto indeferir o pedido de licenciamento ou autorização sempre que não tenha sido previamente obtida decisão, expressa ou tácita, sobre a AIA.
 
