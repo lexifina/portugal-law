@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "101826",
+  "tipo": "Requerimento",
+  "numero": "1109",
+  "data_registo": "2017-06-07",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Iluminação pública - Protocolo entre a ANMP e EDP para aposta na tecnologia LED",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "4194",
+        "nome": "Jorge Costa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4059",
+        "nome": "Heitor de Sousa"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4022",
+        "nome": "João Vasconcelos"
+      }
+    ],
+    "DataEnvio": "2017-06-07",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2017-06-07",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Alijó",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2017-06-21",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Alijó",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544339694e6a5a6b59324d334e6930794d3249314c5451774e5759744f544668595330334e6a426d4e7a686a4d7a63355a6d51756347526d&fich=b66dcc76-23b5-405f-91aa-760f78c379fd.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2017-06-07",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396a4d7a51324e57497a4d7930344d3245314c5451344e325974596a4e684e5330354d3249314e575a6d4d6d4d334d3251756347526d&fich=c3465b33-83a5-487f-b3a5-93b55ff2c73d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "101826",
+    "Legislatura": "XIII",
+    "Nr": "1109",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
