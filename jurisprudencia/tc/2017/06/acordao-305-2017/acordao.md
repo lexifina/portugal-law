@@ -1,0 +1,111 @@
+# Acórdão do Tribunal Constitucional n.º 305/2017, de 2017-06-08
+
+**Acórdão:** 305/17
+
+**Processo:** 1099/13
+
+**Formação:** Conf.
+
+**Espécie:** Recurso
+
+**Data:** 08.06.2017
+
+**Relator:** Cons. Maria José Rangel de Mesquita
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20170305.html
+
+## Texto integral
+
+ACÓRDÃO Nº 305/2017
+
+Processo n.º 1099/13
+
+3.ª Secção
+
+Relator: Conselheira Maria José Rangel de Mesquita
+
+Acordam, em conferência, na 3.ª Secção do Tribunal Constitucional
+
+I - Relatório
+
+1. Nos presentes autos, vindos do Supremo Tribunal de Justiça (STJ), em que é recorrente A. e recorrido o Ministério Público, o primeiro interpôs recurso para este Tribunal ao abrigo do artigo 70.º, n.º 1, alínea b) da Lei n.º 28/82, de 25 de novembro, de cinco acórdãos daquele Supremo Tribunal (cfr. requerimento de interposição de recurso de fls. 581 e ss., IV, n.º 9).
+
+2. Tendo o recorrente, na qualidade de advogado, subscrito o requerimento de interposição de recurso para este Tribunal, a Relatora proferiu despacho no sentido da notificação para a constituir mandatário sob pena de não se poder tomar conhecimento do requerimento de recurso, com o teor seguinte (cfr. fls. 609):
+
+«Tendo em conta o teor do Edital n.º .../2013, da Ordem dos Advogados (publicado do DR, 2.ª Série, N.º 221, de 14/11/2013), o qual considera as providências cautelares instauradas, constata-se que à data da interposição do recurso para este Tribunal (30 de setembro de 2013 – cfr. fls. 581) o recorrente não se encontrava inibido do exercício profissional, mas que se encontra inibido desse exercício, para o que releva para os presentes autos, desde 22/10/2013 (e até 21/10/2017) e, assim, também à data da subida dos autos a este Tribunal (30 de outubro de 2013 – cfr. fls. 602).
+
+Assim, tendo em conta o disposto no n.º 1 do artigo 83.º da Lei n.º 28/82, de 15 de novembro LTC, notifique-se o recorrente para, o prazo de 10 (dez) dias, constituir mandatário, sob pena de não se poder tomar conhecimento do requerimento de interposição de recurso para este Tribunal.».
+
+3. Notificado do despacho mencionado no número anterior, o requerente não constituiu mandatário, tendo apresentado requerimento no qual vem argir a «invalidade/nulidade» do despacho proferido, nos seguintes termos (cfr. fls. 611-614 e documentos anexos de fls. 615-639):
+
+«A., Recorrente por requerimento de 30-09-2013, por si subscrito, apresentado no Supremo Tribunal de Justiça, nele admitido por despacho de 1l-10-2013, a fls 597. notificado do despacho de 04-04-2017, a fls 609, diz e requer:
+
+I- Inibição pessoal assumida pela Exma Relatora
+
+Decorre do texto do despacho de 04-04-2017, que a sua autora se encontra inibida de cumprir o juramento consignado no artigo 20.º, n° 2. da Lei n° 28/82, de 15 de novembro (LTC), por determinação do Presidente do Conselho de Deontologia de Lisboa, B., em «Edital n° …./2013», com data de 22-10-2013.
+
+Mas a função jurisdicional do Estado não pode ser inibida por qualquer entidade administrativa, por força do disposto no artigo 205.º, n° 2, da Constituição da República Portuguesa (CRP).
+
+Qualquer decisão administrativa que vise comprimir, restringir ou usurpar a função jurisdicional do Estado, é nula e ineficaz também por força do disposto nos artigos 161°, n° 2, e 162°, n.º 1, do Código do Procedimento Administrativo.
+
+Pelo que inexiste a invocada impossibilidade de tomar conhecimento de recurso interposto em 30-09-2013.
+
+II - Uso, no despacho de 04-04-2017, de falsificação prevista e punida nos termos do artigo 256°, nºs 1, alíneas d) e e), 3 e 4, do Código Penal
+
+1. O documento designado de «Edital n° …/2013}), com data de 22-10-2013, usado no despacho de 04-04-2017, constitui falsificação prevista e punida nos termos do artigo 256°, nºs 1, alíneas d) e e), 3 e 4, do Código Penal, provada por documentos constantes do processo e que são de conhecimento obrigatório. Com efeito, foram apresentados no processo documentos que provam essa falsificação, por requerimentos de:
+
+1) 15-11-2012, com cópia de requerimento apresentado no Tribunal Administrativo de Círculo de Lisboa (TACL), 4ª U.O., no âmbito do processo-cautelar n° 1854/12.3BELSB, em 31-10-2012, e com cópia do requerimento apresentado no Conselho Superior da Ordem dos Advogados, em 02-11-2012, em que é arguida a falsidade do documento designado de «acórdão» do Conselho de Deontologia de Lisboa da Ordem dos Advogados de 24-01-2012, e do documento designado de «acórdão» da 13 Secção do dito Conselho Superior, com data de 12-10-2012, incorporante da falsificação produzida em 10-04-2012, dita de 24-01-2012;
+
+2) 05-12-2012, com cópia do oficio n° 24638/2012 da Procuradoria-Geral da República, de 14-11-2012, informando da instauração de processo-crime tendo por objeto a falsificação dita de 24-01-2012, incorporada na de 12-10-2012;
+
+3) 04-01-2013, com cópia da petição inicial do processo-cautelar n° 1854/12.3BELSB, instaurada em 23-07-2012, e admitida em 30-07-2012, com citação em 01-08-2012, nos termos e com os efeitos dos artigos 128°, n° 1, do Código do Processo nos Tribunais Administrativos (CPTA);
+
+4) 13-02-2013, com cópia dos requerimentos apresentados em 21-01-2013, no processo principal relativo à ação administrativa especial que corre contra a Ordem dos Advogados sob o n° 1680/l1.7BELSB, e em 30-01-2013, no processo-cautelar n° 1854/12.3BELSB;
+
+5) 01-04-2013, com seis documentos de prova do alegado relativos aos processos-cautelares e principal que correm contra a Ordem dos Advogados;
+
+6) 29-04-2013, com cópia de quatro decisões judiciais favoráveis ao Advogado Ofendido;
+
+7) 31-05-2013, com cópia de duas decisões judiciais favoráveis ao Advogado Ofendido, salientando-se a que respeita a ineficácia do «ato» dito de 24-01-2012 (falsificação de 10-04-2012);
+
+8) 08-07-2013, com cópia da sentença de 31-05-2013, proferida no processo-cautelar n.º 1 854/l2.3BELSB, declarando a ineficácia dos «atos de execução» do inexistente «acórdão» do CDL de 24-01-2012, e certidão do CDL, de 11-06-2013, comprovativa da inexistência de decisão sobre o recurso interposto em 19-07-2010 para o Conselho Superior da Ordem dos Advogados;
+
+9) 30-09-2013, com sete documentos de prova da falsificação subscrita por C., com data de 31-01-2013, designada de «Edital n° 174/2013».
+
+2. As provas acima elencadas são de conhecimento obrigatório por força do disposto nos artigos 20°, nºs 1 e 4, 32°, n° 10, 202º, n.º 2, 203º, 208º e 212º, n.º 3, da CRP, CPTA.
+
+3. O imperativo legal desse conhecimento também decorre da proibição resultante do disposto no artigo 256°, nºs 1, alínea e), 3 e 4, e 369º, nºs 1 e 2, do Código Penal.
+
+4. A mera leitura do texto subscrito por B., com data de 22-10-2013, designado de «Edital n° …/2013», permite verificar que nele é incorporado o teor da falsificação de 10-04-2012, aí designada de «acórdão» do Conselho de Deontologia de Lisboa de 24-01-2012, também incorporado nas supra referidas falsificações de 12-10-2012 e 31-01-2013 que aquele diz «substituir», qual substituição de moeda falsa por moeda ainda mais falsa.
+
+5. A prova da inexistência do «acórdão» de 24-01-2012, encontra-se no processo-cautelar n° 3435/l1.0BELSB, por via da apensação do processo administrativo n° 236/2009 e seus apensos - em que é falsamente dito haver sido produzido - como processo instrutor, por atos de:
+
+1) 09-04-2012, praticado pela Ordem dos Advogados, a fls 289, conforme cópia ora junta (doe. 1);
+
+2) 12-04-2012, a fls 317, de apensação do dito processo administrativo, ao processo judicial, como seu processo instrutor (doc, 2).
+
+6. A inexistência de tal «acórdão» encontra-se comprovada por certidão do TACL, de 14-07-2016 (cf. doc, 3).
+
+7. Os efeitos da declaração judicial de ineficácia dos «atos de execução» do falso «acórdão», dito de 24-01-2012, constante da sentença de 31-05-2013, não podem ser alterados por força do então disposto no artigo 684°, n° 4, do CPC, agora consignado no artigo 635°, n° 5, do CPC/2013, por ela não ter sido impugnada conforme certificado pelo TACL em 14-10-2016 (cf. doc, 4).
+
+8. Para prova de que a falsificação subscrita por B., com data de 22-10-2013, designada de «Edital nº …/2013», é subsumível ao disposto no artigo 256°, n.ºs 1, alíneas d) e e), 3 e 4, do Código Penal, junta-se cópia da acusação-crime deduzida contra ele e o C., em 24 de abril de 2015, no âmbito do processo n.º 5116113.0TDLSB (doc. 5), informando-se que, contra a magistrada que recusou investigar os factos objeto do mesmo processo, também foi deduzida acusação-crime em processo que corre nos Serviços do Ministério Público no STJ, sob o n° 20/14.8YGLSB.
+
+Termos em que o Advogado/ofendido pelo despacho de 04-04-2017, argui a sua invalidade/nulidade cominada no artigo 3°, n° 3, da Constituição.».
+
+4. O representante do recorrido Ministério Público junto deste Tribunal respondeu nos termos seguintes (cfr. fls. 641):
+
+«Notificado do despacho da Exm.ª Senhora Conselheira Relatora de 4 de Abril de 2017 (fls. 609) o recorrente, pelo seu próprio punho, veio apresentar o requerimento de fls. 611 a 614 e diversos documentos, porém, não impugna a decisão, pelo que nada temos a dizer.».
+
+Cumpre apreciar e decidir.
+
+II – Fundamentação
+
+5. Tendo sido proferido despacho pela relatora no sentido da constituição de mandatário, atendendo ao disposto no artigo 83.º, n.º 1, da LTC, deve entender-se que o requerimento do recorrente é apresentado ao abrigo do n.º 2 do artigo 78.º-B da LTC (na linha de jurisprudência deste Tribunal – cfr., entre outros, o Acórdão n.º 325/16).
+
+6. Não tendo o reclamante, notificado para o efeito, constituído mandatário, face ao disposto no artigo 83.º, n.º 1, da LTC, há que declarar que a recurso interposto neste Tribunal não pode ter seguimento, nos termos daquele artigo 83.º, n.º 1, da LTC, conjugado com o disposto no artigo 41.º do Código de Processo Civil, aplicável ex vi artigo 69.º da LTC, não se podendo tomar conhecimento do mesmo, como se afirmou no despacho reclamado.
+
+III – Decisão
+
+7. Pelo exposto, acordam em declarar que o recurso interposto neste Tribunal não pode ter seguimento, nos termos do artigo 83.º, n.º 1, da LTC, conjugado com o disposto no artigo 41.º do Código de Processo Civil, aplicável ex vi artigo 69.º da LTC.
+
+Lisboa, 8 de junho de 2017 - Maria José Rangel de Mesquita - Maria Clara Sottomayor - João Pedro Caupers
