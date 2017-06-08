@@ -28,7 +28,7 @@ k) Assegurar diretamente ou através de outra entidade pública ou privada, a ge
 
 l) Proceder, caso não esteja instalado, à instalação de equipamento de medição de consumo de água até à data da conclusão física da operação.
 
-2 - Quando, no âmbito do procedimento inerente à emissão ou renovação do título de utilização de recursos hídricos, o estado das massas de água, subterrâneas ou superficiais, em termos quantitativos, seja classificado como inferior a «Bom» ou não haja indicação dessa classificação, no caso dos investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes, os beneficiários devem ainda atingir, até à data da conclusão física da operação, uma redução efetiva de consumo de água mínima de 50 % relativamente à poupança potencial referida no n.º 2 do artigo 6.º
+2 - Quando, no âmbito do procedimento inerente à emissão ou renovação do título de utilização de recursos hídricos, o estado das massas de água, subterrâneas ou superficiais, esteja identificado como inferior a 'Bom' no plano de gestão de bacia hidrográfica pertinente, por motivos ligados à quantidade de água, ou não haja indicação dessa identificação, no caso dos investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes, os beneficiários devem ainda atingir, até à data da conclusão física da operação, uma redução efetiva de consumo de água mínima de 50 % relativamente à poupança potencial referida no n.º 3 do artigo 6.º
 
 3 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
 
@@ -38,4 +38,8 @@ b) Respeitem à criação de um reservatório;
 
 c) Respeitem à reutilização de águas residuais tratadas que não afetem a massa de água subterrânea ou superficial, em conformidade com o Decreto-Lei n.º 226-A/2007, de 31 de maio;
 
-d) Respeitem à intervenção em segurança de barragens, não estando diretamente relacionada com o consumo de água.
+d) Respeitem à intervenção em segurança de barragens, não estando diretamente relacionada com o consumo de água;
+
+e) Respeitem a aproveitamento hidroagrícola com título de utilização de recursos hídricos já emitido e utilizado.
+
+4 - Quando a candidatura respeite apenas a estudos ou projetos, nos termos do n.º 2 do artigo 6.º, os beneficiários devem cumprir as obrigações previstas nas alíneas a), b), c), e), f), g), i) e j) do n.º 1 do presente artigo.

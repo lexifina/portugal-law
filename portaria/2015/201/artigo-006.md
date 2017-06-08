@@ -12,9 +12,15 @@ c) Existência de plano de gestão de bacia hidrográfica notificado pelas autor
 
 d) Existência, no âmbito do investimento, de equipamento de medição de consumo de água, sem prejuízo do disposto na alínea l) do n.º 1 do artigo 9.º
 
-2 - Os investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes devem ainda apresentar uma poupança potencial de consumo de água mínima de 5 %, baseada numa avaliação ex ante.
+2 - São elegíveis as operações cujo objeto de apoio respeite exclusivamente a estudos ou projetos, desde que:
 
-3 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
+a) Reúnam as condições previstas no número anterior, quando aplicáveis;
+
+b) Obtenham parecer prévio favorável da Autoridade Nacional do Regadio, quando aplicável, ou, no caso de candidatura apresentada pela Direção-Geral da Agricultura e Desenvolvimento Rural, despacho favorável do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
+
+3 - Os investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes devem ainda apresentar uma poupança potencial de consumo de água mínima de 5 %, baseada numa avaliação ex ante.
+
+4 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
 
 a) Incidam unicamente na eficiência energética;
 

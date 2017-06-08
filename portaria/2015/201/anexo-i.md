@@ -6,7 +6,11 @@
 
 Despesas elegíveis
 
-1 - Elaboração de estudos e projetos e de ações de consultoria, designadamente jurídica, arqueológica e ambiental, desde 1 de janeiro de 2014 e com o limite de 5 % da despesa elegível total da operação;
+1 - Elaboração ou revisão de estudos e projetos e de ações de consultoria, designadamente jurídica, arqueológica e ambiental, desde 1 de janeiro de 2014 e com o limite de 5 % da despesa elegível total da operação, com as seguintes especificidades no caso de candidaturas que respeitem apenas a estudos ou projetos a que se refere o n.º 2 do artigo 6.º:
+
+a) O estudo ou projeto não estar concluído à data da apresentação da candidatura;
+
+b) O limite de 5 % não é aplicável.
 
 2 - Execução de obras, incluindo:
 

@@ -24,4 +24,12 @@ ii) Urgência da intervenção de reabilitação;
 
 iii) Projetos incluídos em pactos para o desenvolvimento e coesão territorial no âmbito de ITI.
 
+d) Candidaturas relativas exclusivamente a estudos ou projetos:
+
+i) Estudos ou projetos enquadrados nas intervenções previstas na 'Estratégia para o Regadio Público 2014-2020';
+
+ii) Estudos ou projetos que demonstrem maior adesão dos potenciais beneficiários ao regadio em causa;
+
+iii) Estudos ou projetos que visem beneficiar maiores áreas potenciais de regadio.
+
 2 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.
