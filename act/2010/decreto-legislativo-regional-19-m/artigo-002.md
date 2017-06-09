@@ -4,7 +4,7 @@
 
 1 - O presente decreto legislativo regional aplica-se aos seguintes serviços:
 
-a) Inspecção Regional Administrativa, unidade orgânica da Direcção Regional da Administração Pública e Local;
+a) [Revogada];
 
 b) Inspecção Regional de Educação, unidade orgânica integrada na dependência do Secretário Regional de Educação e Cultura;
 
@@ -15,5 +15,9 @@ d) Inspecção Regional de Finanças;
 e) Inspecção Regional da Saúde e Assuntos Sociais;
 
 f) Instituto do Vinho, Bordado e do Artesanato da Madeira, I. P., relativamente às unidades orgânicas com funções inspectivas.
+
+g) Inspeção Regional de Pescas, unidade orgânica da Direção Regional de Pescas;
+
+h) Inspeção Regional de Agricultura, unidade orgânica da Direção Regional de Agricultura.
 
 2 - As carreiras de inspecção de serviços diferentes dos elencados no número anterior são regulamentadas por diploma próprio, mantendo-se os actuais regimes até à sua revisão, a qual deve obedecer, com as necessárias adaptações, aos princípios constantes do Decreto-Lei n.º 170/2009, de 3 de Agosto, e do presente diploma.
