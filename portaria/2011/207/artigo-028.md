@@ -1,6 +1,6 @@
-## Capítulo III
+## Secção VIII
 
-## Disposições finais e transitórias
+## Garantias
 
 # Artigo 28.º
 

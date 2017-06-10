@@ -1,7 +1,3 @@
-## Secção VII
-
-## Garantias
-
 # Artigo 27.º
 
 ### Impugnação administrativa
