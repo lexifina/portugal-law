@@ -1,0 +1,468 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13019",
+  "numero": "338",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-06-13",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-10-25",
+            "entidades": null,
+            "id": "106816",
+            "tipo": null,
+            "titulo": "Audição em 2017-10-25 com João Miguel Rodrigues Cavaco"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-09-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "239/COFMA/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2017-10-18",
+                "dataResposta": "2018-01-16",
+                "nrOficio": "283/COFMA/2017",
+                "oficioResposta": "102"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-01-31",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-07-19",
+        "DataArquivo": "2018-01-31",
+        "DataBaixaComissao": "2017-06-28",
+        "DataEnvioPAR": "2018-01-31",
+        "DataReaberta": "2017-07-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-09-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6a45324e6d4d775a4459744f574d7a4e6930305a574d774c546c6c4f4455744e574d354e4459794e474d324e545a6d4c6e426b5a673d3d&fich=2166c0d6-9c36-4ec0-9e85-5c94624c656f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-09-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876595455774e6a67775a6a59744d474e6c5a6930304e7a686d4c54686a5a4441745a44597a597a6b7a4d6a6c6b4f4449784c6e426b5a673d3d&fich=a50680f6-0cef-478f-8cd0-d63c9329d821.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d6d55324d6a55784d474574595451784e5330304d446b324c546b7a4f4455744e6d55305957457a4d3249784d7a55314c6e426b5a673d3d&fich=2e62510a-a415-4096-9385-6e4aa33b1355.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-02-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a4451775a54686d4f5459744e6a4a6d4e7930304d5463344c546b784e544574595745794e6a45795a6d4e6d5954686d4c6e426b5a673d3d&fich=d40e8f96-62f7-4178-9151-aa2612fcfa8f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d575a694d7a51785a6a55744e444d344d5330304d6a466b4c5749344e7a4574596d497a5a444d324d4467324e5455354c6e426b5a673d3d&fich=1fb341f5-4381-421d-b871-bb3d36086559.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-07-19",
+            "gp": "PS",
+            "id": "4012",
+            "motivoCessacao": null,
+            "nome": "Fernando Anastácio"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-07-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-06-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4f44466c4f54566b4e7930335a4452694c54526d4e6a41744f5751344d6930324d574d355a6a67315a54526c4d4441756347526d&fich=f81e95d7-7d4b-4f60-9d82-61c9f85e4e00.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42773",
+      "42784"
+    ],
+    "Iniciativasoriginadas": [
+      "42773",
+      "42784"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=00:47:41:326&drc=00:03:31:449"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=01:03:56:514&drc=00:00:52:561"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18",
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/18?pgs=18,21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=00:51:12:775&drc=00:02:40:938"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=00:53:53:713&drc=00:03:48:438"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/19?pgs=19&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=00:57:42:152&drc=00:02:39:344"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=01:00:21:496&drc=00:03:35:018"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13019",
+    "PetAssunto": "Solicitam isenção de IVA nos serviços prestados nos Centros e Salas de Estudo e Explicações e dedução em sede de IRS enquanto despesas de educação.",
+    "PetDataEntrada": "2017-06-13",
+    "PeticoesAssociadas": null,
+    "PetId": "13019",
+    "PetLeg": "XIII",
+    "PetNr": "338",
+    "PetNrAssinaturas": "6021",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "660",
+        "obs": null,
+        "pag": [
+          "18-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-19",
+        "pubLeg": "XIII",
+        "pubNr": "107",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/18?pgs=18-22&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "799193",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-22",
+        "pubLeg": "XIII",
+        "pubNr": "61",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/061/2017-07-22/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
