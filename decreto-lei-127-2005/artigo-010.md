@@ -6,11 +6,7 @@
 
 2 - Excecionalmente, o prazo referido no número anterior pode ser prorrogado pelo conselho diretivo do ICNF, I.P., mediante pedido fundamentado do núcleo fundador.
 
-3 - O requerimento a que se refere o n.º 1 deve cumprir, cumulativamente, os seguintes requisitos:
-
-a) Ser subscrito por um mínimo de 10 proprietários ou outros produtores florestais da área ZIF;
-
-b) Os subscritores devem ser detentores em conjunto de, pelo menos, metade dos espaços florestais existentes na área proposta para a ZIF.
+3 - O requerimento a que se refere o n.º 1 deve ser subscrito por proprietários ou produtores florestais que representem, pelo menos, metade dos espaços florestais existentes na área proposta para a ZIF.
 
 4 - O requerimento a que se referem os n.os 1 e 3 é instruído com os seguintes elementos:
 

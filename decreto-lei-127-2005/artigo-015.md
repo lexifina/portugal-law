@@ -12,7 +12,7 @@ c) Elaborar os elementos estruturantes definidos no artigo anterior, bem como pr
 
 d) Elaborar e promover a execução do PGF;
 
-e) Elaborar e executar ou garantir a execução do PEIF;
+e) Promover a certificação da gestão florestal das propriedades dos aderentes;
 
 f) Cumprir as regras e procedimentos estabelecidos no regulamento interno de funcionamento da ZIF;
 
@@ -32,10 +32,10 @@ n) Garantir a existência e a conservação do arquivo próprio a que se refere 
 
 o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitários, aplicar os financiamentos concedidos de acordo com o contratado e, quando aplicável, repartir entre os proprietários e outros produtores florestais aderentes à ZIF as verbas destinadas à execução das ações apoiadas.
 
-2 - As entidades gestoras das ZIF apresentam anualmente à assembleia geral de aderentes o plano anual de atividades e o relatório e contas, devendo estes elementos ficar em arquivo e ser facultados ao ICNF, I.P., quando solicitados no âmbito do seu poder de fiscalização.
+2 - As entidades gestoras das ZIF apresentam anualmente à assembleia geral de aderentes o plano anual de atividades, o relatório de contas e a listagem de aderentes, devendo estes ficar em arquivo.
 
 3 - Os órgãos de administração dos baldios que integrem ZIF devem submeter à aprovação prévia dos seus compartes as diferentes propostas a submeter às assembleias gerais da respectiva ZIF.
 
 4 - Para o cumprimento do procedimento previsto nos números anteriores, as assembleias gerais são convocadas com uma antecedência mínima de 20 dias.
 
-5 - As alterações que ocorram ao número efetivo de aderentes à ZIF e à área pertencente a cada um deles devem ser comunicadas ao ICNF, I.P., pela entidade gestora, até 31 de dezembro do ano a que respeitarem.
+5 - Os documentos previstos no n.º 2 devem ser remetidos ao ICNF, I. P., até ao fim do 1.º semestre do ano seguinte a que se reportam, com exceção do plano anual de atividades que deve ser remetido até 31 de dezembro do ano anterior àquele a que se reporta.

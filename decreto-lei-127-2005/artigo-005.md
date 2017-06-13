@@ -6,19 +6,19 @@
 
 2 - A delimitação das ZIF pode compreender qualquer tipo de áreas, independentemente da natureza do proprietário ou outro produtor florestal.
 
-3 - Não podem ser delimitadas ZIF que integrem áreas florestais do domínio privado do Estado, exceto quando, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das florestas e da defesa nacional, este último se as áreas florestais estiverem afetas à defesa nacional, sob proposta do conselho diretivo do ICNF, I.P., tal seja considerado imprescindível para a concretização dos objetivos e princípios previstos nos artigos 4.º e 4.º-A, respetivamente.
+3 - Não podem ser delimitadas ZIF que integrem áreas florestais do domínio privado do Estado, exceto quando autorizado por despacho dos membros do Governo responsáveis pelas áreas das finanças, das florestas e da defesa nacional, este último se as áreas florestais estiverem afetas à defesa nacional, sob proposta do conselho diretivo do ICNF, I. P.
 
 4 - A delimitação das ZIF envolve a utilização dos seguintes critérios de aplicação geral, obrigatórios em todos os casos:
 
-a) Compreender uma superfície mínima de 750 hectares e incluir pelo menos 50 proprietários ou produtores florestais e 100 prédios rústicos;
+a) Compreender uma área territorial mínima de 500 hectares e máxima de 20 000 hectares, e incluir, pelo menos, 25 proprietários ou produtores florestais aderentes e 50 prédios rústicos;
 
-b) Abranger territórios contínuos, não sendo admissível a existência no seu interior de áreas excluídas de qualquer natureza;
+b) Abranger territórios contínuos, não sendo admissível a existência no seu interior de áreas excluídas de qualquer natureza, com exceção das áreas referidas no número anterior para as quais não seja obtida a autorização necessária;
 
-c) Inserir-se no território de um único PROF, podendo, excecionalmente, em situações devidamente justificadas, abranger territórios de mais de um PROF;
+c) [Revogada];
 
-d) Dar origem a unidades com um coeficiente de compacidade (índice de Gravelius) inferior a três, calculado com o rigor cartográfico à escala de 1:25 000;
+d) [Revogada];
 
-e) A constituição de novas ZIF na envolvente próxima de outras ZIF preexistentes deve promover o alargamento, em continuidade, do território já integrado em ZIF, não devendo o espaço intersticial entre duas ZIF vizinhas inviabilizar uma eventual posterior constituição de outra ZIF intermédia;
+e) A constituição de novas ZIF na envolvente próxima de outras ZIF preexistentes deve promover o alargamento, em continuidade, do território já integrado em ZIF;
 
 f) A delimitação territorial das ZIF respeita os limites dos prédios rústicos, mesmo que de grande dimensão, e deve apoiar-se, preferencialmente, em pontos notáveis da paisagem, tais como cursos ou massas de água, linhas de cumeada, rodovias ou ferrovias.
 
@@ -40,7 +40,7 @@ c) Social: organização social, administrativa e jurídica do território, nome
 
 d) Ambiental: localização dominante em territórios ou em áreas classificadas cuja silvicultura se oriente fundamentalmente para a conservação da biodiversidade.
 
-6 - Mediante autorização do conselho diretivo do ICNF, I.P., as ZIF podem observar uma área territorial inferior à prevista na alínea a) do n.º 4, sempre que se verifiquem circunstâncias especiais de natureza geográfica, social ou económica, não podendo, em qualquer circunstância, ser inferior a 500 hectares.
+6 - Mediante autorização do conselho diretivo do ICNF, I. P., as ZIF podem observar uma área territorial superior a 20 000 hectares sempre que se verifiquem circunstâncias especiais de natureza geográfica, social ou económica.
 
 7 - Os critérios referidos no n.º 5 são de adoção alternativa e dependem das características específicas de cada ZIF.
 

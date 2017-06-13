@@ -8,7 +8,7 @@ a) Regulamento interno;
 
 b) Plano de gestão florestal da área ZIF;
 
-c) Plano específico de intervenção florestal da ZIF;
+c) (Revogada);
 
 d) Inventário da estrutura da propriedade, nos termos da alínea j) do artigo 3.º;
 
