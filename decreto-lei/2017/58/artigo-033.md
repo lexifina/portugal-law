@@ -1,0 +1,11 @@
+# Artigo 33.º
+
+### Procedimento de salvaguarda da UE
+
+1 - Se, no termo do procedimento previsto nos n.os 7 a 9 do artigo anterior, forem levantadas objeções a uma medida tomada, ou a Comissão Europeia considere que essa medida é contrária à legislação da UE, a Comissão Europeia avalia e determina se a medida nacional se justifica.
+
+2 - Se a medida nacional relativa a um ascensor for considerada justificada, a autoridade de fiscalização do mercado deve tomar as medidas necessárias para assegurar que a utilização do componente de segurança para ascensores não conforme é sujeita a restrições ou proibida, ou que o ascensor é recolhido, e informar a Comissão Europeia desse facto.
+
+3 - Se a medida nacional relativa a um componente de segurança para ascensores for considerada justificada, a autoridade de fiscalização do mercado deve tomar as medidas necessárias para garantir que o componente de segurança para ascensores é retirado do mercado, e informar a Comissão Europeia desse facto.
+
+4 - Se a medida for considerada injustificada, a autoridade de fiscalização do mercado deve proceder à sua revogação.
