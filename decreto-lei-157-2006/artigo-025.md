@@ -28,6 +28,6 @@ c) Da data para a entrega da chave do local de realojamento temporário e para a
 
 10 - À renda a pagar pelo novo contrato de arrendamento é aplicável, com as necessárias adaptações, o disposto nas alíneas a) e b) do n.º 2 do artigo 35.º do NRAU ou, tratando-se de arrendatário cujo agregado familiar tenha RABC inferior a cinco RMNA, nos n.os 7, 9 e 10 do artigo 36.º do NRAU.
 
-11 - A morte do arrendatário realojado é causa de caducidade do contrato de arrendamento referido no número anterior, devendo o locado ser restituído no prazo de seis meses a contar do decesso.
+11 - O contrato de arrendamento mantém-se em caso de morte do arrendatário realojado, passando a quem tenha direito nos termos gerais da lei.
 
 12 - A obrigação de realojamento prevista nos números anteriores existe somente quando o arrendatário tenha no locado a sua residência permanente ou quando a falta de residência permanente for devida a caso de força maior ou doença.
