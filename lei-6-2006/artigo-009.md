@@ -26,6 +26,6 @@
 
 a) Notificação avulsa;
 
-b) Contacto pessoal de advogado, solicitador ou agente de execução, sendo feita na pessoa do notificando, com entrega de duplicado da comunicação e cópia dos documentos que a acompanhem, devendo o notificando assinar o original;
+b) Contacto pessoal de advogado, solicitador ou agente de execução, comprovadamente mandatado para o efeito, sendo feita na pessoa do notificando, com entrega de duplicado da comunicação e cópia dos documentos que a acompanhem, devendo o notificando assinar o original;
 
 c) Escrito assinado e remetido pelo senhorio nos termos do n.º 1, nos contratos celebrados por escrito em que tenha sido convencionado o domicílio, caso em que é inoponível ao senhorio qualquer alteração do local, salvo se este tiver autorizado a modificação.
