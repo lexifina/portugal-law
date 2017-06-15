@@ -20,7 +20,7 @@ d) O não uso do locado por mais de um ano, salvo nos casos previstos no n.º 2 
 
 e) A cessão, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo do prédio, quando ilícita, inválida ou ineficaz perante o senhorio.
 
-3 - É inexigível ao senhorio a manutenção do arrendamento em caso de mora igual ou superior a dois meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário ou de oposição por este à realização de obra ordenada por autoridade pública, sem prejuízo do disposto nos n.os 3 a 5 do artigo seguinte.
+3 - É inexigível ao senhorio a manutenção do arrendamento em caso de mora igual ou superior a três meses no pagamento da renda, encargos ou despesas que corram por conta do arrendatário ou de oposição por este à realização de obra ordenada por autoridade pública, sem prejuízo do disposto nos n.os 3 a 5 do artigo seguinte.
 
 4 - É ainda inexigível ao senhorio a manutenção do arrendamento no caso de o arrendatário se constituir em mora superior a oito dias, no pagamento da renda, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, com referência a cada contrato, não sendo aplicável o disposto nos n.os 3 e 4 do artigo seguinte.
 

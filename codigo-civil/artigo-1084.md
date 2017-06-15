@@ -10,4 +10,4 @@
 
 4 - O arrendatário só pode fazer uso da faculdade referida no número anterior uma única vez, com referência a cada contrato.
 
-5 - Fica sem efeito a resolução fundada na oposição pelo arrendatário à realização de obra ordenada por autoridade pública se, no prazo de um mês, cessar essa oposição.
+5 - Fica sem efeito a resolução fundada na oposição pelo arrendatário à realização de obra ordenada por autoridade pública se, no prazo de 60 dias, cessar essa oposição.

@@ -16,19 +16,19 @@ a) Alvará de licença de obras ou título da comunicação prévia;
 
 b) Documento emitido pela câmara municipal, que ateste que a operação urbanística constitui, nos termos da lei, uma obra de demolição ou uma obra de remodelação ou restauro profundos para efeitos de aplicação do disposto na alínea b) do artigo 1101.º, quando tal não resulte do documento referido na alínea anterior.
 
-4 - Na situação prevista no número anterior, a desocupação tem lugar no prazo de 15 dias contados da receção da confirmação, salvo se não se encontrar decorrido o prazo previsto no n.º 1, caso em que a desocupação tem lugar até ao termo do último dos prazos.
+4 - Na situação prevista no número anterior, a desocupação tem lugar no prazo de 60 dias contados da receção da confirmação, salvo se não se encontrar decorrido o prazo previsto no n.º 1, caso em que a desocupação tem lugar até ao termo do último dos prazos.
 
 5 - O senhorio que haja invocado o fundamento referido na alínea a) do artigo 1101.º deve dar ao local a utilização invocada no prazo de três meses e por um período mínimo de dois anos.
 
 6 - A invocação do disposto na alínea b) do artigo 1101.º obriga o senhorio, mediante acordo e em alternativa:
 
-a) Ao pagamento de uma indemnização correspondente a um ano de renda;
+a) Ao pagamento de uma indemnização correspondente a dois anos da renda, de valor não inferior a duas vezes o montante de 1/15 do valor patrimonial tributário do locado;
 
-b) A garantir o realojamento do arrendatário em condições análogas às que este já detinha, quer quanto ao local quer quanto ao valor da renda e encargos.
+b) A garantir o realojamento do arrendatário por período não inferior a três anos.
 
 7 - Caso as partes não cheguem a acordo no prazo de 30 dias a contar da receção da comunicação prevista no n.º 1, aplica-se o disposto na alínea a) do número anterior.
 
-8 - A indemnização devida pela denúncia deve ser paga no momento da entrega do locado, sob pena de ineficácia da denúncia.
+8 - Metade da indemnização deve ser paga após a confirmação da denúncia e o restante no ato da entrega do locado, sob pena de ineficácia.
 
 9 - Salvo motivo não imputável ao senhorio, o não cumprimento do disposto no n.º 5, bem como o não início da obra no prazo de seis meses contados da desocupação do locado, obriga o senhorio ao pagamento de uma indemnização correspondente a 10 anos de renda.
 

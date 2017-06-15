@@ -10,4 +10,4 @@
 
 2 - No contrato com prazo certo pode convencionar-se que, após a primeira renovação, o arrendamento tenha duração indeterminada.
 
-3 - No silêncio das partes, o contrato considera-se celebrado com prazo certo, pelo período de dois anos.
+3 - No silêncio das partes, o contrato considera-se celebrado por prazo certo, pelo período de cinco anos.
