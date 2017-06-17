@@ -38,7 +38,7 @@ o) Coordenar a gestão das crises alimentares em situação de risco grave para 
 
 a) Apoiar o director-geral da Saúde no exercício das suas competências de autoridade de saúde nacional, nos termos previstos na lei;
 
-b) Acompanhar a exploração do Centro de Atendimento do Serviço Nacional de Saúde (CASNS), em articulação com as Administrações Regionais de Saúde, I. P.;
+b)(Revogada.);
 
 c) Colaborar, no âmbito do planeamento de emergências de saúde, com o Instituto Nacional de Emergência Médica, I. P., nos termos da Lei n.º 81/2009, de 21 de Agosto.
 
