@@ -14,4 +14,8 @@
 
 6 - A SPMS, E. P. E., pode, acessoriamente, exercer quaisquer actividades, complementares ou subsidiárias do seu objecto principal, que não prejudiquem a prossecução do mesmo.
 
-7 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+7 - A SPMS, E. P. E., assegura o funcionamento do Centro de Atendimento do Serviço Nacional de Saúde (CASNS), bem como do Centro de Contacto do Serviço Nacional de Saúde (CCSNS) que sucede àquele e do Centro Nacional de TeleSaúde (CNTS).
+
+8 - Para efeitos do disposto no número anterior, relativamente ao CASNS e ao CCSNS, a Direção-Geral de Saúde (DGS) colabora com a SPMS, E. P. E., realizando auditorias clínicas e de qualidade.
+
+9 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
