@@ -4,22 +4,14 @@
 
 # Artigo 15.º
 
-### Concretização do acesso à informação
+### Conhecimento da informação
 
-1 - O acesso à informação em registo concretiza-se com a emissão de um certificado do registo a que o pedido respeite.
+1 - O conhecimento da informação vigente nos registos da responsabilidade dos serviços de identificação criminal, ou da sua ausência, concretiza-se com a emissão de um certificado, em conformidade com as disposições aplicáveis ao conteúdo da informação a certificar.
 
-2 - A emissão de um certificado ocorre:
+2 - O certificado é emitido eletronicamente pelos serviços de identificação criminal, identificando a pessoa a quem se refere e certificando o conteúdo do registo em causa relativamente a essa pessoa, ou a ausência de conteúdo, de acordo com as disposições da lei de identificação criminal e atenta a finalidade a que se destine.
 
-a) Quando é solicitada por entidade habilitada a aceder à informação nos termos da lei de identificação criminal;
+3 - Sem prejuízo do disposto no n.º 3 do artigo 29.º, os certificados são válidos por três meses, a contar da data da sua emissão, exclusivamente para o fim solicitado no pedido e indicado no próprio certificado.
 
-b) Quando seja pedido um código de acesso ao registo criminal ou ao registo de contumazes pelo próprio titular, ou por um seu representante com legitimidade nos termos da lei de identificação criminal;
+4 - Dos certificados emitidos consta um número único de identificação do mesmo, que o autentica e permite a comprovação da respetiva fidedignidade junto dos serviços de identificação criminal, sempre que necessário.
 
-c) Em cada acesso à informação por quem detenha um código de acesso ao registo criminal ou ao registo de contumazes e o utilize no decurso do respetivo período de vigência;
-
-d) Sempre que seja solicitada por quem possua legitimidade para tal nos termos da lei de identificação criminal.
-
-3 - Os certificados cuja emissão não resulte da utilização de um código de acesso têm um prazo de validade de três meses a contar da data da sua emissão.
-
-4 - (Revogado.)
-
-5 - (Revogado.)
+5 - No caso de certificados emitidos a pedido de pessoas singulares, de representantes de pessoas coletivas, ou de entidades públicas para cumprimento de exigência legal de apresentação do certificado em procedimento administrativo, o número único de identificação constitui um código de acesso que permite a utilização do certificado por mais do que uma vez, para a finalidade nele indicada, durante o respetivo prazo de validade, ou a respetiva cedência pelo requerente a entidade pública, para o mesmo efeito.

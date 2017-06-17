@@ -6,4 +6,4 @@
 
 2 - O SICRIM contém os dados de identificação dos titulares de registos mantidos no sistema nos termos da lei e a informação dos registos respeitantes a cada um deles, organizada separadamente por registo.
 
-3 - Os ficheiros informáticos do SICRIM estão localizados em servidores da responsabilidade do Ministério Justiça, competindo ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., prestar o apoio técnico necessário ao funcionamento do sistema de informação.
+3 - Os ficheiros informáticos do SICRIM estão localizados no Instituto de Gestão Financeira e Equipamentos da Justiça, I.P., a quem compete prestar todo o apoio técnico necessário ao funcionamento do sistema de informação.
