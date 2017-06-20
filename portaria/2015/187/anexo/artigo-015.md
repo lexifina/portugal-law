@@ -16,6 +16,6 @@ CFS = classificação da fase de seleção;
 
 Ha = classificação da habilitação com que se candidata.
 
-3 - O cálculo da expressão a que se refere o número anterior é arredondado às décimas.
+3 - O cálculo da expressão a que se refere o número anterior é arredondado às centésimas.
 
-4 - Os candidatos com nota de candidatura inferior a 10,0 valores são excluídos.
+4 - Os candidatos com nota de candidatura inferior a 10,00 valores são excluídos.
