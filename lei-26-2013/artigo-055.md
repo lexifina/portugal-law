@@ -1,8 +1,8 @@
 # Artigo 55.º
 
-### Contraordenações económicas
+### Contraordenações
 
-1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+1 - Constituem contraordenações punidas com coima de (euro) 250 a (euro) 5000, no caso de pessoa singular, e de (euro) 500 a (euro) 22 500, no caso de pessoa coletiva:
 
 a) A não apresentação da mera comunicação prévia, em violação do disposto no n.º 3 do artigo 4.º;
 
@@ -30,9 +30,7 @@ l) A não receção, pelos estabelecimentos de venda, dos resíduos de embalagen
 
 m) A não retoma, pelos centros de receção, das embalagens vazias, em violação do disposto no n.º 3 do artigo 61.º
 
-n) A aplicação de produtos fitofarmacêuticos em violação do disposto nos n.os 5, 6 e 7 do artigo 32.º
-
-2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
+2 - Constituem contraordenações punidas com coima de (euro) 500 a (euro) 10 000, no caso de pessoa singular, e de (euro) 750 a (euro) 44 500, no caso de pessoa coletiva:
 
 a) O armazenamento ou a venda de produtos fitofarmacêuticos em instalações não destinadas exclusivamente a estes produtos nas condições autorizadas ou que não se encontrem concebidas de acordo com os requisitos constantes da parte A do anexo i à presente lei, da qual faz parte integrante, em violação do disposto nos n.os 1 ou 2 do artigo 5.º;
 
@@ -92,12 +90,12 @@ bb) A não existência de ficha de registo de aplicação aérea, o não registo
 
 cc) A não manutenção, pelo operador aéreo agrícola e pelo cliente, dos registos de todos os tratamentos fitossanitários realizados por via aérea, por um período de três anos, em violação do disposto no n.º 3 do artigo 47.º
 
-3 - (Revogado.)
+3 - Constitui contraordenação punida com coima de (euro) 250 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 22 500, no caso de pessoa coletiva, a aplicação de produtos fitofarmacêuticos em violação do disposto pelos n.os 5, 6 e 7 do artigo 32.º
 
-4 - (Revogado.)
+4 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
 
-5 - A tentativa e a negligência são puníveis nos termos do RJCE.
+5 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
-6 - (Revogado.)
+6 - O procedimento pelas contraordenações previstas nos números anteriores prescreve logo que sobre a prática da contraordenação haja decorrido o prazo de três anos, sem prejuízo das causas de interrupção e suspensão previstas no regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
 
-7 - Às contraordenações económicas previstas na presente lei é subsidiariamente aplicável o RJCE.
+7 - Às contraordenações previstas no presente artigo é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro.

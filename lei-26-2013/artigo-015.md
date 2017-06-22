@@ -1,14 +1,10 @@
-## Capítulo III
-
-## Segurança na aplicação de produtos fitofarmacêuticos nas explorações agrícolas e florestais e nas empresas de aplicação terrestre
-
 ## Secção I
 
 ## Restrições gerais à aplicação de produtos fitofarmacêuticos
 
-# Artigo 15
+# Artigo 15.º
 
-### Restrições gerais à aplicação nas explorações agrícolas e florestais e pelas empresas de aplicação terrestre
+Restrições gerais à aplicação nas explorações agrícolas e florestais e pelas empresas de aplicação terrestre
 
 1 - É proibida, em todo o território nacional:
 

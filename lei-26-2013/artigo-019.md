@@ -1,6 +1,6 @@
-# Artigo 19
+# Artigo 19.º
 
-### Procedimento de autorização da atividade de prestação de serviços de aplicação de produtos fitofarmacêuticos por empresas de aplicação terrestre
+Procedimento de autorização da atividade de prestação de serviços de aplicação de produtos fitofarmacêuticos por empresas de aplicação terrestre
 
 1 - O exercício da atividade de prestação de serviços de aplicação terrestre de produtos fitofarmacêuticos é autorizado às empresas que comprovem dispor de:
 

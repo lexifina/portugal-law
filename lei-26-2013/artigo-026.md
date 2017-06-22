@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Segurança na aplicação de produtos fitofarmacêuticos em zonas urbanas, zonas de lazer e vias de comunicação
-
 # Artigo 26.º
 
 ### Entidades autorizadas a aplicar produtos fitofarmacêuticos
