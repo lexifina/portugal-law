@@ -10,7 +10,7 @@
 
 2 - A divulgação dos sítios na Internet onde são disponibilizadas as plataformas referidas no número anterior deve ser feita em todos os serviços públicos e em todos os serviços online, de forma bem visível para o utente.
 
-3 - A AMA, I. P., disponibiliza uma plataforma na Internet destinada a acolher os elogios, sugestões e reclamações dos serviços e organismos da Administração Pública que não tenham uma plataforma específica para o efeito.
+3 - A AMA, I. P., disponibiliza uma plataforma na Internet destinada a acolher os elogios, sugestões e reclamações dos serviços e organismos da Administração Pública, sendo que podem ser disponibilizadas outras plataformas específicas para o efeito quando fundada razão de interesse público o justifique.
 
 4 - Às plataformas previstas no presente artigo aplicam-se as garantias em matéria de proteção de dados pessoais previstas na Lei n.º 67/98, de 26 de outubro.
 
