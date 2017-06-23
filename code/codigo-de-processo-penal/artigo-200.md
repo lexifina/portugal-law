@@ -19,3 +19,5 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 2 - As autorizações referidas no número anterior podem, em caso de urgência, ser requeridas e concedidas verbalmente, lavrando-se cota no processo.
 
 3 - A proibição de o arguido se ausentar para o estrangeiro implica a entrega à guarda do tribunal do passaporte que possuir e a comunicação às autoridades competentes, com vista à não concessão ou não renovação de passaporte e ao controle das fronteiras.
+
+4 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
