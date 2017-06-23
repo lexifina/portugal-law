@@ -1,0 +1,1003 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "935",
+    "id": "41502",
+    "titulo": "Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2017-06-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12196",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2017-06-23",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41486",
+        "leg": "XIII",
+        "nr": "555",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Garante a assistência parental ao parto"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41499",
+        "leg": "XIII",
+        "nr": "563",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "41487",
+        "leg": "XIII",
+        "nr": "928",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "41488",
+        "leg": "XIII",
+        "nr": "929",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "41501",
+        "leg": "XIII",
+        "nr": "934",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2362",
+            "obs": null,
+            "pag": [
+              "4-68"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-06-24",
+            "pubLeg": "XIII",
+            "pubNr": "101",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/4?pgs=4-68&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-06-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:28:25:528&drc=00:03:55:471"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/58?pgs=58&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:32:33:888&drc=00:05:01:111"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:37:37:462&drc=00:04:58:538"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6197",
+                "nome": "António Sales"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:42:43:038&drc=00:03:44:961"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6138",
+                "nome": "Isaura Pedro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:46:36:257&drc=00:03:34:743"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/62?pgs=62&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:50:16:712&drc=00:03:52:288"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "14:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_06_23_10_00_00_clean_14_plenario&url=l13/sl2/a2017/m06/&tI=03:54:14:494&drc=00:03:17:505"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-06-24",
+                "pubLeg": "XIII",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "sumario": "Garante a assistência parental ao parto; Recomenda ao Governo que atue no sentido de assegurar o cumprimento dos direitos das mulheres na gravidez e no parto; Recomenda ao Governo a disponibilização de parto na água no Serviço Nacional de Saúde; Procede à segunda alteração à Lei nº 15/2014, de 21 de março, de modo a reforçar os direitos da mulher grávida durante o parto e da mulher puérpera após o internamento; Reforça as medidas de acompanhamento da grávida e puérpera no Serviço Nacional de Saúde; Sobre a opção pelo parto em meio aquático no Serviço Nacional de Saúde.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "327721",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "795035",
+        "obs": null,
+        "pag": [
+          "57-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-06-24",
+        "pubLeg": "XIII",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/101/2017-06-24/57?pgs=57-64&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
