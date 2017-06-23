@@ -15,3 +15,5 @@ d) Não contactar com a vítima, com determinadas pessoas ou frequentar certos l
 2 - O disposto nas alíneas c) e d) do número anterior mantém a sua relevância mesmo nos casos em que a vítima tenha abandonado a residência em razão da prática ou de ameaça séria do cometimento do crime de violência doméstica.
 
 3 - As medidas previstas neste artigo são sempre cumuláveis com qualquer outra medida de coação prevista no Código de Processo Penal.
+
+4 - A medida ou medidas de coação que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
