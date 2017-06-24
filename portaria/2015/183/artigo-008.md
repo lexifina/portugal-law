@@ -2,9 +2,9 @@
 
 ### Despesas elegíveis
 
-1 - No âmbito do INOV Contacto são suportadas as seguintes despesas por estagiário:
+1 - No âmbito do INOV Contacto são elegíveis as seguintes despesas por estagiário:
 
-a) Durante as fases realizadas em Portugal:
+a) Durante a 1.ª fase:
 
 i) Bolsa de formação mensal, determinada em função do indexante dos apoios sociais, no valor correspondente a duas vezes esse indexante;
 
@@ -14,13 +14,15 @@ iii) Seguro de acidentes de trabalho, segundo a legislação em vigor;
 
 iv) Seguro de acidentes pessoais;
 
-b) Durante o período de estágio no estrangeiro, para além das previstas na alínea anterior:
+b) Durante a 2.ª fase são elegíveis, para além das despesas previstas na alínea anterior, as seguintes:
 
-i) Subsídio de alojamento, no qual se inclui o subsídio de refeição, desde o dia da partida para o estrangeiro até ao último dia do estágio, indexado à última tabela publicada do custo de vida da Organização das Nações Unidas;
+i) Subsídio de alojamento, desde o dia da partida para o estrangeiro até ao último dia do estágio, indexado à última tabela publicada do custo de vida da Organização das Nações Unidas;
 
-ii) Viagem de ida e volta entre Portugal e o local de destino do estágio;
+ii) Subsídio de refeição, de igual valor ao atribuído à generalidade dos trabalhadores que exercem funções públicas;
 
-iii) Seguro de saúde, caso o estágio se realize num país onde não exista acordo de cuidados de saúde recíprocos com Portugal, ou quando tal for exigido.
+iii) Viagem de ida e volta entre Portugal e o local de destino do estágio;
+
+iv) Seguro de saúde.
 
 2 - São ainda suportadas as despesas relacionadas com:
 

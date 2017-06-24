@@ -1,16 +1,16 @@
 # Artigo 6.º
 
-### Estrutura e duração do estágio
+### Estrutura e duração das edições do INOV Contacto
 
-1 - O estágio é constituído pelas seguintes fases sequenciais, todas de frequência obrigatória:
+1 - As edições do INOV Contacto são constituídas pelas seguintes fases sequenciais, todas de frequência obrigatória:
 
-a) 1.ª fase, constituída por um curso de práticas internacionais, incluindo um período de formação em contexto real de trabalho, designado por estágio em Portugal;
+a) 1.ª fase - curso de práticas internacionais que inclui um período de formação em contexto real de trabalho, designado por estágio em Portugal;
 
-b) 2.ª fase, constituída por um estágio no estrangeiro que se inicia após finalizado o estágio em Portugal;
+b) 2.ª fase - estágio no estrangeiro e elaboração e entrega do Relatório final por parte do estagiário;
 
-c) 3.ª fase, constituída por um seminário de encerramento e apoio à integração.
+c) 3.ª fase - seminário de encerramento da edição.
 
-2 - O estágio tem uma duração mínima de seis meses e uma duração máxima de nove meses.
+2 - Cada edição do INOV Contacto tem uma duração mínima de seis meses e uma duração máxima de nove meses.
 
 3 - Nos casos em que a entidade de acolhimento seja uma multinacional sem estrutura física em Portugal, o estágio no estrangeiro poderá ter início logo após o terminus do curso de práticas internacionais, referido na alínea a) do n.º 1.
 
