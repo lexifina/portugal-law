@@ -13,3 +13,5 @@ c) Resulte de plano de ordenamento do território aplicável, nomeadamente de pl
 2 - Nas situações previstas no número anterior, o senhorio está obrigado ao pagamento da indemnização prevista na alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no número seguinte.
 
 3 - Nas situações previstas nas alíneas a) e b) do n.º 1, o senhorio não está obrigado ao pagamento da indemnização prevista no número anterior, quando a ordem ou a necessidade de demolição não resulte de ação ou omissão culposa da sua parte.
+
+4 - À denúncia para demolição de imóveis onde se encontrem instalados estabelecimentos ou entidades de interesse histórico e cultural ou social local é aplicável o disposto nos números anteriores e no artigo seguinte.
