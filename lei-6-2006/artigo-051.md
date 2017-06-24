@@ -22,7 +22,9 @@ a) Que existe no locado um estabelecimento comercial aberto ao público e que é
 
 b) Que no locado funciona uma pessoa coletiva de direito privado sem fins lucrativos, regularmente constituída, que se dedica à atividade cultural, recreativa, de solidariedade social ou desportiva não profissional, e declarada de interesse público ou de interesse nacional ou municipal, ou uma pessoa coletiva de direito privado que prossiga uma atividade declarada de interesse nacional;
 
-c) Que o locado funciona como casa fruída por república de estudantes, nos termos previstos na Lei n.º 2/82, de 15 de janeiro, alterada pela Lei n.º 12/85, de 20 de junho.
+c) Que o locado funciona como casa fruída por república de estudantes, nos termos previstos na Lei n.º 2/82, de 15 de janeiro, alterada pela Lei n.º 12/85, de 20 de junho;
+
+d) Que existe no locado um estabelecimento ou uma entidade de interesse histórico e cultural ou social local reconhecidos pelo município, nos termos do respetivo regime jurídico.
 
 5 - Para efeitos da presente lei, «microempresa» é a empresa que, independentemente da sua forma jurídica, não ultrapasse, à data do balanço, dois dos três limites seguintes:
 
