@@ -1,0 +1,5 @@
+Aviso n.º 7020/2017
+Nos termos do artigo 100.º, n.º 3, alínea c) e artigo 101.º, ambos do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, avisam-se os interessados de que se encontra em consulta pública, no endereço de internet www.ua.pt/gaqap/uaemmudanca, a proposta de alteração ao «Regulamento de Estudos dos Cursos Técnicos Superiores Profissionais da Universidade de Aveiro», aprovado por Despacho n.º 5686/2015 e publicado no Diário da República n.º 103, 2.ª série, de 28 de maio de 2015.
+Os interessados devem dirigir as suas sugestões ao Reitor da Universidade de Aveiro, por escrito, no prazo de 30 dias a contar da data de publicação do presente aviso, através do endereço de correio eletrónico rt-consulta.publica@ua.pt ou do endereço postal: Gabinete do Reitor, Edifício Central e da Reitoria, Campus Universitário de Santiago, Universidade de Aveiro, 3810-193 Aveiro.
+25 de maio de 2017. - O Reitor, Prof. Doutor Manuel António Assunção.
+310546576
