@@ -1,0 +1,8 @@
+Aviso n.º 7115/2017
+Alteração do plano de urbanização do Sabugal
+Para os devidos efeitos, torna-se público que, nos termos e para os efeitos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, em reunião ordinária ocorrida a 26 de maio, a câmara municipal deliberou proceder à abertura do período de discussão pública da alteração do plano de urbanização do Sabugal e estabeleceu um prazo de 20 dias a contar do quinto dia após data de publicação do presente aviso em Diário da República, para formulação de sugestões e observações sobre quaisquer questões que possam ser consideradas no âmbito do processo de alteração, por todos os interessados.
+Em cumprimento do disposto no n.º 1 do artigo 89.º e no n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, o presente aviso será publicado na 2.ª série do Diário da República, e divulgado na comunicação social, na plataforma colaborativa de gestão territorial e no sítio eletrónico do município do Sabugal.
+A proposta de alteração, a ata da conferência procedimental e o parecer final emitido estão disponíveis para consulta no edifício do auditório municipal, de terças a domingo, e no balcão único, nos dias úteis das 9:00 às 16:00 horas, bem como no sitio eletrónico do município: http://www.cm-sabugal.pt
+Os interessados deverão apresentar as observações e sugestões, mediante requerimento devidamente identificado dirigido ao presidente da câmara municipal do Sabugal, por correio cuja morada é Praça da República 6324-007 Sabugal ou através de correio eletrónico para o endereço: presidencia@cm-sabugal.pt.
+29 de maio de 2017. - O Presidente da Câmara, António dos Santos Robalo.
+610550609
