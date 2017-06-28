@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2017-06-28, processo 01234/16
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01234/16
+
+**Data do Acordão:** 06/28/2017
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ANA PAULA LOBO
+
+**Descritores:** TEMPESTIVIDADE DA IMPUGNAÇÃO; APLICAÇÃO DA LEI NO TEMPO
+
+**Nº Convencional:** JSTA000P22062
+
+**Nº do Documento:** SA22017062801234
+
+**Data de Entrada:** 11/04/2016
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A.....
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A decisão do recurso hierárquico foi proferida em 17 de Março de 2009 tendo o recorrente dela sido notificado em 27/03/2009, com a assinatura do aviso de recepção vindo a presente impugnação judicial a dar entrada no TAF de Leiria em 26/06/2009.
+
+II - O art.º 102, n.º 1 do Código de Processo e Procedimento Tributário, na versão inicial, determinava que: 1 - A impugnação será apresentada no prazo de 90 dias contados.
+
+III - Tal redacção tinha sido introduzida pelo Decreto-Lei n.º 433/99, de 26 de Outubro que aprovou o Código de Processo e Procedimento Tributário e estabeleceu no seu art.º 4 que entraria em vigor este código no dia 1 de Janeiro de 2000 e só se aplicaria aos procedimentos e processos instaurados a partir dessa data.
+
+IV - O recurso hierárquico esteve sujeito às regras processuais do Código de Processo e Procedimento Tributário, na versão original, e a presente impugnação judicial deveria ser apresentada no prazo também nele estabelecido não podendo aferir-se da tempestividade da sua apresentação, como fez a sentença recorrida com base numa redacção que só veio a ser introduzida em 2013 e iniciou a sua vigência em 2014.
