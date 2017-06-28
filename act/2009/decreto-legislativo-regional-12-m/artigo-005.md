@@ -1,5 +1,9 @@
 # Artigo 5.º
 
-### Empreendimentos de turismo da natureza
+### Agroturismo
 
-Os empreendimentos de turismo da natureza só podem adoptar as tipologias definidas nas alíneas f), g) e i) do n.º 1 do artigo 3.º, devendo obedecer aos requisitos de instalação, classificação e funcionamento previstos para a tipologia adoptada.
+1 - Na Região Autónoma da Madeira, são empreendimentos de agroturismo os imóveis que através da reconstrução, reabilitação ou ampliação de construções existentes, assegurem a sua integração na envolvente e possuam explorações de agricultura biológica que permitam aos hóspedes o acompanhamento e conhecimento da atividade agrícola, ou a participação nos trabalhos aí desenvolvidos, de acordo com as regras estabelecidas pelo seu responsável.
+
+2 - Podem ser instaladas unidades de alojamento fora da edificação principal, em edifícios existentes ou novos, construídos de raiz, incluindo não contíguos, que com ele se harmonizem do ponto de vista arquitetónico, e que assegurem um enquadramento paisagístico na zona onde se inserem.
+
+3 - Em termos de ocupação do solo as unidades de agroturismo devem cumprir com um rácio mínimo de 80 % de solo afeto à exploração agrícola, calculado com base na área total do empreendimento, excetuando a área de implantação da edificação principal preexistente.

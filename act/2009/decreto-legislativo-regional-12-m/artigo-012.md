@@ -1,5 +1,5 @@
 # Artigo 12.º
 
-### Obras isentas de licenciamento
+### Obras
 
-Para efeitos do controlo dos limites da capacidade de alojamento estabelecidos no Plano de Ordenamento Turístico da Região Autónoma da Madeira, as obras não sujeitas a licenciamento municipal realizadas em todos os empreendimentos turísticos, nas condições previstas no artigo 29.º do diploma em adaptação, carecem de prévia declaração de conformidade, a emitir pela Direcção Regional do Turismo.
+Todas as obras e remodelações, incluindo as isentas de licenciamento municipal, que impliquem um aumento da capacidade de alojamento dos empreendimentos turísticos, nos termos previstos no artigo 29.º do diploma em adaptação, carecem de prévia declaração de conformidade, a emitir pela Direção Regional do Turismo.
