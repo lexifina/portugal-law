@@ -1,0 +1,17 @@
+Portaria n.º 201/2017
+de 28 de junho
+Através da Portaria n.º 375/76, de 19 de junho, e ao abrigo dos artigos 1.º e 8.º do Decreto-Lei n.º 406-A/75, de 29 de julho, foi expropriado a Maria Faustina Simões Alves de Margiochi, o prédio rústico denominado «Paço Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho», com a área de 2.703,2975 ha, inscrito na matriz cadastral sob o artigo 3, das secções E, E1 a E4, da freguesia de Nossa Senhora de Machede, concelho de Évora.
+Na sequência do pedido de reversão apresentado pelas legítimas herdeiras do sujeito passivo da expropriação, Maria de Lurdes Simões Alves de Noronha Lopes, Maria João Simões Alves de Noronha, Maria Madalena Simões Alves de Noronha Cabral Meneres, Maria da Graça Simões Alves de Noronha Mendes de Almeida, Maria Isabel Simões Alves de Noronha Cabral Meneres e Maria Teresa Simões Alves de Noronha Pissarra, ao abrigo do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, na redação dada pela Lei n.º 92/2015, de 12 de agosto, foi aberto e instruído o respetivo processo administrativo, no decurso do qual se fez prova que a courela n.º 108, com a área de 2 ha, foi arrendada, pelo Estado português, a Inácio José Figueira Pereira.
+Considerando que o referido arrendatário declara que não pretende exercer os direitos conferidos pelo Decreto-Lei n.º 349/91, de 19 de setembro, designadamente, o de adquirir a área arrendada, e se prova que os seus direitos como arrendatário estão salvaguardados, encontram-se reunidos os requisitos legais para a reversão, ao abrigo do n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, na redação dada pela Lei n.º 92/2015, de 12 de agosto.
+Assim:
+Manda o Governo, pelo Primeiro-Ministro e pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do disposto no n.º 2 do artigo 44.º da Lei n.º 86/95, de 1 de setembro, na redação dada pela Lei n.º 92/2015, de 12 de agosto, o seguinte:
+Artigo 1.º
+Objeto
+É aprovada a reversão a favor de Maria de Lurdes Simões Alves de Noronha Lopes, Maria João Simões Alves de Noronha, Maria Madalena Simões Alves de Noronha Cabral Meneres, Maria da Graça Simões Alves de Noronha Mendes de Almeida, Maria Isabel Simões Alves de Noronha Cabral Meneres, na qualidade de legítimas herdeiras de Maria Faustina Simões Alves de Margiochi, e de Pedro Maria do Carmo de Noronha Pissarra, Rodrigo Maria do Carmo de Noronha Pissarra, Patrícia Maria do Carmo de Noronha Pissarra da Franca Coelho e Tiago Maria do Carmo de Noronha Pissarra, na qualidade de legítimos herdeiros de Maria Teresa Simões Alves de Noronha Pissarra, da área de 2 ha, referente à courela n.º 108, que faz parte integrante do prédio rústico denominado «Paço Saraiva, Vale de Palma, Bate Velhos, Banhita, Gramacha e Montinho», inscrito na matriz cadastral sob o artigo 3 das secções E, E1 a E4, da freguesia de Nossa Senhora de Machede, concelho de Évora, atualmente parte integrante do prédio designado «Herdade do Montinho», inscrito na matriz predial rústica sob o artigo 8, das secções E1, E2 e E3, da mesma freguesia e do mesmo concelho.
+Artigo 2.º
+Norma revogatória
+É revogada a Portaria n.º 375/76, de 19 de junho, na parte em que expropria a referida área.
+Artigo 3.º
+Produção de efeitos
+A presente portaria produz efeitos a partir da data da sua assinatura.
+O Primeiro-Ministro, António Luís Santos da Costa, em 22 de novembro de 2016. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 13 de outubro de 2016.
