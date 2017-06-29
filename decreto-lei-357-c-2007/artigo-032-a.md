@@ -6,7 +6,7 @@
 
 2 - As comunicações efetuadas podem ser identificadas ou anónimas e os factos, provas ou informações podem dizer respeito a infrações já consumadas, que estejam a ser executadas ou que, à luz dos elementos disponíveis, se possa prever com probabilidade que venham a ser praticadas.
 
-3 - Os meios e procedimentos referidos no n.º 1 garantem a confidencialidade da informação recebida, o regime de anonimato, se o mesmo tiver sido adotado, e a proteção dos dados pessoais do denunciante e do denunciado pela prática da eventual infração, nos termos da legislação nacional e da União Europeia relativa à proteção de dados pessoais.
+3 - Os meios e procedimentos referidos no n.º 1 garantem a confidencialidade da informação recebida, o regime de anonimato, se o mesmo tiver sido adotado, e a proteção dos dados pessoais do denunciante e do denunciado pela prática da eventual infração, nos termos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
 
 4 - As comunicações recebidas nos termos dos números anteriores são objeto de análise fundamentada com, pelo menos, o seguinte conteúdo:
 
