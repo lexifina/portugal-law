@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 17/2017
+Ao abrigo do disposto no n.º 5 do artigo 12.º do Regulamento de Publicação de Atos no Diário da República, aprovado em anexo ao Despacho normativo n.º 15/2016, publicado no Diário da República, 2.ª série, n.º 243, de 21 de dezembro de 2016, declara-se sem efeito a publicação da Portaria n.º 149/2017, de 2 de maio, no Diário da República, 1.ª série, n.º 84, de 2 de maio de 2017, por corresponder a duplicação do texto da Portaria n.º 134/2017, de 11 de abril, publicada no Diário da República, 1.ª série, n.º 72, de 11 de abril de 2017.
+Gabinete de Planeamento, Políticas e Administração Geral, 28 de junho de 2017. - O Diretor-Geral, Eduardo Diniz.
