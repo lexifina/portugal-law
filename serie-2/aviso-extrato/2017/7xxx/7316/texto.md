@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 7316/2017
+Delminda Augusta Pinto Lopes, Vice-Presidente do Instituto Politécnico do Porto (P.PORTO), torna público que aprovou, em 2 de junho de 2017, o Projeto de Regulamento dos Cursos Técnicos Superiores Profissionais do Instituto Politécnico do Porto, submetendo-o, nos termos do artigo 101.º do Código do Procedimento Administrativo e do n.º 3 do artigo 110.º do Regime Jurídico das Instituições do Ensino Superior, a consulta pública, para recolha de sugestões, pelo prazo de 30 dias úteis, a contar da data da publicação do presente aviso no Diário da República.
+O projeto de regulamento pode ser consultado no Gabinete de Organização Académica do Instituto Politécnico do Porto, sito na Rua Dr. Roberto Frias, 712, 4200-465 Porto, bem como na internet, no sítio institucional do P.PORTO, em www.ipp.pt nas opções de menu «Documentos Públicos» na pasta [Documentos em discussão].
+Convidam-se todos os interessados a dirigir, por escrito, eventuais sugestões, dentro do período acima referido, as quais deverão ser endereçadas ao cuidado do Pró-Presidente do P.PORTO, Prof. Doutor Luís Rothes, podendo ser entregues no atendimento geral do serviço supra identificado ou remetidas por correio eletrónico para o endereço discussaopublica@sc.ipp.pt.
+Para constar se publica o presente aviso, o qual vai ser disponibilizado na internet, no sítio institucional do P.PORTO.
+2 de junho de 2017. - A Vice-Presidente do P.PORTO, Engenheira Delminda Lopes.
+310557365
