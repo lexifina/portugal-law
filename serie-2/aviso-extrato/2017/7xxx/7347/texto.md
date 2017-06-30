@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 7347/2017
+Projeto de Regulamento de Atribuição de Benefícios Sociais aos Bombeiros Voluntários do Concelho de Mirandela
+António Almor Branco, Presidente da Câmara Municipal de Mirandela, torna público, nos termos e para os efeitos do disposto no 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião realizada no dia 12 de junho de 2017, submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso, o Projeto de Regulamento de Atribuição de Benefícios Sociais aos Bombeiros Voluntários do Concelho de Mirandela que se encontra disponível para consulta na página do Município em http://www.cm-mirandela.pt/pages/579. Os interessados podem endereçar as suas sugestões por escrito à Câmara Municipal de Mirandela para Largo do Município, 5370-288 Mirandela, ou através de correio eletrónico para gabinetejuridico@cm-mirandela.pt, dentro do prazo referido.
+12 de junho de 2017. - O Presidente da Câmara, António Almor Branco.
+310564111
