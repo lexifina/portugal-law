@@ -2,7 +2,7 @@
 
 ### Direção de Material e Transportes
 
-1 - À DMT compete executar, de forma integrada, as atividades logísticas de reabastecimento, transporte, manutenção e serviços de campanha, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação de abastecimentos.
+1 - À DMT compete executar, de forma integrada, as atividades logísticas de reabastecimento, transporte, manutenção e serviços, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação de abastecimentos.
 
 2 - À DMT compete, em especial:
 

@@ -24,4 +24,6 @@ h) Elaborar, em coordenação com o CFT, os planos de projeção, rendição e r
 
 i) Gerir o sistema de gestão ambiental no Exército;
 
-j) Assegurar a receção qualitativa e quantitativa de todos os abastecimentos e serviços adquiridos através da DA.
+j) Assegurar a receção qualitativa e quantitativa de todos os abastecimentos e serviços adquiridos através da DA;
+
+k) Assegurar e coordenar o funcionamento e gestão das messes militares do Exército.
