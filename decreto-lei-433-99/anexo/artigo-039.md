@@ -18,9 +18,9 @@
 
 8 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
 
-9 - As notificações efectuadas por transmissão electrónica de dados consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
+9 - [Revogado.]
 
-10 - A notificação considera-se efetuada no 25.º dia posterior ao seu envio, caso o contribuinte não aceda à caixa postal eletrónica em data anterior.
+10 - As notificações efetuadas para o domicílio fiscal eletrónico consideram-se efetuadas no quinto dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital ou na caixa postal eletrónica da pessoa a notificar.
 
 11 - A presunção do número anterior só pode ser ilidida pelo notificado quando, por facto que não lhe seja imputável, a notificação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
 

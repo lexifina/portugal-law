@@ -16,11 +16,11 @@ c) Quando houver necessidade de proceder à venda de bens;
 
 d) Quando o órgão de execução fiscal a considerar mais eficaz para a cobrança da dívida.
 
-4 - As citações referidas no presente artigo podem ser efetuadas por transmissão eletrónica de dados, valendo como citação pessoal.
+4 - As citações referidas no presente artigo podem ser efetuadas para o domicílio fiscal eletrónico, valendo como citação pessoal.
 
-5 - As citações efectuadas nos termos do número anterior consideram-se feitas no momento em que o destinatário aceda à caixa postal electrónica.
+5 - [Revogado.]
 
-6 - A citação considera-se efetuada no 25.º dia posterior ao seu envio caso o contribuinte não aceda à caixa postal eletrónica em data anterior.
+6 - As citações efetuadas para o domicílio fiscal eletrónico consideram-se efetuadas no quinto dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital ou na caixa postal eletrónica da pessoa a citar.
 
 7 - A presunção do número anterior só pode ser ilidida pelo citado quando, por facto que não lhe seja imputável, a citação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
 
