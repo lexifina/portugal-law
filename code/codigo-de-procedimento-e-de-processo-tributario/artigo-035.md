@@ -13,3 +13,5 @@
 3 - Os despachos a ordenar citações ou notificações podem ser impressos e assinados por chancela.
 
 4 - Qualquer funcionário da administração tributária, no exercício das suas funções, promove a notificação e a citação.
+
+5 - A adesão à morada única digital nos termos previstos no serviço público de notificações eletrónicas associado à morada única digital determina que as notificações e citações podem ser feitas através daquele.

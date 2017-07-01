@@ -18,10 +18,12 @@
 
 8 - As notificações referidas nos n.os 3 e 4 do presente artigo podem ser efectuadas, nos termos do número anterior, por telefax quando a administração tributária tenha conhecimento do número de telefax do notificando e possa posteriormente confirmar o conteúdo da mensagem e o momento em que foi enviada.
 
-9 - As notificações referidas no presente artigo, bem como as efetuadas nos processos de execução fiscal, podem ser efetuadas por transmissão eletrónica de dados, que equivalem, consoante os casos, à remessa por via postal registada ou por via postal registada com aviso de receção.
+9 - As notificações referidas no presente artigo, bem como as efetuadas nos processos de execução fiscal, podem ser efetuadas por transmissão eletrónica de dados, através do serviço público de notificações eletrónicas associado à morada única digital ou da caixa postal eletrónica, equivalendo ambas à remessa por via postal registada ou por via postal registada com aviso de receção.
 
 10 - (Revogado).
 
 11 - Quando se refiram a actos praticados por meios electrónicos pelo dirigente máximo do serviço, as notificações efectuadas por transmissão electrónica de dados são autenticadas com assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
 
 12 - A administração fiscal disponibiliza no seu serviço na Internet os documentos electrónicos de notificação e citação a cada sujeito passivo.
+
+13 - As notificações por transmissão eletrónica de dados previstas no n.º 9 podem conter apenas um resumo da fundamentação dos atos notificados, desde que remetam expressamente para uma fundamentação completa disponível a cada sujeito passivo na área reservada do Portal das Finanças.
