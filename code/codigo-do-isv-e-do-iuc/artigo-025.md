@@ -6,11 +6,11 @@
 
 ### Forma e prazo da liquidação
 
-1 - A liquidação do imposto sobre veículos é realizada pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo com base na DAV ou na DCV, dentro dos seguintes prazos:
+1 - A liquidação do imposto sobre veículos é realizada pela Autoridade Tributária e Aduaneira (AT) com base na DAV, dentro dos seguintes prazos:
 
 a) Na data da apresentação do pedido de introdução no consumo por operadores registados e reconhecidos;
 
-b) Na data da apresentação da DAV ou DCV pelos particulares;
+b) Na data da apresentação da DAV pelos particulares;
 
 c) Nos dois dias úteis seguintes à avaliação de veículos usados prevista no n.º 3 do artigo 11.º
 

@@ -4,7 +4,7 @@
 
 1 - As alfândegas devem proceder ao registo numérico da DAV na data da sua apresentação ou, quando tal se revele impossível, no dia útil seguinte.
 
-2 - Pode haver lugar a anulação da DAV já registada antes de pago ou garantido o imposto, a pedido do interessado e mediante a apresentação da DCV, quando se comprove que um veículo foi erradamente declarado para um determinado regime fiscal ou que, na sequência de circunstâncias especiais, deixou de se justificar a sujeição a esse regime.
+2 - Pode haver lugar a anulação da DAV já registada antes de pago ou garantido o imposto, a pedido do interessado, quando se comprove que um veículo foi erradamente declarado para um determinado regime fiscal ou que, na sequência de circunstâncias especiais, deixou de se justificar a sujeição a esse regime.
 
 3 - A DAV apresentada por operadores registados e reconhecidos pode ser anulada antes de pago ou garantido o imposto com os seguintes fundamentos:
 
