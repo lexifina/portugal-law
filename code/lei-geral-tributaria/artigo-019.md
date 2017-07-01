@@ -8,7 +8,7 @@ a) Para as pessoas singulares, o local da residência habitual;
 
 b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na falta destas, do seu estabelecimento estável em Portugal.
 
-2 - O domicílio fiscal integra ainda a caixa postal electrónica, nos termos previstos no serviço público de caixa postal electrónica.
+2 - O domicílio fiscal integra ainda o domicílio fiscal eletrónico, que inclui o serviço público de notificações eletrónicas associado à morada única digital, bem como a caixa postal eletrónica, nos termos previstos no serviço público de notificações eletrónicas associado à morada única digital e no serviço público de caixa postal eletrónica.
 
 3 - É obrigatória, nos termos da lei, a comunicação do domicílio do sujeito passivo à administração tributária.
 
@@ -27,3 +27,7 @@ b) Para as pessoas colectivas, o local da sede ou direcção efectiva ou, na fal
 10 - Os sujeitos passivos do imposto sobre o rendimento das pessoas coletivas com sede ou direção efetiva em território português e os estabelecimentos estáveis de sociedades e outras entidades não residentes, bem como os sujeitos passivos residentes enquadrados no regime normal do imposto sobre o valor acrescentado, são obrigados a possuir caixa postal eletrónica, nos termos do n.º 2, e a comunicá-la à administração tributária no prazo de 30 dias a contar da data do início de atividade ou da data do início do enquadramento no regime normal do imposto sobre o valor acrescentado, quando o mesmo ocorra por alteração.
 
 11 - O Ministro das Finanças regula, por portaria, o regime de obrigatoriedade do domicílio fiscal electrónico dos sujeitos passivos não referidos no n.º 9.
+
+12 - A obrigatoriedade de designação de representante fiscal ou de adesão à caixa postal eletrónica não é aplicável aos sujeitos passivos que aderiram ao serviço público de notificações eletrónicas associado à morada única digital, com exceção do previsto quanto às pessoas coletivas ou outras entidades legalmente equiparadas que cessem atividade.
+
+13 - O cancelamento da adesão ao serviço público de notificações eletrónicas associado à morada única digital, relativamente às pessoas singulares e coletivas residentes fora da União Europeia ou do Espaço Económico Europeu, só produz efeitos após a prévia designação de representante fiscal.
