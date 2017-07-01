@@ -12,4 +12,4 @@ a) Instituto Nacional de Estatística (INE);
 
 b) IRN, I. P.;
 
-c) Direcção-Geral dos Impostos (DGCI).
+c) Autoridade Tributária e Aduaneira (AT).
