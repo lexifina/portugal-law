@@ -24,7 +24,7 @@ c) Hotéis rurais.
 
 6 - São empreendimentos de agro-turismo os imóveis situados em explorações agrícolas que permitam aos hóspedes o acompanhamento e conhecimento da actividade agrícola, ou a participação nos trabalhos aí desenvolvidos, de acordo com as regras estabelecidas pelo seu responsável.
 
-7 - São hotéis rurais os empreendimentos turísticos que cumpram os requisitos de classificação aplicáveis aos estabelecimentos hoteleiros, bem como o disposto no n.º 1, podendo instalar-se ainda, em edifícios novos, construídos de raiz, incluindo não contíguos.
+7 - São hotéis rurais os estabelecimentos hoteleiros que cumpram os requisitos de classificação aplicáveis a esta tipologia, bem como o disposto no n.º 1, podendo instalar-se em edifícios existentes ou construídos de raiz.
 
 8 - [Revogado].
 

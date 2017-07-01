@@ -12,9 +12,9 @@
 
 1 - O procedimento respeitante à instalação dos empreendimentos turísticos segue o regime previsto no presente decreto-lei e está submetido ao regime jurídico da urbanização e da edificação, com as especificidades constantes do presente regime e respectiva regulamentação, sempre que envolva a realização das operações urbanísticas ali previstas.
 
-2 - Nos casos em que nos termos do regime jurídico da urbanização e da edificação a forma do procedimento de controlo prévio da edificação de empreendimentos turísticos seja a comunicação prévia, pode o promotor optar pelo procedimento de licenciamento.
+2 - Aplica-se à edificação de empreendimentos turísticos o procedimento de comunicação prévia com prazo previsto no artigo 23.º-A ou, quando aplicável, a comunicação prévia nos termos do regime jurídico da urbanização e edificação, podendo, em qualquer caso, o promotor optar pelo procedimento de licenciamento.
 
-3 - O pedido de informação prévia, o pedido de licenciamento e a apresentação da comunicação prévia de operações urbanísticas relativas à instalação dos empreendimentos turísticos devem ser instruídos nos termos do regime jurídico da urbanização e da edificação, e respetiva regulamentação, e ainda com os elementos constantes de portaria dos membros do Governo responsáveis pelas áreas do turismo e do ordenamento do território, devendo o interessado indicar a classificação pretendida para o empreendimento turístico em determinado tipo e, quando aplicável, o grupo e categoria.
+3 - O procedimento deve ser instruído nos termos do regime jurídico da urbanização e da edificação, e respetiva regulamentação, acompanhado dos elementos constantes de portaria dos membros do Governo responsáveis pelas áreas do turismo e do ordenamento do território, devendo o interessado indicar a classificação pretendida para o empreendimento turístico.
 
 4 - [Revogado].
 

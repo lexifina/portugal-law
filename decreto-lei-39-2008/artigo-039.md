@@ -32,6 +32,6 @@ c) Prejudicar ou impedir a classificação de projetos inovadores e valorizantes
 
 6 - Excetuados os pedidos de dispensa referidos no n.º 2 do artigo 26.º no âmbito da instalação dos empreendimentos turísticos, as dispensas de requisitos requeridas ao Turismo de Portugal, I. P., são tacitamente deferidas caso este não determine a realização de auditoria de classificação no prazo referido no n.º 1 do artigo 36.º
 
-7 - Os requisitos exigidos para a atribuição da categoria são ainda dispensados, no caso dos empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º e alínea c) do n.º 3 do artigo 18.º, sempre que verificado o cumprimento dos critérios específicos para esse efeito previstos na portaria referida na alínea a) do n.º 2 do artigo 4.º
+7 -(Revogado).
 
-8 - O cumprimento dos critérios específicos referidos no número anterior é verificado em sede de auditoria de classificação a que se refere o artigo 36.º
+8 - (Revogado).

@@ -6,6 +6,6 @@ Constitui título válido de abertura do empreendimento qualquer dos seguintes d
 
 a) Alvará de autorização de utilização para fins turísticos do empreendimento;
 
-b) Comprovativo de regular submissão do requerimento de concessão de autorização de utilização para fins turísticos, acompanhado do comprovativo do pagamento da taxa devida, esgotado o prazo fixado no n.º 3 do artigo 30.º, sem que tenha sido proferida decisão expressa;
+b) Comprovativos de ter efetuado a comunicação prevista no n.º 1 do artigo anterior e da regular submissão do requerimento de concessão de autorização para fins turísticos prevista no artigo 30.º, bem como do comprovativo do pagamento da taxa devida através de autoliquidação;
 
 c) [Revogada].
