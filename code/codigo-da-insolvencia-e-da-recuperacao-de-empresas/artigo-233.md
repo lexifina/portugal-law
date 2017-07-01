@@ -2,7 +2,7 @@
 
 ### Efeitos do encerramento
 
-1 - Encerrado o processo:
+1 - Encerrado o processo, e sem prejuízo do disposto no n.º 5 do artigo 217.º quanto aos concretos efeitos imediatos da decisão de homologação do plano de insolvência:
 
 a) Cessam todos os efeitos que resultam da declaração de insolvência, recuperando designadamente o devedor o direito de disposição dos seus bens e a livre gestão dos seus negócios, sem prejuízo dos efeitos da qualificação da insolvência como culposa e do disposto no artigo seguinte;
 
@@ -16,7 +16,7 @@ d) Os credores da massa podem reclamar do devedor os seus direitos não satisfei
 
 a) A ineficácia das resoluções de actos em beneficio da massa insolvente, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para a defesa nas acções dirigidas à respectiva impugnação, bem como nos casos em que as mesmas não possam já ser impugnadas em virtude do decurso do prazo previsto no artigo 125.º, ou em que a impugnação deduzida haja já sido julgada improcedente por decisão com trânsito em julgado;
 
-b) A extinção da instância dos processos de verificação de créditos e de restituição e separação de bens já liquidados que se encontrem pendentes, excepto se tiver já sido proferida a sentença de verificação e graduação de créditos prevista no artigo 140.º, caso em que prosseguem até final os recursos interpostos dessa sentença e as acções cujos autores assim o requeiram, no prazo de 30 dias;
+b) A extinção da instância dos processos de verificação de créditos e de restituição e separação de bens já liquidados que se encontrem pendentes, exceto se tiver já sido proferida a sentença de verificação e graduação de créditos prevista no artigo 140.º, ou se o encerramento decorrer da aprovação do plano de insolvência, caso em que prosseguem até final os recursos interpostos dessa sentença e as ações cujos autores ou a devedora assim o requeiram, no prazo de 30 dias;
 
 c) A extinção da instância das acções pendentes contra os responsáveis legais pelas dívidas do insolvente propostas pelo administrador da insolvência, excepto se o plano de insolvência atribuir ao administrador da insolvência competência para o seu prosseguimento.
 
@@ -27,3 +27,5 @@ c) A extinção da instância das acções pendentes contra os responsáveis leg
 5 - Nos 10 dias posteriores ao encerramento, o administrador da insolvência entrega no tribunal, para arquivo, toda a documentação relativa ao processo que se encontre em seu poder, bem como os elementos da contabilidade do devedor que não hajam de ser restituídos ao próprio.
 
 6 - Sempre que ocorra o encerramento do processo de insolvência sem que tenha sido aberto incidente de qualificação por aplicação do disposto na alínea i) do n.º 1 do artigo 36.º, deve o juiz declarar expressamente na decisão prevista no artigo 230.º o caráter fortuito da insolvência.
+
+7 - O encerramento do processo de insolvência nos termos da alínea e) do n.º 1 do artigo 230.º, quando existam bens ou direitos a liquidar, determina unicamente o início do período de cessão do rendimento disponível.

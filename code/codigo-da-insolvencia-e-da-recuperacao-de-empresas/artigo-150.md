@@ -2,7 +2,7 @@
 
 ### Entrega dos bens apreendidos
 
-1 - O poder de apreensão resulta da declaração de insolvência, devendo o administrador da insolvência diligenciar, sem prejuízo do disposto nos n.os 1 e 2 do artigo 839.º do Código de Processo Civil, no sentido de os bens lhe serem imediatamente entregues, para que deles fique depositário, regendo-se o depósito pelas normas gerais e, em especial, pelas que disciplinam o depósito judicial de bens penhorados.
+1 - O poder de apreensão resulta da declaração de insolvência, devendo o administrador da insolvência diligenciar, sem prejuízo do disposto nos n.os 1 e 2 do artigo 756.º do Código de Processo Civil, no sentido de os bens lhe serem imediatamente entregues, para que deles fique depositário, regendo-se o depósito pelas normas gerais e, em especial, pelas que disciplinam o depósito judicial de bens penhorados.
 
 2 - A apreensão é feita pelo próprio administrador da insolvência, assistido pela comissão de credores ou por um representante desta, se existir, e, quando conveniente, na presença do credor requerente da insolvência e do próprio insolvente.
 
@@ -22,6 +22,6 @@ e) Quer no arrolamento, quer na entrega por balanço, é lavrado pelo administra
 
 f) O auto é assinado por quem presenciou a diligência e pelo possuidor ou detentor dos valores apreendidos ou, quando este não possa ou não queira assinar, pelas duas testemunhas a que seja possível recorrer.
 
-5 - À desocupação de casa de habitação onde resida habitualmente o insolvente é aplicável o disposto no artigo 930.º-A do Código de Processo Civil.
+5 - À desocupação de casa de habitação onde resida habitualmente o insolvente é aplicável o disposto no artigo 862.º do Código de Processo Civil.
 
 6 - As somas recebidas em dinheiro pelo administrador da insolvência, ressalvadas as estritamente indispensáveis às despesas correntes de administração, devem ser imediatamente depositadas em instituição de crédito escolhida pelo administrador da insolvência.

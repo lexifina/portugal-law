@@ -2,7 +2,7 @@
 
 ### Audiência
 
-Na audiência de julgamento são observados os termos estabelecidos para o processo declaratório sumário, com as seguintes especialidades:
+Na audiência de julgamento são observados os termos estabelecidos para o processo comum, com as seguintes especialidades:
 
 a) Sempre que necessário, serão ouvidos, na altura em que o tribunal o determine, quer o administrador da insolvência, quer a comissão de credores;
 

@@ -4,11 +4,11 @@
 
 1 - Os administradores do devedor a quem tenha sido fixada residência são notificados pessoalmente da sentença, nos termos e pelas formas prescritos na lei processual para a citação, sendo-lhes igualmente enviadas cópias da petição inicial.
 
-2 - Sem prejuízo das notificações que se revelem necessárias nos termos da legislação laboral, nomeadamente ao Fundo de Garantia Salarial, a sentença é igualmente notificada ao Ministério Público, ao requerente da declaração de insolvência, ao devedor, nos termos previstos para a citação, caso não tenha já sido citado pessoalmente para os termos do processo e, se este for titular de uma empresa, à comissão de trabalhadores.
+2 - Sem prejuízo das notificações que se revelem necessárias nos termos da legislação laboral, nomeadamente ao Fundo de Garantia Salarial, a sentença é igualmente notificada ao Ministério Público, ao Instituto de Segurança Social, ao requerente da declaração de insolvência, ao devedor, nos termos previstos para a citação, caso não tenha já sido citado pessoalmente para os termos do processo e, se este for titular de uma empresa, à comissão de trabalhadores.
 
 3 - Os cinco maiores credores conhecidos, com exclusão do que tiver sido requerente, são citados nos termos do n.º 1 ou por carta registada, consoante tenham ou não residência habitual, sede ou domicílio em Portugal.
 
-4 - Os credores conhecidos que tenham residência habitual, domicílio ou sede em outros Estados membros da União Europeia, são citados por carta registada, em conformidade com os artigos 40.º e 42.º do Regulamento (CE) n.º 1346/2000, do Conselho, de 29 de Maio.
+4 - Os credores conhecidos que tenham a residência habitual, o domicílio ou a sede estatutária num Estado-membro diferente daquele em foi aberto o processo, incluindo as autoridades fiscais e os organismos da segurança social desses Estados-membros, são citados por carta registada, sem demora, em conformidade com o artigo 54.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
 
 5 - Havendo créditos do Estado, de institutos públicos sem a natureza de empresas públicas ou de instituições da segurança social, a citação dessas entidades é feita por carta registada.
 

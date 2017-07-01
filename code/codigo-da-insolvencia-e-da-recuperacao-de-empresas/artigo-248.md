@@ -2,7 +2,7 @@
 
 ### Apoio judiciário
 
-1 - O devedor que apresente um pedido de exoneração do passivo restante beneficia do diferimento do pagamento das custas até à decisão final desse pedido, na parte em que a massa insolvente e o seu rendimento disponível durante o período da cessão sejam insuficientes para o respectivo pagamento integral, o mesmo se aplicando à obrigação de reembolsar o Cofre Geral dos Tribunais das remunerações e despesas do administrador da insolvência e do fiduciário que o Cofre tenha suportado.
+1 - O devedor que apresente um pedido de exoneração do passivo restante beneficia do diferimento do pagamento das custas até à decisão final desse pedido, na parte em que a massa insolvente e o seu rendimento disponível durante o período da cessão sejam insuficientes para o respetivo pagamento integral, o mesmo se aplicando à obrigação de reembolsar o organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça das remunerações e despesas do administrador da insolvência e do fiduciário que o organismo tenha suportado.
 
 2 - Sendo concedida a exoneração do passivo restante, o disposto no artigo 33.º do Regulamento das Custas Processuais é aplicável ao pagamento das custas e à obrigação de reembolso referida no número anterior.
 
