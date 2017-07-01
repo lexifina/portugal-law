@@ -26,4 +26,4 @@ d) A conservação e manutenção geral das edificações e instalações técni
 
 3 - A entidade gestora deve promover a atratividade comercial e a divulgação do mercado, a promoção dos operadores económicos e dos seus produtos, a formação e informação dos utentes do mercado.
 
-4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica grave, punível nos termos do RJCE.
+4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação grave.

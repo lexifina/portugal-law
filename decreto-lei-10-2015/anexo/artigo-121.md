@@ -10,4 +10,4 @@ b) Proprietários, gestores ou entidades gestoras de cemitérios públicos, bem 
 
 2 - As IPSS ou entidades equiparadas cujo enquadramento estatutário acolha o exercício da atividade funerária são excetuadas do disposto no número anterior.
 
-3 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
+3 - A violação do disposto no presente artigo constitui contraordenação muito grave.

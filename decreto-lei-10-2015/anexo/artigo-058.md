@@ -28,4 +28,4 @@ vi) Necessidades dos utentes do mercado abastecedor, nomeadamente no que se refe
 
 vii) Compatibilização com os horários e programas de limpeza e remoção de resíduos sólidos do mercado abastecedor.
 
-5 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
+5 - A violação do disposto no número anterior constitui contraordenação grave.

@@ -12,4 +12,4 @@ c) O uso concomitante de fármacos fotossensibilizantes.
 
 2 - O documento tem uma validade de seis meses a contar da data da sua assinatura.
 
-3 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
+3 - A violação do disposto no presente artigo constitui contraordenação grave.

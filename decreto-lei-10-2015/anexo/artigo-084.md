@@ -6,4 +6,4 @@
 
 2 - A atividade de comércio por grosso de géneros alimentícios de origem animal que exijam condições de temperatura controlada é obrigatoriamente desenvolvida em recinto fechado.
 
-3 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
+3 - A violação do disposto no número anterior constitui contraordenação grave.

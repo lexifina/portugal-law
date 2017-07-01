@@ -8,4 +8,4 @@
 
 3 - Compete aos serviços de segurança do mercado abastecedor zelar pela manutenção da ordem pública no interior do mercado recorrendo às autoridades de segurança pública quando necessário.
 
-4 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
+4 - A violação do disposto no n.º 1 constitui contraordenação grave.

@@ -14,4 +14,4 @@ d) Respeitar, no comércio por via eletrónica, o disposto no Decreto-Lei n.º 7
 
 2 - A proibição constante da alínea a) do artigo anterior aplica-se a todos os operadores económicos cujos produtos se destinem ao território nacional, ainda que estabelecidos noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu ou em país terceiro.
 
-3 - A violação do disposto nas alíneas a) e b) do n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
+3 - A violação do disposto nas alíneas a) e b) do n.º 1 constitui contraordenação grave.

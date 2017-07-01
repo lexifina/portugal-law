@@ -10,6 +10,6 @@
 
 4 - Cabe aos utentes manter os seus espaços, bem como as zonas comuns do mercado abastecedor, limpos e em boas condições higiossanitárias e proceder à separação e depósito, nos locais apropriados, dos resíduos orgânicos, inorgânicos e indiferenciados.
 
-5 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
+5 - A violação do disposto no n.º 1 constitui contraordenação grave.
 
-6 - A violação do disposto no n.º 2 constitui contraordenação económica leve, punível nos termos do RJCE.
+6 - A violação do disposto no n.º 2 constitui contraordenação leve.

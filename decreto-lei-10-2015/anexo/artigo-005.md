@@ -14,6 +14,6 @@ c) A exploração de estabelecimentos de restauração ou de bebidas, nos casos 
 
 3 - A alteração significativa das condições de exercício das atividades referidas no n.º 1, bem como a alteração da titularidade do estabelecimento, quando aplicável, está sujeita a averbamento na autorização, nos termos a definir na portaria referida no n.º 1 do artigo 8.º
 
-4 - A falta de autorização prevista nos termos dos números anteriores constitui contraordenação económica muito grave, punível nos termos do RJCE.
+4 - A falta de autorização prevista nos termos dos números anteriores constitui contraordenação muito grave.
 
-5 - A falta de averbamento prevista nos termos dos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.
+5 - A falta de averbamento prevista nos termos dos números anteriores constitui contraordenação grave.

@@ -28,6 +28,6 @@ k) Informações a disponibilizar ao público;
 
 l) Lista de preços.
 
-2 - A violação dos requisitos referidos nas alíneas a) a f), h) e j) do número anterior constitui contraordenação económica grave, punível nos termos do RJCE, salvo nos casos em que tenha sido obtida dispensa, nos termos do RJACSR.
+2 - A violação dos requisitos referidos nas alíneas a) a f), h) e j) do número anterior constitui contraordenação grave, salvo nos casos em que tenha sido obtida dispensa, nos termos do RJACSR.
 
-3 - A violação dos requisitos referidos nas alíneas g), k) e l) do n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
+3 - A violação dos requisitos referidos nas alíneas g), k) e l) do n.º 1 constitui contraordenação leve.

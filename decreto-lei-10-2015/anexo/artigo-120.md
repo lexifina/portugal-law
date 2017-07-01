@@ -14,4 +14,4 @@ d) Abster-se de usar serviços de terceiros que não sejam compatíveis com as c
 
 e) Abster-se de contactar, por si ou através de terceiros, a família do falecido, as entidades gestoras de lares ou de hospitais, bem como quaisquer funcionários das mesmas, com o intuito de obter a encomenda da organização do funeral sem que os seus serviços tenham sido previamente solicitados para o efeito.
 
-2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE, quando sanção mais grave lhe não couber por força de outra disposição legal.
+2 - A violação do disposto no número anterior constitui contraordenação grave, quando sanção mais grave lhe não couber por força de outra disposição legal.

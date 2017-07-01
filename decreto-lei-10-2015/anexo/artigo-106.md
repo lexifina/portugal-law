@@ -10,4 +10,4 @@
 
 3 - A menção a que se refere o n.º 1 deve ser clara e facilmente legível pelo utilizador.
 
-4 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
+4 - A violação do disposto no presente artigo constitui contraordenação grave.

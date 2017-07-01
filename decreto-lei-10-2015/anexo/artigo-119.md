@@ -18,4 +18,4 @@ c) Serviços técnicos necessários à realização do funeral, prestados pela a
 
 5 - Ao preço máximo estabelecido no n.º 3 pode ser acrescida a taxa de inumação cobrada pelo cemitério.
 
-6 - A violação do disposto nos n.os 1 a 3 constitui contraordenação económica muito grave, punível nos termos do RJCE.
+6 - A violação do disposto nos n.os 1 a 3 constitui contraordenação muito grave.

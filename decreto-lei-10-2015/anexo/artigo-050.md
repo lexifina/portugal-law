@@ -16,4 +16,4 @@
 
 5 - A natureza das atividades referidas no número anterior não pode prejudicar a atividade de comércio por grosso de produtos alimentares, incluindo os mais perecíveis, designadamente em termos de higiene, segurança e qualidade alimentar.
 
-6 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no número anterior.
+6 - Constitui contraordenação grave a violação do disposto no número anterior.

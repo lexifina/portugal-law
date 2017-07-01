@@ -8,6 +8,6 @@
 
 3 - A informação que deve constar do letreiro a que se refere o n.º 1 é definida por portaria dos membros do Governo responsáveis pelas áreas da economia e da saúde.
 
-4 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
+4 - A violação do disposto no n.º 1 constitui contraordenação grave.
 
-5 - A violação do disposto no n.º 2 constitui contraordenação económica leve, punível nos termos do RJCE.
+5 - A violação do disposto no n.º 2 constitui contraordenação leve.

@@ -20,4 +20,4 @@ c) Ser instalados a menos de 300 metros de estabelecimentos de educação pré-e
 
 4 - É proibida a entrada e permanência de menores de 18 anos nos estabelecimentos sex shop.
 
-5 - A violação do disposto nos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.
+5 - A violação do disposto nos números anteriores constitui contraordenação grave.

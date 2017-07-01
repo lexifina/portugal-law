@@ -12,4 +12,4 @@
 
 5 - O pessoal técnico qualificado para manipular os aparelhos de bronzeamento deve cumprir rigorosamente todas as instruções dadas pelo fabricante.
 
-6 - A violação do disposto nos n.os 3 a 5 constitui contraordenação económica muito grave, punível nos termos do RJCE.
+6 - A violação do disposto nos n.os 3 a 5 constitui contraordenação muito grave.

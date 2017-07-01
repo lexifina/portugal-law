@@ -16,7 +16,7 @@
 
 3 - As meras comunicações prévias devem conter os dados e ser acompanhadas dos elementos instrutórios constantes de portaria a aprovar pelos membros do Governo responsáveis pelas áreas da modernização administrativa, das autarquias locais, da economia e do ambiente.
 
-4 - O início do exercício das atividades de comércio, serviços e restauração em causa após a apresentação de mera comunicação prévia desconforme com o disposto nos números anteriores constitui contraordenação económica leve, punível nos termos do RJCE.
+4 - O início do exercício das atividades de comércio, serviços e restauração em causa após a apresentação de mera comunicação prévia desconforme com o disposto nos números anteriores constitui contraordenação leve.
 
 5 - Sem prejuízo do disposto no n.º 3, sempre que a instalação de um estabelecimento de comércio, de serviços, de restauração ou de bebidas ou de um armazém para o exercício de uma atividade de comércio ou de serviços abrangida pelo presente decreto-lei envolva a realização de operações urbanísticas sujeitas a controlo prévio municipal nos termos do RJUE, a mera comunicação prévia deve ser instruída com o competente título urbanístico ou com o respetivo código de acesso.
 
