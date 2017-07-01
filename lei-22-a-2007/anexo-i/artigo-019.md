@@ -2,7 +2,7 @@
 
 ### Introdução no consumo por operadores reconhecidos
 
-1 - Os operadores reconhecidos estão obrigados à apresentação da DAV, em qualquer alfândega com competência em matéria deste imposto, no prazo máximo de 20 dias úteis após a ocorrência do facto gerador do imposto.
+1 - Os operadores reconhecidos estão obrigados à apresentação da DAV no prazo máximo de 20 dias úteis após a ocorrência do facto gerador do imposto.
 
 2 - Apresentada a DAV pelos operadores reconhecidos, os veículos tributáveis permanecem em suspensão de imposto pelo período máximo de três anos, termo até ao qual deve ser apresentado o pedido de introdução no consumo ou realizada a expedição, exportação ou sujeição dos veículos a outro regime fiscal de apuramento do regime suspensivo, considerando-se, de outro modo, haver introdução ilegal no consumo.
 
