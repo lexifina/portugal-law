@@ -1,15 +1,27 @@
 # Artigo 5.º
 
-### Envio da folha de reclamação e alegações
+### Envio da folha de reclamação
 
-1 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento tem a obrigação de destacar do livro de reclamações o original que, no prazo de 10 dias úteis, deve ser remetido à entidade de controlo de mercado competente ou à entidade reguladora do sector.
+1 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento, deve, no prazo de 15 dias úteis, salvo se for estabelecido prazo distinto em lei especial, remeter o original da folha do livro de reclamações, consoante o caso:
 
-2 - Tratando-se de fornecedor de bens ou prestador de serviços não identificado no anexo i do presente decreto-lei, observado o disposto no número anterior, o original da folha de reclamação deve ser remetido à entidade de controlo de mercado competente ou à entidade reguladora do sector ou, na ausência de uma e outra, à Autoridade de Segurança Alimentar e Económica.
+a) À entidade de controlo de mercado competente ou à entidade reguladora do setor identificada no artigo 11.º;
 
-3 - Para efeitos do disposto nos números anteriores, a remessa do original da folha de reclamação pode ser acompanhada das alegações que o fornecedor de bens ou o prestador de serviço entendam dever prestar, bem como dos esclarecimentos dispensados ao reclamante em virtude da reclamação.
+b) À entidade de controlo de mercado competente ou à entidade reguladora do setor, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei;
 
-4 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento tem ainda a obrigação de entregar o duplicado da reclamação ao utente, conservando em seu poder o triplicado, que faz parte integrante do livro de reclamações e dele não pode ser retirado.
+c) À entidade que, nos termos da lei, emite a respetiva acreditação, na ausência de entidade reguladora do setor ou de entidade de controlo de mercado competente, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei e sujeito a processo de acreditação;
 
-5 - Sem prejuízo do disposto nos números anteriores, o utente pode também remeter o duplicado da folha de reclamação à entidade de controlo de mercado competente ou à entidade reguladora do sector, de acordo com as instruções constantes da mesma ou, tratando-se de fornecedor de bens ou prestador de serviços não identificado no anexo i ao presente decreto-lei e, não havendo uma e outra destas entidades, à Autoridade de Segurança Alimentar e Económica.
+d) À Autoridade de Segurança Alimentar e Económica (ASAE), caso não exista entidade competente nos termos das alíneas anteriores.
 
-6 - Para efeitos do número anterior, o letreiro a que se refere a alínea c) do n.º 1 do artigo 3.º deve conter ainda, em caracteres facilmente legíveis pelo utente, a identificação completa e a morada da entidade junto da qual o utente deve apresentar a reclamação.
+2 - Para efeitos do disposto nos números anteriores, a remessa do original da folha de reclamação deve ser acompanhada dos seguintes elementos:
+
+a) A resposta já enviada ao consumidor ou utente em virtude da reclamação formulada, quando aplicável;
+
+b) O exemplar da mensagem publicitária, através de suporte físico ou digital, quando o objeto da reclamação incidir sobre publicidade.
+
+3 - A remessa do original da folha de reclamação pode, ainda, ser acompanhada dos esclarecimentos sobre a situação objeto de reclamação, incluindo informação sobre o seguimento que tenha sido dado à mesma.
+
+4 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento tem ainda a obrigação de entregar o duplicado da reclamação ao consumidor ou utente, conservando em seu poder o triplicado, que faz parte integrante do livro de reclamações e que dele não pode ser retirado.
+
+5 - Caso o consumidor ou utente recuse receber o duplicado da reclamação, o fornecedor do bem ou prestador de serviço deve proceder ao arquivo do duplicado, com a menção desta recusa.
+
+6 - Sem prejuízo do disposto nos números anteriores, o consumidor ou utente pode também remeter o duplicado da folha de reclamação à entidade de controlo de mercado competente ou à entidade reguladora do setor, de acordo com as instruções constantes da mesma, ou, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei e não havendo uma e outra destas entidades, à entidade que nos termos da lei é competente para emitir a respetiva acreditação ou, na ausência desta, à ASAE.
