@@ -11,3 +11,5 @@ a) Identificação do sujeito passivo ou obrigado tributário objecto da inspec�
 b) Âmbito e extensão da inspecção a realizar.
 
 3 - A carta-aviso conterá um anexo contendo os direitos, deveres e garantias dos sujeitos passivos e demais obrigados tributários no procedimento de inspecção.
+
+4 - À notificação prevista nos números anteriores é aplicável o n.º 10 do artigo 39.º do Código de Procedimento e de Processo Tributário.
