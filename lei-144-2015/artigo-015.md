@@ -6,4 +6,4 @@
 
 ### Autoridade competente
 
-A Direção-Geral do Consumidor é a autoridade nacional competente para organizar a inscrição e a divulgação da lista de entidades de RAL, competindo-lhe avaliar o cumprimento das obrigações estabelecidas nos artigos 6.º e 6.º-A.
+A Direção-Geral do Consumidor é a autoridade nacional competente para organizar a inscrição e a divulgação da lista de entidades de RAL, competindo-lhe avaliar o cumprimento das obrigações estabelecidas no artigo 6.º

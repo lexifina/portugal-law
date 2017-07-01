@@ -20,8 +20,4 @@ g) Aderir à plataforma eletrónica de resolução de conflitos em linha (online
 
 h) Disponibilizar no seu sítio eletrónico na Internet o plano anual de atividades depois de aprovado, o orçamento anual, o relatório anual de atividades e o resumo das decisões arbitrais proferidas.
 
-i) Possuir e disponibilizar livro de reclamações, nos termos do Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, 317/2009, de 30 de outubro, 242/2012, de 7 de novembro, 74/2017, de 21 de junho, e 81-C/2017, de 7 de julho.
-
 2 - As entidades de RAL abrangidas pela presente lei que cumpram os requisitos nela estabelecidos devem ser obrigatoriamente inscritas na lista de entidades de RAL prevista no artigo 17.º
-
-3 - A Direção-Geral do Consumidor é a entidade competente para efeitos do disposto no artigo 6.º do Decreto-Lei n.º 156/2005, de 15 de setembro.

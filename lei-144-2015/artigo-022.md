@@ -12,4 +12,8 @@
 
 3 - As autoridades mencionadas nos números anteriores informam anualmente a Direção-Geral da Política de Justiça sobre os processos instaurados e as decisões adotadas nos termos dos referidos preceitos.
 
-4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+4 - O produto das coimas aplicadas reverte em:
+
+a) 60 % para o Estado;
+
+b) 40 % para a entidade decisora, consoante os casos.

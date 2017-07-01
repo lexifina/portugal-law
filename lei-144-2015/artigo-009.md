@@ -30,8 +30,6 @@ l) A duração média dos procedimentos de RAL;
 
 m) Os relatórios anuais de atividade, tal como previsto na alínea h) do n.º 1 do artigo 6.º
 
-n) O cumprimento das obrigações de qualidade de serviço previstas nos protocolos a que se refere o artigo 4.º-B e no regulamento harmonizado.
-
 2 - Dos relatórios a que se refere a alínea m) do número anterior devem constar as seguintes informações, relativas a litígios nacionais e transfronteiriços:
 
 a) O número de litígios recebidos e os tipos de reclamações a que se referem;
