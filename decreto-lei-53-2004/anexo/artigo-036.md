@@ -38,7 +38,7 @@ m) Adverte os devedores do insolvente de que as prestações a que estejam obrig
 
 n) Designa dia e hora, entre os 45 e os 60 dias subsequentes, para a realização da reunião da assembleia de credores aludida no artigo 156.º, designada por assembleia de apreciação do relatório, ou declara, fundamentadamente, prescindir da realização da mencionada assembleia.
 
-2 - O disposto na parte final da alínea n) do número anterior não se aplica nos casos em que for requerida a exoneração do passivo restante pelo devedor no momento da apresentação à insolvência, em que for previsível a apresentação de um plano de insolvência ou em que se determine que a administração da insolvência seja efetuada pelo devedor.
+2 - O disposto na parte final da alínea n) do número anterior não se aplica nos casos em que for previsível a apresentação de um plano de insolvência ou em que se determine que a administração da insolvência seja efetuada pelo devedor.
 
 3 - Nos casos em que não é designado dia para realização da assembleia de apreciação do relatório, nos termos da alínea n) do n.º 1, e qualquer interessado, no prazo para apresentação das reclamações de créditos, requeira ao tribunal a sua convocação, o juiz designa dia e hora, entre os 45 e os 60 dias subsequentes à sentença que declarar a insolvência, para a sua realização.
 

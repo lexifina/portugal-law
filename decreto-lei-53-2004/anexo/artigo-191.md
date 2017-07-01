@@ -8,7 +8,7 @@
 
 1 - O incidente limitado de qualificação de insolvência aplica-se nos casos previstos no n.º 1 do artigo 39.º e no n.º 5 do artigo 232.º e rege-se pelo disposto nos artigos 188.º e 189.º, com as seguintes adaptações:
 
-a) O prazo para o administrador da insolvência ou qualquer interessado alegar o que tiver por conveniente para efeito da qualificação da insolvência como culposa é de 45 dias contados, respetivamente, da data da sentença de declaração da insolvência ou da data da decisão de encerramento a que se refere o artigo 232.º e, quando aplicável, o prazo para o administrador da insolvência apresentar o seu parecer é de 15 dias;
+a) O prazo para o administrador da insolvência ou qualquer interessado alegar o que tiver por conveniente para o efeito da qualificação da insolvência como culposa é, nos casos do n.º 1 do artigo 39.º, de 45 dias contados da data da sentença de declaração de insolvência e, quando aplicável, o prazo para o administrador de insolvência apresentar o seu parecer é de 15 dias;
 
 b) Os documentos da escrituração do insolvente são patenteados pelo próprio a fim de poderem ser examinados por qualquer interessado;
 

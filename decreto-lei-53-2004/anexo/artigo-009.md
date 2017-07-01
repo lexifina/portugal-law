@@ -4,7 +4,7 @@
 
 1 - O processo de insolvência, incluindo todos os seus incidentes, apensos e recursos, tem carácter urgente e goza de precedência sobre o serviço ordinário do tribunal.
 
-2 - Salvo disposição em contrário, as notificações de actos processuais praticados no processo de insolvência, seus incidentes e apensos, com excepção de actos das partes, podem ser efectuadas por qualquer das formas previstas no n.º 5 do artigo 176.º do Código de Processo Civil.
+2 - Salvo disposição em contrário, as notificações de atos processuais praticados no processo de insolvência, seus incidentes e apensos, com exceção de atos das partes, podem ser efetuadas por qualquer das formas previstas no n.º 5 do artigo 172.º do Código de Processo Civil.
 
 3 - Todas as publicações obrigatórias de despachos e sentenças podem ser promovidas por iniciativa de qualquer interessado que o justifique e requeira ao juiz.
 

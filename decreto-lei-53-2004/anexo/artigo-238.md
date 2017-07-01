@@ -18,4 +18,4 @@ f) O devedor tiver sido condenado por sentença transitada em julgado por algum 
 
 g) O devedor, com dolo ou culpa grave, tiver violado os deveres de informação, apresentação e colaboração que para ele resultam do presente Código, no decurso do processo de insolvência.
 
-2 - O despacho de indeferimento liminar é proferido após a audição dos credores e do administrador da insolvência na assembleia de apreciação do relatório, excepto se este for apresentado fora do prazo ou constar já dos autos documento autêntico comprovativo de algum dos factos referidos no número anterior.
+2 - O despacho de indeferimento liminar é proferido após a audição dos credores e do administrador da insolvência nos termos previstos no n.º 4 do artigo 236.º, exceto se o pedido for apresentado fora do prazo ou constar já dos autos documento autêntico comprovativo de algum dos factos referidos no número anterior.

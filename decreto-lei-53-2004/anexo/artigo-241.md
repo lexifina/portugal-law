@@ -6,7 +6,7 @@
 
 a) Ao pagamento das custas do processo de insolvência ainda em dívida;
 
-b) Ao reembolso ao Cofre Geral de Tribunais das remunerações e despesas do administrador da insolvência e do próprio fiduciário que por aquele tenham sido suportadas;
+b) Ao reembolso ao organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça das remunerações e despesas do administrador da insolvência e do próprio fiduciário que por aquele tenham sido suportadas;
 
 c) Ao pagamento da sua própria remuneração já vencida e despesas efectuadas;
 

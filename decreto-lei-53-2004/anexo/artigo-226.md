@@ -14,7 +14,7 @@ b) Sem o consentimento do administrador da insolvência, tratando-se de actos de
 
 4 - Oficiosamente ou a pedido da assembleia de credores, pode o juiz proibir a prática de determinados actos pelo devedor sem a aprovação do administrador da insolvência, aplicando-se, com as devidas adaptações, o disposto no n.º 6 do artigo 81.º
 
-5 - Incumbe ao devedor exercer os poderes conferidos pelo capítulo III do título IV ao administrador da insolvência, mas só este pode resolver actos em benefício da massa insolvente.
+5 - (Revogado).
 
 6 - É da responsabilidade do devedor a elaboração e o depósito das contas anuais que forem legalmente obrigatórias.
 

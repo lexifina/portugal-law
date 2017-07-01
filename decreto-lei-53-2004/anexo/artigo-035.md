@@ -10,10 +10,10 @@
 
 4 - O juiz dita logo para a acta, consoante o caso, sentença de declaração da insolvência, se os factos alegados na petição inicial forem subsumíveis no n.º 1 do artigo 20.º, ou sentença homologatória da desistência do pedido.
 
-5 - Comparecendo ambas as partes, ou só o requerente ou um seu representante, mas tendo a audiência do devedor sido dispensada, o juiz selecciona a matéria de facto relevante que considere assente e a que constitui a base instrutória.
+5 - Comparecendo ambas as partes, ou só o requerente ou um seu representante, mas tendo a audiência do devedor sido dispensada, o juiz profere despacho destinado a identificar o objeto do litígio e a enunciar os temas da prova.
 
 6 - As reclamações apresentadas são logo decididas, seguindo-se de imediato a produção das provas.
 
-7 - Finda a produção da prova têm lugar alegações orais de facto e de direito, e o tribunal decide em seguida a matéria de facto.
+7 - Finda a produção da prova têm lugar alegações orais e o tribunal profere em seguida a sentença.
 
 8 - Se a sentença não puder ser logo proferida, sê-lo-á no prazo de cinco dias.

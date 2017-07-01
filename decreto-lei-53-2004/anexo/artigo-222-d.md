@@ -4,19 +4,9 @@
 
 1 - Logo que seja notificado do despacho a que se refere o n.º 4 do artigo anterior, o devedor comunica, de imediato e por meio de carta registada, a todos os seus credores que não hajam subscrito a declaração mencionada no n.º 1 do mesmo preceito, que deu início a negociações com vista à elaboração de acordo de pagamento, convidando-os a participar, caso assim o entendam, nas negociações em curso e informando que a documentação referida na alínea b) do n.º 3 do artigo anterior se encontra patente na secretaria do tribunal, para consulta.
 
-2 - Os credores dispõem de 20 dias contados da publicação no portal Citius do despacho a que se refere o n.º 4 do artigo anterior para reclamar créditos, devendo as reclamações ser remetidas ao administrador judicial provisório, que no prazo de cinco dias elabora uma lista provisória de créditos, indicando:
+2 - Qualquer credor dispõe de 20 dias contados da publicação no portal Citius do despacho a que se refere o n.º 4 do artigo anterior para reclamar créditos, devendo as reclamações ser remetidas ao administrador judicial provisório, que, no prazo de cinco dias, elabora uma lista provisória de créditos.
 
-a) A sua proveniência, data de vencimento, montante de capital e de juros;
-
-b) As condições a que estejam subordinados, tanto suspensivas como resolutivas;
-
-c) A sua natureza comum, subordinada, privilegiada ou garantida, e, neste último caso, os bens ou direitos objeto da garantia e respetivos dados de identificação registral, se aplicável;
-
-d) A existência de eventuais garantias pessoais, com identificação dos garantes;
-
-e) A taxa de juros moratórios aplicável.
-
-3 - A lista provisória de créditos é imediatamente apresentada na secretaria do tribunal e publicada no portal Citius, podendo ser impugnada no prazo de cinco dias úteis, com fundamento na indevida inclusão ou exclusão de créditos, na incorreção do montante ou da qualificação dos créditos relacionados e dispondo, em seguida, o juiz de idêntico prazo para decidir sobre as impugnações formuladas.
+3 - A lista provisória de créditos é imediatamente apresentada na secretaria do tribunal e publicada no portal Citius, podendo ser impugnada no prazo de cinco dias úteis e dispondo, em seguida, o juiz de idêntico prazo para decidir sobre as impugnações formuladas.
 
 4 - Não sendo impugnada, a lista provisória de créditos converte-se de imediato em lista definitiva.
 

@@ -6,7 +6,7 @@
 
 ### Tramitação
 
-1 - Até 15 dias após a realização da assembleia de apreciação do relatório, o administrador da insolvência ou qualquer interessado pode alegar, fundamentadamente, por escrito, em requerimento autuado por apenso, o que tiver por conveniente para efeito da qualificação da insolvência como culposa e indicar as pessoas que devem ser afetadas por tal qualificação, cabendo ao juiz conhecer dos factos alegados e, se o considerar oportuno, declarar aberto o incidente de qualificação da insolvência, nos 10 dias subsequentes.
+1 - Até 15 dias após a assembleia de apreciação do relatório ou, no caso de dispensa da realização desta, após a junção aos autos do relatório a que se refere o artigo 155.º, o administrador da insolvência ou qualquer interessado pode alegar, fundamentadamente, por escrito, em requerimento autuado por apenso, o que tiver por conveniente para efeito da qualificação da insolvência como culposa e indicar as pessoas que devem ser afetadas por tal qualificação, cabendo ao juiz conhecer dos factos alegados e, se o considerar oportuno, declarar aberto o incidente de qualificação da insolvência, nos 10 dias subsequentes.
 
 2 - O despacho que declara aberto o incidente de qualificação da insolvência é irrecorrível, sendo de imediato publicado no portal Citius.
 

@@ -1,7 +1,9 @@
 # Artigo 152.º
 
-### Registo da apreensão
+### Publicidade da composição da massa insolvente
 
-1 - O administrador da insolvência deve registar prontamente a apreensão dos bens cuja penhora esteja sujeita a registo, servindo de título bastante para o efeito o extracto do arrolamento ou do balanço assinado pelo administrador da insolvência.
+1 - Logo que iniciada a liquidação e partilha da massa insolvente ou quando haja lugar à venda antecipada nos termos do artigo 158.º, o administrador da insolvência publicita a composição da massa por anúncio publicado no portal a definir por portaria do membro do Governo responsável pela área da justiça, comprovando tal facto nos autos no prazo de cinco dias.
 
-2 - Se no registo existir, sobre os bens apreendidos, qualquer inscrição de transmissão, de domínio ou de mera posse em nome de pessoa diversa do insolvente, deve o administrador da insolvência juntar ao processo de insolvência nota das respectivas inscrições, para que se possa observar o disposto nas leis do registo e na legislação complementar.
+2 - Sempre que a massa insolvente compreenda uma empresa, o anúncio referido no n.º 1 conterá também tal menção, se aplicável, a diferenciação de ativos por área de negócio e ainda que a alienação se fará preferencialmente como um todo, nos termos do artigo 162.º
+
+3 - Aos bens localizados e apreendidos posteriormente ao início da liquidação e partilha aplica-se, com as devidas adaptações, o disposto nos números anteriores.

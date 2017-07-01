@@ -22,4 +22,4 @@ ii) O número dos seus credores não for superior a 20;
 
 iii) O seu passivo global não exceder (euro) 300000.
 
-2 - Apresentando-se marido e mulher à insolvência, ou sendo o processo instaurado contra ambos, nos termos do artigo 264.º, os requisitos previstos no número anterior devem verificar-se relativamente a cada um dos cônjuges.
+2 - Apresentando-se ambos os cônjuges à insolvência, ou sendo o processo instaurado contra ambos, nos termos do artigo 264.º, os requisitos previstos no número anterior devem verificar-se relativamente a cada um dos cônjuges.
