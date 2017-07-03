@@ -1,0 +1,10 @@
+Aviso n.º 7445/2017
+Revisão do Plano Diretor Municipal de Tarouca
+Período de discussão pública
+Valdemar de Carvalho Pereira, Presidente da Câmara Municipal de Tarouca, torna público, nos termos dos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015 de 14 de maio (RJIGT), que, por deliberação da Câmara Municipal de 14 de junho de 2017, foi determinado proceder à abertura do período de discussão pública sobre a proposta da Revisão do Plano Diretor Municipal de Tarouca, durante trinta dias seguidos, contados a partir do 5.º dia útil seguinte à publicação do presente aviso na 2.ª série do Diário da República.
+Os documentos que integram a proposta da Revisão do Plano Diretor Municipal de Tarouca, o respetivo relatório ambiental, o parecer final, a ata da comissão consultiva, os demais pareceres emitidos e os resultados da concertação, encontram-se disponíveis para consulta dos interessados na Câmara Municipal de Tarouca, Divisão de Gestão Urbanística e do Ambiente, Edifício dos Paços do Município, Av. Dr. Alexandre Taveira Cardoso, 3610-128 Tarouca, todos os dias, incluindo sábados, domingos e feriados, durante o período de atendimento ao público (9,00 horas às 16 horas) e na página da internet do Município de Tarouca em www.cm-tarouca.pt.
+Durante o período de discussão pública, os interessados podem formular, por escrito, as suas reclamações, observações ou sugestões, a fim de, em fase ulterior, serem apreciadas e ponderadas pelo executivo municipal.
+As reclamações, observações e sugestões poderão ser enviadas por carta registada com aviso de receção, dirigida ao Presidente da Câmara Municipal de Tarouca para Paços do Município, Av. Dr. Alexandre Taveira Cardoso, 3610-128 Tarouca, ou entregues diretamente na Divisão de Gestão Urbanística e Ambiente, ou ainda por correio eletrónico para o endereço pdm@cm-tarouca.pt.
+E, para que conste, mandei publicar este aviso no Diário da República e outros de igual teor, na comunicação social, na página da Internet do Município de Tarouca e nos locais de estilo habituais.
+16 de junho de 2017. - O Presidente da Câmara, Valdemar de Carvalho Pereira.
+610591652
