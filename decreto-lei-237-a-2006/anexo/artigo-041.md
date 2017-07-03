@@ -21,3 +21,7 @@ b) Analisa sumariamente as declarações que tenham sido prestadas nos termos pr
 5 - Nos casos de aquisição da nacionalidade, por efeito da vontade ou por adopção, o disposto nos números anteriores é aplicável, com as necessárias adaptações, por forma a não ser prejudicado o direito de oposição.
 
 6 - Sem prejuízo do disposto nos números anteriores, aos processos de atribuição da nacionalidade, neles se incluindo a inscrição de nascimento no registo civil português, bem como de aquisição da nacionalidade por efeito da vontade ou por adopção e de perda da nacionalidade, é aplicável, com as necessárias adaptações, o disposto no Código do Registo Civil, excepto no que se refere à contagem dos prazos e sua dilação, caso em que se aplica subsidiariamente o Código do Procedimento Administrativo.
+
+7 - As notificações, quando sejam efetuadas por carta registada, são remetidas para o domicílio escolhido pelo interessado, e presumem-se efetuadas no terceiro dia útil posterior ao do registo ou no primeiro dia útil seguinte a esse, quando esse dia não seja útil.
+
+8 - As notificações referidas no número anterior não deixam de produzir efeito pelo facto de o expediente ser devolvido, desde que a remessa tenha sido feita para o domicílio escolhido pelo interessado; nesse caso, ou no de a carta não ter sido entregue por ausência do destinatário, juntar-se-á ao procedimento o sobrescrito, presumindo-se a notificação feita no dia a que se refere a parte final do número anterior.

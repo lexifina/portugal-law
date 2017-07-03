@@ -10,7 +10,7 @@
 
 a) Quando não constem do impresso de modelo aprovado para esse efeito, ou sejam omitidas menções ou formalidades nele previstas;
 
-b) Quando não sejam acompanhadas dos documentos necessários para comprovar os factos que constituem o fundamento do pedido, sem prejuízo do disposto nos n.os 4 a 7 do artigo 37.º;
+b) Quando não sejam acompanhadas dos documentos necessários para comprovar os factos que constituem o fundamento do pedido, sem prejuízo do disposto nos n.os 4 a 8 do artigo 37.º;
 
 c) Quando não sejam apresentados os documentos previstos no n.º 3 do artigo 57.º, sendo caso disso.
 

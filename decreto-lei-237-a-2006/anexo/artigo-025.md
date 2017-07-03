@@ -25,3 +25,11 @@ d) Certificado de qualificações que ateste a conclusão do nível A2 ou superi
 7 - Tratando-se de pessoa que tenha frequentado estabelecimento de ensino público ou de ensino particular ou cooperativo reconhecido nos termos legais em país de língua oficial portuguesa, o conhecimento da língua portuguesa pode ser comprovado por certificado de habilitação emitido por esse estabelecimento de ensino.
 
 8 - Havendo dúvida sobre a suficiência do certificado apresentado para comprovar o conhecimento da língua portuguesa, a Conservatória dos Registos Centrais pode solicitar às autoridades competentes do Ministério da Educação e Ciência que se pronunciem, sob pena de, não sendo considerado suficiente, não poder valer como prova do conhecimento.
+
+9 - O conhecimento da língua portuguesa presume-se existir para os interessados que sejam naturais e nacionais de país que tenha o português como língua oficial há pelo menos 10 anos e que residam em Portugal, independentemente do título, há pelo menos 5 anos.
+
+10 - No caso de cidadãos nacionais de um Estado membro da União Europeia, a prova da residência legal pode ser efetuada:
+
+a) Mediante transmissão de informação pelo Serviço de Estrangeiros e Fronteiras, nos termos do n.º 1, relativamente à realização do registo a que se refere o artigo 14.º da Lei n.º 37/2006, de 9 de agosto; ou
+
+b) Mediante a apresentação de documentos que comprovem o preenchimento das condições do direito de residência estabelecidas nos artigos 7.º e 9.º da Lei n.º 37/2006, de 9 de agosto, ou do direito de residência permanente estabelecidas nos artigos 10.º e 11.º da mesma lei.

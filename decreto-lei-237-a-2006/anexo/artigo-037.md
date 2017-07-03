@@ -20,6 +20,8 @@ a) Certificado do registo criminal português;
 
 b) Documentos emitidos pelo Serviço de Estrangeiros e Fronteiras, destinados a comprovar a residência legal no território português, bem como a circunstância prevista na alínea c) do n.º 2 do artigo 10.º
 
-8 - Sem prejuízo do que se encontre estabelecido em convenções internacionais e leis especiais, as certidões de actos de registo civil emitidas no estrangeiro são legalizadas nos termos previstos no Código de Processo Civil.
+8 - É dispensada a apresentação do certificado do registo criminal do país da naturalidade e ou do país da nacionalidade sempre que o interessado comprove que, após ter completado os 16 anos, residiu noutro país.
 
-9 - Em caso de dúvida sobre a autenticidade do conteúdo de documentos emitidos no estrangeiro, pode ser solicitada às autoridades emitentes a confirmação da sua autenticidade, sendo os encargos daí resultantes suportados pelos interessados.
+9 - Sem prejuízo do que se encontre estabelecido em convenções internacionais e leis especiais, as certidões de actos de registo civil emitidas no estrangeiro são legalizadas nos termos previstos no Código de Processo Civil.
+
+10 - Em caso de dúvida sobre a autenticidade do conteúdo de documentos emitidos no estrangeiro, pode ser solicitada às autoridades emitentes a confirmação da sua autenticidade, sendo os encargos daí resultantes suportados pelos interessados.

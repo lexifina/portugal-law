@@ -8,6 +8,8 @@ a) Sejam maiores ou emancipados à face da lei portuguesa;
 
 b) Não tenham sido condenados, com trânsito em julgado da sentença, pela prática de crime punível com pena de prisão de máximo igual ou superior a três anos, segundo a lei portuguesa.
 
+c) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pelo seu envolvimento em atividades relacionadas com a prática do terrorismo, nos termos da respetiva lei.
+
 2 - No requerimento a apresentar pelo interessado são indicadas e demonstradas as circunstâncias que determinam a tradição de pertença a uma comunidade sefardita de origem portuguesa, designadamente, apelidos de família, idioma familiar, descendência direta ou relação familiar na linha colateral de progenitor comum a partir da comunidade sefardita de origem portuguesa.
 
 3 - O requerimento é instruído com os seguintes documentos, sem prejuízo da dispensa da sua apresentação pelo interessado nos termos do artigo 37.º:
