@@ -14,7 +14,9 @@ c) Doentes oncológicos e transplantados, bem como doentes insuficientes renais 
 
 d) Reabilitação ao longo da vida para doentes com grau de incapacidade igual ou superior a 60 %, de natureza motora;
 
-e) Noutras situações clínicas devidamente justificadas pelo médico assistente, previamente avaliadas e autorizadas, caso a caso, pelas entidades do SNS responsáveis pelo pagamento dos encargos.
+e) Doentes que necessitem de cuidados paliativos, a prestar pelas equipas prestadoras de cuidados paliativos da Rede Nacional de Cuidados Paliativos;
+
+f) Noutras situações clínicas devidamente justificadas pelo médico assistente, previamente avaliadas e autorizadas, caso a caso, pelas entidades do SNS responsáveis pelo pagamento dos encargos.
 
 3 - As situações de prestação de cuidados de saúde de forma prolongada e continuada nos termos referidos nos números anteriores deverá ser objeto de prescrição única.
 

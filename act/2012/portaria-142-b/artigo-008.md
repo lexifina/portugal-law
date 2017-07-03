@@ -8,7 +8,7 @@
 
 3 - Os encargos resultantes do transporte para as sessões de diálise são da responsabilidade da Administração Regional de Saúde (ARS) da área de residência do utente, independentemente da entidade que prescreve o programa terapêutico.
 
-4 - Os encargos resultantes do transporte no âmbito do Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC) são da responsabilidade do hospital onde o utente se inscreveu para cirurgia pela primeira vez.
+4 - [Revogado.]
 
 5 - Os encargos resultantes do transporte para consultas de pré-transplante são da responsabilidade da ARS da área de residência do utente.
 

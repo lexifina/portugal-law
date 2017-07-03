@@ -12,7 +12,7 @@ c) Transporte não urgente para consultas de submissão a juntas médicas;
 
 d) Transporte não urgente decorrente de situação de transferência entre estabelecimentos e serviços do SNS de doente internado, em que é aplicado o regime previsto no regulamento das tabelas de preços das instituições e serviços integrados no SNS, aprovado por portaria do membro do Governo responsável pela área da saúde;
 
-e) Transporte não urgente realizado nos termos e condições fixados no n.º 1 do artigo 5.º do Regulamento das Tabelas de Preços a praticar para a produção adicional realizada no âmbito do Sistema Integrado de Gestão de Inscritos para Cirurgia, aprovada pela Portaria n.º 852/2009, de 7 de agosto.
+e) Transporte não urgente de doentes no âmbito de produção adicional, transferida para hospitais de destino, realizada no âmbito do Sistema Integrado de Gestão de Inscritos para Cirurgia.
 
 2 - Nas situações em que o Centro de Orientação de Doentes Urgentes (CODU) não reconheça a necessidade de transporte urgente e o doente ou familiar o fizer, por iniciativa própria, vindo, posteriormente, a ser reconhecida a necessidade de transporte como urgente, através de justificação clínica emitida pelo serviço de urgência da unidade de saúde para onde o doente foi transportado, será reconhecido o direito ao transporte, nos termos referidos no número seguinte.
 
