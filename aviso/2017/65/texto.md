@@ -1,0 +1,5 @@
+Aviso n.º 65/2017
+Por ordem superior se torna público que, em 7 de agosto de 2009 e 20 de junho de 2017, foram recebidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros e Comunidades de Cabo Verde e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor do Tratado entre a República Portuguesa e a República de Cabo Verde no Domínio da Fiscalização Conjunta de Espaços Marítimos sob a Soberania ou Jurisdição de Cabo Verde, assinado em Mindelo, a 16 de setembro de 2006.
+O referido Tratado foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 52/2009 e ratificado pelo Decreto do Presidente da República n.º 67/2009, ambos publicados no Diário da República, 1.ª série, n.º 146, de 30 de julho de 2009.
+Nos termos do seu artigo 23.º, o Tratado entrou em vigor em 20 de junho de 2017.
+Direção-Geral de Política Externa, 23 de junho de 2017. - O Subdiretor-Geral, João Pedro Antunes.
