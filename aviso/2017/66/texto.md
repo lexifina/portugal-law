@@ -1,0 +1,4 @@
+Aviso n.º 66/2017
+Por ordem superior se torna público que, em 31 de março de 2011 e em 1 de setembro de 2008, foram emitidas notas, respetivamente, pelo Embaixada do Reino de Marrocos em Lisboa e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e o Reino de Marrocos no domínio da Marinha Mercante, assinado em Rabat, a 17 de abril de 2007.
+O referido Acordo foi aprovado pelo Decreto n.º 31/2008, de 27 de agosto, publicado no Diário da República, 1.ª série, n.º 165, de 27 de agosto de 2008. Nos termos do artigo 19.º do referido Acordo, este entrou em vigor no dia 30 de abril de 2011.
+Direção-Geral de Política Externa, 26 de junho de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
