@@ -1,0 +1,22 @@
+Aviso do Banco de Portugal n.º 3/2017
+Atualmente o n.º 5 do artigo 18.º do Aviso do Banco de Portugal n.º 5/2013, de 18 de dezembro, exige, para a abertura de contas de depósito bancário com recurso a meios de comunicação à distância, a comprovação dos elementos identificativos constantes do seu artigo 17.º através de disponibilização à instituição de cópia certificada da documentação comprovativa exigida ou do acesso aos documentos em versão eletrónica com valor equivalente.
+Mediante o preenchimento dos requisitos previstos no n.º 6 do artigo 18.º do Aviso do Banco de Portugal n.º 5/2013, a comprovação pode também ser feita através de declaração escrita confirmativa da veracidade e atualidade das informações prestadas, a emitir por entidade financeira com sede ou estabelecimento em Estado-Membro da União Europeia ou em país terceiro equivalente ou por entidade financeira integrada no mesmo grupo, indicada pelo cliente e com a qual o mesmo tenha já estabelecido uma relação de negócio.
+Atendendo ao rápido desenvolvimento tecnológico e ao surgimento de alternativas que apresentam graus de segurança idênticos às soluções atualmente previstas no Aviso do Banco de Portugal n.º 5/2013, considera-se necessário rever este diploma, de modo a permitir às instituições financeiras optar pelos procedimentos de comprovação dos elementos identificativos que melhor se adequem à sua realidade operativa e às soluções tecnológicas hoje existentes, desde que permitam assegurar a integral observância dos requisitos legais e regulamentares em vigor, sem perda de qualidade do processo identificativo.
+No entanto, face ao risco acrescido de branqueamento de capitais e de financiamento do terrorismo associado à utilização de meios de comunicação à distância, estabelece-se, através das alterações agora propostas, que cabe ao Banco de Portugal definir, por Instrução, os procedimentos que podem ser adotados em alternativa aos já previstos no n.º 5 do artigo 18.º do Aviso do Banco de Portugal n.º 5/2013, e os requisitos específicos associados à prevenção do branqueamento de capitais e do financiamento do terrorismo a que tais procedimentos devem obedecer.
+Assim, no uso da competência que lhe é conferida pelo disposto no artigo 17.º da sua Lei Orgânica, aprovada pela Lei n.º 5/98, de 31 de janeiro, e no n.º 3 do artigo 12.º, no n.º 1 do artigo 23.º e na alínea a) do n.º 1 do artigo 39.º, todos da Lei n.º 25/2008, de 5 de junho, o Banco de Portugal determina o seguinte:
+Artigo 1.º
+Alteração ao Aviso do Banco de Portugal n.º 5/2013
+1 - O n.º 2 do artigo 14.º do Aviso do Banco de Portugal n.º 5/2013, de 18 de dezembro, passa a ter a seguinte redação:
+«2 - Sem prejuízo do disposto nos n.os 5 e 6 do artigo 18.º e no n.º 2 do artigo 19.º, a comprovação documental dos elementos referidos nas subalíneas i) a v) das alíneas a) e b) do n.º 1 do artigo 17.º só pode ser efetuada mediante originais, em suporte físico ou eletrónico, ou cópia certificada dos mesmos, ou ainda mediante o acesso à respetiva informação eletrónica com valor equivalente, designadamente através:
+a) Da utilização eletrónica do Cartão de Cidadão, do recurso a plataforma de interoperabilidade entre sistemas de informação da Administração Pública ou a dispositivos que confiram certificação qualificada ou um idêntico grau de segurança;
+b) Da recolha e verificação dos dados eletrónicos junto das entidades competentes responsáveis pela sua gestão.»
+2 - O n.º 5 do artigo 18.º do Aviso do Banco de Portugal n.º 5/2013 passa a ter a seguinte redação:
+«5 - Nos casos de abertura de contas com recurso a meios de comunicação à distância, a comprovação dos elementos identificativos referidos no artigo anterior deve ser efetuada através de um dos seguintes meios:
+a) Disponibilização à instituição de crédito de cópia certificada da documentação comprovativa exigida;
+b) Acesso, por parte da instituição de crédito, aos documentos em versão eletrónica com valor equivalente, designadamente fazendo uso do serviço de Fornecedor de Autenticação do Cartão de Cidadão ou através da Chave Móvel Digital disponibilizados pelo Estado Português;
+c) Outros procedimentos de comprovação que ofereçam graus de segurança idênticos aos referidos nas alíneas anteriores, nos termos a definir por Instrução do Banco de Portugal.»
+Artigo 2.º
+Entrada em vigor
+O presente Aviso entra em vigor no dia seguinte ao da sua publicação.
+20 de junho de 2017. - O Governador, Carlos da Silva Costa.
+310588948
