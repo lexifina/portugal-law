@@ -1,0 +1,5 @@
+Aviso n.º 68/2017
+Por ordem superior se torna público que, em 26 de setembro de 2016 e em 10 de agosto de 2016, foram emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República Socialista do Vietname e pela Embaixada de Portugal em Banguecoque, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República Socialista do Vietname para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa, em 3 de junho de 2015.
+O referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 143/2016, de 17 de junho de 2016, e ratificado pelo Decreto do Presidente da República n.º 40/2016, de 27 de julho de 2016, ambos publicados no Diário da República, 1.ª série, n.º 143, de 27 de julho de 2016.
+Nos termos do artigo 27.º, n.º 1, do referido Acordo, este entrou em vigor a 9 de novembro de 2016.
+Direção-Geral de Política Externa, 26 de junho de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
