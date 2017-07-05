@@ -1,0 +1,4 @@
+Aviso n.º 70/2017
+Por ordem superior se torna público ter sido recebida, em 4 de maio de 2016, uma nota verbal da Embaixada da Índia em Lisboa, comunicando a intenção do Governo da República da Índia de denunciar, ao abrigo do artigo 15.º, o Acordo entre a República Portuguesa e a República da Índia sobre a Promoção e a Proteção Recíprocas de Investimentos, assinado em Lisboa em 28 de junho de 2000 e aprovado pela Resolução da Assembleia da República n.º 20/2002, publicada no Diário da República, 1.ª série-A, n.º 68, de 21 de março de 2002.
+Como tal, nos termos do n.º 2 do artigo 15.º do referido Acordo, o seu termo ocorreu em 5 de maio de 2017, sem prejuízo de, segundo o n.º 3 do mesmo artigo, se continuar a aplicar por mais um período de 15 anos a partir do respetivo termo, relativamente aos investimentos realizados ou adquiridos antes dessa data.
+Direção-Geral de Política Externa, 27 de junho de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
