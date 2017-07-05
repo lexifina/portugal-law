@@ -1,0 +1,4 @@
+Aviso n.º 72/2017
+Por ordem superior se torna público que, em 26 de abril de 2017 e em 21 de março de 2017, foram emitidas notas, respetivamente, pela Embaixada do Estado de Israel em Lisboa e pela Embaixada de Portugal em Telavive, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo de Cooperação entre a República Portuguesa e o Estado de Israel no Domínio do Turismo, assinado em Lisboa, a 25 de janeiro de 2010.
+O referido Acordo foi aprovado pelo Decreto n.º 8/2017, de 14 de março, publicado no Diário da República 1.ª série, n.º 52, de 14 de março de 2017, e nos termos do seu artigo 13.º, entrou em vigor no dia 26 de maio de 2014.
+Direção-Geral de Política Externa, 28 de junho de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
