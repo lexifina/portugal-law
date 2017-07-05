@@ -1,0 +1,195 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13032",
+  "numero": "351",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-07-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-07-09",
+            "entidades": null,
+            "id": "109548",
+            "tipo": null,
+            "titulo": "Audição em 2018-07-09 com Peticionantes"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-10-18",
+            "dataResposta": "2017-11-13",
+            "entidades": [
+              "Câmara Municipal de Vila Nova de Gaia "
+            ],
+            "nrOficio": "233/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-18",
+            "dataResposta": "2018-06-15",
+            "entidades": [
+              "Junta de Freguesia de Vilar do Andorinho"
+            ],
+            "nrOficio": "234/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-18",
+            "dataResposta": "2017-11-10",
+            "entidades": [
+              "CTT - Correios de Portugal, S.A."
+            ],
+            "nrOficio": "235/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-07-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-02",
+        "DataArquivo": "2018-07-17",
+        "DataBaixaComissao": "2017-07-12",
+        "DataEnvioPAR": "2018-07-20",
+        "DataReaberta": "2017-10-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-10-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f545a6d4d47526b4f574d744e6d5a684f5330304f44466d4c5467355a5463744d475135596d55314e6d5a6c4e44646b4c6e426b5a673d3d&fich=96f0dd9c-6fa9-481f-89e7-0d9be56fe47d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a5459344e7a45334d4751744d575135597930304e6d4a684c546c694e546374597a41334d475a684d5745784f54566d4c6e426b5a673d3d&fich=e687170d-1d9c-46ba-9b57-c070fa1a195f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f5442694e4752694e4445744f5755305a69303059574a6d4c5745784f4459744d44497a5a6d4979596d4e695a6d5a6a4c6e426b5a673d3d&fich=90b4db41-9e4f-4abf-a186-023fb2bcbffc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a5957387659324d335a47457a595759744f446b314d5330304d6a49324c546b7a4f4441744e7a4e684e54566c4d57557a5a6d52694c6e426b5a673d3d&fich=cc7da3af-8951-4226-9380-73a55e1e3fdb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-07-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a47466a4f4759334d6d59744d545a684d5330304e44466c4c5467314e6d59744d32566c596a526b5a444a684e7a466b4c6e426b5a673d3d&fich=dac8f72f-16a1-441e-856f-3eeb4dd2a71d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-11-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876595441794e3259785a6d4d745a4452685a4330305a6a55784c5745334e4751744e6a51355a6a566b5954557a5a4745794c6e426b5a673d3d&fich=a027f1fc-d4ad-4f51-a74d-649f5da53da2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-11-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d4759774e6a51794d6a4574595464684d693030596d55794c5749794e4441745a546468596d59304d6d4a6a596a5a6d4c6e426b5a673d3d&fich=0f064221-a7a2-4be2-b240-e7abf42bcb6f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-06-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e5759784f4445335a5445745957566b4d7930304f5441774c5749344f544d744e5463314d6a4a695a6a6b304d544d7a4c6c424552673d3d&fich=5f1817e1-aed3-4900-b893-57522bf94133.PDF&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-10-02",
+            "gp": "PS",
+            "id": "487",
+            "motivoCessacao": null,
+            "nome": "Fernando Jesus"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-07-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774f574a694f44566a4e7930354d5445304c54526c595467744f474d344d4330784e5441785a6a49345a6d46684d3245756347526d&fich=09bb85c7-9114-4ea8-8c80-1501f28faa3a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13032",
+    "PetAssunto": "Solicitam a reabertura de um posto de correios na Urbanização Vila D Este, freguesia de Vilar do Andorinho, concelho de Vila Nova de Gaia",
+    "PetDataEntrada": "2017-07-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13032",
+    "PetLeg": "XIII",
+    "PetNr": "351",
+    "PetNrAssinaturas": "584",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
