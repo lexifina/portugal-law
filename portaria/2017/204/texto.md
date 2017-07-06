@@ -1,0 +1,20 @@
+Portaria n.º 204/2017
+de 6 de julho
+A reorganização das infraestruturas ligadas à área da segurança está a ser feita através de um levantamento criterioso das necessidades em termos de segurança interna, com vista à elaboração de um Plano de Investimentos Plurianual para a qualificação dos ativos das forças de segurança, definido de acordo com critérios de segurança interna e de urgência na intervenção, sempre considerando o desígnio da manutenção de um Estado seguro.
+No sentido da definição de uma política coerente de gestão das infraestruturas das forças de segurança foram definidas as prioridades de intervenção nas infraestruturas, procurando a área governativa da Administração Interna estabelecer parcerias de colaboração com as autarquias locais para a execução das responsabilidades de construção e reabilitação de instalações e edifícios.
+Considerando que os Municípios constituem parceiros privilegiados do Governo na manutenção de um Estado seguro, a área governativa da Administração Interna, através da Secretaria-Geral da Administração Interna e da Guarda Nacional Republicana (GNR), pretende celebrar, com a Câmara Municipal de Alcanena, um contrato interadministrativo de cooperação, através do qual o Município se compromete a promover a empreitada de construção de Reabilitação do Posto Territorial do GNR Alcanena, sendo a despesa com a empreitada suportada pelo Município e reembolsada, posteriormente, pela Secretaria-Geral da Administração Interna.
+A celebração do contrato interadministrativo de cooperação com o Município de Alcanena e a inerente construção do Posto Territorial da GNR de Alcanena implica a realização de despesas em vários anos económicos.
+Assim:
+Nos termos do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, mantido em vigor pela alínea f) do n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, que aprovou o Código dos Contratos Públicos, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, alterada e republicada pela Lei n.º 22/2015, de 17 de março e do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, alterado e republicado pelo Decreto-Lei n.º 99/2015, de 2 de junho, manda o Governo pelo Secretário de Estado do Orçamento, nos termos da alínea c) do n.º 3 do Despacho n.º 3485/2016, de 26 de fevereiro, publicado no Diário da República, 2.ª série, de 9 de março, e pela Secretária de Estado Adjunta e da Administração Interna, nos termos do n.º 5.4 do Despacho n.º 180/2016, de 28 de dezembro de 2015, publicado no Diário da República, 2.ª série, de 7 de janeiro, aditado pelo Despacho n.º 8476/2016, de 21 de junho, publicado no Diário da República, 2.ª série, de 30 de junho, o seguinte:
+Artigo 1.º
+É autorizada a Secretaria-Geral da Administração Interna, a assumir os encargos relativos à reabilitação do Posto Territorial da Guarda Nacional Republicana de Alcanena, sito na Rua Tenente Coronel Salgueiro Maia (Ponte da Pedra), Alcanena, união das freguesias de Alcanena e Vila Moreira, descrito na Conservatória do Registo Predial de Alcanena sob o n.º 1562/19950329 inscrito sob o artigo n.º 1822, da citada união das freguesias de Alcanena e Vila Moreira (anterior artigo n.º 2425 da extinta freguesia de Alcanena), até ao montante máximo de (euro) 426.122,80, ao qual acresce IVA à taxa legal em vigor.
+Artigo 2.º
+Os encargos orçamentais resultantes da reabilitação referida no artigo anterior não podem, em cada ano económico, exceder os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+a) 2017 - (euro) 100.000,00;
+b) 2018 - (euro) 306.122,80;
+c) 2019 - (euro) 20.000,00.
+Artigo 3.º
+Os encargos financeiros decorrentes da presente portaria são satisfeitos por conta das verbas inscritas e a inscrever no orçamento da Secretaria-Geral da Administração Interna.
+Artigo 4.º
+As importâncias fixadas para cada ano económico podem ser acrescidas do saldo apurado no ano anterior.
+O Secretário de Estado do Orçamento, João Rodrigo Reis Carvalho Leão, em 29 de junho de 2017. - A Secretária de Estado Adjunta e da Administração Interna, Maria Isabel Solnado Porto Oneto, em 26 de junho de 2017.
