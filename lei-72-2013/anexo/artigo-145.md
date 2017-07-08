@@ -38,4 +38,6 @@ o) A paragem e o estacionamento nas passagens assinaladas para a travessia de p�
 
 p) O transporte de passageiros menores ou inimputáveis sem que estes façam uso dos acessórios de segurança obrigatórios.
 
+q) A paragem e o estacionamento em lugar reservado a pessoa com deficiência condicionada na sua mobilidade, nos termos previstos no Decreto-Lei n.º 307/2003, de 10 de dezembro, alterado pelo Decreto-Lei n.º 17/2011, de 27 de janeiro, por qualquer condutor que não esteja autorizado para tal.
+
 2 - Considera-se igualmente grave a circulação de veículo sem seguro de responsabilidade civil, caso em que é aplicável o disposto na alínea b) do n.º 3 do artigo 135.º, com os efeitos previstos e equiparados nos n.os 2 e 3 do artigo 147.º
