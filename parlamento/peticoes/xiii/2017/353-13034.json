@@ -1,0 +1,208 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13034",
+  "numero": "353",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-07-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-10-12",
+            "dataResposta": "2018-04-03",
+            "entidades": [
+              "DECO - Associação Portuguesa para a Defesa do Consumidor"
+            ],
+            "nrOficio": "252/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-12",
+            "dataResposta": "2017-10-26",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "253/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-12",
+            "dataResposta": "2017-10-26",
+            "entidades": [
+              "Associação Portuguesa de Bancos"
+            ],
+            "nrOficio": "254/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-12",
+            "dataResposta": "2018-03-15",
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "255/COFMA/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-04-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-09-14",
+        "DataArquivo": "2018-04-26",
+        "DataBaixaComissao": "2017-07-14",
+        "DataEnvioPAR": "2018-05-02",
+        "DataReaberta": "2017-09-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-09-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f546c6c4e325a6a4d6a55744e6d4979597930304d6a557a4c574a6a4e324d744d4445334e7a5a6b4e7a64685a4755314c6e426b5a673d3d&fich=99e7fc25-6b2c-4253-bc7c-01776d77ade5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764f5463774f444a6a593259744d6a41334f5330304e4463774c57457a5a546b745a6d4a68595449794d3245794d6d557a4c6e426b5a673d3d&fich=97082ccf-2079-4470-a3e9-fbaa223a22e3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e7a6b784e6a64694f4459744d6d4d31597930305954426c4c546b335a4749745a445a6d5a6a686c4e5463775932466c4c6e426b5a673d3d&fich=79167b86-2c5c-4a0e-97db-d6ff8e570cae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d57566b597a41774e5745745932457a595330304d574e6b4c546b7a4d4463744f54686b4d444d314d6a4a684d5467304c6e426b5a673d3d&fich=1edc005a-ca3a-41cd-9307-98d03522a184.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a54686a5a4449794d6a45744f444a694d6930304d4746694c5746684d324d744d6a4930596a686a4e7a41775a5749304c6e426b5a673d3d&fich=e8cd2221-82b2-40ab-aa3c-224b8c700eb4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d546b30593249794e445174596d49314d5330304d47526d4c57466b4e5451744d3252694d7a51344f4459795a4446694c6c424552673d3d&fich=194cb244-bb51-40df-ad54-3db348862d1b.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a5459344f4751314e6a51744d5749325a533030596a646d4c546b315a5459745a54686a5a6a4d304f4745795a6a677a4c6e426b5a673d3d&fich=e688d564-1b6e-4b7f-95e6-e8cf348a2f83.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a54646d4e32526c595451744e4451314d533030597a6c6b4c546b775a575974596a4d79596a426c4e6a56684e444d7a4c6e426b5a673d3d&fich=e7f7dea4-4451-4c9d-90ef-b32b0e65a433.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e4451314d6a566c4e6a55745a6d49304d4330304f44466a4c574a6b4f4459745954526a4e32566c4d4751774d544a6a4c6e426b5a673d3d&fich=44525e65-fb40-481c-bd86-a4c7ee0d012c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e7a566d4f444d344e7a4d744e6d466a5a433030596a56684c54686a4e7a51745a6a49354d4459304e5749345a54686b4c6e426b5a673d3d&fich=75f83873-6acd-4b5a-8c74-f290645b8e8d.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-09-14",
+            "gp": "PSD",
+            "id": "4437",
+            "motivoCessacao": null,
+            "nome": "Carlos Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-07-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794d546c684d6d5a695a4331695a475a6a4c54526b59544d744f446735597930794d4451354f47526d5a5455334d446b756347526d&fich=219a2fbd-bdfc-4da3-889c-20498dfe5709.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13034",
+    "PetAssunto": "Solicita um debate sobre o estado atual da Banca, nomeadamente ao nível dos custos, alteração de condições e falta de regulamentação.",
+    "PetDataEntrada": "2017-07-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13034",
+    "PetLeg": "XIII",
+    "PetNr": "353",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
