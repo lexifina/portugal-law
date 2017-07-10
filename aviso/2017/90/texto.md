@@ -1,0 +1,4 @@
+Aviso n.º 90/2017
+Por ordem superior se torna público que, a 3 de março de 2017 e a 5 de abril de 2017, foram emitidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros do Azerbaijão e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Acordo entre a República Portuguesa e a República do Azerbaijão sobre Cooperação Económica, assinado em Lisboa, a 16 de novembro de 2016.
+Por parte da República Portuguesa, o referido Acordo foi aprovado pelo Decreto n.º 10/2017, de 9 de fevereiro, publicado no Diário da República, 1.ª série, n.º 64, de 30 de março de 2017. Nos termos do artigo 9.º, do referido Acordo, este entrou em vigor a 10 de maio de 2017.
+Direção-Geral de Política Externa, 30 de junho de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
