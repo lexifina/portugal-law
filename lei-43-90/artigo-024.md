@@ -10,7 +10,7 @@ b) Seja elaborado relatório e parecer favorável à sua apreciação em Plenár
 
 2 - As petições que, nos termos do número anterior, estejam em condições de ser apreciadas pelo Plenário são enviadas ao Presidente da Assembleia da República, para agendamento, acompanhadas dos relatórios devidamente fundamentados e dos elementos instrutórios, se os houver.
 
-3 - As petições são agendadas para Plenário no prazo máximo de 30 dias após o seu envio ao Presidente da Assembleia da República, nos termos do número anterior.
+3 - As petições são agendadas para Plenário no prazo máximo de 30 dias após o seu envio ao Presidente da Assembleia da República, nos termos do número anterior, descontados os períodos de suspensão do funcionamento da Assembleia da República ou aqueles em que não forem convocadas reuniões plenárias por período superior a uma semana.
 
 4 - A matéria constante da petição não é submetida a votação, sem prejuízo do disposto nos números seguintes.
 

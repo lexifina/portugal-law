@@ -4,10 +4,12 @@
 
 1 - Por forma a assegurar a gestão e publicitação adequadas das petições que lhe sejam remetidas, a Assembleia da República organiza e mantém actualizado um sistema de registo informático da recepção e tramitação de petições.
 
-2 - O sistema faculta informação completa sobre os dados constantes das petições apresentadas, incluindo o seu texto integral e informação sobre cada uma das fases da sua tramitação, devendo centralizar os dados disponíveis em todos os serviços envolvidos.
+2 - A Assembleia da República disponibiliza uma plataforma eletrónica para receção de petições e recolha de assinaturas pela Internet, a qual contém uma declaração de aceitação dos termos e condições da sua utilização pelos peticionários, com indicação dos prazos de recolha de assinaturas.
 
-3 - O sistema faculta um modelo, de preenchimento simples, para envio e recepção de petições pela Internet.
+3 - A existência desta plataforma não prejudica a recolha cumulativa ou alternativa de assinaturas em suporte de papel ou através de outras plataformas eletrónicas, que garantam o cumprimento das exigências legais.
 
-4 - Qualquer cidadão que goze de legitimidade nos termos do artigo 4.º pode tornar-se peticionário por adesão a uma petição pendente, num prazo de 30 dias a contar da data da sua admissão, mediante comunicação escrita à comissão parlamentar competente em que declare aceitar os termos e a pretensão expressa na petição, indicando os elementos de identificação referidos no artigo 6.º
+4 - A Assembleia da República verifica a validade dos endereços de correio eletrónico, cuja indicação é obrigatória pelos subscritores que utilizam a plataforma eletrónica.
 
-5 - A adesão conta para todos os efeitos legais e deve ser comunicada aos peticionários originários.
+5 - A Assembleia da República pode solicitar aos serviços competentes da Administração Pública a verificação administrativa, por amostragem, da autenticidade da identificação dos subscritores da petição.
+
+6 - A Assembleia da República disponibiliza informação completa sobre as petições apresentadas, incluindo o seu texto integral e respetiva tramitação.

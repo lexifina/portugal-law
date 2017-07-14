@@ -6,4 +6,4 @@
 
 2 - O disposto no número anterior não prejudica a faculdade de verificação, completa ou por amostragem, da autenticidade das assinaturas e da identificação dos subscritores.
 
-3 - Os peticionários devem indicar o nome completo e o número do bilhete de identidade ou, não sendo portador deste, qualquer outro documento de identificação válido.
+3 - Os peticionários devem indicar o nome completo e o número do bilhete de identidade ou do cartão de cidadão ou, não sendo portadores destes, de qualquer outro documento de identificação válido, fazendo neste caso expressa menção ao documento em causa.
