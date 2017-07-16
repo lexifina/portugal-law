@@ -1,0 +1,277 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13041",
+  "numero": "360",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-07-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-11-28",
+            "entidades": null,
+            "id": "107162",
+            "tipo": null,
+            "titulo": "Audição em 2017-11-28 com Dr. Bruno carvalho; Drª. Rosa Maria Carvalho e Dr. Henrique Alves"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": null,
+            "entidades": [
+              "Agrupamento de Escolas de Mirandela"
+            ],
+            "nrOficio": "366/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal de Mirandela"
+            ],
+            "nrOficio": "367/CEC/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2017-12-05",
+                "dataResposta": "2018-01-26",
+                "nrOficio": "396/CEC/2017",
+                "oficioResposta": "Email"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": null,
+            "entidades": [
+              "Colégio Torre Dona Chama"
+            ],
+            "nrOficio": "368/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-23",
+            "dataResposta": "2018-05-11",
+            "entidades": [
+              "Direção de Serviços da Região Norte - Direção Geral dos Estabelecimentos Escolares"
+            ],
+            "nrOficio": "123/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-23",
+            "dataResposta": "2018-04-24",
+            "entidades": [
+              "Agrupamento de Escolas de Mirandela"
+            ],
+            "nrOficio": "124/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "365/CEC/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-02-02",
+                "dataResposta": "2018-03-19",
+                "nrOficio": "35/CEC/2018",
+                "oficioResposta": "287/2018"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-05-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-03",
+        "DataArquivo": "2018-05-29",
+        "DataBaixaComissao": "2017-07-27",
+        "DataEnvioPAR": "2018-05-30",
+        "DataReaberta": "2017-10-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-11-29",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63345a6d51784f444d774c5459784e6a67744e4449314e4331684f574a684c5751305a6a52685a6a6c684e4459334d4335775a47593d&fich=78fd1830-6168-4254-a9ba-d4f4af9a4670.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a68596a59304e7a45784c544d324f4455744e4756694f4331694d3251344c5464684d4463324d474e6d4d446b314e4335775a47593d&fich=6ab64711-3685-4eb8-b3d8-7a0760cf0954.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45324e5459784d474a6c4c54426b4f4467744e4745334f4331685a6d4d354c54466b4f4749794e6a55304e574a6c5a4335775a47593d&fich=165610be-0d88-4a78-afc9-1d8b26545bed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255314e4749314d7a6b314c5452685a5463744e4759324f4330354d6d55354c5459324e7a526b595467314d324e6b4d7935775a47593d&fich=e54b5395-4ae7-4f68-92e9-6674da853cd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6c5a44426a4e3255334c5463774e6a51744e474d7a4e693035597a63324c5751314e32566a595455794d7a466b5a4335775a47593d&fich=bed0c7e7-7064-4c36-9c76-d57eca5231dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686d4d546379596a686b4c546b334e6a6b744e444a6c4e7930354d6a59354c5449314e7a59794e546c694d5759315a4335775a47593d&fich=8f172b8d-9769-42e7-9269-2576259b1f5d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6859324e684d7a45334c5446694f5755744e44566c4d5330344f446b344c5751334d575a6b4d4759315a574e6c4d5335775a47593d&fich=3acca317-1b9e-45e1-8898-d71fd0f5ece1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c684d7a4134595755784c574d355a5751744e4451324d7931685a546c6d4c57517a5a444d7a4f544d34596d4d314d5335775a47593d&fich=9a308ae1-c9ed-4463-ae9f-d3d33938bc51.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49314e54466d595456684c5451354f5449744e444a6d4e7930354e6a637a4c574d345a4749784d474d7a59545a685a6935775a47593d&fich=2551fa5a-4992-42f7-9673-c8db10c3a6af.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51354d5745774d5451794c545977593249744e444e6c4e5330354d6d4d774c54526c5a5749324d445a6d4e574e6c4d5335775a47593d&fich=491a0142-60cb-43e5-92c0-4eeb606f5ce1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-05-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b78596d52684d6d4d354c546735596a49744e4463795a6931684e7a55334c54526a5a6a4e6d4d7a4e6b5a544d784d4335775a47593d&fich=91bda2c9-89b2-472f-a757-4cf3f33de310.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d335a474e6d4d6a4a6d4c544134596a41744e4751314d7930354e4751324c54457a5a4445355a544d794d7a49335a4335775a47593d&fich=c7dcf22f-08b0-4d53-94d6-13d19e32327d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59345a5441774e5452694c5752684d5749744e445a6a4d6931694f446b344c57557959544d354f5451334f44426c4e4335775a47593d&fich=68e0054b-da1b-46c2-b898-e2a3994780e4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55305a5451774d444e694c5459324d6a45744e4451305a4330354e474d314c544d77597a51305954686a4f5467775a5335775a47593d&fich=54e4003b-6621-444d-94c5-30c44a8c980e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51344e6d5134595445334c544d344f446b744e4449794d5331684f5451774c54637a59574e6c5a545a685a474a6d4f4335775a47593d&fich=486d8a17-3889-4221-a940-73acee6adbf8.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-10-03",
+            "gp": "PSD",
+            "id": "4365",
+            "motivoCessacao": null,
+            "nome": "Maria Manuela Tender"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-08-01",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d597a45354e4464684d6930345a574a684c5452694e6a49744f445a6a4d53307a4d6d517a596d517a4e44646a4d6d4d756347526d&fich=fc1947a2-8eba-4b62-86c1-32d3bd347c2c.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13041",
+    "PetAssunto": "Solicitam a adoção de medidas contra o encerramento do Colégio de Torre D. Chama.",
+    "PetDataEntrada": "2017-07-16",
+    "PeticoesAssociadas": null,
+    "PetId": "13041",
+    "PetLeg": "XIII",
+    "PetNr": "360",
+    "PetNrAssinaturas": "413",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
