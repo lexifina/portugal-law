@@ -1,0 +1,116 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Voto",
+  "numero": "366",
+  "data_registo": "2017-07-18",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Pesar pelo falecimento de Liu Xiaobo",
+    "AutoresGP": [
+      "André Silva (PAN)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2017-07-19",
+    "DataAnuncio": null,
+    "DataEntrada": "2017-07-18",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": "366",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": [
+      "Wanda Guimarães (PS)",
+      "Lúcia  Araújo Silva (PS)"
+    ],
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "799188",
+        "obs": null,
+        "pag": [
+          "6-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-19",
+        "pubLeg": "XIII",
+        "pubNr": "60",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/02/060/2017-07-19/6?pgs=6&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "32147",
+        "obs": null,
+        "pag": [
+          "7-122"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/7?pgs=7-122&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2017-07-19",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PAN</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>PEV</I>",
+        "id": "76727",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "798901",
+            "obs": null,
+            "pag": [
+              "65-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-07-20",
+            "pubLeg": "XIII",
+            "pubNr": "109",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/02/109/2017-07-20/65?pgs=65&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "109",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
