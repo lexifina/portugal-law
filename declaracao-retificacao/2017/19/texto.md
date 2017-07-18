@@ -1,0 +1,3 @@
+Declaração de Retificação n.º 19/2017
+Para os devidos efeitos, observado o disposto no n.º 2 do artigo 115.º do Regimento da Assembleia da República, declara-se que a Lei n.º 50/2017, de 13 de julho, «Sexta alteração à Lei n.º 15-A/98, de 3 de abril (Lei Orgânica do Regime do Referendo)», publicada no Diário da República, 1.ª série, n.º 134, de 13 de julho de 2017, foi por lapso, publicada como lei e não como lei orgânica, pelo que se anula a referida publicação, procedendo-se à sua publicação autónoma e integral, atribuindo-se-lhe a designação de lei orgânica com numeração própria.
+Assembleia da República, 17 de julho de 2017. - O Secretário-Geral, Albino de Azevedo Soares.
