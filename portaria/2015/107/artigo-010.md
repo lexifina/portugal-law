@@ -19,3 +19,5 @@ a) Candidatura apresentada por agrupamento ou organização de produtores reconh
 b) Criação de novos postos de trabalho.
 
 3 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas e ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.
+
+4 - Os critérios de seleção são avaliados com base em informação disponível à data de submissão da candidatura, podendo o aviso de abertura definir momento distinto.

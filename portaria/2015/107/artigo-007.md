@@ -2,7 +2,7 @@
 
 ### Critérios de elegibilidade das operações
 
-1 - Podem beneficiar dos apoios à operação 3.2.2, «Pequenos investimentos na exploração agrícola», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1.000 euros e inferior ou igual a 25.000 euros.
+1 - Podem beneficiar dos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1000 euros e inferior ou igual a 40 000 euros.
 
 2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:
 
@@ -18,7 +18,7 @@ e) Evidenciem viabilidade económica e financeira, medida através do valor atua
 
 3 - Os projetos de investimento previstos nos n.os 1 e 2 do presente artigo devem ainda reunir as seguintes condições:
 
-a) Não se enquadrem na mesma tipologia de operações previstas e aprovadas no âmbito de regimes de apoio ao abrigo da OCM única e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
+a) (Revogada);
 
 b) Tenham início após a data de apresentação da candidatura;
 

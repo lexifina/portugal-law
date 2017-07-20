@@ -18,16 +18,20 @@ f) Deterem um sistema de contabilidade organizada ou simplificada nos termos da 
 
 g) Serem titulares da exploração agrícola e efetuarem o respetivo registo no Sistema de Identificação Parcelar, no caso do apoio à ação 3.2.2, «Pequenos investimentos na exploração agrícola».
 
-2 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:
+h) Terem um volume de negócios igual ou inferior a 50 000 euros no ano anterior ao da apresentação da candidatura;
+
+i) Não terem recebido pagamentos diretos ou terem recebido pagamentos de valor igual ou inferior a 5000 euros, no ano anterior ao da apresentação da candidatura.
+
+2 - Para efeitos do disposto na alínea i) do n.º 1, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.
+
+3 - Os candidatos aos apoios à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda reunir as seguintes condições:
 
 a) Possuírem situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré-projeto igual ou superior a 20 %, devendo o indicador utilizado ter por base o exercício anterior ao ano da apresentação da candidatura;
 
 b) Obrigarem-se a que o montante dos suprimentos ou empréstimos de sócios ou acionistas, que contribuam para garantir o indicador referido na alínea anterior, seja integrado em capitais próprios, até à data de aceitação da concessão do apoio.
 
-3 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.
+4 - O indicador referido na alínea a) do número anterior pode ser comprovado com informação mais recente, desde que se reporte a uma data anterior à da apresentação da candidatura, devendo para o efeito ser apresentados os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.
 
-4 - A disposição da alínea a) do n.º 2 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.
+5 - A disposição da alínea a) do n.º 2 não se aplica aos candidatos que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer atividade, desde que suportem com capitais próprios pelo menos 25 % do custo total do investimento elegível.
 
-5 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
-
-6 - As condições previstas nas alíneas f) e g) do n.º 1 podem ser demonstradas até à data de aceitação da concessão do apoio, quando o candidato não tenha desenvolvido qualquer atividade.
+6 - A condição referida na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
