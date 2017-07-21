@@ -1,0 +1,3 @@
+Aviso n.º 100/2017
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas na República Portuguesa e na República da Índia para a entrada em vigor da Convenção sobre Segurança Social entre a República Portuguesa e a República da Índia, assinada em Nova Deli em 4 de março de 2013. A referida Convenção foi aprovada pelo Decreto n.º 5/2017, publicado no Diário da República, 1.ª série, n.º 22, de 31 de janeiro de 2017, entrando em vigor a 7 de maio de 2017, na sequência das notificações a que se refere o seu artigo 22.º
+Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas, 3 de março de 2017. - O Diretor-Geral, Júlio Vilela.
