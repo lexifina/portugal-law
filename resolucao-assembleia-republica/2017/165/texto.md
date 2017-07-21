@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 165/2017
+Prorrogação do prazo de funcionamento da Comissão Eventual de Inquérito Parlamentar à atuação do XXI Governo Constitucional no que se relaciona com a nomeação e a demissão da Administração do Dr. António Domingues.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, e ao abrigo do disposto no artigo 11.º do Regime Jurídico dos Inquéritos Parlamentares, aprovado pela Lei n.º 5/93, de 1 de março, com as alterações que lhe foram introduzidas pelas Leis n.os 126/97, de 10 de dezembro, e 15/2007, de 3 de abril, prorrogar o prazo de funcionamento da Comissão Eventual de Inquérito Parlamentar à atuação do XXI Governo Constitucional no que se relaciona com a nomeação e a demissão da Administração do Dr. António Domingues por mais 90 dias, para realizar diligências documentais e uma nova audição que se mostram relevantes para a elaboração do relatório.
+Aprovada em 7 de julho de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
