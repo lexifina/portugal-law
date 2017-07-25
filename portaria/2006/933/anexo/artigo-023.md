@@ -1,11 +1,21 @@
-## Capítulo III
+## Capítulo II
 
-## Condições de segurança exigidas a outras entidades
+## Condições de segurança exigidas aos titulares de licença de colecionador
 
 # Artigo 23.º
 
-### Arrecadação e guarda das armas
+### Arrecadação e guarda da coleção
 
-1 - As armas destinadas a serem usadas nos cursos de formação técnica e cívica e as armas pertencentes às federações de tiro desportivo e suas associações e de outras entidades legalmente autorizadas, são guardadas em casa-forte ou fortificada ou em cofre com fixação definitiva na parede.
+1 - As armas de fogo objeto de coleção são guardadas em casa-forte ou fortificada ou em cofre com fixação na parede.
 
-2 - Sendo guardadas em cofre, nas instalações do possuidor, devem estas estar dotadas de porta para o exterior de alta segurança e, sendo possível o escalamento sem auxílio de equipamento especial, nomeadamente a introdução por telhado, portas de terraços ou varandas, janelas ou outras aberturas, devem estas ser dotadas de protecção suficiente contra a intrusão, ou ser o compartimento onde se situa o cofre dotado igualmente de porta de alta segurança, porta de gradeamento de ferro ou porta similar e as janelas, quando existam, dotadas de gradeamento em ferro ou outro metal de igual ou superior resistência ao corte, podendo ser fixas ou amovíveis.
+2 - Se a coleção for guardada no domicílio devem ser asseguradas as seguintes medidas de segurança:
+
+a) Armazenamento em cofre, com um nível de segurança mínimo de grau 3, de acordo com a EN 1143-1, ou equivalente;
+
+b) As portas de acesso ao exterior e ao compartimento onde se encontra o cofre devem ter classe de resistência 3, de acordo com a norma EN 1627, ou equivalente;
+
+c) Janelas e demais aberturas equipadas com gradeamento em ferro ou outro material de igual ou superior resistência ao corte, podendo ser fixas ou amovíveis;
+
+d) Sistema de deteção de intrusão, de grau 3, de acordo com a EN 50131-1, ou equivalente.
+
+3 - A coleção pode ser guardada e exposta em museus públicos ou privados ou nas instalações dos museus das associações de colecionadores, desde que disponham das condições de segurança mencionadas nos números anteriores ou em instalações pertencentes às forças de segurança ou militares.

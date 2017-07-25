@@ -1,17 +1,9 @@
-## Capítulo II
-
-## Condições de segurança exigidas aos titulares de licença de coleccionador
-
 # Artigo 20.º
 
-### Arrecadação e guarda da colecção
+### Utilização de local não averbado
 
-1 - As armas de fogo objecto da colecção são guardadas em casa-forte ou fortificada ou em cofre com fixação na parede.
+1 - Os armeiros que não possuam no estabelecimento espaço próprio para leilões ou para exposição das armas a leiloar só o poderão realizar em local previamente autorizado pela Direção Nacional da PSP a qual pode condicionar a autorização à adoção de medidas adicionais de segurança.
 
-2 - Sendo a colecção guardada em cofre no domícilio do titular, deve este estar dotado de porta para o exterior de alta segurança e, sendo possível o escalamento sem auxílio de equipamento especial, nomeadamente a introdução por telhado, portas de terraços ou de varandas, janelas ou outras aberturas, deve existir protecção suficiente contra a intrusão ou ser o compartimento onde se situa o cofre dotado igualmente de porta de alta segurança, porta de gradeamento de ferro ou porta similar e as janelas, quando existam, dotadas de gradeamento em ferro ou outro metal de igual ou superior resistência ao corte, podendo ser fixas ou amovíveis.
+2 - A autorização referida no número anterior deve ser solicitada até 30 dias antes da data prevista para a realização do leilão.
 
-3 - Havendo casa-forte ou fortificada podem as armas aí serem expostas.
-
-4 - É obrigatória a existência de sistema de alarme contra intrusão.
-
-5 - A colecção pode ser guardada nas instalações da associação de coleccionadores onde o titular se mostre inscrito, desde que esta tenha casa-forte ou fortificada ou em instalações pertencentes às forças de segurança.
+3 - Para efeito do previsto no n.º 1, são aplicáveis, com as devidas adaptações, as regras previstas nos artigos 13.º e 14.º do presente regulamento.

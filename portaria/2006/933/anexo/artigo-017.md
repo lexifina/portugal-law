@@ -1,11 +1,9 @@
 # Artigo 17.º
 
-### Instalações partilhadas
+### Exercício de atividade
 
-1 - Sempre que as instalações se integrem numa área comercial comum com outros artigos de natureza diversa, a área reservada ao comércio de armas e munições apenas pode estar aberta ao público em duas das suas faces, delimitadas por sistema de grades ou outro que permita o seu integral isolamento durante os períodos de encerramento, sendo as outras faces correspondentes a parede de alvenaria.
+1 - Os titulares de alvará de armeiro do tipo 4, só podem desenvolver atividades relacionadas com efeitos cénicos e cinematográficos, contratados com empresas da especialidade.
 
-2 - No interior da área destinada ao comércio de armas e suas munições é criada uma zona de atendimento reservada.
+2 - É interdito o aluguer, venda, comercialização, empréstimo ou cedência de armas e munições de salva, a particulares e empresas não relacionadas com as atividades descritas no número anterior.
 
-3 - As armas das classes B, B1 e C e suas munições estão expostas, exclusivamente, na zona de atendimento reservada.
-
-4 - Entende-se por área comercial comum a que se situa numa grande superfície comercial ou em centro comercial, com acesso ao exterior por portas comuns.
+3 - As armas detidas ao abrigo do alvará de armeiro do tipo 4, apenas poderão abandonar o espaço do estabelecimento ou armazém, acompanhadas pelo titular do alvará ou seu funcionário, que assume a segurança das mesmas.

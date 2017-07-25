@@ -1,15 +1,21 @@
 # Artigo 3.º
 
-### Emissão de alvarás
+### Condições mínimas de segurança
 
-Tendo em vista a emissão de alvará e sem prejuízo dos demais dados relativos a cada um dos seus tipos específicos, o requerente apresenta junto da DN/PSP os seguintes elementos:
+1 - As instalações averbadas a alvará de armeiro devem assegurar, no mínimo, as seguintes condições:
 
-a) Planta de localização das instalações;
+a) Não constituir simultaneamente habitação e ser de acesso condicionado e restrito;
 
-b) Projecto de arquitectura das instalações;
+b) Paredes em alvenaria de tijolo e cobertura em laje de betão, ou outros processos construtivos e materiais de equivalente ou superior resistência;
 
-c) Licença de utilização;
+c) Proteção das janelas com grades em ferro ou outro metal de igual ou superior resistência ao corte;
 
-d) Condições e plano de segurança contra intrusão, furto ou roubo;
+d) Portas de acesso exterior e de acesso à zona de fabrico com, no mínimo, classe de resistência 3, de acordo com a EN 1627, ou equivalente, e resistência balística;
 
-e) Identificação do responsável técnico.
+e) Possuir armazém interior.
+
+2 - As instalações averbadas a alvará de armeiro devem estar equipadas com os seguintes sistemas de segurança:
+
+a) Sistema de deteção de intrusão, de grau 3, de acordo com a EN 50131-1, ou equivalente;
+
+b) Sistemas de videovigilância para captação e gravação de imagens, que permitam a identificação de pessoas, com a finalidade de prevenção da prática de crimes, com cobertura de perímetro, quando aplicável, controlo de acesso, zonas de carga e descarga, zonas de fabrico e ou armazenamento.

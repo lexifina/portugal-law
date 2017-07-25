@@ -1,19 +1,9 @@
-## Secção II
-
-## Alvará do tipo 1
-
 # Artigo 4.º
 
-### Elementos específicos
+### Exposição de armas
 
-Para além dos elementos previstos no artigo anterior, os requerentes de alvará do tipo 1 apresentam perante a DN/PSP os seguintes elementos específicos:
+1 - A exposição, para exibição ou venda, de armas de fogo, suas partes essenciais e correspondentes munições, apenas pode ocorrer no interior das instalações averbadas, em vitrine ou armário adequado, fechado a cadeado ou com fechadura de segurança.
 
-a) Planta de implantação topográfica das instalações, com referência às construções envolventes;
+2 - Fora do período de laboração, as armas expostas devem ser recolhidas para o local de armazenamento, exceto se a vitrine ou armário forem fixos ao solo e construídos em materiais de classe FB2, de acordo com a EN 1522, ou equivalente, ou dotadas de dispositivos de segurança que inviabilizem a remoção das mesmas.
 
-b) Projecto da rede de águas e esgotos;
-
-c) Projecto técnico de laboração, onde conste a tipificação das tarefas e horário do início e fim do trabalho;
-
-d) Memória descritiva com referência à classe de armas objecto de fabrico;
-
-e) Capacidade máxima de produção.
+3 - As armas referidas no n.º 1, quando em exposição, devem estar fixas por meio de corrente ou outro sistema que apenas permita serem manuseadas com o auxílio de uma chave ou sistema equivalente com código.

@@ -1,15 +1,9 @@
 # Artigo 21.º
 
-### Exposição de armas no domicílio
+### Exercício de atividade
 
-1 - Sempre que o coleccionador pretenda expor as suas armas de fogo no próprio domicílio, em compartimento sem as características de casa-forte ou fortificada, devem as mesmas encontrar-se desactivadas e fixadas ao expositor com mecanismo de segurança que impossibilite a sua remoção sem auxílio de chave ou ferramenta.
+1 - Nos estabelecimentos titulados por alvará do tipo 5, apenas podem ser comercializadas armas destinadas a coleção, em função da temática prosseguida, nomeadamente armas das classes B, B1, C, D, E, F e G.
 
-2 - As portas de acesso ao exterior do domicílio têm características de alta segurança.
+2 - A realização de leilões será sempre precedida de comunicação à Direção Nacional da PSP, com a antecedência mínima de 5 dias.
 
-3 - A exposição no domicílio de armas de fogo nas condições previstas no n.º 1 obriga a que a porta de acesso ao compartimento possua características de alta segurança e, sendo possível o escalamento sem auxílio de equipamento especial, nomeadamente a introdução por telhado, portas de terraços ou de varandas, janelas ou outras aberturas, devem estas ser dotadas de protecção suficiente contra a intrusão, designadamente gradeamento em ferro ou outro metal de igual ou superior resistência ao corte, podendo ser fixo ou amovível.
-
-4 - As janelas do compartimento de exposição são dotadas de gradeamento em ferro ou outro metal de igual ou superior resistência ao corte, podendo ser fixo ou amovível.
-
-5 - As peças retiradas das armas para sua desactivação estão sempre arrecadadas em cofre com fixação na parede.
-
-6 - É obrigatória a existência de sistema de alarme contra intrusão.
+3 - A aquisição de armas, nos termos da presente secção, apenas pode ser feita por titulares de licença de colecionador, por associações de colecionadores com museu e por titulares de alvará de armeiro do tipo 2, 3, 4 e 5.

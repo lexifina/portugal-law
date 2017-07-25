@@ -1,17 +1,19 @@
 # Artigo 9.º
 
-### Contentores de circulação, fiscalização e guias de exportação e transferência para outro Estado
+### Condições específicas de segurança
 
-1 - Para a saída das instalações as armas acabadas ou aptas a disparar bem como as partes essenciais de armas de fogo são acomodadas em contentor inviolável, não podendo o mesmo conter mais de 25 armas ou 50 partes essenciais, independentemente da sua classe, nem ter destinatários diferenciados.
+1 - As instalações averbadas a alvará de armeiro do tipo 1 devem assegurar, no mínimo, as seguintes condições:
 
-2 - Os contentores de circulação, se destinados à exportação ou transferência para outro Estado, são carregados no interior das instalações e agrupados em contentores de carga padronizados, destinados aos transportes internacionais, devendo possuir suficientes garantias de segurança contra furto ou roubo.
+a) Instalação de uso exclusivo;
 
-3 - Sem prejuízo da necessária peritagem nos termos da lei, a acomodação nos contentores de circulação é feita na presença de responsável pela segurança e por um elemento da PSP que procede à respectiva selagem.
+b) Perímetro exterior das instalações delimitado por muro de alvenaria de tijolo, ou outro material de equivalente ou superior resistência, com a altura mínima de 3 m;
 
-4 - É elaborada guia de carga discriminando o número de série aposto nas armas ou suas partes essenciais, bem como a sua classe, marca, modelo e calibre, contendo a data e assinatura do elemento da PSP referido no número anterior.
+c) Inexistência de montras ou áreas de exposição;
 
-5 - A deslocação em qualquer ponto do território nacional de contentores de transportes nacionais ou internacionais, sempre acompanhada de toda a documentação exigível inerente à operação em curso, depende de informação prévia à PSP, em ordem a definir as apropriadas condições de segurança e assegurar o devido controlo e protecção.
+d) Condutas de ventilação ou exaustão com diâmetro máximo de 30 cm;
 
-6 - O depósito dos contentores nas estâncias aduaneiras é feito em local indicado pelo seu chefe ou responsável, que tomará em conta as indicações da PSP em matéria de segurança.
+e) Acesso a condutas da rede de água e esgoto dotados de sistema de segurança contra abertura interior.
 
-7 - O director nacional da PSP, através de despacho, especifica as condições em que o transporte seguro pode realizar-se com dispensa de escolta, mediante recurso a dispositivos electrónicos de geolocalização, cuja monitorização em tempo real seja facultada à PSP.
+2 - A porta de acesso ao armazém é dotada dos requisitos mínimos previstos no presente Regulamento e de sistema de abertura dotado de mecanismo de retardamento, acionado por duas chaves diferenciadas.
+
+3 - No interior das instalações fabris deverá existir um espaço reservado, adequado para a condução de serviços de fiscalização, o qual poderá ser utilizado pela PSP, mediante solicitação da Direção Nacional da PSP.

@@ -1,13 +1,7 @@
 # Artigo 24.º
 
-### Confiança das armas
+### Exposição de armas no domicílio
 
-1 - As armas apenas são retiradas do local onde se encontram guardadas pelo tempo estritamente necessário para a finalidade a que se destina a sua utilização, ali recolhendo de imediato.
+1 - Sempre que o colecionador pretenda expor as suas armas de fogo, no próprio domicílio, em compartimento sem as características de casa-forte ou fortificada, devem as mesmas encontrar-se desativadas e fixadas ao expositor com mecanismo de segurança que impossibilite a sua remoção sem auxílio de chave ou ferramenta.
 
-2 - As armas apenas podem ser confiadas a pessoa diferente do seu titular ou responsável para efeitos de:
-
-a) Realização de sessões de formação compreendidas na actividade das entidades formadoras credenciadas;
-
-b) Treinos ou participação em provas desportivas;
-
-c) Exercício das funções para as quais o portador se mostre contratado.
+2 - A exposição no domicílio de armas de fogo nas condições previstas no n.º 1 obriga à adoção das medidas de segurança previstas nas alíneas b) a d) do n.º 2 do artigo anterior.
