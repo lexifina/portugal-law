@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 8439/2017
+Apreciação Pública da Proposta de "Projeto de Regulamento e Tarifas Sociais" dos Serviços Municipalizados da Câmara Municipal da Guarda
+Para os devidos efeitos se torna público que a Câmara Municipal da Guarda, em reunião realizada no dia 12 de junho de 2017, deliberou aprovar a proposta dos Serviços Municipalizados da Câmara Municipal da Guarda, relativa ao Projeto de Regulamento de Tarifas Sociais e submeter o mesmo a apreciação pública e audiência dos interessados, nos termos do n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009 de 20 de agosto e dos artigos 100.º e 101.º do Código do Procedimento Administrativo (CPA), pelo prazo de 30 dias.
+Os interessados podem consultar a proposta de Projeto de Regulamento que está disponível na sede dos Serviços Municipalizados da Câmara Municipal da Guarda, na Loja do Cidadão - CC La Vie e no Edifício do Centro Cultural e Social de S. Miguel, Guarda-Gare, durante o período de expediente (das 9:00h às 16h 30m) e na página eletrónica dos mesmos, em www.smasguarda.com.
+Para os efeitos acima previstos podem também dirigir por escrito as suas sugestões e eventuais contributos para os Serviços Municipalizados da Câmara Municipal da Guarda, Largo de S. Vicente, N.º 7, 6300-600 Guarda, ou para o e-mail geral@smasguarda.com, dentro do prazo de 30 dias contados da data da publicação do presente aviso no Diário da República.
+11 de julho de 2017. - O Presidente do Conselho de Administração, Sérgio Fernando da Silva Costa.
+310656006
