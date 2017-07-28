@@ -1,0 +1,6 @@
+Aviso n.º 8478/2017
+José António Fontão Tulha, Presidente da Câmara Municipal de S. João da Pesqueira, torna público que a Câmara Municipal deliberou, em reunião extraordinária da Câmara Municipal, realizada no dia 17 de julho de 2017, conforme previsto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, proceder à abertura do período de Discussão Pública da Revisão do Plano Diretor Municipal de S. João da Pesqueira, pelo prazo de 30 dias (seguidos), que terá início 5 dias úteis após a publicação do aviso no Diário da República.
+Os interessados poderão consultar a proposta do plano, o relatório ambiental, o parecer final, a ata da comissão consultiva, bem como os demais elementos que acompanham, nas instalações da Loja de Turismo, durante todos os dias da semana, bem como no sítio da internet da Câmara Municipal de S. João da Pesqueira (www.sjpesqueira.pt).
+Os interessados podem apresentar as suas reclamações, observações ou sugestões, por escrito, enviando por correio ou via eletrónica (pdm@sjpesqueira.pt), ou ainda através da websig criada para o efeito, o documento devidamente identificado, dirigido ao Presidente da Câmara Municipal de S. João da Pesqueira, até ao termo do referido período.
+18 de julho de 2017. - O Presidente da Câmara, José António Fontão Tulha.
+610658364
