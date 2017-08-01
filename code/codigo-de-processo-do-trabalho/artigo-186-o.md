@@ -1,10 +1,10 @@
 # Artigo 186.º-O
 
-### Audiência de partes e julgamento
+### Julgamento
 
-1 - Se o empregador e o trabalhador estiverem presentes ou representados, o juiz realiza a audiência de partes, procurando conciliá-los.
+1 - O julgamento inicia-se com a produção das provas que ao caso couberem.
 
-2 - Frustrando-se a conciliação, inicia-se imediatamente o julgamento, produzindo-se as provas que ao caso couberem.
+2 - (Revogado.)
 
 3 - Não é motivo de adiamento a falta, ainda que justificada, de qualquer das partes ou dos seus mandatários.
 
@@ -18,4 +18,4 @@
 
 8 - A sentença que reconheça a existência de um contrato de trabalho fixa a data do início da relação laboral.
 
-9 - A decisão proferida pelo tribunal é comunicada à ACT e ao Instituto da Segurança Social, I. P.
+9 - A decisão proferida é comunicada oficiosamente pelo tribunal à ACT e ao Instituto da Segurança Social, I. P., com vista à regularização das contribuições desde a data de início da relação laboral fixada nos termos do número anterior.
