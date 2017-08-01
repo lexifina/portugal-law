@@ -10,4 +10,8 @@ b) A todas as entidades sujeitas à tutela ou superintendência de órgãos do E
 
 c) A outras entidades que detenham ou explorem infra-estruturas que se integrem no domínio público do Estado, das Regiões Autónomas e das autarquias locais.
 
-d) Às empresas de comunicações electrónicas e às entidades que detenham infra-estruturas aptas ao alojamento de redes de comunicações electrónicas utilizadas pelas primeiras no exercício da sua actividade, nos termos previstos no artigo 2.º do Decreto-Lei n.º 258/2009, de 25 de Setembro.
+d) Às empresas de comunicações eletrónicas e às entidades que detenham ou explorem infraestruturas aptas utilizadas pelas primeiras no exercício da sua atividade;
+
+e) Às entidades que prestam serviços de produção, transporte ou distribuição de gás, de eletricidade, incluindo a iluminação pública, de aquecimento, de água, incluindo a eliminação ou o tratamento de águas residuais e esgotos e sistemas de drenagem, e que detenham ou explorem infraestruturas aptas ao alojamento de redes de comunicações eletrónicas e não se encontrem abrangidas pelas alíneas anteriores;
+
+f) Às entidades que prestam serviços de transporte, incluindo caminhos-de-ferro, estradas, portos e aeroportos, e que detenham ou explorem infraestruturas aptas ao alojamento de redes de comunicações eletrónicas e não se encontrem abrangidas pelas alíneas anteriores.

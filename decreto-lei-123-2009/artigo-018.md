@@ -1,6 +1,6 @@
 # Artigo 18.º
 
-### Procedimentos e condições aplicáveis ao acesso e utilização das infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
+### Procedimentos e condições aplicáveis ao acesso e utilização das infraestruturas aptas
 
 1 - As entidades sujeitas ao dever de acesso devem elaborar e disponibilizar no SIC regras relativas aos procedimentos e condições para o acesso e utilização das infra-estruturas, que devem conter, entre outros, os seguintes elementos:
 

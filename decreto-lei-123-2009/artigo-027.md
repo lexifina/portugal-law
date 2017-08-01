@@ -8,7 +8,7 @@
 
 # Artigo 27.º
 
-### Objecto do capítulo v
+### Infraestruturas de telecomunicações em loteamentos, urbanizações e conjuntos de edifícios
 
 1- O presente capítulo estabelece o regime de instalação das ITUR e respectivas ligações às redes públicas de comunicações electrónicas, bem como o regime de avaliação de conformidade de equipamentos, materiais e infra-estruturas.
 

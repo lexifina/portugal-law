@@ -8,7 +8,7 @@ a) Ministrar cursos de formação ITUR, incluindo de formação contínua, obser
 
 b) Utilizar apenas os equipamentos e instalações que correspondam aos requisitos definidos pelo ICP-ANACOM;
 
-c) Assegurar que os formadores dos cursos referidos na alínea a) estão devidamente habilitados;
+c) Assegurar que os formadores dos cursos referidos na alínea a) estão devidamente habilitados, nos termos do previsto na portaria referida na alínea d) do n.º 1 do artigo 45.º;
 
 d) Assegurar a calibração periódica dos equipamentos, de acordo com as instruções dos respectivos fabricantes, documentado em plano de calibração;
 

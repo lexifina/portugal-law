@@ -4,7 +4,7 @@
 
 1 - Compete às entidades referidas no artigo 2.º estabelecer regulamentos contendo os procedimentos para a atribuição de direitos de passagem em domínio público, previsto no artigo anterior, se for o caso, incluindo as instruções técnicas referidas no artigo 11.º, as quais devem obedecer aos princípios estabelecidos nos n.os 3 e 4 do artigo 24.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro.
 
-2 - Os procedimentos para a atribuição de direitos de passagem em bens do domínio público sob gestão das entidades referidas no artigo 2.º, a estabelecer nos termos dos n.os 3 e 4 do artigo 24.º da Lei das Comunicações Electrónicas, aprovada pela Lei n.º 5/2004, de 10 de Fevereiro, devem conter:
+2 - Os procedimentos para a atribuição de direitos de passagem em bens do domínio público sob gestão das entidades referidas no artigo 2.º, a estabelecer nos termos dos n.os 3 e 4 do artigo 24.º da Lei das Comunicações Eletrónicas, aprovada pela Lei n.º 5/2004, de 10 de fevereiro, devem, preferencialmente, ser tramitados por meios eletrónicos e devem conter:
 
 a) Os elementos que devem instruir o pedido para a construção e instalação de infra-estruturas, bem como a entidade a quem o mesmo deve ser dirigido;
 
@@ -24,4 +24,4 @@ f) As regras relativas ao anúncio prévio destinado a captar a adesão à inter
 
 5 - Caso o prazo referido no número anterior seja excedido sem que tenha havido qualquer decisão, consideram-se os respectivos procedimentos aprovados.
 
-6 - O procedimento de atribuição de direitos de passagem relativamente a bens integrados no domínio público municipal é instruído em conformidade com o presente artigo e em simultâneo com a comunicação prévia prevista no artigo seguinte, correspondendo a não rejeição desta à atribuição do direito de passagem.
+6 - O procedimento de atribuição de direitos de passagem relativamente a bens integrados no domínio público municipal é instruído em conformidade com o presente artigo, não podendo decorrer mais de 30 dias entre a data de apresentação do pedido e a sua decisão, correspondendo o decurso deste prazo sem que a câmara municipal se pronuncie à atribuição do direito de passagem.

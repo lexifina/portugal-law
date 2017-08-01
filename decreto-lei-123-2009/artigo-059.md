@@ -16,4 +16,6 @@ d) Instalações eléctricas de suporte a equipamentos e sistemas de terra.
 
 3 - No projecto, na instalação e na utilização das ITED deve ser assegurado o sigilo das comunicações, a segurança e a não interferência entre as infra-estruturas de cablagem instaladas.
 
-4 - O cumprimento das obrigações previstas no presente artigo recai sobre o dono da obra.
+4 - O início da obra deve ser previamente comunicado ao projetista ITED.
+
+5 - O cumprimento das obrigações previstas no presente artigo recai sobre o dono da obra.

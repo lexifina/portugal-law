@@ -1,6 +1,6 @@
 # Artigo 10.º
 
-### Custos associados à construção ou ampliação de infra-estruturas aptas ao alojamento de redes de comunicações electrónicas
+### Custos associados à construção ou ampliação de infraestruturas aptas
 
 1 - As empresas de comunicações electrónicas devem suportar a quota-parte do custo de investimento da obra, correspondente ao diferencial de custos de investimento que a sua associação vier a originar.
 
