@@ -27,3 +27,7 @@ f) Data e assinatura do revisor oficial de contas.
 4 - No caso de sociedades que sejam emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, o revisor deve atestar se o relatório sobre a estrutura e as práticas de governo societário divulgado inclui os elementos referidos no n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, que lhe sejam exigíveis e emitir parecer sobre o cumprimento das alíneas c), d), f), h), i) e m) do mesmo artigo.
 
 5 - O âmbito do parecer a que se refere a alínea e) do n.º 3 deve igualmente incluir as matérias referidas nas alíneas c), d), f), h), i) e m) do n.º 1 do artigo 245.º-A do Código dos Valores Mobiliários, no caso dos emitentes abrangidos pelas disposições em causa.
+
+6 - No caso de sociedades que estejam obrigadas a apresentar uma demonstração não financeira, nos termos do artigo 66.º-B ou do artigo 508.º-G, o revisor oficial de contas deve apenas atestar que a mesma ou o relatório separado foram apresentados.
+
+7 - A alínea e) do n.º 3 do presente artigo não é aplicável à demonstração não financeira referida no n.º 1 do artigo 66.º-B, nem à demonstração não financeira consolidada referida no n.º 1 do artigo 508.º-G, nem aos relatórios separados referidos nos n.os 8 e 9 do artigo 66.º-B e nos n.os 8 e 9 do artigo 508.º-G.
