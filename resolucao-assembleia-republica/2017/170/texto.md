@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 170/2017
+Recomenda ao Governo que retome o Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e Costa Vicentina como instrumento de desenvolvimento integrado e participado
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - No processo de recondução do Plano de Ordenamento do Parque Natural do Sudoeste Alentejano e da Costa Vicentina, em conformidade com o previsto na Lei n.º 31/2014, de 30 de maio (Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo), seja preconizada uma política de ordenamento do território que inclua os hábitos, práticas e atividades tradicionais de proteção da natureza, da salvaguarda dos valores naturais, incluindo e valorizando as atividades humanas realizadas no respetivo território, com o objetivo de promover o desenvolvimento económico e o bem-estar das populações.
+2 - Este processo de recondução ocorra em estreita articulação com as autarquias, as associações ambientalistas, as universidades e/ou politécnicos, as associações de agricultores, pescadores e mariscadores do território que o Parque incorpora.
+3 - Proceda à análise e identificação dos meios e recursos humanos, operacionais e financeiros, nomeadamente do Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), assim como ao modelo de gestão das áreas protegidas atualmente em vigor, visando a obtenção de uma governação mais eficaz, próxima e integrada.
+Aprovada em 23 de junho de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
