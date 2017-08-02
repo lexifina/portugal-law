@@ -8,7 +8,7 @@
 
 a) O prazo para apresentação de candidaturas;
 
-b) As finalidades abrangidas, de acordo com o artigo 5.º do Decreto-Lei n.º 14/2011, de 25 de Janeiro;
+b) As finalidades abrangidas, de acordo com o artigo 4.º do Decreto-Lei n.º 14/2011, de 25 de janeiro.
 
 c) O montante total disponível para financiamento;
 
@@ -20,7 +20,7 @@ f) A percentagem de financiamento a conceder, que pode ser até 100 % da despesa
 
 3 - As candidaturas são apresentadas através de um formulário disponibilizado no sítio electrónico do IGFIJ.
 
-4 - Do formulário constam, entre outros elementos:
+4 - A candidatura deve ser instruída com os seguintes elementos:
 
 a) Identificação do serviço/organismo proponente ou serviços/organismos proponentes em caso de candidatura conjunta;
 
@@ -28,11 +28,11 @@ b) Descrição do projeto e seus objetivos;
 
 c) Enquadramento do projecto nas finalidades do Fundo;
 
-d) Programação financeira, física e temporal, por classificação económica;
+d) Programação financeira, física e temporal;
 
 e) Descrição dos benefícios decorrentes da realização do projeto, incluindo os indicadores e metas quantificadas que, na perspetiva do beneficiário, sintetizam os resultados que se pretendem atingir com a realização do projeto;
 
-f) Contribuição do projeto para o cumprimento dos objetivos do programa de modernização da Justiça e dos objetivos definidos no Quadro de Avaliação e Responsabilização (QUAR) do serviço proponente;
+f) Contribuição do projeto para o cumprimento dos objetivos do programa de modernização da Justiça;
 
 g) Declaração de compromisso de honra do dirigente do organismo beneficiário, de execução do financiamento conforme respetiva candidatura.
 
@@ -40,7 +40,7 @@ g) Declaração de compromisso de honra do dirigente do organismo beneficiário,
 
 6 - O Fundo pode assegurar a contrapartida nacional em projetos cofinanciados por outros fundos de financiamento.
 
-7 - Não se aplica o disposto no n.º 4, nos seguintes casos:
+7 - Não se aplica o disposto nas alíneas d), e) e f) do disposto no n.º 4, nos seguintes casos:
 
 a) Projetos cofinanciados por outros fundos de financiamento sendo obrigatória a apresentação de cópia da candidatura submetida àquele fundo, em formato eletrónico;
 

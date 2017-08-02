@@ -2,7 +2,7 @@
 
 ### Beneficiários
 
-São potenciais beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas do Ministério da Justiça, nomeadamente:
+São beneficiários do Fundo os serviços, organismos, órgãos consultivos e demais estruturas orçamentais do Ministério da Justiça, nomeadamente:
 
 a) Direcção-Geral de Política da Justiça;
 
@@ -25,3 +25,5 @@ i) Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;
 j) Instituto Nacional de Medicina Legal e Ciências Forenses;
 
 k) Instituto Nacional da Propriedade Industrial, I. P.
+
+l) Procuradoria-Geral da República.

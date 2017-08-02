@@ -2,7 +2,7 @@
 
 ### Processo de decisão e contrato de financiamento
 
-1 - No decorrer da verificação e análise das candidaturas, pode o IGFIJ solicitar ao serviço proponente esclarecimentos adicionais, podendo ser aceites correcções aos elementos indicados no formulário de candidatura.
+1 - No decorrer da verificação e análise das candidaturas, pode o IGFEJ, I. P. solicitar ao serviço proponente esclarecimentos adicionais, podendo ser aceites correções aos elementos indicados no processo de candidatura.
 
 2 - A decisão sobre as candidaturas a aprovar tem como critérios de decisão os constantes do aviso de abertura..
 
@@ -12,4 +12,4 @@
 
 5 - As condições de atribuição e suspensão do financiamento pelo Fundo, bem como os demais direitos e deveres das partes, constituem objeto de contrato de financiamento.
 
-6 - Para efeitos de celebração do contrato de financiamento devem ser apresentados, no prazo máximo de 20 dias úteis, a contar da data da notificação da respetiva aprovação, os documentos indicados no aviso de abertura.
+6 - Para efeitos de celebração do contrato de financiamento devem ser apresentados, no prazo máximo de 30 dias seguidos, a contar da data da notificação da respetiva aprovação, os documentos indicados no aviso de abertura.
