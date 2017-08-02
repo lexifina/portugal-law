@@ -2,7 +2,7 @@
 
 ### Reuniões e deliberações
 
-1 - O CREFP reúne por iniciativa do seu presidente ou a requerimento de, pelo menos, dois terços dos seus membros, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.
+1 - As reuniões ordinárias realizam-se anualmente e as reuniões extraordinárias realizam-se por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do CREPF, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.
 
 2 - O CREFP só funcionará com a presença da maioria dos seus membros e quando estiver presente o presidente ou o seu representante.
 
