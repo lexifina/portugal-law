@@ -1,0 +1,5 @@
+Resolução da Assembleia da República n.º 169/2017
+Recomenda ao Governo a uniformização da aplicação do regime especial de aposentação para educadores de infância e professores do 1.º ciclo do ensino básico do ensino público em regime de monodocência que concluíram o magistério primário e de educação de infância em 1975 e 1976.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que clarifique, através de uma diretiva de orientação à Caixa Geral de Aposentações, as regras a aplicar aos docentes que se encontrem na situação prevista pelo regime instituído pela Lei n.º 77/2009, de 13 de agosto, que «Institui um regime especial de aposentação para educadores de infância e professores do 1.º ciclo do ensino básico do ensino público em regime de monodocência que concluíram o curso de Magistério Primário e de Educação de Infância em 1975 e 1976».
+Aprovada em 1 de junho de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
