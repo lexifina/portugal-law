@@ -2,4 +2,4 @@
 
 ### (Encargos)
 
-As despesas de deslocação do convocado serão pagas por conta do orçamento da Assembleia Regional.
+As despesas de deslocação, que forem solicitadas pelo convocado, são pagas por conta do orçamento da Assembleia, devidamente comprovadas e fixadas pelo presidente da comissão.

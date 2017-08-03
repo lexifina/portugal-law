@@ -4,14 +4,10 @@
 
 1 - As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito.
 
-2 - As convocações serão assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia Regional e deverão conter as indicações seguintes:
+2 - Gozam da prerrogativa de depor por escrito, se o preferirem, o Presidente do Governo Regional, os ex-Presidentes do Governo Regional, o Presidente da Assembleia Legislativa, os ex-Presidentes da Assembleia Legislativa, que remetem à comissão no prazo de 15 dias, a contar da data da notificação dos factos sobre os quais deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.
 
-a) O objecto do inquérito;
+3 - Os depoimentos requeridos nos números anteriores, que sejam consideradas indispensáveis à boa realização do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão, até ao limite máximo de um depoimento por cada deputado que integre a comissão, aplicando-se o disposto no n.º 5 do artigo 5.º
 
-b) O local, dia e hora do depoimento;
+4 - As convocatórias serão assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia e deverão conter a indicação do objeto do inquérito, o local, o dia e a hora do depoimento.
 
-c) As sanções aplicáveis aos faltosos pelo artigo 91.º do Código de Processo Penal.
-
-3 - A convocação será pessoal ou feita sob forma de aviso para qualquer ponto do território, nos termos do artigo 83.º do Código de Processo Penal, devendo, no caso de funcionários, agentes do Estado ou de outras entidades públicas, ser efectuada através do respectivo superior hierárquico.
-
-4 - A convocação de pessoas residentes fora da Região poderá ser solicitada ao agente do Ministério Público competente.
+5 - As comissões podem solicitar, requisitar apoio técnico ou contratar especialistas para coadjuvar nos seus trabalhos mediante autorização do Presidente da Assembleia.

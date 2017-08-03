@@ -2,18 +2,20 @@
 
 ### (Iniciativa)
 
-1 - Os inquéritos parlamentares só podem ser efectuados mediante deliberação expressa da Assembleia Regional.
-
-2 - A iniciativa do inquérito compete:
+1 - A iniciativa dos inquéritos parlamentares compete:
 
 a) Aos grupos parlamentares;
 
-b) Às comissões especializadas da Assembleia;
+b) Aos deputados;
 
-c) A dez Deputados, pelo menos;
+c) Às comissões especializadas.
 
-d) Ao Governo Regional, através do seu Presidente.
+2 - Os inquéritos parlamentares são efetuados:
 
-3 - Qualquer requerimento ou proposta de resolução tendente à realização de um inquérito deve indicar o seu objecto e os seus fundamentos, sob pena de rejeição liminar pelo Presidente da Assembleia, sem prejuízo de recurso, nos termos do Regimento.
+a) Mediante deliberação expressa do Plenário da Assembleia Legislativa, até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição;
 
-4 - A resolução que determinar a realização de um inquérito será publicada no Jornal Oficial da Região.
+b) A requerimento de, pelo menos um quinto dos deputados em efetividade de funções, até ao limite de um por deputado e por sessão legislativa.
+
+3 - A resolução e o requerimento da realização de um inquérito são publicados no Jornal Oficial da Região Autónoma da Madeira.
+
+4 - (Revogado.)
