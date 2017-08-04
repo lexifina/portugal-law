@@ -32,4 +32,4 @@ j) Quando o adquirente seja fundo de investimento imobiliário cujas unidades de
 
 k) Por razões de excecional interesse público, devidamente fundamentado.
 
-5 - À venda por ajuste direto referida nas alíneas a) a g) é imposto um ónus de inalienabilidade pelo período de cinco anos a contar da data da celebração do contrato.
+5 - (Revogado).
