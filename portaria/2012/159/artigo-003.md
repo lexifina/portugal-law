@@ -16,7 +16,7 @@ e) Divulgar boas práticas em matéria de procriação medicamente assistida e c
 
 f) Promover o acesso à informação em matéria de saúde sexual e reprodutiva;
 
-g) No âmbito da proteção da saúde face a riscos ambientais, coordenar ações nos domínios dos riscos físicos, nomeadamente das radiações ionizantes e não ionizantes, das substâncias químicas e agentes biológicos;
+g) No âmbito da proteção da saúde face a riscos ambientais, coordenar ações nos domínios dos riscos físicos, das substâncias químicas e dos agentes biológicos, com exceção da avaliação e gestão de riscos associados a radiações;
 
 h) Assegurar a colaboração no domínio da promoção e proteção da saúde com entidades governamentais e não-governamentais pertinentes e facilitar o estabelecimento de parcerias;
 
