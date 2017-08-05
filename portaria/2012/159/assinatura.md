@@ -1,0 +1,1 @@
+Pelo Ministro de Estado e das Finanças, Luís Filipe Bruno da Costa de Morais Sarmento, Secretário de Estado do Orçamento, em substituição, em 2 de maio de 2012. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 20 de abril de 2012.
