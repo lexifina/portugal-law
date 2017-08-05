@@ -14,6 +14,6 @@ d) Estejam inscritos na segurança social;
 
 e) Quando exigível, apresentem declaração da ordem profissional respectiva de que preenchem os respectivos requisitos de inscrição.
 
-2 - Excepcionalmente, mediante proposta do director-geral do SEF ou por iniciativa do Ministro da Administração Interna, pode ser dispensado o requisito previsto na alínea a) do n.º 1 do artigo 77.º, desde que se verifique a entrada e a permanência legais em território nacional.
+2 - Mediante manifestação de interesse apresentada através do sítio do SEF na Internet ou diretamente numa das suas delegações regionais, é dispensado o requisito previsto na alínea a) do n.º 1 do artigo 77.º, desde que o cidadão estrangeiro tenha entrado legalmente em território nacional.
 
 3 - O titular de uma autorização de residência para exercício de uma actividade profissional independente pode exercer uma actividade profissional subordinada, sendo aplicável, com as necessárias adaptações, o disposto no artigo anterior, mediante substituição do título de residência.

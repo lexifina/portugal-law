@@ -1,11 +1,15 @@
 # Artigo 135.º
 
-### Limites à decisão de afastamento coercivo ou de expulsão
+### Limites à expulsão
 
-Com exceção dos casos de atentado à segurança nacional ou à ordem pública e das situações previstas nas alíneas c) e f) do n.º 1 do artigo 134.º, não podem ser afastados ou expulsos do território nacional os cidadãos estrangeiros que:
+1 - Não podem ser afastados coercivamente ou expulsos do País os cidadãos estrangeiros que:
 
-a) Tenham nascido em território português e aqui residam habitualmente;
+a) Tenham nascido em território português e aqui residam;
 
-b) Tenham a seu cargo filhos menores de nacionalidade portuguesa ou estrangeira, a residir em Portugal, sobre os quais exerçam efetivamente as responsabilidades parentais e a quem assegurem o sustento e a educação;
+b) Tenham efetivamente a seu cargo filhos menores de nacionalidade portuguesa a residir em Portugal;
 
-c) Se encontrem em Portugal desde idade inferior a 10 anos e aqui residam habitualmente.
+c) Tenham filhos menores, nacionais de Estado terceiro, residentes em território português, relativamente aos quais assumam efetivamente responsabilidades parentais e a quem assegurem o sustento e a educação;
+
+d) Se encontrem em Portugal desde idade inferior a 10 anos e aqui residam.
+
+2 - O disposto no número anterior não é aplicável em caso de suspeita fundada da prática de crimes de terrorismo, sabotagem ou atentado à segurança nacional ou de condenação pela prática de tais crimes.
