@@ -1,0 +1,13 @@
+Aviso n.º 8960/2017
+Rui Lince Medinas, Eng.º, Presidente da Câmara Municipal da Golegã, torna público que, nos termos e para os efeitos do disposto no artigo 56.º
+da Lei n.º 75/2013, de 12 de setembro e do n.º 6 do artigo 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro e no uso das competências que lhe são conferidas nos termos da alínea t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, por deliberação da Assembleia Municipal, tomada na sua sessão ordinária de 30/06/2017, sob proposta da Câmara Municipal, tomada na sua reunião ordinária de 29/05/2017, foi aprovada a alteração ao n.º 5 do artigo 10.º do Regulamento de Organização dos Serviços do Município da Golegã, passando o mesmo a ter a seguinte redação:
+«Artigo 10.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - As unidades orgânicas flexíveis Divisão Municipal de Administração e Finanças (DAF), Divisão Municipal de Obras, Urbanismo e Ambiente (DOUA) e Divisão Municipal de Intervenção Social (DIS) são dirigidas por um chefe de divisão.
+6 - ...»
+20 de julho de 2017. - O Presidente da Câmara, Rui Lince Medinas, Eng.º
+310679562
