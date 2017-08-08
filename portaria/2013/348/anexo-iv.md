@@ -12,9 +12,11 @@ Captações AC1, AC2, AC3, AC4 e FR1
 
 Polo de captação de Olival
 
-Captações AC5 e AC6
+AC6 e SL2
 
 (ver documento original)
+
+Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
 Polo de captação de Caxarias
 

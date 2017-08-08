@@ -6,7 +6,7 @@
 
 a) AC1, AC2, AC3, AC4 e FR1 do polo de captação de Caridade;
 
-b) AC5 e AC6 do polo de captação de Olival;
+b) AC6 e SL2 do polo de captação de Olival;
 
 c) AC7 e AC8 do polo de captação de Caxarias;
 

@@ -24,11 +24,11 @@ Captação FR1
 
 Polo de captação de Olival
 
-Captação AC5
+AC6
 
 (ver documento original)
 
-Captação AC6
+SL2
 
 (ver documento original)
 
