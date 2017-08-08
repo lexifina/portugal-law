@@ -40,9 +40,11 @@ Mina de Terreiro da Serra
 
 (ver documento original)
 
+Polo de captação 2
+
 Furo de São João da Mata
 
-(ver documento original)
+[Revogado.]
 
 Mina do Carriçal
 

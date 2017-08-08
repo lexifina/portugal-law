@@ -6,7 +6,7 @@
 
 a) Mina de Selada das Casas (Quelhas), Poço de Fonte das Bicas, Mina de Coentral das Barreiras e Mina de Sarnadas do polo de captação 1;
 
-b) Mina da Carvalheira (Carvalhinha - Camelo), Mina de Pardieiros, Furo de Botelhas, Mina de Terreiro da Serra, Furo de São João da Mata, Mina do Carriçal, Mina de Porto Videira, Mina da Sapateira, Furo da Sapateira e Mina do Torgal do polo de captação 2;
+b) Mina da Carvalheira (Carvalhinha - Camelo), Mina de Pardieiros, Furo de Botelhas, Mina de Terreiro da Serra, Mina do Carriçal, Mina de Porto Videira, Mina da Sapateira, Furo da Sapateira e Mina do Torgal do polo de captação 2;
 
 c) Mina do Fontão, Mina de Fontão/Várzea II, Mina de Souto Escuro e Mina da Ortiga do polo de captação 3.
 
