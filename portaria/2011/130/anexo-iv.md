@@ -86,9 +86,9 @@ Captações PS26, AC1 e AC2
 
 (ver documento original)
 
-Pólo de captação de Pernes
+Polo de captação de Pernes
 
-Captações PS16, PS4 e AC2
+PS16, PS4 e RA6
 
 (ver documento original)
 
@@ -102,15 +102,13 @@ Captação PS8
 
 (ver documento original)
 
-Pólo de captação de Casével
+Polo de captação de Casével
 
-Captação RA2
-
-(ver documento original)
-
-Captação JK7
+JK7 e RA7
 
 (ver documento original)
+
+Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
 
 Pólo de captação de Pombalinho
 

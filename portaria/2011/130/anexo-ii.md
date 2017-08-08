@@ -120,9 +120,9 @@ Captação AC2
 
 (ver documento original)
 
-Pólo de captação de Pernes
+Polo de captação de Pernes
 
-Captações PS16, PS4 e AC2
+PS16, PS4 e RA6
 
 (ver documento original)
 
@@ -136,13 +136,13 @@ Captação PS8
 
 (ver documento original)
 
-Pólo de captação de Casével
+Polo de captação de Casével
 
-Captação RA2
+JK7
 
 (ver documento original)
 
-Captação JK7
+RA7
 
 (ver documento original)
 

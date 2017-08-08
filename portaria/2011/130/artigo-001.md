@@ -26,11 +26,11 @@ j) AC1 e RA4 do polo de captação de Amiais de Baixo;
 
 l) PS26, AC1 e AC2 do pólo de captação de Arneiro das Milhariças;
 
-m) PS16, PS4 e AC2 do pólo de captação de Pernes;
+m) PS16, PS4 e RA6 do polo de captação de Pernes;
 
 n) PS14 e PS8 do pólo de captação de Vaqueiros;
 
-o) RA2 e JK7 do pólo de captação de Casével;
+o) RA2, JK7 e RA7 do polo de captação de Casével;
 
 p) RA1 do pólo de captação de Pombalinho;
 
@@ -38,4 +38,4 @@ q) PS22 e RA3 do pólo de captação de Alcanhões;
 
 localizadas no concelho de Santarém, nos termos dos artigos seguintes.
 
-2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
+2 - As coordenadas das captações referidas no número anterior constam do anexo I à presente portaria, da qual faz parte integrante.

@@ -90,9 +90,9 @@ Captação AC2
 
 (ver documento original)
 
-Pólo de captação de Pernes
+Polo de captação de Pernes
 
-Captações PS16, PS4 e AC2
+PS16, PS4 e RA6
 
 (ver documento original)
 
@@ -104,9 +104,9 @@ Captação PS8
 
 As zonas de protecção imediata e intermédia da captação PS14 são coincidentes. Como tal, as coordenadas dos vértices de referência do polígono são as indicadas no anexo ii da presente portaria.
 
-Pólo de captação de Casével
+Polo de captação de Casével
 
-Captação RA2
+JK7 e RA7
 
 (ver documento original)
 

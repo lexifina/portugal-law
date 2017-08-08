@@ -50,7 +50,9 @@ Pólo de captação de Arneiro das Milhariças
 
 (ver documento original)
 
-Pólo de captação de Pernes
+Polo de captação de Pernes
+
+PS16, PS4 e RA6
 
 (ver documento original)
 
@@ -58,7 +60,9 @@ Pólo de captação de Vaqueiros
 
 (ver documento original)
 
-Pólo de captação de Casével
+Polo de captação de Casével
+
+JK7 e RA7
 
 (ver documento original)
 
