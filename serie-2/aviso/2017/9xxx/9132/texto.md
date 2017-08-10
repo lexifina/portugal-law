@@ -1,0 +1,8 @@
+Aviso n.º 9132/2017
+Discussão Pública
+Relatório do Estado do Ordenamento do Território do Plano Diretor Municipal da Trofa
+Sérgio Humberto Pereira da Silva, Presidente da Câmara Municipal da Trofa, torna público que, nos termos do disposto no n.º 5 do artigo 189.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal deliberou, em reunião ordinária realizada no dia 6 de julho de 2017, aprovar o Relatório do Estado do Ordenamento do Território (REOT) do Plano Diretor Municipal da Trofa e a sua submissão a um período de discussão pública de 30 dias úteis.
+Após 5 dias da data da publicação do presente Aviso no Diário da República, os interessados poderão consultar o REOT, bem como a referida deliberação, na página oficial da Câmara Municipal da Trofa em www.mun-trofa.pt e nas instalações do Departamento de Administração do Território, Divisão de Planeamento Urbanismo e Obras Particulares, desta Câmara Municipal, sitas na Rua Imaculada Conceição, 4785-684 Trofa.
+Assim, convidam-se todos os interessados a apresentar eventuais sugestões que possam ser consideradas no âmbito do procedimento, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal da Trofa e realizadas por uma das seguintes formas: apresentadas presencialmente nas instalações do Polo I desta Câmara Municipal; enviadas por via postal para a Rua das Indústrias, 393 AP.65 - 4786-909 Trofa; ou por via eletrónica para geral@mun-trofa.pt.
+10 de julho de 2017. - O Presidente da Câmara Municipal da Trofa, Sérgio Humberto Pereira da Silva.
+310674037
