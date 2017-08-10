@@ -8,4 +8,4 @@
 
 3 - Os estatutos podem prever que, quando num exercício económico o montante dos títulos de capital a reembolsar supere uma determinada percentagem do montante do capital social que neles se estabeleça, o reembolso fique dependente de uma decisão do órgão de administração.
 
-4 - A suspensão do reembolso deve ser fundamentada e sujeita a ratificação da assembleia geral.
+4 - (Revogado.)

@@ -4,7 +4,7 @@
 
 1 - A assembleia geral que decidir a emissão de títulos de investimento fixa a taxa de juro e demais condições de emissão.
 
-2 - Os títulos de investimento são nominativos e transmissíveis, nos termos da lei, e obedecem aos requisitos previstos no n.º 2 do artigo 91.º
+2 - Os títulos de investimento são nominativos e transmissíveis, nos termos da lei, e obedecem aos requisitos do n.º 2 do artigo 82.º
 
 3 - Cabe à assembleia geral decidir se nela podem participar, embora sem direito a voto, os subscritores de títulos de investimento que não sejam membros da cooperativa.
 

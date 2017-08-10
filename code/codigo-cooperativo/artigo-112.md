@@ -1,6 +1,6 @@
 ## Secção II
 
-## Dissolução e liquidação
+## Dissolução, liquidação e partilha
 
 # Artigo 112.º
 
@@ -16,7 +16,7 @@ c) Verificação de qualquer outra causa extintiva prevista nos estatutos;
 
 d) Diminuição do número de membros abaixo do mínimo legalmente previsto, por um período de tempo superior a doze meses e desde que tal redução não seja temporária ou ocasional;
 
-e) Fusão por integração, por incorporação ou cisão integral;
+e) Fusão ou cisão integral;
 
 f) Decisão da assembleia geral;
 
@@ -32,6 +32,6 @@ k) Comunicação da declaração oficiosa de cessação de atividade nos termos 
 
 2 - Nos casos de esgotamento do objeto e nos que se encontram previstos nas alíneas b), c), e) e f) do número anterior, a dissolução é imediata.
 
-3 - Nos casos de impossibilidade insuperável da prossecução do objeto ou de falta de coincidência entre o objeto efetivamente prosseguido e o objeto expresso nos estatutos, bem como nos casos a que se refere a alínea d) do n.º 1, a dissolução é declarada em procedimento administrativo de dissolução, instaurado a requerimento da cooperativa, de qualquer cooperador ou seu sucessor, sem prejuízo do disposto no n.º 2 do artigo 114.º
+3 - Nos casos de impossibilidade insuperável da prossecução do objeto ou de falta de coincidência entre o objeto efetivamente prosseguido e o objeto expresso nos estatutos, bem como nos casos a que se refere a alínea d) do n.º 1, a dissolução é declarada em procedimento administrativo, instaurado a requerimento da cooperativa ou de qualquer cooperador ou seu sucessor, sem prejuízo do disposto no n.º 2 do artigo 118.º
 
 4 - Nos casos a que se referem as alíneas i), j) e k) do n.º 1, a dissolução é declarada em procedimento administrativo de dissolução, instaurado oficiosamente pelo serviço de registo competente.

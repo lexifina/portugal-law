@@ -2,4 +2,4 @@
 
 ### Norma de remissão
 
-Aplicam-se ao conselho geral e de supervisão as normas do artigo 46.º
+Aplicam-se ao conselho geral e de supervisão as normas dos artigos 46.º e 52.º

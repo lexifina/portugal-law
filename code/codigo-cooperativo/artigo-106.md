@@ -16,4 +16,4 @@ b) Pode aderir a uma federação, desde que esta a aceite, uma cooperativa do pr
 
 c) Pode aderir a uma federação, desde que esta a aceite, uma união que abranja cooperativas pertencentes a um ramo diferente.
 
-5 - É aplicável às federações de cooperativas, com as devidas adaptações, o disposto nos artigos 99.º a 101.º deste Código.
+5 - É aplicável às federações de cooperativas, com as devidas adaptações, o disposto nos artigos 102.º, 104.º e 105.º

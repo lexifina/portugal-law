@@ -18,7 +18,7 @@ e) Exclusão.
 
 3 - Devem constar do processo escrito a indicação das infrações, a sua qualificação, a prova produzida, a defesa do arguido e a proposta de aplicação da sanção.
 
-4 - Não pode ser suprimida a nulidade resultante de:
+4 - Não pode ser suprida a nulidade resultante de:
 
 a) Falta de audiência do arguido;
 

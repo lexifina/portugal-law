@@ -6,7 +6,7 @@
 
 a) Possua pelo menos 20 cooperadores;
 
-b) Não seja uma cooperativa de produção operária, de artesanato, de pescas, de consumo ou de solidariedade social.
+b) Não seja uma cooperativa de produção operária, de artesanato, de pescas, de consumidores ou de solidariedade social.
 
 2 - Os estatutos só podem estabelecer que o voto plural seja atribuído em função da atividade do cooperador na cooperativa.
 
