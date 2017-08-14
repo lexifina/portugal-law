@@ -1,0 +1,9 @@
+Aviso n.º 9321/2017
+Prorrogação do Prazo de elaboração da alteração ao Plano de Urbanização de Fontão e Arcos
+Victor Manuel Alves Mendes, Presidente da Câmara Municipal de Ponte de Lima:
+Torna público, nos termos do n.º 6 do artigo 76.º, do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Ponte de Lima, em Reunião Pública de 3 de julho, deliberou, por maioria, autorizar a prorrogação do prazo fixado para elaboração da alteração, decorrente da avaliação das formas de execução do Plano de Urbanização de Fontão e Arcos, por igual período de 90 dias úteis, com início no dia seguinte ao da publicação no Diário da República.
+21 de julho de 2017. - O Presidente da Câmara Municipal, Victor Manuel Alves Mendes.
+Deliberação
+5.3 - Proposta do Sr. Presidente da Câmara - Avaliação da adequação e concretização da disciplina consagrada no Plano de Urbanização de Fontão/S. Pedro d'Arcos, promovida nos termos do artigo 187.º, n.º 1, do Decreto-Lei n.º 80/2015, de 14 de maio - RJIGT. - Prorrogação do prazo fixado para elaboração da respetiva alteração, decorrente da avaliação das formas de execução do plano de urbanização de Fontão/S. Pedro d'Arcos - Aprovação. A Câmara Municipal deliberou por maioria com quatro votos a favor, um voto contra do Sr. Vereador Dr. Filipe Viana e uma abstenção do Sr. Vereador Eng. Manuel Barros aprovar a prorrogação do prazo fixado para elaboração da respetiva alteração, decorrente da avaliação das formas de execução do plano de urbanização de Fontão/S. Pedro D'Arcos, por igual período de 90 dias úteis, com início no dia seguinte ao da publicação no Diário da República. O Sr. Vereador Dr. Filipe Viana apresentou declaração de voto, que se anexa à presente ata, como documento número três, e se considera como fazendo parte integrante da mesma.
+Reunião de Câmara Municipal de 03 de julho de 2017. - A Chefe de Divisão/DAF, Dr.ª Filomena Mimoso da Silva.
+610664122
