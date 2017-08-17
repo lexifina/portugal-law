@@ -1,0 +1,4 @@
+Deliberação (extrato) n.º 767/2017
+Por deliberação do Conselho Técnico-Científico da Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Viseu (ESTGV), em reunião do dia 5 de julho de 2017, e considerando que no próximo ano letivo 2017/2018 entrarão em vigor um conjunto de novos Regulamentos (Regulamento dos Cursos Técnicos Superiores Profissionais da ESTGV; Regulamento dos Cursos de Mestrado da ESTGV; Regulamento dos Cursos de Licenciatura da ESTGV; Regulamento das Provas Especialmente Adequadas Destinadas a Avaliar a Capacidade para a Frequência do Ensino Superior dos Maiores de 23 anos da ESTGV e Regulamento dos Regimes Especiais de Estudo da ESTGV), é revogado o Regulamento Pedagógico da ESTGV publicado no Diário da República, 2.ª série, n.º 122, de 26 de junho de 2009, com efeitos a partir da entrada em vigor dos regulamentos acima referidos.
+25 de julho de 2017. - A Vice-Presidente do IPV, Prof.ª Doutora Maria Paula Carvalho.
+310668773
