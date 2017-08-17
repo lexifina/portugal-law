@@ -1,0 +1,13 @@
+Aviso n.º 9443/2017
+Alteração simplificada do Plano de Urbanização da Avenida da Liberdade e Zona Envolvente (PUALZE)
+Nos termos da subdelegação de competências conferida através do Despacho n.º 3/DMU/2016, publicado no Boletim Municipal n.º 1169 de 14 de julho de 2016, torna-se público que, ao abrigo do n.º 7 do artigo 123.º e da alínea f) do n.º 4 do artigo 191.º Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, a Assembleia Municipal de Lisboa, em reunião pública de 27 de julho de 2017, de acordo com a Deliberação n.º 296./AML/2017, deliberou aprovar a Alteração Simplificada do Plano de Urbanização da Avenida da Liberdade e Zona Envolvente (PUALZE), incluindo a respetiva Planta de Zonamento II-Morfologia Urbana e Uso de Solo, que se publica em anexo, para o seguinte imóvel, na sequência da sua desafetação dos fins de utilidade pública:
+Travessa do Forno, n.º 1-5, que torneja com o Largo do Regedor, n.º 1-4, em Lisboa (de área de equipamento para área histórica habitacional).
+Torna-se ainda público que, nos termos do artigo 94.º e do n.º 2 do artigo 193.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, a referida Alteração Simplificada do PUALZE poderá ser consultada no sítio eletrónico da Câmara Municipal de Lisboa, no endereço http://www.cm-lisboa.pt/viver/urbanismo/planeamento-urbano/planos-eficazes/plano-de-urbanizacao-da-avenida-da-liberdade-e-zona-envolvente, no Centro de Informação Urbana de Lisboa (CIUL), sito no Picoas Plaza, na Rua do Viriato n.º 13 a n.º 17 ou no Centro de Documentação, sito no Edifício Central da Câmara Municipal de Lisboa, no Campo Grande, n.º 25, 1.º F.
+3 de agosto de 2017. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+Deliberação
+Através da Deliberação da Assembleia Municipal de Lisboa n.º 296/AML/2017, de 27 de julho de 2017, foi aprovada, por maioria, a Proposta n.º 437/CM/2017, relativa à Alteração Simplificada do Plano de Urbanização da Avenida da Liberdade e Zona Envolvente (PUALZE), ao abrigo do disposto no n.º 7 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de fevereiro, que aprovou a revisão do Regime Jurídico dos Instrumentos de Gestão Territorial, com 9 votos a favor (6 PS e 3 Independentes.), com 1 voto contra (CDS/PP) e 2 abstenções (PCP).
+Lisboa, 27 de julho de 2017. - O Diretor do Departamento de Planeamento, Paulo Prazeres Pais.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+40427 - http://ssaigt.dgterritorio.pt/i/Planta_de_zonamento_40427_1.jpg
+40428 - http://ssaigt.dgterritorio.pt/i/Planta_de_zonamento_40428_2.jpg
+610707393
