@@ -1,0 +1,11 @@
+Aviso n.º 9430/2017
+Abertura do período de discussão pública do Plano de Pormenor Cais do Ginjal
+Maria Amélia de Jesus Pardal, Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea, no uso das competências delegadas por despacho do Sr. Presidente da Câmara Municipal de Almada, n.º 121/2013-2017, de 18 de junho de 2015, torna público que:
+Para os efeitos previstos dos números 1 e 2, do artigo 89.º, do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), a Câmara Municipal de Almada, na sua reunião ordinária pública, de 19 de julho de 2017, deliberou, proceder à abertura de um período de discussão pública da proposta de Plano de Pormenor Cais do Ginjal.
+O período de discussão pública decorrerá durante 120 dias, com início cinco dias após a publicação do aviso no Diário da República, 2.ª série, encontrando-se disponíveis para consulta pública, a proposta do Plano e demais documentações, na página eletrónica da Câmara Municipal de Almada, www.m-almada.pt, ou nos seguintes locais:
+Instalações da Direção Municipal de Obras, Planeamento, Administração do Território e Desenvolvimento Económico (DMOPATDE) - Avenida D. Nuno Álvares Pereira 67 - 2800-181 Almada, no horário de expediente (entre as 08h30 e as 15h00);
+União das Freguesias de Almada, Cova da Piedade, Pragal e Cacilhas - Junta de Freguesia da Cacilhas - Rua Liberato Teles n.º 6-A - 2800-291 Almada, no horário das 9h00 às 12h30 e das 13h30 às 17h00.
+A formulação de reclamações, observações ou sugestões deverão ser feitas mediante requerimento dirigido ao Sr. Presidente da Câmara Municipal de Almada, onde deverá constar a identificação do assunto, do subscritor, a identificação do local acompanhada de planta de localização e o objeto da exposição, até ao termo do referido período.
+Em substituição de competências da Vereadora das Obras, Planeamento, Administração do Território, Desenvolvimento Económico e Arte Contemporânea, Maria Amélia de Jesus Pardal, pelo Despacho n.º 268/2017, de 12/07/2017, o Vereador dos Recursos Humanos e Intervenção Social, José Manuel Gonçalves.
+24 de julho de 2017. - O Vereador dos Recursos Humanos e Intervenção Social, José Manuel Gonçalves.
+610671242
