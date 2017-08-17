@@ -8,7 +8,7 @@
 
 a) Utilizar, conservar e reabilitar imóveis, designadamente, o edificado existente;
 
-b) Ceder áreas legalmente exigíveis para infraestruturas, equipamentos, habitação pública, a custos controlados ou para arrendamento acessível, espaços verdes e outros espaços de utilização coletiva, ou, na ausência ou insuficiência da cedência destas áreas, compensar o município;
+b) Ceder áreas legalmente exigíveis para infraestruturas, equipamentos, espaços verdes e outros espaços de utilização coletiva, ou, na ausência ou insuficiência da cedência destas áreas, compensar o município;
 
 c) Realizar infraestruturas, espaços verdes e outros espaços de utilização coletiva;
 

@@ -13,5 +13,3 @@ c) Reestruturação de prédios rústicos e urbanos;
 d) Preservação e valorização do património natural, cultural e paisagístico.
 
 e) Prevenção e redução de riscos coletivos.
-
-f) Promoção de habitação pública ou a custos controlados.

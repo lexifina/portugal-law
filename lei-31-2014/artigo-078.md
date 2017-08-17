@@ -2,7 +2,7 @@
 
 ### Planos especiais
 
-1 - O conteúdo dos planos especiais de ordenamento do território em vigor deve ser transposto, nos termos da lei, para o plano diretor intermunicipal ou municipal e outros planos intermunicipais ou municipais aplicáveis à área abrangida pelos planos especiais, até 13 de julho de 2021.
+1 - O conteúdo dos planos especiais de ordenamento do território em vigor deve ser transposto, nos termos da lei, para o plano diretor intermunicipal ou municipal e outros planos intermunicipais ou municipais aplicáveis à área abrangida pelos planos especiais, até 13 de julho de 2020.
 
 2 - Compete às comissões de coordenação e desenvolvimento regional, com o apoio das entidades responsáveis pela elaboração dos planos especiais de ordenamento do território em vigor e das associações de municípios e municípios abrangidos por aqueles, a identificação, no prazo de um ano a contar da data da entrada em vigor da presente lei, das normas relativas aos regimes de salvaguarda de recursos territoriais e valores naturais diretamente vinculativas dos particulares que devam ser integradas em plano intermunicipal ou municipal.
 

@@ -24,7 +24,7 @@ e) Ajustar a dimensão e a configuração dos prédios à estrutura fundiária d
 
 f) Distribuir equitativamente, entre os proprietários, os benefícios e encargos resultantes da entrada em vigor do plano territorial;
 
-g) Localizar adequadamente as áreas necessárias à implantação de infraestruturas, equipamentos, habitação pública, a custos controlados ou para arrendamento acessível, espaços verdes ou outros espaços de utilização coletiva, designadamente as áreas de cedência obrigatória.
+g) Localizar adequadamente as áreas necessárias à implantação de infraestruturas, equipamentos, espaços verdes ou outros espaços de utilização coletiva, designadamente as áreas de cedência obrigatória.
 
 4 - Os proprietários do solo rústico podem, individualmente ou em associação, promover a reestruturação da propriedade, nomeadamente para reduzir ou eliminar os inconvenientes socioeconómicos da fragmentação e da dispersão da propriedade.
 
