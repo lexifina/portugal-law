@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=KN8asRY3F%2boLwzlW%2bWxN0cdlpy6IvLCOFPR5X84uKPHMAY3P2RQEfr1P5sqbl%2brhRP2KxbI7X5ozrkHdifucwVJhHVVkEAo%2f2CdtgMVDfGQwaQLkn9%2fJ8TY7ADGKoCdFZiBnJaOAKqAJlstTjUigXy4nWnmuR2jbJcjcXtAMgXWuR6pxNa3eJ2kUfPaUcVpHGETkA2yoS0k%2b4jTliOkBpJdEpOyflajEM4QzO%2biQWFciqqvZjeA1%2buytfKyhCkdjtaPiV9B6tcNyXa8n6lGo3PDFkOgWevu5Qyn3ww7Kytpek4Hq1uBE%2bNFIOYb15GX7oW96d%2ffBTLDONnA2gh9JNqhLzrYJ9KllVK8ZN43bEBcuRRr5YfaHysppv%2flq1wawjUw2Sfn0Lo2BlYxNXoigDA%3d%3d&fich=DiplomasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6ca685f682ed6e372d8e4c9a26faabbdb3cbba2a01111d82ab17c788115cc3bb",
+  "legislatura": "XIII",
+  "id": "20326",
+  "tipo": "Lei",
+  "numero": "86",
+  "data_registo": "2017-08-18",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2017",
+    "Id": "20326",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "40973",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a526a5a5459325a5455794c544e68596a49744e474a684d7931694e4451344c5749345a44646b4e3255774d3259315a69356b62324d3d&fich=4ce66e52-3ab2-4ba3-b448-b8d7d7e03f5f.doc&Inline=true",
+        "IniNr": "60",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849765a6a63344f4749775a5759745a47566c4d793030596d51344c5745315a6d49745a4467794d7a466d4e6a45784f44646b4c6e426b5a673d3d&fich=f788b0ef-dee3-4bd8-a5fb-d8231f61187d.pdf&Inline=true",
+    "Numero": "86",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "797817",
+        "obs": null,
+        "pag": [
+          "4851-4851"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-08-18",
+        "pubLeg": "XIII",
+        "pubNr": "159",
+        "pubSL": "2",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/159/2017/0/pt/html"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Lei",
+    "Titulo": "Apoio extraordinário à habitação a todas as famílias afetadas pelos incêndios de agosto de 2016 na Região Autónoma da Madeira",
+    "Tp": "L",
+    "Versao": null
+  }
+}
