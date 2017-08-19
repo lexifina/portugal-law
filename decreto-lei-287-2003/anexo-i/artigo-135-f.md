@@ -13,3 +13,5 @@
 3 - O valor dos prédios detidos por pessoas coletivas afetos a uso pessoal dos titulares do respetivo capital, dos membros dos órgãos sociais ou de quaisquer órgãos de administração, direção, gerência ou fiscalização ou dos respetivos cônjuges, ascendentes e descendentes, fica sujeito à taxa de 0,7 %, sendo sujeito à taxa marginal de 1 % para a parcela do valor que exceda um milhão de euros.
 
 4 - Para os prédios que sejam propriedade de entidades sujeitas a um regime fiscal mais favorável, a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, a taxa é de 7,5 %.
+
+5 - O disposto no número anterior não se aplica aos prédios que sejam propriedade de pessoas singulares.
