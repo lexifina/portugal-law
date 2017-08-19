@@ -1,0 +1,316 @@
+Despacho n.º 7313-C/2017
+Ao abrigo do disposto no Despacho n.º 7191/2016, publicado na 2.ª série do Diário da República, n.º 105, de 1 de junho, e nos termos do artigo 101.º Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, determino:
+1 - A realização de consulta pública ao projeto de regulamento dos programas de apoio às artes, no âmbito do regime jurídico de atribuição de apoios financeiros do Estado às artes, através da Direção-Geral das Artes (DGARTES), procedendo, para o efeito, à sua publicação na 2.ª série do Diário da República, no Portal do Governo e no sítio da internet da DGARTES.
+2 - Os interessados, no prazo de 30 dias a contar da data de publicação do projeto de regulamento em anexo, devem dirigir as suas sugestões para o seguinte endereço de correio eletrónico: regulamento.artes@mc.gov.pt.
+17 de agosto de 2017. - O Secretário de Estado da Cultura, Miguel Honrado.
+ANEXO
+Projeto de Regulamento dos Programas de Apoio às Artes
+(Portaria)
+O Decreto-Lei n.º [...] aprovou o novo regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.
+Importa salientar que o novo regime de apoio às artes pretende ser flexível nas suas várias dimensões, nomeadamente, em termos territoriais, nos domínios de atividade artística e nas formas de concessão de financiamento. Tal propósito vai ao encontro da heterogeneidade do setor, sendo deste modo inclusivo porquanto promove e alarga a democratização do acesso à criação e à fruição artística por parte dos cidadãos, incentivando-se, assim, o serviço público na área das artes.
+Na prossecução do serviço público, os agentes do setor são parceiros privilegiados do Estado, cabendo a este criar mecanismos ou tipologias de apoio que viabilizem a prestação desse serviço.
+Para esse fim, são criadas três tipologias de apoio: o apoio sustentado - de cariz plurianual, no qual se propõe a estabilidade, a consolidação e o normal funcionamento das entidades elegíveis; o apoio a projetos - no qual se pretende um papel dinâmico na renovação do tecido artístico, através do apoio a projetos nucleares ou a atividades particulares, intermitentes ou finitas, bem como do apoio complementar de comparticipação de financiamento a projetos já aprovados em programas nacionais ou internacionais ou cuja viabilidade dependa de uma reduzida percentagem de apoio; e o apoio em parceria - no qual a DGARTES se associa a outras entidades financiadoras, públicas e privadas, para lançamento em conjunto de linhas de apoio para ações que se enquadrem nos objetivos e linhas estratégicas previstos no regime de apoio às artes, nomeadamente, em articulação ou interceção com outras áreas setoriais, ou no estabelecimento de parcerias com a administração local no desenvolvimento de sinergias para uma efetiva correção de assimetrias.
+Nos procedimentos destacam-se a simplificação administrativa e a redução do período temporal da fase de verificação das candidaturas, dando-se, assim, maior enfoque ao período de apreciação e à celeridade do processo decisório dos apoios. Ainda nesta fase, abre-se a possibilidade de um prazo suplementar, sem qualquer efeito suspensivo no procedimento, para as entidades apresentarem a documentação comprovativa em falta respeitante a acordos de coprodução, patrocínios, mecenato e outros apoios e financiamentos.
+Com a finalidade de tornar este modelo mais transparente e rigoroso na determinação do montante de apoio, é criada a possibilidade de serem previamente estabelecidos patamares de financiamento de montante fixo. Neste sentido, cria-se um maior rigor e previsibilidade na elaboração das candidaturas, tal como na sua apreciação, bem como no nível ou grau de execução dos projetos e das atividades artísticas. De salientar, que nas situações em que são estabelecidos em aviso de abertura patamares de financiamento nos quais o montante a atribuir não é fixo e é inferior ao solicitado em face da classificação das candidaturas, a entidade deve apresentar uma proposta de ajustamento ao plano de atividades ou projeto e previsão orçamental, cabendo à comissão de apreciação a validação do ajustamento. Pretende-se, assim, elevar o grau de certeza e de justiça no processo de apreciação final, bem ainda como garantir um equilíbrio correto e eficaz entre a implementação de atividades e as suas fontes de financiamento.
+Na senda da clarificação do modelo e da operacionalização do apoio às artes, designadamente no que refere à execução das obrigações dos contratos de apoio, por razões de segurança jurídica para todas as partes envolvidas, são fixadas no presente diploma as situações de incumprimento e as correspondentes consequências.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 24.º do Decreto-Lei n.º [...], manda o Governo, pelo Ministro da Cultura, o seguinte:
+Artigo 1.º
+Objeto
+É aprovado o Regulamento dos Programas de Apoio às Artes, em anexo à presente portaria, da qual faz parte integrante.
+Artigo 2.º
+Norma revogatória
+São revogadas:
+a) A Portaria n.º 1204-A/2008, de 17 de outubro, alterada pelas Portarias n.os 1189-A/2010, de 17 de novembro, 217/2012, de 19 de julho e 145/2015, de 25 de maio.
+b) A Portaria n.º 58/2012, de 13 de março.
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+ANEXO
+Regulamento dos Programas de Apoio às Artes
+CAPÍTULO I
+Disposições genéricas
+Artigo 1.º
+Objeto
+1 - O presente regulamento estabelece as normas aplicáveis à atribuição pelo Estado, através da Direção-Geral das Artes (DGARTES), dos apoios financeiros no âmbito dos programas de apoio às artes previstos no artigo 4.º do Decreto-Lei n.º [...], nas seguintes tipologias:
+a) Programa de apoio sustentado;
+b) Programa de apoio a projetos;
+c) Programa em parceria.
+2 - Os apoios a conceder nos termos do presente regulamento têm por objeto projetos ou atividades desenvolvidos em Portugal ou no estrangeiro pelas entidades elegíveis previstas no artigo 2.º do Decreto-Lei n.º [...], que exerçam, a título predominante, atividades profissionais nas seguintes áreas:
+a) Artes performativas: circo contemporâneo e artes de rua, dança, música e teatro;
+b) Artes visuais: arquitetura, artes plásticas, design, fotografia e novos media;
+c) Cruzamento disciplinar.
+3 - As entidades que apresentem candidatura ao abrigo dos apoios previstos no presente regulamento devem optar pela área preponderante na sua atividade, sem prejuízo da diversidade de projetos dela constantes.
+Artigo 2.º
+Interesse público cultural
+1 - No âmbito do disposto no artigo 3.º do Decreto-Lei n.º [...], constituem objetivos específicos de interesse público cultural dos programas de apoio:
+a) Assegurar a diversidade e a qualidade da oferta artística no território nacional;
+b) Promover o acesso público à cultura e a diversos domínios da atividade artística, concorrendo para o desenvolvimento social, a promoção da qualidade de vida, da cidadania e da qualificação das populações;
+c) Valorizar a dimensão educativa e de sensibilização para a cultura;
+d) Incentivar a participação e a qualificação das comunidades e dos públicos na cultura;
+e) Fomentar a coesão territorial e corrigir assimetrias territoriais, dinamizando a oferta cultural;
+f) Dinamizar a internacionalização das artes e da cultura portuguesa através da cooperação com outros países;
+g) Articular as artes com outras áreas sectoriais;
+h) Promover a partilha de responsabilidades do Estado, nas dimensões central, regional e local, com os agentes culturais e outras entidades, públicas e privadas, combatendo as assimetrias económicas e a precariedade no setor cultural;
+i) Incentivar o desenvolvimento de boas práticas de empregabilidade, diversidade, acessibilidade e sustentabilidade;
+j) Estimular a pesquisa, a experimentação, a criação e a inovação artísticas como práticas referenciais de excelência para o conhecimento e para o desenvolvimento económico e social;
+k) Valorizar a missão das entidades e atividades profissionais, através da consolidação da sua prática continuada;
+l) Promover a qualificação dos profissionais das artes;
+m) Dinamizar o setor profissional com o apoio a criadores e projetos emergentes.
+2 - Os objetivos específicos de interesse público cultural, a prosseguir em cada programa de apoio, são identificados no respetivo aviso de abertura.
+Artigo 3.º
+Objetivos artísticos
+São objetivos específicos para cada área artística:
+a) Nas artes performativas:
+i) Para o circo contemporâneo e artes de rua, fomentar, valorizar e promover a prática circense enquadrada na produção artística contemporânea, bem como a prática performativa de rua nas suas diversas manifestações;
+ii) Para a dança, a música e o teatro, fomentar, preservar, valorizar e promover as respetivas culturas nas suas diversas manifestações.
+b) Nas artes visuais:
+i) Para a arquitetura, o design e a fotografia, enquanto ato artístico, fomentar, preservar, valorizar e promover as respetivas culturas, nas suas diversas manifestações;
+ii) Para as artes plásticas, fomentar, preservar, valorizar e promover as suas diversas manifestações;
+iii) Para os novos media, fomentar, valorizar e promover projetos artísticos que tenham na sua génese o recurso a meios digitais e eletrónicos, nas suas diversas manifestações.
+c) Para o cruzamento disciplinar, fomentar, preservar, valorizar e promover as múltiplas práticas de reflexão e relação entre disciplinas artísticas, incluindo também interseções com outras áreas do conhecimento.
+Artigo 4.º
+Domínios artísticos de atividade
+Os domínios de atividade previstos no artigo 6.º do Decreto-Lei n.º [...], têm o seguinte alcance e subdomínios de atividade:
+a) Criação: o processo de elaboração criativa, em diferentes fases, que origina o objeto artístico (material ou imaterial) e que pode integrar:
+i) Conceção, execução e apresentação de obras;
+ii) Residências artísticas;
+iii) Interpretação de repertório, nomeadamente nas áreas das artes performativas;
+b) Programação: a gestão da oferta cultural em determinado espaço e tempo, de forma regular ou pontual (como ciclos, mostras, festivais), e que pode integrar:
+i) Acolhimento e coproduções;
+ii) Residências artísticas;
+c) Circulação nacional: a itinerância de obras ou projetos pelo território nacional, incluindo as ações que contribuem para esse fim.
+d) Internacionalização: a itinerância de obras ou projetos pelo espaço internacional, incluindo as ações que contribuem para esse fim, que podem integrar:
+i) Desenvolvimento e circulação internacional de obras e projetos;
+ii) Ações de intercâmbio e acolhimento de promotores em contexto específico;
+iii) Fomento da integração em redes internacionais;
+iv) Tradução e edição de obras nacionais para línguas estrangeiras.
+e) Desenvolvimento de públicos: a captação, a sensibilização e a qualificação de públicos diversificados, que pode integrar:
+i) Ações em articulação com o ensino formal;
+ii) Ações de educação não formal;
+iii) Ações de promoção, proximidade e acessibilidade.
+f) Edição: a publicação de uma obra em suporte físico ou digital com o objetivo da sua disseminação e que pode integrar:
+i) Apoio à edição nacional;
+ii) Apoio à tradução de obras estrangeiras.
+g) Investigação: o processo de construção do conhecimento humano capaz de gerar novas propostas, no campo das diversas disciplinas artísticas, nomeadamente o conjunto de atividades desenvolvidas com esse fim;
+h) Formação: as ações de valorização e qualificação dos profissionais das artes, no território nacional ou internacional.
+CAPÍTULO II
+Programas de apoio
+SECÇÃO I
+Programa de apoio sustentado
+Artigo 5.º
+Caraterização
+1 - O programa de apoio sustentado tem como objetivo, nomeadamente, a consolidação e estabilidade da atividade profissional regular, preconizada pelo terceiro setor, sendo essencial para a qualificação dos seus intervenientes, inovando o serviço público que estes se propõem prestar.
+2 - As modalidades bienal e quadrienal correspondem ao período de concessão de apoio, por dois ou quatro anos respetivamente, sendo exigida uma planificação concreta que evidencie e justifique o financiamento de uma atividade continuada e plurianual.
+3 - Com o objetivo de fortalecer estruturalmente o setor, este programa de apoio pode contemplar despesas de funcionamento necessárias à prossecução do plano de atividades apresentado, como a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência.
+4 - As condições e limites de apoio às despesas referidas no número anterior são definidos no aviso de abertura.
+5 - Considerando a diversidade de entidades elegíveis, de áreas artísticas e conjuntos de atividades que este programa de apoio pode abranger, no aviso de abertura são fixados os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.
+Artigo 6.º
+Critérios de apreciação
+1 - As candidaturas são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:
+a) Projeto e Plano de atividades - qualidade artística e relevância cultural do projeto, aferida pela inovação, originalidade, coerência e excelência no contexto em que se propõe intervir e na representação do setor à escala regional, nacional e/ou internacional - 50 %;
+b) Projeto de gestão - qualidade e viabilidade aferidas pela coerência do orçamento face à dimensão do projeto e recursos humanos e materiais necessários e pela captação de fontes de financiamento alternativas e parcerias estratégicas para atingir o alcance e objetivos do plano de atividades - 20 %;
+c) Entidade e equipa - historial, mérito e adequação aferidos pela relevância estratégica da organização no plano profissional, social e territorial, e pela competência e qualificação comprovada dos recursos humanos afetos à atividade regular - 10 %;
+d) Repercussão social - alcance e visibilidade aferidas pela definição de públicos-alvo e perspetiva de adesão e reconhecimento de participantes, espetadores e visitantes das atividades, bem como a inovação e eficácia do plano de comunicação - 10 %;
+e) Concretização de objetivos - aferida pelo potencial de concretização do serviço público previsto no Decreto-Lei n.º [...] e dos objetivos e prioridades fixados em aviso de abertura - 10 %.
+2 - O desempenho no ciclo plurianual anterior, validado por parecer da comissão de avaliação, quando exista, será considerado na pontuação total de cada um dos critérios com uma ponderação de 20 %.
+3 - Cada critério é pontuado de 0 a 20, sendo elegíveis as candidaturas que venham a obter no mínimo 60 % da pontuação máxima possível em cada um dos critérios de apreciação.
+4 - As candidaturas elegíveis nos termos do n.º 3 são pontuadas adicionalmente pelas seguintes qualidades de distinção:
+a) Intervenção local - relação comprovada com municípios nos seguintes âmbitos: apoio financeiro, de recursos humanos e logísticos com um impacto mínimo global de 40 % relativamente ao custo total do projeto e integração estratégica da entidade e do projeto no desenvolvimento e oferta cultural local - até um máximo de 6 pontos;
+b) Desenvolvimento sustentável - exercício comprovado de boas práticas nos seguintes âmbitos: acessibilidade; diversidade e inclusão social, cultural e de género; empregabilidade; ecologia e ambiente - até um máximo de 4 pontos.
+5 - A classificação das candidaturas é obtida pela soma das pontuações atribuídas aos critérios previstos no n.º 1 e, quando aplicável, das pontuações atribuídas pelas qualidades de distinção previstas no n.º 4, sendo as candidaturas ordenadas de forma decrescente, a partir da mais pontuada.
+SECÇÃO II
+Programa de apoio a projetos
+Artigo 7.º
+Caracterização
+1 - O programa de apoio a projetos tem como objetivo contribuir para o dinamismo e a renovação do tecido artístico, através do incentivo ao surgimento de propostas que reflitam a singularidade do tecido artístico em territórios criativos, sociais, intersectoriais e geográficos dinâmicos.
+2 - Este programa integra linhas de financiamento direcionadas a projetos com fruição pública, que podem contemplar uma atividade particular, intermitente ou finita, de capacitação ou complementar, ou contemplar projetos nucleares que agregam várias valências e atividades decorrentes do seu desígnio.
+3 - Tendo por fim assumir uma diferenciação positiva das tipologias de candidatura que este programa de apoio pode abranger, em aviso de abertura serão considerados os elementos diferenciadores para instrução das candidaturas e orientação da sua apreciação.
+Artigo 8.º
+Apoio complementar a projetos
+São elegíveis nesta modalidade projetos previamente selecionados por concurso em programas nacionais ou internacionais de financiamento reconhecidos para este efeito pela DGARTES ou projetos que tenham assegurado o mínimo de 80 % do seu custo total.
+Artigo 9.º
+Critérios de apreciação
+1 - As candidaturas selecionadas por concurso ao apoio a projetos são apreciadas de acordo com os seguintes critérios e respetiva ponderação na classificação final:
+a) Projeto artístico - qualidade, relevância cultural e equipa - 55 %;
+b) Viabilidade - consistência do projeto de gestão e parcerias estabelecidas - 25 %;
+c) Alcance social - índices de abrangência, participação pública e qualidade da comunicação - 10 %;
+d) Objetivos - correspondência aos objetivos e prioridades definidos em aviso de abertura - 10 %.
+2 - Cada critério é pontuado de 0 a 20, sendo elegíveis as candidaturas que venham a obter no mínimo 60 % da pontuação máxima possível em cada um dos critérios.
+3 - A classificação das candidaturas é obtida pela soma das pontuações atribuídas aos critérios previstos no n.º 1, sendo as candidaturas ordenadas de forma decrescente, a partir da mais pontuada.
+SECÇÃO III
+Programa de apoio em parceria
+Artigo 10.º
+Caracterização
+1 - A DGARTES implementa linhas de apoio em parceria mediante acordo previamente estabelecido com entidades públicas ou privadas, nacionais ou estrangeiras, para o desenvolvimento de determinadas ações ou projetos que concretizem os fins e objetivos dos apoios às artes.
+2 - No âmbito do incentivo e da articulação das artes com outras políticas setoriais, este programa visa ultrapassar as assimetrias territoriais e os desequilíbrios sociais e culturais, estimulando a criação de projetos artísticos, bem como o fomento de intercâmbios artísticos e técnicos, pelo território nacional e internacional.
+3 - Com o objetivo de viabilizar projetos de continuidade e estruturalmente relevantes para a oferta, acesso e fruição cultural, o programa em parceria pode, em casos especificamente identificados, contemplar despesas de funcionamento para a capacitação e a contratação de recursos humanos especializados e a afetação de serviços e meios materiais em permanência dos planos de atividade.
+4 - Os programas em parceria com a administração local serão desenvolvidos tendo em consideração critérios de suporte à sinalização das áreas artísticas e dos territórios prioritários, a definir pela DGARTES em articulação com os serviços ou organismos da área da cultura territorialmente competentes.
+5 - Os elementos diferenciadores para instrução das candidaturas do programa em parceria e as orientações para a sua apreciação serão previstas no acordo de parceria e no aviso de abertura, quando aplicável.
+Artigo 11.º
+Critérios de apreciação
+1 - As candidaturas ao abrigo de linhas de apoio decorrentes do presente programa são apreciadas conforme os critérios estabelecidos no acordo de parceria.
+2 - Os critérios de apreciação devem, basear-se nos critérios definidos no presente diploma para o programa de apoio sustentado e para o programa de apoio a projetos, consoante as suas características se aproximem de um ou de outro.
+Artigo 12.º
+Cumulação de programas de apoio
+Não podem apresentar candidaturas ao programa de apoio a projetos as entidades candidatas ou beneficiárias de apoio sustentado, salvo disposição em contrário em aviso de abertura.
+CAPÍTULO III
+Formas de atribuição do apoio
+Artigo 13.º
+Concurso
+1 - No concurso a apresentação de candidatura pode ser feita por qualquer entidade elegível, nos termos do aviso de abertura.
+2 - A verificação das candidaturas é realizada pelos serviços técnicos da DGARTES, nos termos previstos no artigo 20.º
+3 - A apreciação das candidaturas é da competência das comissões de apreciação, nos termos previstos no artigo 22.º
+4 - O projeto de decisão, resultante da apreciação das candidaturas, é notificado aos candidatos para efeitos de audiência dos interessados nos termos legalmente aplicáveis.
+5 - Quando em sede de audiência dos interessados não resultar alteração das candidaturas selecionadas para apoio financeiro não há lugar à realização de nova audiência.
+6 - A decisão final da comissão de apreciação, que inclui a lista definitiva da pontuação e dos apoios financeiros a conceder, é homologada pelo diretor-geral da DGARTES e notificada aos candidatos.
+Artigo 14.º
+Concurso limitado
+No concurso limitado aplica-se, com as necessárias adaptações, o disposto no artigo 13.º, podendo ocorrer uma fase de negociação entre a DGARTES e as entidades que foram convidadas a apresentar candidatura.
+Artigo 15.º
+Procedimento simplificado
+1 - No procedimento simplificado as candidaturas são apreciadas pelos serviços técnicos da DGARTES que submetem proposta fundamentada, com base na adequação do projeto aos objetivos e requisitos definidos em aviso de abertura e na disponibilidade financeira, à decisão do diretor-geral da DGARTES.
+2 - Após a apreciação da candidatura a DGARTES notifica o interessado da decisão no prazo máximo de 30 dias úteis.
+Artigo 16.º
+Protocolo
+1 - O protocolo pode ser adotado no âmbito de um programa em parceria quando seja a forma de atribuição do apoio financeiro acordada pelos parceiros e a respetiva proposta for homologada pelo membro do Governo responsável pela área da cultura.
+2 - Após a fixação das condições do programa em parceria, os serviços técnicos da DGARTES promovem a discussão dos termos protocolares com as entidades elegíveis, e submetem, sob proposta fundamentada, a atribuição do apoio e a minuta do protocolo a celebrar à decisão do diretor-geral da DGARTES e de outras entidades intervenientes, quando aplicável.
+CAPÍTULO IV
+Tramitação
+Artigo 17.º
+Balcão Artes
+1 - Os procedimentos inerentes à atribuição do apoio financeiro, através de concurso, procedimento simplificado ou protocolo, decorrem no Balcão Artes.
+2 - As entidades que pretendam apresentar candidatura, nos termos do presente regulamento, devem registar-se na plataforma prevista no número anterior, com os seguintes elementos de identificação:
+a) Designação da entidade;
+b) Número de identificação fiscal;
+c) Natureza jurídica;
+d) Sede e zona onde exerce predominantemente a sua atividade;
+e) Endereço de correio eletrónico para comunicações;
+f) Responsáveis pela direção artística e pela gestão administrativa e financeira;
+g) Identificação do técnico oficial de contas, quando aplicável;
+h) Historial da entidade e/ou notas biográficas dos dirigentes.
+3 - Os elementos previstos no número anterior instruem automaticamente a identificação da entidade em todas as candidaturas que venha a submeter.
+Artigo 18.º
+Aviso de abertura
+1 - O aviso de abertura fixa o prazo para a apresentação das candidaturas, que não pode ser inferior a:
+a) 22 dias úteis, no programa de apoio sustentado;
+b) 10 dias úteis, no programa de apoio a projetos e no programa em parceria.
+2 - Para além dos elementos previstos no artigo 9.º do Decreto-Lei n.º [...], o aviso de abertura pode especificar:
+a) Requisitos de admissibilidade determinados em função de patamares de financiamento;
+b) Percentagens máximas de apoio a atribuir;
+c) Documentação comprovativa exigida;
+d) As condições e limites de apoio às despesas de funcionamento necessárias à prossecução do plano de atividades.
+3 - Os requisitos de admissibilidade referidos na alínea a) do número anterior podem considerar a diversidade, a quantidade, a amplitude, o âmbito territorial das atividades, o tipo de despesas admitidas, a percentagem máxima de apoio sobre o custo total do plano de atividades proposto ou do projeto, os comprovativos de sustentabilidade com apoios estruturantes e complementares e/ou recursos próprios, bem como a relação contratual com trabalhadores.
+Artigo 19.º
+Apresentação de candidaturas
+1 - As candidaturas são redigidas integralmente em língua portuguesa, com exceção das declarações emitidas por entidade de país estrangeiro que podem ser redigidas em inglês, e com respeito pelo disposto no aviso de abertura.
+2 - As candidaturas não podem sofrer alterações posteriores à data de entrega, com exceção das que decorram do previsto no n.º 3 do artigo 20.º
+3 - A apresentação de candidaturas é obrigatoriamente efetuada em formulário disponibilizado no Balcão Artes, que pode contemplar, em função da especificidade de cada programa de apoio, nomeadamente:
+a) Identificação da entidade candidata;
+b) Exposição do plano de atividades plurianual ou do projeto:
+i) Objetivos artísticos e profissionais, linhas de orientação e estratégia de desenvolvimento;
+ii) Atividades a desenvolver em território nacional e/ou no estrangeiro;
+iii) Equipas artística e técnica, incluindo notas biográficas dos elementos não integrados no registo da entidade previsto no n.º 2 do artigo 17.º;
+iv) Instalações de que dispõem e regime legal de utilização.
+v) Públicos-alvo e iniciativas de captação e sensibilização;
+vi) Calendarização;
+vii) Plano de comunicação.
+c) Previsão orçamental:
+i) Montante financeiro a que se candidata;
+ii) Despesas estimadas, nomeadamente encargos com pessoal, espaço, equipamentos, produção, gestão, comunicação e outros;
+iii) Receitas estimadas, tais como receitas próprias e, devidamente comprovados, os acordos de coprodução, patrocínios, mecenato e outros apoios e financiamentos.
+d) Indicação da situação regularizada perante a administração fiscal e a segurança social;
+e) Outros elementos considerados relevantes.
+4 - Para efeito do disposto no presente regulamento, as entidades candidatas ao programa de apoio sustentado devem enquadrar a sua atividade em apenas uma candidatura e, em caso de concessão do apoio, o respetivo contrato constitui o único instrumento de regulação para o período a que se destina, salvo o disposto no artigo 12.º
+Artigo 20.º
+Verificação das candidaturas
+1 - A verificação das candidaturas consiste na análise dos elementos que compõem uma candidatura e da sua conformidade com os requisitos e as condições definidas no presente regulamento ou outros que venham a ser fixados em aviso de abertura.
+2 - Só são admitidas aos programas de apoio as candidaturas com os formulários devida e completamente preenchidos e acompanhados pelos documentos exigidos, bem como aquelas que não se encontrem em nenhum dos motivos de não admissão previstos no artigo seguinte.
+3 - No caso das candidaturas que não se encontrem instruídas com todos os documentos exigidos, são as entidades candidatas notificadas individualmente para, no prazo máximo de 5 dias úteis, apresentar os documentos em falta, sob pena de exclusão automática da candidatura apresentada.
+Artigo 21.º
+Não admissão de candidaturas
+1 - As candidaturas aos programas de apoio não são admitidas nos seguintes casos:
+a) Se apresentadas fora do prazo;
+b) Se apresentadas por uma entidade não elegível, em desconformidade com o estabelecido no artigo 2.º do Decreto-Lei n.º [...];
+c) Se a entidade é beneficiária de apoio sustentado, salvo o disposto no artigo 12.º;
+d) Se a proposta não se encontrar instruída nos termos previstos no artigo 19.º;
+e) A não realização de atividades maioritariamente públicas;
+f) A não incidência maioritária no território abrangido.
+2 - A não admissão de candidatura nos termos do presente artigo é notificada aos respetivos candidatos.
+Artigo 22.º
+Apreciação de candidaturas
+A apreciação das candidaturas é realizada nos termos do presente regulamento e do regulamento relativo à composição e funcionamento das comissões de apreciação, aprovado pela Portaria n.º [...].
+Artigo 23.º
+Determinação do montante do apoio financeiro
+1 - Na determinação do apoio financeiro a atribuir às candidaturas elegíveis, é tida em consideração, por esta ordem:
+a) A dotação financeira global disponível;
+b) A afetação da dotação financeira disponível por região, área artística e domínio de atividade, quando aplicável;
+c) Os limites financeiros dos patamares fixados, quando aplicável;
+d) A classificação e a ordenação das candidaturas após apreciação.
+2 - Os patamares de financiamento fixados no aviso de abertura podem considerar uma das seguintes possibilidades:
+a) A atribuição de um montante fixo - igual ao montante do apoio a que se candidata;
+b) A atribuição de um montante ponderado - proporcional à classificação das candidaturas elegíveis.
+3 - No programa de apoio sustentado o cálculo do montante previsto na alínea b) do número anterior considera apenas a pontuação obtida pelas candidaturas nos critérios de apreciação previstos nos n.os 1 e 2 do artigo 6.º
+CAPÍTULO V
+Formalização do apoio e relatório de atividades e contas
+Artigo 24.º
+Entrega de documentação
+1 - As entidades beneficiárias submetem ou atualizam, consoante o caso, no Balcão Artes, no prazo de 5 dias úteis a contar da notificação da decisão final, os seguintes documentos:
+a) No caso de se ter verificado alterações, cópia do documento de constituição e respetivos estatutos, devidamente atualizados, bem como cópia da ata que comprove os atuais corpos dirigentes, ou, se sujeita a registo comercial, cópia da certidão do registo comercial com todos os registos em vigor;
+b) Documentos comprovativos da situação regularizada perante a administração fiscal e a segurança social ou autorização para a sua consulta nos respetivos sítios da internet;
+c) Documentos comprovativos das autorizações ou dos pedidos relativos às obras que impliquem direitos de autor e direitos conexos ou declaração de honra que o ateste;
+d) Documentos comprovativos exigidos para o exercício da atividade, ou declaração de honra que o ateste;
+e) No caso dos beneficiários de apoio sustentado, informação relativa às instalações, designadamente cópia do pedido de vistoria à Inspeção-Geral das Atividades Culturais, autorizações camarárias ou outras, ou declaração de honra que o ateste.
+2 - A atribuição do apoio e a celebração do contrato previsto no artigo 26.º ficam dependentes da submissão no Balcão Artes, no prazo estipulado, da documentação prevista no número anterior.
+Artigo 25.º
+Ajustamento
+1 - Sempre que o montante do apoio financeiro atribuído seja inferior ao montante do apoio financeiro a que se candidata, a entidade beneficiária apresenta, no prazo de 10 dias úteis, uma proposta de ajustamento ao plano de atividades ou projeto e previsão orçamental, sem desvirtuar as características que presidiram à atribuição do apoio.
+2 - Cabe à comissão de apreciação respetiva a validação do ajustamento apresentado nos termos do número anterior.
+Artigo 26.º
+Formalização
+1 - A atribuição do apoio financeiro é formalizada mediante contrato escrito nos termos previstos no artigo 16.º do Decreto-Lei n.º [...], sem prejuízo do disposto no número seguinte.
+2 - O acordo escrito no âmbito do procedimento simplificado contém os seguintes elementos:
+a) A proposta apresentada pela entidade;
+b) Os direitos e obrigações das partes;
+c) O montante de financiamento;
+d) O prazo de vigência.
+3 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento finda quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.
+Artigo 27.º
+Relatório de atividades e contas
+1 - As entidades beneficiárias de apoio estão obrigadas à entrega de um relatório de atividades e contas com a periodicidade definida no contrato e elaborado segundo formulário disponibilizado pela DGARTES no Balcão Artes.
+2 - Nos programas de apoio que incluam o domínio da circulação internacional, para efeitos avaliativos da atividade desenvolvida, a entidade beneficiária entrega também uma declaração emitida pela entidade de acolhimento do projeto, conforme formulário a disponibilizar pela DGARTES.
+CAPÍTULO VI
+Incumprimento das obrigações contratuais
+Artigo 28.º
+Incumprimento
+1 - O não cumprimento pelas entidades beneficiárias das respetivas obrigações contratuais, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES ou as irregularidades detetadas em sede de auditoria, é sancionado nos termos dos artigos seguintes.
+2 - O não cumprimento, sempre que identificado pela comissão de avaliação, é comunicado por esta à DGARTES para prossecução do procedimento subsequente.
+Artigo 29.º
+Suspensão dos pagamentos
+1 - Determinam a suspensão do pagamento do apoio financeiro os seguintes incumprimentos por parte da entidade beneficiária:
+a) Não disponibilização de informação solicitada pela DGARTES ou pelas comissões de avaliação;
+b) Não atualização da informação disponível no Balcão Artes, nomeadamente no que concerne à sua identificação, à equipa, ao plano de atividades, à agenda e ao reporte da bilheteira.
+2 - O direito de suspensão do pagamento do apoio é exercido mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos no prazo de 5 dias úteis a contar a expedição da declaração caso não se verifique neste prazo a regularização do incumprimento por parte da entidade beneficiária, e mantém-se até à sua sanação.
+Artigo 30.º
+Sanção pecuniária
+1 - Determinam a aplicação de uma sanção pecuniária no montante de 1 % do montante do apoio atribuído, os seguintes incumprimentos por parte da entidade beneficiária, e por cada incumprimento verificado:
+a) Inviabilização do acesso dos membros das comissões de avaliação às instalações e às atividades;
+b) Não inserção dos logótipos da República Portuguesa - Cultura e da DGARTES nos materiais promocionais da atividade ou projeto objeto de apoio;
+c) Fração de 30 dias de atraso na entrega do relatório de atividades e contas nos termos contratualmente definidos, até ao limite de 6 meses.
+2 - A sanção pecuniária prevista no número anterior efetiva-se mediante declaração da DGARTES enviada à entidade beneficiária e produz efeitos na data da expedição da declaração, sendo o valor correspondente deduzido no pagamento seguinte a realizar.
+3 - Caso não existam pagamentos por realizar, não sendo por isso possível a execução do procedimento previsto no número anterior, a DGARTES procede à emissão de uma guia de reposição, ficando ainda entidade beneficiária impedida de apresentar candidatura a novos programas de apoio até proceder à liquidação do montante em causa.
+4 - O incumprimento previsto na alínea c) do n.º 1 é de conhecimento oficioso, não carecendo de qualquer declaração por parte da DGARTES.
+Artigo 31.º
+Resolução
+1 - O não cumprimento, integral ou parcial, do objeto contratual por facto imputável à entidade beneficiária, determina a resolução do contrato a título sancionatório, bem como a reposição da quantia recebida correspondente ao plano de atividades não cumprido.
+2 - O direito de resolução é exercido mediante declaração da DGARTES à entidade beneficiária e produz efeitos no prazo de 10 dias úteis a contar da data de expedição da respetiva declaração.
+3 - A resolução do contrato determina ainda o impedimento da entidade beneficiária apresentar candidatura a novos programas de apoio nos seguintes termos:
+a) Nos 3 anos civis subsequentes, se não entregar o relatório de atividades e contas, para além do prazo de 6 meses previsto na alínea c) do n.º 1 do artigo 30.º;
+b) Enquanto não proceder à reposição da quantia recebida correspondente ao plano de atividades não cumprido.
+CAPÍTULO VII
+Disposição Final
+Artigo 32.º
+Comunicações
+1 - A comunicação entre a DGARTES e as entidades candidatas e beneficiárias, designadamente em matéria de notificações, é efetuada sempre para o endereço eletrónico indicado no Balcão Artes.
+2 - As notificações e as comunicações, quando efetuadas através de correio eletrónico ou de outro meio de transmissão escrita e eletrónica de dados, consideram-se feitas na data da respetiva expedição.
+310725197
