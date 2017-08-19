@@ -30,7 +30,9 @@ g) (Revogada);
 
 h) As obras de construção, reconstrução, ampliação, alteração ou demolição de imóveis em áreas sujeitas a servidão administrativa ou restrição de utilidade pública, sem prejuízo do disposto em legislação especial;
 
-i) As demais operações urbanísticas que não estejam sujeitas a comunicação prévia ou isentas de controlo prévio, nos termos do presente diploma.
+i) Operações urbanísticas das quais resulte a remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouros;
+
+j) As demais operações urbanísticas que não estejam sujeitas a comunicação prévia ou isentas de controlo prévio, nos termos do presente diploma.
 
 3 - A sujeição a licenciamento dos actos de reparcelamento da propriedade de que resultem parcelas não destinadas imediatamente a urbanização ou edificação depende da vontade dos proprietários.
 

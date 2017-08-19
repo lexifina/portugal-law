@@ -6,7 +6,7 @@
 
 a) As obras de conservação;
 
-b) As obras de alteração no interior de edifícios ou suas fracções que não impliquem modificações na estrutura de estabilidade, das cérceas, da forma das fachadas e da forma dos telhados ou coberturas;
+b) As obras de alteração no interior de edifícios ou suas frações que não impliquem modificações na estrutura de estabilidade, das cérceas, da forma das fachadas, da forma dos telhados ou coberturas ou que não impliquem a remoção de azulejos de fachada, independentemente da sua confrontação com a via pública ou logradouros;
 
 c) As obras de escassa relevância urbanística;
 
