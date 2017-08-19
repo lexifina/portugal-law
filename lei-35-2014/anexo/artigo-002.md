@@ -10,7 +10,7 @@ b) Entidades públicas empresariais;
 
 c) Entidades administrativas independentes com funções de regulação da atividade económica dos setores privado, público e cooperativo e Banco de Portugal.
 
-2 - A presente lei não é aplicável aos militares das Forças Armadas, aos militares da Guarda Nacional Republicana e ao pessoal com funções policiais da Polícia de Segurança Pública, cujos regimes constam de lei especial, sem prejuízo do disposto nas alíneas a) e e) do n.º 1 do artigo 8.º e do respeito pelos seguintes princípios aplicáveis ao vínculo de emprego público:
+2 - A presente lei não é aplicável aos militares das Forças Armadas, aos militares da Guarda Nacional Republicana, ao pessoal com funções policiais da Polícia de Segurança Pública, ao pessoal da carreira de investigação criminal, da carreira de segurança e ao pessoal com funções de inspeção judiciária e de recolha de prova da Polícia Judiciária e ao pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, cujos regimes constam de lei especial, sem prejuízo do disposto nas alíneas a) e e) do n.º 1 do artigo 8.º e do respeito pelos seguintes princípios aplicáveis ao vínculo de emprego público:
 
 a) Continuidade do exercício de funções públicas, previsto no artigo 11.º;
 
