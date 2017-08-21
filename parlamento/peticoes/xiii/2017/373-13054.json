@@ -1,0 +1,127 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13054",
+  "numero": "373",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-08-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-12-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-04",
+        "DataArquivo": "2017-12-13",
+        "DataBaixaComissao": "2017-09-14",
+        "DataEnvioPAR": "2017-12-14",
+        "DataReaberta": "2017-10-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-10-13",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a4759774d4463324d5751744d4751774e7930305a4463774c5745314d446b744d324535596a4e6a4d47493559546b774c6e426b5a673d3d&fich=df00761d-0d07-4d70-a509-3a9b3c0b9a90.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-12-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6a56694e6a466b4f4749745a4755334d533030597a67314c546b355a4467744d324d325a44637a5a6a566b4d5441354c6e426b5a673d3d&fich=65b61d8b-de71-4c85-99d8-3c6d73f5d109.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-10-04",
+            "gp": "PSD",
+            "id": "6207",
+            "motivoCessacao": null,
+            "nome": "Margarida Balseiro Lopes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-10-16",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938775a4464685a4463324f5330354f5459354c5451354f545174596a45304f5330324d6a6b7a4e5751304d6d45344d6a457555455247&fich=0d7ad769-9969-4994-b149-62935d42a821.PDF&Inline=true"
+      },
+      {
+        "DataDocumento": "2017-09-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793832596a4e68596a597a4d43307a4d6a67324c54517a4e446b744f44597a5a4330774e445a685954497a4e44417a5a6d59756347526d&fich=6b3ab630-3286-4349-863d-046aa23403ff.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13054",
+    "PetAssunto": "Solicita a isenção de entrega da informação empresarial simplificada e do modelo 22 do IRC para as associações sem fins lucrativos.",
+    "PetDataEntrada": "2017-08-21",
+    "PeticoesAssociadas": [
+      "12950",
+      "12932"
+    ],
+    "PetId": "13054",
+    "PetLeg": "XIII",
+    "PetNr": "373",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
