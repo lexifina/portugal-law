@@ -1,0 +1,7 @@
+Aviso n.º 9736/2017
+Abertura do período de discussão pública para alteração do regulamento do PDM, no âmbito do RERAE
+Manoel Batista Calçada Pombal, Presidente da Câmara Municipal de Melgaço, no uso da faculdade que lhe confere o n.º 3 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, torna público, nos termos do n.º 2 do artigo 12.º do D. L. 165/2014, de 5 de novembro, conjugado com o n.º 1 do artigo 89.º do D. L n.º 80/2015, que por despacho de 16-08-2017, a ratificar pelo órgão executivo municipal na próxima reunião de Câmara, foi aprovada a abertura de período de discussão pública por 15 dias seguidos, a contar do dia seguinte à data da publicação do presente Aviso.
+Mais torna público que a alteração ao regulamento do PDM pode ser consultada na página eletrónica do Município de Melgaço, em www.cm-melgaco.pt, encontrando-se o processo administrativo disponível para consulta dos interessados, na Divisão e Planeamento e Gestão Territorial, entre as 9h00 e as 17h00.
+A formulação de observações, as sugestões e os pedidos de esclarecimento, bem como a apresentação de informações sobre qualquer questão que possam ser consideradas no âmbito deste procedimento, deverão ser formuladas através de exposição escrita, endereçada ao Presidente da Câmara, para Largo Hermenegildo Solheiro, 4960-551 Melgaço ou por meio eletrónico para o endereço geral@cm-melgaco.pt.
+17 de agosto de 2017. - O Presidente da Câmara, Manoel Batista Calçada Pombal.
+310723017
