@@ -2,9 +2,9 @@
 
 ### Países, territórios ou regiões com um regime fiscal claramente mais favorável
 
-1 - O membro do Governo responsável pela área das finanças aprova, por portaria, a lista dos países, territórios ou regiões com regime claramente mais favorável.
+1 - O membro do Governo responsável pela área das finanças aprova, por portaria, após parecer prévio da Autoridade Tributária e Aduaneira, a lista dos países, territórios ou regiões com regime claramente mais favorável.
 
-2 - Na elaboração da lista a que se refere o número anterior devem ser considerados, nomeadamente, os seguintes critérios:
+2 - Na elaboração do parecer e da lista a que se refere o número anterior, devem ser considerados, nomeadamente, os seguintes critérios:
 
 a) Inexistência de um imposto de natureza idêntica ou similar ao IRC ou, existindo, a taxa aplicável seja inferior a 60 % da taxa de imposto prevista no n.º 1 do artigo 87.º do Código do IRC;
 
