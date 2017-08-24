@@ -2,10 +2,20 @@
 
 ### Autorização do produtor
 
-1 - Carecem de autorização do produtor do fonograma ou do videograma a reprodução, directa ou indirecta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte, e a distribuição ao público de cópias dos mesmos, bem como a respectiva importação ou exportação.
+1 - Assiste ao produtor do fonograma ou do videograma o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes:
 
-2 - Carecem também de autorização do produtor do fonograma ou do videograma a difusão por qualquer meio, a execução pública dos mesmos e a colocação à disposição do público, por fio ou sem fio, por forma que sejam acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido.
+a) A reprodução, direta ou indireta, temporária ou permanente, por quaisquer meios e sob qualquer forma, no todo ou em parte, do fonograma ou do videograma;
 
-3 - Quando um fonograma ou videograma editado comercialmente, ou uma reprodução dos mesmos, for utilizado por qualquer forma de comunicação pública, o utilizador pagará ao produtor e aos artistas intérpretes ou executantes uma remuneração equitativa, que será dividida entre eles em partes iguais, salvo acordo em contrário.
+b) A distribuição ao público de cópias dos fonogramas ou videogramas, a exibição cinematográfica de videogramas bem como a respetiva importação ou exportação;
+
+c) A colocação à disposição do público, por fio ou sem fio, dos fonogramas ou dos videogramas para que sejam acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido;
+
+d) Qualquer utilização do fonograma ou videograma em obra diferente;
+
+e) A comunicação ao público, de fonogramas e videogramas, incluindo a difusão por qualquer meio e a execução pública direta ou indireta, em local público, na aceção do n.º 3 do artigo 149.º
+
+2 - (Revogado.)
+
+3 - Quando um fonograma ou videograma editado comercialmente, ou uma reprodução dos mesmos, for utilizado por qualquer forma de comunicação pública, o utilizador tem de pagar, como contrapartida da autorização prevista na alínea e) do n.º 1, uma remuneração equitativa e única, a dividir entre o produtor e os artistas, intérpretes ou executantes em partes iguais, salvo acordo em contrário.
 
 4 - Os produtores de fonogramas ou de videogramas têm a faculdade de fiscalização análoga à conferida nos n.os 1 e 2 do artigo 143.º
