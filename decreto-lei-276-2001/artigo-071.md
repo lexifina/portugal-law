@@ -2,11 +2,11 @@
 
 ### Afectação do produto das coimas
 
-A afectação do produto das coimas far-se-á da seguinte forma:
+A afetação do produto das coimas faz-se da seguinte forma:
 
 a) 10% para a autoridade autuante;
 
-b) 30 % para a DGAV;
+b) 30 % para a autoridade instrutória;
 
 c) (Revogada);
 

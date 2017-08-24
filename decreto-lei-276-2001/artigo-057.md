@@ -1,5 +1,7 @@
 # Artigo 57.º
 
-### Abate compulsivo
+### Local de venda dos animais
 
-Se houver quaisquer riscos para a segurança das pessoas, outros animais e bens, deve proceder-se ao abate do animal em causa, recorrendo a métodos de occisão que não lhe causem dores e sofrimento desnecessários, e que devem, preferencialmente, ser executados por médico veterinário.
+1 - Os animais de companhia podem ser publicitados na Internet mas a compra e venda dos mesmos apenas é admitida no local de criação ou em estabelecimentos devidamente licenciados para o efeito, sendo expressamente proibida a venda de animais por entidade transportadora.
+
+2 - Os estabelecimentos devidamente licenciados para o efeito estão impedidos de expor os animais em montras ou vitrinas.

@@ -1,19 +1,9 @@
 # Artigo 55.º
 
-### Condições de alojamento e maneio
+### Proibição de venda na Internet de animais selvagens
 
-As condições de alojamento e maneio dos animais devem obedecer aos seguintes requisitos:
+1 - Os animais selvagens não podem ser publicitados ou vendidos através da Internet, designadamente através de quaisquer portais ou plataformas, de caráter geral ou específicos para este tipo de venda, mesmo que sujeitas a registo prévio de utilizadores ou de acesso restrito.
 
-a) Os alojamentos e os animais devem ser mantidos em boas condições hígio-sanitárias;
+2 - O disposto no número anterior não prejudica a existência de sítios de Internet de entidades comercializadoras de animais selvagens, desde que não disponibilizem quaisquer funcionalidades que permitam a venda através da Internet.
 
-b) Devem ser cumpridas normas de profilaxia médica e sanitária adequadas;
-
-c) Os animais devem ser protegidos de condições ambientais ou climáticas adversas, nomeadamente da chuva, do frio, do calor, das correntes de ar e da excessiva exposição solar;
-
-d) Os animais devem ser manuseados e treinados de forma a não sofrer quaisquer ferimentos, dores ou angústia desnecessárias;
-
-e) O pessoal responsável pelo manuseamento dos animais, em especial os treinadores, deve possuir os conhecimentos e a experiência adequada às espécies que utilizam;
-
-f) Os meios de contenção não podem causar quaisquer ferimentos, dores ou angústias desnecessárias aos animais;
-
-g) Os detentores devem salvaguardar que os animais não causem quaisquer riscos para a saúde e a segurança de pessoas, outros animais e bens.
+3 - A compra e venda de animais selvagens é feita exclusivamente nas condições legalmente previstas para o efeito, não podendo estes, em qualquer caso, ser expostos em montras ou vitrinas que confrontem com espaços exteriores à loja, permitindo que sejam visíveis fora desta.

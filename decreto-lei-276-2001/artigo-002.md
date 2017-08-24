@@ -2,7 +2,7 @@
 
 ### Definições
 
-1- Para efeitos do presente diploma, entende-se por:
+1 - Para efeitos do presente diploma, entende-se por:
 
 a) «Animal de companhia», qualquer animal detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento e companhia;
 
@@ -52,9 +52,19 @@ w) «Pessoa competente» qualquer pessoa que demonstre, junto da autoridade comp
 
 x) 'Autoridade competente' a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto autoridade sanitária veterinária nacional, os médicos veterinários municipais, enquanto autoridades sanitárias veterinárias concelhias, as câmaras municipais, o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP) e a Polícia Municipal (PM);
 
-z) (Revogada.)
+y) 'Venda de animal de companhia', a transmissão a título oneroso de um animal de companhia;
 
-aa) (Revogada.)
+z) 'Vendedor de animal de companhia', qualquer pessoa que, sendo ou não proprietário ou mero detentor eventual de fêmea reprodutora, exerce a atividade de venda de animais de companhia;
+
+aa) 'Criação comercial de animais de companhia', a atividade que consiste em possuir uma ou mais fêmeas reprodutoras cujas crias sejam destinadas ao comércio;
+
+bb) 'Animal de raça pura', o animal que se encontra identificado e com registo genealógico no livro de origens português;
+
+cc) 'Animal de raça indefinida', todos os animais que não se encontram identificados e registados no livro de origens português;
+
+dd) 'Animal selvagem', todo o animal cuja espécie existe na natureza, no seu habitat natural, partilhando com o seu antepassado comum o mesmo código genético, incluindo também os animais exóticos e selvagens criados em cativeiro que, embora possam ter sido amansados, essa característica não é transmitida à geração seguinte, e por isso não podem deixar de ser considerados como selvagens;
+
+ee) 'Venda de animal selvagem', a cessão a título oneroso de um animal selvagem.
 
 2 - Para efeito do disposto na alínea n) do número anterior, não se considera 'alojamento' a instalação, edifício, grupo de edifícios ou outro local onde os animais de companhia se encontrem mantidos, quando se situe em locais de venda em feiras ou mercados.
 
