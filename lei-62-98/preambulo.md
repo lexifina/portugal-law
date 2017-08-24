@@ -1,0 +1,1 @@
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, da alínea d) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:
