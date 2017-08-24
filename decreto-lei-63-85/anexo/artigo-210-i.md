@@ -1,6 +1,6 @@
 # Artigo 210.º-I
 
-### Sanções acessórias
+### Perda de instrumentos e bens
 
 1 - Sem prejuízo da fixação de uma indemnização por perdas e danos, a decisão judicial de mérito deve, a pedido do lesado e a expensas do infractor, determinar medidas relativas ao destino dos bens em que se tenha verificado violação de direito de autor ou de direitos conexos.
 
@@ -10,4 +10,4 @@
 
 4 - Na aplicação destas medidas, o tribunal deve ter em consideração os legítimos interesses de terceiros, em particular os consumidores.
 
-5 - Os instrumentos utilizados no fabrico dos bens em que se manifeste violação de direito de autor ou de direitos conexos devem ser, igualmente, objecto das sanções acessórias previstas neste artigo.
+5 - Os instrumentos utilizados no fabrico dos bens em que se manifeste violação de direito de autor ou direitos conexos devem ser, igualmente, objeto das regras relativas ao destino de bens previstas no presente artigo.
