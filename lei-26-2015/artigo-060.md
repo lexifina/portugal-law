@@ -14,13 +14,13 @@ b) Assegurar a implementação e entrada em funcionamento dos procedimentos nece
 
 4 - Findo o prazo previsto no número anterior sem que os balcões de licenciamento conjunto tenham sido efetivamente implementados, a IGAC adota, no prazo de 30 dias, as medidas previstas no n.º 4 do artigo 37.º
 
-5 - Até à entrada em vigor da portaria prevista no n.º 4 do artigo 44.º, aplica-se nos procedimentos de fixação de tarifários previstos no n.º 1 do artigo 44.º o disposto na lei da arbitragem voluntária, com as seguintes especificidades:
+5 - Até à entrada em vigor do diploma previsto no n.º 4 do artigo 44.º, aplica-se nos procedimentos perante a comissão de peritos o disposto na lei da arbitragem voluntária, com as seguintes especificidades:
 
-a) A submissão à arbitragem faz-se com a notificação à contraparte da nomeação de um árbitro, junta com a proposta da parte que o nomeia;
+a) A submissão à comissão de peritos faz-se com a notificação à contraparte da nomeação de um perito, junta com a proposta da parte que o nomeia;
 
-b) No prazo de 20 dias após a receção da notificação da nomeação e proposta, a contraparte nomeia o seu árbitro e junta a sua proposta;
+b) No prazo de 20 dias após a receção da notificação da nomeação e proposta, a contraparte nomeia o seu perito e junta a sua proposta;
 
-c) As propostas juntas com a nomeação dos árbitros podem ser diferentes das anteriormente apresentadas.
+c) As propostas juntas com a nomeação dos peritos podem ser diferentes das anteriormente apresentadas.
 
 6 - As entidades de gestão coletiva que, à data da entrada em vigor da presente lei, apliquem tarifários gerais que tenham sido fixados por acordo celebrado com entidades representativas de um número significativo de utilizadores podem proceder ao respetivo depósito junto da IGAC nos termos do artigo 41.º
 

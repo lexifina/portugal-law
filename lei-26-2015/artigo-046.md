@@ -12,6 +12,4 @@ c) Não se encontre pendente um procedimento coletivo nos termos do artigo anter
 
 d) (Revogada.)
 
-e) Tenham decorrido quatro meses sobre o início das negociações entre a entidade de gestão coletiva e o utilizador ou utilizadores em causa sem que tenha sido alcançado um acordo.
-
 2 - O caráter individual do procedimento não obsta ao litisconsórcio ou à coligação de partes, nos termos gerais.
