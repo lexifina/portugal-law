@@ -12,7 +12,7 @@ ii) Municípios e suas Associações;
 
 iii) Setor Empresarial do Estado;
 
-iv) Outras entidades mediante protocolo ou outra forma de cooperação com as entidades anteriores, designadamente organizações não governamentais da área do ambiente.
+iv) Autarquias Locais e suas Associações e Setor Empresarial Local, sendo que para as operações previstas nas subalíneas ii) a iv) da alínea a) do ponto 2.1 e nas subalíneas i) a iii) da alínea a) do ponto 2.2 do n.º 2 do artigo 82.º apenas são elegíveis enquanto detentoras de Corpos de Bombeiros;
 
 b) Tipologias de operações previstas no n.º 2 do artigo 82.º:
 
@@ -22,7 +22,7 @@ ii) Administração Regional da Região Autónoma da Madeira;
 
 iii) Associações Humanitárias de Bombeiros Voluntários e entidades detentoras de Corpos de Bombeiros Profissionais para as operações previstas nas subalíneas ii) a iv) da alínea a) do ponto 2.1 e nas subalíneas i) a iii) da alínea a) do ponto 2.2 do n.º 2 do artigo 82.º;
 
-iv) Autarquias Locais e suas Associações, sendo que para as operações previstas nas subalíneas ii) a iv) da alínea a) do ponto 2.1 e nas subalíneas i) a iii) da alínea a) do ponto 2.2 do n.º 2 do artigo 82.º apenas são elegíveis enquanto detentoras de Corpos de Bombeiros;
+iv) Autarquias Locais e suas Associações e Setor Empresarial Local, sendo que para as operações previstas nas subalíneas ii) a iv) da alínea a) do ponto 2.1 e nas subalíneas i) a iii) da alínea a) do ponto 2.2 do n.º 2 do artigo 82.º apenas são elegíveis enquanto detentoras de Corpos de Bombeiros;
 
 v) Entidades gestoras de ZIF (operações de cadastro predial), para as operações previstas na subalínea v) da alínea d) do ponto 2.1 do artigo 82.º;
 
