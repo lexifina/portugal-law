@@ -18,6 +18,8 @@ b) Declaração periódica de rendimentos, nos termos do artigo 120.º;
 
 c) Declaração anual de informação contabilística e fiscal, nos termos do artigo 121.º
 
+d) Declaração financeira e fiscal por país, nos termos do artigo 121.º-A.
+
 2 - As declarações a que se refere o número anterior são de modelo oficial, aprovado por despacho do membro do Governo responsável pela área das finanças, devendo ser-lhes juntos, fazendo delas parte integrante, os documentos e os anexos que para o efeito sejam mencionados no referido modelo oficial.
 
 3 - São regulamentados por portaria do membro do Governo responsável pela área das finanças o âmbito de obrigatoriedade, os suportes, o início de vigência e os procedimentos do regime de envio de declarações por transmissão eletrónica de dados.
