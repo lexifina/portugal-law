@@ -70,7 +70,7 @@ d) Qualquer participação, incluindo contratos de futuros, forward ou opções,
 
 8 - Consideram-se abrangidos no conceito de entidade de investimento a que se refere a alínea c) do n.º 2, designadamente:
 
-a) As instituições e crédito e as empresas de investimento que estejam autorizadas a exercer atividades de intermediação financeira em Portugal;
+a) As instituições de crédito e as empresas de investimento que estejam autorizadas a exercer atividades de intermediação financeira em Portugal;
 
 b) As instituições de investimento coletivo e a entidades responsáveis pela respetiva gestão autorizados autorizadas a exercer essa atividade em Portugal, nomeadamente:
 

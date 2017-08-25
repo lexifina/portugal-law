@@ -1,6 +1,6 @@
 # Artigo 20.º
 
-### Norma transitória
+### Prazos para a troca obrigatória e automática de informações
 
 1- As disposições do presente decreto-lei relativas à execução de troca obrigatória e automática de informações entram em vigor em 1 de janeiro de 2015, abrangendo as informações disponíveis correspondentes aos períodos de tributação com início a partir de 1 de janeiro de 2014.
 
@@ -23,3 +23,7 @@ b) A Autoridade Tributária a Aduaneira deve concretizar a troca de informação
 i) Ao dia 30 de setembro de 2017, no que respeita às informações relativas ao período de tributação a que se refere a alínea a) do número anterior;
 
 ii) Ao dia 30 de setembro de 2018 e dos anos subsequentes, no que respeita às informações relativas a períodos de tributação seguintes.
+
+4 - A comunicação da declaração por país, a que se refere o n.º 17 do artigo 6.º, é efetuada no prazo de 15 meses a contar do último dia do exercício fiscal do grupo de empresas multinacionais a que respeita a declaração por país.
+
+5 - Para efeitos do número anterior, considera-se que a primeira declaração por país é comunicada relativamente ao exercício fiscal do grupo de empresas multinacionais com início em 1 de janeiro de 2016 ou após esta data, sendo efetuada no prazo de 18 meses a contar do último dia desse exercício fiscal.

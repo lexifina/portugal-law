@@ -30,7 +30,7 @@ g) No caso de qualquer outra conta não descrita nas alíneas anteriores, o mont
 
 3 - Relativamente a contas sujeitas a comunicação que sejam contas preexistentes, não é obrigatório comunicar o(s) NIF(s) ou a data de nascimento caso tais dados não constem dos registos da instituição financeira reportante e a sua obtenção por essa instituição financeira reportante não seja de outro modo obrigatória nos termos do direito nacional ou de qualquer instrumento jurídico da União Europeia.
 
-4 - Não obstante o disposto no artigo anterior, a instituição financeira reportante é obrigada a envidar esforços razoáveis para obter o(s) NIF(s) e a data de nascimento no que diz respeito às contas preexistentes até ao final do segundo ano civil subsequente àquele em que essas contas tiverem sido identificadas como contas sujeitas a comunicação.
+4 - Não obstante o disposto no número anterior, a instituição financeira reportante é obrigada a envidar esforços razoáveis para obter o(s) NIF(s) e a data de nascimento no que diz respeito às contas preexistentes até ao final do segundo ano civil subsequente àquele em que essas contas tiverem sido identificadas como contas sujeitas a comunicação.
 
 5 - Não existe obrigatoriedade de comunicar o NIF caso:
 
@@ -40,6 +40,6 @@ b) Estando em causa titulares de contas financeiras com residência em jurisdiç
 
 6 - Não obstante o disposto na alínea a) do n.º 1, a instituição financeira reportante apenas fica obrigada a comunicar o local de nascimento nos casos em que:
 
-a) Esteja de outro modo obrigada a obter esta informação e a comunica-la nos termos do direito nacional ou por força de qualquer instrumento jurídico da União Europeia que esteja ou tenha estado em vigor em 5 de janeiro de 2015; e
+a) Esteja de outro modo obrigada a obter esta informação e a comunicá-la nos termos do direito nacional ou por força de qualquer instrumento jurídico da União Europeia que esteja ou tenha estado em vigor em 5 de janeiro de 2015; e
 
 b) Esta informação figure nos dados mantidos pela instituição financeira reportante que podem ser pesquisados eletronicamente.

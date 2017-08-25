@@ -76,7 +76,7 @@ b) Seja detetado algum dos indícios constantes das alíneas a) a e) do número 
 
 9 - Nos casos em que na pesquisa eletrónica se detetar a menção «posta restante» ou «ao cuidado de» no endereço e não seja identificado, em relação ao titular da conta, nenhum outro endereço ou qualquer outro dos indícios enumerados nas alíneas a) a e) do n.º 7, a instituição financeira reportante deve, na ordem mais adequada às circunstâncias, efetuar a pesquisa nos registos em papel indicada no artigo 8.º, n.º 3, ou procurar obter do titular da conta uma autocertificação ou documento comprovativo a fim de determinar a residência ou residências para efeitos fiscais desse titular da conta.
 
-10 - Quando, nos casos referidos no artigo anterior, a pesquisa em papel não permitir encontrar um indício e a tentativa para obtenção da autocertificação ou documento comprovativo falhar, a instituição financeira reportante deve comunicar a conta à Autoridade Tributária e Aduaneira como conta não documentada.
+10 - Quando, nos casos referidos no número anterior, a pesquisa em papel não permitir encontrar um indício e a tentativa para obtenção da autocertificação ou documento comprovativo falhar, a instituição financeira reportante deve comunicar a conta à Autoridade Tributária e Aduaneira como conta não documentada.
 
 11 - Sem prejuízo da deteção de indícios nos termos do n.º 7, uma instituição financeira reportante não é obrigada a equiparar um titular de conta a residente de um determinado Estado-Membro nos seguintes casos:
 

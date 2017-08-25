@@ -24,7 +24,7 @@ ii) A conta beneficia de um tratamento fiscal favorável, nos termos do qual as 
 
 iii) Apenas podem ser efetuados levantamentos quando forem cumpridos determinados critérios relacionados com o objetivo da conta de investimento ou poupança, por exemplo o pagamento de despesas com educação ou saúde, sendo aplicáveis penalizações a levantamentos efetuados antes de se cumprirem esses critérios; e
 
-iv) As contribuições anuais estão limitadas a um montante igual ou inferior a USD 50 000, sendo este montante calculado em conformidade com o disposto nos artigos 25.º a 27.º do anexo III ao presente decreto-lei e não entrando para tal cômputo as transferências de ativos ou fundos de qualquer outra conta financeira qualificada como excluída, nos termos desta alínea ou da alínea anterior, bem como de ativos de fundos de reforma ou de pensões qualificados como instituições financeiras não reportantes nos termos das alíneas a) a c) do n.º 7 do artigo 4.º-B;
+iv) As contribuições anuais estão limitadas a um montante igual ou inferior a USD 50 000, sendo este montante calculado em conformidade com o disposto nos artigos 25.º a 27.º do anexo ao presente decreto-lei e não entrando para tal cômputo as transferências de ativos ou fundos de qualquer outra conta financeira qualificada como excluída, nos termos desta alínea ou da alínea anterior, bem como de ativos de fundos de reforma ou de pensões qualificados como instituições financeiras não reportantes nos termos das alíneas a) a c) do n.º 7 do artigo 4.º-B;
 
 c) Um contrato de seguro de vida cujo período de cobertura termine antes de o segurado atingir os 90 anos de idade, desde que o contrato satisfaça os seguintes requisitos:
 
