@@ -2,7 +2,11 @@
 
 ### Informações vinculativas
 
-1 - As informações vinculativas sobre a situação tributária dos sujeitos passivos, incluindo, nos termos da lei, os pressupostos dos benefícios fiscais, são requeridas ao dirigente máximo do serviço, sendo o pedido acompanhado da descrição dos factos cuja qualificação jurídico-tributária se pretenda.
+1 - As informações vinculativas sobre a situação tributária dos sujeitos passivos, incluindo, nos termos da lei, os pressupostos dos benefícios fiscais, são requeridas ao dirigente máximo do serviço, sendo o pedido acompanhado:
+
+a) Da descrição dos factos cuja qualificação jurídico-tributária se pretenda;
+
+b) Dos elementos necessários nos termos do Decreto-Lei n.º 61/2013, de 10 maio, na sua redação atual, para a Autoridade Tributária e Aduaneira assegurar a troca obrigatória e automática de informações ao abrigo da cooperação administrativa entre autoridades competentes dos Estados-Membros da União Europeia e de outras jurisdições.
 
 2 - Mediante solicitação justificada do requerente, a informação vinculativa pode ser prestada com caráter de urgência, no prazo de 75 dias, desde que o pedido seja acompanhado de uma proposta de enquadramento jurídico-tributário.
 
@@ -30,7 +34,7 @@
 
 14 - A administração tributária, em relação ao objecto do pedido, não pode posteriormente proceder em sentido diverso da informação prestada, salvo em cumprimento de decisão judicial.
 
-15 - As informações vinculativas caducam em caso de alteração superveniente dos pressupostos de facto ou de direito em que assentaram.
+15 - As informações vinculativas caducam em caso de alteração superveniente dos pressupostos de facto ou de direito em que assentaram e, em qualquer caso, no prazo de quatro anos após a data da respetiva emissão, salvo se o sujeito passivo solicitar a sua renovação.
 
 16 - As informações vinculativas podem ser revogadas, com efeitos para o futuro, após um ano a contar da sua prestação, precedendo audição do requerente, nos termos da presente lei, com a salvaguarda dos direitos e interesses legítimos anteriormente constituídos.
 
@@ -47,3 +51,5 @@ a) À inexistência dos pressupostos para a prestação de uma informação vinc
 b) À existência de uma especial complexidade técnica que impossibilite a prestação da informação vinculativa; ou
 
 c) Ao enquadramento jurídico-tributário dos factos constantes da resposta ao pedido de informação vinculativa.
+
+21 - Os sujeitos passivos que tenham requerido a prestação de informações vinculativas ficam obrigados a comunicar à Autoridade Tributária e Aduaneira qualquer alteração aos elementos transmitidos no pedido inicial que seja relevante para efeitos da troca obrigatória e automática de informações ao abrigo da cooperação administrativa.
