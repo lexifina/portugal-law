@@ -8,7 +8,9 @@
 
 1.1 - Ativos fixos tangíveis, incluindo, infraestruturas coletivas de apoio à atividade agrícola, edifícios agrícolas, máquinas e equipamentos agrícolas, estufas e outras infraestruturas dentro da exploração;
 
-1.2 - Ativos biológicos, incluindo a reposição de efetivos animais e plantações plurianuais.
+1.2 - Ativos biológicos, incluindo a reposição de efetivos animais e plantações plurianuais;
+
+1.3 - Despesas gerais de consultoria e acompanhamento com o limite de 3 % da despesa elegível total aprovada da operação.
 
 2 - Despesas não elegíveis:
 
