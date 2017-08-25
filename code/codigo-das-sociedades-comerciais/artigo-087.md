@@ -4,7 +4,7 @@
 
 # Artigo 87.º
 
-### (Requisitos da deliberação)
+### Requisitos da deliberação ou decisão
 
 1 - A deliberação de aumento do capital deve mencionar expressamente:
 
@@ -26,6 +26,6 @@ g) As pessoas que participarão nesse aumento.
 
 3 - Não pode ser deliberado aumento de capital na modalidade de novas entradas enquanto não estiver definitivamente registado um aumento anterior nem estiverem vencidas todas as prestações de capital, inicial ou proveniente de anterior aumento.
 
-4 - O sócio de sociedade por quotas que por si ou juntamente com outros reunir a maioria de votos necessária para deliberar a alteração do contrato de sociedade pode comunicar aos gerentes ou administradores o aumento do capital social por conversão de suprimentos registados no último balanço aprovado de que seja titular.
+4 - O sócio de sociedade por quotas que por si ou juntamente com outros reunir a maioria de votos necessária para deliberar a alteração do contrato de sociedade pode comunicar à gerência o aumento do capital social por conversão de suprimentos registados no último balanço aprovado de que seja titular.
 
-5 - A administração procede à comunicação por escrito, no prazo máximo de 10 dias, aos sócios que não hajam participado no aumento referido no número anterior, com a advertência de que a eficácia do aumento depende da não oposição expressa de qualquer um daqueles, manifestada por escrito, no prazo de 10 dias, contados da comunicação de conversão.
+5 - O órgão de administração procede à comunicação por escrito, no prazo máximo de 10 dias, aos sócios que não hajam participado no aumento referido no número anterior, com a advertência de que a eficácia do aumento depende da não oposição expressa de qualquer um daqueles, manifestada por escrito, no prazo de 10 dias, contados da comunicação de conversão.
