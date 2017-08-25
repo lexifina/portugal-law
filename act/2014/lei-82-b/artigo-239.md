@@ -26,7 +26,7 @@ d) 'Empresa de seguros especificada'.
 
 2 - Para efeitos do disposto no número anterior entende-se por:
 
-a) 'Instituição de depósito', a instituição de crédito ou qualquer outra entidade legalmente autorizada a exercer a atividade de receção de depósitos ou outros fundos reembolsáveis;
+a) Os fundos de pensões e equiparáveis que se constituam e operem de acordo com a legislação nacional para a concessão de benefícios conexos com pensões de reforma, invalidez ou morte, ou qualquer combinação destes, que verifiquem os requisitos a definir em decreto-lei;
 
 b) 'Instituição de custódia', o intermediário financeiro, ou qualquer outra entidade, autorizado a prestar o serviço de registo e o depósito de instrumentos financeiros e cujos rendimentos brutos decorrentes da detenção dos ativos financeiros por conta de terceiros ou dos serviços financeiros relacionados sejam iguais ou superiores a 20 % do rendimento bruto dessa entidade obtido no mais curto dos seguintes períodos de tempo:
 
