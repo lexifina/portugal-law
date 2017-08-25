@@ -12,7 +12,7 @@
 
 5 - A falta de comunicação, ou a comunicação fora do prazo legal, da adesão à caixa postal eletrónica é punível com coima de (euro) 50 a (euro) 250.
 
-6 - A falta de apresentação, no prazo que a administração tributária fixar, da documentação respeitante à política adotada em matéria de preços de transferência, bem como da declaração de informação financeira e fiscal por país ou jurisdição relativa às entidades de um grupo multinacional, é punível com coima de (euro) 500 a (euro) 10 000.
+6 - A falta de apresentação da documentação respeitante à política adotada em matéria de preços de transferência, bem como a falta de apresentação, no prazo legalmente previsto, da declaração financeira e fiscal por país relativa às entidades de um grupo multinacional, é punível com coima de (euro) 500 a (euro) 10 000, acrescida de 5 % por cada dia de atraso no cumprimento da presente obrigação.
 
 7 - A falta de apresentação no prazo que a administração tributária fixar dos elementos referidos no n.º 9 do artigo 66.º do Código do IRC é punível com coima de (euro) 500 a (euro) 10 000.
 
@@ -20,4 +20,4 @@
 
 9 - Quando a infração prevista no n.º 1 diga respeito às comunicações exigidas nos artigos 3.º e 3.º-A do Decreto-Lei n.º 198/2012, de 24 de agosto, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 71/2013, de 30 de maio, a mesma constitui contraordenação grave, punível com coima de (euro) 200 a (euro) 10 000.
 
-10 - A falta de apresentação ou apresentação fora do prazo legal da declaração de registo e da comunicação à administração tributária, da informação a que as instituições financeiras reportantes se encontram obrigadas a prestar por força do disposto no Decreto-Lei n.º 61/2013, de 10 de maio, ou do Regime de acesso automático a informações financeiras relativas a residentes, no prazo que legalmente seja fixado, é punível com coima de (euro)500 a (euro)22 500.
+10 - A falta de apresentação, ou apresentação fora do prazo legal da declaração de registo e da comunicação à administração tributária, da informação a que as instituições financeiras reportantes se encontram obrigadas a prestar por força do disposto no Decreto-Lei n.º 61/2013, de 10 de maio, na sua redação atual, no prazo que legalmente seja fixado, é punível com coima de (euro) 500 a (euro) 22 500.
