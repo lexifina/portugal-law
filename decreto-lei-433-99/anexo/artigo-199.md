@@ -25,3 +25,9 @@
 11 - A garantia poderá ser reduzida, oficiosamente ou a requerimento dos contribuintes, à medida que os pagamentos forem efectuados e se tornar manifesta a desproporção entre o montante daquela e a dívida restante.
 
 12 - As garantias bancárias, caução e seguros-caução previstas neste artigo são constituídas a favor da administração tributária por via electrónica, nos termos a definir por portaria do Ministro das Finanças.
+
+13 - Os pagamentos em prestações ao abrigo de plano de recuperação no âmbito de processo de insolvência ou de processo especial de revitalização ou em acordo sujeito ao regime extrajudicial de recuperação de empresas em execução ou em negociação que decorra do plano ou do acordo não dependem da prestação de quaisquer garantias adicionais.
+
+14 - As garantias constituídas à data de autorização dos pagamentos em prestações referidos no número anterior mantêm-se até ao limite máximo da quantia exequenda, sendo reduzidas anualmente no dobro do montante efetivamente pago em prestações ao abrigo daqueles planos de pagamentos, desde que não se verifique, consoante os casos, a existência de novas dívidas fiscais em cobrança coerciva cuja execução não esteja legalmente suspensa ou cujos prazos de reclamação ou impugnação estejam a decorrer.
+
+15 - Os n.os 13 e 14 são correspondentemente aplicáveis, com as necessárias adaptações, aos planos de pagamentos em prestações aprovados ao abrigo do n.º 7 do artigo 196.º
