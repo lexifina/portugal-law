@@ -12,7 +12,7 @@
 
 3 - É excepcionalmente admitida a possibilidade de pagamento em prestações das dívidas referidas no número anterior, sem prejuízo da responsabilidade contra-ordenacional ou criminal que ao caso couber, quando:
 
-a) Esteja em aplicação plano de recuperação económica legalmente previsto de que decorra a imprescindibilidade da medida, podendo neste caso, se tal for tido como adequado pela entidade competente para autorizar o plano, haver lugar a dispensa da obrigação de substituição dos administradores ou gerentes; ou
+a) O pagamento em prestações se inclua em plano de recuperação no âmbito de processo de insolvência ou de processo especial de revitalização, ou em acordo sujeito ao regime extrajudicial de recuperação de empresas em execução ou em negociação, e decorra do plano ou do acordo, consoante o caso, a imprescindibilidade da medida, podendo neste caso haver lugar a dispensa da obrigação de substituição dos administradores ou gerentes, se tal for tido como adequado pela entidade competente para autorizar o plano; ou
 
 b) Se demonstre a dificuldade financeira excecional e previsíveis consequências económicas gravosas, não podendo o número das prestações mensais exceder 24 e o valor de qualquer delas ser inferior a 1 unidade de conta no momento da autorização.
 
@@ -24,18 +24,20 @@ da autorização.
 
 nenhuma delas ser inferior a 10 unidades de conta.
 
-6 - Quando, no âmbito de plano de recuperação económica legalmente previsto, se demonstre a indispensabilidade da medida e, ainda, quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado até ao limite máximo de 150 prestações, com a observância das condições previstas na parte final do número anterior.
+6 - Quando, para efeitos de plano de recuperação a aprovar no âmbito de processo de insolvência ou de processo especial de revitalização, ou de acordo a sujeitar ao regime extrajudicial de recuperação de empresas do qual a administração tributária seja parte, se demonstre a indispensabilidade da medida, e ainda quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado até ao limite máximo de 150 prestações, com a observância das condições previstas na parte final do número anterior.
 
-7 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia passada pelo funcionário para pagamento conjuntamente com a prestação.
+7 - Quando o executado esteja a cumprir plano de recuperação aprovado no âmbito de processo de insolvência ou de processo especial de revitalização, ou acordo sujeito ao regime extrajudicial de recuperação de empresas, e demonstre a indispensabilidade de acordar um plano prestacional relativo a dívida exigível em processo executivo não incluída no plano ou acordo em execução, mas respeitante a facto tributário anterior à data de aprovação do plano ou de celebração do acordo, e ainda quando os riscos inerentes à recuperação dos créditos o tornem recomendável, a administração tributária pode estabelecer que o regime prestacional seja alargado, até ao limite máximo de 150 prestações, com a observância das condições previstas na parte final do n.º 5.
 
-8 - Podem beneficiar do regime previsto neste artigo os terceiros que assumam a dívida, ainda que o seu pagamento em prestações se encontre autorizado, desde que obtenham autorização do devedor ou provem interesse legítimo e prestem, em qualquer circunstância, garantias através dos meios
+8 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia passada pelo funcionário para pagamento conjuntamente com a prestação.
+
+9- Podem beneficiar do regime previsto neste artigo os terceiros que assumam a dívida, ainda que o seu pagamento em prestações se encontre autorizado, desde que obtenham autorização do devedor ou provem interesse legítimo e prestem, em qualquer circunstância, garantias através dos meios
 
 previstos no n.º 1 do artigo 199.º
 
-9 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
+10 - A assunção da dívida nos termos do número anterior não exonera o antigo devedor, respondendo este solidariamente com o novo devedor, e, em caso de incumprimento, o processo de execução fiscal prosseguirá os seus termos contra o novo devedor.
 
-10 - O despacho de aceitação de assunção de dívida e das garantias apresentadas pelo novo devedor para suspensão da execução fiscal pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
+11 - O despacho de aceitação de assunção de dívida e das garantias apresentadas pelo novo devedor para suspensão da execução fiscal pode determinar a extinção das garantias constituídas e ou apresentadas pelo antigo devedor.
 
-11 - O novo devedor ficará sub-rogado nos direitos referidos no nº 1 do artigo 92º após a regularização da dívida, nos termos e condições previstos no presente artigo.
+12 - O novo devedor ficará sub-rogado nos direitos referidos no nº 1 do artigo 92º após a regularização da dívida, nos termos e condições previstos no presente artigo.
 
-12 - O disposto neste artigo não poderá aplicar-se a nenhum caso de pagamento por sub-rogação
+13 - O disposto neste artigo não poderá aplicar-se a nenhum caso de pagamento por sub-rogação
