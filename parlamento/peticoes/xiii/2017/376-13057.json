@@ -1,0 +1,497 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13057",
+  "numero": "376",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-08-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-10-24",
+            "entidades": null,
+            "id": "106774",
+            "tipo": null,
+            "titulo": "Audição em 2017-10-24 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": "2017-10-30",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "362/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-11",
+            "dataResposta": "2017-12-05",
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "363/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-12-05",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "807963",
+                "obs": null,
+                "pag": [
+                  "12-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-15",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/016/2017-12-15/12?pgs=12-15&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-03",
+        "DataArquivo": "2017-12-12",
+        "DataBaixaComissao": "2017-09-14",
+        "DataEnvioPAR": "2017-12-13",
+        "DataReaberta": "2017-10-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-10-02",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d355957466d597a6c6c4c546c6c596d51744e4745334f4331684e6a51344c5459355957466a596d4a6c4e54526d4f5335775a47593d&fich=c9aafc9e-9ebd-4a78-a648-69aacbbe54f9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a526d4e44426a4d5442684c5745324f5749744e4463785a6931685954686d4c5745304d7a49334e546b784e574e6c4e4335775a47593d&fich=4f40c10a-a69b-471f-aa8f-a43275915ce4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325935596a426d4e4756694c544177596d59744e4463354f533168596a45774c545669596a46694d4745344e446b354f4335775a47593d&fich=f9b0f4eb-00bf-4799-ab10-5bb1b0a84998.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259325954466c4f5451334c574a6c4d5467744e474e6c4f5330344e4759334c544d774e5456695a4745794f544d315a6935775a47593d&fich=f6a1e947-be18-4ce9-84f7-3055bda2935f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-12-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a56684f575a684f5745784c5441785a6d45744e446334595330354f54526a4c5441304d6a41794e54517a4e446b31597935775a47593d&fich=5a9fa9a1-01fa-478a-994c-04202543495c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426a4f5467334f474d354c5755305a4749744e44566b4d5331684d5449784c5746694d444178596d59774f4759794f5335775a47593d&fich=0c9878c9-e4db-45d1-a121-ab001bf08f29.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-07",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b33595759335a474a6b4c5455314f574d744e44566c4d6930344e47526c4c574e6c595451794d5745794d446b774d5335775a47593d&fich=97af7dbd-559c-45e2-84de-cea421a20901.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-10-03",
+            "gp": "PS",
+            "id": "5530",
+            "motivoCessacao": null,
+            "nome": "Maria Augusta Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-02-07",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-09-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a596d51314e546c6c4e4331694d3255774c54517a4e324d7459546b325a43307a4f5751344d4446694f574a6a4d4459756347526d&fich=3bd559e4-b3e0-437c-a96d-39d801b9bc06.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42159"
+    ],
+    "Iniciativasoriginadas": [
+      "42159"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-02-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_02_07_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m02/&tI=02:31:48:066&drc=00:05:03:104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-08",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação; Recomenda a realização de um concurso geral de professores em 2018 e a alteração do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_02_07_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m02/&tI=02:36:51:171&drc=00:03:13:481"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-08",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação; Recomenda a realização de um concurso geral de professores em 2018 e a alteração do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_02_07_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m02/&tI=02:40:04:653&drc=00:04:01:115"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-08",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação; Recomenda a realização de um concurso geral de professores em 2018 e a alteração do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_02_07_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m02/&tI=02:44:05:769&drc=00:03:21:431"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-08",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação; Recomenda a realização de um concurso geral de professores em 2018 e a alteração do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-08",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_02_07_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m02/&tI=02:47:27:201&drc=00:04:05:133"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-08",
+                "pubLeg": "XIII",
+                "pubNr": "45",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação; Recomenda a realização de um concurso geral de professores em 2018 e a alteração do regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13057",
+    "PetAssunto": "Solicitam a retificação das listas de mobilidade interna, e contratação inicial, de 2017-18 divulgadas pelo Ministério da Educação.",
+    "PetDataEntrada": "2017-08-31",
+    "PeticoesAssociadas": null,
+    "PetId": "13057",
+    "PetLeg": "XIII",
+    "PetNr": "376",
+    "PetNrAssinaturas": "4311",
+    "PetNrAssinaturasInicial": "4029",
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "651",
+        "obs": null,
+        "pag": [
+          "40-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-08",
+        "pubLeg": "XIII",
+        "pubNr": "45",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/045/2018-02-08/40?pgs=40-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "801863",
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-13",
+        "pubLeg": "XIII",
+        "pubNr": "4",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/004/2017-10-13/7?pgs=7&org=PLC"
+      }
+    ]
+  }
+}
