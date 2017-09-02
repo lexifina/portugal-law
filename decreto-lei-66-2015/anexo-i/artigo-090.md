@@ -24,7 +24,7 @@ Taxa = [8% x (montante anual das apostas efetuadas/(euro) 30 000 000,00)]
 
 8 - No caso previsto no número anterior, o imposto é liquidado mensalmente até ao dia 15 do mês seguinte àquele a que respeita, devendo a respetiva nota de cobrança ser paga até ao último dia do mesmo mês.
 
-9 - Do montante do IEJO apurado nos termos do presente artigo, 25% constitui receita própria da entidade de controlo, inspeção e regulação e 37,5% constitui receita a atribuir às entidades objeto de aposta a repartir pelos clubes ou pelos praticantes, consoante o caso, e pela federação que organize o evento, incluindo as ligas se as houver, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças, do desporto e do turismo.
+9 - Do montante do IEJO apurado nos termos do presente artigo, 25 % constitui receita própria da entidade de controlo, inspeção e regulação, e 37,5 % constitui receita a atribuir às entidades objeto de aposta a repartir pelos clubes ou pelos praticantes, consoante o caso, e pela federação que organiza o evento, incluindo as ligas se as houver, para promoção da modalidade e execução de programas de prevenção, formação e educação sobre o combate à manipulação de competições e corrupção desportiva, em defesa da integridade das competições desportivas, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças, do desporto e do turismo.
 
 10 - Sem prejuízo do disposto no n.º 5 do artigo 88.º, o montante líquido do IEJO, determinado nos termos do número anterior, é aplicado nos seguintes termos:
 
