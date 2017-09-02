@@ -10,7 +10,7 @@
 
 a) Prática de ilegalidades ou irregularidades graves, por ação ou omissão, no exercício dos poderes públicos conferidos pelo estatuto de utilidade pública desportiva, violação reiterada das regras legais de publicitação da atividade ou violação das regras de organização e funcionamento internos das federações desportivas constantes do presente decreto-lei;
 
-b) Não cumprimento da legislação contra a dopagem no desporto, bem como da relativa ao combate à violência, à corrupção, ao racismo e à xenofobia;
+b) Não cumprimento da legislação contra a dopagem no desporto, bem como da relativa à defesa da integridade das competições desportivas, designadamente dos deveres de transparência relativos à titularidade das sociedades desportivas, e das obrigações relativas ao combate à corrupção e viciação de resultados, à violência, ao racismo e à xenofobia;
 
 c) Não cumprimento de obrigações fiscais ou de prestações para com a segurança social;
 
