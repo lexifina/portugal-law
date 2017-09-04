@@ -1,0 +1,8 @@
+Aviso n.º 10199/2017
+Aires Henrique do Couto Pereira, Presidente da Câmara Municipal da Póvoa de Varzim, torna público que, por deliberação de 4 de abril de 2016 e nos termos previstos no artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal determinou que fosse iniciado o procedimento de elaboração do Plano de Pormenor da Área Envolvente ao Quartel de Paredes, tendo sido fixado o prazo de seis meses para a respetiva conclusão.
+Os objetivos a atingir pelo plano incidirão sobre a qualificação urbana da área envolvente à unidade militar, a compatibilização dos usos consolidados (habitação e atividades económicas) com a salvaguarda de interesses da unidade militar e o restabelecimento do troço do CM1416 integrado na área de ampliação da unidade militar.
+Quem pretender formular sugestões e/ou apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do Plano poderá fazê-lo no prazo de quinze dias a contar da data de publicação do presente aviso no Diário da República.
+As sugestões e/ou informações que os interessados entendam apresentar deverão ser reduzidas a suporte escrito e entregues na Secção de Gestão Documental, no Edifício dos Paços do Concelho, ou remetidas por correio registado, endereçado ao Presidente da Câmara Municipal da Póvoa de Varzim - Elaboração do Plano de Pormenor da Área Envolvente ao Quartel de Paredes - Praça do Almada, 4490-438 Póvoa de Varzim.
+Para constar se publica o presente aviso no Diário da República, no Boletim Municipal e no sítio da Internet da Câmara Municipal.
+9 de agosto de 2017. - O Presidente da Câmara Municipal, Aires Henrique do Couto Pereira.
+310708835
