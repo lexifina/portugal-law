@@ -1,0 +1,5 @@
+Aviso n.º 103/2017
+Por ordem superior se torna público que, a 23 de julho de 2014 e a 17 de julho de 2017, foram recebidas Notas, respetivamente, pela Embaixada de Portugal no Peru e pela Embaixada do Peru em Portugal em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Acordo entre a República Portuguesa e a República do Peru para a Proteção, Conservação, Recuperação e Devolução de Bens Culturais, Paleontológicos, Arqueológicos, Artísticos e Históricos, Furtados, Roubados e Ilicitamente Exportados ou Transferidos, assinado em Lisboa, em 19 de novembro de 2012.
+O referido Acordo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 147/2017 e ratificado pelo Decreto do Presidente da República n.º 49/2017, ambos publicados no Diário da República, 1.ª série, n.º 130, de 7 de julho de 2017.
+Nos termos do seu artigo 13.º, o Acordo entra em vigor em 16 de agosto de 2017.
+Departamento de Assuntos Jurídicos, 16 de agosto de 2017. - A Diretora, Susana Vaz Patto.
