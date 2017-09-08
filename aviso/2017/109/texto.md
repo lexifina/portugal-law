@@ -1,0 +1,5 @@
+Aviso n.º 109/2017
+Por ordem superior se torna público que, em 5 de agosto de 2016 e em 12 de junho de 2017, foram recebidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros e Comunidades de São Tomé e Príncipe e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor da Convenção entre a República Portuguesa e a República Democrática de São Tomé e Príncipe para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em São Tomé, em 13 de julho de 2015.
+A referida Convenção foi aprovada, pela Resolução da Assembleia da República n.º 182/2016 e ratificada pelo Decreto do Presidente da República n.º 52/2016, ambos publicados no Diário da República, 1.ª série, n.º 150, de 5 de agosto de 2016.
+Nos termos do seu artigo 31.º, a Convenção entra em vigor em 12 de julho de 2017.
+Departamento de Assuntos Jurídicos, 1 de setembro de 2017. - A Diretora, Susana Vaz Patto.
