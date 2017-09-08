@@ -1,0 +1,5 @@
+Aviso n.º 108/2017
+Por ordem superior se torna público que, em 23 de agosto de 2016 e em 19 de julho de 2017, foram recebidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros da Costa do Marfim e pelo Ministério dos Negócios Estrangeiros de Portugal, em que se comunica terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor da Convenção entre a República Portuguesa e a República da Costa do Marfim para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa, em 17 de março de 2015.
+A referida Convenção foi aprovada, pela Resolução da Assembleia da República n.º 192/2016 e ratificada pelo Decreto do Presidente da República n.º 61/2016, ambos publicados no Diário da República, 1.ª série, n.º 160, de 22 de agosto de 2016.
+Nos termos do seu artigo 31.º, a Convenção entra em vigor em 18 de agosto de 2017.
+Departamento de Assuntos Jurídicos, 1 de setembro de 2017. - A Diretora, Susana Vaz Patto.
