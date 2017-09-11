@@ -1,0 +1,4 @@
+Aviso n.º 10457/2017
+Isilda Maria Varges Gomes, Presidente da Câmara Municipal de Portimão, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, em cumprimento e para os efeitos do disposto no artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, publicito que a Assembleia Municipal de Portimão, sob proposta da Câmara Municipal de Portimão, na 2.ª sessão ordinária da 3.ª reunião de 04/05/2017, deliberou aprovar por maioria o "Regulamento de Apascentamento de Animais e sua Permanência e Trânsito em Espaço Público", que estará presente para consulta no site do município www.cm-portimao.pt, ou no Serviço Médico Veterinário Municipal no Sítio da Coca Maravilhas, Portimão.
+7 de agosto de 2017. - A Presidente da Câmara Municipal de Portimão, Isilda Maria Varges Gomes.
+310720847
