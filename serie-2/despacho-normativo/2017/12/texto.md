@@ -1,0 +1,20 @@
+Despacho Normativo n.º 12/2017
+O valor médio da quantidade de precipitação acumulada no ano hidrológico 2016/2017, registada no período de 1 de outubro de 2016 a 18 de junho de 2017 correspondeu a 74 % do valor médio 1971 - 2000 para o período homólogo.
+De acordo com o índice meteorológico de seca PDSI (Palmer Drought Severity Index), no final do mês de maio verificava-se uma situação de seca meteorológica em quase todo o território de Portugal Continental, tendo-se sentido um especial agravamento no decurso do mês de junho. Em meados desse mês cerca de 84 % do território estava em seca severa ou extrema.
+De realçar igualmente que a percentagem de água no solo em relação à capacidade de água utilizável pelas plantas se apresentava na maioria do território, à data de 18 de junho, abaixo dos 30 %. O volume de água armazenado nas bacias hidrográficas manteve-se baixo ao longo do ano hidrológico, apresentando grande parte das albufeiras disponibilidades inferiores a 50 %, facto que tem condicionado a campanha de rega e que tem resultado na redução de área e produtividade de culturas de primavera-verão.
+Face a esta situação, importa adotar medidas que privilegiem uma política ativa de minimização dos efeitos da seca na atividade agrícola e no rendimento dos agricultores.
+No âmbito da condicionalidade, regulada, a nível nacional, pelo despacho normativo n.º 6/2015, de 20 de fevereiro, alterado pelos despachos normativos n.os 16/2015, de 25 agosto, 1-B/2016, de 11 fevereiro, 4/2016, de 9 maio, e 15-B/2016, de 29 dezembro, a norma das boas condições agrícolas e ambientais das terras (BCAA) 4, «Cobertura mínima dos solos», estabelece, no n.º 1, que as parcelas de superfície agrícola devem apresentar uma vegetação de cobertura instalada ou espontânea no período entre 15 de novembro e 1 de março.
+No n.º 2 do referido preceito prevêem-se, contudo, diversas situações em que se exceciona a aplicação da norma «Cobertura da parcela» do n.º 1, designadamente as relativas a parcelas sujeitas a trabalhos de preparação do solo para instalação de culturas.
+Tendo-se verificado situações de agricultores que, pese embora tenham efetuado a mobilização do solo para preparação das culturas de primavera/verão no período compreendido entre 15 de novembro e 1 de março, não procederam à respetiva instalação devido à ausência de precipitação atmosférica, importa acautelar o seu enquadramento na exceção prevista no n.º 2 da BCCA 4, por razões de certeza e segurança jurídicas, de molde a evitar que os agricultores sejam prejudicados no valor das ajudas pela aplicação de sanções administrativas, por motivos que não lhes são imputáveis.
+Assim, nos termos e ao abrigo do disposto no artigo 93.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, determino o seguinte:
+Artigo 1.º
+Objeto
+O presente despacho normativo estabelece um regime excecional de aplicação, em 2017, da norma das boas condições agrícolas e ambientais das terras (BCAA 4), prevista no despacho normativo n.º 6/2015, de 20 de fevereiro, alterado pelos despachos normativos n.os 16/2015, de 25 agosto, 1-B/2016, de 11 fevereiro, 4/2016, de 9 maio, e 15-B/2016, de 29 dezembro.
+Artigo 2.º
+Cobertura da parcela
+A título excecional, no ano de 2017, consideram-se abrangidas pela alínea c) do n.º 2 da BCAA 4, «Cobertura mínima dos solos», constante do anexo III do despacho normativo n.º 6/2015, de 20 de fevereiro, alterado pelos despachos normativos n.os 16/2015, de 25 agosto, 1-B/2016, de 11 fevereiro, 4/2016, de 9 maio, e 15-B/2016, de 29 dezembro, as parcelas sujeitas a trabalhos de preparação do solo em que a instalação de culturas não tenha sido possível devido a uma situação de seca.
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2017.
+28 de agosto de 2017. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.
+310745341
