@@ -2,11 +2,11 @@
 
 ### Aprovação e publicação do preço de referência
 
-1 - O Conselho Diretivo do INFARMED, I.P., de acordo com o disposto no artigo 19.º do Decreto-Lei n.º 97/2015, de 1 de junho, publica:
+1 - O Conselho Diretivo do INFARMED, I. P., publica:
 
 a) Até ao 20.º dia do último mês de cada trimestre civil, os preços de referência para cada um dos grupos homogéneos de medicamentos;
 
-b) Até ao 20.º dia do mês, os preços de referência de novos grupos homogéneos criados em resultado da introdução no mercado de novos medicamentos genéricos, quando a criação do novo grupo ocorra em mês diferente do último mês de cada trimestre civil.
+b) Até ao 20.º dia do mês, os preços de referência de novos grupos homogéneos criados em resultado da introdução no mercado de novos medicamentos genéricos ou de grupos homogéneos existentes repristinados em resultado da reintrodução no mercado de medicamento genérico integrado no referido grupo homogéneo após a cessação de situações de suspensão ou interrupção da comercialização, quando a criação do novo grupo ocorra em mês diferente do último mês de cada trimestre civil.
 
 2 - Os preços de referência produzem efeitos:
 

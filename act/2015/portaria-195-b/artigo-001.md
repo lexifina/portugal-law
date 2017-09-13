@@ -2,4 +2,4 @@
 
 ### Objeto
 
-A presente portaria regula a determinação dos grupos homogéneos para efeitos da comparticipação no sistema de preços de referência.
+A presente portaria regula a forma e os critérios de determinação dos grupos homogéneos de medicamentos genéricos e dos preços de referência para efeitos de comparticipação no sistema de preços de referência.
