@@ -2,12 +2,14 @@
 
 ### Prazo de decisão
 
-1 - A decisão de comparticipação e de avaliação prévia deve ser proferida no prazo de:
+1 - A decisão de comparticipação e de avaliação prévia é de:
 
-a) 30 dias para a comparticipação de medicamentos genéricos;
+a) 30 dias de calendário para os medicamentos genéricos e medicamentos biológicos similares;
 
-b) 75 dias para a comparticipação de medicamentos não genéricos e para avaliação prévia de medicamentos.
+b) 75 dias de calendário para os medicamentos não genéricos cuja denominação comum internacional ou indicação terapêutica já se encontre comparticipada ou com autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde mediante avaliação prévia;
+
+c) 180 dias de calendário para os medicamentos cuja denominação comum internacional ou indicação terapêutica ainda não esteja comparticipada ou sem autorização de utilização nas instituições e serviços tutelados pelo membro do Governo responsável pela área da saúde, mediante avaliação prévia.
 
 2 - O prazo suspende-se nos casos em que o requerente seja notificado para apresentar os elementos e esclarecimentos previstos nos artigos 5.º, 6º e 9.º
 
-3 - O prazo de decisão final suspende-se durante o período referido nos n.os 6 e 7 do artigo 7.º
+3 - (Revogado.)
