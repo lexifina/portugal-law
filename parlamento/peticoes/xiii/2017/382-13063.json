@@ -1,0 +1,606 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13063",
+  "numero": "382",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-09-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-11-28",
+            "entidades": null,
+            "id": "107160",
+            "tipo": null,
+            "titulo": "Audição em 2017-11-28 com Federação Portuguesa das Associações de Surdos"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-10-10",
+            "dataResposta": "2017-10-31",
+            "entidades": [
+              "ERC - Entidade Reguladora para a Comunicação Social"
+            ],
+            "nrOficio": "127/CCCJD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-10",
+            "dataResposta": "2017-10-31",
+            "entidades": [
+              "Presidente do Conselho de Administração da RTP - Rádio e Televisão de Portugal, S.A."
+            ],
+            "nrOficio": "128/CCCJD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-16",
+            "dataResposta": "2017-11-06",
+            "entidades": [
+              "SIC - Sociedade Independente de Comunicação"
+            ],
+            "nrOficio": "132/CCCJD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-10-16",
+            "dataResposta": "2017-12-06",
+            "entidades": [
+              "TVI - Media Capital"
+            ],
+            "nrOficio": "133/CCCJD/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2017-12-12",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "807964",
+                "obs": null,
+                "pag": [
+                  "16-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-15",
+                "pubLeg": "XIII",
+                "pubNr": "16",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/016/2017-12-15/16?pgs=16-23&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-10-10",
+        "DataArquivo": "2017-12-12",
+        "DataBaixaComissao": "2017-09-25",
+        "DataEnvioPAR": "2017-12-14",
+        "DataReaberta": "2017-10-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c325a684d4759354e6d497a4c5449325a6a51744e474a6d4e7930354e7a4a684c544a6d4d574579595745344e7a51774f5335775a47593d&fich=fa0f96b3-26f4-4bf7-972a-2f1a2aa87409.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3259304e5751324e6a686d4c546b335a546b744e4745335a693034593245344c5445314e6a6b344e544534596a64685a6935775a47593d&fich=f45d668f-97e9-4a7f-8ca8-15698518b7af.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a5a6a4e54566d5a6a566d4c5467354d5745744e47526b5a5331684e7a4e6c4c574a684e4455774d6d4d354d575a685a6935775a47593d&fich=6c55ff5f-891a-4dde-a73e-ba4502c91faf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-11-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a686d597a63304f474d344c5463325a6a63744e4451794e433034593251354c5459784d446c6b4f546b785a444d7a597935775a47593d&fich=8fc748c8-76f7-4424-8cd9-6109d991d33c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-11-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a6c68596a4d354e546b334c574d774e5745744e444d304d6930344f4451304c544a694e4751774d3245314e3252694d7935775a47593d&fich=9ab39597-c05a-4342-8844-2b4d03a57db3.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2017-12-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324d774d3245334f4751334c5749794d5749744e4468694e4331694f444d344c54646c4e444d34596d51314e5451315a4335775a47593d&fich=c03a78d7-b21b-48b4-b838-7e438bd5545d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-11-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32526a5a5441334d475a6c4c54686d4d5445744e446c6859533035595468694c546b775932566b4d7a686b596d4977595335775a47593d&fich=dce070fe-8f11-49aa-9a8b-90ced38dbb0a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-10-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a55334e5759794e5751344c544d79593259744e444530595331694e7a49304c57557a4d6a52695a4452685a6d49335a5335775a47593d&fich=575f25d8-32cf-414a-b724-e324bd4afb7e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-11-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3245334d4456684d324d784c574e6a4f4441744e475a6c4f4330344d7a566d4c5451324d7a67324f474533596d597a4d6935775a47593d&fich=a705a3c1-cc80-4fe8-835f-463868a7bf32.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a64685a54426b4f4759324c545531597a59744e474a694f4330354f5759354c574d794e4449324f44426b4f5441304e5335775a47593d&fich=7ae0d8f6-55c6-4bb8-99f9-c242680d9045.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-10-10",
+            "gp": "PS",
+            "id": "3936",
+            "motivoCessacao": null,
+            "nome": "Palmira Maciel"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-02-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-09-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4d44526c59574e6b4d7930334f5455784c5451355a446374596d55784e5330354f445a6d5a5759795a6d566a4d7a6b756347526d&fich=304eacd3-7951-49d7-be15-986fef2fec39.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": [
+      "42089",
+      "42097",
+      "42112"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/29?pgs=29-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-02-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa; Por melhores condições de acesso da população surda a emissões televisivas;  Recomenda ao Governo a constituição de um grupo de trabalho tendo em vista a calendarização de medidas tendentes à total acessibilidade dos conteúdos televisivos para a comunidade surda, Recomenda ao Governo a adoção de medidas de promoção de acessibilidade televisiva para a população surda portuguesa.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13063",
+    "PetAssunto": "Solicitam a criação de melhores condições de acessibilidade televisiva para a população surda portuguesa.",
+    "PetDataEntrada": "2017-09-14",
+    "PeticoesAssociadas": null,
+    "PetId": "13063",
+    "PetLeg": "XIII",
+    "PetNr": "382",
+    "PetNrAssinaturas": "4127",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2452",
+        "obs": null,
+        "pag": [
+          "27-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-03",
+        "pubLeg": "XIII",
+        "pubNr": "44",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/27?pgs=27-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "801865",
+        "obs": null,
+        "pag": [
+          "8-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-13",
+        "pubLeg": "XIII",
+        "pubNr": "4",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/004/2017-10-13/8?pgs=8-10&org=PLC"
+      }
+    ]
+  }
+}
