@@ -4,7 +4,7 @@
 
 ## Secção I
 
-## Penas de prisão e de multa
+## Penas de prisão, de multa e de proibição do exercício de profissão, função ou atividade
 
 # Artigo 41.º
 
