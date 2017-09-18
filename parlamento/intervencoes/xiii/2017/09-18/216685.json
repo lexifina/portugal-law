@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "216685",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Nilza de Sena (PSD)",
+  "data_registo": "2017-09-18",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "32297",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "32297",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Faz um retrato do estado do ensino em Portugal e falou da necessidade de se fazer uma nova lei de bases que promova a igualdade de oportunidades no acesso e no sucesso educativo."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pede esclarecimento a Porfírio Silva acerca da sua delaração sobre o estado do ensino em Portugal e a necessidade de uma nova lei de bases que promova a igualdade de oportunidades no acesso e no sucesso educativo.",
+        "duracao": "00:03:00:417",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_09_18_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m09/&tI=01:48:38:583&drc=00:03:00:417"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-09-18",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "4326",
+      "nome": "Nilza de Sena"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "216685",
+    "IdDebate": "5214",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "216685",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "29-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-09-19",
+        "pubLeg": "XIII",
+        "pubNr": "1",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/001/2017-09-19/29?pgs=29&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Ao Deputado Porfírio Silva (PS)",
+    "Sessao": "3",
+    "Sumario": "Faz um retrato do estado do ensino em Portugal e falou da necessidade de se fazer uma nova lei de bases que promova a igualdade de oportunidades no acesso e no sucesso educativo.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
