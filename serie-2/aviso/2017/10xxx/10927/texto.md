@@ -1,0 +1,17 @@
+Aviso n.º 10927/2017
+Elaboração do Plano de Pormenor da Quinta da Amoreira
+Carlos Humberto Palácios Pinheiro de Carvalho, Presidente da Câmara Municipal do Barreiro, torna público, para cumprimento do disposto no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), que a Câmara Municipal do Barreiro, em reunião pública de 15 de fevereiro de 2017, de acordo com a Deliberação n.º 72/2017, deliberou, por unanimidade, proceder à Elaboração do Plano de Pormenor da Quinta da Amoreira, estabelecendo o prazo de 300 dias para a sua elaboração e um período de participação pública de 30 dias úteis, assim como a não sujeição do mesmo ao procedimento de avaliação ambiental.
+A área de intervenção localiza-se no Alto do Seixalinho, na união de freguesias do Alto do Seixalinho, Santo André e Verderena e tem como limites:
+A norte e poente: a Escola EB do Barreiro n.º 9 + JI n.º 1 do Alto Seixalinho;
+A sul: traseiras dos prédios da Rua Teresa Borges;
+A nascente: Brito camacho;
+A poente: Bairro 1.º de Dezembro.
+Torna-se ainda público que, nos termos do n.º 2 do artigo 88.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, terá início no 5.º (quinto) dia, após a publicação do presente Aviso no Diário da República, 2.ª série, um período de 30 dias úteis, para formulação de sugestões ou apresentação de informações, por qualquer interessado, sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do plano.
+Durante este período, os interessados poderão consultar os Termos de Referência e demais documentação no sítio eletrónico da Câmara Municipal do Barreiro (secção Viver/Planeamento, Ambiente, Mobilidade, Gestão e Regeneração Urbana/Gestão e Regeneração Urbana/Planos de Pormenor) ou na Divisão de Gestão e Regeneração Urbana (DGRU) da Câmara Municipal do Barreiro, sita no Largo Alexandre Herculano, n.º 85, 3.º
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, até ao termo do referido período, e dirigidas ao Presidente da Câmara Municipal do Barreiro, utilizando para o efeito, o impresso próprio, disponível nas instalações da Divisão de Gestão e Regeneração Urbana (DGRU) da Câmara Municipal do Barreiro ou no sítio eletrónico da Câmara Municipal do Barreiro (secção Viver/Planeamento, Ambiente, Mobilidade, Gestão e Regeneração Urbana/Gestão e Regeneração Urbana/Planos de Pormenor) e deverão ser entregues por via eletrónica, através do endereço eletrónico dgru@cm-barreiro.pt, presencialmente ou através de correio registado, na Divisão de Gestão e Regeneração Urbana da Câmara Municipal do Barreiro, sita no Largo Alexandre Herculano, n.º 85, 2830-314 Barreiro.
+10 de agosto de 2017. - O Presidente da Câmara, Carlos Humberto Palácios Pinheiro de Carvalho.
+Deliberação
+Elaboração do Plano de Pormenor da Quinta da Amoreira
+Através da Deliberação n.º 72/2017, a Câmara Municipal do Barreiro, em reunião pública de 15 de fevereiro de 2017, aprovou por unanimidade, o início do procedimento de Elaboração do Plano de Pormenor da Quinta da Amoreira, os respetivos Termos de Referência, estabelecendo um prazo de 300 dias para a sua elaboração e um período de participação pública de 30 dias úteis, assim como a não sujeição do mesmo ao procedimento de avaliação ambiental.
+10 de agosto de 2017. - O Presidente da Câmara, Carlos Humberto Palácios Pinheiro de Carvalho.
+610756228
