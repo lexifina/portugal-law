@@ -1,0 +1,9 @@
+Aviso n.º 11544/2017
+Alteração do Plano Diretor Municipal de Gondomar
+Discussão pública
+Luís Filipe de Araújo, vice-presidente da Câmara Municipal de Gondomar, nos termos dos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), torna público que, por deliberação de 30/08/2017, a Câmara Municipal determinou proceder à abertura de um período de 30 dias úteis para a discussão pública da proposta de alteração do Plano Diretor Municipal de Gondomar, o qual terá início no 5.º dia posterior à publicação do presente aviso no Diário da República.
+Os documentos que integram a proposta de alteração do Plano Diretor Municipal de Gondomar, nomeadamente o regulamento do plano e o parecer da Comissão de Coordenação e Desenvolvimento Regional do Norte, encontram-se disponíveis para consulta dos interessados no Gabinete de Planeamento e SIG, todos os dias das 9,00 horas às 12,00 horas e das 14,00 horas às 17,00 horas, e na página da Internet da Câmara Municipal de Gondomar, em www.cm-gondomar.pt.
+No decorrer do período de discussão pública, os interessados podem formular, por escrito, reclamações, observações e sugestões sobre a proposta de alteração do Plano Diretor Municipal de Gondomar, dirigidas ao presidente da câmara municipal, utilizando para o efeito um impresso próprio que pode ser obtido no Gabinete de Planeamento e SIG, sito na Rua 5 de Outubro, 118, 4420-086 Gondomar, no Balcão Único de Atendimento, sito na Praça do Cidadão, 4420-183 Gondomar, ou na página da Internet da Câmara Municipal de Gondomar.
+As reclamações, observações e sugestões poderão ser enviadas por carta registada com aviso de receção, dirigida ao presidente da Câmara Municipal para a Praça Manuel Guedes, 4420-193 Gondomar, ou entregues diretamente no Balcão Único de Atendimento.
+15 de setembro de 2017. - O Vice-Presidente da Câmara Municipal, Dr. Luís Filipe de Araújo.
+610786028
