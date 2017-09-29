@@ -6,7 +6,11 @@
 
 2 - A pedido da instituição congénere, a CMVM comunica imediatamente qualquer informação solicitada para efeito do disposto no número anterior e, caso tal não seja possível, comunica os motivos desse facto, adoptando, se necessário, as medidas adequadas para recolher as informações solicitadas.
 
-3 - A CMVM pode recusar dar seguimento a um pedido de informações se a comunicação dessas informações for susceptível de prejudicar a soberania, a segurança ou a ordem pública nacionais ou se estiver em curso um processo judicial ou existir sentença transitada em julgado relativamente aos mesmos factos e às mesmas pessoas perante os tribunais portugueses.
+3 - A CMVM pode recusar dar seguimento a um pedido de informações:
+
+a) Se a comunicação dessas informações for suscetível de prejudicar a soberania, a segurança ou a ordem pública nacionais ou de prejudicar a sua própria investigação, as suas atividades de fiscalização ou uma investigação penal; ou
+
+b) Se estiver em curso um processo judicial ou existir sentença transitada em julgado relativamente aos mesmos factos e às mesmas pessoas perante os tribunais portugueses.
 
 4 - No caso da recusa prevista no número anterior, a CMVM notifica a instituição requerente e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, fornecendo-lhes informações tão pormenorizadas quanto possível sobre os referidos processos ou sentenças.
 
