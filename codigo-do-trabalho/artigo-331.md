@@ -16,7 +16,7 @@ d) Em geral, exercer, ter exercido, pretender exercer ou invocar os seus direito
 
 a) Até seis meses após qualquer dos factos mencionados no número anterior;
 
-b) Até um ano após reclamação ou outra forma de exercício de direitos relativos a igualdade e não discriminação.
+b) Até um ano após a denúncia ou outra forma de exercício de direitos relativos a igualdade, não discriminação e assédio.
 
 3 - O empregador que aplicar sanção abusiva deve indemnizar o trabalhador nos termos gerais, com as alterações constantes dos números seguintes.
 

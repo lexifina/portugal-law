@@ -10,7 +10,7 @@
 
 2 - O acordo de revogação deve constar de documento assinado por ambas as partes, ficando cada uma com um exemplar.
 
-3 - O documento deve mencionar expressamente a data de celebração do acordo e a de início da produção dos respectivos efeitos.
+3 - O documento deve mencionar expressamente a data de celebração do acordo e a do início da produção dos respetivos efeitos, bem como o prazo legal para o exercício do direito de fazer cessar o acordo de revogação.
 
 4 - As partes podem, simultaneamente, acordar outros efeitos, dentro dos limites da lei.
 

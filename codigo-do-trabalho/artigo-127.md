@@ -24,6 +24,10 @@ i) Fornecer ao trabalhador a informação e a formação adequadas à prevençã
 
 j) Manter actualizado, em cada estabelecimento, o registo dos trabalhadores com indicação de nome, datas de nascimento e admissão, modalidade de contrato, categoria, promoções, retribuições, datas de início e termo das férias e faltas que impliquem perda da retribuição ou diminuição de dias de férias.
 
+k) Adotar códigos de boa conduta para a prevenção e combate ao assédio no trabalho, sempre que a empresa tenha sete ou mais trabalhadores;
+
+l) Instaurar procedimento disciplinar sempre que tiver conhecimento de alegadas situações de assédio no trabalho.
+
 2 - Na organização da actividade, o empregador deve observar o princípio geral da adaptação do trabalho à pessoa, com vista nomeadamente a atenuar o trabalho monótono ou cadenciado em função do tipo de actividade, e as exigências em matéria de segurança e saúde, designadamente no que se refere a pausas durante o tempo de trabalho.
 
 3 - O empregador deve proporcionar ao trabalhador condições de trabalho que favoreçam a conciliação da actividade profissional com a vida familiar e pessoal.
@@ -34,4 +38,4 @@ j) Manter actualizado, em cada estabelecimento, o registo dos trabalhadores com 
 
 6 - O empregador deve comunicar ao serviço com competência inspetiva do ministério responsável pela área laboral a adesão ao fundo de compensação do trabalho ou a mecanismo equivalente, previstos em legislação específica.
 
-7 - A alteração do elemento referido no número anterior deve ser comunicada no prazo de 30 dias.
+7 - Constitui contraordenação grave a violação do disposto nas alíneas k) e l) do n.º 1 e contraordenação leve a violação do disposto na alínea j) do n.º 1 e nos n.os 5 e 6.

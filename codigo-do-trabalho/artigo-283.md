@@ -16,4 +16,8 @@
 
 7 - A responsabilidade pela reparação dos danos emergentes de doenças profissionais é assumida pela segurança social, nos termos da lei.
 
-8 - O empregador deve assegurar a trabalhador afectado de lesão provocada por acidente de trabalho ou doença profissional que reduza a sua capacidade de trabalho ou de ganho a ocupação em funções compatíveis.
+8 - A responsabilidade pela reparação dos danos emergentes de doenças profissionais resultantes da prática de assédio é do empregador.
+
+9 - A responsabilidade pelo pagamento da reparação dos danos emergentes de doença profissional prevista no número anterior é da segurança social, nos termos legalmente previstos, ficando esta sub-rogada nos direitos do trabalhador, na medida dos pagamentos efetuados, acrescidos de juros de mora vincendos.
+
+10 - O empregador deve assegurar a trabalhador afectado de lesão provocada por acidente de trabalho ou doença profissional que reduza a sua capacidade de trabalho ou de ganho a ocupação em funções compatíveis.

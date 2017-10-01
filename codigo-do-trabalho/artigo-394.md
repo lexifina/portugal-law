@@ -24,7 +24,7 @@ d) Falta culposa de condições de segurança e saúde no trabalho;
 
 e) Lesão culposa de interesses patrimoniais sérios do trabalhador;
 
-f) Ofensa à integridade física ou moral, liberdade, honra ou dignidade do trabalhador, punível por lei, praticada pelo empregador ou seu representante.
+f) Ofensa à integridade física ou moral, liberdade, honra ou dignidade do trabalhador, punível por lei, incluindo a prática de assédio denunciada ao serviço com competência inspetiva na área laboral, praticada pelo empregador ou seu representante.
 
 3 - Constituem ainda justa causa de resolução do contrato pelo trabalhador:
 
