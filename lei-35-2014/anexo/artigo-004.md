@@ -10,23 +10,25 @@ b) Direitos de personalidade;
 
 c) Igualdade e não discriminação;
 
-d) Parentalidade;
+d) Assédio;
 
-e) Trabalhador com capacidade reduzida e trabalhadores com deficiência ou doença crónica;
+e) Parentalidade;
 
-f) Trabalhador estudante;
+f) Trabalhador com capacidade reduzida e trabalhadores com deficiência ou doença crónica;
 
-g) Organização e tempo de trabalho;
+g) Trabalhador estudante;
 
-h) Tempos de não trabalho;
+h) Organização e tempo de trabalho;
 
-i) Promoção da segurança e saúde no trabalho, incluindo a prevenção;
+i) Tempos de não trabalho;
 
-j) Comissões de trabalhadores, associações sindicais e representantes dos trabalhadores em matéria de segurança e saúde no trabalho;
+j) Promoção da segurança e saúde no trabalho, incluindo a prevenção;
 
-k) Mecanismos de resolução pacífica de conflitos coletivos;
+k) Comissões de trabalhadores, associações sindicais e representantes dos trabalhadores em matéria de segurança e saúde no trabalho;
 
-l) Greve e lock-out.
+l) Mecanismos de resolução pacífica de conflitos coletivos;
+
+m) Greve e lock-out.
 
 2 - Sem prejuízo do disposto no número seguinte, quando da aplicação do Código do Trabalho e legislação complementar referida no número anterior resultar a atribuição de competências ao serviço com competência inspetiva do ministério responsável pela área do trabalho, estas devem ser entendidas como atribuídas ao serviço com competência inspetiva do ministério que dirija, superintenda ou tutele o empregador público em causa e, cumulativamente, à Inspeção-Geral de Finanças (IGF), no que se refere às suas competências de coordenação, enquanto autoridade de auditoria neste domínio.
 

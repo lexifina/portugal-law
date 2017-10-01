@@ -24,4 +24,6 @@ i) Fornecer ao trabalhador a informação e a formação adequadas à prevençã
 
 j) Manter permanentemente atualizado o registo do pessoal em cada um dos seus órgãos ou serviços, com indicação dos nomes, datas de nascimento e de admissão, modalidades de vínculo, categorias, promoções, remunerações, datas de início e termo das férias e faltas que impliquem perda da remuneração ou diminuição dos dias de férias.
 
+k) Adotar códigos de boa conduta para a prevenção e combate ao assédio no trabalho e instaurar procedimento disciplinar sempre que tiver conhecimento de alegadas situações de assédio no trabalho.
+
 2 - O empregador público deve proporcionar ao trabalhador ações de formação profissional adequadas à sua qualificação, nos termos de legislação especial.
