@@ -30,9 +30,11 @@ m) Número de utente dos serviços de saúde;
 
 n) Número de identificação da segurança social.
 
-2 - Na ausência de informação sobre algum elemento referido no número anterior, com exceção do previsto na alínea c), o cartão de cidadão contém, na área destinada a esse elemento, a inscrição da letra "X" ou de outra menção prevista na lei.
+2 - Os elementos de identificação constantes das alíneas b), h) e j) do número anterior são obrigatórios, não sendo possível a emissão do cartão de cidadão em caso de ausência de informação sobre os mesmos.
 
-3 - Para além dos elementos de identificação do titular referidos no n.º 1, o cartão de cidadão contém as seguintes menções:
+3 - No caso de ausência de informação sobre algum dos elementos de identificação do titular não referidos no número anterior, com exceção do elemento previsto na alínea c) do n.º 1, o cartão de cidadão contém, na área destinada a esse elemento, a inscrição da letra «X» ou de outra menção prevista na lei.
+
+4 - Para além dos elementos de identificação do titular referidos no n.º 1, o cartão de cidadão contém as seguintes menções:
 
 a) República Portuguesa, enquanto Estado emissor;
 
@@ -46,7 +48,7 @@ e) Número de versão do cartão de cidadão;
 
 f) Tratado de Porto Seguro de 22 de Abril de 2000, se for emitido nos termos previstos no n.º 2 do artigo 3.º
 
-4 - A zona específica destinada a leitura óptica do cartão de cidadão contém os seguintes elementos e menções:
+5 - A zona específica destinada a leitura óptica do cartão de cidadão contém os seguintes elementos e menções:
 
 a) Apelidos;
 

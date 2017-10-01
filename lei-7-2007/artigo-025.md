@@ -12,6 +12,6 @@ c) Assinatura;
 
 d) Altura.
 
-2 - Na captação da imagem facial e das impressões digitais do titular do pedido devem ser observados os requisitos técnicos e de segurança fixados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.
+2 - Na captação da imagem facial e das impressões digitais do titular do pedido devem ser observados os requisitos técnicos e de segurança fixados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração interna e da justiça.
 
-3 - A recolha e a verificação de dados relativos à imagem facial, às impressões digitais, à assinatura e à altura só podem ser feitas no serviço de recepção e por funcionário ou agente devidamente credenciado pela DGRN ou, no caso de o serviço de recepção funcionar em posto ou secção consular, por funcionário ou agente devidamente credenciado pela Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas.
+3 - A recolha e a verificação de dados relativos à imagem facial, às impressões digitais, à assinatura e à altura só podem ser feitas no serviço de receção e emissão e por trabalhador devidamente credenciado pelo IRN, I. P., ou, no caso de o serviço de receção funcionar em posto ou secção consular, por trabalhador devidamente credenciado pela Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas.

@@ -2,7 +2,7 @@
 
 ### Verificação dos dados pessoais
 
-1 - A verificação da fidedignidade dos dados pessoais do interessado e, sendo caso disso, a conferência da identidade do requerente que exerce o poder paternal, a tutela ou a curatela sobre o interessado devem ser feitas no serviço de recepção com os meios disponíveis, designadamente:
+1 - A verificação da fidedignidade dos dados pessoais do interessado e, sendo caso disso, a conferência da identidade do requerente que exerce responsabilidades parentais, a tutela ou a curatela sobre o interessado devem ser feitas no serviço de receção e emissão com os meios disponíveis, designadamente:
 
 a) Por comparação dos dados constantes em bilhete de identidade, cartão de cidadão ou passaporte válidos, boletim de nascimento ou cédula pessoal;
 
@@ -16,4 +16,4 @@ c) Por comunicação em tempo real com o serviço portador da informação.
 
 4 - Os serviços responsáveis pela identificação civil e demais serviços cuja competência releve para os efeitos previstos nos números anteriores devem prestar a cooperação adequada à realização célere das diligências necessárias.
 
-5 - As operações de verificação da fidedignidade dos dados só podem ser feitas por funcionário ou agente dos serviços de recepção, devidamente credenciado.
+5 - As operações de verificação da fidedignidade dos dados só podem ser feitas por trabalhador dos serviços de recepção, devidamente credenciado.

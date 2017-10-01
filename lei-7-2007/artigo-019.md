@@ -2,8 +2,8 @@
 
 ### Prazo de validade
 
-1 - O prazo geral de validade do cartão de cidadão é de cinco anos.
+1 - O prazo geral de validade do cartão de cidadão é fixado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.
 
-2 - O cartão de cidadão relativo a cidadão que tenha completado 65 anos de idade à data da emissão tem a validade de "vitalício" e só carece de ser substituído nos casos referidos nas alíneas b) a e) do n.º 1 do artigo 26.º
+2 - (Revogado.)
 
-3 - O cartão de cidadão é válido até à data nele indicada.
+3 - O cartão de cidadão é válido até à data nele indicada, fixada de acordo com a portaria referida no n.º 1.
