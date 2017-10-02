@@ -1,0 +1,15 @@
+Despacho Normativo n.º 16/2017
+No contexto da situação particularmente gravosa que os incêndios de grandes proporções ocorridos no passado mês de junho tiveram para os concelhos de Castanheira de Pêra, Figueiró dos Vinhos, Pedrógão Grande, Ansião, Alvaiázere, Arganil, Góis, Penela, Pampilhosa da Serra, Oleiros e Sertã, ao nível da vida humana e do património das populações, mas com reflexos também nos recursos naturais e culturais daqueles territórios e na perceção de valor dos mesmos enquanto destinos turísticos, o Despacho Normativo n.º 9/2017, de 20 de julho de 2017, publicado no Diário da República, 2.ª série, n.º 153, de 9 de agosto de 2017, veio alargar o âmbito de aplicação da Linha de Apoio à Valorização Turística do Interior, criada pelo Despacho Normativo n.º 16/2016, de 30 de dezembro, ao abrigo do Programa Valorizar, e proceder à alocação de uma dotação orçamental específica, de 2 milhões de euros com o objetivo de criar condições para o apoio a iniciativas de caráter excecional que concorram, por um lado, para minimizar o impacto dos danos causados pelos referidos incêndios, e, por outro lado, para criar melhores condições para a recuperação, regeneração e revitalização económica daqueles territórios do interior, através da valorização turística dos seus recursos e ativos.
+Todavia, a grave situação verificada naquelas zonas estende-se agora a outros concelhos do País, pelo que se entende não dever limitar geograficamente a possibilidade de recurso à Linha de Apoio à Valorização Turística do Interior, devendo a mesma poder ser utilizada em qualquer concelho onde se verifiquem as mesmas condições e pressupostos que estiveram na génese do estabelecido pelo Despacho Normativo n.º 9/2017, permitindo de igual modo a criação de condições para o apoio a eventos que contribuam para a promoção desses territórios e para a atração de turistas e que contribuam para o desenvolvimento de projetos que possam contribuir já para a futura proteção das aldeias.
+Assim, ao abrigo do disposto no artigo 2.º do Despacho Normativo n.º 9/2016, de 28 de outubro, e no contexto da Linha de Apoio à Valorização Turística do Interior, criada pelo Despacho Normativo n.º 16/2016, de 30 de dezembro, e da competência que me está delegada pelo Despacho n.º 2983/2016, de 17 de fevereiro, publicado no Diário da República, 2.ª série, n.º 40, de 26 de fevereiro de 2016, determino o seguinte:
+Artigo 1.º
+Âmbito
+O modelo excecional de apoio criado pelo Despacho Normativo n.º 9/2017, de 20 de julho de 2017, publicado no Diário da República, 2.ª série, n.º 153, de 9 de agosto de 2017, aplica-se a qualquer concelho que tenha sido atingido pelo flagelo dos incêndios.
+Artigo 2.º
+Objeto
+Os projetos, iniciativas e programas a apoiar são os enunciados no referido Despacho Normativo n.º 9/2017 e nos demais termos e condições também nele mencionados.
+Artigo 3.º
+Vigência
+O presente diploma entra em vigor na data da sua assinatura.
+21 de agosto de 2017. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+310793926
