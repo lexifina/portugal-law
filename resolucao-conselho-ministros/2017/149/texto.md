@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 149/2017
+O Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), é um instituto público de regime especial que, nos termos do artigo 3.º do Decreto-Lei n.º 84/2012, de 30 de março, tem por missão a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social, desempenhando, designadamente, as funções de tesouraria única do sistema de segurança social.
+Nesse sentido, importa assegurar o pagamento de prestações diferidas e sociais, nomeadamente pensões do regime geral, pensões no âmbito das doenças profissionais e ainda o designado «rendimento social de inserção», mediante a emissão de vales postais, sendo esta aquisição de serviços imprescindível e revestindo caráter corrente e contínuo.
+Os CTT - Correios de Portugal, S. A., detêm a exclusividade dos serviços de aceitação, tratamento e distribuição de objetos postais, bem como a emissão e venda de selos e outros valores postais, decorrentes do contrato de concessão em vigor até 2020, pelo que os serviços postais a contratualizar se enquadram no âmbito do disposto da alínea a) do n.º 4 do artigo 5.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, não sendo aplicáveis as disposições deste diploma relativas aos procedimentos pré-contratuais.
+Neste contexto, prevê-se a celebração de um contrato pelo período de 12 meses, cuja despesa corresponde ao montante máximo global de (euro) 4 176 639,50, isento de IVA.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinados pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, da alínea b) do n.º 1 do artigo 20.º, dos artigos 38.º e 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), a realizar a despesa relativa à aquisição de serviços de emissão de vales postais aos CTT - Correios de Portugal, S. A., pelo período de 12 meses, até ao montante máximo global de (euro) 4 176 639,50, isento de IVA.
+2 - Determinar que os encargos resultantes do disposto no número anterior não podem exceder, em cada ano económico, os seguintes montantes, isentos de IVA:
+2018: (euro)3 828 586,21;
+2019: (euro)348 053,29.
+3 - Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que lhe antecede.
+4 - Estabelecer que os encargos financeiros decorrentes da aquisição referida no n.º 1 são suportados por verbas adequadas a inscrever nos orçamentos do IGFSS, I. P., para os anos de 2018 e 2019.
+5 - Delegar, com a faculdade de subdelegação, no Ministro do Trabalho, Solidariedade e Segurança Social, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 14 de setembro de 2017. - O Primeiro-Ministro, António Luís Santos da Costa.
