@@ -1,0 +1,10 @@
+Aviso n.º 11678/2017
+Prorrogação do prazo de vigência da Suspensão do Plano de Pormenor da Zona Industrial da Trofa e das Medidas Preventivas
+António da Costa Azevedo, Presidente da Câmara Municipal da Trofa em exercício, torna público que a Assembleia Municipal da Trofa, em reunião pública realizada a 8 de setembro de 2017, ao abrigo do disposto no n.º 4, alínea h) do artigo 191.º, do Regime Jurídico dos Instrumentos de Gestão Territorial, publicado através do Decreto-Lei n.º 80/2015, de 14 de maio, deliberou, por unanimidade, aprovar a prorrogação, pelo prazo de um ano, da vigência da Suspensão do Plano de Pormenor da Zona Industrial da Trofa e das Medidas Preventivas, publicada no Diário da República, 2.ª série, n.º 154, de 10 de agosto de 2015
+Torna-se ainda público que nos termos do artigo 193.º do citado Regime Jurídico dos Instrumentos de Gestão Territorial, a mencionada deliberação municipal poderá ser consultada na página oficial da Câmara Municipal da Trofa em www.mun-trofa.pt e nas instalações do Departamento de Administração do Território, Divisão de Planeamento Urbanismo e Obras Particulares, desta Câmara Municipal, sitas na Rua Imaculada Conceição, 4785-684 Trofa.
+15 de setembro de 2017. - O Presidente da Câmara Municipal da Trofa em exercício, António da Costa Azevedo, Prof.
+Deliberação
+Prorrogação do prazo de vigência da Suspensão do Plano de Pormenor da Zona Industrial da Trofa e das Medidas Preventivas
+Para efeitos do disposto no n.º 4, alínea h) do artigo 191.º, do Regime Jurídico dos Instrumentos de Gestão Territorial, publicado através do Decreto-Lei n.º 80/2015, de 14 de maio, declara-se que a Assembleia Municipal da Trofa, em reunião pública realizada a 8 de setembro de 2017, deliberou, por unanimidade, aprovar a prorrogação, pelo prazo de um ano, da vigência da Suspensão do Plano de Pormenor da Zona Industrial da Trofa e das Medidas Preventivas, publicada no Diário da República, 2.ª série, n.º 154, de 10 de agosto de 2015.
+15 de setembro de 2017. - A Presidente da Assembleia Municipal, Isabel Maria Azevedo Ferreira Cruz, Dr.ª
+610789893
