@@ -6,4 +6,4 @@
 
 2 - Decorrido um ano desde a publicidade da decisão condenatória sem que o agente tenha sido novamente condenado por contra-ordenação grave ou muito grave, é a mesma eliminada do registo referido no artigo anterior.
 
-3 - O disposto no n.º 1 não se aplica no caso de contraordenação a que se refere o n.º 4 do artigo 29.º.
+3 - O disposto no n.º 1 não se aplica no caso de contraordenação a que se refere o n.º 5 do artigo 29.º.
