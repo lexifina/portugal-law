@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "217926",
+  "tipo": "Pergunta",
+  "orador": "Catarina Martins (BE)",
+  "data_registo": "2017-10-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "106586",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "106586",
+        "tipo": "DEB",
+        "titulo": "Debate com o Primeiro-Ministro - Sobre \"Políticas de Habitação\""
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Debate quinzenal com o Primeiro-Ministro, sobre linhas política de habitação, ao abrigo da alínea a) do n.º 2 do artigo 224.º do Regimento. Pergunta a António Costa.",
+        "duracao": "00:03:57:432",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_10_04_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=00:38:23:447&drc=00:03:57:432"
+      },
+      {
+        "assunto": "Debate quinzenal com o Primeiro-Ministro, sobre linhas política de habitação, ao abrigo da alínea a) do n.º 2 do artigo 224.º do Regimento. Pergunta a António Costa.",
+        "duracao": "00:02:13:534",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_10_04_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=00:45:26:465&drc=00:02:13:534"
+      },
+      {
+        "assunto": "Debate quinzenal com o Primeiro-Ministro, sobre linhas política de habitação, ao abrigo da alínea a) do n.º 2 do artigo 224.º do Regimento. Pergunta a António Costa.",
+        "duracao": "00:02:15:268",
+        "tipoIntervencao": "Pergunta",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_10_04_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m10/&tI=00:51:00:646&drc=00:02:15:268"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-10-04",
+    "Debate": null,
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "4161",
+      "nome": "Catarina Martins"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "217926",
+    "IdDebate": "5221",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "217926",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "12-13",
+          "14-15",
+          "15-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-06",
+        "pubLeg": "XIII",
+        "pubNr": "5",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/005/2017-10-06/12?pgs=12-13,14-15,15-16&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Ao Primeiro-Ministro, António Costa",
+    "Sessao": "3",
+    "Sumario": "Políticas de Habitação",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pergunta"
+  }
+}
