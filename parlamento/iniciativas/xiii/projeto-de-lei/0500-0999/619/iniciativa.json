@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Projeto de Lei",
+  "numero": "619",
+  "id": "41714",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2017-10-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2018-09-14",
+    "DataInicioleg": "2017-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Lopes Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5617",
+        "nome": "Margarida Mano"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4364",
+        "nome": "Luís Leite Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3919",
+        "nome": "Amadeu Soares Albergaria"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5645",
+        "nome": "António Costa Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4326",
+        "nome": "Nilza de Sena"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1998",
+        "nome": "Luís Campos Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3966",
+        "nome": "Álvaro Batista"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4129",
+        "nome": "Cristóvão Crespo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4394",
+        "nome": "Emília Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6207",
+        "nome": "Margarida Balseiro Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5491",
+        "nome": "Susana Lamas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4170",
+        "nome": "Duarte Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5580",
+        "nome": "Laura Monteiro Magalhães"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5984",
+        "nome": "Maria Germana Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4365",
+        "nome": "Maria Manuela Tender"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4393",
+        "nome": "Cristóvão Simão Ribeiro"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "41714",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a646c4e544530595756684c5759325a4749744e44466c4f5331694d546b354c54493359575a6c4f445a6d597a55344d43356b62324d3d&fich=7e514aea-f6db-41e9-b199-27afe86fc580.doc&Inline=true",
+    "IniNr": "619",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "SIM",
+    "IniTextoSubstCampo": "Texto inicial substituído a pedido do autor em 10-10-2017",
+    "IniTipo": "J",
+    "IniTitulo": "Altera o Decreto-Lei n.º 55/2013, de 17 de abril, que aprova a orgânica da Fundação para a Ciência e a Tecnologia, I. P.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
