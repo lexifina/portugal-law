@@ -8,7 +8,7 @@
 
 3 - Quando não seja desencadeado qualquer procedimento de licenciamento ou de autorização, a competência referida no número anterior pertence, no âmbito das respectivas acções de fiscalização, às entidades referidas no artigo 12.º
 
-4 - Nos casos de operações urbanísticas isentas de licenciamento e autorização, nos termos do Decreto-Lei n.º 555/99, de 16 de Dezembro, a justificação dos motivos que legitimam o incumprimento das normas técnicas de acessibilidades é consignada em adequado termo de responsabilidade enviado, para efeitos de registo, à Direcção-Geral dos Edifícios e Monumentos Nacionais.
+4 - Nos casos de operações urbanísticas isentas de licenciamento e autorização, nos termos do Decreto-Lei n.º 555/99, de 16 de dezembro, a justificação dos motivos que legitimam o incumprimento das normas técnicas de acessibilidades é consignada em adequado termo de responsabilidade enviado, para efeitos de registo, ao INR, I. P.
 
 5 - Se a satisfação de alguma ou algumas das especificações contidas nas normas técnicas for impraticável devem ser satisfeitas todas as restantes especificações.
 
@@ -16,4 +16,4 @@
 
 7 - A justificação referida no número anterior, nos casos de imóveis pertencentes a particulares, é objecto de publicitação no sítio da Internet do município respectivo e, nos casos de imóveis pertencentes a entidades públicas, através de relatório anual, no sítio da Internet a que tenham acesso oficial.
 
-8 - A aplicação das normas técnicas aprovadas por este decreto-lei a edifícios e respectivos espaços circundantes que revistam especial interesse histórico e arquitectónico, designadamente os imóveis classificados ou em vias de classificação, é avaliada caso a caso e adaptada às características específicas do edifício em causa, ficando a sua aprovação dependente do parecer favorável do Instituto Português do Património Arquitectónico e Arqueológico.
+8 - A aplicação das normas técnicas, aprovadas por este decreto-lei, a edifícios e respetivos espaços circundantes que revistam especial interesse histórico e arquitetónico, designadamente os imóveis classificados ou em vias de classificação, é avaliada caso a caso e adaptada às características específicas do edifício em causa, ficando a sua aprovação dependente do parecer favorável da Direção-Geral do Património Cultural.
