@@ -10,12 +10,8 @@
 
 4 - Aos titulares do subsídio mensal vitalício e do complemento extraordinário de solidariedade previstos no n.º 1 é garantido o valor de referência anual da componente base da prestação até à conversão prevista no n.º 2.
 
-5 - Os titulares da prestação podem requerer o complemento solidário para idosos, até 30 de setembro de 2018, desde que cumpram as condições de atribuição previstas no regime jurídico que regula o complemento solidário para idosos, sem prejuízo do disposto no n.º 7.
+5 - Os titulares da prestação podem requerer o complemento solidário para idosos, até 30 de setembro de 2018, desde que cumpram as condições de atribuição previstas no regime jurídico que regula o complemento solidário para idosos, sem prejuízo do disposto no número seguinte.
 
-6 - Os requerentes da prestação que sejam titulares do complemento social para idosos podem manter a atribuição deste complemento até 30 de setembro de 2018, no caso de lhes vir a ser reconhecido o direito àquela prestação, sem prejuízo do disposto no número seguinte.
+6 - A partir de 1 de outubro de 2018, os titulares da prestação que acumulem esta prestação com o complemento solidário para idosos e pretendam requerer o complemento da prestação, devem optar por um deles.
 
-7 - A partir de 1 de outubro de 2018, os titulares da prestação que acumulem esta com o complemento solidário para idosos e requeiram o complemento da prestação podem optar por manter o complemento social para idosos, caso o valor do complemento da prestação a que tenham direito seja de montante inferior.
-
-8 - A partir de 1 de outubro de 2018, os titulares da prestação que não sejam titulares do complemento solidário para idosos apenas podem requerer o complemento da prestação.
-
-9 - Durante o primeiro semestre de execução da prestação, é dada precedência na atribuição da prestação aos requerentes que apresentem um grau de incapacidade igual ou superior a 80 %.
+7 - Durante o primeiro semestre de execução da prestação, é dada precedência na atribuição da prestação aos requerentes que apresentem um grau de incapacidade igual ou superior a 80 %.

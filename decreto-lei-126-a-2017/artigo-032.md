@@ -14,6 +14,6 @@ d) À residência;
 
 e) Ao início ou fim da atividade profissional;
 
-f) Ao início ou fim da frequência de resposta social, prevista na alínea b) do artigo 16.º
+f) Ao início ou fim da frequência de resposta social, prevista na alínea a) do artigo 16.º
 
 2 - O titular da prestação ou a pessoa prevista no artigo anterior estão obrigados a comunicar à entidade gestora competente da segurança social os períodos de ausência do território nacional, bem como os motivos justificativos da ausência, para efeitos do disposto na alínea c) do n.º 1 do artigo 27.º

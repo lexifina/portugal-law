@@ -10,8 +10,6 @@ a) Da composição do agregado familiar;
 
 b) Dos rendimentos do agregado familiar;
 
-c) [Revogada];
+c) Dos valores de referência e dos limites máximos de acumulação previstos nos artigos 18.º, 20.º e 21.º;
 
 d) Do grau de incapacidade.
-
-3 - A prestação é igualmente reavaliada sempre que haja alteração dos valores de referência e dos limites máximos de acumulação previstos nos artigos 18.º, 20.º e 21.º

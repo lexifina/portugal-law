@@ -1,3 +1,7 @@
+Decreto-Lei n.º 126-A/2017
+
+de 6 de outubro
+
 O XXI Governo Constitucional assumiu a inclusão das pessoas com deficiência como uma das prioridades da ação governativa e enquanto corolário de uma sociedade que se quer mais justa, mais solidária, que respeita a diversidade e a encara como um fator de riqueza e de progresso.
 
 Esta ambição tem expressão vinculativa no plano internacional, designadamente no âmbito das Nações Unidas, com a ratificação da Convenção sobre os Direitos das Pessoas com Deficiência, em julho de 2009, tendo o Estado Português assumido o compromisso de promover condições de vida dignas às pessoas com deficiência ou incapacidade e a responsabilidade pela adoção das medidas que visem garantir às pessoas com deficiência o pleno reconhecimento e o exercício dos seus direitos num quadro de igualdade de oportunidades.
