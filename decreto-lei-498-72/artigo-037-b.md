@@ -4,7 +4,7 @@
 
 1 - Podem requerer a aposentação, independentemente de submissão a junta médica e sem prejuízo da aplicação do regime da pensão unificada, os subscritores da CGA com, pelo menos, 60 anos de idade e que:
 
-a) Tendo sido inscritos na CGA ou no regime geral de segurança social em idade igual ou inferior a 16 anos, tenham, pelo menos, 46 anos de serviço;
+a) Tendo sido inscritos na CGA ou no regime geral de segurança social em idade igual ou inferior a 14 anos, tenham, pelo menos, 46 anos de serviço;
 
 b) Independentemente do momento em que tenham sido inscritos na CGA ou no regime geral de segurança social, tenham, pelo menos, 48 anos de serviço.
 
