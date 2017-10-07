@@ -4,7 +4,7 @@
 
 Têm montante fixo as seguintes prestações:
 
-a) Subsídio mensal vitalício;
+a) (Revogada);
 
 b) Subsídio por assistência de terceira pessoa;
 
