@@ -2,9 +2,9 @@
 
 ### Factor de sustentabilidade
 
-1 - No momento do cálculo da pensão de velhice ou na data da convolação da pensão de invalidez em pensão de velhice é aplicável, respetivamente, ao montante da pensão estatutária ou ao montante da pensão regulamentar em curso, o fator de sustentabilidade correspondente ao ano de início da pensão ou da data da convolação, sem prejuízo do disposto nos n.os 2 e 5.
+1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto nos n.os 5 e 6.
 
-2 - Na data da convolação da pensão de invalidez absoluta em pensão de velhice, o fator de sustentabilidade não é aplicável nas situações em que, à data em que a mesma ocorra, o beneficiário tiver recebido pensão de invalidez absoluta por um período superior a 20 anos.
+2 - Na data da convolação das pensões de invalidez em pensão de velhice não é aplicável o fator de sustentabilidade.
 
 3 - O fator de sustentabilidade é definido pela seguinte fórmula:
 
@@ -20,4 +20,10 @@
 
 5 - Ficam salvaguardadas da aplicação do fator de sustentabilidade as pensões estatutárias dos beneficiários que passem à situação de pensionistas de velhice na idade normal de acesso à pensão, ou em idade superior.
 
-6 - O indicador da esperança média de vida aos 65 anos relativa a cada ano é objecto de publicação pelo Instituto Nacional de Estatística.
+6 - Ficam, igualmente, salvaguardadas da aplicação do fator de sustentabilidade as pensões estatutárias dos seguintes beneficiários:
+
+a) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 48 anos civis com registo de remunerações relevantes para o cálculo da pensão;
+
+b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 anos civis com registo de remunerações relevantes para o cálculo da pensão e que tenham iniciado a sua carreira contributiva no Regime Geral de Segurança Social ou na Caixa Geral de Aposentações com 14 anos de idade ou em idade inferior.
+
+7 - O indicador da esperança média de vida aos 65 anos relativa a cada ano é objecto de publicação pelo Instituto Nacional de Estatística.

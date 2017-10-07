@@ -19,3 +19,5 @@
 6 - Os beneficiários com pensão antecipada, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, nos termos da lei.
 
 7 - Nos casos previstos nas alíneas b), c) e d) do n.º 1 do artigo 20.º, o montante da pensão antecipada é calculado nos termos gerais, com as particularidades previstas em lei especial que se lhes aplique.
+
+8 - Estão excluídas do âmbito de aplicação do presente artigo as pensões estatutárias dos beneficiários referidos no n.º 6 do artigo anterior.

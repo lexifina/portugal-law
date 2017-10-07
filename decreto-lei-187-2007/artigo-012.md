@@ -2,7 +2,7 @@
 
 ### Densidade contributiva
 
-1 - Para efeitos do preenchimento do prazo de garantia, são considerados os anos civis em que o total de dias com registo de remunerações seja igual ou superior a 120, sem prejuízo do disposto no n.º 2 do artigo 96.º
+1 - Para efeitos da totalização de períodos contributivos prevista no artigo anterior, são considerados os anos civis em que o total de dias com registo de remunerações seja igual ou superior a 120, sem prejuízo do disposto no n.º 2 do artigo 96.º
 
 2 - Quando, em alguns dos anos civis com remunerações registadas, não se verificar a densidade contributiva, os dias com registo de remunerações neles verificados são tomados em conta no apuramento da densidade contributiva, dando-se como cumprido um ano civil por cada grupo de 120 dias.
 
