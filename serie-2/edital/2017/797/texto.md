@@ -1,0 +1,17 @@
+Edital n.º 797/2017
+Alteração ao Plano Diretor Municipal de Torres Vedras
+Adequação ao Regime Extraordinário de Regularização das Atividades Económicas
+Carlos Manuel Antunes Bernardes, Presidente da Câmara Municipal de Torres Vedras:
+Torna público que, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14/05, que a Câmara, em sua reunião ordinária pública de 22/08/2017, deliberou o seguinte:
+a) Proceder à alteração do Plano Diretor Municipal de Torres Vedras, nos termos do artigo 119.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação dada pelo DL n.º 80/2015, de 14 de maio, com base nos fundamentos constantes da respetiva memória descritiva e justificativa, a qual consiste no seguinte:
+(i) alteração do articulado do artigo 60.º do Regulamento do Plano Diretor Municipal de Torres Vedras, que passa a ter a seguinte redação:
+"Constituem espaços de usos múltiplos as áreas destinadas a equipamentos, infraestruturas e outras estruturas ou ocupações compatíveis com o estatuto de solo rural, delimitadas em planta de ordenamento".
+(ii) requalificação de uma parcela do território municipal, das categorias de "Área Agrícola Especial", "Área Agroflorestal" e "Área de Indústria Extrativa" para a categoria de "Espaço de Usos Múltiplos", com a área de 75.360 m2, do território municipal localizada no lugar de Espera - Runa, integrada na União das Freguesias de Dois Portos e Runa e tem como propósito adequar a pretensão da Constradas - Estradas e Construção Civil, S. A. de: (a) regularização da operação de gestão de resíduos de construção e demolição e de (b) legalização, alteração e ampliação do estabelecimento industrial de fabrico de misturas betuminosas (CAE 23991, tipologia 2), que abrange uma superfície de 73.612 m2, ao Plano Diretor Municipal de Torres Vedras.
+b) Iniciar um período de discussão pública de 15 dias decorrente da presente alteração do Plano Diretor Municipal de Torres Vedras, ao abrigo do artigo 119.º do DL n.º 80/2015, de 14 de maio e do n.º 2 do artigo 12.º do DL n.º 165/2014 de 5 de novembro, o qual terá início 5 dias após publicitação no Diário da República;
+c) Aprovar a proposta de delimitação da REN, a apresentar junto da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, nos termos do art. 16.º do DL n.º 166/2008, de 22 de agosto, na atual redação conferida pelo Decreto-Lei n.º 239/2012, de 2 de novembro (Regime Jurídico da Reserva Ecológica Municipal).
+Mais torna público que a proposta de alteração acompanhado pela ata da Conferência Decisória e os demais pareceres, estará disponível para consulta no átrio do Edifício Multisserviços da Câmara Municipal, nas Juntas de Freguesia e na página da Câmara Municipal na Internet.
+Por último torna público que quaisquer participações/sugestões sobre a proposta de alteração da referida proposta de alteração, poderão ser apresentadas por escrito, no Balcão de Atendimento do Edifício Multisserviços da Câmara Municipal, sito na Avenida 5 de Outubro, em Torres Vedras, por correio, ou através de correio eletrónico para o endereço geral@cm-tvedras.pt.
+Para constar e devidos efeitos, se publica o presente Edital e outros de igual teor, que vão ser afixados nos lugares públicos do costume.
+E eu, Alexandra Sofia Carlos Mota Luís, Chefe de Divisão Administrativa, o subscrevi.
+29 de agosto de 2017. - O Presidente da Câmara, Carlos Manuel Antunes Bernardes.
+610782367
