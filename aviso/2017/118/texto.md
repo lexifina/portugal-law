@@ -1,0 +1,5 @@
+Aviso n.º 118/2017
+Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia notificou o Governo Português, pela nota n.º SGS17/06455, de 11 de julho de 2017, ter a União Europeia concluído os procedimentos internos necessários à entrada em vigor do Acordo de Associação entre a União Europeia e a Comunidade Europeia da Energia Atómica e os Seus Estados-Membros, por um lado, e a Ucrânia, por outro, assinado em Bruxelas em 27 de junho de 2014.
+Portugal é Parte neste Acordo, aprovado e ratificado, respetivamente, pela Resolução da Assembleia da República n.º 41-A/2015 e pelo Decreto do Presidente da República n.º 30-A/2015, ambos publicados no Diário da República, 1.ª série, n.º 79, 1.º suplemento, de 23 de abril de 2015.
+Mais se torna público que, tendo todas as partes concluído idênticos procedimentos, o presente Acordo entrou em vigor no dia 1 de setembro de 2017, em conformidade com o seu artigo 486.º, n.º 2.
+Direção-Geral dos Assuntos Europeus, 28 de setembro de 2017. - O Diretor-Geral, Rui Vinhas.
