@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "102901",
+  "tipo": "Pergunta",
+  "numero": "101",
+  "data_registo": "2017-10-13",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Falta de acesso a Médicos de Família por parte da população dos concelhos de Torres Vedras, Mafra, Lourinhã, Cadaval e Sobral de Monte Agraço (Agrupamento de Centros de Saúde Oeste Sul)",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "42",
+        "nome": "Duarte Pacheco"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2071",
+        "nome": "Miguel Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4031",
+        "nome": "Ângela Guerra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4148",
+        "nome": "Luís Vales"
+      }
+    ],
+    "DataEnvio": "2017-10-13",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2017-10-13",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   SAÚDE",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2017-11-15",
+            "docRemetida": null,
+            "entidade": "MIN.  DA   SAÚDE",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396a596d5930597a59334d7930785a545a6d4c5451784d3249744f544d785a5330345a545a6c4d7a426c4f4756694f4455756347526d&fich=cbf4c673-1e6f-413b-931e-8e6e30e8eb85.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2017-10-13",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396b4d446b325a6a51794d5330304f4467354c545134596a59744f446c695a4331694d5751775a6a426b5a474979596a41756347526d&fich=d096f421-4889-48b6-89bd-b1d0f0ddb2b0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "102901",
+    "Legislatura": "XIII",
+    "Nr": "101",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
