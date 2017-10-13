@@ -1,0 +1,109 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1069",
+    "id": "41717",
+    "titulo": "Recomenda ao Governo a promoção do emprego de doutorados na sociedade"
+  },
+  "fase": "Nova Baixa Comissão para Discussão",
+  "codigo_fase": "245",
+  "data_registo": "2017-10-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "245",
+    "Comissao": [
+      {
+        "AccId": "41313",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-10-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-10-13",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-03-16",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "2.ª Prorrogação por mais 90 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4134596a4d775a6d4d744e6a41335a5330305a4455774c546c6c5a6d51744e6a686c59544d33597a4d314e6d4d314c6e426b5a673d3d&fich=c08b30fc-607e-4d50-9efd-68ea37c356c5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-14",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "3.ª Prorrogação do prazo por mais 45 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a5179597a52684e6a59744d7a59775a5330304e6a517a4c5746694d324d744e57566b5a44517a4d5459334f57597a4c6e426b5a673d3d&fich=242c4a66-360e-4643-ab3c-5edd431679f3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-28",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Ofício CEC - para votação no Plenário com texto substituído pelo PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3259304e6a55334f444174596d5935595330305a5755794c54686c4e7a41744d6a5a6c5a6a6c6b5a574a684d7a63774c6e426b5a673d3d&fich=3f465780-bf9a-4ee2-8e70-26ef9deba370.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-01-18",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Prorrogação por mais 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544d34596a56694d7a63744f47557a4e7930304d47466c4c5745774e324d744f4749795a54466d4d4451794e6d45354c6e426b5a673d3d&fich=a38b5b37-8e37-40ae-a07c-8b2e1f0426a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-28",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Texto substituído pelo PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574d354f5459354f444974596a67784e4330305a5759354c5467784f544174596d55354f574d355a4451305a6a45784c6e426b5a673d3d&fich=ac996982-b814-4ef9-8190-be99c9d44f11.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4531",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "4531",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2017-10-13",
+    "EvtId": "127",
+    "Fase": "Nova Baixa Comissão para Discussão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "331079",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
