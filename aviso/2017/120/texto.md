@@ -1,0 +1,5 @@
+Aviso n.º 120/2017
+Por ordem superior se torna público que, em 9 de setembro de 1993 e em 24 de outubro de 1996, foram emitidas Notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério das Relações Exteriores da República Oriental do Uruguai em que se comunica terem sido cumpridas as respetivas formalidades internas de aprovação do Acordo de Cooperação Cultural entre a República Portuguesa e a República Oriental do Uruguai, assinado em Montevideu, em 8 de setembro de 1992.
+O referido Acordo foi aprovado pelo Decreto n.º 27/93, de 20 de agosto, publicado no Diário da República, 1.ª série-A, n.º 195, da mesma data.
+Nos termos do seu artigo XIII, este Acordo entrou em vigor na data da última notificação, por via diplomática, de que foram cumpridos todos os requisitos de direito interno das Partes necessários para o efeito, ou seja, 24 de outubro de 1996.
+Direção-Geral de Política Externa, 10 de outubro de 2017. - O Subdiretor-Geral, João Pedro Antunes.
