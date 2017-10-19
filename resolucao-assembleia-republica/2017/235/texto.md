@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 235/2017
+Recomenda ao Governo que proceda com urgência à requalificação integral da linha do Oeste e à sua inclusão no Plano de Investimentos Ferroviários 2016-2020
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Promova a revisão do Plano de Investimentos Ferroviários 2016-2020, com o objetivo de incluir o projeto de requalificação e de modernização integral da linha do Oeste, no plano de investimentos prioritários da Infraestruturas de Portugal, S. A. (IP, S. A.), constituindo esta linha como uma alternativa eficaz à utilização de veículo automóvel para a acessibilidade ao litoral Oeste, permitindo-lhe cumprir a sua vocação estruturante e estratégica para o país e a região, mesmo que tal seja assegurado através da sua repartição por duas fases de investimentos:
+a) Numa primeira fase, proceda com urgência ao lançamento do concurso para obras na linha do Oeste, previsto para janeiro de 2017, nomeadamente a eletrificação de todo o troço entre Meleças e Caldas da Rainha e a implementação de sistemas de sinalização eletrónica e telecomunicações ferroviárias, bem como a duplicação da linha em dois troços, um entre Meleças e Pedra Furada (Sintra) e outro na zona da Malveira (Mafra), até 2018;
+b) Numa segunda fase, desde Caldas da Rainha até Louriçal/Bifurcação de Lares, até 2020, permitindo a ligação ao ramal de Alfarelos e, depois, à linha do Norte, até Coimbra B.
+2 - Enquanto as obras não se concretizam, proceda à substituição do material circulante atualmente em circulação, que se encontra bastante degradado, e garanta:
+a) A preparação para a substituição futura do material circulante, com a adoção da tração elétrica;
+b) A reabertura de estações com pessoal ferroviário que possa dar a devida assistência aos passageiros, garantindo melhor qualidade e segurança aos passageiros no serviço de transporte;
+c) A instalação de todas as estações e apeadeiros com um sistema de informação eletrónica de horários e eventuais alterações de serviço.
+3 - O projeto de investimento, de modernização e de requalificação da linha do Oeste permita, no final da sua realização, a criação de uma alternativa ferroviária de qualidade para a acessibilidade ao litoral Oeste, a circulação de comboios rápidos de passageiros, intercidades e um transporte regular diversificado entre todos os concelhos, bem como a circulação de composições ferroviárias de mercadorias ao longo de toda a linha.
+Aprovada em 20 de setembro de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
