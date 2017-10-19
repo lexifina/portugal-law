@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Voto",
+  "numero": "421",
+  "data_registo": "2017-10-19",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Condenação pelas barreiras colocadas no combate ao trabalho escravo no Brasil",
+    "AutoresGP": [
+      "André Silva (PAN)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2017-10-20",
+    "DataAnuncio": null,
+    "DataEntrada": "2017-10-19",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": "421",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "803953",
+        "obs": null,
+        "pag": [
+          "13-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-18",
+        "pubLeg": "XIII",
+        "pubNr": "5",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/005/2017-10-18/13?pgs=13&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "32544",
+        "obs": null,
+        "pag": [
+          "3-49"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-10-21",
+        "pubLeg": "XIII",
+        "pubNr": "11",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/3?pgs=3-49&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2017-10-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Isabel Santos (PS)</I>, <I> Paulo Trigo Pereira (PS)</I><BR>Contra:<I>CDS-PP</I>, <I> PS</I><BR>Abstenção:<I>PSD</I>, <I> João Pinho De Almeida (CDS-PP)</I>, <I> Pedro Mota Soares (CDS-PP)</I>",
+        "id": "77161",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "804311",
+            "obs": null,
+            "pag": [
+              "39-39"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-10-21",
+            "pubLeg": "XIII",
+            "pubNr": "11",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/011/2017-10-21/39?pgs=39&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "11",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
