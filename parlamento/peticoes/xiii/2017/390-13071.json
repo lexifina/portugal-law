@@ -1,0 +1,420 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13071",
+  "numero": "390",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-10-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-01-09",
+            "entidades": null,
+            "id": "107452",
+            "tipo": null,
+            "titulo": "Audição em 2018-01-09 com José Augusto Pereira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-01-24",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-11-29",
+        "DataArquivo": "2018-01-24",
+        "DataBaixaComissao": "2017-10-26",
+        "DataEnvioPAR": "2018-01-24",
+        "DataReaberta": "2017-11-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-12-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324e6b4f5751334d4451304c574e6b4f5451744e44517a4d6930345a6d4d794c5459334e6d55354e7a4d784e446b794f4335515245593d&fich=cd9d7044-cd94-4432-8fc2-676e97314928.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-01-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324d344e57566b4d444d794c546b344d324d744e4451784e6931684d4451314c57597a5a4456684e54646a4f4463325a5335515245593d&fich=c85ed032-983c-4416-a045-f3d5a57c876e.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-11-29",
+            "gp": "PSD",
+            "id": "271",
+            "motivoCessacao": null,
+            "nome": "José Silvano"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-05-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-10-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794f44646b5a575931596930774e6d597a4c54526c4e6a4d744f574a695a6930354f57526c4e474a6b4d7a64684d3245756347526d&fich=287def5b-06f3-4e63-9bbf-99de4bd37a3a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:25:25:918&drc=00:04:00:425"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "225690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:29:26:344&drc=00:03:15:670"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "225693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:32:42:014&drc=00:03:47:626"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "225694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:36:29:640&drc=00:02:59:242"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "225695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:39:28:882&drc=00:03:33:889"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "225696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13071",
+    "PetAssunto": "Solicita a alteração da Lei da Nacionalidade em matéria de reconhecimento da nacionalidade originária aos filhos de imigrantes.",
+    "PetDataEntrada": "2017-10-19",
+    "PeticoesAssociadas": null,
+    "PetId": "13071",
+    "PetLeg": "XIII",
+    "PetNr": "390",
+    "PetNrAssinaturas": "6072",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "657",
+        "obs": null,
+        "pag": [
+          "41-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-19",
+        "pubLeg": "XIII",
+        "pubNr": "87",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/41?pgs=41-45&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807953",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-04",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/012/2017-12-04/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
