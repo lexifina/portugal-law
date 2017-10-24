@@ -1,0 +1,586 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13076",
+  "numero": "395",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-10-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2017-12-12",
+            "entidades": null,
+            "id": "107282",
+            "tipo": null,
+            "titulo": "Audição em 2017-12-12 com Carlos Manuel Delgado Brás, Peticionário:"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": null,
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "390/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "391/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": "2017-12-22",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "392/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": "2017-12-22",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "393/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": "2017-12-21",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "395/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-06",
+            "dataResposta": "2018-01-04",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "394/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-06",
+            "dataResposta": "2017-12-21",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "397/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-04",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "389/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-01-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-11-29",
+        "DataArquivo": "2018-01-10",
+        "DataBaixaComissao": "2017-10-26",
+        "DataEnvioPAR": "2018-01-11",
+        "DataReaberta": "2017-11-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32597a4d7a686d5a445a6d4c575a6a595455744e444a685a4330354d44526b4c5449324e6a41784d7a4d324e474d78595335775a47593d&fich=f338fd6f-fca5-42ad-904d-266013364c1a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a646b4e7a51315a4441794c54566d597a63744e4463334d7931694d7a6b7a4c546731595467334e7a5a695a5441304e6935775a47593d&fich=7d745d02-5fc7-4773-b393-85a8776be046.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5934596d51344e47597a4c546b334e4445744e4463784e5330345a4449304c5445345957497a5a445a6c4e5468694d6935775a47593d&fich=68bd84f3-9741-4715-8d24-18ab3d6e58b2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32557a5a6d4a685a5463344c54466d593255744e474d7a4f533168596a59324c544d354e7a63335a6d55304e324e694d7935775a47593d&fich=e3fbae78-1fce-4c39-ab66-39777fe47cb3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d354e5441324e7a41324c57566b5a5755744e4456684d7930354d4441354c544d7a5a444d784d7a566c5a6d5132596935775a47593d&fich=c9506706-edee-45a3-9009-33d3135efd6b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a557a4d5749324e4751774c5455304d5445744e4755354e6931694f5759334c546c6b5a444577596a49354d7a417a4e7935775a47593d&fich=531b64d0-5411-4e96-b9f7-9dd10b293037.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d774d6a646859574d334c5749784e7a4d744e44466d4d6931684f575a694c544a694f446330596a597a596a466d4e4335775a47593d&fich=3027aac7-b173-41f2-a9fb-2b874b63b1f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566b4e7a686a59574d344c5463794e6d4d744e444d3259793169596a466c4c5759334d6a677a4d6d49334e6a56684e7935775a47593d&fich=ed78cac8-726c-436c-bb1e-f72832b765a7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d774d4446694f446c6b4c5467784d6d59744e446c68595330355a4467794c574531596d526c5a54426c4e6a49354f5335775a47593d&fich=c001b89d-812f-49aa-9d82-a5bdee0e6299.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-01-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45784d4446694d4441354c5449304d6a41744e444e6a5a433168597a46694c544e6a4d546c684f4441315a6d466d5a4335515245593d&fich=1101b009-2420-43cd-ac1b-3c19a805fafd.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466c4f5759334d44646d4c5463335a574d744e44566a4f4331685a44417a4c546c694e4455304e3251314e54566a4e6935775a47593d&fich=1e9f707f-77ec-45c8-ad03-9b4547d555c6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325935596a646c59574d324c54526a4d5749744e4745305a5330344d6a42694c54497859546c6d59544d7759544d324d4335775a47593d&fich=f9b7eac6-4c1b-4a4e-820b-21a9fa30a360.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e695a4746694f4451354c54686b4f4449744e4751304f533169597a6c6d4c544668596d513059324d784d44466d4d7935775a47593d&fich=3bdab849-8d82-4d49-bc9f-1abd4cc101f3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304e5756685a544d7a4c5467774e4441744e445a684e6931685a6a55794c54646c4f4459324e4449345a4749785a6935775a47593d&fich=745eae33-8040-46a6-af52-7e866428db1f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6731597a4930596a526d4c57466a4d5759744e4751304d6931684f5467324c5445305a6a5a6d4d5463345a6a5935597935775a47593d&fich=85c24b4f-ac1f-4d42-a986-14f6f178f69c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-11-29",
+            "gp": "PS",
+            "id": "5530",
+            "motivoCessacao": null,
+            "nome": "Maria Augusta Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-05-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-10-27",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793832595459355a5751774e6930324d324d354c5451344e544d744f44686a5a53307a5a47566b596d55344e6d59794d5745756347526d&fich=6a69ed06-63c9-4853-88ce-3dedbe86f21a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42615"
+    ],
+    "Iniciativasoriginadas": [
+      "42615"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:06:39:903&drc=00:03:49:847"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:24:04:681&drc=00:01:21:236"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224426",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36",
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/36?pgs=36,41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente; Revalorização da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:10:29:751&drc=00:03:34:268"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224427",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente; Revalorização da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:14:04:019&drc=00:03:59:788"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224428",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/37?pgs=37-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente; Revalorização da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:18:03:807&drc=00:03:15:291"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224429",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente; Revalorização da carreira docente.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-05-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_18_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:21:19:099&drc=00:02:45:582"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224430",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-19",
+                "pubLeg": "XIII",
+                "pubNr": "87",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente; Revalorização da carreira docente.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13076",
+    "PetAssunto": "Solicitam o reposicionamento dos professores na carreira, de acordo com o Estatuto da Carreira Docente.",
+    "PetDataEntrada": "2017-10-24",
+    "PeticoesAssociadas": null,
+    "PetId": "13076",
+    "PetLeg": "XIII",
+    "PetNr": "395",
+    "PetNrAssinaturas": "8711",
+    "PetNrAssinaturasInicial": "5252",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "658",
+        "obs": null,
+        "pag": [
+          "36-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-19",
+        "pubLeg": "XIII",
+        "pubNr": "87",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/087/2018-05-19/36?pgs=36-41&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807954",
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-04",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/012/2017-12-04/7?pgs=7&org=PLC"
+      }
+    ]
+  }
+}
