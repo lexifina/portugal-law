@@ -6,7 +6,7 @@
 
 2 - Compete ao tribunal arbitral definir o valor da causa, nos termos do Código de Processo nos Tribunais Administrativos.
 
-3 - Se a arbitragem terminar antes da sentença final, o Presidente do Tribunal Arbitral do Desporto pode reduzir a taxa de arbitragem tomando em consideração a fase em que o processo arbitral foi encerrado ou qualquer outra circunstância que considere relevante, nos termos correspondentes da redução dos honorários dos árbitros.
+3 - Se a arbitragem terminar antes da sentença final, o Presidente do Tribunal Arbitral do Desporto pode reduzir a taxa de arbitragem tomando em consideração a fase em que o processo arbitral foi encerrado ou qualquer outra circunstância que considere relevante.
 
 4 - São encargos do processo arbitral todas as despesas resultantes da condução do mesmo, designadamente os honorários dos árbitros e as despesas incorridas com a produção da prova, bem como as demais despesas ordenadas pelos árbitros.
 
