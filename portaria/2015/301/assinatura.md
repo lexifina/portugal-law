@@ -1,0 +1,1 @@
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 18 de setembro de 2015. - O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 17 de setembro de 2015.
