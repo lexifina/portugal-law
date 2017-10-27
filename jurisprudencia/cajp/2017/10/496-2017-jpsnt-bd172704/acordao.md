@@ -1,0 +1,89 @@
+# Decisão dos Julgados de Paz de 2017-10-27, processo 496/2017-JPSNT
+
+**Processo:** 496/2017-JPSNT
+
+**Relator:** GABRIELA CUNHA
+
+**Descritores:** A INCOMPETÊNCIA DESTE TRIBUNAL EM RAZÃO DA MATÉRIA - PERSONALIDADE JUDICIÁRIA DOS SERVIÇOS MUNICIPALIZADOS DE ÁGUA E SANEAMENTO
+
+**Data da sentença:** 10/27/2017
+
+**Julgado de Paz de:** SINTRA
+
+## Decisão Texto Integral
+
+Processo n.º496/2017-JP**
+Vieram as Demandadas na sua douta contestação arguir as exceções de falta de personalidade judiciária da Demandada Serviços Municipalizados de Água e Saneamento de A e a incompetência deste Tribunal em razão da matéria, que a seu ver, é da competência dos tribunais administrativos e fiscais.
+
+Notificado a Demandante para se pronunciar, nos termos do n.º 3 do art.º3.º do Código de Processo Civil, este nada veio dizer.
+
+Cumpre, antes de mais, apreciar e decidir a exceção de falta de personalidade judiciária do A:
+
+De acordo com o n.º 1, do artigo 11.º, do Código de Processo Civil (C.P.C.), a personalidade judiciária consiste na susceptibilidade de ser parte. Dispondo o n.º 2 do mesmo preceito que quem tiver personalidade jurídica tem igualmente personalidade judiciária.
+
+A personalidade judiciária consiste, assim, na possibilidade de requerer ou contra si ser requerida, em nome próprio, qualquer das providências de tutela jurisdicional reconhecidas na lei.
+
+Por outro lado, nos termos do disposto na alínea c), do nº 1, do art. 278.º, do C.P.C., o juiz deve abster-se de conhecer do pedido e absolver o R. da instância quando entenda que alguma das partes é destituída de personalidade judiciária.
+
+Ora, às Câmaras Municipais é permitido explorar, sob a forma industrial, e por sua conta e risco, serviços públicos de interesse local, sendo a municipalização de serviços da competência da assembleia municipal.
+
+Seguindo-se as orientações dos Acórdãos do STA nº 01039/03 de 04.03.2004, e nº 037003 de 12.06.1996, e n.º 0756/08 de 19.11.2008 "Os serviços Municipalizados são destituídos de personalidade judiciária" (…) Tais serviços, organizados nos termos do disposto nos artigos 164.° e sgs. do Código Administrativo, embora tenham orçamento privativo, estejam organizados de forma autónoma dentro da organização municipal, possam ser geridos por um conselho de administração, por não serem detentores de autonomia patrimonial, não são portadores de personalidade jurídica e judiciária, os torna insusceptíveis de serem parte em juízo" (citamos aquele primeiro acórdão).
+
+Os Serviços Municipalizados de Água e Saneamento de A são um serviço público de interesse local com autonomia administrativa, financeira e técnica, do município de A. Não têm personalidade jurídica, estando integrados na pessoa coletiva Município, (sendo o presidente da edilidade, por inerência, presidente do conselho de administração do A.
+
+Ora, como quem não tem personalidade jurídica carece de personalidade judiciária, a sua consequência será a absolvição da demandada Serviço Municipalizado de Água e Saneamento de A da instância (alínea c) do art.º 577.º e n.º 2 do art.º 576, ambos do CPC).
+
+Face ao que antecede prosseguem os autos contra a Câmara Municipal de A.
+
+Urge, agora, apreciar a exceção de Incompetência em razão da matéria do Julgado de Paz de A:
+
+Parece-nos pacífico, que para determinação da competência em razão da matéria, é necessário atender-se ao pedido e especialmente à causa de pedir formulados, pois é desta forma que se pode caracterizar o conteúdo da sua pretensão. Ou seja, para se fixar a competência dos tribunais em razão da matéria, deve atentar-se à relação jurídica material em causa e aos pedidos deduzidos.
+
+Estabelece a Lei da Organização e Funcionamento dos Tribunais Judiciais, que as causas que não sejam atribuídas a outra ordem jurisdicional são da competência dos tribunais judiciais. É que os tribunais judiciais são os tribunais regra dentro da organização judiciária, gozam de competência não descriminada, gozando os demais competência nas matérias que lhes são especialmente atribuídas.
+
+Na mesma direção aponta o art. 211.°, n° 1, da Constituição da República Portuguesa (CRP) ao estabelecer que “os tribunais judiciais são os tribunais comuns em matéria cível e criminal e exercem jurisdição em todas as áreas não atribuídas a outras ordens judiciais”.
+
+Por outro lado e no que toca à competência dos tribunais administrativos, estabelece o art. 212.°, n° 3, da CRP que “compete aos tribunais administrativos e fiscais o julgamento das ações e recursos contenciosos que tenham por objecto dirimir os litígios emergentes das relações jurídicas administrativas e fiscais” (no mesmo sentido o art.º 1, n.º 1 do ETAF).
+
+O âmbito da jurisdição administrativa fiscal encontra-se no art.º 4.º do ETAF (aprovado pela Lei n.º 13/2002, de 19/2, alterada pela Lei n.º 10/D/2003, de 31/12).
+
+Com particular destaque para o caso, importa deixar aqui assinalada a al. f) do n.º 1 do art. 4.º do ETAF: “Compete aos tribunais da jurisdição administrativa e fiscal a apreciação de litígios que tenham nomeadamente por objecto: (...) f) Questões relativas à interpretação, validade e execução de contratos de objecto passível de acto administrativo, de contratos especificamente a respeito dos quais existam normas de direito público que regulem aspectos específicos do respectivo regime substantivo, ou de contratos em que pelo menos uma das partes seja uma entidade pública ou um concessionário que actue no âmbito da concessão e que as partes tenham expressamente submetido a um regime substantivo de direito público.
+
+Na presente ação está em causa a anulação do débito da “conta de resíduos urbanos” e “conta de saneamento”, em duas faturas e anulação total de uma fatura pelo facto do serviço não ter prestado, com origem no contrato mediante o qual a primeira Demandada forneceu água para consumo. Trata-se, pois, de um contrato que se desenvolve no âmbito público, na medida em que o interesse geral subjacente à exploração e gestão dos sistemas de distribuição de água impõem que existam normas de direito público. Senão vejamos.
+
+De acordo com o art. 3º do DL n.º 194/2009, de 20-08, alterado pela Lei n.º 12/2014, de 06/03, a exploração e a gestão dos sistemas municipais de distribuição de água para consumo humano e de recolha, drenagem e tratamento de águas residuais consubstanciam serviços de interesse geral e visam a prossecução do interesse público, quer por gestão directa ou gestão delegada.
+
+Por seu turno, a Lei n.º 159/99, de 14/09, atribui às autarquias competências no domínio do ambiente e saneamento, entre as quais, sistemas municipais de abastecimento de água, sistemas municipais de drenagem e tratamentos de águas residuais urbanas.
+
+Ora, as entidades gestoras destes serviços não têm ampla liberdade contratual, como no direito privado, na medida em que, designadamente, não podem selecionar com quem pretendem firmar negócio jurídico ou decidir livremente cessar a prestação destes serviços. Por outro lado, o utilizador nem sequer é chamado a negociar o valor da contrapartida devida pelo fornecimento da água ou pela recolha das águas residuais, normalmente essas tarifas são impostas de modo unilateral.
+
+Acresce que, a citada Lei, faz referência, ao longo do seu texto, a tarifas ou tarifários decorrentes da prestação destes serviços (cfr. arts. 43.º, n.ºs 1 e 2, e 61.º n.ºs 1 e 2), em vez de se referir ao preço, enquanto contrapartida típica do contrato de compra e venda, como se mostra definido pelo art. 874.º do CC. – Assim, pode afirmar-se que estas relações jurídicas (quer os contratos de concessão, quer também os contratos de fornecimento de água e/ou de drenagem de águas residuais) não são pautadas pela ampla liberdade contratual, específica do direito privado, em particular do direito das obrigações, na medida em que o interesse geral, subjacente a exploração e a gestão dos sistemas de distribuição de água e de recolha e drenagem de águas residuais, impõe que existam normas de direito público que disciplinem o seu regime substantivo.
+
+São estas precisamente as características distintivas dos contratos de direito privado e que, como decorre do disposto na al. f) do n.º 1 do art. 4.º do ETAF, levam a atribuir à jurisdição administrativa e fiscal competência para a resolução de litígios que se prendam com a sua interpretação, validade ou execução.
+
+Citando Mário Esteves de Oliveira e Rodrigo Esteves de Oliveira defendem ( in Código de Processo nos Tribunais Administrativos e Estatuto dos Tribunais Administrativos e Fiscais Anotados, Volume I, Janeiro de 2006, págs. 56 e 57. que “(...) subsumíveis na jurisdição administrativa, e administrativos, são também os contratos cujo regime substantivo esteja especificamente sujeito a normas de direito público (...)” e que “(...) por força deste segmento da alínea f) do art. 4.º/1 do ETAF, basta que um qualquer aspecto «substantivo» (não meramente procedimental) relevante do próprio contrato esteja sujeito – no que respeita aos direitos e deveres das partes, ou à sua direcção, modificação, extinção ou sanção – a um regime específico, de direito público, para que o mesmo se considere (administrativo e) integrado na jurisdição administrativa (...)”.
+
+Significa isto que, quer perante o quadro jurídico constante da referida Lei que os contratos de fornecimento de água e de drenagem de águas residuais encontram-se submetidos ao regime do direito público.
+
+Assim, face ao exposto, temos que concluir que o objecto da presente ação é da competência dos Tribunais Administrativos e Fiscais.
+
+Por último, não podemos deixar de referir que, esta questão já foi por diversas vezes apreciada pelo Tribunal dos Conflitos, cuja jurisprudência vem afirmando de forma reiterada que a competência para a resolução do litígio como o presente é da jurisdição administrativa e fiscal e em concreto os tribunais tributários – tal foi decidido, nomeadamente, pelo Tribunal dos Conflitos nos acórdãos proferidos nos pedidos de resolução de conflitos n.º 014/06, 017/10, 045/13 e 030/13.
+
+Importa, agora, averiguar a consequência da incompetência do Julgado de Paz de A.
+
+Ora, a incompetência deste tribunal é uma exceção de conhecimento oficioso – artº 7º da Lei 78/2001, de 13 de julho, com a redação dada pela Lei n.º 54/2013, de 31 de julho – que “determina a remessa do processo para o julgado de paz ou para o tribunal judicial competente”.
+
+Porém, estamos perante um caso de incompetência absoluta, ou seja decorrente da infração das regras da competência material que, no nosso ordenamento jurídico, é uma excepção dilatória (artigos 96.º, 97.º, nº 1, 278º, nº 1, al. a), 577.º, n.º 1, al. a) e 578.º, todos do Código de Processo Civil), que obsta que este Julgado de Paz conheça do mérito da causa, dando lugar, não à remessa do processo para o tribunal competente, mas à absolvição da instância. **
+
+DECISÃO
+Em face do exposto, julgam-se procedentes as exceções de falta de personalidade judiciária dos Serviços Municipalizados de Água e Saneamento de A e incompetência em razão da matéria do Julgado de Paz de Sintra, absolvendo-se as Demandadas da instância. **
+Nos termos da Portaria n.º 1456/2001, de 28 de Dezembro, o demandante é condenado nas custas, que ascendem a € 70,00 (setenta euros), devendo proceder ao pagamento de € 35,00 (trinta e cinco euros) em falta, no Julgado de Paz, no prazo de três dias úteis, a contar da data da notificação desta sentença, sob pena do pagamento de uma sobretaxa diária de € 10 (dez euros) por cada dia de atraso. Cumpra-se o disposto no art.º 9 da supra referida portaria, em relação às demandadas. **
+Registe.**
+
+Julgado de Paz de Sintra, 27 de novembro de 2017
+
+A Juíza de Paz,
+
+_________________________
+
+(Gabriela Cunha)
