@@ -10,9 +10,9 @@ b) Apresentar auditoria energética que demonstre a adequação do investimento;
 
 c) Evidenciar que foram considerados como requisitos mínimos obrigatórios os estabelecidos na Diretiva relativa ao Desempenho Energético nos Edifícios e na Diretiva relativa à Promoção de Energia proveniente de fontes de renováveis;
 
-d) Evidenciar que as intervenções resultam em melhoramentos significativos em termos de eficiência energética, correspondendo a um aumento em, pelo menos, dois níveis no certificado de desempenho energético face à categoria de desempenho energético anterior à realização do investimento;
+d) Evidenciar que as intervenções resultam em melhoramentos significativos em termos de eficiência energética, garantindo um mínimo de redução em 30 % no consumo de energia primária no investimento candidato face ao consumo anterior à realização do investimento;
 
-e) Demonstrar que geram benefícios financeiros líquidos positivos, devendo o valor atualizado das poupanças líquidas geradas exceder sempre o valor atualizado do custo de investimento, operação, manutenção e reinvestimento por substituição, se aplicável;
+e) (Revogada.)
 
 f) Incidir apenas sobre infraestruturas já existentes de propriedade e de utilização da Administração Pública, não sendo financiadas despesas de funcionamento e de manutenção;
 

@@ -10,7 +10,7 @@ b) A despesa elegível com investimento em produção de energia elétrica para 
 
 c) As despesas com auditorias, estudos, planos de ação ou análises energéticas, necessárias ao diagnóstico 'ex-ante' ou avaliação 'ex-post'.
 
-d) A elegibilidade das despesas previstas na alínea anterior fica dependente da realização de medidas identificadas no diagnóstico 'ex-ante' que conduzam à subida em pelo menos dois níveis no certificado de desempenho energético face à categoria de desempenho energético anterior à realização do investimento.
+d) A elegibilidade das despesas previstas na alínea anterior fica dependente da realização de medidas identificadas no diagnóstico ex ante que garantam um mínimo de redução em 30 % no consumo de energia primária no investimento candidato face ao consumo anterior à realização do investimento.
 
 2 - Não são elegíveis as seguintes despesas:
 

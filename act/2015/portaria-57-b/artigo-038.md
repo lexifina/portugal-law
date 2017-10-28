@@ -8,10 +8,10 @@ a) Comprovar que a operação corresponde à otimização do investimento na per
 
 b) Apresentar auditoria energética ou estudo que demonstre a adequação do investimento;
 
-c) Gerar benefícios financeiros líquidos positivos, isto é, o valor atualizado das poupanças geradas deve sempre exceder o valor atualizado do custo de investimento, operação, manutenção e reinvestimento por substituição se aplicável;
+c) (Revogada.)
 
 d) Incidir sobre infraestruturas públicas de propriedade e de utilização da administração pública, não sendo financiadas despesas de funcionamento e de manutenção;
 
-e) Ter por base a categoria de desempenho energético inicial do edifício, devendo resultar em melhoramentos significativos em termos de eficiência energética, isto é num aumento em pelo menos dois níveis no certificado de desempenho energético, confirmada no âmbito da avaliação «ex-post»;
+e) Ter por base a categoria de desempenho energético inicial do edifício, devendo resultar em melhoramentos significativos em termos de eficiência energética, isto é, num mínimo de redução em 30 % no consumo de energia primária no investimento candidato face ao consumo anterior à realização do investimento, confirmada no âmbito da avaliação ex post;
 
 f) Evidenciar que foram considerados como requisitos mínimos obrigatórios os estabelecidos na Diretiva relativa ao Desempenho Energético nos Edifícios e na Diretiva relativa à Promoção de Energia proveniente de fontes de renováveis, nos edifícios porquanto se tratam de edifícios já existentes.

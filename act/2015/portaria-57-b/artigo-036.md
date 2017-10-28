@@ -2,7 +2,7 @@
 
 ### Tipologias das operações
 
-As tipologias das operações abrangidas são as que se revelem indispensáveis para a prossecução da Prioridade de Investimento «Apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos e no sector da habitação» e para a realização das ações definidas na auditoria ou diagnóstico energético que demonstre os ganhos financeiros líquidos resultantes das respetivas operações, sendo nomeadamente as seguintes:
+As tipologias das operações abrangidas são as que se revelem indispensáveis para a prossecução da Prioridade de Investimento 'Apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos e no sector da habitação' e para a realização das ações definidas na auditoria ou diagnóstico energético, sendo nomeadamente as seguintes:
 
 a) Intervenções ao nível do aumento da eficiência energética dos edifícios e equipamentos públicos da administração local, nos quais se inclui:
 
