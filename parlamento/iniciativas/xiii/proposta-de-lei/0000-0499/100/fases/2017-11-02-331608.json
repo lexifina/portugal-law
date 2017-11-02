@@ -1,0 +1,1891 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "100",
+    "id": "41761",
+    "titulo": "Aprova o Orçamento do Estado para 2018"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-11-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12440",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-11-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "41760",
+        "leg": "XIII",
+        "nr": "99",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2400",
+            "obs": null,
+            "pag": [
+              "3-78"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-11-03",
+            "pubLeg": "XIII",
+            "pubNr": "15",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/3?pgs=3-78&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Aprova as Grandes Opções do Plano para 2018"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-11-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:05:49:747&drc=00:21:45:280"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:37:15:369&drc=00:06:21:630"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:48:44:851&drc=00:03:24:539"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:00:37:300&drc=00:05:55:742"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:17:57:342&drc=00:06:43:145"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:32:11:359&drc=00:04:58:699"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:42:59:167&drc=00:05:43:576"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:54:33:225&drc=00:04:27:774"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:22:54:882&drc=00:07:10:229"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:50:45:350&drc=00:07:45:649"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:15:04:031&drc=00:13:45:361"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "PRIMEIRO-MINISTRO",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218709",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11",
+                  "13-14",
+                  "17-18",
+                  "22-23",
+                  "25-26",
+                  "27-28",
+                  "3-7",
+                  "30-31",
+                  "37-39",
+                  "45-47",
+                  "51-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/3?pgs=3-7,10-11,13-14,17-18,22-23,25-26,27-28,30-31,37-39,45-47,51-54&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4086",
+                "nome": "António Leitão Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:28:20:239&drc=00:08:47:273"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218710",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/7?pgs=7-10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:43:45:375&drc=00:04:51:625"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218711",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4161",
+                "nome": "Catarina Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:52:09:235&drc=00:08:22:817"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218712",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/14?pgs=14-17&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4057",
+                "nome": "Assunção Cristas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:06:33:043&drc=00:11:24:298"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218713",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/18?pgs=18-21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:24:40:487&drc=00:07:30:872"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218714",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:37:16:139&drc=00:05:43:028"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218715",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:48:46:353&drc=00:05:25:856"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218716",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:59:30:896&drc=00:05:45:614"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218717",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:05:53:407&drc=00:04:24:126"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218718",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4194",
+                "nome": "Jorge Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:10:25:791&drc=00:02:21:322"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218719",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:12:54:762&drc=00:05:24:797"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218720",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/34?pgs=34-36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:18:27:122&drc=00:04:27:760"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218721",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:30:17:990&drc=00:05:28:997"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4031",
+                "nome": "Ângela Guerra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:36:00:199&drc=00:03:17:995"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6157",
+                "nome": "Lara Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:39:17:943&drc=00:03:04:319"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218724",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:42:32:191&drc=00:02:15:346"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:44:47:538&drc=00:05:57:811"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/43?pgs=43-45&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:58:50:307&drc=00:04:40:664"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3919",
+                "nome": "Amadeu Soares Albergaria"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:03:30:972&drc=00:03:41:811"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/49?pgs=49&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3387",
+                "nome": "Jorge Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:07:12:784&drc=00:03:27:265"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/50?pgs=50&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:10:54:771&drc=00:03:59:700"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4380",
+                "nome": "Maria Luís Albuquerque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:29:31:537&drc=00:14:04:876"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:57:51:004&drc=00:13:53:299"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-58",
+                  "61-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/54?pgs=54-58,61-67&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "839",
+                "nome": "Pedro Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:43:51:095&drc=00:04:22:076"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6045",
+                "nome": "Paulo Trigo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:48:22:415&drc=00:04:28:438"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5500",
+                "nome": "Fernando Rocha Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=03:52:50:854&drc=00:04:48:486"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1944",
+                "nome": "Susana Amador"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:12:25:909&drc=00:08:52:559"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/67?pgs=67-69&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:21:44:756&drc=00:07:48:792"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:33:16:848&drc=00:02:52:727"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-71",
+                  "72-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/69?pgs=69-71,72-73&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:30:06:815&drc=00:03:10:033"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/71?pgs=71-72&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Lopes Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "71-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/71?pgs=71&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:36:15:222&drc=00:07:20:470"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-75"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/73?pgs=73-75&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:44:00:520&drc=00:07:34:111"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:54:45:201&drc=00:02:13:496"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "75-77",
+                  "78-78"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/75?pgs=75-77,78&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:09",
+            "horaTermo": "20:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_02_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=04:51:34:631&drc=00:03:10:569"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "218741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "77-77"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-03",
+                "pubLeg": "XIII",
+                "pubNr": "15",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/77?pgs=77&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "331608",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "804500",
+        "obs": null,
+        "pag": [
+          "3-78"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-11-03",
+        "pubLeg": "XIII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/015/2017-11-03/3?pgs=3-78&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
