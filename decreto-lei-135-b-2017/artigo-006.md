@@ -18,7 +18,7 @@ f) Declarar que procederam ao acionamento dos seguros existentes, podendo autori
 
 g) Garantir pelo menos 85 % do nível de emprego existente antes da ocorrência dos incêndios, no prazo máximo de seis meses após a conclusão do projeto;
 
-h) (Revogada);
+h) Dispor de contabilidade organizada nos termos da legislação aplicável;
 
 i) Demonstrar que não se trata de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão Europeia que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado;
 
