@@ -12,7 +12,7 @@ b) As quantias que resultem da exploração ou da titularidade de direitos de pr
 
 c) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
 
-d) O produto de taxas que por lei lhe sejam consignadas, nomeadamente as decorrentes das funções exercidas no quadro do SCEE;
+d) (revogada.)
 
 e) As doações, heranças ou legados de que for beneficiário;
 

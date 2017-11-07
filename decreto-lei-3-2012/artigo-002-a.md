@@ -1,8 +1,8 @@
 # Artigo 2.º-A
 
-### Competências do Centro Nacional de Cibergurança
+### Competências do Centro Nacional de Cibersegurança
 
-1 - Na prossecução da sua missão, o CNCSeg possui as seguintes competências:
+1 - Na prossecução da sua missão, o CNCS possui as seguintes competências:
 
 a) Desenvolver as capacidades nacionais de prevenção, monitorização, deteção, reação, análise e correção destinadas a fazer face a incidentes de cibersegurança e ciberataques;
 
@@ -18,7 +18,7 @@ f) Assegurar a produção de referenciais normativos em matéria de ciberseguran
 
 g) Apoiar o desenvolvimento das capacidades técnicas, científicas e industriais, promovendo projetos de inovação e desenvolvimento na área da cibersegurança;
 
-h) Assegurar o planeamento da utilização do ciberespaço em situação de crise e de guerra no âmbito do planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2013, de 31 de maio;
+h) Assegurar o planeamento da utilização não militar do ciberespaço em situação de crise ou de conflito armado, no âmbito do planeamento civil de emergência;
 
 i) Coordenar a cooperação internacional em matérias da cibersegurança, em articulação com o Ministério dos Negócios Estrangeiros;
 
