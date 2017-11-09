@@ -13,3 +13,13 @@ b) Novas decisões de financiamento de projetos de investimentos das empresas;
 c) Reforço dos instrumentos de engenharia financeira.
 
 3 - Os apoios concedidos através da reutilização dos reembolsos referida no número anterior respeitam o estabelecido na legislação europeia e nacional aplicável.
+
+4 - Após a apresentação da declaração final de despesas de cada programa operacional à Comissão Europeia, a utilização dos reembolsos pode financiar as seguintes aplicações:
+
+a) Reforço de dotações orçamentais de programas operacionais de medidas de apoio a empresas, necessário ao encerramento do QREN;
+
+b) Projetos enquadráveis no âmbito de sistemas de incentivos às empresas do Portugal 2020 que não disponham de dotação orçamental;
+
+c) Outros apoios, diretos ou indiretos, a empresas, enquadrados em sistemas de incentivos legalmente instituídos que contribuam para o reforço da sua inovação, competitividade ou internacionalização.
+
+5 - A utilização dos reembolsos prevista no número anterior e o respetivo orçamento são autorizados por despacho dos membros do governo responsáveis pelas áreas do desenvolvimento e coesão e da economia, devendo respeitar a legislação nacional e europeia aplicável.
