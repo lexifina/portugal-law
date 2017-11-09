@@ -1,0 +1,1 @@
+O Secretário de Estado do Desenvolvimento Regional, Manuel Castro Almeida, em 10 de dezembro de 2014. - O Secretário de Estado da Inovação, Investimento e Competitividade, Pedro Pereira Gonçalves, em 9 de dezembro de 2014.
