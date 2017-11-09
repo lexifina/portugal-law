@@ -82,25 +82,7 @@ III - Propriedades químicas
 
 Os brinquedos devem respeitar a legislação comunitária aplicável relativa a determinadas categorias de produtos ou a restrições a determinadas substâncias e misturas.
 
-2 - Os brinquedos que sejam, eles próprios, substâncias ou misturas devem igualmente respeitar o disposto na Directiva n.º 67/548/CEE1999/45/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro, relativo à classificação, rotulagem e embalagem de substâncias e misturas conforme o caso, relativos à classificação, embalagem e rotulagem de determinadas substâncias e misturas.
-
-3 - Sem prejuízo da aplicação das restrições previstas no segundo parágrafo do n.º 1, as substâncias classificadas como cancerígenas, mutagénicas ou tóxicas para a reprodução (CMR), categoria 1A, 1B ou 2, nos termos do disposto no Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 18 de Junho, que autoriza a presença da substância ou mistura e a sua utilização, as quais estão enumeradas no apêndice A.
-
-Essa decisão pode ser tomada se estiverem cumpridas as seguintes condições:
-
-i) A utilização da substância ou mistura foi avaliada pelo comité científico competente, que a considerou segura, em particular no que diz respeito à exposição;
-
-ii) Não existem substâncias ou misturas alternativas disponíveis, tal como comprovado na análise de alternativas realizada; e
-
-iii) A utilização da substância ou mistura em artigos para os consumidores não está proibida pelo Regulamento (CE) n.º 1970/2006, do Parlamento Europeu e do Conselho, de 18 de Junho.
-
-5 - Em derrogação do n.º 3, as substâncias ou misturas classificadas como CMR, das categorias referidas na secção 4 do apêndice B, podem ser utilizadas em brinquedos, em componentes de brinquedos ou em partes de brinquedos de natureza microestrutural distinta desde que:
-
-a) A concentração das referidas substâncias e misturas seja igual ou inferior às concentrações relevantes estabelecidas nos actos comunitários, referidos na secção 2 do apêndice B, para a classificação das misturas que contêm estas substâncias;
-
-b) As referidas substâncias sejam inacessíveis às crianças sob qualquer forma, incluindo por inalação, se o brinquedo for utilizado de acordo com o disposto no n.º 2 do artigo 13.º do presente decreto-lei; ou
-
-c) Tenha sido tomada uma decisão, nos termos do n.º 3 do artigo 46.º da Directiva n.º , do Parlamento Europeu e do Conselho, de 18 de Junho, que autoriza a presença da substância ou mistura e a sua utilização, as quais estão enumeradas no apêndice A.
+2 - Os brinquedos que sejam, eles próprios, substâncias ou misturas devem igualmente respeitar o disposto na Directiva n.º , do Parlamento Europeu e do Conselho, de 18 de Junho, que autoriza a presença da substância ou mistura e a sua utilização, as quais estão enumeradas no apêndice A.
 
 Essa decisão pode ser tomada se as seguintes condições forem satisfeitas:
 
@@ -110,30 +92,26 @@ ii) A utilização da substância ou mistura em artigos para os consumidores nã
 
 6 - Os n.os 3, 4 e 5 não se aplicam ao níquel presente no aço inoxidável.
 
-7 - Os n.os 3, 4 e 5 não se aplicam aos materiais conformes com os valores limite específicos estabelecidos no apêndice C, ou, até que esses valores tenham sido estabelecidos, mas não após 20 de Julho de 2017, aos materiais abrangidos pelas disposições relativas a materiais que entram em contacto com os alimentos, e os quais respeitam essas mesmas disposições, tal como definidas pelo Regulamento (CE) n.º 76/768/CEE, do Parlamento Europeu e do Conselho, de 16 de Dezembro, existem formas equivalentes de referenciar uma determinada classificação que devem ser usadas em diferentes períodos de tempo.
-
-1 - Critérios de classificação de substâncias e misturas, para efeitos do n.º 2 da parte ii:
-
-A - Critérios a aplicar entre 20 de Julho de 2011 e 31 de Maio de 2015:
-
-Substâncias:
-
-A substância preenche os critérios fixados para qualquer uma das seguintes classes de perigo ou categorias enunciadas no anexo i do Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 31 de Maio.
-
-A partir de 1 de Junho de 2015, as concentrações relevantes para a classificação de misturas que contenham as substâncias são aquelas estabelecidas de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+7 - Os n.os 3, 4 e 5 não se aplicam aos materiais conformes com os valores limite específicos estabelecidos no apêndice C, ou, até que esses valores tenham sido estabelecidos, mas não após 20 de Julho de 2017, aos materiais abrangidos pelas disposições relativas a materiais que entram em contacto com os alimentos, e os quais respeitam essas mesmas disposições, tal como definidas pelo Regulamento (CE) n.º 76/768/CEE, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
 
 Misturas:
 
-Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 4 da parte iii diz respeito a misturas classificadas como CMR de categoria 1 e 2, de acordo com a Directiva n.º 1999/45/CE67/548/CEE1272/20081272/2008, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º 1272/20082009/48/CE2009/48/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 4 da parte iii diz respeito a misturas classificadas como CMR de categoria 1 e 2, de acordo com a Directiva n.º 1272/2008, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º 2009/48/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
 
 Misturas:
 
-Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º 2009/48/CE1999/45/CE, do Conselho, de 27 de Junho, conforme aplicável.
+Entre 20 de Julho de 2011 e 31 de Maio de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º 2009/48/CE</`��, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a misturas classificadas como CMR de categoria 1, 2 e 3, de acordo com a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0045" title="Link para Directiva da Comunidade Europeia!�1999/45/CE</`���, do Parlamento Europeu e do Conselho, de 31 de Maio, e a Directiva n.º <a href="eurlex.asp?ano=1967&id=367L0548" title="Link para Directiva da Comunidade Europeia!������67/548/CEE</`�, do Conselho, de 27 de Junho, conforme aplicável.
 
-A partir de 1 de Junho de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a misturas classificadas como CMR de categoria 1A, 1B e 2, de acordo com o Regulamento (CE) n.º 1272/2008, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
+A partir de 1 de Junho de 2015, o disposto no n.º 3 do artigo 46.º da Directiva n.º <a href="eurlex.asp?ano=2009&id=309L0048" title="Link para Directiva da Comunidade Europeia!�2009/48/CE</`���, do Parlamento Europeu e do Conselho, de 18 de Junho, diz respeito a misturas classificadas como CMR de categoria 1A, 1B e 2, de acordo com o Regulamento (CE) n.º <a href="eurlex.asp?ano=2008&id=308R1272" title="Link para Regulamento da Comunidade Europeia!�1272/2008</`�, do Parlamento Europeu e do Conselho, de 16 de Dezembro.
 
 APÊNDICE C
 
-Valores limite específicos para os produtos químicos utilizados em brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva n.º 2009/48/CE, do Parlamento Europeu e do Conselho, de 18 de junho de 2009.
+Valores limite específicos para os produtos químicos utilizados em brinquedos que se destinam a
+
+serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem
+
+colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva n.º 2009/48/CE, do
+
+Parlamento Europeu e do Conselho, de 18 de junho.
 
 (ver documento original)
