@@ -6,7 +6,7 @@
 
 2 - As auditorias realizam-se sem prejuízo do disposto no artigo 72.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, e com respeito pela autonomia de funcionamento das CPCJ e das suas deliberações.
 
-3 - A Comissão Nacional pode, para efeitos da realização das auditorias, solicitar a intervenção dos serviços de auditoria competentes, nomeadamente da Procuradoria-Geral da República, do Ministério da Saúde, do Ministério da Educação e Ciência e do Ministério da Solidariedade, Emprego e Segurança Social, competindo à equipa técnica operativa a prática dos atos necessários à realização das mesmas.
+3 - A Comissão Nacional pode, para efeitos da realização das auditorias, solicitar a intervenção dos serviços de auditoria competentes, nomeadamente da Procuradoria-Geral da República, do Ministério da Saúde, do Ministério da Educação e do Ministério do Trabalho, Solidariedade e Segurança Social, competindo à equipa técnica operativa, com exceção dos elementos das equipas técnicas regionais, a prática dos atos necessários à realização das mesmas.
 
 4 - As auditorias visam, exclusivamente, verificar:
 

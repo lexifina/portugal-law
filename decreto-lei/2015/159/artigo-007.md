@@ -18,14 +18,18 @@ f) Promover, em articulação com o representante da Procuradoria-Geral da Repú
 
 g) Promover a articulação e a coordenação com os responsáveis máximos das entidades representadas na Comissão Nacional;
 
-h) Nomear o diretor executivo e os membros das coordenações regionais previstas no n.º 2 do artigo 12.º, ouvida a equipa técnica operativa respetiva;
+h) (Revogada.)
 
-i) Propor a cooptação das personalidades previstas na alínea s) do n.º 1 do artigo seguinte.
+i) Estabelecer a organização, dirigir e orientar a equipa técnica operativa;
 
-2 - O presidente é equiparado, para efeitos de competência de gestão orçamental e de autorização para a realização de despesas, a cargo de direção superior de 1.º grau.
+j) Designar os coordenadores das equipas técnicas regionais previstas no n.º 1 do artigo 13.º-A;
 
-3 - O presidente é coadjuvado e substituído, nas suas faltas e impedimentos, por um vice-presidente por si designado de entre os comissários.
+k) Propor a cooptação das personalidades previstas na alínea s) do n.º 1 do artigo seguinte.
 
-4 - O vice-presidente exerce as funções que lhe sejam delegadas ou subdelegadas pelo presidente.
+2 - A Comissão Nacional é dirigida por um presidente, coadjuvado por um vice-presidente, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-5 - O presidente e o vice-presidente têm direito, nas deslocações em representação da Comissão Nacional, ao abono de ajudas de custo, nos termos do regime aplicável aos trabalhadores em funções públicas.
+3 - O vice-presidente exerce as competências que nele sejam delegadas ou subdelegadas pelo presidente, competindo-lhe substituí-lo nas suas faltas e impedimentos.
+
+4 - (Revogado.)
+
+5 - (Revogado.)

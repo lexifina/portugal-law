@@ -2,9 +2,9 @@
 
 ### Estrutura orçamental
 
-1 - As receitas e as despesas relativas à Comissão Nacional constituem uma orgânica ao nível da subdivisão do orçamento da Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social, sendo objeto de registo contabilístico autónomo.
+1 - (Revogado.)
 
-2 - A Comissão Nacional dispõe das receitas provenientes de dotações que lhe forem atribuídas pelo Orçamento da Segurança Social.
+2 - A Comissão Nacional dispõe das receitas provenientes de dotações que lhe forem atribuídas pelo orçamento da segurança social ou outro organismo das diferentes entidades que compõem o Conselho Nacional.
 
 3 - A Comissão Nacional dispõe ainda das seguintes receitas próprias:
 
