@@ -22,8 +22,8 @@ h) As normas e boas práticas de preparação de solo, bem como as condicionante
 
 2 - A decisão de autorização deve ainda estabelecer e fundamentar as condicionantes aplicáveis, incluindo o período de realização das ações de arborização e rearborização.
 
-3 - A decisão do procedimento de autorização, na redação introduzida pelo presente decreto-lei, compete ao conselho diretivo do ICNF, I. P., com possibilidade de delegação no seu presidente, com faculdade de subdelegação, ou ao presidente da câmara municipal.
+3 - Compete ao conselho diretivo do ICNF, I. P., a decisão do procedimento de autorização a que se refere o presente decreto-lei, bem como a aprovação do programa de recuperação a que se refere o artigo 14.º
 
-4 - A aprovação do programa de recuperação a que se refere o artigo 14.º compete ao conselho diretivo do ICNF, I. P., com possibilidade de delegação no seu presidente, com faculdade de subdelegação.
+4 - As competências estabelecidas no número anterior são delegáveis no presidente do conselho diretivo do ICNF, I.P., com a faculdade de subdelegação.
 
 5 - O ICNF, I. P., avalia, de forma aleatória, 20 % das comunicações prévias e sobre elas emite decisão de rejeição, se aplicável, no prazo máximo de 45 dias.

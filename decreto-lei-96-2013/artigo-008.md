@@ -2,7 +2,7 @@
 
 ### Sistema de informação
 
-1 - A tramitação dos procedimentos e formalidades previstas no presente decreto-lei é realizada informaticamente com recurso ao Balcão Único Eletrónico previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal do Cidadão, e nos sítios na Internet do ICNF, I. P., assegurando, nomeadamente:
+1 - O sistema de informação a que se refere o artigo anterior assegura, nomeadamente:
 
 a) A entrega dos pedidos de autorização e de comunicação prévia;
 
@@ -16,12 +16,8 @@ e) A consulta dos dados relativos às autorizações e às comunicações prévi
 
 f) A consulta dos dados relativos às ações de arborização e rearborização integradas em projetos florestais aprovados no âmbito de programas de apoio financeiro com fundos públicos ou da União Europeia.
 
-2 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do sistema de informação previsto no número anterior é diretamente aplicável o disposto na legislação e regulamentação relativa à proteção de dados pessoais, nomeadamente o Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.
+2 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do sistema de informação previsto no número anterior é diretamente aplicável o disposto na Lei n.º 67/98, de 26 de outubro.
 
-3 - O sistema de informação é regulamentado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e das florestas.
+3 - O sistema de informação é regulamentado por portaria dos membros do Governo responsáveis pelas áreas das florestas e da modernização administrativa, devendo assegurar a interoperabilidade com o portal do cidadão e da empresa.
 
 4 - Sempre que o acesso ao sistema de informação tenha de ser interrompido, por motivos de atualização ou outros que impeçam a sua utilização, o ICNF, I. P., informa sobre os procedimentos a adotar através da sua página eletrónica.
-
-5 - Para acesso aos sistemas de informação deve ser adotada a utilização de mecanismos de autenticação eletrónica através do Cartão de Cidadão e Chave Móvel Digital.
-
-6 - Sempre que se mostre necessário deve promover-se a articulação com outras bases de dados, através da Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, e da Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho.
