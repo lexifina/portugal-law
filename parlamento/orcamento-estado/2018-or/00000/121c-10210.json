@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=S%2bfdkBmMFhfwBBBbfi6NVDq7i6lhQfO5KpOLpNnRkb5L7lTOehRxGn3s8Ry4rRgPBOnjCv8vAaXyp9nu6iCui%2fn%2bfoDmD5t%2fPeQzsu9cp9hSvJSHgA16%2fIeEqCehOdXUcl2hXXsK4bhrVh7eqmfyHehXNnE02e43iei%2f1vofkhb7MaCrNsqyT%2b%2fL3n6h2cAIZ8VjQIVuJ1pIOe6EJelUr%2b%2bsAqnXYjWg1iaVIvbTnp36LN9oJu1tspKp5zPttyeq4DYi6Fn05Wu3GzgHbhyaMnRcwiaM8NqL59QmcJtydJQOe0B65IFpiiSKFFQlXuQ78yvLR%2brVGslTsVaj67XQCMZmuX8ch53hQK4PmxaqhJe5VI4hmrn7fLTahdlq1kQp45U4XJBh%2blS0skCVtns6hC7jPxUhFGwYWCFRxxUTKEwiP8zUcA13lihoUMp%2f9nsR&fich=OEPropostasAlteracao2018Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1c7cfddab4b2682eb17f7782f2fca7931273f231ed2e3dab9492c5ee5efd85c2",
+  "legislatura": "XIII",
+  "id": "10210",
+  "numero": "121C",
+  "orcamento": "2018",
+  "versao": "Or",
+  "data_registo": "2017-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "10210",
+    "Numero": "121C",
+    "Data": "16/11/2017 17:50:00",
+    "Titulo": "Novo Artigo 215.º-A (Contribuição extraordinária sobre o setor da celulose)",
+    "Tema": "Agricultura e Mar; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 215.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f4449774d5463784d44457a4c3142424c3245305a6a56684e44566a4c5445314e4463744e4449344d7930344d57566b4c5463344f474977597a55774e446732597935775a47593d&Fich=a4f5a45c-1547-4283-81ed-788b0c50486c.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "HELOÍSA APOLÓNIA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 215.º-A",
+        "Titulo": "Contribuição extraordinária sobre o setor da celulose",
+        "Texto": "1 - No ano de 2018, o Governo aprova o regime que introduz uma contribuição extraordinária sobre o setor da celulose.\r\n2 – A contribuição tem como objetivo financiar os pequenos produtores pela plantação e manutenção de espécies autóctones e de folhosas.",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 215.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Contribuição extraordinária sobre o setor da celulose",
+        "Data": "24/11/2017 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
