@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "103174",
+  "tipo": "Requerimento",
+  "numero": "10",
+  "data_registo": "2017-11-16",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Ponto de situação sobre a reconstrução das habitações e outras edificações atingidas pelos incêndios ocorridos em junho no concelho de Castanheira de Pêra",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "4300",
+        "nome": "Hugo Lopes Soares"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1897",
+        "nome": "Teresa Morais"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4327",
+        "nome": "Carlos Abreu Amorim"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6207",
+        "nome": "Margarida Balseiro Lopes"
+      }
+    ],
+    "DataEnvio": "2017-11-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2017-11-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Castanheira de Pera",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2017-12-20",
+            "docRemetida": null,
+            "entidade": "Câmara Municipal de Castanheira de Pera",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339684e6d5a6d4e325a694e5330324d3251784c5451784d7a49744f4752694d7930305a6d45774d5751304d6a45794e4749756347526d&fich=a6ff7fb5-63d1-4132-8db3-4fa01d42124b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2017-11-16",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544338774e7a59334f4751304d5331694d7a6b304c545133597a63744f47566c596930314e3256694d57566a4e5463354e574d756347526d&fich=07678d41-b394-47c7-8eeb-57eb1ec5795c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "103174",
+    "Legislatura": "XIII",
+    "Nr": "10",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
