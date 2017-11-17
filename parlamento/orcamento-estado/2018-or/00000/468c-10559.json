@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=S%2bfdkBmMFhfwBBBbfi6NVDq7i6lhQfO5KpOLpNnRkb5L7lTOehRxGn3s8Ry4rRgPBOnjCv8vAaXyp9nu6iCui%2fn%2bfoDmD5t%2fPeQzsu9cp9hSvJSHgA16%2fIeEqCehOdXUcl2hXXsK4bhrVh7eqmfyHehXNnE02e43iei%2f1vofkhb7MaCrNsqyT%2b%2fL3n6h2cAIZ8VjQIVuJ1pIOe6EJelUr%2b%2bsAqnXYjWg1iaVIvbTnp36LN9oJu1tspKp5zPttyeq4DYi6Fn05Wu3GzgHbhyaMnRcwiaM8NqL59QmcJtydJQOe0B65IFpiiSKFFQlXuQ78yvLR%2brVGslTsVaj67XQCMZmuX8ch53hQK4PmxaqhJe5VI4hmrn7fLTahdlq1kQp45U4XJBh%2blS0skCVtns6hC7jPxUhFGwYWCFRxxUTKEwiP8zUcA13lihoUMp%2f9nsR&fich=OEPropostasAlteracao2018Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1c7cfddab4b2682eb17f7782f2fca7931273f231ed2e3dab9492c5ee5efd85c2",
+  "legislatura": "XIII",
+  "id": "10559",
+  "numero": "468C",
+  "orcamento": "2018",
+  "versao": "Or",
+  "data_registo": "2017-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "10559",
+    "Numero": "468C",
+    "Data": "17/11/2017 20:22:00",
+    "Titulo": "Novo Artigo 141.º-B (Ensino Português no Estrangeiro)",
+    "Tema": "Negócios Estrangeiros e Comunidades Portuguesas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 141.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f4449774d5463784d44457a4c3142424c3259354e47566a4d6a6b344c546c6d4d3249744e446869597930345a4759774c5755345a575a6d4e6a4e6c4f5463784e6935775a47593d&Fich=f94ec298-9f3b-48bc-8df0-e8eff63e9716.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "CARLA CRUZ"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "MIGUEL TIAGO"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 141.º-B",
+        "Titulo": "Ensino Português no Estrangeiro",
+        "Texto": "1 - É alterado o Decreto-Lei n.º 165/206, de 11 de agosto, revogando a propina do Ensino Português no Estrangeiro:\r\na) O artigo 5.º do Decreto-Lei nº 165/2006, de 11 de agosto, alterado e\r\nrepublicado pelo Decreto-Lei n.º 165-C/2009, de 28 de julho, e alterado pelo Decreto-Lei n.º 234/2012, de 30 de outubro, ",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 141.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Ensino Português no Estrangeiro",
+        "Data": "23/11/2017 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
