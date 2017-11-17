@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=S%2bfdkBmMFhfwBBBbfi6NVDq7i6lhQfO5KpOLpNnRkb5L7lTOehRxGn3s8Ry4rRgPBOnjCv8vAaXyp9nu6iCui%2fn%2bfoDmD5t%2fPeQzsu9cp9hSvJSHgA16%2fIeEqCehOdXUcl2hXXsK4bhrVh7eqmfyHehXNnE02e43iei%2f1vofkhb7MaCrNsqyT%2b%2fL3n6h2cAIZ8VjQIVuJ1pIOe6EJelUr%2b%2bsAqnXYjWg1iaVIvbTnp36LN9oJu1tspKp5zPttyeq4DYi6Fn05Wu3GzgHbhyaMnRcwiaM8NqL59QmcJtydJQOe0B65IFpiiSKFFQlXuQ78yvLR%2brVGslTsVaj67XQCMZmuX8ch53hQK4PmxaqhJe5VI4hmrn7fLTahdlq1kQp45U4XJBh%2blS0skCVtns6hC7jPxUhFGwYWCFRxxUTKEwiP8zUcA13lihoUMp%2f9nsR&fich=OEPropostasAlteracao2018Or_json.txt&Inline=true",
+  "ficheiro_sha256": "1c7cfddab4b2682eb17f7782f2fca7931273f231ed2e3dab9492c5ee5efd85c2",
+  "legislatura": "XIII",
+  "id": "10382",
+  "numero": "291C",
+  "orcamento": "2018",
+  "versao": "Or",
+  "data_registo": "2017-11-17",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "10382",
+    "Numero": "291C",
+    "Data": "17/11/2017 18:25:00",
+    "Titulo": "Novo Artigo 124.º-A (Salas de Apoio à Vítima)",
+    "Tema": "Assuntos Constitucionais, Direitos, Liberdades, Garantias e Ética; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) por Unanimidade em Comissão",
+    "NumeroArtigoNovo": "Artigo 124.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f4449774d5463784d44457a4c3142424c32517a4d446c684e6a4a6a4c5751344f5749744e474a6a5a5331694d6a63774c5745774f4745774d7a5a6b59324e6c4d4335775a47593d&Fich=d309a62c-d89b-4bce-b270-a08a036dcce0.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PS",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PS",
+          "Deputado": "CARLOS CÉSAR"
+        },
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOÃO GALAMBA"
+        },
+        {
+          "GP_Partido": "PS",
+          "Deputado": "JOÃO PAULO CORREIA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 124.º-A",
+        "Titulo": "Salas de apoio à vítima",
+        "Texto": "Em 2018, todas as intervenções de fundo realizadas em instalações para as Forças de Segurança, nos termos da Lei n.º 10/2017, de 3 de março, são efetuadas com base em programas funcionais que contemplam a existência de salas de atendimento à vítima, garantindo uma maior cobertura\r\nnacional.",
+        "Estado": "Aprovado(a) por Unanimidade em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 124.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Salas de apoio à vítima",
+        "Data": "23/11/2017 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) por Unanimidade em Comissão",
+        "Resultado": "Aprovado(a) por Unanimidade",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
