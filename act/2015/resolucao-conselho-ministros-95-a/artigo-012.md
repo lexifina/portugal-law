@@ -16,12 +16,16 @@ b) A Secretária de Estado Adjunta do Primeiro-Ministro;
 
 c) Uma/um- secretária/o de Estado em representação de cada ministra/o.
 
+d) Uma/um representante do Ministro Adjunto que por ele seja indicada/o.
+
 3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.
 
 4 - Podem assistir às Reuniões de Secretárias/os de Estado:
 
-a) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;
+a) Um membro do Gabinete do Primeiro-Ministro;
 
-b) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
+b) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;
+
+c) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
 
 5 - O Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.
