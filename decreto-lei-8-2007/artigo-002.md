@@ -16,6 +16,8 @@ e) A prestação de informação relativa a dados contabilísticos anuais para f
 
 f) A prestação de informação de natureza estatística à Direção-Geral das Atividades Económicas (DGAE), para os efeitos previstos no regime jurídico de acesso e exercício de atividades de comércio, serviços e restauração, aprovado em anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro.
 
+g) A confirmação da informação sobre o beneficiário efetivo, nos termos previstos em legislação especial.
+
 2 - Com a entrega da IES, devem ser igualmente apresentadas as seguintes declarações:
 
 a) A declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do CIRS, quando respeite a pessoas singulares que não sejam titulares de estabelecimentos individuais de responsabilidade limitada;
