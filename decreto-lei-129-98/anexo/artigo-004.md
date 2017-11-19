@@ -30,6 +30,10 @@ h) Empresários individuais que exerçam actividade económica legalmente não q
 
 i) Instrumentos de gestão fiduciária e sucursais financeiras exteriores registados na Zona Franca da Madeira.
 
-2 - O FCPC pode ainda, enquanto for necessário para efeitos fiscais, incluir informação respeitante a quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular.
+2 - O FCPC pode ainda incluir informação:
+
+a) De quaisquer sujeitos passivos da relação jurídica tributária não abrangidos pelo número fiscal de pessoa singular, enquanto tal for necessário para efeitos fiscais, incluindo de fundos fiduciários e de outros centros de interesses coletivos sem personalidade jurídica com uma estrutura ou funções similares que não se encontrem integrados no FCPC nos termos do número anterior;
+
+b) De qualquer outra entidade sujeita à obrigação de declaração do beneficiário efetivo, nos termos da lei.
 
 3 - (Revogado).
