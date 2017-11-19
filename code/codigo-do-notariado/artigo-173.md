@@ -20,6 +20,8 @@ c) Se tiver dúvidas sobre a integridade das faculdades mentais dos intervenient
 
 d) Se as partes não fizerem os preparos devidos.
 
+e) Se as partes não tiverem cumprido as obrigações declarativas e de retificação para efeitos do Registo Central do Beneficiário Efetivo.
+
 2 - As dúvidas sobre a integridade das faculdades mentais dos intervenientes deixam de constituir fundamento de recusa, se no acto intervierem dois peritos médicos que garantam a sanidade mental daqueles.
 
 3 - Quando se trate de testamento público ou de instrumento de aprovação de testamento cerrado ou internacional, a falta de preparo não constitui fundamento de recusa.
