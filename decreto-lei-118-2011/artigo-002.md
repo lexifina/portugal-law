@@ -23,3 +23,5 @@ g) Realizar e promover a investigação técnica e científica no domínio tribu
 h) Informar os contribuintes e os operadores económicos sobre as respectivas obrigações fiscais e aduaneiras e apoiá-los no cumprimento das mesmas;
 
 i) Assegurar o licenciamento do comércio externo dos produtos tipificados em legislação especial e gerir os regimes restritivos do respectivo comércio externo.
+
+j) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.
