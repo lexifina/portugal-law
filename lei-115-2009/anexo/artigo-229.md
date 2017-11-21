@@ -1,4 +1,4 @@
-## Capítulo XI
+## Capítulo XII
 
 ## Cancelamento provisório do registo criminal
 
