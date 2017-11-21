@@ -14,4 +14,4 @@
 
 4 - A decisão condenatória especifica sempre os fundamentos da suspensão e das suas condições.
 
-5 - O período de suspensão tem duração igual à da pena de prisão determinada na sentença, mas nunca inferior a um ano, a contar do trânsito em julgado da decisão.
+5 - O período de suspensão é fixado entre um e cinco anos.

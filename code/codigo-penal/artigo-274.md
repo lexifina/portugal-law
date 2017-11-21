@@ -26,4 +26,4 @@ c) Actuar com intenção de obter benefício económico;
 
 8 - Não é abrangida pelo disposto nos n.os 1 a 5 a realização de trabalhos e outras operações que, segundo os conhecimentos e a experiência da técnica florestal, se mostrarem indicados e forem levados a cabo, de acordo com as regras aplicáveis, por pessoa qualificada ou devidamente autorizada, para combater incêndios, prevenir, debelar ou minorar a deterioração do património florestal ou garantir a sua defesa ou conservação.
 
-9 - Quando qualquer dos crimes previstos nos números anteriores for cometido por inimputável, é aplicável a medida de segurança prevista no artigo 91.º, sob a forma de internamento intermitente e coincidente com os meses de maior risco de ocorrência de fogos.
+9 - (Revogado).

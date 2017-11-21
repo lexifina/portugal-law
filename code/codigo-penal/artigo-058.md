@@ -6,7 +6,7 @@
 
 ### Prestação de trabalho a favor da comunidade
 
-1 - Se ao agente dever ser aplicada pena de prisão não superior a dois anos, o tribunal substitui-a por prestação de trabalho a favor da comunidade sempre que concluir que por este meio se realizam de forma adequada e suficiente as finalidades da punição.
+1 - Se ao agente dever ser aplicada pena de prisão não superior a dois anos, o tribunal substitui-a por prestação de trabalho a favor da comunidade sempre que concluir, nomeadamente em razão da idade do condenado, que se realizam, por este meio, de forma adequada e suficiente, as finalidades da punição.
 
 2 - A prestação de trabalho a favor da comunidade consiste na prestação de serviços gratuitos ao Estado, a outras pessoas colectivas de direito público ou a entidades privadas cujos fins o tribunal considere de interesse para a comunidade.
 

@@ -12,4 +12,4 @@ c) O limite máximo da pena de multa é reduzido de um terço e o limite mínimo
 
 d) Se o limite máximo da pena de prisão não for superior a 3 anos pode a mesma ser substituída por multa, dentro dos limites gerais.
 
-2 - A pena especialmente atenuada que tiver sido em concreto fixada é passível de substituição, incluída a suspensão, nos termos gerais.
+2 - A pena especialmente atenuada que tiver sido em concreto fixada é passível de substituição, nos termos gerais.

@@ -20,6 +20,6 @@ c) Cometer crime pelo qual venha a ser condenado, e revelar que as finalidades d
 
 6 - Se o agente não puder prestar o trabalho a que foi condenado por causa que lhe não seja imputável, o tribunal, conforme o que se revelar mais adequado à realização das finalidades da punição:
 
-a) Substitui a pena de prisão fixada na sentença por multa até 240 dias, aplicando-se correspondentemente o disposto no n.º 2 do artigo 43.º; ou
+a) Substitui a pena de prisão fixada na sentença por multa até 240 dias, aplicando-se correspondentemente o disposto no n.º 2 do artigo 45.º; ou
 
 b) Suspende a execução da pena de prisão determinada na sentença, por um período que fixa entre um e três anos, subordinando-a, nos termos dos artigos 51.º e 52.º, ao cumprimento de deveres ou regras de conduta adequados.
