@@ -1,23 +1,31 @@
 # Artigo 43.º
 
-### Substituição da pena de prisão
+### Regime de permanência na habitação
 
-1 - A pena de prisão aplicada em medida não superior a um ano é substituída por pena de multa ou por outra pena não privativa da liberdade aplicável, excepto se a execução da prisão for exigida pela necessidade de prevenir o cometimento de futuros crimes. É correspondentemente aplicável o disposto no artigo 47.º
+1 - Sempre que o tribunal concluir que por este meio se realizam de forma adequada e suficiente as finalidades da execução da pena de prisão e o condenado nisso consentir, são executadas em regime de permanência na habitação, com fiscalização por meios técnicos de controlo à distância:
 
-2 - Se a multa não for paga, o condenado cumpre a pena de prisão aplicada na sentença. É correspondentemente aplicável o disposto no n.º 3 do artigo 49.º
+a) A pena de prisão efetiva não superior a dois anos;
 
-3 - A pena de prisão aplicada em medida não superior a três anos é substituída por pena de proibição, por um período de dois a cinco anos, do exercício de profissão, função ou actividade, públicas ou privadas, quando o crime tenha sido cometido pelo arguido no respectivo exercício, sempre que o tribunal concluir que por este meio se realizam de forma adequada e suficiente as finalidades da punição.
+b) A pena de prisão efetiva não superior a dois anos resultante do desconto previsto nos artigos 80.º a 82.º;
 
-4 - No caso previsto no número anterior é aplicável, com as necessárias adaptações, o disposto nos n.os 3 a 5 do artigo 66.º e no artigo 68.º
+c) A pena de prisão não superior a dois anos, em caso de revogação de pena não privativa da liberdade ou de não pagamento da multa previsto no n.º 2 do artigo 45.º
 
-5 - O tribunal revoga a pena de proibição do exercício de profissão, função ou actividade e ordena o cumprimento da pena de prisão determinada na sentença se o agente, após a condenação:
+2 - O regime de permanência na habitação consiste na obrigação de o condenado permanecer na habitação, com fiscalização por meios técnicos de controlo à distância, pelo tempo de duração da pena de prisão, sem prejuízo das ausências autorizadas.
 
-a) Violar a proibição;
+3 - O tribunal pode autorizar as ausências necessárias para a frequência de programas de ressocialização ou para atividade profissional, formação profissional ou estudos do condenado.
 
-b) Cometer crime pelo qual venha a ser condenado e revelar que as finalidades da pena de proibição do exercício de profissão, função ou actividade não puderam por meio dela ser alcançadas.
+4 - O tribunal pode subordinar o regime de permanência na habitação ao cumprimento de regras de conduta, suscetíveis de fiscalização pelos serviços de reinserção social e destinadas a promover a reintegração do condenado na sociedade, desde que representem obrigações cujo cumprimento seja razoavelmente de exigir, nomeadamente:
 
-6 - É correspondentemente aplicável o disposto no artigo 57.º
+a) Frequentar certos programas ou atividades;
 
-7 - Se, nos casos do n.º 5, o condenado tiver de cumprir pena de prisão, mas houver já cumprido proibição do exercício de profissão, função ou actividade, o tribunal desconta no tempo de prisão a cumprir o tempo de proibição já cumprido.
+b) Cumprir determinadas obrigações;
 
-8 - Para o efeito do disposto no artigo anterior, cada dia de prisão equivale ao número de dias de proibição do exercício de profissão, função ou actividade, que lhe corresponder proporcionalmente nos termos da sentença, procedendo-se, sempre que necessário, ao arredondamento por defeito do número de dias por cumprir.
+c) Sujeitar-se a tratamento médico ou a cura em instituição adequada, obtido o consentimento prévio do condenado;
+
+d) Não exercer determinadas profissões;
+
+e) Não contactar, receber ou alojar determinadas pessoas;
+
+f) Não ter em seu poder objetos especialmente aptos à prática de crimes.
+
+5 - Não se aplica a liberdade condicional quando a pena de prisão seja executada em regime de permanência na habitação.
