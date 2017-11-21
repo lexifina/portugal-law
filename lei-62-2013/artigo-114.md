@@ -32,7 +32,7 @@ i) Declarar perdidos e dar destino aos objetos ou valores apreendidos aos reclus
 
 j) Decidir sobre a modificação da execução da pena de prisão, bem como da substituição ou da revogação das respetivas modalidades, relativamente a reclusos portadores de doença grave, evolutiva e irreversível ou de deficiência grave e permanente ou de idade avançada;
 
-k) Ordenar o cumprimento da prisão em regime contínuo em caso de faltas de entrada no estabelecimento prisional não consideradas justificadas por parte do condenado em prisão por dias livres ou em regime de semidetenção;
+k) Decidir sobre a homologação do plano de reinserção social e das respetivas alterações, as autorizações de ausência, a modificação das regras de conduta e a revogação do regime, quando a pena de prisão seja executada em regime de permanência na habitação;
 
 l) Rever e prorrogar a medida de segurança de internamento de inimputáveis;
 
