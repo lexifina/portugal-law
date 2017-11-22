@@ -1,0 +1,33 @@
+# Acórdão do Supremo Tribunal Administrativo de 2017-11-22, processo 0564/16
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0564/16
+
+**Data do Acordão:** 11/22/2017
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** FRANCISCO ROTHES
+
+**Descritores:** IRS; TAXA; INTERPRETAÇÃO; SENTENÇA
+
+**Nº Convencional:** JSTA000P22573
+
+**Nº do Documento:** SA2201711220564
+
+**Data de Entrada:** 05/05/2016
+
+**Recorrente:** AT AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Recorrido 1:** A......
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A decisão judicial, constitui um acto jurídico a que se aplicam, ex vi do art. 295.º do CC, as regras e os princípios gerais de interpretação da declaração negocial, maxime a regra prevista no art. 236.º, n.º 1, daquele Código, de que a declaração deve interpretar-se com o sentido que um declaratário normal, colocado na posição do real declaratário, possa deduzir do seu contexto, tendo em conta não só a parte decisória como toda a sua fundamentação.
+
+II - Assim, se foi impugnado o excesso na retenção de IRS na fonte, a título definitivo, sobre os dividendos distribuídos por sociedade nacional a um residente em Espanha, com o fundamento de que foi aplicada a taxa liberatória de 20%, prevista na alínea c) do n.º 3 do art. 71.º do CIRS (red. em vigor em 2008), quando deveria ter sido a taxa da 15%, prevista na alínea b) do n.º 2 do art. 10.º da CDT entre Portugal e Espanha, a procedência total da impugnação judicial tem como consequência a anulação daquele acto de retenção na parte em que se verificou o excesso.
+
+III - Ainda que no segmento decisório da sentença se tenha dito «julgo totalmente procedente a presente impugnação, anulando-se liquidação efectuada», sem expressamente se referir que a anulação se restringe à parte do acto que vinha impugnada, do contexto de todo o processo, maxime da petição inicial e da fundamentação aduzida na sentença, resulta que um declaratário normal dela não pode retirar outro sentido senão o de que a liquidação foi anulada apenas na medida em que excedeu a taxa de retenção de 15%, ou seja, a anulação foi parcial e refere-se à parte da liquidação que vinha impugnada.
