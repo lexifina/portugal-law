@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "218999",
+  "tipo": "Intervenção",
+  "orador": "Jorge Falcato Simões (BE)",
+  "data_registo": "2017-11-22",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "107098",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41760",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova as Grandes Opções do Plano para 2018"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41761",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova o Orçamento do Estado para 2018"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão, na especialidade da proposta de lei n.º 100/XIII (3.ª) — Aprova o Orçamento do Estado para 2018. Proposta de aditamento de um artigo 90.º-A — Idade de reforma para trabalhadores com deficiência, apresentada pelo Bloco de Esquerda.",
+        "duracao": "00:01:32:842",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_11_22_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:51:48:957&drc=00:01:32:842"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-11-22",
+    "Debate": "PPL n.º 100/XIII/3; PPL n.º 99/XIII/3",
+    "Deputados": {
+      "GP": "BE",
+      "idCadastro": "5855",
+      "nome": "Jorge Falcato Simões"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "218999",
+    "IdDebate": "12445",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "218999",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "44-45"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-11-23",
+        "pubLeg": "XIII",
+        "pubNr": "17",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/017/2017-11-23/44?pgs=44-45&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Proposta de aditamento de um artigo 90.º - A - Idade de reforma para trabalhadores com deficiência, apresentada pelo Bloco de Esquerda",
+    "Sessao": "3",
+    "Sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
