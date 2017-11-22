@@ -1,0 +1,5 @@
+Aviso n.º 128/2017
+Por ordem superior se torna público que a República de Moçambique, a República Federativa do Brasil e a República Democrática de São Tomé e Príncipe depositaram, respetivamente, em 18 de abril de 2016, em 28 de abril de 2017 e em 4 de agosto de 2017, junto do Secretariado Executivo da Comunidade dos Países de Língua Portuguesa, os seus instrumentos de ratificação relativos ao Acordo sobre a Concessão de Visto para Estudantes Nacionais dos Estados Membros da CPLP, assinado em Lisboa, em 2 de novembro de 2007.
+O referido Acordo foi aprovado pelo Decreto n.º 10/2014, publicado no Diário da República, 1.ª série, n.º 59, de 25 de março de 2014.
+Nos termos do seu artigo 8.º, o presente Acordo entrou em vigor na República de Moçambique no dia 1 de maio de 2016, na República Federativa do Brasil no dia 1 de maio de 2017 e na República Democrática de São Tomé e Príncipe no dia 1 de setembro de 2017. O Acordo está igualmente em vigor na República Portuguesa, na República Democrática de Timor-Leste e na República de Cabo Verde.
+Direção-Geral de Política Externa, 15 de novembro de 2017. - O Subdiretor-Geral, João Pedro Antunes.
