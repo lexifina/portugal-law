@@ -1,0 +1,4 @@
+Aviso n.º 127/2017
+Por ordem superior se torna público que, em 22 de junho de 2011 e em 15 de novembro de 2016, foram recebidas notas, respetivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério dos Negócios Estrangeiros da República Tunisina, em que se comunica terem sido cumpridos os respetivos requisitos do direito interno de entrada em vigor do Acordo de Cooperação Económica entre a República Portuguesa e a República da Tunísia, assinado em Tunes, a 23 de março de 2010. O referido Acordo foi aprovado pelo Decreto n.º 4/2016, de 10 de novembro, publicado no Diário da República, 1.ª série, n.º 216, de 10 de novembro de 2016.
+Em termos do seu artigo 10.º, o Acordo entrou em vigor em 15 de novembro de 2016.
+Direção-Geral de Política Externa, 14 de novembro de 2017. - A Subdiretora-Geral, Maria Virgínia Mendes da Silva Pina.
