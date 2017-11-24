@@ -1,0 +1,240 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13107",
+  "numero": "426",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-11-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-01-03",
+            "entidades": null,
+            "id": "107327",
+            "tipo": null,
+            "titulo": "Audição em 2018-01-03 com FENPROF - Federação Nacional de Professores., Peticionários: Mário Nogueira; Manuel Nobre; Tiago Dias; António Matos e Pedro Oliveira."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2017-12-14",
+            "dataResposta": "2018-02-08",
+            "entidades": [
+              "SNESup - Sindicato Nacional do Ensino Superior"
+            ],
+            "nrOficio": "432/CEC/2017",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "431/CEC/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-02-08",
+                "dataResposta": null,
+                "nrOficio": "40/CEC/2018",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2017-12-14",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR"
+            ],
+            "nrOficio": "430/CEC/2017",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-02-08",
+                "dataResposta": null,
+                "nrOficio": "40/CEC/2018",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-12-12",
+        "DataArquivo": "2018-02-14",
+        "DataBaixaComissao": "2017-11-29",
+        "DataEnvioPAR": "2018-02-15",
+        "DataReaberta": "2017-12-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-12-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49304e7a63334f4759314c574d354d3251744e446b324e4330344e5463354c574a68597a526b4f44466a5a6d557a4f5335775a47593d&fich=247778f5-c93d-4964-8579-bac4d81cfe39.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-20",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55304f4445315954466a4c545a6b4e6d59744e4455314d6930344e7a45344c5749785a6a526b4f544a6c5a5455794d6935775a47593d&fich=54815a1c-6d6f-4552-8718-b1f4d92ee522.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67794f475a6c4d7a4d334c54426d4e3245744e4752695a5331684e44646b4c5759314e6a4e694d7a646c4d6d51324e6935775a47593d&fich=828fe337-0f7a-4dbe-a47d-f563b37e2d66.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2017-12-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d795a6a52685a6a63304c5752694f4455744e474d774e6931685a6d51354c54457a4d3251334d7a6c6b596a6b7a4f5335775a47593d&fich=32f4af74-db85-4c06-afd9-133d739db939.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249314e6d55304e574e694c5459344d544d744e4745344e7931694d5449794c5445354e3251314f4755344f5745334d7935775a47593d&fich=b56e45cb-6813-4a87-b122-197d58e89a73.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5a6d5a5459324f444a6b4c5455775a5751744e446b334d4330355a5464684c5746695a6a49324f546c6b4e6d5933596935775a47593d&fich=6fe6682d-50ed-4970-9e7a-abf2699d6f7b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-08",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4269595759774f5463334c5467344d7a51744e4751775a6931694d54566c4c5745774f444a6b4e5745344e4459785a5335775a47593d&fich=0baf0977-8834-4d0f-b15e-a082d5a8461e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2017-12-14",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6c4e4751785a47566b4c546730596d4d744e4759344f4330344f474e6a4c54646b4f5745354d6a6c68597a55355a4335775a47593d&fich=9e4d1ded-84bc-4f88-88cc-7d9a929ac59d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-02-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251355a6d49335a44426a4c5745304d6a45744e474e6a5a53316859544e6b4c54646c4d6d51794d3251314f4452694d6935775a47593d&fich=d9fb7d0c-a421-4cce-aa3d-7e2d23d584b2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-02-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245785a446735595467314c546b7a4e4759744e4449354e5331695a574d304c5456684f54526b4e6d4e694e574e6c597935775a47593d&fich=a1d89a85-934f-4295-bec4-5a94d6cb5cec.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-12-12",
+            "gp": "PS",
+            "id": "5530",
+            "motivoCessacao": null,
+            "nome": "Maria Augusta Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2017-11-29",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793877597a526d597a4d7a4f4330354e6a466b4c5452685a545174596d59314e7930334e4463324d6d5930597a4d344e7a41756347526d&fich=0c4fc338-961d-4ae4-bf57-74762f4c3870.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13107",
+    "PetAssunto": "Solicitam a adoção de medidas quanto ao posicionamento remuneratório dos docentes, providos por concurso, nas carreiras docentes do ensino superior.",
+    "PetDataEntrada": "2017-11-24",
+    "PeticoesAssociadas": null,
+    "PetId": "13107",
+    "PetLeg": "XIII",
+    "PetNr": "426",
+    "PetNrAssinaturas": "1152",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807965",
+        "obs": null,
+        "pag": [
+          "23-24"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-15",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/016/2017-12-15/23?pgs=23-24&org=PLC"
+      }
+    ]
+  }
+}
