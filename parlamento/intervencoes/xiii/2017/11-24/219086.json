@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "219086",
+  "tipo": "Intervenção",
+  "orador": "Margarida Balseiro Lopes (PSD)",
+  "data_registo": "2017-11-24",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "107100",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41760",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova as Grandes Opções do Plano para 2018"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41761",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Aprova o Orçamento do Estado para 2018"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Discussão, na especialidade, da proposta de lei n.º 100/XIII (3.ª) — Aprova o Orçamento do Estado para 2018. Proposta de aditamento de um artigo 228.º-A — Alteração ao Estatuto do Serviço Nacional de Saúde, do PSD.",
+        "duracao": "00:02:02:278",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:59:13:804&drc=00:02:02:278"
+      },
+      {
+        "assunto": "Discussão, na especialidade, da proposta de lei n.º 100/XIII (3.ª) — Aprova o Orçamento do Estado para 2018. Proposta de aditamento de um artigo 228.º-A — Alteração ao Estatuto do Serviço Nacional de Saúde, do PSD.",
+        "duracao": "00:00:37:761",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:02:13:002&drc=00:00:37:761"
+      },
+      {
+        "assunto": null,
+        "duracao": null,
+        "tipoIntervencao": "Intervenção",
+        "url": null
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-11-24",
+    "Debate": "PPL n.º 100/XIII/3; PPL n.º 99/XIII/3",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "6207",
+      "nome": "Margarida Balseiro Lopes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "219086",
+    "IdDebate": "12448",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "219086",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "32-32",
+          "32-33"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-11-25",
+        "pubLeg": "XIII",
+        "pubNr": "19",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/32?pgs=32,32-33&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Proposta de um artigo 228.º - A - Alteração ao Estatuto do Serviço Nacional de Saúde, PSD",
+    "Sessao": "3",
+    "Sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
