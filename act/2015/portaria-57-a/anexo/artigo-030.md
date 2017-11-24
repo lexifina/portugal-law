@@ -14,6 +14,8 @@ c) Os reembolsos são efetuados, por princípio, com uma periodicidade semestral
 
 d) O prazo de reembolso inicia-se no primeiro dia do mês seguinte ao do primeiro pagamento do incentivo, ou no primeiro dia do sétimo mês após a data do termo de aceitação ou do contrato, consoante o que ocorrer em primeiro lugar.
 
+e) O período de carência referido na alínea b) pode ser alargado ou ser definido um período de suspensão de reembolso do incentivo, no caso de empresas afetadas por calamidades naturais.
+
 3 - Em função da avaliação dos resultados do projeto, conforme previsto no anexo D, pode ser concedida a isenção de reembolso de uma parcela do incentivo reembolsável, até ao limite máximo de 60 %, em função do grau de superação das metas fixadas pelo beneficiário para os indicadores de resultado associados a impacte positivo ao nível da competitividade regional ou nacional, em linha com os correspondentes indicadores de resultado estabelecidos no Portugal 2020, para o domínio competitividade e internacionalização.
 
 4- O mecanismo previsto no número anterior deve respeitar os limites de auxílios estabelecidos pelas regras europeias e não se traduz em aumentos do valor de fundo europeu a atribuir no encerramento dos projetos.

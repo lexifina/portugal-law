@@ -42,4 +42,4 @@ iv) Estimular processos de consolidação e transmissão empresarial;
 
 v) Reduzir assimetrias de informação ao nível empresarial, facilitar escolhas estratégicas e estimular o diagnóstico precoce;
 
-f) A componente formação associada às tipologias de operações definidas nas alíneas anteriores enquadra-se na prioridade de investimento 8.5"Adaptação à mudança dos trabalhadores, das empresas e dos empresários" do objetivo temático 8.
+f) Para além das tipologias de operações referidas, podem ainda ser apoiadas operações enquadradas na prioridade de investimento 8.5 do objetivo temático 8.

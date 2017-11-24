@@ -2,8 +2,12 @@
 
 ### Objetivos específicos
 
-O sistema de apoio à modernização e capacitação da Administração Pública tem como objetivos específicos:
+1 - O sistema de apoio tem como objetivo a transformação digital da Administração Pública, visando a redução dos custos de contexto e a qualificação da prestação do serviço público, induzindo uma melhoria do seu desempenho e da sua capacidade de resposta às necessidades dos cidadãos e das empresas, promovendo alterações de:
 
-a) Reduzir os custos de contexto através do reforço da disponibilidade e fomento da utilização de serviços em rede da Administração Pública e melhorar a sua eficiência;
+a) Relacionamento com os cidadãos e ou empresas;
 
-b) Qualificar a prestação do serviço público, quer através da capacitação dos serviços, quer através da formação dos trabalhadores em funções públicas.
+b) Transformação dos processos operacionais;
+
+c) Alteração do modelo e da oferta de bens e serviços públicos.
+
+2 - As alterações referidas no número anterior são operacionalizadas através das tipologias de operações previstas no artigo seguinte, as quais respondem às necessidades de uma Administração Pública orientada para a produção e disponibilização de serviços públicos 'inteligentes'.

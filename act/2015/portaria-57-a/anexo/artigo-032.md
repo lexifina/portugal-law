@@ -65,3 +65,5 @@ b) Resultarem de aquisições em condições de mercado a terceiros não relacio
 c) Resultarem de aquisições a entidades acreditadas para a prestação do serviço em causa.
 
 9- Os custos elegíveis apresentados nos pedidos de pagamento do beneficiário, assentam numa base de custos reais, tendo de ser justificados através de faturas pagas ou outros documentos contabilísticos de valor probatório equivalente, exceto para as despesas que integram a alínea d) do n.º 1 do presente artigo, às quais pode ser aplicada a modalidade de custos simplificados, a definir em orientação técnica pelas autoridades de gestão.
+
+10 - Quando estejam em causa investimentos iniciais inseridos em regiões afetadas por calamidades naturais, os custos salariais previstos no n.º 6 podem reportar-se à criação de postos de trabalho cujos níveis de qualificação sejam adequados ao investimento inicial em causa.

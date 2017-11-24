@@ -10,7 +10,7 @@ i) 10 pontos percentuais (p. p.) a atribuir a médias empresas, independentement
 
 ii) 20 p. p. a atribuir a micro e pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
 
-b) Majoração «territórios de baixa densidade»: 10 p.p. a atribuir a projetos localizados em territórios de baixa densidade;
+b) Majoração 'territorial': 10 p.p. a atribuir a projetos localizados em territórios de baixa densidade ou afetados por calamidades naturais;
 
 c) (Revogada.)
 
@@ -22,7 +22,7 @@ f) Majoração «sustentabilidade»: 10 p.p. a atribuir a projetos que demonstre
 
 g) Majoração «execução do investimento»: até 10 p.p. a atribuir a projetos que cumpram ou antecipem o plano de execução dos investimentos aprovado em candidatura nas condições a definir por deliberação da CIC Portugal 2020.
 
-2- Para efeitos de atribuição da majoração referida na anterior alínea b) do número anterior, os territórios de baixa densidade são definidos em aviso para apresentação de abertura de candidatura.
+2 - Para efeitos de atribuição da majoração referida na alínea b) do número anterior, os territórios abrangidos são definidos em aviso para apresentação de candidatura.
 
 3- O incentivo atribuído por projeto não pode exceder as taxas máximas, expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 38571), sendo que o ajustamento, quando necessário, é efetuado na taxa máxima de isenção de reembolso do incentivo, prevista no n.º 3 do artigo anterior.
 

@@ -22,9 +22,9 @@ iii) Custos de funcionamento do stand, incluindo os serviços de deslocação e 
 
 c) Serviços de consultoria especializados, prestados por consultores externos, relacionados com:
 
-i) Prospeção e captação de novos clientes, incluindo missões de importadores para conhecimento da oferta do beneficiário;
+i) (Revogada.)
 
-ii) Ações de promoção realizadas em mercados externos, designadamente assessoria de imprensa, relações públicas, consultoria de mercado e assistência técnica à preparação de eventos;
+ii) (Revogada.)
 
 iii) Campanhas de marketing nos mercados externos, que compreende a contratação de serviços nas áreas de mailing e telemarketing, publicidade e meios de comunicação especializados;
 
@@ -51,6 +51,12 @@ iii) Custos de serviços de consultoria associados ao projeto de formação, no 
 iv) Custos do pessoal, relativos a formandos, e custos indiretos gerais, relativamente ao número total de horas em que os formandos participam na formação.
 
 f) Custos salariais com a contratação de recursos humanos altamente qualificados nas empresas, pelo período máximo de 36 meses, incluindo o salário base, até ao limite máximo definido no aviso para apresentação de candidaturas ou em orientação técnica, e os encargos sociais obrigatórios, mediante celebração de contrato de trabalho.
+
+g) Outras despesas de investimento relacionadas com a promoção da internacionalização, que se enquadrem nas seguintes ações:
+
+i) Prospeção e captação de novos clientes, incluindo missões de importadores para conhecimento da oferta do beneficiário;
+
+ii) Ações de promoção realizadas em mercados externos, designadamente assessoria de imprensa, relações públicas, consultoria de mercado e assistência técnica à preparação de eventos.
 
 2- No que se refere à modalidade de candidatura projeto conjunto e para os promotores são elegíveis as despesas com:
 

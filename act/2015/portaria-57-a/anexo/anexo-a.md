@@ -62,9 +62,9 @@ b) O cofinanciamento dos investimentos localizados nas regiões de Lisboa e Alga
 
 c) Sempre que existam, num mesmo projeto, investimentos localizados nas regiões de Lisboa ou Algarve e investimentos localizados em regiões menos desenvolvidas, cada componente será financiada, de acordo com o previsto nas anteriores alíneas a) e b).
 
-A.2 - Sistema de apoio à modernização e capacitação da administração pública
+A.2 - Sistema de apoio à transformação digital da administração pública
 
-8 - No que respeita ao sistema de apoio à modernização e capacitação da Administração Pública obedece aos seguintes critérios:
+8 - No que respeita ao sistema de apoio à transformação digital da Administração Pública obedece aos seguintes critérios:
 
 a) No âmbito do programa operacional Competitividade e Internacionalização são financiadas as operações promovidas pela seguinte tipologia de beneficiários:
 

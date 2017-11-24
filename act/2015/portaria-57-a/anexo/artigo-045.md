@@ -30,7 +30,7 @@ c) Abranger no mínimo 10 PME, salvo o disposto na alínea seguinte;
 
 d) Abranger no mínimo 5 PME, desde que envolvam atividades diferenciadas e complementares, não existam nem participações cruzadas no capital social, nem sócios, gerentes ou administradores comuns;
 
-e) Identificar na candidatura pelo menos 50% das PME a abranger no projeto conjunto, com o mínimo de 5.
+e) Identificar na candidatura pelo menos 50 % das PME a abranger no projeto conjunto, com o mínimo de 5, exceto no caso dos projetos de Formação-Ação em que não se aplica esta condição.
 
 3- Para além dos critérios referidos nos números anteriores, quando o projeto se inserir numa nova atividade económica o beneficiário tem de demonstrar, na conclusão do mesmo, a existência de volume de negócios associado a essa atividade.
 

@@ -2,7 +2,7 @@
 
 ### Indicadores de resultado
 
-1- As operações a financiar no sistema de apoios à modernização e capacitação da Administração Pública devem contribuir para os seguintes indicadores de resultado dos PO:
+1 - As operações a financiar no sistema de apoio à transformação digital da Administração Pública devem contribuir para os seguintes indicadores de resultado dos PO:
 
 a) Prioridade de investimento 2.3 - percentagem de indivíduos com idade entre 16 e 74 anos que preencheram e enviaram pela Internet impressos ou formulários oficiais nos últimos 12 meses face ao total de indivíduos;
 

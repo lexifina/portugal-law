@@ -10,4 +10,4 @@ a) A derrogação máxima do prazo previsto para início do projeto não pode ul
 
 b) Não pode ser alterada a duração aprovada em sede de decisão.
 
-3 - Os resultados contratados podem ser objeto de revisão, nos termos do n.º 8 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, mediante pedido do beneficiário, quando sejam invocadas circunstâncias supervenientes, imprevisíveis à data de decisão de aprovação, incontornáveis e não imputáveis ao beneficiário e desde que a operação continue a garantir as condições mínimas de seleção do respetivo concurso.
+3 - Os resultados contratados, o calendário de realização, o momento de avaliação e as metas aprovadas podem ser objeto de revisão, nos termos do n.º 8 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, quando sejam invocadas circunstâncias supervenientes imprevisíveis à data da decisão de aprovação, incontornáveis e não imputáveis ao beneficiário, incluindo as reconhecidas como calamidades naturais nos termos a definir em orientação técnica.

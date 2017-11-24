@@ -34,15 +34,15 @@ k) Aquisição e adaptação de veículos automóveis a utilizar como serviços 
 
 5- As despesas realizadas e efetivamente pagas pelos beneficiários finais no âmbito de operações de locação financeira ou de arrendamento e aluguer de longo prazo apenas são elegíveis para cofinanciamento se foram observadas as regras previstas no n.º 9 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 
-6- As despesas são elegíveis em função da sua realização no território das NUTS II abrangidas por cada um dos programas operacionais, sendo o critério de elegibilidade territorial determinado em função do local onde ocorrem as operações ou onde residam os seus beneficiários.
+6 - As despesas são elegíveis em função da localização da operação no território da NUTS II abrangidas por cada um dos programas operacionais, sendo o critério da elegibilidade territorial determinado em função do local onde ocorrem as operações ou onde residam os seus beneficiários.
 
 7- De acordo com o previsto na decisão do Programa Operacional Competitividade e Internacionalização e no n.º 3 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis a este PO, despesas realizadas fora da sua área geográfica de intervenção, sendo nesses casos a regra de elegibilidade da despesa apurada em função da localização dos cidadãos enquanto beneficiários finais dessas intervenções, desde que:
 
-a) Sejam promovidas por entidades beneficiárias de âmbito nacional;
+a) Sejam promovidas por entidades beneficiárias de âmbito nacional, sendo que no caso de projetos em copromoção, apenas estas entidades podem ser nomeadas como beneficiário líder;
 
 b) Se enquadrem nas tipologias de operação previstas no artigo 83.º, com exceção da prevista na alínea c) do n.º 1 do mesmo artigo;
 
-c) Demonstrem possuir benefícios diretos sobre a população localizada nas regiões NUTS II do Norte, Centro e Alentejo, designadamente ao nível da redução dos custos de contexto para os cidadãos e as empresas;
+c) Demonstrem possuir benefícios efetivos sobre a população localizada nas regiões NUTS II do Norte, Centro e Alentejo, designadamente ao nível da redução dos custos de contexto para os cidadãos e as empresas;
 
 d) Apenas serão consideradas para efeitos financiamento, o equivalente a 67 % das despesas elegíveis realizadas naquela região, correspondente ao nível de concentração da população de Portugal Continental nas regiões Norte, Centro e Alentejo.
 

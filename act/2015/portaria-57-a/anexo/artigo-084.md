@@ -17,3 +17,5 @@ a) Envolver pelo menos dois beneficiários;
 b) Ser nomeado um beneficiário líder, ao qual compete assegurar a coordenação global da operação e a interlocução dos vários beneficiários junto das autoridades de gestão em tudo o que respeite à gestão técnica, administrativa e financeira da operação;
 
 c) Existir um acordo escrito entre as entidades envolvidas, explicitando o âmbito da cooperação, a identificação do beneficiário líder, a responsabilidade conjunta entre as partes, deveres e direitos das partes, e questões inerentes à propriedade final dos bens de equipamento adquiridos ou desenvolvidos no âmbito da execução da operação.
+
+3 - As operações apoiadas pelo FSE têm uma duração máxima de 36 meses, podendo ser prorrogada em casos devidamente justificados e aceites pelas autoridades de gestão, sem prejuízo dos avisos para apresentação de candidaturas poderem definir outro prazo de duração.
