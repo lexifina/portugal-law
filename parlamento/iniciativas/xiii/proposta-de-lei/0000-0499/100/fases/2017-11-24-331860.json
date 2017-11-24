@@ -1,0 +1,2845 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "100",
+    "id": "41761",
+    "titulo": "Aprova o Orçamento do Estado para 2018"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2017-11-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12449",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2017-11-24",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "41760",
+        "leg": "XIII",
+        "nr": "99",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2403",
+            "obs": null,
+            "pag": [
+              "4-41"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-11-25",
+            "pubLeg": "XIII",
+            "pubNr": "19",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/4?pgs=4-41&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Aprova as Grandes Opções do Plano para 2018"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-11-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:05:07:682&drc=00:01:56:750"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:07:10:346&drc=00:04:30:139"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:11:42:472&drc=00:01:02:715"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/6?pgs=6&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6128",
+                "nome": "Marisabel Moutela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:12:45:187&drc=00:04:27:370"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:17:12:558&drc=00:03:33:699"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4437",
+                "nome": "Carlos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:20:47:075&drc=00:01:35:068"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/9?pgs=9&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3934",
+                "nome": "João Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:22:21:107&drc=00:02:12:773"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/9?pgs=9-10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:24:33:880&drc=00:01:16:142"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/10?pgs=10&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:25:50:023&drc=00:03:54:956"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/10?pgs=10-11&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5855",
+                "nome": "Jorge Falcato Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:29:44:979&drc=00:01:12:434"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/11?pgs=11&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:30:57:414&drc=00:04:11:586"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4405",
+                "nome": "João Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:35:14:264&drc=00:01:36:688"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:36:50:952&drc=00:02:35:844"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:39:26:797&drc=00:01:03:202"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:40:30:449&drc=00:02:49:554"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:43:20:003&drc=00:03:05:161"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=00:46:25:164&drc=00:05:13:211"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS  PARLAMENTARES",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Pedro Nuno Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/15?pgs=15-18&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:18:35:832&drc=00:01:27:467"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:21:13:783&drc=00:00:27:987"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22",
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/22?pgs=22,22-23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:20:14:377&drc=00:00:42:622"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/22?pgs=22&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:22:49:096&drc=00:00:09:904"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.As propostas de aditamento de um artigo 73.º-A — Campanha nacional de esterilização de animais; o artigo 120.º (Pagamento em 2018 dos subsídios de Natal e férias no setor privado); as propostas de aditamento de um artigo 120.º-A (Salas de atendimento à vítima); a proposta de aditamento de um artigo 123.º-C (Redução do número máximo dos alunos por turma nos anos de início de ciclo); a proposta de aditamento de um artigo 130.º-D (Bolsas de ação social); as propostas de aditamento de um artigo 132.º-A (Cuidados de saúde prestados nas termas); a proposta de aditamento de um artigo 132.º-D (Estrutura da toxicodependência); a proposta de aditamento de um artigo 148.º-A (Título de transporte — passe 4_18); as propostas de aditamento de um artigo 154.º-A (Eletricidade verde); a proposta de aditamento de um artigo 161.º-J (Reforço de verbas na inspeção e fiscalização ambiental); a proposta de aditamento de um artigo 162.º-A (Comissão para elaboração do estatuto fiscal do interior); a proposta de aditamento de um artigo 163.º-A (Norma transitória do âmbito do Código do Imposto sobre o Rendimento das Pessoas Singulares); o artigo164.º (Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas); e, finalmente, a proposta de aditamento de um artigo 167.º-A (Medidas de apoio em sede de IRC às empresas afetadas pelos incêndios de 2017).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3966",
+                "nome": "Álvaro Batista"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:24:00:033&drc=00:01:14:606"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1974",
+                "nome": "Ricardo Bexiga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:25:46:208&drc=00:02:24:472"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4405",
+                "nome": "João Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:28:10:681&drc=00:02:12:661"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:30:23:342&drc=00:03:24:409"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:36:00:009&drc=00:02:51:225"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:40:05:042&drc=00:00:54:536"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "António Mendonça Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25",
+                  "26-27",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/25?pgs=25,26-27,27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:33:47:751&drc=00:02:12:257"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:38:51:234&drc=00:01:13:807"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26",
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/25?pgs=25-26,27&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1733",
+                "nome": "Luís Pedro Pimentel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:40:59:578&drc=00:01:29:896"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:42:28:914&drc=00:03:04:467"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/28?pgs=28&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:45:33:382&drc=00:01:44:088"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5676",
+                "nome": "António Eusébio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:47:17:470&drc=00:02:14:880"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:49:32:350&drc=00:02:16:774"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:51:49:125&drc=00:01:04:046"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "António Mendonça Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/30?pgs=30&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:53:51:154&drc=00:01:29:067"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6158",
+                "nome": "João Azevedo Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:55:15:904&drc=00:01:34:919"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:56:50:824&drc=00:02:22:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "António Mendonça Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/31?pgs=31&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=01:59:13:804&drc=00:02:02:278"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:02:13:002&drc=00:00:37:761"
+              },
+              {
+                "link": null
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/32?pgs=32,32-33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6048",
+                "nome": "Ivan Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:01:16:082&drc=00:00:56:920"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/32?pgs=32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5617",
+                "nome": "Margarida Mano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:02:50:764&drc=00:03:47:235"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2665",
+                "nome": "Jorge Paulo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:06:38:851&drc=00:01:50:079"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1597",
+                "nome": "Fátima Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:08:21:563&drc=00:01:56:903"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4392",
+                "nome": "Paulo Rios de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:10:18:467&drc=00:01:37:579"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:11:56:047&drc=00:02:28:953"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6136",
+                "nome": "Inês Domingos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:14:25:515&drc=00:01:37:237"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:16:02:752&drc=00:01:24:816"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:17:27:569&drc=00:04:11:102"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4129",
+                "nome": "Cristóvão Crespo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:21:38:671&drc=00:01:48:529"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6013",
+                "nome": "Hugo Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:23:27:200&drc=00:02:16:872"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2129",
+                "nome": "João Paulo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:25:44:073&drc=00:02:40:680"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4396",
+                "nome": "Andreia Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:28:24:753&drc=00:01:39:639"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:30:04:393&drc=00:01:42:048"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:31:46:441&drc=00:00:57:090"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DO ORÇAMENTO",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "João Leão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6048",
+                "nome": "Ivan Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:43",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_11_24_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m11/&tI=02:32:43:532&drc=00:03:06:666"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "219103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-11-25",
+                "pubLeg": "XIII",
+                "pubNr": "19",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Grandes Opções do Plano para 2018; Aprova o Orçamento do Estado para 2018.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "331860",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "805792",
+        "obs": null,
+        "pag": [
+          "4-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-11-25",
+        "pubLeg": "XIII",
+        "pubNr": "19",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/019/2017-11-25/4?pgs=4-41&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
