@@ -20,7 +20,7 @@ b) Sendo titular de uma autorização de residência permanente, 24 meses seguid
 
 3 - A ausência para além dos limites previstos no número anterior deve ser justificada mediante pedido apresentado no SEF antes da saída do residente do território nacional ou, em casos excepcionais, após a sua saída.
 
-4 - Não é cancelada a autorização de residência aos cidadãos que estejam ausentes por períodos superiores aos previstos no n.º 2, quando comprovem que durante a sua ausência do território nacional estiveram no país de origem e que no mesmo desenvolveram uma actividade profissional ou empresarial ou de natureza cultural ou social.
+4 - Não é cancelada a autorização de residência aos cidadãos que estejam ausentes por períodos superiores aos previstos no n.º 2, quando comprovem que durante a sua ausência de território nacional desenvolveram atividade profissional ou empresarial ou de natureza cultural ou social.
 
 5 - O cancelamento da autorização de residência deve ser notificado ao interessado e comunicado, por via electrónica, ao ACIDI, I. P., e ao Conselho Consultivo com indicação dos fundamentos da decisão e implica a apreensão do correspondente título.
 

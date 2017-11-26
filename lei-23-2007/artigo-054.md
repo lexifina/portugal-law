@@ -6,13 +6,13 @@
 
 ### Visto de estada temporária
 
-1 - O visto de estada temporária destina-se a permitir a entrada em território português ao seu titular para:
+1 - O visto de estada temporária destina-se a permitir a entrada e a estada em território nacional por período inferior a um ano para:
 
 a) Tratamento médico em estabelecimentos de saúde oficiais ou oficialmente reconhecidos;
 
 b) Transferência de cidadãos nacionais de Estados Partes na Organização Mundial de Comércio, no contexto da prestação de serviços ou da realização de formação profissional em território português;
 
-c) Exercício em território nacional de uma actividade profissional, subordinada ou independente, de carácter temporário, cuja duração não ultrapasse, em regra, os seis meses;
+c) Exercício em território nacional de uma atividade profissional independente;
 
 d) Exercício em território nacional de uma actividade de investigação científica em centros de investigação, de uma actividade docente num estabelecimento de ensino superior ou de uma actividade altamente qualificada durante um período de tempo inferior a um ano;
 
@@ -22,6 +22,10 @@ f) Permanecer em território nacional por períodos superiores a três meses, em
 
 g) Acompanhamento de familiar sujeito a tratamento médico nos termos da alínea a).
 
-2 - O visto de estada temporária é válido por quatro meses e para múltiplas entradas em território nacional, sem prejuízo do disposto no n.º 4 do artigo 56.º
+h) Trabalho sazonal por período superior a 90 dias;
+
+i) Frequência de curso em estabelecimento de ensino ou de formação profissional.
+
+2 - Sem prejuízo do estabelecido em disposição especial, o visto de estada temporária é concedido pelo tempo da duração da estada e é válido para múltiplas entradas em território nacional.
 
 3 - O prazo máximo para a decisão sobre o pedido de visto de estada temporária é de 30 dias contados a partir da instrução do pedido.

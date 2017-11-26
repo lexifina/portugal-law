@@ -2,7 +2,7 @@
 
 ### Direitos, igualdade de tratamento e alojamento
 
-1 - O titular de visto de curta duração ou de visto de estada temporária para trabalho sazonal tem direito a entrar e permanecer em todo o território nacional e a exercer a atividade laboral especificada no respetivo visto ou outras, num ou em sucessivos empregadores.
+1 - O titular de visto de curta duração ou de visto de estada temporária para trabalho sazonal tem direito a entrar e permanecer em todo o território nacional e a exercer a atividade laboral especificada no respetivo visto num ou em sucessivos empregadores.
 
 2 - Ao titular de visto de curta duração ou de visto de estada temporária para trabalho sazonal é assegurada a igualdade de tratamento em relação aos trabalhadores nacionais nos termos do n.º 2 do artigo 83.º, bem como no que respeita aos direitos laborais decorrentes da lei ou da contratação coletiva, incluindo ao pagamento de remunerações em atraso, aos serviços de aconselhamento sobre trabalho sazonal e ao ensino e formação profissional.
 

@@ -12,7 +12,7 @@ c) Até 90 dias, se o interessado for titular de um visto de residência;
 
 d) Até 90 dias, prorrogáveis por um igual período, se o interessado for titular de um visto de curta duração ou tiver sido admitido no País sem exigência de visto;
 
-e) Até um ano, prorrogável por igual período, se o interessado for titular de um visto de estada temporária, com excepção dos casos previstos na alínea c) do n.º 1 do artigo 54.º, em que a prorrogação só é admitida até 90 dias.
+e) Até um ano, se o interessado for titular de um visto de estada temporária.
 
 2 - A prorrogação de permanência pode ser concedida, para além dos limites previstos no número anterior, na pendência de pedido de autorização de residência, bem como em casos devidamente fundamentados.
 

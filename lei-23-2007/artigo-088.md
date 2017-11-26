@@ -25,3 +25,5 @@ c) Esteja inscrito na segurança social, salvo os casos em que o documento apres
 4 - A concessão de autorização de residência nos termos dos números anteriores é comunicada pelo SEF, por via electrónica, à Inspecção-Geral do Trabalho ou, nas Regiões Autónomas, à respectiva secretaria regional, de modo que estas entidades possam fiscalizar o cumprimento de todas as obrigações legais da entidade patronal para com o titular da autorização de residência, bem como à administração fiscal e aos serviços competentes da segurança social.
 
 5 - O titular de uma autorização de residência para exercício de uma atividade profissional subordinada pode exercer uma atividade profissional independente, mediante substituição do título de residência, sendo aplicável, com as necessárias adaptações, o disposto no artigo seguinte.
+
+6 - Presume-se a entrada legal prevista na alínea b) do n.º 2 sempre que o requerente trabalhe em território nacional e tenha a sua situação regularizada perante a segurança social há pelo menos 12 meses.

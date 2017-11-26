@@ -2,12 +2,12 @@
 
 ### Autorização de residência para voluntários
 
-1 - É emitida uma autorização de residência ao titular de um visto de residência para participação num programa de voluntariado, desde que esteja abrangido pelo Serviço Nacional de Saúde ou disponha de seguro de saúde.
+1 - Ao voluntário titular de visto de residência emitido nos termos do artigo 62.º, que preencha as condições gerais estabelecidas no artigo 77.º, é concedida autorização de residência desde que esteja abrangido pelo Serviço Nacional de Saúde ou por um seguro de saúde e cumpra o estabelecido no n.º 8 do artigo 62.º
 
-2 - A concessão de autorização de residência nos termos do número anterior depende da apresentação pelo interessado de contrato assinado com a organização responsável em Portugal pelo programa de voluntariado em que participa, que contenha uma descrição das suas tarefas, as condições de que beneficiará na realização dessas tarefas, o horário que deve cumprir, bem como, se for caso disso, a formação que recebe para assegurar o cumprimento adequado das suas tarefas.
+2 - A autorização de residência concedida ao abrigo do número anterior é válida por um ano ou pelo período de duração do programa de voluntariado, não podendo ser renovada.
 
-3 - A validade da autorização de residência a que se refere o n.º 1 não pode ser superior a um ano.
+3 - (Revogado.)
 
-4 - Em casos excepcionais, se a duração do programa em causa for superior a um ano, a validade da autorização de residência pode corresponder ao período em causa.
+4 - (Revogado.)
 
-5 - A autorização de residência concedida ao abrigo do presente artigo não é renovável.
+5 - (Revogado.)

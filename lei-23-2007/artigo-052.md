@@ -2,26 +2,32 @@
 
 ### Condições gerais de concessão de vistos de residência, de estada temporária e de curta duração
 
-1 - Sem prejuízo de condições especiais aplicáveis à concessão de cada tipo de visto e dos regimes especiais constantes de acordos, protocolos ou instrumentos similares, tratados e convenções internacionais de que Portugal seja Parte, só são concedidos vistos de residência, de estada temporária e de curta duração a nacionais de Estados terceiros que preencham as seguintes condições:
+1 - Sem prejuízo das condições especiais de concessão de vistos previstas na presente lei ou em convenção ou instrumento internacional de que Portugal seja Parte, só são concedidos vistos de residência, de estada temporária ou de curta duração a nacional de Estado terceiro que preencha as seguintes condições:
 
-a) Não tenham sido sujeitos a uma medida de afastamento do País e se encontrem no período subsequente de interdição de entrada em território nacional;
+a) Não tenha sido sujeito a medida de afastamento e se encontre no período subsequente de interdição de entrada em território nacional;
 
-b) Não estejam indicados para efeitos de não admissão no Sistema de Informação Schengen por qualquer das Partes Contratantes;
+b) Não esteja indicado para efeitos de não admissão no Sistema de Informação Schengen por qualquer Estado membro da União Europeia;
 
-c) Não estejam indicados para efeitos de não admissão no Sistema Integrado de Informações do SEF, nos termos do artigo 33.º;
+c) Não esteja indicado para efeitos de não admissão no Sistema Integrado de Informações do SEF, nos termos do artigo 33.º;
 
-d) Disponham de meios de subsistência, tal como definidos por portaria conjunta dos Ministros da Administração Interna e do Trabalho e da Solidariedade Social;
+d) Disponha de meios de subsistência, definidos por portaria dos membros do Governo responsáveis pela área da administração interna e da solidariedade e segurança social;
 
-e) Disponham de um documento de viagem válido;
+e) Disponha de documento de viagem válido;
 
-f) Disponham de um seguro de viagem.
+f) Disponha de seguro de viagem;
 
-2 - Para a concessão de visto de residência para exercício de actividade profissional subordinada ou independente, de visto de residência para estudo, intercâmbio de estudantes, estágio profissional ou voluntariado, de visto de estada temporária e de visto de curta duração é ainda exigido ao nacional de Estado terceiro que disponha de um título de transporte que assegure o seu regresso.
+g) Disponha de autorização parental ou documento equivalente, quando o requerente for menor de idade e durante o período de estada não esteja acompanhado por quem exerce o poder parental ou a tutela.
 
-3 - É recusada a emissão de visto de estada temporária ou visto de residência a nacional de Estado terceiro que tenha sido condenado por crime que em Portugal seja punível com pena privativa de liberdade de duração superior a um ano, ainda que esta não tenha sido cumprida, ou que tenha sofrido mais de uma condenação em idêntica pena, ainda que a sua execução tenha sido suspensa.
+2 - Para a concessão de visto de estada temporária e de visto de curta duração é ainda exigido título de transporte que assegure o seu regresso.
 
-4 - Pode ser recusada a emissão de visto a pessoas que constituam perigo ou ameaça para a ordem pública, a segurança ou a defesa nacional ou a saúde pública.
+3 - É recusado visto de residência ou de estada temporária ao nacional de Estado terceiro que tenha sido condenado por crime que, em Portugal, seja punível com pena privativa de liberdade de duração superior a um ano, ainda que esta não tenha sido cumprida ou a sua execução tenha sido suspensa.
+
+4 - É recusado visto a nacionais de Estado terceiro que constituam perigo ou ameaça para a ordem pública, a segurança ou defesa nacional ou a saúde pública.
 
 5 - Sempre que a concessão do visto seja recusada pelos fundamentos previstos nas alíneas b) e c) do n.º 1, o requerente é informado da possibilidade de solicitar a rectificação dos dados que a seu respeito se encontrem errados.
 
 6 - Sempre que o requerente seja objeto de interdição de entrada emitida por um Estado parte ou Estado associado na Convenção de Aplicação do Acordo de Schengen, este deve ser previamente consultado devendo os seus interesses ser tidos em consideração, em conformidade com o artigo 25.º daquela Convenção.
+
+7 - Para efeitos do disposto na alínea d) do n.º 1, no caso dos requerentes de visto de residência para estudo, intercâmbio de estudantes, atividade de investigação, estágio profissional ou voluntariado devem ser tidos em consideração, com base num exame individual, os meios provenientes de uma subvenção, bolsa de estudo, contrato ou promessa de trabalho ou termo de responsabilidade subscrito pela organização responsável pelo programa de intercâmbio de estudantes ou de voluntariado ou pela entidade de acolhimento de estagiários.
+
+8 - O visto de residência concedido para estudo, intercâmbio de estudantes, atividade de investigação ou voluntariado contém a menção de 'investigador', 'estudante de ensino superior', 'estudante do ensino secundário', 'estagiário' ou 'voluntário' na rubrica observações da vinheta.

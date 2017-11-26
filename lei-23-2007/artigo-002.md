@@ -28,6 +28,12 @@ k) Diretiva n.º 2011/51/UE, do Parlamento Europeu e do Conselho, de 11 de maio,
 
 l) Diretiva n.º 2011/98/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro, relativa a um procedimento de pedido único de concessão de uma autorização única para os nacionais de países terceiros residirem e trabalharem no território de um Estado membro e a um conjunto de direitos para os trabalhadores de países terceiros que residem legalmente num Estado membro.
 
+m) Diretiva 2014/36/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, relativa às condições de entrada e de permanência de nacionais de Estados terceiros para efeitos de trabalho sazonal;
+
+n) Diretiva 2014/66/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa às condições de entrada e residência de nacionais de Estados terceiros no quadro de transferências dentro das empresas;
+
+o) Diretiva (UE) 2016/801, do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa às condições de entrada e de residência de nacionais de Estados terceiros para efeitos de investigação, de estudos, de formação, de voluntariado, de programas de intercâmbio de estudantes, de projetos educativos e de colocação au pair.
+
 2 - Simultaneamente, procede-se à consolidação no direito nacional da transposição dos seguintes actos comunitários:
 
 a) Decisão Quadro, do Conselho, de 28 de Novembro de 2002, relativa ao reforço do quadro penal para a prevenção do auxílio à entrada, ao trânsito e à residência irregulares;

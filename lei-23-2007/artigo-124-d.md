@@ -2,7 +2,7 @@
 
 ### Procedimentos, garantias processuais e acesso a informação
 
-1 - O pedido de concessão ou renovação de autorização de residência para transferência dentro da empresa ao abrigo da presente subsecção é apresentado pelo nacional de Estado terceiro ou pela empresa de acolhimento junto dos serviços descentralizados da AIMA, IP.
+1 - O pedido de concessão ou de renovação de autorização de residência para transferência dentro da empresa ao abrigo da presente subsecção deve ser apresentado pelo nacional de Estado terceiro ou pela empresa de acolhimento na direção ou delegação regional do SEF da sua área de residência.
 
 2 - No momento do pedido é disponibilizada informação ao requerente sobre a entrada e permanência em território nacional e a documentação legalmente exigida no âmbito dos procedimentos previstos na presente subsecção, bem como sobre os direitos, deveres e garantias de que é titular, incluindo, se for caso disso, os membros da sua família.
 
@@ -20,4 +20,4 @@
 
 9 - A decisão de cancelamento da autorização de residência emitida ao abrigo da presente subsecção é igualmente notificada por escrito, à empresa de acolhimento, com indicação dos seus fundamentos.
 
-10 - O titular de autorização de residência para transferência dentro da mesma empresa notifica a AIMA, I. P., de qualquer alteração das condições de concessão estabelecidas no artigo 124.º-B, no prazo de 15 dias.
+10 - O titular de autorização de residência para transferência dentro da empresa notifica o SEF de qualquer alteração das condições de concessão estabelecidas no artigo 124.º-B, no prazo de 15 dias.

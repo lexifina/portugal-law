@@ -22,4 +22,4 @@ e) Seja outorgante de contrato celebrado com agências de emprego de trabalho te
 
 f) Seja titular de autorização de residência para efeitos de estudo ou estágio de curta duração integrado em programas curriculares.
 
-3 - É competente para as decisões previstas na presente subsecção o conselho diretivo da AIMA, I. P., com faculdade de delegação.
+3 - É competente para as decisões previstas na presente subsecção o diretor nacional do SEF, com faculdade de delegação.

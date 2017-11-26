@@ -8,11 +8,11 @@ a) Seja titular de contrato de trabalho ou promessa de contrato de trabalho vál
 
 b) Tenha proteção adequada na eventualidade de doença, em moldes idênticos aos dos cidadãos nacionais, ou de seguro de saúde, quando existirem períodos em que não beneficie de cobertura deste tipo, nem de prestações correspondentes ao exercício profissional ou em resultado do trabalho a realizar, bem como seguro de acidentes de trabalho disponibilizado pelo empregador;
 
-c) Disponha de alojamento condigno, mediante contrato de arrendamento ou equivalente, podendo o alojamento também ser disponibilizado pelo empregador nos termos dos n.ºs 3 e 4 do artigo 56.º-D;
+c) Disponha de alojamento condigno, mediante contrato de arrendamento ou equivalente, podendo o alojamento também ser disponibilizado pelo empregador nos termos dos n.os 3 e 4 do artigo 56.º-D;
 
 d) Em caso de profissão regulamentada, preencha as condições previstas na legislação nacional para o respetivo exercício;
 
-e) [Revogada.]
+e) Seja titular de título de transporte válido que assegure o seu regresso ao país de origem.
 
 2 - No campo de observações da vinheta do visto deve ser feita menção de que este é emitido para efeitos de trabalho sazonal.
 

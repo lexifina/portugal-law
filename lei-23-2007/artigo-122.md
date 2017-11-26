@@ -38,7 +38,7 @@ n) Que tenham beneficiado de autorização de residência concedida ao abrigo do
 
 o) Que, tendo beneficiado de autorização de residência para estudantes do ensino secundário, concedida ao abrigo do artigo 92.º, ou de autorização de residência para estudantes do 1.º ciclo do ensino superior, concedida ao abrigo do artigo 91.º, e concluído os seus estudos pretendam exercer em território nacional uma atividade profissional, subordinada ou independente, salvo quando aquela autorização tenha sido emitida no âmbito de acordos de cooperação e não existam motivos ponderosos de interesse nacional que o justifiquem;
 
-p) Que, tendo beneficiado de autorização de residência para estudantes do 2.º ou 3.º ciclos do ensino superior, concedida ao abrigo do artigo 91.º, e concluído os seus estudos pretendam usufruir do período máximo de um ano para procurar trabalho compatível com as suas qualificações, em Portugal;
+p) Que, tendo beneficiado de autorização de residência para estudo em instituição de ensino superior nos termos do artigo 91.º ou de autorização de residência para investigação nos termos do artigo 91.º-B, e concluídos, respetivamente, os estudos ou a investigação, pretendam usufruir do período máximo de um ano para procurar trabalho ou criar uma empresa em território nacional compatível com as suas qualificações;
 
 q) Que, tendo beneficiado de visto de estada temporária para atividade de investigação ou altamente qualificada, pretendam exercer em território nacional uma atividade de investigação, uma atividade docente num estabelecimento de ensino superior ou altamente qualificada, subordinada ou independente:
 

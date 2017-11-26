@@ -20,7 +20,7 @@ b) A trabalhar em território nacional até à decisão sobre o seu pedido, desd
 
 7 - A autorização de residência tem validade de um ano ou validade corresponde à duração da transferência para o território nacional, podendo ser renovada por iguais períodos até ao limite de três anos no caso dos gestores e especialistas, ou de um ano no caso dos empregados estagiários, desde que se mantenham as condições da sua concessão.
 
-8 - A empresa de acolhimento comunica à AIMA, I. P., qualquer alteração que afete as condições com base nas quais a autorização para mobilidade de longo prazo foi concedida.
+8 - A empresa de acolhimento comunica ao SEF qualquer alteração que afete as condições com base nas quais a autorização para mobilidade de longo prazo foi concedida.
 
 9 - A concessão de autorização de residência para mobilidade de longa duração é comunicada às autoridades do Estado membro que emitiu a autorização de residência ICT.
 
