@@ -6,7 +6,7 @@
 
 ### Modelo do apoio financeiro
 
-1 - O apoio financeiro do Porta 65 - Jovem é concedido sob a forma de subvenção mensal não reembolsável, por períodos de 12 meses, podendo ser renovado em candidaturas subsequentes até ao limite de 36 meses.
+1 - O apoio financeiro do Porta 65 - Jovem é concedido sob a forma de subvenção mensal não reembolsável, por períodos de 12 meses, podendo ser renovado em candidaturas subsequentes até ao limite de 60 meses.
 
 2 - O beneficiário pode, a qualquer momento, fazer cessar o apoio concedido nos termos do número anterior, sem prejuízo da possibilidade de apresentar candidatura subsequente para completar o período de 12 meses, observadas as condições de acesso e limites de duração do apoio financeiro estabelecidas no presente decreto-lei.
 

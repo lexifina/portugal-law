@@ -16,4 +16,4 @@ b) A omissão de factos ou dados relevantes para efeito de atribuição, manuten
 
 c) A prática de acto ou omissão que constitua o senhorio no direito de resolver o contrato de arrendamento nos termos do NRAU, nomeadamente a mora no pagamento da renda por período superior a três meses.
 
-5 - Quando haja lugar à cessação do apoio financeiro nos termos do número anterior, os jovens ou os membros do agregado jovem não podem candidatar-se a qualquer apoio público para fins habitacionais durante um período de cinco anos.
+5 - Quando haja lugar à cessação do apoio financeiro nos termos do número anterior, os jovens ou os membros do agregado jovem não podem candidatar-se a qualquer apoio público para fins habitacionais durante um período de dois anos, agravado para cinco anos em caso de dolo na prática dos atos ou omissões nele previstos.
