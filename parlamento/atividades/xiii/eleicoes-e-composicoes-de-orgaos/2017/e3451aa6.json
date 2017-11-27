@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2017-11-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de membros para o Conselho Regulador da  ERC",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2017-11-27",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": null,
+        "nome": "Francisco de Paula Melo de Azevedo e Silva"
+      },
+      {
+        "cargo": null,
+        "nome": "João Pedro Nunes Lemos Figueiredo"
+      },
+      {
+        "cargo": null,
+        "nome": "Maria de Fátima Gravata de Resende Lima"
+      },
+      {
+        "cargo": null,
+        "nome": "Mário  António da Mota Mesquita"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho Regulador da ERC - Entidade Reguladora para a Comunicação Social",
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "805804",
+        "obs": "Despacho n.º 63/XIII - Relação nominal dos candidatos",
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-11-22",
+        "pubLeg": "XIII",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR II série E",
+        "pubTp": "H",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2e/13/03/006/2017-11-22/2?pgs=2&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": [
+      "20489",
+      "20490"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2017-11-27",
+        "descricao": null,
+        "detalhe": null,
+        "id": "77752",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "805806",
+            "obs": "Eleição",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-11-28",
+            "pubLeg": "XIII",
+            "pubNr": "20",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/020/2017-11-28/3?pgs=3&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "805807",
+            "obs": "Anúncio",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-11-29",
+            "pubLeg": "XIII",
+            "pubNr": "21",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/021/2017-11-29/3?pgs=3&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "20",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
