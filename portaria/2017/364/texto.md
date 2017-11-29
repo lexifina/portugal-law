@@ -1,0 +1,18 @@
+Portaria n.º 364/2017
+de 29 de novembro
+A Portaria n.º 984/2008, de 2 de setembro, aprova o regulamento das taxas devidas por serviços prestados pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), e pelas Direções Regionais de Agricultura e Pescas quando em articulação conjunta com a DGADR, bem como os respetivos montantes, regimes de cobrança e distribuição.
+No artigo 11.º do regulamento aprovado por aquela portaria, consagram-se taxas aplicáveis pelos serviços prestados no âmbito da instrução de processos para emissão e operacionalização de cartões de acesso ao abastecimento de gasóleo colorido e marcado, destinado aos setores agrícola e florestal, incluindo uma taxa no âmbito do pedido e instrução do processo para segunda via de emissão de cartão ou sua operacionalização, por motivo de extravio.
+Os incêndios florestais, cujo início se registou no dia 17 de junho de 2017, provocaram uma série de danos e prejuízos em infraestruturas, equipamentos e bens em áreas em inúmeros Municípios.
+Face à situação de emergência decorrente destes incêndios florestais foram ativados os respetivos Planos Distritais de Emergência de Proteção Civil.
+Neste contexto, o Governo estabeleceu como uma das suas prioridades o apoio à recuperação imediata das infraestruturas, equipamentos e bens localizados nas áreas afetadas pelos incêndios florestais, cuja recuperação seja essencial à vida das populações ou cuja reposição do funcionamento revista caráter urgente e inadiável, nomeadamente nos domínios da energia, abastecimento de água, comunicações e circulação.
+Face ao extravio de cartões na sequência dos incêndios ocorridos, entende-se que não se justifica que haja lugar ao pagamento da taxa prevista no referido regulamento.
+Assim:
+Nos termos do n.º 5.º da Portaria n.º 117-A/2008, de 8 de fevereiro, alterada pela Portaria n.º 762/2010, de 20 de agosto e pela Portaria n.º 206/2014, de 8 de outubro, e nos n.os 5.º e 9.º da Portaria n.º 361-A/2008, de 12 de maio, manda o Governo, pelo Secretário de Estado das Florestas e do Desenvolvimento Rural, ao abrigo das competências delegadas pelo Despacho n.º 5564/2017, de 1 de junho, com a redação dada pelo Despacho n.º 7088/2017, de 21 de julho, o seguinte:
+Artigo 1.º
+Isenção excecional
+Em derrogação do disposto no artigo 11.º do regulamento aprovado pela Portaria n.º 984/2008, de 2 de setembro, pelos serviços prestados no âmbito da instrução de processos para emissão e operacionalização de cartões de acesso ao abastecimento de gasóleo colorido e marcado, destinado aos setores agrícola e florestal, não há lugar ao pagamento de taxa no âmbito do pedido e instrução do processo para segunda via de emissão de cartão, ou sua operacionalização, por motivo de extravio, no caso de beneficiários cujas explorações se localizem nos Municípios de Abrantes, Alijó, Arganil, Aveiro, Cantanhede, Carregal do Sal, Castanheira de Pêra, Castelo Branco, Castelo de Paiva, Castro Daire, Covilhã, Ferreira do Zêzere, Figueira da Foz, Figueiró dos Vinhos, Fornos de Algodres, Freixo de Espada à Cinta, Fundão, Gavião, Góis, Gouveia, Guarda, Lousã, Mação, Mangualde, Marinha Grande, Mira, Monção, Mortágua, Nelas, Nisa, Oleiros, Oliveira de Frades, Oliveira do Hospital, Pampilhosa da Serra, Pedrógão Grande, Penacova, Penela, Proença-a-Nova, Resende, Ribeira de Pena, Santa Comba Dão, Sardoal, Seia, Sertã, Tábua, Tondela, Torre de Moncorvo, Trancoso, Vagos, Vila de Rei, Vila Nova de Poiares e Vouzela.
+Artigo 2.º
+Produção de efeitos e vigência
+A presente portaria produz efeitos no dia seguinte ao da sua publicação e vigora até 31 de julho de 2018.
+O Secretário de Estado das Florestas e do Desenvolvimento Rural, Miguel João Pisoeiro de Freitas, em 28 de novembro de 2017.
+110960315
