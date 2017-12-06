@@ -1,0 +1,749 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13111",
+  "numero": "430",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-12-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-02-07",
+            "entidades": null,
+            "id": "107723",
+            "tipo": null,
+            "titulo": "Audição em 2018-02-07 com Carlos Manuel Gonçalves; José Manuel Teixeira Cardoso; Maria de Fátima Sousa Oliveira Ventura e Joaquim Manuel Ferreira Oliveira."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-02-02",
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "12/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-01-30",
+            "entidades": [
+              "PRÓ-ORDEM - Associação Sindical dos Professores Pró-Ordem"
+            ],
+            "nrOficio": "13/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "14/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "FESAP - Federação de Sindicatos da Administração Pública e de Entidades com Fins Públicos"
+            ],
+            "nrOficio": "15/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "16/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-02-15",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "17/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-02-05",
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "18/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "19/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-02-09",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "20/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-01-24",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "21/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-01-11",
+            "dataResposta": "2018-02-05",
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "11/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-01-10",
+        "DataArquivo": "2018-02-28",
+        "DataBaixaComissao": "2017-12-12",
+        "DataEnvioPAR": "2018-03-01",
+        "DataReaberta": "2018-01-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-01-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6c4f4749334f544e6c4c57466a4d5451744e446b794f4331684d324e684c544d7a597a4e6d4d6a4e694f575135595335775a47593d&fich=ce8b793e-ac14-4928-a3ca-33c3f23b9d9a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255774e3255304d47457a4c54457a5a4749744e4755344e5331694d546c6c4c5749794d6a63774e6d49304d6d55785a4335775a47593d&fich=e07e40a3-13db-4e85-b19e-b22706b42e1d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41784e4749314f574e6d4c5751325a4745744e446b7a596930354e6a6b324c545530596a4e69597a566a5a44566a4d5335775a47593d&fich=014b59cf-d6da-493b-9696-54b3bc5cd5c1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466b4e444d30595464694c546b344d5467744e444535596931695a446b334c5755344d6a45324f575a6a4e3255314e5335775a47593d&fich=1d434a7b-9818-419b-bd97-e82169fc7e55.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d775a575a6c4d47566b4c546b355a4455744e44566b5a6931684e4463334c57497a5954526a4e7a49304e7a5177596935775a47593d&fich=c0efe0ed-99d5-45df-a477-b3a4c724740b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245354f5749314d324a6b4c54426859574d744e4755324e7931694f474a6d4c546730596d49314e7a4e694d7a5a684e6935775a47593d&fich=a99b53bd-0aac-4e67-b8bf-84bb573b36a6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251324e444d774d6a6b324c54417a4d7a6b744e4468694d793034596a45344c54686c595456694e4451785a57466b4e6935775a47593d&fich=d6430296-0339-48b3-8b18-8ea5b441ead6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67794d6a4a695932526a4c5755335a4441744e4751344d5331694e6a4d314c5455324d3252694e7a45775a57466c4d5335775a47593d&fich=8222bcdc-e7d0-4d81-b635-563db710eae1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32517a59546c68596d4a6a4c574668593255744e445a684f4330354d32566c4c5745334e5745784f445a6b597a55334d5335775a47593d&fich=d3a9abbc-aace-46a8-93ee-a75a186dc571.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32457a4e47597a5a5449334c575a6a4d6d55744e4749324d793035595456684c544a6c4e325a6d4e5445795a444e6a4d4335775a47593d&fich=a34f3e27-fc2e-4b63-9a5a-2e7ff512d3c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a42684e4446695a6d59314c574a684d5459744e47466a4e7931684f57526a4c54466a4f474e6c4e7a5930597a67784f5335775a47593d&fich=0a41bff5-ba16-4ac7-a9dc-1c8ce764c819.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67784d4745795a5459324c574d785a6a4d744e4449795a6930354d475a6d4c545a6d4d444d334e3256694e6d4d344e5335775a47593d&fich=810a2e66-c1f3-422f-90ff-6f0377eb6c85.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-03-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245774d4749335a6a677a4c54466c4d4463744e446b315a4330344d4445344c5445354e4755774e7a59325a474d795a4335775a47593d&fich=a00b7f83-1e07-495d-8018-194e0766dc2d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566b4e474d784d446b304c544d304f5455744e47566b4e5330344d6a67354c544a6b59324531597a4932596a45354f4335775a47593d&fich=ed4c1094-3495-4ed5-8289-2dca5c26b198.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a55344d4449354e4449314c575932595749744e4467334e5330354d4451774c5463354d6d59325a5759324e544e684e7935775a47593d&fich=58029425-f6ab-4875-9040-792f6ef653a7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426b4e54517a4d47517a4c57466d4d6a49744e446378597931695a546c6c4c574e6b5a545a6c5a6a4d785a444a694d5335775a47593d&fich=0d5430d3-af22-471c-be9e-cde6ef31d2b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259304f446b7a59324d334c5446694d5751744e445533596930354d4745354c574d345a6a49354e6a526b596a63345a4335775a47593d&fich=f4893cc7-1b1d-457b-90a9-c8f2964db78d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251795a474e6c4e574d324c544d775a4745744e474e6b5a4331694e6a63314c544a6d59574a6a4d7a6b314e445135596935775a47593d&fich=d2dce5c6-30da-4cdd-b675-2fabc395449b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-01-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6734596d51334e44466b4c545134597a51744e44466a4e69303559325a684c544a6c4e6d4933595451344e54426b597935775a47593d&fich=88bd741d-48c4-41c6-9cfa-2e6b7a4850dc.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49324f4459324e446c6c4c57466d4d6a6b744e4755334d5331684f546b304c5463344e7a55784e6d4d314d6a4a6a5a4335775a47593d&fich=2686649e-af29-4e71-a994-787516c522cd.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-01-10",
+            "gp": "CDS-PP",
+            "id": "2300",
+            "motivoCessacao": null,
+            "nome": "Ilda Araújo Novo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-09-20",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-12-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793830595745314e5442685a4330774e6a63324c54526b596a5174596a5a6c4d69316d597a59304d5755354f444d30597a55756347526d&fich=4aa550ad-0676-4db4-b6e2-fc641e9834c5.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42937",
+      "42945",
+      "42951",
+      "42952",
+      "42959",
+      "42945"
+    ],
+    "Iniciativasoriginadas": [
+      "42937",
+      "42945",
+      "42951",
+      "42952",
+      "42959"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:07:08:296&drc=00:05:19:067"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:12:27:363&drc=00:03:50:393"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:16:17:756&drc=00:04:09:136"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:20:26:893&drc=00:04:13:220"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:24:40:114&drc=00:04:36:097"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:29:16:212&drc=00:03:32:523"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-09-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_09_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m09/&tI=02:32:48:735&drc=00:01:43:252"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-09-21",
+                "pubLeg": "XIII",
+                "pubNr": "2",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas; Pelo reconhecimento e qualificação do pessoal de apoio educativo da escola pública; Recomenda ao Governo a revisão em 2018 do rácio de auxiliares de ação educativa da escola pública no sentido do seu reforço; Recomenda ao Governo que permita às escolas procederem à rápida substituição de assistentes operacionais em situação de baixa prolongada; Necessidade de revisão do rácio de auxiliares de ação educativa na escola pública e Revisão e reforço do rácio de atribuição de assistentes operacionais e assistentes técnicos aos agrupamentos e escolas não agrupadas.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13111",
+    "PetAssunto": "Solicitam uma resposta urgente e efetiva na colocação de assistentes operacionais nas escolas públicas portuguesas.",
+    "PetDataEntrada": "2017-12-06",
+    "PeticoesAssociadas": null,
+    "PetId": "13111",
+    "PetLeg": "XIII",
+    "PetNr": "430",
+    "PetNrAssinaturas": "12548",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2521",
+        "obs": null,
+        "pag": [
+          "38-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-09-21",
+        "pubLeg": "XIII",
+        "pubNr": "2",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/002/2018-09-21/38?pgs=38-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807974",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-11",
+        "pubLeg": "XIII",
+        "pubNr": "20",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/020/2018-01-11/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
