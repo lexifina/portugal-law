@@ -1,0 +1,531 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13113",
+  "numero": "432",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-12-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-02-08",
+            "entidades": null,
+            "id": "107744",
+            "tipo": null,
+            "titulo": "Audição em 2018-02-08 com Peticionários - Petição 432/XIII/3ª - Teresa Campos"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-22",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2017-12-20",
+        "DataArquivo": "2018-03-07",
+        "DataBaixaComissao": "2017-12-12",
+        "DataEnvioPAR": "2018-03-08",
+        "DataReaberta": "2017-12-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2017-12-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6c684d7a41324e6d597a4c5451794e3255744e475a6c4d4330354e5463774c5467314d5445795a54417a5a4759775a4335515245593d&fich=9a3066f3-427e-4fe0-9570-85112e03df0d.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-03-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a49775a6a4130596a466a4c5445334d5441744e475a6a4e6930354e6d4a6b4c544a684e6a45794d574d774e4441774e4335515245593d&fich=20f04b1c-1710-4fc6-96bd-2a6121c04004.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4530",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2017-12-20",
+            "gp": "CDS-PP",
+            "id": "6037",
+            "motivoCessacao": null,
+            "nome": "Patrícia Fonseca"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-10-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2017-12-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939694d6a5a6a593255344d7930774d4749344c5451324e4463744f4449305a5330774e6a4a6a5932457a4d7a55344d6a4d756347526d&fich=b26cce83-00b8-4647-824e-062cca335823.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42940",
+      "42939",
+      "42939"
+    ],
+    "Iniciativasoriginadas": [
+      "42940",
+      "42939"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:15:36:029&drc=00:02:44:225"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:39:24:852&drc=00:01:12:916"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44",
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/44?pgs=44,49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:18:20:254&drc=00:03:18:143"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:21:38:397&drc=00:02:28:437"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:24:06:835&drc=00:03:54:667"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:28:04:872&drc=00:03:23:137"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:31:28:009&drc=00:03:33:843"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/47?pgs=47-48&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-10-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_10_03_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m10/&tI=02:35:02:709&drc=00:04:22:143"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "231787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-04",
+                "pubLeg": "XIII",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o melhoramento das leis para proteção de equídeos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13113",
+    "PetAssunto": "Solicitam o melhoramento das leis para proteção de equídeos.",
+    "PetDataEntrada": "2017-12-07",
+    "PeticoesAssociadas": null,
+    "PetId": "13113",
+    "PetLeg": "XIII",
+    "PetNr": "432",
+    "PetNrAssinaturas": "12292",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "669",
+        "obs": null,
+        "pag": [
+          "44-50"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-10-04",
+        "pubLeg": "XIII",
+        "pubNr": "7",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/007/2018-10-04/44?pgs=44-50&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807970",
+        "obs": null,
+        "pag": [
+          "12-14"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-04",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/018/2018-01-04/12?pgs=12-14&org=PLC"
+      }
+    ]
+  }
+}
