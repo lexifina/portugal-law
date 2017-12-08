@@ -2,9 +2,9 @@
 
 ### Competência para realizar a avaliação da aptidão física, mental e psicológica
 
-1 - A avaliação da aptidão física e mental dos candidatos e condutores dos grupos 1 e 2 é realizada por médicos no exercício da sua profissão.
+1 - A avaliação da aptidão física e mental dos candidatos e condutores dos grupos 1 e 2 é realizada por médicos no exercício da sua profissão ou em Serviços Clínicos para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores.
 
-2 - É realizada por psicólogos no exercício da sua profissão:
+2 - A avaliação da aptidão psicológica dos candidatos e condutores é realizada por psicólogos no exercício da sua profissão ou em Serviços Clínicos para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores:
 
 a) A avaliação da aptidão psicológica dos candidatos e condutores do grupo 2;
 
@@ -29,3 +29,7 @@ e) De candidatos ou condutores considerados «aptos» com restrições impostas 
 6 - Qualquer outra restrição imposta ao candidato ou condutor, por autoridade de saúde, por junta médica ou pelo IMT, I.P., só pode ser retirada após nova avaliação realizada pela entidade que a impôs.
 
 7 - Os condutores que solicitem a emissão de carta de condução, nos termos do artigo 5.º, podem apresentar atestado médico e certificado de avaliação psicológica emitidos por serviço competente da força militar ou de segurança a que pertençam.
+
+8 - Compete aos candidatos e condutores prestar informações válidas sobre os seus antecedentes de saúde e comportamentais relevantes e apresentar relatórios clínicos, eventuais exames complementares e ou pareceres médicos e psicológicos que se mostrem necessários à sua avaliação, realizada por médicos ou psicólogos, respetivamente, no exercício da sua profissão ou em Serviço Clínico para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores.
+
+9 - A abertura, a modificação e o funcionamento dos Serviços Clínicos para a avaliação da aptidão física, mental e psicológica dos candidatos e condutores regem-se pelo disposto no Decreto-Lei n.º 127/2014, de 22 de agosto, sendo aplicável o procedimento simplificado por mera comunicação prévia aí previsto.

@@ -72,13 +72,31 @@ iii) Triciclos a motor de potência superior a 15 kW, se o titular for maior de 
 
 iv) Veículos da categoria B1;
 
-v) Veículos agrícolas das categorias I e II;
+v) Veículos agrícolas da categoria I;
 
-vi) Máquinas industriais ligeiras;
+vi) Veículos agrícolas da categoria II, mediante frequência de ação de formação, ministrada por entidade autorizada, nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas da administração interna, dos transportes e da agricultura;
 
-f) Categoria C: veículos da categoria C1, veículos agrícolas das categorias I, II e III e máquinas industriais pesadas;
+vii) Máquinas industriais ligeiras;
 
-g) Categoria D: veículos da categoria D1, veículos agrícolas das categorias I, II e III e máquinas industriais pesadas;
+f) Categoria C:
+
+i) Veículos da categoria C1;
+
+ii) Veículo agrícola da categoria I;
+
+iii) Veículos agrícolas das categorias II e III, mediante frequência de ação de formação, ministrada por entidade autorizada, nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas da administração interna, dos transportes e da agricultura;
+
+iv) Máquinas industriais pesadas.
+
+g) Categoria D:
+
+i) Veículos da categoria D1;
+
+ii) Veículo agrícola da categoria I;
+
+iii) Veículos agrícolas das categorias II e III, mediante frequência de ação de formação, ministrada por entidade autorizada, nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas da administração interna, dos transportes e da agricultura;
+
+iv) Máquinas industriais pesadas.
 
 h) Categoria BE: Tratores agrícolas ou florestais com reboque ou com máquina agrícola ou florestal rebocada, desde que a massa máxima do conjunto não exceda 6 000 kg;
 

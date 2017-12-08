@@ -18,7 +18,7 @@ b) Dispor da aptidão física, mental e psicológica exigida para o exercício d
 
 c) Ter sido aprovado no exame de condução para a categoria ou categorias de veículos a que se candidata;
 
-d) Não ser titular de carta de condução de igual categoria emitida por outro Estado membro da União Europeia ou do espaço económico europeu, salvo se entregar aquele título para troca por título nacional;
+d) Não ser titular de carta de condução emitida por outro Estado membro da União Europeia ou do Espaço Económico Europeu, salvo se entregar aquele título para troca por título de condução nacional;
 
 e) Não se encontrar a cumprir sanção acessória de proibição ou de inibição de conduzir ou medida de segurança de interdição de concessão de carta de condução determinada por autoridade judicial ou administrativa portuguesa;
 
