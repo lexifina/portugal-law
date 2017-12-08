@@ -14,7 +14,7 @@ d) Títulos de condução emitidas por Estado estrangeiro, desde que este reconh
 
 e) Licenças internacionais de condução, desde que apresentadas com o título nacional que as suporta;
 
-f) Licenças especiais de condução de ciclomotores;
+f) (Revogada.)
 
 g) Licenças especiais de condução;
 
