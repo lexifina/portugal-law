@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "221947",
+  "tipo": "Intervenção",
+  "orador": "Manuel Heitor (MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR)",
+  "data_registo": "2017-12-13",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "107325",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "107325",
+        "tipo": "DEB",
+        "titulo": "Debate de atualidade - Sobre \"Falta de concretização de medidas relativas ao emprego científico\""
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Abertura do debate de atualidade, requerido pelo PCP, sobre falta de concretização de medidas relativas ao emprego científico.",
+        "duracao": "00:03:32:155",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:09:46:777&drc=00:03:32:155"
+      },
+      {
+        "assunto": "Debate de atualidade, requerido pelo PCP, sobre falta de concretização de medidas relativas ao emprego científico. Responde a Luís Monteiro e Margarida Mano.",
+        "duracao": "00:03:18:182",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:21:37:384&drc=00:03:18:182"
+      },
+      {
+        "assunto": "Debate de atualidade, requerido pelo PCP, sobre falta de concretização de medidas relativas ao emprego científico.",
+        "duracao": "00:02:13:653",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_12_13_15_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:43:05:291&drc=00:02:13:653"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-12-13",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "221947",
+    "IdDebate": "5235",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR",
+      "governo": "XXI GOVERNO CONSTITUCIONAL",
+      "nome": "Manuel Heitor"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "221947",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "12-13",
+          "5-5",
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-14",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/025/2017-12-14/5?pgs=5,7-8,12-13&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde a pedidos de esclarecimento dos Deputados Luís Monteiro (BE) e Margarida Mano (PSD).",
+    "Sessao": "3",
+    "Sumario": "\"Falta de concretização de medidas relativas ao emprego científico\"",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
