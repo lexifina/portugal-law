@@ -1,0 +1,6 @@
+Aviso n.º 142/2017
+Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia comunicou, pela nota n.º SGS17/09275, de 25 de outubro de 2017, ter a União Europeia concluído os procedimentos internos necessários à entrada em vigor do Acordo Multilateral entre a Comunidade Europeia e os seus Estados-Membros, a República da Albânia, a Bósnia e Herzegovina, a República da Bulgária, a República da Croácia, a República da Islândia, a Antiga República Jugoslava da Macedónia, a República de Montenegro, o Reino da Noruega, a Roménia, a República da Sérvia e a Missão de Administração Provisória das Nações Unidas para o Kosovo sobre o Estabelecimento de Um Espaço de Aviação Comum Europeu (EACE), assinado no Luxemburgo em 9 de junho de 2006.
+Mais se torna público que, tendo todas as Partes concluído idênticos procedimentos, o presente acordo entrou em vigor no dia 1 de dezembro de 2017, nos termos do seu artigo 29.º, n.º 2.
+Portugal é Parte neste Acordo, aprovado pela Resolução da Assembleia da República n.º 25/2009 e ratificado pelo Decreto do Presidente da República n.º 30/2009, publicados no Diário da República, 1.ª série, n.º 73, de 15 de abril.
+Direção-Geral dos Assuntos Europeus, 4 de dezembro de 2017. - O Diretor-Geral, Rui Vinhas.
+110976021
