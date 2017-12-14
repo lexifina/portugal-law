@@ -1,0 +1,8 @@
+Aviso n.º 15053/2017
+2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Oliveira do Hospital - Abertura de discussão pública
+José Carlos Alexandrino Mendes, Presidente da Câmara Municipal de Oliveira do Hospital, torna público, nos termos e para os efeitos do disposto no n.º 1 e n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), que em reunião ordinária pública realizada a 16 de novembro de 2017, a Câmara Municipal, deliberou, por unanimidade, a abertura do período de discussão pública relativo à 2.ª Alteração à 1.ª Revisão do Plano Diretor Municipal conforme artigo 118.º do RJIGT, nos termos e para os efeitos previstos no n.º 1 e n.º 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+O período de inquérito público é de trinta dias, com início no quinto dia útil após a data da publicação do presente Aviso no Diário da República.
+As sugestões ou informações a apresentar devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Oliveira do Hospital e/ou enviadas por e-mail para «dpgt@cm-oliveiradohospital.pt», ou entregues no Balcão Único da Câmara Municipal, com a devida identificação do assunto, devendo igualmente ser acompanhadas de identificação do munícipe, com a sua residência completa e o número de contribuinte.
+Durante este período os interessados poderão consultar a Alteração ao Plano e demais elementos relevantes, que se encontram disponíveis no Balcão Único da Câmara Municipal, durante o horário normal de expediente e na página da Internet da autarquia www.cm-oliveiradohospital.pt.
+20 de novembro de 2017. - O Presidente da Câmara Municipal, José Carlos Alexandrino Mendes.
+610950499
