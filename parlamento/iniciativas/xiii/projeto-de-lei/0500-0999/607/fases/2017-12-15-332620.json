@@ -1,0 +1,369 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "607",
+    "id": "41691",
+    "titulo": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2017-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12559",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2017-12-15",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "41921",
+        "leg": "XIII",
+        "nr": "1174",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2418",
+            "obs": null,
+            "pag": [
+              "21-26"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2017-12-16",
+            "pubLeg": "XIII",
+            "pubNr": "27",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/21?pgs=21-26&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2017-12-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:50:34:849&drc=00:03:54:536"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:09:43:048&drc=00:01:26:101"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/21?pgs=21,25-26&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:54:29:385&drc=00:04:26:887"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5530",
+                "nome": "Maria Augusta Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=00:58:56:273&drc=00:03:41:590"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4326",
+                "nome": "Nilza de Sena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:02:37:864&drc=00:03:46:240"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2300",
+                "nome": "Ilda Araújo Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2017_12_15_10_00_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:06:24:105&drc=00:03:18:942"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2017-12-16",
+                "pubLeg": "XIII",
+                "pubNr": "27",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário; Recomenda ao Governo a melhoria do regime de recrutamento e mobilidade dos docentes da educação pré-escolar e dos ensinos básico e secundário.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "332620",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "807003",
+        "obs": null,
+        "pag": [
+          "20-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-16",
+        "pubLeg": "XIII",
+        "pubNr": "27",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/027/2017-12-16/20?pgs=20-26&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
