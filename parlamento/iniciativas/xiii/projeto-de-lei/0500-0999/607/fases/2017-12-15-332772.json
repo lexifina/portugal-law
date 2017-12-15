@@ -1,0 +1,171 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "607",
+    "id": "41691",
+    "titulo": "Procede à sétima alteração ao Decreto-Lei n.º 132/2012, de 27 de junho, que estabelece o regime de recrutamento e mobilidade do pessoal docente dos ensinos básico e secundário"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2017-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "41756",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2018-04-17",
+            "id": "108390",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2017-12-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2017-12-15",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-04-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "2.ª Prorrogação por mais 45 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f444e6d5a4463784e5759744d7a597a596930304d6a417a4c546b334f4463745a5451325a5749784e6a63354e6d566c4c6e426b5a673d3d&fich=83fd715f-363b-4203-9787-e46eb16796ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Ofício PAR - para votação na generalidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54677a4d7a497a5a575174597a426b4d5330305a6a49314c57466b4f54677459546c6d4e446b34596a4d354d6d4a6a4c6e426b5a673d3d&fich=983323ed-c0d1-4f25-ad98-a9f498b392bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da AFOMOS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f44637a597a55344e5459744d5467334e6930304e445a694c5745795a4749744d5755314f4468685a4751775a6d4d774c6e426b5a673d3d&fich=873c5856-1876-446b-a2db-1e588add0fc0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-18",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da ASPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a56695a545930596a67744e474d324e6930304e4463304c5467314e6a41744d545579596d45304e475669596a4d304c6c424552673d3d&fich=f5be64b8-4c66-4474-8560-152ba44ebb34.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENEI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546b7a4d444d335a4751744d5455304e6930304e44526b4c546b774f4445745a574e6a4d545577597a45784f5442684c6e426b5a673d3d&fich=993037dd-1546-444d-9081-ecc150c1190a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da FENPROF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a4e6a596a67784d6a5574596d5a6c4d4330304f4749774c546b334e4449744d7a6b354d6d493259325a6a4e444a6b4c6e426b5a673d3d&fich=f3cb8125-bfe0-48b0-9742-3992b6cfc42d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Pró-Ordem ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d5a6a593249774d6a51744f4449304d4330304d5468684c546b79595441744f4749354e474d325932566d596a4a6d4c6e426b5a673d3d&fich=6fccb024-8240-418a-92a0-8b94c6cefb2f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-16",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SEPLEU",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a47457a4e5755334d444d745a6a5a6c4e7930304d7a686a4c5745785a5445744e6a5533593259314e5759344e7a4e6a4c6e426b5a673d3d&fich=da35e703-f6e7-438c-a1e1-657cf55f873c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SIPE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5451305957526d5a5755745a6a4531596930304d6a566b4c5749325a5463744f546b314e7a45355a6a4134596a45304c6e426b5a673d3d&fich=544adfee-f15b-425d-b6e7-995719f08b14.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SIPEBB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a446b355a6a51774d5759744f544979597930305a546b774c5468694e6a59745a6d5531596d46694d54646a5a6a566b4c6e426b5a673d3d&fich=d99f401f-922c-4e90-8b66-fe5bab17cf5d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SNPL",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e32466d4d544d784f4459744e6d466a4e7930305a474d344c546b7a4d7a51744e7a4977597a41334d7a566c4d44686a4c6e426b5a673d3d&fich=7af13186-6ac7-4dc8-9334-720c0735e08c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer do SPLIU",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a67315a544e6d5a444174597a4e68596930305a444e6a4c5749785a6d51744f444e6c5a6a51315a4751794f544d324c6e426b5a673d3d&fich=c85e3fd0-c3ab-4d3c-b1fd-83ef45dd2936.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-02-08",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Prorrogação por mais 60 dias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d474d784e3245344e6a6b745a444178596930304f5455784c574a6a4e6a4174595749334e4441334d4446685a6a5a684c6e426b5a673d3d&fich=0c17a869-d01b-4951-bc60-ab740701af6a.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4531",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "4531",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-05-15",
+            "dataRemessa": null,
+            "numeroOficio": "152/CEC/2018",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2017-12-15",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "332772",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
