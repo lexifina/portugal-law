@@ -2,10 +2,10 @@
 
 ### (a que se refere o artigo 4.º)
 
-IG «Terras do Dão»
+Área geográfica de produção da IG 'Terras do Dão'
 
 (ver documento original)
 
-Sub-região «Terras de Lafões»
+Área geográfica de produção da Sub-Região 'Terras de Lafões'
 
 (ver documento original)
