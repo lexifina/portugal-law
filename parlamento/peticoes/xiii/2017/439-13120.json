@@ -1,0 +1,779 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13120",
+  "numero": "439",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-12-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-04-03",
+            "entidades": null,
+            "id": "108301",
+            "tipo": null,
+            "titulo": "Audição em 2018-04-03 com Peticionários - Petição 439/XIII/3ª - Cristina Rodrigues"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": null,
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "25/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": null,
+            "entidades": [
+              "ANAFRE - Associação Nacional de Freguesias"
+            ],
+            "nrOficio": "26/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": "2018-04-04",
+            "entidades": [
+              "Ordem dos Médicos Veterinários"
+            ],
+            "nrOficio": "27/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Liga Portuguesa dos Direitos do Animal"
+            ],
+            "nrOficio": "28/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": "2018-04-10",
+            "entidades": [
+              "APCPAC - Associação Portuguesa de Comerciantes de Produtos para Animais de Companhia"
+            ],
+            "nrOficio": "29/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": null,
+            "entidades": [
+              "Clube Português de Felinicultura"
+            ],
+            "nrOficio": "30/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": "2018-04-05",
+            "entidades": [
+              "Clube Português de Canicultura"
+            ],
+            "nrOficio": "31/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": "2018-03-29",
+            "entidades": [
+              "MIN.  DO AMBIENTE"
+            ],
+            "nrOficio": "24/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-23",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL"
+            ],
+            "nrOficio": "23/CAM/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-05-16",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "821162",
+                "obs": null,
+                "pag": [
+                  "13-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-04",
+                "pubLeg": "XIII",
+                "pubNr": "49",
+                "pubSL": "3",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/049/2018-06-04/13?pgs=13-18&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-02-07",
+        "DataArquivo": "2018-05-30",
+        "DataBaixaComissao": "2018-01-10",
+        "DataEnvioPAR": "2018-06-01",
+        "DataReaberta": "2018-02-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a55774d5449324e5759784c546c6a4d4755744e444a694e793168597a526d4c5449774e4455324d5455774d444977597935775a47593d&fich=501265f1-9c0e-42b7-ac4f-20456150020c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324d345a545668596a4d7a4c5451315a4759744e44686a4d533168593245314c544e684d7a646a4e6a49344e5451325a4335716347633d&fich=c8e5ab33-45df-48c1-aca5-3a37c628546d.jpg&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6b794e7a677859544d324c544e6c4d6a41744e4751344f5330344d545a6c4c5451794d7a646b4e6a41774f544a6a4e7935515245593d&fich=92781a36-3e20-4d89-816e-4237d60092c7.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324d34596a646d4d3245344c546b304d6a51744e445a6c5a4330354e4441324c544e6c5a6d497a597a5268596d49774e7935775a47593d&fich=c8b7f3a8-9424-46ed-9406-3efb3c4abb07.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3252685a5449314d5441774c544e6b597a49744e475a6a5a6930354d5755794c5746684f4445354f446b33596a6c694d4335775a47593d&fich=dae25100-3dc2-4fcf-91e2-aa819897b9b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324577596a526d4e7a51354c5751344d6a6b744e4755354e7930344d7a49304c5451345a475a6c4d446333596a466b4e5335775a47593d&fich=a0b4f749-d829-4e97-8324-48dfe077b1d5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a51345a4467334d7a6b7a4c5441354e6d45744e44566a5a6930344f4451324c546b354d324669596d5a6a4e6d4d344e7935775a47593d&fich=48d87393-096a-45cf-8846-993abbfc6c87.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4a695a4449784f5751784c54466d4d5749744e44457a4f4331695a6a55354c57557a596a4d7a4e3245774f575a6c5a5335775a47593d&fich=2bd219d1-1f1b-4138-bf59-e3b337a09fee.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a466b593245334d7a63314c54686d4e7a59744e44466c4f5331695a6a51794c57466b4e6a526c4d44646b597a5669595335775a47593d&fich=1dca7375-8f76-41e9-bf42-ad64e07dc5ba.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a51774d47466c4f44597a4c575179595759744e4459314e693169596a566d4c5755304e6a426d4d444d794d446c684e5335775a47593d&fich=400ae863-d2af-4656-bb5f-e460f03209a5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a417759324a695a6a49774c5749795a4463744e474d794e5331694e6d4e6b4c5749314d7a45314e3249304d5441355a4335775a47593d&fich=00cbbf20-b2d7-4c25-b6cd-b53157b4109d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-14",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6779597a6c685a6a63334c54413559324d744e44646c597930354f4749344c54517a4d6a6c684f54426a5a4759334e4335775a47593d&fich=82c9af77-09cc-47ec-98b8-4329a90cdf74.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-02-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a5a6b596a4d344d7a63324c5759354e6a51744e445a6c4d5330344f444e6d4c5467355a5749794e7a466d4e44637a4d7935515245593d&fich=6db38376-f964-46e1-883f-89eb271f4733.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a6868595455334d5449334c575a69595445744e4441304d6931684d6a41334c544d314f5455334d6d4a6c5a4463784e4335775a47593d&fich=8aa57127-fba1-4042-a207-359572bed714.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4269597a49314f4752694c5463334f5445744e474a6b4e7931684d5749314c545179595451774f5441314f475930597935775a47593d&fich=0bc258db-7791-4bd7-a1b5-42a409058f4c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c32566d596a4d774d5468694c5449354e7a41744e4755784e4331695a6a6c684c54566b4d7a45794d7a6b334e4755354e7935775a47593d&fich=efb3018b-2970-4e14-bf9a-5d3123974e97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a41314f44526a4d546c694c54686b5a5463744e4456684e6930354d6a457a4c5749785a47526c596a63775a544d314e4335775a47593d&fich=0584c19b-8de7-45a6-9213-b1ddeb70e354.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a45774f5749354f444d314c5755355a6d4d744e4467305a6931694e44466a4c545a69597a5a694d6d5a6a4f544d32596935775a47593d&fich=109b9835-e9fc-484f-b41c-6bc6b2fc936b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4a6c595449304d324d354c57457a5a4749744e475a6a5a4330345a5449784c5755794e4449355a6a6b7a4d54526c4e7935775a47593d&fich=2ea243c9-a3db-4fcd-8e21-e2429f9314e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c324532597a63794e446b794c575a6d4d474d744e47557a4f53316859545a694c54426a4e6d49794d6d4d34596a63344e4335775a47593d&fich=a6c72492-ff0c-4e39-aa6b-0c6b22c8b784.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c325979597a42695a4759354c546b794e4467744e4759314e7930354e5463334c546c694f544e6b4e474d334e6a59325a6935775a47593d&fich=f2c0bdf9-9248-4f57-9577-9b93d4c7666f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a4d31596d59784e6a63334c544d33596a4d744e4467794d6931695a6d497a4c544a6c4e6a4e6a4d7a68684e574d31595335775a47593d&fich=35bf1677-37b3-4822-bfb3-2e63c38a5c5a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-05-30",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c32526b4f5441324e3245354c574d7a4e4755744e4759355a6931684e5755354c546c6a595755795a44453359574a6a5a6935775a47593d&fich=dd9067a9-c34e-4f9f-a5e9-9cae2d17abcf.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a64694e444a6a5a4445344c546b7a4d6d45744e4441304e5330355a5464694c5441325932497a4f44677a5932517a5a6935515245593d&fich=7b42cd18-932a-4045-9e7b-06cb3883cd3f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a51315a6a526c4e47526c4c5745354e6d51744e4749774d5330344e7a41314c57566a4e7a45334e7a45335a6a5a6a596935515245593d&fich=45f4e4de-a96d-4b01-8705-ec717717f6cb.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3249325a6d497a4d32466c4c5755324d5451744e4445344d6931694f54526c4c57466c4d44526a4f574a6d5a5455795a6935515245593d&fich=b6fb33ae-e614-4182-b94e-ae04c9bfe52f.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c325a6a4e7a45784e7a6b324c5755334f5459744e4467304d4331694f544d7a4c5463345932466b4d446c694e445132596935775a47593d&fich=fc711796-e796-4840-b933-78cad09b446b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a566a4e4751784e32526b4c5455775a5751744e445a6b4d7930354d4452684c54466a4d5751344f4451794e6a686b597935775a47593d&fich=5c4d17dd-50ed-46d3-904a-1c1d884268dc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4530",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-02-07",
+            "gp": "PSD",
+            "id": "3966",
+            "motivoCessacao": null,
+            "nome": "Álvaro Batista"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-12-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-01-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939694e3249344e574a6c596930335a544d794c54526c4e7a63745957566a4f5330315a544a6d4e574e6d4d6a4e694d6a41756347526d&fich=b7b85beb-7e32-4e77-aec9-5e2f5cf23b20.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42771"
+    ],
+    "Iniciativasoriginadas": [
+      "42771"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:32:26:974&drc=00:02:55:106"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:35:22:081&drc=00:02:02:878"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/39?pgs=39&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:37:24:959&drc=00:03:01:246"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:40:26:206&drc=00:03:23:434"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:43:49:641&drc=00:02:27:202"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:46:16:844&drc=00:02:40:210"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-12-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_21_10_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:48:57:054&drc=00:03:47:417"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-22",
+                "pubLeg": "XIII",
+                "pubNr": "33",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de legislação para permitir alimentar colónias de animais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13120",
+    "PetAssunto": "Criação de legislação para permitir alimentar colónias de animais.",
+    "PetDataEntrada": "2017-12-19",
+    "PeticoesAssociadas": null,
+    "PetId": "13120",
+    "PetLeg": "XIII",
+    "PetNr": "439",
+    "PetNrAssinaturas": "4862",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "677",
+        "obs": null,
+        "pag": [
+          "38-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-22",
+        "pubLeg": "XIII",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/033/2018-12-22/38?pgs=38-43&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "809213",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-19",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/028/2018-02-19/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
