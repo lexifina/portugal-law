@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "221408",
+  "tipo": "Intervenção",
+  "orador": "António Costa Silva (PSD)",
+  "data_registo": "2017-12-19",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "107361",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41315",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Propõe a concretização de um programa de desburocratização e apoio às micro, pequenas e médias empresas"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "41940",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Eliminação de problemas e bloqueios legais e administrativos que dificultam a vida às empresas"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Apresentação do projeto de resolução n.º 1187/XIII (3.ª) — Eliminação de problemas e bloqueios legais e administrativos que dificultam a vida às empresas (PSD).",
+        "duracao": "00:04:58:670",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2017_12_19_15_30_00_clean_14_plenario&url=l13/sl3/a2017/m12/&tI=01:31:51:511&drc=00:04:58:670"
+      }
+    ],
+    "DataReuniaoPlenaria": "2017-12-19",
+    "Debate": "PJR n.º 1187/XIII/3; PJR n.º 829/XIII/2",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "5645",
+      "nome": "António Costa Silva"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "221408",
+    "IdDebate": "12592",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "221408",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "23-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2017-12-20",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/028/2017-12-20/23?pgs=23&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Propõe a concretização de um programa de desburocratização e apoio às micro, pequenas e médias empresas; Eliminação de problemas e bloqueios legais e administrativos que dificultam a vida às empresas.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
