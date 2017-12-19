@@ -1,0 +1,12 @@
+Aviso n.º 15309/2017
+Reabertura do Procedimento do Plano de Pormenor da Bemposta - Portimão
+Nos termos do n.º 1, do artigo 76.º e do n.º 2, do artigo 88.º, do Decreto-Lei n.º 80/2015, de 14 de maio, torna-se público que a Câmara Municipal de Portimão, deliberou, na sua reunião e 25 de outubro de 2017, aprovar a reabertura do procedimento de Elaboração do Plano de Pormenor da Bemposta, no sentido de retomar a elaboração do Plano, aceitando como válidas as etapas realizadas no antigo proce3dimenbto de Elaboração do Plano de Pormenor da Bemposta.
+Uma vez assegurado o enquadramento acima descrito e prevendo-se um prazo máximo de 18 meses para a elaboração deste procedimento, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 25 (vinte e cinco) dias úteis, contados a partir da data de publicação, deste aviso no Diário da República, por carta dirigida à Sr.ª Presidente da Câmara Municipal de Portimão, Praça 1.º de Maio, 8500-543 Portimão, por correio eletrónico: geral@cm-portimao.pt ou através do Balcão Único sito na Rua do Comércio n.º 29/31, todos os dias úteis, entre as 9:00h e as 19:00h.
+20 de novembro de 2017. - A Presidente da Câmara Municipal de Portimão, Isilda Varges Gomes.
+Deliberação
+Deliberação do Assunto n.º 576/17; NIPG 33381/17
+Reunião n.º 5/17, de 2017/10/25
+Reabertura do procedimento de elaboração do plano de pormenor da Bemposta
+A Câmara delibera autorizar a reabertura do procedimento de Elaboração do Plano de Pormenor da Bemposta, nos termos da informação n.º 21/DPU/JPN/2017, datada de 25/09/2017, prestada pela Divisão de Planeamento Urbano, que, para todos os efeitos, aqui se dá por integralmente reproduzida. Esta deliberação foi aprovada, por maioria, com 6 (seis) votos a favor (Centro Democratico e Social/Part Popular - Vereador(es): José Pedro da Silva Caçorino; Partido Socialista - Presidente: Isilda Maria Prazeres S. Varges Gomes, Vice-Presidente: Joaquim Jorge Castelao Rodrigues, Vereador(Es): Filipe Mesquita Vital, Teresa Filipa dos Santos Mendes; Partido Social Democrata - Vereador(es): Manuel Henrique de Sá Couto Costa Valente) e com 1 (um) voto(s) contra (Bloco de Esquerda - Vereador(es): João Manuel Duarte Vasconcelos). Apresentará declaração de voto: Bloco de Esquerda - Vereador(es): João Manuel Duarte Vasconcelos.
+Portimão, 25 de outubro de 2017. - A Presidente da Câmara Municipal de Portimão, Isilda Varges Gomes.
+610940398
