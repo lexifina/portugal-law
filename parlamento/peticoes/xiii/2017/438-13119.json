@@ -1,0 +1,501 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13119",
+  "numero": "438",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-12-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-09-20",
+            "entidades": null,
+            "id": "110277",
+            "tipo": null,
+            "titulo": "Audição em 2018-09-20 com Peticionários - Petição 438/XIII/3ª - André Lourenço e Silva"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-12-05",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "835223",
+                "obs": null,
+                "pag": [
+                  "19-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-14",
+                "pubLeg": "XIII",
+                "pubNr": "20",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/020/2018-12-14/19?pgs=19-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-02-07",
+        "DataArquivo": "2018-12-12",
+        "DataBaixaComissao": "2018-01-10",
+        "DataEnvioPAR": "2018-12-13",
+        "DataReaberta": "2018-02-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-02-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c7a677a4f4759354e574e6d4c5749304d4455744e474e6b5a6930354e544e6d4c54686d4d7a55775a474a6b4d575a6c4d5335515245593d&fich=838f95cf-b405-4cdf-953f-8f350dbd1fe1.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-12-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e515a585270593246764c3259774e546c6b59574e6c4c5445314d4455744e444a6a4e533034595445354c5467344d32597a4d7a6b7a4f445133597935775a47593d&fich=f059dace-1505-42c5-8a19-883f3393847c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4530",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Agricultura e Mar",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-02-07",
+            "gp": "PS",
+            "id": "1432",
+            "motivoCessacao": null,
+            "nome": "José Manuel Carpinteira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-07-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-01-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938334d7a6b354e5451304f4330334d6a5a6d4c5451774e3249744f5459794d69316d4d44553259575a6a5a57526a4d3259756347526d&fich=73995448-726f-407b-9622-f056afcedc3f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43361",
+      "43816"
+    ],
+    "Iniciativasoriginadas": [
+      "43361",
+      "43816"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:12:09:096&drc=00:02:39:407"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:14:48:503&drc=00:02:46:438"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:32:01:586&drc=00:01:39:670"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52",
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/51?pgs=51-52,55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:17:34:942&drc=00:03:16:822"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:21:39:849&drc=00:03:28:814"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:25:08:663&drc=00:03:16:011"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:28:24:674&drc=00:03:36:911"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Determina a proibição das corridas de cães mais conhecidas por corridas de galgos; Interdita as corridas de galgos e outros cães",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13119",
+    "PetAssunto": "Criação de legislação para proibir as corridas de galgos em Portugal.",
+    "PetDataEntrada": "2017-12-19",
+    "PeticoesAssociadas": null,
+    "PetId": "13119",
+    "PetLeg": "XIII",
+    "PetNr": "438",
+    "PetNrAssinaturas": "4586",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2599",
+        "obs": null,
+        "pag": [
+          "51-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-03",
+        "pubLeg": "XIII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/51?pgs=51-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "809212",
+        "obs": null,
+        "pag": [
+          "4-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-19",
+        "pubLeg": "XIII",
+        "pubNr": "28",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/028/2018-02-19/4?pgs=4-5&org=PLC"
+      }
+    ]
+  }
+}
