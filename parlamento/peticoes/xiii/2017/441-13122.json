@@ -1,0 +1,420 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13122",
+  "numero": "441",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2017-12-21",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-04-18",
+            "entidades": null,
+            "id": "108417",
+            "tipo": null,
+            "titulo": "Audição em 2018-04-18 com Jorge Van Krieken Mota - 1º subscritor Petição 431/XIII-3ª, Paulo Matos, Miguel Torres Marques, Gonçalo Campos D'Oliveira e Carla Costa Reis - subscritores petição 441/XIII-3ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-02-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-01-24",
+        "DataArquivo": "2018-06-26",
+        "DataBaixaComissao": "2017-12-21",
+        "DataEnvioPAR": "2018-06-29",
+        "DataReaberta": "2018-01-24",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-01-25",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a55784e44426c4d6a4d344c5759345a6d55744e4452685a5330355a574e684c544d314e7a51354d44526d4d3251344e4335775a47593d&fich=5140e238-f8fe-44ae-9eca-3574904f3d84.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-06-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324d304e6d593259546c684c54566c5a446b744e44686c4d7930354d4468684c575a6b5a5442695a6a45325a474d7a4d7935775a47593d&fich=c46f6a9a-5ed9-48e3-908a-fde0bf16dc33.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-01-24",
+            "gp": "PS",
+            "id": "6188",
+            "motivoCessacao": null,
+            "nome": "Luís Vilhena"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-01-17",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-01-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938324f574e6d4e54637a4d69316c4e4449774c54526c597a6b744f5451344f5330334e54466b4d6a45324e6d55344e6d55756347526d&fich=69cf5732-e420-4ec9-9489-751d2166e86e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-01-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_17_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:06:30:274&drc=00:04:02:505"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-18",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à defesa do alojamento local sustentável; Solicitam a adoção de medidas no âmbito do alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_17_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:10:32:780&drc=00:03:48:512"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-18",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à defesa do alojamento local sustentável; Solicitam a adoção de medidas no âmbito do alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_17_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:14:21:293&drc=00:03:19:024"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-18",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à defesa do alojamento local sustentável; Solicitam a adoção de medidas no âmbito do alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_17_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:17:40:318&drc=00:03:59:713"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-18",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à defesa do alojamento local sustentável; Solicitam a adoção de medidas no âmbito do alojamento local.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-18",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_17_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:21:40:032&drc=00:03:25:195"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-18",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à defesa do alojamento local sustentável; Solicitam a adoção de medidas no âmbito do alojamento local.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13122",
+    "PetAssunto": "Solicitam a adoção de medidas no âmbito do Alojamento Local.",
+    "PetDataEntrada": "2017-12-21",
+    "PeticoesAssociadas": null,
+    "PetId": "13122",
+    "PetLeg": "XIII",
+    "PetNr": "441",
+    "PetNrAssinaturas": "12548",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2556",
+        "obs": null,
+        "pag": [
+          "34-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-18",
+        "pubLeg": "XIII",
+        "pubNr": "40",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/040/2019-01-18/34?pgs=34-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "808942",
+        "obs": null,
+        "pag": [
+          "2-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-26",
+        "pubLeg": "XIII",
+        "pubNr": "23",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/023/2018-01-26/2?pgs=2-7&org=PLC"
+      }
+    ]
+  }
+}
