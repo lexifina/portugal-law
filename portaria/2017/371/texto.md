@@ -1,0 +1,1293 @@
+Portaria n.º 371/2017
+de 14 de dezembro
+As Diretivas n.os 2014/24/UE, relativa aos contratos públicos, 2014/25/UE, relativa aos contratos públicos celebrados pelas entidades que operam nos setores da água, da energia, dos transportes e dos serviços postais, e 2014/23/UE, relativa à adjudicação dos contratos de concessão, todas do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, foram transpostas para a ordem jurídica interna pelo Decreto-Lei n.º 111-B/ 2017, de 31 de agosto, que alterou e republicou o Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.
+A presente portaria adapta ao ordenamento jurídico português o Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 novembro de 2015, que estabelece os formulários-tipo para publicação de anúncios no âmbito de processos de adjudicação de contratos públicos. De acordo com o previsto em várias normas do Código dos Contratos Públicos, cada um dos procedimentos pré-contratuais deve ser publicitado no Diário da República através de anúncio, cujos modelos são aprovados por portaria do Governo.
+Torna-se, assim, necessário aprovar os respetivos modelos, estabelecendo a informação que deve constar do anúncio, os formatos a adotar, os campos de preenchimento obrigatório, consoante o tipo de procedimento, bem como a sequência e opções do preenchimento.
+O regime previsto na presente portaria aplica-se exclusivamente aos anúncios de procedimentos pré-contratuais previstos no Código dos Contratos Públicos cuja publicitação no Diário da República seja exigível, competindo ainda à Imprensa Nacional-Casa da Moeda, S. A., na qualidade de e-sender autorizado pelo Serviço das Publicações Oficiais da União Europeia, assegurar o envio do anúncio para o Sistema de Informação para os Contratos Públicos, quando a publicitação no Jornal Oficial da União Europeia seja igualmente obrigatória.
+Os anúncios previstos na presente portaria passam a ficar disponíveis a todos os interessados, em local de livre acesso, nas plataformas de contratação pública, em cumprimento da alínea a) do artigo 33.º da Lei n.º 96/2015, de 17 agosto.
+Assim:
+Manda o Governo, pelos Ministros das Finanças e do Planeamento e das Infraestruturas e pelo Secretário de Estado da Presidência do Conselho de Ministros, ao abrigo do disposto no n.º 1 do artigo 130.º, no n.º 1 do artigo 157.º, no n.º 1 do artigo 167.º, no n.º 1 do artigo 197.º, no n.º 1 do artigo 208.º, no n.º 2 do artigo 218.º-A, no n.º 1 do artigo 219.º-C, no artigo 219.º-J, na alínea a) do artigo 238.º, no n.º 2 do artigo 245.º, nos n.os 1 e 2 do artigo 250.º-B, no n.º 2 do artigo 266.º-C e no n.º 1 do artigo 276.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação, o seguinte:
+Artigo 1.º
+Objeto
+1 - A presente portaria estabelece os modelos de anúncio aplicáveis aos procedimentos pré-contratuais previstos no Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação, a seguir referidos:
+a) O modelo de anúncio do concurso público, nos termos do n.º 1 do artigo 130.º do CCP, constante do anexo I à presente portaria e da qual faz parte integrante;
+b) O modelo de anúncio do concurso público urgente, nos termos do n.º 1 do artigo 157.º do CCP, constante do anexo II à presente portaria e da qual faz parte integrante;
+c) O modelo de anúncio do concurso limitado por prévia qualificação, nos termos do n.º 1 do artigo 167.º do CCP, constante do anexo III à presente portaria e da qual faz parte integrante;
+d) O modelo de anúncio do procedimento de negociação, nos termos do n.º 1 do artigo 197.º do CCP, constante do anexo IV à presente portaria e da qual faz parte integrante;
+e) O modelo de anúncio do diálogo concorrencial, nos termos do n.º 1 do artigo 208.º do CCP, constante do anexo V à presente portaria e da qual faz parte integrante;
+f) O modelo de anúncio de parceria para a inovação, nos termos do n.º 2 do artigo 218.º-A do CCP, constante do anexo VI à presente portaria e da qual faz parte integrante;
+g) O modelo de anúncio do concurso de conceção, nos termos do n.º 1 do artigo 219.º-C do CCP, constante do anexo VII à presente portaria e da qual faz parte integrante;
+h) O modelo de anúncio do concurso de ideias, nos termos do n.º 1 do artigo 219.º-J do CCP, constante do anexo VIII à presente portaria e da qual faz parte integrante;
+i) O modelo de anúncio de instituição de um sistema de aquisição dinâmico, nos termos da alínea a) do artigo 238.º do CCP, constante do anexo IX à presente portaria e da qual faz parte integrante;
+j) O modelo de anúncio da instituição de um sistema de qualificação, nos termos do n.º 2 do artigo 245.º do CCP, constante do anexo X à presente portaria e da qual faz parte integrante;
+k) O modelo de anúncio de aquisição de serviços sociais e de outros serviços específicos, nos termos do n.º 1 do artigo 250.º-B do CCP, constante do anexo XI à presente portaria e da qual faz parte integrante;
+l) O modelo de anúncio de adjudicação de serviços sociais e de outros serviços específicos, nos termos do n.º 2 do artigo 250.º-B do CCP, constante do anexo XII à presente portaria e da qual faz parte integrante;
+m) O modelo de anúncio de hasta pública de alienação de bens móveis, nos termos do n.º 2 do artigo 266.º-C do CCP, constante do anexo XIII à presente portaria e da qual faz parte integrante;
+n) O modelo de anúncio da intenção de celebração de contratos de empreitadas de obras públicas por parte de concessionários de obras públicas que não sejam entidades adjudicantes, nos termos do n.º 1 do artigo 276.º do CCP, constante do anexo XIV à presente portaria e da qual faz parte integrante.
+2 - A presente portaria estabelece, ainda, as condições de preenchimento dos formulários dos anúncios referidos no número anterior, bem como os mecanismos do respetivo envio para publicação no Diário da República e no Jornal Oficial da União Europeia.
+Artigo 2.º
+Preenchimento do formulário de anúncio
+1 - O preenchimento dos formulários dos anúncios constantes dos modelos referidos no n.º 1 do artigo anterior, bem como dos anúncios a publicar no Jornal Oficial da União Europeia, é realizado no portal do Diário da República Eletrónico, gerido pela Imprensa Nacional-Casa da Moeda, S. A. (INCM).
+2 - O acesso aos formulários de anúncio faz-se mediante autenticação da entidade adjudicante, previamente acreditada pela INCM, nos termos aplicáveis para o envio de atos para publicação no Diário da República, constante do Despacho Normativo n.º 15/2016, de 21 de dezembro.
+3 - O sistema de preenchimento de formulários encontra-se disponível de forma permanente.
+Artigo 3.º
+Envio de anúncio para publicação
+1 - O preenchimento do formulário de anúncio para publicação no Diário da República deve ser concluído no prazo máximo de 30 dias seguidos a contar da data da respetiva abertura pela entidade adjudicante, findo o qual o procedimento de envio é anulado, de forma automática e irreversível.
+2 - A conclusão do procedimento de envio encontra-se dependente do preenchimento completo dos dados, da submissão válida dos mesmos e da realização do respetivo pagamento nos termos do artigo seguinte.
+3 - Após a submissão do anúncio, este mantém-se em estado pendente, a aguardar pagamento durante o período máximo de cinco dias seguidos, findo o qual o procedimento de envio é anulado, de forma automática e irreversível, caso o pagamento não seja efetuado.
+4 - O sistema de preenchimento assegura, a todo o tempo, a possibilidade de gravação dos dados já introduzidos, sendo permanentemente recuperáveis pela entidade adjudicante, salvo no caso de anulação do procedimento.
+Artigo 4.º
+Pagamento do anúncio
+1 - O pagamento do anúncio só pode ter lugar após reconhecimento, por parte do sistema, de que a introdução de todos os dados se encontra completa.
+2 - A INCM disponibiliza aos utilizadores meios de pagamento em tempo real, quer por via eletrónica quer por via presencial, que permitam o reconhecimento imediato do pagamento efetuado.
+3 - O procedimento de envio do anúncio para publicação considera-se concluído com o reconhecimento, por parte da INCM, da efetivação do respetivo pagamento.
+4 - A data de envio do anúncio para publicação no Diário da República e, se for o caso, no Jornal Oficial da União Europeia é inserida automaticamente no corpo do anúncio, bem como a respetiva hora, no caso de anúncio de concurso público urgente.
+Artigo 5.º
+Retificação e anulação do anúncio
+1 - A retificação do conteúdo de um anúncio já publicado implica a publicação de um anúncio de retificação apenas com os campos que sofrem alteração, no qual consta a referência do número e data do anúncio alterado, aplicando-se o disposto nos n.os 2 e 3 do artigo 12.º do Despacho Normativo n.º 15/2016, de 21 de dezembro.
+2 - O sistema de preenchimento de anúncios preserva o formulário preenchido correspondente a cada anúncio publicado durante o período máximo de um ano.
+3 - A anulação de um anúncio apenas pode ocorrer nas situações em que tenham sido publicados dois ou mais anúncios referentes ao mesmo procedimento, não podendo, em caso algum, ser anulado o anúncio cujo envio tenha ocorrido em primeiro lugar.
+Artigo 6.º
+Plataformas eletrónicas
+1 - Os anúncios previstos na presente portaria devem ser disponibilizados pelas plataformas eletrónicas de contratação pública em local de acesso livre a todos os potenciais interessados.
+2 - Podem ser celebrados protocolos entre a INCM e as entidades gestoras das plataformas eletrónicas utilizadas por entidades adjudicantes para suportar os procedimentos de formação de contratos públicos, com vista a estabelecer a solução informática que permita que o preenchimento dos dados ou de parte dos dados necessários à publicação dos anúncios no Diário da República e no Jornal Oficial da União Europeia seja efetuado a partir da plataforma eletrónica, sem prejuízo do disposto na presente portaria.
+3 - Os protocolos referidos no número anterior só podem ser efetivados se todas as funcionalidades e todas as regras aplicáveis à solução, que envolve exclusivamente o portal da INCM e o portal dos contratos públicos, estiverem disponibilizadas e respeitadas, sem prejuízo de eventuais funcionalidades complementares que as plataformas eletrónicas possam oferecer.
+Artigo 7.º
+Norma transitória
+Os modelos de anúncio relativos a procedimentos pré-contratuais publicitados antes da data de entrada em vigor do CCP mantêm-se disponíveis para efeitos da submissão de anúncios de retificação ou de anúncios relativos a procedimentos de formação de contratos públicos iniciados antes da data de entrada em vigor do Decreto-Lei n.º 111-B/2017, de 31 de agosto.
+Artigo 8.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 1 de janeiro de 2018.
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 11 de dezembro de 2017. - O Ministro do Planeamento e das Infraestruturas, Pedro Manuel Dias de Jesus Marques, em 6 de dezembro de 2017. - O Secretário de Estado da Presidência do Conselho de Ministros, Tiago Barreto Caldeira Antunes, em 11 de dezembro de 2017.
+ANEXO I
+[a que se refere a alínea a) do n.º 1 do artigo 1.º]
+Modelo de anúncio do concurso público
+Anúncio de procedimento
+O anúncio do concurso público a que se refere o n.º 1 do artigo 130.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Ou
+Para acordo-quadro - valor total máximo estimado para toda a duração do acordo-quadro
+Classificação CPV (1) [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+O contrato é adjudicado por uma central de compras? (*) (sim/não)
+O concurso destina-se à celebração de um acordo-quadro? (*) (sim/não)
+[Em caso afirmativo]
+Modalidade (*)
+(com uma entidade/com várias entidades)
+Prazo de vigência (*)
+Até «aaaa/mm/dd» ou «por XX meses ou XX anos»
+É utilizado um leilão eletrónico? (*) (sim/não)
+É adotada uma fase de negociação? (*) (sim/não)
+4 - Admissibilidade da apresentação de propostas variantes (*)
+(sim/não)
+5 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução do contrato (*)
+Prazo
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não)
+[Em caso afirmativo]
+Número máximo de renovações
+7 - Documentos de habilitação (*)
+7.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+7.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+8 - Acesso às peças do concurso, pedidos de participação e apresentação das propostas
+8.1 - Consulta das peças do concurso
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+8.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação e apresentação das propostas
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+9 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+10 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+11 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+Critério relativo à qualidade - Nome/Ponderação
+Critério relativo ao custo - Nome/Ponderação
+12 - Prestação de caução
+(sim/não)
+[Em caso afirmativo] %
+13 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+14 - Data de envio do anúncio para publicação no Diário da República (*)
+15 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+16 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+17 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas do programa do concurso prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO II
+[a que se refere a alínea b) do n.º 1 do artigo 1.º]
+Modelo de anúncio do concurso público urgente
+Anúncio de concurso urgente
+O anúncio do concurso público urgente a que se refere o n.º 1 do artigo 157.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato (aquisição de bens móveis, locação de bens móveis, aquisição de serviços, empreitadas de obras públicas)
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Classificação CPV (1):[objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+4 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+5 - Prazo de execução do contrato (*)
+Prazo
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não)
+[Em caso afirmativo]
+Número máximo de renovações
+6 - Documentos de habilitação (*)
+7 - Condições de participação (*)
+7.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+7.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+8 - Acesso às peças do concurso e apresentação das propostas
+8.1 - Consulta das peças do concurso
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+8.2 - Fornecimento das peças do concurso e apresentação das propostas
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+9 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XX.º dia a contar da data de envio do presente anúncio/XXX horas ou XX dias a contar da data e hora de envio do presente anúncio
+10 - Critério de adjudicação (*)
+Preço ou custo (*)
+11 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso «XX dias»
+12 - Data e hora de envio do anúncio para publicação no Diário da República (*)
+13 - Programa do concurso (*)
+14 - Caderno de encargos (*)
+15 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+16 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO III
+[a que se refere a alínea c) do n.º 1 do artigo 1.º]
+Modelo de anúncio do concurso limitado por prévia qualificação
+Anúncio de procedimento
+O anúncio do concurso limitado por prévia qualificação a que se refere o n.º 1 do artigo 167.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Ou
+Para acordo-quadro - valor total máximo estimado para toda a duração do acordo-quadro
+Classificação CPV (1):[objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+O contrato é adjudicado por uma central de compras? (*) (sim/não)
+O concurso destina-se à celebração de um acordo-quadro? (*) (sim/não)
+[Em caso afirmativo]
+Modalidade (*)
+(com uma entidade/com várias entidades)
+Prazo de vigência (*)
+«Até aaaa/mm/dd» ou «por XX meses ou XX anos»
+É utilizado um leilão eletrónico? (*) (sim/não)
+4 - Admissibilidade da apresentação de propostas variantes (*)
+(sim/não)
+5 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução do contrato (*)
+Prazo (*)
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não) (*)
+[Em caso afirmativo]
+Número máximo de renovações (*)
+7 - Documentos de habilitação (*)
+8 - Condições de participação (*)
+8.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+8.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+9 - Acesso às peças do concurso e apresentação das candidaturas e das propostas
+9.1 - Consulta das peças do concurso
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+9.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação, de candidaturas e apresentação das propostas Plataforma eletrónica utilizada pela entidade adjudicante (*)
+10 - Prazo para apresentação das candidaturas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+11 - Prazo para a decisão de qualificação
+XXX dias a contar do termo do prazo para a apresentação das candidaturas
+12 - Requisitos mínimos (*)
+12.1 - Requisitos mínimos de capacidade técnica
+12.2 - Requisitos mínimos de capacidade financeira
+13 - Modelo de qualificação (*)
+(modelo simples/modelo complexo)
+[No 2.º caso]
+Número de candidatos a qualificar
+Fatores e eventuais subfatores que densificam o critério de qualificação acompanhados dos respetivos coeficientes de ponderação
+14 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do convite
+15 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+16 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+17 - Prestação de caução (*)
+(sim/não)
+[Em caso afirmativo] %
+18 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso «XX dias»
+19 - Data de envio do anúncio para publicação no Diário da República (*)
+20 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+21 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+22 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas do programa do concurso e do convite prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º e no n.º 6 do artigo 189.º, ambos do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO IV
+[a que se refere a alínea d) do n.º 1 do artigo 1.º]
+Modelo de anúncio do procedimento de negociação
+Anúncio de procedimento
+O anúncio de procedimento de negociação a que se refere o n.º 1 do artigo 197.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Ou
+Para acordo-quadro - valor total máximo estimado para toda a duração do acordo-quadro
+Classificação CPV (1):[objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+O contrato é adjudicado por uma central de compras? (*) (sim/não)
+O procedimento destina-se à celebração de um acordo-quadro? (*) (sim/não)
+[Em caso afirmativo]
+Modalidade (*)
+(com uma entidade/com várias entidades)
+Prazo de vigência (*)
+«Até aaaa/mm/dd» ou «por XX meses ou XX anos»
+4 - Admissibilidade da apresentação de propostas variantes (*)
+(sim/não)
+5 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução do contrato (*)
+Prazo (*)
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não) (*)
+[Em caso afirmativo]
+Número máximo de renovações (*)
+7 - Documentos de habilitação (*)
+8 - Condições de participação (*)
+8.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+8.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+9 - Acesso às peças do procedimento e apresentação das candidaturas e das propostas
+9.1 - Consulta das peças do procedimento
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do procedimento para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+9.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação e apresentação das propostas
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+10 - Prazo para apresentação das candidaturas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+11 - Prazo para a decisão de qualificação (*)
+XXX dias a contar do termo do prazo para a apresentação das candidaturas
+12 - Requisitos mínimos (*)
+12.1 - Requisitos mínimos de capacidade técnica
+12.2 - Requisitos mínimos de capacidade financeira
+13 - Modelo de qualificação (*)
+(modelo simples/modelo complexo)
+[No 2.º caso]
+Número de candidatos a qualificar (*)
+Fatores e eventuais subfatores que densificam o critério de qualificação acompanhados dos respetivos coeficientes de ponderação (*)
+14 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do convite
+15 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+16 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+17 - Prestação de caução (*)
+(sim/não)
+[Em caso afirmativo] %
+18 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+19 - Data de envio do anúncio para publicação no Diário da República (*)
+20 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+21 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+22 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas do programa do procedimento de negociação e do convite prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º e no n.º 6 do artigo 189.º, ambos do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO V
+[a que se refere a alínea e) do n.º 1 do artigo 1.º]
+Modelo de anúncio do diálogo concorrencial
+Anúncio de procedimento
+O anúncio do diálogo concorrencial a que se refere o n.º 1 do artigo 208.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato
+Designação do contrato (*)
+Descrição sucinta do objeto do contrato
+Tipo de contrato (*)
+Preço base do procedimento (sim/não) (*)
+Se sim, valor do preço base do procedimento XXX EUR (*)
+Ou
+Para acordo-quadro - valor total máximo estimado para toda a duração do acordo-quadro
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)] (*)
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+O contrato é adjudicado por uma central de compras? (*) (sim/não)
+O procedimento destina-se à celebração de um acordo-quadro? (*) (sim/não)
+[Em caso afirmativo]
+Modalidade (*)
+(com uma entidade/com várias entidades)
+Prazo de vigência (*)
+«Até aaaa/mm/dd» ou «por XX meses ou XX anos»
+4 - Admissibilidade da apresentação de propostas variantes (*) (sim/não)
+5 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução do contrato (*)
+Prazo
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não)
+[Em caso afirmativo]
+Número máximo de renovações
+7 - Documentos de habilitação (*)
+8 - Condições de participação (*)
+8.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+8.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+9 - Acesso às peças do diálogo e apresentação das candidaturas, das soluções e das propostas
+9.1 - Consulta das peças do diálogo
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do diálogo para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+9.2 - Fornecimento das peças do diálogo, de apresentação de pedidos de participação e de apresentação das candidaturas, das soluções e das propostas.
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+10 - Prazo para apresentação das candidaturas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+11 - Prazo para a decisão de qualificação
+XXX dias a contar do termo do prazo para a apresentação das candidaturas
+12 - Requisitos mínimos (*)
+12.1 - Requisitos mínimos de capacidade técnica
+12.2 - Requisitos mínimos de capacidade financeira
+13 - Modelo de qualificação (*)
+(modelo simples/modelo complexo)
+[No 2.º caso]
+Número de candidatos a qualificar (*)
+Fatores e eventuais subfatores que densificam o critério de qualificação acompanhados dos respetivos coeficientes de ponderação (*)
+14 - Prazo para apresentação das soluções (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do convite à apresentação das soluções
+15 - Remuneração pela participação no diálogo, ou critério do respetivo cálculo
+16 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do convite à apresentação das propostas
+17 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+18 - Fatores e eventuais subfatores que densificam o critério de adjudicação da proposta economicamente mais vantajosa
+Melhor relação qualidade-preço (sim/não) (*)
+19 - Prestação de caução (*)
+(sim/não)
+[Em caso afirmativo] %
+20 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+21 - Data de envio do anúncio para publicação no Diário da República (*)
+22 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+23 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+24 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas do programa do diálogo concorrencial e do convite à apresentação das propostas prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º e no n.º 6 do artigo 189.º, ambos do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO VI
+[a que se refere a alínea f) do n.º 1 do artigo 1.º]
+Modelo de anúncio de parceria para a inovação
+Anúncio de procedimento
+O anúncio de parceria para a inovação a que se refere o n.º 2 do artigo 218.º-A do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Ou
+Para acordo-quadro - valor total máximo estimado para toda a duração do acordo-quadro
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+É adotada uma fase de negociação? (*) (sim/não)
+Contratação por Lotes? (sim/não)
+4 - Admissibilidade da apresentação de propostas variantes (*)
+(sim/não)
+5 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução do contrato (*)
+Prazo (*)
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não) (*)
+[Em caso afirmativo]
+Número máximo de renovações (*)
+7 - Documentos de habilitação (*)
+8 - Condições de participação (*)
+8.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+8.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+9 - Acesso às peças do concurso, pedidos de participação e apresentação das propostas
+9.1 - Consulta das peças do concurso
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+9.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação e apresentação das propostas
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+10 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+11 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+12 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+13 - Prestação de caução (*)
+(sim/não)
+[Em caso afirmativo] %
+14 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+15 - Data de envio do anúncio para publicação no Diário da República (*)
+16 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+17 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+18 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas do programa do concurso prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO VII
+[a que se refere a alínea g) do n.º 1 do artigo 1.º]
+Modelo de anúncio do concurso de conceção
+Anúncio de procedimento
+O anúncio do concurso de conceção a que se refere o n.º 1 do artigo 219.º-C do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Identificação do trabalho de conceção (*)
+Designação do trabalho de conceção
+Descrição sucinta do trabalho de conceção
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+4 - Acesso aos termos de referência
+4.1 - Consulta dos termos de referência
+Designação do serviço da entidade adjudicante onde se encontram disponíveis os termos de referência para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+4.2 - Fornecimento dos termos de referência
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+5 - Modalidade do concurso de conceção (*)
+(concurso público/concurso limitado)
+[No 1.º caso]
+Prazo para apresentação dos trabalhos de conceção
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+[No 2.º caso]
+Prazo para apresentação das candidaturas:
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+Requisitos mínimos de capacidade técnica
+Prazo para apresentação dos trabalhos de conceção
+Até às HH:MM do XXX.º dia a contar da data de envio do convite à apresentação dos trabalhos de conceção
+6 - Habilitações profissionais específicas de que os concorrentes devem ser titulares, se for o caso
+7 - Modo de apresentação dos trabalhos de conceção (*)
+8 - Fatores e eventuais subfatores que densificam o critério de seleção (*) Fator/Subfator | Ponderação
+9 - Número de trabalhos de conceção a selecionar (*)
+10 - Prémios
+10.1 - Montante global dos prémios de participação
+10.2 - Valor do prémio de consagração a atribuir a cada um dos concorrentes selecionados (*)
+11 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+12 - Data de envio do anúncio para publicação no Diário da República (*)
+13 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+14 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+15 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas dos termos de referência prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO VIII
+[a que se refere a alínea h) do n.º 1 do artigo 1.º]
+Modelo de anúncio do concurso de ideias
+Anúncio de procedimento
+O anúncio do concurso de ideias a que se refere o n.º 1 do artigo 219.º-J do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Identificação do trabalho (*)
+Designação do concurso de ideias
+Descrição sucinta do trabalho
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+Está prevista a possibilidade de o(s) vencedor(es) do concurso de ideias realizar(em) o desenvolvimento de parte(s) do projeto vencedor, mediante procedimento por ajuste direto? (sim/não)
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+4 - Acesso aos termos de referência
+4.1 - Consulta dos termos de referência
+Designação do serviço da entidade adjudicante onde se encontram disponíveis os termos de referência para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+4.2 - Fornecimento dos termos de referência
+Link do procedimento na plataforma eletrónica
+5 - Modalidade do concurso de conceção (*)
+(concurso público/concurso limitado)
+[No 1.º caso]
+Prazo para apresentação dos trabalhos de conceção (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+[No 2.º caso]
+Prazo para apresentação das candidaturas (*):
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+Requisitos mínimos de capacidade técnica (*)
+Prazo para apresentação dos trabalhos de conceção (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do convite à apresentação dos trabalhos de conceção
+6 - Habilitações profissionais específicas de que os concorrentes devem ser titulares, se for o caso
+7 - Modo de apresentação dos trabalhos (*)
+8 - Fatores e eventuais subfatores que densificam o critério de seleção (*)
+Fator/Subfator | Ponderação (*)
+9 - Número de trabalhos a selecionar (*)
+10 - Prémios
+10.1 - Montante global dos prémios de participação
+10.2 - Valor do prémio de consagração a atribuir a cada um dos concorrentes selecionados (*)
+11 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+12 - Data de envio do anúncio para publicação no Diário da República (*)
+13 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+14 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+15 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+Nota. - As normas dos termos de referência prevalecem sobre quaisquer indicações constantes do presente anúncio com elas desconformes, nos termos do disposto no n.º 4 do artigo 40.º do Código dos Contratos Públicos.
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO IX
+[a que se refere a alínea i) do n.º 1 do artigo 1.º]
+Modelo de anúncio de instituição de sistema de aquisição dinâmico
+Anúncio de procedimento
+O anúncio a que se refere alínea a) do artigo 238.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato (aquisição de bens móveis, locação de bens móveis, aquisição de serviços, empreitadas de obras públicas)
+Valor total estimado do procedimento XXX EUR
+[valor total máximo estimado para toda a duração do sistema de aquisição dinâmico]
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+Contratação por Lotes? (sim/não)
+4 - Acesso aos documentos que contêm as regras e os critérios de qualificação
+4.1 - Consulta desses documentos
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+4.2 - Fornecimento desses documentos
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+5 - Requisitos mínimos
+5.1 - Requisitos mínimos de capacidade técnica (*)
+5.2 - Requisitos mínimos de capacidade financeira (*)
+6 - Duração do sistema de aquisição dinâmico (*)
+«XXXX dias ou XXX meses ou XX anos» a contar da data de envio do presente anúncio
+7 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+8 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+9 - Data de envio do anúncio para publicação no Diário da República (*)
+10 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+11 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+12 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO X
+[a que se refere a alínea j) do n.º 1 do artigo 1.º]
+Modelo de anúncio da instituição de um sistema de qualificação
+Anúncio de procedimento
+O anúncio de instituição de um sistema de qualificação a que se refere o n.º 2 do artigo 245.º do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto dos futuros contratos
+Designação dos contratos (*)
+Descrição sucinta dos objetos dos contratos
+Tipos de contrato (aquisição de bens móveis, locação de bens móveis, aquisição de serviços, empreitada de obras públicas) (*)
+Preço base do procedimento (sim/não) (*)
+Se sim, valor do preço base do procedimento XXX EUR (*)
+Classificação CPV (1): [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)] (*)
+3 - Indicações adicionais
+Referência Interna
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+4 - Acesso aos documentos que contêm as regras e os critérios de qualificação
+4.1 - Consulta desses documentos
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+4.2 - Fornecimento desses documentos
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+5 - Requisitos mínimos
+5.1 - Requisitos mínimos de capacidade técnica (*)
+5.2 - Requisitos mínimos de capacidade financeira (*)
+6 - Duração do sistema de qualificação (*)
+«XXXX dias ou XXX meses ou XX anos» a contar da data de envio do presente anúncio
+7 - Critério de adjudicação dos futuros contratos (*)
+Melhor relação qualidade-preço (sim/não)
+8 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso: «XX dias»
+9 - Data de envio do anúncio para publicação no Diário da República (*)
+10 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+11 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+12 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO XI
+[a que se refere a alínea k) do n.º 1 do artigo 1.º]
+Modelo de anúncio de aquisição de serviços sociais e de outros serviços específicos
+Anúncio de procedimento
+O anúncio de aquisição de serviços sociais e de outros serviços específicos, a que se refere o n.º 1 do artigo 250.º-A do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do contrato
+Descrição sucinta do objeto do contrato
+Tipo de contrato
+Preço base do procedimento (sim/não)
+Se sim, valor do preço base do procedimento XXX EUR
+Descrição do Serviço
+Classificação CPV (1):[objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Indicações adicionais
+Referência Interna
+Contratação por Lotes? (sim/não)
+É utilizado um leilão eletrónico? (*) (sim/não)
+Procedimento aberto a qualquer fornecedor (*) (sim/não)
+O contrato envolve aquisição conjunta (com várias entidades)? (*) (sim/não)
+[Em caso afirmativo]
+[NIPC | Designação] (*) | Unidades Orgânicas | % (*)
+4 - Local da execução do contrato (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+5 - Prazo de execução do contrato (*)
+Prazo de vigência (*)
+«XXXX dias ou XXX meses ou XX anos» a contar da data de envio do presente anúncio
+O contrato é passível de renovação? (sim/não) (*)
+[Em caso afirmativo]
+Número máximo de renovações (*)
+6 - Documentos de habilitação (*)
+7 - Condições de participação (*)
+7.1 - Habilitação para o exercício da atividade profissional (sim/não)
+(lista e breve descrição das condições)
+7.2 - Informação sobre contratos reservados (2)
+O contrato está reservado a entidades e fornecedores cujo objetivo principal seja a integração social e profissional de pessoas com deficiência ou desfavorecidas? (sim/não)
+[Se sim, descrição]
+8 - Acesso às peças do concurso e apresentação das propostas
+8.1 - Consulta das peças do concurso
+Designação do serviço da entidade adjudicante onde se encontram disponíveis as peças do concurso para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+8.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação e apresentação das propostas
+Plataforma eletrónica utilizada pela entidade adjudicante (*)
+9 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XX.º dia a contar da data de envio do presente anúncio/XXX horas ou XXX dias a contar da data e hora de envio do presente anúncio
+10 - Critério de adjudicação (*)
+Melhor relação qualidade-preço (sim/não)
+11 - Identificação e contactos do órgão de recurso administrativo
+Designação (*)
+Endereço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+Prazo de interposição do recurso
+12 - Data de envio do anúncio para publicação no Diário da República (*)
+13 - Programa do concurso (*)
+14 - Caderno de encargos (*)
+15 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+16 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+(2) A participação no concurso está reservada a organizações que prossigam uma missão de serviço público e que satisfaçam as condições estabelecidas no n.º 2 do artigo 77.º da Diretiva n.º 2014/24/UE.
+ANEXO XII
+[a que se refere a alínea l) do n.º 1 do artigo 1.º]
+Modelo de anúncio de aquisição de serviços sociais e de outros serviços específicos
+Anúncio de adjudicação
+O anúncio de aquisição de serviços sociais e de outros serviços específicos, a que se refere o n.º 2 do artigo 250.º-B do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato
+Título
+Código CPV
+Tipo de contrato (obras, fornecimentos ou serviços) descrição resumida
+3 - Informações diversas
+3.1 - Informação do Anúncio
+Anúncio (anexo X) (*)
+Procedimento com lotes (s/n) (*)
+[Em caso afirmativo]
+N.º do lote (*)
+CPV (*)
+[Em caso negativo]
+CPV (*)
+3.2 - Informação do Adjudicatário (*)
+Agrupamento de pessoas singulares ou coletivas (sim/não)
+[Em caso afirmativo]
+Tipo de Agrupamento
+NIPC | Designação | País (para cada membro do agrupamento)
+[Em caso negativo]
+NIPC (se aplicável)
+Designação
+País
+3.3 - Informação relativa à Adjudicação (*)
+Contrato adjudicado (sim/não)
+Data da adjudicação
+Valor total inicialmente estimado do contrato XXX EUR
+Valor da adjudicação XXX EUR
+Data da celebração do contrato
+[Repete-se o grupo 3 quantas vezes se revelem necessárias]
+4 - Prazo de execução do contrato (*)
+Prazo
+«XXXX dias ou XXX meses ou XX anos»
+O contrato é passível de renovação? (sim/não)
+[Em caso afirmativo]
+Número máximo de renovações
+5 - Data de envio do anúncio para publicação no Diário da República (*)
+6 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO XIII
+[a que se refere a alínea m) do n.º 1 do artigo 1.º]
+Modelo de anúncio de hasta pública de alienação de bens móveis
+Anúncio de hasta pública de alienação de bens móveis
+O anúncio de aquisição de serviços sociais e de outros serviços específicos, a que se refere o n.º 2 do artigo 266.º-C do Código dos Contratos Públicos inclui a seguinte informação:
+1 - Identificação e contactos da entidade adjudicante
+Designação da entidade adjudicante (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Objeto do contrato (*)
+Designação do procedimento de alienação de bens móveis
+Descrição sucinta do objeto da alienação
+Tipo de transmissão: (definitiva/temporária)
+Forma jurídica da transmissão
+Tipo de bens:
+Legislação aplicável
+Avaliação do bem: XXX EUR
+Preço de licitação base do procedimento (sim/não)
+Se sim, valor da licitação base do procedimento XXX EUR
+Classificação CPV (1) [objeto principal/objetos complementares + vocabulário principal/vocabulário complementar (se aplicável)]
+3 - Destinatários (*)
+4 - Indicações adicionais
+Referência Interna
+Referência do Portal dos Contratos Públicos (*)
+Contratação Por Lotes? (sim/não)
+É utilizado um leilão eletrónico? (*) (sim/não)
+É adotada uma fase de negociação? (*) (sim/não)
+5 - Consulta das peças e obtenção de cópias (*)
+6 - Pedidos de esclarecimento sobre as peças do procedimento
+7 - Documentos de habilitação (*)
+8 - Condições de participação (*)
+9 - Prazo para apresentação das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+10 - Modo e Local de apresentação das propostas (*)
+Meio Eletrónico (sim/não)
+[Em caso afirmativo],
+Plataforma
+E-mail
+[Em caso negativo],
+Entidade
+Pessoa
+Morada
+Telefone
+Fax
+11 - Data, Local e Regras do Ato Público (*)
+12 - Critérios de seleção (*)
+Apenas o valor licitado (sim/não)
+Se não,
+Fator de avaliação | Ponderação
+13 - Prazo durante o qual os concorrentes são obrigados a manter as respetivas propostas (*)
+XXX dias a contar do termo do prazo para a apresentação das propostas
+14 - Prestação de caução
+(sim/não)
+[Em caso afirmativo] valor
+15 - Data de envio do anúncio para publicação no Diário da República (*)
+16 - Outras informações
+17 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+(1) Vocabulário Comum para os Contratos Públicos (Common Procurement Vocabulary - CPV) instituído pelo Regulamento (CE) n.º 2195/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, alterado pelo Regulamento (CE) n.º 2151/2003, da Comissão, de 16 de dezembro de 2003, e pelo Regulamento (CE) n.º 213/2008, da Comissão, de 28 de novembro de 2007.
+ANEXO XIV
+[a que se refere a alínea n) do n.º 1 do artigo 1.º]
+Modelo de anúncio da intenção de celebração de contratos de empreitadas de obras públicas por parte de concessionários de obras públicas que não sejam entidades adjudicantes.
+Anúncio de procedimento
+O anúncio de intenção de celebração de contratos de empreitadas de obras públicas por parte de concessionários de obras públicas que não sejam entidades adjudicantes, a que se refere o n.º 1 do artigo 276.º do Código dos Contratos Públicos, inclui a seguinte informação:
+1 - Identificação e contactos da concessionária de obras públicas
+Designação (*)
+NIPC (*)
+Serviço/Órgão/Pessoa de contacto
+Endereço (*)
+Código postal (*)
+Localidade (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+Telefone
+Fax
+Endereço da Entidade (url)
+Endereço eletrónico (*)
+2 - Tipo de procedimento (*)
+Procedimento aberto a qualquer fornecedor (sim/não)
+3 - Natureza e extensão dos trabalhos e características gerais da obra (descrição sucinta) (*)
+4 - Indicações adicionais
+Referência Interna
+5 - Local da execução da obra (*)
+País
+NUT III
+Distrito
+Concelho
+Freguesia
+6 - Prazo de execução da obra (*)
+Prazo (*)
+«XXXX dias ou XXX meses ou XX anos»
+7 - Documentos de Habilitação
+7.1 - Habilitação para o exercício da atividade profissional (sim/não)
+8 - Acesso às peças do procedimento
+8.1 - Consulta das peças do procedimento
+Designação do serviço onde se encontram disponíveis as peças do procedimento para consulta dos interessados (*)
+Endereço desse serviço (*)
+Código postal (*)
+Localidade (*)
+Telefone
+Fax
+Endereço eletrónico (*)
+8.2 - Fornecimento das peças do concurso, apresentação de pedidos de participação e apresentação das propostas
+Plataforma eletrónica utilizada pela concessionária (*)
+9 - Apresentação de candidaturas e/ou propostas
+9.1 - Prazo para apresentação das candidaturas e/ou das propostas (*)
+Até às HH:MM do XXX.º dia a contar da data de envio do presente anúncio
+9.2 - Modo de apresentação das candidaturas e/ou das propostas (*)
+10 - Prestação de caução, quando for o caso
+11 - Data de envio do anúncio para publicação no Diário da República (*)
+12 - O procedimento a que este anúncio diz respeito também é publicitado no Jornal Oficial da União Europeia? (*) (sim/não)
+13 - Outras informações
+Serão usados critérios ambientais? (*) (sim/não)
+14 - Identificação do autor do anúncio (*)
+Nome
+Cargo
+(*) Preenchimento obrigatório.
+110989088
