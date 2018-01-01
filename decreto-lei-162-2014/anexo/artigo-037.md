@@ -34,6 +34,6 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 
 6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 110 %.
 
-7 - Para efeitos da majoração prevista no número anterior, as entidades interessadas devem submeter previamente o projeto de conceção ecológica do produto à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), para efeitos de demonstração do benefício ambiental associado, devendo o pedido ser instruído com declaração ambiental de produto, patente ou rótulo ecológico, se existirem.
+7 - Para efeitos da majoração prevista no número anterior, as entidades interessadas devem submeter o pedido, instruído com declaração ambiental de produto, patente ou rótulo ecológico, se existirem, à auditoria tecnológica determinada pela Agência Nacional de Inovação, S. A., referida no n.º 1 do artigo 40.º, podendo esta consultar a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e o Laboratório Nacional de Energia e Geologia, I. P.
 
-8 - No caso em que o projeto seja validado pela APA, I. P., mediante declaração de benefício ambiental, este é submetido à auditoria tecnológica determinada pela comissão certificadora referida no n.º 1 do artigo 40.º
+8 - (Revogado.)

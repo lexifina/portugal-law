@@ -8,7 +8,7 @@ a) Terrenos, salvo no caso de se destinarem à exploração de concessões minei
 
 b) Construção, aquisição, reparação e ampliação de quaisquer edifícios, salvo quando afetos a atividades produtivas ou administrativas;
 
-c) Viaturas ligeiras de passageiros ou mistas, barcos de recreio e aeronaves de turismo;
+c) Viaturas ligeiras de passageiros ou mistas, salvo quando afetas à exploração de serviço público de transportes ou destinadas a serem alugadas no exercício da atividade normal do sujeito passivo, barcos de recreio e aeronaves de turismo;
 
 d) Artigos de conforto ou decoração, salvo equipamento hoteleiro afeto a exploração turística;
 
