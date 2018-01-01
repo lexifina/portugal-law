@@ -22,7 +22,7 @@ a) Celebração de contrato-promessa de aquisição e alienação de bens imóve
 
 b) Cessão da posição contratual no exercício do direito conferido por contrato-promessa referido na alínea anterior;
 
-c) Outorga de procuração que confira poderes de alienação de bem imóvel ou de partes sociais a que se refere a alínea d) do n.º 2 em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;
+c) Outorga de procuração que confira poderes de alienação de bem imóvel ou de partes sociais ou unidades de participação a que se referem as alíneas d) e e) do n.º 2 em que, por renúncia ao direito de revogação ou cláusula de natureza semelhante, o representado deixe de poder revogar a procuração;
 
 d) Outorga de instrumento com substabelecimento de procuração com os poderes e efeitos previstos na alínea anterior;
 

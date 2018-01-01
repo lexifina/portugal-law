@@ -9,3 +9,7 @@
 3 - Não sendo efetuada a declaração no prazo estabelecido, o adicional ao imposto municipal sobre imóveis incide, relativamente a cada um dos cônjuges, sobre a soma dos valores dos prédios que já constavam da matriz na respetiva titularidade.
 
 4 - A declaração, de modelo a aprovar por portaria e a apresentar exclusivamente no Portal das Finanças, deve ser efetuada de 1 de abril a 31 de maio.
+
+5 - A declaração apresentada nos termos do n.º 2 atualiza a matriz quanto à titularidade dos prédios.
+
+6 - A opção a que se refere o n.º 1 é válida até ao exercício da respetiva renúncia.

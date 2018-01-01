@@ -15,3 +15,5 @@
 4 - Para os prédios que sejam propriedade de entidades sujeitas a um regime fiscal mais favorável, a que se refere o n.º 1 do artigo 63.º-D da Lei Geral Tributária, a taxa é de 7,5 %.
 
 5 - O disposto no número anterior não se aplica aos prédios que sejam propriedade de pessoas singulares.
+
+6 - Os prédios referidos no n.º 3 devem ser identificados no anexo à declaração periódica de rendimentos prevista no Código do Imposto sobre o Rendimento das Pessoas Coletivas.

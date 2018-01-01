@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Do objecto e tipos de avaliação na determinação do valor patrimonial tributário
-
 # Artigo 14.º
 
 ### Objecto da avaliação
