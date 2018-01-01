@@ -12,13 +12,13 @@ b) O crédito esteja em mora há mais de seis meses desde a data do respetivo ve
 
 3 - Para efeitos do disposto no número anterior, considera-se que o vencimento do crédito ocorre na data prevista no contrato celebrado entre o sujeito passivo e o adquirente ou, na ausência de prazo certo, após a interpelação prevista no artigo 805.º do Código Civil, não sendo oponível pelo adquirente à Autoridade Tributária e Aduaneira o incumprimento dos termos e demais condições acordadas com o sujeito passivo.
 
-4 - Os sujeitos passivos podem, ainda, deduzir o imposto relativo a créditos considerados incobráveis nas seguintes situações, sempre que o facto relevante ocorra em momento anterior ao referido no n.º 2:
+4 - Os sujeitos passivos podem, ainda, deduzir o imposto relativo a créditos considerados incobráveis em qualquer das seguintes situações, sempre que o facto relevante ocorra em momento anterior ao referido no n.º 2:
 
 a) Em processo de execução, após o registo a que se refere a alínea b) do n.º 2 do artigo 717.º do Código do Processo Civil;
 
-b) Em processo de insolvência, quando a mesma for decretada de caráter limitado, após o trânsito em julgado da sentença de verificação e graduação de créditos prevista no Código da Insolvência e da Recuperação de Empresas ou, quando exista, a homologação do plano objeto da deliberação prevista no artigo 156.º do mesmo Código;
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou quando for determinado o encerramento do processo por insuficiência de bens, ao abrigo da alínea d) do n.º 1 do artigo 230.º e do artigo 232.º, ambos do Código da Insolvência e da Recuperação de Empresas, ou após a realização do rateio final, do qual resulte o não pagamento definitivo do crédito;
 
-c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
+c) Em processo de insolvência ou em processo especial de revitalização, quando seja proferida sentença de homologação do plano de insolvência ou do plano de recuperação que preveja o não pagamento definitivo do crédito;
 
 d) Nos termos previstos no Sistema de Recuperação de Empresas por Via Extrajudicial (SIREVE), após celebração do acordo previsto no artigo 12.º do Decreto-Lei n.º 178/2012, de 3 de agosto.
 
