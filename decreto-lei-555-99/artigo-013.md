@@ -22,7 +22,7 @@
 
 10 - A realização de vistoria, certificação, aprovação ou parecer, pelo município ou por entidade exterior, sobre a conformidade da execução dos projectos das especialidades e outros estudos com o projecto aprovado ou apresentado é dispensada mediante emissão de termo de responsabilidade por técnico legalmente habilitado para esse efeito, de acordo com o respectivo regime legal, que ateste essa conformidade.
 
-11 - O disposto no número anterior não se aplica às especialidades de eletricidade e de gás que são reguladas por legislação especial que assegure a segurança das instalações.
+11 - (Revogado.)
 
 12 - No termo do prazo fixado para a promoção das consultas, o interessado pode solicitar a passagem de certidão dessa promoção, a qual é emitida pela câmara municipal no prazo de oito dias e, se esta for negativa, promover diretamente as consultas que não hajam sido realizadas, nos termos do artigo 13.º-B, ou pedir ao tribunal administrativo que intime a câmara municipal, nos termos do artigo 112.º
 
