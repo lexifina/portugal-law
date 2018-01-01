@@ -8,4 +8,4 @@
 
 3 - Nas eleições em que haja círculos uninominais, a lei eleitoral respectiva estabelece mecanismos que assegurem a representação mínima de cada um dos sexos prevista no n.º 1.
 
-4 - Excepciona-se do disposto no n.º 1 a composição das listas para os órgãos das freguesias com 750 ou menos eleitores e para os órgãos dos municípios com 7500 ou menos eleitores.
+4 - (Revogado).
