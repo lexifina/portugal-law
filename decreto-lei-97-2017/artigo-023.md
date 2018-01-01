@@ -12,8 +12,6 @@ c) Fuga de gás ou interrupção do seu fornecimento por existência de defeito 
 
 2 - Às inspeções extraordinárias aplicam-se os procedimentos previstos para as inspeções periódicas.
 
-3 - A mudança de comercializador de gás e a mudança de titularidade no contrato de fornecimento de gás não implicam a realização de inspeção extraordinária desde que não haja interrupção de fornecimento de gás por motivos técnicos, nem se verifique nenhuma das situações descritas no n.º 1 e exista uma declaração de inspeção válida que aprove a instalação e que permita validar que não ocorreu a substituição de qualquer dos aparelhos a gás e dos sistemas de ventilação e exaustão dos produtos da combustão dos aparelhos a gás.
+3 - A mudança de comercializador de gás e a mudança de titularidade no contrato de fornecimento de gás não implicam a realização de inspeção extraordinária desde que não haja interrupção de fornecimento de gás por motivos técnicos, nem se verifique nenhuma das situações descritas no n.º 1 e exista declaração de conformidade de execução ou declaração de inspeção válidas que aprovem a instalação.
 
 4 - Quando exista inspeção extraordinária, o prazo para a inspeção periódica conta-se a partir desta.
-
-5 - É proibida a cobrança ou imposição, pela entidade distribuidora ou instaladora de gás, de comissões a serem pagas pela entidade inspetora pela realização de inspeções nos termos previstos no presente artigo.
