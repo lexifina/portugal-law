@@ -1,0 +1,149 @@
+## Secção III
+
+## Infrações tributárias
+
+# Artigo 271.º
+
+### Alteração ao Regime Geral das Infrações Tributárias
+
+Os artigos 8.º, 97.º, 108.º, 109.º, 116.º e 121.º do Regime Geral das Infrações Tributárias, aprovado pela Lei n.º 15/2001, de 5 de junho, adiante designado por RGIT, passam a ter a seguinte redação:
+
+«Artigo 8.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - As pessoas referidas no n.º 1, bem como os contabilistas certificados, são ainda subsidiariamente responsáveis, e solidariamente entre si, pelas coimas devidas pela falta ou atraso de quaisquer declarações que devam ser apresentadas no período de exercício de funções, quando não comuniquem, por via eletrónica, através do Portal das Finanças, até 30 dias após o termo do prazo de entrega da declaração, à Autoridade Tributária e Aduaneira as razões que impediram o cumprimento atempado da obrigação e o atraso ou a falta de entrega não lhes seja imputável a qualquer título.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+Artigo 97.º
+
+[...]
+
+...
+
+a) A mercadoria objeto da infração for de importação ou de exportação proibida ou condicionada em cumprimento de medidas restritivas internacionais;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+Artigo 108.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - Incorre ainda na prática de descaminho, punível com coima de (euro) 1 000 a (euro) 165 000, quem, à entrada ou saída do território nacional, não cumprir o dever legal de declaração de montante de dinheiro líquido, como tal definido na legislação comunitária e nacional, igual ou superior a (euro) 10 000, transportado por si e por viagem.
+
+7 - A mesma coima é aplicável a quem violar a obrigação de comunicar à Autoridade Tributária e Aduaneira as informações prévias legalmente exigíveis, à chegada ou à partida das mercadorias, em cumprimento de medidas restritivas internacionais, se outra infração mais grave lhe não couber.
+
+8 - (Anterior n.º 7.)
+
+9 - (Anterior n.º 8.)
+
+Artigo 109.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) Não dispuser ou não cumprir as exigências legais de registo contabilístico, especialmente previstas para os beneficiários de isenções, na legislação aplicável.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+Artigo 116.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Quando a infração prevista no n.º 1 diga respeito à falta de apresentação ou apresentação fora do prazo legal da declaração a que se referem os n.os 2 e 6 do artigo 63.º-A da lei geral tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, é punível com coima de (euro) 250 a (euro) 5 000.
+
+Artigo 121.º
+
+[...]
+
+1 - A não organização da contabilidade de harmonia com as regras de normalização contabilística, quando não seja punida como crime ou como contraordenação mais grave, é punível com coima de (euro) 500 a (euro) 10 000.
+
+2 - O atraso na execução da contabilidade, na escrituração de livros ou na elaboração de outros elementos de escrita, ou de registos, por período superior ao previsto na lei fiscal, quando não seja punida como crime ou como contraordenação mais grave, é punível com coima de (euro) 250 a (euro) 5 000.
+
+3 - A produção pelo sujeito passivo do ficheiro normalizado de exportação de dados sem observância do modelo de estrutura de dados legalmente previsto é punível com coima de (euro) 250 a (euro) 5 000.
+
+4 - (Anterior n.º 2.)
+
+5 - As infrações previstas nos n.os 1, 2 e 3 constituem contraordenações graves.»
