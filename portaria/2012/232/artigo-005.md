@@ -10,7 +10,7 @@ b) A realização das provas é publicitada anualmente nos portais das institui�
 
 c) O acesso à prova é de inscrição obrigatória, sendo devida propina de inscrição a fixar por despacho conjunto dos ministérios responsáveis pela área dos negócios estrangeiros e da educação;
 
-d) As provas têm a duração máxima de 90 minutos em função dos níveis e faixas etárias dos alunos;
+d) As provas têm a duração máxima de 120 minutos em função dos níveis e faixas etárias dos alunos;
 
 e) A realização das provas é assegurada pelas coordenações de ensino em cada país abrangido pelas áreas de atuação do Ensino Português no Estrangeiro ou no âmbito das missões diplomáticas, posteriormente enviadas para o júri;
 
