@@ -16,7 +16,7 @@ e) Empresas seguradoras relativamente à soma do prémio do seguro, custo da ap�
 
 f) Entidades emitentes de letras e outros títulos de crédito, entidades editantes de cheques e livranças ou, no caso de títulos emitidos no estrangeiro, a primeira entidade que intervenha na negociação ou pagamento;
 
-g) Locador e sublocador, nos arrendamentos e subarrendamentos;
+g) (Revogada);
 
 h) Outras entidades que intervenham em actos e contratos ou emitam ou utilizem os documentos, títulos ou papéis;
 
@@ -56,7 +56,9 @@ b) Nas demais transmissões gratuitas, incluindo as aquisições por usucapião,
 
 4 - (Revogado).
 
-5 - Para efeitos do disposto na alínea g) do n.º 1, é sujeito passivo:
+5 - Nas situações previstas na verba n.º 2 da Tabela Geral, é sujeito passivo do imposto o locador e o sublocador.
+
+6 - Para efeitos do disposto no número anterior, é sujeito passivo:
 
 a) Em caso de pluralidade de locadores ou de sublocadores, aquele que proceder à apresentação da declaração prevista no artigo 60.º ou o primeiro locador ou sublocador identificado na referida declaração, quando apresentada por terceiro autorizado, sem prejuízo da responsabilidade de qualquer dos locadores ou sublocadores, nos termos gerais, em caso de incumprimento da obrigação declarativa;
 
