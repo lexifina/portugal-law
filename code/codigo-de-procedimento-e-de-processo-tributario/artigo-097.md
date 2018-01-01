@@ -39,3 +39,7 @@ q) Outros meios processuais previstos na lei.
 2 - O recurso contencioso dos actos administrativos em matéria tributária, que não comportem a apreciação da legalidade do acto de liquidação, da autoria da administração tributária, compreendendo o governo central, os governos regionais e os seus membros, mesmo quando praticados por delegação, é regulado pelas normas sobre processo nos tribunais administrativos.
 
 3 - São também regulados pelas normas sobre processo nos tribunais administrativos os conflitos de competências entre tribunais tributários e tribunais administrativos e entre órgãos da administração tributária do governo central, dos governos regionais e das autarquias locais.
+
+4 - Os atos processuais, incluindo os atos das partes que devam ser praticados por escrito, as notificações entre mandatários, entre estes e os representantes da Fazenda Pública, e as notificações aos representantes da Fazenda Pública e ao Ministério Público, bem como a tramitação do processo judicial tributário, são efetuados nos termos previstos para os processos nos tribunais administrativos, designadamente nos artigos 24.º e 25.º do Código de Processo nos Tribunais Administrativos.
+
+5 - No contencioso associado à execução fiscal o disposto no número anterior é aplicável apenas a partir da receção dos autos em tribunal.

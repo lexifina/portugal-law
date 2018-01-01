@@ -10,4 +10,4 @@
 
 4 - Caso se apure que o pedido de pagamento em prestações não obedece aos pressupostos legais de que depende a sua autorização, o mesmo será indeferido de imediato, com notificação ao requerente dos fundamentos do mesmo indeferimento.
 
-5 - É dispensada a prestação de garantia quando, à data do pedido, o devedor tenha dívidas fiscais, legalmente não suspensas, de valor inferior a (euro) 5000 para pessoas singulares, ou (euro) 10 000 para pessoas coletivas.
+5 - É dispensada a prestação de garantia para dívidas em execução fiscal de valor inferior a (euro) 5000 para pessoas singulares, ou (euro) 10 000 para pessoas coletivas.
