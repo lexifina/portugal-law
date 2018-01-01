@@ -4,9 +4,9 @@
 
 1 - Para efeitos de determinação da taxa de IRS a aplicar a rendimentos da categoria B decorrentes de explorações silvícolas plurianuais, o respetivo valor é dividido:
 
-a) Por 12, para os rendimentos que sejam determinados com base na aplicação das regras decorrentes do regime simplificado;
+a) Por 12, para os rendimentos que sejam determinados com base na aplicação das regras decorrentes do regime simplificado, incluindo o ato isolado;
 
-b) Pela soma do número de anos ou fração a que respeitem os gastos imputados ao respetivo lucro tributável, nos termos do n.º 7 do artigo 18.º do Código do IRC, para os rendimentos que sejam determinados com base na contabilidade.
+b) Pela soma do número de anos ou fração a que respeitem os gastos imputados ao respetivo lucro tributável, nos termos do n.º 7 do artigo 18.º do Código do IRC, para os rendimentos que sejam determinados com base na contabilidade, incluindo o ato isolado.
 
 2 - Ficam isentas de imposto municipal sobre as transmissões onerosas de imóveis e de imposto do selo, no que se refere à verba 1.1 da tabela geral do imposto do selo, as aquisições onerosas de prédios ou parte de prédios rústicos que correspondam a áreas florestais abrangidas por zona de intervenção florestal (ZIF), nos termos do disposto no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, e 27/2014, de 18 de fevereiro, ou de prédios contíguos aos mesmos, na condição de estes últimos serem abrangidos por uma ZIF num período de três anos contados a partir da data de aquisição.
 

@@ -42,12 +42,14 @@ b) Os rendimentos resultantes das quotas pagas pelas cooperativas associadas e c
 
 9 - As cooperativas estão igualmente isentas de imposto municipal sobre imóveis relativamente aos imóveis referidos no número anterior.
 
-10 - Aos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção e por estas cedidas aos seus membros em regime de propriedade colectiva, qualquer que seja a respectiva modalidade desde que destinados à habitação própria e permanente destes, aplica-se a isenção prevista no artigo 46.º, nos termos e condições aí estabelecidos.
+10 - Aos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção ou associações de moradores e por estas cedidas aos seus membros em regime de propriedade coletiva, qualquer que seja a respetiva modalidade desde que destinados à habitação própria e permanente destes, aplicam-se as isenções previstas no artigo 11.º-A do Código do Imposto Municipal sobre Imóveis e no artigo 46.º do presente diploma, nos termos e condições aí estabelecidos.
 
-11 - A usufruição dos benefícios previstos nos n.os 8 e 9 só pode ser revogada, ou a sua medida alterada, por deliberação das assembleias municipais em cuja circunscrição estejam situados os respectivos prédios.
+11 - As isenções previstas no número anterior dependem de requerimento, a apresentar anualmente à Autoridade Tributária e Aduaneira, durante o mês de janeiro, pelas cooperativas de habitação e construção ou as associações de moradores, que identifique os cooperantes ou associados a quem os prédios estavam cedidos em 31 de dezembro do ano anterior.
 
-12 - As cooperativas estão isentas de imposto do selo sobre os actos, contratos, documentos, títulos e outros factos, incluindo as transmissões gratuitas de bens, quando este imposto constitua seu encargo.
+12 - A usufruição dos benefícios previstos nos n.os 8 e 9 só pode ser revogada, ou a sua medida alterada, por deliberação das assembleias municipais em cuja circunscrição estejam situados os respectivos prédios.
 
-13 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
+13 - As cooperativas estão isentas de imposto do selo sobre os actos, contratos, documentos, títulos e outros factos, incluindo as transmissões gratuitas de bens, quando este imposto constitua seu encargo.
 
-14 - As cooperativas de habitação e construção estão isentas de imposto do selo previsto na verba 28.1 da Tabela Geral do Imposto do Selo.
+14 - As isenções e demais benefícios previstos neste artigo aplicam-se às cooperativas de primeiro grau, de grau superior e às régies cooperativas, desde que constituídas, registadas e funcionando nos termos do Código Cooperativo e demais legislação aplicável.
+
+15- (Revogado).

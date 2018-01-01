@@ -18,17 +18,17 @@ a) Imóveis, localizados em 'áreas de reabilitação urbana' e recuperados nos 
 
 b) Imóveis arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do Novo Regime de Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de Fevereiro, que sejam objecto de acções de reabilitação.
 
-5 - As mais-valias auferidas por sujeitos passivos de IRS residentes em território português são tributadas à taxa autónoma de 5 %, sem prejuízo da opção pelo englobamento, quando sejam inteiramente decorrentes da alienação de imóveis situados em 'área de reabilitação urbana', recuperados nos termos das respectivas estratégias de reabilitação.
+5 - As mais-valias auferidas por sujeitos passivos de IRS residentes em território português decorrentes da primeira alienação, subsequente à intervenção, de imóvel localizado em área de reabilitação urbana, são tributadas à taxa autónoma de 5 %, sem prejuízo da opção pelo englobamento.
 
-6 - Os rendimentos prediais auferidos por sujeitos passivos de IRS residentes em território português são tributadas à taxa de 5 %, sem prejuízo da opção pelo englobamento, quando sejam inteiramente decorrentes do arrendamento de:
+6 - É aplicável ao Fundo Nacional de Reabilitação do Edificado o regime tributário previsto no artigo 8.º do Regime Jurídico dos Fundos e Sociedades de Investimento Imobiliário para Arrendamento Habitacional, aprovado pelo artigo 102.º da Lei n.º 64-A/2008, de 31 de dezembro, com as necessárias adaptações.
+
+7 - Os rendimentos prediais auferidos por sujeitos passivos de IRS residentes em território português são tributadas à taxa de 5 %, sem prejuízo da opção pelo englobamento, quando sejam inteiramente decorrentes do arrendamento de:
 
 a) Imóveis situados em 'área de reabilitação urbana', recuperados nos termos das respectivas estratégias de reabilitação;
 
 b) Imóveis arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do NRAU, que sejam objecto de acções de reabilitação.
 
-7 - Os prédios urbanos objecto de acções de reabilitação são passíveis de isenção de imposto municipal sobre imóveis por um período de cinco anos, a contar do ano, inclusive, da conclusão da mesma reabilitação, podendo ser renovada por um período adicional de cinco anos.
-
-8 - São isentas do IMT as aquisições de prédio urbano ou de fracção autónoma de prédio urbano destinado exclusivamente a habitação própria e permanente, na primeira transmissão onerosa do prédio reabilitado, quando localizado na 'área de reabilitação urbana'.
+8 - (Revogado).
 
 9 - A retenção na fonte a que se refere o n.º 2 tem carácter definitivo sempre que os titulares sejam entidades não residentes sem estabelecimento estável em território português ou sujeitos passivos de IRS residentes que obtenham os rendimentos fora do âmbito de uma actividade comercial, industrial ou agrícola, podendo estes, porém, optar pelo englobamento para efeitos desse imposto, caso em que o imposto retido tem a natureza de imposto por conta, nos termos do artigo 78.º do Código do IRS.
 
@@ -54,26 +54,26 @@ b) Imóveis arrendados passíveis de actualização faseada das rendas nos termo
 
 19 - As entidades mencionadas no número anterior devem remeter à administração tributária as certificações referidas no número anterior.
 
-20 - As isenções previstas nos n.os 7 e 8 estão dependentes de deliberação da assembleia municipal, que define o seu âmbito e alcance, nos termos do n.º 2 do artigo 12.º da Lei das Finanças Locais.
+20 - (Revogado.)
 
-21 - Os incentivos fiscais consagrados no presente artigo são aplicáveis aos imóveis objecto de acções de reabilitação iniciadas após 1 de Janeiro de 2008 e que se encontrem concluídas até 31 de Dezembro de 2020.
+21 - Os incentivos fiscais consagrados nos n.os 1, 2 e 3 são aplicáveis aos imóveis objeto de ações de reabilitação iniciadas após 1 de janeiro de 2008 e que se encontrem concluídas até 31 de dezembro de 2020.
 
-22 - São abrangidas pelo presente regime as acções de reabilitação que tenham por objecto imóveis que preencham, pelo menos, uma das seguintes condições:
-
-a) Sejam prédios urbanos arrendados passíveis de actualização faseada das rendas nos termos dos artigos 27.º e seguintes do NRAU;
-
-b) Sejam prédios urbanos localizados em 'áreas de reabilitação urbana'.
+22 - (Revogado.)
 
 23 - Para efeitos do presente artigo, considera-se:
 
-a) 'Acções de reabilitação' as intervenções destinadas a conferir adequadas características de desempenho e de segurança funcional, estrutural e construtiva a um ou vários edifícios, ou às construções funcionalmente adjacentes incorporadas no seu logradouro, bem como às suas fracções, ou a conceder-lhe novas aptidões funcionais, com vista a permitir novos usos ou o mesmo uso com padrões de desempenho mais elevados, das quais resulte um estado de conservação do imóvel, pelo menos, dois níveis acima do atribuído antes da intervenção;
+a) 'Ações de reabilitação' as intervenções de reabilitação de edifícios, tal como definidas no Regime Jurídico da Reabilitação Urbana, estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro, em imóveis que cumpram uma das seguintes condições:
 
-b) 'Área de reabilitação urbana' a área territorialmente delimitada, compreendendo espaços urbanos caracterizados pela insuficiência, degradação ou obsolescência dos edifícios, das infra-estruturas urbanísticas, dos equipamentos sociais, das áreas livres e espaços verdes, podendo abranger designadamente áreas e centros históricos, zonas de protecção de imóveis classificados ou em vias de classificação, nos termos da Lei de Bases do Património Cultural, áreas urbanas degradadas ou zonas urbanas consolidadas;
+i) Da intervenção resultar um estado de conservação de, pelo menos, dois níveis acima do verificado antes do seu início;
 
-c) 'Estado de conservação' o estado do edifício ou da habitação determinado nos termos do disposto no NRAU e no Decreto-Lei n.º 156/2006, de 8 de Agosto, para efeito de actualização faseada das rendas ou, quando não seja o caso, classificado pelos competentes serviços municipais, em vistoria realizada para o efeito, com referência aos níveis de conservação constantes do quadro do artigo 33.º do NRAU.
+ii) Um nível de conservação mínimo 'bom' em resultado de obras realizadas nos dois anos anteriores à data do requerimento para a correspondente avaliação, desde que o custo das obras, incluindo imposto sobre valor acrescentado, corresponda, pelo menos, a 25 % do valor patrimonial tributário do imóvel e este se destine a arrendamento para habitação permanente;
 
-24 - A comprovação do início e da conclusão das acções de reabilitação é da competência da câmara municipal ou de outra entidade legalmente habilitada para gerir um programa de reabilitação urbana para a área da localização do imóvel, incumbindo-lhes certificar o estado dos imóveis, antes e após as obras compreendidas na acção de reabilitação.
+b) 'Área de reabilitação urbana' a área territorialmente delimitada nos termos do Regime Jurídico da Reabilitação Urbana, estabelecido pelo Decreto-Lei n.º 307/2009, de 23 de outubro;
 
-25 - A delimitação das áreas de reabilitação urbana para efeitos do presente artigo é da competência da assembleia municipal, sob proposta da câmara municipal, obtido parecer do IHRU, I. P., no prazo de 30 dias, improrrogáveis.
+c) 'Estado de conservação' o estado do edifício ou da habitação determinado nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro.
 
-26 - Caso a delimitação opere sobre uma área classificada como área crítica de recuperação ou reconversão urbanística (ACRRU), não há lugar à emissão do parecer referido no número anterior.
+24 - A comprovação do início e da conclusão das ações de reabilitação é da competência da câmara municipal ou de outra entidade legalmente habilitada para gerir um programa de reabilitação urbana para a área da localização do imóvel, incumbindo-lhes certificar o estado dos imóveis, antes e após as obras compreendidas na ação de reabilitação, sem prejuízo do disposto na subalínea ii) da alínea a) do número anterior.
+
+25 - (Revogado.)
+
+26 - (Revogado.)

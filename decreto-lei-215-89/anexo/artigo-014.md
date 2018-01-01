@@ -26,4 +26,6 @@ b) Relativamente aos impostos periódicos sobre o património, no momento em que
 
 c) Nos impostos de obrigação única, na data em que o facto tributário ocorreu.
 
+d) Quanto às contribuições relativas ao sistema da segurança social, se, no momento em que ocorre a consulta, a situação contributiva não se encontrar regularizada.
+
 8 - É proibida a renúncia aos benefícios fiscais automáticos e dependentes de reconhecimento oficioso, sendo, porém, permitida aos benefícios fiscais dependentes de requerimento do interessado, bem como aos constantes de acordo, desde que aceite pela administração tributária.

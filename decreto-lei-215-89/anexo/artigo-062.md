@@ -72,9 +72,9 @@ i) (Revogada.)
 
 7 - Os donativos previstos no número anterior são levados a custos, em valor correspondente a:
 
-a) 120 % do respectivo total;
+a) 120 % ou, no caso das alíneas d) e e) do número anterior, 130 % do respetivo total;
 
-b) 130 %, quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem os objectivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos;
+b) 130 % ou, no caso das alíneas d) e e) do número anterior, 140 %, quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem objetivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos;
 
 c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância previstos na alínea g) e para as entidades referidas na alínea i) do número anterior.
 
@@ -84,6 +84,6 @@ c) 140 %, quando atribuídos às creches, lactários e jardins-de-infância prev
 
 10 - As entidades a que se referem as alíneas a), e) e g) do n.º 6 devem obter junto do membro do Governo da tutela, previamente à obtenção dos donativos, a declaração do seu enquadramento no presente capítulo e do interesse ambiental, desportivo ou educacional das atividades prosseguidas ou das ações a desenvolver.
 
-11 - No caso de donativos em espécie, o valor a considerar, para efeitos do cálculo da dedução ao lucro tributável, é o valor fiscal que os bens tiverem no exercício em que forem doados, deduzido, quando for caso disso, das depreciações ou provisões efetivamente praticadas e aceites como custo fiscal ao abrigo da legislação aplicável.
+11 - No caso de donativos em espécie, incluindo bens alimentares, o valor a considerar, para efeitos do cálculo da dedução ao lucro tributável, é o valor fiscal que os bens tiverem no exercício em que forem doados, deduzido, quando for caso disso, das depreciações ou provisões efetivamente praticadas e aceites como custo fiscal ao abrigo da legislação aplicável.
 
 12 - A dedução a efetuar nos termos dos n.os 3 a 8 não pode ultrapassar na sua globalidade 8/1000 do volume de vendas ou dos serviços prestados realizados pela empresa no exercício.
