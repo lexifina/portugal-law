@@ -20,7 +20,7 @@ c) Do cumprimento das normas legais, regulamentares e administrativas aplicávei
 
 d) De grupos seguradores e resseguradores, nos termos do presente regime.
 
-2 - (Revogado).
+2 - O disposto no número anterior não prejudica as atribuições da Comissão do Mercado de Valores Mobiliários relativamente a produtos de seguros ligados a fundos de investimento.
 
 3 - Nas ações de impugnação das decisões da ASF em matéria de supervisão, tomadas seja no âmbito do presente regime, seja no âmbito da legislação específica que rege a atividade das entidades supervisionadas nos termos do n.º 1, presume-se, até prova em contrário, que a suspensão da eficácia determina grave lesão do interesse público.
 

@@ -10,4 +10,4 @@
 
 4 - Para efeitos do disposto no número anterior, o requisito de capital para o risco operacional não pode exceder 30 % do requisito de capital de solvência de base, correspondente a essas operações de seguro e de resseguro.
 
-5 - (Revogado).
+5 - O requisito de capital para o risco operacional deve ainda refletir os riscos operacionais decorrentes das operações de gestão de fundos coletivos de pensões.

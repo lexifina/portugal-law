@@ -28,7 +28,7 @@ d) Impostos diferidos;
 
 e) Despesas administrativas;
 
-f) (Revogada).
+f) Medidas de volume relativas às operações de gestão de fundos coletivos de pensões.
 
 5 - A função linear a que se refere o número anterior deve ser calibrada de modo a corresponder ao valor em risco dos fundos próprios de base da empresa a um nível de confiança de 85 %, para o período de um ano.
 

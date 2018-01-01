@@ -28,4 +28,4 @@
 
 9 - A ASF tem legitimidade para reclamar ou recorrer das decisões judiciais que admitam reclamação ou recurso.
 
-10 - Caso a empresa de seguros emita instrumentos financeiros admitidos à negociação em mercado regulamentado, a ASF mantém a Comissão do Mercado de Valores Mobiliários informada das medidas que adotar nos termos do presente capítulo, ouvindo-a, sempre que possível, antes de decidir a aplicação das mesmas.
+10 - Caso a empresa de seguros emita instrumentos financeiros admitidos à negociação em mercado regulamentado e comercialize produtos de seguros ligados a fundos de investimento, a ASF mantém a Comissão do Mercado de Valores Mobiliários informada das medidas que adotar nos termos do presente capítulo, ouvindo-a, sempre que possível, antes de decidir a aplicação das mesmas.

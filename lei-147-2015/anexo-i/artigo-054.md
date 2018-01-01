@@ -29,5 +29,3 @@ e) Em relação aos seguros dos ramos Não Vida e ao resseguro aceite e cedido, 
 f) Em relação aos seguros do ramo Vida, um plano de que constem previsões pormenorizadas relativas a receitas e despesas, tanto para o seguro direto como para o resseguro aceite e cedido, por classe de negócio.
 
 3 - As hipóteses e os pressupostos em que se baseia a elaboração das projeções incluídas no programa previsto nos números anteriores são devida e especificamente fundamentados, incluindo cenários adversos.
-
-4 - Para efeitos do disposto no n.º 9 do artigo seguinte, a ASF pode solicitar ao requerente a entrega de uma cópia do programa de atividades na língua oficial ou noutra língua aceite pelo Estado-Membro de acolhimento.

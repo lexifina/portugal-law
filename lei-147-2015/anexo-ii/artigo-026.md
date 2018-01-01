@@ -15,5 +15,3 @@ b) Quando a sanção seja uma admoestação ou quando tenha havido suspensão da
 c) Quando a ilicitude do facto ou a culpa do arguido sejam diminutas e a contraordenação não tenha lesado significativamente ou colocado em perigo aos interesses dos tomadores de seguros, segurados ou beneficiários de contratos de seguros, dos portadores ou subscritores de operações de capitalização, ou dos associados, participantes ou beneficiários de fundos de pensões;
 
 d) Quando a ASF considere que a divulgação da decisão possa por em causa a estabilidade do sistema financeiro ou comprometer investigação criminal em curso, ou causar danos concretos, a pessoas ou entidades envolvidas, manifestamente desproporcionados em relação à gravidade dos factos imputados.
-
-4 - As divulgações mencionadas nos números anteriores, quando realizadas no respetivo sítio na Internet da ASF, não podem ser indexadas a motores de busca.

@@ -8,7 +8,7 @@
 
 3 - No prazo referido no número anterior, e desde que ainda não tenha sido adotada uma decisão conjunta, qualquer das autoridades de supervisão interessadas pode submeter a questão à EIOPA nos termos do artigo 19.º do Regulamento (UE) n.º 1094/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, considerando-se tal prazo como o prazo de conciliação na aceção do n.º 2 do referido artigo.
 
-4 - No caso previsto no número anterior, a EIOPA adota, no prazo de um mês, uma decisão nos termos do n.º 3 do artigo 19.º do Regulamento (UE) n.º 1094/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
+4 - No caso previsto no número anterior a EIOPA adota, no prazo de um mês, uma decisão nos termos do n.º 3 do artigo 19.º, dos n.os 2 e 3 do artigo 41.º e do n.os 1 e 3 do artigo 44.º, todos do Regulamento (UE) n.º 1094/2010, do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
 5 - O supervisor do grupo aguarda a decisão a adotar pela EIOPA nos termos do número anterior, conformando a sua decisão com a mesma.
 

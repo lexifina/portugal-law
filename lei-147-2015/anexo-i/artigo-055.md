@@ -29,7 +29,3 @@ c) Controlada pela mesma pessoa singular ou coletiva que controla uma instituiç
 7 - O Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários dispõem do prazo de dois meses para efeitos da consulta prevista no número anterior.
 
 8 - Nos termos dos n.os 5 e 6, a ASF consulta as autoridades de supervisão, designadamente para efeitos de avaliação da adequação dos acionistas para garantir a gestão sã e prudente da empresa de seguros ou de resseguros, e de avaliação dos requisitos de qualificação e de idoneidade referentes às pessoas identificadas no n.º 1 do artigo 43.º, bem como quanto a matérias que sejam de interesse para a concessão da autorização.
-
-9 - Quando da análise do programa de atividades mencionado no artigo anterior resultar que as atividades de uma empresa de seguros ou de resseguros se baseiam, parcialmente, na prestação de serviços ou no estabelecimento noutro Estado-Membro e podem, de acordo com um juízo de probabilidade, ser relevantes para o mercado desse Estado-Membro, a ASF notifica a EIOPA e a autoridade de supervisão do Estado-Membro de acolhimento caso pretenda autorizar o exercício da atividade de seguros ou de resseguros por essa empresa.
-
-10 - A notificação mencionada no número anterior deve ser suficientemente detalhada por forma a permitir uma avaliação completa por parte da EIOPA e da autoridade de supervisão do Estado-Membro de acolhimento e não prejudica as competências de supervisão da ASF e da autoridade de supervisão do Estado-Membro de acolhimento, nos termos legalmente aplicáveis.
