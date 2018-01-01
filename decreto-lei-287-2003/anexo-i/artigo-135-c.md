@@ -14,4 +14,12 @@ a) (euro) 600 000, quando o sujeito passivo é uma pessoa singular;
 
 b) (euro) 600 000, quando o sujeito passivo é uma herança indivisa.
 
-3 - Não são contabilizados para a soma referida no n.º 1 do artigo 135.º-B o valor dos prédios que no ano anterior tenham estado isentos ou não sujeitos a tributação em IMI.
+3 - Não são contabilizados para a soma referida no n.º 1 do artigo 135.º-B:
+
+a) O valor dos prédios que no ano anterior tenham estado isentos ou não sujeitos a tributação em IMI;
+
+b) O valor dos prédios que se destinem exclusivamente à construção de habitação social ou a custos controlados cujos titulares sejam cooperativas de habitação e construção ou associações de moradores;
+
+c) O valor dos prédios ou partes de prédios urbanos cujos titulares sejam condomínios, quando o valor patrimonial tributário de cada prédio ou parte de prédio não exceda 20 vezes o valor anual do indexante de apoios sociais;
+
+d) O valor dos prédios ou partes de prédios urbanos cujos titulares sejam cooperativas de habitação e construção e associações de moradores.
