@@ -4,4 +4,4 @@
 
 1 - A unidade tributável dos produtos intermédios é constituída pelo número de hectolitros de produto acabado.
 
-2 - A taxa do imposto aplicável aos produtos intermédios é de (euro) 75,05/hl.
+2 - A taxa do imposto aplicável aos produtos intermédios é de (euro) 76,10/hl.

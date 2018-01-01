@@ -2,8 +2,16 @@
 
 ### Entrepostos fiscais
 
-1 - Os entrepostos fiscais de produção de tabacos manufacturados estão sujeitos a um procedimento de controlo de natureza declarativo-contabilístico.
+1 - As autorizações para a constituição de entrepostos fiscais de produção de produtos de tabaco manufaturado, no continente, só podem ser concedidas a pessoas singulares ou coletivas que satisfaçam, cumulativamente, os seguintes requisitos económicos mínimos:
 
-2 - Excetuam-se do disposto no número anterior os entrepostos fiscais de produção de tabacos manufaturados situados nas Regiões Autónomas dos Açores e da Madeira, os quais estão sujeitos a fiscalização física permanente por parte da estância aduaneira competente.
+a) Capital social, quando aplicável: (euro) 2 000 000;
 
-3 - As condições de natureza física e contabilística necessárias à constituição e aprovação dos entrepostos fiscais de armazenagem de tabacos manufaturados são regulamentadas por portaria do membro do Governo responsável pela área das finanças.
+b) Volume de vendas anual: (euro) 50 000 000.
+
+2 - No caso de autorizações para a constituição de entrepostos fiscais de produção nas Regiões Autónomas dos Açores e da Madeira, os montantes referidos no número anterior são reduzidos para (euro) 500 000, no que respeita ao capital social, quando aplicável, e para (euro) 20 000 000, relativamente ao volume de vendas anual.
+
+3 - Os entrepostos fiscais de produção de tabacos manufacturados estão sujeitos a um procedimento de controlo de natureza declarativo-contabilístico.
+
+4 - Excetuam-se do disposto no número anterior os entrepostos fiscais de produção de tabacos manufaturados situados nas Regiões Autónomas dos Açores e da Madeira, os quais estão sujeitos a fiscalização física permanente por parte da estância aduaneira competente.
+
+5 - As condições de natureza física e contabilística necessárias à constituição e aprovação dos entrepostos fiscais de armazenagem de tabacos manufaturados são regulamentadas por portaria do membro do Governo responsável pela área das finanças.

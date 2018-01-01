@@ -18,6 +18,6 @@ e) A não observância superveniente dos requisitos fixados, consoante o caso, n
 
 3 - Para efeitos da alínea d) do número anterior, considera-se que não é exercida actividade quando, nomeadamente, durante um período superior a 90 dias não ocorra qualquer movimento de entrada ou saída de produtos sujeitos a impostos especiais de consumo no entreposto fiscal de armazenagem ou, no caso dos destinatários registados, não haja qualquer recepção daqueles produtos.
 
-4 - A decisão de revogação é notificada ao interessado através de carta registada, após a audição prévia nos termos legais.
+4 - A decisão de revogação é notificada ao interessado, através de carta registada, após a audição prévia nos termos legais, podendo esta ser dispensada, mediante decisão do diretor-geral da AT, quando seja razoavelmente de prever que a diligência possa comprometer a execução ou a utilidade da decisão.
 
 5 - A estância aduaneira competente determina o procedimento e os prazos relativos à execução da decisão de revogação, nomeadamente o destino a atribuir aos produtos que se encontrem em regime de suspensão do imposto.

@@ -2,9 +2,9 @@
 
 ### Pagamento e facto extintivo da dívida
 
-1 - O imposto deve ser pago até ao último dia útil do mês da liquidação.
+1 - O imposto deve ser pago até ao último dia útil do mês em que foi notificada a liquidação, nas situações previstas no artigo 10.º-A e, nas restantes situações, até ao 15.º dia após a notificação da liquidação.
 
-2 - No caso de liquidação efectuada nos termos do n.º 3 do artigo anterior, o imposto deve ser pago até ao 15.º dia após a notificação da liquidação.
+2 - (Revogado.)
 
 3 - Não há lugar a cobrança do imposto quando o montante liquidado for inferior a (euro) 10 ou, no caso das bebidas sem fins comerciais, não seja excedido o limite de 30 litros de produto acabado por ano e por produtor.
 
