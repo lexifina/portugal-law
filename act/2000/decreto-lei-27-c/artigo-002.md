@@ -2,7 +2,7 @@
 
 ### Objecto
 
-1 - As pessoas singulares podem aceder aos serviços mínimos bancários previstos na alínea a) do n.º 2 do artigo anterior, através da abertura de uma conta de serviços mínimos bancários em instituição de crédito à sua escolha ou, nos casos em que já sejam titulares de uma conta de depósito à ordem, da conversão dessa conta em conta de serviços mínimos bancários, nos termos e condições previstos neste diploma.
+1 - Os interessados podem aceder aos serviços mínimos bancários previstos na alínea a) do n.º 2 do artigo anterior, através da abertura de uma conta de serviços mínimos bancários em instituição de crédito à sua escolha ou, nos casos em que já sejam titulares de uma conta de depósito à ordem em instituição de crédito, da conversão dessa conta em conta de serviços mínimos bancários, nos termos e condições previstos no presente diploma
 
 2 - (Revogado.)
 

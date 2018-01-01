@@ -1,15 +1,27 @@
 # Artigo 5.º
 
-### Casos especiais de resolução
+### Resolução do contrato de depósito à ordem
 
-1 - As instituições de crédito podem resolver o contrato de depósito depois de decorrido, pelo menos, um ano após a abertura ou conversão de conta de depósito à ordem em conta de serviços mínimos bancários se, nos seis meses anteriores, essa conta apresentar um saldo médio anual inferior a 5 % da remuneração mínima mensal garantida e não tiverem sido realizadas quaisquer operações bancárias nesse mesmo período de tempo.
+1 - Sem prejuízo da possibilidade de resolução prevista noutras disposições legais, as instituições de crédito apenas podem resolver o contrato de depósito à ordem quando:
 
-2 - O titular da conta de serviços mínimos bancários é informado do exercício do direito referido no número anterior com, pelo menos, 60 dias de antecedência face à data prevista para a resolução do contrato, através de comunicação em papel ou em qualquer outro suporte duradouro.
+a) O titular utilizou deliberadamente a conta para fins contrários à lei;
 
-3 - Caso exerçam o direito conferido pelo disposto no n.º 1, as instituições de crédito estão obrigadas a proceder à devolução do saldo depositado na conta de serviços mínimos bancários aos respetivos titulares, não lhes podendo exigir o pagamento de quaisquer comissões, despesas ou outros encargos.
+b) O titular não realizou quaisquer operações de pagamento durante, pelo menos, 24 meses consecutivos;
 
-4 - As instituições de crédito podem igualmente resolver o contrato de depósito celebrado ou alterado ao abrigo deste diploma se, durante a respetiva vigência, verificarem que o titular da conta de serviços mínimos bancários possui uma outra conta de depósito à ordem em instituição de crédito, salvo no caso previsto no n.º 3 do artigo 4.º-B.
+c) O titular prestou informações incorretas para obter a conta de serviços mínimos bancários, quando não preenchia os requisitos de acesso à mesma;
 
-5 - Caso ocorra a situação descrita no número anterior, as instituições de crédito podem exigir do titular da conta de serviços mínimos bancários, se a ele houver lugar, o pagamento das comissões e despesas habitualmente associadas à prestação dos serviços entretanto disponibilizados nos termos da alínea a) do n.º 2 do artigo 1.º.
+d) O titular deixou de ser residente legal na União Europeia, não se tratando de um consumidor sem domicílio fixo ou requerente de asilo ao abrigo da Convenção de Genebra de 28 de julho de 1951, relativa ao Estatuto dos Refugiados e do respetivo Protocolo de 31 de janeiro de 1967, bem como de outros tratados internacionais pertinentes;
 
-6 - As instituições de crédito notificam o titular da conta de serviços mínimos bancários da resolução do contrato de depósito com fundamento na situação prevista no n.º 4 e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, com, pelo menos, 30 dias de antecedência a contar da data prevista para a resolução, mediante comunicação em papel ou noutro suporte duradouro.
+e) O titular, durante a vigência do contrato de depósito à ordem celebrado ou convertido ao abrigo do presente diploma, detém uma outra conta de depósito à ordem numa instituição de crédito em Portugal, que lhe permite utilizar os serviços enumerados na alínea a) do n.º 2 do artigo 1.º deste diploma, salvo nos casos previstos no n.º 3 do artigo 4.º-B.
+
+2 - A resolução do contrato de depósito à ordem com fundamento num dos motivos mencionados nas alíneas a) e c) do número anterior produz efeitos imediatos.
+
+3 - Nos casos abrangidos pelas alíneas b), d) e e) do n.º 1 do presente artigo, a resolução produz os seus efeitos 60 dias após a data da comunicação prevista no n.º 5.
+
+4 - Salvo no caso da alínea b) do n.º 1, as instituições de crédito podem exigir ao titular o pagamento da diferença entre as comissões, despesas ou outros encargos habitualmente associados à prestação dos serviços da alínea a) do n.º 2 do artigo 1.º, e as comissões, despesas ou outros encargos suportados pelo titular ao abrigo do artigo 3.º, pelos serviços entretanto disponibilizados.
+
+5 - A comunicação da resolução é efetuada a título gratuito, mediante declaração ao titular, em papel ou através de qualquer outro suporte duradouro, com indicação dos motivos e da justificação da resolução, e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, salvo se tal informação não puder ser prestada por razões de segurança objetivamente fundamentadas ou se for proibida por outras disposições legais aplicáveis.
+
+6 - A comunicação prevista no número anterior deve ainda conter a informação relativa aos procedimentos de reclamação e aos meios de resolução alternativa de litígios ao dispor do titular, facultando os dados de contacto necessários.
+
+7 - Em caso de resolução do contrato de depósito à ordem nos termos do n.º 1, as instituições de crédito estão obrigadas a proceder à devolução do saldo depositado na conta de serviços mínimos bancários aos respetivos titulares.

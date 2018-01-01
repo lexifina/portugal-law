@@ -12,9 +12,9 @@ i) Serviços relativos à constituição, manutenção, gestão e titularidade d
 
 ii) Titularidade de cartão de débito;
 
-iii) Acesso à movimentação da conta através de caixas automáticas, serviço de homebanking e balcões da instituição de crédito;
+iii) Acesso à movimentação da conta através de caixas automáticos no interior da União Europeia, homebanking e balcões da instituição de crédito;
 
-iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos directos e transferências intrabancárias nacionais;
+iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos diretos e transferências, incluindo ordens permanentes, no interior da União Europeia.
 
 v) (Revogada.)
 
@@ -22,13 +22,13 @@ b) 'Instituições de crédito' as empresas cuja atividade consiste em receber d
 
 c) Conta de depósito à ordem - entregas em numerário ou equivalente a instituição de crédito, para sua guarda, sendo a respectiva restituição exigível a todo o tempo sem qualquer encargo para o titular da conta;
 
-d) 'Conta de serviços mínimos bancários' conta de depósito à ordem a disponibilizar pelas instituições de crédito aderentes, nas condições e termos previstos no presente diploma;
+d) 'Conta de serviços mínimos bancários' a conta de depósito à ordem em euros a disponibilizar pelas instituições de crédito, nas condições e termos previstos no presente diploma;
 
-e) Cartão de débito - instrumento de movimentação ou transferência electrónica de fundos, por recurso a terminais automáticos de pagamento ou levantamento instalados nas instituições de crédito ou em estabelecimentos comerciais;
+e) 'Cartão de débito' o instrumento de movimentação ou de transferência eletrónica de fundos, por recurso a caixas automáticos ou a terminais de pagamento automáticos;
 
 f) Titular da conta - a pessoa singular com quem as instituições de crédito celebrem contratos de depósito, nos termos deste diploma.
 
-g) 'Interessado' a pessoa singular que solicite a prestação de serviços mínimos bancários junto de instituição de crédito aderente ao presente sistema;
+g) 'Interessado' a pessoa singular que solicite a prestação de serviços mínimos bancários junto de instituição de crédito, abrangendo qualquer consumidor que tenha o direito de residir num Estado-Membro em virtude do direito da União Europeia ou nacional, nos quais se incluem os consumidores sem domicílio fixo, os requerentes de asilo e os consumidores a quem não é concedida autorização de residência, mas cuja expulsão é impossível por motivos de facto ou de direito;
 
 h) 'Facilidade de descoberto' contrato expresso pelo qual uma instituição de crédito permite a uma pessoa singular dispor de fundos que excedem o saldo da respetiva conta de depósito à ordem;
 
