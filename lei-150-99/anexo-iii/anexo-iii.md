@@ -74,13 +74,11 @@
 
 17.2 - Operações realizadas por ou com intermediação de instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas e quaisquer outras instituições financeiras - sobre o valor cobrado:
 
-17.2.1 - Juros por, designadamente, desconto de letras e bilhetes do Tesouro, por empréstimos, por contas de crédito e por crédito sem liquidação ... 4%
+17.2.1 - Crédito de prazo inferior a um ano - por cada mês ou fração - 0,08 %.
 
-17.2.2 - Prémios e juros por letras tomadas, de letras a receber por conta alheia, de saques emitidos sobre praças nacionais ou de quaisquer transferências ... 4%
+17.2.2 - Crédito de prazo igual ou superior a um ano - 1 %.
 
-17.2.3 - Comissões por garantias prestadas ... 3%
-
-17.2.4 - Outras comissões e contraprestações por serviços financeiros ... 4%
+17.2.4 - Crédito utilizado sob a forma de conta-corrente, descoberto bancário ou qualquer outra forma em que o prazo de utilização não seja determinado ou determinável, sobre a média mensal obtida através da soma dos saldos em dívida apurados diariamente, durante o mês, divididos por 30 - 0,08 %.
 
 18 - Precatórios ou mandados para levantamento e entrega de dinheiro ou valores existente - sobre a importância a levantar ou a entregar ... 0,5%
 

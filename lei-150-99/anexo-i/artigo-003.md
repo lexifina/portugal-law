@@ -36,7 +36,7 @@ m) (Revogada.)
 
 n) No reporte, o primeiro alienante;
 
-o) Nos seguros, o tomador e, na actividade de mediação, o mediador;
+o) Nos seguros, o tomador, nos seguros de grupo contributivo, o segurado na proporção do prémio que suporte, e, na atividade de mediação, o mediador;
 
 p) (Revogada.)
 

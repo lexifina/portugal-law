@@ -18,4 +18,4 @@
 
 8 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado trimestralmente pelo sujeito passivo, até ao último dia do mês subsequente ao do nascimento da obrigação tributária.
 
-9 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado trimestralmente pelo sujeito passivo, até ao último dia do mês subsequente ao do nascimento da obrigação tributária
+9 - Tratando-se do imposto devido pelas situações previstas na verba n.º 29 da Tabela Geral, o imposto é liquidado pelo sujeito passivo no prazo estabelecido no n.º 1 do artigo 44.º
