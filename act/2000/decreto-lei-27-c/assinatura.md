@@ -9,3 +9,7 @@ O Presidente da República, JORGE SAMPAIO.
 Referendado em 9 de Março de 2000.
 
 O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo
+
+## BASES DE PROTOCOLO ANEXAS
