@@ -30,7 +30,7 @@ e) Potencial de criação de dependência e toxicidade, e
 
 f) Elementos de contacto do fabricante ou do importador e da pessoa coletiva ou singular a contactar.
 
-4 - As embalagens individuais e as embalagens exteriores dos cigarros eletrónicos e recargas devem apresentar, nos termos previstos nos n.os 2 e 3 do artigo 11.º-C, a seguinte advertência de saúde:
+4 - As embalagens individuais e as embalagens exteriores dos cigarros eletrónicos e recargas devem apresentar, nos termos previstos nos n.os 2 e 3 do artigo 11.º-D, a seguinte advertência de saúde:
 
 'Este produto contém nicotina, uma substância que cria forte dependência. Não é recomendado o seu uso por não fumadores.'
 

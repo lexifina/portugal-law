@@ -40,7 +40,7 @@ q) 'Estabelecimento retalhista', qualquer estabelecimento onde sejam comercializ
 
 r) 'Fabricante', a pessoa singular ou coletiva que fabrique um produto ou o faça conceber ou fabricar, e o comercialize em seu nome ou sob a sua marca comercial;
 
-s) 'Fumar', o consumo de produtos do tabaco, com exceção dos produtos do tabaco sem combustão, o consumo de produtos à base de plantas para fumar ou a utilização de cigarros eletrónicos;
+s) 'Fumar' o consumo de produtos do tabaco para fumar, o consumo de produtos à base de plantas para fumar, a utilização de cigarros eletrónicos com nicotina, ou o consumo de novos produtos do tabaco sem combustão que produzam aerossóis, vapores, gases ou partículas inaláveis;
 
 t) 'Fumo ambiental', fumo libertado para a atmosfera proveniente da combustão de produtos do tabaco;
 

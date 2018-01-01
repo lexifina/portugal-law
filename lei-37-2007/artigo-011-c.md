@@ -14,7 +14,7 @@
 
 6 - Nas embalagens individuais com tampa articulada, a outra superfície mais visível seguinte é a que fica visível quando a embalagem é aberta.
 
-7 - A advertência geral referida no presente artigo deve cobrir 30 % das superfícies da embalagem individual e de qualquer embalagem exterior e figurar nas duas maiores superfícies da embalagem individual e de qualquer embalagem exterior.
+7 - A advertência geral referida no presente artigo deve cobrir 30 % da superfície mais visível da embalagem individual e de qualquer embalagem exterior.
 
 8 - A advertência em texto referida no presente artigo deve cobrir 40 % da superfície relevante da embalagem individual e de qualquer embalagem exterior.
 
