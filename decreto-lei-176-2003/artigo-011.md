@@ -6,7 +6,7 @@
 
 a) O nascimento com vida;
 
-b) O não exercício de actividade laboral;
+b) O não exercício de atividade laboral, com exceção daquela que seja prestada ao abrigo de contrato de trabalho, em período de férias escolares, nos termos da subsecção v da secção i do capítulo ii do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social;
 
 c) A observância dos condicionalismos etários previstos no número seguinte.
 
