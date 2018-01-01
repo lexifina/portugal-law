@@ -2,4 +2,4 @@
 
 ### Apreensão cautelar e sanções acessórias
 
-A entidade competente para a aplicação da coima pode proceder a apreensões cautelares e aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
+A entidade competente para a aplicação da coima pode proceder a apreensões cautelares e aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual.

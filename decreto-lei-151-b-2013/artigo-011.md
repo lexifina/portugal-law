@@ -2,8 +2,8 @@
 
 ### Articulação de procedimentos
 
-1 - Por opção do proponente, o procedimento de avaliação de impacte ambiental relativo ao projeto de execução e o procedimento de verificação da conformidade ambiental do projeto de execução, podem ser iniciados junto da entidade licenciadora ou competente para a autorização do projeto e decorrer, em simultâneo com o respetivo procedimento de licenciamento, nos termos previstos na lei.
+1 - A tramitação do procedimento de AIA, incluindo a fase de verificação da conformidade ambiental do projeto de execução, é efetuada nos termos do Regime de Licenciamento Único de Ambiente, aprovado pelo Decreto-Lei n.º 75/2015, de 11 de maio.
 
-2 - Sem prejuízo do cumprimento dos trâmites previstos no presente decreto-lei, a autoridade de AIA deve promover a articulação dos mesmos com os respetivos procedimentos de licenciamento ou autorização.
+2 - [Revogado].
 
-3 - A articulação de procedimentos prevista no presente artigo é feita de forma desmaterializada através do balcão único eletrónico.
+3 - [Revogado].

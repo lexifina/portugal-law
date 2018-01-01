@@ -4,7 +4,7 @@
 
 1 - A APA, I.P., exerce as funções de autoridade nacional de AIA, assegurando a coordenação e apoio técnico no âmbito do presente decreto-lei, competindo-lhe, nomeadamente:
 
-a) Definir normas técnicas para aplicação harmonizada dos procedimentos previstos no presente decreto-lei;
+a) Definir normas técnicas e orientações para uma aplicação harmonizada dos procedimentos previstos no presente decreto-lei, designadamente no que respeita à densificação dos critérios previstos no anexo III;
 
 b) Elaborar e aprovar o regulamento de funcionamento da CA, publicitando-o no seu sítio na Internet e no balcão único eletrónico;
 

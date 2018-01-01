@@ -14,25 +14,27 @@ b) Contactos do proponente.
 
 a) Objetivo do projeto.
 
-b) Características físicas da totalidade do projeto - nomeadamente construções, configurações, infraestruturam e áreas ocupadas na fase de construção e funcionamento;
+b) Características físicas da totalidade do projeto - nomeadamente construções, configurações, infraestruturas e áreas ocupadas na fase de construção e exploração e, caso se justifique, dos trabalhos associados à fase de desativação, incluindo demolição;
 
-c) Identificação do previsto nos instrumentos de gestão territorial aplicáveis (uso do solo e servidões ou restrições de utilidade pública). Descrição dos projetos associados.
+c) Identificação do previsto nos instrumentos de gestão territorial aplicáveis (uso do solo e servidões ou restrições de utilidade pública);
 
-d) Descrição do processo - nomeadamente dimensão, capacidade, fluxos e entradas e saídas no sistema.
+d) Descrição dos projetos associados;
 
-e) Acessos a criar ou alterar.
+e) Descrição do processo - nomeadamente dimensão, capacidade, fluxos e entradas e saídas no sistema.
 
-f ) Calendarização das fases do projeto (construção, funcionamento e desativação).
+f) Acessos a criar ou alterar.
 
-g) Utilização de recursos naturais - nomeadamente fauna, flora, solo, água, energia e outros, indicando a sua origem e quantificação.
+g) Calendarização das fases do projeto (construção, exploração e desativação);
 
-h) Produção de efluentes, resíduos e emissões.
+h) Utilização de recursos naturais, em particular biodiversidade, território, solo, água, energia e outros, indicando a sua origem e quantificação, sempre que relevante.
 
-i) Risco de acidentes, atendendo sobretudo às substâncias ou tecnologias utilizadas.
+i) Produção de efluentes, resíduos e emissões.
 
-j) Alternativas consideradas - principais razões da escolha efetuada, atendendo aos efeitos no ambiente.
+j) Risco de acidentes, atendendo sobretudo às substâncias ou tecnologias utilizadas.
 
-k) Efeitos cumulativos relativamente a outros projetos.
+k) Alternativas consideradas - principais razões da escolha efetuada, atendendo aos efeitos no ambiente.
+
+l) Efeitos cumulativos relativamente a outros projetos.
 
 3 - Descrição do local do projeto
 
@@ -42,7 +44,9 @@ b) Apresentação da planta de localização com implantação do projeto (escal
 
 c) Indicação das áreas sensíveis e da ocupação atual do solo e da conformidade do projeto com os instrumentos de gestão territorial.
 
-d) Descrição dos elementos do ambiente suscetíveis de serem consideravelmente afetados pelo projeto proposto, nomeadamente, a população, a fauna, a flora, o solo, a água, a atmosfera, os fatores climáticos, os bens materiais, incluindo o património arquitetónico e arqueológico, a paisagem, bem como a inter-relação entre os fatores mencionados.
+d) Descrição dos elementos do ambiente suscetíveis de serem consideravelmente afetados pelo projeto proposto, nomeadamente a biodiversidade, o território, o solo, a água, o ar, o clima, incluindo as alterações climáticas, os bens materiais, o património cultural, arquitetónico e arqueológico e a paisagem, bem como a interação entre os fatores mencionados;
+
+e) Descrição dos elementos da população e da saúde humana suscetíveis de serem consideravelmente afetados pelo projeto proposto.
 
 4 - Identificação e avaliação de impactes
 
@@ -51,3 +55,5 @@ a) Descrição qualitativa dos impactes esperados quer positivos, quer negativos
 b) Indicação da natureza (direto, indireto, secundário, temporário e permanente), magnitude, extensão (geográfica e população afetada) e significado (muito ou pouco significativos).
 
 c) Identificação das medidas do projeto preconizadas para minimizar os impactes negativos expectáveis nas fases de construção, de exploração e de desativação, se aplicável.
+
+5 - Os critérios previstos no anexo III devem ser tomados em consideração aquando da compilação das informações previstas nos números anteriores, caso sejam aplicáveis face ao concreto projeto.

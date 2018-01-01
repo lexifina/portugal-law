@@ -6,9 +6,9 @@
 
 ### Objeto e âmbito de aplicação
 
-1 - O presente diploma estabelece, para todo o território nacional e zonas marítimas sob soberania ou jurisdição nacional, o regime jurídico da avaliação de impacte ambiental (AIA) dos projetos públicos e privados que sejam suscetíveis de produzir efeitos significativos no ambiente, transpondo a Diretiva 2011/92/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, relativa à avaliação dos efeitos de determinados projetos públicos e privados no ambiente.
+1 - O presente decreto-lei estabelece, para todo o território nacional e zonas marítimas sob soberania ou jurisdição nacional, o regime jurídico da avaliação de impacte ambiental (AIA) dos projetos públicos e privados que sejam suscetíveis de produzir efeitos significativos no ambiente, procedendo à transposição da Diretiva n.º 2011/92/UE, do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, alterada pela Diretiva n.º 2014/52/UE, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa à avaliação dos efeitos de determinados projetos públicos e privados no ambiente (Diretiva AIA).
 
-2 - As decisões proferidas no procedimento de AIA e no procedimento de verificação da conformidade ambiental do projeto de execução são prévias ao licenciamento ou autorização dos projetos suscetíveis de provocar efeitos significativos no ambiente, abrangidos pelo presente decreto-lei, devendo a entidade licenciadora ou competente para a autorização do projeto indeferir o pedido de licenciamento ou autorização sempre que não tenha sido previamente obtida decisão, expressa ou tácita, sobre a AIA.
+2 - As decisões proferidas no procedimento de AIA, incluindo na fase de verificação da conformidade ambiental do projeto de execução, são prévias ao licenciamento ou autorização dos projetos suscetíveis de provocar efeitos significativos no ambiente, nos termos do presente decreto-lei, devendo a entidade licenciadora ou competente para a autorização do projeto indeferir o pedido de licenciamento ou autorização sempre que não tenha sido previamente obtida decisão, expressa ou tácita, sobre a AIA.
 
 3 - Estão sujeitos a AIA, nos termos do presente decreto-lei:
 
@@ -18,9 +18,9 @@ b) Os projetos tipificados no anexo II ao presente decreto-lei, do qual faz part
 
 i) Estejam abrangidos pelos limiares fixados; ou
 
-ii) Se localizem, parcial ou totalmente, em área sensível e sejam considerados, por decisão da autoridade de AIA, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III ao presente decreto-lei, do qual faz parte integrante; ou
+ii) Se localizem, parcial ou totalmente, em área sensível e sejam considerados, por decisão da autoridade de AIA nos termos do n.º 6 do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III ao presente decreto-lei, do qual faz parte integrante; ou
 
-iii) Não estando abrangidos pelos limiares fixados, nem se localizando em área sensível, sejam considerados, por decisão da entidade licenciadora ou competente para a autorização do projeto e ouvida obrigatoriamente a autoridade de AIA, nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III;
+iii) Não estando abrangidos pelos limiares fixados, nem se localizando em área sensível, sejam considerados, por decisão da entidade licenciadora ou competente para a autorização do projeto nos termos do artigo 3.º, como suscetíveis de provocar impacte significativo no ambiente em função da sua localização, dimensão ou natureza, de acordo com os critérios estabelecidos no anexo III;
 
 c) Os projetos que em função da sua localização, dimensão ou natureza sejam considerados, por decisão conjunta do membro do Governo competente na área do projeto em razão da matéria e do membro do Governo responsável pela área do ambiente, como suscetíveis de provocar um impacte significativo no ambiente, tendo em conta os critérios estabelecidos no anexo III.
 
@@ -48,4 +48,4 @@ ii) Não estando fixado limiar para a tipologia em causa ou não se caracterizan
 
 7 - O presente decreto-lei não se aplica a projetos destinados unicamente à defesa nacional, ou à proteção civil sempre que os membros do Governo responsáveis pelas áreas da defesa nacional ou da administração interna, respetivamente, reconheçam que o procedimento de AIA tem efeitos adversos sobre os objetivos desses projetos, sem prejuízo de a aprovação e execução dos mesmos ter em consideração o respetivo impacte ambiental.
 
-8 - Nos casos previstos nas subalíneas ii) e iii) das alíneas b) e nas alíneas c) dos n.os 3 e 4 e no n.º 5 a decisão de abertura de procedimento administrativo para avaliação da sujeição a AIA é notificada ao proponente.
+8 - [Revogado].

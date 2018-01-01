@@ -4,7 +4,17 @@
 
 São objetivos da AIA:
 
-a) Avaliar, de forma integrada, os possíveis impactes ambientais significativos, diretos e indiretos, decorrentes da execução dos projetos e das alternativas apresentadas, tendo em vista suportar a decisão sobre a viabilidade ambiental dos mesmos;
+a) Identificar, descrever e avaliar, de forma integrada, em função de cada caso particular, os possíveis impactes ambientais significativos, diretos e indiretos, de um projeto e das alternativas apresentadas, tendo em vista suportar a decisão sobre a respetiva viabilidade ambiental, e ponderando nomeadamente os seus efeitos sobre:
+
+i) A população e a saúde humana;
+
+ii) A biodiversidade, em especial no que respeita às espécies e habitats protegidos nos termos do Decreto-Lei n.º 140/99, de 24 de abril, na sua redação atual;
+
+iii) O território, o solo, a água, o ar, o clima, incluindo as alterações climáticas;
+
+iv) Os bens materiais, o património cultural, arquitetónico e arqueológico e a paisagem;
+
+v) A interação entre os fatores mencionados, incluindo os efeitos decorrentes da vulnerabilidade do projeto perante os riscos de acidentes graves ou de catástrofes que sejam relevantes para o projeto em causa.
 
 b) Definir medidas destinadas a evitar, minimizar ou compensar tais impactes, auxiliando a adoção de decisões ambientalmente sustentáveis;
 

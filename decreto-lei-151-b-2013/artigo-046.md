@@ -2,4 +2,4 @@
 
 ### Prazos
 
-Os prazos previstos no presente decreto-lei contam-se nos termos previsto no CPA.
+Os prazos previstos no presente decreto-lei contam-se nos termos previstos no CPA.
