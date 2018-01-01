@@ -46,4 +46,14 @@ t) Cumprir as demais obrigações legais ou regulamentares aplicáveis.
 
 2 - Constitui ainda obrigação das entidades exploradoras obter a confirmação dos dados constantes dos registos dos jogadores.
 
-3 - As entidades exploradoras estão obrigadas a que, pelo menos, 60% do seu capital social seja representado por ações que permitam ao emitente, a todo o tempo, conhecer a identidade dos respetivos titulares, sendo obrigatória a comunicação à entidade de controlo, inspeção e regulação de todos os atos ou negócios que impliquem a aquisição, transmissão ou oneração destas ações, no prazo de 30 dias a contar da data em que a sociedade tenha tomado conhecimento do ato ou negócio em causa.
+3 - As entidades exploradoras podem ser autorizadas a partilhar a plataforma de jogo para disponibilizar jogos e apostas online a jogadores registados em domínios '.pt', nos termos e condições a definir por regulamento da entidade de controlo, inspeção e regulação.
+
+4 - As entidades exploradoras podem ainda ser autorizadas a disponibilizar jogos e apostas online entre jogadores registados no domínio '.pt' e jogadores cujos acessos se estabeleçam a partir de localizações situadas fora do território português e que se encontrem registados noutro domínio, ao abrigo de licenças emitidas em jurisdições onde os jogos e as apostas online e a liquidez de mercados são admitidos, nos termos e condições a definir por regulamento da entidade de controlo, inspeção e regulação.
+
+5 - Nas situações referidas no número anterior, as entidades exploradoras ficam obrigadas a:
+
+a) Encaminhar através da infraestrutura de entrada e registo todos os acessos à plataforma de jogo que se estabeleçam através de localizações situadas em território português ou que sejam efetuadas por jogadores registados no domínio '.pt', bem como todo o tráfego relacionado com a atividade de jogos e apostas online que ocorra entre esses jogadores e a plataforma;
+
+b) Reportar para a infraestrutura de entrada e registo o tráfego relacionado com a atividade de jogos e apostas online que ocorra entre jogadores e a plataforma de jogo, e cujos acessos a esta se estabeleçam a partir de localizações situadas fora do território português ou sejam efetuados por jogadores que se encontrem registados em domínio diferente do domínio '.pt'.
+
+6 - As entidades exploradoras estão obrigadas a que, pelo menos, 60% do seu capital social seja representado por ações que permitam ao emitente, a todo o tempo, conhecer a identidade dos respetivos titulares, sendo obrigatória a comunicação à entidade de controlo, inspeção e regulação de todos os atos ou negócios que impliquem a aquisição, transmissão ou oneração destas ações, no prazo de 30 dias a contar da data em que a sociedade tenha tomado conhecimento do ato ou negócio em causa.

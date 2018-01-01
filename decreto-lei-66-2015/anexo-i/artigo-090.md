@@ -28,16 +28,16 @@ Taxa = [8% x (montante anual das apostas efetuadas/(euro) 30 000 000,00)]
 
 10 - Sem prejuízo do disposto no n.º 5 do artigo 88.º, o montante líquido do IEJO, determinado nos termos do número anterior, é aplicado nos seguintes termos:
 
-a) 2,28% para o Estado;
+a) 3,17 % para o Estado;
 
-b) 34,52% para o Ministério da Solidariedade, Emprego e Segurança Social;
+b) 48,05 % para o ministério ao qual cabe promover as políticas sociais de apoio à família, crianças e jovens em risco, idosos, de combate à pobreza e de promoção da inclusão social, consignado ao orçamento da Segurança Social, no âmbito do Subsistema de Ação Social;
 
-c) 13,35% para a Presidência do Conselho de Ministros;
+c) (Revogada.)
 
-d) 16,44% para o Ministério da Saúde, dos quais 1% se destinam ao SICAD;
+d) 22,88 % para o ministério ao qual cabe promover as medidas de política nacional de saúde, dos quais 1 % se destinam ao SICAD;
 
-e) 3,76% para o Ministério da Administração Interna;
+e) 5,24 % para o ministério ao qual cabe promover as políticas de segurança interna;
 
-f) 1,49% para o Ministério da Educação e Ciência.
+f) 20,66 % para o ministério ao qual cabe promover a política nacional de juventude e desporto.
 
-11 - O IEJO não repartido nos termos das alíneas do número anterior, correspondente a 28,16% do IEJO líquido, é distribuído nos termos e na proporção prevista nas referidas alíneas.
+11 - (Revogado.)

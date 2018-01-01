@@ -23,3 +23,7 @@ c) Do pagamento da taxa de homologação, no prazo para o efeito fixado pela ent
 a) Pretenda disponibilizar os tipos de jogos previstos na licença a que se refere a alínea d) do n.º 1 do artigo 12.º que não foram ainda objeto da certificação;
 
 b) Pretenda explorar novos tipos de jogos de fortuna ou azar para além dos referidos na alínea d) do n.º 1 do artigo 12.º, sem prejuízo do disposto nos n.os 2 a 4 do mesmo artigo.
+
+c) Pretenda disponibilizar apostas desportivas à cota em que os jogadores jogam contra a entidade exploradora ou apostas desportivas à cota em que os jogadores jogam uns contra os outros, que não foram ainda objeto da certificação;
+
+d) Pretenda disponibilizar apostas hípicas mútuas, ou apostas hípicas à cota em que os jogadores jogam contra a entidade exploradora ou apostas hípicas à cota em que os jogadores jogam uns contra os outros, que não foram ainda objeto da certificação.
