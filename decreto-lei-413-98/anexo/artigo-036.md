@@ -14,7 +14,9 @@ b) Quando, na acção de inspecção, se apure ocultação dolosa de factos ou r
 
 c) (Revogada);
 
-d) Outros motivos de natureza excecional, mediante autorização fundamentada do diretor-geral da Autoridade Tributária e Aduaneira.
+d) Quando seja necessário realizar novas diligências em resultado de o sujeito passivo apresentar factos novos durante a audição prévia;
+
+e) Outros motivos de natureza excecional, mediante autorização fundamentada do diretor-geral da Autoridade Tributária e Aduaneira.
 
 4 - A prorrogação do prazo do procedimento de inspeção deve ocorrer até ao seu termo, antes da emissão da nota de diligência, e é notificada à entidade inspecionada com a indicação da data previsível do termo do procedimento.
 

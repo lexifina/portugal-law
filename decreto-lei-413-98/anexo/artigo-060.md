@@ -10,7 +10,7 @@
 
 ### Audição prévia
 
-1 - Concluída a prática de actos de inspecção e caso os mesmos possam originar actos tributários ou em matéria tributária desfavoráveis à entidade inspeccionada, esta deve ser notificada no prazo de 10 dias do projecto de conclusões do relatório, com a identificação desses actos e a sua fundamentação.
+1 - Caso os atos de inspeção possam originar atos tributários ou em matéria tributária desfavoráveis à entidade inspecionada, esta deve ser notificada do projeto de conclusões do relatório, com a identificação desses atos e a sua fundamentação.
 
 2 - A notificação deve fixar um prazo entre 15 e 25 dias para a entidade inspecionada se pronunciar sobre o referido projeto de conclusões, devendo o prazo, no caso de incluir a aplicação da cláusula geral antiabuso constante do n.º 2 do artigo 38.º da Lei Geral Tributária, ser de 30 dias.
 
