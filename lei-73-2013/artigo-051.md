@@ -11,3 +11,5 @@
 4 - Os empréstimos têm um prazo de utilização do capital máximo de dois anos, não podendo o início da amortização ser diferida para além desse período, salvo nos casos legalmente previstos.
 
 5 - As amortizações anuais previstas para cada empréstimo não podem ser inferiores a 80 % da amortização média de empréstimos, tal como definida no n.º 4 do artigo 40.º.
+
+6 - Aos empréstimos celebrados no âmbito dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, não são aplicáveis os n.os 4 e 5.
