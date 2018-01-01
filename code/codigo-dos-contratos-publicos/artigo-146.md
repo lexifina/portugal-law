@@ -16,13 +16,13 @@ b) Que sejam apresentadas por concorrentes em violação do disposto no n.º 2 d
 
 c) Que sejam apresentadas por concorrentes relativamente aos quais ou, no caso de agrupamentos concorrentes, relativamente a qualquer dos seus membros, a entidade adjudicante tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º;
 
-d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto no n.º 1 do artigo 57.º;
+d) Que não sejam constituídas por todos os documentos exigidos nos termos do disposto nos n.os 1 e 2 do artigo 57.º;
 
 e) Que não cumpram o disposto nos n.os 4 e 5 do artigo 57.º ou nos n.os 1 e 2 do artigo 58.º;
 
 f) Que sejam apresentadas como variantes quando estas não sejam admitidas pelo programa do concurso, ou em número superior ao número máximo por ele admitido;
 
-g) Que sejam apresentadas como variantes quando, apesar de estas serem admitidas pelo programa do concurso, não seja apresentada a proposta base;
+g) Que sejam apresentadas como variantes quando não seja apresentada a proposta base;
 
 h) Que sejam apresentadas como variantes quando seja proposta a exclusão da respectiva proposta base;
 
@@ -38,7 +38,7 @@ n) Que sejam apresentadas por concorrentes em violação do disposto nas regras 
 
 o) Cuja análise revele alguma das situações previstas no n.º 2 do artigo 70.º
 
-3 - Quando o mesmo concorrente apresente mais de uma proposta, em violação do disposto no n.º 7 do artigo 59.º, ou um número de propostas variantes superior ao número máximo admitido pelo programa de concurso, de acordo com o disposto na alínea j) do n.º 1 do artigo 132.º, o júri deve também propor a exclusão de todas as propostas por ele apresentadas.
+3 - Nos casos previstos nas alíneas f) e i) do número anterior, o júri deve propor a exclusão de todas as propostas variantes, a qual não implica a exclusão da proposta base.
 
 4 - Do relatório preliminar deve ainda constar referência aos esclarecimentos prestados pelos concorrentes nos termos do disposto no artigo 72.º
 

@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Serviços sociais e outros serviços específicos
-
 # Artigo 250.º-C
 
 ### Procedimentos pré-contratuais
