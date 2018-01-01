@@ -34,24 +34,26 @@ d) Os afilhados civis.
 
 6 - O disposto no número anterior não prejudica a tributação autónoma das pessoas nele referidas, exceto se, tratando-se de filhos, adotados e enteados, menores não emancipados, bem como de menores sob tutela, a administração dos rendimentos por eles auferidos não lhes pertencer na totalidade.
 
-7 - Sem prejuízo do disposto no n.º 1 do artigo 59.º e no n.º 9 do artigo 78.º, as pessoas referidas nos números anteriores não podem, simultaneamente, fazer parte de mais de um agregado familiar nem, integrando um agregado familiar, ser consideradas sujeitos passivos autónomos.
+7 - Sem prejuízo do disposto no n.º 8 do artigo 22.º, no n.º 1 do artigo 59.º e nos n.os 9 e 10 do artigo 78.º, as pessoas referidas nos números anteriores não podem, simultaneamente, fazer parte de mais de um agregado familiar nem, integrando um agregado familiar, ser consideradas sujeitos passivos autónomos.
 
 8 - A situação pessoal e familiar dos sujeitos passivos relevante para efeitos de tributação é aquela que se verificar no último dia do ano a que o imposto respeite.
 
-9 - Nos casos de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento, quando as responsabilidades parentais são exercidas em comum por ambos os progenitores, os dependentes previstos na alínea a) do n.º 5 são considerados como integrando:
+9 - Quando as responsabilidades parentais são exercidas em comum por mais do que um sujeito passivo, sem que estes estejam integrados no mesmo agregado familiar, nos termos do disposto no n.º 4, os dependentes previstos no n.º 5 são considerados como integrando:
 
-a) O agregado do progenitor a que corresponder a residência determinada no âmbito da regulação do exercício das responsabilidades parentais;
+a) O agregado do sujeito passivo a que corresponder a residência determinada no âmbito da regulação do exercício das responsabilidades parentais;
 
-b) O agregado do progenitor com o qual o dependente tenha identidade de domicílio fiscal no último dia do ano a que o imposto respeite, quando, no âmbito da regulação do exercício das responsabilidades parentais, não tiver sido determinada a sua residência ou não seja possível apurar a sua residência habitual.
+b) O agregado do sujeito passivo com o qual o dependente tenha identidade de domicílio fiscal no último dia do ano a que o imposto respeite, quando, no âmbito da regulação do exercício das responsabilidades parentais, não tiver sido determinada a sua residência ou não seja possível apurar a sua residência habitual.
 
-10 - O domicílio fiscal faz presumir a habitação própria e permanente do sujeito passivo que pode, a todo o tempo, apresentar prova em contrário.
+10 - Sem prejuízo do disposto no número anterior, os dependentes na situação aí prevista podem ser incluídos nas declarações de ambos os sujeitos passivos para efeitos de imputação de rendimentos e de deduções.
 
-11 - Para efeitos do disposto no número anterior, considera-se preenchido o requisito de prova aí previsto, designadamente quando o sujeito passivo:
+11 - O domicílio fiscal faz presumir a habitação própria e permanente do sujeito passivo que pode, a todo o tempo, apresentar prova em contrário.
+
+12 - Para efeitos do disposto no número anterior, considera-se preenchido o requisito de prova aí previsto, designadamente quando o sujeito passivo:
 
 a) Faça prova de que a sua habitação própria e permanente é localizada noutro imóvel; ou
 
 b) Faça prova de que não dispõe de habitação própria e permanente.
 
-12 - A prova dos factos previstos no número anterior compete ao sujeito passivo, sendo admissíveis quaisquer meios de prova admitidos por lei.
+13 - A prova dos factos previstos no número anterior compete ao sujeito passivo, sendo admissíveis quaisquer meios de prova admitidos por lei.
 
-13 - Compete à Autoridade Tributária e Aduaneira demonstrar a falta de veracidade dos meios de prova mencionados no número anterior ou das informações neles constantes.
+14 - Compete à Autoridade Tributária e Aduaneira demonstrar a falta de veracidade dos meios de prova mencionados no número anterior ou das informações neles constantes.

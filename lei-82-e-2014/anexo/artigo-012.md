@@ -22,7 +22,7 @@ e) Pelas associações mutualistas.
 
 5 - O IRS não incide sobre:
 
-a) As bolsas atribuídas aos praticantes de alto rendimento desportivo pelo Comité Olímpico de Portugal ou pelo Comité Paralímpico de Portugal, no âmbito do contrato-programa de preparação para os Jogos Olímpicos, Paralímpicos ou Surdolímpicos pela respetiva federação titular do estatuto de utilidade pública desportiva, nos termos do artigo 30.º do Decreto-Lei n.º 272/2009, de 1 de outubro;
+a) As bolsas atribuídas aos praticantes de alto rendimento desportivo, e respetivos treinadores, pelo Comité Olímpico de Portugal ou pelo Comité Paralímpico de Portugal, no âmbito do contrato-programa de preparação para os Jogos Olímpicos, Paralímpicos ou Surdolímpicos, ou pela respetiva federação titular do estatuto de utilidade pública desportiva, nos termos do Decreto-Lei n.º 273/2009, de 1 de outubro;
 
 b) As bolsas de formação desportiva, como tal reconhecidas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do desporto, atribuídas pela respetiva federação titular do estatuto de utilidade pública desportiva aos agentes desportivos não profissionais, nomeadamente praticantes, juízes e árbitros, até ao montante máximo anual correspondente a (euro) 2 375;
 
@@ -30,6 +30,6 @@ c) Os prémios em reconhecimento do valor e mérito de êxitos desportivos, nos 
 
 6 - O IRS não incide sobre os incrementos patrimoniais provenientes de transmissões gratuitas sujeitas ao imposto do selo, nem sobre os que se encontrem expressamente previstos em norma de delimitação negativa de incidência deste imposto.
 
-7 - O IRS não incide sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros pela Autoridade Nacional de Proteção Civil e pagos pelas respetivas entidades detentoras de corpos de bombeiros, no âmbito do dispositivo especial de combate a incêndios florestais e nos termos do respetivo enquadramento legal.
+7 - O IRS não incide sobre as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros pela Autoridade Nacional de Proteção Civil, municípios e comunidades intermunicipais e pagos pelas respetivas entidades detentoras de corpos de bombeiros, no âmbito do dispositivo especial de combate a incêndios florestais e do dispositivo conjunto de proteção e socorro na Serra da Estrela, nos termos do respetivo enquadramento legal.
 
 8 - O IRS não incide sobre o valor atribuído em resultado da liquidação, revogação ou extinção de estruturas fiduciárias a sujeitos passivos beneficiários das referidas estruturas distintos daqueles que as constituíram.

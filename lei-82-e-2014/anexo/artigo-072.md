@@ -32,7 +32,7 @@ b) Não obstante o disposto no número anterior, os rendimentos previstos nas al
 
 8 - Os rendimentos previstos nas alíneas c) a e) do n.º 1, no n.º 5 e no n.º 6 podem ser englobados por opção dos respetivos titulares residentes em território português.
 
-9 - Os residentes noutro Estado membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas a) e b) do n.º 1 e no n.º 2, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
+9 - Os residentes noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde que, neste último caso, exista intercâmbio de informações em matéria fiscal, podem optar, relativamente aos rendimentos referidos nas alíneas a), b) e e) do n.º 1 e no n.º 2, pela tributação desses rendimentos à taxa que, de acordo com a tabela prevista no n.º 1 do artigo 68.º, seria aplicável no caso de serem auferidos por residentes em território português.
 
 10 - Para efeitos de determinação da taxa referida no número anterior são tidos em consideração todos os rendimentos, incluindo os obtidos fora deste território, nas mesmas condições que são aplicáveis aos residentes.
 

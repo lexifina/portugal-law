@@ -36,7 +36,7 @@ h) Cessão onerosa de créditos, prestações acessórias e prestações supleme
 
 a) Nos casos de promessa de compra e venda ou de troca, presume-se que o ganho é obtido logo que verificada a tradição ou posse dos bens ou direitos objeto do contrato;
 
-b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas;
+b) Nos casos de afetação de quaisquer bens do património particular a atividade empresarial e profissional exercida pelo seu proprietário, o ganho só se considera obtido no momento da ulterior alienação onerosa dos bens em causa ou da ocorrência de outro facto que determine o apuramento de resultados em condições análogas, exceto no caso de restituição ao património particular de imóvel habitacional que seja afeto à obtenção de rendimentos da categoria F, mantendo-se o diferimento da tributação do ganho enquanto o imóvel mantiver aquela afetação;
 
 c) Nos contratos de permuta de bens presentes por bens futuros, a tributação apenas ocorre no momento da celebração do contrato que formaliza a aquisição do bem futuro, ou no momento da sua tradição, se anterior.
 

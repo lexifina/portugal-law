@@ -62,9 +62,15 @@ c) Para contribuintes que tenham um rendimento coletável superior ao valor do �
 
 9 - Sempre que o mesmo dependente ou ascendente conste de mais do que uma declaração de rendimentos, o valor das deduções à coleta previstas no presente Código por referência a dependentes ou ascendentes é reduzido para metade, por sujeito passivo.
 
-10 - A dedução à coleta prevista no artigo 83.º-A impede a consideração das demais deduções referentes ao dependente por referência ao qual o sujeito passivo efetua pagamentos de pensões de alimentos.
+10 - Sem prejuízo do disposto no número anterior, caso o acordo de regulação do exercício em comum das responsabilidades parentais estabeleça uma partilha de despesas que não seja igualitária e que fixe quantitativamente, para o dependente, a percentagem que respeita a cada sujeito passivo, o cálculo das deduções à coleta deverá considerar as devidas percentagens constantes do referido acordo, sem prejuízo do disposto nos dois números seguintes.
 
-11 - No caso do regime de tributação separada, quando o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, para cada um dos cônjuges ou unidos de facto:
+11 - Para efeito do disposto no número anterior devem os sujeitos passivos indicar no Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, a percentagem que lhes corresponde na partilha de despesas.
+
+12 - Caso os sujeitos passivos não efetuem a comunicação prevista no número anterior ou, efetuando, a soma das percentagens comunicadas por ambos os sujeitos passivos não corresponda a 100 %, o valor das deduções à coleta é dividido em partes iguais.
+
+13 - A dedução à coleta prevista no artigo 83.º-A impede a consideração das demais deduções referentes ao dependente por referência ao qual o sujeito passivo efetua pagamentos de pensões de alimentos.
+
+14 - No caso do regime de tributação separada, quando o valor das deduções à coleta previstas no presente Código é determinado por referência ao agregado familiar, para cada um dos cônjuges ou unidos de facto:
 
 a) Os limites dessas deduções são reduzidos para metade;
 

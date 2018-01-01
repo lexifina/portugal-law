@@ -36,4 +36,10 @@ a) Os rendimentos isentos são considerados, sem deduções, para efeitos do dis
 
 b) Para efeitos da alínea anterior, quando seja de aplicar o disposto no artigo 69.º, o quociente da divisão por 2 dos rendimentos isentos é imputado proporcionalmente à fração de rendimento a que corresponde a taxa média e a taxa normal.
 
-8 - Quando os dependentes, nas situações referidas no n.º 9 do artigo 13.º, tiverem obtido rendimentos, devem os mesmos ser incluídos na declaração do agregado em que se integram.
+8 - Quando os dependentes, nas situações referidas no n.º 9 do artigo 13.º, tiverem obtido rendimentos devem os mesmos:
+
+a) Ser incluídos na declaração do agregado em que se integram, salvo o disposto na alínea seguinte;
+
+b) Ser divididos em partes iguais a incluir, respetivamente, em cada uma das declarações dos sujeitos passivos, em caso de residência alternada estabelecida em acordo de regulação do exercício das responsabilidades parentais em vigor no último dia do ano a que o imposto respeita.
+
+9 - Para efeitos do disposto na alínea b) do número anterior, devem os sujeitos passivos, comunicar no Portal das Finanças, até 15 de fevereiro do ano seguinte àquele a que o imposto respeita, a existência de residência alternada prevista no referido acordo.
