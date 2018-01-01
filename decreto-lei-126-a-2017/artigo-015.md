@@ -10,7 +10,7 @@
 
 a) Ter residência em território nacional nos termos do artigo 9.º;
 
-b) Ter idade compreendida entre os 18 anos e a idade normal de acesso à pensão de velhice do regime geral, sem prejuízo do disposto no n.º 3;
+b) Ter 18 anos ou idade superior, sem prejuízo do disposto no n.º 4;
 
 c) Ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto no número seguinte.
 
