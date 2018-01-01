@@ -6,9 +6,15 @@
 
 a) Quando a liquidação deva ser feita pelo sujeito passivo nas declarações a que se referem os artigos 120.º e 122.º, tem por base a matéria coletável que delas conste;
 
-b) Na falta de apresentação da declaração a que se refere o artigo 120.º, a liquidação é efetuada até 30 de novembro do ano seguinte àquele a que respeita ou, no caso previsto no n.º 2 do referido artigo, até ao fim do 6.º mês seguinte ao do termo do prazo para apresentação da declaração aí mencionada e tem por base o valor anual da retribuição mínima mensal ou, quando superior, a totalidade da matéria coletável do exercício mais próximo que se encontre determinada;
+b) Na falta de apresentação da declaração a que se refere o artigo 120.º, a liquidação é efetuada até 30 de novembro do ano seguinte àquele a que respeita ou, no caso previsto no n.º 2 do referido artigo, até ao fim do 6.º mês seguinte ao do termo do prazo para apresentação da declaração aí mencionada e tem por base o maior dos seguintes montantes:
 
-c) Na falta de liquidação nos termos das alíneas anteriores, a mesma tem por base os elementos de que a administração fiscal disponha.
+1) A matéria coletável determinada, com base nos elementos de que a administração tributária e aduaneira disponha, de acordo com as regras do regime simplificado, com aplicação do coeficiente de 0,75;
+
+2) A totalidade da matéria coletável do período de tributação mais próximo que se encontre determinada;
+
+3) O valor anual da retribuição mínima mensal.
+
+c) (Revogada).
 
 2 - Ao montante apurado nos termos do número anterior são efetuadas as seguintes deduções, pela ordem indicada:
 

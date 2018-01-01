@@ -24,9 +24,9 @@ c) A parte do limite não utilizado, a que se refere o n.º 3, por sociedades do
 
 d) Os gastos de financiamento líquidos de sociedades do grupo, bem como a parte do limite não utilizado a que se refere o n.º 3, relativos aos períodos de tributação em que seja aplicável o regime, só podem ser utilizados pelo grupo, independentemente da saída de uma ou mais sociedades do grupo.
 
-6 - A opção da sociedade dominante prevista no número anterior deve ser mantida por um período mínimo de três anos, a contar da data em que se inicia a sua aplicação.
+6 - A opção da sociedade dominante prevista no número anterior deve ser mantida por um período mínimo de três anos a contar da data em que se inicia a sua aplicação, o qual é automaticamente prorrogável por períodos de um ano, exceto no caso de renúncia.
 
-7 - A opção mencionada no n.º 5 deve ser comunicada à Autoridade Tributária e Aduaneira através do envio, por transmissão eletrónica de dados, da declaração prevista no artigo 118.º, até ao fim do 3.º mês do período de tributação em que se pretende iniciar a respetiva aplicação.
+7 - A opção e a renúncia mencionadas nos n.os 5 e 6, respetivamente, devem ser comunicadas à Autoridade Tributária e Aduaneira através do envio, por transmissão eletrónica de dados, da declaração prevista no artigo 118.º, até ao fim do 3.º mês do período de tributação em que se pretende iniciar a respetiva aplicação ou dela renunciar.
 
 8 - O previsto nos n.os 2 e 3 deixa de ser aplicável quando se verificar, à data do termo do período de tributação em que é efetuada a dedução ou acrescido o limite, que, em relação àquele a que respeitam os gastos de financiamento líquidos ou a parte do limite não utilizada, se verificou a alteração da titularidade de mais de 50 % do capital social ou da maioria dos direitos de voto do sujeito passivo, salvo no caso de ser aplicável o disposto no n.º 9 do artigo 52.º ou de ser obtida autorização do membro do Governo responsável pela área das finanças em caso de reconhecido interesse económico, mediante requerimento a apresentar na Autoridade Tributária e Aduaneira, nos prazos previstos nos n.os 13 e 14 do artigo 52.º, consoante os casos.
 
@@ -50,4 +50,6 @@ d) Rendimentos ou gastos relativos a partes de capital às quais seja aplicável
 
 e) Rendimentos ou gastos imputáveis a estabelecimento estável situado fora do território português relativamente ao qual seja exercida a opção prevista no n.º 1 do artigo 54.º-A;
 
-f) A contribuição extraordinária sobre o setor energético.
+f) A contribuição extraordinária sobre o setor energético;
+
+g) A contribuição extraordinária sobre a indústria farmacêutica.

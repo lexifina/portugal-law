@@ -6,13 +6,13 @@
 
 ### Créditos incobráveis
 
-1 - Os créditos incobráveis podem ser diretamente considerados gastos ou perdas do período de tributação nas seguintes situações, desde que não tenha sido admitida perda por imparidade ou esta se mostre insuficiente:
+1 - Os créditos incobráveis podem ser diretamente considerados gastos ou perdas do período de tributação, ainda que o respetivo reconhecimento contabilístico já tenha ocorrido em períodos de tributação anteriores, em qualquer das seguintes situações, desde que não tenha sido admitida perda por imparidade ou esta se mostre insuficiente:
 
 a) Em processo de execução, após o registo a que se refere a alínea b) do n.º 2 do artigo 717.º do Código de Processo Civil;
 
-b) Em processo de insolvência, quando a mesma for decretada de caráter limitado, após o trânsito em julgado da sentença de verificação e graduação de créditos prevista no Código da Insolvência e da Recuperação de Empresas ou, quando exista, a homologação do plano objeto da deliberação prevista no artigo 156.º do mesmo Código;
+b) Em processo de insolvência, quando a mesma for decretada de caráter limitado ou quando for determinado o encerramento do processo por insuficiência de bens, ao abrigo da alínea d) do n.º 1 do artigo 230.º e do artigo 232.º, ambos do Código da Insolvência e da Recuperação de Empresas, ou após a realização do rateio final, do qual resulte o não pagamento definitivo do crédito;
 
-c) Em processo especial de revitalização, após homologação do plano de recuperação pelo juiz, previsto no artigo 17.º-F do Código da Insolvência e da Recuperação de Empresas;
+c) Em processo de insolvência ou em processo especial de revitalização, quando seja proferida sentença de homologação do plano de insolvência ou do plano de recuperação que preveja o não pagamento definitivo do crédito;
 
 d) Nos termos previstos no SIREVE, após celebração do acordo previsto no artigo 12.º do referido regime;
 

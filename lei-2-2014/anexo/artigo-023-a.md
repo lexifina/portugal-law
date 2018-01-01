@@ -40,6 +40,8 @@ q) A contribuição extraordinária sobre o setor energético;
 
 r) As importâncias pagas ou devidas, a qualquer título, a pessoas singulares ou coletivas residentes fora do território português e aí submetidas a um regime fiscal a que se referem os n.os 1 ou 5 do artigo 63.º-D da Lei Geral Tributária, ou cujo pagamento seja efetuado em contas abertas em instituições financeiras aí residentes ou domiciliadas, salvo se o sujeito passivo provar que tais encargos correspondem a operações efetivamente realizadas e não têm um caráter anormal ou um montante exagerado.
 
+s) A contribuição extraordinária sobre a indústria farmacêutica.
+
 2 - Não concorrem para a formação do lucro tributável as menos-valias e outras perdas relativas a instrumentos de capital próprio, na parte do valor que corresponda aos lucros ou reservas distribuídos ou às mais-valias realizadas com a transmissão onerosa de partes sociais da mesma entidade que tenham beneficiado, no próprio período de tributação ou nos quatro períodos anteriores, da dedução prevista no artigo 51.º, do crédito por dupla tributação económica internacional prevista no artigo 91.º-A ou da dedução prevista no artigo 51.º-C.
 
 3 - Não são aceites como gastos do período de tributação os suportados com a transmissão onerosa de instrumentos de capital próprio, qualquer que seja o título por que se opere, de entidades com residência ou domicílio em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.

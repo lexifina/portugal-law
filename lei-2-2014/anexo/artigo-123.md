@@ -14,7 +14,7 @@ b) As operações devem ser registadas cronologicamente, sem emendas ou rasuras,
 
 4 - Os livros, registos contabilísticos e respetivos documentos de suporte devem ser conservados em boa ordem durante o prazo de 10 anos.
 
-5 - Quando a contabilidade for estabelecida por meios informáticos, a obrigação de conservação referida no número anterior é extensiva à documentação relativa à análise, programação e execução dos tratamentos informáticos.
+5 - A obrigação de conservação referida no número anterior é extensiva à documentação relativa à análise, programação e execução dos tratamentos informáticos.
 
 6 - Os documentos de suporte previstos no n.º 4 que não sejam documentos autênticos ou autenticados podem, decorridos três períodos de tributação após aquele a que se reportam e obtida autorização prévia do diretor-geral da Autoridade Tributária e Aduaneira, ser substituídos, para efeitos fiscais, por microfilmes que constituam sua reprodução fiel e obedeçam às condições que forem estabelecidas.
 

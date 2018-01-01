@@ -56,4 +56,4 @@ b) Os gastos ou encargos relativos a bónus e outras remunerações variáveis p
 
 20 - Para efeitos do disposto no n.º 14, quando seja aplicável o regime especial de tributação dos grupos de sociedades estabelecido no artigo 69.º, é considerado o prejuízo fiscal apurado nos termos do artigo 70.º
 
-21 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado.
+21 - A liquidação das tributações autónomas em IRC é efetuada nos termos previstos no artigo 89.º e tem por base os valores e as taxas que resultem do disposto nos números anteriores, não sendo efetuadas quaisquer deduções ao montante global apurado, ainda que essas deduções resultem de legislação especial.
