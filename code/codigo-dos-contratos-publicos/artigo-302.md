@@ -12,8 +12,10 @@ a) Dirigir o modo de execução das prestações;
 
 b) Fiscalizar o modo de execução do contrato;
 
-c) Modificar unilateralmente as cláusulas respeitantes ao conteúdo e ao modo de execução das prestações previstas no contrato por razões de interesse público;
+c) Modificar unilateralmente as cláusulas respeitantes ao conteúdo e ao modo de execução das prestações previstas no contrato por razões de interesse público, com os limites previstos no presente Código;
 
 d) Aplicar as sanções previstas para a inexecução do contrato;
 
 e) Resolver unilateralmente o contrato.
+
+f) Ordenar a cessão da posição contratual do cocontratante para terceiro.

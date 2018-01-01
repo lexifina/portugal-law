@@ -8,7 +8,7 @@ a) Se não for feita consignação da obra no prazo de seis meses contados da da
 
 b) Se, havendo sido feitas uma ou mais consignações parciais, o retardamento da consignação ou consignações subsequentes acarretar a interrupção dos trabalhos por mais de 120 dias, seguidos ou interpolados;
 
-c) Se, avaliados os trabalhos a mais, os trabalhos de suprimento de erros e omissões e os trabalhos a menos, relativos ao contrato e resultantes de actos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual;
+c) Se, avaliados os trabalhos complementares e os trabalhos a menos, relativos ao contrato e resultantes de atos ou factos não imputáveis ao empreiteiro, ocorrer uma redução superior a 20 % do preço contratual;
 
 d) Se a suspensão da empreitada se mantiver:
 

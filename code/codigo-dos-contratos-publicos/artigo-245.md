@@ -12,8 +12,8 @@
 
 3 - O anúncio referido no número anterior ou um resumo dos seus elementos mais importantes pode ser posteriormente divulgado por qualquer outro meio considerado conveniente, nomeadamente através da sua publicação em plataforma electrónica utilizada pela entidade adjudicante.
 
-4 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio do sistema de qualificação, conforme modelo constante do anexo vii do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro.
+4 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio do sistema de qualificação, conforme modelo constante do anexo vii ao Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 de novembro de 2015.
 
 5 - Quando o sistema de qualificação tiver uma duração superior a três anos, os anúncios previstos nos n.os 2 e 4 devem ser republicados anualmente.
 
-6 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 4 a 7 do artigo 131.º
+6 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 5 a 7 do artigo 131.º

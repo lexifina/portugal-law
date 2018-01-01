@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve incluir um projeto de execução.
 
-2 - Quando a obra seja classificada, nos termos do n.º 7, na categoria iii ou superior, bem como naqueles casos em que o preço base, fixado no caderno de encargos, seja enquadrável na classe 3 de alvará ou em classe superior, o projeto de execução referido no número anterior deve ser objeto de prévia revisão por entidade devidamente qualificada para a sua elaboração, distinta do autor do mesmo.
+2 - Quando a obra seja classificada, nos termos da portaria prevista no n.º 7, na categoria iii ou superior, bem como naqueles casos em que o preço base, fixado no caderno de encargos, seja enquadrável na classe 3 de alvará ou em classe superior, o projeto de execução referido no número anterior deve ser objeto de prévia revisão por entidade devidamente qualificada para a sua elaboração, distinta do autor do mesmo.
 
 3 - Em casos excecionais devidamente fundamentados, nos quais o adjudicatário deva assumir, nos termos do caderno de encargos, obrigações de resultado relativas à utilização da obra a realizar, ou nos quais a complexidade técnica do processo construtivo da obra a realizar requeira, em razão da tecnicidade própria dos concorrentes, a especial ligação destes à conceção daquela, a entidade adjudicante pode prever, como aspeto da execução do contrato a celebrar, a elaboração do projeto de execução, caso em que o caderno de encargos deve ser integrado apenas por um programa preliminar.
 
@@ -34,7 +34,7 @@ f) Do plano de prevenção e gestão de resíduos de construção e demolição,
 
 8 - O caderno de encargos é nulo quando:
 
-a) Não seja integrado pelos elementos da solução da obra previstos no n.º 1 e na parte final do n.º 3;
+a) Não seja integrado pelo projeto de execução previsto no n.º 1 ou pelo programa preliminar previsto na parte final do n.º 3;
 
 b) Seja elaborado em violação do disposto no n.º 2;
 
@@ -42,4 +42,14 @@ c) O projecto de execução nele integrado não esteja acompanhado dos elementos
 
 d) Os elementos da solução da obra nele integrados não observem o conteúdo obrigatório previsto na portaria referida no número anterior.
 
-9 - No caso previsto n.º 3, o contrato a celebrar não é considerado um contrato misto para os efeitos do disposto no artigo 32.º
+9 - A nulidade prevista no número anterior é suscetível de sanação, nos termos do disposto no n.º 2 do artigo 164.º do Código do Procedimento Administrativo.
+
+10 - Para efeitos do disposto no número anterior, considera-se sanada a nulidade nas seguintes situações:
+
+a) Se, verificado o vício antes de decorrido o prazo para apresentação de propostas, a entidade adjudicante proceder à junção dos elementos em falta, no prazo de cinco dias, sendo prorrogado o prazo para apresentação de propostas, nos termos do artigo 64.º;
+
+b) Se, no prazo de cinco dias após notificação para, querendo, sanar a nulidade, o contraente público proceder à junção dos elementos em falta, desde que não alterem os pressupostos em que assentou a elaboração da proposta do adjudicatário;
+
+c) Se, no prazo de cinco dias após notificação para, querendo, sanar a nulidade, o contraente público apresentar as razões que justificam a não exigência dos elementos previstos no n.º 5.
+
+11 - No caso previsto n.º 3, o contrato a celebrar não é considerado um contrato misto para os efeitos do disposto no artigo 32.º

@@ -14,7 +14,7 @@ c) Que sejam apresentadas por candidatos relativamente aos quais ou, no caso de 
 
 d) Que sejam apresentadas por candidatos que não preencham os requisitos referidos no n.º 4 do artigo 164.º, desde que o programa do concurso assim o preveja expressamente;
 
-e) Que não sejam constituídas por todos os documentos exigidos, salvo por aqueles que se refiram ao requisito de capacidade financeira previsto no n.º 2 do artigo 165.º desde que tenha sido apresentado um dos documentos previstos no n.º 3 do artigo 179.º;
+e) Que não sejam constituídas por todos os documentos exigidos, salvo por aqueles que se refiram ao requisito de capacidade financeira e tenha sido apresentado o Documento Europeu Único de Contratação Pública ou um dos documentos previstos no n.º 3 do artigo 179.º;
 
 f) Que não cumpram o disposto nos n.os 2 e 3 do artigo 168.º;
 

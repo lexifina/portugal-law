@@ -4,12 +4,14 @@
 
 # Artigo 429.º
 
-### Princípios gerais
+### Princípios gerais e regime especial
 
-Na exploração de uma actividade de serviço público, o concessionário está sujeito aos seguintes princípios:
+1 - Na exploração de uma actividade de serviço público, o concessionário está sujeito aos seguintes princípios:
 
 a) Continuidade e regularidade;
 
 b) Igualdade;
 
 c) Adaptação às necessidades.
+
+2 - Sem prejuízo do disposto no presente Código, o regime das concessões de serviços públicos, designadamente o de concessões portuárias, é definido em legislação especial.

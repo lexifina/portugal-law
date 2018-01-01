@@ -10,4 +10,4 @@ b) Quando o período de tempo necessário às operações preparatórias da cons
 
 c) Nos casos previstos no artigo 360.º
 
-2 - Nos casos em que a consignação total ou a primeira consignação parcial tenham lugar em data posterior à prevista no contrato ou indicada no plano final de consignação, o dono da obra comunica ao Instituto da Construção e do Imobiliário, I. P., no prazo de cinco dias, a data em que aquelas efectivamente ocorreram, apresentando uma justificação sumária da dilação verificada.
+2 - (Revogado).

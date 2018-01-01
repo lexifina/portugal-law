@@ -6,13 +6,13 @@
 
 a) Se trate de bens destinados à substituição parcial ou à ampliação de bens ou equipamentos de específico uso corrente da entidade adjudicante, desde que o contrato a celebrar o seja com a entidade com a qual foi celebrado o contrato inicial de locação ou de aquisição de bens e a mudança de fornecedor obrigasse a entidade adjudicante a adquirir material de características técnicas diferentes, originando incompatibilidades ou dificuldades técnicas de utilização e manutenção desproporcionadas;
 
-b) Se trate de bens produzidos ou a produzir apenas para fins de investigação, de experimentação, de estudo ou de desenvolvimento, desde que tais bens não sejam produzidos em quantidade destinada a assegurar a viabilidade comercial dos mesmos ou a amortizar os custos daquelas actividades;
+b) Se trate de bens produzidos ou a produzir para fins de investigação, de experimentação, de estudo ou desenvolvimento, desde que tais bens não sejam produzidos com finalidade comercial, ou com vista a amortizar o custo dessas atividades, e o valor estimado do contrato seja inferior aos limiares estabelecidos nas alíneas b) ou c) do n.º 3 do artigo 474.º;
 
-c) Se trate de adquirir bens cotados numa bolsa de matérias-primas;
+c) Se trate de adquirir bens cotados e adquiridos num mercado de matérias-primas;
 
-d) Se trate de adquirir bens, em condições especialmente mais vantajosas do que as normalmente existentes no mercado, a fornecedores que cessem definitivamente a sua actividade comercial, a curadores, liquidatários ou administradores da insolvência ou de uma concordata ou ainda no âmbito de acordo judicial;
+d) Se trate de adquirir bens, em condições especialmente mais vantajosas do que as normalmente existentes no mercado, a entidades que cessem definitivamente a sua atividade comercial, a curadores, liquidatários, administradores de insolvência ou ainda no âmbito de acordo judicial ou procedimento da mesma natureza previsto na legislação aplicável;
 
-e) Se trate de locar ou de adquirir bens ao abrigo de um acordo quadro, nos termos do disposto no n.º 1 do artigo 258.º;
+e) Se trate de locar ou adquirir bens ao abrigo de um acordo-quadro celebrado nos termos do disposto na alínea a) do n.º 1 do artigo 252.º;
 
 f) Se trate de adquirir água ou energia, desde que a entidade adjudicante exerça a actividade de colocação à disposição, de exploração ou de alimentação de redes fixas de prestação de serviços ao público no domínio da produção, do transporte ou da distribuição de, respectivamente, água potável ou electricidade, gás ou combustível para aquecimento.
 

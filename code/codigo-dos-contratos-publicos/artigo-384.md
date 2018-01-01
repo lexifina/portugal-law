@@ -6,7 +6,7 @@
 
 a) A identificação das partes e dos respectivos representantes, assim como do título a que intervêm, com indicação dos actos que os habilitam para esse efeito;
 
-b) A identificação dos alvarás ou títulos de registo das partes;
+b) A identificação dos alvarás ou certificados de empreiteiro de obras públicas das partes;
 
 c) A descrição do objecto do subcontrato;
 

@@ -6,4 +6,4 @@
 
 ### Candidatos
 
-É candidato a entidade, pessoa singular ou colectiva, que participa na fase de qualificação de um concurso limitado por prévia qualificação, de um procedimento de negociação ou de um diálogo concorrencial, mediante a apresentação de uma candidatura.
+É candidato a entidade, pessoa singular ou coletiva, que participa na fase de qualificação de um concurso limitado por prévia qualificação, de um procedimento de negociação, de um diálogo concorrencial ou de uma parceria para a inovação, mediante a apresentação de uma candidatura.

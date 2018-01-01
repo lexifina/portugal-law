@@ -1,6 +1,6 @@
 ## Secção III
 
-## Regime simplificado
+## Ajuste direto simplificado
 
 # Artigo 128.º
 

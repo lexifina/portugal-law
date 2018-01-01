@@ -4,7 +4,7 @@
 
 ## Capítulo I
 
-## Ajuste directo
+## Consulta prévia e ajuste direto
 
 ## Secção I
 
