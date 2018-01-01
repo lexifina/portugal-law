@@ -2,4 +2,4 @@
 
 ### Taxas - categoria G
 
-A taxa aplicável aos veículos da categoria G é de (euro) 0,67/kg, tendo o imposto o limite de (euro) 12 308.
+A taxa aplicável aos veículos da categoria G é de (euro) 0,68/kg, tendo o imposto o limite de (euro) 12 480.

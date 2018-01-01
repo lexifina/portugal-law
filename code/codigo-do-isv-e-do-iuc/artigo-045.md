@@ -14,7 +14,7 @@
 
 2 - O pedido de reconhecimento deve ser apresentado nos prazos seguintes:
 
-a) No prazo de seis meses a contar da data da transferência de residência ou da cessação de funções, nos casos a que se referem os artigos 58.º, 62.º e 63.º;
+a) No prazo de 12 meses a contar da data da transferência de residência a que se refere o artigo 58.º ou no prazo de 6 meses a contar da data da cessação de funções, nos casos a que se referem os artigos 62.º e 63.º;
 
 b) Antes de apresentado o pedido de introdução no consumo ou pago o imposto pelo operador registado, nos casos a que se referem os artigos 51.º a 54.º e 57.º-A, podendo o pedido ser apresentado no prazo de 30 dias após a atribuição de matrícula quando se dê a transformação de veículos que constitua facto gerador do imposto.
 

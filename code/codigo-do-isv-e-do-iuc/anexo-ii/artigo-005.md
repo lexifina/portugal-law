@@ -10,7 +10,7 @@ b) Automóveis e motociclos da propriedade de Estados estrangeiros, de missões 
 
 c) Automóveis e motociclos que, tendo mais de 20 anos e constituindo peças de museus públicos, só ocasionalmente sejam objecto de uso e não efectuem deslocações anuais superiores a 500 quilómetros;
 
-d) Veículos não motorizados, exclusivamente eléctricos ou movidos a energias renováveis não combustíveis, veículos especiais de mercadorias sem capacidade de transporte, ambulâncias, veículos funerários e tractores agrícolas;
+d) Veículos não motorizados, exclusivamente elétricos ou movidos a energias renováveis não combustíveis, veículos especiais de mercadorias sem capacidade de transporte, ambulâncias e veículos dedicados ao transporte de doentes nos termos da regulamentação aplicável, veículos funerários e tratores agrícolas;
 
 e) Veículos da categoria B que possuam um nível de emissão de CO2 até 180g/km e veículos da categoria A, que se destinem ao serviço de aluguer com condutor (letra «T») ou ao transporte em táxi;
 

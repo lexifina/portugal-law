@@ -32,6 +32,6 @@ c) Cópia da sentença ou decisão que determinou a perda ou abandono da viatura
 
 d) Declaração emitida pelo serviço competente do município ou freguesia acompanhada de factura pró-forma identificativa da marca, modelo e versão do veículo a adquirir, no caso referido na alínea d) do número anterior.
 
-e) Declaração emitida pelo Instituto da Conservação da Natureza e das Florestas, I. P. da qual constem as características técnicas dos veículos, no caso referido na alínea e) do número anterior.
+e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P., bem como os veículos adquiridos pelas corporações de bombeiros para o cumprimento das missões de proteção civil, nomeadamente socorro, assistência, apoio e combate a incêndios.
 
 3 - Os veículos referidos nas alíneas a), d) e e) do n.º 1 devem ostentar dizeres identificadores da entidade beneficiária, inscritos de forma permanente nas partes laterais e posterior, em dimensão não inferior à da matrícula, considerando-se de outro modo haver introdução ilegal no consumo.
