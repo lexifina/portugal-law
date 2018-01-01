@@ -2,14 +2,14 @@
 
 ### Peças do procedimento
 
-1 - Para além do disposto no artigo 132.º, o programa do procedimento deve ainda:
+1 - Para além do disposto no artigo 164.º, o programa do procedimento deve ainda:
 
-a) Fixar a duração do sistema de aquisição dinâmico, que não pode ser superior a quatro anos, salvo em casos excepcionais devidamente fundamentados;
+a) Fixar a duração do sistema de aquisição dinâmico, que não pode ser superior a quatro anos, salvo em casos excecionais devidamente fundamentados;
 
-b) Fornecer todas as informações necessárias ao acesso dos interessados ao sistema de aquisição dinâmico, indicando o equipamento electrónico utilizado, as modalidades e os aspectos técnicos de ligação ao sistema;
+b) Fixar o prazo para apresentação de candidaturas até ao envio do 1.º convite à apresentação de propostas ao abrigo do sistema, quando seja conhecida a data previsível em que o mesmo ocorre, o qual não pode ser inferior a 30 dias;
 
-c) Indicar o modo de apresentação das propostas.
+c) Fornecer todas as informações necessárias ao acesso dos interessados ao sistema de aquisição dinâmico, indicando o equipamento eletrónico utilizado, as modalidades e os aspetos técnicos de ligação ao sistema.
 
-2 - O programa do procedimento deve indicar os eventuais factores e subfactores que densificam o critério de adjudicação, bem como o valor dos respectivos coeficientes de ponderação, não sendo, porém, necessário um modelo de avaliação das propostas.
+2 - O programa do procedimento do sistema de aquisição dinâmico deve prever as regras para a fase de apresentação e análise das propostas e adjudicação, designadamente o critério de adjudicação a ser adotado e desenvolvido naquela fase do procedimento, não sendo necessário um modelo de avaliação das propostas.
 
-3 - As peças do procedimento devem ser integralmente disponibilizadas, até ao encerramento do sistema, de forma gratuita e directa, na plataforma electrónica utilizada pela entidade adjudicante.
+3 - As peças do procedimento devem ser integralmente disponibilizadas, até ao encerramento do sistema, de forma gratuita e direta, na plataforma eletrónica utilizada pela entidade adjudicante.

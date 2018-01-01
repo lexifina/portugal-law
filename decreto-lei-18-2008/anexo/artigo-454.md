@@ -1,27 +1,27 @@
 # Artigo 454.º
 
-### Serviços a mais
+### Serviços complementares
 
-1 - São serviços a mais aqueles cuja espécie ou quantidade não esteja prevista no contrato e que:
+1 - São serviços complementares aqueles cuja espécie ou quantidade não esteja prevista no contrato.
 
-a) Se tenham tornado necessários à prestação dos serviços objecto do contrato na sequência de uma circunstância imprevista; e
+2 - Quando os serviços complementares resultem de circunstâncias não previstas, pode o contraente público ordenar a sua execução ao cocontratante desde que:
 
-b) Não possam ser técnica ou economicamente separáveis do objeto do contrato sem inconvenientes graves para o contraente público ou, embora separáveis, sejam estritamente necessários à conclusão do objeto do contrato.
+a) Não possam ser técnica ou economicamente separáveis do objeto do contrato sem inconvenientes graves e impliquem um aumento considerável de custos;
 
-2 - Não pode ser ordenada a execução de serviços a mais quando:
+b) O preço desses serviços, incluindo o de anteriores serviços complementares igualmente decorrentes de circunstâncias não previstas, não exceda 10 % do preço contratual; e
 
-a) Tendo o contrato sido celebrado na sequência de procedimento de ajuste direto ao abrigo do disposto na alínea a) do n.º 1 do artigo 20.º, o somatório do preço contratual com o preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, seja igual ou superior ao valor referido naquela alínea;
+c) O somatório do preço contratual com o preço atribuído aos serviços complementares não exceda os limites previstos na alínea b) do n.º 1 do artigo 20.º, quando o procedimento adotado tenha sido o concurso público ou limitado por prévia qualificação sem publicação de anúncio no Jornal Oficial da União Europeia, na alínea c) do n.º 1 do mesmo artigo, quando o procedimento adotado tenha sido a consulta prévia, ou na alínea d) do n.º 1 do mesmo artigo, quando o procedimento adotado tenha sido o ajuste direto;
 
-b) Tendo o contrato sido celebrado na sequência de concurso público ou de concurso limitado por prévia qualificação e o somatório do preço contratual com o preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, seja igual ou superior ao valor referido na alínea b) do n.º 1 do artigo 20.º, o anúncio do concurso não tenha sido publicado no Jornal Oficial da União Europeia;
+d) (Revogada.)
 
-c) O preço atribuído aos serviços a mais, incluindo o de anteriores serviços a mais, ultrapasse 40 % do preço contratual.
+3 - Quando os serviços complementares resultem de circunstâncias imprevisíveis, ou que uma entidade adjudicante diligente não pudesse ter previsto, pode o contraente público ordenar a sua execução ao cocontratante desde que:
 
-d) d) (Revogada.)
+a) Não possam ser técnica ou economicamente separáveis do objeto do contrato sem inconvenientes graves e impliquem um aumento considerável de custos; e
 
-3 - Sempre que o contraente público for o Estado, só pode ser ordenada a execução de serviços a mais quando o somatório referido na alínea b) do número anterior for igual ou superior ao valor referido no n.º 2 do artigo 20.º ou, quando se tratar de um dos contratos mencionados na alínea b) do mesmo n.º 2, ao valor referido na alínea b) do n.º 1 do mesmo artigo.
+b) O preço desses serviços, incluindo o de anteriores serviços complementares igualmente decorrentes de circunstâncias imprevisíveis, não exceda 40 % do preço contratual.
 
-4 - Não são considerados serviços a mais aqueles que sejam necessários ao suprimento de erros ou omissões, independentemente da parte responsável pelos mesmos.
+4 - (Revogado.)
 
-5 - Caso não se verifique alguma das condições previstas no n.º 2, os serviços a mais devem ser objecto de contrato celebrado na sequência de procedimento adoptado nos termos do disposto no título i da parte ii.
+5 - Caso não se verifique alguma das condições previstas no n.º 2, os serviços complementares devem ser objeto de contrato celebrado na sequência de procedimento adotado nos termos do disposto no título i da parte ii.
 
-6 - Aos serviços a mais e aos serviços a menos é aplicável, com as necessárias adaptações, o disposto nos artigos 371.º a 375.º e 379.º a 381.º
+6 - Aos serviços complementares e aos serviços a menos é aplicável, com as necessárias adaptações, o disposto nos artigos 371.º a 375.º e 379.º a 381.º

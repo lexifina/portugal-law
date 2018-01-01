@@ -16,11 +16,11 @@ a) No caso da formação de um contrato de aquisição ou locação de bens móv
 
 b) No caso da formação de um contrato de aquisição ou locação de bens móveis ou de aquisição de serviços cujo preço contratual não seja superior ao previsto nos termos da alínea b) do n.º 3 e n.º 5 do artigo 474.º, mediante:
 
-i) [Revogada.]
+i) Declaração da entidade convidada de aceitação do conteúdo do caderno de encargos do acordo-quadro, elaborada em conformidade com o modelo constante do anexo i ao presente Código;
 
 ii) Documento que contenha versão simplificada dos atributos da proposta, de acordo com os quais a entidade convidada se dispõe a contratar, incluindo os aspetos da execução do contrato aos quais a entidade adjudicante pretende que a entidade convidada se vincule;
 
-c) [Revogada.]
+c) No caso da formação de um contrato de aquisição ou locação de bens móveis ou de aquisição de serviços cujo preço contratual seja superior ao previsto nos termos da alínea b) do n.º 3 e n.º 5 do artigo 474.º, mediante declaração da entidade convidada de aceitação do conteúdo do caderno de encargos do acordo-quadro, elaborada em conformidade com o modelo constante do anexo i ao presente Código.
 
 4 - Nos casos previstos na alínea a) do número anterior em que a entidade adjudicante demonstre os requisitos do n.º 1, a adjudicação pode ser feita pelo órgão competente para a decisão de contratar, diretamente sobre a fatura pró-forma ou documento equivalente apresentado pela entidade convidada.
 

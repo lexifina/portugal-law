@@ -8,4 +8,4 @@
 
 1 - As impugnações administrativas das decisões relativas à formação dos contratos públicos regem-se pelo disposto no presente título e, subsidiariamente, pelo disposto no Código do Procedimento Administrativo.
 
-2 - Os prazos previstos no presente título contam-se nos termos do disposto no artigo 72.º do Código do Procedimento Administrativo e não lhes é aplicável, em caso algum, o disposto no artigo 73.º do mesmo Código.
+2 - Os prazos previstos no presente título contam-se nos termos do disposto no artigo 87.º do Código do Procedimento Administrativo e não lhes é aplicável, em caso algum, o artigo 88.º do mesmo código.

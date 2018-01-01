@@ -8,7 +8,7 @@ a) A entidade adjudicante exerça, direta ou indiretamente, sobre a atividade da
 
 b) A entidade controlada desenvolva mais de 80 % da sua atividade no desempenho de funções que lhe foram confiadas pela entidade adjudicante ou entidades adjudicantes que a controlam, ou por outra ou outras entidades controladas por aquela ou aquelas entidades adjudicantes, consoante se trate de controlo isolado ou conjunto;
 
-c) Não haja participação direta de capital privado na pessoa coletiva controlada.
+c) Não haja participação direta de capital privado na pessoa coletiva controlada, com exceção de formas de participação de capital privado sem poderes de controlo e sem bloqueio eventualmente exigidas por disposições especiais, em conformidade com os Tratados da União Europeia, e que não exerçam influência decisiva na pessoa coletiva controlada.
 
 2 - É igualmente aplicável o disposto no número anterior aos contratos adjudicados por uma entidade adjudicante a outras pessoas coletivas controladas pela mesma entidade adjudicante, bem como aos contratos adjudicados por uma entidade adjudicante à entidade adjudicante que a controla.
 
@@ -28,8 +28,6 @@ a) O contrato estabelece uma cooperação entre as entidades adjudicantes, no â
 
 b) A cooperação é regida exclusivamente por considerações de interesse público; e
 
-c) As entidades adjudicantes não exercem no mercado livre 20 % ou mais das atividades abrangidas pelo contrato de cooperação.
+c) As entidades adjudicantes não exercem no mercado livre mais de 20 % das atividades abrangidas pelo contrato de cooperação.
 
 6 - Para efeitos do apuramento das percentagens previstas na alínea b) do n.º 1 e na alínea c) do número anterior, deve ser tido em conta o volume médio total de negócios, ou uma medida alternativa adequada, baseada na atividade, tais como os custos suportados pela pessoa coletiva em causa no que diz respeito a serviços, fornecimentos ou obras, nos três anos anteriores ou, quando não tenha três anos de atividade concluídos, a projeção de atividades a desenvolver.
-
-7 - A celebração dos contratos a que se referem os números anteriores fica sujeita aos princípios gerais da atividade administrativa e deve ser publicitada no portal dos contratos públicos, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e das obras públicas.

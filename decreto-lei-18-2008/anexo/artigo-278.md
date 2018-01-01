@@ -4,7 +4,7 @@
 
 ## Título I
 
-## Contratos administrativos em geral
+## Regime substantivo dos contratos administrativos
 
 ## Capítulo I
 

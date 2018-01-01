@@ -18,13 +18,17 @@
 
 a) Ajuste directo;
 
-b) Concurso público;
+b) Consulta prévia;
 
-c) Concurso limitado por prévia qualificação;
+c) Concurso público;
 
-d) Procedimento de negociação;
+d) Concurso limitado por prévia qualificação;
 
-e) Diálogo concorrencial.
+e) Procedimento de negociação;
+
+f) Diálogo concorrencial.
+
+g) Parceria para a inovação.
 
 2 - Para os efeitos do disposto no número anterior, consideram-se submetidas à concorrência de mercado, designadamente, as prestações típicas abrangidas pelo objecto dos seguintes contratos, independentemente da sua designação ou natureza:
 

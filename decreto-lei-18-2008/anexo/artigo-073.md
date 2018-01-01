@@ -4,4 +4,4 @@
 
 1 - A adjudicação é o acto pelo qual o órgão competente para a decisão de contratar aceita a única proposta apresentada ou escolhe uma de entre as propostas apresentadas.
 
-2 - No mesmo procedimento podem efectuar-se adjudicações de propostas por lotes, caso em que podem ser celebrados tantos contratos quantas as propostas adjudicadas ou quantos os adjudicatários.
+2 - Quando seja feita a adjudicação por lotes nos termos do artigo 46.º-A, pode existir uma decisão de adjudicação para cada lote, podendo tais decisões ocorrer em momentos distintos.

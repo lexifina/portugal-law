@@ -2,8 +2,8 @@
 
 ### Prazos mínimos para a apresentação das candidaturas em concursos limitados por prévia qualificação com publicidade internacional
 
-1 - Quando o anúncio do concurso limitado por prévia qualificação seja publicado no Jornal Oficial da União Europeia, não pode ser fixado um prazo para a apresentação das candidaturas inferior a 37 dias a contar da data do envio desse anúncio ao Serviço de Publicações Oficiais das Comunidades Europeias, salvo se se tratar de uma concessão de obras públicas, caso em que aquele prazo não pode ser inferior a 52 dias.
+1 - Quando o anúncio do concurso limitado por prévia qualificação seja publicado no Jornal Oficial da União Europeia, não pode ser fixado um prazo para a apresentação das candidaturas inferior a 30 dias a contar da data do envio desse anúncio ao Serviço das Publicações da União Europeia.
 
-2 - Quando tenha sido publicado o anúncio periódico indicativo com as indicações referidas no n.º 3 do artigo 167.º, não pode ser fixado um prazo para a apresentação das candidaturas inferior a 37 dias a contar da data do envio do convite previsto no n.º 5 do mesmo artigo.
+2 - O prazo mínimo previsto no número anterior pode ser reduzido para 15 dias nos casos em que uma situação de urgência devidamente fundamentada pela entidade adjudicante inviabilize o cumprimento do prazo mínimo de 30 dias.
 
-3 - Os prazos mínimos para a apresentação das candidaturas previstos nos números anteriores podem ser reduzidos em até sete dias quando os anúncios forem preparados e enviados por meios electrónicos conforme formato e modalidades de transmissão indicados no portal da Internet http://simap.eu.int.
+3 - Quando o contrato a celebrar diga direta e principalmente respeito a uma ou a várias das atividades exercidas nos setores da água, da energia, dos transportes e dos serviços postais pelas entidades adjudicantes referidas no n.º 1 do artigo 7.º, o prazo mínimo para a apresentação das candidaturas é, em regra, de 30 dias a contar da data do envio do anúncio para publicação, não podendo em caso algum ser inferior a 15 dias desde aquele envio.

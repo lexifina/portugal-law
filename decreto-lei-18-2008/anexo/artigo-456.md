@@ -8,7 +8,7 @@ a) A participação de candidato ou de concorrente que se encontre em alguma das
 
 b) A não apresentação pelo adjudicatário, no prazo fixado para o efeito, de quaisquer documentos de habilitação exigidos no presente Código ou pelo órgão competente para a decisão de contratar;
 
-c) A não apresentação de documentos comprovativos da titularidade de habilitação profissional específica pelo adjudicatário, em violação do disposto no n.º 1 do artigo 234.º;
+c) A não apresentação de documentos comprovativos da titularidade de habilitação profissional específica pelo adjudicatário, em violação do disposto no n.º 5 do artigo 219.º-I;
 
 d) A apresentação de documentos falsos de habilitação, de documentos que constituem a proposta e de documentos destinados à qualificação;
 

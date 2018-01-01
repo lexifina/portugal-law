@@ -6,8 +6,10 @@
 
 ### Escolha do procedimento em função do tipo de contrato
 
-1 - Sem prejuízo do disposto no artigo 24.º e no artigo anterior, para a formação de contratos de concessão de obras públicas e de concessão de serviços públicos, bem como de contratos de sociedade, qualquer que seja o valor do contrato a celebrar, deve ser adotado, em alternativa, o concurso público, o concurso limitado por prévia qualificação ou o procedimento de negociação.
+1 - Sem prejuízo do disposto nos artigos 24.º e 30.º-A, para a formação de contratos de concessão de obras públicas e de serviços públicos, bem como de contratos de sociedade, deve ser adotado, em alternativa, o concurso público, o concurso limitado por prévia qualificação, o procedimento de negociação ou o diálogo concorrencial.
 
 2 - O disposto no número anterior é também aplicável quando os contratos nele referidos não impliquem o pagamento de um preço pela entidade adjudicante ou sejam contratos sem valor.
 
-3 - Quando razões de interesse público relevante o justifiquem, pode adoptar-se o ajuste directo para a formação de contratos de sociedade e de contratos de concessão de serviços públicos.
+3 - Quando razões de interesse público relevante o justifiquem, pode adotar-se o ajuste direto para a formação de contratos de sociedade.
+
+4 - Caso o valor do contrato de concessão de obra ou serviço público seja inferior a (euro) 75 000 e a sua duração seja inferior a um ano, podem ser utilizados os procedimentos de consulta prévia ou ajuste direto.

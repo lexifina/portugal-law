@@ -10,6 +10,6 @@ a) A entidade adjudicante manifeste expressamente que, posteriormente, não pret
 
 b) A despesa autorizada para pagamento de prémios no âmbito do concurso de conceção seja inferior aos limiares referidos nas alíneas b) ou c) do n.º 3 do artigo 474.º
 
-3 - Quando o anúncio do concurso de conceção tenha sido publicado no Jornal Oficial da União Europeia, a entidade adjudicante deve enviar ao Serviço das Publicações da União Europeia, no prazo de 30 dias após a decisão de seleção, um anúncio conforme formulário-tipo «Resultado» constante do Regulamento de Execução (UE) 2019/1780 da Comissão, de 23 de setembro de 2019.
+3 - Quando o anúncio do concurso de conceção tenha sido publicado no Jornal Oficial da União Europeia, a entidade adjudicante deve enviar ao Serviço das Publicações da União Europeia, no prazo de 30 dias após a decisão de seleção, um anúncio conforme modelo constante do anexo x ao Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 de novembro de 2015.
 
 4 - O concurso de conceção simplificado é publicitado da forma mais adequada à sua plena difusão e, no mínimo, no sítio na Internet da entidade adjudicante.

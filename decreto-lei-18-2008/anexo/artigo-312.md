@@ -2,7 +2,7 @@
 
 ### Fundamentos
 
-O contrato pode ser modificado com os seguintes fundamentos:
+O contrato pode ser modificado com fundamento nas condições nele previstas e ainda com os seguintes fundamentos:
 
 a) Quando as circunstâncias em que as partes fundaram a decisão de contratar tiverem sofrido uma alteração anormal e imprevisível, desde que a exigência das obrigações por si assumidas afecte gravemente os princípios da boa fé e não esteja coberta pelos riscos próprios do contrato;
 

@@ -2,8 +2,12 @@
 
 ### Escolha do procedimento de formação de contratos de empreitada de obras públicas
 
-No caso de contratos de empreitada de obras públicas:
+Para a celebração de contratos de empreitadas de obras públicas pode adotar-se um dos seguintes procedimentos:
 
-a) A escolha do ajuste direto só permite a celebração de contratos de valor inferior a (euro) 150 000;
+a) Concurso público ou concurso limitado por prévia qualificação, com publicação de anúncio no Jornal Oficial da União Europeia, qualquer que seja o valor do contrato;
 
-b) A escolha do concurso público ou do concurso limitado por prévia qualificação permite a celebração de contratos de qualquer valor, excepto quando os respectivos anúncios não sejam publicados no Jornal Oficial da União Europeia, caso em que só permite a celebração de contratos de valor inferior ao referido na alínea c) do artigo 7.º da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março.
+b) Concurso público ou concurso limitado por prévia qualificação, sem publicação de anúncio no Jornal Oficial da União Europeia, quando o valor do contrato seja inferior ao limiar referido na alínea a) do n.º 3 do artigo 474.º;
+
+c) Consulta prévia, com convite a pelo menos três entidades, quando o valor do contrato for inferior a (euro) 150 000;
+
+d) Ajuste direto, quando o valor do contrato for inferior a (euro) 30 000.

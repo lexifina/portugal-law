@@ -12,11 +12,11 @@ b) Reinvestirem os seus lucros com vista à consecução do objetivo da organiza
 
 c) Contarem com a participação dos trabalhadores no capital social da organização que executa o contrato ou basearem a sua estrutura de gestão em princípios participativos que requerem o envolvimento ativo dos trabalhadores, utilizadores ou partes interessadas;
 
-d) Não terem celebrado nos últimos três anos, com a mesma entidade adjudicante, qualquer contrato abrangido pelo presente artigo.
+d) Não terem celebrado nos últimos três anos, com a mesma entidade adjudicante, qualquer contrato abrangido pela presente secção.
 
-3 - Os contratos abrangidos pelo presente artigo não podem ter um prazo de vigência superior a três anos.
+3 - Os contratos abrangidos pela presente secção não podem ter um prazo de vigência superior a três anos.
 
-4 - Quando a participação no procedimento se encontrar reservada nos termos dos números anteriores, o anúncio deve fazer referência ao presente artigo.
+4 - O anúncio ou convite à apresentação de propostas deve fazer referência ao presente artigo.
 
 5 - Consideram-se preenchidos os requisitos previstos no n.º 2 quando as organizações ali indicadas sejam constituídas ou participadas, nos termos legalmente admitidos, por entidades que preencham, individualmente ou em conjunto, os referidos requisitos.
 

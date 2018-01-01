@@ -1,8 +1,8 @@
 # Artigo 372.º
 
-### Recusa da execução de trabalhos a mais
+### Recusa da execução de trabalhos complementares
 
-1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes do n.º 1 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da recepção da ordem do dono da obra de execução dos trabalhos a mais, reclamar, fundamentadamente, da mesma.
+1 - Para efeitos do disposto no n.º 2 do artigo anterior, bem como quando entenda não estarem verificados os pressupostos constantes dos n.os 2 e 4 do artigo 370.º, o empreiteiro pode, no prazo de 10 dias a contar da receção da ordem do dono da obra de execução dos trabalhos complementares dela reclamar, fundamentadamente.
 
 2 - Recebida a reclamação do empreiteiro, o dono da obra deve apreciar a mesma no prazo de 10 dias a contar da sua recepção.
 

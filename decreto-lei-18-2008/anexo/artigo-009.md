@@ -2,30 +2,42 @@
 
 ### Actividades nos sectores da água, da energia, dos transportes e dos serviços postais
 
-1 - Para os efeitos do disposto no presente Código, consideram-se actividades nos sectores da água, da energia, dos transportes e dos serviços postais:
+1 - Para efeitos do presente Código, consideram-se atividades do setor da energia:
 
-a) A colocação à disposição, a exploração e a alimentação de redes fixas de prestação de serviços ao público no domínio da produção, do transporte ou da distribuição de água potável, electricidade, gás ou combustível para aquecimento;
+a) As de disponibilização ou exploração de redes fixas destinadas à prestação de serviços ao público no domínio da produção, do transporte ou da distribuição de gás, calor ou eletricidade, bem como a alimentação dessas redes com gás, calor ou eletricidade, respetivamente;
 
-b) As relativas à exploração de uma área geográfica com a finalidade de:
+b) As de exploração de uma área geográfica para efeitos de extração de petróleo ou gás ou de prospeção ou extração de carvão ou de outros combustíveis sólidos;
 
-i) Prospectar ou proceder à extracção de petróleo, gás, carvão ou outros combustíveis sólidos; ou
+c) (Revogada.)
 
-ii) Colocar à disposição dos transportadores aéreos, marítimos ou fluviais quaisquer terminais de transporte, designadamente aeroportos, portos marítimos ou interiores;
+d) (Revogada.)
 
-c) A colocação à disposição e a exploração de redes de prestação de serviços de transporte público por caminho de ferro, por sistemas automáticos, por eléctricos, por tróleis, por autocarros ou por cabo, sempre que as condições de funcionamento, nomeadamente os itinerários, a capacidade de transporte disponível e a frequência do serviço, sejam fixadas por autoridade competente;
+e) (Revogada.)
 
-d) A prestação de serviços postais;
+f) (Revogada.)
 
-e) A prestação de serviços de gestão de serviços de correio, anteriores ou posteriores ao envio postal;
+g) (Revogada.)
 
-f) A prestação de serviços de valor acrescentado associados à via electrónica e inteiramente efectuados por essa via, incluindo os serviços de transmissão protegida de documentos codificados por via electrónica, os serviços de gestão de endereços e os serviços de envio de correio electrónico registado;
+h) (Revogada.)
 
-g) A prestação de serviços financeiros, nomeadamente serviços de seguros, serviços bancários, serviços de investimento e serviços relativos à emissão, compra, venda ou transferência de títulos ou outros instrumentos financeiros ou ainda ao processamento de ordens de pagamento postal, ordens de transferência postal ou outras similares;
+i) (Revogada.)
 
-h) A prestação de serviços de filatelia;
+2 - Para efeitos do presente Código, consideram-se atividades do setor da água a disponibilização ou exploração de redes fixas destinadas à prestação de serviços ao público no domínio da produção, do transporte ou da distribuição de água potável, bem como a alimentação dessas redes com água potável, bem como a eliminação ou tratamento de águas residuais.
 
-i) A prestação de serviços que combinem a entrega física ou o armazenamento de envios postais com outras funções não postais.
+3 - Para efeitos do presente Código consideram-se atividades do setor dos serviços de transporte:
 
-2 - Para os efeitos do disposto na alínea d) do número anterior, consideram-se serviços postais os que consistam na aceitação, no tratamento, no transporte e na distribuição de quaisquer envios postais, incluindo os serviços que sejam e os que possam ou não ser reservados ao abrigo do disposto no artigo 7.º da Directiva n.º 97/67/CE, do Parlamento Europeu e do Conselho, de 15 de Dezembro.
+a) As que tenham por objetivo a disponibilização ou exploração de redes destinadas à prestação de serviços ao público no domínio dos transportes por caminho-de-ferro, sistemas automáticos, carros elétricos, tróleis, autocarros ou cabo e por vias navegáveis entre terminais marítimos ou fluviais;
 
-3 - As actividades referidas nas alíneas e) a i) do n.º 1 só são consideradas para os efeitos nele previstos desde que os respectivos serviços sejam prestados por uma entidade que preste igualmente, em condições não expostas à concorrência em mercado de acesso não limitado, os serviços referidos na alínea d) do mesmo número.
+b) As que tenham por objetivo a exploração de uma área geográfica para disponibilizar aeroportos e portos marítimos ou fluviais ou outros terminais de transportes às empresas de transporte aéreo, marítimo ou fluvial.
+
+4 - No que diz respeito aos serviços de transporte, considera-se que existe uma rede quando o serviço é prestado nas condições estabelecidas por uma entidade adjudicante.
+
+5 - Para efeitos do presente Código consideram-se atividades do setor dos serviços postais:
+
+a) Os serviços que consistam na aceitação, no tratamento, no transporte e na distribuição de envios postais;
+
+b) Outros serviços afins, tais como:
+
+i) A gestão de serviços postais, designadamente os serviços pré e pós envio, incluindo os serviços de gestão e de preparação interna do correio;
+
+ii) Os serviços relativos a envios postais não incluídos na alínea anterior, tais como a publicidade postal sem endereço.

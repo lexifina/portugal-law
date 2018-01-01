@@ -2,6 +2,6 @@
 
 ### Regime da contratação excluída
 
-1 - Salvo aqueles que sejam abrangidos por regulamentação específica, na formação dos contratos a que se refere o artigo 5.º cujo objeto abranja prestações que estão ou sejam suscetíveis de estar submetidas à concorrência de mercado, devem ser respeitados os princípios gerais da atividade administrativa, devendo sempre ser feita menção à norma que fundamenta a não aplicação da parte ii ao contrato em causa.
+1 - A celebração dos contratos a que se referem os artigos 5.º e 5.º-A fica sujeita aos princípios gerais da atividade administrativa, bem como, com as devidas adaptações face à natureza do contrato, aos princípios gerais da contratação pública previstos no n.º 1 do artigo 1.º-A, devendo sempre ser feita menção à norma que fundamenta a não aplicação da parte ii ao contrato em causa.
 
-2 - [Revogado.]
+2 - Os contratos com objeto passível de ato administrativo e demais contratos sobre o exercício de poderes públicos ficam sujeitos às normas constantes do Código do Procedimento Administrativo, com as necessárias adaptações.

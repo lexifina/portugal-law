@@ -1,18 +1,14 @@
 # Artigo 71.º
 
-### Preço anormalmente baixo
+### Preço ou custo anormalmente baixo
 
-1 - Sem prejuízo do disposto no n.º 3 do artigo 115.º, no n.º 2 do artigo 132.º e no n.º 3 do artigo 189.º, quando o preço base for fixado no caderno de encargos, considera-se que o preço total resultante de uma proposta é anormalmente baixo quando seja:
+1 - As entidades adjudicantes podem definir, no programa de concurso ou no convite, as situações em que o preço ou o custo de uma proposta é considerado anormalmente baixo, tendo em conta o desvio percentual em relação à média dos preços das propostas a admitir, ou outros critérios considerados adequados.
 
-a) 40 % ou mais inferior àquele, no caso de se tratar de um procedimento de formação de um contrato de empreitada de obras públicas;
+2 - A entidade adjudicante deve fundamentar a necessidade de fixação do preço ou do custo anormalmente baixo, bem como os critérios que presidiram a essa fixação, designadamente os preços médios obtidos na consulta preliminar ao mercado, se tiver existido.
 
-b) 50 % ou mais inferior àquele, no caso de se tratar de um procedimento de formação de qualquer dos restantes contratos.
+3 - O órgão competente para a decisão de contratar deve fundamentar a decisão de exclusão de uma proposta com essa justificação, solicitando previamente ao respetivo concorrente que preste esclarecimentos, por escrito e em prazo adequado, relativos aos elementos constitutivos relevantes da proposta.
 
-2 - Quando o caderno de encargos não fixar o preço base, bem como quando não se verificar qualquer das situações previstas no n.º 3 do artigo 115.º, no n.º 2 do artigo 132.º e no n.º 3 do artigo 189.º, o órgão competente para a decisão de contratar deve fundamentar, para os efeitos do disposto no número seguinte, a decisão de considerar que o preço total resultante de uma proposta é anormalmente baixo.
-
-3 - Nenhuma proposta pode ser excluída com fundamento no facto de dela constar um preço total anormalmente baixo sem antes ter sido solicitado ao respectivo concorrente, por escrito, que, em prazo adequado, preste esclarecimentos justificativos relativos aos elementos constitutivos da proposta que considere relevantes para esse efeito.
-
-4 - Na análise dos esclarecimentos prestados pelo concorrente nos termos do disposto na alínea d) do n.º 1 do artigo 57.º ou do número anterior, pode tomar-se em consideração justificações inerentes, designadamente:
+4 - Na análise dos esclarecimentos prestados pelo concorrente nos termos do número anterior, pode tomar-se em consideração justificações inerentes, designadamente:
 
 a) À economia do processo de construção, de fabrico ou de prestação do serviço;
 
@@ -23,3 +19,7 @@ c) À originalidade da obra, dos bens ou dos serviços propostos;
 d) Às específicas condições de trabalho de que beneficia o concorrente;
 
 e) À possibilidade de obtenção de um auxílio de Estado pelo concorrente, desde que legalmente concedido.
+
+f) À verificação da decomposição do respetivo preço, por meio de documentos comprovativos dos preços unitários incorporados no mesmo, nomeadamente folhas de pagamento e declarações de fornecedores, que atestem a conformidade dos preços apresentados e demonstrem a sua racionalidade económica;
+
+g) Ao cumprimento das obrigações decorrentes da legislação em matéria ambiental, social e laboral, referidas no n.º 2 do artigo 1.º-A.

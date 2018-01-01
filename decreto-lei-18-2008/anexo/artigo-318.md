@@ -1,10 +1,14 @@
 # Artigo 318.º
 
-### Cessão e subcontratação pelo co-contratante autorizadas no contrato
+### Cessão e subcontratação pelo cocontratante
 
-1 - O contrato pode autorizar a cessão da posição contratual e a subcontratação a entidades nele identificadas.
+1 - A possibilidade de cessão da posição contratual deve constar expressamente do contrato, em cláusula de revisão ou opção inequívoca, salvo quando se verifique uma das seguintes condições:
 
-2 - A autorização da cessão da posição contratual depende:
+a) Quando haja transmissão universal ou parcial da posição do cocontratante, na sequência de reestruturação societária, nomeadamente, oferta pública de aquisição, aquisição ou fusão, a favor de cessionário que satisfaça os requisitos mínimos de habilitação e de capacidade técnica e de capacidade económica e financeira exigidos ao cocontratante;
+
+b) Quando o próprio contraente público assume as obrigações do cocontratante para com os subcontratados.
+
+2 - A autorização da cessão da posição contratual depende ainda:
 
 a) Da prévia apresentação dos documentos de habilitação relativos ao potencial cessionário que sejam exigidos ao cedente na fase de formação do contrato em causa;
 

@@ -2,42 +2,42 @@
 
 ### Contratação excluída
 
-1 - A parte ii do presente Código não é aplicável à formação de contratos a celebrar por entidades adjudicantes cujo objecto abranja prestações que não estão nem sejam susceptíveis de estar submetidas à concorrência de mercado, designadamente em razão da sua natureza ou das suas características, bem como da posição relativa das partes no contrato ou do contexto da sua própria formação.
+1 - A parte ii não é aplicável à formação de contratos cujo objeto abranja prestações que não estão nem sejam suscetíveis de estar submetidas à concorrência de mercado, designadamente em razão da sua natureza ou das suas características, bem como da posição relativa das partes no contrato ou do contexto da sua formação.
 
-2 - A parte ii do presente Código também não é aplicável à formação dos contratos, independentemente do seu objecto, a celebrar por entidades adjudicantes com uma outra entidade, desde que::
-
-a) A entidade adjudicante exerça sobre a actividade desta, isoladamente ou em conjunto com outras entidades adjudicantes, um controlo análogo ao que exerce sobre os seus próprios serviços; e
-
-b) Esta entidade desenvolva o essencial da sua actividade em benefício de uma ou de várias entidades adjudicantes que exerçam sobre ela o controlo análogo referido na alínea anterior.
+2 - O disposto no número anterior abrange, designadamente, os acordos ou outros instrumentos jurídicos que organizem a transferência ou delegação de poderes e responsabilidades pela execução de missões públicas entre entidades adjudicantes ou agrupamentos de entidades adjudicantes, e que não prevejam uma remuneração.
 
 3 - (Revogado.)
 
-4 - Sem prejuízo do disposto no n.º 2 do artigo 11.º, a parte ii do presente Código não é igualmente aplicável à formação dos seguintes contratos:
+4 - Sem prejuízo do disposto no n.º 2 do artigo 11.º, a parte ii não é igualmente aplicável à formação dos seguintes contratos:
 
 a) Contratos que devam ser celebrados com uma entidade, que seja ela própria uma entidade adjudicante, em virtude de esta beneficiar de um direito exclusivo de prestar o serviço a adquirir, desde que a atribuição desse direito exclusivo seja compatível com as normas e os princípios constitucionais e comunitários aplicáveis;
 
-b) Contratos mediante os quais qualquer das entidades adjudicantes referidas no n.º 1 do artigo 2.º se obrigue a alienar ou a locar bens móveis ou a prestar serviços, excepto quando o adquirente ou o locatário também seja uma entidade adjudicante;
+b) (Revogada.)
 
 c) Contratos cujo objecto principal consista na atribuição, por qualquer das entidades adjudicantes referidas no n.º 1 do artigo 2.º, de subsídios ou de subvenções de qualquer natureza;
 
 d) Contratos de sociedade cujo capital social se destine a ser exclusivamente detido pelas entidades adjudicantes referidas no n.º 1 do artigo 2.º;
 
-e) Contratos de aquisição de serviços financeiros relativos à emissão, compra, venda ou transferência de títulos ou outros instrumentos financeiros, nomeadamente os contratos relativos a operações de obtenção de fundos ou de capital pela entidade adjudicante, bem como os contratos a celebrar em execução das políticas monetária, cambial ou de gestão de reservas e os de aquisição de serviços de carácter financeiro prestados pelo Banco de Portugal;
+e) Contratos de aquisição de serviços financeiros relativos à emissão, compra, venda ou transferência de valores mobiliários ou outros instrumentos financeiros na aceção da Diretiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de abril de 2004, e respetivos serviços auxiliares, bem como os contratos a celebrar em execução das políticas monetária, cambial ou de gestão de reservas e os de aquisição de serviços de caráter financeiro pelo Banco de Portugal e operações realizadas com o Fundo Europeu de Estabilidade Financeira e com o Mecanismo Europeu de Estabilidade;
 
-f) Contratos de aquisição de serviços que tenham por objecto os serviços de saúde e de carácter social mencionados no anexo ii-B da Directiva n.º 2004/18/CE, do Parlamento Europeu e do Conselho, de 31 de Março, bem como os contratos de aquisição de serviços que tenham por objecto os serviços de educação e formação profissional mencionados no referido anexo, que confiram certificação escolar ou certificação profissional;
+f) Contratos de aquisição de serviços financeiros de emissão e gestão de dívida pública e de gestão da tesouraria do Estado;
 
-g) Contratos que se destinem à satisfação de necessidades de uma entidade adjudicante cujos serviços se encontrem instalados em território de Estado não signatário do Acordo sobre o Espaço Económico Europeu, desde que celebrados com uma entidade também nele sediada;
+g) Contratos celebrados entre entidades adjudicantes e centrais de compras públicas para a prestação de serviços de compras centralizadas;
 
-h) Contratos a celebrar, ao abrigo de um acordo de cooperação para o desenvolvimento, com uma entidade sediada num dos Estados dele signatários e em benefício desse mesmo Estado, desde que este não seja signatário do Acordo sobre o Espaço Económico Europeu;
+h) Contratos celebrados ao abrigo do disposto no regime jurídico dos contratos públicos no domínio da defesa e da segurança, designadamente do Decreto-Lei n.º 104/2011, de 6 de outubro;
 
-i) Os contratos diretamente abrangidos pelo disposto no artigo 346.º do Tratado sobre o Funcionamento da União Europeia.
+i) Contratos que, nos termos da lei, sejam declarados secretos ou cuja execução deva ser acompanhada de medidas especiais de segurança, bem como quando os interesses essenciais de defesa e segurança do Estado o exigirem;
 
-5 - À formação dos contratos referidos na alínea f) do número anterior é aplicável o disposto nos artigos 49.º e 78.º
+j) Contratos de aquisição de serviços de investigação e desenvolvimento abrangidos pelos códigos CPV referidos no anexo viii ao presente Código, que dele faz parte integrante, desde que se verifiquem cumulativamente as seguintes condições:
 
-6 - À formação dos contratos referidos nos n.os 1 a 4 são aplicáveis:
+i) Os resultados obtidos com os respetivos serviços não revertam exclusivamente a favor da entidade adjudicante, para utilização no exercício da sua própria atividade;
 
-a) Os princípios gerais da actividade administrativa e as normas que concretizem preceitos constitucionais constantes do Código do Procedimento Administrativo; ou
+ii) O pagamento dos serviços em causa não seja integralmente suportado pela entidade adjudicante, designadamente por se tratar de projeto cofinanciado por fundos nacionais ou europeus.
 
-b) Quando estejam em causa contratos com objecto passível de acto administrativo e demais contratos sobre o exercício de poderes públicos, as normas constantes do Código do Procedimento Administrativo, com as necessárias adaptações.
+5 - (Revogado.)
 
-7 - Quando a entidade adjudicante seja uma das referidas no n.º 1 do artigo 2.º, à formação de contratos referidos nos n.os 1, 2 e 4 é ainda aplicável, com as necessárias adaptações, o disposto no capítulo viii do título ii da parte ii do Código.
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - A parte ii não é aplicável aos contratos celebrados pelas entidades referidas no n.º 2 do artigo 2.º, e pelo Banco de Portugal, que não abranjam prestações típicas da empreitada de obras públicas, concessão de obras públicas, concessão de serviços públicos, locação e aquisição de bens móveis ou aquisição de serviços.

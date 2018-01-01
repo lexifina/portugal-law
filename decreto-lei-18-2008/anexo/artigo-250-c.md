@@ -10,9 +10,9 @@ b) Consideração adequada das necessidades específicas das diferentes categori
 
 c) Envolvimento e capacitação dos utilizadores e inovação.
 
-2 - [Revogado.]
+2 - A modalidade do critério de adjudicação a utilizar é a prevista na alínea a) do n.º 1 do artigo 74.º, tendo em conta fatores de qualidade e sustentabilidade para os serviços sociais.
 
-3 - No caso de a entidade adjudicante utilizar a modalidade do critério de adjudicação prevista na alínea a) do n.º 1 do artigo 74.º, podem ser utilizados fatores como:
+3 - Podem também ser utilizados como critérios, para a aquisição dos serviços abrangidos pela presente secção, fatores como:
 
 a) A qualidade e humanidade dos cuidados a prestar, avaliada através de histórico de satisfação, entrevistas ou qualidade da descrição dos cuidados na proposta;
 

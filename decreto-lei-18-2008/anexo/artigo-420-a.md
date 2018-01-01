@@ -2,6 +2,10 @@
 
 ### Modificações ao contrato
 
-1 - É aplicável aos contratos de concessão, com as necessárias adaptações, o disposto nos artigos 370.º a 381.º
+1 - O concedente apenas pode ampliar a quantidade de obras ou serviços abrangidos pelo contrato, com fundamento em circunstâncias não previstas, se:
 
-2 - (Revogado.)
+a) As mesmas não puderem ser técnica ou economicamente separáveis do objeto do contrato sem inconvenientes graves ou que impliquem um aumento considerável de custos para concedente;
+
+b) O valor dessas obras ou serviços não exceder 10 % do valor do contrato.
+
+2 - Quando a modificação do contrato se fundar em circunstâncias imprevisíveis, o valor da modificação não pode ultrapassar 50 % do valor do contrato.

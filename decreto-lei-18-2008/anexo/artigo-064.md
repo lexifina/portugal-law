@@ -4,7 +4,7 @@
 
 1 - Quando as rectificações ou os esclarecimentos previstos no artigo 50.º sejam comunicados para além do prazo estabelecido para o efeito, o prazo fixado para a apresentação das propostas deve ser prorrogado, no mínimo, por período equivalente ao do atraso verificado.
 
-2 - Quando as rectificações referidas no artigo 50.º, independentemente do momento da sua comunicação, ou a aceitação de erros ou de omissões do caderno de encargos nos termos do disposto no artigo 61.º implicarem alterações de aspectos fundamentais das peças do procedimento, o prazo fixado para a apresentação das propostas deve ser prorrogado, no mínimo, por período equivalente ao tempo decorrido desde o início daquele prazo até à comunicação das rectificações ou à publicitação da decisão de aceitação de erros ou de omissões.
+2 - Quando as retificações ou a aceitação de erros ou de omissões das peças do procedimento referidas no artigo 50.º, independentemente do momento da sua comunicação, implicarem alterações de aspetos fundamentais das peças do procedimento, o prazo fixado para a apresentação das propostas deve ser prorrogado, no mínimo, por período equivalente ao tempo decorrido desde o início daquele prazo até à comunicação das retificações ou à publicitação da decisão de aceitação de erros ou de omissões.
 
 3 - A pedido fundamentado de qualquer interessado que tenha adquirido as peças do procedimento, o prazo fixado para a apresentação das propostas pode ser prorrogado pelo período considerado adequado, o qual aproveita a todos os interessados.
 

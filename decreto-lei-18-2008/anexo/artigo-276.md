@@ -2,9 +2,9 @@
 
 ### Contratos a celebrar por concessionários de obras públicas que não sejam entidades adjudicantes
 
-1 - A intenção de celebrar contratos de empreitada de obras públicas cujo preço contratual seja igual ou superior ao valor referido na alínea b) do artigo 19.º, por parte de concessionários de obras públicas que não sejam entidades adjudicantes, deve ser publicitada no Diário da República através de anúncio conforme modelo aprovado por portaria dos ministros responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
+1 - A intenção de celebrar contratos de empreitada de obras públicas cujo preço contratual seja igual ou superior ao valor referido na alínea a) do n.º 3 do artigo 474.º, por parte de concessionários de obras públicas que não sejam entidades adjudicantes, deve ser publicitada no Diário da República através de anúncio conforme modelo aprovado por portaria dos membros do Governo responsáveis pela edição do Diário da República e pelas áreas das finanças e das obras públicas.
 
-2 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio da intenção referida no n.º 1, conforme modelo constante do anexo xi do Regulamento (CE) n.º 1564/2005, da Comissão, de 7 de Setembro.
+2 - Deve ainda ser publicado no Jornal Oficial da União Europeia um anúncio da intenção referida no n.º 1, conforme modelo constante do anexo II do Regulamento de Execução (UE) n.º 2015/1986, da Comissão, de 11 de novembro de 2015.
 
 3 - Aos anúncios previstos nos números anteriores é aplicável, com as necessárias adaptações, o disposto nos n.os 4 e 7 do artigo 131.º
 
