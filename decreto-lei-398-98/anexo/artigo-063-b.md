@@ -20,6 +20,8 @@ g) Quando se verifique a existência comprovada de dívidas à administração f
 
 h) Quando se trate de informações solicitadas nos termos de acordos ou convenções internacionais em matéria fiscal a que o Estado português esteja vinculado.
 
+i) Constitui também fundamento da derrogação do sigilo bancário, em sede de procedimento administrativo de inspeção tributária, a comunicação de operações suspeitas, remetidas à Autoridade Tributária e Aduaneira, pelo Departamento Central de Investigação e Ação Penal da Procuradoria-Geral da República (DCIAP) e pela Unidade de Informação Financeira (UIF), no âmbito da legislação relativa à prevenção e repressão do branqueamento de capitais e financiamento do terrorismo.
+
 2 - A administração tributária tem, ainda, o poder de aceder diretamente aos documentos bancários e aos documentos emitidos por outras entidades financeiras previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, nas situações de recusa da sua exibição ou de autorização para a sua consulta, quando se trate de familiares ou terceiros que se encontrem numa relação especial com o contribuinte.
 
 3 - (Revogado.)
