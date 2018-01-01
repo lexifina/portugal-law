@@ -8,4 +8,4 @@
 
 3 - As entidades públicas participantes estão obrigadas a prestar informação completa e atempada relativamente às sociedades comerciais em que participam, aplicando-se, com as devidas adaptações, o disposto no artigo 44.º
 
-4 - É aplicável, com as devidas adaptações, o disposto no artigo 41.º
+4 - É aplicável, com as devidas adaptações, o disposto no artigo 41.º e no n.º 3 do artigo 42.º.
