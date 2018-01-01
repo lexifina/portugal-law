@@ -2,7 +2,7 @@
 
 ### Controlo dos parâmetros conservativos
 
-1 - São considerados parâmetros conservativos:
+1 - No estabelecimento dos PCQA, são considerados parâmetros conservativos:
 
 a) Acrilamida;
 
@@ -22,7 +22,7 @@ h) Cianetos;
 
 i) Cloretos;
 
-j) Crómio;
+j) [Revogada];
 
 l) 1,2-dicloroetano;
 
@@ -34,7 +34,7 @@ o) Nitratos;
 
 p) Pesticidas;
 
-q) Radioactividade;
+q) Radioatividade, com exceção do radão;
 
 r) Selénio;
 

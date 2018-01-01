@@ -2,28 +2,30 @@
 
 ### Divulgação dos dados da qualidade da água
 
-1 - As entidades gestoras em baixa devem publicitar, trimestralmente, por meio de editais afixados nos lugares próprios ou na imprensa regional, no prazo máximo de dois meses após o trimestre a que dizem respeito, os resultados analíticos obtidos na implementação do PCQA, sem prejuízo da divulgação adicional por outros formatos, designadamente, no seus sítios na Internet, por correio ou nos boletins municipais.
+1 - As entidades gestoras dos sistemas públicos de abastecimento de água em alta devem publicitar trimestralmente no seu sítio na Internet, no prazo de 45 dias úteis após o termo do trimestre a que dizem respeito, a informação resultante da implementação do PCQA nesse período, sem prejuízo da divulgação adicional por outros formatos, dando conhecimento às entidades gestoras em baixa da data da publicação.
 
-2 - Os editais devem permanecer afixados até à sua substituição pelos editais seguintes e ser enviados à autoridade de saúde.
+2 - As entidades gestoras dos sistemas públicos de abastecimento de água em baixa devem publicitar trimestralmente no seu sítio na Internet, no prazo de 60 dias úteis após o termo do trimestre a que dizem respeito, a informação resultante da implementação do PCQA nesse período, sem prejuízo da divulgação adicional por outros formatos.
 
-3 - As entidades gestoras em baixa que actuem por delegação ou concessão devem publicitar na imprensa regional os dados trimestrais da qualidade da água ou, em alternativa, fornecê-los aos respectivos municípios, para que estes procedam à sua publicitação por edital.
+3 - A informação referida nos números anteriores deve permanecer disponível para consulta pelo período de um ano.
 
-4 - As entidades gestoras em alta devem fazer prova, trimestralmente, junto das entidades gestoras em baixa, dos resultados analíticos obtidos na implementação do PCQA, por ponto de entrega, num prazo máximo de dois meses após o trimestre a que dizem respeito.
+4 - [Revogado.]
 
-5 - Da informação referida nos números anteriores deve constar, no mínimo, por parâmetro:
+5 - A informação referida nos números anteriores deve conter, no mínimo, por parâmetro e por ponto de entrega ou zona de abastecimento:
 
 a) O número de análises previstas no PCQA;
 
-b) A percentagem de análises realizadas;
+b) A percentagem de análises realizadas relativamente ao PCQA aprovado;
 
 c) O valor paramétrico;
 
-d) Os valores máximo e mínimo obtidos;
+d) Os valores máximo e mínimo obtidos nas análises realizadas;
 
 e) A percentagem de análises que cumprem a legislação;
 
-f) A informação complementar relativa às causas dos incumprimentos e às medidas correctivas implementadas.
+f) A informação complementar relativa às causas dos incumprimentos e às medidas corretivas implementadas para regularizar a qualidade da água;
+
+g) A informação relativa aos parâmetros conservativos de água exclusivamente comprada.
 
 6 - A entidade gestora deve disponibilizar a informação relativa a cada zona de abastecimento, quando solicitada.
 
-7 - As entidades gestoras de sistemas de abastecimento particular devem publicitar trimestralmente nas suas instalações os resultados da verificação da conformidade da qualidade da água distribuída e enviá-los à respectiva autoridade de saúde.
+7 - As entidades gestoras de sistemas de abastecimento particular devem publicitar trimestralmente nas suas instalações a informação resultante da implementação do PCQA e enviá-los à respetiva autoridade de saúde, no prazo definido no n.º 2.

@@ -4,8 +4,8 @@
 
 O produto das coimas aplicadas nos termos do presente decreto-lei é repartido da seguinte forma:
 
-a) 60 % para o Fundo de Intervenção Ambiental;
+a) 60 % para o Fundo Ambiental;
 
-b) 30 % para a entidade que instrui o processo;
+b) 40 % para a entidade que instrui o processo e aplica a coima;
 
-c) 10 % para a entidade que aplica a coima.
+c) [Revogada.]
