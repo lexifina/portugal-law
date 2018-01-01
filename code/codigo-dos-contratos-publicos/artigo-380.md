@@ -2,4 +2,4 @@
 
 ### Inutilização de trabalhos já executados
 
-Se da execução de trabalhos a mais ou de trabalhos de suprimento de erros e omissões ou da ordem para execução de trabalhos a menos resultar inutilização de trabalhos já realizados em conformidade com o contrato ou com instruções do dono da obra, o seu valor não é deduzido ao preço contratual, tendo o empreiteiro direito a ser remunerado pelos trabalhos já realizados e pelos trabalhos necessários à reposição da situação anterior.
+Se da execução de trabalhos complementares ou de trabalhos a menos resultar inutilização de trabalhos já realizados em conformidade com o contrato ou com instruções do dono da obra, o seu valor não é deduzido ao preço contratual, tendo o empreiteiro direito a ser remunerado pelos trabalhos já realizados e pelos trabalhos necessários à reposição da situação anterior.
