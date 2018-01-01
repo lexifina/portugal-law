@@ -96,4 +96,8 @@
 
 33.2 - Para efeitos do disposto nos números anteriores, o valor do prédio é o do seu valor patrimonial, o valor declarado ou aquele que as partes lhe atribuírem se for superior.
 
-34 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédio rústico ou misto a disponibilizar, ou disponibilizado, na bolsa de terras a que se refere a lei que cria a bolsa nacional de terras para utilização agrícola, florestal ou silvopastoril, designada por 'Bolsa de terras' e relacionados com a finalidade dessa disponibilização, são reduzidos em 75 %
+34 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédio rústico ou misto a disponibilizar, ou disponibilizado, na bolsa de terras ou no banco de terras, e relacionados com a finalidade dessa disponibilização, são reduzidos em 75 %.
+
+35 - Os emolumentos devidos pela realização de atos de registo de factos relativos a prédios rústicos destinados à exploração florestal, adquiridos por entidades de gestão florestal (EGF) reconhecidas, ou por associados destas, que afetem, no prazo de seis meses, esses prédios à gestão dessa EGF, são reduzidos em 75 %.
+
+36 - A redução prevista no número anterior é igualmente aplicável às unidades de gestão florestal (UGF) reconhecidas, ou por associados destas, desde que seja promovida a afetação dos prédios rústicos à gestão dessa UGF, no prazo aí previsto.
