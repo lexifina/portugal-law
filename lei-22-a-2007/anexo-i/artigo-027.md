@@ -10,8 +10,8 @@
 
 4 - Os veículos cuja matrícula nacional tenha sido cancelada nos termos da alínea a) do n.º 2 do artigo 5.º, só podem voltar a ser matriculados depois de recebida a informação fiscal a que se refere o número anterior.
 
-5 - Os serviços aduaneiros enviam ao Instituto da Mobilidade e dos Transportes Terrestres, I. P., ou aos serviços competentes em matéria de transportes terrestres, no caso das regiões autónomas, os títulos definitivos dos veículos que tenham sido declarados para introdução no consumo, em prazo não superior a um ano.
+5 - [Revogado].
 
 6 - Os veículos que tenham sofrido transformação geradora de imposto nos termos da alínea b) do n.º 2 do artigo 5.º só podem ser objecto de regularização junto do Instituto da Mobilidade e dos Transportes Terrestres, I. P., ou dos serviços competentes referidos no número anterior, no caso das regiões autónomas, após a recepção da informação a que se refere o n.º 3 do presente artigo.
 
-7 - O Instituto da Mobilidade e dos Transportes Terrestres, I. P., ou os serviços competentes referidos no n.º 5 do presente artigo, no caso das regiões autónomas, devem comunicar à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo quaisquer outras transformações geradoras de imposto de que venham a ter conhecimento.
+7 - O IMT, I. P., ou os serviços competentes, no caso das regiões autónomas, devem comunicar à AT quaisquer outras transformações geradoras de imposto de que venham a ter conhecimento.

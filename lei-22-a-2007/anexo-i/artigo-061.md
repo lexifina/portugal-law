@@ -8,7 +8,7 @@ a) Declaração aduaneira de veículo;
 
 b) Certificado de matrícula e título de registo de propriedade, se for o caso, comprovativo da propriedade do veículo;
 
-c) Carta de condução válida há pelo menos 12 meses antes da transferência da residência;
+c) (Revogada);
 
 d) Certificado de residência oficial, emitido pela entidade administrativa com competência para o controlo de habitantes ou, caso não exista, certificado consular, onde conste a data do início e cessação da residência;
 

@@ -10,9 +10,9 @@
 
 4 - O reconhecimento das isenções previstas no presente artigo depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação da DAV, instruído com cópia do alvará para o exercício da actividade, licença de táxi e prova da qualidade da forma societária do sujeito passivo.
 
-5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos nos artigos 8.º e 9.º, novos, que se destinem ao exercício de actividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma isenção correspondente a 40 % do montante do imposto, nas condições seguintes:
+5 - Os automóveis ligeiros de passageiros e de utilização mista não previstos no artigo 8.º e nos n.os 1 e 2 do artigo 9.º, bem como os veículos previstos no n.º 3 do artigo 9.º, novos, que se destinem ao exercício de atividades de aluguer sem condutor, beneficiam, na introdução no consumo, de uma isenção correspondente a 40 % do montante do imposto, nas condições seguintes:
 
-a) Os veículos devem possuir um nível de emissão de CO(índice 2) até 120 g/km, confirmado pelo respectivo certificado de conformidade;
+a) Os veículos devem possuir um nível de emissão de CO(índice 2) até 120 g/km, ou até 165 g/km no caso dos veículos previstos no n.º 3 do artigo 9.º, confirmado pelo respetivo certificado de conformidade;
 
 b) As empresas beneficiárias locadoras devem estar licenciadas para o exercício exclusivo da actividade de aluguer de automóveis;
 
