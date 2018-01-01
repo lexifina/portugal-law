@@ -4,12 +4,14 @@
 
 1 - A AM compreende os seguintes órgãos:
 
-a) A Assembleia dos Académicos;
+a) Presidente de Honra;
 
-b) O Presidente;
+b) A Assembleia dos Académicos;
 
-c) O Conselho Académico;
+c) O Presidente;
 
-d) A Assembleia Cultural.
+d) O Conselho Académico;
+
+e) A Assembleia Cultural.
 
 2 - A estrutura e o funcionamento dos serviços da AM são definidos no respetivo regulamento interno.
