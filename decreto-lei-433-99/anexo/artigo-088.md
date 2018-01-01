@@ -32,10 +32,6 @@ k) Quaisquer outras indicações úteis para o eficaz seguimento da execução.
 
 4 - As certidões de dívida podem ser emitidas por via electrónica, sendo autenticadas pela assinatura electrónica avançada da entidade emitente, nos termos do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.
 
-5 - As certidões de dívida servirão de base à instauração do processo de execução fiscal a promover
+5 - As certidões de dívida servem de base à instauração do processo de execução fiscal.
 
-pelos órgãos periféricos locais, nos termos do título IV.
-
-6 - A extracção das certidões de dívidas poderá ser cometida, pelo órgão dirigente da administração
-
-tributária, aos serviços que disponham dos elementos necessários para essa actividade.
+6 - A extracção das certidões de dívidas poderá ser cometida, pelo órgão dirigente da administração tributária, aos serviços que disponham dos elementos necessários para essa actividade.
