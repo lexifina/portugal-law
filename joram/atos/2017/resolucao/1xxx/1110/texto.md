@@ -1,0 +1,49 @@
+# Resolução n.º 1110/2017
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 1/2018, suplemento, de 2018-01-02
+
+**Sumário:** Autoriza a realização de hasta pública para a celebração de contratos de arrendamento não habitacional de 9 espaços destinados única e exclusivamente a estacionamento de veículos automóveis, identificados com os números 211, 212, 213, 214, 215, 216, 217, 222 e 265, os quais são parte da fração autónoma, designada pela Letra “A”, localizada no piso zero, do prédio urbano em regime de propriedade horizontal, sito à Avenida Arriaga, número 36, freguesia da Sé, município do Funchal. Resolução n.º 1111/2017 Aprova o Decreto Regulamentar Regional respeitante à orgânica da Secretaria Regional dos Equipamentos e Infraestruturas. Resolução n.º 1112/2017 Autoriza a renovação pelo período de um ano, do contrato de arrendamento celebrado em 20 de julho de 2000, entre o Serviço de Saúde da Região Autónoma da Madeira, E.P.E. e a Santa Casa da Misericórdia da Calheta, relativo a um imóvel localizado no Sítio do Lombo da Estrela, Calheta, onde funciona o Centro de Saúde da Calheta, fixando-se a renda mensal no montante de € 3.620,23. Resolução n.º 1113/2017 Autoriza a venda, por ajuste direto, dos prédios rústicos, com a área global, no solo, de 1000 m2, 350 m2 e 310 m2, localizados no Sítio da Vargem, freguesia de São Martinho, município do Funchal, inscritos nas matrizes cadastrais respetivas sob os artigos 79, 80 e 81, todos da secção “G”.
+
+## Texto
+
+Resolução n.º 1110/2017
+Considerando que, nos termos do disposto na alínea j) do artigo 5.º do Decreto Legislativo Regional n.º 8/2003/M, de 21 de maio, na sua atual redação, cabe ao Diretor do Gabinete de Gestão da Loja do Cidadão da Madeira (GGLC), exercer os poderes necessários para assegurar a gestão do GGLC e o seu normal funcionamento e desenvolvimento, bem como a administração do seu património;
+Conforme resulta do n.º 1 do artigo 31.º do Decreto Legislativo Regional n.º 42 A/2016/M, de 30 de dezembro, a autorização para a alienação, arrendamento, concessão, cedência ou oneração, por qualquer forma, de imóveis da Região Autónoma da Madeira, é da exclusiva competência do Conselho do Governo Regional e está sujeita a parecer prévio da Direção Regional do Património e de Gestão dos Serviços Partilhados;
+Por despacho datado de 29 de novembro de 2017, a Direção Regional do Património e de Gestão dos Serviços Partilhados emitiu parecer favorável à realização da hasta pública para a celebração de contratos de arrendamento não habitacional, conforme proposto pelo Gabinete de Gestão da Loja do Cidadão da Madeira;
+O Conselho de Governo reunido em plenário em 28 de dezembro de 2017, resolveu:
+
+1. Autorizar a realização de hasta pública para a celebração de contratos de arrendamento não habitacional de 9 espaços destinados única e exclusivamente a estacionamento de veículos automóveis, identificados com os números 211, 212, 213, 214, 215, 216, 217, 222 e 265, devidamente discriminados na planta em anexo, os quais são parte da fração autónoma, designada pela Letra “A”, localizada no piso zero, do prédio urbano em regime de propriedade horizontal, sito à Avenida Arriaga, número 36, freguesia da Sé, concelho do Funchal, inscrito na matriz predial respetiva sob o artigo 1592-A e descrito na Conservatória do Registo Predial do Funchal sob o número 680/20040322, pelo prazo de 5 anos.
+2. Delegar e mandatar o Diretor do Gabinete de Gestão da Loja do Cidadão da Madeira, com os poderes necessários, para, desenvolver o respetivo processo e outorgar o contrato a celebrar entre as partes.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Anexo da Resolução n.º 1110/2017, de 28 de dezembro Planta da fração autónoma – Letra “A”
+
+Resolução n.º 1111/2017
+O Conselho do Governo Regional reunido em plenário em 28 de dezembro de 2017, resolveu aprovar o Decreto Regulamentar Regional que aprova a Orgânica da Secretaria Regional dos Equipamentos e Infraestruturas.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+Resolução n.º 1112/2017
+Considerando que, em 20 de julho de 2000 foi celebrado, entre o Serviço de Saúde da Região Autónoma da Madeira, E.P.E. e a Santa Casa da Misericórdia da Calheta, um contrato de Arrendamento não habitacional de duração limitada do prédio urbano, localizado no Sítio do Lombo da Estrela, Freguesia e Concelho da Calheta, inscrito na matriz predial urbana sob o artigo 2355.º e descrito na Conservatória do Registo Predial da Calheta sob o número 00519/0705591, que se destina ao funcionamento do Centro de Saúde da Calheta.
+Considerando que o aludido contrato, celebrado ao abrigo do disposto nos artigos 1064.º e seguintes do Código Civil, na redação que lhe foi conferida pela Lei n.º 6/2006, de 27 de fevereiro, prevê a possibilidade de renovação.
+Considerando que é de absoluto interesse público a renovação do referido contrato de arrendamento, com efeitos a partir de 1 de janeiro de 2018.
+Considerando que nos termos do n.º 1 do artigo 31.º do Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro, é da exclusiva competência do Conselho do Governo, mediante parecer prévio da Direção Regional do Património e dos Serviços Partilhados (PAGESP), a autorização de renovações de contratos de arrendamento que se destinem à instalação de serviços do Governo Regional.
+Considerando que a PAGESP emitiu parecer favorável. Considerando, ainda, que já foi autorizado pelo VicePresidente do Governo Regional, a assunção do compromisso plurianual correspondente à despesa referente à renovação do contrato de arrendamento em causa, de acordo com o estatuído no artigo 30.º do já referido Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro. Nestes termos, ao abrigo do disposto no n.º 1 do artigo 31.º do Decreto Legislativo Regional n.º 42-A/2016/M, de 30 de dezembro, o Conselho de Governo reunido em plenário em 28 de dezembro de 2017, resolveu:
+1. Autorizar a renovação pelo período de um ano, do contrato de arrendamento celebrado em 20 de julho de 2000, entre o Serviço de Saúde da Região Autónoma da Madeira, E.P.E. e a Santa Casa da Misericórdia da Calheta, relativo a um imóvel localizado no Sítio do Lombo da Estrela, Calheta, onde funciona o Centro de Saúde da Calheta, fixando-se a renda mensal no montante de € 3.620,23 (três mil, seiscentos e vinte euros, vinte e três cêntimos), isenta de imposto sobre o valor acrescentado.
+2. A correspondente despesa está prevista na proposta de orçamento do Serviço de Saúde da Região Autónoma da Madeira, E.P.E. para 2018.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução n.º 1113/2017
+Considerando que a Região Autónoma da Madeira é dona e legítima possuidora e detentora, em propriedade plena e perfeita, de três prédios rústicos, localizados no Sítio da Vargem, freguesia de São Martinho, município do Funchal.
+Considerando que os imóveis em referência revestem um caráter excedentário e já não se revelam necessários à prossecução de fins de interesse público.
+Considerando que o Programa do XII Governo Regional da Madeira preconiza uma política de preservação e rentabilização do património público.
+Considerando que se impõe a necessidade de implementar medidas de eficiência e racionalização do património imobiliário da Região Autónoma da Madeira.
+Considerando que os valores da aquisição dos imóveis foram fixados em € 90.250,00 (noventa mil e duzentos e cinquenta euros), € 31.600,00 (trinta e um mil e seiscentos euros) e € 28.000,00 (vinte e oito mil euros), no âmbito das avaliações promovidas pela Direção Regional do Património e de Gestão dos Serviços Partilhados, tendo os valores apurados sido homologados pelo Vice-Presidente do Governo, em cumprimento do disposto nos n.ºs 1 e 4 do artigo 84.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M de 3 de agosto.
+Considerando que, atendendo aos valores dos imóveis, é permitida a alienação, por ajuste direto, nos termos do preceituado na alínea a) do n.º 4 do artigo 57.º do supra citado diploma.
+Considerando que está assim plenamente salvaguardado o interesse público.
+O Conselho do Governo reunido em plenário em 28 de dezembro de 2017, resolveu:
+1. Autorizar a venda, por ajuste direto, nos termos do preceituado no n.º 1 do artigo 55.º conjugado com a alínea a), do n.º 4 do artigo 57.º do Decreto Legislativo Regional n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M de 3 de agosto, dos prédios rústicos, com a área global, no solo, de mil metros quadrados, trezentos e cinquenta metros quadrados, e trezentos e dez metros quadrados, localizados no Sítio da Vargem, freguesia de São Martinho, município do Funchal, inscritos nas matrizes cadastrais respetivas sob os artigos 79, 80 e 81, todos da secção “G” e descritos na Conservatória do Registo Predial do Funchal, sob os números seis cinco um sete, seis cinco um oito e seis cinco um nove.
+2. Autorizar a celebração, com a Empresa Prebel - Sociedade Técnica de Prefabricação e Construção, S.A., do respetivo contrato de compra e venda, pelo valor de € 90.250,00 (noventa mil e duzentos e cinquenta euros), € 31.600,00 (trinta e um mil e seiscentos euros) e € 28.000,00 (vinte e oito mil euros), respetivamente.
+3. Aprovar a minuta do contrato de compra e venda, a qual faz parte integrante desta resolução e fica arquivada na Secretaria Geral da Presidência
+4. Mandatar o Vice-Presidente para, em representação da Região Autónoma da Madeira, outorgar o respetivo contrato.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
