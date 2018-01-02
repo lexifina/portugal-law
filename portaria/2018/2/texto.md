@@ -1,0 +1,30 @@
+Portaria n.º 2/2018
+de 2 de janeiro
+No âmbito do regime jurídico dos Fundos Europeus Estruturais e de Investimento (FEEI) para o período de programação 2014-2020, a Portaria n.º 60-C/2015, de 2 de março, alterada pelas Portarias n.os 181-A/2015, de 19 de junho, 190-A/2015, de 26 de junho, 148/2016, de 23 de maio, e 311/2016, de 12 de dezembro, aplicável ao domínio do capital humano, estabelece as regras de cofinanciamento relativamente às operações.
+Tendo em conta a descontinuação dos cursos vocacionais, torna-se necessário passar a integrar no elenco de tipologias de operação elegíveis do Programa Operacional Regional do Algarve os cursos de educação e formação de jovens, aproveitando-se, ainda, esta oportunidade para consagrar a possibilidade de alargamento da duração máxima para as candidaturas relativas a bolsas e programas de formação avançada, em linha com esta política pública.
+Nos termos do disposto na alínea c) do n.º 2 e no n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, as presentes alterações foram aprovadas pela Deliberação n.º 24/2017 da Comissão Interministerial de Coordenação do Acordo de Parceria - CIC Portugal 2020, de 20 de dezembro, carecendo de ser adotadas por portaria do membro do Governo responsável pela área do desenvolvimento regional.
+Assim:
+Manda o Governo, pelo Secretário de Estado do Desenvolvimento e Coesão, nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, ao abrigo do Despacho n.º 2312/2016, publicado na 2.ª série do Diário da República de 16 de fevereiro, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à quinta alteração ao Regulamento Específico do Domínio do Capital Humano, aprovado em anexo à Portaria n.º 60-C/2015, de 2 de março, alterado pelas Portarias n.os 181-A/2015, de 19 de junho, 190-A/2015, de 26 de junho, 148/2016, de 23 de maio, e 311/2016, de 12 de dezembro.
+Artigo 2.º
+Alteração ao Regulamento Específico do Domínio do Capital Humano
+Os artigos 13.º e 22.º do Regulamento Específico do Domínio do Capital Humano, aprovado em anexo à Portaria n.º 60-C/2015, de 2 de março, alterado pelas Portarias n.os 181-A/2015, de 19 de junho, 190-A/2015, de 26 de junho, 148/2016, de 23 de maio, e 311/2016, de 12 de dezembro, passam a ter a seguinte redação:
+«Artigo 13.º
+[...]
+1 - [...].
+2 - [...].
+3 - [...].
+4 - As ações previstas nas alíneas b), c), d), e), f), g) e h) do n.º 1 do artigo 14.º são elegíveis na região do Algarve, no âmbito dos apoios a conceder pelo programa operacional regional do Algarve.
+5 - [...].
+Artigo 22.º
+[...]
+1 - [...].
+2 - [...].
+3 - A duração máxima das operações previstas na alínea c) do n.º 1 e na alínea c) do n.º 2 do artigo 21.º é de 48 meses, ao abrigo do n.º 2 do artigo 3.º do Regulamento de Normas Comuns sobre o Fundo Social Europeu, instituído pela Portaria n.º 60-A/2015, de 2 de março, na redação que lhe foi dada pelas Portarias n.os 242/2015, de 13 de agosto, 122/2016, de 4 de maio, e 129/2017, de 5 de abril.»
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+O presente diploma entra em vigor no dia seguinte à sua publicação e aplica-se às operações relativamente às quais não haja decisão de saldo.
+O Secretário de Estado do Desenvolvimento e Coesão, Ângelo Nelson Rosário de Souza, em 20 de dezembro de 2017.
+111020821
