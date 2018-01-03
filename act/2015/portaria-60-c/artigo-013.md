@@ -8,6 +8,6 @@
 
 3 - As ações previstas nas alíneas a), b), c), d), e), f), g) e h) do n.º 1 do artigo 14.º são elegíveis na região de Lisboa, no âmbito dos apoios a conceder pelo programa operacional regional de Lisboa.
 
-4 - As ações previstas nas alíneas c), d), e), f), g) e h) do n.º 1 do artigo 14.º são elegíveis na região do Algarve, no âmbito dos apoios a conceder pelo programa operacional regional do Algarve.
+4 - As ações previstas nas alíneas b), c), d), e), f), g) e h) do n.º 1 do artigo 14.º são elegíveis na região do Algarve, no âmbito dos apoios a conceder pelo programa operacional regional do Algarve.
 
 5 - A elegibilidade geográfica é determinada pelo local onde se realiza a formação.
