@@ -1,0 +1,7 @@
+Edital n.º 8/2018
+Proposta de alteração ao Regulamento Municipal de Incentivo à Natalidade no Concelho da Golegã
+O Dr. José Tavares Veiga Silva Maltez, na qualidade de Presidente da Câmara Municipal de Golegã, torna público, para preceituado no n.º 2 do artigo 100.º do Código do Procedimento Administrativo, e dando execução ao deliberado por esta Câmara Municipal em sua reunião ordinária realizada em 30 de novembro de 2017, que a partir da publicação na 2.ª série do Diário da República, pelo prazo de 20 dias úteis está em apreciação pública a Proposta de Alteração do Regulamento Municipal de Incentivo à Natalidade no concelho de Golegã, para posterior sujeição ao órgão deliberativo, versando a citada proposta de alteração na revogação da alínea b) do n.º 1 do artigo 2.º, nos n.os 3 e 4 do artigo 4.º e n.os 1, 2, 3, 4 e 5 do artigo 11.º do citado Regulamento.
+Nos termos do artigo 101.º do citado Código, convidam-se todos os interessados, devidamente identificados, a dirigir, por escrito, ao Excelentíssimo Senhor Presidente da Câmara Municipal, eventuais sugestões e ou reclamações, dentro do período atrás mencionado, para a Câmara Municipal de Golegã, Largo D. Manuel I, 2150-128 Golegã, ou através do endereço eletrónico gap@cm-golega.pt
+Mais se faz saber que exemplares do projeto de regulamento se encontram afixados no edifício dos serviços municipais, para consulta dos mesmos.
+7 de dezembro de 2017. - O Presidente da Câmara Municipal, José Tavares Veiga Silva Maltez, Dr.
+311001705
