@@ -1,0 +1,239 @@
+Portaria n.º 380/2017
+de 19 de dezembro
+Tramitação Eletrónica dos Processos da Jurisdição Administrativa e Fiscal
+Na prossecução de um dos objetivos do seu Programa, a modernização das ferramentas informáticas de tramitação processual, visando a aplicação das mesmas a todas as jurisdições, o XXI Governo Constitucional tem vindo a implementar um alargado conjunto de medidas que, suportadas nessas ferramentas informáticas, permitem tornar a Justiça mais ágil, célere e transparente.
+Optando-se por limitar as intervenções legislativas para a resolução de problemas concretos do sistema judiciário, o Ministério da Justiça tem focado a sua atuação na efetiva concretização de um plano de ação que, através do recurso a novas soluções de organização e gestão processual associadas a um vasto conjunto de novas soluções tecnológicas, permite melhorar, de forma estruturada e substancial, a resposta judiciária.
+É nesse âmbito, de objetivos e atuações, que a presente portaria prevê um regime regulamentar de tramitação eletrónica dos processos dos Tribunais Administrativos e Fiscais abrangente, suficiente e coerente.
+Sendo certo que desde a alteração concretizada pelo Decreto-Lei n.º 214-G/2015, de 2 de outubro, o Código de Processo nos Tribunais Administrativos (CPTA), tendo em vista o combate à morosidade processual e a simplificação de procedimentos na tramitação dos processos da jurisdição administrativa e fiscal, previu uma intensificação do processo de desmaterialização dos referidos processos e do recurso às tecnologias da informação na relação dos tribunais com as partes e demais intervenientes, a verdade é que esta matéria continua a ser regulada, de modo muito insuficiente, pela Portaria n.º 1417/2003, de 30 de dezembro.
+É chegado por isso o momento de prever um regime de tramitação eletrónica mais completo, que reflita os desenvolvimentos tecnológicos desde então ocorridos e que tenha também em consideração as experiências bem-sucedidas noutras áreas, em particular no que respeita à tramitação eletrónica nos tribunais judiciais.
+Daí que, não só devido a esse sucesso, mas também para garantir coerência e harmonização numa matéria em que não se justificam distinções entre as diferentes jurisdições, o regime previsto na presente portaria, tendo como ponto de partida a realidade dos Tribunais Administrativos a Fiscais e do sistema informático que suporta a sua atividade, se aproxima o mais possível das soluções já previstas no âmbito da tramitação eletrónica nos tribunais judiciais.
+Mas ao mesmo tempo, é também um regime com traços inovadores, o mais relevante deles o facto de, pela primeira vez, se prever a tramitação eletrónica em toda uma jurisdição. Deste modo, um processo será tramitado eletronicamente não apenas nos tribunais administrativos de círculo e nos tribunais tributários (tribunais de 1.ª instância) mas também nos tribunais centrais administrativos e no Supremo Tribunal Administrativo, caso exista recurso para essas instâncias. A aplicação deste regime às instâncias superiores será efetuada de forma gradual, não só para garantir a necessária realização dos desenvolvimentos aplicacionais e a formação dos seus utilizadores, mas também para garantir que os processos que sejam remetidos para uma instância superior (nomeadamente dos tribunais centrais administrativos para o Supremo Tribunal Administrativo) contenham já em formato eletrónico toda a informação relevante para a decisão da causa.
+Deste modo, a presente portaria regulamenta aspetos como a prática de atos processuais por meios eletrónicos por juízes, magistrados do Ministério Público e oficiais de justiça, a apresentação das peças processuais, documentos e processo instrutor por transmissão eletrónica de dados por mandatário, a comprovação do prévio pagamento da taxa de justiça ou da concessão do benefício do apoio judiciário, a distribuição dos processos por meios eletrónicos, as notificações por transmissão eletrónica de dados, a consulta eletrónica de processos ou a organização dos elementos do processo que constem do respetivo suporte físico.
+Relativamente à assinatura de peças processuais pelos mandatários e representantes em juízo, e tendo em consideração as especiais necessidades de desenvolvimentos aplicacionais neste âmbito, é previsto que o regime da presente portaria apenas entrará em vigor no dia 15 de maio de 2018, sendo que, de modo a garantir um período para adaptação dos mandatários a esta nova solução, até dia 15 de junho poderão escolher se assinam as peças processuais nos termos ora previstos ou se não procedem a essa assinatura, aplicando-se nesses casos ainda o regime previsto na Portaria n.º 1417/2003, de 30 de dezembro.
+A entrada em vigor do regime ora previsto é assim mais um contributo para simplificar a atuação de todos os intervenientes processuais, mas também para libertar os funcionários judiciais de atos processuais que são eliminados (como, por exemplo, os relacionados com o envio de notificações a mandatários que utilizem os meios eletrónicos) ou passam a ser assegurados pelo sistema, permitindo que se concentrem em atos mais relevantes para o processo.
+Reduzem-se custos e burocracias (por exemplo quando se determina que quando um ato é praticado por via eletrónica, os mandatários deixam de ter que remeter por essa via o comprovativo de pagamento de taxas de justiça e de outras custas judiciais, bastando a indicação do número do Documento Único de Cobrança através do qual foi efetuado o prévio pagamento da taxa de justiça), agilizam-se e simplificam-se procedimentos, aumenta-se a capacidade de gestão processual e introduz-se maior celeridade e transparência na tramitação dos processos.
+Foram ouvidos o Conselho Superior dos Tribunais Administrativos e Fiscais, a Procuradoria-Geral da República, a Ordem dos Advogados, a Ordem dos Solicitadores e dos Agentes de Execução e a Comissão Nacional de Proteção de Dados.
+Assim:
+Ao abrigo do disposto no n.º 1 do artigo 24.º, nos n.os 1 e 3 do artigo 25.º, no n.º 1 do artigo 26.º, no n.º 2 do artigo 79.º e no artigo 84.º do Código de Processo nos Tribunais Administrativos, aprovado pela Lei n.º 15/2002, de 22 de fevereiro, alterado pela Lei n.º 4-A/2003, de 19 de fevereiro, pela Lei n.º 59/2008, de 11 de setembro, pela Lei n.º 63/2011, de 14 de dezembro, e pelo Decreto-Lei n.º 214-G/2015, de 2 de outubro, e no artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro, alterado pelos Decretos-Leis n.os 182/2007, de 9 de maio, e 190/2009, de 17 de agosto, manda o Governo, pela Secretária de Estado da Justiça, o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objeto
+A presente portaria regula a tramitação eletrónica dos processos nos tribunais administrativos de círculo, nos tribunais tributários, nos tribunais centrais administrativos e no Supremo Tribunal Administrativo, incluindo os seguintes aspetos:
+a) Definição do sistema de informação no qual é efetuada a tramitação eletrónica de processos, de acordo com o previsto no n.º 1 do artigo 24.º do Código de Processo nos Tribunais Administrativos e no n.º 1 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+b) Apresentação das peças processuais, documentos e processo instrutor por transmissão eletrónica de dados, nos termos do disposto nos n.os 1 e 2 do artigo 24.º e no n.º 1 do artigo 84.º do Código de Processo nos Tribunais Administrativos e nas alíneas a) e e) do n.º 1 e no n.º 4 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+c) Apresentação de peças processuais e documentos pelos magistrados do Ministério Público nos processos em que intervenham no exercício das competências previstas nas alíneas a), e) e g) do n.º 1 do artigo 3.º do Estatuto do Ministério Público;
+d) Comprovação do prévio pagamento da taxa de justiça ou da concessão do benefício do apoio judiciário, de acordo com o disposto no n.º 2 do artigo 79.º do Código de Processo nos Tribunais Administrativos;
+e) Definição dos casos e termos em que as peças processuais e os documentos apresentados pelas partes em suporte de papel são digitalizados pela secretaria, nos termos do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+f) Distribuição dos processos por meios eletrónicos, nos termos do disposto no n.º 1 do artigo 26.º do Código de Processo nos Tribunais Administrativos, na alínea b) do n.º 1 do artigo 4.º e no n.º 4 do artigo 5.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+g) Publicação do anúncio de citação edital em página informática de acesso público, nos termos do disposto no n.º 1 do artigo 25.º do Código de Processo nos Tribunais Administrativos;
+h) Prática de atos processuais por meios eletrónicos por juízes, magistrados do Ministério Público e oficiais de justiça, nos termos do disposto na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+i) Notificações por transmissão eletrónica de dados, nos termos do disposto no n.º 3 do artigo 25.º do Código de Processo nos Tribunais Administrativos e no n.º 2 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+j) Consulta dos processos, nos termos do disposto na alínea f) do n.º 1 do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro;
+k) Organização dos elementos do processo que constem em suporte físico;
+l) Comunicações entre tribunais, nos termos do n.º 5 do artigo 172.º do Código de Processo Civil.
+Artigo 2.º
+Sistema informático de suporte à atividade dos tribunais administrativos e fiscais
+1 - A tramitação eletrónica dos processos administrativos e fiscais prevista na presente portaria é efetuada no sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+2 - O sistema informático de suporte à atividade dos tribunais administrativos e fiscais disponibiliza módulos específicos para a tramitação do processo e a prática de atos por juízes, magistrados do Ministério Público e oficiais de justiça, e para a prática de atos e consulta de processos por mandatários e representantes em juízo.
+CAPÍTULO II
+Apresentação de peças processuais, documentos e processo instrutor por mandatários e representantes em juízo
+Artigo 3.º
+Apresentação de peças processuais, documentos e processo instrutor por via eletrónica
+1 - A apresentação de peças processuais, documentos e processo instrutor por transmissão eletrónica de dados por mandatários e representantes em juízo é efetuada através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, acessível, através de certificado digital emitido por entidade certificadora credenciada ou por recurso ao Sistema de Certificação de Atributos Profissionais associado ao Cartão do Cidadão e à Chave Móvel Digital, no endereço https://www.taf.mj.pt, de acordo com os procedimentos e instruções aí constantes.
+2 - A apresentação de peças processuais, documentos e processo instrutor por transmissão eletrónica de dados dispensa a remessa dos respetivos originais, duplicados e cópias, nos termos da lei.
+3 - O disposto no número anterior não prejudica o dever de exibição das peças processuais em suporte de papel e dos originais dos documentos ou do processo instrutor junto pelas partes por transmissão eletrónica de dados, sempre que o juiz o determine, designadamente quando:
+a) Duvidar da autenticidade ou genuinidade das peças, documentos ou processo instrutor;
+b) For necessário realizar perícia à letra ou assinatura de documento ou processo instrutor.
+4 - A apresentação de peças processuais, documentos e processo instrutor pelos magistrados do Ministério Público é efetuada por transmissão eletrónica de dados, através de módulo específico do sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+Artigo 4.º
+Registo de utilizadores
+1 - O registo e a gestão de acessos ao sistema informático referido no n.º 1 do artigo anterior por advogados, advogados estagiários e solicitadores são efetuados pela entidade responsável pela gestão de acessos ao sistema informático, com base na informação transmitida, respetivamente, pela Ordem dos Advogados e pela Ordem dos Solicitadores e dos Agentes de Execução, respeitante à validade e às vicissitudes da inscrição junto dessas associações públicas profissionais.
+2 - O registo e a gestão de acessos ao sistema informático referido no n.º 1 do artigo anterior por licenciados em direito ou em solicitadoria com funções de apoio jurídico é efetuada pela entidade responsável pela gestão de acessos ao sistema informático.
+3 - Para efeito do disposto no número anterior, os licenciados em direito ou em solicitadoria com funções de apoio jurídico solicitam a configuração do utilizador no sistema, mediante indicação de:
+a) Nome profissional;
+b) Morada profissional, incluindo código postal e localidade;
+c) Endereço de correio eletrónico constante do certificado;
+d) Número de identificação civil;
+e) Número de identificação fiscal.
+4 - O registo e a gestão de acessos ao sistema informático referido no n.º 1 do artigo anterior por representantes da Fazenda Pública são efetuados pela entidade responsável pela gestão de acessos ao sistema informático, com base na informação transmitida, por via eletrónica, pela Autoridade Tributária e Aduaneira.
+Artigo 5.º
+Formulários e ficheiros anexos
+1 - A apresentação de peças processuais por via eletrónica é efetuada através do preenchimento de formulários disponibilizados no sistema informático de suporte à atividade dos tribunais administrativos e fiscais, aos quais se anexam:
+a) Ficheiros com o conteúdo material da peça processual e demais informação que o apresentante considere relevante e que não se enquadre em nenhum campo dos formulários;
+b) Os documentos que devem acompanhar a peça processual, anexados de forma individualizada;
+c) O processo instrutor.
+2 - A informação inserida nos formulários é refletida num documento que, juntamente com os ficheiros anexos referidos nas alíneas a) e b) do número anterior, faz parte, para todos os efeitos, da peça processual.
+3 - O documento contendo a informação inserida nos formulários deve ser assinado digitalmente através de certificado de assinatura eletrónica que garanta de forma permanente a qualidade profissional do signatário, podendo ser utilizado para o efeito o Sistema de Certificação de Atributos Profissionais associado ao Cartão do Cidadão e à Chave Móvel Digital.
+4 - A assinatura referida no número anterior é efetuada no sistema informático de suporte à atividade dos tribunais administrativos e fiscais no momento de apresentação da peça processual, assegurando o sistema informático que essa assinatura garante a integridade, integralidade e não repúdio da peça processual.
+5 - Podem ser entregues em suporte físico os documentos:
+a) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;
+b) Em formatos superiores a A4.
+6 - A entrega dos documentos referidos no número anterior deve ser efetuada na secretaria do tribunal no prazo de cinco dias após o envio dos formulários e ficheiros.
+Artigo 6.º
+Preenchimento dos formulários
+1 - Quando existam campos no formulário para a inserção de informação específica, essa informação deve ser indicada no campo respetivo, não podendo ser apresentada unicamente nos ficheiros anexos.
+2 - Em caso de desconformidade entre o conteúdo dos formulários e o conteúdo dos ficheiros anexos, prevalece a informação constante dos formulários, ainda que estes não se encontrem preenchidos.
+3 - O disposto no número anterior não prejudica a possibilidade de a mesma ser corrigida, a requerimento da parte, sem prejuízo de a questão poder ser suscitada oficiosamente.
+4 - Nos casos em que o formulário não se encontre preenchido na parte relativa à identificação das testemunhas e demais informação referente a estas, constando tais elementos da respetiva peça processual, a secretaria procede à notificação da parte para preencher, no prazo de 10 dias, o respetivo formulário, sob pena de se considerar apenas o conteúdo do formulário inicial.
+5 - Existindo um formulário específico para a finalidade ou peça processual que se pretende apresentar, deve o mesmo ser usado obrigatoriamente pelo mandatário ou representante em juízo.
+Artigo 7.º
+Formato dos ficheiros e documentos anexos
+Os ficheiros e documentos referidos no n.º 1 do artigo 5.º devem ter o formato portable document format (.pdf), preferencialmente na versão PDF/A e com conteúdo pesquisável.
+Artigo 8.º
+Pagamento da taxa de justiça e benefício do apoio judiciário
+1 - O responsável pelo prévio pagamento da taxa de justiça ou de outra quantia devida a título de custas, de multa ou outra penalidade deve indicar, em campo próprio dos formulários de apresentação de peça processual constantes do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, a referência que consta do documento único de cobrança (DUC), encontrando-se dispensado de juntar ao processo o respetivo documento comprovativo do pagamento.
+2 - Nos casos referidos no número anterior, a comprovação do prévio pagamento é efetuada automaticamente por comunicação entre o Sistema de Cobranças do Estado, o sistema informático de registo das custas processuais e o sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+3 - Nos casos em que cabe à secretaria notificar o responsável para o pagamento da taxa de justiça ou de outra quantia devida a título de custas, de multa ou outra penalidade, e seja emitida guia acompanhada de DUC para esse efeito, a comprovação do pagamento efetua-se automaticamente por simples comunicação eletrónica entre os sistemas referidos no número anterior, estando o responsável pelo pagamento dispensado de indicar, nos termos do n.º 1, a referência que consta do DUC.
+4 - Nos casos em que a lei exija a junção de documento comprovativo do pagamento das quantias a que se refere o n.º 1, o mesmo é apresentado por transmissão eletrónica de dados, nos termos da alínea b) do n.º 1 do artigo 5.º
+5 - O pedido ou a concessão do benefício do apoio judiciário são comprovados através da apresentação, por transmissão eletrónica de dados, dos correspondentes documentos comprovativos, nos termos definidos para os restantes documentos na alínea b) do n.º 1 do artigo 5.º
+Artigo 9.º
+Pluralidade de mandatários ou representantes
+Nos casos em que a parte disponha de mais do que um mandatário ou representante em juízo, um deles procede ao envio da peça processual, indicando os demais no formulário.
+Artigo 10.º
+Dimensão da peça processual e dos documentos
+1 - A peça processual, ou o conjunto da peça processual e dos documentos, não pode exceder a dimensão de 10 MB.
+2 - Nos casos em que o limite previsto no número anterior seja excedido em virtude da dimensão da peça processual, a sua apresentação, bem como dos documentos que a acompanhem, deve ser efetuada através dos meios previstos no n.º 5 do artigo 24.º do Código de Processo nos Tribunais Administrativos.
+3 - Nos casos em que o limite previsto no n.º 1 seja excedido em virtude da dimensão dos documentos, a peça processual deve ser apresentada através do sistema informático de suporte à atividade dos tribunais, devendo os documentos, no mesmo dia, ser apresentados pela mesma via, através de um único requerimento ou, quando tal não seja possível por desrespeitar o limite previsto no n.º 1, através do menor número possível de requerimentos.
+4 - Quando a peça em causa seja uma petição inicial ou outro ato processual sujeito a distribuição, a apresentação dos documentos prevista no número anterior deve ser efetuada até ao final do dia seguinte ao da distribuição.
+5 - Os documentos previstos nos n.os 3 e 4 que, por si só, desrespeitem o limite previsto no n.º 1 devem ser apresentados pelos meios previstos no n.º 5 do artigo 24.º do Código de Processo nos Tribunais Administrativos, no prazo de cinco dias após a entrega da peça processual, juntamente com o respetivo comprovativo de entrega disponibilizado pelo sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+6 - Nas situações previstas nos n.os 2 e 5, não devem ser apresentados os duplicados ou cópias da peça processual ou dos documentos.
+Artigo 11.º
+Requisitos da transmissão eletrónica de dados
+O sistema informático de suporte à atividade dos tribunais administrativos e fiscais assegura:
+a) A certificação da data e hora de expedição;
+b) A disponibilização ao utilizador de cópia da peça processual e dos documentos enviados com a aposição da data e hora de entrega certificada;
+c) A disponibilização ao utilizador de mensagem nos casos em que não seja possível a receção, informando da impossibilidade de entrega da peça processual e dos documentos através do sistema.
+Artigo 12.º
+Digitalização pela secretaria e consulta de documentos em suporte físico
+1 - Sem prejuízo do disposto nos números seguintes, a apresentação de peças processuais e documentos em suporte físico implica a sua digitalização pela secretaria do tribunal, após a qual as peças processuais e os documentos são devolvidos às partes.
+2 - Nos casos previstos no número anterior, se a secretaria constatar que a digitalização não permite um adequado exame da peça processual ou documento, arquiva e conserva o seu original, nos termos da lei.
+3 - Podem não ser digitalizados pela secretaria, sendo arquivados e conservados nos termos da lei, os documentos:
+a) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;
+b) Em formatos superiores a A4;
+c) Que possam ser danificados pelo processo de digitalização, atendendo, designadamente, ao seu estado de conservação.
+4 - Os documentos que não se encontrem em suporte informático são consultados na secretaria do tribunal administrativo e fiscal onde é tramitado o respetivo processo, nos termos da lei.
+CAPÍTULO III
+Distribuição
+Artigo 13.º
+Distribuição
+1 - O sistema informático de suporte à atividade dos tribunais administrativos e fiscais assegura a distribuição automática dos processos e demais documentos sujeitos a distribuição duas vezes por dia, às 9 e às 16 horas.
+2 - A distribuição automática referida no número anterior não obsta a que se realize uma distribuição extraordinária quando a urgência do processo o justifique.
+3 - A distribuição automática não obsta a que se proceda a uma classificação manual prévia dos processos quando apresentados em suporte físico.
+Artigo 14.º
+Tramitação da recusa de atos processuais
+1 - Tendo sido efetuada a distribuição automática e eletrónica ou tendo sido os atos processuais praticados e apresentados eletronicamente, deve a secção de processos verificar a ocorrência dos fundamentos de recusa previstos, consoante o que for aplicável, nas alíneas d) e e) do n.º 1 do artigo 80.º do Código de Processo nos Tribunais Administrativos ou nas alíneas f) e h) do artigo 558.º do Código de Processo Civil.
+2 - Havendo fundamento para a recusa, a secção de processos efetua a notificação da mesma por via eletrónica.
+3 - Sem prejuízo do benefício concedido ao autor nos termos do artigo 560.º do Código de Processo Civil, decorrido que seja o prazo para a reclamação da recusa, ou, havendo reclamação, após o trânsito em julgado da decisão que confirme o não recebimento, considera-se a peça recusada, ordenando o juiz a respetiva baixa na distribuição.
+Artigo 15.º
+Publicação
+A publicação dos resultados da distribuição diária é efetuada no endereço eletrónico https://tribunais.org.pt.
+CAPÍTULO IV
+Atos processuais de magistrados e oficiais de justiça
+Artigo 16.º
+Atos processuais de magistrados
+1 - Os atos processuais de juízes e de magistrados do Ministério Público são praticados no sistema informático de suporte à atividade dos tribunais administrativos e fiscais, com aposição de assinatura eletrónica qualificada ou avançada.
+2 - A aposição de assinatura eletrónica qualificada dispensa para todos os efeitos a assinatura autógrafa em suporte de papel dos atos processuais.
+3 - O disposto no n.º 1 não é obrigatório:
+a) Para os atos praticados nos processos no Supremo Tribunal Administrativo por juízes conselheiros;
+b) Para as decisões das secções de contencioso administrativo e tributário dos tribunais centrais administrativos.
+4 - Nas situações previstas no número anterior, compete à secretaria proceder à digitalização e inserção do ato no sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+Artigo 17.º
+Atos dos funcionários
+1 - As notificações ou comunicações eletrónicas, as comunicações internas ou as remessas do processo para o juiz, Ministério Público ou outra secção do mesmo tribunal ou de outro tribunal administrativo e fiscal realizadas pelos funcionários de justiça são praticadas através do sistema informático de suporte à atividade dos tribunais.
+2 - Os atos referidos no número anterior não carecem de qualquer tipo de assinatura para serem válidos nem devem ser impressos, valendo apenas, para todos os efeitos legais, a sua versão eletrónica, da qual consta a identificação do funcionário que os praticou.
+Artigo 18.º
+Requisito adicional de segurança
+Para os efeitos previstos no artigo 16.º, apenas podem ser utilizados os seguintes meios de assinatura eletrónica:
+a) Certificados de assinatura eletrónica qualificada emitidos no âmbito do Sistema de Certificação Eletrónica do Estado;
+b) Certificados de assinatura eletrónica avançada especialmente emitidos para o efeito pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P..
+Artigo 19.º
+Consulta de informação
+1 - Quando, no âmbito do processo, seja necessário consultar informação disponível eletronicamente da titularidade de serviços da Administração Pública, essa consulta deve ser efetuada diretamente pelo tribunal por meios eletrónicos sempre que as condições técnicas o permitam.
+2 - A informação consultada nos termos do número anterior tem valor idêntico a uma certidão emitida pelo serviço competente, nos termos da lei.
+Artigo 20.º
+Assinatura dos autos e termos pelas partes, seus representantes ou testemunhas
+Quando não for possível apor a assinatura eletrónica aos autos e termos que, de acordo com os n.os 1 e 2 do artigo 160.º do Código de Processo Civil, devem ser assinados pelas partes, seus representantes ou testemunhas, estes são impressos e é-lhes aposta assinatura autógrafa, devendo a secretaria digitalizar o ato para constar do processo eletrónico, mantendo o seu original no suporte físico até ao momento do arquivo do processo.
+CAPÍTULO V
+Citação edital e notificações
+Artigo 21.º
+Citação edital
+O anúncio mediante o qual se realiza a citação edital nos termos do n.º 1 do artigo 25.º do Código de Processo nos Tribunais Administrativos é publicado em https://tribunais.org.pt.
+Artigo 22.º
+Notificações eletrónicas aos mandatários e representantes em juízo
+1 - As notificações por transmissão eletrónica de dados aos mandatários e representantes em juízo são realizadas através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, que assegura automaticamente a sua disponibilização e consulta na área reservada do referido sistema disponibilizada em https://www.taf.mj.pt.
+2 - As notificações aos mandatários e representantes em juízo são realizadas por transmissão eletrónica de dados:
+a) Nos processos em que o mandatário ou representante em juízo tenha apresentado uma peça processual por transmissão eletrónica de dados; ou
+b) Quando o mandatário ou representante em juízo tenha declarado, no sistema informático de suporte à atividade dos tribunais administrativos e fiscais, que pretende ser notificado apenas por transmissão eletrónica de dados em todos ou em alguns dos processos a que a presente portaria se aplique e em que esteja registado no sistema informático como mandatário ou representante em juízo.
+3 - Quando o ato processual a notificar contenha documentos que não tenha sido possível digitalizar, nos termos do n.º 3 do artigo 12.º, deve constar da notificação esse facto bem como a indicação de que esses documentos podem ser consultados na secretaria do tribunal administrativo e fiscal onde é tramitado o respetivo processo, nos termos da lei.
+Artigo 23.º
+Notificações eletrónicas entre mandatários ou representantes em juízo
+1 - As notificações entre mandatários e representantes em juízo são realizadas por transmissão eletrónica de dados, através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, quando ambos:
+a) Tenham apresentado, no processo a que respeita a notificação, uma peça processual por transmissão eletrónica de dados; ou
+b) Tenham efetuado a declaração prevista na alínea b) do n.º 2 do artigo anterior.
+2 - O sistema informático de suporte à atividade dos tribunais administrativos e fiscais assegura a indicação de que o mandatário ou representante em juízo da contraparte já apresentou, no processo, uma peça processual por transmissão eletrónica de dados ou se manifestou no sentido de ser notificado por via eletrónica.
+3 - Nos casos previstos nos números anteriores, o sistema informático de suporte à atividade dos tribunais administrativos e fiscais assegura, aquando da apresentação de qualquer peça processual e mediante indicação do mandatário ou representante em juízo notificante, a notificação por transmissão eletrónica de dados do representante da contraparte.
+4 - Sem prejuízo do disposto nos números seguintes, o notificante fica dispensado do envio à contraparte de qualquer cópia ou duplicado da peça processual ou documento entregue através do sistema de informação e de juntar aos autos documento comprovativo da data de notificação à contraparte.
+5 - Quando o ato processual a notificar contenha documentos entregues em suporte físico, nos termos do disposto no n.º 5 do artigo 5.º ou do n.º 5 do artigo 10.º, deve ser disponibilizada cópia dos mesmos à contraparte, no prazo máximo de cinco dias, por remessa pelo correio, sob registo.
+6 - A declaração feita pelo mandatário ou representante em juízo, nos formulários, da data em que procedeu ou vai proceder ao envio dos documentos referidos no número anterior dispensa o envio de documento comprovativo desse envio, sem prejuízo de o juiz poder determinar a sua apresentação, caso a data declarada seja contestada ou exista outro motivo que o justifique.
+7 - Nos casos em que não seja possível proceder à notificação do representante da contraparte por via eletrónica, a declaração feita pelo mandatário, nos formulários, da data em que procedeu ou vai proceder à notificação da contraparte dispensa o envio de documento comprovativo, sem prejuízo de o juiz poder determinar a sua apresentação, caso a data declarada seja contestada ou exista outro motivo que o justifique.
+8 - Nos casos previstos no número anterior em que o mandatário declare que vai proceder à notificação da contraparte, essa notificação deve ser feita no prazo máximo de um dia útil.
+CAPÍTULO VI
+Consulta eletrónica de processo
+Artigo 24.º
+Consulta de processos por mandatários e representantes em juízo
+1 - A consulta de processos por parte dos mandatários e representantes em juízo é efetuada:
+a) Relativamente à informação processual, incluindo as peças e os documentos, existentes em suporte eletrónico, através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, com base no número identificador do processo; ou
+b) Junto da secretaria.
+2 - O acesso ao sistema informático de suporte à atividade dos tribunais administrativos e fiscais para efeitos de consulta de processos requer o prévio registo dos mandatários e representantes em juízo, nos termos do artigo 4.º
+3 - À consulta eletrónica de processos aplicam-se as restrições de acesso e consulta legalmente previstas.
+CAPÍTULO VII
+Organização de suporte físico
+Artigo 25.º
+Peças processuais e documentos em suporte físico
+1 - Do suporte físico do processo devem constar as peças, os autos e os termos processuais que, ouvidos os juízes em exercício de funções no respetivo tribunal, sejam determinados por provimento do juiz presidente, homologado pelo Conselho Superior dos Tribunais Administrativos e Fiscais.
+2 - Do suporte físico do processo podem também constar quaisquer outros atos e documentos que, sendo relevantes para a decisão material da causa, sejam indicados pelo juiz, em despacho fundamentado em cada processo, considerando-se como não sendo relevantes, designadamente:
+a) Requerimentos para alteração da marcação de audiência de julgamento;
+b) Despachos de expediente e respetivos atos de cumprimento, que visem atos de mera gestão processual e respostas obtidas, tais como:
+i) Despachos que ordenem a citação ou notificação das partes;
+ii) Despachos de marcação de audiência de julgamento;
+iii) Despachos de remessa de um processo ao Ministério Público;
+iv) Despachos de realização de diligências entre serviços, nomeadamente órgãos de polícia criminal, conservatórias de registos, Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., Direção-Geral de Reinserção e Serviços Prisionais e Direção-Geral da Segurança Social;
+v) Vistos em fiscalização e em correição;
+c) Aceitação da designação do agente de execução para efetuar a citação;
+d) Comunicações internas;
+e) Certidões negativas resultantes da consulta às bases de dados de serviços da Administração Pública através de meios eletrónicos.
+3 - Em caso de recurso ou reclamação dirigida a tribunal superior, o suporte físico deve incluir os articulados, a decisão recorrida, as alegações e as contra-alegações apresentadas.
+CAPÍTULO VIII
+Comunicações entre tribunais
+Artigo 26.º
+Comunicação de atos entre secretarias de tribunais
+1 - A passagem de certidões de termos e atos prevista no n.º 1 do artigo 170.º do Código de Processo Civil, quando a mesma tenha sido solicitada por outro tribunal com vista a junção das mesmas a processo judicial pendente nos tribunais administrativos e fiscais, é efetuada eletronicamente através do sistema informático, devendo a secretaria indicar o processo a que se destina e quem requereu a certidão.
+2 - A transmissão de quaisquer mensagens entre secretarias de tribunais administrativos e fiscais e a expedição ou devolução de cartas precatórias é efetuada através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais, sem prejuízo do disposto no n.º 5 do artigo 172.º do Código de Processo Civil quanto aos atos urgentes.
+3 - Nos casos previstos no artigo 175.º do Código de Processo Civil, não sendo possível o exame do autógrafo, planta, desenho ou gráfico em virtude do seu envio eletrónico ou através de reprodução fotográfica digital, este é remetido com a carta por via postal registada.
+CAPÍTULO IX
+Recursos
+Artigo 27.º
+Recursos
+1 - Sem prejuízo do disposto no número seguinte, em caso de recurso o processo é remetido eletronicamente ao tribunal superior através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+2 - Na apelação com subida em separado, o processo instruído nos termos do artigo 646.º do Código de Processo Civil é remetido eletronicamente ao tribunal superior através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+3 - Quando haja lugar a reclamação contra o indeferimento do recurso, esta é remetida eletronicamente ao tribunal superior através do sistema informático de suporte à atividade dos tribunais administrativos e fiscais.
+4 - Nas situações referidas nos números anteriores, deve também ser remetido ao tribunal superior, quando exista, o suporte físico do processo constituído nos termos do artigo 25.º
+CAPÍTULO X
+Disposições transitórias e finais
+Artigo 28.º
+Aplicação no tempo
+1 - Para efeitos dos dispostos nas alíneas a) do n.º 2 do artigo 22.º e a) do n.º 1 do artigo 23.º só são relevantes as peças processuais apresentadas pelos mandatários e representantes em juízo após a entrada em vigor da presente portaria.
+2 - O disposto nos n.os 3 e 4 do artigo 5.º entra em vigor no dia 15 de maio de 2018, sendo a sua aplicação obrigatória apenas para as peças enviadas a partir do dia 15 de junho de 2018.
+3 - A aplicação do regime de tramitação eletrónica previsto na presente portaria aos processos no Supremo Tribunal Administrativo ocorre a partir do dia 18 de setembro de 2018.
+4 - A aplicação do regime de tramitação eletrónica previsto na presente portaria aos processos nos tribunais centrais administrativos ocorre a partir do dia 3 de maio de 2018.
+5 - O regime previsto na presente portaria aplica-se aos processos e incidentes instaurados ou deduzidos antes de 1 de janeiro de 2004 a partir de 3 de maio de 2018, constando obrigatoriamente do processo eletrónico apenas os atos praticados após esta data.
+6 - A aplicação da presente portaria aos processos e incidentes referidos no número anterior determina a sua renumeração, devendo o tribunal notificar as partes do novo número único de identificação do processo atribuído ao processo ou incidente.
+Artigo 29.º
+Norma revogatória
+É revogada a Portaria n.º 1417/2003, de 30 de dezembro.
+Artigo 30.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 4 de janeiro de 2018.
+A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 18 de dezembro de 2017.
+111004532
