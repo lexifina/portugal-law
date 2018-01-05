@@ -1,0 +1,255 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "535",
+    "id": "41436",
+    "titulo": "Altera o Decreto-Lei n.º 128/2014, de 29 de agosto (regime jurídico de exploração dos estabelecimentos de alojamento local) clarificando que qualquer oposição do condomínio à exploração de estabelecimentos de alojamento local deve constar do título constitutivo da propriedade horizontal, do regulamento de condomínio nesse título eventualmente contido ou em regulamento de condomínio ou deliberação da assembleia de condóminos aprovados sem oposição e desde que devidamente registados"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2018-01-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "41839",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-01-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-01-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "CDS - propostas alteração BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544a6a4f44566c4d4463745a6a566c4d7930305a5749344c546b355a4455744e544a694e54677a5a545a6c4e6a45324c6d52765933673d&fich=12c85e07-f5e3-4eb8-99d5-52b583e6e616.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "CDS - propostas alteração PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595467354d7a45324e6d59744d324d314d7930304e6d4a6c4c54686b4e6a4d74593255334d7a41324f4751354e6a49324c6d52765933673d&fich=a893166f-3c53-46be-8d63-ce73068d9626.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "CDS - Propostas de alteração CDS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d4441324e5449324e5455744d6d526d4d7930305954457a4c574932597a55744f5463344f446734596a566d597a51304c6d52765933673d&fich=00652655-2df3-4a13-b6c5-978888b5fc44.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião votação - Resultados Votações_17072018",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954466d4e7a67315a4441745954677a4d7930304d5745784c5745784e4455745954466b4d4463354e6a4a6a4f544e694c6d52765933673d&fich=a1f785d0-a833-41a1-a145-a1d07962c93b.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a49314e7a59324e325174595441314d6930304d5746694c5746694d446b745a6d4533596d55794e7a41354d4456694c6d52765933673d&fich=f257667d-a052-41ab-ab09-fa7be270905b.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-29",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Prorrogação do Prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d544d32596d45774f474d744e446378597930304f446c6c4c5746684f4751744d54686d597a6c6b4d6d45774d3255304c6e426b5a673d3d&fich=136ba08c-471c-489e-aa8d-18fc9d2a03e4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório Nova Apreciação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a67354e6a426c4f5755744f5749345a4330304d6d4e6d4c57466a4e6a6b744f44646b4e546b79597a686c593245774c6e426b5a673d3d&fich=68960e9e-9b8d-42cf-ac69-87d592c8eca0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Republicação DL 128/2014",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a55784d6a4a694e6d59744f445131596930304d6a51334c546c6a4f57597459546b795a4459304e546b334d6a466d4c6e426b5a673d3d&fich=35122b6f-845b-4247-9c9f-a92d6459721f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Retificação ao texto de substituição do PJL524_XIII-180716vP-GPPS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a544d7a4e6d4a6d596a45745a6a686a596930304e4751334c574a6d4f4751744e44633059544e6c4d7a55324d474a694c6d52765933673d&fich=e336bfb1-f8cb-44d7-bf8d-474a3e3560bb.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição - Alojamento Local - versão retificada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3255774d7a49344d446b74597a686c5a5330304d7a46684c546b304d7a67744e3255324d6a4d304d4451304e47466c4c6e426b5a673d3d&fich=3e032809-c8ee-431a-9438-7e62340444ae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5441304e5467325a6d4d744d6d51774e793030593249794c574534597a51744f5445794e6a6b334d54457a5a6a45784c6d52765933673d&fich=904586fc-2d07-4cb2-a8c4-912697113f11.docx&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4534",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "Numero": "4534",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório de nova apreciação na especialida e e texto de substituição",
+            "pag": [
+              "4-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-07-18",
+            "pubLeg": "XIII",
+            "pubNr": "144",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/144/2018-07-18/4?pgs=4-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório (Grupo de Trabalho de Alojamento Local)",
+            "pag": [
+              "3-33"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-10",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/032/2018-12-10/3?pgs=3-33&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório de nova apreciação na especialida e e texto de substituição",
+            "pag": [
+              "4-49"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-07-18",
+            "pubLeg": "XIII",
+            "pubNr": "144",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/144/2018-07-18/4?pgs=4-49&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório (Grupo de Trabalho de Alojamento Local)",
+            "pag": [
+              "3-33"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-10",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/032/2018-12-10/3?pgs=3-33&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-07-17",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2018-07-17",
+            "dataRemessa": "2018-07-17",
+            "numeroOficio": "e-mail",
+            "observacoes": "Remessa Texto Substituição",
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-07-17",
+            "descricao": null,
+            "detalhe": null,
+            "id": "80506",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "164",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-01-05",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "333299",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
