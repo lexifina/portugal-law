@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 18 de Maio de 2010. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira, em 20 de Maio de 2010. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 12 de Maio de 2010.
