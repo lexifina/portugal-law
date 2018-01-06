@@ -14,14 +14,16 @@
 
 2 - Despesas não elegíveis:
 
-2.1 - A cobertura de perdas relativas a riscos seguráveis não seguros por opção de gestão de risco do beneficiário não é elegível;
+2.1 - (Revogado.)
 
 2.2 - Aquisição de plantas anuais e sua plantação;
 
-2.3 - Bens cuja amortização a legislação fiscal permita ser efetuada num único ano;
+2.3 - (Revogado.)
 
 2.4 - IVA recuperável.
 
 Limites às elegibilidades
 
 3 - As contribuições em espécie constituem despesas elegíveis desde que se refiram ao fornecimento de equipamento ou de trabalho voluntário não remunerado, até ao limite do autofinanciamento.
+
+4 - A cobertura de perdas relativas a riscos seguráveis e efetivamente seguros por opção de gestão de risco do beneficiário é elegível na parte em que exceder as indemnizações de seguros ou outros mecanismos de gestão de risco, bem como outras ajudas recebidas a título de compensação pelas perdas registadas.
