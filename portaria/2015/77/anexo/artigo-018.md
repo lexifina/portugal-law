@@ -19,3 +19,5 @@ f) Manter, devidamente organizado em dossier, toda a documentação relativa ao 
 g) Prestar ao ICNF, I. P., todos os esclarecimentos solicitados;
 
 h) Sujeitar-se às ações de controlo, físicas e contabilísticas, destinadas à verificação da regularidade da aplicação do apoio concedido, nos termos do presente Regulamento.
+
+i) Os resultados dos investimentos e trabalhos apoiados pelo Fundo devem ser disponibilizados publicamente pelas entidades beneficiárias, designadamente no seu sítio da internet, salvaguardando, nomeadamente, as questões relativas a direitos intelectuais.»
