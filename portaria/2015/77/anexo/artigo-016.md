@@ -2,7 +2,7 @@
 
 ### Despesas elegíveis
 
-1 - Para efeitos de atribuição de apoios pelo Fundo são elegíveis as despesas diretamente relacionadas com a realização das ações propostas, nos termos a estabelecer nas normas técnicas respetivas e no anúncio do concurso, quando aplicável.
+1 - Para efeitos de atribuição de apoios pelo Fundo são elegíveis as despesas diretamente relacionadas com a realização das ações propostas, nos termos a estabelecer nas normas técnicas respetivas, no anúncio do concurso, e nos protocolos quando aplicável.
 
 2 - O imposto sobre o valor acrescentado (IVA) é elegível nas seguintes situações:
 

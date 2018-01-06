@@ -10,13 +10,13 @@ Compete ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, 
 
 a) Elaborar o plano anual de atividades e submetê-lo a aprovação pelo membro do Governo responsável pela área das florestas, até ao final do ano civil anterior àquele a que diz respeito;
 
-b) Elaborar o relatório de atividades e submetê-lo a aprovação pelo membro do Governo responsável pela área das florestas, até ao final do primeiro trimestre do ano civil seguinte, com o parecer da Comissão de Acompanhamento e Análise de Candidaturas (CAAC) relativamente às ações em que o ICNF, I. P., foi beneficiário;
+b) Elaborar o relatório de atividades e submetê-lo a aprovação pelo membro do Governo responsável pela área das florestas, até ao final do primeiro trimestre do ano civil seguinte;
 
 c) Aprovar as normas técnicas dos apoios e o modelo dos anúncios dos procedimentos concursais;
 
 d) Aprovar os formulários de candidaturas e de pedidos de pagamento, e os modelos do termo de aceitação;
 
-e) Aprovar o modelo de protocolo de atribuição de apoios no âmbito das ações previstas na subalínea v) da alínea c) do n.º 1 do artigo 6.º;
+e) [Revogada]
 
 f) Rececionar as candidaturas a apoios de que o ICNF, I. P., não seja beneficiário e proceder à sua análise técnica e decisão;
 
@@ -28,6 +28,6 @@ i) Proceder ao pagamento dos apoios, nos termos dos artigos 25.º, 26.º e 27.º
 
 j) Acompanhar e proceder ao controlo da execução material e financeira das ações objeto de candidaturas aprovadas, exceto quando delas o ICNF, I. P., é beneficiário;
 
-k) Elaborar e submeter à aprovação da Comissão de Acompanhamento e Análise de Candidaturas (CAAC) os relatórios intercalares e finais de execução material e financeira das candidaturas aprovadas de que o ICNF, I. P., é beneficiário;
+k) Elaborar e submeter à aprovação do membro do Governo responsável pela área das florestas candidaturas, bem como relatórios finais de execução material e financeira, a apoios de que o ICNF, I. P., seja beneficiário;
 
 l) Realizar as ações de recuperação de montantes indevidamente recebidos, nos termos do artigo 32.º

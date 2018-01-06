@@ -6,6 +6,22 @@
 
 ### Formalização dos apoios
 
-1 - Os apoios a que se refere a subalínea v) da alínea c) do n.º 1 do artigo 6.º, são formalizados mediante protocolo a celebrar entre o ICNF, I. P. e o IFAP, I. P.
+1 - O Fundo pode, mediante despacho do membro do Governo responsável pela área das florestas celebrar protocolos para apoiar qualquer uma das tipologias das ações previstas no artigo 6.º
 
-2 - O protocolo referido no número anterior estabelece, nomeadamente, o eixo de intervenção e a ação elegível, o destinatário dos apoios, o montante destes e as obrigações das partes, bem como as condições e consequências do incumprimento.
+2 - Os protocolos a que se refere o número anterior, devem ter nomeadamente, o seguinte conteúdo:
+
+a) Objeto do protocolo;
+
+b) Período de vigência do protocolo, com as datas dos respetivos início e termo;
+
+c) Direitos e obrigações das partes;
+
+d) Definição dos instrumentos financeiros utilizáveis;
+
+e) Quantificação da responsabilidade de financiamento de cada uma das partes;
+
+f) Indicadores de realização;
+
+g) Estrutura de acompanhamento e controle da execução do protocolo;
+
+h) Penalizações face a situações de incumprimento por qualquer das partes.
