@@ -1,0 +1,28 @@
+# Resolução n.º 3/2018
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 4/2018, de 2018-01-08
+
+**Sumário:** Confirma que a Região, na qualidade de acionista da VIAEXPRESSO, não pretende exercer a direito de preferência quanto à transmissão de ações comunicada pelas Acionistas AFAVIAS - Engenharia e Construções, S.A., Andrade Gutierrez - Europa, África, Ásia, S.A. e Tecnovia Madeira - Sociedade de Empreitadas, S.A., a favor da sociedade denominada MIROVA CORE INFRASTRUCTURE SÀRL não obstante a mesma ter lugar já após o decurso do prazo de 60 dias previsto na cláusula 6.7 do Acordo de Parassocial.
+
+## Texto
+
+Resolução n.º 3/2018
+Considerando que, no âmbito do Contrato de Concessão celebrado entre a Região Autónoma da Madeira e a Concessionária de Estradas Viaexpresso da Madeira, S.A., as Acionistas AFAVIAS - Engenharia e Construções, S.A., Andrade Gutierrez - Europa, África, Ásia, S.A. e Tecnovia Madeira - Sociedade de Empreitadas, S.A., deram a conhe-
+
+cer a sua intenção de, em conjunto e no total, transmitirem 23.800 ações, correspondentes a 23,8% que respetivamente detêm no capital social da referida Concessionária, e consequente cessão da respetiva posição contratual nos Contratos Financeiros, Contratos de Projeto e Contratos de Garantias e demais instrumentos jurídicos e acordos celebrados, a favor da sociedade incorporada sob as leis do Luxemburgo denominada MIROVA CORE INFRASTRUCTURE SÀRL.
+Considerando que foram ouvidos os demais Acionistas da VIALITORAL - Concessões Rodoviárias da Madeira, S.A., bem como os Bancos Financiadores da Concessão e que foi entregue toda a documentação necessária para o efeito, quer por estes, quer pelas Sociedades Cedentes e Cessionária.
+Considerando que a MIROVA CORE INFRASTRUCTURE SÀRL declara ser do seu integral conhecimento todas e quaisquer responsabilidades, ónus ou encargos, obrigações presentes e futuras que para a Concessionária de Estradas Viaexpresso da Madeira, S.A. e/ou para os seus Acionistas decorrem ou venham a decorrer do Contrato de Concessão, do Contrato de Financiamento e de todos os demais contratos celebrados, incluindo as obrigações, ónus ou encargos que incidem ou venham a incidir sobre as ações em causa e sobre o Contrato de Concessão.
+Considerando, ainda, que aquela Sociedade Cessionária aceitou aderir na íntegra, expressamente e sem reservas, a todos os direitos, obrigações e responsabilidades, ónus ou encargos decorrentes de todos os instrumentos jurídico / financeiros celebrados pelos Acionistas Cedentes no âmbito do Contrato de Concessão celebrado com a Concessionária de Estradas Viaexpresso da Madeira, S.A., aceitando, para si, de pleno conhecimento e sem reservas, as ações e as posições contratuais que detêm as Sociedades Cedentes.
+Considerando que a transmissão das ações e créditos acima será acompanhada da assunção pela Sociedade Cessionária de todos os direitos e obrigações inerentes à participação que respetivamente adquire e bem assim de todos os direitos e obrigações, responsabilidades, ónus ou encargos que para os Acionistas Cedentes atualmente decorrem de todos os instrumentos jurídico / financeiros celebrados, assumindo, consequentemente e na proporção da participação a adquirir, a posição contratual dos Acionistas Cedentes em todos os contratos e acordos celebrados.
+Considerando que, nos termos da Cláusula 6.ª do Acordo Parassocial, a transmissão a favor da MIROVA CORE INFRASTRUCTURE SÀRL é uma transmissão de ações a favor de terceiro relativamente à qual a Região Autónoma da Madeira, enquanto acionista e nos termos da Resolução
+
+n.º 863/2017, de 20 de novembro, resolveu não exercer o seu direito de preferência.
+Considerando que a Região Autónoma da Madeira, enquanto Concedente, e nos termos e para os efeitos do disposto no Contrato de Concessão e da Resolução nº 1074/2017, de 27 de dezembro, resolveu autorizar a transmissão de 23.800 ações, correspondentes a 23,8% do capital social da Concessionária de Estradas Viaexpresso da Madeira, S.A., sendo 3.600 ações detidas pela AFAVIAS Engenharia e Construções, S.A., 14.000 ações detidas pela Andrade Gutierrez - Europa, África, Ásia, S.A. e 6.200 ações detidas pela Tecnovia - Madeira, Sociedade de Empreitadas, S.A., bem como a correspondente cessão da respetiva posição contratual no Contrato de Concessão e seus Anexos e demais instrumentos jurídicos e acordos celebrados, a favor do Terceiro MIROVA CORE INFRASTRUCTURE SÀRL, num prazo que para os devidos efeitos não deveria exceder os 60 dias, conforme previsto na cláusula 6.7. do Acordo Parassocial.
+Considerando que o prazo acima referido se revelou insuficiente para a concretização da operação.
+O Conselho do Governo reunido em plenário em 4 de janeiro de 2018, resolveu:
+1. Confirmar que a Região Autónoma da Madeira, na qualidade de acionista da VIAEXPRESSO, não pretende exercer a direito de preferência quanto à transmissão de ações acima referida, não obstante a mesma ter lugar já após o decurso do prazo de 60 dias previsto na cláusula 6.7 do Acordo de Parassocial.
+2. Dispensar os Acionistas Vendedores de efetuar qualquer nova notificação à Região Autónoma da Madeira relativamente à transação previamente notificada no âmbito e para efeito da cláusula 6. do Acordo Parassocial.
+3. Mandatar o Secretário Regional dos Equipamentos e Infraestruturas para, em representação da Região Autónoma da Madeira, enquanto Acionista, praticar todos os atos, nomeadamente instrução dos documentos que, neste âmbito e para este efeito, se mostrem necessários.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
