@@ -188,6 +188,8 @@ Versão (se disponível);
 
 (W) Capacidade do(s) depósito(s) de combustível (em litros).
 
+X) Comprovativo da inspeção técnica, data da próxima inspeção técnica ou caducidade do atual certificado.
+
 2.6 - As entidades emissoras podem incluir no certificado de matrícula informações complementares, designadamente acrescentando, entre parêntesis, aos códigos de identificação, conforme estabelecido nos n.os 2.4 e 2.5, códigos nacionais adicionais.
 
 3 - Especificações do certificado de matrícula sob a forma de cartão inteligente:

@@ -12,4 +12,4 @@
 
 5 - A DGV deve entregar à DGRN um montante correspondente às despesas de emissão em que a segunda venha a incorrer, na proporção dos certificados de matrícula que venha a emitir e nos termos do protocolo previsto no artigo 8.º
 
-6 - A DGRN deve compensar o Instituto das Tecnologias de Informação na Justiça (ITIJ) pelos encargos em que este venha a incorrer com a emissão dos certificados de matrícula, na proporção dos certificados que sejam emitidos e nos termos de protocolo a celebrar entre as duas entidades.
+6 - (Revogado.)
