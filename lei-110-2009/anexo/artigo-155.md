@@ -4,7 +4,7 @@
 
 1 - A contribuição dos trabalhadores independentes é devida a partir da produção de efeitos do enquadramento ou da cessação da isenção da obrigação de contribuir.
 
-2 - O pagamento da contribuição prevista no número anterior é mensal e é efectuado até ao dia 20 do mês seguinte àquele a que respeita.
+2 - O pagamento da contribuição prevista no número anterior é mensal e é efetuado entre o dia 10 e o dia 20 do mês seguinte àquele a que respeita
 
 3 - As contribuições das entidades contratantes reportam-se ao ano civil anterior e o prazo para o seu pagamento é fixado até ao dia 20 do mês seguinte ao da emissão do documento de cobrança.
 

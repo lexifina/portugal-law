@@ -2,13 +2,9 @@
 
 ### Produção de efeitos
 
-1 - No caso de primeiro enquadramento no regime dos trabalhadores independentes, o enquadramento só produz efeitos quando o rendimento relevante anual do trabalhador ultrapasse seis vezes o valor do IAS e após o decurso de pelo menos 12 meses.
+1 - No caso de primeiro enquadramento no regime dos trabalhadores independentes, este só produz efeitos no primeiro dia do 12.º mês posterior ao do início de atividade.
 
-2 - Os efeitos referidos no número anterior produzem-se:
-
-a) No 1.º dia do 12.º mês posterior ao do início de actividade quando tal ocorra em data posterior a Setembro;
-
-b) No 1.º dia do mês de novembro do ano subsequente ao do início de atividade nos restantes casos.
+2 - (Revogado.)
 
 3 - No caso de reinício de actividade, o enquadramento produz efeitos no 1.º dia do mês do reinício.
 

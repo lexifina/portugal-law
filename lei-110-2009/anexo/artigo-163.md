@@ -2,20 +2,18 @@
 
 ### Base de incidência contributiva dos trabalhadores independentes
 
-1 - Sem prejuízo do disposto nos artigos seguintes, constitui base de incidência contributiva o escalão de remuneração determinado por referência ao duodécimo do rendimento relevante.
+1 - A base de incidência contributiva mensal corresponde a 1/3 do rendimento relevante apurado em cada período declarativo, produzindo efeitos no próprio mês e nos dois meses seguintes.
 
-2 - Ao duodécimo do rendimento relevante, convertido em percentagem do IAS, corresponde o escalão de remuneração convencional cujo valor seja imediatamente inferior.
+2 - Para efeitos do disposto no número anterior, quando se verifique a inexistência de rendimentos ou o valor das contribuições devidas por força do rendimento relevante apurado seja inferior a (euro) 20,00, é fixada a base de incidência que corresponda ao montante de contribuições naquele valor.
 
-3 - Constituem escalões de base de incidência contributiva os seguintes escalões de remuneração convencional determinados em função do valor do IAS:
+3 - Sempre que o rendimento relevante seja apurado nos termos do n.º 3 do artigo anterior, a base de incidência mensal corresponde ao duodécimo do lucro tributável, com o limite mínimo de 1,5 vezes o valor do IAS, sendo fixada em outubro para produzir efeitos no ano civil seguinte.
 
-(ver documento original)
+4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestralmente de montante igual ou superior a 4 vezes o valor do IAS, que acumulem atividade com atividade profissional por conta de outrem nos termos da alínea a) do artigo 157.º, corresponde ao valor que ultrapasse aquele limite.
 
-4 - Sempre que o rendimento relevante tenha sido apurado nos termos do n.º 3 do artigo anterior, o limite mínimo da base de incidência contributiva corresponde ao 2.º escalão.
-
-5 - A base de incidência contributiva é fixada anualmente em Outubro e produz efeitos nos 12 meses seguintes.
+5 - A base de incidência contributiva considerada em cada mês tem como limite máximo 12 vezes o valor do IAS.
 
 6 - (Revogado.)
 
 7 - (Revogado.)
 
-8 - A atualização da base de incidência resultante da atualização do IAS produz efeitos a partir da fixação anual da base de incidência contributiva, prevista no n.º 5, posterior à entrada em vigor do diploma que procede àquela atualização.
+8 - O valor previsto no n.º 2 é atualizado de acordo com a atualização do IAS.

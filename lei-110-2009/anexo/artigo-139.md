@@ -14,10 +14,14 @@ d) Os proprietários de embarcações de pesca local e costeira, que integrem o 
 
 e) Os apanhadores de espécies marinhas e os pescadores apeados.
 
-f) Os titulares de rendimentos da categoria B resultantes exclusivamente da produção de eletricidade por intermédio de unidades de microprodução, quando estes rendimentos sejam excluídos de tributação em IRS, nos termos previstos no regime jurídico próprio;
+f) Os titulares de rendimentos da categoria B resultantes exclusivamente de:
+
+i) Produção de eletricidade para autoconsumo ou através de unidades de pequena produção a partir de energias renováveis, nos termos previstos no regime jurídico próprio;
+
+ii) Contratos de arrendamento e de arrendamento urbano para alojamento local em moradia ou apartamento, nos termos previstos no regime jurídico próprio.
 
 g) Os agricultores que recebam subsídios ou subvenções no âmbito da Política Agrícola Comum (PAC) de montante anual inferior a quatro vezes o valor do IAS e que não tenham quaisquer outros rendimentos suscetíveis de os enquadrar no regime dos trabalhadores independentes.
 
 2 - Para efeitos da exclusão prevista na alínea c) do número anterior apenas relevam os regimes de protecção social estrangeiros cujo âmbito material integre, pelo menos, as eventualidades de invalidez, velhice e morte, sendo ainda aplicável, com as devidas adequações, o disposto nos n.os 2 e 3 do artigo anterior.
 
-3 - Os sujeitos previstos nas alíneas d) e e) são excluídos do regime de trabalhador independente atendendo à especificidade de apuramento da base contributiva da sua actividade, estando sujeitos ao regime previsto nos artigos 97.º a 99.º
+3 - Os sujeitos previstos nas alíneas d) e e) do n.º 1 são excluídos do regime dos trabalhadores independentes atendendo à especificidade de apuramento da base contributiva da sua atividade, estando sujeitos ao regime previsto nos artigos 97.º a 99.º

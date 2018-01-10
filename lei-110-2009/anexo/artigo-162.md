@@ -6,16 +6,18 @@
 
 ### Determinação do rendimento relevante
 
-1 - O rendimento relevante do trabalhador independente é determinado nos seguintes termos:
+1 - O rendimento relevante do trabalhador independente é determinado com base nos rendimentos obtidos nos três meses imediatamente anteriores ao mês da declaração trimestral, nos seguintes termos:
 
-a) 70 % do valor total de prestação de serviços no ano civil imediatamente anterior ao momento de fixação da base de incidência contributiva;
+a) 70 % do valor total de prestação de serviços;
 
-b) 20 % dos rendimentos associados à produção e venda de bens no ano civil imediatamente anterior ao momento de fixação da base de incidência contributiva.
+b) 20 % dos rendimentos associados à produção e venda de bens.
 
 2 - A determinação do rendimento relevante dos trabalhadores independentes que prestem serviços no âmbito de atividades hoteleiras e similares, restauração e bebidas, e que o declarem fiscalmente como tal, é feita, relativamente a esses rendimentos, nos termos da alínea b) do número anterior.
 
-3 - O rendimento relevante do trabalhador independente abrangido pelo regime de contabilidade organizada, previsto no Código do Imposto sobre o Rendimento das Pessoas Singulares, corresponde ao valor do lucro tributável sempre que este seja de valor inferior ao que resulta do critério constante dos números anteriores.
+3 - O rendimento relevante do trabalhador independente abrangido pelo regime de contabilidade organizada, previsto no Código do Imposto sobre o Rendimento das Pessoas Singulares, corresponde ao valor do lucro tributável apurado no ano civil imediatamente anterior.
 
-4 - Os rendimentos excluídos de tributação em IRS resultantes da produção de eletricidade por intermédio de unidades de microprodução, nos termos previstos no regime jurídico próprio, não são considerados para efeitos de determinação do rendimento relevante dos trabalhadores independentes.
+4 - Os rendimentos não considerados para efeitos de determinação do rendimento relevante são previstos em legislação regulamentar, sem prejuízo de o trabalhador independente poder optar pela sua consideração.
 
-5 - O rendimento referido nos números anteriores é apurado pela instituição de segurança social competente com base nos valores declarados para efeitos fiscais.
+5 - O rendimento referido nos números anteriores é apurado pela instituição de segurança social competente com base nos valores declarados pelo trabalhador independente, bem como nos valores declarados para efeitos fiscais.
+
+6 - Para efeitos do presente artigo, a administração fiscal comunica oficiosamente à instituição de segurança social competente, por via eletrónica, os rendimentos dos trabalhadores independentes declarados.
