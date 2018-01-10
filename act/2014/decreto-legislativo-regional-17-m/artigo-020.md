@@ -20,10 +20,10 @@
 
 7 - A concedente obriga-se a consagrar, nas cláusulas e condições que venham a servir de base à atribuição da futura concessão do sistema, a obrigação do novo concessionário assumir e integrar os trabalhadores da concessionária afetos à concessão, nos termos da lei.
 
-8 - Aos trabalhadores em funções públicas a exercer atividade em regime de cedência de interesse público na ARM - Águas e Resíduos da Madeira, S. A., que, anteriormente à vigência da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, retificada pela Declaração de Retificação n.º 37-A/2014, de 19 de agosto, e alterada pelas Leis n.os 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, mantiveram o estatuto profissional de origem e se encontram afetos à atividade de regadio, incluídos em escala de disponibilidade da empresa, é atribuído, enquanto se mantiverem no exercício dessas funções, um suplemento de disponibilidade de regadio, que visa compensar a disponibilidade permanente inerente às funções, de acordo com o previsto nos números seguintes.
+8 - (Revogado).
 
-9 - O regime, incluindo o montante e demais condições de atribuição do suplemento a que se refere o número anterior, são os que vigorarem para o correspondente suplemento atribuído aos trabalhadores em regime de direito privado da ARM - Águas e Resíduos da Madeira, S. A., afetos à atividade de regadio.
+9 - (Revogado).
 
-10 - O suplemento a que se refere o presente artigo, não é cumulável com o acréscimo remuneratório fixado na LTFP, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, retificada pela Declaração de Retificação n.º 37-A/2014, de 19 de agosto, e alterada pelas Leis n.os 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, para a prestação de trabalho suplementar.
+10 - (Revogado).
 
-11 - Com a entrada em vigor da revisão do acordo de empresa a que se refere o preâmbulo do Decreto Legislativo Regional n.º 38/2016/M, de 17 de agosto, cessa a vigência do disposto nos n.os 8 a 10 do presente artigo.
+11 - (Revogado).
