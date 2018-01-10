@@ -2,7 +2,7 @@
 
 ### Entidades contratantes
 
-1 - As pessoas colectivas e as pessoas singulares com actividade empresarial, independentemente da sua natureza e das finalidades que prossigam, que no mesmo ano civil beneficiem de pelo menos 80 % do valor total da actividade de trabalhador independente, são abrangidas pelo presente regime na qualidade de entidades contratantes.
+1 - As pessoas coletivas e as pessoas singulares com atividade empresarial, independentemente da sua natureza e das finalidades que prossigam, que no mesmo ano civil beneficiem de mais de 50 % do valor total da atividade de trabalhador independente, são abrangidas pelo presente regime na qualidade de entidades contratantes.
 
 2 - A qualidade de entidade contratante é apurada apenas relativamente aos trabalhadores independentes que se encontrem sujeitos ao cumprimento da obrigação de contribuir e tenham um rendimento anual obtido com prestação de serviços igual ou superior a seis vezes o valor do IAS.
 

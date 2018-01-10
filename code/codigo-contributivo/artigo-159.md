@@ -12,4 +12,4 @@ c) Se verifique período de comprovada incapacidade ou indisponibilidade para o 
 
 d) Se verifique situação de incapacidade temporária para o trabalho, independentemente de haver, ou não, direito ao subsídio de doença, nos termos estabelecidos no número seguinte.
 
-2 - A inexistência da obrigação de contribuir a que se reporta a alínea d) do número anterior inicia-se a partir da verificação da incapacidade temporária, se a mesma conferir direito ao subsídio sem exigência do período de espera, e no 31.º dia posterior àquela verificação, nas demais situações.
+2 - A inexistência da obrigação de contribuir a que se reporta a alínea d) do número anterior inicia-se a partir da verificação da incapacidade temporária, se a mesma conferir direito ao subsídio sem exigência do período de espera, e após este período, nas demais situações.
