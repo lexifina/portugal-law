@@ -12,4 +12,10 @@
 
 5 - O cargo de coordenador geral é exercido em regime de comissão de serviço pelo período de 3 anos, renovável por igual período, com remuneração correspondente ao nível remuneratório 25 da tabela única.
 
-6 - O recrutamento para o cargo de coordenador geral far-se-á mediante procedimento concursal nos termos a fixar através de Portaria conjunta dos membros do Governo Regional que tutelam o setor florestal e a administração pública regional e local.
+6 - O recrutamento para o cargo de coordenador geral far-se-á mediante procedimento concursal nos termos a fixar através de Portaria conjunta dos membros do Governo Regional que tutelam o setor florestal e a administração pública regional, de entre:
+
+a) Trabalhadores em funções públicas com vínculo de emprego público por tempo indeterminado, integrados na carreira de guarda florestal que detenham, no mínimo, oito anos de serviço efetivo na respetiva carreira com avaliação do desempenho não inferior a adequado, ou;
+
+b) Trabalhadores em funções públicas com vínculo de emprego público por tempo indeterminado, integrados em carreiras de grau 2 de complexidade funcional que detenham, no mínimo, doze anos de serviço efetivo na respetiva carreira com avaliação do desempenho não inferior a adequado, ou;
+
+c) Trabalhadores em funções públicas com vínculo de emprego público por tempo indeterminado, integrados em carreiras de grau 3 de complexidade funcional.
