@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2018-01-10, processo 01284/17
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01284/17
+
+**Data do Acordão:** 01/10/2018
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ASCENSÃO LOPES
+
+**Descritores:** PARQUE EÓLICO; IMPOSTO MUNICIPAL SOBRE IMÓVEIS; MATRIZ PREDIAL
+
+**Nº Convencional:** JSTA000P22751
+
+**Nº do Documento:** SA22018011001284
+
+**Data de Entrada:** 11/16/2017
+
+**Recorrente:** PE... - PARQUE EÓLICO DA ............., SA
+
+**Recorrido 1:** AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Para efeitos de Imposto Municipal sobre Imóveis, “prédio” é toda a fracção de território, abrangendo águas, plantações, edifícios e construções de qualquer natureza nela incorporados ou assentes com carácter de permanência (elemento físico), que faça parte do património de uma pessoa singular ou colectiva (elemento jurídico) e que em circunstâncias normais tenha valor económico (elemento económico) – art. 2º do CIMI.
+
+II - Um Parque Eólico estrutura-se sobre uma fracção de território, que ocupa, organizando-se com variados e interligados elementos constituintes ou partes componentes (onde se destacam os aerogeradores conectados em paralelo, os postos de transformação, as linhas áreas e os cabos subterrâneas de ligação, a subestação e o centro de comando), com ligação ao solo com carácter de permanência, sendo esse conjunto de elementos imprescindível à actividade económica que se pretende desenvolver: a produção de energia eléctrica, através da actividade de transformação da energia eólica, e a sua injecção no sistema eléctrico de potência para venda de acordo com a tarifa regulada em Portugal, sendo essa injecção ou conexão ao sistema eléctrico um dos principais parâmetros de um parque eólico.
+
+III - Os elementos constituintes e partes componentes de um parque eólico não podem, de per si, ser considerados como prédios urbanos da espécie “outros”, na medida em que não constituem partes economicamente independentes, isto é, não têm aptidão suficiente para, por si só, desenvolverem a referida actividade económica, caracterizando-se como elementos ad integrandum domum, sem autonomia económica relativamente ao todo de que fazem parte.
+
+IV - Nas situações em que um Parque Eólico é constituído por diversos subparques que se encontram funcionalmente interligados entre si, não possuindo autonomia económica relativamente ao todo de que fazem parte, não é aceitável a inscrição oficiosa na matriz predial de cada subparque como um prédio urbano da espécie “outros”, nem, por consequência, a sua avaliação como tal.
