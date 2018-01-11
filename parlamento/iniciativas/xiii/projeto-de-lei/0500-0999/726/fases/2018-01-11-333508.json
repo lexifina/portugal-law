@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "726",
+    "id": "42008",
+    "titulo": "Regula a utilização da planta, substâncias e preparações de canábis para fins medicinais"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2018-01-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "41879",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2018-02-08",
+            "id": "107754",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-02-15",
+            "id": "107802",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-02-20",
+            "id": "107832",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-02-22",
+            "id": "107862",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-01",
+            "id": "107942",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-06",
+            "id": "107981",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-07",
+            "id": "107978",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-08",
+            "id": "108042",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-08",
+            "id": "108041",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-15",
+            "id": "108132",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-03-20",
+            "id": "108166",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-04-10",
+            "id": "108359",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-04-10",
+            "id": "108358",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-01-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-01-11",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-03-13",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "1ª Prorrogação do Prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e32457a4f44466b4f533079595745344c54526c4d544d744f54646b4e4330354e5449795a444e6a4e7a5a684f474d756347526d&fich=f7a381d9-2aa8-4e13-97d4-9522d3c76a8c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "2.ª prorrogação do prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878596a426d4e47566b4d53316c5954426d4c5452684d7a6774595467775a69307a596a6b794f4459784d4459325a6d51756347526d&fich=1b0f4ed1-ea0f-4a38-a80f-3b92861066fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Carta aberta - Elza Maria Martins de Sousa Cunha e outros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5749784f574d7a4d5330784e4751324c5452694e544974596d49304d7930334d57526b4d5449354e4756684f4751756347526d&fich=a1b19c31-14d6-4b52-bb43-71dd1294ea8d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "CNECV Parecer_103_2018_canabis aprovado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a574977595459784e5330335932466a4c5451795a47497459575533596930774e4441775954686b5a6a45774e6a55756347526d&fich=7eb0a615-7cac-42db-ae7b-0400a8df1065.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-16",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e3259335a545269596931695a4451774c5451334d4451744f4749314e793077596d55345a446b794d54677a5a5463756347526d&fich=e7f7e4bb-bd40-4704-8b57-0be8d92183e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Associação Portuguesa de Adictologia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879596d56694d6d4e685a4331695932597a4c5451324e3259744f5449784d43307a5a6a64684d546468597a4532596a45756347526d&fich=2beb2cad-bcf3-467f-9210-3f7a17ac16b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-02-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Direção Geral de Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354e6d51314e4759775a6930304d32457a4c5452694d6a5974596a526a4e4330354f54646a4d474d334d47557859544d756347526d&fich=96d54f0f-43a3-4b26-b4c4-997c0c70e1a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-03-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Nélson Carvalho Director do UCAD Instituto de Administração da Saúde, IP-RAM",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784e6a686c4d44457a4e6930305a575a6c4c5451784f546774596a677a4d7930795a4441354f446b794f44526b4e5441756347526d&fich=168e0136-4efe-4198-b833-2d0989284d50.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-02-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Farmacêuticos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d6a4a6d4d6a4a6d597930795a6d55334c5451344d6d4d744f4452684d5330784f4459784f5751784d475579596a51756347526d&fich=422f22fc-2fe7-482c-84a1-18619d10e2b4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer 103 CNECV_Canabis_RELATORIO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d7a6b334d6a6330595330324e4749324c54526d4e5455744f4442695979316d5a54466a4d7a64695a4456694e5751756347526d&fich=8397274a-64b6-4f55-80bc-fe1c37bd5b5d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-15",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Relatório de Discussão e Votação do texto de substituição da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d32566c5a6a566c4e6930334e6a526c4c54517a4e545174596a59305979316c5a574d324e7a4535595441314f4451756347526d&fich=73eef5e6-764e-4354-b64c-eec6719a0584.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-15",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6d52684d5467334e6930304f4467784c54526a4d7a6b744f5751354e6930315a44426d5a4759314e7a45304e6d4d756347526d&fich=66da1876-4881-4c39-9d96-5d0fdf57146c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4532",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "4532",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-01-11",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "333508",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
