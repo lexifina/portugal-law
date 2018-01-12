@@ -4,7 +4,7 @@
 
 1 - O Estado comparticipa o preço dos dispositivos médicos quando destinados a beneficiários do SNS que apresentem prescrição médica, nos termos seguintes:
 
-a) O valor máximo da comparticipação do Estado no custo de aquisição das tiras-teste para pessoas com diabetes corresponde a 85 % do PVP máximo referido no n.º 2 do artigo 5.º;
+a) O valor máximo da comparticipação do Estado no custo de aquisição das tiras-teste para determinação de glicose intersticial para pessoas com diabetes corresponde a 85 % do PVP máximo referido no n.º 2 do artigo 5.º;
 
 b) O valor máximo da comparticipação do Estado no custo de aquisição das agulhas, seringas e lancetas para pessoas com diabetes corresponde a 100 % do PVP máximo referido no n.º 2 do artigo 5.º;
 

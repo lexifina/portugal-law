@@ -24,7 +24,9 @@ c) Para determinação de corpos cetónicos na urina (preço unitário) - 0,0767
 
 d) Agulhas e seringas (preço unitário) - 0,0719 EUR;
 
-e) Lancetas (preço unitário) - 0,0575 EUR.
+e) Lancetas (preço unitário) - 0,0575 EUR;
+
+f) Sensor para determinação de glicose intersticial - 53,00 EUR.
 
 3 - No caso de embalagens com mais de 50 tiras-teste para determinação de glicose no sangue, deduz-se 10 % ao preço unitário referido no número anterior, passando este a ser considerado o PVP máximo.
 
