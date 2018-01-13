@@ -10,11 +10,13 @@ i) Incidam em espaços florestais com uma superfície mínima de investimento de
 
 ii) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a (euro) 3 000;
 
-iii) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos, 20 % da capacidade produtiva da floresta foi destruída em virtude de pragas ou da aplicação de medidas adotadas para erradicação ou contenção dos parasitas das plantas, em conformidade com o Decreto-Lei n.º 154/2005, de 6 de setembro, com a última redação dada pelo Decreto-Lei n.º 170/2014, de 7 de novembro;
+iii) Apresentem coerência técnica;
 
-iv) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos, 20 % da capacidade produtiva da floresta foi destruída em virtude de pragas ou da aplicação de medidas adotadas para erradicação ou contenção dos parasitas das plantas, em conformidade com o Decreto-Lei n.º 154/2005, de 6 de setembro, com a última redação dada pelo Decreto-Lei n.º 170/2014, de 7 de novembro;
 
-v) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF;
+v) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+
+vi) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF;
 
 b) Agentes abióticos:
 
@@ -22,10 +24,12 @@ i) Incidam em espaços florestais com uma superfície mínima de investimento de
 
 ii) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a (euro) 3 000;
 
-iii) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos, 20 % da capacidade produtiva da floresta foi destruída, em virtude de incêndio, calamidade natural ou acontecimento catastrófico;
+iii) Apresentem coerência técnica;
 
-iv) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos, 20 % da capacidade produtiva da floresta foi destruída, em virtude de incêndio, calamidade natural ou acontecimento catastrófico;
 
-v) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF.
+v) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+
+vi) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF.
 
 2 - São excluídos os investimentos relativos a atividades agrícolas, incluindo pastagens em rede primária de faixas de gestão de combustível, localizados em superfícies que beneficiem de apoio agroambiental.

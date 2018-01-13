@@ -8,13 +8,17 @@ a) Controlo de agentes bióticos nocivos em espaços florestais situados em áre
 
 i) Controlo de Bursaphelenchus xylophilus, em coníferas hospedeiras;
 
-ii) Controlo do declínio de montados de sobro e azinho afetados, entre outras, por Phytophthora spp. e Platypus cylindrus;
+ii) Controlo do declínio de montados de sobro e azinho afetados, entre outras, por Phytophthora spp., Platypus cylindrus, Lymantria dispar e Coroebus undatus;
 
-iii) Controlo do declínio de povoamentos de castanheiro afetados por Phytophthora spp. ou Cryphonectria parasítica;
+iii) Controlo do declínio de povoamentos de castanheiro afetados por Phytophthora spp., Cryphonectria parasitica e Dryocosmus kuriphilus;
 
-iv) Controlo de Gonipterus platensis ou Phoracanta spp., em povoamentos de eucaliptos;
+iv) Controlo de Gonipterus platensis e Phoracanta spp., em povoamentos de eucaliptos;
 
-b) Controlo de espécies invasoras lenhosas;
+v) Controlo de Leptoglossus occidentalis, em povoamentos de pinheiro-manso;
+
+vi) Controlo de espécies invasoras lenhosas;
+
+b) (Revogada.)
 
 c) Defesa da floresta contra agentes abióticos:
 

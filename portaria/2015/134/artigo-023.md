@@ -8,4 +8,10 @@ a) Incidam em áreas afetadas superiores a 750 ha identificadas pelo ICNF, I. P.
 
 b) Correspondam a ações que estejam em consonância com intervenções identificadas em relatório de estabilização de emergência ou Plano de Intervenção, no caso dos incêndios florestais, ou em relatórios de avaliação elaborados pelo ICNF, I. P., após a ocorrência que determina a intervenção, nos restantes casos.
 
+c) Incidam em espaços florestais com uma superfície mínima de investimento de 0,5 ha;
+
+d) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a (euro) 3 000;
+
+e) Apresentem coerência técnica.
+
 2 - São excluídos os investimentos relativos a atividades agrícolas, incluindo pastagens em rede primária de faixas de gestão de combustível, localizados em superfícies que beneficiem de apoio agroambiental.

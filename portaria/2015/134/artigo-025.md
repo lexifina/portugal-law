@@ -2,9 +2,9 @@
 
 ### Critérios de seleção das candidaturas
 
-1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo são considerados, designadamente, os seguintes critérios:
+1 - Para efeitos de seleção das candidaturas aos apoios previstos no presente capítulo, sem prejuízo do uso de critérios específicos para determinadas operações ou tipologias de investimento e do princípio da coesão territorial, são considerados, designadamente, os seguintes critérios gerais comuns:
 
-a) Candidaturas respeitantes a investimentos apresentados por entidades gestoras de ZIF ou por aderentes de ZIF;
+a) Candidaturas respeitantes a investimentos apresentados por entidades gestoras de ZIF;
 
 b) Candidaturas respeitantes a investimentos em espaços florestais com certificação de gestão florestal;
 
