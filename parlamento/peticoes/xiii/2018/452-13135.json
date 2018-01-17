@@ -1,0 +1,560 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13135",
+  "numero": "452",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-01-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-16",
+            "entidades": null,
+            "id": "111156",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-16 com SNTCT - Sindicato Nacional dos Trabalhadores dos Correios e Telecomunicações"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-06-20",
+            "dataResposta": null,
+            "entidades": [
+              "S.E.  DOS  ASSUNTOS  PARLAMENTARES"
+            ],
+            "nrOficio": "141/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "855526",
+                "obs": null,
+                "pag": [
+                  "9-11"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-05",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/040/2019-04-05/9?pgs=9-11&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-02-07",
+        "DataArquivo": "2019-03-27",
+        "DataBaixaComissao": "2018-01-29",
+        "DataEnvioPAR": "2019-03-29",
+        "DataReaberta": "2018-02-07",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-02-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f54426b59324e6a4e6a6b74596a4a6b595330304d6a6c6b4c5745354d546b74596d526b4e574579596a566d4f446b334c6e426b5a673d3d&fich=90dccc69-b2da-429d-a919-bdd5a2b5f897.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-06-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f574d354f4455334f5445744e446b794d4330304e7a59354c574977597a51744f5755325a57517a596a526b595455344c6e426b5a673d3d&fich=9c985791-4920-4769-b0c4-9e6ed3b4da58.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-04-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d7a4531596d56684e5441745a445a684f4330304d7a59334c546c6c5a6d5574596a67314e6a4e6d4d7a457a5a4449314c6e426b5a673d3d&fich=315bea50-d6a8-4367-9efe-b8563f313d25.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-02-07",
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-01-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d4467335a6a4134596930774d5745334c545268596a63745954646a4d69307a5a6d4e6c4e7a4a6a5a4459324d3245756347526d&fich=5087f08b-01a7-4ab7-a7c2-3fce72cd663a.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:20:51:286&drc=00:04:50:859"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:25:42:145&drc=00:03:37:651"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:29:19:797&drc=00:03:47:312"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:33:07:109&drc=00:04:59:045"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:38:06:155&drc=00:03:32:127"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/27?pgs=27-29&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:41:38:282&drc=00:02:42:930"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=01:44:21:212&drc=00:02:15:192"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Estabelece o regime de recuperação do controlo público dos CTT; Estabelece o regime para a nacionalização dos CTT; Reversão da privatização dos CTT; Recomenda ao Governo que salvaguarde a qualidade do serviço público postal universal",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13135",
+    "PetAssunto": "Reversão da privatização dos CTT Correios de Portugal",
+    "PetDataEntrada": "2018-01-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13135",
+    "PetLeg": "XIII",
+    "PetNr": "452",
+    "PetNrAssinaturas": "8878",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2633",
+        "obs": null,
+        "pag": [
+          "24-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-12-20",
+        "pubLeg": "XIV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/24?pgs=24-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "809206",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-09",
+        "pubLeg": "XIII",
+        "pubNr": "26",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/026/2018-02-09/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
