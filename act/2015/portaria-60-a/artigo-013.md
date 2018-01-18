@@ -34,7 +34,7 @@ i) Encargos com alimentação de formandos, independentemente da sua situação 
 
 j) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;
 
-k) Encargos com seguros de acidentes pessoais, no caso de jovens a frequentar ofertas formativas no contexto do sistema de ensino ou aprendizagem ou de formandos ativos desempregados e formandos inativos, e ainda encargos com seguros de acidentes de trabalho, no caso dos empregados;
+k) Encargos com seguros de acidentes pessoais dos formandos inativos, ativos desempregados ou ativos empregados que frequentem formação por sua iniciativa;
 
 l) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.
 
@@ -66,4 +66,4 @@ Nhf = número mensal de horas de formação frequentadas pelo formando.
 
 10 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.
 
-11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 2 e 3, não pode ultrapassar o valor de 100 % do IAS.
+11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 3 e 4, não pode ultrapassar o valor de 100 % do IAS.

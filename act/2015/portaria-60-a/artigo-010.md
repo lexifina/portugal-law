@@ -10,4 +10,6 @@
 
 4 - No caso das candidaturas relativas a tipologias de operação abrangidas pelos Pactos para o Desenvolvimento e Coesão Territorial e pelo Desenvolvimento Local de Base Comunitária, o período de elegibilidade das despesas inicia-se à data de assinatura do Pacto ou do contrato para a gestão da Estratégia de Desenvolvimento Local de Base Comunitária.
 
-5 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+5 - O período de elegibilidade inicial fixado no n.º 1, em situações devidamente fundamentadas, a definir em sede de aviso para apresentação de candidaturas, pode ser fixado num período máximo de elegibilidade até 120 dias úteis anteriores à data da sua abertura.
+
+6 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
