@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1006",
+    "id": "41602",
+    "titulo": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na rede rodoviária nacional"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2018-01-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12648",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2018-01-19",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "42026",
+        "leg": "XIII",
+        "nr": "1233",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2441",
+            "obs": null,
+            "pag": [
+              "12-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-20",
+            "pubLeg": "XIII",
+            "pubNr": "38",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-18&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2441",
+            "obs": null,
+            "pag": [
+              "12-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-20",
+            "pubLeg": "XIII",
+            "pubNr": "38",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-18&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Medidas de monitorização e mitigação do atropelamento de animais nas estradas"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "42031",
+        "leg": "XIII",
+        "nr": "1238",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2441",
+            "obs": null,
+            "pag": [
+              "12-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-20",
+            "pubLeg": "XIII",
+            "pubNr": "38",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-18&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2441",
+            "obs": null,
+            "pag": [
+              "12-18"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-20",
+            "pubLeg": "XIII",
+            "pubNr": "38",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-18&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adopte medidas preventivas de acordo com os resultados"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-01-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:36:26:208&drc=00:04:32:297"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:40:58:505&drc=00:02:37:469"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:43:35:974&drc=00:03:31:099"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:00:44:690&drc=00:01:07:177"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15",
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/14?pgs=14-15,18&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4186",
+                "nome": "Eurídice Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:47:07:074&drc=00:03:53:065"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5685",
+                "nome": "José Carlos Barros"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:51:00:139&drc=00:03:04:731"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:54:04:871&drc=00:03:25:039"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:02",
+            "horaTermo": "12:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_19_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:57:29:911&drc=00:03:14:778"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-20",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/17?pgs=17&org=PLC"
+              }
+            ],
+            "sumario": "Programa de monitorização e de minimização de atropelamento de fauna selvagem na Rede Rodoviária Nacional; Recomenda ao Governo que proceda a um estudo de impacto do atropelamento de animais no ecossistema e adote medidas preventivas de acordo com os resultados e Medidas de monitorização e mitigação do atropelamento de animais nas estradas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "333640",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "808723",
+        "obs": null,
+        "pag": [
+          "12-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-20",
+        "pubLeg": "XIII",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/038/2018-01-20/12?pgs=12-18&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
