@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "223653",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Miguel Santos (PSD)",
+  "data_registo": "2018-01-24",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "33061",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33061",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Aponta diversos problemas com que se debate a área da saúde, que atribuiu a políticas erradas prosseguidas pelo Governo."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Pede esclarecimento a Isabel Galriça Neto acerca da sua declaração sobre os problemas com que se debate a área da saúde e as políticas erradas prosseguidas pelo Governo.",
+        "duracao": "00:02:44:198",
+        "tipoIntervencao": "Pedido de esclarecimento",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2018_01_24_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=01:14:53:445&drc=00:02:44:198"
+      }
+    ],
+    "DataReuniaoPlenaria": "2018-01-24",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "2071",
+      "nome": "Miguel Santos"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "223653",
+    "IdDebate": "5250",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "223653",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "23-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-25",
+        "pubLeg": "XIII",
+        "pubNr": "39",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/039/2018-01-25/23?pgs=23&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "À Deputada Isabel Galriça Neto (CDS-PP)",
+    "Sessao": "3",
+    "Sumario": "Aponta diversos problemas com que se debate a área da saúde, que atribuiu a políticas erradas prosseguidas pelo Governo.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
