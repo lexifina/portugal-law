@@ -1,0 +1,22 @@
+Edital n.º 104/2018
+Publicitação do início do procedimento e participação procedimental para o projeto da 1.ª Alteração ao Regulamento Municipal de Apoio a Instituições Particulares de Solidariedade Social.
+Alexandre Branco Gaudêncio, Presidente da Câmara Municipal da Ribeira Grande,
+Torna público que decidiu dar início ao procedimento e participação procedimental do projeto de 1.ª Alteração ao Regulamento Municipal de Apoio a Instituições Particulares de Solidariedade Social, em conformidade com os fundamentos que abaixo se transcrevem, para cumprimento do previsto no artigo 98.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, pelo período de 30 (trinta) dias, a contar a partir da publicação do presente Edital, através da sua publicitação na página oficial da Câmara em www.cm-ribeiragrande.pt.
+Os interessados poderão apresentar contributos, por escrito, para a elaboração do referido Regulamento, dirigidos à Câmara Municipal da Ribeira Grande, por ofício enviado ou entregue nos serviços de atendimento ao munícipe, ou através do correio eletrónico geralcmrg@cm-ribeiragrande.pt, dentro do mesmo prazo.
+Nota justificativa
+Depois de se proceder a uma análise do funcionamento e aplicação do Regulamento Municipal de Apoio a Instituições Particulares de Solidariedade Social da Ribeira Grande, em vigor, sente-se a necessidade de o rever, ampliando o âmbito dos apoios concedidos através do mesmo, bem como adequando as normas que se mostraram impeditivas de uma atuação mais concreta e direcionada do município.
+Pretende-se que, com a alteração ao presente Regulamento, a Câmara Municipal da Ribeira Grande possa alcançar os seguintes objetivos, em matéria de solidariedade, inserção e coesão social:
+1 - Reforçar a capacidade instalada no concelho ao nível dos serviços e valências sociais e equiparadas, quanto à capacidade de respostas que detêm, bem como contribuir para minorar as problemáticas sociais concelhias;
+2 - Contribuir para a promoção da inserção e da coesão social de pessoas e de grupos mais desfavorecidos e/ou em situações de vulnerabilidade;
+3 - Contribuir para a promoção da inserção no mercado de trabalho de cidadãos em idade ativa, para que também com a sua formação, experiência e conhecimentos teóricos, possam contribuir para a melhoria contínua dos processos e dos procedimentos próprios das IPSS's.
+Por outro lado, a atribuição de apoios autárquicos às IPSS's pode visar o desenvolvimento de projetos programáticos da própria Câmara Municipal, nas mesmas áreas de solidariedade, inserção e coesão social.
+Assim, julga-se conseguir a concretização destes objetivos através da inclusão da possibilidade de estabelecimento de apoios a programas que permitam:
+Colocação de cidadãos residentes no Concelho da Ribeira Grande em programas de emprego e/ou regime de estágio profissional;
+Prestação do serviço de transportes de grupos populacionais específicos e justificados do ponto de vista social;
+O desenvolvimento de iniciativas culturais e sociais destinadas a cidadãos que se encontram em situação de vulnerabilidade social;
+O desenvolvimento de iniciativas culturais de Solidariedade Social;
+Outro tipo de situações devidamente justificadas pela relevância que possam ter sob o ponto de vista histórico e social.
+Nesse contexto, e dada a importância de se definir novos critérios de apoios específicos e diferenciados, como ferramenta essencial para o desenvolvimento das atividades sociais, considera-se indispensável a elaboração desta alteração regulamentar.
+Assim, atendendo que os municípios dispõem de atribuições no domínio da promoção do desenvolvimento, e considerando que para a execução das referidas atribuições são conferidas aos órgãos municipais competências ao nível do apoio, nos respetivos concelhos, previstas nas al. k), o), p) e u) do n.º 1 do artigo 33.º e al. g), do n.º 1, do art. 25.º, do Regime Jurídico das Autarquias Locais, Decreto-Lei n.º 75/2013, de 12 de setembro, o presente procedimento para a alteração deste regulamento que se inicia é elaborado ao abrigo do uso da competência regulamentar conferida pelos artigos 112.º e 241.º da Constituição da República Portuguesa, em cumprimento do previsto nos artigos 96.º e seguintes do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+12 de janeiro de 2018. - O Presidente da Câmara, Alexandre Branco Gaudêncio.
+311061654
