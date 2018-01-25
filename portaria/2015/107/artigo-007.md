@@ -6,7 +6,7 @@
 
 2 - Podem beneficiar dos apoios à ação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e que reúnam as seguintes condições:
 
-a) Se enquadrem num dos sectores identificados no anexo I à presente portaria da qual faz parte integrante, ou se insiram no âmbito da comercialização dos produtos desses sectores ou na comercialização de produtos agrícolas;
+a) Incidam sobre a conservação, preparação e comercialização ou transformação de produtos agrícolas, cujo produto final resultante seja um produto agrícola;
 
 b) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a 10.000 euros e inferior ou igual a 200.000 euros;
 

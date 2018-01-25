@@ -12,6 +12,8 @@ c) Candidatura com investimento em melhoramentos fundiários e plantações;
 
 d) Candidatura com investimento relacionado com proteção e utilização eficiente dos recursos.
 
+e) Montante de pagamentos diretos recebidos pelo beneficiário, no ano anterior ao da candidatura.
+
 2 - Para efeito de seleção de candidaturas à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», são considerados, designadamente, os seguintes critérios:
 
 a) Candidatura apresentada por agrupamento ou organização de produtores reconhecidos no sector do investimento;
