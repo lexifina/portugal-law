@@ -16,7 +16,7 @@ c) Ao número de hectares elegíveis declarados no PU, até ao máximo de 90, ou
 
 d) A 0,5 direitos no caso dos agricultores da alínea b) do n.º 5 do artigo anterior;
 
-e) Ao menor número entre o número de direitos RPU correspondentes ao respetivo contrato de arrendamento e os hectares elegíveis declarados, descontado da área com direitos, no ano em que termina o contrato de arrendamento para os beneficiários referidos na alínea c) do n.º 5 do artigo anterior;
+e) (Revogada);
 
 f) Ao menor número entre o número de hectares elegíveis que foram declarados em 2014 e 2015 para os beneficiários referidos na alínea d) do n.º 5 do artigo anterior;
 
