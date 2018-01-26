@@ -4,7 +4,7 @@
 
 1 - A SG é dirigida por um secretário-geral, que é o mais alto funcionário da hierarquia do MNE, coadjuvado por um secretário-geral-adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
 
-2 - Junto do secretário-geral, que a eles preside, funcionam o Conselho Diplomático e o Conselho de Directores-Gerais.
+2 - Junto do secretário-geral, que a eles preside, funcionam o Conselho Diplomático, o Conselho de Diretores-Gerais e o Conselho Coordenador Político-Diplomático.
 
 3 - Para apoio ao secretário-geral no exercício das suas funções, pode ser designado o seguinte pessoal do quadro diplomático:
 

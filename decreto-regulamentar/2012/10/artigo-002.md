@@ -2,31 +2,33 @@
 
 ### Missão e atribuições
 
-1 - A SG tem por missão assegurar as funções de apoio técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar actividades administrativas dos demais serviços do MNE.
+1 - A SG tem por missão assegurar as funções de apoio político-diplomático, técnico e administrativo aos órgãos, serviços e gabinetes dos membros do Governo integrados no MNE, nos domínios do desenvolvimento das linhas estratégicas da política externa portuguesa, da gestão de recursos humanos, financeiros e patrimoniais, do protocolo do Estado, do apoio jurídico e contencioso, das tecnologias de informação e comunicação, da formação do pessoal, da diplomacia pública e da informação e ainda acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do ministério, podendo preparar e executar atividades administrativas dos demais serviços do MNE.
 
 2 - A preparação e execução pela Secretaria-Geral das actividades administrativas dos serviços da administração indirecta do MNE, são regulamentados em diploma próprio.
 
 3 - A SG prossegue as seguintes atribuições:
 
-a) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;
+a) Promover o desenvolvimento das linhas estratégicas da política externa portuguesa nas suas distintas dimensões;
 
-b) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;
+b) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MNE na respectiva execução, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;
 
-c) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;
+c) Assegurar a elaboração dos orçamentos de funcionamento e de investimento do MNE, bem como acompanhar a respectiva execução;
 
-d) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;
+d) Gerir e zelar pela conservação dos recursos patrimoniais dos serviços internos e serviços periféricos externos do MNE e promover a necessária renovação desses meios, em articulação com os organismos competentes;
 
-e) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;
+e) Assegurar o exercício das funções desempenhadas pelo Protocolo do Estado, legalmente cometidas ao MNE;
 
-f) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;
+f) Assegurar o apoio técnico-jurídico e contencioso aos serviços internos e aos serviços periféricos externos do MNE, bem como acompanhar a negociação de tratados e de acordos internacionais;
 
-g) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;
+g) Coligir e publicar os documentos relativos à política externa portuguesa, de acordo com as orientações do ministro, bem como coordenar a organização e preservação do património e do arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MNE e procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;
 
-h) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;
+h) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização, o reforço da utilização das tecnologias de informação e comunicação e a política de qualidade, no âmbito do MNE, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;
 
-i) Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;
+i) Programar e coordenar as medidas que promovam a formação ao longo da vida dos funcionários diplomáticos e do restante pessoal do MNE;
 
-j) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;
+j) Promover uma política de informação e diplomacia pública, garantindo a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MNE;
+
+k) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;
 
 l) Assegurar as funções de unidade ministerial de compras;
 
