@@ -6,20 +6,40 @@
 
 a) Terras em pousio;
 
-b) As galerias ripícolas localizadas em Rede Natura 2000, abrangidas pelos requisitos legais de gestão relativos às Diretivas 2009/47/CE, do Conselho de 5 de maio, relativa à conservação das aves selvagens e 92/43/CEE, do Conselho de 21 de maio, relativa à preservação dos habitats naturais e da fauna e da flora selvagem;
+b) Elementos paisagísticos abrangidos pelas normas mínimas para as boas condições agrícolas e ambientais (BCAA) e pelos requisitos legais de gestão (RLG) no âmbito da condicionalidade, a que refere o Despacho Normativo n.º 6/2015, de 20 de fevereiro, constituídos por:
+
+i) Galerias ripícolas localizadas na Rede Natura 2000, abrangidas pelos RLG 2 e 3, que respeitam, respetivamente, à Diretiva 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro, relativa à conservação das aves selvagens, e à Diretiva 92/43/CEE, do Conselho, de 21 de maio, relativa à preservação dos habitats naturais e da fauna e da flora selvagem;
+
+ii) Elementos lineares característicos das parcelas sistematizadas e exploradas para a orizicultura;
+
+iii) Bosquetes localizados no interior das parcelas de superfície agrícola.
 
 c) Os elementos lineares característicos das parcelas sistematizadas e explorados para a orizicultura, no âmbito da condicionalidade;
 
-d) Os hectares dedicados a sistemas agroflorestais que recebem ou tenham recebido apoio no âmbito do desenvolvimento rural, nos termos do artigo 44.º do Regulamento (CE) n.º 1698/2005, do Conselho de 20 de setembro, ou do artigo 23.º do Regulamento (UE) n.º 1305/2013, do Conselho e do Parlamento Europeu de 17 de dezembro;
+d) Florestação de terras agrícolas, no âmbito dos programas de desenvolvimento rural previstos nos Regulamentos (CE),do Conselho, n.os 1257/1999, de 17 de maio e 1698/2005, de 20 de setembro, e no Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho, de 17 de dezembro;
 
-e) Florestação de terras agrícolas, no âmbito dos programas de desenvolvimento rural;
+e) Com as seguintes culturas fixadoras de azoto, desde que cultivadas em parcelas com IQFP 1 e 2, sem prejuízo da legislação aplicável às zonas vulneráveis a nitratos do Continente, onde prevalecem as obrigações definidas nos respetivos programas de ação:
 
-f) Com culturas fixadoras de azoto, de tremocilha (Lupinus spp), fava (Vicia faba), feijão (Phaseolus spp), amendoim (Arachis spp), grão-de-bico (Cicer spp), ervilha (Pisum spp), tremoço (Lupinus spp), luzerna (Medicago spp), serradela (Ornithopus spp), ervilhaca (Vicia spp), trevo (Trifolium spp) e soja (Glycine max) e misturas destas espécies, quando cultivadas em parcelas com IQFP 1 e 2, com exceção das zonas vulneráveis a nitratos do continente onde prevalecem as obrigações definidas nos respetivos programas de ação;
+i) Tremocilha (Lupinus spp), fava (Vicia faba), feijão (Phaseolus spp), amendoim (Arachis spp), grão-de-bico (Cicer spp), ervilha (Pisum spp), tremoço (Lupinus spp), luzerna (Medicago spp), serradela (Ornithopus spp), ervilhaca (Vicia spp), trevo (Trifolium spp) e soja (Glycine max), incluindo misturas destas espécies;
 
-g) Bosquetes localizados no interior das parcelas de superfície agrícola, no âmbito da condicionalidade.
+ii) Misturas das espécies referidas na subalínea anterior com outras culturas, desde que estas últimas representem uma percentagem inferior a 50 %.
 
 2 - Para serem consideradas como superfícies de interesse ecológico em determinado ano, as superfícies identificadas no número anterior têm de ser identificadas no PU desse ano.
 
-3 - Para serem consideradas superfícies de interesse ecológico, as subparcelas de pousio não devem ser mobilizadas, nem apresentar produção agrícola ou ser pastoreadas, no período compreendido entre 1 de fevereiro e 31 de julho.
+3 - Sem prejuízo das obrigações definidas no âmbito da norma BCAA 4 - Cobertura mínima dos solos, a que se refere o anexo III do Despacho Normativo n.º 6/2015, de 20 de fevereiro, para serem consideradas superfícies de interesse ecológico, as subparcelas de pousio não podem ser mobilizadas, nem apresentar produção agrícola ou ser pastoreadas, no período entre 1 de fevereiro e 31 de julho.
 
-4 - Para efeitos de cálculo das áreas relativas à superfície de interesse ecológico prevista na alínea g) do n.º 1, é utilizado o fator de ponderação de 1,5, constante do anexo X do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+4 - Não colidem com o disposto no número anterior as ações destinadas a estabelecer uma cobertura do solo por coberto vegetal para efeitos de biodiversidade, incluindo a sementeira de misturas de flores silvestres.
+
+5 - Para efeitos de cálculo das áreas relativas à superfície de interesse ecológico prevista na subalínea iii) da alínea b) do n.º 1, é utilizado o fator de ponderação de 1,5, constante do anexo X do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+6 - Não é permitida a utilização de produtos fitofarmacêuticos, incluindo sementes tratadas com produtos fitofarmacêuticos, nas seguintes superfícies de interesse ecológico:
+
+a) Terras em pousio, no período referido no n.º 3;
+
+b) Culturas fixadoras de azoto, desde o início da sementeira até ao final da colheita.
+
+7 - Para efeitos da alínea b) do número anterior, as datas de sementeira e de colheita devem ser inscritas no caderno de campo ou registo atualizado de utilização dos produtos fitofarmacêuticos.
+
+8 - Não estão abrangidas pelo disposto no n.º 6 as substâncias de base aprovadas a nível comunitário para utilização na proteção fitossanitária das culturas, constantes de lista publicitada no sítio de Internet da Direção-Geral de Agricultura e Veterinária.
+
+9 - São excluídas do pagamento ao prémio por perda de rendimento as subparcelas a que se refere a alínea d) do n.º 1 do presente artigo que sejam utilizadas para efeitos de cumprimento da prática de superfície de interesse ecológico.

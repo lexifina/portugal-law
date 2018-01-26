@@ -32,13 +32,7 @@ a) Jovens agricultores que receberam direitos ao pagamento provenientes da reser
 
 b) Agricultores que apresentaram PU em 2013 com número de hectares elegíveis inferior a 0,5 hectares, se a candidatura à reserva nacional for apresentada em 2015;
 
-c) Agricultores que, sendo proprietários, efetuaram o arrendamento total de terras e correspondentes direitos ao pagamento de RPU em 2013, caso se verifiquem cumulativamente as seguintes situações:
-
-i) A data de cessação desse arrendamento for anterior a 1 de junho de 2019;
-
-ii) Após a data de cessação do arrendamento mantenham a posse e detenção da exploração;
-
-iii) Requeiram a atribuição de direitos ao pagamento no ano em que cessou o arrendamento.
+c) (Revogada);
 
 d) Agricultores titulares de direitos de RPU em 2013, sem ativação nesse ano, mas com ativação de direitos em 2014, se a candidatura à reserva nacional for apresentada em 2015;
 

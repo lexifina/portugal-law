@@ -12,7 +12,7 @@ b) Culturas permanentes;
 
 c) Prados e pastagens permanentes:
 
-i) Em sob coberto de quercíneas, sob coberto de castanheiro ou pinheiro manso não explorados para a produção de fruto ou sob coberto das várias espécies de árvores referidas;
+i) Em sob coberto de quercíneas, sob coberto de castanheiro, pinheiro manso ou oliveira, que não sejam explorados para a produção de fruto, ou em sob coberto das várias espécies de árvores referidas;
 
 ii) Sem predominância de vegetação arbustiva;
 
