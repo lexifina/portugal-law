@@ -1,0 +1,495 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1256",
+    "id": "42054",
+    "titulo": "Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2018-01-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12671",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2018-01-26",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "41812",
+        "leg": "XIII",
+        "nr": "1111",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2443",
+            "obs": null,
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-27",
+            "pubLeg": "XIII",
+            "pubNr": "41",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3-8&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2443",
+            "obs": null,
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-27",
+            "pubLeg": "XIII",
+            "pubNr": "41",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3-8&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "42050",
+        "leg": "XIII",
+        "nr": "1252",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2443",
+            "obs": null,
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-27",
+            "pubLeg": "XIII",
+            "pubNr": "41",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3-8&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2443",
+            "obs": null,
+            "pag": [
+              "3-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-01-27",
+            "pubLeg": "XIII",
+            "pubNr": "41",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3-8&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-01-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:01:10:025&drc=00:03:07:977"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-3"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País;",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2084",
+                "nome": "Nuno Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:04:18:002&drc=00:04:01:048"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:19:55:826&drc=00:00:34:221"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4",
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/4?pgs=4,7&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País;",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:08:19:050&drc=00:04:15:117"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País;",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6165",
+                "nome": "Paulino Ascenção"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:12:34:167&drc=00:03:29:202"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País;",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:16:03:370&drc=00:03:52:456"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País;",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6178",
+                "nome": "Paulo Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "12:17",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_01_26_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m01/&tI=00:20:30:047&drc=00:01:44:105"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "223683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-01-27",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/8?pgs=8&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo a criação de um Programa Especial de Apoio a Portugueses que se vejam forçados a fixar-se em Portugal em resultado de graves crises políticas, económicas e humanitárias nos países onde residem; Recomenda ao Governo a criação de um programa extraordinário de apoio aos portugueses e lusodescendentes que por força das circunstâncias sociais, económicas e políticas no estrangeiro regressem ao território nacional; Reforço dos meios de apoio aos cidadãos portugueses que regressem ao País.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "333926",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "808777",
+        "obs": null,
+        "pag": [
+          "3-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-01-27",
+        "pubLeg": "XIII",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/041/2018-01-27/3?pgs=3-8&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
