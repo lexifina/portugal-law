@@ -16,8 +16,6 @@ b) A evolução da despesa líquida de medidas extraordinárias e temporárias e
 
 5 - O desvio pode não ser considerado significativo nos casos em que resulte de ocorrência excecional não controlável pelo Governo, nos termos previstos no artigo 24.º, com impacto significativo nas finanças públicas, e em caso de reformas estruturais que tenham efeitos de longo prazo na atividade económica, desde que tal não coloque em risco a sustentabilidade orçamental a médio prazo.
 
-6 - Caso se verifiquem as circunstâncias previstas nos números anteriores, deve o Conselho das Finanças Públicas alertar o Governo para a necessidade de reconhecimento da existência de desvio significativo.
+6 - O reconhecimento da existência de um desvio significativo é da iniciativa do Governo, mediante prévia consulta do Conselho das Finanças Públicas, ou da iniciativa do Conselho da União Europeia, através da apresentação de recomendação dirigida ao Governo, nos termos do n.º 2 do artigo 6.º do Regulamento (CE) n.º 1466/97, do Conselho, de 7 de julho de 1997.
 
-7 - O reconhecimento da existência de um desvio significativo é da iniciativa do Governo, mediante prévia consulta do Conselho das Finanças Públicas, ou da iniciativa do Conselho da União Europeia, através da apresentação de recomendação dirigida ao Governo, nos termos do n.º 2 do artigo 6.º do Regulamento (CE) n.º 1466/97, do Conselho, de 7 de julho de 1997.
-
-8 - Reconhecido o desvio significativo nos termos do número anterior, é ativado o mecanismo de correção constante do artigo seguinte.
+7 - Reconhecido o desvio significativo nos termos do número anterior, é ativado o mecanismo de correção constante do artigo seguinte.

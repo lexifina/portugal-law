@@ -22,11 +22,7 @@ h) As garantias pessoais concedidas pelo Estado nos termos da lei do Orçamento 
 
 i) Os fluxos financeiros entre Portugal e a União Europeia.
 
-j) Quadro de políticas invariantes incorporando o impacto de medidas autorizadas na receita e na despesa, com indicação do impacto no ano em curso e no ano seguinte, designadamente com despesa fiscal, carreiras, prestações sociais e investimentos estruturantes;
-
-k) Atualização do quadro de investimentos plurianuais estruturantes em contratação ou em execução cujo valor seja superior a 0,01 % da despesa das administrações públicas.
-
-2 - Os elementos informativos a que se referem as alíneas a), b) e d) do número anterior são disponibilizados pelo Governo à Assembleia da República mensalmente, e os elementos referidos nas restantes alíneas do mesmo número, exceto na alínea j), cuja disponibilização ocorre até 31 de agosto, são disponibilizados trimestralmente, devendo, em qualquer caso, o respetivo envio efetuar-se nos 60 dias seguintes ao período a que respeitam.
+2 - Os elementos informativos a que se referem as alíneas a), b) e d) do número anterior são disponibilizados pelo Governo à Assembleia da República mensalmente, e os elementos referidos nas restantes alíneas do mesmo número são disponibilizados trimestralmente, devendo, em qualquer caso, o respetivo envio efetuar-se nos 60 dias seguintes ao período a que respeitam.
 
 3 - O Tribunal de Contas envia à Assembleia da República os relatórios finais referentes ao exercício das suas competências de controlo orçamental.
 

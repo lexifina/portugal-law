@@ -4,7 +4,7 @@
 
 1 - A proposta de lei do Orçamento do Estado é discutida e votada nos termos do disposto na Constituição, na presente lei e no Regimento da Assembleia da República.
 
-2 - A votação da proposta de lei do Orçamento do Estado realiza-se no prazo de 50 dias após a data da sua admissão pela Assembleia da República
+2 - A votação da proposta de lei do Orçamento do Estado realiza-se no prazo de 45 dias após a data da sua admissão pela Assembleia da República.
 
 3 - O Plenário da Assembleia da República discute e vota na generalidade, e discute na especialidade, a proposta de lei do Orçamento do Estado, nos termos e nos prazos estabelecidos no Regimento da Assembleia da República.
 

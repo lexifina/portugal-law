@@ -26,7 +26,7 @@ b) A autorização para a cobrança das receitas cujos regimes se destinavam a v
 
 c) A autorização para a realização das despesas relativas a programas que devam extinguir-se até ao final do ano económico a que respeitava aquela lei.
 
-4 - Durante o período transitório em que se mantiver a prorrogação de vigência da lei do Orçamento do Estado respeitante ao ano anterior, a execução mensal dos programas em curso não pode exceder o duodécimo da despesa total da missão de base orgânica, com exceção das despesas referentes a prestações sociais devidas a beneficiários dos sistemas de proteção social, a direitos dos trabalhadores, a aplicações financeiras e encargos da dívida, a despesas associadas à execução de fundos europeus, bem como a despesas destinadas ao pagamento de compromissos já assumidos e autorizados relativos a projetos de investimento não cofinanciados ou a despesas associadas a outros compromissos assumidos cujo perfil de pagamento não seja compatível com o regime duodecimal.
+4 - Durante o período transitório em que se mantiver a prorrogação de vigência da lei do Orçamento do Estado respeitante ao ano anterior, a execução mensal dos programas em curso não pode exceder o duodécimo da despesa total da missão de base orgânica, com exceção das despesas referentes a prestações sociais devidas a beneficiários do sistema de segurança social e das despesas com aplicações financeiras.
 
 5 - Durante o período transitório em que se mantiver a prorrogação de vigência da lei do Orçamento do Estado respeitante ao ano anterior, o Governo pode:
 
@@ -38,6 +38,4 @@ c) Conceder garantias pessoais, nos termos previstos na respetiva legislação.
 
 6 - As operações de receita e de despesa executadas ao abrigo do regime transitório são imputadas às contas respeitantes ao novo ano económico iniciado em 1 de janeiro.
 
-7 - Nos termos e para os efeitos do disposto no presente artigo, o Governo aprova um decreto-lei com as normas estritamente necessárias para a execução do orçamento transitório.
-
-8 - Para efeitos do disposto nos números anteriores, os decretos-leis de execução das leis do Orçamento do Estado que entrem em vigor com atraso estabelecem os procedimentos a adotar nos casos em que nestas deixem de constar dotações ou sejam modificadas designações de rubricas existentes no Orçamento do Estado anterior e por conta das quais tenham sido efetuadas despesas durante o período transitório.
+7 - Para efeitos do disposto nos números anteriores, os decretos-leis de execução das leis do Orçamento do Estado que entrem em vigor com atraso estabelecem os procedimentos a adotar.
