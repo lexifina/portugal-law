@@ -8,7 +8,7 @@ a) «Áreas carenciadas», as áreas delimitadas pelas autoridades urbanas no pl
 
 b) «Autoridade Urbana», município com o qual a autoridade de gestão contrata a responsabilidade pela execução de um plano estratégico de desenvolvimento urbano sustentável;
 
-c) «Desempregado de Longa Duração», o trabalhador sem emprego, disponível para o trabalho e à procura de emprego há 12 meses ou mais, contando este prazo a partir da data de inscrição nos centros de emprego;
+c) (Revogada);
 
 d) «Desenvolvimento Local de Base Comunitária (DLBC)», a abordagem territorial apoiada por um, ou mais, fundo europeu estrutural e de investimento, que financia a execução das estratégias de desenvolvimento local, elaboradas e promovidas pelas comunidades locais, através de Grupos de Ação Local maioritariamente compostos por representantes dos interesses socioeconómicos locais privados e que incidem em territórios homogéneos e limitados;
 

@@ -6,4 +6,4 @@
 
 ### Objetivos
 
-A tipologia de operações prevista na presente secção tem como objetivo a promoção da informação junto dos cidadãos imigrantes sobre os seus direitos e deveres, tendo em vista a facilitação do seu processo de integração e a promoção de uma cidadania plena.
+A tipologia de operações prevista na presente secção tem como objetivo a promoção de informação junto dos cidadãos migrantes sobre os seus direitos e deveres, tendo em vista a facilitação do seu processo de integração e a promoção da cidadania plena.

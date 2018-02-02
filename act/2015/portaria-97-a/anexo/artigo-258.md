@@ -18,4 +18,4 @@ f) Aquisição e instalação de equipamentos para prestação de serviços de t
 
 g) Adaptação de equipamentos com vista à sua conversão em USF.
 
-2 - Nos POR Centro e Alentejo é elegível a aquisição de viaturas devidamente equipadas para garantir serviços de proximidade, nomeadamente unidades móveis de saúde, unidades móveis de intervenção precoce e unidades de emergência médica.
+2 - Nos POR Centro, Alentejo e Algarve é elegível a aquisição de viaturas devidamente equipadas para garantir serviços de proximidade, nomeadamente unidades móveis de saúde, unidades móveis de intervenção precoce e unidades de emergência médica.

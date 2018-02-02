@@ -1,6 +1,6 @@
 ## Secção III
 
-## Formação modular para desempregados de longa duração
+## Formação modular para desempregados mais afastados do (re)ingresso no mercado de trabalho
 
 # Artigo 94.º
 

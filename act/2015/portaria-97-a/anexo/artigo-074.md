@@ -28,7 +28,7 @@ d) Projetos de criação de cooperativas por jovens;
 
 e) Projetos de empreendedorismo social, promoção de startups sociais, bem como ações de sensibilização e formação de promotores de empresas e ações de que decorra a criação líquida de emprego ou criação de empresas;
 
-f) Projetos de criação do próprio emprego ou empresa por parte de emigrantes com intenção de regressar a Portugal e empreender, bem como ações de divulgação, apoio e capacitação dos empreendedores;
+f) (Revogada);
 
 g) Projetos de investimento para a expansão de pequenas e microempresas existentes de base local ou para a criação de novas empresas e pequenos negócios, designadamente na área da valorização e exploração de recursos endógenos, do artesanato e da economia verde, incluindo o desenvolvimento de empresas em viveiros de empresas.
 

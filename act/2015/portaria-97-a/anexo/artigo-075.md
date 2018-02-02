@@ -4,7 +4,7 @@
 
 1 - São beneficiários elegíveis nas operações financiadas pelo PO ISE:
 
-a) As mulheres que criam as empresas enquanto beneficiárias diretas do apoio ao arranque da empresa, no âmbito das operações previstas na alínea a) do n.º 1 do artigo anterior;
+a) As associações de mulheres empresárias e outras associações empresariais, comerciais e ou industriais, agências e sociedades de desenvolvimento regional sem fins lucrativos, cooperativas e outras entidades da economia social que desenvolvam projetos relacionados com as respetivas áreas de atividade, no âmbito das operações previstas na alínea a) do n.º 1 do artigo anterior;
 
 b) A Cooperativa António Sérgio para a Economia Social (CASES), no âmbito das operações previstas na alínea b) do n.º 1 do artigo anterior, enquanto organismo responsável pela concretização do respetivo instrumento de política pública;
 
@@ -22,7 +22,7 @@ b) A CASES, no âmbito das operações previstas na alínea d) do n.º 2 do arti
 
 c) Os empreendedores, as micro e pequenas empresas e as organizações da economia social no âmbito das operações previstas nas alíneas b) e g) do n.º 2 do artigo anterior;
 
-d) O Alto Comissariado para as Migrações, I. P. (ACM, I. P.), no âmbito das operações previstas na alínea f) do n.º 2 do artigo anterior;
+d) (Revogada.)
 
 e) O IPDJ, I. P. no âmbito das operações previstas na alínea h) do n.º 2 do artigo anterior enquanto organismo responsável pela concretização do respetivo instrumento de política pública;
 

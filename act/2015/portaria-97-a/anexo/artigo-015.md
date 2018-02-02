@@ -16,13 +16,15 @@ d) A não consideração de receitas provenientes das ações;
 
 e) A imputação de despesas não relacionadas com a execução da operação ou não justificadas através de faturas, ou de documentos equivalentes fiscalmente aceites, bem como de despesas não relevadas na contabilidade;
 
-f) O incumprimento das normas relativas a informação e publicidade;
+f) O recurso a entidades formadoras não certificadas ou com as quais não tenha sido celebrado contrato escrito, bem como o recurso a formadores sem certificado de competências pedagógicas, nos casos em que a legislação aplicável o exija, quando estas irregularidades afetem apenas uma parte das ações de formação da operação;
 
-g) O desrespeito pelo disposto na legislação nacional e europeia, bem como nas orientações emanadas pela Comissão Europeia, aplicáveis em matéria de contratação pública e instrumentos financeiros, sempre que delas não resulte a revogação do apoio concedido;
+g) O incumprimento das normas relativas a informação e publicidade;
 
-h) A prestação de declarações incorretas sobre o beneficiário ou a alteração de algum dos critérios de elegibilidade previstos nas alíneas a), c), d), f), h) e i) do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, que não afetem a justificação dos apoios recebidos ou a receber;
+h) O desrespeito pelo disposto na legislação nacional e europeia, bem como nas orientações emanadas pela Comissão Europeia, aplicáveis em matéria de contratação pública e instrumentos financeiros, sempre que delas não resulte a revogação do apoio concedido;
 
-i) A prestação de declarações incorretas sobre a realização da operação ou sobre os custos incorridos, que não afetem a justificação dos apoios recebidos ou a receber e, quando não sejam passíveis de determinar, nos termos do artigo anterior, a suspensão de pagamentos até à regularização da situação.
+i) A prestação de declarações incorretas sobre o beneficiário ou a alteração de algum dos critérios de elegibilidade previstos nas alíneas a), c), d), f), h) e i) do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, que não afetem a justificação dos apoios recebidos ou a receber;
+
+j) A prestação de declarações incorretas sobre a realização da operação ou sobre os custos incorridos, que não afetem a justificação dos apoios recebidos ou a receber e, quando não sejam passíveis de determinar, nos termos do artigo anterior, a suspensão de pagamentos até à regularização da situação.
 
 3 - A redução do apoio é efetuada segundo critérios de conformidade e razoabilidade das despesas apresentadas, atendendo, designadamente e sempre que possível, ao grau de incumprimento verificado, aos valores não legalmente permitidos e aprovados ou aos valores considerados não elegíveis.
 
@@ -32,7 +34,7 @@ a) O incumprimento das obrigações do beneficiário previstas no artigo 24.º d
 
 b) A não consecução, nos termos constantes da decisão de aprovação, dos resultados contratados com a autoridade de gestão ou com o organismo intermédio, quando aplicável, salvo se estiver definida diferente sanção;
 
-c) O recurso a entidades formadoras não certificadas ou com as quais não tenha sido celebrado contrato escrito, bem como o recurso a formadores sem certificado de competências pedagógicas, nos casos em que a legislação aplicável o exija;
+c) O recurso a entidades formadoras não certificadas ou com as quais não tenha sido celebrado contrato escrito, bem como o recurso a formadores sem certificado de competências pedagógicas, nos casos em que a legislação aplicável o exija, desde que estas irregularidades afetem todas as ações de formação da operação;
 
 d) A alteração de algum dos critérios de elegibilidade do beneficiário previstos nas alíneas a), c), d), f), h) e i) do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, quando afetem a justificação dos apoios recebidos ou a receber ou consubstanciem uma alteração aos elementos determinantes da decisão de aprovação do apoio;
 

@@ -4,7 +4,7 @@
 
 1 - No âmbito da presente secção são elegíveis as ações que cumpram os critérios previstos nos respetivos diplomas normativos enquadradores das políticas públicas, designadamente as seguintes:
 
-a) Estágios desenvolvidos em todos os setores de atividade, comparticipados pelo Instituto do Emprego e da Formação Profissional, I. P., (IEFP, I. P.), excluindo estágios curriculares de quaisquer cursos e outros que se encontrem subordinados a um plano que requeira um perfil de formação e competências nas áreas da medicina e enfermagem, designadamente médicos e profissionais de enfermagem;
+a) Estágios desenvolvidos em todos os setores de atividade, comparticipados pelo IEFP, I. P., excluindo estágios curriculares de quaisquer cursos e outros que se encontrem subordinados a um plano que requeira um perfil de formação e competências nas áreas da medicina e enfermagem, designadamente médicos e profissionais de enfermagem;
 
 b) Estágios comparticipados pelo IEFP, I.P que visem o desenvolvimento de uma experiência prática em contexto real de trabalho por jovens em situação de desfavorecimento face ao mercado de trabalho, conjuntamente com jovens mais qualificados;
 
@@ -14,7 +14,7 @@ d) Estágios profissionais na administração local (PEPAL);
 
 e) Estágios internacionais de jovens quadros (Inov Contacto);
 
-f) Estágios desenvolvidos em missões diplomáticas portuguesas (PEPAC Missões);
+f) Estágios profissionais na administração central do Estado específicos para os serviços periféricos externos do Ministério dos Negócios Estrangeiros, designados por PEPAC - MNE;
 
 g) Estágios da Região Autónoma da Madeira;
 

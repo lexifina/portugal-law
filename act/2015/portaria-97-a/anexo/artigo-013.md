@@ -8,4 +8,4 @@
 
 3 - Quando, nas candidaturas plurianuais, o financiamento aprovado para o ano civil não seja integralmente executado, as verbas em causa transitam automaticamente para o ano civil seguinte.
 
-4 - Os capítulos seguintes podem prever disposições específicas em matéria de condições de alteração da operação, em função da natureza das tipologias de operações em causa.
+4 - Os capítulos seguintes podem prever disposições específicas em matéria de condições da alteração da operação, em função da natureza das tipologias em causa, nomeadamente no que se refere ao disposto no número anterior.

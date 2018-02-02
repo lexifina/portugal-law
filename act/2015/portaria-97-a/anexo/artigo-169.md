@@ -20,7 +20,7 @@ g) Apoio à parentalidade positiva, previstas na PI 9iv do eixo prioritário 3 d
 
 h) Qualificação do apoio institucional a crianças e jovens, previstas na PI 9iv dos eixos prioritários 3 do PO ISE e 6 do POR Algarve;
 
-i) Centros Nacionais de Apoio ao Imigrante (CNAI), previstas na PI 9iv do eixo prioritário 3 do PO ISE e na PI 9i dos eixos prioritários 6 do POR Lisboa e do POR Algarve;
+i) Centros Nacionais de Apoio à Integração de Migrantes (CNAIM), previstas na PI 9iv do eixo prioritário 3 do PO ISE e na PI 9i dos eixos prioritários 6 do POR Lisboa e do POR Algarve;
 
 j) Rede Local de Intervenção Social (RLIS), previstas na PI 9iv dos eixos prioritários 3 do PO ISE e 6 do POR Lisboa e do POR Algarve;
 

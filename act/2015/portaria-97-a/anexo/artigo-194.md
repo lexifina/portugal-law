@@ -2,8 +2,4 @@
 
 ### Beneficiários
 
-São beneficiários elegíveis no âmbito da presente secção as seguintes entidades:
-
-a) As pessoas coletivas de direito privado, sem fins lucrativos;
-
-b) As pessoas coletivas de direito público, pertencentes à administração central e local.
+A Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens é a entidade beneficiária das ações previstas na presente secção.

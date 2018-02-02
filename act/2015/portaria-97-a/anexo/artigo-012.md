@@ -16,4 +16,4 @@ c) Comunicação do início ou reinício da operação.
 
 4 - No caso de candidaturas plurianuais, o beneficiário fica obrigado a submeter eletronicamente, no portal do Portugal 2020 até 31 de março de cada ano, a informação anual da execução física e financeira, reportada a 31 de dezembro do ano anterior, ao abrigo do disposto na alínea b) do n.º 7 do artigo 25.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 
-5 - Os pagamentos, nos casos em que seja adotada a modalidade de custos simplificados, são efetuados em função da atividade comprovada e registada à data de referência do reembolso em causa, de acordo com as normas de aplicação previstas na regulamentação própria ou nos avisos para apresentação de candidaturas.
+5 -(Revogado).

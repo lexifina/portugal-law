@@ -2,4 +2,4 @@
 
 ### Grupo-alvo
 
-São destinatários da formação financiada no âmbito da presente secção os desempregados de longa duração com habilitações inferiores ao ensino secundário.
+São destinatários da formação financiada no âmbito da presente secção os desempregados mais afastados do (re)ingresso no mercado de trabalho, designadamente em função da duração do desemprego e do nível de habilitações detidas.

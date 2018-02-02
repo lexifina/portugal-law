@@ -10,6 +10,6 @@ b) A análise técnico-financeira com base nos critérios previstos no presente 
 
 c) A realização do procedimento de audiência dos interessados, em cumprimento do disposto no Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento e aos respetivos fundamentos.
 
-2 - A não apresentação pelo beneficiário dos esclarecimentos, informações ou elementos solicitados pela autoridade de gestão ou pelo organismo intermédio, quando aplicável, dentro do prazo concedido, determina a desistência da candidatura.
+2 - (Revogado.)
 
-3 - Em caso de aprovação da candidatura, o termo de aceitação deve ser submetido eletronicamente, no prazo máximo de 10 dias úteis contados desde a data da receção da notificação da decisão de aprovação, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+3 - Em caso de aprovação da candidatura, o termo de aceitação deve ser submetido eletronicamente, no prazo máximo de 30 dias úteis contados desde a data da receção da notificação da decisão de aprovação, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro.

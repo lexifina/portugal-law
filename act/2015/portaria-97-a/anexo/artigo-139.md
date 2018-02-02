@@ -6,7 +6,7 @@
 
 a) Ações de formação de técnicos, docentes e outros profissionais que atuam junto das CPCJ;
 
-b) Ações de formação de técnicos de reabilitação que intervêm na área das políticas integradas de reabilitação profissional das pessoas com deficiência e incapacidade;
+b) Ações de formação de técnicos de reabilitação que intervêm na área da deficiência, designadamente em respostas sociais no âmbito da cooperação com a segurança social e das políticas integradas de reabilitação profissional das pessoas com deficiência e incapacidade;
 
 c) Ações de formação associadas ao desenvolvimento de competências dos profissionais de saúde ou outros agentes que atuam na área da saúde, designadamente:
 
