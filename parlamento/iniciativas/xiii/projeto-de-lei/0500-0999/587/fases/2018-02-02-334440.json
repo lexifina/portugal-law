@@ -1,0 +1,544 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "587",
+    "id": "41617",
+    "titulo": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2018-02-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12699",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2018-02-02",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41685",
+        "leg": "XIII",
+        "nr": "606",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41668",
+        "leg": "XIII",
+        "nr": "600",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41680",
+        "leg": "XIII",
+        "nr": "603",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2453",
+            "obs": null,
+            "pag": [
+              "46-50"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-02-03",
+            "pubLeg": "XIII",
+            "pubNr": "44",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-50&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-02-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1656",
+                "nome": "António Carlos Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento; Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "466",
+                "nome": "Wanda Guimarães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/47?pgs=47&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento; Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/48?pgs=48&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento; Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento.Altice",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/48?pgs=48-49&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento; Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento.Altice",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4299",
+                "nome": "Clara Marques Mendes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:03",
+            "horaTermo": "13:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "222519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-02-03",
+                "pubLeg": "XIII",
+                "pubNr": "44",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Clarifica e reforça a defesa dos direitos dos trabalhadores em caso de transmissão de empresa ou estabelecimento; Altera o Código do Trabalho, modificando o regime jurídico aplicável à transmissão de empresa ou estabelecimento; Altera o regime jurídico aplicável à transmissão de empresa ou estabelecimento.Altice",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "334440",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "810343",
+        "obs": null,
+        "pag": [
+          "44-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-03",
+        "pubLeg": "XIII",
+        "pubNr": "44",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/044/2018-02-03/44?pgs=44&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2018-02-02",
+        "descricao": "Texto Final apresentado pela Comissão de Trabalho e Segurança Social relativo aos Projetos de Lei n.ºs 587/XIII/2.ª (BE), 600/XIII/2.ª (PCP), 603/XIII/2.ª (PAN) e 606/XIII/3.ª (PS)",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "78170",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "44",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
