@@ -1,0 +1,200 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13148",
+  "numero": "464",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-02-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-23",
+            "entidades": null,
+            "id": "111226",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-23 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-02-28",
+            "dataResposta": null,
+            "entidades": [
+              "S.E.  DOS  ASSUNTOS  PARLAMENTARES"
+            ],
+            "nrOficio": "55/CEIOP",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-06-20",
+                "dataResposta": null,
+                "nrOficio": "141/CEIOP",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-26",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "855527",
+                "obs": null,
+                "pag": [
+                  "11-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-05",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/040/2019-04-05/11?pgs=11-14&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-02-21",
+        "DataArquivo": "2019-03-27",
+        "DataBaixaComissao": "2018-02-09",
+        "DataEnvioPAR": "2019-03-29",
+        "DataReaberta": "2018-02-21",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-02-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a445177596a67784e6d4d744d6d4a694d7930304e57466c4c546777593245744e44426b5a6d466c4d5441334d47526b4c6e426b5a673d3d&fich=d40b816c-2bb3-45ae-80ca-40dfae1070dd.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-02-28",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a6b354f544e6b5a57517459546b314d6930304d5745304c574a6a5a4455744d3259315a5746684d7a5a694f546b314c6e426b5a673d3d&fich=b9993ded-a952-41a4-bcd5-3f5eaa36b995.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-06-20",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876595451794e3249324e6d55744e6d55334f4330304f5449344c574978597a517459324d334e6d466b4e7a51335a6d4e6b4c6e426b5a673d3d&fich=a427b66e-6e78-4928-b1c4-cc76ad747fcd.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-04-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764d474d7a4d6d4a6a4d4449744f4749334f4330304d6a637a4c57497a4d44637459574e6d4e6a45785a5749784d446c684c6e426b5a673d3d&fich=0c32bc02-8b78-4273-b307-acf611eb109a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-02-21",
+            "gp": "PSD",
+            "id": "4392",
+            "motivoCessacao": null,
+            "nome": "Paulo Rios de Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2018-02-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4e5455334f475a6b5969307759546c694c54513459574d744f4451324d43303159574a694d544d304e4756695a444d756347526d&fich=d5578fdb-0a9b-48ac-8460-5abb1344ebd3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13148",
+    "PetAssunto": "Contra o encerramento dos CTT de Paços de Brandão.",
+    "PetDataEntrada": "2018-02-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13148",
+    "PetLeg": "XIII",
+    "PetNr": "464",
+    "PetNrAssinaturas": "1144",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "813396",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-22",
+        "pubLeg": "XIII",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/029/2018-02-22/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
