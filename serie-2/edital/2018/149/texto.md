@@ -1,0 +1,8 @@
+Edital n.º 149/2018
+Projeto de Regulamento de Ocupação Municipal Temporária Solidária
+Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem, Presidente da Câmara Municipal, no uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º, conjugado com o artigo 56.º, do anexo I da Lei n.º 75/2013, de 12 de setembro, torna público, que pela deliberação n.º 408 da Câmara Municipal de Monforte, tomada na reunião de 20 de dezembro de 2017, foi aprovado o projeto de Regulamento de Ocupação Municipal Temporária Solidária.
+Assim, torna público, em cumprimento da mesma deliberação e nos termos do artigo 101.º, do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete o referido projeto de regulamento a consulta pública, por um período de 30 dias úteis, a contar da publicação do presente aviso no Diário da República, podendo o mesmo ser consultado no Serviço de Ação Social a funcionar no Edifício Sócio Cultural e Educação, sito na Rua Padre António Alves Martins, 2 em Monforte, durante o período normal de funcionamento, ou na página eletrónica do Município de Monforte, em www.cm-monforte.pt.
+As eventuais reclamações, observações ou sugestões, deverão ser formuladas por escrito até ao final do período mencionado, dirigidas ao Presidente da Câmara Municipal, endereçadas ou entregues no Edifício dos Paços do Concelho, Praça da República 7450-115 Monforte ou enviadas para o endereço de correio eletrónico sass@cm-monforte.pt
+Para constar se lavrou este e outros documentos de igual teor que vão ser afixados nos lugares públicos do costume.
+8 de janeiro de 2018. - O Presidente da Câmara, Gonçalo Nuno Lagem.
+311056868
