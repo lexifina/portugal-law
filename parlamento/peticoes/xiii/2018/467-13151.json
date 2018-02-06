@@ -1,0 +1,580 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13151",
+  "numero": "467",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-02-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-05-02",
+            "entidades": null,
+            "id": "108531",
+            "tipo": null,
+            "titulo": "Audição em 2018-05-02 com FENPROF: Professora Garça Sousa; Professora Anabela Sotaia; Professora Júlia Vale e Professor Fernando Vicente."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "110/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": "2018-04-26",
+            "entidades": [
+              "FNE - Federação Nacional dos Sindicatos da Educação"
+            ],
+            "nrOficio": "111/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": "2018-04-20",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "112/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": "2018-04-30",
+            "entidades": [
+              "Confederação Nacional de Educação e Formação"
+            ],
+            "nrOficio": "113/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "109/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-06-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-04-10",
+        "DataArquivo": "2018-06-12",
+        "DataBaixaComissao": "2018-02-09",
+        "DataEnvioPAR": "2018-06-14",
+        "DataReaberta": "2018-04-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45304d7a4135595759774c545269596a49744e4449784d6930345a444d784c5441794e6a59774f574a6a5a6a56684d5335775a47593d&fich=14309af0-4bb2-4212-8d31-026609bcf5a1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41795a574d3259544d344c544e6c4f4745744e446b354f4331694d6d59774c575134595451354e6a49354d6a6b784d5335775a47593d&fich=02ec6a38-3e8a-4998-b2f0-d8a496292911.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a46684e5441795a54517a4c574a6c597a51744e444e694e4330354e5451794c54566a4e6a6733596a6b314e6a49355a4335775a47593d&fich=1a502e43-bec4-43b4-9542-5c687b95629d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41305a54597a4d6d4d344c545135596d4d744e47466d4e4331684d544e6a4c5467334e574a6a5a44466c4d6a646a4e7935775a47593d&fich=04e632c8-49bc-4af4-a13c-875bcd1e27c7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32457a596a466c4e444e6a4c5445774d3245744e4455304d6930344d5442684c545179597a55784e4467774e54646d595335775a47593d&fich=a3b1e43c-103a-4542-810a-42c5148057fa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e694e445a694d6d526b4c5467774e444d744e444978597931694f5759334c575135593245794d544e6b4d6d49354e7935775a47593d&fich=3b46b2dd-8043-421c-b9f7-d9ca213d2b97.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45344d57466c4e44497a4c5745794e4467744e474935597931684e5459774c54526c4d4445784e6a6b344e4746684e4335775a47593d&fich=181ae423-a248-4b9c-a560-4e0116984aa4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-06-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49774d32597a5a6a41334c57557a5a6a6b744e47517859533034593245304c5452694f5751304e6a6c6c4f4455345a4335775a47593d&fich=203f3f07-e3f9-4d1a-8ca4-4b9d469e858d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63794e4749334e4745314c5468694d3255744e4745305a53303459546b774c5468684d6d51355a47493159546b30597935775a47593d&fich=724b74a5-8b3e-4a4e-8a90-8a2d9db5a94c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6b4e574d324d7a51774c57526c5a6a67744e4759344e5331684e545a6a4c574533596a526d596a59345a6d49344e5335775a47593d&fich=9d5c6340-def8-4f85-a56c-a7b4fb68fb85.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566c596a6b34597a6b344c5449324e446b744e4446694e4330345a4445354c544d7a5a574578596d566d597a49774e4335775a47593d&fich=5eb98c98-2649-41b4-8d19-33ea1befc204.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-03-10",
+            "gp": "PS",
+            "id": "4338",
+            "motivoCessacao": null,
+            "nome": "Sandra Pontedeira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-01-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684e445a6c4d6d51794e5330794e6a49344c54526c4d574574596d4a6a595330344e6a49314d6d59785a6a49774e6d45756347526d&fich=a46e2d25-2628-4e1a-bbca-86252f1f206a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2018-02-14",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939695a574e6d5a4446694d6930335a6a5a694c545134596d49744f4467304f5330794e6a45334e6d49354d54566b4d6d49756347526d&fich=becfd1b2-7f6b-48bb-8849-26176b915d2b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:35:15:319&drc=00:03:27:614"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232431",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:38:43:208&drc=00:03:10:954"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232432",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:41:54:163&drc=00:02:53:740"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:44:47:903&drc=00:04:16:001"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:49:03:904&drc=00:03:48:863"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:52:52:768&drc=00:00:57:728"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-10",
+                "pubLeg": "XIII",
+                "pubNr": "36",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13151",
+    "PetAssunto": "Solicitam a celebração de Contrato Coletivo de Trabalho para o Ensino Particular e Cooperativo que respeite o estipulado na Lei de Bases e o Estatuto do Ensino Particular e Cooperativo.",
+    "PetDataEntrada": "2018-02-06",
+    "PeticoesAssociadas": null,
+    "PetId": "13151",
+    "PetLeg": "XIII",
+    "PetNr": "467",
+    "PetNrAssinaturas": "5130",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "679",
+        "obs": null,
+        "pag": [
+          "24-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-10",
+        "pubLeg": "XIII",
+        "pubNr": "36",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/036/2019-01-10/24?pgs=24-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "819331",
+        "obs": null,
+        "pag": [
+          "6-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-04-13",
+        "pubLeg": "XIII",
+        "pubNr": "40",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/040/2018-04-13/6?pgs=6-7&org=PLC"
+      }
+    ]
+  }
+}
