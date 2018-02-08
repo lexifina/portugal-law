@@ -1,0 +1,5 @@
+Edital n.º 160/2018
+José António Gomes de Jesus, Presidente da Câmara Municipal de Tondela, torna público e de acordo com o exposto no artigo 35.º n.º 1 alínea t) da Lei n.º 75/2013 de 12 de setembro, que em reunião de Câmara de 9 de janeiro de 2018, foi deliberado a proposta de regulamento de incubadora de empresas do Município de Tondela. Mais se torna público que nos termos do n.º 101.º n.º 1 do Decreto-Lei n.º 4/2015 de 7 de janeiro se submete à discussão pública, para recolha de sugestões, por trinta dias a contar da publicação no Diário da República. Durante o período de apreciação pública o projeto de regulamento pode ser consultado no Balcão Único da Câmara Municipal de Tondela no seu horário de funcionamento ou no site do Município. Os interessados devem formular por escrito, dirigido ao presidente da câmara as eventuais sugestões.
+Para conhecimento geral se torna público o presente edital e outros de igual teor que vão ser afixados nos lugares de estilo.
+9 de janeiro de 2018. - O Presidente da Câmara, José António Gomes de Jesus.
+311052963
