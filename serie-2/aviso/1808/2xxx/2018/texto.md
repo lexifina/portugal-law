@@ -1,0 +1,7 @@
+Aviso n.º 1808/2018
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público, que por deliberação de Reunião de Câmara de 19 de dezembro de 2017, foi determinado o início da Discussão Pública da alteração ao Plano Diretor Municipal de Sintra, em virtude do aditamento ao artigo 24.º-A do PDM, determinado pelo Regime Extraordinário de Regularização das Atividades Económicas (RERAE).
+Assim, para cumprimento do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, comunica-se que se encontra aberto o período de discussão pública, para formulação de reclamações, observações ou sugestões, por um prazo de 15 dias, contados a partir do quinto dia seguinte à publicação do aviso no Diário da República.
+Todos os elementos da proposta podem ser consultados no sítio da internet da Câmara Municipal de Sintra (www.cm-sintra.pt) e no Edifício do Departamento de Gestão do Território (DGT), da Câmara Municipal de Sintra, sito na Praça D. Afonso Henriques 2710-520 Portela de Sintra.
+As respetivas reclamações, observações ou sugestões devem ser remetidas ao Gabinete do Plano Diretor Municipal (GPDM), da Câmara Municipal de Sintra, sito na Rua do Roseiral, 20, 2710-501 S. Pedro de Sintra, dentro do prazo previsto, em requerimento dirigido ao Exmo. Sr. Presidente da Câmara.
+16 de janeiro de 2018. - O Presidente da Câmara Municipal de Sintra, Basílio Horta.
+311089365
