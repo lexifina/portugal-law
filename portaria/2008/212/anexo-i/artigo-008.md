@@ -14,7 +14,7 @@
 
 a) Mínimo de 50 % em títulos representativos de dívida pública, dos quais metade no mínimo são representativos de dívida pública portuguesa ou garantida pelo Estado português;
 
-b) Máximo de 40 % em títulos representativos de dívida privada, com a condição do rating dos emitentes não ser inferior a «BBB-/Baa3» ou equivalente (investment grade), incluindo emissões de papel comercial, acções preferenciais, unidades de participação em organismos de investimento colectivo que restrinjam a sua política de investimentos a investimentos em dívida com notação de risco investment grade e ainda outros instrumentos financeiros representativos de dívida privada;
+b) Máximo de 40 % em títulos representativos de dívida privada, excluindo depósitos, com a condição do rating dos emitentes não ser inferior a «BBB -/Baa3» ou equivalente (investment grade), incluindo emissões de papel comercial, ações preferenciais, unidades de participação em organismos de investimento coletivo que restrinjam a sua política de investimentos a investimentos em dívida com notação de risco investment grade e ainda outros instrumentos financeiros representativos de dívida privada;
 
 c) Máximo de 25 % em acções, warrants avaliados pelo seu valor nocional, títulos de participação, unidades de participação em organismos de investimento colectivo, obrigações convertíveis em acções ou direitos análogos relativamente a sociedades anónimas cotadas em bolsas de valores ou outro mercado regulamentado de Estados membros da União Europeia ou da OCDE;
 
@@ -29,3 +29,13 @@ f) Máximo de 15 % de exposição, não coberta, a moeda estrangeira com curso l
 7 - Não podem fazer parte do activo da carteira quaisquer instrumentos representativos de dívidas ou de cauções de terceiros relativamente à segurança social ou ao Estado.
 
 8 - Até que o fundo de certificados de reforma atinja um valor superior a cinco milhões de euros, não se aplicam o n.º 2 e a alínea a) do n.º 5.
+
+9 - Sem prejuízo das demais limitações à realização de operações por conta do FCR resultantes de disposição legal e do presente Regulamento, as entidades depositárias e as entidades que sejam contraparte do FCR em operações financeiras que envolvam risco de crédito para o Fundo, devem ser instituições sujeitas às regras prudenciais vigentes na União europeia ou a regras prudenciais no mínimo tão exigentes como as da União Europeia desde que cumpram pelo menos um dos seguintes critérios:
+
+a) Encontrar-se localizadas no espaço económico europeu;
+
+b) Encontrar-se localizadas num país da OCDE pertencente ao Grupo dos 10;
+
+c) Ter, no mínimo, uma notação de risco (investment grade).
+
+10 - A lista das instituições selecionadas para efeitos do número anterior é remetida ao membro do Governo responsável pela área da segurança social para conhecimento.
