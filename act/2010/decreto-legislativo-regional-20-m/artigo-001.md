@@ -2,4 +2,4 @@
 
 ### Objecto
 
-O presente diploma cria os conselhos municipais de juventude para os municípios da Região Autónoma da Madeira, estabelecendo o seu regime jurídico.
+O presente diploma cria os conselhos municipais de juventude para os municípios da Região Autónoma da Madeira, estabelecendo a sua composição, competências e regras de funcionamento.

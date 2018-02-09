@@ -1,11 +1,5 @@
 # Artigo 12.º
 
-### Deveres dos membros do conselho municipal de juventude
+### Comissões intermunicipais de juventude
 
-Os membros do conselho municipal de juventude têm o dever de:
-
-a) Participar assiduamente nas reuniões do conselho ou fazer-se substituir, quando legalmente possível;
-
-b) Contribuir para a dignificação dos trabalhos do conselho municipal de juventude;
-
-c) Assegurar a articulação entre as entidades que representam e o conselho municipal de juventude, através da transmissão de informação sobre os trabalhos deste.
+Para o exercício das suas competências no que respeita a políticas de juventude comuns a diversos municípios, o conselho municipal de juventude pode estabelecer formas permanentes de cooperação, através da constituição de comissões intermunicipais de juventude.

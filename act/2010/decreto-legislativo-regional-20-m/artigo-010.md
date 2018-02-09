@@ -1,5 +1,11 @@
 # Artigo 10.º
 
-### Organização interna
+### Competências de divulgação e informação
 
-No âmbito da sua organização interna, compete ao conselho municipal de juventude aprovar o seu plano e o relatório de actividades, bem como constituir comissões eventuais para missões temporárias.
+Compete ao conselho municipal de juventude, no âmbito da sua atividade de divulgação e informação, o seguinte:
+
+a) Promover o debate e a discussão de matérias relativas à política municipal de juventude, assegurando a ligação entre os jovens residentes no município e os titulares dos órgãos da autarquia;
+
+b) Divulgar junto da população jovem residente no município as suas iniciativas e deliberações;
+
+c) Promover a realização e divulgação de estudos sobre a situação dos jovens residentes no município.
