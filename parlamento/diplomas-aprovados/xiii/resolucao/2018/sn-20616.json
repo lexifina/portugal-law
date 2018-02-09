@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=KN8asRY3F%2boLwzlW%2bWxN0cdlpy6IvLCOFPR5X84uKPHMAY3P2RQEfr1P5sqbl%2brhRP2KxbI7X5ozrkHdifucwVJhHVVkEAo%2f2CdtgMVDfGQwaQLkn9%2fJ8TY7ADGKoCdFZiBnJaOAKqAJlstTjUigXy4nWnmuR2jbJcjcXtAMgXWuR6pxNa3eJ2kUfPaUcVpHGETkA2yoS0k%2b4jTliOkBpJdEpOyflajEM4QzO%2biQWFciqqvZjeA1%2buytfKyhCkdjtaPiV9B6tcNyXa8n6lGo3PDFkOgWevu5Qyn3ww7Kytpek4Hq1uBE%2bNFIOYb15GX7oW96d%2ffBTLDONnA2gh9JNqhLzrYJ9KllVK8ZN43bEBcuRRr5YfaHysppv%2flq1wawjUw2Sfn0Lo2BlYxNXoigDA%3d%3d&fich=DiplomasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6ca685f682ed6e372d8e4c9a26faabbdb3cbba2a01111d82ab17c788115cc3bb",
+  "legislatura": "XIII",
+  "id": "20616",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2018-02-09",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2018",
+    "Id": "20616",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "41358",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3245334e325132593255794c5459334d5751744e444d7a5a4331684f5751314c5452694e7a6c694e7a6b325954526a4e79356b62324d3d&fich=a77d6ce2-671d-433d-a9d5-4b79b796a4c7.doc&Inline=true",
+        "IniNr": "861",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a57353059584976595746694d574e6b4e6a67744e544e6b595330304e446c684c546b794e6d5574596a67344d6a466a59546c6a4e7a45794c6d527659773d3d&fich=aab1cd68-53da-449a-926e-b8821ca9c712.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "914335",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-02-09",
+        "pubLeg": "XIII",
+        "pubNr": "69",
+        "pubSL": "3",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/069/2018-02-09/4?pgs=4&org=PLC"
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo que adapte a Base Aérea de Monte Real a aeroporto que permita os voos civis",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
