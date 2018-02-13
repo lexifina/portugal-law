@@ -2,7 +2,7 @@
 
 ### Reduções e exclusões
 
-As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às ações n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», determinam-se respetivamente nos seguintes termos:
+1- As reduções e exclusões aplicáveis em caso de incumprimento de compromissos relativos às ações n.os 7.4, «Conservação do solo», 7.5, «Uso eficiente da água», 7.6, «Culturas permanentes tradicionais», 7.7, «Pastoreio extensivo», 7.9, «Mosaico agroflorestal», e 7.12, «Apoio agroambiental à apicultura», da medida n.º 7, «Agricultura e recursos naturais», determinam-se respetivamente nos seguintes termos:
 
 a) Incumprimentos de compromissos da operação «Sementeira direta ou mobilização na linha» da ação n.º 7.4, «Conservação do solo», nos termos da tabela constante do anexo i da presente portaria, da qual faz parte integrante;
 
@@ -23,3 +23,5 @@ h) Incumprimentos de compromissos da operação «Proteção do lobo-ibérico» 
 i) Incumprimentos de compromissos da ação n.º 7.9, «Mosaico agroflorestal», nos termos da tabela constante do anexo ix da presente portaria, da qual faz parte integrante;
 
 j) Incumprimentos de compromissos da ação n.º 7.12, «Apoio agroambiental à apicultura», nos termos da tabela constante do anexo x da presente portaria, da qual faz parte integrante.
+
+2 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.
