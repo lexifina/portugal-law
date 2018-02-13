@@ -12,4 +12,4 @@
 
 5 - A omissão ou prestação de falsas informações para efeitos da aplicação do artigo 10.º e n.º 2 do artigo 12.º da presente portaria determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.
 
-6 - O incumprimento, à data da apresentação do último pedido de pagamento, de qualquer dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a redução de 20 % da ajuda atribuída por cada critério não cumprido.
+6 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.

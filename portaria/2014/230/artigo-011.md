@@ -24,6 +24,8 @@ i) Garantir que todos os pagamentos e recebimentos referentes à operação são
 
 j) Manter a situação relativa aos critérios de seleção nas condições definidas no aviso de abertura.
 
+k) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
 2 - Os beneficiários do apoio à ação 3.2, «Investimento na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.
 
 3 - Os beneficiários do apoio à ação 3.3, «Investimento na transformação e comercialização», devem ainda possuir uma situação económica e financeira equilibrada, com uma autonomia financeira (AF) pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento.
