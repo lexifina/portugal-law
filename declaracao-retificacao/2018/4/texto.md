@@ -1,0 +1,8 @@
+Declaração de Retificação n.º 4/2018
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013 de 21 de março, declara-se que a Portaria n.º 23/2018, publicada no Diário da República, n.º 13, 1.ª série, de 18 de janeiro, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No artigo 27.º, onde se lê:
+«As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2018, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA, I. P., anteriormente a 1 de janeiro de 2018, quer ao abrigo das Leis n.º 1942, de 27 de julho de 1936 e 2127, de 3 de agosto de 1965, quer do Decreto-Lei n.º 503/99, de 20 de novembro, são atualizadas nos termos do disposto nos artigos 2.º e 3.º»
+deve ler-se:
+«As pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional, atribuídas pelo regime geral de segurança social anteriormente a 1 de janeiro de 2018, bem como as pensões por incapacidade permanente para o trabalho e as pensões por morte resultantes de doença profissional atribuídas pela CGA, I. P., anteriormente a 1 de janeiro de 2018, quer ao abrigo das Leis n.os 1942, de 27 de julho de 1936 e 2127, de 3 de agosto de 1965, quer do Decreto-Lei n.º 503/99, de 20 de novembro, são atualizadas nos termos do disposto na alínea a) do n.º 1 do artigo 2.º»
+Secretaria-Geral, 8 de fevereiro de 2018. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+111125052
