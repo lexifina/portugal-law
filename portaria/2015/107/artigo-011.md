@@ -22,6 +22,8 @@ h) Não locar ou alienar os equipamentos, as plantações e as instalações cof
 
 i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas.
 
+j) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
 2 - Os beneficiários do apoio à operação 3.2.2, «Pequenos investimentos na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.
 
 3 - Os beneficiários do apoio à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda possuir uma situação económica e financeira equilibrada, com uma AF pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento.
