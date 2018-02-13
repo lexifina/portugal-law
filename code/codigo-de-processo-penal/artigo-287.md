@@ -16,4 +16,4 @@ b) Pelo assistente, se o procedimento não depender de acusação particular, re
 
 5 - O despacho de abertura de instrução é notificado ao Ministério Público, ao assistente, ao arguido e ao seu defensor.
 
-6 - É aplicável o disposto no n.º 13 do artigo 113.º
+6 - É aplicável o disposto no n.º 14 do artigo 113.º
