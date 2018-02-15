@@ -1,0 +1,14 @@
+Resolução da Assembleia da República n.º 42/2018
+Recomenda ao Governo que concretize um programa de desburocratização e apoio às micro, pequenas e médias empresas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Crie um regime de conta-corrente entre as micro, pequenas e médias empresas (MPME) e o Estado que alivie a tesouraria das empresas e, no caso de serem detentoras de crédito sobre o Estado, permita o acerto das suas obrigações tributárias.
+2 - Adote medidas para que as linhas de crédito anunciadas pelo Governo para as MPME (Linha «Micro e Pequenas Empresas»; Linha «Fundo de maneio»; Linha «Plafond de tesouraria»; Linha «Investimento geral»; Linha «Investimento de projetos 2020») sejam concretizadas com o acompanhamento do IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), em articulação com a IFD - Instituição Financeira de Desenvolvimento, S. A. (IFD, S. A.), quer na resolução de possíveis obstáculos à sua contratualização pelas empresas, quer no controlo das condições, prazos e juros exigidos pelas agências de crédito, que devem traduzir de forma efetiva o volume de fundos públicos disponibilizados para a sua bonificação.
+3 - Adeque o Quadro Comunitário Portugal 2020, no âmbito da sua reprogramação, considerando programas específicos, com plafonds próprios e exclusivos, para as micro e pequenas empresas.
+4 - Defina um programa de valorização das MPME, estabelecendo a sua prioridade, no âmbito da contratação pública e funcionamento das centrais de compras do Estado.
+5 - Concretize com urgência o anunciado Cheque MPME, obrigando à determinação dos impactos e custos, designadamente fiscais, administrativos e de mercados em todos os processos legislativos e normativos dos poderes públicos, que com aquele se relacionem.
+6 - Intervenha junto do setor financeiro, do Banco de Portugal e por intermédio do banco público, Caixa Geral de Depósitos, no sentido do estudo e promoção de uma substancial redução dos encargos das MPME com comissões, despesas de manutenção e outros custos administrativos aplicados pela banca comercial.
+7 - Crie no âmbito do IAPMEI, I. P., um serviço de apoio aos micro e pequenos empresários, com o objetivo de resolver, orientar e sistematizar dificuldades, estrangulamentos e problemas das micro e pequenas empresas na sua relação com serviços da administração central, nomeadamente no acesso a programas públicos para o setor.
+8 - Adote, no âmbito dos programas da administração central para a promoção da eficiência energética, um programa específico de apoios majorados para as MPME, em simultâneo com o desenvolvimento de um balcão próprio para a sua concretização pelo IAPMEI, I. P., DGEG - Direção-Geral de Energia e Geologia e ADENE - Agência para a Energia.
+Aprovada em 21 de dezembro de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+111125288
