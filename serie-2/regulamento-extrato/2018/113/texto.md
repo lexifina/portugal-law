@@ -1,0 +1,4 @@
+Regulamento (extrato) n.º 113/2018
+Tendo sido aprovado o Regulamento Orgânico da Escola Superior de Enfermagem do Porto, decorrido o período de consulta pública, no cumprimento do disposto no n.º 3 do artigo 110.º do Regime jurídico das instituições de ensino superior (RJIES), aprovado pela Lei n.º 62/2007, de 10 de setembro, e do n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro; ao abrigo das competências conferidas pela alínea o) do n.º 1 do artigo 92.º do RJIES, pela alínea ad) do n.º 2 do artigo 31.º dos Estatutos da Escola Superior de Enfermagem do Porto, e do artigo 45.º-A do Decreto-Lei n.º 74/2006, de 24 de março, republicado pelo Decreto-Lei n.º 115/2013, de 7 de agosto, encontra-se publicitado e disponível para consulta em http://www.esenf.pt/fotos/editor2/a_esep/regulamentos/regulamento_organico_2018.pdf
+31 de janeiro de 2018. - O Presidente, Paulo José Parente Gonçalves.
+311103377
