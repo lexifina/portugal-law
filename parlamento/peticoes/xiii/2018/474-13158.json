@@ -1,0 +1,602 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13158",
+  "numero": "474",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-02-16",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-05-23",
+            "entidades": null,
+            "id": "108712",
+            "tipo": null,
+            "titulo": "Audição em 2018-05-23 com Associação Animal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": null,
+            "entidades": [
+              "DGAV - Direção-Geral de Alimentação e Veterinária"
+            ],
+            "nrOficio": "89/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": "2018-04-18",
+            "entidades": [
+              "LPDA - Liga Portuguesa dos Direitos do Animal"
+            ],
+            "nrOficio": "90/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": "2018-05-22",
+            "entidades": [
+              "Representante de Portugal na Associação Europeia de Circos"
+            ],
+            "nrOficio": "91/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": null,
+            "entidades": [
+              "Representante da Associação para o Desenvolvimento das Atividades em Portugal de Circos, Divertimentos e Espetáculos"
+            ],
+            "nrOficio": "93/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA  CULTURA"
+            ],
+            "nrOficio": "87/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-17",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL"
+            ],
+            "nrOficio": "88/CCCJD/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-01-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "837592",
+                "obs": null,
+                "pag": [
+                  "2-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-12",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/024/2019-01-12/2?pgs=2-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-04-04",
+        "DataArquivo": "2019-01-09",
+        "DataBaixaComissao": "2018-02-28",
+        "DataEnvioPAR": "2019-01-09",
+        "DataReaberta": "2018-04-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32497a4d574d3159325a694c544d305a6d55744e446733595331684e6a5a6a4c544a684d6a6c684d4451304f47466c4f5335775a47593d&fich=b31c5cfb-34fe-487a-a66c-2a29a0448ae9.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a41314f5452694f4442684c54597a5a5449744e475669597931684f475a684c546b324f47497a5a4755334d546b774e6935775a47593d&fich=0594b80a-63e2-4ebc-a8fa-968b3de71906.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c3252694f474a6b4d446b784c5745344f5751744e44646d4f533168596a6c684c544a6b596d45325a444e684f4456684d7935775a47593d&fich=db8bd091-a89d-47f9-ab9a-2dba6d3a85a3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32466a4d7a41794d3251324c54426b4e6a41744e44597a4e5330354e44566c4c5745354e324d774d7a55334f544d79596935775a47593d&fich=ac3023d6-0d60-4635-945e-a97c0357932b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32517a4e324d304d574d334c5455334d7a59744e4459354d5330354d544d784c5463354e5451794e545a6d4e7a59344e6935775a47593d&fich=d37c41c7-5736-4691-9131-7954256f7686.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a4533593246684d575a6b4c5455784d5745744e474d784d6931684d32526b4c5451344e32526b4e6a466d4f4756684d7935775a47593d&fich=17caa1fd-511a-4c12-a3dd-487dd61f8ea3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c7a566c4d6a5a6a4e7a55794c5749344e5755744e4751304f4330344d4451354c544d345a444530596d55794d4755354d7935775a47593d&fich=5e26c752-b85e-4d48-8049-38d14be20e93.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-01-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c324e6d5a545579597a49314c54686b4d5459744e47566b597930344e6a45354c5751334f4449785a5468684f446b314e4335515245593d&fich=cfe52c25-8d16-4edc-8619-d7821e8a8954.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32466a4f54526d4d32497a4c5751345a6a59744e475934597930344e446b784c5451334e6a67784d325a694f446334597935775a47593d&fich=ac94f3b3-d8f6-4f8c-8491-476813fb878c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e515a585270593246764c32566d4e546b344f4749344c57597a5a5459744e44597859793035597a63334c5745304d575a69596d59314d324d33597935775a47593d&fich=ef5988b8-f3e6-461c-9c77-a41fbbf53c7c.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4535",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-04-04",
+            "gp": "PS",
+            "id": "5831",
+            "motivoCessacao": null,
+            "nome": "Diogo Leão"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-07-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-03-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938315a4456684f5459775979307a4d6a4d334c54513459546374595451784f5330344d4449774f444a6a4f545134595449756347526d&fich=5d5a960c-3237-48a7-a419-802082c948a2.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:30:16:761&drc=00:03:37:609"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235420",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/33?pgs=33&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:33:54:371&drc=00:02:47:983"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235421",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:36:42:354&drc=00:03:10:960"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235422",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:39:53:315&drc=00:02:32:129"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/35?pgs=35&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:42:25:444&drc=00:02:49:660"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:45:15:105&drc=00:03:11:687"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235425",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Por um circo livre de animais em Portugal",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13158",
+    "PetAssunto": "Por um circo livre de animais em Portugal.",
+    "PetDataEntrada": "2018-02-16",
+    "PeticoesAssociadas": null,
+    "PetId": "13158",
+    "PetLeg": "XIII",
+    "PetNr": "474",
+    "PetNrAssinaturas": "19651",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "698",
+        "obs": null,
+        "pag": [
+          "32-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "108",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/32?pgs=32-36&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "819333",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-04-20",
+        "pubLeg": "XIII",
+        "pubNr": "41",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/041/2018-04-20/4?pgs=4&org=PLC"
+      }
+    ]
+  }
+}
