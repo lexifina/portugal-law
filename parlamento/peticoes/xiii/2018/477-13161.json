@@ -1,0 +1,545 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13161",
+  "numero": "477",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-02-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-05-23",
+            "entidades": null,
+            "id": "108744",
+            "tipo": null,
+            "titulo": "Audição em 2018-05-23 com Dr. José Miguel Marques"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-03-15",
+            "dataResposta": "2018-04-03",
+            "entidades": [
+              "Ordem dos Advogados"
+            ],
+            "nrOficio": "305/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-15",
+            "dataResposta": "2018-04-11",
+            "entidades": [
+              "Ordem dos Solicitadores e dos Agentes de Execução"
+            ],
+            "nrOficio": "306/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-15",
+            "dataResposta": "2018-03-29",
+            "entidades": [
+              "Caixa de Previdência dos Advogados e Solicitadores"
+            ],
+            "nrOficio": "307/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-03-15",
+            "dataResposta": "2018-03-26",
+            "entidades": [
+              "MIN.   DA   JUSTIÇA"
+            ],
+            "nrOficio": "304/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-04-11",
+            "dataResposta": "2018-05-16",
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "388/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-06-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-03-14",
+        "DataArquivo": "2018-06-20",
+        "DataBaixaComissao": "2018-02-28",
+        "DataEnvioPAR": "2018-06-20",
+        "DataReaberta": "2018-03-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-03-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a6b7859544d314f5464694c546b354e6a49744e474e6a4d5331694e5749334c5445784f4749314d6a686c59544534597935515245593d&fich=91a3597b-9962-4cc1-b5b7-118b528ea18c.PDF&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-03-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a59344e475a6a4e7a59324c574e6a5a5749744e4749774d693168596a41784c575533596a49795a5463345a4449314d4335775a47593d&fich=684fc766-cceb-4b02-ab01-e7b22e78d250.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a426c4e57566d4e5755794c5467324d3255744e44497a59793034596d5a694c57526b4d6a557959546c6a4d4745345a4335775a47593d&fich=0e5ef5e2-863e-423c-8bfb-dd252a9c0a8d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-11",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324d354e6d46684d4749324c54637a5a5755744e4467344d7930345932466d4c5455334d3252685a6a55304e6a426c5a4335775a47593d&fich=c96aa0b6-73ee-4883-8caf-573daf5460ed.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32466d4e6d517859544d304c5751774d6d59744e446b79595331694d6a42684c574d344e6a59344d6d55324f544a6b4f4335775a47593d&fich=af6d1a34-d02f-492a-b20a-c86682e692d8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-16",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3249774d4441324f5449774c54686d4d5755744e4751794d6931695a574d334c545a6d4e474d794d4459344e6a59314e4335775a47593d&fich=b0006920-8f1e-4d22-bec7-6f4c20686654.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-06-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a6b32595455354d4445784c544d354d4451744e4459314e7930354e4459344c57566d4e7a426c4f5441794f5745774e4335775a47593d&fich=96a59011-3904-4657-9468-ef70e9029a04.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-04-04",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32513559545a694e7a566d4c544d324d6a45744e44466d595330354e7a497a4c5759314d5755335a44566d4e4745794f5335775a47593d&fich=d9a6b75f-3621-41fa-9723-f51e7d5f4a29.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3246684d6a6b7a4e7a566d4c545a695a4445744e4751305a6931694d4759304c544a6c4d444e6c596d59784f4456694d5335775a47593d&fich=aa29375f-6bd1-4d4f-b0f4-2e03ebf185b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324d32597a566a4d4445314c544d774d7a4d744e446b334d5331684d444d7a4c545a6c4e4752695a6d466d4d544a6b5a4335775a47593d&fich=c6c5c015-3033-4971-a033-6e4dbfaf12dd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4933597a45774f5755774c5442684d4449744e474d30597930354f5467354c544e6c4e545a6b4e5451794e545131596935775a47593d&fich=27c109e0-0a02-4c4c-9989-3e56d542545b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-03-29",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a55344e5749794d47466d4c546b354d4467744e44517a4f5330344f4449334c545a695a4455344e4455314d6a6b345a6935775a47593d&fich=585b20af-9908-4439-8827-6bd58455298f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a59324f4755314d546b324c54497a4f4459744e44426a4e533034596a55334c574a6d4d47466c5a544a6c4d6a6b774d7935775a47593d&fich=668e5196-2386-40c5-8b57-bf0aee2e2903.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a5930596d4d774f5463304c545978595759744e474669596930344f54686a4c574d304d7a4e6a596d597a597a566c4e6935775a47593d&fich=64bc0974-61af-4abb-898c-c433cbf3c5e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-04-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c32566c4d6a45304e324d794c544a694d7a55744e47593259693169596d49304c5459774d57466a5a4451775a6d51354e6935775a47593d&fich=ee2147c2-2b35-4f6b-bbb4-601acd40fd96.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-03-14",
+            "gp": "PS",
+            "id": "5501",
+            "motivoCessacao": null,
+            "nome": "Carla Tavares"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-01-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-03-09",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684d6a41794d5745314d5331694d324d344c5451325a6a49744f5749774d6930344e54526b4e6a466a5a44597a4e3251756347526d&fich=a2021a51-b3c8-46f2-9b02-854d61cd637d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_16_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=03:07:02:380&drc=00:04:34:407"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-17",
+                "pubLeg": "XIII",
+                "pubNr": "39",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_16_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=03:12:57:034&drc=00:02:55:250"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-17",
+                "pubLeg": "XIII",
+                "pubNr": "39",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_16_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=03:15:52:284&drc=00:03:36:518"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-17",
+                "pubLeg": "XIII",
+                "pubNr": "39",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_16_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=03:19:28:802&drc=00:03:52:075"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-17",
+                "pubLeg": "XIII",
+                "pubNr": "39",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_16_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=03:23:20:877&drc=00:04:02:243"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-17",
+                "pubLeg": "XIII",
+                "pubNr": "39",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13161",
+    "PetAssunto": "Solicitam a realização de auditoria à Caixa de Previdência dos Advogados e Solicitadores.",
+    "PetDataEntrada": "2018-02-22",
+    "PeticoesAssociadas": null,
+    "PetId": "13161",
+    "PetLeg": "XIII",
+    "PetNr": "477",
+    "PetNrAssinaturas": "4523",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "680",
+        "obs": null,
+        "pag": [
+          "52-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-17",
+        "pubLeg": "XIII",
+        "pubNr": "39",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/039/2019-01-17/52?pgs=52-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "813399",
+        "obs": null,
+        "pag": [
+          "4-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-16",
+        "pubLeg": "XIII",
+        "pubNr": "34",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/034/2018-03-16/4?pgs=4-6&org=PLC"
+      }
+    ]
+  }
+}
