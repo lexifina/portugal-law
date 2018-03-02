@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1291",
+    "id": "42122",
+    "titulo": "Recomenda ao Governo que submeta a debate, em Plenário da Assembleia da República, o relatório sobre a estratégia plurianual de requalificação e modernização do sistema prisional, de setembro de 2017, e apresente uma proposta de lei de programação de investimentos no parque prisional"
+  },
+  "fase": "Requerimento de adiamento de Votação",
+  "codigo_fase": "244",
+  "data_registo": "2018-03-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "244",
+    "Comissao": null,
+    "DataFase": "2018-03-02",
+    "EvtId": "140",
+    "Fase": "Requerimento de adiamento de Votação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "335726",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "812537",
+        "obs": null,
+        "pag": [
+          "38-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-03",
+        "pubLeg": "XIII",
+        "pubNr": "55",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/055/2018-03-03/38?pgs=38-39&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2018-03-02",
+        "descricao": "Requerimento, apresentado pelo CDS-PP, solicitando a baixa à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias, sem votação, por um período de 90 dias do Projeto de Lei n.º 783/XIII/3.ª (CDS-PP) – 6.ª alteração ao Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho; Projeto de Lei n.º 784/XIII/3.ª (CDS-PP); Projeto de Lei n.º 785/XIII/3.ª (CDS-PP) ; Projeto de Lei n.º 786/XIII/3.ª (CDS-PP); Projeto de Lei n.º 787/XIII/3.ª (CDS-PP); Projeto de Lei n.º 788/XIII/3.ª (CDS-PP); Projeto de Resolução n.º 885/XIII/2.ª (CDS-PP); Projeto de Resolução n.º 1291/XIII/3.ª (CDS-PP); Projeto de Resolução n.º 1355/XIII/3.ª (CDS-PP); Projeto de Resolução n.º 1356/XIII/3.ª (CDS-PP); Projeto de Resolução n.º 1357/XIII/3.ª (CDS-PP) e Projeto de Resolução n.º 1362/XIII/3.ª (CDS-PP)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> BE</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I>",
+        "id": "78512",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "55",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
