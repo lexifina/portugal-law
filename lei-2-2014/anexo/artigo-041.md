@@ -14,10 +14,12 @@ b) Em processo de insolvência, quando a mesma for decretada de caráter limitad
 
 c) Em processo de insolvência ou em processo especial de revitalização, quando seja proferida sentença de homologação do plano de insolvência ou do plano de recuperação que preveja o não pagamento definitivo do crédito;
 
-d) Nos termos previstos no SIREVE, após celebração do acordo previsto no artigo 12.º do referido regime;
+d) (Revogada.)
 
 e) No âmbito de litígios emergentes da prestação de serviços públicos essenciais, após decisão arbitral;
 
 f) Nos termos do regime jurídico da prestação de serviços públicos essenciais, os créditos se encontrem prescritos e o seu valor não ultrapasse o montante de (euro) 750.
+
+g) Quando for celebrado e depositado na Conservatória do Registo Comercial acordo sujeito ao Regime Extrajudicial de Recuperação de Empresas (RERE) que cumpra com o disposto no n.º 3 do artigo 27.º do RERE e do qual resulte o não pagamento definitivo do crédito.
 
 2 - (Revogado.)
