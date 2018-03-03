@@ -8,4 +8,4 @@
 
 3 - Os cursos que habilitam ao ingresso nas classes da categoria de praças são cursos ou estágios de formação ministrados na Escola de Tecnologias Navais, na Escola de Fuzileiros e na Escola de Mergulhadores.
 
-4 - A formação militar e técnica das praças pode ainda ser completada e melhorada de forma contínua através de ações formativas desenvolvidas nas unidades ou serviços onde se encontram colocadas, bem como nas restantes escolas e centros de formação do Sistema de Formação Profissional da Marinha.
+4 - A formação militar e técnica das praças pode ainda ser completada e melhorada de forma contínua através de ações formativas desenvolvidas nas unidades ou serviços onde se encontram colocadas.

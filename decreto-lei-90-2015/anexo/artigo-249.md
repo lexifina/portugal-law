@@ -26,6 +26,6 @@ j) Efetuar as tarefas de arrumação, limpeza e pequenas conservações que lhes
 
 2 - Aos cabos podem ainda ser cometidas funções relativas à condução de pessoal e ao controlo de execução.
 
-3 - Aos militares com o posto de Cabo-Mor podem ser atribuídas funções relativas à organização e orientação da execução e desempenho do cargo de assessor do CEMA para a categoria de praças e apoio dos comandos para os assuntos que forem entendidos.
+3 - Aos militares com o posto de cabo-mor podem ser atribuídas, para além das funções previstas para as restantes praças, com exceção das previstas nas alíneas a), b) e j) do n.º 1, funções relativas à condução e coordenação de pessoal e organização e controlo da execução.
 
 4 - Os cargos e funções de cada posto são os previstos nos regulamentos internos e na estrutura orgânica onde as praças estiverem colocadas.

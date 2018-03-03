@@ -1,11 +1,3 @@
-## Livro III
-
-## Dos regimes de contrato e de voluntariado
-
-## Título I
-
-## Parte comum
-
 # Artigo 253.º
 
 ### Ingresso em categorias superiores
