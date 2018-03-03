@@ -16,4 +16,12 @@ b) De captação de águas, sempre que esta estiver associada a uma actividade q
 
 c) De ocupação do domínio público hídrico por associação sem fins lucrativos, a que se refere o n.º 2 do artigo 21.º
 
-5 - A licença de pesquisa é válida pelo prazo máximo de um ano.
+d) De ocupação do domínio público hídrico nas situações de primeiras habitações em núcleos residenciais piscatórios consolidados que, como tal, sejam reconhecidas por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do ordenamento do território, e, quando esteja em causa a ocupação do domínio público marítimo, também pelos membros do Governo responsáveis pelas áreas da defesa nacional e do mar.
+
+5 - Nos casos em que o título tenha sido emitido ao abrigo da alínea d) do número anterior:
+
+a) O título é emitido por 30 anos, podendo, findo este período, ser emitido novo título de utilização caso se verifique a manutenção de situações de primeira habitação ou associadas ao exercício de atividade profissional ligada à pesca ou a serviços à comunidade, como tal reconhecidas pelos membros do Governo competentes em razão da matéria;
+
+b) Em caso de morte do respetivo titular, o título é transmissível aos seus herdeiros ou legatários, caso se verifique a manutenção das condições e requisitos que determinaram a sua atribuição.
+
+6 - A licença de pesquisa é válida pelo prazo máximo de um ano.
