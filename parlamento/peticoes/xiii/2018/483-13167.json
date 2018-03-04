@@ -1,0 +1,458 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13167",
+  "numero": "483",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-03-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-04-18",
+            "entidades": null,
+            "id": "108447",
+            "tipo": null,
+            "titulo": "Audição em 2018-04-18 com Salomé Sebastião"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-04-19",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DOS  NEGÓCIOS ESTRANGEIROS"
+            ],
+            "nrOficio": "35/CNECP/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-05-17",
+                "dataResposta": "2018-06-14",
+                "nrOficio": "Email",
+                "oficioResposta": "3265"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-04-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-04-03",
+        "DataArquivo": "2018-06-12",
+        "DataBaixaComissao": "2018-03-09",
+        "DataEnvioPAR": "2018-06-18",
+        "DataReaberta": "2018-04-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-04-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a59573876593255344e4759344d7a59744e544e6b4e6930304e446b784c5749784d544d744e6a4d7a5a4467324e574d314e4463774c6e426b5a673d3d&fich=ce84f836-53d6-4491-b113-633d865c5470.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-05-23",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a59573876596a426c4e575a6c4d7a67745a4451335a6930304d5745784c5746684e6d55744d32566b5a54517a4e445978596a45324c6e426b5a673d3d&fich=b0e5fe38-d47f-41a1-aa6e-3ede43461b16.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-06-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764e5752685a6a566c595441744d5459784d7930305a5755314c5749775a544d744d7a55784d4749324f4463314e7a64684c6e426b5a673d3d&fich=5daf5ea0-1613-4ee5-b0e3-3510b687577a.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-06-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a59573876595446694d47566b5a6a67744e544530596930305a6d526b4c5745774d7a6b744e6a45774d54426a4d44426c4d44426d4c6e426b5a673d3d&fich=a1b0edf8-514b-4fdd-a039-61010c00e00f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-06-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738765a6a45324f4745315a444174597a686b4e7930304d44637a4c5745794d544d744d7a52684e6d4a6d4d6a4e68596a4d7a4c6e426b5a673d3d&fich=f168a5d0-c8d7-4073-a213-34a6bf23ab33.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4525",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-04-03",
+            "gp": "PSD",
+            "id": "4031",
+            "motivoCessacao": null,
+            "nome": "Ângela Guerra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2018-07-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-06-22",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938334e474d774d6d4933597931694d5456684c54526d4e6a6b74596d466b5a53307a4e7a5134596a566a596a686c5a446b756347526d&fich=74c02b7c-b15a-4f69-bade-3748b5cb8ed9.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=02:17:18:431&drc=00:04:08:832"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228884",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=02:21:27:264&drc=00:03:15:291"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228887",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=02:24:42:555&drc=00:03:05:087"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228888",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=02:27:47:643&drc=00:03:29:406"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2018-07-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_07_18_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m07/&tI=02:31:17:050&drc=00:01:35:615"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "228891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "107",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13167",
+    "PetAssunto": "Solicita adoção de medidas para encontrar Américo Sebastião, cidadão português, desaparecido em Moçambique.",
+    "PetDataEntrada": "2018-03-04",
+    "PeticoesAssociadas": null,
+    "PetId": "13167",
+    "PetLeg": "XIII",
+    "PetNr": "483",
+    "PetNrAssinaturas": "6440",
+    "PetNrAssinaturasInicial": "877",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "665",
+        "obs": null,
+        "pag": [
+          "39-42"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-19",
+        "pubLeg": "XIII",
+        "pubNr": "107",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/107/2018-07-19/39?pgs=39-42&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "819330",
+        "obs": null,
+        "pag": [
+          "16-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-04-06",
+        "pubLeg": "XIII",
+        "pubNr": "38",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/038/2018-04-06/16?pgs=16-18&org=PLC"
+      }
+    ]
+  }
+}
