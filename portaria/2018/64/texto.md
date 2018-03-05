@@ -1,0 +1,16 @@
+Portaria n.º 64/2018
+de 5 de março
+A alteração do n.º 4 do artigo 63.º-A da Lei Geral Tributária, por força do artigo 173.º da Lei n.º 7-A/2016, de 30 de março (OE-2016), anterior n.º 3 renumerado pela Lei n.º 14/2017, de 3 de maio, vem alargar o universo das entidades abrangidas pela obrigação acessória, declaração Modelo 40 - Valor dos Fluxos de Pagamentos com Cartões de Crédito e de Débito, aprovada pela Portaria n.º 34-B/2012, de 01 de fevereiro e incrementar os meios de pagamento sujeitos a comunicação, o que permitirá melhorar o controlo por parte da Autoridade Tributária e Aduaneira, tendo em vista a redução e combate da evasão fiscal.
+A nova declaração Modelo 40, para além da informação do valor dos fluxos de pagamentos com cartões de crédito e de débito efetuados através de TPA's (Terminais de Pagamento Automático), por intermédio das instituições de crédito, sociedades financeiras e as demais entidades que prestem serviços de pagamento, a sujeitos passivos que aufiram rendimentos da categoria B de IRS e de IRC, deve passar a incluir também informação de outros meios de pagamento eletrónico, nomeadamente os fluxos de pagamentos efetuados através das restantes tipologias de cartões de pagamento, incluindo, entre outros, cartões dual ou mistos, pré-pagos ou cartões virtuais, passando a nova declaração a designar-se «Valor dos Fluxos de Pagamento».
+Adicionalmente, a declaração passará também a incluir os fluxos de pagamentos associados às demais operações com cartões de pagamento, incluindo as efetuadas com recurso a «Referências Multibanco» ou a «Transferências Multibanco ou imediatas», independentemente do dispositivo utilizado para a realização da operação (por exemplo TPA, ATM - caixas automáticas, portais bancários ou aplicações móveis), sem por qualquer forma identificar os titulares dos cartões que estiveram na origem dos fluxos a reportar.
+As entidades que prestem serviços de pagamento, por exemplo os fornecedores de referências Multibanco, que atuem como entidades agregadoras de cobranças de pagamentos destinados a terceiros, devem reportar através da declaração Modelo 40 o desdobramento dos montantes recebidos por conta dos seus clientes, com a identificação dos valores e respetivos beneficiários.
+Foi ouvido o Banco de Portugal.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 4 do artigo 63.º-A da LGT e das competências delegadas pelo Ministro das Finanças nos termos da subalínea xviii) da alínea e) do n.º 3 do Despacho n.º 9005/2017, o seguinte:
+Artigo único
+1 - É aprovado o novo modelo de declaração e respetivas instruções, designado por Valor dos Fluxos de Pagamento (Modelo 40), para cumprimento da obrigação referida no n.º 4 do artigo 63.º-A da Lei Geral Tributária.
+2 - A declaração a que se refere o número anterior deve ser apresentada pelas entidades abrangidas por esta obrigação acessória, por transmissão eletrónica de dados, para a comunicação dos fluxos de pagamento efetuados a partir de 1 de janeiro de 2017 e nos anos seguintes.
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 27 de fevereiro de 2018.
+
+(ver documento original)
+111168631
