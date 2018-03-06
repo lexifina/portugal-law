@@ -1,0 +1,27 @@
+Resolução do Conselho de Ministros n.º 21/2018
+A Administração Interna, através da Autoridade Nacional de Proteção Civil (ANPC), no desempenho da missão pública de combate a incêndios florestais, recorre a um dispositivo de meios aéreos que integra um dispositivo permanente, formado por meios aéreos próprios, e um dispositivo complementar, formado por meios aéreos locados.
+O dispositivo complementar é contratado para fazer face ao crescente risco de incêndios florestais e integra o Dispositivo Especial de Combate aos Incêndios Florestais. Sendo os meios aéreos uma ferramenta indispensável no combate aos incêndios florestais, a sua contratação afigura-se essencial para completar os meios já existentes na proteção civil para a defesa de pessoas e bens.
+A presente resolução surge na sequência da Resolução do Conselho de Ministros n.º 192/2017, de 19 de dezembro, que autorizou a ANPC a realizar despesa e lançar um procedimento de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia (JOUE), do qual um dos lotes foi objeto de proposta de adjudicação, que visa autorizar a despesa e o respetivo escalonamento plurianual para os anos de 2018, 2019 e 2020, bem como a adoção de um novo procedimento por concurso público, com publicação de anúncio no JOUE, para a disponibilização e locação dos demais meios que constituem o dispositivo aéreo complementar da ANPC.
+O recurso ao procedimento por concurso público, com publicidade internacional, justifica-se face aos montantes envolvidos, bem como ao tipo de serviço que se pretende adquirir.
+Autoriza-se, assim, a despesa, o seu escalonamento e o correspondente procedimento para disponibilização e locação dos meios que constituem o dispositivo aéreo complementar da ANPC, sem prejuízo da autorização de despesa concedida pela Resolução do Conselho de Ministros n.º 192/2017, de 19 de dezembro, na redação introduzida pela presente resolução.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º, e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinados pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Autoridade Nacional de Proteção Civil (ANPC), durante os anos de 2018 a 2020, a realizar a despesa até ao montante máximo de (euro) 48 888 667, a que acresce IVA à taxa legal em vigor, para o lançamento de procedimento concursal com vista à disponibilização e locação dos meios aéreos que constituem o dispositivo aéreo complementar que integra o dispositivo aéreo da ANPC afeto à prossecução da missão atribuída à administração interna no âmbito do combate aos incêndios florestais.
+2 - Determinar, ao abrigo do disposto na alínea a) do n.º 1 do artigo 20.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, o recurso ao procedimento de concurso público com publicação no Jornal Oficial da União Europeia.
+3 - Determinar que, no âmbito do procedimento concursal referido no número anterior, se nenhum concorrente apresentar proposta ou todas as propostas forem excluídas, e desde que verificados os pressupostos e requisitos definidos no artigo 24.º do CCP, seja aberto procedimento de ajuste direto para assegurar a disponibilização e locação dos meios aéreos que constituem o dispositivo aéreo complementar que integra o dispositivo aéreo da ANPC.
+4 - Determinar que os encargos com a despesa referida no n.º 1 não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2018 - (euro) 22 280 916;
+b) 2019 - (euro) 25 199 489;
+c) 2020 - (euro) 1 408 263.
+5 - Estabelecer que o montante fixado em cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+6 - Determinar que os encargos financeiros referidos no n.º 1 são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento da ANPC.
+7 - Delegar, com faculdade de subdelegação, no Ministro da Administração Interna, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+8 - Determinar que os n.os 1 e 4 da Resolução do Conselho de Ministros n.º 192/2017, de 19 de dezembro, passam a ter a seguinte redação:
+«1 - Autorizar a Autoridade Nacional de Proteção Civil (ANPC), durante os anos de 2018 a 2020, a realizar a despesa até ao montante máximo de (euro) 10 925 000, a que acresce IVA à taxa legal em vigor, para o lançamento de procedimento concursal com vista à disponibilização e locação dos meios aéreos que constituem o dispositivo aéreo complementar que integra o dispositivo aéreo da ANPC afeto à prossecução da missão atribuída à administração interna no âmbito do combate aos incêndios florestais.
+4 - Determinar que os encargos com a despesa referida no n.º 1 não pode exceder, em cada ano económico, os seguintes montantes, aos quais acresce o IVA à taxa legal em vigor:
+a) 2018 - (euro) 3 532 417;
+b) 2019 - (euro) 6 136 208;
+c) 2020 - (euro) 1 256 375.»
+9 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 1 de março de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+111179048
