@@ -2,7 +2,7 @@
 
 ### Serviços assegurados pela ECSCP
 
-A ECSCP assegura, designadamente:
+1 - A ECSCP assegura, designadamente:
 
 a) Cuidados médicos e de enfermagem permanentes;
 
@@ -23,3 +23,5 @@ h) Prevenção da, e intervenção na, exaustão emocional dos profissionais de 
 i) Gestão e controlo dos procedimentos de articulação entre os recursos e os níveis de saúde e sociais;
 
 j) Formação em cuidados paliativos.
+
+2 - Para o acompanhamento de doentes em idade pediátrica, a ECSCP deve articular-se com a EIHSCP-Pediátrica que referenciou o doente ou a da instituição hospitalar de referência da sua área de intervenção.

@@ -14,7 +14,7 @@
 
 a) As unidades de internamento de cuidados paliativos (UCP);
 
-b) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP);
+b) As equipas intra-hospitalares de suporte em cuidados paliativos (EIHSCP), incluindo as equipas intra-hospitalares de suporte em cuidados paliativos pediátricas (EIHSCP-Pediátricas);
 
 c) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).
 
@@ -24,4 +24,4 @@ c) As equipas comunitárias de suporte em cuidados paliativos (ECSCP).
 
 4 - As equipas locais de âmbito hospitalar podem organizar-se em termos de resposta assistencial, de forma integrada, agregando as valências de cuidados paliativos, nomeadamente a equipa de apoio intra-hospitalar, unidade de internamento, quando existente, hospital de dia, consulta externa e consulta domiciliária.
 
-5 - As Unidades de Convalescença, as Unidades de Média Duração e Reabilitação, as Unidades de Longa Duração e Manutenção e as Equipas de Cuidados Continuados Integrados (ECCI) da RNCCI, devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de ações paliativas.
+5 - Todas as equipas e unidades da RNCCI devem articular-se com as equipas locais de cuidados paliativos para assegurar a prestação de uma abordagem paliativa de qualidade.
