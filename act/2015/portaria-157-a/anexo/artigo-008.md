@@ -4,7 +4,7 @@
 
 1 - Dentro do prazo fixado no n.º 1 do artigo 7.º do presente regulamento, as candidaturas são formalizadas mediante requerimento dirigido à Secretária-Geral do Ministério dos Negócios Estrangeiros através:
 
-a) De correio eletrónico, para o endereço concursoconselheiros2015@mne.pt ou,
+a) De correio eletrónico, para o endereço institucional indicado para o efeito no Aviso de abertura do concurso;
 
 b) De carta registada, com aviso de receção, para a sede do Ministério dos Negócios Estrangeiros; ou
 

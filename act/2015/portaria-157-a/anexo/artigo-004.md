@@ -2,20 +2,10 @@
 
 ### Nomeação do júri
 
-1 - São nomeados membros do júri do presente concurso:
+1 - A nomeação dos titulares do júri do presente concurso é publicitada no Aviso de abertura do concurso.
 
-a) A Embaixadora Ana Martinho, que preside;
-
-b) O ministro plenipotenciário Pedro Costa Pereira, como 1.º vogal efetivo;
-
-c) O ministro plenipotenciário Francisco Duarte Lopes, como 2.º vogal efetivo;
-
-d) O ministro plenipotenciário Jorge Silva Lopes, como 1.º vogal suplente;
-
-e) O ministro plenipotenciário Luís Gaspar da Silva, como 2.º vogal suplente.
-
-2 - Por despacho do Ministro de Estado e dos Negócios Estrangeiros devidamente fundamentado em motivos ponderosos, os titulares mencionados no número anterior podem ser substituídos.
+2 - Por motivos ponderosos, devidamente fundamentados, por despacho do Ministro dos Negócios Estrangeiros, pode ser alterado o despacho de nomeação referido no número anterior.
 
 3 - No caso previsto no número anterior, o júri recomeça a avaliação das candidaturas.
 
-4 - Para prestar apoio ao júri é nomeada a secretária de embaixada Sara Simões de Oliveira dos Reis Ágoas.
+4 - Para prestar apoio ao júri é designado pelo Secretário-Geral um adjunto do Gabinete do Secretário-Geral, sendo a nomeação publicitada no Aviso de abertura do concurso.

@@ -1,8 +1,8 @@
 # Artigo 3.º
 
-### Composição e funcionamento do júri
+### Composição do júri
 
-1 - O júri a que se refere o n.º 7 do artigo 18.º do ECD é composto por um presidente e dois vogais.
+1 - O júri a que se refere o n.º 7 do artigo 18.º do ECD é composto por um presidente, dois vogais efetivos e dois vogais suplentes.
 
 2 - (Revogado.)
 

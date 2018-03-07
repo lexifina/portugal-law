@@ -8,4 +8,4 @@
 
 3 - Após homologação, o júri promove, de imediato, a publicação da lista de classificação final dos candidatos no Diário da República e publicita-a pelos meios identificados no n.º 2 do artigo 2.º.
 
-4 - Da homologação da lista cabe reclamação, a apresentar no prazo de dez dias úteis, ao Ministro de Estado e dos Negócios Estrangeiros, o qual deve decidir em igual prazo.
+4 - Da homologação da lista cabe reclamação, a apresentar no prazo de 10 dias úteis, ao Ministro dos Negócios Estrangeiros, o qual deve decidir em igual prazo.
