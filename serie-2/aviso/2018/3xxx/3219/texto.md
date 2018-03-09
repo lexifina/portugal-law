@@ -1,0 +1,23 @@
+Aviso n.º 3219/2018
+2.ª Alteração ao Plano Diretor Municipal
+Nos termos do n.º 1, do artigo 76.º, e dos n.os 1 e 2, do artigo 88.º, ambos do Decreto-Lei n.º 80/2015, de 14 de maio, a Câmara Municipal de Vila Franca de Xira, na sua reunião ordinária e pública realizada a 7 de fevereiro de 2018, deliberou aprovar o estabelecimento do início do procedimento relativo à elaboração dos trabalhos da 2.ª alteração ao Plano Diretor Municipal, bem como do período de participação dos interessados, nos seguintes termos:
+Objetivo:
+1) Alterar o regime de uso do solo associado às antigas instalações da Escola da Armada em função da recente aquisição pelo município, de forma a viabilizar a regeneração sustentada daquele território. A presente alteração incide sobre a carta de ordenamento e o regulamento.
+2) Dar seguimento a dois processos no âmbito do Regime Extraordinário de Regularização das Atividades Económicas, desenvolvidos junto das respetivas entidades licenciadoras:
+a) Sociedade Central de Cervejas e Bebidas, SA - Criar as condições necessárias para a regularização de construções existentes, viabilizando simultaneamente necessidades futuras. A presente alteração incide sobre a carta de ordenamento;
+b) Triamar - Gestão de Resíduos, SA - Permitir a deposição de resíduos de construção e demolição não perigosos nos espaços de indústria extrativa e possibilitar a operação de gestão de resíduos de construção e demolição não perigosos nas áreas de pedreira em atividade, isto é nos espaços de indústria extrativa/espaços consolidados. A presente alteração incide sobre o regulamento.
+Em conformidade com o Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, a génese das alterações propostas não é suscetível de ter efeitos no ambiente, pelo que dispensa o procedimento de Avaliação Ambiental Estratégica.
+O prazo de elaboração da 2.ª alteração ao Plano Diretor Municipal é de 6 meses e o período de participação dos interessados é de 15 dias, sendo que ambos os prazos se contam a partir da data da publicação da deliberação no Diário da República.
+O processo com os elementos relevantes da presente alteração, para que os interessados possam conhecer o estado dos trabalhos e a evolução da tramitação procedimental, bem como formular sugestões, encontra-se disponível para consulta nas instalações municipais sitas na Rua António Dias Lourenço, n.º 4, 2600-134 Vila Franca de Xira, no horário normal de expediente.
+Os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração, por escrito, que deverão ser dirigidas ao Sr. Presidente da Câmara Municipal de Vila Franca de Xira, de uma das seguintes formas: presencialmente, na Loja do Munícipe, por via postal, para Praça Bartolomeu Dias, n.º 9, Quinta da Mina, 2600-076 Vila Franca de Xira, ou para o mail altpdm@cm-vfxira.pt.
+15 de fevereiro de 2018. - O Presidente da Câmara Municipal, Alberto Simões Maia Mesquita.
+Deliberação
+Deliberado por maioria:
+1. Alterar o regime de uso do solo associado às antigas instalações da Escola da Armada em função da recente aquisição pelo município, de forma a viabilizar a regeneração sustentada daquele território. A presente alteração incide sobre a carta de ordenamento e o regulamento.
+2. Dar seguimento a dois processos no âmbito do Regime Extraordinário de Regularização das Atividades Económicas, desenvolvidos junto das respetivas entidades licenciadoras:
+a. Sociedade Central de Cervejas e Bebidas, SA - Criar as condições necessárias para a regularização de construções existentes, viabilizando simultaneamente necessidades futuras. A presente alteração incide sobre a carta de ordenamento;
+b. Triamar - Gestão de Resíduos, SA - Permitir a deposição de resíduos de construção e demolição não perigosos nos espaços de indústria extrativa e possibilitar a operação de gestão de resíduos de construção e demolição não perigosos nas áreas de pedreira em atividade, isto é nos espaços de indústria extrativa/espaços consolidados. A presente alteração incide sobre o regulamento.
+Em conformidade com o Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, a génese das alterações propostas não é suscetível de ter efeitos no ambiente, pelo que dispensa o procedimento de Avaliação Ambiental Estratégica.
+O prazo de elaboração da 2.ª alteração ao Plano Diretor Municipal é de 6 meses e o período de participação dos interessados é de 15 dias, sendo que ambos os prazos se contam a partir da data da publicação da deliberação no Diário da República.
+15 de fevereiro de 2018. - O Presidente da Câmara Municipal, Alberto Simões Maia Mesquita.
+611158141
