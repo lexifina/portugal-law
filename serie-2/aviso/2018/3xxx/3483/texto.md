@@ -1,0 +1,6 @@
+Aviso n.º 3483/2018
+Projeto de Regulamento Municipal de apoio à vacinação infantil
+Jorge Manuel Rodrigues Vultos Sequeira, Presidente da Câmara Municipal de S. João da Madeira, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 20 de fevereiro de 2018, submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso no Diário da República, o Projeto de Regulamento Municipal de Apoio à Vacinação Infantil, e cujo texto pode ser consultado no site da Câmara Municipal de S. João da Madeira (www.cm-sjm.pt) ou na Divisão Jurídica, Administrativa e de Gestão de Recursos Humanos, situada no edifício do Fórum Municipal.
+Os interessados podem endereçar por escrito para a Câmara Municipal as eventuais reclamações, sugestões, observações e propostas dentro do prazo referido, dirigidas ao Presidente da Câmara Municipal ou para o email ireneguimaraes@cm-sjm.pt.
+21 de fevereiro de 2018. - O Presidente da Câmara Municipal, Jorge M. R. Vultos Sequeira.
+311154878
