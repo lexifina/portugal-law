@@ -1,0 +1,131 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2018-03-15, processo 10625/13
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 10625/13
+
+**Secção:** CA- 2º JUÍZO
+
+**Data do Acordão:** 03/15/2018
+
+**Relator:** ANA CELESTE CARVALHO
+
+**Descritores:** IRRECORRIBILIDADE DA DECISÃO ARBITRAL; CAAD
+
+**Votação:** UNANIMIDADE
+
+**Aditamento:** 1
+
+## Decisão Texto Integral
+
+Acordam em conferência na Secção de Contencioso Administrativo do Tribunal Central Administrativo Sul:
+
+I – RELATÓRIO
+
+O Instituto dos Registos e do Notariado, IP, devidamente identificado nos autos, veio interpor recurso jurisdicional da decisão arbitral proferida pelo Centro de Arbitragem Administrativa (CAAD), em 02/07/2013, que no âmbito do processo arbitral instaurado pelo Sindicato dos Trabalhadores dos Registos e do Notariado – Sul e Ilhas, julgou procedente a exceção dilatória relativamente à associada Carla …………….., absolvendo o demandado da instância, e julgou procedente o pedido relativamente aos restantes 48 associados, condenando o demandado a reposicionar os associados no escalão 1, índice 190 da categoria de escriturário superior, promovendo a publicação em Diário da República, e ainda, a repor as diferenças remuneratórias devidas e a aplicar o disposto no artigo 19.º da LOE2011 sobre os rendimentos devidos após a 01/01/2011, e, por último, ao pagamento de sanção pecuniária compulsória, à razão diária de € 48,50 em caso de falta atempada de publicação do reposicionamento e de falta de pagamento das diferenças remuneratórias.
+
+Inconformado, o Instituto dos Registos e do Notariado, IP, interpôs recurso jurisdicional para este Tribunal Central Administrativo Sul da sentença arbitral.
+
+*
+
+Cumpre apreciar a admissibilidade do presente recurso jurisdicional.
+
+Coloca-se a questão da rejeição do recurso, com o fundamento de as partes não terem acordado expressamente a possibilidade de recurso na convenção de arbitragem, conforme exigência constante do n.º 4 do artigo 39.º, da Lei n.º 63/2011, de 14/12, sobre a qual foi proferido despacho e cumprido o princípio do contraditório.
+
+II – FUNDAMENTAÇÃO
+
+DE FACTO
+
+Com interesse para a decisão consideram-se assentes os seguintes factos:
+
+1) O Sindicato dos Trabalhadores dos Registos e do Notariado – Sul e Ilhas intentou, em 01/02/2013, no CAAD a presente acção administrativa contra o Instituto dos Registos e Notariado, IP, no qual formulou pedido de condenação, através da petição inicial constante do processo arbitral que se encontra apenso, cujo teor aqui se dá por integralmente reproduzido.
+
+2) O Instituto dos Registos e Notariado, IP apresentou a contestação que consta do processo arbitral que se encontra apenso, cujo teor aqui se dá por integralmente reproduzido, na qual se defendeu por exceção e por impugnação.
+
+3) O CAAD por sentença de 02/07/2013, além de julgar procedente a exceção dilatória relativamente a um associado, julgou procedente a presente acção.
+
+DE DIREITO
+
+Presente a factualidade antecedente, cumpre analisar a admissibilidade do recurso jurisdicional interposto pelo Instituto dos Registos e Notariado, IP da sentença arbitral proferida em 02/07/2013.
+
+Sobre esta precisa questão foram proferidos pelo Supremo Tribunal Administrativo (STA), concretamente em 20/06/2017, dois acórdãos, nos Processos n.ºs 181/17 e 112/17, cujo sumário é o seguinte:
+
+“Face ao regime decorrente do n.º 4 do art. 39.º da Lei n.º 63/2011 [atual Lei da Arbitragem Voluntária] exige-se, como condição da recorribilidade da decisão arbitral para o tribunal estadual competente, a existência duma expressa manifestação da vontade das partes quanto à possibilidade ou à admissibilidade de existência de recurso jurisdicional, manifestação essa que deve materializar-se na convenção de arbitragem celebrada ou, então, nos articulados produzidos no processo arbitral por cada um dos seus intervenientes”.
+
+Por se concordar com a argumentação exarada nesses dois acórdãos, procede-se de seguida à transcrição do acórdão proferido no Processo n.º 181/17, na sua parte relevante, por estar aí em causa situação em tudo idêntica à ora em apreciação:
+
+“III. Cotejando e convocando o quadro normativo alegado e o demais tido por pertinente previa-se, desde logo, no art. 180.º do CPTA que “[s]em prejuízo do disposto em lei especial, pode ser constituído tribunal arbitral para o julgamento de: (…) a) Questões respeitantes a contratos, incluindo a apreciação de atos administrativos relativos à respetiva execução; (…) b) Questões de responsabilidade civil extracontratual, incluindo a efetivação do direito de regresso; (…) c) Questões relativas a atos administrativos que possam ser revogados sem fundamento na sua invalidade, nos termos da lei substantiva; (…) d) Litígios emergentes de relações jurídicas de emprego público, quando não estejam em causa direitos indisponíveis e quando não resultem de acidente de trabalho ou de doença profissional” [n.º 1], sendo que se excecionava “do disposto no número anterior os casos em que existam contrainteressados, salvo se estes aceitarem o compromisso arbitral” [n.º 2], resultando dos termos do n.º 1 do art. 181.º que “[o] tribunal arbitral é constituído e funciona nos termos da lei sobre arbitragem voluntária, com as devidas adaptações” e, do art. 187.º sob a epígrafe de “centros de arbitragem”, que “[o] Estado pode, nos termos da lei, autorizar a instalação de centros de arbitragem permanente destinados à composição de litígios no âmbito das seguintes matérias: (…) a) Contratos; (…) b) Responsabilidade civil da Administração; (…) c) Relações jurídicas de emprego público; (…) d) Sistemas públicos de proteção social; (…) e) Urbanismo” [n.º 1], e que “[a] vinculação de cada ministério à jurisdição de centros de arbitragem depende de portaria conjunta do Ministro da Justiça e do ministro da tutela, que estabelece o tipo e o valor máximo dos litígios abrangidos, conferindo aos interessados o poder de se dirigirem a esses centros para a resolução de tais litígios” [n.º 2], sendo que pela citada Lei n.º 63/2011 foi revogado, nomeadamente, o art. 186.º [cfr. seu art. 05.º, n.º 2], preceito onde se dispunha que “[a]s decisões proferidas por tribunal arbitral podem ser anuladas pelo Tribunal Central Administrativo com qualquer dos fundamentos que, na lei sobre arbitragem voluntária, permitem a anulação da decisão dos árbitros” [n.º 1] e que “[a]s decisões proferidas por tribunal arbitral também podem ser objeto de recurso para o Tribunal Central Administrativo, nos moldes em que a lei sobre arbitragem voluntária prevê o recurso para o Tribunal da Relação, quando o tribunal arbitral não tenha decidido segundo a equidade” [n.º 2].
+
+IV. Resulta, por sua vez, do art. 01.º da Portaria n.º 1120/2009, vigente desde 01.10.2009 [cfr. seu art. 02.º], que “[p]ela presente portaria vinculam-se à jurisdição do Centro de Arbitragem Administrativa - CAAD os seguintes serviços centrais, pessoas coletivas públicas e entidades que funcionam no âmbito do Ministério da Justiça: (…)” [n.º 1], que “[o]s serviços centrais, pessoas coletivas públicas e entidades referidos no número anterior vinculam-se à jurisdição do Centro de Arbitragem Administrativa - CAAD para a composição de litígios de valor igual ou inferior a 150 milhões de euros e que tenham por objeto: (…) a) Questões emergentes de relações jurídicas de emprego público, quando não estejam em causa direitos indisponíveis e quando não resultem de acidente de trabalho ou de doença profissional; (…) b) Questões relativas a contratos por si celebrados” [n.º 2], sendo que “[t]endo em conta a natureza do vínculo de nomeação da relação jurídica de emprego público e as funções em causa, o disposto no número anterior é aplicável aos litígios relativos às carreiras (…)” [n.º 3].
+
+V. Por outro lado, extrai-se do art. 01.º da «LAV», no que releva, que “[d]esde que por lei especial não esteja submetido exclusivamente aos tribunais do Estado ou a arbitragem necessária, qualquer litígio respeitante a interesses de natureza patrimonial pode ser cometido pelas partes, mediante convenção de arbitragem, à decisão de árbitros” [n.º 1], que “[é] também válida uma convenção de arbitragem relativa a litígios que não envolvam interesses de natureza patrimonial, desde que as partes possam celebrar transação sobre o direito controvertido” [n.º 2] e que “[o] Estado e outras pessoas coletivas de direito público podem celebrar convenções de arbitragem, na medida em que para tanto estejam autorizados por lei ou se tais convenções tiverem por objeto litígios de direito privado” [n.º 5], estipulando-se no artigo seguinte que “[a] convenção de arbitragem deve adotar forma escrita” [n.º 1], e considerando-se que a exigência de forma escrita da convenção de arbitragem está satisfeita “quando a convenção conste de documento escrito assinado pelas partes, troca de cartas, telegramas, telefaxes ou outros meios de telecomunicação de que fique prova escrita, incluindo meios eletrónicos de comunicação” [n.º 2], ou “quando esta conste de suporte eletrónico, magnético, ótico, ou de outro tipo, que ofereça as mesmas garantias de fidedignidade, inteligibilidade e conservação” [n.º 3] ou, ainda, “quando exista troca de uma petição e uma contestação em processo arbitral, em que a existência de tal convenção seja alegada por uma parte e não seja negada pela outra” [n.º 5], sendo que “[o] compromisso arbitral deve determinar o objeto do litígio; a cláusula compromissória deve especificar a relação jurídica a que os litígios respeitem" [n.º 6].
+
+VI. Ainda no quadro da mesma Lei estipula-se no seu art. 06.º que “[t]odas as referências feitas na presente lei ao estipulado na convenção de arbitragem ou ao acordo entre as partes abrangem não apenas o que as partes aí regulem diretamente, mas também o disposto em regulamentos de arbitragem para os quais as partes hajam remetido”, e no art. 39.º, respeitante a «direito aplicável, recurso à equidade; irrecorribilidade da decisão», disciplina-se que “[o]s árbitros julgam segundo o direito constituído, a menos que as partes determinem, por acordo, que julguem segundo a equidade” [n.º 1], sendo que “[a] sentença que se pronuncie sobre o fundo da causa ou que, sem conhecer deste, ponha termo ao processo arbitral, só é suscetível de recurso para o tribunal estadual competente no caso de as partes terem expressamente previsto tal possibilidade na convenção de arbitragem e desde que a causa não haja sido decidida segundo a equidade ou mediante composição amigável” [n.º 4]
+
+VII. Dispõe-se, ainda, no n.º 1 do art. 46.º, sob a epígrafe de «pedido de anulação», que “[s]alvo se as partes tiverem acordado em sentido diferente, ao abrigo do n.º 4 do artigo 39.º, a impugnação de uma sentença arbitral perante um tribunal estadual só pode revestir a forma de pedido de anulação, nos termos do disposto no presente artigo”, e do art. 59.º extrai-se, no que para os autos releva, que “[r]elativamente a litígios compreendidos na esfera de jurisdição dos tribunais judiciais, o Tribunal da Relação em cujo distrito se situe o lugar da arbitragem ou, no caso da decisão referida na alínea h) do n.º 1 do presente artigo, o domicílio da pessoa contra quem se pretenda fazer valer a sentença, é competente para decidir sobre: (…) e) O recurso da sentença arbitral, quando este tenha sido convencionado ao abrigo do n.º 4 do artigo 39.º (…)” [n.º 1], sendo que “[r]elativamente a litígios que, segundo o direito português, estejam compreendidos na esfera da jurisdição dos tribunais administrativos, a competência para decidir sobre matérias referidas nalguma das alíneas do n.º 1 do presente artigo, pertence ao Tribunal Central Administrativo em cuja circunscrição se situe o local da arbitragem ou, no caso da decisão referida na alínea h) do n.º 1, o domicílio da pessoa contra quem se pretende fazer valer a sentença” [n.º 2]
+
+VIII. Atente-se que na anterior «LAV» [Lei n.º 31/86, de 29.08] estipulava-se no seu art. 29.º que “[s]e as partes não tiverem renunciado aos recursos, da decisão arbitral cabem para o tribunal da relação os mesmos recursos que caberiam da sentença proferida pelo tribunal de comarca” [n.º 1] sendo que “[a] autorização dada aos árbitros para julgarem segundo a equidade envolve a renúncia aos recursos” [n.º 2].
+
+IX. Por último, deriva do aludido Regulamento de Arbitragem Administrativa do «CAAD» e no que releva para o objeto de discussão que “[a] submissão do litígio ao tribunal arbitral constituído sob a égide do Centro implica a aceitação pelas partes do disposto neste Regulamento que constitui parte integrante da convenção de arbitragem” [cfr. n.º 5 do seu art. 08.º], que “[o] árbitro julga apenas segundo o direito constituído” [cfr. art. 24.º], sendo que, nos termos do seu art. 26.º, “[a]s decisões proferidas pelo tribunal arbitral podem ser anuladas pelo Tribunal Central Administrativo com qualquer dos fundamentos que, na lei sobre arbitragem voluntária, permitem a anulação da decisão dos árbitros” [n.º 1] e “[s]e as partes não tiverem renunciado aos recursos, da decisão arbitral cabem os mesmos recursos que caberiam da sentença proferida pelos tribunais de 1.ª instância” [n.º 2].
+
+X. Munidos do quadro legal antecedente importa, então, passar à apreciação da questão que se mostra colocada.
+
+XI. Dúvidas não parecem existir que com a «LAV/2011» e por força da própria revogação operada, mormente, do art. 186.º do CPTA, inverteu-se o regime supletivo decorrente da «LAV/1986» [cfr. o citado art. 29.º] e acolheu-se ou consagrou-se uma regra de irrecorribilidade da decisão arbitral [de mérito ou de forma] [cfr. articulação conjugada, dos seus arts. 39.º, n.º 4, 46.º, n.º 1, e 59.º, n.ºs. 1, al. e), 2 e 8], já que aquela decisão é suscetível de recurso jurisdicional para o tribunal estadual competente [o TCA em cuja circunscrição se situe o local da arbitragem] apenas no caso de as partes terem expressamente previsto tal possibilidade na convenção de arbitragem, mostrando-se proibido tal recurso, em qualquer caso, quando a causa haja sido decidida pelo tribunal arbitral segundo a equidade ou mediante composição amigável.
+
+XII. Tal desiderato resultava, aliás, logo enunciado na exposição de motivos da proposta de Lei n.º 22/XII [XII Legislatura - 1.ª Sessão Legislativa] [consultável in: «www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIniciativa»], iniciativa essa que veio a culminar na aprovação daquela «LAV», quando ali se afirmou que “inverte-se da regra supletiva relativa à recorribilidade da sentença final proferida no processo arbitral. De acordo com o presente diploma, salvo se as partes tiverem expressamente estipulado na convenção de arbitragem que da sentença final cabe recurso nos termos previstos na lei processual aplicável, tal sentença é irrecorrível, sem prejuízo de a mesma poder ser impugnada mediante pedido de anulação, e a que as partes não podem renunciar antecipadamente”.
+
+XIII. Trata-se da afirmação dum propósito de clara autonomia das decisões arbitrais face à justiça estadual no que se reporta ao mérito substancial daquelas decisões, introduzindo-se este novo regime regra em matéria de impugnabilidade e recorribilidade.
+
+XIV. Exige-se ou impõe-se inequivocamente hoje uma afirmação ou tomada de posição expressa por ambas as partes [demandantes e demandados, incluindo contrainteressados] quando à admissão da impugnabilidade da decisão arbitral através de recurso jurisdicional, não podendo valer como tal, assim, inferências ou extrapolações feitas ou extraídas do silêncio, ou de meros comportamentos ou atitudes havidos e que não hajam sido materializados e verbalizados sob forma expressa, mormente, inferidos implicitamente da prática de atos em processo arbitral e adesão a determinado regulamento.
+
+XV. Temos, por outro lado, que o regime da arbitragem no direito administrativo e seu contencioso comporta certas especialidades que, sendo admitidas pela própria «LAV» [cfr., por exemplo, os seus arts. 01.º, n.º 5, 58.º e 59.º], mostram-se reconhecidas e acauteladas no próprio CPTA, tal como decorre das regras nele inscritas em termos da remissão para o regime da «LAV» quanto à constituição e funcionamento do tribunal arbitral [cfr. art. 181.º, n.º 1], ou em matéria do regime de outorga do compromisso arbitral por parte do Estado e demais pessoas coletivas de direito público quanto à exigência do mesmo dever ser objeto de ato de aprovação [cfr. art. 184.º - da competência do ministro da tutela, do presidente do respetivo órgão dirigente, do governo regional ou do órgão autárquico que desempenhe funções executivas], ou ainda do que é suscetível de ser ou não objeto de compromisso arbitral [cfr. art. 185.º], para além das regras de instalação de centros de arbitragem permanente institucionalizados destinados à composição de litígios de natureza administrativa [cfr. art. 187.º - preceito a ser articulado com o disposto, nomeadamente, nos arts. 06.º e 62.º da «LAV» e no DL n.º 425/86, de 27/12].
+
+XVI. Ora, no caso vertente estamos perante arbitragem permanente institucionalizada do «CAAD» a que o aqui recorrente «MJ» se vinculou tal como resulta do proémio e do disposto no art. 01.º da citada Portaria n.º 1120/2009.
+
+XVII. Da análise conjugada e devidamente articulada/adaptada do que se mostra disposto nos arts. 01.º, n.º 5, 02.º, n.ºs 1 e 5, 06.º e 62.º, todos da «LAV» e, ainda, do previsto nos arts. 184.º e 187.º do CPTA, na Portaria n.º 1120/2009 e no art. 08.º, n.º 5, do referido Regulamento de Arbitragem Administrativa do «CAAD» aqui aplicável, extrai-se que as partes, por força da propositura da ação/processo arbitral no «CAAD» e da dedução da contestação nos termos do respetivo regulamento, aderem ao regime respetivo nele definido, passando o mesmo regulamento e o nele definido a ter ou a valer como convenção de arbitragem entre as partes, cumprindo-se, assim, a forma escrita legalmente exigida para esse efeito.
+
+XVIII. Na situação sob apreciação constata-se que a ação foi intentada ao abrigo deste quadro normativo e a mesma mostra-se sujeita, nomeadamente, ao aludido Regulamento de Arbitragem, conforme decorre também do n.º 5 do art. 08.º do mesmo regulamento.
+
+XIX. Assente este pressuposto e, bem assim, o de que no contexto da propositura da ação/processo arbitral no «CAAD» o citado Regulamento deste e o nele definido tem ou vale como convenção de arbitragem entre as partes importa, então, determinar da observância ou cumprimento in casu daquilo que é o regime legal vigente, aqui plenamente aplicável, em matéria de exigência da expressa manifestação de vontade das partes quanto à admissão de recurso jurisdicional da decisão arbitral a proferir naquela ação/processo.
+
+XX. É certo que no n.º 2 do art. 26.º daquele Regulamento se prevê que inexistindo renúncia por parte das partes quanto à possibilidade de dedução de recurso jurisdicional da decisão arbitral esta é, então, suscetível dos mesmos recursos jurisdicionais que no caso caberiam das decisões proferidas pelos tribunais estaduais de 1.ª instância, sendo também um dado adquirido o facto de que nas decisões proferidas no âmbito do «CAAD» o tribunal decide não segundo a “equidade ou mediante composição amigável”, mas segundo o “direito constituído” [cfr. art. 24.º, do mesmo regulamento].
+
+XXI. E também se mostra claro e adquirido nos autos o facto de que, em momento algum do processo arbitral, desde logo nos articulados como sede própria e devida para esse efeito, as partes vieram, de modo expresso, tomar posição quanto à admissão ou à suscetibilidade da decisão arbitral ser passível de recurso jurisdicional nos mesmos moldes em que são admitidos para as decisões dos tribunais estaduais de 1.ª instância.
+
+XXII. De facto, inexiste a demonstração in casu de qualquer pronúncia expressa das partes quanto ao reconhecimento da admissibilidade ou da suscetibilidade da decisão arbitral ser passível de recurso jurisdicional tal como se mostra previsto e exigido, em termos inequívocos, pela atual «LAV» [cfr., nomeadamente, seus arts. 39.º, n.º 4, 46.º, n.º 1, 59.º, n.ºs 1, al. e), 2 e 8], na certeza de que essa exigência legal não se basta ou pode ter-se como cumprida ou satisfeita, a ponto de ter-se como preenchida ou verificada, através duma inferência ou extrapolação feita ou extraída do silêncio, ou do mero comportamento ou atitude de dedução ou prática de atos em processo arbitral e duma decorrente adesão ou aceitação implícita do determinado e previsto no regulamento.
+
+XXIII. O legislador, quanto à exigência em causa, não se bastou com uma mera atitude silente ou implícita a extrair ou inferir de determinados atos ou comportamentos havidos ou desenvolvidos, mormente, em decorrência de eventuais previsões normativas existentes em determinados regulamentos, mas que não hajam sido materializados e verbalizados, sob forma expressa, numa afirmação clara e inequívoca que explicite de forma direta a existência no caso de recurso jurisdicional da decisão que seja tomada pelo tribunal arbitral.
+
+XXIV. Não pode assim ter-se como preenchido na situação vertente o requisito legal definido ou exigido como condição da recorribilidade da decisão arbitral pela simples inferência ou juízo implícito decorrente do simples facto de as partes haverem submetido o litígio ao tribunal arbitral funcionando no âmbito do «CAAD» e do respetivo processo ser tramitado e julgado segundo o previsto no regulamento em referência daquela associação e, bem assim, do facto de nos termos do previsto nesse regulamento no silêncio das partes ou de uma ausência de renúncia destas haver lugar sempre a recurso jurisdicional.
+
+XXV. Independentemente do que, em função do teor de determinada norma regulamentar, se possa inferir, tácita ou implicitamente, da ausência de comportamento, de atuação ou de manifestação de vontade das partes, impunha-se e impõe-se, hoje, na «LAV» a existência de expressa manifestação da vontade das mesmas quanto à possibilidade ou à admissibilidade de existência de recurso jurisdicional duma decisão arbitral a realizar-se ou materializar-se na convenção de arbitragem celebrada ou, então, nos articulados produzidos no processo arbitral por cada um dos seus intervenientes, constituindo a existência duma tal manifestação expressa das partes condição de verificação necessária para o assegurar da recorribilidade de tal decisão.
+
+XXVI. Sendo essa hoje uma exigência e um requisito legalmente imposto pela «LAV», esta, enquanto ato legislativo e pela posição hierárquica, força e função que daí decorrem, reclama a conformação com a mesma daquilo que é o quadro legal produzido à sua sombra e em sua execução [cfr., nomeadamente, os arts. 112.º, n.ºs 1, 5, e 7, da CRP, 135.º, 136.º e 143.º do CPA/2015], dado a emissão de regulamentos e o poder ao abrigo do qual os mesmos são produzidos não podem deixar nunca de postular a vinculação e obediência à lei.
+
+XXVII. Daí que, sob pena de verificação de eventual ilegalidade do regulamento, impõe-se, numa interpretação conforme do quadro normativo em confronto [mormente, dos arts. 08.º, n.º 5, e 26.º, n.º 2, do Regulamento de Arbitragem Administrativa do «CAAD» com o art. 39.º, n.º 4, da «LAV»], concluir, em consonância com exposto, no sentido de que se exige a existência na ação/processo arbitral junto do «CAAD» duma expressa e concordante manifestação de vontade das partes plasmada, desde logo, nos articulados, quanto à admissão da suscetibilidade de haver recurso jurisdicional da decisão arbitral que venha a ser proferida naquela ação/processo, declaração expressa essa cuja ausência, gerando a irrecorribilidade daquela decisão, não pode ser suprida por quaisquer inferências ou juízos implícitos ou tácitos a extrair ou assentar em atos ou comportamentos ainda que decorrentes ou estribados em previsões regulamentares genéricas e abstratas.
+
+XXVIII. Assim, não obstante a verificação do requisito cumulativo previsto na segunda parte do art. 39.º, n.º 4, da «LAV» [litígio arbitral não haver sido decidido segundo a equidade ou mediante composição amigável] temos que, na ausência de demonstração no âmbito do processo/ação arbitral sob análise da existência duma declaração ou manifestação de vontade expressa das partes quanto à admissão da possibilidade de interposição de recurso jurisdicional da decisão arbitral que nele veio a ser proferida, tal como é exigido e imposto pela primeira parte do referido preceito, soçobra o presente recurso jurisdicional, impondo-se, em consequência, a manutenção do julgado no acórdão recorrido com todas as legais consequências.”.
+
+Do exposto resulta que a sentença arbitral proferida em 02/07/2013 não admite recurso jurisdicional, por inexistir uma expressa manifestação de vontade das partes quanto à possibilidade de existência de tal recurso.
+
+Assim sendo, não deverá ser admitido, por irrecorribilidade da sentença recorrida, o requerimento de interposição de recurso jurisdicional.
+
+*
+
+Termos em que será de rejeitar o presente recurso jurisdicional, por inadmissibilidade legal.
+
+O Recorrente deverá ser condenado nas custas do recurso, atento o disposto no artigo 527.º, n.ºs 1 e 2 do CPC de 2013, ex vi artigo 1.º do CPTA.
+
+III – DECISÃO
+
+Por tudo quanto vem de ser exposto, acordam os Juízes do presente Tribunal Central Administrativo Sul, em não admitir, por irrecorribilidade da sentença impugnada, o requerimento de interposição de recurso jurisdicional.
+
+Custas pelo Recorrente.
+
+Registe e notifique.
+
+(Ana Celeste Carvalho - Relatora)
+
+(Cristina Santos)
+
+(Helena Canelas)
