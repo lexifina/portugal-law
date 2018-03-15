@@ -17,3 +17,9 @@ d) Nos casos de alteração dos elementos constantes do passaporte referentes à
 3 - Em caso de dúvida sobre os fundamentos invocados para a concessão de segunda via, podem as entidades competentes solicitar a prestação de prova complementar.
 
 4 - (Revogado).
+
+5 - No caso de destruição, furto ou extravio do passaporte comum no estrangeiro, o pedido de concessão de novo passaporte pode ser efetuado online, sendo o mesmo remetido para o posto consular indicado pelo requerente.
+
+6 - O passaporte pedido online tem a validade do passaporte substituído e só pode ser levantado pelo titular no posto consular indicado no pedido.
+
+7 - O procedimento aplicável aos pedidos previstos no n.º 5 é regulamentado por portaria, a aprovar pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da presidência e da modernização administrativa e da administração interna.

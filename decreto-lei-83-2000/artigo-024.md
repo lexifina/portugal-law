@@ -4,7 +4,7 @@
 
 1 - O passaporte comum é válido por um período de cinco anos.
 
-2 - No caso dos menores de idade inferior a 4 anos, a validade do passaporte é de dois anos.
+2 - (Revogado).
 
 3 - Pode ser requerida a concessão de novo passaporte comum por decurso do prazo de validade, por desactualização dos elementos de identificação do titular ou pela verificação das situações descritas no artigo 25.º do presente diploma.
 

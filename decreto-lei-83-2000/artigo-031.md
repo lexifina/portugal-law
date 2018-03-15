@@ -18,7 +18,7 @@ c) Os Presidentes dos Governos Regionais, quando destinado a personalidades das 
 
 a) Os serviços e embaixadas de Portugal designados por despacho do Ministro dos Negócios Estrangeiros;
 
-b) A Secretaria-Geral do Ministério da Administração Interna (SG/MAI);
+b) O Serviço de Estrangeiros e Fronteiras (SEF);
 
 c) Os serviços designados pelos governos regionais.
 

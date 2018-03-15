@@ -10,7 +10,7 @@ b) Os governos regionais, através do secretário regional competente, nos termo
 
 c) As autoridades consulares portuguesas declaradas competentes para o efeito pelo Ministro dos Negócios Estrangeiros;
 
-d) O Centro Emissor para a Rede Consular do Ministério dos Negócios Estrangeiros;
+d) (Revogada);
 
 e) (Revogada.)
 
