@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 70/2018
+Recomenda ao Governo medidas que permitam a preservação e valorização do património industrial da Fábrica Robinson, em Portalegre
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Promova o diagnóstico da situação do património industrial e do edificado da Fábrica Robinson, parte do conjunto classificado de interesse público que integra a Igreja e o antigo Convento de São Francisco, calendarizando uma intervenção urgente para garantir a sua salvaguarda e determinando as medidas provisórias ou técnicas de proteção indispensáveis e adequadas para o efeito, nomeadamente as que revelam maior urgência.
+2 - Garanta as obras necessárias e fulcrais para assegurar a proteção e segurança imediatas do edificado e do espólio da Fábrica Robinson, em especial das chaminés, do telhado e das máquinas, face a intempéries, atos de vandalismo ou outras situações suscetíveis de causar perdas e danos irreparáveis a este valioso património arqueológico, industrial e corticeiro.
+3 - Mobilize recursos, nomeadamente financeiros, com vista aos trabalhos de proteção, conservação e valorização dos bens que integram o referido património, no âmbito da Lei de Bases do Património Cultural, em harmonia com as demais normas estabelecidas sobre a matéria e sob a orientação dos serviços competentes.
+4 - Adote medidas de requalificação e revitalização do património da chamada «Fábrica da Rolha», nomeadamente dando novas funcionalidades aos seus sete hectares e tornando-os um recurso de desenvolvimento local, regional e nacional.
+5 - Desenvolva, em colaboração com a Fundação Robinson, a Câmara Municipal de Portalegre, instituições científicas, educativas, associativas, sindicais, empresariais e outras entidades, a nível local e nacional, o conhecimento, estudo, proteção, valorização e divulgação do património material e imaterial que a fábrica da Sociedade Corticeira Robinson Bros, S. A., incorpora e representa, ímpar na região e em Portugal, dignificando a sua dimensão de espaço museográfico.
+Aprovada em 28 de novembro de 2017.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+111184572
