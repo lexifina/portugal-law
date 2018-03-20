@@ -34,6 +34,8 @@ b) Alteração substancial e duradoura das condições de trabalho no exercício
 
 c) Falta não culposa de pagamento pontual da retribuição.
 
+d) Transmissão para o adquirente da posição do empregador no respetivo contrato de trabalho, em consequência da transmissão da empresa, nos termos dos n.os 1 ou 2 do artigo 285.º, com o fundamento previsto no n.º 1 do artigo 286.º-A.
+
 4 - A justa causa é apreciada nos termos do n.º 3 do artigo 351.º, com as necessárias adaptações.
 
 5 - Considera-se culposa a falta de pagamento pontual da retribuição que se prolongue por período de 60 dias, ou quando o empregador, a pedido do trabalhador, declare por escrito a previsão de não pagamento da retribuição em falta, até ao termo daquele prazo.
