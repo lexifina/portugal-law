@@ -1,0 +1,28 @@
+# Resolução n.º 151/2018
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 43/2018, de 2018-03-21
+
+**Sumário:** Mandata a Licenciada Maria João de França Monte para, em nome e representação da Região, participar na reunião da Assembleia Geral da sociedade denominada MPE-Madeira Parques Empresariais, Sociedade Gestora, S.A., que terá lugar na sua sede social, no próximo dia 22 de março de 2018, pelas 11.00 horas. Resolução n.º 152/2018 Manifesta a não oposição da Região, enquanto Acionista, à transmissão de ações a favor da sociedade denominada CONSTRUTORA DO TÂMEGA MADEIRA, S.A. e respetiva cessão da posição contratual nos termos do Contrato de Concessão e seus Anexos.
+
+## Texto
+
+Resolução n.º 151/2018
+Considerando que a MPE - Madeira Parques Empresariais, Sociedade Gestora, S.A., é uma empresa pública de capitais exclusivamente públicos, criada pelo Decreto Legislativo Regional n.º 28/2001/M, de 28 de agosto, com as alterações introduzidas pelos Decretos Legislativos Regionais n.ºs 12/2002/M e 6/2015/M, de 17 de julho e 13 de agosto, respetivamente, concessionária do serviço público de criação, instalação, gestão, exploração e promoção dos parques empresariais identificados no seu Anexo I, por Contrato de Concessão celebrado com a Região Autónoma da Madeira, em 27 de março de 2006;
+Considerando que a Região Autónoma da Madeira é acionista da MPE-Madeira Parques Empresariais, Sociedade Gestora, S.A., sendo titular de 92,84% do seu capital social, no valor nominal de vinte e dois milhões quatrocentos e vinte e nove mil, novecentos e cinco euros;
+Considerando que a MPE-Madeira Parques Empresariais, Sociedade Gestora, S.A., necessita de reunir em Assembleia Geral de sócios, sem observância de formalidades prévias nos termos do artigo 54.º e do Código das Sociedades Comerciais.
+Assim, o Conselho de Governo reunido em plenário em 15 de março de 2018, resolveu:
+Mandatar a Licenciada Maria João de França Monte para, em nome e representação da Região Autónoma da Madeira, participar na reunião da Assembleia Geral da MPE-Madeira Parques Empresariais, Sociedade Gestora, S.A., que terá lugar na sua sede social, sita à Rua do Bispo, n.º 16, 2.º andar, Sala 24, no Funchal, no próximo dia 22 de março de 2018, pelas 11.00 horas, ficando autorizada, nos termos do n.º 3 do artigo 54.º do Código das Sociedades Comerciais, a deliberar, nos termos e condições que tiver por convenientes, sobre os pontos da ordem de trabalhos que se anexa, a qual faz parte integrante da presente resolução e que fica arquivada na Secretaria-Geral da Presidência.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
+
+Resolução n.º 152/2018
+Considerando que, no âmbito do Contrato de Concessão celebrado entre a Região Autónoma da Madeira e a “VIALITORAL - Concessões Rodoviárias da Madeira, S.A.”, a Acionista “AFA, SGPS, S.A.” deu a conhecer a sua intenção de transmissão de 10.000 (dez mil) ações ordinárias nominativas (correspondentes a 10%) que detém no capital social da referida Concessionária e consequente cessão da respetiva posição contratual no Contrato de Concessão e seus Anexos, incluindo o Contrato de Financiamento e demais instrumentos jurídicos e acordos celebrados, a favor da sociedade sua subsidiária “CONSTRUTORA DO TÂMEGA MADEIRA, S.A.”, tendo solicitado a respetiva não oposição da Acionista Região Autónoma da Madeira.
+Considerando que a Acionista “AFA, SGPS, S.A.” detém 100% do capital social e de igual percentagem de direitos de voto da “CONSTRUTORA DO TÂMEGA MADEIRA, S.A.”, sendo sociedades do mesmo Grupo, para efeitos e na aceção do disposto na alínea g) do número 1.1. da Cláusula 1.ª do Acordo de Acionistas que faz parte integrante do aludido Contrato de Concessão.
+Considerando que, nos termos da Cláusula 5.ª do referido Acordo de Acionistas, a referida transmissão, porque a favor de entidades do mesmo Grupo, configura uma Transmissão de Ações entre Outorgantes, relativamente à qual todos os acionistas expressamente renunciaram exercer os respetivos direitos de preferência.
+Considerando que a “CONSTRUTORA DO TÂMEGA MADEIRA, S.A.” declarou aceitar a referida transmissão de ações, assim como declarou ser do seu integral conhecimento todas e quaisquer responsabilidades, ónus ou encargos, presentes e futuras, que para a “VIALITORAL - Concessões Rodoviárias da Madeira, S.A.” ou para os seus acionistas decorrem do Contrato e Concessão, Contrato de Financiamento e respetivos anexos e de todos os demais contratos celebrados com relação à Concessão.
+O Conselho do Governo reunido em plenário em 15 de março de 2018, resolveu:
+1. Manifestar a não oposição da Região Autónoma da Madeira, enquanto Acionista, à sobredita transmissão de ações a favor da “CONSTRUTORA DO TÂMEGA MADEIRA, S.A.” e respetiva cessão da posição contratual nos termos do Contrato de Concessão e seus Anexos.
+2. Ao disposto no número 1 não é atribuído pela Região Autónoma da Madeira, na qualidade de Concedente, qualquer carácter de anuência ou autorização à referida transmissão de ações, ficando o dever de pronúncia da Região, naquela qualidade, dependente da verificação e cumprimento de todos os procedimentos e reunião de documentos necessários para esse efeito, nos termos legalmente exigidos no Contrato de Concessão e seus Anexos.
+3. Mandatar o Secretário Regional dos Equipamentos e Infraestruturas para, em representação da Região Autónoma da Madeira, enquanto Acionista, praticar todos os atos, nomeadamente instrução dos documentos que, neste âmbito, se mostrem necessários.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
