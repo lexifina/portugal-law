@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "224003",
+  "tipo": "Declaração politica",
+  "orador": "Lara Martinho (PS)",
+  "data_registo": "2018-03-21",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "33112",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33112",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Sobre o clima de retoma e de consolidação económica dos Açores e as notícias que denunciam um estado de contaminação na ilha Terceira decorrente da presença norte-americana na Base das Lajes."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "O clima de retoma e de consolidação económica dos Açores e as notícias que denunciam um estado de contaminação na ilha Terceira decorrente da presença norte-americana na Base das Lajes.",
+        "duracao": "00:07:36:407",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2018_03_21_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:03:42:360&drc=00:07:36:407"
+      },
+      {
+        "assunto": "Responde a  João Vasconcelos, António Ventura e António Filipe acerca da sua declaração sobre o clima de retoma e de consolidação económica dos Açores e as notícias que denunciam um estado de contaminação na ilha Terceira decorrente da presença norte-americana na Base das Lajes.",
+        "duracao": "00:03:34:050",
+        "tipoIntervencao": "Declaração politica",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2018_03_21_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:20:32:907&drc=00:03:34:050"
+      }
+    ],
+    "DataReuniaoPlenaria": "2018-03-21",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "6157",
+      "nome": "Lara Martinho"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "224003",
+    "IdDebate": "5280",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "224003",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "20-22",
+          "25-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-22",
+        "pubLeg": "XIII",
+        "pubNr": "62",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/062/2018-03-22/20?pgs=20-22,25-26&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Responde a pedidos de esclarecimento dos Deputados João Vasconcelos (BE), António Ventura (PSD) e António Filipe (PCP).",
+    "Sessao": "3",
+    "Sumario": "Sobre o clima de retoma e de consolidação económica dos Açores e as notícias que denunciam um estado de contaminação na ilha Terceira decorrente da presença norte-americana na Base das Lajes.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração politica"
+  }
+}
