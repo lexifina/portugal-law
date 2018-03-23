@@ -1,0 +1,424 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1400",
+    "id": "42287",
+    "titulo": "Recomenda ao Governo que considere as Demências e a Doença de Alzheimer uma prioridade social e de saúde pública; que elabore um Plano Nacional de Intervenção para as Demências; que adopte as medidas necessárias para um apoio adequado a estes doentes e suas famílias; e que crie e implemente o Estatuto do Cuidador Informal"
+  },
+  "fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+  "codigo_fase": "237",
+  "data_registo": "2018-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13224",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "237",
+    "Comissao": null,
+    "DataFase": "2018-03-23",
+    "EvtId": "122",
+    "Fase": "Requerimento Baixa Comissão sem Votação (Generalidade)",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42302",
+        "leg": "XIII",
+        "nr": "801",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Cria o Estatuto do Cuidador Informal e reforça as medidas de apoio a pessoas dependentes (procede à 3.ª alteração ao Decreto-Lei n.º 101/2006, de 6 de junho e à 13.ª alteração ao Código do Trabalho)"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42306",
+        "leg": "XIII",
+        "nr": "804",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "42297",
+        "leg": "XIII",
+        "nr": "1408",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2479",
+            "obs": null,
+            "pag": [
+              "41-42"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-24",
+            "pubLeg": "XIII",
+            "pubNr": "64",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo a adopção de medidas de apoio aos cuidadores informais"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_23_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=02:55:17:174&drc=00:01:48:666"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Cria o estatuto do cuidador informal e reforça as medidas de apoio a pessoas dependentes (procede à terceira alteração ao Decreto-Lei n.º 101/2006, de 6 de junho, e à décima terceira alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as demências e a doença de Alzheimer uma prioridade social e de saúde pública, que elabore um plano nacional de intervenção para as demências, que adote as medidas necessárias para um apoio adequado a estes doentes e suas famílias e que crie e implemente o estatuto do cuidador informal e Recomenda ao Governo a adoção de medidas de apoio aos cuidadores informais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5524",
+                "nome": "João Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_23_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=02:57:05:841&drc=00:01:13:270"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Cria o estatuto do cuidador informal e reforça as medidas de apoio a pessoas dependentes (procede à terceira alteração ao Decreto-Lei n.º 101/2006, de 6 de junho, e à décima terceira alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as demências e a doença de Alzheimer uma prioridade social e de saúde pública, que elabore um plano nacional de intervenção para as demências, que adote as medidas necessárias para um apoio adequado a estes doentes e suas famílias e que crie e implemente o estatuto do cuidador informal e Recomenda ao Governo a adoção de medidas de apoio aos cuidadores informais.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "13:55",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_23_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=02:58:23:007&drc=00:01:38:781"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-24",
+                "pubLeg": "XIII",
+                "pubNr": "64",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/064/2018-03-24/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Cria o estatuto do cuidador informal e reforça as medidas de apoio a pessoas dependentes (procede à terceira alteração ao Decreto-Lei n.º 101/2006, de 6 de junho, e à décima terceira alteração ao Código do Trabalho); Reforça o apoio aos cuidadores informais e às pessoas em situação de dependência; Recomenda ao Governo que considere as demências e a doença de Alzheimer uma prioridade social e de saúde pública, que elabore um plano nacional de intervenção para as demências, que adote as medidas necessárias para um apoio adequado a estes doentes e suas famílias e que crie e implemente o estatuto do cuidador informal e Recomenda ao Governo a adoção de medidas de apoio aos cuidadores informais.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "339940",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
