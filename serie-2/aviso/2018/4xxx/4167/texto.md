@@ -1,0 +1,11 @@
+Aviso n.º 4167/2018
+Alteração ao Plano Diretor Municipal de Santarém no Âmbito do RERAE - Regime Extraordinário da Regularização de Atividades Económicas
+Ricardo Gonçalves Ribeiro Gonçalves, Presidente da Câmara Municipal de Santarém, torna público, que por deliberação de Reunião Extraordinária de Câmara de 9 de março de 2018, foi determinado o início do período de Discussão Pública da alteração ao Plano Diretor Municipal de Santarém, determinado pelo n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, alterado pela Lei n.º 21/2016, de 19 de julho - Regime Extraordinário de Regularização das Atividades Económicas (RERAE).
+A Alteração ao Plano Diretor Municipal de Santarém não esta sujeita a Avaliação Ambiental Estratégica, nos termos do disposto no n.º 4 artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, alterado pela Lei n.º 21/2016, de 19 de julho - RERAE.
+Assim, para cumprimento do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, alterado pela Lei n.º 21/2016, de 19 de julho, comunica-se que se encontra aberto o período de discussão pública, para apresentação de reclamações, observações ou sugestões, por um prazo de 15 dias úteis, contados a partir do dia seguinte à data da publicação do aviso no Diário da República.
+Mais torna público que os elementos do procedimento podem ser consultados no sítio da internet da Câmara Municipal de Santarém (www.cm-santarem.pt) e no Gabinete de Projetos Estratégicos (Balcão do PDM) - Edifício do Urbanismo, sito da Praça do Município, nos dias normais de expediente, entre as 10h00 e as 12h00 e entre as 14h00 e as 16h00. Os interessados podem apresentar por escrito, dentro do prazo referido, o objeto da sua participação, para o Exmo. Sr. Presidente da Câmara Municipal de Santarém, Praça do Município 2005-245 Santarém ou para o seguinte endereço de e-mail: pdm@cm-santarem.pt
+12 de março de 2018. - O Presidente da Câmara, Ricardo Gonçalves Ribeiro Gonçalves.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+43153 - http://ssaigt.dgterritorio.pt/i/Outros_43153_1.jpg
+43154 - http://ssaigt.dgterritorio.pt/i/Outros_43154_2.jpg
+611204984
