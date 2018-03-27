@@ -1,0 +1,8 @@
+Aviso n.º 4162/2018
+Abertura de procedimento - Regulamento da Piscina Municipal Coberta
+Avelino Adriano Gaspar da Silva, Presidente da Câmara Municipal da Póvoa de Lanhoso, torna público que a Câmara Municipal, em reunião ordinária realizada no dia 08 de março de 2018, deliberou, aprovar por unanimidade, a revisão e alteração do Regulamento da Piscina Municipal Coberta, determinando a abertura do procedimento e participação procedimental.
+O Regulamento da Piscina Municipal Coberta, aprovado pela Assembleia Municipal da Póvoa de Lanhoso, em sessão realizada no dia 12 de setembro de 2011, está disponibilizado em http://www.mun-planhoso.pt/do-
+cumentos/category/3-regulamentos.html?download=60 %3Aregulamento-piscinas-cobertas&start=30 sobre o qual se pretende dar início à abertura de procedimento e participação procedimental, de acordo com o preconizado no n.º 1 do artigo 98.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Estabelece-se um prazo de 15 dias, a contar do dia seguinte da publicação do presente aviso no Diário da República, para formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento, e que os interessados apresentem os seus contributos e sugestões por meio eletrónico, para o endereço geral@mun-planhoso.pt ou por correio postal, endereçado ao senhor Presidente da Câmara Municipal, para a morada: Avenida da República, 4830-513 Póvoa de Lanhoso.
+14 de março de 2018. - O Presidente da Câmara Municipal, Avelino Adriano Gaspar da Silva.
+311204902
