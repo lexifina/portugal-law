@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 4130/2018
+Regulamento Interno dos Serviços, Organograma e Mapa de Pessoal para 2018
+Nos termos e para os efeitos previstos no n.º 6 do artigo 10.º do Decreto-Lei n.º 305/2009, de 23 de outubro, conjugado com as regras e critérios previstos na Lei n.º 49/2012, de 29 de agosto e artigo 28.º, da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, torna-se público o Regulamento Interno dos Serviços do Município de Alfândega da Fé, o Organograma - Estrutura Orgânica do Município de Alfândega da Fé, e Mapa de Pessoal para 2018, adequado à nova estrutura orgânica, aprovada em sessão ordinária da Assembleia Municipal de Alfândega da fé, realizada no passado dia 24/02/2018, sob proposta da Câmara Municipal, em reunião extraordinária realizada no passado dia 21/02/2018, remetendo a sua publicação na integra para o sítio da internet do Município, em www.cm-alfandegadafe.pt.
+13 de março de 2018. - A Presidente da Câmara, Dr.ª Berta Ferreira Milheiro Nunes.
+311202691
