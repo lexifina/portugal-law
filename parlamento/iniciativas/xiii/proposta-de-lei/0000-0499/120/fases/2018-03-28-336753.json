@@ -1,0 +1,289 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "120",
+    "id": "42368",
+    "titulo": "Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2018-03-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "42620",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-04-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-03-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-06-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo  - APFIPP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5467784d7a6b774d6a59744e7a63795a4330304d6a5a6b4c546c69596a51745932526b4d5751304e4445794e7a41324c6e426b5a673d3d&fich=18139026-772d-426d-9bb4-cdd1d4412706.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo -  Associação Portuguesa de Marketing Direto, Relacional e Interativo ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4467354d6d49794f5455744d5749324d4330304e6d5a6a4c546b344d574d744e4449304e7a55775a574d784e5752694c6c424552673d3d&fich=4892b295-1b60-46fc-981c-424750ec15db.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Apritel - Associação dos Operadores  de Comunicações Eletrónicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a41304d6d4932596a63745a475a6a595330305a57466d4c5749324f444d744d4463334f57517a5a5445774d7a41314c6e426b5a673d3d&fich=2042b6b7-dfca-4eaf-b683-0779d3e10305.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APS - Associação Portuguesa de Seguradores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932566a4e3251354d5751744d5463774d793030596d526b4c5746695a574d744e7a49314e54646a4d44526d4d6a466c4c6e426b5a673d3d&fich=cec7d91d-1703-4bdd-abec-72557c04f21e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação de Hotelaria, Restauração e Similares de Portugal (AHRESP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44493159574d34597a45745a6a4132596930304d574d314c574931595441744d574e6c4d7a45304e474d344d6a466d4c6e426b5a673d3d&fich=025ac8c1-f06b-41c5-b5a0-1ce3144c821f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação dos Profissionais de Proteção e de Segurança de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954566a595467314f5445744d6a59314e6930304e544a684c546734597a4d744e6a4a6c4e546730597a67795a574e6b4c6e426b5a673d3d&fich=a5ca8591-2656-452a-88c3-62e584c82ecd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Empresarial da Região de Viseu",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54646d59574d35595759745a5455344e4330305a57526a4c5467314f4449744e54686b4f44646b597a42684e7a55774c6e426b5a673d3d&fich=e7fac9af-e584-4edc-8582-58d87dc0a750.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-11-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação nNcional de DPO's e Outros Profissionais de Privacidade - ANDPO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5749794e444e6c597a51744f4456695a433030597a4e684c546c6d4f5755745a44457a5a444d354d6d497a4d5451334c6e426b5a673d3d&fich=9b243ec4-85bd-4c3a-9f9e-d13d392b3147.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-09",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Hospitalização Privada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324578596a63304f4755744d546468597930305a5751314c546b305a4755744e3259784e6a4d334d444d7a5a4449314c6e426b5a673d3d&fich=ca1b748e-17ac-4ed5-94de-7f1637033d25.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-30",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Imprensa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e57466c4d544e685a6d51744d544d7a4f4330304e7a63784c5745335a5755744e3259304e6d4a684d5455345a6a566b4c6c424552673d3d&fich=5ae13afd-1338-4771-a7ee-7f46ba158f5d.PDF&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - CIP - Confederação Empresarial de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a545930597a457a4d3259744d7a6b335a5330304e4449304c5467335a4745745a6a59334e545a6d4d4745774e6a566c4c6e426b5a673d3d&fich=e64c133f-397e-4424-87da-f6756f0a065e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-04-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Hovione Capital for Health",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f474e6b4e6a6b314f4449744e4445324e4330304e6d52684c57466c4e6a67744e57597a59545a6b4f5468684d7a59344c6e426b5a673d3d&fich=8cd69582-4164-46da-ae68-5f3a6d98a368.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-18",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Sindicato dos Jornalistas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e546b774d4456694d6a4174596d5a6d4d5330304d6a6b7a4c574a6c5a445174596a41784d47497a4e7a6332596a46694c6e426b5a673d3d&fich=59005b20-bff1-4293-bed4-b010b3776b1b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - UNICEF Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a6778597a4e6b5a475174596d4e6d5a6930304e5463784c546c684e4445744d7a64694e7a4131593259324d445a6a4c6e426b5a673d3d&fich=681c3ddd-bcff-4571-9a41-37b705cf606c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo complementar - Associação Portuguesa de Seguradores",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d32566c4d54566c5a4755745a6d5931597930304d7a64694c5467344f4745744d6a4d304f44426b596a6c6b4f4463784c6e426b5a673d3d&fich=3ee15ede-ff5c-437b-888a-23480db9d871.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - ANMP - Associação Nacional de Municípios Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3259304d6d55314d544d744d7a646c4d4330304d6a4e6d4c5467355a574974596a41344d7a566d4e7a63785a5451304c6e426b5a673d3d&fich=7f42e513-37e0-423f-89eb-b0835f771e44.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-03",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - CNPD - Comissão Nacional de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765932566d4e32457a4d6a67744e6d51305a5330305a5455354c5749774e445174596a55775a6a6b794e54493359544d784c6e426b5a673d3d&fich=cef7a328-6d4e-4e59-b044-b50f92527a31.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - CNPD - Sumário Executivo do Parecer 20/2018 e contributo para a revisão do articulado ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3249775954646b4e7a49745a6d4d79596930304d7a4d784c54686a4e6a41744f475a684d7a6c6a4d574669596a526a4c6e426b5a673d3d&fich=3b0a7d72-fc2b-4331-8c60-8fa39c1abb4c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-02",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4d774e324a6d5a5751745a57557a595330304d7a4e6b4c57457a4f544d74596a4a694d7a67774e446c684f5441794c6e426b5a673d3d&fich=6c07bfed-ee3a-433d-a393-b2b38049a902.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-09",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Tomada de Posição - Associação para a Promoção e Desenvolvimento da Sociedade de Informação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a4a6b4f5463345a5749744f546b334e6930304e4451324c5749354e6d51744e446c6b4d6a51784e6d5531595463334c6e426b5a673d3d&fich=62d978eb-9976-4446-b96d-49d2416e5a77.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2018-05-02"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2018-05-14"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2018-04-04"
+          },
+          {
+            "link": "",
+            "nome": "Associação Nacional de Municípios Portugueses em 2018-05-02"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "89-103"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-02",
+            "pubLeg": "XIII",
+            "pubNr": "107",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/107/2018-05-02/89?pgs=89-103&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "89-103"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-02",
+            "pubLeg": "XIII",
+            "pubNr": "107",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/107/2018-05-02/89?pgs=89-103&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "3998",
+            "motivoCessacao": null,
+            "nome": "José Manuel Pureza"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-05-02",
+            "dataRemessa": "2018-05-02",
+            "numeroOficio": "458/XIII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-05-02",
+            "descricao": null,
+            "detalhe": null,
+            "id": "79355",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "187",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-03-28",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "336753",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
