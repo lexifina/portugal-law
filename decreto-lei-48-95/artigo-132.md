@@ -8,7 +8,7 @@
 
 a) Ser descendente ou ascendente, adoptado ou adoptante, da vítima;
 
-b) Praticar o facto contra cônjuge, ex-cônjuge, pessoa de outro ou do mesmo sexo com quem o agente mantenha ou tenha mantido uma relação análoga à dos cônjuges, ainda que sem coabitação, ou contra progenitor de descendente comum em 1.º grau;
+b) Praticar o facto contra cônjuge, ex-cônjuge, pessoa de outro ou do mesmo sexo com quem o agente mantenha ou tenha mantido uma relação de namoro ou uma relação análoga à dos cônjuges, ainda que sem coabitação, ou contra progenitor de descendente comum em 1.º grau;
 
 c) Praticar o facto contra pessoa particularmente indefesa, em razão de idade, deficiência, doença ou gravidez;
 
@@ -26,6 +26,6 @@ i) Utilizar veneno ou qualquer outro meio insidioso;
 
 j) Agir com frieza de ânimo, com reflexão sobre os meios empregados ou ter persistido na intenção de matar por mais de vinte e quatro horas;
 
-l) Praticar o facto contra membro de órgão de soberania, do Conselho de Estado, Representante da República, magistrado, membro de órgão do governo próprio das regiões autónomas, Provedor de Justiça, membro de órgão das autarquias locais ou de serviço ou organismo que exerça autoridade pública, comandante de força pública, jurado, testemunha, advogado, solicitador, agente de execução, administrador judicial, todos os que exerçam funções no âmbito de procedimentos de resolução extrajudicial de conflitos, agente das forças ou serviços de segurança, funcionário público, civil ou militar, agente de força pública ou cidadão encarregado de serviço público, docente, examinador ou membro de comunidade escolar, ou ministro de culto religioso, juiz ou árbitro desportivo sob a jurisdição das federações desportivas, no exercício das suas funções ou por causa delas;
+l) Praticar o facto contra membro de órgão de soberania, do Conselho de Estado, Representante da República, magistrado, membro de órgão do governo próprio das regiões autónomas, Provedor de Justiça, membro de órgão das autarquias locais ou de serviço ou organismo que exerça autoridade pública, comandante de força pública, jurado, testemunha, advogado, solicitador, agente de execução, administrador judicial, todos os que exerçam funções no âmbito de procedimentos de resolução extrajudicial de conflitos, agente das forças ou serviços de segurança, funcionário público, civil ou militar, agente de força pública ou cidadão encarregado de serviço público, docente, examinador ou membro de comunidade escolar, ministro de culto religioso, jornalista, ou juiz ou árbitro desportivo sob a jurisdição das federações desportivas, no exercício das suas funções ou por causa delas;
 
 m) Ser funcionário e praticar o facto com grave abuso de autoridade.
