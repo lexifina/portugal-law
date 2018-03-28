@@ -1,0 +1,17 @@
+Aviso n.º 4220/2018
+Início do procedimento de alteração do Plano Diretor Municipal de Oliveira de Azeméis
+Joaquim Jorge Ferreira, Presidente da Câmara Municipal de Oliveira de Azeméis, torna público, nos termos e para os efeitos do disposto no artigo 191.º, n.º 4, alínea c), por conjugação com o artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Oliveira de Azeméis, em reunião pública realizada em 25/01/2018 deliberou desencadear o início do procedimento de alteração do Plano Diretor Municipal de Oliveira de Azeméis (PDM 2013), o qual se consubstancia na introdução de pequenos aperfeiçoamentos ao Regulamento do PDM.
+Mais deliberou estabelecer um prazo de 6 meses, para a elaboração da alteração, o qual poderá ser prorrogado por uma única vez por período máximo igual ao estabelecido e a não sujeição da alteração do Plano ao procedimento de avaliação ambiental estratégica.
+A Câmara Municipal deliberou ainda estabelecer um período de participação preventiva, por quinze (15) dias, com início cinco (5) dias após a data da publicação deste aviso no Diário da República, durante o qual poderão os interessados formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração da alteração do Plano diretor Municipal.
+A formulação de sugestões, bem como, a apresentação de informações deverão ser feitas por escrito, em modelo a disponibilizar nos locais de consulta, ou outro documento devidamente identificado, dirigido ao Senhor Presidente da Câmara Municipal de Oliveira de Azeméis, que contenha a identificação e o contacto do participante e o conteúdo da sua participação. As exposições devem ser enviadas para a morada postal: Largo da República, 3720 - 240 - Oliveira de Azeméis, para o endereço eletrónico geral@cm-oaz.pt; via fax: 256 674694, ou ainda procedendo à sua entrega na Loja do Munícipe.
+Os documentos do procedimento de alteração podem ser consultados no sítio institucional do Município em www.cm-oaz.pt e no serviço de Gestão Urbanística, sito na Rua Bento Carqueja, n.º 41, todos os dias úteis no horário de expediente.
+O presente Aviso será identicamente publicado na comunicação social, na plataforma colaborativa de gestão territorial, no sítio do Município de Oliveira de Azeméis, e afixado nos locais de estilo.
+16 de fevereiro de 2018. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, Eng.º
+Deliberação
+A Câmara Municipal de Oliveira de Azeméis, na sua reunião pública de 25 de janeiro de 2018, deliberou o seguinte:
+1) Autorizar a abertura do procedimento de alteração do Plano Diretor Municipal (PDM13) por um período de 6 (seis) meses, o qual poderá ser prorrogado por uma única vez por período máximo igual ao estabelecido;
+2) A não sujeição do procedimento a avaliação ambiental estratégica;
+3) Determinar a abertura do período de participação preventiva, por 15 (quinze) dias, com início 5 (cinco) dias após a data da publicação do presente aviso no Diário da República;
+4) As sugestões a apresentar no período de participação preventiva devem ser apresentadas por escrito, em modelo a disponibilizar nos locais de consulta, ou outro documento devidamente identificado dirigido ao Presidente da Câmara Municipal que contenha a identificação e o contacto do participante, e o conteúdo da sua participação.
+16 de fevereiro de 2018. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, Eng.º
+611149872
