@@ -1,0 +1,1 @@
+O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis, em 30 de maio de 2014. - O Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, Miguel de Castro Neto, em 31 de dezembro de 2013. - O Secretário de Estado das Florestas e do Desenvolvimento Rural, Francisco Ramos Lopes Gomes da Silva, em 30 de dezembro de 2013.
