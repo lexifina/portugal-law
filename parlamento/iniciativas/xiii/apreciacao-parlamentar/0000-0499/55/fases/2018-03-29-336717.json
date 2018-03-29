@@ -1,0 +1,416 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "55",
+    "id": "42265",
+    "titulo": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que \"Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2018-03-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12920",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2018-03-29",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "42234",
+        "leg": "XIII",
+        "nr": "54",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2481",
+            "obs": null,
+            "pag": [
+              "31-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-03-31",
+            "pubLeg": "XIII",
+            "pubNr": "66",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/31?pgs=31-37&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 13/2018, de 26 de fevereiro \"define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo\""
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-03-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:34:19:707&drc=00:03:12:422"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:57:32:751&drc=00:01:43:608"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/31?pgs=31,36-37&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:37:32:130&drc=00:04:37:483"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4393",
+                "nome": "Cristóvão Simão Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:42:09:613&drc=00:03:54:688"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224441",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5601",
+                "nome": "João Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:46:04:301&drc=00:03:44:183"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/34?pgs=34&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:49:48:485&drc=00:03:16:033"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:39",
+            "horaTermo": "13:45",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_03_29_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m03/&tI=01:53:04:518&drc=00:04:27:481"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. ADJUNTO DA SAÚDE",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Araújo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-03-31",
+                "pubLeg": "XIII",
+                "pubNr": "66",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 13/2018, de 26 de fevereiro que Define o regime jurídico da formação médica pós-graduada, designada de internato médico, e estabelece os princípios gerais a que deve obedecer o respetivo processo.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "336717",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "812997",
+        "obs": null,
+        "pag": [
+          "31-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-03-31",
+        "pubLeg": "XIII",
+        "pubNr": "66",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/066/2018-03-31/31?pgs=31-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
