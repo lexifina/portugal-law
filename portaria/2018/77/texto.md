@@ -1,0 +1,129 @@
+Portaria n.º 77/2018
+de 16 de março
+O Programa do XXI Governo Constitucional estabelece como uma das suas prioridades fortalecer, simplificar e digitalizar a atividade da Administração, com o propósito de a tornar mais eficiente e facilitar a vida dos cidadãos e das empresas, através do lançamento do Programa SIMPLEX+.
+A Chave Móvel Digital (CMD) é um meio complementar e voluntário de autenticação por excelência em portais e sítios da Administração Pública.
+Com a recente alteração legislativa levada a cabo pela Lei n.º 32/2017, de 1 de junho, com o escopo primordial de desenvolver esta ferramenta tecnológica, mais simples para o cidadão, foram criadas funcionalidades como a possibilidade de receção dos códigos numéricos temporários em aplicação móvel dedicada, bem como possibilitar ao cidadão que possa assinar eletronicamente, e de forma segura, documentos sem a necessidade de uma infraestrutura para leitura do seu cartão de cidadão.
+A presente portaria procede à regulamentação do diploma legal bem como à definição do modelo de sustentabilidade, atenta a necessidade de manutenção e gestão da infraestrutura subjacente a este instrumento, a segurança das transações e a garantia de não repúdio da assinatura eletrónica.
+Através das alterações introduzidas pela lei e reguladas pela presente portaria permite-se o alargamento das funcionalidades e potencialidades da CMD não só a quem resida no país como também a todos os demais cidadãos que tenham relações laborais, económicas e financeiras com Portugal, designadamente a assinatura eletrónica qualificada, através deste meio de comunicação à distância.
+São ainda estabelecidas as taxas para as entidades privadas que pretendam aderir a este mecanismo, através de protocolo a celebrar com a Agência para a Modernização Administrativa, I. P.
+Estas taxas foram calculadas com base nos custos verificados desde a implementação do mecanismo de autenticação da CMD, em respeito pelo princípio da proporcionalidade e da prossecução do interesse público e visando a cobertura da despesa inerente à manutenção e gestão da infraestrutura.
+Foi ouvida a Comissão Nacional de Proteção de Dados.
+Assim, manda o Governo, pelo Ministro dos Negócios Estrangeiros, pela Secretária de Estado Adjunta e da Modernização Administrativa, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado da Proteção Civil, pela Secretária de Estado da Justiça, pela Secretária de Estado da Segurança Social e pelo Secretário de Estado Adjunto e da Saúde, ao abrigo dos n.os 14 e 15 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, alterada pela Lei n.º 32/2017, de 1 de junho, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à regulamentação necessária ao desenvolvimento da Chave Móvel Digital (CMD), aprovada pela Lei n.º 37/2014, de 26 de junho, alterada pela Lei n.º 32/2017, de 1 de junho, enquanto meio complementar e voluntário de autenticação dos cidadãos em sistemas, portais e sítios na Internet e assinatura eletrónica qualificada à distância.
+Artigo 2.º
+Registo
+1 - O registo constitui, para efeitos de autenticação, a associação voluntária do número de identificação civil ou, no caso de cidadão estrangeiro, não titular de número de identificação civil português, o número de passaporte, a um único número de telemóvel e ou a um endereço eletrónico, escolhendo o cidadão uma palavra-passe permanente.
+2 - O registo pode ser solicitado, através dos meios previstos nos n.os 6 e 7 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, sendo que:
+a) O registo presencial pode ser solicitado por titulares de Cartão de Cidadão, Bilhete de Identidade ou, no caso de cidadãos estrangeiros, não abrangidos pelo Decreto-Lei n.º 154/2003, de 15 de julho, de passaporte;
+b) O registo eletrónico só pode ser solicitado por titulares de Cartão de Cidadão.
+Artigo 3.º
+Solicitação presencial da CMD
+1 - O registo pode ser solicitado presencialmente:
+a) Aquando da entrega do Cartão de Cidadão;
+b) A todo o tempo, junto dos serviços consulares portugueses, numa Loja de Cidadão, conservatória do registo civil ou junto de outros serviços da administração pública que celebrem protocolo com a Agência para a Modernização Administrativa, I. P. (AMA).
+2 - O registo presencial requer a confirmação da identidade do cidadão por conferência com o seu documento de identificação civil ou do seu passaporte.
+3 - No ato de registo presencial é gerada automaticamente, e de forma aleatória, uma palavra-chave temporária, com seis dígitos numéricos.
+4 - A palavra-passe referida no número anterior deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente, com quatro a oito dígitos numéricos, de autenticação para futuras interações com os portais e sítios na Internet e para a utilização da assinatura.
+5 - No momento do registo, o cidadão pode também solicitar a ativação da sua assinatura eletrónica qualificada.
+Artigo 4.º
+Solicitação eletrónica da CMD com Cartão de Cidadão
+1 - O registo pode ser solicitado através da autenticação com o Cartão de Cidadão no sítio na Internet autenticacao.gov.pt, que permite a definição da palavra-passe permanente.
+2 - No caso referido no número anterior, o cidadão pode também solicitar a ativação do certificado da sua assinatura eletrónica qualificada.
+Artigo 5.º
+Solicitação eletrónica da CMD através de envio de carta para a morada
+1 - O registo pode ser igualmente solicitado eletronicamente através da autenticação no sítio na Internet do portal das finanças ou de outros sítios, aplicações ou terminais eletrónicos que celebrem protocolo com a AMA, solicitando o envio de carta, com a palavra-passe temporária gerada automaticamente e de forma aleatória, para a morada do titular do Cartão de Cidadão.
+2 - Para conclusão do processo de registo por meio eletrónico referido no número anterior, o titular de Cartão de Cidadão deve introduzir a palavra-passe temporária, recebida nos termos do número anterior, no módulo da autenticação.gov.pt.
+3 - A palavra passe deve ser alterada pelo titular na primeira autenticação com CMD, de forma a criar uma palavra-chave permanente para autenticação em futuras interações com os portais e sítios na Internet da Administração Pública.
+4 - O cidadão que solicite a CMD por esta via pode ativar o certificado de assinatura eletrónica qualificada presencialmente, ou através de autenticação com Cartão de Cidadão, nos termos da alínea b) do n.º 6 do artigo 2.º da Lei n.º 37/2014, de 26 de junho.
+Artigo 6.º
+Utilização
+1 - O utilizador da CMD pode autenticar-se, de forma segura, em sistemas, sítios e portais na Internet, através da sua palavra-chave permanente de autenticação.
+2 - Para concluir o processo de autenticação referido no número anterior deve ser introduzido o código numérico que lhe seja enviado através de:
+a) Short message service (SMS);
+b) Mensagem de correio eletrónico;
+c) Aplicação móvel disponibilizada para o efeito (app) instalada no telemóvel;
+d) Outros meios eletrónicos que permitam o envio de mensagens privadas.
+3 - Cada autenticação implica a emissão de um código numérico específico de validade temporal limitada, com seis dígitos numéricos.
+4 - É da responsabilidade do utilizador garantir a utilização adequada da CMD e tomar as medidas de segurança para o efeito.
+5 - O utilizador da CMD que tenha requerido a ativação da assinatura eletrónica qualificada pode assinar documentos, de forma segura, recebendo um código numérico por cada assinatura.
+Artigo 7.º
+Alteração da palavra-chave permanente da CMD
+1 - O cidadão pode, a todo o tempo, alterar por meio eletrónico, a sua palavra-passe permanente no sítio na Internet autenticacao.gov.pt.
+2 - Por questões de segurança pode ser solicitada ao cidadão a alteração da sua palavra-chave.
+3 - O cidadão pode também proceder à alteração do seu número de telefone e ou endereço eletrónico no sítio mencionado no n.º 1.
+Artigo 8.º
+Bloqueio automático, suspensão, cancelamento e revogação da CMD
+1 - Por motivos de segurança a palavra-passe permanente pode ser bloqueada após a subsequente introdução de códigos alfanuméricos errados.
+2 - O desbloqueio da CMD é efetuado nos termos previstos para o registo presencial ou eletrónico.
+3 - Quando se verifique a utilização abusiva da CMD pode haver lugar à sua suspensão temporária por períodos de 24 horas.
+4 - A CMD é cancelada quando exista conhecimento que o documento de registo tenha sido cancelado por motivos associados à fraude de identidade.
+5 - A CMD e o certificado eletrónico de assinatura da CMD são cancelados:
+a) Nos casos de morte do titular ou da sua incapacidade superveniente, através de informação enviada pelo Instituto dos Registos e do Notariado, I. P.;
+b) No caso do passaporte perder a validade.
+6 - Pode ser solicitada, a todo o tempo, por meio eletrónico, a revogação da CMD ou da assinatura qualificada, implicando o respetivo cancelamento.
+Artigo 9.º
+Validade e suspensão temporária
+1 - A validade da CMD coincide:
+a) Com a validade do documento de identificação civil português;
+b) Com a validade do passaporte, no caso de cidadão estrangeiro, quando não titular de número de identificação civil português.
+2 - A aplicação dos prazos referidos no número anterior não pode conduzir à atribuição de uma CMD com validade superior a 10 anos.
+3 - Findo o prazo de validade previsto na alínea a) do n.º 1 a CMD é suspensa até à renovação do mesmo documento.
+Artigo 10.º
+Comunicação de dados
+1 - Para o processo de registo de atribuição da CMD são comunicados à AMA e validados os seguintes dados:
+a) Nome próprio e apelidos;
+b) Número de identificação civil e número de documento do Cartão de Cidadão ou número de passaporte;
+c) Data de nascimento;
+d) Verificação da sua capacidade jurídica;
+e) Validade do documento de identificação civil ou passaporte;
+f) Existência de medidas cautelares sobre o passaporte.
+2 - No caso de registo por meio eletrónico através de envio de carta para a morada do titular de Cartão de Cidadão, mediante protocolo a celebrar entre a AMA, a Autoridade Tributária e o Instituto dos Registos e Notariado, I. P., é igualmente comunicada e validada a respetiva morada, por parte deste último, sendo eliminada dos sistemas informáticos da CMD quando concluído o processo de registo.
+3 - Para efeitos do cancelamento previsto no n.º 4 do artigo 8.º é ainda comunicado à AMA o cancelamento do documento de registo por motivos associados à fraude de identidade.
+4 - Para efeitos da suspensão e reativação da CMD previstas no n.º 2 do artigo 9.º são comunicados à AMA além dos dados previstos no n.º 1, o cancelamento ou revogação do cartão de cidadão.
+5 - Na utilização da CMD podem ainda ser comunicados e validados, nomeadamente os seguintes dados:
+a) Número de identificação fiscal;
+b) Número de segurança social;
+c) Número de utente do Serviço Nacional de Saúde;
+d) Nacionalidade.
+6 - Os dados são comunicados e validados entre a AMA, e os sistemas informáticos respetivos, através da Plataforma de Interoperabilidade da Administração Pública (iAP), mediante protocolo entre as entidades envolvidas, nomeadamente, o Instituto dos Registos e do Notariado, I. P., o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., o Instituto de Informática, I. P., da Segurança Social, o Serviço de Estrangeiros e Fronteiras, a Administração Tributária, a Direção-Geral da Saúde e os Serviços Partilhados do Ministério da Saúde, E. P. E.
+7 - A comunicação e validação dos dados são expressa e previamente autorizadas pelo respetivo titular, nos termos do n.º 3 do artigo 13.º e do n.º 4 do artigo 24.º da Lei n.º 7/2007, de 5 de fevereiro, alterada pela Lei n.º 32/2017, de 1 de junho.
+8 - Os dados fornecidos pelo cidadão em conjunto com os dados obtidos nos termos dos números anteriores são apresentados ao cidadão para confirmação.
+9 - São comunicados à AMA, mediante protocolo a celebrar com o Instituto dos Registos e do Notariado, I. P., a informação do cancelamento, sempre que ocorra a morte do titular da CMD ou a sua incapacidade superveniente e as situações de fraude de identidade.
+10 - Os protocolos previstos no presente artigo relativos à comunicação dos dados são notificados à Comissão Nacional de Proteção de Dados.
+Artigo 11.º
+Modelo de sustentabilidade
+1 - A utilização da CMD para fins de autenticação em sistemas e sítios da Administração Pública, bem como para assinatura eletrónica, não tem encargos para o cidadão.
+2 - As entidades públicas devem privilegiar a utilização do Cartão de Cidadão e da CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebrando para o efeito protocolo com a AMA, isento de custos.
+3 - As entidades privadas que pretendam utilizar a CMD como modo de autenticação dos cidadãos nos respetivos sistemas e sítios da Internet, celebram para o efeito protocolo com a AMA, sendo aplicáveis as taxas que forem estabelecidas para a utilização da CMD, às quais acresce o IVA à taxa legal em vigor.
+4 - Para efeitos do número anterior, as taxas devidas constam do anexo à presente portaria, da qual faz parte integrante, sendo igualmente disponibilizadas em www.autenticacao.gov.pt.
+Artigo 12.º
+Segurança de dados
+1 - No desenho e operação dos sistemas de informação nos quais se baseia a CMD a AMA, enquanto entidade responsável pela gestão e segurança da infraestrutura tecnológica que suporta a CMD, nos termos e para os efeitos do n.º 8 do artigo 2.º da Lei n.º 37/2014, de 26 de junho, garante o cumprimento do disposto no n.º 9 do artigo 2.º daquele diploma, em especial, a adequada separação entre as diversas bases de dados utilizadas por aqueles sistemas de informação, sendo a informação das interações concretas realizadas entre os cidadãos e os serviços ou organismos da Administração Pública apenas guardada nos sistemas de informação desses serviços ou organismos.
+2 - O registo das autenticações através da CMD é eliminado no prazo de um ano após a respetiva ocorrência.
+3 - O registo das assinaturas efetuadas através da CMD é eliminado no prazo de um ano após a revogação ou cancelamento da respetiva CMD.
+4 - Os cidadãos utilizadores da CMD podem monitorizar o seu histórico de autenticações e assinaturas.
+5 - Os dados relativos ao registo de atribuição da CMD são apagados no prazo de um ano após o cancelamento.
+6 - A Entidade Certificadora responsável pela emissão de certificados de assinatura da Chave Móvel Digital partilha a infraestrutura e os requisitos de segurança do Cartão de Cidadão, obedecendo à sua hierarquia de chaves públicas.
+Artigo 13.º
+Revogação
+É revogada a Portaria n.º 189/2014, de 23 de setembro.
+Artigo 14.º
+Disposições transitórias
+1 - As CMD existentes à data da entrada em vigor da presente portaria, mantêm-se válidas até 31 de dezembro de 2027, enquanto não forem substituídas, sem prejuízo de situações de cancelamento ou revogação.
+2 - O modelo de sustentabilidade definido na presente portaria é revisto no prazo de 12 meses.
+Artigo 15.º
+Entrada em vigor
+1 - A presente portaria entra em vigor no dia 2 de abril de 2018.
+2 - Sem prejuízo do disposto no número anterior, entram em vigor no dia 1 de outubro de 2018:
+a) O desbloqueio presencial da CMD, previsto no n.º 2 do artigo 8.º nos balcões de atendimento do Instituto dos Registos e do Notariado, I. P.;
+b) O n.º 5 do artigo 3.º, relativamente a cidadãos estrangeiros, não abrangidos pelo Decreto-Lei n.º 154/2003, de 15 de julho; e
+c) O n.º 4 do artigo 12.º da presente portaria.
+O Ministro dos Negócios Estrangeiros, Augusto Ernesto Santos Silva, em 8 de março de 2018. - A Secretária de Estado Adjunta e da Modernização Administrativa, Graça Maria da Fonseca Caetano Gonçalves, em 13 de março de 2018. - O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 13 de março de 2018. - O Secretário de Estado da Proteção Civil, José Artur Tavares Neves, em 13 de março de 2018. - A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 9 de março de 2018. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 14 de março de 2018. - O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 13 de março de 2018.
+ANEXO
+(a que se refere o n.º 4 do artigo 11.º)
+
+(ver documento original)
+
+111208604
