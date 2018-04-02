@@ -1,0 +1,364 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Participação de Portugal na União Europeia",
+  "numero": null,
+  "data_registo": "2018-04-02",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Portugal na União Europeia",
+    "Audicoes": null,
+    "Comissao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "DataAgendamentoDebate": null,
+    "DataEntrada": "2018-04-02",
+    "DataParecerUTAO": null,
+    "DataPedidoParecer": null,
+    "DescTipo": "Participação de Portugal na União Europeia",
+    "Documentos": null,
+    "EntidadesExternas": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Links": null,
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": [
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4525",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "Numero": "2",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "6157",
+            "motivoCessacao": null,
+            "nome": "Lara Martinho"
+          }
+        ],
+        "Sigla": "CNECP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4526",
+        "Nome": "Comissão de Defesa Nacional",
+        "Numero": "3",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1992",
+            "motivoCessacao": null,
+            "nome": "Pedro Roque"
+          }
+        ],
+        "Sigla": "CDN"
+      },
+      {
+        "Codigo": null,
+        "Documentos": [
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Parecer",
+            "tituloDocumento": "Parecer da Comissão de Assuntos Europeus",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938334f54566b4d574d784e7931684f5446694c5451314d6a59744f5751784e7930795a5446685a6a63314e4451314e5751755a47396a&fich=795d1c17-a91b-4526-9d17-2e1af754455d.doc&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Portugal na União Europeia 2017",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938334e6d4d7a4d546c6d4e5330784e47526b4c5452694f475174595445305a5330314d7a4d7a4f44526a5a6d4531595459756347526d&fich=76c319f5-14dd-4b8d-a14e-533384cfa5a6.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Agricultura e Mar",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938324e6a426d4d6a6b315953316a4f474d354c5451784d546b744f474a684d7930774e4745325954566a4d7a59334e7a55756347526d&fich=660f295a-c8c9-4119-8ba3-04a6a5c36775.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637939695a544e6b4d574d775a4331684e6a63344c54526c4e5455744f5459784e7930354d474e684d7a517a4f4745315a4751756347526d&fich=be3d1c0d-a678-4e55-9617-90ca3438a5dd.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d35686379396c597a59335a4445794d4330794e6d526a4c5451314d474d74596d45774e6931694e6d49304e7a686c596d45354d6a67756347526d&fich=ec67d120-26dc-450c-ba06-b6b478eba928.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Cultura, Comunicação, Juventude e Desporto",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938314d54597a4d546b315a5330784d474d314c5452694e574d744f544e6c4d4330784f47553459544d334d4445304e5745756347526d&fich=5163195e-10c5-4b5c-93e0-18e8a370145a.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Defesa Nacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938314f47566c4e47526c4f4330314e6a4e6d4c54526d4e445174596a4a695a433169595463325932566b596a526b4d474d756347526d&fich=58ee4de8-563f-4f44-b2bd-ba76cedb4d0c.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Economia, Inovação e Obras Públicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637939695a6d566d4d44566d4f4331685a6d55794c5451794e545174596a67334d5330304d7a67344d474d305a444d305a6d4d756347526d&fich=bfef05f8-afe2-4254-b871-43880c4d34fc.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Educação e Ciência",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d35686379396a4f54646b4f5441324d43316b4e5755314c5451324d445974595445304d69307a5a5455324d475a6a4d6d51785a6d55756347526d&fich=c97d9060-d5e5-4606-a142-3e560fc2d1fe.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938784f4445304d475935596931685a544d334c54517959544d744f445932596930784f546c694e6d51344e446b7a4e5449756347526d&fich=18140f9b-ae37-42a3-866b-199b6d849352.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Orçamento, Finanças e Modernização Administrativa",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d35686379396c4f4467334f5455344d4331695a474a694c5452684d3259744f444d794d6930344d475a6d597a45315a4464684e7a6b756347526d&fich=e8879580-bdbb-4a3f-8322-80ffc15d7a79.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938774f44526a5a6a6c6a4d793077597a4e6c4c5451324d4749744f4455774e6931684f574d35593251794e7a4a6c59544d756347526d&fich=084cf9c3-0c3e-460b-8506-a9c9cd272ea3.pdf&Inline=true"
+          },
+          {
+            "codigoErro": null,
+            "dataDocumento": "2018-04-02 00:00:00.0",
+            "descricao": null,
+            "publicarInternet": "True",
+            "tipoDocumento": "Documento do Governo",
+            "tituloDocumento": "Relatório da Comissão de Trabalho e Segurança Social",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533830513046464c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d35686379396c596d49795a546b344e5330795a4759784c5451775a54557459574931595330304d446b324e7a51324d545a6c4e6a4d756347526d&fich=ebb2e985-2df1-40e5-ab5a-409674616e63.pdf&Inline=true"
+          }
+        ],
+        "Id": "4527",
+        "Nome": "Comissão de Assuntos Europeus",
+        "Numero": "4",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4380",
+            "motivoCessacao": null,
+            "nome": "Maria Luís Albuquerque"
+          }
+        ],
+        "Sigla": "CAE"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4528",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "Numero": "5",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2665",
+            "motivoCessacao": null,
+            "nome": "Jorge Paulo Oliveira"
+          }
+        ],
+        "Sigla": "COFMA"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4529",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "Numero": "6",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "BE",
+            "id": "4059",
+            "motivoCessacao": null,
+            "nome": "Heitor de Sousa"
+          }
+        ],
+        "Sigla": "CEIOP"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4530",
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "7",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "6137",
+            "motivoCessacao": null,
+            "nome": "António Lima Costa"
+          }
+        ],
+        "Sigla": "CAM"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4531",
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "8",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "5705",
+            "motivoCessacao": null,
+            "nome": "Ana Mesquita"
+          }
+        ],
+        "Sigla": "CEC"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4532",
+        "Nome": "Comissão de Saúde",
+        "Numero": "9",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "4096",
+            "motivoCessacao": null,
+            "nome": "Isabel Galriça Neto"
+          }
+        ],
+        "Sigla": "CS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4533",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "Numero": "10",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4436",
+            "motivoCessacao": null,
+            "nome": "Joana Barata Lopes"
+          }
+        ],
+        "Sigla": "CTSS"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4534",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "Numero": "11",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "4405",
+            "motivoCessacao": null,
+            "nome": "João Torres"
+          }
+        ],
+        "Sigla": "CAOTDPLH"
+      },
+      {
+        "Codigo": null,
+        "Documentos": null,
+        "Id": "4535",
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "12",
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "5933",
+            "motivoCessacao": null,
+            "nome": "Carla Sousa"
+          }
+        ],
+        "Sigla": "CCCJD"
+      }
+    ],
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "CDS-PP",
+        "id": "4402",
+        "motivoCessacao": null,
+        "nome": "Vânia Dias da Silva"
+      }
+    ],
+    "Sessao": "3",
+    "TextoRelatorio": null,
+    "TextosAprovados": null,
+    "Tipo": "PUE",
+    "VotacaoDebate": null,
+    "VotacaoRelatorio": null
+  }
+}
