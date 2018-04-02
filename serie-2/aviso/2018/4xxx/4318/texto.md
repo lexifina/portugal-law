@@ -1,0 +1,4 @@
+Aviso n.º 4318/2018
+Fernando Manuel Pereira Lourenço, Presidente da União de Freguesias de Freguesia de Cerva e Limões, faz saber, nos termos e para os efeitos legais, que por deliberação da Junta de Freguesia na reunião ordinária de 19 de fevereiro 2018, e em conformidade com o estabelecido na Lei n.º 75/2013, de 12 de setembro, foi aprovado o Projeto de Regulamento de funcionamento da "Viatura Smille", e o mesmo se encontra em consulta pública. O projeto em causa está disponível na Junta de Freguesia e no sitio da Internet www.cerva.freguesias.pt, e no facebook freguesiadecerva.limoes@gmail.com, devendo os interessados dirigir, por escrito, as suas sugestões à Junta de Freguesia, dentro do prazo de 30 dias úteis, a contar da data de publicitação do presente aviso no Diário da República.
+28 de fevereiro de 2018. - O Presidente da Freguesia, Fernando Manuel Pereira Lourenço.
+311213804
