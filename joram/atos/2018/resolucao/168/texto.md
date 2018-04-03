@@ -1,0 +1,23 @@
+# Resolução n.º 168/2018
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 50/2018, de 2018-04-03
+
+**Sumário:** Concede à Casa do Povo da Calheta, um reforço à comparticipação financeira atribuída através da Resolução n.º 155/2018, de 22 de março, que não excederá, respetivamente, os montantes de € 5.600,00 e de € 560,00.
+
+## Texto
+
+Resolução n.º 168/2018
+Considerando a Resolução n.º 155/2018, de 22 de março, que ao abrigo do disposto na alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, do n.º 9 do artigo 32.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, que aprova o Orçamento da Região Autónoma da Madeira para 2018, e da Resolução n.º 72/2018, de 15 de fevereiro, alterada pela Resolução n.º 93/2018, de 22 de fevereiro, que aprova a concessão de um auxílio financeiro complementar aos produtores agrícolas com atividade no território da Região Autónoma da Madeira nos setores da horticultura, fruticultura e floricultura, destinado a minimizar os custos com a aquisição de certos fatores de produção, nomeadamente de produtos fitofarmacêuticos, e de fertilizantes, com exceção dos corretivos que beneficiarão de um regime de apoio próprio, autorizou a celebração de contratos-programa com as entidades referenciadas no mapa anexo à supra referida Resolução n.º 155/2018, de 22 de março, tendo em vista transferirem integralmente para os produtores dos setores abrangidos, o valor do auxílio financeiro fixado no Regulamento que Disciplina a Concessão de Auxilio Financeiro Complementar aos Produtores Agrícolas dos Setores da Horticultura, Fruticultura e Floricultura, da Região Autónoma da Madeira, anexo à Resolução acima referida, bem como a contrapartida de um apoio aquelas entidades para fazer face aos custos administrativos e despesas bancárias e outros encargos inerentes às operações de pagamento do auxilio financeiro aos beneficiários.
+Considerando ainda que para a realização das operações referidas anteriormente, foi concedido à Casa do Povo da
+
+Calheta, uma comparticipação financeira que não excederia, respetivamente, o montante de € 27.900,00 (vinte e sete mil e novecentos euros) e de € 2.790,00 (dois mil setecentos e noventa euros), de acordo com a descrição no mapa anexo à Resolução n.º 155/2018, de 22 de março.
+Considerando a necessidade de contemplar todos os agricultores do concelho da Calheta que por lapso não estavam devidamente contabilizados e desta forma se pretende reforçar a comparticipação financeira destinada à Casa do Povo da Calheta.
+O Conselho do Governo reunido em plenário em 28 de março de 2018, resolveu:
+1. Ao abrigo do disposto na alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, do n.º 9 do artigo 32.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, que aprova o Orçamento da Região Autónoma da Madeira para 2018, e da Resolução n.º 72/2018, de 15 de fevereiro, alterada pela Resolução n.º 93/2018, de 22 de fevereiro, conceder à Casa do Povo da Calheta, um reforço à comparticipação financeira atribuída através da Resolução n.º 155/2018, de 22 de março, que não excederá, respetivamente, o montante de € 5.600,00 (cinco mil e seiscentos euros) e de € 560,00 (quinhentos e sessenta euros).
+2. Autorizar a celebração do contrato-programa com a Casa do Povo da Calheta que produz efeitos desde a data da sua assinatura até 31 de dezembro de 2018.
+3. Aprovar a minuta do respetivo contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência, para atribuição do apoio financeiro previsto nesta Resolução.
+4. Mandatar o Secretário Regional de Agricultura e Pescas para, em representação da Região Autónoma da Madeira, elaborar o respetivo processo e outorgar o contrato-programa.
+5. As despesas resultantes da alteração ao contratoprograma a celebrar têm cabimento orçamental no ano de 2018, na classificação orgânica 469500201, classificação funcional 313, classificação económica D.04.07.01.00.00, fonte de financiamento 111, programa 51, medida 30, projeto SIGO 50008, fundo 4111000585, centro financeiro M100607, centro de custo M100A63100, com o número de cabimento CY41806472/001 e na classificação orgânica 469500201, classificação funcional 313, classificação económica D.04.07.01.00.00, fonte de financiamento 111, programa 48, medida 22, projeto SIGO 50013, fundo 4111000584, centro financeiro M100607, centro de custo M100A63100, com o número de cabimento CY41806472/002.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
