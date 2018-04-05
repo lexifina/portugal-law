@@ -1,0 +1,7 @@
+Aviso n.º 4495/2018
+Projeto de Regulamento de Procedimentos para Ajustamento das Condições de Exploração do Serviço Público de Transporte de Passageiros Municipal - Consulta Pública
+Carlos Carreiras, Presidente da Câmara Municipal de Cascais, torna público, nos termos do artigo 101.º do Código de Procedimento Administrativo que a Câmara Municipal, em reunião ordinária de 20 de março, deliberou no âmbito da Proposta n.º 242/2018, dar início ao período de Consulta Pública do Projeto de Regulamento de Procedimentos para Ajustamento das Condições de Exploração do Serviço Público de Transporte de Passageiros Municipal, pelo período de 30 dias, a contar da data de publicação do presente aviso.
+Durante o período supra referenciado, os interessados devem dirigir, por escrito, as suas sugestões ao Presidente da Câmara Municipal de Cascais, podendo as mesmas serem remetidas por correio, para o Departamento de Autoridade de Transportes, sito no Edifício Tardoz dos Paços do Concelho, na Praça 5 de Outubro, em Cascais ou por via correio eletrónico enviada para o endereço eletrónico autoridade.transportes@cm-cascais.pt ou ainda, no Atendimento Municipal das Lojas Cascais.
+Mais se informa que o processo pode ser consultado, nos termos do artigo 83.º do CPA, no Edifício Tardoz dos Paços do Concelho, na Praça 5 de Outubro, 2754-501 Cascais, de 2.ª a 6.ª feira, das 10h00 às 12h00 e das 14h00 às 16h00.
+22 de março de 2018. - O Presidente da Câmara Municipal de Cascais, Carlos Carreiras.
+311225185
