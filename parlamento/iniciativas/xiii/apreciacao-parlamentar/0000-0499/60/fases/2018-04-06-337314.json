@@ -1,0 +1,830 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "60",
+    "id": "42357",
+    "titulo": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2018-04-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12987",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2018-04-06",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "42268",
+        "leg": "XIII",
+        "nr": "56",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "42286",
+        "leg": "XIII",
+        "nr": "57",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "42294",
+        "leg": "XIII",
+        "nr": "58",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2487",
+            "obs": null,
+            "pag": [
+              "35-47"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-07",
+            "pubLeg": "XIII",
+            "pubNr": "69",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "A",
+        "titulo": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-04-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=00:35:55:699&drc=00:02:01:217"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:40:30:620&drc=00:02:24:375"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:44:41:661&drc=00:01:30:202"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224923",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "45-45",
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-36,45,46-47&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:11:07:203&drc=00:04:04:262"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:33:46:252&drc=00:02:34:497"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/37?pgs=37,42-43&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5617",
+                "nome": "Margarida Mano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:15:11:466&drc=00:05:19:940"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2300",
+                "nome": "Ilda Araújo Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:20:31:406&drc=00:05:14:159"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "469",
+                "nome": "Porfírio Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:25:45:566&drc=00:04:37:363"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:30:22:930&drc=00:03:18:796"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:42:54:996&drc=00:01:46:665"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. ADJUNTA E DA EDUCAÇÃO",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Alexandra Leitão"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42",
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/41?pgs=41-42,45-46&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:36:35:649&drc=00:00:07:602"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:37:41:897&drc=00:00:08:750"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43",
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/43?pgs=43,43&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4300",
+                "nome": "Hugo Lopes Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:38:53:933&drc=00:00:03:066"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224930",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4327",
+                "nome": "Carlos Abreu Amorim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:39:58:713&drc=00:00:07:273"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/44?pgs=44&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4095",
+                "nome": "Sérgio Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:07",
+            "horaTermo": "15:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_06_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:40:05:986&drc=00:00:14:554"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-07",
+                "pubLeg": "XIII",
+                "pubNr": "69",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/45?pgs=45&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\"; Decreto-Lei n.º 15/2018, de 7 de março, que \"Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "337314",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "813663",
+        "obs": null,
+        "pag": [
+          "35-47"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-04-07",
+        "pubLeg": "XIII",
+        "pubNr": "69",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/069/2018-04-07/35?pgs=35-47&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
