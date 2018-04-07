@@ -6,9 +6,9 @@
 
 ### Alteração da candidatura
 
-1 - [Revogado];
+1 - Os beneficiários dos 'AZ de caráter agroambiental' podem, aquando da apresentação do pedido de pagamento anual, proceder ao aumento da área objeto de apoio, desde que, à data da candidatura, se encontrassem impedidos de a incluir por a mesma estar sujeita a emparcelamento ou intervenção fundiária similar nos termos da Lei n.º 111/2015, de 27 de agosto, ou a execução de empreitada no âmbito de aproveitamentos hidroagrícolas.
 
-2 - [Revogado];
+2 - As situações referidas no número anterior são comprovadas pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), com identificação das parcelas.
 
 3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem lugar à devolução dos apoios já recebidos, nos seguintes casos:
 
