@@ -2,7 +2,7 @@
 
 ### Seriação
 
-1 - A seriação dos candidatos a cada variante e ramo é realizada pela ordem decrescente das respetivas notas de candidatura.
+1 - A seriação dos candidatos a cada variante é realizada pela ordem decrescente das respetivas notas de candidatura.
 
 2 - Em caso de empate, aplicam-se, sucessivamente, por ordem decrescente das classificações, os seguintes critérios de desempate:
 

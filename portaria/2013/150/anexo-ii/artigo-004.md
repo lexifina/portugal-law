@@ -10,4 +10,4 @@ b) Prova de aptidão escrita;
 
 c) Entrevista.
 
-2 - O elenco de provas específicas de acesso a realizar para cada variante e ramo, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.
+2 - O elenco de provas específicas de acesso a realizar para cada variante, as classificações mínimas a obter nas provas, bem como a fórmula de cálculo da sua classificação, são os constantes das tabelas I a III anexas ao presente regulamento.

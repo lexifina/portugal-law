@@ -6,7 +6,7 @@
 
 a) Ser titular de um curso de ensino secundário, nacional ou estrangeiro, ou de habilitação legalmente equivalente, concluído até ao ano letivo imediatamente anterior àquele a que respeita a candidatura;
 
-b) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: História da Cultura e das Artes, Inglês, Literatura Portuguesa, Matemática, Português;
+b) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: 12 - História da Cultura e das Artes, 13 - Inglês, 15 - Literatura Portuguesa, 16 - Matemática, 18 - Português;
 
 c) Fazer prova da capacidade para a frequência do curso.
 
