@@ -1,0 +1,221 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "124",
+    "id": "42437",
+    "titulo": "Determina a cessação de vigência de decretos-leis publicados entre os anos de 1975 e 1980."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2018-04-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "42759",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-04-11",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-05-10",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a63345a4467324e5463744f544133596930304d6a64684c5749304d5445744e7a5a6d4e545a684f54633159575a6b4c6e426b5a673d3d&fich=f78d8657-907b-427a-b411-76f56a975afd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-11",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior dos Tribunais Administrativos e Fiscais",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a546c6b4d6a426c4d6d49744d4449784d5330304e5451304c5468684e446b744d57553359544a694e444d334f4452684c6e426b5a673d3d&fich=e9d20e2b-0211-4544-8a49-1e7a2b43784a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-13",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Procuradoria-Geral da República (CSMP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a6c6c4f444135596a4d744f544d34595330304d44566c4c546b324f4759744d57457a5a5745774d574e694d4751334c6e426b5a673d3d&fich=39e809b3-938a-405e-968f-1a3ea01cb0d7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Informação (2.ª)- Procuradoria-Geral da República (CSMP) ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4455784d544d304f4445744d474d7a4f533030596d55324c5745344d4751744f57566a5a54686d4d4467315a4749774c6e426b5a673d3d&fich=85113481-0c39-4be6-a80d-9ece8f085db0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a545668596a5179596a41744d4463775a4330304f44417a4c5745784f444d745a4751794f544e684e7a4669595749774c6e426b5a673d3d&fich=e5ab42b0-070d-4803-a183-dd293a71bab0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a557a596d51354d4467744e444a6c4e6930304e5463784c546b304d6a4d7459324a69596d49325a5756694e5451334c6e426b5a673d3d&fich=c53bd908-42e6-4571-9423-cbbbb6eeb547.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2019-03-06"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2018-05-10"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2019-03-13"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2019-03-11"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2018-04-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2018-04-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2018-04-19"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior dos Tribunais Administrativos e Fiscais em 2018-04-19"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "84-94"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-23",
+            "pubLeg": "XIII",
+            "pubNr": "118",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/118/2018-05-23/84?pgs=84-94&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "84-94"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-23",
+            "pubLeg": "XIII",
+            "pubNr": "118",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/118/2018-05-23/84?pgs=84-94&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "1977",
+            "motivoCessacao": null,
+            "nome": "António Gameiro"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-05-23",
+            "dataRemessa": "2018-05-23",
+            "numeroOficio": "515/XIII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-05-23",
+            "descricao": null,
+            "detalhe": null,
+            "id": "79650",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "193",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-04-11",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "337287",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
