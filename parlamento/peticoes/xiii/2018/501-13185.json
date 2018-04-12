@@ -1,0 +1,539 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13185",
+  "numero": "501",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-06-27",
+            "entidades": null,
+            "id": "109247",
+            "tipo": null,
+            "titulo": "Audição em 2018-06-27 com Peticionários: André Julião e Marina Simão"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-05-09",
+            "dataResposta": "2018-06-01",
+            "entidades": [
+              "Câmara Municipal de Loures"
+            ],
+            "nrOficio": "149/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-09",
+            "dataResposta": "2018-06-08",
+            "entidades": [
+              "MIN.   DA  SAÚDE"
+            ],
+            "nrOficio": "148/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-09",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "147/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-07-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-08",
+        "DataArquivo": "2018-07-11",
+        "DataBaixaComissao": "2018-04-30",
+        "DataEnvioPAR": "2018-07-12",
+        "DataReaberta": "2018-05-08",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-05-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67784e54686d596a51314c57566a4d3245744e474d794d7931685a474d334c544d344e7a45345a54637a4e575531595335775a47593d&fich=8158fb45-ec3a-4c23-adc7-38718e735e5a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-05-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63794d444e685a4449774c546b354e4445744e444a694d6930345a6d4a6a4c5467784d324d304f445533593259785a5335775a47593d&fich=7203ad20-9941-42b2-8fbc-813c4857cf1e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3252695a6a59774e54526d4c575a6c4e4755744e4463344d6931684e4467354c57566a597a6b30596a4e6c4d3255354e5335775a47593d&fich=dbf6054f-fe4e-4782-a489-ecc94b3e3e95.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41305a44686a4e7a466d4c57557a4e7a49744e4759304d5331695a6d4e6c4c5451784e6a526c4f5455344f475a6c4f4335775a47593d&fich=04d8c71f-e372-4f41-bfce-4164e9588fe8.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-07-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426a4e574a6a4d6a63354c5759314e5459744e44426d4d4330345a474e6b4c5445315a574d324e6d4d324e7a67774d5335775a47593d&fich=0c5bc279-f556-40f0-8dcd-15ec66c67801.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-06-01",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426b4d324d774d7a646d4c5456685a6d59744e474e685a5330344d6a52694c5451344d5455304e54453259324d79597935775a47593d&fich=0d3c037f-5aff-4cae-824b-48154516cc2c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-06-12",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b774d6d46695a444e694c544a6c4e7a59744e4451335a4330355a474a6a4c5759324e44466d4d5441774e6d5a684f5335775a47593d&fich=902abd3b-2e76-447d-9dbc-f641f1006fa9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-08",
+            "gp": "PSD",
+            "id": "4435",
+            "motivoCessacao": null,
+            "nome": "Ana Sofia Bettencourt"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-01-31",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4d6d52685a6a4e69596930304e4455354c5451794d4745744f546c6d4e43316a4e6a5a684f54426d4e6d4d314f4459756347526d&fich=f2daf3bb-4459-420a-99f4-c66a90f6c586.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43120",
+      "43119"
+    ],
+    "Iniciativasoriginadas": [
+      "43120",
+      "43119"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:01:24:377&drc=00:03:48:957"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:05:13:335&drc=00:03:16:738"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/36?pgs=36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:08:30:073&drc=00:04:08:752"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:12:38:826&drc=00:03:57:182"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:16:36:009&drc=00:03:01:833"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-02-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_31_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=02:19:37:842&drc=00:03:27:387"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-01",
+                "pubLeg": "XIII",
+                "pubNr": "46",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide; Recomenda ao Governo a requalificação urgente da Escola Secundária da Portela (Arco-Íris), no concelho de Loures; Recomenda ao Governo a requalificação urgente da Escola EB 2,3 Gaspar Correia, no concelho de Loures.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13185",
+    "PetAssunto": "Solicitam a realização urgente de obras estruturais no Agrupamento de Escolas da Portela e Moscavide.",
+    "PetDataEntrada": "2018-04-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13185",
+    "PetLeg": "XIII",
+    "PetNr": "501",
+    "PetNrAssinaturas": "4505",
+    "PetNrAssinaturasInicial": "3415",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2566",
+        "obs": null,
+        "pag": [
+          "35-41"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-02-01",
+        "pubLeg": "XIII",
+        "pubNr": "46",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/046/2019-02-01/35?pgs=35-41&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "821127",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-09",
+        "pubLeg": "XIII",
+        "pubNr": "46",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/046/2018-05-09/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
