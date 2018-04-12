@@ -6,7 +6,7 @@
 
 2 - Nos campos de treino de caça pode ser autorizada a formação ou avaliação de indivíduos inscritos para exame de carta de caçador, quando inseridas em curso aprovado pela DGRF.
 
-3 - Nos campos de treino de caça são permitidas competições desportivas envolvendo a utilização de espécies cinegéticas criadas em cativeiro quando realizadas sob controlo das competentes confederações, federações ou associações e no estrito cumprimento dos respectivos regulamentos.
+3 - Nos campos de treino de caça são permitidas competições de caráter venatório realizadas sob controlo das competentes confederações, federações ou associações e no estrito cumprimento dos respetivos regulamentos.
 
 4 - Para fins didácticos ou científicos, a DGRF pode constituir campos de treino de caça, bem como ser autorizada a sua instalação a estabelecimentos de ensino.
 
@@ -18,4 +18,4 @@
 
 8 - Nas largadas é permitida a utilização de pombos.
 
-9 - A instalação de campos de treino de caça em áreas classificadas carece de parecer favorável do ICN.
+9 - (Revogado.)

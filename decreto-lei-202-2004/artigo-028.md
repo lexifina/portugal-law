@@ -8,8 +8,10 @@ a) Sejam titulares de direitos de uso e fruição nos termos legais, quando as f
 
 b) Não tenham estabelecido acordos com a entidade gestora.
 
-2 - A exclusão de terrenos de ZCM pode ainda ocorrer a pedido da respectiva entidade gestora ou por razões de interesse público.
+2 - Sempre que a exclusão de terrenos a que se refere o número anterior seja para integração em outra zona de caça já existente ou a criar, o pedido de exclusão pode ser apresentado pela entidade requerente da anexação ou da criação da zona de caça, sendo, para o efeito, bastante a apresentação do respetivo acordo celebrado com o titular de direitos de uso e fruição que incluam a gestão cinegética.
 
-3 - A exclusão dos terrenos produz efeitos na data de entrada em vigor do despacho que redefine os limites da zona de caça na qual os terrenos referidos no número anterior se encontravam integrados.
+3 - A exclusão de terrenos de ZCM pode ainda ocorrer a pedido da respectiva entidade gestora ou por razões de interesse público.
 
-4 - No caso de alteração dos titulares de direitos sobre os prédios, havendo acordo com o transmitente, não há lugar à exclusão de terrenos até ao termo da transferência de gestão.
+4 - A exclusão dos terrenos produz efeitos na data de entrada em vigor do despacho que redefine os limites da zona de caça na qual os terrenos referidos no número anterior se encontravam integrados.
+
+5 - No caso de alteração dos titulares de direitos sobre os prédios, havendo acordo com o transmitente, não há lugar à exclusão de terrenos até ao termo da transferência de gestão.

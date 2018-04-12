@@ -12,11 +12,11 @@
 
 3 - Exceptua-se do disposto no número anterior:
 
-a) O transporte, o comércio e a exposição para venda efectuados ao abrigo do Decreto-Lei n.º 44/96, de 10 de Maio, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 481/99, de 11 de Setembro, bem como de espécies produzidas em cativeiro, desde que devidamente marcadas;
+a) O transporte, o comércio e a exposição para venda efetuados ao abrigo da legislação em vigor;
 
 b) O transporte, pelo próprio caçador, de exemplares mortos de espécies cinegéticas em países comunitários ou em países terceiros, quando acompanhados de documento comprovativo da sua origem.
 
-4 - Os exemplares mortos no exercício da caça podem estar sujeitos a marcação, nos termos a definir em portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+4 - Os exemplares mortos no exercício da caça, bem como em ações de correção de densidade de populações cinegéticas, podem ser sujeitos a marcação, nos termos a definir por portaria do membro do Governo responsável pela área das florestas.
 
 5 - Os quantitativos de exemplares de espécies cinegéticas a transportar diariamente por cada caçador durante os respectivos períodos venatórios não podem ser superiores aos limites diários de abate fixados na portaria a que se refere o n.º 2 do artigo 3.º
 

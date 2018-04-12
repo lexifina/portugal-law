@@ -12,7 +12,7 @@ c) De batida - aquele em que o caçador aguarda, para capturar, as espécies cin
 
 d) Com furão - aquele em que o caçador se coloca à espera para capturar coelhos-bravos com auxílio de furão;
 
-e) A corricão - aquele em que o caçador se desloca a pé ou a cavalo para capturar espécies cinegéticas apenas com o auxílio de cães de caça e com ou sem pau;
+e) A corricão - aquele em que o caçador se desloca a pé ou a cavalo para capturar espécies cinegéticas apenas com o auxílio de cães de caça, conduzidos pelo próprio ou por auxiliar, e com ou sem pau;
 
 f) De cetraria - aquele em que o caçador, para capturar espécies cinegéticas utiliza aves de presa para esse fim adestradas, com ou sem auxílio de cães de caça;
 

@@ -12,7 +12,7 @@
 
 3 - A não renovação das concessões não confere aos que tinham a qualidade de concessionários o direito a qualquer indemnização.
 
-4 - Sempre que se verifique exclusão de prédios de uma zona de caça ou a concessão não reúna as condições que permitam a sua renovação automática, o concessionário deve apresentar requerimento dirigido ao membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, junto da DGRF, no prazo que decorre entre 15 e 9 meses em relação ao termo da concessão.
+4 - Sempre que se verifique exclusão de prédios de uma zona de caça ou a concessão não reúna as condições que permitam a sua renovação automática, o concessionário deve apresentar requerimento dirigido ao membro do Governo responsável pela área das florestas, junto do ICNF, I. P., no prazo que decorre entre 12 e 6 meses em relação ao termo da concessão.
 
 5 - O requerimento de renovação de concessão pode entrar nos serviços nos três meses seguintes ao termo do prazo previsto no número anterior, ou até ao termo da concessão mediante o pagamento de taxas a fixar por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
 

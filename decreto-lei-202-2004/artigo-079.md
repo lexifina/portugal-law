@@ -20,6 +20,6 @@ d) Cartuchos carregados com múltiplos projéteis de chumbo, nas zonas húmidas 
 
 5 - Fora do exercício da caça ou de actividades de carácter venatório apenas é permitido o transporte de armas de fogo legalmente classificadas como de caça quando descarregadas e acondicionadas em estojo ou bolsa.
 
-6 - O disposto no número anterior não é aplicável às deslocações entre locais de espera, desde que a distância entre eles não exceda 100 m.
+6 - Excetuam-se do disposto no número anterior as deslocações entre locais de espera distanciados de menos de 100 m e, no que respeita ao acondicionamento em estojo ou bolsa e cadeado, as deslocações dos caçadores dentro de uma zona de caça.
 
 7 - Exceptua-se do disposto na alínea b) do n.º 3 a caça às raposas e saca-rabos, durante as montarias e batidas de caça maior realizadas em terreno ordenado, em que é permitido o uso de bala.

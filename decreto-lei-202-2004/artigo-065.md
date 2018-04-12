@@ -20,4 +20,6 @@ g) Quando menor, a autorização escrita da pessoa que legalmente o represente e
 
 h) O registo nacional CITES, regulado na Portaria n.º 7/2010, de 5 de janeiro, quando é utilizada ave de presa no exercício da caça.
 
+i) Aquando do exercício da caça em ZCN ou ZCM, comprovativo da respetiva autorização.
+
 2 - Os documentos previstos na alínea d) do número anterior podem, no caso de estrangeiros e de portugueses não residentes em território português, bem como de membros do corpo diplomático e consular acreditados em Portugal, ser substituídos por outros que legitimem o uso e porte da arma de que sejam portadores.

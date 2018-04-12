@@ -20,7 +20,7 @@ e) Emissão de segunda via de carta de caçador, por deterioração, extravio, a
 
 f) Atribuição de licenças de caça;
 
-g) Atribuição das autorizações, com exceção de centros de recuperação de animais, a que se refere o n.º 4 do artigo 107.º
+g) Registo de cães de matilhas.
 
 2 - Os montantes das taxas e os respetivos regimes de liquidação e pagamento, são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e das florestas.
 
