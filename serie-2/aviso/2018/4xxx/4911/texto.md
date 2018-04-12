@@ -1,0 +1,21 @@
+Aviso n.º 4911/2018
+Reabertura do procedimento de revisão do Plano Diretor Municipal de Loulé
+Vítor Manuel Gonçalves Aleixo, Presidente da Câmara Municipal de Loulé, nos termos do disposto no n.º 3 do artigo 119.º, conjugado com o n.º 1 do artigo 76.º, o n.º 2 do artigo 88.º e a alínea c) do n.º 4 do artigo 191.º, todos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na redação conferida pelo Decreto-Lei n.º 80/2015 de 14 de maio, torna público que a Câmara Municipal, na reunião de 28 de março de 2018 [Proposta n.º 606/2018 DP], deliberou aprovar a reabertura do procedimento de revisão do Plano Diretor Municipal de Loulé, fixando um prazo de 28 (vinte e oito) meses para a conclusão do procedimento de revisão, no sentido de adequar este procedimento às sucessivas alterações legislativas ocorridas, aceitando como válidas as etapas realizadas no anterior procedimento de revisão do PDM.
+Neste contexto e atento ao princípio do aproveitamento dos atos administrativos praticados, foi deliberado utilizar o conjunto de conteúdos documentais e materiais já produzidos no procedimento anterior, por se considerar o interesse público da sua utilização, os meios técnicos e humanos disponíveis e os prazos legalmente definidos para efeitos de tramitação deste procedimento de revisão do PDM.
+Torna-se, ainda, público que foi deliberado a abertura de um período de participação pública de 15 (quinze) dias úteis, contados a partir da publicação do presente Aviso no Diário da República, nos termos do previsto no n.º 3 do artigo 119.º, conjugado como o n.º 1 do artigo 76.º e com o n.º 2 do artigo 88.º, todos do RJIGT.
+Quaisquer reclamações e sugestões, observações e pedidos de esclarecimentos deverão ser dirigidos, por escrito (preferencialmente com recurso à minuta disponível para o efeito), ao Presidente da Câmara Municipal de Loulé, Praça da República, 8104-001 Loulé, pelo correio ou através do endereço eletrónico cmloule@cm-loule.pt, com indicação expressa em "assunto" de "Reabertura do Procedimento de Revisão do Plano Diretor Municipal de Loulé" e com a identificação e morada de contato do signatário.
+Torna-se, por último, público que o teor da deliberação de Câmara encontra-se disponível para consulta nos seguintes locais:
+Paços do Concelho;
+Juntas de Freguesia do Concelho;
+Sítio da Internet da Câmara Municipal: http://www.cm-loule.pt/ em Serviços Municipais/ Planeamento, Urbanismo e Reabilitação Urbana/ Planeamento e Ordenamento do Território/ Consultas Públicas
+29 de março de 2018. - O Presidente da Câmara Municipal, Vitor Aleixo.
+Deliberação
+Deliberado, por unanimidade:
+a) Aprovar a reabertura do procedimento de revisão do Plano Diretor Municipal de Loulé, fixando um prazo de 28 meses para a conclusão do procedimento de revisão, no sentido de adequar este procedimento às sucessivas alterações legislativas ocorridas, aceitando como válidas as etapas realizadas no anterior procedimento de revisão do PDM e, atento ao princípio do aproveitamento dos atos administrativos praticados, utilizar o conjunto de conteúdos documentais e materiais já produzidos no procedimento anterior, por se considerar o interesse público da sua utilização, os meios técnicos e humanos disponíveis e os prazos legalmente definidos para efeitos de tramitação deste procedimento de revisão do PDM.
+b) Determinar a abertura do período de participação pública da reabertura do procedimento de revisão do Plano Diretor Municipal de Loulé, por um período de 15 dias úteis, que terá início após a publicação do Aviso no Diário da República, nos termos do n.º 3 do artigo 119.º, conjugado como o n.º 1 do artigo 76.º e com o n.º 2 do artigo 88.º, todos do RJIGT;
+c) Publicitar a deliberação no Diário da República e proceder à sua divulgação na comunicação social e no sítio eletrónico do Município, nos termos do n.º 3 do artigo 119.º, conjugado como o n.º 1 do artigo 76.º e a alínea c) do n.º 4 do artigo 191.º, todos do RJIGT;
+d) Dar conhecimento do teor da deliberação à Assembleia Municipal de Loulé;
+e) Dar conhecimento do teor da deliberação às Juntas de Freguesia;
+f) Dar conhecimento do teor da deliberação à Comissão de Coordenação e Desenvolvimento Regional do Algarve (CCDR Algarve).
+29 de março de 2018. - O Presidente da Câmara Municipal, Vítor Aleixo.
+611247899
