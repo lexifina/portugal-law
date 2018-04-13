@@ -1,0 +1,504 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "75",
+    "id": "41320",
+    "titulo": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2018-04-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13020",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2018-04-13",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40691",
+        "leg": "XIII",
+        "nr": "317",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2490",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-14",
+            "pubLeg": "XIII",
+            "pubNr": "72",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2490",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-14",
+            "pubLeg": "XIII",
+            "pubNr": "72",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40-45&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Assegura o direito à Autodeterminação de Género"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "40397",
+        "leg": "XIII",
+        "nr": "242",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2490",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-14",
+            "pubLeg": "XIII",
+            "pubNr": "72",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40-45&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2490",
+            "obs": null,
+            "pag": [
+              "40-45"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-04-14",
+            "pubLeg": "XIII",
+            "pubNr": "72",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40-45&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Reconhece o direito à autodeterminação de género"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-04-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:31:53:907&drc=00:01:41:547"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:33:35:454&drc=00:01:55:798"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:35:31:252&drc=00:01:36:511"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4196",
+                "nome": "Sandra Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:37:07:763&drc=00:02:48:192"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/41?pgs=41&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5749",
+                "nome": "Sandra Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:39:55:956&drc=00:03:13:104"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/42?pgs=42-44&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:06",
+            "horaTermo": "12:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_04_13_10_00_00_clean_14_plenario&url=l13/sl3/a2018/m04/&tI=02:43:09:061&drc=00:03:54:284"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "224855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-04-14",
+                "pubLeg": "XIII",
+                "pubNr": "72",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o direito à autodeterminação da identidade de género e expressão de género e o direito à proteção das caraterísticas sexuais de cada pessoa; Reconhece o direito à autodeterminação de género e Assegura o direito à Autodeterminação de Género.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "337502",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "813788",
+        "obs": null,
+        "pag": [
+          "38-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-04-14",
+        "pubLeg": "XIII",
+        "pubNr": "72",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/072/2018-04-14/38?pgs=38&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2018-04-13",
+        "descricao": "Texto de substituição apresentado pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo à Proposta de Lei n.º 75/XIII/3.ª (GOV), Projetos de Lei n.ºs 242/XIII/1.ª (BE) e 317/XIII/2.ª (PAN)",
+        "detalhe": "A Favor: <I>PS</I>, <I> BE</I>, <I> PEV</I>, <I> PAN</I>, <I> Teresa Leal Coelho (PSD)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>",
+        "id": "79154",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "72",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
