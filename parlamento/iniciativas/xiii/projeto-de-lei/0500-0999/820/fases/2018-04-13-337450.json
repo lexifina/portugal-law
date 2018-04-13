@@ -1,0 +1,220 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "820",
+    "id": "42405",
+    "titulo": "Cria o Observatório Técnico Independente para análise, acompanhamento e avaliação dos incêndios florestais e rurais que ocorram no território nacional"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2018-04-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "42798",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2018-06-06",
+            "id": "108915",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-04-13",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-04-13",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ANMP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a686a596a41324e6a4d745a4456684e6930304f4467354c546b324f4745744f475a6b4d6a64684e5451784e7a52694c6e426b5a673d3d&fich=f8cb0663-d5a6-4889-968a-8fd27a54174b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - CAP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a526d4e6a5a6b5a6a6b745a5449354e6930304e6a426b4c5749794e6a67744e6d526c5a4452684f5745304f4755344c6e426b5a673d3d&fich=c4f66df9-e296-460d-b268-6ded4a9a48e8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-12",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - EMISGIFR",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f54466d5a54466a4f47557459544e685a5330304d6a517a4c546778595445744f444d304f575a6a4d6d4e694d4746694c6e426b5a673d3d&fich=91fe1c8e-a3ae-4243-81a1-8349fc2cb0ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-07",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - ICNF",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593249334e54673359546b745a446b7a5a4330305a5467794c546c6b4f5451744d6a426c5a6d4e6d5a57566c4e4459334c6e426b5a673d3d&fich=cb7587a9-d93d-4e82-9d94-20efcfeee467.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - Infraestruturas de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f475134597a49335a5745744d6d5978595330304f4746684c5745774e4463744e44526c5a5456685a6a55334d7a41794c6e426b5a673d3d&fich=8d8c27ea-2f1a-48aa-a047-44ee5af57302.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - REN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a4e6d4d6d497a4e7a59744d5445794f533030595752694c5467334e544d745a4755354f4445774e44417a597a49784c6e426b5a673d3d&fich=b3f2b376-1129-4adb-8753-de9810403c21.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-06",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo - UMVI",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a41324f575930595451745a6a466d4f4330305a6d4d354c546869595449744e7a6b334d6d4e68597a63794e6d49784c6e426b5a673d3d&fich=f069f4a4-f1f8-4fc9-8ba2-7972cac726b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-17",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Guião da votação na especialidade_PJL 820/XIII/3ª (PSD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a56694e6d52684e574d745a4468684f4330304d6d5a684c5749314e5745744f5749784d4745784e47457a596a45774c6e426b5a673d3d&fich=65b6da5c-d8a8-42fa-b55a-9b10a14a3b10.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-28",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do PS sobre o PJL 820/XIII/3ª (PSD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5445794e3251354f574d744d3259314d4330304e7a63344c546c6a595449744d544133596a566b4e7a6c68596d51354c6e426b5a673d3d&fich=9127d99c-3f50-4778-9ca2-107b5d79abd9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração do PSD sobre o PJL 820/XIII/3ª (PSD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a5a6a59545a6d4e575974595445314e7930305a44686b4c574934593249745a4749324d6a5a6a59544d344e5446694c6e426b5a673d3d&fich=f6ca6f5f-a157-4d8d-b8cb-db626ca3851b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da Discussão e votação na especialidade_PJL 820/XIII/3ª (PSD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f57526a596d55784e6a59744d54646d4e7930304d7a49794c5467784d324d744d546868595455315a6d46694d4445774c6e426b5a673d3d&fich=9dcbe166-17f7-4322-813c-18aa55fab010.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-07-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final_PJL 820/XIII/3ª (PSD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338335130464e4c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a637a4e546b314d4463744e474d334d6930304e4759344c546b784d4751744e32566a4f57526a5a574a6b5a54426c4c6e426b5a673d3d&fich=c7359507-4c72-44f8-910d-7ec9dcebde0e.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4530",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Agricultura e Mar",
+        "Numero": "4530",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "66-78"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-07-17",
+            "pubLeg": "XIII",
+            "pubNr": "143",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/143/2018-07-17/66?pgs=66-78&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade e texto final",
+            "pag": [
+              "66-78"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-07-17",
+            "pubLeg": "XIII",
+            "pubNr": "143",
+            "pubSL": "3",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/03/143/2018-07-17/66?pgs=66-78&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2018-07-26",
+            "numeroOficio": "Email",
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-07-12",
+            "descricao": null,
+            "detalhe": null,
+            "id": "80757",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "153",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-04-13",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "337450",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
