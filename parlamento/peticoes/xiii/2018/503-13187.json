@@ -1,0 +1,442 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13187",
+  "numero": "503",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-09-26",
+            "entidades": null,
+            "id": "110325",
+            "tipo": null,
+            "titulo": "Audição em 2018-09-26 com Audição de Peticionários sobre a Petição n.º 503 XIII (3.ª), Audição dos Peticionários da Petição n.º 507/XIII (3.ª)"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-05-30",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.   DA  SAÚDE"
+            ],
+            "nrOficio": "56/CS/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-02-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-16",
+        "DataArquivo": "2019-02-13",
+        "DataBaixaComissao": "2018-04-30",
+        "DataEnvioPAR": "2019-02-13",
+        "DataReaberta": "2018-05-16",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e7a42694e474979596d4d74597a6b304d7930304e6a63314c546b305a5451744d44497a5a6a597a4d6a5a6a597a55304c6e426b5a673d3d&fich=70b4b2bc-c943-4675-94e4-023f6326cc54.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-02-13",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e474e694e5455775a475174597a45785a6930304d4751304c5467774e7a6b744e4464694e7a51314d5756694f444d354c6e426b5a673d3d&fich=4cb550dd-c11f-40d4-8079-47b7451eb839.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-16",
+            "gp": "PSD",
+            "id": "4330",
+            "motivoCessacao": null,
+            "nome": "Ana Oliveira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-15",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d5a6d466a4e446c6b4d6931695a4755334c545133596a5574596a646a4f5330785a5455334f57457a4d6a4a684e6a45756347526d&fich=ffac49d2-bde7-47b5-b7c9-1e579a322a61.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44003",
+      "44036",
+      "44047",
+      "44057"
+    ],
+    "Iniciativasoriginadas": [
+      "44003",
+      "44036",
+      "44047",
+      "44057"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:54:51:667&drc=00:03:58:221"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de doenças inflamatórias do intestino (Crohn e colite ulcerosa); Recomenda ao Governo que adote medidas que permitam melhorar as condições de vida e o acesso aos cuidados de saúde por parte de pessoas com doença inflamatória do intestino; Recomenda ao Governo a adoção de medidas que minimizem o impacto das doenças inflamatórias do intestino na vida destes doentes; Recomenda ao Governo a adoção de medidas que permitam aumentar a acessibilidade aos cuidados de saúde e melhorar a qualidade de vida das pessoas portadoras de doenças inflamatórias do intestino; Recomenda ao Governo o reforço das medidas de apoio aos doentes com doença inflamatória do intestino.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:58:49:889&drc=00:03:57:881"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de doenças inflamatórias do intestino (Crohn e colite ulcerosa); Recomenda ao Governo que adote medidas que permitam melhorar as condições de vida e o acesso aos cuidados de saúde por parte de pessoas com doença inflamatória do intestino; Recomenda ao Governo a adoção de medidas que minimizem o impacto das doenças inflamatórias do intestino na vida destes doentes; Recomenda ao Governo a adoção de medidas que permitam aumentar a acessibilidade aos cuidados de saúde e melhorar a qualidade de vida das pessoas portadoras de doenças inflamatórias do intestino; Recomenda ao Governo o reforço das medidas de apoio aos doentes com doença inflamatória do intestino.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=02:02:47:770&drc=00:03:38:927"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de doenças inflamatórias do intestino (Crohn e colite ulcerosa); Recomenda ao Governo que adote medidas que permitam melhorar as condições de vida e o acesso aos cuidados de saúde por parte de pessoas com doença inflamatória do intestino; Recomenda ao Governo a adoção de medidas que minimizem o impacto das doenças inflamatórias do intestino na vida destes doentes; Recomenda ao Governo a adoção de medidas que permitam aumentar a acessibilidade aos cuidados de saúde e melhorar a qualidade de vida das pessoas portadoras de doenças inflamatórias do intestino; Recomenda ao Governo o reforço das medidas de apoio aos doentes com doença inflamatória do intestino.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=02:06:26:698&drc=00:03:39:235"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de doenças inflamatórias do intestino (Crohn e colite ulcerosa); Recomenda ao Governo que adote medidas que permitam melhorar as condições de vida e o acesso aos cuidados de saúde por parte de pessoas com doença inflamatória do intestino; Recomenda ao Governo a adoção de medidas que minimizem o impacto das doenças inflamatórias do intestino na vida destes doentes; Recomenda ao Governo a adoção de medidas que permitam aumentar a acessibilidade aos cuidados de saúde e melhorar a qualidade de vida das pessoas portadoras de doenças inflamatórias do intestino; Recomenda ao Governo o reforço das medidas de apoio aos doentes com doença inflamatória do intestino.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=02:10:05:934&drc=00:03:56:157"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas que permitam melhorar as condições para portadores de doenças inflamatórias do intestino (Crohn e colite ulcerosa); Recomenda ao Governo que adote medidas que permitam melhorar as condições de vida e o acesso aos cuidados de saúde por parte de pessoas com doença inflamatória do intestino; Recomenda ao Governo a adoção de medidas que minimizem o impacto das doenças inflamatórias do intestino na vida destes doentes; Recomenda ao Governo a adoção de medidas que permitam aumentar a acessibilidade aos cuidados de saúde e melhorar a qualidade de vida das pessoas portadoras de doenças inflamatórias do intestino; Recomenda ao Governo o reforço das medidas de apoio aos doentes com doença inflamatória do intestino.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13187",
+    "PetAssunto": "Solicitam a adoção de medidas que permitam melhorar as Condições para portadores de Doenças Inflamatórias do Intestino (Crohn e Colite Ulcerosa)",
+    "PetDataEntrada": "2018-04-15",
+    "PeticoesAssociadas": null,
+    "PetId": "13187",
+    "PetLeg": "XIII",
+    "PetNr": "503",
+    "PetNrAssinaturas": "10714",
+    "PetNrAssinaturasInicial": "10529",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2617",
+        "obs": null,
+        "pag": [
+          "28-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-15",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/28?pgs=28-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "821761",
+        "obs": null,
+        "pag": [
+          "19-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-06-04",
+        "pubLeg": "XIII",
+        "pubNr": "49",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/049/2018-06-04/19?pgs=19-20&org=PLC"
+      }
+    ]
+  }
+}
