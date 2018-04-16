@@ -1,0 +1,12 @@
+Aviso n.º 5056/2018
+Alteração do Plano Diretor Municipal de Lamego no âmbito do Regime Excecional de Regularização das Atividades Económicas
+Ângelo Manuel Mendes Moura, Presidente da Câmara Municipal de Lamego, torna público em cumprimento do disposto na alínea f) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), conjugado com o n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, Regime Excecional de Regularização das Atividades Económicas (RERAE) que, sob proposta da Câmara Municipal de Lamego, aprovada por unanimidade na sua reunião ordinária realizada em 26 de dezembro de 2017, a Assembleia Municipal de Lamego na sua sessão ordinária de 2 de fevereiro de 2018, deliberou aprovar por unanimidade a versão final da Alteração ao Regulamento do Plano Diretor Municipal de Lamego no âmbito do RERAE.
+Mais se torna público que, a alteração aprovada se materializará com a inclusão do artigo 78.º-A no Regulamento do Plano Diretor Municipal de Lamego.
+12 de fevereiro de 2018. - O Presidente da Câmara Municipal, Ângelo Manuel Mendes Moura.
+Deliberação
+José Rodrigues Lourenço, Presidente da Assembleia Municipal de Lamego, em cumprimento do disposto do n.º 1 do artigo 90.º do Decreto-Lei n.º 80/2015, de 14 de maio, Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), certifica que, na sessão ordinária realizada no dia 02 de fevereiro de 2018, a Assembleia Municipal de Lamego deliberou por unanimidade aprovar a alteração do Plano Diretor Municipal de Lamego no âmbito do Regime Excecional de Regularização das Atividades Económicas.
+Lamego, 12 de fevereiro de 2018. - O Presidente da Assembleia Municipal, José Rodrigues Lourenço.
+A alteração pretendida é a seguinte: Incluir o artigo 78.º-A no Regulamento do PDM "Regularizações no âmbito do RERAE", com a seguinte redação:
+«As operações urbanísticas que se enquadrem no regime extraordinário de regularização de atividades económicas e cujas atividades económicas tenham obtido decisão favorável ou favorável condicionada tomada em conferência decisória, podem ficar dispensadas do cumprimento, parcial ou integral, das prescrições do PDM que lhe sejam aplicáveis, nos termos definidos nas atas das conferências decisórias.»
+Lamego, 12 de fevereiro de 2018. - O Presidente da Câmara Municipal, Ângelo Manuel Mendes Moura.
+611200617
