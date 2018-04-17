@@ -1,0 +1,662 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13182",
+  "numero": "498",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-05-29",
+            "entidades": null,
+            "id": "108820",
+            "tipo": null,
+            "titulo": "Audição em 2018-05-29 com Professora - Maria Isabel da Cruz Rodrigues Abelheira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": "2018-05-22",
+            "entidades": [
+              "FENPROF - Federação Nacional dos Professores"
+            ],
+            "nrOficio": "133/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "134/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": "2018-05-23",
+            "entidades": [
+              "FENEI - Federação Nacional do Ensino e Investigação"
+            ],
+            "nrOficio": "135/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "SIPE - Sindicato Independente de Professores e Educadores"
+            ],
+            "nrOficio": "136/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": "2018-05-28",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "137/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "138/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "139/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "140/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "141/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-02",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "132/CEC/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2018-06-06",
+                "dataResposta": null,
+                "nrOficio": "169/CEC/2018",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-07-04",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-02",
+        "DataArquivo": "2018-07-04",
+        "DataBaixaComissao": "2018-04-19",
+        "DataEnvioPAR": "2018-07-04",
+        "DataReaberta": "2018-05-02",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-05-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5978597a566d5a4751354c5451794f5441744e445a6d596931684d4745334c5756684d444e6a4d574d305954566d4f4335775a47593d&fich=61c5fdd9-4290-46fb-a0a7-ea03c1c4a5f8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e684e4756694d6a426d4c5455305a6d4d744e44686a4e4331695a4749794c54497a4d47466a596a6b305a44457a4d5335775a47593d&fich=ca4eb20f-54fc-48c4-bdb2-230acb94d131.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59794d5459335a6a67314c54457a5a4467744e4467354d693035596a6b794c54686c4e32497a4f5464694e3249314d4335775a47593d&fich=62167f85-13d8-4892-9b92-8e7b397b7b50.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67324e444a6d4e474d324c5445354d474d744e47526d4d5331684f44426d4c5459324e4756684d5755305a546b354f5335775a47593d&fich=8642f4c6-190c-4df1-a80f-664ea1e4e999.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67334d32526a4f4446684c5755314d6a55744e44677a4d7930354d6d49354c544d775a5449785a474978595467324d4335775a47593d&fich=873dc81a-e525-4833-92b9-30e21db1a860.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51304e324d355954417a4c575132595455744e444d7a4f4330354d44526a4c574a6c4e7a4534597a4d334d44417a4d5335775a47593d&fich=447c9a03-d6a5-4338-904c-be718c370031.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a553059546c695a4459344c5467344d5445744e4759354d533034593249784c5745314e7a426a5a6d45344d7a63795a4335775a47593d&fich=54a9bd68-8811-4f91-8cb1-a570cfa8372d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245304e44466a4d7a4d324c545a6b595749744e474579597930344e6d46694c574933593251354e4449354f4441324d5335775a47593d&fich=a441c336-6dab-4a2c-86ab-b7cd94298061.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b355a5446694d325a6c4c544e6c4e7a41744e444133597930344e4449304c5449334e574a6c5a5749315a57457a4d4335775a47593d&fich=99e1b3fe-3e70-407c-8424-275beeb5ea30.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a526a4d7a59314d6d526c4c5441774d6d51744e44686b4e7931685a4455324c54597a4d57466a4d4467325a5449314e4335775a47593d&fich=4c3652de-002d-48d7-ad56-631ac086e254.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-06-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a694e444d35597a41774c5759784e6a4d744e444d345a6930344d4745324c574979596d4531596d4e6a4d4441314f5335775a47593d&fich=2b439c00-f163-438f-80a6-b2ba5bcc0059.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45794d4456694d544e6b4c57457a597a6b744e4759355a6930354d6a49344c57566859545269596a6c694f5459315a6935775a47593d&fich=1205b13d-a3c9-4f9f-9228-eaa4bb9b965f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-07-04",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526859325269595467784c544a6a59324d744e4452695a4331694e574d784c5749344d6d4a6a59324a6b4e474d34595335775a47593d&fich=dacdba81-2ccc-44bd-b5c1-b82bccbd4c8a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-05-30",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a52684e7a59784d4749324c57526c4e544d744e444d794d7931684f4449784c575977596a4e6b4f5451345a6a4d774d4335775a47593d&fich=4a7610b6-de53-4323-a821-f0b3d948f300.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b795a4441325a54566a4c5459344d6a6b744e44513259793034595449784c574d345a44637a4e6d566c4e546379595335775a47593d&fich=92d06e5c-6829-446c-8a21-c8d736ee572a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b334d3249324d7a4a6d4c5449774e6a55744e446c6d596930355a6a4d334c5749794d4749304d574977596d55354d4335775a47593d&fich=973b632f-2065-49fb-9f37-b20b41b0be90.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-02",
+            "gp": "PSD",
+            "id": "3919",
+            "motivoCessacao": null,
+            "nome": "Amadeu Soares Albergaria"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-01-18",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793835593251784d7a51345953307a5a6d45794c54526a4d5751744f44426b4d5331684d4446684d7a67774e7a646c4f5445756347526d&fich=9cd1348a-3fa2-4c1d-80d1-a01a38077e91.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:26:20:979&drc=00:03:37:565"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:29:58:545&drc=00:03:33:497"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:33:32:042&drc=00:04:57:520"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:38:29:563&drc=00:03:21:809"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:41:51:372&drc=00:04:15:099"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-01-19",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_01_18_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m01/&tI=01:46:06:472&drc=00:03:25:485"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-19",
+                "pubLeg": "XIII",
+                "pubNr": "41",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/28?pgs=28&org=PLC"
+              }
+            ],
+            "Sumario": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13182",
+    "PetAssunto": "Revisão do programa curricular da disciplina de Estudo do Meio do 1.º ciclo do ensino básico.",
+    "PetDataEntrada": "2018-04-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13182",
+    "PetLeg": "XIII",
+    "PetNr": "498",
+    "PetNrAssinaturas": "4472",
+    "PetNrAssinaturasInicial": "4382",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "686",
+        "obs": null,
+        "pag": [
+          "23-28"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-19",
+        "pubLeg": "XIII",
+        "pubNr": "41",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/041/2019-01-19/23?pgs=23-28&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "819338",
+        "obs": null,
+        "pag": [
+          "7-8"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-04",
+        "pubLeg": "XIII",
+        "pubNr": "44",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/044/2018-05-04/7?pgs=7-8&org=PLC"
+      }
+    ]
+  }
+}
