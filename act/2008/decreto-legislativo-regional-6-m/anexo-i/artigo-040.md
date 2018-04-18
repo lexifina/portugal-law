@@ -18,7 +18,7 @@ ii) 50 horas, nos restantes escalões da carreira docente.
 
 3 - A progressão aos 3.º, 5.º e 7.º escalões depende, além dos requisitos previstos no número anterior, do seguinte:
 
-a) Observação de aulas, no caso da progressão aos 3.º e 5.º escalões;
+a) (Revogada);
 
 b) Obtenção de vaga, no caso da progressão aos 5.º e 7.º escalões.
 
@@ -34,8 +34,8 @@ b) Obtenção de vaga, no caso da progressão aos 5.º e 7.º escalões.
 
 9 - A progressão ao escalão seguinte opera-se nos seguintes momentos:
 
-a) A progressão aos 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 10.º escalões opera-se na data em que o docente perfaz o tempo de serviço no escalão, desde que tenha cumprido os requisitos de avaliação do desempenho, incluindo observação de aulas, atividades educativas ou estratégias de intervenção quando obrigatório e formação contínua previstos nos números anteriores, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data;
+a) A progressão aos 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 10.º escalões opera-se na data em que o docente perfaz o tempo de serviço no escalão, desde que tenha cumprido os requisitos de avaliação do desempenho e realizado a formação contínua prevista na alínea c) do n.º 2, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data;
 
-b) A progressão aos 5.º e 7.º escalões opera-se na data em que o docente obteve vaga para progressão, desde que tenha cumprido os requisitos de avaliação do desempenho, incluindo observação de aulas, atividades educativas ou estratégias de intervenção quando obrigatório e formação contínua, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data.
+b) A progressão aos 5.º e 7.º escalões opera-se na data em que o docente obteve vaga para progressão, desde que tenha cumprido os requisitos de avaliação do desempenho e realizado a formação contínua prevista na alínea c) do n.º 2, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data.
 
 10 - A listagem dos docentes que progredirem de escalão é afixada semestralmente nas escolas.
