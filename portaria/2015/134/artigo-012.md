@@ -16,7 +16,7 @@ iv) Incidam em áreas onde o risco é reconhecido por entidade pública competen
 
 v) Obedeçam aos requisitos específicos integrados no POSF, e publicitado no portal do ICNF, I. P., em www.icnf.pt e no portal do PDR 2020, em www.pdr-2020.pt;
 
-vi) Apresentem um PGF, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF, e, nas restantes situações, o PEIF ou um plano de intervenção coerente em consonância com as orientações do POSF;
+vi) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho, e, nas restantes situações, o PEIF ou um plano de intervenção coerente e em consonância com as orientações do POSF;
 
 b) Agentes abióticos:
 
@@ -30,7 +30,7 @@ iv) Incidam em áreas classificadas como de média e muito alta perigosidade de 
 
 v) As ações estejam em consonância com as orientações aprovadas no âmbito dos PMDFCI, a validar pelo ICNF, I. P.;
 
-vi) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF e nas restantes situações, um plano de intervenção coerente e em consonância com as orientações do PMDFCI.
+vi) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho, e, nas restantes situações, um plano de intervenção coerente e em consonância com as orientações do PMDFCI.
 
 2 - A análise da coerência e consonância referida na subalínea v) das alíneas a) e b) do número anterior é realizada pelo ICNF, I. P.
 

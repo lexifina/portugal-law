@@ -2,11 +2,11 @@
 
 ### Cumulação dos Apoios
 
-1 - Os apoios previstos na presente portaria, bem como nos restantes apoios para a ação 8.1, «Silvicultura Sustentável», da Medida 8 «Proteção e Reabilitação dos Povoamentos Florestais» do PDR 2020 são cumuláveis entre si, desde que respeitem as seguintes condições:
+1 - Os apoios previstos na presente portaria, bem como nos restantes apoios para a ação 8.1, «Silvicultura Sustentável» da Medida 8, «Proteção e Reabilitação dos Povoamentos Florestais» do PDR 2020 são cumuláveis entre si, desde que respeitem as seguintes condições:
 
 a) Investimento elegível até ao limite de 2 milhões de euros por ZIF ou por baldio;
 
-b) Investimento elegível até ao limite de 2 milhões de euros, para entidades coletivas públicas e entidades coletivas de gestão florestal;
+b) Investimento elegível até ao limite de 2 milhões de euros, para entidades coletivas públicas e entidades coletivas de gestão florestal, por mata nacional e por perímetro florestal geridos pelo Instituto da Conservação da Natureza e das Florestas, I. P.;
 
 c) Investimento elegível até ao limite de 1 milhão de euros para os restantes beneficiários.
 

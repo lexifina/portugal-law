@@ -16,7 +16,9 @@ iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos,
 
 v) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
 
-vi) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF;
+vi) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho;
+
+vii) No caso das ações de arborização e rearborização localizadas em áreas integradas total ou parcialmente na RNAP ou RN2000, devem as mesmas encontrar-se previamente autorizadas ou com comunicação prévia válida, se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P., que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto;
 
 b) Agentes abióticos:
 
@@ -30,6 +32,8 @@ iv) Detenham reconhecimento formal por parte do ICNF, I. P., de que, pelo menos,
 
 v) Abranjam as espécies florestais previstas nos PROF, bem como outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
 
-vi) Apresentem PGF aprovado, ou comprovativo da sua entrega no ICNF, I. P., quando os investimentos incidam em explorações florestais com área igual ou superior à definida nos PROF.
+vi) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho;
+
+vii) No caso das ações de arborização e rearborização localizadas em áreas integradas total ou parcialmente na RNAP ou RN2000, devem as mesmas encontrar-se previamente autorizadas ou com comunicação prévia válida, se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P., que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto.
 
 2 - São excluídos os investimentos relativos a atividades agrícolas, incluindo pastagens em rede primária de faixas de gestão de combustível, localizados em superfícies que beneficiem de apoio agroambiental.
