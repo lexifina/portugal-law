@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 5323/2018
+Eng. José Júlio Henriques Norte, Presidente da Câmara Municipal de Mortágua, torna público nos termos e para efeitos das disposições conjugadas na alínea t), do n.º 1, do artigo 35.º e artigo 56.º, ambos do Anexo I da Lei n.º 75/2013, de 12 de setembro, e do artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Assembleia Municipal de Mortágua, em sessão ordinária realizada em 28 de fevereiro de 2018, aprovou, sob proposta da Câmara Municipal aprovada na Reunião de Câmara realizada a 7 de fevereiro de 2018, a prorrogação do período de vigência do Regulamento de "Incentivo à Natalidade e Apoio à Família no Concelho de Mortágua", por meio da alteração ao n.º 1, do artigo 2.º, que passa a ter a seguinte redação:
+"1 - O presente regulamento aplica-se às crianças nascidas ou adotadas entre 1 de janeiro de 2014 e 31 de dezembro de 2021."
+5 de março de 2018. - O Presidente da Câmara Municipal, Eng. José Júlio Henriques Norte.
+311266658
