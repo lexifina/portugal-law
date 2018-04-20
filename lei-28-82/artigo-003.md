@@ -18,6 +18,6 @@ f) Declarar que uma qualquer organização perfilha a ideologia fascista e decre
 
 g) Verificar a constitucionalidade e a legalidade das propostas de referendo nacional, regional e local;
 
-h) Apreciar a regularidade e a legalidade das contas dos partidos políticos.
+h) Apreciar, em sede de recurso, as decisões da Entidade das Contas e Financiamentos Políticos (ECFP) em matéria de regularidade e legalidade das contas dos partidos políticos e das campanhas eleitorais.
 
 2 - São publicadas na 2.ª série do Diário da República as demais decisões do Tribunal Constitucional, salvo as de natureza meramente interlocutória ou simplesmente repetitivas de outras anteriores.

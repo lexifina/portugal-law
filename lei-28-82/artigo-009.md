@@ -12,6 +12,6 @@ c) Proceder às anotações referentes a partidos políticos, coligações ou fr
 
 d) Julgar as acções de impugnação de eleições e de deliberações de órgãos de partidos políticos, que, nos termos da lei, sejam recorríveis;
 
-e) Apreciar a regularidade e a legalidade das contas dos partidos políticos, nelas incluindo as dos grupos parlamentares, de Deputado único representante de um partido e de Deputados não inscritos em grupo parlamentar ou de deputados independentes na Assembleia da República e nas Assembleias Legislativas das regiões autónomas, e das campanhas eleitorais, nos termos da lei, e aplicar as correspondentes sanções;
+e) Apreciar, em sede de recurso de plena jurisdição, em plenário, as decisões da ECFP em matéria de regularidade e legalidade das contas dos partidos políticos, nelas incluindo as dos grupos parlamentares, de deputado único representante de um partido e de deputados não inscritos em grupo parlamentar ou de deputados independentes, na Assembleia da República e nas Assembleias Legislativas das Regiões Autónomas, e das campanhas eleitorais, nos termos da lei, incluindo as decisões de aplicação de coimas;
 
 f) Ordenar a extinção de partidos e de coligações de partidos, nos termos da lei.
