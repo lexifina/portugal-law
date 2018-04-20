@@ -10,7 +10,7 @@ b) Não apresentação de candidaturas durante um período de seis anos consecut
 
 c) Não comunicação de lista actualizada dos titulares dos órgãos nacionais por um período superior a seis anos;
 
-d) Não apresentação de contas em três anos consecutivos;
+d) Não apresentação de contas em três anos consecutivos ou cinco interpolados num período de 10 anos;
 
 e) Impossibilidade de citar ou notificar, de forma reiterada, na pessoa de qualquer dos titulares dos seus órgãos nacionais, conforme a anotação constante do registo existente no Tribunal.
 
