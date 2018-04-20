@@ -10,4 +10,6 @@ a) A coligação de partidos candidatos a qualquer acto eleitoral;
 
 b) Os grupos de cidadãos eleitores candidatos a qualquer acto eleitoral.
 
-3 - O número de identificação fiscal próprio referido no número anterior é atribuído, uma vez admitida a candidatura, no início de cada campanha eleitoral e expira com a apresentação das respectivas contas ao Tribunal Constitucional.
+c) Os candidatos a Presidente da República.
+
+3 - O número de identificação fiscal próprio referido no número anterior é atribuído, uma vez admitida a candidatura, no início de cada campanha eleitoral e expira com a apresentação das respetivas contas à Entidade das Contas e Financiamentos Políticos.

@@ -4,7 +4,7 @@
 
 1 - Os partidos políticos devem possuir contabilidade organizada, de modo que seja possível conhecer a sua situação financeira e patrimonial e verificar o cumprimento das obrigações previstas na presente lei.
 
-2 - A organização contabilística dos partidos rege-se pelos princípios aplicáveis ao Plano Oficial de Contas, com as devidas adaptações.
+2 - A organização contabilística dos partidos rege-se pelos princípios aplicáveis ao Sistema de Normalização Contabilística (SNC), com as adaptações e simplificações adequadas à natureza dos partidos políticos.
 
 3 - São requisitos especiais do regime contabilístico próprio:
 
@@ -54,6 +54,6 @@ c) O património imobiliário dos partidos, sem prejuízo do disposto na alínea
 
 8 - São igualmente anexas às contas nacionais dos partidos, para efeitos da apreciação e fiscalização a que se referem os artigos 23.º e seguintes, as contas dos grupos parlamentares e do deputado único representante de partido da Assembleia da República.
 
-9 - As contas das estruturas regionais referidas no n.º 4 devem incluir, em anexo, para efeitos de apreciação e fiscalização da totalidade das suas receitas e despesas a que se referem os artigos 23.º e seguintes, as relativas às subvenções auferidas diretamente, ou por intermédio dos grupos parlamentares e do deputado único representante de um partido, das Assembleias Legislativas das regiões autónomas.
+9 - Para os efeitos previstos no número anterior, as contas das estruturas regionais referidas no n.º 4 anexam as contas dos grupos parlamentares e do Deputado único representante de partido da Assembleia Legislativa da região autónoma, assim discriminando, quanto aos apoios pecuniários para a atividade política, parlamentar e partidária, atribuídos por essa Assembleia Legislativa, os montantes utilizados pelos partidos e os montantes utilizados pelos grupos parlamentares ou Deputado único representante de partido.
 
-10 - Para efeitos da necessária apreciação e fiscalização, a que se referem os artigos 23.º e seguintes, com as necessárias adaptações, os Deputados não inscritos em grupo parlamentar da Assembleia da República e os deputados independentes das Assembleias Legislativas das regiões autónomas apresentam, ao Tribunal Constitucional, as contas relativas às subvenções auferidas, nos termos da presente lei.
+10 - Para efeitos da necessária apreciação e fiscalização, a que se referem os artigos 23.º e seguintes, com as necessárias adaptações, os deputados não inscritos em grupo parlamentar da Assembleia da República e os deputados independentes das Assembleias Legislativas das Regiões Autónomas apresentam, à Entidade das Contas e Financiamentos Políticos, as contas relativas às subvenções auferidas, nos termos da presente lei.

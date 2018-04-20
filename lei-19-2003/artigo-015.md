@@ -12,6 +12,6 @@
 
 3 - Às contas previstas nos números anteriores correspondem contas bancárias especificamente constituídas para o efeito, onde são depositadas as respectivas receitas e movimentadas todas as despesas relativas à campanha.
 
-4 - Até ao 5.º dia posterior à publicação do decreto que marca a data das eleições, os candidatos, partidos, coligações e grupos de cidadãos eleitores apresentam ao Tribunal Constitucional o seu orçamento de campanha, em conformidade com as disposições da presente lei.
+4 - Até ao último dia do prazo para a entrega das candidaturas, os candidatos, partidos, coligações e grupos de cidadãos eleitores apresentam à Entidade das Contas e Financiamentos Políticos o seu orçamento de campanha, em conformidade com as disposições da presente lei, em suporte informático.
 
 5 - Os orçamentos de campanha são disponibilizados no sítio oficial do Tribunal Constitucional na Internet a partir do dia seguinte ao da sua apresentação.

@@ -28,4 +28,4 @@ e) 150 vezes o valor do IAS nos municípios com 10 000 ou menos eleitores.
 
 4 - Os limites previstos nos números anteriores aplicam-se aos partidos políticos, coligações ou grupos de cidadãos eleitores proponentes, de acordo com o determinado em cada lei eleitoral.
 
-5 - Para determinação dos valores referenciados no n.º 1, devem os partidos políticos ou coligações declarar ao Tribunal Constitucional o número de candidatos apresentados relativamente a cada acto eleitoral.
+5 - Para determinação dos valores referenciados no n.º 1, devem os partidos políticos ou coligações declarar à Entidade das Contas e Financiamentos Políticos o número de candidatos apresentados relativamente a cada ato eleitoral.
