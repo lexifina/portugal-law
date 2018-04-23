@@ -1,0 +1,72 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "105426",
+  "tipo": "Pergunta",
+  "numero": "1958",
+  "data_registo": "2018-04-23",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "População de Cabra-montesa",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "6037",
+        "nome": "Patrícia Fonseca"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "2300",
+        "nome": "Ilda Araújo Novo"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1450",
+        "nome": "Helder Amaral"
+      }
+    ],
+    "DataEnvio": "2018-04-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2018-04-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2018-05-04",
+            "docRemetida": null,
+            "entidade": "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e54544339695a6a4131597a41354e43307a4d6a49304c545177595745745954566a4d79316d5a574d334d6a55304e32466c4e474d756347526d&fich=bf05c094-3224-40aa-a5c3-fec72547ae4c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2018-04-23",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4e545443396c4e7a42684f444d354e69316a5a44566a4c5452684f5755745954597a4d793030597a4e6a596a51314f446c6a4d3249756347526d&fich=e70a8396-cd5c-4a9e-a633-4c3cb4589c3b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "105426",
+    "Legislatura": "XIII",
+    "Nr": "1958",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Pergunta"
+  }
+}
