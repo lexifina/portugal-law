@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "838",
+    "id": "42476",
+    "titulo": "Define o regime e as condições em que a morte medicamente assistida não é punível"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2018-04-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "42880",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-04-26",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-04-24",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-06-28",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Nacional de Ética para as Ciências da Vida",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d453559574d304d6d55744e44566c4d6930304e3249794c5745774e6a4d74597a67334d4467325a4755304e7a526d4c6e426b5a673d3d&fich=fa9ac42e-45e2-47b2-a063-c87086de474f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-24",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão de Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d45354d7a457a4e6d51745a6d566d4d4330304d5751334c574a6a597a59744d6a4d354e47526c4d7a55314d4459344c6e426b5a673d3d&fich=ba93136d-fef0-41d7-bcc6-2394de355068.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a46684e7a517a4d6d4d744d6a63314d4330304e6a59794c546b7a5a5441745a4759355a6a5a6d4f574e6b593251774c6e426b5a673d3d&fich=71a7432c-2750-4662-93e0-df9f6f9cdcd0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Psicólogos Portugueses",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a444d305a6d49344f4449744d4459314d693030595755354c54686c5a6a49744d7a417a4e6a566a595451355a6d49334c6e426b5a673d3d&fich=d34fb882-0652-4ae9-8ef2-30365ca49fb7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d47453459575a6c4e6a6b744d7a59305a6930305a575a6d4c546b78595449744e474933595751795a4751354e5759784c6e426b5a673d3d&fich=0a8afe69-364f-4eff-91a2-4b7ad2dd95f1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-05-23",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Notas Técnicas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659544d315a6a63794f546b74596a686a595330304d6a4e6d4c57466d4f5751744d6d4a6c593256694e475a6b4e7a4e6d4c6e426b5a673d3d&fich=a35f7299-b8ca-423f-af9d-2beceb4fd73f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2018-05-22"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Ética para as Ciências da Vida - CNECV em 2018-06-28"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos Portugueses em 2018-05-23"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2018-04-26"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Nacional de Ética para as Ciências da Vida - CNECV em 2018-04-26"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Psicólogos Portugueses em 2018-04-26"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "39-78"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-21",
+            "pubLeg": "XIII",
+            "pubNr": "118",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/118/2018/0/pt/html"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "39-78"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-21",
+            "pubLeg": "XIII",
+            "pubNr": "118",
+            "pubSL": "3",
+            "pubTipo": "DR I série",
+            "pubTp": "M",
+            "supl": null,
+            "URLDiario": "http://data.dre.pt/eli/diario/1/118/2018/0/pt/html"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "4327",
+            "motivoCessacao": null,
+            "nome": "Carlos Abreu Amorim"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-05-23",
+            "dataRemessa": "2018-05-23",
+            "numeroOficio": "517/XIII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-05-23",
+            "descricao": null,
+            "detalhe": null,
+            "id": "79653",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "193",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-04-23",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Conexão com a 9.ª Comissão",
+    "OevId": "337928",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
