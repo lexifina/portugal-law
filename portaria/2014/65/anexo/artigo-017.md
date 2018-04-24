@@ -12,9 +12,9 @@
 
 a) Cereais: trigo, centeio, cevada, aveia, triticale, milho, arroz, alpista e sorgo, podendo no seguro de colheitas de cereais ser expressamente incluída uma verba para palhas até 30 % do valor do respetivo cereal;
 
-b) Leguminosas para grão: feijão, fava, grão-de-bico, ervilha, tremoço, tremocilha e similares;
+b) Leguminosas para grão: feijão, fava, grão-de-bico, ervilha, soja, tremoço, tremocilha e similares;
 
-c) Oleaginosas arvenses: cártamo e girassol;
+c) Oleaginosas arvenses: cártamo, girassol e colza;
 
 d) Hortícolas a céu aberto:
 
@@ -46,7 +46,7 @@ l) Frutos de casca rija:
 
 i) Nogueira e aveleira a partir do 4.º ano de plantação, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 45 e 150 árvores por hectare, respetivamente;
 
-ii) Amendoeira a partir do 4.º ano de plantação, com área mínima de 0,5 ha, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 100 árvores por hectare;
+ii) Amendoeira a partir do 3.º ano de plantação, com área mínima de 0,5 ha, não sendo permitido o seguro de plantas isoladas, bem como o de pomares com uma densidade inferior a 100 árvores por ha;
 
 iii) Castanheiro a partir do 5.º ano de plantação, não sendo permitido o seguro de pomares com uma densidade inferior a 35 árvores por hectare;
 
@@ -82,4 +82,6 @@ z) Medronheiro a partir do 5.º ano de plantação, com área mínima de cultivo
 
 aa) Viveiros vitícolas, frutícolas, florestais e de plantas ornamentais em regime de ar livre;
 
-ab) Plantas aromáticas e medicinais.
+ab) Plantas aromáticas e medicinais;
+
+ac) Romanzeira.
