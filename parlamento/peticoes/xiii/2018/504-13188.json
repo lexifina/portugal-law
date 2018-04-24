@@ -1,0 +1,563 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13188",
+  "numero": "504",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-06-27",
+            "entidades": null,
+            "id": "109262",
+            "tipo": null,
+            "titulo": "Audição em 2018-06-27 com AIRV - Associação Empresarial da Região de Viseu, Comunidade Intermunicipal de Viseu Dão Lafões"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-05-17",
+            "dataResposta": null,
+            "entidades": [
+              "Infraestruturas de Portugal, S.A."
+            ],
+            "nrOficio": "98/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-05-17",
+            "dataResposta": null,
+            "entidades": [
+              "S.E.  DOS  ASSUNTOS  PARLAMENTARES"
+            ],
+            "nrOficio": "99/CEIOP",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-10-31",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-16",
+        "DataArquivo": "2018-10-31",
+        "DataBaixaComissao": "2018-04-30",
+        "DataEnvioPAR": "2018-11-02",
+        "DataReaberta": "2018-05-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-05-17",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764f474d7a4e444577593251744d444d7a5a5330304e6a6c694c5745354f574d74597a52694f446b7a4d3249334e5759784c6e426b5a673d3d&fich=8c3410cd-033e-469b-a99c-c4b8933b75f1.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-05-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e7a55784d44526c4e3259744f444d794d6930305a6a566d4c5745324e7a41744d474d334e6a55794d575a6c4d5746684c6e426b5a673d3d&fich=75104e7f-8322-4f5f-a670-0c76521fe1aa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-05-18",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a5a6c4d54466b5a5455744f44426a59793030595441784c546b795a6a55745a5451325a575931596d51344f4751304c6e426b5a673d3d&fich=b6e11de5-80cc-4a01-92f5-e46ef5bd88d4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-11-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a59573876596a686b596a56685a5455744d5459314d6930305a6a45314c5745794d5755744f4467314f444e684e7a52694e574e6a4c6e426b5a673d3d&fich=b8db5ae5-1652-4f15-a21e-88583a74b5cc.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-09",
+            "gp": "PS",
+            "id": "1893",
+            "motivoCessacao": null,
+            "nome": "Pedro Coimbra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-05-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344e446c684e6d56685a6930314d6a597a4c545134596a41744f4751794e5330324e475130596a5132597a4d795a6a45756347526d&fich=849a6eaf-5263-48b0-8d25-64d4b46c32f1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42441",
+      "42419",
+      "42704",
+      "42656"
+    ],
+    "Iniciativasoriginadas": [
+      "42441",
+      "42419",
+      "42704",
+      "42656"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:00:30:145&drc=00:04:37:118"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234403",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:05:07:264&drc=00:03:56:768"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234404",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:09:04:032&drc=00:04:17:469"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:13:21:501&drc=00:03:37:680"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:16:59:181&drc=00:04:26:852"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:21:26:034&drc=00:03:44:319"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-05-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_05_08_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=03:25:10:354&drc=00:00:42:981"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234411",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-05-09",
+                "pubLeg": "XIII",
+                "pubNr": "83",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09?org=PLC"
+              }
+            ],
+            "Sumario": "Construção de ligação rodoviária em perfil de autoestrada entre Viseu e Coimbra, garantindo uma solução não portajada; Recomenda a requalificação do IP3, a sua manutenção sem portagens e em condições de segurança; Recomenda ao Governo que proceda à requalificação o Itinerário Principal 3 (IP3); Urgente requalificação do IP3, entre Coimbra e Viseu, e a sua manutenção sem portagens",
+            "Teor": "Pede que um documento seja distribuído pelas direções dos grupos parlamentares"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13188",
+    "PetAssunto": "Solicitam a adoção de medidas com vista à requalificação completa e adequada do IP3.",
+    "PetDataEntrada": "2018-04-24",
+    "PeticoesAssociadas": null,
+    "PetId": "13188",
+    "PetLeg": "XIII",
+    "PetNr": "504",
+    "PetNrAssinaturas": "18238",
+    "PetNrAssinaturasInicial": "0",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2597",
+        "obs": null,
+        "pag": [
+          "59-66"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-05-09",
+        "pubLeg": "XIII",
+        "pubNr": "83",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/083/2019-05-09/59?pgs=59-66&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "821138",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-18",
+        "pubLeg": "XIII",
+        "pubNr": "48",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/048/2018-05-18/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
