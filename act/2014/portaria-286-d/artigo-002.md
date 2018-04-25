@@ -15,3 +15,5 @@ a) Exerçam a sua atividade no âmbito de planos plurianuais, definidos no n.º 
 b) Efetuem descargas ou transbordos fora de portos nacionais; ou
 
 c) Detenham uma licença especial de pesca.
+
+d) Se encontrem licenciadas para a pesca com arte de cerco.
