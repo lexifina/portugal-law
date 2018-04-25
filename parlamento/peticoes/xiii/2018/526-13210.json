@@ -1,0 +1,200 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13210",
+  "numero": "526",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-09-20",
+            "entidades": null,
+            "id": "110230",
+            "tipo": null,
+            "titulo": "Audição em 2018-09-20 com Tiago Nuno Borges de Albuquerque Rodrigues"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-09-27",
+            "dataResposta": "2018-10-30",
+            "entidades": [
+              "Câmara Municipal de Cascais"
+            ],
+            "nrOficio": "123/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-01-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "837593",
+                "obs": null,
+                "pag": [
+                  "7-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-01-12",
+                "pubLeg": "XIII",
+                "pubNr": "24",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/024/2019-01-12/7?pgs=7-10&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-07-26",
+        "DataArquivo": "2019-01-08",
+        "DataBaixaComissao": "2018-07-13",
+        "DataEnvioPAR": "2019-01-10",
+        "DataReaberta": "2018-07-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-01-10",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a6b334d4745775a5451774c574a6a4e4755744e446869596930344e54426a4c5463774e446b784d3245344e6a49355a5335775a47593d&fich=970a0e40-bc4e-48bb-850c-704913a8629e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-07-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c3246684e6d59304d6d59334c54466859324d744e4759784f5330344e6a686a4c5451314e4467775a6d59785a6d52684e5335775a47593d&fich=aa6f42f7-1acc-4f19-868c-45480ff1fda5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-09-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324932595759355a5455324c574535595451744e446c694f433168596a63314c54646b4e444a6c4e6d4e684e325a6a4e4335775a47593d&fich=b6af9e56-a9a4-49b8-ab75-7d42e6ca7fc4.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-01-10",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a566c595449304d7a49314c546c68596a55744e444135596931684d6a4e684c574d7759574e6b5a574d324e574d785a6935775a47593d&fich=5ea24325-9ab5-409b-a23a-c0acdec65c1f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-11-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c32526b5a4459304f5455784c54686d4f4459744e446730597930355a5759354c574a6c5a6d466d4d546b304e546730595335775a47593d&fich=ddd64951-8f86-484c-9ef9-befaf194584a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-07-26",
+            "gp": "PSD",
+            "id": "5645",
+            "motivoCessacao": null,
+            "nome": "António Costa Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2018-04-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d47566d5a6a4e6a4d69307a4e5755314c5451305a546774596a68694d6930774e574a695a6a6b774e54497759574d756347526d&fich=50eff3c2-35e5-44e8-b8b2-05bbf90520ac.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13210",
+    "PetAssunto": "Solicitam atuação contra o Plano de Pormenor do Espaço de Reestruturação Urbanística de Carcavelos-Sul.",
+    "PetDataEntrada": "2018-04-25",
+    "PeticoesAssociadas": null,
+    "PetId": "13210",
+    "PetLeg": "XIII",
+    "PetNr": "526",
+    "PetNrAssinaturas": "6738",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "823506",
+        "obs": null,
+        "pag": [
+          "9-11"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-27",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/059/2018-07-27/9?pgs=9-11&org=PLC"
+      }
+    ]
+  }
+}
