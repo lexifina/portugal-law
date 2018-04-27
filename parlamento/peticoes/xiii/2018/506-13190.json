@@ -1,0 +1,497 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13190",
+  "numero": "506",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-04-27",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-07-11",
+            "entidades": null,
+            "id": "109538",
+            "tipo": null,
+            "titulo": "Audição em 2018-07-11 com "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-10-09",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "829716",
+                "obs": null,
+                "pag": [
+                  "4-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-10-12",
+                "pubLeg": "XIII",
+                "pubNr": "5",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/005/2018-10-12/4?pgs=4-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-06-12",
+        "DataArquivo": "2018-10-09",
+        "DataBaixaComissao": "2018-05-21",
+        "DataEnvioPAR": "2018-10-09",
+        "DataReaberta": "2018-06-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-06-14",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e515a585270593246764c7a566c4f546734593255794c5759355a5455744e44517a4e5331694e6d55354c5467345a5441355a6a5a6d4d445178595335775a47593d&fich=5e988ce2-f9e5-4435-b6e9-88e09f6f041a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-10-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e515a585270593246764c7a4e6c4f47457a5a6d49344c544a6c4d444d744e4441774f4330344e4752694c54526b596a426a5a4452684f446b334f4335775a47593d&fich=3e8a3fb8-2e03-4008-84db-4db0cd4a8978.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4526",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-06-12",
+            "gp": "PS",
+            "id": "5587",
+            "motivoCessacao": null,
+            "nome": "Jorge Gomes"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-04-10",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-05-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304e5451774d6d55325a5330324f47457a4c5451305a446b7459546b315a5330334d4463774f47517a5a4445774d6d49756347526d&fich=45402e6e-68a3-44d9-a95e-70708d3d102b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42552",
+      "43342"
+    ],
+    "Iniciativasoriginadas": [
+      "42552",
+      "43342"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:20:40:684&drc=00:03:36:382"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234066",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:24:17:066&drc=00:03:15:367"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:27:32:433&drc=00:02:22:038"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234068",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:29:54:472&drc=00:02:44:728"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:32:39:200&drc=00:04:00:759"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-04-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_04_10_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m04/&tI=02:36:39:959&drc=00:02:40:264"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-11",
+                "pubLeg": "XIII",
+                "pubNr": "73",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/46?pgs=46&org=PLC"
+              }
+            ],
+            "Sumario": "Suspensão da eficácia e reavaliação do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas; Recomenda ao Governo a suspensão da eficácia do Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13190",
+    "PetAssunto": "Suspensão de eficácia do RAMMFA - Regulamento da Avaliação do Mérito dos Militares das Forças Armadas",
+    "PetDataEntrada": "2018-04-27",
+    "PeticoesAssociadas": null,
+    "PetId": "13190",
+    "PetLeg": "XIII",
+    "PetNr": "506",
+    "PetNrAssinaturas": "4542",
+    "PetNrAssinaturasInicial": "2258",
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2588",
+        "obs": null,
+        "pag": [
+          "42-46"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-04-11",
+        "pubLeg": "XIII",
+        "pubNr": "73",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/073/2019-04-11/42?pgs=42-46&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "826873",
+        "obs": null,
+        "pag": [
+          "7-7"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-10-08",
+        "pubLeg": "XIII",
+        "pubNr": "3",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/003/2018-10-08/7?pgs=7&org=PLC"
+      }
+    ]
+  }
+}
