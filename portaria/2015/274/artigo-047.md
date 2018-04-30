@@ -4,7 +4,7 @@
 
 1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.
 
-2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 31.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo xii da presente portaria, da qual faz parte integrante.
+2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 33.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo xiv da presente portaria, da qual faz parte integrante.
 
 3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.
 

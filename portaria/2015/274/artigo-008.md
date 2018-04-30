@@ -10,12 +10,12 @@ b) Cumprirem as condições legais necessárias ao exercício da respetiva ativi
 
 c) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 2;
 
-d) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER) e do Fundo Europeu de Garantia Agrícola (FEAGA), ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);
+d) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER) e do Fundo Europeu de Garantia Agrícola (FEAGA), ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), sem prejuízo do disposto no n.º 3;
 
 e) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;
 
-f) Deterem um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor.
+f) Deterem um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor, sem prejuízo do disposto no n.º 3.
 
 2 - A condição prevista na alínea c) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
 
-3 - A condição prevista na alínea f) do n.º 1 pode ser demonstrada até à data de aceitação da concessão do apoio.
+3 - As condições previstas nas alíneas d) e f) do n.º 1 podem ser demonstradas até à data de aceitação da concessão do apoio.

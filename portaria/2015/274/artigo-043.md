@@ -12,4 +12,4 @@
 
 5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
 
-6 - No caso das operações com custos definidos exclusivamente através de tabelas normalizadas de custos unitários, o pagamento apenas é realizado após visita ao local da operação.
+6 - No caso de pedidos de pagamento com despesas definidas através de tabelas normalizadas de custos unitários, o pagamento apenas é realizado após visita ao local da operação.

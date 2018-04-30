@@ -1,6 +1,6 @@
 ## Capítulo VI
 
-## Critérios de seleção, obrigações e forma dos apoios
+## Obrigações e forma dos apoios
 
 # Artigo 32.º
 

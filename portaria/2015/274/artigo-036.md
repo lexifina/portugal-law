@@ -16,7 +16,7 @@ e) O número máximo de candidaturas admitidas por beneficiário;
 
 f) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;
 
-g) A forma e o nível dos apoios a conceder, respeitando o disposto nos artigos 7.º, 11.º, 25.º, 31.º e 34.º
+g) A forma e o nível dos apoios a conceder, respeitando o disposto nos artigos 7.º, 11.º, 13.º, 17.º, 25.º, 31.º e 34.º
 
 2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de investimentos a apoiar.
 

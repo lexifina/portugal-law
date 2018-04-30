@@ -8,7 +8,7 @@ a) Instalação de povoamentos florestais em terras agrícolas;
 
 b) Instalação de povoamentos florestais em terras não agrícolas;
 
-c) Elaboração de PGF por pessoas singulares ou coletivas de natureza privada, entidades gestoras de ZIF e de áreas agrupadas, quando associado a investimento referido nas alíneas anteriores.
+c) Elaboração de PGF por pessoas singulares ou coletivas de natureza privada e entidades gestoras de ZIF, quando associado a investimento referido nas alíneas anteriores.
 
 2 - São, ainda, concedidos os seguintes prémios, conforme o anexo i da presente portaria, que dela faz parte integrante:
 

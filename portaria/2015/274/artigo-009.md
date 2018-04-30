@@ -6,19 +6,21 @@
 
 a) Incidam numa superfície mínima de investimento contígua de 0,50 ha;
 
-b) As espécies florestais utilizadas nas ações de arborização sejam as que constam do plano regional de ordenamento florestal (PROF), podendo ser utilizadas outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
+b) Tenham um custo total elegível, apurado em sede de análise, igual ou superior a (euro) 3000;
 
-c) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os planos regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal e demais instrumentos de planeamento e gestão aplicáveis;
+c) As espécies florestais utilizadas nas ações de arborização sejam as que constam do programa regional de ordenamento florestal (PROF), podendo ser utilizadas outras espécies florestais quando as características edafoclimáticas locais assim o justifiquem;
 
-d) No caso das ações de arborização ou rearborização localizadas em áreas incluídas no SNAC, devem as mesmas encontrar-se previamente autorizadas, ou com comunicação prévia válida se possuírem PGF aprovado que contenha todos os conteúdos necessários ao cumprimento do regime jurídico das ações de arborização e rearborização (RJAAR), de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho;
+d) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os programas regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal e demais instrumentos de planeamento e gestão aplicáveis;
 
-e) Apresentem PGF aprovado ou comprovativo da sua entrega no Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na redação dada pelo Decreto-Lei n.º 27/2014, de 18 de fevereiro.
+e) No caso das ações de arborização ou rearborização localizadas em áreas integradas total ou parcialmente na RNAP ou RN2000, as mesmas devem encontrar-se previamente autorizadas, ou com comunicação prévia válida se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P. que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do regime jurídico das ações de arborização e rearborização (RJAAR), de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto;
+
+f) Apresentem PGF aprovado ou comprovativo da sua entrega no Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro e 65/2017, de 12 de junho.
 
 2 - No caso de florestação contínua de superfície agrícola superior a 50 ha devem, ainda, ser respeitados os seguintes requisitos:
 
 a) As espécies elegíveis são as identificadas como prioritárias nos PROF; ou
 
-b) Ser adotada uma mistura de espécies de outras espécies florestais previstas nos PROF que incluam:
+b) Ser adotada uma mistura de outras espécies florestais previstas nos PROF que incluam:
 
 i) Um mínimo de 10 % de espécies folhosas; ou
 

@@ -6,8 +6,8 @@
 
 a) A proteção de habitats e de promoção da biodiversidade;
 
-b) A adaptação das florestas aos efeitos das alterações climáticas;
+b) A adaptação das florestas aos efeitos das alterações climáticas e promoção de serviços do ecossistema;
 
-c) A promoção de serviços do ecossistema.
+c) (Revogada.)
 
 2 - A elaboração de PGF ou de outros estudos prévios à execução do projeto apenas é elegível quando associado ao investimento previsto no número anterior.

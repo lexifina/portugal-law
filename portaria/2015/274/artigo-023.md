@@ -8,10 +8,10 @@ a) Os investimentos sejam considerados prioritários de acordo com critérios pu
 
 b) Utilizem, nas ações de reconversão, as espécies florestais constantes do PROF, podendo, ainda, ser utilizadas outras espécies florestais, quando as características edafoclimáticas locais assim o justifiquem, com exceção de espécies de rápido crescimento, exploradas em rotações com uma duração inferior a 20 anos, de árvores de Natal e de árvores de crescimento rápido utilizadas na produção de energia;
 
-c) No caso das ações de arborização e rearborização localizadas no Sistema Nacional de Áreas Classificadas (SNAC), devem as mesmas encontrar-se previamente autorizadas, ou com comunicação prévia válida se possuírem PGF aprovado que contenha todos os conteúdos necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho;
+c) No caso das ações de arborização e rearborização em áreas integradas total ou parcialmente na RNAP ou RN2000, devem as mesmas encontrar-se previamente autorizadas, ou com comunicação prévia válida se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P. que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto;
 
-d) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os planos regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal e demais instrumentos de planeamento e gestão aplicáveis;
+d) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os programas regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal e demais instrumentos de planeamento e gestão aplicáveis;
 
-e) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, na redação dada pelo Decreto-Lei n.º 27/2014, de 18 de fevereiro, e, nas restantes situações, um instrumento equivalente.
+e) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho.
 
 2 - No âmbito da reconversão de povoamentos, a rearborização após corte apenas é elegível no caso de se introduzir alterações na estrutura ou composição do povoamento que melhore o seu desempenho ambiental, com introdução de folhosas autóctones em, pelo menos, 10 % da área a reconverter.

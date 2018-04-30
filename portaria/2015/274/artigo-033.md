@@ -20,7 +20,7 @@ g) Manter a atividade e as condições legais necessárias ao exercício da mesm
 
 h) Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;
 
-i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas ou nas operações exclusivamente baseadas em custos definidos através de tabelas normalizadas;
+i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas ou nas operações com despesas definidas através de tabelas normalizadas de custos unitários;
 
 j) Permitir o acesso aos locais de realização dos investimentos e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;
 
