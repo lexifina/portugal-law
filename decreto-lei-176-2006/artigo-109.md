@@ -25,3 +25,11 @@ a) Exigir a inserção de menções que se mostrem necessárias, designadamente 
 b) Determinar a inutilização, pela indústria ou por outrem, de etiquetas, do regime de comparticipação ou de outros elementos aí previstos;
 
 c) Permitir que o órgão máximo do INFARMED autorize a sobreposição, pela indústria ou por outrem, de etiquetas ou de autocolantes, em casos devidamente justificados.
+
+3 - Sem prejuízo do disposto no artigo 105.º-A, podem ainda ser fixados por portaria do membro do Governo responsável pela área da saúde os seguintes aspetos relativos aos dispositivos de segurança e à rotulagem do medicamento:
+
+a) Modelos e requisitos de verificação e desativação de dispositivos de segurança por parte de estabelecimentos de cuidados de saúde, públicos ou privados, que disponham de serviços médicos e farmacêuticos e regime de internamento;
+
+b) Rotulagem de embalagens contendo dispositivos de segurança, por meio de etiquetas;
+
+c) Verificação e desativação de medicamentos para fazer face a situações de emergência ou catástrofe ou inseridos em programas de vacinação.

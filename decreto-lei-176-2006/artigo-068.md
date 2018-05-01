@@ -2,9 +2,9 @@
 
 ### Certificação e conservação dos documentos
 
-1 - A pessoa qualificada atesta, em livro de registo ou em documento equivalente, definido pelo INFARMED, que cada lote de fabrico de um medicamento obedece ao disposto no presente decreto-lei.
+1 - A pessoa qualificada certifica, em livro de registo ou documento equivalente, definido pelo INFARMED, I. P., que cada lote de fabrico de um medicamento obedece ao disposto no presente decreto-lei.
 
-2 - A documentação relativa a cada lote é conservada durante cinco anos, contados da atestação a que se refere o número anterior e, independentemente desse prazo, até ao termo do prazo de um ano após a caducidade do lote.
+2 - A documentação relativa a cada lote é conservada durante, pelo menos, um ano após o termo do prazo de validade dos mesmos ou, pelo menos, cinco anos após a certificação a que se refere o número anterior, se este for o período mais alargado.
 
 3 - A documentação relativa a cada lote de medicamentos experimentais é conservada durante, pelo menos, cinco anos, contados da conclusão ou da cessação formal do último ensaio clínico em que os lotes tenham sido utilizados.
 

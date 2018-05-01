@@ -16,9 +16,9 @@ e) Facultar imediatamente o acesso aos locais e instalações pelos trabalhadore
 
 f) Disponibilizar ao director técnico os meios necessários ao cumprimento das suas obrigações;
 
-g) Assegurar que todas as operações de fabrico de medicamentos, incluindo os destinados exclusivamente a exportação, se efectuam em conformidade com as boas práticas de fabrico e com as respectivas autorizações de fabrico;
+g) Assegurar que todas as operações de fabrico ou de importação de medicamentos, incluindo os destinados exclusivamente a exportação, se efetuam em conformidade com as boas práticas de fabrico e com as respetivas autorizações de fabrico;
 
-h) Assegurar que todas as operações integradas no fabrico de medicamentos cuja introdução no mercado ou comercialização careça de autorização são efectuadas no respeito pelas informações dadas no pedido de autorização e aceites pelas autoridades competentes;
+h) Assegurar que todas as operações integradas no fabrico ou na importação de medicamentos cuja introdução no mercado ou comercialização careça de autorização são efetuadas no respeito pelas informações dadas no pedido de autorização de introdução no mercado e aceites pelas autoridades competentes;
 
 i) Comprovar, através da elaboração de relatório, a execução dos controlos realizados no medicamento, nos seus componentes e produtos intermédios de fabrico, de acordo com os métodos de controlo descritos em aplicação do disposto na alínea h) do n.º 2 do artigo 15.º;
 

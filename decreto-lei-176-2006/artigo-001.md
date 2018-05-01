@@ -36,6 +36,8 @@ j) A Diretiva n.º 2009/35/CE, do Parlamento Europeu e do Conselho, de 23 de abr
 
 k) A Diretiva n.º 2011/62/UE, do Parlamento Europeu e do Conselho, de 8 de junho de 2011, que altera a Diretiva n.º 2001/83/CE que estabelece um código comunitário relativo aos medicamentos para uso humano, para impedir a introdução na cadeia de abastecimento legal, de medicamentos falsificados;
 
-l) A Diretiva n.º 2012/26/UE, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, que altera a Diretiva 2001/83/CE no que diz respeito à farmacovigilância.
+l) A Diretiva n.º 2012/26/UE, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, que altera a Diretiva 2001/83/CE no que diz respeito à farmacovigilância;
+
+m) A Diretiva (UE) 2017/1572 da Comissão, de 15 de setembro de 2017, que complementa a Diretiva 2001/83/CE, do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, no que se refere aos princípios e diretrizes das boas práticas de fabrico de medicamentos para uso humano.
 
 3 - Os anexos ao presente decreto-lei fazem dele parte integrante.
