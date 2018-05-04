@@ -1,0 +1,286 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "120",
+    "id": "42368",
+    "titulo": "Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) 2016/679, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2018-05-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "42976",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2018-06-22",
+            "id": "109215",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2018-11-27",
+            "id": "110794",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": [
+          {
+            "data": "2018-05-09",
+            "id": "108610",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-04",
+            "id": "109432",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-05",
+            "id": "109445",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-10",
+            "id": "109499",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-11",
+            "id": "109551",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-18",
+            "id": "109686",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-18",
+            "id": "109684",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-18",
+            "id": "109680",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-07-18",
+            "id": "109677",
+            "tipo": "AUD"
+          },
+          {
+            "data": "2018-10-17",
+            "id": "110526",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-05-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-05-04",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XIII",
+            "nome": "Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+            "num": "65",
+            "orgId": "6705",
+            "publicacao": null,
+            "sigla": "GT-RGPD"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2019-01-03",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Propostas de alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a474d354e5759324f4467744d7a55315a6930304d47597a4c5467305a6d4d744e3249304e6d597a4e6d49315a5463334c6e426b5a673d3d&fich=dc95f688-355f-40f3-84fc-7b46f36b5e77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Propostas de alteração - CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d546b334e444e6b4d475574596d45354f533030597a45324c546c684d4749745a4464685a546869596a4d33596a517a4c6e426b5a673d3d&fich=19743d0e-ba99-4c16-9a0b-d7ae8bb37b43.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-09",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Propostas de alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a55304d5749314e7a51744e444d314e6930304d54466a4c5467304d7a55744f44646c596d526b4f5441794d7a51344c6e426b5a673d3d&fich=7541b574-4356-411c-8435-87ebdd902348.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Propostas de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595749774e7a4d314e5449744e4751304e7930305932457a4c57466d596a41745a6d526b4d7a67344f5441774d5751354c6e426b5a673d3d&fich=ab073552-4d47-4ca3-afb0-fdd3889001d9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659574d774e446b34596d51744f4759345a6930304e7a6c694c574a6d4e57497459575978596a4d344f5445334e546b784c6e426b5a673d3d&fich=ac0498bd-8f8f-479b-bf5b-af1b38917591.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a526a4e475134596a63745a6a51344d6930304d474d304c546b314f5759745957566a4d544d34593259785a6d526a4c6e426b5a673d3d&fich=b4c4d8b7-f482-40c4-959f-aec138cf1fdc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-07",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Proposta de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e47526959575a6c596d59745a6a4e6c597930304d6d597a4c546c695a444d744d3246694e44566d4e7a566b4e32466b4c6e426b5a673d3d&fich=4dbafebf-f3ec-42f3-9bd3-3ab45f75d7ad.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "8 - Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a67774f5456694e5759745a57466859793030596a67354c5468684e7a637459325a684d545269597a6b345a6a68684c6e426b5a673d3d&fich=78095b5f-eaac-4b89-8a77-cfa14bc98f8a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - ANDPO - Associação Nacional dos DPOs e Outros Profissionais da Privacidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5755344f546468596a5574596a42684f5330304e6a4d784c546c6a5a6a6b744d6d51775a6a4d794e5455774f57517a4c6e426b5a673d3d&fich=1e897ab5-b0a9-4631-9cf9-2d0f325509d3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da CNPD sobre o texto das propostas de alteração do GP do PS à Lei n.º 43/2004, de 18 de agosto - Lei de Organização e Funcionamento da Comissão Nacional de Proteção de Dados (Artigo 62.º -A)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5441344f574a6d596a67744f544d32596930304d444d794c57466d4e6a49744e32466a4d7a51774d3259354e474e6b4c6e426b5a673d3d&fich=1089bfb8-936b-4032-af62-7ac3403f94cd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-14",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Projeto de texto de substituição do Grupo de Trabalho - Regulamento Geral de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4449304e474577596d45744d5442694d7930305a5746684c5467344e5755744d3251345a54526a5a544d784d4451784c6e426b5a673d3d&fich=4244a0ba-10b3-4eaa-885e-3d8e4ce31041.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-31",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia ANAFRE sobre o texto de substituição aprovado indiciariamente no Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d3251314e5749785a6a4174596d45334d6930305a6a49334c546b34596a55744d47466c4f47566c4f4467774e546c6d4c6e426b5a673d3d&fich=3d55b1f0-ba72-4f27-98b5-0ae8ee88059f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia do Conselho de Administração da AR sobre o novo n.º 6  do artigo 20.º da Lei n.º 43/2004, de 18 de agosto, (novo artigo 62.º - A da Proposta de Lei n.º 120/XIII/3.º (GOV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5749304e7a677a4f4755744f47597a4e4330305932566b4c574a6d4f5751744d325935595455344e474e6c4d7a646d4c6e426b5a673d3d&fich=9b47838e-8f34-4ced-bf9d-3f9a584ce37f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia ERC sobre o texto de substituição aprovado indiciariamente no Grupo de Trabalho - Regulamento Geral da Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a49305a545134597a4174597a426b4f5330304f5459354c5745344e6a417459575532597a4977595441304f4451314c6e426b5a673d3d&fich=224e48c0-c0d9-4969-a860-ae6c20a04845.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f4459344d6d517a4d5749745a575a6d595330304f5445784c5467354f5745744d6d51324f47566a5a54426d4e3259344c6e426b5a673d3d&fich=8682d31b-effa-4911-899a-2d68ece0f7f8.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-13",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo - (Artigo 62.º-A da PPL 120/XIII/3.ª)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a5957387659324977597a566a4f5449745a6a51305a433030596d4d794c5745324f4455744d6a45304d7a646c4f4745325a6d4e6d4c6e426b5a673d3d&fich=cb0c5c92-f44d-4bc2-a685-21437e8a6fcf.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-14",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Relatório parcelar da atividade do Grupo de Trabalho - Regulamento Geral de Proteção de Dados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876593249354d6a68684e546774596d4978596930304e4459324c54686c4f444d744d32466a4f5751784d6a646d5a546c6a4c6e426b5a673d3d&fich=cb928a58-bb1b-4466-8e83-3ac9d127fe9c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-12",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição e relatório da discussão e votação da nova apreciação na generalidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596d466b595745794e6a5174593256684e6930305a5451774c54686d5a4455745954513259574e684f574e6c4e7a59304c6e426b5a673d3d&fich=badaa264-cea6-4e40-8fd5-a46aca9ce764.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "65",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-06-12",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-06-12",
+            "dataRemessa": "2019-06-12",
+            "numeroOficio": "497/XIII/1.ºCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-06-12",
+            "descricao": null,
+            "detalhe": null,
+            "id": "83677",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "265",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-05-04",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "338394",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
