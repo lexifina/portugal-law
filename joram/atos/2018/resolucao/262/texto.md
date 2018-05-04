@@ -1,0 +1,23 @@
+# Resolução n.º 262/2018
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 68/2018, suplemento, de 2018-05-04
+
+**Sumário:** Autoriza a repartição dos encargos orçamentais relativos ao contrato-programa a celebrar entre a Região, através da Secretaria Regional da Inclusão e Assuntos Sociais e a IHM, EPERAM, tendo em vista a comparticipação, através do Fundo de Coesão Nacional, dos encargos financeiros decorrentes da execução de investimentos, por parte da IHM, EPERAM para a aquisição, construção, reabilitação e infraestruturação de fogos e respetivas partes acessórias, para atribuição em arrendamento apoiado a agregados familiares que viram as suas habitações destruídas em consequência dos incêndios que afetaram a Região no mês de agosto de 2016, no valor global de € 3.126.346,94.
+
+## Texto
+
+Resolução n.º 262/2018
+Considerando que compete à IHM - Investimentos Habitacionais da Madeira, EPERAM, adiante abreviadamente designada por IHM, EPERAM, a implementação dos programas e investimentos no setor da habitação com fins sociais, na Região Autónoma da Madeira;
+Considerando que aqueles programas e investimentos têm enquadramento no Documento de Orientação Estratégica Regional CompromissoMadeira@2020, no Plano de Investimentos e Despesas de Desenvolvimento da Região Autónoma da Madeira (PIDDAR) e no Plano de Atividades, Investimentos e Orçamento, para 2018, daquela entidade;
+Considerando que a IHM - Investimentos Habitacionais da Madeira, EPERAM, criada pelo Decreto Legislativo Regional n.º 27/2004/M, de 24 de agosto, alterado pelos Decretos Legislativos Regionais n.ºs 26/2013/M, de 29 de julho, 6/2015/M, de 13 de agosto, e 42-A/2016/M, de 30 de dezembro, tem prevista a execução, nos anos de 2018 e 2019, de diversos projetos, nas áreas de aquisição, construção e infraestruturação e reabilitação de fogos destinados a realojamentos em regime de renda apoiada, tudo com vista ao imprescindível apoio a agregados familiares que viram destruídas as suas habitações em resultado dos incêndios que no mês de agosto de 2016 atingiram o território da Região;
+Considerando que face à sua missão social, as receitas arrecadadas pela IHM, EPERAM são insuficientes para assegurar na íntegra o financiamento de tais projetos;
+Considerando que deste modo a execução de tais projetos carece de financiamento de parte dos mesmos, no valor total de € 3.126.346,94;
+Considerando que a Região Autónoma da Madeira tem acesso a uma receita proveniente do Fundo de Coesão Nacional, previsto no artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, a qual deverá ser canalizada para a execução de investimentos constantes do Plano de Investimentos e Despesas de Desenvolvimento da Região Autónoma da Madeira (PIDDAR);
+
+Considerando que, ao abrigo do artigo 5.º do referido Decreto Legislativo Regional n.º 27/2004/M, tendo em conta as missões de interesse público e especiais obrigações de serviço público, no âmbito da gestão de programas habitacionais com fins sociais e atividades conexas desenvolvidas pela IHM, EPERAM, poderão ser-lhe atribuídos apoios financeiros, nomeadamente através da celebração de contratos-programa, nos termos do n.º 1 do artigo 31.º do Decreto Legislativo Regional n.º 13/2010/M, de 5 de agosto, alterado pelo Decreto Legislativo Regional n.º 2/2011/M, de 10 de janeiro;
+Considerando ainda que, previamente à celebração de contrato-programa, será necessário escalonar os encargos orçamentais por diferentes anos económicos, nos termos da lei.
+Nestes termos, o Conselho do Governo reunido em plenário em 3 de maio de 2018, resolveu:
+Autorizar a repartição dos encargos orçamentais relativos ao contrato-programa a celebrar entre a Região Autónoma da Madeira, através da Secretaria Regional da Inclusão e Assuntos Sociais e a IHM, EPERAM, tendo em vista a comparticipação, através do Fundo de Coesão Nacional, dos encargos financeiros decorrentes da execução de investimentos, por parte da IHM, EPERAM para a aquisição, construção, reabilitação e infraestruturação de fogos e respetivas partes acessórias, para atribuição em arrendamento apoiado a agregados familiares que viram as suas habitações destruídas em consequência dos incêndios que afetaram a Região no mês de agosto de 2016, no valor global de € 3.126.346,94 (três milhões, cento e vinte e seis mil, trezentos e quarenta e seis euros e noventa e quatro cêntimos), nos anos económicos de 2018 e 2019.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
