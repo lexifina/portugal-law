@@ -19,3 +19,5 @@ f) Cumprir as normas em matéria de contratação pública relativamente à exec
 g) Manter o investimento afeto à respetiva atividade e na localização geográfica definida na operação nos três anos seguintes ao pagamento final;
 
 h) Indicar os contratos de seguro que possui e que prevejam a cobertura de danos e prejuízos decorrentes dos incêndios, podendo autorizar a consulta junto das respetivas companhias de seguro de informações relativas aos mesmos.
+
+i) Celebrar contratos de seguros que prevejam a cobertura de danos e prejuízos decorrentes de incêndios e de outras catástrofes naturais em equipamentos, instalações e outros bens apoiados no âmbito do projeto e mantê-los em vigor durante o respetivo período de vida útil económica.»
