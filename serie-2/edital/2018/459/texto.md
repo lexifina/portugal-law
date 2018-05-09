@@ -1,0 +1,9 @@
+Edital n.º 459/2018
+Projeto de Regulamento Municipal de Concessão de Regalias Sociais aos Bombeiros Voluntários de Monforte
+Gonçalo Nuno Ribeiro Brandão Amanso Pataca Lagem, Presidente da Câmara Municipal de Monforte, torna público, nos termos e para efeitos do disposto no artigo 56.º do anexo I à Lei n.º 75/2013, de 12 de setembro, e ao abrigo do n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal de Monforte deliberou, na sua reunião ordinária de 07 de março de 2018, submeter a período de consulta e discussão pública o projeto de Regulamento Municipal de Concessão de Regalias Sociais aos Bombeiros Voluntários de Monforte, pelo prazo de trinta dias úteis contados da data da publicação deste aviso na 2.ª série do Diário da República.
+O texto do Projeto de Regulamento está disponível para consulta no Serviço de Apoio aos Órgãos Autárquicos, durante as horas normais de expediente (das 9h00 às 16h00), e na página do sítio da internet da Câmara Municipal de Monforte em: http://www.cm-monforte.pt.
+Os interessados devem dirigir ao Presidente da Câmara Municipal de Monforte, por escrito e durante o período de consulta pública, as suas sugestões para a morada: Câmara Municipal de Monforte, Praça da República, 7450 - 115 Monforte, entregá-las no Serviço de Apoio aos Órgãos Autárquicos, ou enviá-las através do correio eletrónico: saoa@cm-monforte.pt.
+Para constar e surtir os devidos efeitos publica-se o presente edital e outros de igual teor que vão ser afixados nos lugares do costume, nas Juntas de Freguesia do Concelho e publicado no site do município.
+E eu, António Joaquim Morais Medalhas, Técnico Superior do Serviço de Apoio aos Órgãos Autárquicos o subscrevi.
+26 de março de 2018. - O Presidente da Câmara, Gonçalo Nuno Lagem.
+311246837
