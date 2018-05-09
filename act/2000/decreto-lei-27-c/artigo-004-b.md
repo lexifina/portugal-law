@@ -8,4 +8,6 @@
 
 3 - Sem prejuízo do previsto nos números anteriores, a pessoa singular que seja titular de outra conta de depósito pode aceder aos serviços mínimos bancários desde que um dos contitulares da conta de serviços mínimos bancários seja uma pessoa singular com mais de 65 anos ou dependente de terceiros.
 
-4 - Para efeitos do disposto neste artigo, considera-se dependente de terceiros aquele que apresente um grau de invalidez permanente, devidamente comprovado pela entidade competente, igual ou superior a 60 %.
+4 - Sem prejuízo do previsto nos n.os 1 e 2, em caso de contitularidade de conta de serviços mínimos bancários com uma pessoa singular com mais de 65 anos ou dependente de terceiros, a pessoa singular com menos de 65 anos ou que não seja dependente pode continuar a aceder individualmente à conta de serviços mínimos bancários.
+
+5 - Para efeitos do disposto neste artigo, considera-se dependente de terceiros aquele que apresente um grau de invalidez permanente, devidamente comprovado pela entidade competente, igual ou superior a 60 %.

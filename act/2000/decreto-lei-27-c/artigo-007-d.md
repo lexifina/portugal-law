@@ -6,11 +6,11 @@
 
 a) A falta de identificação, nos documentos contratuais e impressos, da conta como sendo de serviços mínimos bancários, bem como a falta de descrição dos serviços bancários associados e condições da sua prestação, em violação do disposto no n.º 3 do artigo 2.º e no n.º 4 do artigo 4.º-C;
 
-b) A atribuição aos serviços mínimos bancários de características específicas que resultem em condições mais restritivas para a sua utilização do que as existentes nos mesmos serviços quando prestados fora do âmbito do presente diploma, em violação do disposto no n.º 3 do artigo 4.º-C;
+b) (Revogada.)
 
-c) [Revogada];
+c) (Revogada);
 
-d) A violação dos deveres de informação previstos no artigo 7.º-A e na regulamentação emitida ao seu abrigo.
+d) (Revogada.)
 
 2 - Constituem contraordenações graves, puníveis com coima entre (euro) 200 e (euro) 20 000:
 
@@ -24,13 +24,13 @@ d) A não prestação de informação ao interessado, em papel ou outro suporte 
 
 e) A não disponibilização dos serviços que integram os serviços mínimos bancários, em violação do disposto no n.º 1 do artigo 4.º-C;
 
-f) A exigência, ao interessado, de elementos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem que não seja de serviços mínimos bancários, em violação do disposto na alínea a) do artigo 4.º-D;
+f) A exigência, ao interessado, de elementos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem que não seja de serviços mínimos bancários, em violação do disposto na alínea a) do n.º 1 do artigo 4.º-D;
 
-g) O condicionamento da abertura de conta de serviços mínimos bancários, ou de conversão de conta já existente em conta de serviços mínimos bancários, ao depósito de um valor mínimo ou à aquisição de produtos ou serviços adicionais, em violação do disposto na alínea b) do artigo 4.º-D;
+g) O condicionamento da abertura de conta de serviços mínimos bancários, ou de conversão de conta já existente em conta de serviços mínimos bancários, ao depósito de um valor mínimo ou à aquisição de produtos ou serviços adicionais, em violação do disposto na alínea b) do n.º 1 do artigo 4.º-D;
 
-h) A exigência de aquisição de títulos representativos de capital da instituição de crédito, salvo se a condição vigorar para todos os clientes dessa instituição, em violação do disposto na alínea c) do artigo 4.º-D;
+h) A exigência de aquisição de títulos representativos de capital da instituição de crédito, salvo se a condição vigorar para todos os clientes dessa instituição, em violação do disposto na alínea c) do n.º 1 do artigo 4.º-D;
 
-i) A oferta, explícita ou implícita, de quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários ou a aceitação de ultrapassagem de crédito, em violação do disposto nas alíneas d) e e) do artigo 4.º-D;
+i) A oferta, explícita ou implícita, de quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários ou a aceitação de ultrapassagem de crédito, em violação do disposto nas alíneas d) e e) do n.º 1 do artigo 4.º-D;
 
 j) A resolução do contrato de depósito em violação do disposto no n.º 1 do artigo 5.º;
 
@@ -45,6 +45,12 @@ n) A exigência de pagamento de comissões, despesas ou outros encargos nos caso
 o) O incumprimento dos deveres relacionados com a disponibilização de meios de resolução alternativa de litígios, previstos nos n.os 1, 2 e 3 do artigo 5.º-A;
 
 p) O incumprimento, no prazo determinado, do dever de comunicação ao Banco de Portugal, em violação do disposto no n.º 4 do artigo 5.º-A.
+
+q) A atribuição aos serviços mínimos bancários de características específicas que resultem em condições mais restritivas para a sua utilização do que as existentes nos mesmos serviços quando prestados fora do âmbito do presente diploma, em violação do disposto no n.º 3 do artigo 4.º-C e nos n.º 2 e 3 do artigo 4.º-D;
+
+r) O condicionamento à aquisição de produtos ou serviços adicionais oferecidos pela instituição de crédito ao custo praticado pela respetiva instituição de crédito e previstos em preçário, violando o disposto na alínea f) do n.º 1 do artigo 4.º-D;
+
+s) A violação dos deveres de informação previstos no artigo 7.º-A e na regulamentação emitida ao seu abrigo.
 
 3 - Compete ao Banco de Portugal a averiguação das contraordenações previstas no presente diploma, bem como a instrução dos respetivos processos e a aplicação das correspondentes sanções.
 

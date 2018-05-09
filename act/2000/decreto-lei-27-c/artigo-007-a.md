@@ -13,3 +13,5 @@ b) Informar os seus clientes da possibilidade de conversão da actual conta banc
 c) Disponibilizar informação aos seus clientes sobre o procedimento de acesso a meios de resolução alternativa de litígios.
 
 3 - Para os efeitos e termos previstos no presente artigo, o Banco de Portugal deve definir, mediante aviso, qual a informação a ser divulgada e a forma adequada para a sua publicitação.
+
+4 - Sem prejuízo do disposto no n.º 2, as instituições de crédito encontram-se obrigadas a cumprir os deveres de prestação de informação adicional sobre serviços mínimos bancários definidos, mediante aviso, pelo Banco de Portugal.

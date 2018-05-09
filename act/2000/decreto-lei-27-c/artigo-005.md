@@ -6,13 +6,13 @@
 
 a) O titular utilizou deliberadamente a conta para fins contrários à lei;
 
-b) O titular não realizou quaisquer operações de pagamento durante, pelo menos, 24 meses consecutivos;
+b) O titular não realizou qualquer das operações enumeradas na subalínea iv) da alínea a) do n.º 2 do artigo 1.º durante, pelo menos, 24 meses consecutivos;
 
 c) O titular prestou informações incorretas para obter a conta de serviços mínimos bancários, quando não preenchia os requisitos de acesso à mesma;
 
 d) O titular deixou de ser residente legal na União Europeia, não se tratando de um consumidor sem domicílio fixo ou requerente de asilo ao abrigo da Convenção de Genebra de 28 de julho de 1951, relativa ao Estatuto dos Refugiados e do respetivo Protocolo de 31 de janeiro de 1967, bem como de outros tratados internacionais pertinentes;
 
-e) O titular, durante a vigência do contrato de depósito à ordem celebrado ou convertido ao abrigo do presente diploma, detém uma outra conta de depósito à ordem numa instituição de crédito em Portugal, que lhe permite utilizar os serviços enumerados na alínea a) do n.º 2 do artigo 1.º deste diploma, salvo nos casos previstos no n.º 3 do artigo 4.º-B.
+e) O titular, durante a vigência do contrato de depósito à ordem celebrado ou convertido ao abrigo do presente diploma, detém uma outra conta de depósito à ordem numa instituição de crédito em Portugal, que lhe permite utilizar os serviços enumerados na alínea a) do n.º 2 do artigo 1.º deste diploma, salvo nos casos previstos nos n.os 3 e 4 do artigo 4.º-B.
 
 2 - A resolução do contrato de depósito à ordem com fundamento num dos motivos mencionados nas alíneas a) e c) do número anterior produz efeitos imediatos.
 

@@ -20,7 +20,7 @@ d) As consequências decorrentes da eventual detenção de outra conta de depós
 
 5 - Para além das situações previstas na lei e nos regulamentos em vigor, as instituições de crédito apenas podem recusar a abertura de conta de serviços mínimos bancários se:
 
-a) À data do pedido de abertura de conta, o interessado for titular de uma ou mais contas de depósito à ordem em instituição de crédito, salvo no caso previsto no n.º 3 do artigo 4.º-B;
+a) À data do pedido de abertura de conta, o interessado for titular de uma ou mais contas de depósito à ordem em instituição de crédito, salvo nos casos previstos nos n.os 3 e 4 do artigo 4.º-B;
 
 b) O interessado recusar a emissão da declaração prevista no n.º 2;
 
