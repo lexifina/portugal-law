@@ -1,0 +1,9 @@
+Aviso n.º 6168/2018
+Alteração do Plano Diretor Municipal
+Discussão pública
+Artur Manuel Rodrigues Nunes, presidente da Câmara Municipal de Miranda do Douro, nos termos dos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), torna público que, por deliberação em reunião pública de 20 de abril de 2018, a Câmara Municipal determinou proceder à abertura de um período de 30 dias úteis para a discussão pública da proposta de alteração do Plano Diretor Municipal de Miranda do Douro, o qual terá início no 5.º dia posterior à publicação do presente aviso no Diário da República.
+Os documentos que integram a proposta de alteração do Plano Diretor Municipal de Miranda do Douro, nomeadamente o regulamento do plano e o parecer da Comissão de Coordenação e Desenvolvimento Regional do Norte, encontram-se disponíveis para consulta dos interessados nas instalações da DAGU - Divisão de Ambiente e Gestão Urbana, todos os dias úteis das 9,00 horas às 17,00 horas, e na página da Internet da Câmara Municipal de Miranda do Douro, em www.cm-mdouro.pt.
+No decorrer do período de discussão pública, os interessados podem formular, por escrito, reclamações, observações e sugestões sobre a proposta de alteração do Plano Diretor Municipal de Miranda do Douro, dirigidas ao presidente da câmara municipal, utilizando para o efeito um impresso próprio que pode ser obtido na DAGU - Divisão de Ambiente e Gestão Urbana, no Balcão Único de Atendimento, sito no Largo D. João III, 5210-190 Miranda do Douro, ou na página da Internet da Câmara Municipal de Miranda do Douro.
+As reclamações, observações e sugestões poderão ser enviadas por carta registada com aviso de receção, dirigida ao presidente da Câmara Municipal para o Largo D. João III, 5210-190 Miranda do Douro, ou entregues diretamente no Balcão Único de Atendimento.
+24 de abril de 2018. - O Presidente da Câmara Municipal de Miranda do Douro, Artur Manuel Rodrigues Nunes.
+611303455
