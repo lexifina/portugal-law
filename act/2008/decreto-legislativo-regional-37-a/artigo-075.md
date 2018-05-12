@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Da responsabilidade e fiscalização
+## Responsabilidade e fiscalização
 
 # Artigo 75.º
 
