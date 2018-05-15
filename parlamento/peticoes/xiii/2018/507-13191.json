@@ -1,0 +1,520 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13191",
+  "numero": "507",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-05-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-10-10",
+            "entidades": null,
+            "id": "110449",
+            "tipo": null,
+            "titulo": "Audição em 2018-10-10 com Audição dos Peticionários sobre a Pretição n.º 507/XIII/3.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-01-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-05-30",
+        "DataArquivo": "2019-01-30",
+        "DataBaixaComissao": "2018-05-22",
+        "DataEnvioPAR": "2019-01-31",
+        "DataReaberta": "2018-05-30",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-01-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f5459794f5749304f4755744d4445784e6930304f5467774c574a6a4f5463744f545130597a68684d54517a4d57526d4c6e426b5a673d3d&fich=9629b48e-0116-4980-bc97-944c8a1431df.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-05-30",
+            "gp": "PSD",
+            "id": "1620",
+            "motivoCessacao": null,
+            "nome": "José António Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-05-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a595751314d7a55354f43316b5a5746694c54526b4e32597459574a6b597930304f47466a4d7a4e695a5451774f5755756347526d&fich=cad53598-deab-4d7f-abdc-48ac33be409e.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44030",
+      "44043",
+      "44030"
+    ],
+    "Iniciativasoriginadas": [
+      "44030",
+      "44043"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:05:56:632&drc=00:05:14:497"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235888",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:11:11:129&drc=00:03:39:967"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235889",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/5?pgs=5&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:14:51:097&drc=00:03:36:313"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235890",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:18:27:410&drc=00:03:53:589"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235891",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:22:21:980&drc=00:03:31:516"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235892",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:25:53:496&drc=00:02:19:952"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235893",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/8?pgs=8&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:28:13:449&drc=00:03:25:011"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235894",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo fim da violência obstétrica nos blocos de parto dos hospitais portugueses; Recomenda ao Governo a adoção de medidas que permitam reforçar os direitos das mulheres na gravidez e no parto; Reforço dos cuidados de assistência na gravidez e no parto.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13191",
+    "PetAssunto": "Petição pelo fim da Violência Obstétrica nos blocos de parto dos hospitais portugueses",
+    "PetDataEntrada": "2018-05-15",
+    "PeticoesAssociadas": null,
+    "PetId": "13191",
+    "PetLeg": "XIII",
+    "PetNr": "507",
+    "PetNrAssinaturas": "5654",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2614",
+        "obs": null,
+        "pag": [
+          "4-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-15",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/4?pgs=4-9&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "837595",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-18",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/025/2019-01-18/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
