@@ -1,0 +1,5 @@
+Aviso n.º 6464/2018
+Luís dos Santos Fernandes, Presidente da Câmara Municipal de Vinhais, ao abrigo da competência constante na alínea t), do n.º 1 do artigo 35.º e para efeitos do estatuído pelo artigo 56.º do Anexo I à Lei n.º 75/2013 de 12 de setembro, na sua atual redação, torna público que, na sua reunião ordinária de trinta de abril de dois mil e dezoito, foi deliberado, para efeitos do artigos 100.º e 101.º do Código do Procedimento Administrativo, submeter a consulta pública, pelo prazo de 30 dias a contar da data da publicação do presente avio no Diário da República, o projeto de «Alteração ao Regulamento de Apoios aos Estratos Sociais Mais Desfavorecidos».
+Durante este período poderão os interessados consultar o mencionado projeto de Regulamento e apresentar sugestões sobre o mesmo, na Unidade de Administração Geral e Finanças, Paços do Município, Rua das Freiras n.º 13, 5320 - 326 Vinhais, todos os dias úteis das 9,00 horas às 17,00 horas, o qual ficará igualmente disponível na página eletrónica do município www.cm.vinhais.pt.
+3 de maio de 2018. - O Presidente da Câmara Municipal, Luís dos Santos Fernandes.
+311318221
