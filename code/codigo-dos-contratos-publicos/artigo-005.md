@@ -28,11 +28,11 @@ h) Contratos celebrados ao abrigo do disposto no regime jurídico dos contratos 
 
 i) Contratos que, nos termos da lei, sejam declarados secretos ou cuja execução deva ser acompanhada de medidas especiais de segurança, bem como quando os interesses essenciais de defesa e segurança do Estado o exigirem;
 
-j) Contratos de aquisição de serviços de investigação e desenvolvimento abrangidos pelos códigos CPV referidos no anexo viii ao presente Código, que dele faz parte integrante, desde que se verifiquem cumulativamente as seguintes condições:
+j) Contratos de aquisição de serviços de investigação e desenvolvimento, exceto os contratos de investigação e desenvolvimento com os códigos CPV 73000000-2 a 73120000-9, 73300000-5, 73420000-2 e 73430000-5 em que se verifiquem cumulativamente as seguintes condições:
 
-i) Os resultados obtidos com os respetivos serviços não revertam exclusivamente a favor da entidade adjudicante, para utilização no exercício da sua própria atividade;
+i) Os resultados destinam-se exclusivamente à entidade adjudicante, para utilização no exercício da sua própria atividade;
 
-ii) O pagamento dos serviços em causa não seja integralmente suportado pela entidade adjudicante, designadamente por se tratar de projeto cofinanciado por fundos nacionais ou europeus.
+ii) O serviço prestado é integralmente remunerado pela entidade adjudicante
 
 5 - (Revogado.)
 

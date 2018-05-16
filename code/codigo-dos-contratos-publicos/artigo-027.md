@@ -20,7 +20,7 @@ c) Se trate de serviços relativos à aquisição ou à locação, independentem
 
 d) Se trate de serviços de arbitragem, conciliação ou mediação;
 
-e) Se trate de serviços de investigação e desenvolvimento não abrangidos pela alínea j) do n.º 4 do artigo 5.º, desde que o valor estimado do contrato seja inferior aos limiares estabelecidos nas alíneas b) e c) do n.º 3 do artigo 474.º;
+e) Se trate de serviços de investigação e desenvolvimento não excluídos pela alínea j) do n.º 4 do artigo 5.º, desde que o valor estimado do contrato seja inferior aos limites estabelecidos nas alíneas b) e c) do n.º 3 do artigo 474.º;
 
 f) (Revogada.)
 

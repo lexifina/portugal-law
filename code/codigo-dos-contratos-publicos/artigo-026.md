@@ -6,7 +6,7 @@
 
 a) Se trate de bens destinados à substituição parcial ou à ampliação de bens ou equipamentos de específico uso corrente da entidade adjudicante, desde que o contrato a celebrar o seja com a entidade com a qual foi celebrado o contrato inicial de locação ou de aquisição de bens e a mudança de fornecedor obrigasse a entidade adjudicante a adquirir material de características técnicas diferentes, originando incompatibilidades ou dificuldades técnicas de utilização e manutenção desproporcionadas;
 
-b) Se trate de bens produzidos ou a produzir para fins de investigação, de experimentação, de estudo ou desenvolvimento, desde que tais bens não sejam produzidos com finalidade comercial, ou com vista a amortizar o custo dessas atividades, e o valor estimado do contrato seja inferior aos limiares estabelecidos nas alíneas b) ou c) do n.º 3 do artigo 474.º;
+b) Se trate de bens a utilizar para fins de investigação, de experimentação, de estudo ou desenvolvimento, desde que tais bens não sejam utilizados com finalidade comercial, ou com vista a amortizar o custo dessa atividade, e o valor estimado do contrato seja inferior aos limiares estabelecidos nas alíneas b) e c) do n.º 3 do artigo 474.º;
 
 c) Se trate de adquirir bens cotados e adquiridos num mercado de matérias-primas;
 
