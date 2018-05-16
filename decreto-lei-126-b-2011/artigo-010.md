@@ -20,7 +20,7 @@ i) Assegurar a gestão dos contratos de prestação de serviços de suporte não
 
 ii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;
 
-c) Assegurar os procedimentos de contratação pública para as forças e serviços de segurança e demais serviços do MAI, em aquisições superiores a (euro) 150 000;
+c) [Revogada];
 
 d) Acompanhar e apoiar a política de instalações das forças e serviços de segurança e demais serviços do MAI, manter atualizado o respetivo recenseamento e centralizar a informação relativa ao património daquele ministério.
 
