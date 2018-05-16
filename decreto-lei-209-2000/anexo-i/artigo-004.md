@@ -14,4 +14,8 @@ d) A prestação de serviços no domínio da liquidação de sociedades dissolvi
 
 e) A prestação de serviços técnicos de administração e gestão às participadas.
 
+f) A prestação de serviços de consultoria de natureza intelectual, a empresas públicas do setor empresarial do Estado, bem como a aquisição destes serviços em nome, por conta ou em benefício de tais empresas;
+
+g) A instituição e gestão de plataformas de cooperação e de partilha de conhecimento em rede entre as empresas públicas do setor empresarial do Estado.
+
 2 - A PARPÚBLICA pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico.
