@@ -16,9 +16,9 @@ e) Monitorizar os consumos, através da construção de indicadores de gestão, 
 
 f) Garantir, em articulação com os serviços do MAI, que os orçamentos de fornecimentos de bens e serviços sejam efetuados por itens de compra e utilizando preços de referência adequados;
 
-g) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados;
+g) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;
 
-h) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas e, para as forças e serviços de segurança e restantes serviços do MAI, todas as aquisições superiores a 150 mil euros, bem como desenvolver os processos de negociação, com vista à redução de custos;
+h) Assegurar todos os procedimentos de contratação pública no domínio das competências específicas atribuídas pelo regime jurídico do sistema nacional de compras públicas;
 
 i) Assegurar a gestão dos equipamentos e do parque de veículos automóveis afetos à SG e aos gabinetes dos membros do Governo, bem como aos serviços da psc, celebrando e executando, nesse sentido, todos os contratos necessários à assistência técnica e manutenção de equipamentos;
 
