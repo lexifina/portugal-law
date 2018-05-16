@@ -18,7 +18,7 @@ c) Ter uma deficiência da qual resulte um grau de incapacidade igual ou superio
 
 3 - Para efeito do disposto na alínea b) do n.º 1, a idade do titular é aferida à data da apresentação do requerimento devidamente instruído.
 
-4 - O reconhecimento do direito à prestação entre os 55 anos e a idade normal de acesso à pensão de velhice em vigor depende de, comprovadamente, a certificação da deficiência ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.
+4 - O reconhecimento do direito à prestação às pessoas com 55 ou mais anos de idade depende de, comprovadamente, a certificação da deficiência da qual resulte um grau de incapacidade igual ou superior a 60 % ter sido requerida antes dos 55 anos de idade, ainda que a certificação ocorra posteriormente àquela idade.
 
 5 - Sem prejuízo do disposto no número anterior, o direito à prestação é, ainda, reconhecido nas situações em que comprovadamente, a pessoa com deficiência tenha interposto recurso da avaliação da incapacidade da junta médica requerida antes dos 55 anos, desde que o grau de incapacidade que resulte da decisão seja igual ou superior a 60 %.
 

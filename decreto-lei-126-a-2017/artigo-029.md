@@ -29,3 +29,5 @@ i) Prestações de desemprego e de parentalidade do subsistema de solidariedade;
 j) Indemnizações e pensões por acidente de trabalho e doença profissional;
 
 k) Indemnizações por responsabilidade civil de terceiro.
+
+l) Subsídio por morte, do sistema previdencial.

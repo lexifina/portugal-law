@@ -17,3 +17,5 @@
 7 - Os titulares da bonificação por deficiência que cumpram as condições de atribuição da prestação podem requerer esta prestação, a qual é devida a partir do mês seguinte ao do seu deferimento.
 
 8 - Os titulares da bonificação por deficiência que sejam também titulares do subsídio por assistência de terceira pessoa mantêm o direito a este subsídio após o deferimento da prestação social para a inclusão.
+
+9 - Os titulares da bonificação por deficiência, bem como os titulares de pensão social de velhice, os titulares do complemento solidário para idosos e os titulares de pensão social de invalidez do regime especial de proteção na invalidez que requeiram a prestação, podem optar no requerimento inicial por manter as suas prestações, caso o valor da prestação social para a inclusão a que tenham direito seja de montante inferior.
