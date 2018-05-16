@@ -6,7 +6,7 @@
 
 2 - A junta de recurso tem a mesma composição da junta médica prevista no artigo anterior, devendo ser integrada por médicos diferentes, à excepção do médico da escolha do sinistrado, que pode ser o mesmo.
 
-3 - À junta de recurso aplica-se o disposto nos n.os 2, 3, 4 e 6 do artigo anterior.
+3 - À junta médica de recurso é aplicavel o disposto nos n.os 2 a 6 do artigo 21.º
 
 4 - A junta médica, cuja decisão é objecto de recurso, deve facultar ao sinistrado, a solicitação deste, as informações constantes do respectivo processo no prazo de dois dias úteis.
 

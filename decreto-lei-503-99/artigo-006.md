@@ -4,7 +4,7 @@
 
 1 - Os serviços, organismos e fundos autónomos da Administração Pública e os que, independentemente do grau de autonomia, tenham receitas próprias que possam ser afectadas a esse fim devem inscrever, nos respectivos orçamentos, verbas destinadas ao pagamento das despesas decorrentes de acidentes em serviço e doenças profissionais.
 
-2 - As despesas decorrentes de acidentes em serviço e doenças profissionais, respeitantes aos serviços não abrangidos pelo número anterior, são suportadas por verba a inscrever no orçamento do Ministério das Finanças, no capítulo consignado à Secretaria-Geral, que deve transferir para aqueles as verbas correspondentes às despesas entretanto documentadas, no prazo de 90 dias consecutivos a contar da apresentação do respectivo pedido.
+2 - As despesas decorrentes de acidentes em serviço e doenças profissionais, respeitantes aos serviços não abrangidos pelo número anterior, são suportadas por verba a inscrever no orçamento de cada ministério, no capítulo consignado à respetiva Secretaria-Geral ou no serviço que tenha a seu cargo a gestão dos recursos humanos do ministério, que deve transferir para aqueles serviços as verbas correspondentes às despesas entretanto documentadas, no prazo de 90 dias consecutivos a contar da apresentação do respetivo pedido.
 
 3 - Sem prejuízo do disposto no número anterior, as despesas com a prestação de primeiros socorros e outras despesas, designadamente de carácter urgente, são suportadas pelo orçamento de cada serviço, podendo para o efeito ser autorizada a constituição de fundos de maneio ou permanentes, consoante o grau de autonomia que o serviço detenha.
 

@@ -2,7 +2,7 @@
 
 ### Junta médica
 
-1 - A verificação e confirmação da incapacidade temporária, a atribuição da alta ou a sua revisão, previstas nos artigos 19.º e 20.º, e a emissão do parecer referido no artigo 23.º competem a uma junta médica composta por dois médicos da ADSE, um dos quais preside, e um médico da escolha do sinistrado.
+1 - A verificação e confirmação da incapacidade temporária, a atribuição da alta ou a sua revisão, previstas nos artigos 19.º e 20.º, e a emissão do parecer referido no artigo 23.º competem a uma junta médica composta por dois médicos da ADSE, um dos quais preside, a qual pode ainda ser integrada por um médico da escolha do sinistrado.
 
 2 - Caso se demonstre necessário, a ADSE poderá fazer substituir um dos seus representantes na junta médica por um perito médico-legal.
 
