@@ -20,7 +20,7 @@ i) Assegurar a gestão dos contratos de prestação de serviços de suporte não
 
 ii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;
 
-b) Assegurar os demais procedimentos de contratação pública para as forças e serviços de segurança e demais serviços do MAI, em aquisições superiores a (euro) 150 000.
+b) (Revogada).
 
 4 - A SG prossegue ainda as atribuições definidas nas áreas seguintes, designadamente no âmbito de uma gestão eficiente dos recursos com os demais serviços do MAI, e sem prejuízo das competências legais dos dirigentes máximos dos serviços destinatários:
 
