@@ -23,3 +23,5 @@ a) Pelos beneficiários da parte que exceder os limites legalmente estabelecidos
 b) Pelas regiões e organismos autónomos, bem como pelas autarquias locais, da totalidade dessas despesas, competindo a estes reaver as comparticipações eventualmente devidas pelos beneficiários.
 
 5 - Nos acordos a celebrar pela ADSE pode vir a ser consagrado o princípio de o beneficiário pagar directamente à entidade prestadora dos cuidados de saúde a comparticipação que lhe couber.
+
+6 - Os trabalhadores em funções públicas das Regiões Autónomas da Madeira e dos Açores gozam dos benefícios concedidos pela ADSE, I. P., nos mesmo termos que os trabalhadores da administração central do Estado, passando a ADSE, I. P., a suportar, desde 1 de janeiro de 2018, os respetivos encargos com os reembolsos do regime livre e do regime convencionado.
