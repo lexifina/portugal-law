@@ -6,7 +6,7 @@
 
 2 - A junta médica é constituída por secções de âmbito regional, funcionando em sessões cuja frequência é determinada por despacho do director-geral da ADSE.
 
-3 - Cada secção é composta por três médicos.
+3 - Cada secção é constituída por dois médicos da ADSE, um dos quais preside, a qual pode ainda ser integrada por um médico da escolha do trabalhador.
 
 4 - (Revogado).
 
