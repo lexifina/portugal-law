@@ -1,0 +1,196 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "130",
+    "id": "42623",
+    "titulo": "Estabelece regras para a aplicação do regime de acesso automático a informações financeiras a residentes em território nacional."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2018-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "43158",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": [
+          {
+            "data": "2018-06-28",
+            "id": "109317",
+            "tipo": "AUD"
+          }
+        ],
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-05-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-05-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-06-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Comentário da APB",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a6d5a6d595452694d5330344e7a63354c5451784f54517459575934597931695a545a694e5759354f4467354d5445756347526d&fich=bfffa4b1-8779-4194-af8c-be6b5f988911.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-08",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d5446684f4445324f533077596d51784c5451784d6d5574595441354f4330304e44686b4e47557a4d544d7a4d444d756347526d&fich=f11a8169-0bd1-412e-a098-448d4e313303.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da Autoridade Tributária e Aduaneira",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f474d354e7a68694d4330334d7a67324c5452694d544d744f444d7a4f4330304e7a49314e575268597a55314d3255756347526d&fich=98c978b0-7386-4b13-8338-47255dac553e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-06-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer do Banco de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793834593255774f4451344e5331694e6d56684c5451314d7a6b7459545932597931684f545668596d5a6a5a575a6c4e4745756347526d&fich=8ce08485-b6ea-4539-a66c-a95abfcefe4a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PS e GP BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d4745345a446c6b5a4330314f445a684c54526b4d6a4174596d4d315979316d59546c6d4e7a4932596a4932596a55756347526d&fich=b0a8d9dd-586a-4d20-bc5c-fa9f726b26b5.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-12-20",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a5a444a6a596d59344d693078597a6b334c54513259325974595752684d693078597a4d794e6a51314d4745344f5467756347526d&fich=cd2cbf82-1c97-46cf-ada2-1c326450a898.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-08",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e7a41785a4455784d43316b4d5463324c5452685a6a63744f54686d4d5331694f4441784e6a67774e44557759324d756347526d&fich=f701d510-d176-4af7-98f1-b801680450cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-23",
+            "TipoDocumento": "Redacção final",
+            "TituloDocumento": "Redação final fixada pela COFMA",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a54517a4e7a55774f5331684e7a51774c545179595449744f444e69596931684e44686b4e32526c5a444935595749756347526d&fich=2e437509-a740-42a2-83bb-a48d7ded29ab.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-09",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f4459774e7a646c5969307a4e6d49304c5452694d6d4d74596a45304d53316c4d4755355a6d566d5a6a51774f574d756347526d&fich=c86077eb-36b4-4b2c-b141-e0e9feff409c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4528",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "Numero": "4528",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "16-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-01-10",
+            "pubLeg": "XIII",
+            "pubNr": "43",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/043/2019-01-10/16?pgs=16-21&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto final",
+            "pag": [
+              "16-21"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-01-10",
+            "pubLeg": "XIII",
+            "pubNr": "43",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/043/2019-01-10/16?pgs=16-21&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2019-01-09",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          },
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2019-01-23",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-05-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "339053",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
