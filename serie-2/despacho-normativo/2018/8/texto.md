@@ -1,0 +1,8 @@
+Despacho Normativo n.º 8/2018
+Considerando que o Regulamento n.º 207/2018, que aprovou o Regulamento de prestação de serviço docente entre unidades orgânicas da Universidade Nova de Lisboa, publicado no Diário da República, 2.ª série, n.º 67, de 5 de abril de 2018, se aplica ao serviço docente prestado em ciclos de estudos conducentes à obtenção de grau noutra unidade orgânica diferente daquela com a qual o docente tem o seu vínculo;
+Considerando que o serviço docente prestado por investigadores da Nova Medical School - Faculdade de Ciências Médicas na unidade orgânica com a qual têm o seu vínculo não está regulamentado;
+Considerando que o artigo 6.º do mesmo regulamento estatui que "os casos omissos e as dúvidas de interpretação do presente regulamento são resolvidos por despacho do Reitor";
+Considerando que não se trata de matéria que afete de modo direto e imediato direitos ou interesses legalmente protegidos dos cidadãos, visto que carece de atos de aplicação posteriores, e portanto não necessita de ser sujeito a audiência dos interessados nos termos do n.º 1 do artigo 100.º do Código do Procedimento Administrativo;
+Determino, ao abrigo do artigo 6.º do Regulamento n.º 207/2018, que o mesmo seja excecionalmente aplicável para o cálculo e pagamento da remuneração pelo número total de horas de serviço docente efetivamente prestado por investigadores da Nova Medical School - Faculdade de Ciências Médicas da Universidade Nova de Lisboa na unidade orgânica com a qual têm o seu vínculo no ano letivo de 2017/2018.
+3 de maio de 2018. - O Reitor, Professor Doutor João de Deus Sàágua.
+311323243
