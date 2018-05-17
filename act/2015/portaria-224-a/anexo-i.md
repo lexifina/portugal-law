@@ -1,5 +1,5 @@
 # Anexo I
 
-### (Quadro a que se refere o artigo 2.º, n.º 1)
+### (quadro a que se refere o n.º 1 do artigo 2.º)
 
 (ver documento original)
