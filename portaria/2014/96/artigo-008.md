@@ -10,8 +10,10 @@
 
 4 - As pessoas abrangidas pelo disposto no número anterior, bem como todos aqueles que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados no âmbito do RENTEV, ficam obrigados ao sigilo profissional, mesmo após o termo das suas funções.
 
-5 - O RENTEV disponibiliza a informação constante das diretivas antecipadas de vontade e das procurações de cuidados de saúde na Plataforma de Dados de Saúde, que depois a disponibiliza, mediante acesso reservado, aos profissionais de saúde e aos utentes, através do Portal do Profissional e do Portal do Utente.
+5 - O RENTEV pode ser consultado pelos profissionais de saúde, que integram a equipa de saúde a quem cabe atender às disposições da pessoa constantes do documento de diretivas antecipadas de vontade, designadamente médicos e enfermeiros, nos termos da Lei n.º 25/2012, de 16 de julho e da Lei de Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro.
 
-6 - O acesso ao RENTEV por profissionais de instituições de saúde não pertencentes ao Serviço Nacional de Saúde é efetuado mediante a introdução da palavra-passe individual do médico, validada através do sistema de requisição de vinhetas pessoais, e leitura do número do cartão do cidadão do utente.
+6 - O RENTEV disponibiliza a informação constante das diretivas antecipadas de vontade e das procurações de cuidados de saúde na Plataforma de Dados de Saúde, que depois a disponibiliza, mediante acesso reservado, aos profissionais de saúde e aos utentes, através do Portal do Profissional e do Portal do Utente.
 
-7 - Cada acesso à informação do RENTEV, efetuado nos termos dos números anteriores, é automaticamente notificado ao outorgante da diretiva antecipada de vontade e, caso exista, ao seu procurador de cuidados de saúde, desde que os respetivos endereços eletrónicos tenham sido previamente inseridos no RENTEV.
+7 - O acesso ao RENTEV por profissionais de instituições de saúde não pertencentes ao Serviço Nacional de Saúde é efetuado mediante a introdução da palavra-passe individual do profissional de saúde, e leitura do número do cartão do cidadão do utente.
+
+8- Cada acesso à informação do RENTEV, efetuado nos termos dos números anteriores, é automaticamente notificado ao outorgante da diretiva antecipada de vontade e, caso exista, ao seu procurador de cuidados de saúde, desde que os respetivos endereços eletrónicos tenham sido previamente inseridos no RENTEV.
