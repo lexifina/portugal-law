@@ -29,3 +29,5 @@ f) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da man
 5 - Os beneficiários que à data da apresentação do pedido de pagamento tenham termo de aceitação assinado na Ação n.º 3.1, «Jovens Agricultores», do PDR 2020 podem, aquando da sua apresentação, proceder ao aumento do efetivo pecuário objeto de apoio, desde que estejam reunidos os critérios de elegibilidade.
 
 6 - O disposto no número anterior não se aplica aos beneficiários que tenham transmitido total ou parcialmente o compromisso previsto na alínea c) do n.º 1 do artigo 10.º
+
+7 - Os beneficiários que pretendam repor o efetivo reduzido na sequência de situações de seca extrema ou severa, ou demais calamidades reconhecidas pelas autoridades nacionais competentes, podem proceder ao respetivo aumento de efetivo pecuário, expresso em CN.
