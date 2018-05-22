@@ -12,4 +12,4 @@ a) Candidatem uma superfície agrícola mínima elegível de 0,5 hectares à pro
 
 b) Submetam a subparcela ou subparcelas agrícolas candidatas ao sistema de controlo por um organismo de controlo e certificação reconhecido;
 
-c) Detenham, quando se trate de culturas permanentes regadas, resultados de análises de terras obtidas, no máximo, até ao limite de três anos anteriores à data de apresentação da candidatura e que incluam o teor de matéria orgânica.
+c) Detenham, quando se trate de culturas permanentes regadas, com exceção da vinha, resultados de análises de terras obtidas, no máximo, até ao limite de três anos anteriores à data de apresentação da candidatura e que incluam o teor de matéria orgânica.
