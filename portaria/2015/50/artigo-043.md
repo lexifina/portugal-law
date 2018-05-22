@@ -2,7 +2,7 @@
 
 ### Compromissos dos beneficiários
 
-Para além do disposto no artigo 6.º os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
+1 - Para além do disposto no artigo 6.º os beneficiários do apoio previsto na presente secção, durante todo o período do compromisso, são obrigados a:
 
 a) Manter os critérios de elegibilidade, em cada ano do compromisso;
 
@@ -23,3 +23,5 @@ e) Não fazer cortes para feno em lameiros de sequeiro, exceto, após parecer fa
 f) Manter em bom funcionamento os sistemas de rega tradicionais e de drenagem existentes.
 
 g) Manter a subparcela ou subparcelas agrícolas sob compromisso, pelo período de duração dos compromissos.
+
+2 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido na alínea b) do número anterior passa para um mínimo de 0,1 CN/ha de superfície forrageira.

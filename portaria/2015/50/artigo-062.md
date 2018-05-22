@@ -23,3 +23,5 @@ d) Manter, quando aplicável, o sistema de rega tradicional funcional.
 a) Não mobilizar o solo;
 
 b) Deter, durante o período de retenção para cada espécie, um efetivo pecuário em pastoreio, do próprio, de ovinos e caprinos com um encabeçamento mínimo de 0,2 CN por hectare de superfície forrageira.
+
+4 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido na alínea b) do número anterior passa para um mínimo de 0,1 CN/ha de superfície forrageira.

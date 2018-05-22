@@ -27,3 +27,5 @@ f) Manter, durante o período de retenção, o número de CN sob compromisso, pe
 a) Proceder à substituição do cão de guarda, no prazo de 30 dias a contar da sua morte;
 
 b) Informar o IFAP, I. P., no prazo de 5 dias após a substituição, da identificação do novo cão de guarda.
+
+3 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido na alínea b) do n.º 1 passa para um mínimo de 0,1 CN/ha de superfície forrageira.
