@@ -23,3 +23,5 @@ a) 1 de janeiro e 30 de abril de cada ano, para os bovinos, ovinos e caprinos:
 b) (Revogada.)
 
 c) 1 de janeiro e 31 de dezembro, para o restante efetivo.
+
+9 - Quando se verifiquem situações de seca extrema ou severa reconhecidas pelas autoridades nacionais competentes, o nível de encabeçamento referido no n.º 4, passa para um mínimo de 0,1 CN/ha de superfície forrageira.
