@@ -25,3 +25,5 @@ e) No que respeita ao apoio «Manutenção de rotação de sequeiro cereal-pousi
 f) No que respeita ao apoio «Manutenção de rotação de sequeiro cereal-pousio», no «AZ Outras Áreas Estepárias», candidatem uma superfície com dimensão igual ou superior a cinco ha de cereais praganosos de sequeiro e pousio, em subparcelas situadas na área geográfica de aplicação do apoio.
 
 2 - Para efeitos da subalínea i) da alínea a) do número anterior, é elegível a totalidade da superfície de prados e pastagens permanentes prática local em zona de baldio, desde que pelo menos 80 % da área de baldio se encontre situada dentro da área geográfica de aplicação do apoio.
+
+3 - Em derrogação do disposto nas alíneas d), e) e f) do n.º 1, quando se verifiquem situações de seca extrema ou severa, reconhecidas pelas autoridades nacionais competentes, o cereal praganoso de sequeiro pode ser substituído por pousio, não havendo lugar à representatividade mínima a que se refere a alínea b) do artigo 24.º, a alínea c) do artigo 25.º e a alínea d) do artigo 26.º, todos da presente portaria.
