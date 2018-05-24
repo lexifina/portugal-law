@@ -1,0 +1,101 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2018-05-24",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição de um membro efetivo e um membro suplente para o Conselho de Administração da Assembleia da República",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2018-05-24",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Efectivo",
+        "nome": "Maria Manuel de Almeida Rola (BE)"
+      },
+      {
+        "cargo": "Suplente",
+        "nome": "Jorge Duarte Gonçalves da Costa (BE)"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Conselho de Administração da Assembleia da República",
+    "OutrosSubscritores": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "3",
+    "Texto": null,
+    "TextosAprovados": [
+      "20822",
+      "20823"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2018-05-24",
+        "descricao": null,
+        "detalhe": null,
+        "id": "79718",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "820104",
+            "obs": "Eleição",
+            "pag": [
+              "3-3"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-25",
+            "pubLeg": "XIII",
+            "pubNr": "89",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/089/2018-05-25/3?pgs=3&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "820105",
+            "obs": "Anúncio",
+            "pag": [
+              "37-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/37?pgs=37&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "89",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
