@@ -30,6 +30,8 @@ c) Estágio em Diplomacia Política e Apoio Consular
 
 - Cód. 225 - História e Arqueologia;
 
+- Cód. 226 - Filosofia e Ética;
+
 - Cód. 311 - Psicologia;
 
 - Cód. 312 - Sociologia e outros estudos;
@@ -37,6 +39,8 @@ c) Estágio em Diplomacia Política e Apoio Consular
 - Cód. 313 - Ciência Política e Cidadania;
 
 - Cód. 314 - Economia
+
+- Cód. 321 - Jornalismo e Reportagem;
 
 - Cód. 345 - Gestão e Administração;
 

@@ -32,4 +32,6 @@ b) Subsistindo o empate, em função da mais elevada classificação final obtid
 
 c) (Revogada.)
 
-d) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.
+d) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior;
+
+e) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.

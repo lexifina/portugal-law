@@ -4,7 +4,7 @@
 
 1 - Os métodos de seleção são eliminatórios, sendo excluídos os candidatos cuja classificação seja inferior a 14 valores na avaliação curricular e inferior a 10 valores na entrevista de seleção.
 
-2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, é alterada a classificação de exclusão para um valor de 0,5 pontos imediatamente inferior.
+2 - Sempre que da aplicação do disposto no número anterior resulte, uma vez concluído o método de avaliação curricular, um número de candidatos aprovados inferior ao dobro do número de vagas disponível para a respetiva área de estágio, a classificação de exclusão é alterada sucessivamente para um valor de 0,5 pontos imediatamente inferior.
 
 3 - Depois de concluídas e avaliadas as entrevistas de seleção, a comissão de seleção e avaliação elabora a ordenação final dos candidatos, em cada área de estágio, de acordo com uma escala classificativa de 0 a 20 valores, em resultado da média aritmética ponderada das classificações obtidas em cada método de seleção.
 
@@ -18,4 +18,6 @@ c) Subsistindo o empate, em função da titularidade de grau académico mais ele
 
 d) (Revogada.);
 
-e) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.
+e) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior;
+
+f) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.

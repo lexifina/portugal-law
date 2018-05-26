@@ -8,4 +8,4 @@
 
 3 - Compete ao orientador de estágio a elaboração da proposta de um plano de estágio e respetivos objetivos, designadamente para efeitos de aplicação do Sistema Integrado de Gestão e Avaliação de Desempenho na Administração Pública (SIADAP), em que são descritas de forma sumária as responsabilidades e funções a desempenhar no serviço pelo estagiário, que deverá ser aprovado pelo dirigente máximo do serviço.
 
-4 - Compete ao orientador de estágio o preenchimento das fichas de avaliação quadrimestral e final do estagiário, tendo em atenção o plano de estágio.
+4 - Compete ao orientador de estágio o preenchimento das fichas de avaliação semestral e final do estagiário, tendo em atenção o plano de estágio.
