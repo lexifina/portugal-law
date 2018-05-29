@@ -1,0 +1,593 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "773",
+    "id": "42165",
+    "titulo": "Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2018-05-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13202",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2018-05-29",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42453",
+        "leg": "XIII",
+        "nr": "832",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42476",
+        "leg": "XIII",
+        "nr": "838",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Define o regime e as condições em que a morte medicamente assistida não é punível"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41038",
+        "leg": "XIII",
+        "nr": "418",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2513",
+            "obs": null,
+            "pag": [
+              "57-65"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57-65&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Regula o acesso à morte medicamente assistida"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-05-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1597",
+                "nome": "Fátima Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2010",
+                "nome": "Ascenso Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6157",
+                "nome": "Lara Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "419",
+                "nome": "Joaquim Barreto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6045",
+                "nome": "Paulo Trigo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/61?pgs=61-65&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "339414",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "820109",
+        "obs": null,
+        "pag": [
+          "37-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-30",
+        "pubLeg": "XIII",
+        "pubNr": "90",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/37?pgs=37-56&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2018-05-29",
+        "descricao": null,
+        "detalhe": "A Favor: <I>Paula Teixeira Da Cruz (PSD)</I>, <I> Teresa Leal Coelho (PSD)</I>, <I> Duarte Marques (PSD)</I>, <I> Fernando Rocha Andrade (PS)</I>, <I> Rosa Maria Bastos Albernaz (PS)</I>, <I> Filipe Neto Brandão (PS)</I>, <I> Porfírio Silva (PS)</I>, <I> Sónia Fertuzinhos (PS)</I>, <I> Hugo Pires (PS)</I>, <I> Maria Augusta Santos (PS)</I>, <I> Luís Soares (PS)</I>, <I> Jorge Gomes (PS)</I>, <I> Hortense Martins (PS)</I>, <I> Pedro Coimbra (PS)</I>, <I> João Galamba (PS)</I>, <I> Elza Pais (PS)</I>, <I> Jamila Madeira (PS)</I>, <I> Luís Graça (PS)</I>, <I> Santinho Pacheco (PS)</I>, <I> Maria Antónia De Almeida Santos (PS)</I>, <I> Margarida Marques (PS)</I>, <I> António Sales (PS)</I>, <I> José Miguel Medeiros (PS)</I>, <I> Eduardo Ferro Rodrigues (PS)</I>, <I> Helena Roseta (PS)</I>, <I> Maria Da Luz Rosinha (PS)</I>, <I> Sérgio Sousa Pinto (PS)</I>, <I> Edite Estrela (PS)</I>, <I> Jorge Lacão (PS)</I>, <I> Vitalino Canas (PS)</I>, <I> Susana Amador (PS)</I>, <I> João Soares (PS)</I>, <I> Joaquim Raposo (PS)</I>, <I> Pedro Delgado Alves (PS)</I>, <I> Isabel Alves Moreira (PS)</I>, <I> Diogo Leão (PS)</I>, <I> Luís Moreira Testa (PS)</I>, <I> Alexandre Quintanilha (PS)</I>, <I> Isabel Santos (PS)</I>, <I> João Torres (PS)</I>, <I> João Paulo Correia (PS)</I>, <I> Gabriela Canavilhas (PS)</I>, <I> Ricardo Bexiga (PS)</I>, <I> Tiago Barbosa Ribeiro (PS)</I>, <I> Bacelar De Vasconcelos (PS)</I>, <I> António Gameiro (PS)</I>, <I> Idália Salvador Serrão (PS)</I>, <I> Ana Catarina Mendonça Mendes (PS)</I>, <I> Eurídice Pereira (PS)</I>, <I> Paulo Trigo Pereira (PS)</I>, <I> Catarina Marcelino (PS)</I>, <I> José Manuel Carpinteira (PS)</I>, <I> Francisco Rocha (PS)</I>, <I> Carlos César (PS)</I>, <I> João Azevedo Castro (PS)</I>, <I> Carlos Pereira (PS)</I>, <I> Luís Vilhena (PS)</I>, <I> Paulo Pisco (PS)</I>, <I> Moisés Ferreira (BE)</I>, <I> Pedro Soares (BE)</I>, <I> José Manuel Pureza (BE)</I>, <I> João Vasconcelos (BE)</I>, <I> Heitor De Sousa (BE)</I>, <I> Mariana Mortágua (BE)</I>, <I> Pedro Filipe Soares (BE)</I>, <I> Jorge Costa (BE)</I>, <I> Isabel Pires (BE)</I>, <I> Jorge Falcato Simões (BE)</I>, <I> Catarina Martins (BE)</I>, <I> José Moura Soeiro (BE)</I>, <I> Luís Monteiro (BE)</I>, <I> Jorge Campos (BE)</I>, <I> Carlos Matias (BE)</I>, <I> Joana Mortágua (BE)</I>, <I> Sandra Cunha (BE)</I>, <I> José Luís Ferreira (PEV)</I>, <I> Heloísa Apolónia (PEV)</I>, <I> Carla Tavares (PS)</I>, <I> Nuno Sá (PS)</I>, <I> Palmira Maciel (PS)</I>, <I> João Marques (PS)</I>, <I> João Gouveia (PS)</I>, <I> Norberto Patinho (PS)</I>, <I> Fernando Anastácio (PS)</I>, <I> Ana Passos (PS)</I>, <I> Rui Riso (PS)</I>, <I> Wanda Guimarães (PS)</I>, <I> Ricardo Leão (PS)</I>, <I> Constança Urbano De Sousa (PS)</I>, <I> Joana Lima (PS)</I>, <I> Fernando Jesus (PS)</I>, <I> Carla Sousa (PS)</I>, <I> Hugo Carvalho (PS)</I>, <I> Hugo Costa (PS)</I>, <I> Ivan Gonçalves (PS)</I>, <I> Sofia Araújo (PS)</I>, <I> André Pinotes Batista (PS)</I>, <I> Sandra Pontedeira (PS)</I>, <I> Marisabel Moutela (PS)</I>, <I> José Rui Cruz (PS)</I>, <I> Lúcia  Araújo Silva (PS)</I>, <I> Maria Manuel Rola (BE)</I>, <I> Ernesto Ferraz (BE)</I>, <I> André Silva (PAN)</I><BR>Contra:<I>António Topa (PSD)</I>, <I> Regina Bastos (PSD)</I>, <I> Ulisses Pereira (PSD)</I>, <I> Helga Correia (PSD)</I>, <I> Amadeu Soares Albergaria (PSD)</I>, <I> Susana Lamas (PSD)</I>, <I> Bruno Coimbra (PSD)</I>, <I> Nilza De Sena (PSD)</I>, <I> Fernando Negrão (PSD)</I>, <I> Clara Marques Mendes (PSD)</I>, <I> Hugo Lopes Soares (PSD)</I>, <I> Laura Monteiro Magalhães (PSD)</I>, <I> Emídio Guerreiro (PSD)</I>, <I> Jorge Paulo Oliveira (PSD)</I>, <I> Joel Sá (PSD)</I>, <I> José Silvano (PSD)</I>, <I> Manuel Frexes (PSD)</I>, <I> Álvaro Batista (PSD)</I>, <I> Margarida Mano (PSD)</I>, <I> Maurício Marques (PSD)</I>, <I> Fátima Ramos (PSD)</I>, <I> António Costa Silva (PSD)</I>, <I> José Carlos Barros (PSD)</I>, <I> Carlos Peixoto (PSD)</I>, <I> Ângela Guerra (PSD)</I>, <I> Teresa Morais (PSD)</I>, <I> Feliciano Barreiras Duarte (PSD)</I>, <I> Pedro Pimpão (PSD)</I>, <I> Margarida Balseiro Lopes (PSD)</I>, <I> José António Silva (PSD)</I>, <I> Luís Marques Guedes (PSD)</I>, <I> José De Matos Correia (PSD)</I>, <I> José De Matos Rosa (PSD)</I>, <I> Sandra Pereira (PSD)</I>, <I> Sérgio Azevedo (PSD)</I>, <I> Pedro Roque (PSD)</I>, <I> Duarte Pacheco (PSD)</I>, <I> Carlos Silva (PSD)</I>, <I> Joana Barata Lopes (PSD)</I>, <I> Cristóvão Crespo (PSD)</I>, <I> José Pedro Aguiar Branco (PSD)</I>, <I> Marco António Costa (PSD)</I>, <I> Emília Santos (PSD)</I>, <I> Fernando Virgílio Macedo (PSD)</I>, <I> Maria Germana Rocha (PSD)</I>, <I> Carlos Costa Neves (PSD)</I>, <I> Miguel Santos (PSD)</I>, <I> Cristóvão Simão Ribeiro (PSD)</I>, <I> Firmino Pereira (PSD)</I>, <I> Andreia Neto (PSD)</I>, <I> Miguel Morgado (PSD)</I>, <I> Carla Barros (PSD)</I>, <I> Paulo Rios De Oliveira (PSD)</I>, <I> Luís Vales (PSD)</I>, <I> Nuno Serra (PSD)</I>, <I> Maria Luís Albuquerque (PSD)</I>, <I> Bruno Vitorino (PSD)</I>, <I> Maria Das Mercês Borges (PSD)</I>, <I> Pedro Do Ó Ramos (PSD)</I>, <I> Carlos Abreu Amorim (PSD)</I>, <I> Luís Campos Ferreira (PSD)</I>, <I> Emília Cerqueira (PSD)</I>, <I> Luís Leite Ramos (PSD)</I>, <I> Luís Pedro Pimentel (PSD)</I>, <I> Maria Manuela Tender (PSD)</I>, <I> António Leitão Amaro (PSD)</I>, <I> Pedro Alves (PSD)</I>, <I> Inês Domingos (PSD)</I>, <I> António Lima Costa (PSD)</I>, <I> Isaura Pedro (PSD)</I>, <I> António Ventura (PSD)</I>, <I> Sara Madruga Da Costa (PSD)</I>, <I> Rubina Berardo (PSD)</I>, <I> Paulo Neves (PSD)</I>, <I> Carlos Alberto Gonçalves (PSD)</I>, <I> José Cesário (PSD)</I>, <I> Carlos Páscoa Gonçalves (PSD)</I>, <I> Miranda Calha (PS)</I>, <I> Ascenso Simões (PS)</I>, <I> João Pinho De Almeida (CDS-PP)</I>, <I> António Carlos Monteiro (CDS-PP)</I>, <I> Telmo Correia (CDS-PP)</I>, <I> Vânia Dias Da Silva (CDS-PP)</I>, <I> Teresa Caeiro (CDS-PP)</I>, <I> Assunção Cristas (CDS-PP)</I>, <I> Ana Rita Bessa (CDS-PP)</I>, <I> João Rebelo (CDS-PP)</I>, <I> Isabel Galriça Neto (CDS-PP)</I>, <I> Pedro Mota Soares (CDS-PP)</I>, <I> Cecília Meireles (CDS-PP)</I>, <I> Álvaro Castello-Branco (CDS-PP)</I>, <I> Patrícia Fonseca (CDS-PP)</I>, <I> Nuno Magalhães (CDS-PP)</I>, <I> Helder Amaral (CDS-PP)</I>, <I> Carla Cruz (PCP)</I>, <I> João Oliveira (PCP)</I>, <I> Paulo Sá (PCP)</I>, <I> Jerónimo De Sousa (PCP)</I>, <I> Rita Rato (PCP)</I>, <I> Miguel Tiago (PCP)</I>, <I> Ana Mesquita (PCP)</I>, <I> Jorge Machado (PCP)</I>, <I> Diana Ferreira (PCP)</I>, <I> António Filipe (PCP)</I>, <I> Francisco Lopes (PCP)</I>, <I> Paula Santos (PCP)</I>, <I> Bruno Dias (PCP)</I>, <I> Rui Cruz (PSD)</I>, <I> Ana Oliveira (PSD)</I>, <I> Ricardo Baptista Leite (PSD)</I>, <I> Ana Sofia Bettencourt (PSD)</I>, <I> Miguel Coelho (PS)</I>, <I> Filipe Anacoreta Correia (CDS-PP)</I>, <I> João Gonçalves Pereira (CDS-PP)</I>, <I> Ilda Araújo Novo (CDS-PP)</I>, <I> João Dias (PCP)</I>, <I> Ângela Moreira (PCP)</I><BR>Abstenção:<I>Adão Silva (PSD)</I>, <I> Cristóvão Norte (PSD)</I>, <I> Pedro Pinto (PSD)</I>, <I> Berta Cabral (PSD)</I>, <I> Pedro Do Carmo (PS)</I>, <I> Joaquim Barreto (PS)</I>, <I> Renato Sampaio (PS)</I>, <I> Lara Martinho (PS)</I>",
+        "id": "79710",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "90",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
