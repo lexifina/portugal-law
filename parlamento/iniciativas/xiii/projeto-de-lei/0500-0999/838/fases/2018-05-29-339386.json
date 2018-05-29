@@ -1,0 +1,1427 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "838",
+    "id": "42476",
+    "titulo": "Define o regime e as condições em que a morte medicamente assistida não é punível"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-05-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13198",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-05-29",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42165",
+        "leg": "XIII",
+        "nr": "773",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42453",
+        "leg": "XIII",
+        "nr": "832",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível"
+      },
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "41038",
+        "leg": "XIII",
+        "nr": "418",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2512",
+            "obs": null,
+            "pag": [
+              "2-5"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-05-30",
+            "pubLeg": "XIII",
+            "pubNr": "90",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-5&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Regula o acesso à morte medicamente assistida"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-05-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:01:50:814&drc=00:07:19:105"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:15:20:072&drc=00:01:38:822"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-3",
+                  "5-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-3,5&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6177",
+                "nome": "Rubina Berardo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:09:09:919&drc=00:02:55:850"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/3?pgs=3-4&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1030",
+                "nome": "Bacelar de Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:12:05:769&drc=00:03:14:302"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226585",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:17:22:951&drc=00:10:07:362"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:34:29:442&drc=00:03:44:882"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-7",
+                  "9-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/5?pgs=5-7,9-10&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6177",
+                "nome": "Rubina Berardo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:27:29:544&drc=00:03:20:274"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226587",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5930",
+                "nome": "Alexandre Quintanilha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:30:49:819&drc=00:03:39:181"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1594",
+                "nome": "Maria Antónia de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:38:14:324&drc=00:08:37:121"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:49:57:306&drc=00:02:49:211"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-11",
+                  "12-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/10?pgs=10-11,12&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6177",
+                "nome": "Rubina Berardo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:46:50:630&drc=00:03:06:675"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/11?pgs=11-12&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=00:52:56:550&drc=00:18:31:085"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:17:03:076&drc=00:07:04:059"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-16",
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/12?pgs=12-16,32-33&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:11:27:635&drc=00:11:01:235"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:30:00:243&drc=00:02:16:661"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-18",
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/16?pgs=16-18,20-21&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:22:27:846&drc=00:04:26:340"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6197",
+                "nome": "António Sales"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:26:54:186&drc=00:03:06:057"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/20?pgs=20&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:32:41:480&drc=00:13:29:273"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:51:28:788&drc=00:01:06:806"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-24",
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/22?pgs=22-24,26&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:46:32:286&drc=00:03:37:511"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226596",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:50:09:798&drc=00:00:33:627"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226597",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:50:59:701&drc=00:00:29:086"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226598",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/26?pgs=26&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1905",
+                "nome": "Fernando Negrão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=01:52:55:307&drc=00:10:00:659"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:05:58:537&drc=00:01:54:302"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226599",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28",
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/27?pgs=27-28,29-30&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4012",
+                "nome": "Fernando Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:02:55:966&drc=00:03:02:570"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226600",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/29?pgs=29&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5617",
+                "nome": "Margarida Mano"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:07:52:840&drc=00:09:10:235"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:24:34:183&drc=00:04:46:051"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:27",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_05_29_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m05/&tI=02:29:47:575&drc=00:07:14:515"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-05-30",
+                "pubLeg": "XIII",
+                "pubNr": "90",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/34?pgs=34-36&org=PLC"
+              }
+            ],
+            "sumario": "Regula o acesso à morte medicamente assistida; Define e regula as condições em que a antecipação da morte, por decisão da própria pessoa com lesão definitiva ou doença incurável e fatal e que se encontra em sofrimento duradouro e insuportável, não é punível; Procede à 47.ª alteração ao Código Penal e regula as condições especiais para a prática de eutanásia não punível e Define o regime e as condições em que a morte medicamente assistida não é punível.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "339386",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "820112",
+        "obs": null,
+        "pag": [
+          "2-36"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-30",
+        "pubLeg": "XIII",
+        "pubNr": "90",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/090/2018-05-30/2?pgs=2-36&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
