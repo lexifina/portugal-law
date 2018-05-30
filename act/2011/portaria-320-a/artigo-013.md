@@ -29,3 +29,5 @@ j) Representar a AT, como autoridade licenciadora, junto da Autoridade Nacional 
 k) Gerir as medidas restritivas em razão dos embargos decretados por Órgão Internacional;
 
 l) Propor e acompanhar o ciclo de vida dos sistemas de informação da sua responsabilidade de acordo com a metodologia em vigor.
+
+m) Assegurar a coordenação com as Autoridades das Regiões Autónomas dos Açores e da Madeira com competência delegada para a execução do licenciamento do comércio externo.

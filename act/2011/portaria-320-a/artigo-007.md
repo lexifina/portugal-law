@@ -1,6 +1,6 @@
 # Artigo 7.º
 
-Direção de Serviços do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, do Imposto do Selo, do Imposto Único de Circulação e das Contribuições Especiais
+### Direção de Serviços do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, do Imposto do Selo, do Imposto Único de Circulação e das Contribuições Especiais
 
 1 - A Direção de Serviços do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, do Imposto do Selo, do Imposto Único de Circulação e das Contribuições Especiais, abreviadamente designada por DSIMT, executa os procedimentos relativos à gestão destes impostos.
 
@@ -10,7 +10,7 @@ a) Estudar e propor medidas legislativas e regulamentares;
 
 b) Uniformizar a aplicação das normas fiscais e os procedimentos dos serviços, designadamente, através da sistematização das decisões administrativas e da elaboração de instruções;
 
-c) Conceber e atualizar modelos declarativos e formulários;
+c) Conceber e atualizar modelos declarativos;
 
 d) Definir as regras de liquidação, de recolha e validação do conteúdo das declarações;
 
@@ -24,4 +24,6 @@ h) Apreciar recursos hierárquicos e procedimentos de revisão oficiosa de atos 
 
 i) Emitir parecer sobre pedidos de isenção e outros benefícios fiscais;
 
-j) Exercer as competências respeitantes a taxas, nomeadamente emolumentares, coimas e outras receitas públicas, cuja administração não esteja atribuída a outra unidade orgânica.
+j) (Revogada.)
+
+k) Proceder ao cálculo dos juros compensatórios, quando devidos.

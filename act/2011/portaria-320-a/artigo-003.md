@@ -10,7 +10,7 @@ a) Estudar, conceber e propor medidas legislativas e regulamentares;
 
 b) Uniformizar a aplicação das normas fiscais e os procedimentos dos serviços, designadamente, através da sistematização das decisões administrativas e da elaboração de instruções;
 
-c) Conceber e atualizar modelos declarativos e formulários;
+c) Conceber e atualizar modelos declarativos;
 
 d) Definir as regras de liquidação, de recolha e de validação central da informação;
 
@@ -26,4 +26,6 @@ i) Elaborar estudos técnicos e estatísticos, incluindo os referentes aos dados
 
 j) Emitir pareceres sobre os casos que lhe forem submetidos para apreciação;
 
-k) Apreciar recursos hierárquicos e procedimentos de revisão oficiosa de atos tributários.
+k) Apreciar recursos hierárquicos e procedimentos de revisão oficiosa de atos tributários;
+
+l) Proceder ao cálculo dos juros compensatórios, quando devidos.

@@ -64,10 +64,12 @@ cc) Direção de Serviços de Auditoria Interna;
 
 dd) Direção de Serviços de Cooperação e Relações Institucionais;
 
-ee) Direção de Serviços de Comunicação e Apoio ao Contribuinte;
+ee) Direção de Serviços de Comunicação, Promoção e Apoio ao Cumprimento;
 
 ff) Unidade dos Grandes Contribuintes.
 
 gg) Direção de Serviços de Gestão de Risco.
+
+hh) Direção de Serviços de Contratação Pública e Logística.
 
 2 - Aos dirigentes dos serviços centrais cumpre gerir, a nível nacional, as áreas de resultado cuja responsabilidade lhes esteja cometida, incluindo a tomada de medidas e o prosseguimento das ações tendentes à uniformização de procedimentos nos serviços desconcentrados.

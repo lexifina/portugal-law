@@ -22,6 +22,6 @@ g) Gerir, em colaboração com a DSIVA, o sistema Vat Information Exchange Syste
 
 h) Gerir o programa comunitário Fiscalis, assegurando os compromissos assumidos perante a Comissão Europeia ou os restantes Estados membros da União Europeia;
 
-i) Assegurar a cooperação administrativa e assistência mútua entre os Estados membros da União Europeia, bem como o envio à Comissão Europeia de informação que esta solicite;
+i) Assegurar a cooperação administrativa e assistência mútua entre os Estados membros da União Europeia através da Presença nos Serviços Administrativos e Participação nos Inquéritos Administrativos, dos Controlos Simultâneos e da Rede Eurofisc, nos termos previstos no Regulamento (UE) n.º 904/2010, de 7 de outubro de 2010, bem como, quando aplicável, no Decreto-Lei n.º 61/2013, de 10 de maio;
 
 j) Instaurar e instruir processos de inquérito, nos termos dos artigos 40.º e 41.º do RGIT.

@@ -6,7 +6,7 @@
 
 2 - À DSA, no âmbito das suas atribuições, compete, designadamente:
 
-a) Efetuar estudos relacionados com a atualização do valor patrimonial tributário dos prédios e a realização de avaliações de base cadastral ou direta;
+a) Efetuar estudos relacionados com a atualização do valor patrimonial tributário dos prédios e a realização de avaliações de prédios urbanos e rústicos;
 
 b) Estudar e propor medidas de aperfeiçoamento das normas e procedimentos técnicos relacionados com as avaliações;
 
@@ -23,3 +23,5 @@ g) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo c
 h) Elaborar pareceres e estudos técnicos e estatísticos sempre que tal lhe seja solicitado;
 
 i) Prestar apoio à Comissão Nacional de Avaliação de Prédios Rústicos (CNAPR), às Juntas de Avaliação Municipal (JAM) e à Comissão Nacional de Avaliação de Prédios Urbanos (CNAPU).
+
+j) Apreciar recursos hierárquicos e procedimentos relativos a atos de fixação dos valores patrimoniais tributários.

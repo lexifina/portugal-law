@@ -32,6 +32,14 @@ l) Instaurar e instruir processos de inquérito, nos termos dos artigos 40.º e 
 
 m) Proceder à instauração, instrução e apreciação do procedimento tributário, oficiosamente ou por iniciativa do contribuinte, de revisão do ato tributário ou da matéria tributável;
 
-n) Proceder à instauração, instrução e apreciação do procedimento de reclamação graciosa;
+n) (Revogada.)
 
 o) Colaborar com a representação da Fazenda Pública junto dos tribunais tributários.
+
+p) Realizar as atividades relacionadas com a arrecadação de impostos e outros tributos, com exceção dos previstos no artigo 37.º da presente portaria, e com o controlo do cumprimento da obrigação de imposto pelos sujeitos passivos;
+
+q) Assegurar as atividades relacionadas com a justiça tributária, desenvolvendo os procedimentos inerentes à conflitualidade fiscal suscitada pelos contribuintes que lhe sejam atribuídos ou resultante do incumprimento das obrigações fiscais destes;
+
+r) Exercer as competências do serviço desconcentrado de âmbito local indicado na alínea a) do n.º 1 do artigo 39.º da presente portaria relativamente aos contribuintes que lhe sejam atribuídos;
+
+s) Executar quaisquer outras atividades que lhe sejam atribuídas por lei ou decisão superior.

@@ -22,10 +22,12 @@ g) Promover a seleção de contribuintes e ações de vigilância e fiscalizaç�
 
 h) Gerir a troca de informações com países comunitários e com países terceiros com os quais Portugal tenha celebrado convenções sobre dupla tributação;
 
-i) Conceber e atualizar modelos declarativos e formulários;
+i) Conceber e atualizar modelos declarativos;
 
 j) Elaborar pareceres e realizar estudos e trabalhos técnicos relacionados com a respetiva área de intervenção sempre que tal lhe seja solicitado;
 
 k) Estudar e propor medidas legislativas e regulamentares;
 
-l) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo com a metodologia em vigor.
+l) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo com a metodologia em vigor;
+
+m) Assegurar o funcionamento do sistema 'e-fatura' e do sistema de gestão do documento eletrónico de transporte.

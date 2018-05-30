@@ -22,6 +22,6 @@ g) Atribuir o número de identificação fiscal às pessoas singulares e coletiv
 
 h) Apreciar os pedidos de informação relativa a dados constantes do registo único de contribuintes;
 
-i) Conceber e atualizar modelos declarativos e formulários;
+i) Conceber e atualizar modelos declarativos;
 
 j) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo com a metodologia em vigor.

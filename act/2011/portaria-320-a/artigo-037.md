@@ -22,7 +22,7 @@ h) Assegurar a gestão corrente da caução global para desalfandegamento das me
 
 i) Promover o controlo «a posteriori» da documentação aduaneira e fiscal e organizar os processos de cobrança «a posteriori» decorrentes dos procedimentos de desalfandegamento, quer de direitos aduaneiros quer de impostos sobre o consumo;
 
-j) Assegurar a liquidação e cobrança «a posteriori» dos direitos aduaneiros, impostos especiais de consumo e demais imposições que se mostrem devidas na sequência das atividades de natureza fiscalizadora e inspetiva realizadas pelos serviços antifraude aduaneira em relação às empresas e demais contribuintes que tenham a sua sede na área de jurisdição da respetiva alfândega, sem prejuízo do disposto no n.º 5 do artigo 36.º;
+j) Assegurar a liquidação e cobrança 'a posteriori' dos direitos aduaneiros, impostos especiais de consumo e demais imposições que se mostrem devidas na sequência das atividades de natureza fiscalizadora e inspetiva realizadas pelos serviços antifraude aduaneira em relação às empresas e demais contribuintes que tenham a sua sede na área de jurisdição da respetiva alfândega, sem prejuízo do disposto no n.º 5 do artigo 35.º;
 
 k) Assegurar a contabilização de receitas e tesouraria do Estado;
 
@@ -48,11 +48,13 @@ u) Manter permanentemente atualizada informação sobre os processos-crime e sob
 
 v) Instruir os processos de contraordenação, no âmbito da sua competência;
 
-w) Acompanhar junto dos tribunais administrativos e fiscais os processos de contencioso administrativo relativos a atos praticados pelo diretor da alfândega ou por outra entidade sua subordinada;
+w) (Revogada.)
 
 x) Assegurar a execução das tarefas administrativas em matéria de gestão corrente de pessoal;
 
 y) Informar os pedidos de afetação e movimentação de pessoal, analisando as necessidades manifestadas pelos serviços desconcentrados de âmbito local delas dependentes.
+
+z) Proceder ao cálculo dos juros compensatórios, quando devidos.
 
 2 - Com fundamento na natureza das mercadorias ou no regime aduaneiro a que devam ser sujeitas, pode, o diretor-geral, determinar por despacho, publicado no Diário da República, 2.ª série, que algumas alfândegas assumam uma natureza especializada, prosseguindo, apenas parcelarmente, as atribuições de natureza operativa da AT.
 

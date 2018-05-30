@@ -40,4 +40,6 @@ p) Promover iniciativas de benchmarking nacional e internacional, visando a inov
 
 q) Implementar e gerir processos de qualidade de acordo com as normas e padrões internacionais;
 
-r) Definir e gerir o modelo de disponibilização de conteúdos dos portais internos e externos da AT, manter a taxonomia global de suporte e gerir os componentes transversais.
+r) Definir e gerir o modelo de disponibilização de conteúdos dos portais internos e externos da AT, manter a taxonomia global de suporte e gerir os componentes transversais;
+
+s) Coordenar a gestão do 'Sistema de Gestão de Processos e Serviços'.

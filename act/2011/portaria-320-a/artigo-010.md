@@ -28,4 +28,12 @@ j) Colaborar com outros organismos e serviços competentes no controlo da utiliz
 
 k) Colaborar com os serviços competentes na preparação de medidas de política integradas nas áreas do ambiente, da energia e dos transportes;
 
-l) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo com a metodologia em vigor.
+l) Propor e acompanhar o ciclo de vida dos sistemas de informação, de acordo com a metodologia em vigor;
+
+m) Definir as regras de liquidação e de cálculo dos juros compensatórios, de recolha e de validação central da informação;
+
+n) Efetuar o controlo da liquidação;
+
+o) Detetar situações de falta de declaração ou de omissões nela verificadas, comunicando-as à entidade competente para a liquidação;
+
+p) Coordenar a matéria relativa às garantias respeitantes aos tributos que administra, elaborando e difundindo as respetivas instruções.

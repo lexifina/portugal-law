@@ -31,3 +31,7 @@ k) Promover e assegurar as relações com organismos nacionais vocacionados para
 l) Coordenar o pré-contencioso e o contencioso comunitário;
 
 m) Promover a inventariação e sistematização do acervo museológico tributário e aduaneiro e assegurar a recolha, seleção e tratamento da documentação histórica e gerir o respetivo arquivo histórico.
+
+n) Realizar estudos de análise económica no domínio da fiscalidade e de avaliação do impacto orçamental de medidas de natureza fiscal;
+
+o) Assegurar, em articulação com outras unidades orgânicas da AT, a elaboração de estimativas e previsões da receita fiscal, bem como o acompanhamento da evolução das receitas cobradas pela AT.

@@ -22,19 +22,19 @@ g) Executar os procedimentos respeitantes ao processamento dos vencimentos e out
 
 h) Processar as despesas relacionadas com a aquisição de bens e serviços;
 
-i) Elaborar o plano anual de aquisição de equipamentos e de bens de consumo corrente necessários ao funcionamento das diferentes unidades orgânicas da AT e controlar a sua execução;
+i) (Revogada.)
 
-j) Executar os procedimentos relativos à aquisição ou locação de bens e serviços que devam ser centralizados, bem como o respetivo controlo pelos centros de custos, e assegurar o armazenamento, distribuição e gestão do material, quando tal se revele necessário;
+j) (Revogada.)
 
-k) Realizar estudos e efetuar propostas sobre as modalidades de satisfação das necessidades da AT, em equipamentos e aquisição de bens de consumo corrente;
+k) (Revogada.)
 
-l) Organizar e manter atualizado o inventário do património mobiliário da AT;
+l) (Revogada.)
 
-m) Assegurar a reprodução e distribuição dos impressos e publicações da AT;
+m) (Revogada.)
 
-n) Elaborar e mandar publicar os avisos, anúncios e listagens previstos na lei, bem como acompanhar e controlar a emissão e o cancelamento das garantias bancárias relativas às obras em concurso público;
+n) (Revogada.)
 
-o) Assegurar o funcionamento do serviço editorial Ciência e Técnica Fiscal e Aduaneira;
+o) (Revogada.)
 
 p) Assegurar a gestão e o controlo contabilístico das receitas próprias da AT e dos financiamentos comunitários;
 
@@ -42,11 +42,11 @@ q) Elaborar indicadores de gestão que permitam acompanhar a evolução da situa
 
 r) Promover a constituição, reconstituição e liquidação dos fundos de maneio e controlar as despesas efetuadas através dos mesmos;
 
-s) Analisar e propor o preço de venda ao público dos impressos e outras publicações e serviços, bem como apoiar, instrumentalmente, a publicação gráfica e eletrónica de documentação técnica;
+s) (Revogada.)
 
-t) Gerir o equipamento de comunicações e do parque automóvel, propondo a aquisição, manutenção e substituição, promover o abate das viaturas afetas à AT, instruir os respetivos processos e ainda os relativos a viaturas abandonadas a favor do parque de viaturas do Estado, de acordo com o Decreto-Lei n.º 31/85, de 25 de janeiro;
+t) (Revogada.)
 
-u) Garantir o funcionamento em matéria de expediente e correspondência dos serviços centrais;
+u) (Revogada.)
 
 v) Propor e acompanhar o ciclo de vida dos sistemas de informação da sua responsabilidade de acordo com a metodologia em vigor;
 
