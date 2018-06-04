@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 71/2018
+A Autoridade Tributária e Aduaneira (AT) adotou no início da informatização da sua atividade, remontando ao ano de 1986, uma arquitetura baseada na plataforma mainframe. Os sistemas de informação tem vindo a ser adaptados de forma a acompanhar a arquitetura dos sistemas aplicacionais, recorrendo a diversas plataformas que são de importância fundamental à integração entre aplicações e sistemas desenvolvidos para suporte da AT.
+Existem atualmente cerca de 500 aplicações em produção e a plataforma da AT tem vindo a sofrer uma enorme pressão para dar resposta a um crescimento exponencial de novas funcionalidades, de dados, de armazenamento e de capacidade, o que obriga a ajustamentos de licenciamento, upgrades de hardware e integração de novas ferramentas, de forma a suportar toda a carga de transações e seus incrementos.
+Os desafios colocados à AT têm implicações na capacidade, armazenamento e na respetiva adequação do seu licenciamento informático.
+Considera-se necessário a celebração de um contrato de aquisição de licenciamento e de serviços de suporte e manutenção da infraestrutura tecnológica, pelo período de três anos, de forma a acomodar os crescimentos necessários e aquisição de novas ferramentas, com a redução de custos mediante a flexibilidade e previsibilidade de encargos.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea b) do n.º 1 do artigo 20.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, do artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Ministério das Finanças, através da Autoridade Tributária e Aduaneira (AT), a proceder à aquisição de um modelo de licenciamento empresarial para o software e serviços de suporte da infraestrutura existente na AT, pelo prazo de três anos, no período de 2018 a 2020, mediante recurso ao procedimento de concurso público com publicação de anúncio no Jornal Oficial da União Europeia, nos termos do disposto na alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, até ao montante total de (euro) 18.977.792,00, ao qual acresce IVA à taxa legal em vigor.
+2 - Determinar que os encargos orçamentais resultantes do procedimento referido no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+2018 - (euro) 5.730.562,00;
+2019 - (euro) 6.546.307,00;
+2020 - (euro) 6.700.923,00.
+3 - Estabelecer que as importâncias fixadas para cada ano económico podem ser acrescidas do saldo que se apurar no ano anterior.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever nos orçamentos da AT referentes aos anos indicados.
+5 - Delegar, na diretora-geral da Autoridade Tributária e Aduaneira, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito do procedimento previsto na presente resolução.
+6 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+Presidência do Conselho de Ministros, 24 de maio de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+111391276
