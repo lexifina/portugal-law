@@ -1,0 +1,7 @@
+Aviso n.º 7582/2018
+Consulta pública de «Alteração ao Regulamento e Tabela de Taxas da Freguesia»
+Francisco António Caetano Lampreia, Presidente da Junta de Freguesia de Vila Nova de Milfontes, torna público que a Junta de Freguesia na sua reunião de 21 de março de 2018 e a Assembleia de Freguesia na sua sessão de 26 de abril de 2018, deliberaram aprovar o projeto de alteração ao Regulamento e Tabela de Taxas da Freguesia e submeter o mesmo a consulta pública, pelo prazo de trinta dias a contar do dia seguinte ao da publicação do presente aviso no Diário da República, de acordo com o disposto no artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro.
+A referida proposta de alteração ao regulamento e respetiva fundamentação económico-financeira, encontram-se disponíveis para consulta, nos serviços administrativos da Junta de Freguesia bem como no sítio eletrónico desta freguesia https://jf-vnmilfontes.pt/
+Nos termos do artigo 118.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, os interessados devem entregar, por escrito, as suas sugestões ao órgão com competência regulamentar, no prazo de 30 dias, a contar da data da publicação do projeto de regulamento no Diário da República, nos serviços administrativos da Junta de Freguesia, sito em Largo do Rossio, 7645-310 Vila Nova de Milfontes, durante o horário de expediente (9:00-16:30).
+23 de maio de 2018. - O Presidente da Junta, Francisco António Caetano Lampreia.
+311371682
