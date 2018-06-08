@@ -1,0 +1,12 @@
+Aviso n.º 7699/2018
+1.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede
+Abertura do procedimento de elaboração
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, torna público, que a Câmara Municipal, em reunião ordinária realizada a 15 de maio de 2018, decidiu que se vai dar início ao processo de elaboração da 1.ª Alteração à 1.ª Revisão do Plano Diretor Municipal de Cantanhede (PDM), prevendo-se que o processo de elaboração do plano não ultrapasse 12 (doze) meses.
+Convidam-se todos os interessados a formular as observações e sugestões que entendam por convenientes, pelo prazo de 15 (quinze) dias, contados a partir do dia da publicação do presente Aviso na 2.ª série do Diário da República, nos termos do n.º 1 do artigo 76.º conjugado com o n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio, as quais devem ser apresentadas por escrito em impresso próprio, ou em ofício devidamente identificado, dirigido à Presidente da Câmara Municipal de Cantanhede, e entregue no Departamento Obras e Urbanismo, durante as horas normais de expediente, ou pela Internet no endereço www.cm-cantanhede.pt. É ainda disponibilizado um e-mail próprio (dou@cm-cantanhede.pt).
+As alterações previstas terão apenas incidência a nível do Regulamento no Capítulo III Secção VII - Zonas sujeitas a regimes de salvaguarda e na Planta de Ordenamento - Zonas sujeitas a regimes de salvaguarda.
+O presente Aviso vai ser afixado nos lugares públicos habituais.
+22 de maio de 2018. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+Deliberação
+Pedro António Vaz Cardoso, Vice-Presidente da Câmara Municipal de Cantanhede, declara para os devidos efeitos que, a Câmara Municipal, em sua sessão ordinária realizada em 15/05/2018, deliberou dar início ao processo de elaboração da 1.ª Alteração da 1.ª Revisão do Plano Diretor Municipal de Cantanhede, prevendo-se que o processo de elaboração da alteração do plano não ultrapasse 12 (doze) meses, bem como dar início ao processo de audiência prévia dos interessados, a decorrer pelo prazo de 15 (quinze) dias, contados a partir do dia da publicação do presente Aviso na 2.ª série do Diário da República, nos termos do ponto 1 do artigo 76.º conjugado com o ponto 2 do artigo 88.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+22 de maio de 2018. - O Vice-Presidente da Câmara Municipal, Pedro António Vaz Cardoso.
+611375043
