@@ -1,0 +1,5 @@
+Aviso n.º 7715/2018
+Luís Simão Duarte de Matos, Presidente da Câmara Municipal de Mora, torna público que, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e para os fins previstos no artigo 56.º da Lei n.º 75/2013 de 12 de setembro, a Câmara Municipal em reunião ordinária de 16 de maio de 2018 deliberou por unanimidade aprovar o Projeto de Regulamento do Programa de Apoio à Recuperação de Habitações Degradadas, e pelo prazo de 30 dias, a contar da publicação deste aviso no Diário da República, 2.ª série, submetê-lo a discussão pública.
+Durante o referido período poderão os interessados consultar, nos Paços do Concelho, na Divisão de Obras e Urbanismo, durante o horário normal de expediente e em www.cm-mora.pt, o referido projeto de Regulamento e sobre ele formular quaisquer sugestões, as quais deverão ser dirigidas, por escrito, ao Presidente da Câmara Municipal.
+24 de maio de 2018. - O Presidente da Câmara Municipal de Mora, Luís Simão Duarte de Matos.
+311375368
