@@ -1,0 +1,10 @@
+Despacho Normativo n.º 10/2018
+Considerando que a alínea c) do n.º 2 do artigo 14.º do Regulamento n.º 578/2017 (Regulamento dos dirigentes da Universidade NOVA de Lisboa, publicado no Diário da República, 2.ª série, n.º 210, de 31 de outubro de 2017), determina que os dirigentes intermédios de 3.º grau recebem despesas de representação correspondentes à direção intermédia de grau 3 da administração pública;
+Considerando que só se encontram estabelecidas as identificações dos níveis remuneratórios correspondentes às remunerações base e despesas se representação dos cargos de direção intermédia de 1.º e 2.º grau;
+Considerando que a identificação dos níveis remuneratórios correspondentes às remunerações base dos cargos de direção intermédia do 3.º grau ou inferior é efetuada por remissão para diploma orgânico ou estatutário que os preveja;
+Considerando que é necessário determinar o montante a pagar por despesas de representação aos Dirigentes intermédios de 3.º grau;
+Considerando que o anterior Regulamento dos cargos de direção intermédia da Universidade Nova de Lisboa, publicado através do Despacho n.º 15137/2013, publicado no Diário da República n.º 225, 2.ª série, de 20 de novembro de 2013, no seu artigo 11.º, alínea c), fixava o montante das despesas de representação devidas aos dirigentes intermédios de 3.º grau, em 35 % do valor fixado para os dirigentes intermédios de 1.º grau;
+Considerando que não se trata de matéria que afete de modo direto e imediato direitos ou interesses legalmente protegidos dos cidadãos, visto que carece de atos de aplicação posteriores, e portanto não necessita de ser sujeito a audiência dos interessados nos termos do n.º 1 do artigo 100.º do Código do Procedimento Administrativo;
+Determino, ao abrigo do artigo 18.º do Regulamento n.º 578/2017, que as despesas de representação pagas aos dirigentes intermédios de 3.º grau da Universidade NOVA de Lisboa sejam o correspondente a 35 % do valor fixado para os dirigentes intermédios de 1.º grau.
+15 de maio de 2018. - O Reitor, Professor Doutor João de Deus Sàágua.
+311378098
