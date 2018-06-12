@@ -1,5 +1,3 @@
-Decreto-Lei n.º 79/2011
-
 de 20 de Junho
 
 A aplicação do princípio da livre circulação de mercadorias determinou que o controlo do cumprimento dos requisitos legais seja efectuado no país de origem, isto é, a aplicação do citado princípio determinou a abolição das fronteiras e, em consequência, o controlo dos animais ou dos produtos passou a ser efectuado na origem, ou seja, no seu local de produção.
