@@ -18,4 +18,6 @@
 
 8 - Para efeitos do disposto no número anterior, relativamente ao CASNS e ao CCSNS, a Direção-Geral de Saúde (DGS) colabora com a SPMS, E. P. E., realizando auditorias clínicas e de qualidade.
 
-9 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+9 - No âmbito dos serviços partilhados de conferência de faturas de medicamentos, de meios complementares de diagnóstico e terapêutica e de outras áreas de prestações de saúde, a SPMS, E. P. E., tem por missão assegurar a atividade e a gestão do Centro de Controlo e Monitorização do SNS (CCMSNS).
+
+10 - Para a realização do seu objecto, a SPMS, E. P. E., pode ainda constituir ou participar noutras empresas públicas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
