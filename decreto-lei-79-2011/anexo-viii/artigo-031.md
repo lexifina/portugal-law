@@ -1,0 +1,9 @@
+## Capítulo V
+
+## Disposições finais e transitórias
+
+# Artigo 31.º
+
+### Regiões Autónomas
+
+Os actos e os procedimentos necessários à execução do presente regulamento nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
