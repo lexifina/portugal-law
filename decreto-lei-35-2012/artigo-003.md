@@ -32,7 +32,7 @@ l) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas n
 
 m) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;
 
-n) Assegurar e gerir, diretamente ou por intermédio de entidade contratada para o efeito, um centro de conferência de faturas do SNS, de medicamentos, de meios complementares de diagnóstico e terapêutica, e de outras áreas de prestações de saúde;
+n) [Revogada.]
 
 o) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;
 
