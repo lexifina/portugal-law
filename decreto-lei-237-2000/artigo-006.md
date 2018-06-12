@@ -25,3 +25,11 @@ b) Encontrarem-se substancialmente isentos de vírus ou organismos similares e d
 c) Em caso de enxertia, terem sido enxertados em porta-enxertos que não apresentem susceptibilidade a viróides.
 
 4 - Os bolbos de flores devem ser directamente derivados de materiais que, nos controlos realizados na fase de crescimento da planta, se encontrem substancialmente isentos de quaisquer organismos nocivos ou dos sinais ou sintomas destes.
+
+5 - Sem prejuízo do disposto no n.º 1, para o material de propagação dos géneros ou espécies constantes do anexo ao presente decreto-lei, e do qual faz parte integrante, devem igualmente ser tidos em conta os organismos prejudiciais e doenças específicas com incidência significativa na qualidade, listados no referido anexo.
+
+6 - Os materiais de propagação de Palmae pertencentes aos géneros e espécies referidos no n.º 11 do anexo ao presente decreto-lei e com um diâmetro da base do caule superior a 5 cm devem adicionalmente cumprir um dos seguintes requisitos:
+
+a) Devem ter sido cultivados durante todo o seu ciclo de vida numa área que tenha sido reconhecida como isenta de Rhynchophorus ferrugineus (Olivier) pela DGAV; ou
+
+b) Devem ter sido cultivados, nos dois anos que precederam a sua comercialização, num local com proteção física completa contra a introdução de Rhynchophorus ferrugineus (Olivier), ou num local onde foram aplicados tratamentos preventivos adequados em relação a esse organismo prejudicial, sendo que a confirmação da isenção deste organismo é feita por inspeções visuais ao material, efetuadas pelo menos uma vez de quatro em quatro meses, e o referido local pode situar-se em território nacional ou, em alternativa, no território de outros Estados-Membros, cabendo neste caso às autoridades competentes respetivas zelar pelo cumprimento destes requisitos.
