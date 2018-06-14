@@ -1,0 +1,75 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Relatórios Externos",
+  "numero": null,
+  "data_registo": "2018-06-14",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Relatório anual do Provedor de Justiça relativo a 2017 e anexos",
+    "Audicoes": [
+      "109522"
+    ],
+    "Comissao": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "DataAgendamentoDebate": null,
+    "DataEntrada": "2018-06-14",
+    "DataParecerUTAO": null,
+    "DataPedidoParecer": null,
+    "DescTipo": "Relatórios Externos",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-09-26 00:00:00.0",
+        "TipoDocumento": "Parecer",
+        "TituloDocumento": "Parecer CACDLG",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d35686379387a5a6a41324d6a5a6a5a43316a4e7a6c6b4c5451304f544574596a55334f5330354f444931596d45305a6a45305a4463756347526d&fich=3f0626cd-c79d-4491-b579-9825ba4f14d7.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2018-06-20 00:00:00.0",
+        "TipoDocumento": "Relatório",
+        "TituloDocumento": "Relatório anual do Provedor de Justiça relativo a 2017 e anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e46626e52705a47466b5a584e466548526c636d3568637938784e6a557a4f5759324d53316c4e4451324c5451304d6d45744f44566b5a43307a596d55345a6a45784d3255344e6a49756347526d&fich=16539f61-e446-442a-85dd-3be8f113e862.pdf&Inline=true"
+      }
+    ],
+    "EntidadesExternas": [
+      "Provedor de Justiça"
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Links": null,
+    "LinkTexto": null,
+    "MembrosGoverno": null,
+    "Observacoes": null,
+    "ParecerComissao": null,
+    "Publicacao": null,
+    "PublicacaoDebate": null,
+    "Relatores": [
+      {
+        "dataCessacao": null,
+        "dataNomeacao": null,
+        "gp": "PS",
+        "id": "1944",
+        "motivoCessacao": null,
+        "nome": "Susana Amador"
+      }
+    ],
+    "Sessao": "3",
+    "TextoRelatorio": null,
+    "TextosAprovados": null,
+    "Tipo": "PRC",
+    "VotacaoDebate": null,
+    "VotacaoRelatorio": {
+      "ausencias": null,
+      "data": "2018-09-26",
+      "descricao": null,
+      "detalhe": null,
+      "id": "80940",
+      "publicacao": null,
+      "resultado": "Aprovado",
+      "reuniao": "210",
+      "tipoReuniao": null,
+      "unanime": null
+    }
+  }
+}
