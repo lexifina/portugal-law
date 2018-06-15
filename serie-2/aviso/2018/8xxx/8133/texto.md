@@ -1,0 +1,10 @@
+Aviso n.º 8133/2018
+Plano de Pormenor da Quinta da Fidalga - Manta Rota (PPQF)
+Nos termos do n.º 1 do artigo 76.º, conjugado com o previsto no n.º 2 do artigo 88.º, do Decreto-Lei n.º 80/2015, de 14 de maio, torna-se público que a Câmara Municipal de Vila Real de Santo António, deliberou na sua reunião de 27 de fevereiro de 2018, aprovar a realização do Plano de Pormenor da Quinta da Fidalga - Manta Rota (PPQF).
+Uma vez assegurado o enquadramento acima descrito e prevendo-se um prazo de 18 meses para a conclusão deste procedimento, convidam-se todos os interessados a formular sugestões, assim como a apresentar informações, por escrito, até 20 dias úteis contados a partir da data de publicação deste aviso no Diário da República, na Divisão de Urbanismo e Espaço Público da Câmara Municipal de Vila Real de Santo António, sobre quaisquer questões que possam ser equacionadas no âmbito deste processo de elaboração.
+28 de fevereiro de 2018. - A Presidente da Câmara, Maria da Conceição Cipriano Cabrita.
+A Câmara deliberou, por maioria, com os votos favoráveis da Sra. Presidente e dos Vereadores Luis Romão, Carla Sabino e Rui Pires, aprovar a proposta da Sra. Presidente, no sentido de ser elaborado o Plano de Pormenor da Quinta da Fidalga-Manta Rota, em conformidade com o n.º 1, do artigo 76.º, do Decreto-Lei n.º 80/2015, de 14 de maio, com base na Calendarização e Termos de Referência, publicar o teor desta deliberação de Câmara sob a forma de Aviso do Diário da República, na comunicação social e na página da internet do Município, estabelecendo os respetivos prazos de elaboração e o período de participação a que se refere o n.º 2, do artigo 88, do Decreto-Lei n.º 80/2015, de 14 de maio, e solicitar à CCDR-ALG., parecer sobre o âmbito da avaliação ambiental e sobre o alcance da informação a incluir no relatório ambiental, nos termos do n.º 3 do artigo 78.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+É quanto me cumpre certificar.
+Por ser verdade, mando passar a presente deliberação que assino.
+27 de fevereiro de 2018. - A Presidente da Câmara Municipal, Maria da Conceição Cipriano Cabrita.
+611401627
