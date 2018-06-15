@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1016",
+    "id": "41620",
+    "titulo": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2018-06-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13221",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2018-06-15",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42600",
+        "leg": "XIII",
+        "nr": "869",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2516",
+            "obs": null,
+            "pag": [
+              "54-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-16",
+            "pubLeg": "XIII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/54?pgs=54-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2516",
+            "obs": null,
+            "pag": [
+              "54-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-16",
+            "pubLeg": "XIII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/54?pgs=54-61&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42664",
+        "leg": "XIII",
+        "nr": "882",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2516",
+            "obs": null,
+            "pag": [
+              "54-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-16",
+            "pubLeg": "XIII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/54?pgs=54-61&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2516",
+            "obs": null,
+            "pag": [
+              "54-61"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-06-16",
+            "pubLeg": "XIII",
+            "pubNr": "95",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/54?pgs=54-61&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-06-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:30:02:504&drc=00:03:41:397"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:57:40:570&drc=00:01:03:925"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/54?pgs=54-55,60-61&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:33:43:902&drc=00:04:03:076"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:37:46:979&drc=00:04:10:513"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5906",
+                "nome": "Ângela Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:42:26:525&drc=00:03:40:728"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/57?pgs=57&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "6037",
+                "nome": "Patrícia Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:46:07:253&drc=00:04:10:738"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227035",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:50:17:992&drc=00:04:16:519"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/59?pgs=59&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4304",
+                "nome": "Bruno Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:36",
+            "horaTermo": "14:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_15_09_30_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=03:54:34:511&drc=00:03:06:058"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-16",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/095/2018-06-16/60?pgs=60&org=PLC"
+              }
+            ],
+            "sumario": "Campanhas de sensibilização para redução de resíduos e para deposição seletiva adequada à reciclagem; Visa a implementação de um sistema de incentivo e depósito de embalagens de bebidas de plástico, vidro e alumínio; Implementa um sistema de depósito, devolução e retorno de embalagens de bebida (tara recuperável) e cria o respetivo sistema de recolha mediante incentivo (1.ª alteração ao regime unificado dos fluxos específicos de resíduos).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "339927",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "821260",
+        "obs": null,
+        "pag": [
+          "54-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-05-17",
+        "pubLeg": "XIII",
+        "pubNr": "85",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/085/2018-05-17/54?pgs=54-61&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
