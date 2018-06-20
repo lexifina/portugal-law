@@ -20,4 +20,4 @@ f) O regime de dedução por lucros retidos e reinvestidos (DLRR), previsto no C
 
 g) O regime de remuneração convencional do capital social previsto no artigo 41.º-A do Estatuto dos Benefícios Fiscais.
 
-h) O incentivo à produção cinematográfica e audiovisual previsto no artigo 59.º-F do Estatuto dos Benefícios Fiscais.
+h) (Revogada).
