@@ -1,3 +1,7 @@
+## Capítulo VI
+
+## Benefícios fiscais à capitalização das empresas
+
 # Artigo 41.º-A
 
 ### Remuneração convencional do capital social

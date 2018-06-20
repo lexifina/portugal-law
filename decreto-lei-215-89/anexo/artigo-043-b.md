@@ -1,7 +1,3 @@
-## Capítulo VII
-
-## Benefícios fiscais relativos a imóveis
-
 # Artigo 43.º-B
 
 ### Incentivos à recapitalização das empresas

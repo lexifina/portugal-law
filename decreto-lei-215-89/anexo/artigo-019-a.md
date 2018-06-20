@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Benefícios fiscais à poupança
-
 # Artigo 19.º-A
 
 ### Deduções no âmbito de parcerias de títulos de impacto social

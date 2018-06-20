@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Benefícios fiscais à capitalização das empresas
-
 # Artigo 43.º-C
 
 ### Incentivo fiscal à aquisição de participações sociais pelos trabalhadores
