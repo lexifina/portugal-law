@@ -1,7 +1,3 @@
-## Capítulo I
-
-## Disposições gerais
-
 # III
 
 ### Destinatários

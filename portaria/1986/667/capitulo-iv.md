@@ -1,27 +1,3 @@
-## Capítulo II
-
-## Estrutura orgânica
-
-## Secção I
-
-## Do conselho de administração
-
-## Secção II
-
-## Do director
-
-## Secção III
-
-## Do conselho técnico-pedagógico
-
-## Secção IV
-
-## Da comissão de fiscalização e verificação de contas
-
-## Capítulo III
-
-## Disposições financeiras
-
 # Capítulo IV
 
 ### Disposições diversas
