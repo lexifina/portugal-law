@@ -2,6 +2,10 @@
 
 ## Acesso às atividades de comércio, serviços e restauração
 
+## Secção Única
+
+## Meras comunicações prévias e procedimentos de controlo
+
 # Artigo 4.º
 
 ### Meras comunicações prévias

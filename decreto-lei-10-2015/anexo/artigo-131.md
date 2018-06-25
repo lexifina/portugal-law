@@ -12,6 +12,8 @@ a) Ser afetos, total ou parcialmente, à utilização exclusiva por associados, 
 
 b) Ser objeto de reserva temporária de parte ou da totalidade dos estabelecimentos.
 
-4 - Não é permitida a permanência de animais em espaços fechados, salvo quando se tratar de cães de assistência e desde que cumpridas as obrigações legais por parte dos portadores destes animais.
+4 - É permitida a permanência de animais de companhia em espaços fechados, mediante autorização da entidade exploradora do estabelecimento expressa através de dístico visível afixado à entrada do estabelecimento, sendo sempre permitida a permanência de cães de assistência, desde que cumpridas as obrigações legais por parte dos portadores destes animais.
 
-5 - As entidades exploradoras dos estabelecimentos de restauração ou de bebidas não podem permitir o acesso a um número de clientes superior ao da respetiva capacidade.
+5 - A permissão prevista no número anterior tem como limite a permanência em simultâneo de um número de animais de companhia determinado pela entidade exploradora do estabelecimento, de modo a salvaguardar o seu normal funcionamento.
+
+6 - As entidades exploradoras dos estabelecimentos de restauração ou de bebidas não podem permitir o acesso a um número de clientes superior ao da respetiva capacidade.

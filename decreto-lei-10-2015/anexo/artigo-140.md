@@ -2,6 +2,10 @@
 
 ## Utilização privativa de domínio público
 
+## Capítulo Único
+
+## Regime geral de utilização do domínio público
+
 # Artigo 140.º
 
 ### Utilização de domínio público

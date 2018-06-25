@@ -6,6 +6,10 @@
 
 ## Requisitos gerais de exercício
 
+## Secção Única
+
+## Requisitos gerais para as atividades de comércio, serviços e restauração
+
 # Artigo 21.º
 
 ### Obrigações previstas noutros diplomas
