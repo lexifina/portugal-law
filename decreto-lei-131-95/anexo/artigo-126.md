@@ -6,7 +6,7 @@
 
 a) O nome completo, sexo, estado, data do nascimento, naturalidade e residência habitual do filho;
 
-b) O nome completo, data de nascimento, estado, naturalidade, residência habitual e filiação da mãe;
+b) O nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil da mãe;
 
 c) A declaração expressa da maternidade;
 

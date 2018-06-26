@@ -16,4 +16,4 @@
 
 7 - Sendo interposto o recurso a que se refere o n.º 2 do artigo 292.º, a falta de valor probatório, total ou parcial, do documento emitido em país estrangeiro pode ser suprida com base nas declarações ou meios de prova complementares apresentados em sede de recurso.
 
-8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei.
+8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
