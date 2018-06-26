@@ -12,8 +12,10 @@ a) A fornecer aos organismos e serviços do Estado e demais pessoas colectivas d
 
 b) A fornecer a entidades privadas, designadamente do sector financeiro, a informação referida na alínea anterior, na medida em que esta seja necessária para execução das políticas definidas pelas entidades legalmente competentes, particularmente nos domínios financeiro, monetário e fiscal;
 
-c) A fornecer informação básica sobre entidades sujeitas a registo comercial nos termos da legislação comercial e sobre outras entidades nos termos do Código do Procedimento Administrativo;
+c) A fornecer a informação de identificação das entidades referidas nas alíneas a), b), e), f), g) e i) do n.º 1 do artigo 4.º, bem como dos atos e factos relativos a estas que estejam sujeitos a inscrição no Ficheiro Central de Pessoas Coletivas.
 
 d) À verificação da admissibilidade de firmas ou denominações.
 
-2 - Relativamente às entidades sujeitas a registo comercial, a base de dados do FCPC é automaticamente actualizada através do SIRCOM.
+2 - O fornecimento de informação de identificação das entidades referidas nas alíneas c), d), h) do n.º 1 e no n.º 2 do artigo 4.º, bem como dos atos e factos relativos a estas que estejam sujeitos a inscrição no Ficheiro Central de Pessoas Coletivas, é feito nos termos do Código do Procedimento Administrativo.
+
+3 - Relativamente às entidades sujeitas a registo comercial, a base de dados do FCPC é automaticamente actualizada através do SIRCOM.
