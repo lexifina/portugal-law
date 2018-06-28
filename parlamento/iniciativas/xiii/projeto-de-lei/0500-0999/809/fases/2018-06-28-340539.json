@@ -1,0 +1,981 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "809",
+    "id": "42334",
+    "titulo": "Amplia as Fontes de Financiamento da Segurança Social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-06-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13252",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-06-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-06-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4623",
+                "nome": "Diana Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:00:48:905&drc=00:08:33:301"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:13:48:150&drc=00:03:04:152"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:21:24:087&drc=00:02:45:371"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229895",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2-3",
+                  "5-6",
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/2?pgs=2-3,5-6,7&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4193",
+                "nome": "Maria das Mercês Borges"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:09:22:206&drc=00:04:25:943"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229896",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/4?pgs=4&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4210",
+                "nome": "José Rui Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:16:52:302&drc=00:04:31:784"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229897",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:24:09:458&drc=00:10:16:277"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-10"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/7?pgs=7-10&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:34:25:735&drc=00:12:36:289"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:56:41:572&drc=00:04:26:489"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "10-13",
+                  "17-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/10?pgs=10-13,17-19&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2445",
+                "nome": "Tiago Barbosa Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:47:02:025&drc=00:04:38:106"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "229900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=00:51:40:132&drc=00:05:01:440"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:01:08:061&drc=00:05:35:827"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5751",
+                "nome": "Filipe Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:06:43:889&drc=00:05:28:545"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1974",
+                "nome": "Ricardo Bexiga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:12:12:434&drc=00:08:30:289"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:29:35:006&drc=00:03:27:442"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-23",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/21?pgs=21-23,25-26&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "5751",
+                "nome": "Filipe Anacoreta Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:20:42:210&drc=00:03:38:192"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:24:20:402&drc=00:02:32:519"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:26:52:921&drc=00:02:42:085"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1619",
+                "nome": "Feliciano Barreiras Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:33:02:449&drc=00:07:05:775"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/26?pgs=26-28&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4166",
+                "nome": "João Galamba"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:40:08:224&drc=00:06:19:389"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/28?pgs=28-30&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:46:27:613&drc=00:04:10:074"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "17:13",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_06_28_15_00_00_clean_14_plenario&url=l13/sl3/a2018/m06/&tI=01:50:37:688&drc=00:09:02:595"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "230466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-06-29",
+                "pubLeg": "XIII",
+                "pubNr": "100",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29/33?pgs=33-35&org=PLC"
+              }
+            ],
+            "sumario": "Amplia as Fontes de Financiamento da Segurança Social.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "340539",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "13252",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-06-29",
+        "pubLeg": "XIII",
+        "pubNr": "100",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/03/100/2018-06-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
