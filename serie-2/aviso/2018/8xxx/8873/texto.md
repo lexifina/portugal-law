@@ -1,0 +1,12 @@
+Aviso n.º 8873/2018
+Abertura de Procedimento de Elaboração do Plano de Pormenor Parque Empresarial de Alcanena
+Fernanda Maria Pereira Asseiceira, Presidente da Câmara Municipal de Alcanena;
+Torna público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015 de 14 de maio, que a Câmara Municipal de Alcanena, em sua reunião realizada em 16/04/2018, deliberou, por unanimidade, proceder à abertura do procedimento para elaboração do Plano de Pormenor Parque Empresarial de Alcanena, e estabelecer um período de participação preventiva para formulação de sugestões por qualquer interessado, ou informações sobre quaisquer questões que possam ser consideradas exclusivamente no âmbito da elaboração do Plano referido, durante o período de 20 (vinte) dias úteis, produzindo efeitos no dia seguinte ao da publicação deste aviso no Diário da República.
+Durante aquele prazo os interessados poderão participar por escrito, através do correio eletrónico geral@cm-alcanena.pt, por via postal (Praça 8 de Maio, 2380-037 Alcanena) ou por entrega presencial no Balcão Único de Atendimento da Câmara Municipal (Edifício dos Paços do Município), dirigidos à Presidente da Câmara Municipal de Alcanena e sob a referência em epígrafe.
+Para se constar se elaborou o presente Aviso que vai ser publicado no Diário da República, na comunicação social, na plataforma colaborativa de gestão territorial e no sítio da internet http://cm-alcanena.pt/
+2 de maio de 2018. - A Presidente da Câmara, Fernanda Maria Pereira Asseiceira.
+Deliberação
+A Câmara Municipal de Alcanena, na sua reunião de 16/04/2018, aprovou, por unanimidade, dar início ao Procedimento de Elaboração do Plano de Pormenor Parque Empresarial de Alcanena, o qual deverá estar concluído no prazo máximo de 16 (dezasseis) meses, bem como os Termos de Referência do Plano acima mencionado, ao abrigo do artigo 76.º do Decreto-Lei n.º 80/2015 de 14 de maio, qualificando o referido Plano como suscetível de ter efeitos significativos no ambiente, de acordo com n.º 1 do artigo 78.º do referido decreto-lei.
+Foi ainda deliberado, determinar um período de 20 (vinte) dias úteis, para formulação de sugestões por qualquer interessado ou para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do Procedimento de elaboração do Plano, ao abrigo do disposto no n.º 2 do artigo 89.º, do mesmo diploma.
+2 de maio de 2018. - A Presidente da Câmara, Fernanda Maria Pereira Asseiceira.
+611376704
