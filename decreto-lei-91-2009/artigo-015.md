@@ -4,7 +4,7 @@
 
 1 - O subsídio parental inicial exclusivo do pai é concedido pelos períodos seguintes:
 
-a) 10 dias úteis de gozo obrigatório, seguidos ou interpolados, dos quais 5 gozados de modo consecutivo imediatamente após o nascimento e os restantes 5 nos 30 dias seguintes a este;
+a) 15 dias úteis de gozo obrigatório, seguidos ou interpolados, dos quais cinco gozados de modo consecutivo imediatamente após o nascimento e os restantes 10 nos 30 dias seguintes a este;
 
 b) 10 dias úteis de gozo facultativo, seguidos ou interpolados, desde que gozados, após o período referido na alínea anterior e em simultâneo com a licença parental inicial por parte da mãe.
 

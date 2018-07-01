@@ -26,4 +26,4 @@ i) Subsídio para assistência a neto.
 
 3 - O direito aos subsídios previstos nas alíneas c) a h) do n.º 1 apenas é reconhecido, após o nascimento do filho, aos beneficiários que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com exceção do direito da mãe ao subsídio parental inicial de 14 semanas e do subsídio por riscos específicos durante a amamentação.
 
-4 - A proteção conferida aos trabalhadores independentes não integra os subsídios previstos nas alíneas g) e i) do n.º 1 nem as prestações previstas no n.º 2.
+4 - A proteção conferida aos trabalhadores independentes não integra as prestações previstas no n.º 2.
