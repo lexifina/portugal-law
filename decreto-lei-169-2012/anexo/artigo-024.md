@@ -30,9 +30,11 @@ g) (Revogada.)
 
 h) Decisão desfavorável quanto à atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais, respetivamente, quando tal atribuição seja exigível nos termos da legislação aplicável;
 
-i) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do artigo 17.º
+i) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do artigo 17.º;
 
-5 - O título digital de instalação pode ser emitido antes da decisão final nos procedimentos de licença ambiental, de título de utilização de recursos hídricos, de título de emissão de gases com efeito de estufa, de parecer ou licença de operação de gestão de resíduos, de atribuição do número de controlo veterinário ou do número de identificação individual e de autorização de equipamentos a instalar em estabelecimento industrial abrangidos por legislação específica, que são apenas condição do título digital de exploração do estabelecimento.
+j) Indeferimento do pedido do título de emissões para o ar (TEAR), inscrito no TUA.
+
+5 - O título digital de instalação pode ser emitido antes da decisão final nos procedimentos de licença ambiental, de título de utilização de recursos hídricos, de título de emissão de gases com efeito de estufa, de parecer ou licença de operação de gestão de resíduos, de título de emissões para o ar, de atribuição do número de controlo veterinário ou do número de identificação individual e de autorização de equipamentos a instalar em estabelecimento industrial abrangidos por legislação específica, que são apenas condição do título digital de exploração do estabelecimento.
 
 6 - O título digital de instalação é emitido de forma eletrónica e automática pelo «Balcão do empreendedor», sendo enviada notificação ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo 23.º
 

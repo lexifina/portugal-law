@@ -28,20 +28,22 @@ c) Indeferimento de título ou de decisão sobre o pedido de informação prévi
 
 d) Indeferimento do pedido de alvará de operação de gestão de resíduos, inscrito no TUA;
 
-e) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do artigo 17.º
+e) Falta de apresentação da aprovação do projeto de arquitetura ou da informação prévia favorável, a que se refere o n.º 2 do artigo 17.º;
+
+f) Indeferimento do pedido do título de emissões para o ar, inscrito no TUA.
 
 6 - O título digital de instalação e exploração é emitido de forma eletrónica e automática pelo «Balcão do empreendedor», sendo enviada notificação ao requerente, à entidade coordenadora, à câmara municipal territorialmente competente, às entidades públicas consultadas, bem como às entidades cuja consulta tenha sido dispensada ao abrigo do n.º 3 do artigo anterior.
 
 7 - O requerente pode iniciar a exploração do estabelecimento industrial logo que seja emitido o título digital de instalação e exploração e uma vez contratado o seguro de responsabilidade civil a que se refere o n.º 1 do artigo 4.º
 
-8 - O requerente deve comunicar à entidade coordenadora a data de início da exploração com uma antecedência não inferior a 5 dias, sendo tal comunicação notificada automaticamente através do «Balcão do empreendedor» a todas as entidades consultadas, bem como às entidades cuja consulta tenha sido dispensada nos termos do n.º 3 do artigo 30.º
+8 - O requerente deve comunicar à entidade coordenadora a data de início da exploração com uma antecedência não inferior a 5 dias, sendo tal comunicação notificada automaticamente através do «Balcão do empreendedor» a todas as entidades consultadas, bem como às entidades cuja consulta tenha sido dispensada nos termos do n.º 3 do artigo 31.º
 
 9 - Verificando-se uma causa de não emissão do título digital de instalação e exploração, nos termos previstos no n.º 5, o «Balcão do empreendedor» envia notificação ao requerente e demais entidades referidas no n.º 6.
 
-10 - (Revogado).
+10 - (Revogado.)
 
-11 - (Revogado).
+11 - (Revogado.)
 
-12 - (Revogado).
+12 - (Revogado.)
 
-13 - (Revogado).
+13 - (Revogado.)

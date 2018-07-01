@@ -22,6 +22,8 @@ v) Regime jurídico de utilização de recursos hídricos;
 
 vi) Regime do comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE);
 
+vii) Regime da prevenção e controlo das emissões de poluentes para o ar, aprovado pelo Decreto-Lei n.º 39/2018, de 11 de junho.
+
 b) Regime jurídico respeitante à saúde e segurança no trabalho;
 
 c) Regime jurídico relativo à exploração de atividade agroalimentar que utilize matéria-prima de origem animal não transformada, de atividade que envolva a manipulação de subprodutos de origem animal, ou de atividade de fabrico de alimentos para animais;

@@ -2,10 +2,6 @@
 
 ## Procedimento de instalação e exploração com realização de vistoria prévia
 
-## Subsecção I
-
-## Procedimento de autorização prévia individualizada
-
 # Artigo 20.º
 
 ### Objeto do procedimento
