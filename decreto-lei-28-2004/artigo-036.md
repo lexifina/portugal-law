@@ -13,3 +13,5 @@ a) 50% das situações no ano de 2006;
 b) 75% das situações no ano de 2007;
 
 c) A totalidade das situações a partir de 2008.
+
+4 - No âmbito do regime dos trabalhadores independentes, são verificadas as situações de incapacidade temporária que se prolonguem por mais de 20 dias.
