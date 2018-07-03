@@ -1,7 +1,7 @@
 # Artigo 63.º
 
-### Comunicação anual da fixação da base de incidência contributiva e da taxa
+### Comunicação da obrigação contributiva
 
-1 - Para efeitos do cumprimento da obrigação contributiva, o rendimento relevante, a base de incidência e a taxa contributiva fixados oficiosamente são comunicados ao trabalhador independente.
+1 - Para efeitos do cumprimento da obrigação contributiva, são mensalmente disponibilizados no sítio da Internet da segurança social os elementos necessários ao pagamento das contribuições devidas.
 
-2 - Para efeitos do disposto no n.º 2 do artigo 164.º do Código o requerimento é apresentado no prazo de 10 dias contados a partir da comunicação referida no número anterior.
+2 - (Revogado.)

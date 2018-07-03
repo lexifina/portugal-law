@@ -10,13 +10,7 @@ b) A remuneração de referência considerada para o cálculo da indemnização 
 
 c) O valor da diferença entre a remuneração efectiva do trabalhador declarada pela entidade contribuinte e o valor que seria considerado para registo caso a incapacidade fosse absoluta nas situações a que se refere a alínea e);
 
-d) A remuneração de referência considerada para o cálculo dos subsídios a que se refere a alínea f), com excepção das seguintes situações:
-
-i) Atribuição de subsídio social de desemprego subsequente ao subsídio de desemprego em que o valor a considerar é o correspondente ao valor do subsídio de desemprego anteriormente auferido;
-
-ii) Atribuição de prestações de desemprego a ex-pensionistas de invalidez, caso em que o valor a considerar é o correspondente ao valor do subsídio atribuído;
-
-iii) Atribuição de subsídio de desemprego parcial, caso em que o valor a considerar é o correspondente à diferença entre a retribuição por trabalho a tempo parcial e a remuneração de referência considerada para o cálculo do subsídio de desemprego;
+d) A remuneração de referência considerada para o cálculo dos subsídios a que se refere a alínea f), com exceção das situações expressamente previstas no regime jurídico das prestações de desemprego e de cessação de atividade;
 
 e) A remuneração média dos últimos três meses com registo de remunerações, no caso da alínea g);
 

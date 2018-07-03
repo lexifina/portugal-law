@@ -8,4 +8,4 @@
 
 3 - Quando se trate de pensionistas a isenção contributiva tem lugar a partir da data da atribuição da pensão.
 
-4 - Os efeitos da isenção requerida por trabalhador independente ao abrigo do n.º 3 do artigo 157.º do Código são extensivos ao respectivo cônjuge.
+4 - É aplicável às situações previstas no número anterior, com as necessárias adaptações, o disposto no artigo 156.º do Código.

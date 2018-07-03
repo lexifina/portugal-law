@@ -2,12 +2,22 @@
 
 ### Elementos necessários para a determinação do rendimento relevante
 
-1 - Para efeitos do apuramento previsto no n.º 3 do artigo 162.º do Código a administração fiscal comunica oficiosamente à instituição de segurança social competente, por via electrónica, os rendimentos dos trabalhadores independentes declarados e sujeitos a tributação no âmbito da categoria B do CIRS.
+1 - Para efeitos do apuramento do rendimento relevante nos termos do artigo 162.º do Código, são considerados ou excluídos os rendimentos identificados nos termos dos números seguintes, sem prejuízo do disposto na parte final do n.º 5 do mesmo artigo.
 
-2 - A matéria coletável imputada pelas sociedades de profissionais aos seus membros ou sócios identificados na alínea b) do n.º 1 do artigo 133.º do Código constitui valor de prestação de serviços.
+2 - A matéria coletável imputada pelas sociedades de profissionais aos seus membros ou sócios identificados na alínea b) do n.º 1 do artigo 133.º do Código, bem como os recebimentos e adiantamentos por conta, constituem valor de prestação de serviços.
 
-3 - Sem prejuízo do disposto no n.º 1, para efeitos de determinação do rendimento relevante nos termos do n.º 1 do artigo 162.º do Código, o trabalhador independente pode requerer à instituição de segurança social competente a dedução dos rendimentos provenientes de mais-valias apuradas no âmbito das atividades geradoras de rendimentos empresariais e profissionais, definidas nos termos da alínea c) do n.º 2 do artigo 3.º do CIRS.
+3 - Não são considerados no apuramento do rendimento relevante dos trabalhadores independentes os seguintes rendimentos:
 
-4 - O requerimento previsto no número anterior é apresentado no mês de Setembro e repercute-se na determinação do rendimento relevante para a fixação da base de incidência contributiva a considerar no período seguinte.
+a) Obtidos com a produção de eletricidade para autoconsumo ou através de unidades de pequena produção a partir de energias renováveis;
 
-5 - Não relevam para efeitos de determinação do rendimento relevante nos termos do artigo 162.º do Código os rendimentos provenientes de subsídios ou subvenções ao investimento, sem prejuízo de o trabalhador independente poder requerer à instituição de segurança social competente a sua consideração.
+b) Obtidos em resultado da celebração de contratos de arrendamento e de arrendamento urbano para alojamento local em moradia ou apartamento;
+
+c) Subvenções ou subsídios ao investimento;
+
+d) Provenientes de mais-valias;
+
+e) Rendimentos provenientes de propriedade intelectual ou industrial.
+
+4 - O trabalhador independente pode optar pela consideração dos rendimentos excluídos nos termos das alíneas c), d) e e) do número anterior.
+
+5 - Quando sejam relevados, os rendimentos previstos no número anterior são considerados como rendimentos da atividade que lhes deu origem.
