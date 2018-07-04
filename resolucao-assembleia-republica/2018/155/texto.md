@@ -1,0 +1,9 @@
+Resolução da Assembleia da República n.º 155/2018
+Recomenda ao Governo a atribuição de apoios à diversificação florestal
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo:
+1 - A criação de contratos-programa para a diversificação florestal, com o correspondente financiamento público, através dos quais as organizações de produtores florestais, nomeadamente as associações, as cooperativas e os baldios, incrementem a presença de espécies autóctones e assegurem a gestão em comum de espaços florestais, especialmente de minifúndio e de elevado risco de incêndio, com prioridade para as áreas que integrem ZIF - Zonas de Intervenção Florestal ou UGF - Unidades de Gestão Florestal.
+2 - A inclusão no próximo Programa de Desenvolvimento Rural (PDR) pós 2020 de medidas para promover ações de defesa da floresta contra incêndios e de adaptação às alterações climáticas, através de incentivos às atividades que permitam diversificar as origens do rendimento da floresta ao mesmo tempo que combatem o abandono e promovem uma maior presença e relação humana com a floresta, nomeadamente a silvopastorícia, os produtos silvestres, tais como cogumelos, frutos vermelhos e frutos secos, plantas aromáticas e medicinais, e outras atividades compatíveis com elevados critérios ambientais.
+3 - A inclusão no próximo PDR pós 2020 de medidas de incentivo à florestação ou reflorestação com folhosas, nomeadamente com quercíneas, com base em critérios adaptados a cada região, que incluam, além do financiamento em montantes adequados das ações de florestação e reflorestação, apoios à sua manutenção num período inicial de 10 anos.
+Aprovada em 4 de maio de 2018.
+O Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.
+111462701
