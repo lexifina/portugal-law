@@ -4,6 +4,6 @@
 
 # Artigo 5.º
 
-### (Aquisição por adopção plena)
+### Aquisição por adoção
 
-O adoptado plenamente por nacional português adquire a nacionalidade portuguesa.
+O adotado por nacional português adquire a nacionalidade portuguesa.
