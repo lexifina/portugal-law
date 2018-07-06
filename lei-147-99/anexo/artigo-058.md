@@ -24,4 +24,6 @@ i) Ser acolhido, sempre que possível, em casa de acolhimento ou família de aco
 
 j) Não ser separado de outros irmãos acolhidos, exceto se o seu superior interesse o desaconselhar.
 
+k) Nas condições referidas no n.º 2 do artigo 3.º, obter autorização de residência em Portugal e o processo de naturalização, nos termos do n.º 3 do artigo 6.º da Lei n.º 37/81, de 3 de outubro.
+
 2 - Os direitos referidos no número anterior constam necessariamente do regulamento interno das casas de acolhimento.

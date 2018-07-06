@@ -4,7 +4,7 @@
 
 Para efeitos da presente lei, considera-se:
 
-a) Criança ou jovem - a pessoa com menos de 18 anos ou a pessoa com menos de 21 anos que solicite a continuação da intervenção iniciada antes de atingir os 18 anos;
+a) Criança ou jovem - a pessoa com menos de 18 anos ou a pessoa com menos de 21 anos que solicite a continuação da intervenção iniciada antes de atingir os 18 anos, e ainda a pessoa até aos 25 anos sempre que existam, e apenas enquanto durem, processos educativos ou de formação profissional;
 
 b) Guarda de facto - a relação que se estabelece entre a criança ou o jovem e a pessoa que com ela vem assumindo, continuadamente, as funções essenciais próprias de quem tem responsabilidades parentais;
 

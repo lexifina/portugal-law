@@ -19,3 +19,5 @@ e) É obrigada a actividades ou trabalhos excessivos ou inadequados à sua idade
 f) Está sujeita, de forma directa ou indirecta, a comportamentos que afectem gravemente a sua segurança ou o seu equilíbrio emocional;
 
 g) Assume comportamentos ou se entrega a actividades ou consumos que afectem gravemente a sua saúde, segurança, formação, educação ou desenvolvimento sem que os pais, o representante legal ou quem tenha a guarda de facto se lhes oponham de modo adequado a remover essa situação.
+
+h) Tem nacionalidade estrangeira e está acolhida em instituição pública, cooperativa, social ou privada com acordo de cooperação com o Estado, sem autorização de residência em território nacional.

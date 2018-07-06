@@ -10,4 +10,4 @@
 
 2 - O Ministério Público acompanha a actividade das comissões de protecção, tendo em vista apreciar a legalidade e a adequação das decisões, a fiscalização da sua actividade processual e a promoção dos procedimentos judiciais adequados.
 
-3 - Compete, ainda, de modo especial, ao Ministério Público representar as crianças e jovens em perigo, propondo acções, requerendo providências tutelares cíveis e usando de quaisquer meios judiciais necessários à promoção e defesa dos seus direitos e à sua protecção.
+3 - Compete, ainda, em especial, ao Ministério Público representar as crianças e jovens em perigo, propondo ações, requerendo providências tutelares cíveis e usando de quaisquer meios judiciais necessários à promoção e defesa dos seus direitos e à sua proteção, incluindo promover os procedimentos de naturalização, nos termos do n.º 3 do artigo 6.º da Lei n.º 37/81, de 3 de outubro.

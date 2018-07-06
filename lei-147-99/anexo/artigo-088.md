@@ -12,7 +12,7 @@
 
 5 - Pode ainda consultar o processo, directamente ou através de advogado, quem manifeste interesse legítimo, quando autorizado e nas condições estabelecidas em despacho do presidente da comissão de protecção ou do juiz, conforme o caso.
 
-6 - Os processos das comissões de proteção são destruídos quando a criança ou jovem atinjam a maioridade ou, no caso da alínea d) do n.º 1 do artigo 63.º, aos 21 anos.
+6 - Os processos das comissões de proteção são destruídos quando a criança ou jovem atinjam a maioridade ou, nos casos da alínea d) do n.º 1 e do n.º 2 do artigo 63.º, os 21 anos ou 25 anos, respetivamente.
 
 7 - Sem prejuízo do disposto no número anterior, a informação a que alude o disposto no n.º 1 do artigo 13.º-A é destruída assim que o processo ao abrigo do qual foi recolhida seja arquivado, pelo facto de a situação de perigo não se comprovar ou já não subsistir.
 
