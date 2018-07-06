@@ -1,0 +1,579 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13204",
+  "numero": "520",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-10-09",
+            "entidades": null,
+            "id": "110469",
+            "tipo": null,
+            "titulo": "Audição em 2018-10-09 com Filipe Ferreira e Ilda Figueiredo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-10-02",
+            "dataResposta": "2018-11-28",
+            "entidades": [
+              "MIN. DOS  NEGÓCIOS ESTRANGEIROS"
+            ],
+            "nrOficio": "79/CNECP/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "2018-12-12",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-09-11",
+        "DataArquivo": "2018-12-12",
+        "DataBaixaComissao": "2018-07-10",
+        "DataEnvioPAR": "2018-12-20",
+        "DataReaberta": "2018-09-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-09-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a59573876596a5533596a59774e474d74596a52695a533030595459334c54686d4f444d744d6d45344f5751785a574d345a6d4d304c6e426b5a673d3d&fich=b57b604c-b4be-4a67-8f83-2a89d1ec8fc4.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-10-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738765a47466b4e4759774d6d59744e4467785a4330304e445a6d4c574a6d4e6d55744e446b334e6d526b4d544d354f5745314c6e426b5a673d3d&fich=dad4f02f-481d-446f-bf6e-4976dd1399a5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-12-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764f4751334e6d49304d6a59744e5755334d7930304e324e6b4c57466a5a546b745a6a4268596d55324e5445305a57566a4c6e426b5a673d3d&fich=8d76b426-5e73-47cd-ace9-f0abe6514eec.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387951303546513141765247396a6457316c626e52766331426c64476c6a595738764f5451794d57497a595445744d54466c5a6930304e44646c4c546b335a446b744e6d49314d44466b4e7a6c6c4d474e6a4c6e426b5a673d3d&fich=9421b3a1-11ef-447e-97d9-6b501d79e0cc.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4525",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Negócios Estrangeiros e Comunidades Portuguesas",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2018-10-01",
+            "dataNomeacao": "2018-09-11",
+            "gp": "PS",
+            "id": "1600",
+            "motivoCessacao": null,
+            "nome": "Jamila Madeira"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-10-01",
+            "gp": "PS",
+            "id": "6157",
+            "motivoCessacao": null,
+            "nome": "Lara Martinho"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-07-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-11-26",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4e6a4579595467794e79307a4d5456684c5452695a6d59744f574d304d5330344d7a55774e446b345a6d4d35597a4d756347526d&fich=c612a827-315a-4bff-9c41-8350498fc9c3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "41753",
+      "43121",
+      "43349",
+      "43356",
+      "41753"
+    ],
+    "Iniciativasoriginadas": [
+      "41753",
+      "43121",
+      "43349",
+      "43356"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:33:41:256&drc=00:04:03:712"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:37:44:968&drc=00:03:36:456"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/57?pgs=57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:41:21:424&drc=00:03:04:063"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:44:25:488&drc=00:01:49:775"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/58?pgs=58&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:46:14:712&drc=00:03:42:075"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:49:56:787&drc=00:03:57:270"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:53:54:057&drc=00:03:39:182"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que submeta à aprovação da Assembleia da República para ratificação o Tratado de Proibição das Armas Nucleares adotado pela Organização das Nações Unidas em 7 de julho de 2017; Recomenda ao Governo que crie as condições para a ratificação do Tratado de Proibição das Armas Nucleares; Recomenda ao Governo a Assinatura e Ratificação do Tratado de Proibição de Armas Nucleares; Recomenda ao Governo que ratifique o Tratado de Proibição de Armas Nucleares",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13204",
+    "PetAssunto": "Solicitam que Portugal assine e ratifique o Tratado de Proibição de Armas Nucleares.",
+    "PetDataEntrada": "2018-07-06",
+    "PeticoesAssociadas": null,
+    "PetId": "13204",
+    "PetLeg": "XIII",
+    "PetNr": "520",
+    "PetNrAssinaturas": "13420",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2600",
+        "obs": null,
+        "pag": [
+          "51-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-03",
+        "pubLeg": "XIII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/51?pgs=51-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "833624",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-03",
+        "pubLeg": "XIII",
+        "pubNr": "16",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/016/2018-12-03?org=PLC"
+      }
+    ]
+  }
+}
