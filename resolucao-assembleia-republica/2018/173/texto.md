@@ -1,0 +1,11 @@
+Resolução da Assembleia da República n.º 173/2018
+Recomenda ao Governo a reabertura de um novo período de candidaturas à ação 6.2.2 do Programa de Desenvolvimento Rural 2014-2020 (PDR 2020) pelos agricultores afetados pelos incêndios florestais de outubro de 2017.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Seja aberto novo período de candidaturas à ação 6.2.2 no âmbito do Programa de Desenvolvimento Rural 2014-2020 (PDR 2020), quer no regime simplificado quer no regime normal, de forma a assegurar que todos os agricultores afetados pelos grandes incêndios de 2017 que não apresentaram candidatura no período anterior o possam fazer, ou a permitir que quem o fez no período anterior possa proceder às correções que considere necessárias.
+2 - Permita que os agricultores afetados pelos incêndios que tiveram prejuízos superiores a 5 mil euros, mas que, pelos mais diversos motivos, optaram pela candidatura ao regime simplificado, possam igualmente apresentar candidaturas e projetos acima dos 5 mil euros que não foram suportados pela candidatura simplificada.
+3 - Defina e divulgue todos os critérios de elegibilidade objetivos e adequados aos valores de mercado que sustentem decisões de redução dos valores apresentados em candidaturas.
+4 - A avaliação das candidaturas e disponibilização dos montantes apurados seja efetuada de acordo com um calendário adequado às necessidades dos agricultores afetados, cujo prazo para decisão e pagamento deve ser divulgado e não ficar na dependência da análise global de candidaturas e de qualquer critério de valorização entre as mesmas, garantindo que todas as candidaturas apresentadas serão, de acordo com os critérios estabelecidos, aprovadas e que os montantes envolvidos serão disponibilizados sem reservas.
+5 - A perda de rendimento dos agricultores e produtores pecuários atingidos pelos incêndios de 2017 seja considerada elegível para efeitos de apoio à atividade agrícola e pecuária pelo período necessário e até que seja atingido um nível de rendimento que assegure a manutenção da atividade produtiva em causa.
+Aprovada em 13 de abril de 2018.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+111490088
