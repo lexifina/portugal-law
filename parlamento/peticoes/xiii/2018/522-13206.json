@@ -1,0 +1,482 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13206",
+  "numero": "522",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-10-24",
+            "entidades": null,
+            "id": "110570",
+            "tipo": null,
+            "titulo": "Audição em 2018-10-24 com Audição dos Peticionários da Petição n.º 522/XIII/3.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-11-06",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-09-12",
+        "DataArquivo": "2018-12-19",
+        "DataBaixaComissao": "2018-07-13",
+        "DataEnvioPAR": "2018-12-19",
+        "DataReaberta": "2018-09-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-10-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a5957387659544e6c4e544e6a597a55744f47566d4d4330305a5752694c5467304d6a63745a444a685a6a45305a5449774e4749324c6e426b5a673d3d&fich=a3e53cc5-8ef0-4edb-8427-d2af14e204b6.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d6a646d4d5451794d6d51744e6a6c694e4330304f5756684c54686b5a6a49744d44466b4e6d51325a6a56695a4755354c6e426b5a673d3d&fich=27f1422d-69b4-49ea-8df2-01d6d6f5bde9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-09-12",
+            "gp": "PS",
+            "id": "1893",
+            "motivoCessacao": null,
+            "nome": "Pedro Coimbra"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-07-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-07-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938305a6d466a4f4456694e53316d4f5749774c54526d5a6a4d7459545179595331685a6d4e6b5a575a6a4e446c6d5a4755756347526d&fich=4fac85b5-f9b0-4ff3-a42a-afcdefc49fde.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43226",
+      "43256",
+      "43354"
+    ],
+    "Iniciativasoriginadas": [
+      "43226",
+      "43256",
+      "43354"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:57:33:240&drc=00:04:14:549"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:01:47:789&drc=00:03:30:858"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:05:18:647&drc=00:03:17:634"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:08:36:281&drc=00:03:57:989"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:12:34:271&drc=00:03:15:541"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:19:48:704&drc=00:01:00:335"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65",
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/65?pgs=65,66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:15:49:813&drc=00:03:58:890"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/66?pgs=66&org=PLC"
+              }
+            ],
+            "Sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13206",
+    "PetAssunto": "Solicitam a reconversão e integração do Hospital Psiquiátrico de Lorvão na Rede Nacional de Cuidados Continuados Integrados.",
+    "PetDataEntrada": "2018-07-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13206",
+    "PetLeg": "XIII",
+    "PetNr": "522",
+    "PetNrAssinaturas": "7187",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2601",
+        "obs": null,
+        "pag": [
+          "61-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-03",
+        "pubLeg": "XIII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "823503",
+        "obs": null,
+        "pag": [
+          "4-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-27",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/059/2018-07-27/4?pgs=4-6&org=PLC"
+      }
+    ]
+  }
+}
