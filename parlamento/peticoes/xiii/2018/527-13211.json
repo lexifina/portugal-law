@@ -1,0 +1,533 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13211",
+  "numero": "527",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2018-07-24",
+        "DataBaixaComissao": "2018-07-13",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Trabalho e Segurança Social."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-02-14",
+            "entidades": null,
+            "id": "111423",
+            "tipo": null,
+            "titulo": "Audição em 2019-02-14 com D. Marta Cláudia Matos Oliveira; D. Teresa Cristina dos Santos Martins; D. Mónica Isabel Ferreira Faustino Francisco"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-18",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "851739",
+                "obs": null,
+                "pag": [
+                  "22-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-23",
+                "pubLeg": "XIII",
+                "pubNr": "38",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/038/2019-03-23/22?pgs=22-25&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-02-06",
+        "DataArquivo": "2019-03-20",
+        "DataBaixaComissao": "2018-07-24",
+        "DataEnvioPAR": "2019-03-21",
+        "DataReaberta": "2019-02-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-02-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d32557a597a63334d544d74597a49304d433030593245774c5745314f446b744d3255304f4755794e6d5931595441304c6e426b5a673d3d&fich=3e3c7713-c240-4ca0-a589-3e48e26f5a04.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-02-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f545a684f544d304e4445745a4759314e4330304e475a6d4c546c6a4d6d55744f4459314e7a41344d4451344f54466b4c6e426b5a673d3d&fich=96a93441-df54-44ff-9c2e-86570804891d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-03-21",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f474d354e7a51314d4441744f544a6c5a4330304e5464694c5749325a4755744e444d345a6d4d784e3245784d5749774c6e426b5a673d3d&fich=8c974500-92ed-457b-b6de-438fc17a11b0.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-02-06",
+            "gp": "PSD",
+            "id": "5491",
+            "motivoCessacao": null,
+            "nome": "Susana Lamas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Saúde para esta comissão."
+      }
+    ],
+    "DataDebate": "2019-11-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-07-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794d6d4d314e6a6c684d69316b4d6a45334c54526a597a6b744f4445344e793168596d55774e7a68695a4467324e6a6b756347526d&fich=22c569a2-d217-4cc9-8187-abe078bd8669.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44049",
+      "44059",
+      "44040"
+    ],
+    "Iniciativasoriginadas": [
+      "44049",
+      "44059",
+      "44040"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:49:02:228&drc=00:02:57:938"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:06:09:577&drc=00:02:09:907"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16",
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/16?pgs=16,20-21&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:52:00:166&drc=00:03:52:346"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:55:52:512&drc=00:03:55:217"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:59:47:730&drc=00:03:41:081"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:03:28:811&drc=00:02:40:766"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Majoração do subsídio de doença atribuído a doentes graves, crónicos ou oncológicos (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Reforça o subsídio de doença para a tuberculose, doença oncológica e doença crónica (Sexta alteração do Decreto-Lei n.º 28/2004, de 4 de fevereiro); Recomenda ao Governo que crie condições para o reforço da proteção dos trabalhadores na doença quando esta implique circunstâncias económicas particularmente gravosas",
+            "Teor": "Inscrição do Deputado José Moura Soeiro (BE) para segunda intervenção"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13211",
+    "PetAssunto": "Solicitam que a baixa médica para doentes oncológicos seja paga a 100%.",
+    "PetDataEntrada": "2018-07-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13211",
+    "PetLeg": "XIII",
+    "PetNr": "527",
+    "PetNrAssinaturas": "9248",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2620",
+        "obs": null,
+        "pag": [
+          "16-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-16",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/16?pgs=16-21&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851652",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-16",
+        "pubLeg": "XIII",
+        "pubNr": "37",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/037/2019-03-16/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
