@@ -1,0 +1,570 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13209",
+  "numero": "525",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-10-04",
+            "entidades": null,
+            "id": "110419",
+            "tipo": null,
+            "titulo": "Audição em 2018-10-04 com Associação Portuguesa para a Defesa do Consumidor - DECO"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-09-19",
+            "dataResposta": "2018-10-16",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "140/COFMA/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-09-19",
+            "dataResposta": "2018-10-10",
+            "entidades": [
+              "APB - Associação Portuguesa de Bancos"
+            ],
+            "nrOficio": "141/COFMA/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-09-19",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "139/COFMA/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-12-13",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-07-25",
+        "DataArquivo": "2019-01-16",
+        "DataBaixaComissao": "2018-07-13",
+        "DataEnvioPAR": "2019-01-16",
+        "DataReaberta": "2018-07-25",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-07-26",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876593251794d6a41344d544d744d7a49304d7930304e7a63344c5745794d7a4174597a59354e5467324d54686d4d6a6c6c4c6e426b5a673d3d&fich=cd220813-3243-4778-a230-c6958618f29e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-09-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a445535596d517a4e4449745a546b334d7930304f54426c4c546c6b4e5459744d5445325a6a56684e444178597a55304c6e426b5a673d3d&fich=d59bd342-e973-490e-9d56-116f5a401c54.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-09-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e6a63344d4441354f444974595464694e6930304e7a63324c54686c596a63744e44457a4d6a49344e54517a4d6a5a694c6e426b5a673d3d&fich=67800982-a7b6-4776-8eb7-41322854326b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-09-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764e44686b4e6d51344f546774596d55304e7930304f47557a4c546b324e7a55744d5446684f475a694e4459795a4752694c6e426b5a673d3d&fich=48d6d898-be47-48e3-9675-11a8fb462ddb.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-01-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738765a6d45305a6a59794f4755744f5449314f533030597a68684c574934596a67745a5749345a6a46684d4441335a5451794c6e426b5a673d3d&fich=fa4f628e-9259-4c8a-b8b8-eb8f1a007e42.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-10-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876596a6730596a6c6c5a6a4d74595455334e7930304d7a4e684c546734593259744d54566c4f4452684d5759355a4446694c6e426b5a673d3d&fich=b84b9ef3-a577-433a-88cf-15e84a1f9d1b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-10-17",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876593246684e44686a4e6a4d744e6a646b4e6930304e4745794c546c6c5a6a55745a6a45774d446378595449334e5759304c6e426b5a673d3d&fich=caa48c63-67d6-44a2-9ef5-f10071a275f4.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-07-25",
+            "gp": "BE",
+            "id": "4557",
+            "motivoCessacao": null,
+            "nome": "Mariana Mortágua"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-07-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-07-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304f5759784d6a63314f5330325a474a6c4c5451304f446b744f5749784d4331685a6a6c6c4d44686d4d5449784f57597555455247&fich=49f12759-6dbe-4489-9b10-af9e08f1219f.PDF&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "42238",
+      "42239",
+      "43674"
+    ],
+    "Iniciativasoriginadas": [
+      "42238",
+      "42239",
+      "43674"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:35:14:444&drc=00:00:07:780"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:35:22:225&drc=00:00:13:847"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:35:36:073&drc=00:03:33:648"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:39:09:722&drc=00:03:48:963"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:42:58:685&drc=00:03:56:356"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:46:55:042&drc=00:03:41:415"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-07-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:50:36:458&drc=00:03:26:976"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado», bem como a definição de critérios de atualização de comissões bancárias; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e de declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos à habitação; Institui a obrigatoriedade e a gratuitidade de emissão do distrate e da declaração de liquidação do empréstimo, elimina comissões cobradas pelo processamento de prestações de crédito, proibindo ainda as instituições de crédito de alterar unilateralmente as condições contratuais dos créditos concedidos ao consumo; Procede à sexta alteração ao regime de serviços mínimos bancários, tornando-o mais adequado às necessidades dos clientes bancários, que foram rejeitados.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13209",
+    "PetAssunto": "Solicitam a criação de legislação que esclareça o que é que corresponde a um «serviço efetivamente prestado» para efeitos da Lei n.º 66/2015, de 6 de julho, bem como a definição de critérios de atualização de comissões bancárias.",
+    "PetDataEntrada": "2018-07-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13209",
+    "PetLeg": "XIII",
+    "PetNr": "525",
+    "PetNrAssinaturas": "20545",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2612",
+        "obs": null,
+        "pag": [
+          "30-35"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-06",
+        "pubLeg": "XIII",
+        "pubNr": "106",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/30?pgs=30-35&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
