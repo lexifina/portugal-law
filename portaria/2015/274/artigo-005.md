@@ -6,7 +6,7 @@
 
 a) Investimento elegível até ao limite de 2 milhões de euros por ZIF ou por baldio;
 
-b) Investimento elegível até ao limite de 2 milhões de euros para entidades coletivas públicas e entidades coletivas de gestão florestal;
+b) Investimento elegível até ao limite de 2 milhões de euros para entidades coletivas públicas e entidades coletivas de gestão florestal, por mata nacional e por perímetro florestal, geridos pelo Instituto da Conservação da Natureza e das Florestas, I. P.;
 
 c) Investimento elegível até ao limite de 1 milhão de euros para os restantes beneficiários.
 

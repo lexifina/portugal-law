@@ -2,7 +2,7 @@
 
 ### Obrigações dos beneficiários
 
-Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+1- Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
 
 a) Executar os investimentos nos termos e condições aprovados;
 
@@ -31,3 +31,5 @@ l) Dispor de um processo relativo à operação, preferencialmente em suporte di
 m) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação dos investimentos e participar em processos de inquirição relacionados com as mesmas;
 
 n) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
+2 - Os beneficiários dos apoios às Operações 8.1.1 e 8.1.2 são obrigados a registar, em seu nome, as áreas de intervenção no Sistema de Identificação Parcelar (SIP).
