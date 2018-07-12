@@ -10,10 +10,16 @@
 
 4 - Pode ser apresentado em pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
 
-5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação, no caso de beneficiários de natureza privada, representar, pelo menos, 5 % da despesa total elegível da operação.
+5 - Em alternativa ao adiantamento previsto no número anterior, podem ser apresentados pedidos de pagamento a título de adiantamento contra fatura, relativos a despesas elegíveis faturadas e não pagas, devendo a opção por esta modalidade ser expressamente manifestada pelo beneficiário junto do IFAP, I. P.
 
-6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena de indeferimento.
+6 - Os adiantamentos contra fatura são obrigatoriamente regularizados no prazo de 45 dias úteis após o seu recebimento, mediante a apresentação do comprovativo do pagamento integral da despesa.
 
-7 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+7 - Não se verificando a sua regularização, a reposição do valor adiantado deve ser efetuada no prazo de 30 dias úteis, vencendo-se juros de mora desde a data do pagamento.
 
-8 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.
+8 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação, no caso de beneficiários de natureza privada, representar, pelo menos, 5 % da despesa total elegível da operação.
+
+9 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena de indeferimento.
+
+10 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+11 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.
