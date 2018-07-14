@@ -8,13 +8,15 @@
 
 a) As contribuições cobradas na tarifa de acesso aos clientes de eletricidade e de gás natural, que sejam necessárias para financiar o orçamento da ERSE, na proporção que anualmente vier a ser estabelecida no mesmo, atendendo à relevância e ao impacto de cada um dos sectores regulados no funcionamento da ERSE;
 
-b) 40% do produto das coimas, cuja aplicação seja da sua competência, nos termos da lei, revertendo os restantes 60% a favor do Estado;
+b) Tarifas, contribuições e taxas regulatórias cobradas aos intervenientes e agentes que operam no SPN, nos termos da lei, exceto as receitas referentes ao Fundo Azul, criado pelo Decreto-Lei n.º 16/2016, de 9 de março;
 
-c) As importâncias cobradas por trabalhos ou serviços prestados pela ERSE, bem como pela venda de estudos ou outras publicações;
+c) 40% do produto das coimas, cuja aplicação seja da sua competência, nos termos da lei, revertendo os restantes 60% a favor do Estado;
 
-d) Os rendimentos da alienação, oneração ou aplicação financeira de bens próprios;
+d) As importâncias cobradas por trabalhos ou serviços prestados pela ERSE, bem como pela venda de estudos ou outras publicações;
 
-e) Outras receitas que lhe caibam nos termos da lei.
+e) Os rendimentos da alienação, oneração ou aplicação financeira de bens próprios;
+
+f) Outras receitas que lhe caibam nos termos da lei.
 
 2 - A entidade concessionária da RNT e a entidade concessionária da RNTGN estão obrigadas a transferir para a ERSE, no início de cada trimestre, um quarto do respetivo montante previsto na alínea a) do número anterior.
 

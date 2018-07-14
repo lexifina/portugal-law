@@ -6,7 +6,7 @@
 
 ### Regulamentos da ERSE
 
-1 - A ERSE dispõe de competência para a elaboração e aprovação de regulamentos destinados à aplicação da legislação que disciplina a organização e o funcionamento dos sectores que integram o âmbito da regulação da ERSE.
+1 - A ERSE dispõe de competência para a elaboração e aprovação de regulamentos que sejam necessários ao desempenho das suas atribuições e que sejam destinados à aplicação da legislação que disciplina a organização e o funcionamento dos setores que integram o âmbito da regulação a seu cargo.
 
 2 - No quadro das suas atribuições e ao abrigo do disposto nas normas habilitantes constantes da legislação referida no número anterior, a ERSE tem, nomeadamente, competência para a elaboração e aprovação dos seguintes regulamentos:
 

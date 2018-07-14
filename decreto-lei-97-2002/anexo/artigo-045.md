@@ -1,6 +1,6 @@
-## Secção V
+## Secção VI
 
-## Conselho tarifário
+## Conselho Tarifário
 
 # Artigo 45.º
 

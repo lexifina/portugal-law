@@ -20,4 +20,4 @@ f) Exercer as competências que lhe sejam delegadas pelo conselho de administra�
 
 3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal que ele indicar e, na falta deste ou de indicação, pelo vogal mais antigo na função, ou ainda, caso os vogais tenham antiguidade igual, pelo vogal com mais idade.
 
-4 - Sem prejuízo do disposto no n.º 4 do artigo 14.º do Código do Procedimento Administrativo, o presidente ou o seu substituto legal podem opor o seu veto a deliberações que reputem contrárias à lei, aos presentes Estatutos e aos regulamentos.
+4 - Sem prejuízo do disposto no Código do Procedimento Administrativo, o presidente ou o seu substituto legal podem opor o seu veto a deliberações que reputem contrárias à lei, aos presentes Estatutos e aos regulamentos.

@@ -2,7 +2,7 @@
 
 ### Procedimento regulamentar
 
-1 - Antes da aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, e sem prejuízo da consulta ao conselho consultivo ou ao conselho tarifário em razão das matérias da competência de cada um destes conselhos, a ERSE deve comunicar o procedimento em curso ao membro do Governo responsável pela área da energia, à Direção-Geral de Energia e Geologia (DGEG), às entidades concessionárias, licenciadas, aos comercializadores, às associações de consumidores de interesse genérico e ao público em geral, facultando-lhes o acesso aos textos respetivos e disponibilizando-os na sua página na Internet.
+1 - Antes da aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, e sem prejuízo da consulta ao conselho consultivo, ao conselho tarifário ou ao conselho para os combustíveis, em razão das matérias da competência de cada um destes conselhos, a ERSE deve comunicar o procedimento em curso ao membro do Governo responsável pela área da energia e à DGEG, bem como às entidades concessionárias, licenciadas, aos comercializadores e demais agentes dos setores regulados registados para o efeito na ERSE, em razão da matéria, e às associações de consumidores de interesse genérico e ao público em geral, facultando-lhes o acesso aos textos respetivos e disponibilizando-os na sua página na Internet.
 
 2 - Para efeitos do número anterior, é fixado um prazo de 30 dias durante o qual os interessados podem emitir os seus comentários e apresentar sugestões.
 

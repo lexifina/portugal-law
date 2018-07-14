@@ -4,7 +4,7 @@
 
 1 - O conselho de administração é composto por um presidente e dois vogais.
 
-2 - O presidente e os vogais devem possuir qualificações adequadas e reconhecida independência e competência técnica e profissional na área da eletricidade e do gás natural.
+2 - O presidente e os vogais devem possuir qualificações adequadas e reconhecida independência e competência técnica e profissional nas áreas reguladas.
 
 3 - O presidente e os vogais são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área da energia, que deve ser acompanhada de parecer da Comissão de Recrutamento e Seleção da Administração Pública relativo à adequação do perfil do indivíduo às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimento aplicáveis.
 
