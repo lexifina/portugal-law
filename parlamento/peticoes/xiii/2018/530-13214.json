@@ -1,0 +1,488 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13214",
+  "numero": "530",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2018-09-20",
+            "entidades": null,
+            "id": "110265",
+            "tipo": null,
+            "titulo": "Audição em 2018-09-20 com Associação Portuguesa para a Igualdade Parental e Direitos dos Filhos"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-08-01",
+            "dataResposta": "2019-03-15",
+            "entidades": [
+              "Bastonário da Ordem dos Advogados"
+            ],
+            "nrOficio": "750/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-08-01",
+            "dataResposta": "2018-11-08",
+            "entidades": [
+              "Conselho Superior da Magistratura"
+            ],
+            "nrOficio": "751/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-08-01",
+            "dataResposta": "2018-10-08",
+            "entidades": [
+              "Conselho Superior do Ministério Público"
+            ],
+            "nrOficio": "752/CACDLG/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-07-26",
+        "DataArquivo": "2019-03-20",
+        "DataBaixaComissao": "2018-07-24",
+        "DataEnvioPAR": "2019-03-20",
+        "DataReaberta": "2018-07-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-07-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a466b596d5533593255304c5745785a6a41744e4455324d7931684e6d51304c5441334f44457a4e474d774e6a4d31597935775a47593d&fich=1dbe7ce4-a1f0-4563-a6d4-078134c0635c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c324a695a574d794d7a59324c5445324f574d744e4449324f4331694d4759784c5451334f545179597a49314d545a69595335775a47593d&fich=bbec2366-169c-4268-b0f1-47942c2516ba.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a637a4e4759314e5463354c544e684d5445744e445934597931694d4756694c5745304f4449324e7a41304d7a41315a6935775a47593d&fich=734f5579-3a11-468c-b0eb-a4826704305f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-08-01",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4e684e7a4d334d54466b4c5449354d6a59744e4759354f5330344d47457a4c5467355a5451325a6a51784d474d324d4335775a47593d&fich=3a73711d-2926-4f99-80a3-89e46f410c60.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-03-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4d314e5746684d57526a4c575a6b5a6a51744e44686d4e79316859574d304c5467354f5745334f444e694e7a4a6c4e4335775a47593d&fich=355aa1dc-fdf4-48f7-aac4-899a783b72e4.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-03-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a4a6a5a47526d596a417a4c5459335a4745744e475a6b4e4331694d6d51344c54686d4f4463334d7a5669596a426c4e6935775a47593d&fich=2cddfb03-67da-4fd4-b2d8-8f87735bb0e6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-11-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c3251794d6d59774e6a67304c5449794d4755744e4459335953316859574d304c5441784f4441354e32526c4d6a67794d5335775a47593d&fich=d22f0684-220e-467a-aac4-018097de2821.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-10-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e515a585270593246764c7a45784d446335593255344c5759784e5455744e444d33595330355932466d4c544d775a4455304d6d55785a575533595335775a47593d&fich=11079ce8-f155-437a-9caf-30d542e1ee7a.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4524",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-07-26",
+            "gp": "PS",
+            "id": "5500",
+            "motivoCessacao": null,
+            "nome": "Fernando Rocha Andrade"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-07-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d7a42685a475a695a4330315a5468684c54526d4d6a6b7459545a6b5a4330775a5445334d7a51354f44566d4f5467756347526d&fich=530adfbd-5e8a-4f29-a6dd-0e1734985f98.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:08:19:484&drc=00:04:04:225"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/21?pgs=21&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:12:23:710&drc=00:03:04:054"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:15:27:764&drc=00:03:39:090"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:19:06:854&drc=00:02:52:856"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235948",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:21:59:711&drc=00:04:04:742"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235949",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13214",
+    "PetAssunto": "Solicitam alteração legislativa com vista a estabelecer a presunção jurídica da residência alternada para crianças com pais separados.",
+    "PetDataEntrada": "2018-07-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13214",
+    "PetLeg": "XIII",
+    "PetNr": "530",
+    "PetNrAssinaturas": "4169",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "700",
+        "obs": null,
+        "pag": [
+          "21-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-16",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/21?pgs=21-25&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "823519",
+        "obs": null,
+        "pag": [
+          "16-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-27",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/059/2018-07-27/16?pgs=16-26&org=PLC"
+      }
+    ]
+  }
+}
