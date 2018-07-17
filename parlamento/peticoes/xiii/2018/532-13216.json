@@ -1,0 +1,745 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13216",
+  "numero": "532",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-07-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-17",
+            "entidades": null,
+            "id": "111176",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-17 com Audição dos Peticionários da Petição n.º 532/XIII/3.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-07-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.   DA  SAÚDE"
+            ],
+            "nrOficio": "84/CS/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-01-10",
+                "dataResposta": null,
+                "nrOficio": "9/CS/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-09-12",
+        "DataArquivo": "2019-03-20",
+        "DataBaixaComissao": "2018-07-24",
+        "DataEnvioPAR": "2019-03-20",
+        "DataReaberta": "2018-09-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f445533595745794e5745744e6a6b324e7930304d544a6d4c546869596a49744d7a59354f5446695a44417a4e6a42684c6e426b5a673d3d&fich=857aa25a-6967-412f-8bb2-36991bd0360a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e5751325a5467334e444974595449304f5330304e7a46694c5749774d6a51744e6a517a5a446c6d4d474a685a4749354c6e426b5a673d3d&fich=5d6e8742-a249-471b-b024-643d9f0badb9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-01-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e32457a5a6d5a6d5a544d744e4467305a6930304e5745344c546c6b593259745a6a45324f4463344d5463304f4449354c6e426b5a673d3d&fich=7a3fffe3-484f-45a8-9dcf-f16878174829.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-04-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f54457a4f5749335a6a49744e4459334d4330304f475a6c4c5745774d7a63744d57557a4e7a51775a446c6a4f4751354c6e426b5a673d3d&fich=9139b7f2-4670-48fe-a037-1e3740d9c8d9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-09-12",
+            "gp": "PSD",
+            "id": "1597",
+            "motivoCessacao": null,
+            "nome": "Fátima Ramos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-07-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a4d7a6b334e574e6b4f53316a4f5463794c545131595463744f545a6d5953307a5a444d344d54517a596d59794d6a51756347526d&fich=33975cd9-c972-45a7-96fa-3d38143bf224.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44004",
+      "44021",
+      "44055",
+      "44004",
+      "44004",
+      "44004",
+      "44021",
+      "44021",
+      "44055"
+    ],
+    "Iniciativasoriginadas": [
+      "44004",
+      "44021",
+      "44055"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:26:04:453&drc=00:04:19:127"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236001",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:30:23:581&drc=00:03:21:836"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/26?pgs=26&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236002",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:33:45:417&drc=00:03:19:830"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:37:05:248&drc=00:02:49:794"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:39:55:042&drc=00:03:47:161"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-16",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_15_10_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:43:42:203&drc=00:01:45:875"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-16",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/29?pgs=29&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda a localização da futura unidade de neonatologia e de cuidados na gravidez e no parto de Coimbra nos terrenos adjacentes ao Hospital dos Covões; Implementação da nova maternidade de Coimbra no campus do Hospital Geral (Covões); Recomenda a construção de uma nova maternidade em Coimbra que abarque o número de partos das atuais maternidades e seja situada junto ao Hospital Geral dos Covões",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13216",
+    "PetAssunto": "Solicitam que a maternidade de Coimbra seja integrada no espaço do Hospital dos Covões.",
+    "PetDataEntrada": "2018-07-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13216",
+    "PetLeg": "XIII",
+    "PetNr": "532",
+    "PetNrAssinaturas": "4748",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2621",
+        "obs": null,
+        "pag": [
+          "25-29"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-16",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/007/2019-11-16/25?pgs=25-29&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "823520",
+        "obs": null,
+        "pag": [
+          "26-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-07-27",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/03/059/2018-07-27/26?pgs=26-27&org=PLC"
+      }
+    ]
+  }
+}
