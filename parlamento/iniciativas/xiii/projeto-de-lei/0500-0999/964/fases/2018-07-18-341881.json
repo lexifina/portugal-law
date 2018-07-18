@@ -1,0 +1,160 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "964",
+    "id": "42907",
+    "titulo": "Alarga o quadro de competências reconhecido aos arquitetos na direção de obra e direção de fiscalização de obra, procedendo à terceira alteração à Lei n.º 31/2009, de 3 de julho"
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2018-07-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "43958",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-07-18",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": null,
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-01-17",
+            "TipoDocumento": "Nota técnica",
+            "TituloDocumento": "Nota Técnica",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396859546b304e44637a4f4330354d6a5a6d4c5451345a4455744f5752685a433079596a6b314d4446694d6d4a694f4455756347526d&fich=aa944738-926f-48d5-9dad-2b9501b2bb85.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-01-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer da Comissão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344d7a5a6a596a526b4e79307a4f546b324c5451334d5467745954686b4d6930334d54526c593251354d444d304e5467756347526d&fich=836cb4d7-3996-4718-a8d2-714ecd903458.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-11-29",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OA - Ordem dos Arquitetos (29.11.2018)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f5449304d5467325a5331684d4759784c54526b4e325574596a51795a6930785a446c6b596a52694e474a6d597a6b756347526d&fich=3924186e-a0f1-4d7e-b42f-1d9db4b4bfc9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-09-17",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OE - Ordem dos Engenheiros (17.09.2018)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4d475a6b4d4463304e7930344e6a63794c54526d4e54417459546c6d5a6930785a6d4e6b596a51324d5759784e574d756347526d&fich=c0fd0747-8672-4f50-a9ff-1fcdb461f15c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-09-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer OET - Ordem dos Engenheiros Técnicos (7.9.2018)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775954493159324a6b4e79316d4e4467784c545268596d59744f54517a4d6930325932497a5a6a4d304d5459354e6d59756347526d&fich=0a25cbd7-f481-4abf-9432-6cb3f341696f.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4529",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "Numero": "4529",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "12-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-01-16",
+            "pubLeg": "XIII",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/046/2019-01-16/12?pgs=12-24&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "12-24"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-01-16",
+            "pubLeg": "XIII",
+            "pubNr": "46",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/046/2019-01-16/12?pgs=12-24&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "2117",
+            "motivoCessacao": null,
+            "nome": "Joel Sá"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-07-18",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "341881",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
