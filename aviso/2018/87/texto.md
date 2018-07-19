@@ -1,0 +1,15 @@
+Aviso n.º 87/2018
+Por ordem superior se torna público que, por notificação de 13 de março de 2017, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Federação da Rússia formulado uma declaração referente à Convenção Relativa ao Processo Civil, adotada na Haia, a 1 de março de 1954.
+Declaração
+(tradução)
+Federação da Rússia, 19-07-2016
+Declaração referente à Convenção de 1 de março de 1954 Relativa ao Processo Civil.
+«Com referência à declaração da Ucrânia de 16 de outubro de 2015 referente à Convenção de 1 de março de 1954 Relativa ao Processo Civil, a Federação da Rússia, reafirmando o seu firme compromisso em respeitar e cumprir integralmente os princípios e normas de Direito Internacional geralmente reconhecidos, declara o seguinte:
+A Federação da Rússia rejeita a declaração da Ucrânia acima mencionada e declara que a mesma não pode ser tida em conta, porque se baseia numa apresentação e interpretação de má-fé e incorreta dos factos e da lei.
+A declaração da Ucrânia em relação a 'determinados distritos das oblasts (províncias) de Donetsk e de Lugansk da Ucrânia' não pode servir de justificação ao incumprimento das suas obrigações, ao desrespeito pelas considerações humanitárias, à recusa ou incapacidade para tomar as medidas necessárias para encontrar soluções práticas para questões que têm um impacto muito grave e direto na capacidade dos residentes daquelas regiões de exercerem os seus direitos e liberdades fundamentais previstos no Direito Internacional.
+A declaração de independência da República da Crimeia e a sua adesão voluntária à Federação da Rússia resultam de uma expressão direta e livre da vontade do povo da Crimeia, em conformidade com princípios democráticos, uma forma legítima de exercerem o seu direito à autodeterminação dado o golpe de Estado violento que ocorreu na Ucrânia, apoiado pelo estrangeiro, conduzindo ao aumento galopante dos elementos nacionalistas radicais que não hesitam em aterrorizar, intimidar e perseguir os seus oponentes políticos e a população de regiões inteiras da Ucrânia.
+A Federação da Rússia rejeita quaisquer tentativas que ponham em causa um estatuto objetivo da República da Crimeia e da cidade de Sebastopol enquanto entidades constituintes da Federação da Rússia, cujos territórios fazem parte integrante do território da Federação da Rússia, sobre o qual ela exerce a sua plena soberania. Assim, a Federação da Rússia reafirma que cumpre plenamente as suas obrigações internacionais ao abrigo da Convenção em relação a essa parte do seu território.»
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto-Lei n.º 47 097, publicado no Diário do Governo, 1.ª série, n.º 162, de 14 de julho de 1966, e ratificada a 3 de julho de 1967, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 196, de 23 de agosto de 1967.
+A Convenção encontra-se em vigor para a República Portuguesa desde 31 de agosto de 1967.
+Departamento de Assuntos Jurídicos, 13 de julho de 2018. - A Diretora, Susana Vaz Patto.
+111507657
