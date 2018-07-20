@@ -6,7 +6,9 @@
 
 2 - Os Centros Culturais Portugueses são criados por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, finanças e administração pública, precedendo estudo de avaliação das condições locais de difusão da língua e da cultura portuguesas, mediante proposta do conselho diretivo do Camões, I. P.
 
-3 - Os Centros Culturais Portugueses desenvolvem a sua ação de acordo com um plano de atividades anual, sem prejuízo de deverem atuar na dependência funcional do chefe de missão diplomática, ou equiparado, da respetiva área geográfica, competindo-lhes designadamente:
+3 - Nas situações de recrutamento por escolha a direção da atividade dos centros culturais portugueses é assegurada, localmente, pelo titular do cargo de pessoal especializado do Ministério dos Negócios Estrangeiros com a área cultural, colocado junto da missão diplomática ou posto consular.
+
+4 - Os Centros Culturais Portugueses desenvolvem a sua ação de acordo com um plano de atividades anual, sem prejuízo de deverem atuar na dependência funcional do chefe de missão diplomática, ou equiparado, da respetiva área geográfica, competindo-lhes designadamente:
 
 a) Desenvolver e realizar uma programação cultural regular, diferenciada em função de contextos e públicos, promovendo, sempre que possível, a articulação com entidades e criadores locais;
 

@@ -2,7 +2,7 @@
 
 ### Direção de Serviços de Planeamento e Gestão
 
-1 - Compete à Direção de Serviços de Planeamento e Gestão:
+1 - A Direção de Serviços de Planeamento e Gestão desenvolve a sua atividade assegurando o apoio e assessoria às diferentes unidades orgânicas, através do exercício das seguintes competências:
 
 a) A coordenação das atividades relativas à administração e gestão dos recursos humanos;
 
@@ -10,7 +10,9 @@ b) O planeamento e a gestão dos recursos financeiros e patrimoniais;
 
 c) O apoio jurídico e de contencioso administrativo;
 
-d) A execução das atividades em matéria de comunicação, arquivo e documentação.
+d) A execução das atividades em matéria de comunicação, arquivo e documentação;
+
+e) A promoção dos procedimentos instrutórios necessários para a celebração de contratos e protocolos no âmbito da execução dos programas, projetos e ações de cooperação, bem como para o recrutamento dos agentes da cooperação e gestão da sua situação contratual, em articulação com as direções de serviços de cooperação multilateral e europeia e de cooperação bilateral;
 
 2 - No domínio da administração e da gestão dos recursos humanos, compete à Direção de Serviços de Planeamento e Gestão:
 
@@ -24,9 +26,9 @@ d) Garantir o processamento dos vencimentos e abonos do pessoal e assegurar as d
 
 e) Gerir os contratos do programa anual de bolsas e formação profissional, em articulação com as direções de serviços envolvidas na sua celebração e com os respetivos estabelecimentos de ensino, sempre que necessário;
 
-f) Instruir, no domínio do apoio à atividade dos agentes de cooperação, o procedimento de seleção de agentes de cooperação em articulação com a divisão coordenadora do projeto em que aqueles se inserem, e gerir a respetiva relação contratual;
+f) (Revogada.)
 
-g) Gerir a bolsa de candidatos a agentes de cooperação;
+g) (Revogada.)
 
 h) Assegurar o registo dos contratos dos agentes de cooperação;
 
@@ -87,3 +89,19 @@ e) Assegurar a pesquisa, aquisição, tratamento, conservação e difusão de to
 f) Definir uma política de gestão do arquivo do Camões, I. P., assegurando o respetivo acesso ao público, nos termos da lei;
 
 g) Manter os serviços informados sobre a atividade do Camões, I. P.
+
+6 - No domínio da promoção dos procedimentos instrutórios necessários para a celebração de contratos e protocolos no âmbito da execução dos programas, projetos e ações de cooperação, bem como para o recrutamento dos agentes da cooperação e gestão da sua situação contratual, compete à Direção de Serviços de Planeamento e Gestão, em articulação com as direções de serviços de cooperação multilateral e europeia e de cooperação bilateral:
+
+a) Instruir os procedimentos necessários à aprovação de programas, projetos e ações de cooperação com a definição dos respetivos termos contratuais;
+
+b) Instruir os procedimentos necessários à celebração de contratos e protocolos com entidades financiadoras e coexecutoras;
+
+c) Instruir os procedimentos necessários para a celebração de protocolos de colaboração com outras entidades públicas, contratos de subdelegação e contratos de subvenção no âmbito da execução dos programas, projetos e ações de cooperação;
+
+d) Instruir os procedimentos necessários à celebração de contratos de aquisição de bens e serviços no âmbito da execução dos programas, projetos e ações de cooperação;
+
+e) Instruir os procedimentos necessários ao recrutamento e seleção dos agentes da cooperação, de acordo com o regime jurídico aplicável;
+
+f) Conduzir o processo de recrutamento e a gestão da relação contratual dos agentes da cooperação;
+
+g) Assegurar o registo dos agentes da cooperação.
