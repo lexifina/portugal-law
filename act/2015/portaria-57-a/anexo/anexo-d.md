@@ -20,7 +20,7 @@ b) No ano de cruzeiro - que corresponde ao segundo exercício económico complet
 
 a) Indicador I(índice 1) - Valor Acrescentado Bruto (VAB), em que o indicador corresponde ao aumento do valor do VAB medido entre o ano pré-projeto e o ano cruzeiro;
 
-b) Indicador I(índice 2) - Criação de Emprego Qualificado (CEQ), em que o indicador corresponde ao aumento do número de trabalhadores com nível de qualificação igual ou superior a 6 registado ente o ano pré-projeto e o ano cruzeiro;
+b) Indicador I(índice 2) - Criação de Emprego Qualificado (CEQ), em que o indicador corresponde ao aumento do número de trabalhadores com nível de qualificação igual ou superior a 6 registado entre o ano pré-projeto e o ano cruzeiro;
 
 c) Indicador I(índice 3) - Volume de Negócios (VN), em que o indicador corresponde ao aumento do valor do VN medido entre o ano pré-projeto e o ano cruzeiro.
 
@@ -34,7 +34,7 @@ VBP = Volume de Negócios + Variação nos inventários da produção + Trabalho
 
 VAB = VBP - Consumos Intermédios.
 
-5 - As ponderações para os indicadores referidos no número anterior são definidas nos avisos para apresentação de candidaturas ou no pedido de pré-vinculação de incentivo para o caso dos projetos de interesse especial e dos projetos de interesse estratégico, sendo que podem variar entre um mínimo de 0,15 e um máximo de 0,4, exceto para o caso do indicador 1 o qual assume uma ponderação mínima de 0,25 e máxima de 0,40:
+5 - As ponderações para os indicadores referidos no número anterior são definidas nos avisos para apresentação de candidaturas ou no pedido de pré-vinculação de incentivo para o caso dos projetos de interesse especial e dos projetos de interesse estratégico, sendo que podem variar entre um mínimo de 0,15 e um máximo de 0,4, exceto para o caso do indicador I(índice 1) o qual assume uma ponderação mínima de 0,25 e máxima de 0,40:
 
 a) Indicador I1 - (beta)1 = [0,25 a 0,40];
 

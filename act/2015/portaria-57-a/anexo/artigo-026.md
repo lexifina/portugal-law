@@ -4,7 +4,7 @@
 
 1- Os critérios de elegibilidade dos projetos para as áreas inovação produtiva Não PME e PME e empreendedorismo qualificado e criativo, com exceção dos vales empreendedorismo, são os seguintes:
 
-a) Ter data de candidatura anterior à data de início dos trabalhos, conforme definição prevista na alínea uu) do artigo 2.º;
+a) Ter data de candidatura, ou pedido de auxílio nos termos do n.º 8 do presente artigo, anterior à data de início dos trabalhos, conforme definição prevista na alínea uu) do artigo 2.º;
 
 b) Ser sustentado por uma análise estratégica da empresa que identifique as áreas de competitividade críticas para o negócio em que se insere, diagnostique a situação da empresa nestas áreas críticas e fundamente as opções de investimento consideradas na candidatura;
 
@@ -63,3 +63,11 @@ f) Demonstrar a natureza incremental e não recorrente da atividade contratada;
 g) Corresponder a uma aquisição dos serviços a uma entidade registada enquanto entidade acreditada, nos termos definidos no artigo 17.º, e evidenciar que no âmbito da aquisição do serviço foi efetuada a consulta a pelo menos duas das entidades acreditadas no domínio de intervenção selecionado, quando as houver.
 
 7- Os avisos para apresentação de candidatura definem os limiares mínimos de investimento para cada tipologia de projeto.
+
+8 - Os pedidos de auxílio referidos na alínea a) do n.º 1 do presente artigo:
+
+a) Devem cumprir o disposto no artigo 6.º do Regulamento (UE) n.º 651/2014, de 16 de junho, não sendo aplicáveis à tipologia vale empreendedorismo;
+
+b) Devem ser utilizados no âmbito do concurso para apresentação de candidaturas imediatamente subsequente à data da sua solicitação, exclusivamente pela mesma empresa que os submeteu, respeitando a configuração e o calendário apresentados, sem prejuízo das alterações aceites em sede de decisão sobre a candidatura;
+
+c) Podem ser suspensos em casos fundamentados, designadamente em situações de dotações orçamentais insuficientes para a abertura de novos concursos, mediante decisão da Comissão Interministerial de Coordenação do Portugal 2020, sob proposta da respetiva Autoridade de Gestão.

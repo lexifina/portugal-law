@@ -14,7 +14,15 @@ b) No caso de PME, apresentem um rácio de autonomia financeira não inferior a 
 
 2 - O rácio de autonomia financeira referido no número anterior é calculado através da seguinte fórmula:
 
-(ver documento original)
+AF = CP(índice e)/AT
+
+em que:
+
+AF - autonomia financeira da empresa;
+
+CP(índice e) - capital próprio da empresa, incluindo os suprimentos desde que estes venham a ser incorporados em capital próprio até à data da assinatura do termo de aceitação ou do contrato, conforme aplicável;
+
+AT - ativo total da empresa.
 
 3 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 26.º consideram-se adequadamente financiados com capitais próprios os projetos de investimento cuja despesa elegível seja coberta por um mínimo de 20 % de capitais próprios, calculado através de uma das seguintes fórmulas:
 

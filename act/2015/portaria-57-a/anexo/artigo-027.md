@@ -2,7 +2,7 @@
 
 ### Efeito de incentivo
 
-1 - Para efeitos do disposto na alínea d) do n.º 1 do artigo anterior, considera-se que se encontra demonstrado o efeito de incentivo sempre que o beneficiário tenha apresentado a candidatura em data anterior à data de início dos trabalhos relativos ao projeto, conforme definição prevista na alínea uu) do artigo 2.º
+1 - Para efeitos do disposto na alínea d) do n.º 1 do artigo anterior, considera-se que se encontra demonstrado o efeito de incentivo sempre que o beneficiário tenha apresentado a candidatura, ou um pedido de auxílio nos termos previstos no n.º 8 do artigo 26.º, em data anterior à data de início dos trabalhos relativos ao projeto, conforme definição prevista na alínea uu) do artigo 2.º
 
 2 - Os projetos de interesse especial e os projetos de interesse estratégico têm que demonstrar o efeito de incentivo, em conformidade com o ponto 3.5 das Orientações relativas aos auxílios estatais com finalidade regional para 2014-2020 - 2013/C 209/01, com base em uma de duas formas:
 

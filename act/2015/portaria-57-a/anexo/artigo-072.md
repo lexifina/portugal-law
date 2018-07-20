@@ -12,7 +12,7 @@ ii) Aquisição de patentes a fontes externas ou por estas licenciadas, a preço
 
 iii) Matérias-primas, materiais consumíveis e componentes necessárias para a construção de instalações piloto ou experimentais e ou de demonstração e para a construção de protótipos;
 
-iv) Aquisição de serviços a terceiros, incluindo assistência técnica, científica e consultoria, bem como os custos decorrentes da utilização de plataformas eletrónicas de inovação aberta e "crowdsourcing";
+iv) Aquisição de serviços a terceiros, incluindo assistência técnica, científica e consultoria, bem como os custos decorrentes da utilização de plataformas eletrónicas de inovação aberta e 'crowdsourcing';
 
 v) Aquisição de instrumentos e equipamento científico e técnico, na medida em que for utilizado no projeto e durante a sua execução;
 
