@@ -12,7 +12,7 @@
 
 5 - Os médicos internos colocados em vagas preferenciais assumem, no respetivo contrato de trabalho, a obrigação de, após o internato, exercer funções no estabelecimento ou serviço onde se verificou a necessidade que deu lugar à vaga preferencial, por um período de três anos.
 
-6 - O exercício de funções nos termos do número anterior efetiva-se mediante celebração do contrato de trabalho e confere o direito a auferir os incentivos à mobilidade geográfica para zonas carenciadas atribuídos a trabalhadores médicos nos termos da lei.
+6 - O exercício de funções nos termos do número anterior efetiva-se mediante celebração do contrato de trabalho e confere, se aplicável, o direito a auferir os incentivos à mobilidade geográfica para zonas carenciadas atribuídos a trabalhadores médicos nos termos da lei.
 
 7 - Até à celebração do contrato de trabalho previsto no número anterior, mantém-se em vigor o contrato de trabalho em funções públicas a termo resolutivo incerto celebrado para efeitos de internato médico.
 
