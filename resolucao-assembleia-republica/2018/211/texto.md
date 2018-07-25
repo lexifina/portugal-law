@@ -1,0 +1,19 @@
+Resolução da Assembleia da República n.º 211/2018
+Recomenda ao Governo medidas de apoio às pessoas com doenças raras
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo a implementação das seguintes medidas:
+1 - Garantir uma melhor articulação dos diferentes agentes do Serviço Nacional de Saúde (SNS), e destes com universidades e centros de investigação que prestem serviços clínicos e laboratoriais ao SNS, de modo a que os utentes acedam aos tratamentos, terapias e exames de que necessitam, num novo modelo de referenciação para doenças raras que aproveite todos os serviços e valências existentes.
+2 - Promover e aplicar o conceito de democracia sanitária, através de uma maior participação dos doentes e suas associações representativas na definição de políticas de saúde e na tomada de decisões relacionadas com doenças raras.
+3 - Conceber e aprovar de forma participada uma agenda de investigação, desenvolvimento e inovação (ID & I), para financiamento da Estratégia Integrada para as Doenças Raras (2015-2020) e das agências de financiamento público de ciência e tecnologia.
+4 - Instituir medidas de fiscalização e reforço da privacidade e confidencialidade dos registos de doenças raras, de acordo com a lei e através da sua revisão por comissões de ética e do processo de consentimento informado.
+5 - Valorizar a investigação por clínicos e outros profissionais de saúde, através do seu reconhecimento pelas instituições do SNS e de incentivos como a flexibilização de horários e a progressão na carreira, entre outros.
+6 - Alargar o número de centros de referência para doenças raras, de modo a que estes possam integrar as respetivas redes europeias de referência e, desse modo, se facilite a investigação num número mais alargado de doenças raras.
+7 - Reforçar a formação de médicos da especialidade de genética médica, com a abertura de mais vagas a nível nacional nos serviços de genética médica considerados idóneos pela Ordem dos Médicos e sua posterior colocação para reforço dos serviços de genética do SNS que estão subdimensionados.
+8 - Abrir vagas para estágio de técnicos superiores de saúde, ramo de genética, bem como de outras vias de formação e estágio com vista à formação de mais geneticistas laboratoriais no País e sua posterior colocação no SNS.
+9 - Rever a forma de prescrição de tratamentos para pessoas com doenças raras, removendo as atuais limitações de número de tratamentos quando eles são necessários de forma prolongada.
+10 - Assegurar que todas as pessoas diagnosticadas com doenças hereditárias e seus familiares em risco possam aceder a consultas de aconselhamento genético.
+11 - Garantir a disponibilização em Portugal de todos os medicamentos órfãos aprovados pela Agência Europeia do Medicamento.
+12 - Garantir o pleno funcionamento da Orphanet-Portugal, com profissionais especializados em doenças raras.
+13 - Apoiar as associações de doentes e a federação que as congregue e represente a nível europeu na EURORDIS - Organização Europeia de Doenças Raras.
+Aprovada em 20 de abril de 2018.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+111521612
