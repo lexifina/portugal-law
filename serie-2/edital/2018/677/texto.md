@@ -1,0 +1,7 @@
+Edital n.º 677/2018
+Humberto da Silva Marques, Presidente da Câmara Municipal de Óbidos:
+Torna público que, em reunião ordinária da Câmara Municipal, realizada em 15 de junho de 2018, foi deliberado aprovar a proposta inicial do Regulamento Municipal de Reconhecimento e Proteção de Estabelecimentos e Entidades de Interesse Histórico e Cultural ou Social Local do Município de Óbidos e proceder à apreciação pública nos termos do artigo 101.º do Código do Procedimento Administrativo aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, pelo prazo de 30 dias úteis, contados do dia seguinte à publicação do presente Edital no Diário da República.
+Durante este período, poderão os interessados, consultar o projeto de regulamento acima referido, em versão integral, na página da Internet do Município (www.cm-obidos.pt) e no balcão único do Municíipio de Óbidos junto à secretaria.
+Mais se torna público que as observações tidas por convenientes deverão ser formuladas por escrito, com a identificação do presente regulamento, dirigidas ao Presidente da Câmara Municipal de Óbidos, e endereçadas à Câmara Municipal de Óbidos - Largo de São Pedro - 2510-086 Óbidos, diretamente no Portal Municipal ou entregues no Balcão Único, junto à secretaria desta Câmara Municipal, durante o horário normal de expediente.
+2 de julho de 2018. - O Presidente da Câmara, Eng. Humberto da Silva Marques.
+311472738
