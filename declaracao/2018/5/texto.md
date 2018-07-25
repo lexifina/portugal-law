@@ -1,0 +1,4 @@
+Declaração n.º 5/2018
+Nos termos do disposto no n.º 5 do artigo 196.º do Regimento da Assembleia da República, declara-se caduco o processo relativo à Apreciação Parlamentar n.º 59/XIII ao Decreto-Lei n.º 11/2018, de 15 de fevereiro, que «Estabelece as restrições básicas ou níveis de referência referentes à exposição humana a campos eletromagnéticos derivados de linhas, instalações e demais equipamentos de alta e muito alta tensão, regulamentando a Lei n.º 30/2010, de 2 de setembro», apresentada pelo Grupo Parlamentar do Bloco de Esquerda, uma vez que as propostas de alteração apresentadas foram rejeitadas na Comissão de Economia, Inovação e Obras Públicas, tendo o Plenário sido informado do facto.
+Assembleia da República, 18 de julho de 2018. - O Deputado Secretário da Mesa da Assembleia da República, Duarte Pacheco.
+111527429
