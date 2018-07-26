@@ -1,0 +1,6 @@
+Aviso n.º 91/2018
+Por ordem superior se torna público que, por notificação de 22 de junho de 2018, o Secretário-Geral do Conselho da Europa comunicou ter a República Portuguesa depositado, a 19 de junho de 2018, o seu instrumento de ratificação à Convenção do Conselho da Europa sobre uma Abordagem Integrada da Segurança, da Proteção e dos Serviços por Ocasião dos Jogos de Futebol e Outras Manifestações Desportivas, aberto à assinatura em Saint-Denis, em 3 de julho de 2016.
+A Convenção do Conselho da Europa sobre uma Abordagem Integrada da Segurança, da Proteção e dos Serviços por Ocasião dos Jogos de Futebol e Outras Manifestações Desportivas foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 52/2018 e ratificada pelo Decreto do Presidente da República n.º 13/2018, publicados no Diário da República, 1.ª série, n.º 36, de 20 de fevereiro de 2018.
+A Convenção do Conselho da Europa sobre uma Abordagem Integrada da Segurança, da Proteção e dos Serviços por Ocasião dos Jogos de Futebol e Outras Manifestações Desportivas entrará em vigor na ordem jurídica portuguesa a 1 de agosto de 2018.
+Direção-Geral de Política Externa, 18 de julho de 2018. - O Subdiretor-Geral, Luís Cabaço.
+111527923
