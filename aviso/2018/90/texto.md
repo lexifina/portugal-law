@@ -1,0 +1,6 @@
+Aviso n.º 90/2018
+Por ordem superior se torna público que, por notificação de 22 de junho de 2018, o Secretário-Geral do Conselho da Europa comunicou ter a República Portuguesa depositado, a 19 de junho de 2018, o seu instrumento de denúncia à Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião de Manifestações Desportivas e nomeadamente de Jogos de Futebol, aberto à assinatura dos Estados-Membros e dos outros Estados partes na Convenção Cultural Europeia, em Estrasburgo, a 19 de agosto de 1985.
+A Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião de Manifestações Desportivas e nomeadamente de Jogos de Futebol foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/87, publicada no Diário da República, série i, n.º 57/87, de 10 de março de 1987, tendo depositado o seu instrumento de ratificação a 26 de junho de 1987, conforme o Aviso publicado no Diário da República, série i, n.º 204/87, de 5 de setembro de 1987.
+A Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião de Manifestações Desportivas e nomeadamente de Jogos de Futebol cessará a sua vigência na ordem jurídica portuguesa a 1 de janeiro de 2019.
+Direção-Geral de Política Externa, 18 de julho de 2018. - O Subdiretor-Geral, Luís Cabaço.
+111527997
