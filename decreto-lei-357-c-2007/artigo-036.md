@@ -2,15 +2,13 @@
 
 ### Código deontológico
 
-1 - As sociedades gestoras de mercado regulamentado ou de sistema de negociação multilateral devem aprovar um código deontológico ao qual ficam sujeitas:
-
-a) Os titulares dos seus órgãos;
+1 - As sociedades gestoras de mercado regulamentado ou de sistemas de negociação multilateral ou organizado devem aprovar um código deontológico ao qual ficam sujeitas:
 
 b) Os seus trabalhadores;
 
 c) Os membros dos mercados por si geridos;
 
-d) Quaisquer entidades que intervenham nos mercados ou sistemas geridos pela sociedade gestora de mercado regulamentado ou pela sociedade gestora de sistema de negociação multilateral ou que tenham acesso às instalações desses mercados ou sistemas geridos pela sociedade, quanto aos deveres relacionados com essa intervenção ou acesso.
+d) Quaisquer entidades que intervenham nos mercados ou sistemas geridos pela sociedade gestora de mercado regulamentado ou pela sociedade gestora de sistemas de negociação multilateral ou organizado ou que tenham acesso às instalações desses mercados ou sistemas geridos pela sociedade, quanto aos deveres relacionados com essa intervenção ou acesso.
 
 2 - O código deontológico deve regular, designadamente:
 

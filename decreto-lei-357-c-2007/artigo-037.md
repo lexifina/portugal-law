@@ -2,7 +2,7 @@
 
 ### Segredo profissional
 
-1 - A sociedade gestora de mercado regulamentado ou a sociedade gestora de sistema de negociação multilateral, os titulares dos seus órgãos, os seus colaboradores e as pessoas que lhe prestem, a título permanente ou ocasional, quaisquer serviços estão sujeitos a segredo profissional quanto a todos os factos e elementos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos seus serviços.
+1 - A sociedade gestora de mercado regulamentado ou a sociedade gestora de sistemas de negociação multilateral ou organizado, os titulares dos seus órgãos, os seus colaboradores e as pessoas que lhe prestem, a título permanente ou ocasional, quaisquer serviços estão sujeitos a segredo profissional quanto a todos os factos e elementos cujo conhecimento lhes advenha do exercício das suas funções ou da prestação dos seus serviços.
 
 2 - O dever de segredo não cessa com o termo das funções ou do serviço.
 

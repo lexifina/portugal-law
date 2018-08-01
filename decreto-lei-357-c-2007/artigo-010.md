@@ -2,7 +2,7 @@
 
 ### Avaliação prudencial
 
-1 - Quem pretenda deter participação qualificada em sociedade gestora de mercado regulamentado ou numa sociedade gestora de sistema de negociação multilateral, deve reunir condições que garantam a gestão sã e prudente daquela sociedade.
+1 - Quem pretenda deter participação qualificada em sociedade gestora de mercado regulamentado ou numa sociedade gestora de sistemas de negociação multilateral ou organizado, deve reunir condições que garantam a gestão sã e prudente daquela sociedade.
 
 2 - No prazo de dois dias úteis a contar da data de recepção da comunicação prevista nos n.os 1 e 6 do artigo anterior, a CMVM informa, por escrito, ao proposto adquirente a recepção da mesma e a data do termo do prazo de apreciação.
 
@@ -10,4 +10,4 @@
 
 4 - Sem prejuízo do disposto no presente diploma, ao processo de apreciação pela CMVM das condições que garantam uma gestão sã e prudente das sociedades gestoras é aplicável, com as devidas adaptações, o artigo 103.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-5 - A CMVM pode, por regulamento, estabelecer os elementos exigíveis para a apreciação dos requisitos de gestão sã e prudente das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistema de negociação multilateral..
+5 - A CMVM pode, por regulamento, estabelecer os elementos exigíveis para a apreciação dos requisitos de gestão sã e prudente das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistemas de negociação multilateral ou organizado.

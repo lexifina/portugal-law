@@ -2,7 +2,7 @@
 
 ### Instrução do registo
 
-1 - O pedido de registo das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistema de negociação multilateral deve ser instruído com os seguintes elementos actualizados:
+1 - O pedido de registo das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistemas de negociação multilateral ou organizado deve ser instruído com os seguintes elementos atualizados:
 
 a) Contrato de sociedade;
 
@@ -10,7 +10,7 @@ b) Identificação dos titulares dos órgãos sociais;
 
 c) Identificação das pessoas titulares das participações qualificadas e montante das respectivas participações;
 
-d) A identificação dos mercados ou dos sistemas de negociação multilateral geridos pela sociedade, incluindo um programa de operações, especificando designadamente os tipos de actividade comercial projectadas e a estrutura organizativa;
+d) A identificação dos mercados ou dos sistemas de negociação multilateral ou organizado geridos pela sociedade, incluindo um programa de operações, especificando designadamente os tipos de atividade comercial projetadas e a estrutura organizativa;
 
 e) A descrição dos meios humanos, técnicos e materiais de que a sociedade disponha afectos à gestão de cada mercado ou sistema;
 

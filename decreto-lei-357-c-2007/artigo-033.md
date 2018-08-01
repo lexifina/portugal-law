@@ -2,7 +2,7 @@
 
 ### Conflito de interesses
 
-1 - As sociedades gestoras de mercado regulamentado ou de sistema de negociação multilateral devem adoptar as medidas de organização interna adequadas a:
+1 - As sociedades gestoras de mercado regulamentado ou de sistemas de negociação multilateral ou organizado devem adotar as medidas de organização interna adequadas a:
 
 a) Identificar, prevenir e evitar a ocorrência de conflito de interesses entre a exigência do bom funcionamento dos mercados ou sistemas por si geridos e os interesses da sociedade gestora, dos titulares de participações qualificadas, dos órgãos de administração da sociedade ou das pessoas que efectivamente a dirijam; e
 

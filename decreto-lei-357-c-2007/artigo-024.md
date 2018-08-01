@@ -18,7 +18,7 @@ f) Ocorrerem faltas graves na actividade da sociedade, designadamente na adminis
 
 g) Não observância das normas, legais e regulamentares, que lhe sejam aplicáveis ou não acatamento de determinações das autoridades competentes;
 
-h) A sociedade não adopte as medidas referidas no n.º 6 do artigo 29.º;
+h) (Revogada);
 
 i) Extinção do mercado regulamentado gerido pela sociedade.
 

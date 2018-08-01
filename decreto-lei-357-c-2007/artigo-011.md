@@ -13,3 +13,5 @@ c) Pessoa singular ou colectiva que controla uma entidade referida na alínea a)
 2 - A CMVM solicita o parecer do Banco de Portugal ou do Instituto de Seguros de Portugal, caso o proposto adquirente corresponda a um dos tipos de entidades previstas no número anterior, autorizadas em Portugal, respectivamente, pelo Banco de Portugal ou pelo Instituto de Seguros de Portugal.
 
 3 - Perante a recepção de pedido de parecer de outra autoridade competente, a CMVM comunica as informações essenciais à apreciação de projectos de aquisição de participações qualificadas, assim como, caso venham a ser solicitadas, outras informações relevantes.
+
+4 - A CMVM consulta, através do Banco de Portugal, a base de dados de sanções da Autoridade Bancária Europeia para efeitos da apreciação do proposto adquirente.

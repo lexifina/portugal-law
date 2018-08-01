@@ -40,10 +40,10 @@ i) A dissolução da sociedade gestora.
 
 3 - O cancelamento do registo do mercado ou do sistema importa o cancelamento do registo da sociedade gestora, no caso de esta não gerir outros mercados ou sistemas.
 
-4 - Para efeitos do disposto na alínea d) do n.º 2, as sociedades gestoras de mercado regulamentado ou de sistema de negociação multilateral ficam obrigadas a comunicar à CMVM os factos previstos no n.º 7 do artigo 17.º, logo que deles tomem conhecimento, e a tomar as medidas adequadas para que essas pessoas cessem imediatamente funções.
+4 - Para efeitos do disposto na alínea d) do n.º 2, as sociedades gestoras de mercado regulamentado ou de sistema de negociação multilateral ou organizado ficam obrigadas a comunicar à CMVM os factos previstos no n.º 7 do artigo 17.º, logo que deles tomem conhecimento, e a tomar as medidas adequadas para que essas pessoas cessem imediatamente funções.
 
 5 - No acto de cancelamento, a CMVM estabelece as medidas que sejam necessárias para defesa dos interesses dos investidores, dos emitentes e dos membros do mercado ou sistemas.
 
-6 - A decisão de cancelamento do registo da atividade de gestão de sistemas de negociação multilateral é comunicada à Autoridade Europeia dos Valores Mobiliários e dos Mercados e, no caso de ser permitido o acesso remoto ao sistema de negociação multilateral no território de outros Estado membros da União Europeia ao abrigo do artigo 224.º do Código dos Valores Mobiliários, às autoridades competentes desses Estado Membros.
+6 - A decisão de cancelamento do registo da atividade de gestão de sistemas de negociação multilateral ou organizado é comunicada à Autoridade Europeia dos Valores Mobiliários e dos Mercados e, no caso de ser permitido o acesso remoto ao sistema de negociação multilateral ou organizado no território de outros Estado membros da União Europeia ao abrigo do artigo 224.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, às autoridades competentes desses Estado Membros.
 
 7 - A CMVM divulga o cancelamento do registo por um período de cinco anos, através do sistema de difusão de informação referido no artigo 367.º do Código dos Valores Mobiliários.

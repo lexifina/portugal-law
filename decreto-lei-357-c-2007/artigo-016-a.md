@@ -2,7 +2,7 @@
 
 ### Comité de nomeações
 
-1 - As sociedades gestoras de mercados regulamentados que sejam significativas em termos de dimensão, organização interna, natureza, âmbito e complexidade das suas atividades criam um comité de nomeações, composto por membros do órgão de administração que não desempenhem funções executivas ou por membros do órgão de fiscalização.
+1 - As sociedades gestoras, que sejam significativas em termos de dimensão, organização interna, natureza, âmbito e à complexidade das suas atividades, devem criar um comité de nomeações, composto por membros do órgão de administração que não desempenhem funções executivas ou por membros do órgão de fiscalização.
 
 2 - São competências do comité de nomeações relativamente aos órgãos de administração e fiscalização:
 

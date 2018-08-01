@@ -6,8 +6,22 @@
 
 ### Objecto
 
-1 - O presente decreto-lei regula o regime jurídico das sociedades gestoras de mercado regulamentado, das sociedades gestoras de sistemas de negociação multilateral, das sociedades gestoras de câmara de compensação, das sociedades gestoras de sistema de liquidação e das sociedades gestoras de sistema centralizado de valores mobiliários.
+1 - O presente decreto-lei regula o regime jurídico das seguintes entidades:
 
-2 - O presente decreto-lei transpõe parcialmente para a ordem jurídica nacional a Directiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa a mercados de instrumentos financeiros, que altera as Directivas n.os 85/611/CEE, do Conselho, de 20 de Dezembro, e 93/6/CEE, do Conselho, de 15 de Março, e a Directiva n.º 2000/12/CE, do Parlamento Europeu e do Conselho, de 20 de Março, e que revoga a Directiva n.º 93/22/CEE, do Conselho, de 10 de Maio.
+a) Sociedades gestoras de mercado regulamentado;
 
-3 - Em tudo o que não venha previsto no presente decreto-lei aplica-se o Código dos Valores Mobiliários.
+b) Sociedades gestoras de sistemas de negociação multilateral ou organizado;
+
+c) Sociedades gestoras de câmara de compensação;
+
+d) Sociedades gestoras de sistema de publicação autorizados (APA), sistema de prestação de informação consolidada (CTP) ou de sistema de reporte autorizado (ARM);
+
+e) Sociedades gestoras de sistema de liquidação;
+
+f) Sociedades gestoras de sistema centralizado de valores mobiliários.
+
+2 - O presente decreto-lei não é aplicável às centrais de valores mobiliários, sujeitas ao Regulamento (UE) n.º 909/2014, do Parlamento Europeu e do Conselho, de 23 de julho, relativo à melhoria da liquidação de valores mobiliários na União Europeia e às centrais de valores mobiliários, e aos atos delegados e atos de execução que o desenvolvem.
+
+3 - O presente decreto-lei transpõe parcialmente para a ordem jurídica nacional a Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros, que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE.
+
+4 - Em tudo o que não venha previsto no presente decreto-lei aplica-se o Código dos Valores Mobiliários.
