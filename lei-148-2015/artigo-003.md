@@ -14,11 +14,11 @@ c) A maioria dos seus membros, incluindo o seu presidente, deve ser considerada 
 
 3 - Sem prejuízo dos demais deveres legais, contratuais e estatutários que lhe sejam imputáveis, o órgão de fiscalização das entidades de interesse público está sujeito aos seguintes deveres:
 
-a) Incluir no relatório anual sobre a sua atividade informação relativa aos resultados da revisão legal de contas e explicar o modo como esta contribuiu para a integridade do processo de preparação e divulgação de informação financeira, bem como o papel que o órgão de fiscalização desempenhou nesse processo;
+a) Informar o órgão de administração dos resultados da revisão legal das contas e explicar o modo como esta contribuiu para a integridade do processo de preparação e divulgação de informação financeira, bem como o papel que o órgão de fiscalização desempenhou nesse processo;
 
 b) Acompanhar o processo de preparação e divulgação de informação financeira e apresentar recomendações ou propostas para garantir a sua integridade;
 
-c) Fiscalizar a eficácia dos sistemas de controlo interno e de gestão do risco e, se aplicável, de auditoria interna, no que respeita ao processo de preparação e divulgação de informação financeira, sem violar a sua independência;
+c) Fiscalizar a eficácia dos sistemas de controlo de qualidade interno e de gestão do risco e, se aplicável, de auditoria interna, no que respeita ao processo de preparação e divulgação de informação financeira, sem violar a sua independência;
 
 d) Acompanhar a revisão legal das contas anuais individuais e consolidadas, nomeadamente a sua execução, tendo em conta as eventuais constatações e conclusões da Comissão do Mercado de Valores Mobiliários (CMVM), enquanto autoridade competente pela supervisão de auditoria, nos termos do n.º 6 do artigo 26.º do Regulamento (UE) n.º 537/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014;
 

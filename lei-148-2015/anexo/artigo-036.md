@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Organização e funcionamento
-
 # Artigo 36.º
 
 ### Departamento de supervisão de auditoria

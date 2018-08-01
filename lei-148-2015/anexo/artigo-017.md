@@ -16,7 +16,7 @@ e) Informação sobre o cumprimento de requisitos equivalentes aos estabelecidos
 
 f) Identificação das entidades do país terceiro que sejam suas clientes e que tenham valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal; e
 
-g) Informação que demonstre a aplicação das normas internacionais de auditoria, normas internacionais de controlo de qualidade e outras normas internacionais e dos requisitos de independência, objetividade e fixação de honorários em vigor em Portugal, ou outros equivalentes, na prestação de serviços de auditoria a entidades com valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal.
+g) Informação que demonstre a aplicação das normas internacionais de auditoria e dos requisitos de independência, objetividade e fixação de honorários em vigor em Portugal, ou outros equivalentes, na prestação de serviços de auditoria a entidades com valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal.
 
 2 - O pedido de registo de entidade de auditoria de país terceiro na CMVM deve incluir os seguintes elementos atualizados:
 
@@ -36,9 +36,9 @@ g) Identificação das entidades do país terceiro que sejam suas clientes e que
 
 h) Identificação dos sócios responsáveis pela prestação de serviços de auditoria a entidades com valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, se aplicável; e
 
-i) Informação que demonstre a aplicação das normas internacionais de auditoria, normas internacionais de controlo de qualidade e outras normas internacionais e dos requisitos de independência, objetividade e fixação de honorários em vigor em Portugal, ou outros equivalentes, na prestação de serviços de auditoria a entidades com valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal.
+i) Informação que demonstre a aplicação das normas internacionais de auditoria e dos requisitos de independência, objetividade e fixação de honorários em vigor em Portugal, ou outros equivalentes, na prestação de serviços de auditoria a entidades com valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal.
 
-3 - A CMVM pode dispensar a prestação de informações referidas na alínea g) do n.º 1 e na alínea i) do número anterior, na medida em que a equivalência das normas relativas a auditores e dos requisitos de independência, objetividade e fixação de honorários aplicados tenha sido confirmada pela Comissão Europeia ou por entidade competente de outro Estado-Membro.
+3 - A CMVM pode dispensar a prestação de informações referidas na alínea g) do n.º 1 e na alínea i) do número anterior, na medida em que a equivalência das normas de auditoria e dos requisitos de independência, objetividade e fixação de honorários aplicados tenha sido confirmada pela Comissão Europeia ou por entidade competente de outro Estado membro.
 
 4 - O requerimento de registo deve obedecer ao modelo disponibilizado pela CMVM e acompanhado dos documentos que suportem as informações nele contidas.
 

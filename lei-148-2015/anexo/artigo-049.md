@@ -8,4 +8,4 @@
 
 3 - A CMVM gere um serviço de receção e acompanhamento da comunicação de infrações que garante a proteção dos dados pessoais de denunciante e denunciado e que é objeto de regulamento da CMVM.
 
-4 - (Revogado.)
+4 - As SROC estabelecem procedimentos adequados para os seus colaboradores comunicarem infrações a nível interno através de um canal específico.

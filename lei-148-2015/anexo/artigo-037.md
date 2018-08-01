@@ -14,6 +14,6 @@ c) Experiência relevante nos domínios da revisão legal das contas e da inform
 
 d) Formação específica em matéria de verificação do controlo de qualidade.
 
-3 - Os peritos não podem liderar ou constituir a maioria dos membros das equipas de controlo de qualidade ou de supervisão, nem participar em tomadas de decisão.
+3 - Os peritos não podem liderar em caso algum, constituir a maioria dos membros das equipas de controlo de qualidade ou de inspeção, nem participar em tomadas de decisão.
 
 4 - Os peritos e outros profissionais externos ficam vinculados aos deveres dos colaboradores da CMVM, nomeadamente em termos de preservação do dever de segredo relativamente a todos os factos e documentos de que tomem conhecimento no exercício das suas funções.

@@ -2,7 +2,7 @@
 
 ### Definições
 
-1 - Para efeitos do disposto no presente regime jurídico, entende-se por:
+Para efeitos do disposto no presente regime jurídico, entende-se por:
 
 a) «Afiliada de uma sociedade de revisor oficial de contas» a empresa, independentemente da sua forma jurídica, que esteja relacionada com uma SROC através de uma relação de participação social, controlo ou gestão;
 
@@ -10,94 +10,70 @@ b) «Auditor de Estado membro» a pessoa singular que revê as contas anuais ind
 
 c) «Auditor de país terceiro» a pessoa singular que revê as contas anuais individuais ou consolidadas de uma sociedade com sede fora da União Europeia, que não esteja registado como auditor em qualquer Estado membro;
 
-d) «Auditoria às contas», as previstas no artigo 42.º do Estatuto da Ordem dos Revisores Oficiais de Contas (EOROC);
+d) «Entidade de auditoria de Estado membro» a entidade que, independentemente da sua forma jurídica, revê as contas anuais individuais ou consolidadas de sociedades, registada como entidade de auditoria em qualquer Estado membro;
 
-e) «Entidade de auditoria de Estado membro» a entidade que, independentemente da sua forma jurídica, revê as contas anuais individuais ou consolidadas de sociedades, registada como entidade de auditoria em qualquer Estado membro;
+e) «Entidade de auditoria de país terceiro» a entidade que, independentemente da sua forma jurídica, revê as contas anuais individuais ou consolidadas de uma sociedade com sede fora da União Europeia, que não esteja registada como entidade de auditoria em qualquer Estado membro;
 
-f) «Entidade de auditoria de país terceiro» a entidade que, independentemente da sua forma jurídica, revê as contas anuais individuais ou consolidadas de uma sociedade com sede fora da União Europeia, que não esteja registada como entidade de auditoria em qualquer Estado membro;
+f) «Estado membro» Estado membro da União Europeia;
 
-g) «Estado membro» Estado membro da União Europeia;
+g) «Estado membro de acolhimento»:
 
-h) «Estado membro de acolhimento»:
+i) O Estado membro em que um auditor, aprovado no seu Estado membro de origem, pretende ser igualmente inscrito nos termos do artigo 177.º do Estatuto da Ordem dos Revisores Oficiais de Contas; ou
 
-i) O Estado-Membro em que um auditor, aprovado no seu Estado-Membro de origem, pretende ser igualmente inscrito nos termos do artigo 177.º do EOROC; ou
+ii) O Estado membro em que uma entidade de auditoria, aprovada no seu Estado membro de origem, pretende inscrever-se ou está inscrita nos termos do artigo 185.º do Estatuto da Ordem dos Revisores Oficiais de Contas;
 
-ii) O Estado-Membro em que uma entidade de auditoria, aprovada no seu Estado-Membro de origem, pretende inscrever-se ou está inscrita nos termos do artigo 185.º do EOROC;i) «Estado membro de origem» o Estado membro em que um auditor ou uma entidade de auditoria tenha obtido a sua primeira aprovação;
+h) «Estado membro de origem» o Estado membro em que um auditor ou uma entidade de auditoria tenha obtido a sua primeira aprovação;
 
 i) «Funções de interesse público» as definidas no artigo 41.º do Estatuto da Ordem dos Revisores Oficiais de Contas;
 
-j) «Funções de interesse público»:
+j) «Médias empresas» as empresas que não sejam microempresas nem pequenas empresas e que, à data do balanço, não excedam os limites de, pelo menos, dois dos três critérios seguintes:
 
-i) Aquelas em que é prevista, em lei ou regulamento, nacional ou da União Europeia, a intervenção obrigatória ou facultativa de auditor;
+i) Total do balanço: (euro) 20 000 000;
 
-ii) A auditoria às contas;
+ii) Volume de negócios líquido: (euro) 40 000 000;
 
-k) «Médias empresas» as empresas qualificadas como "médias entidades" na legislação contabilística;
+iii) Número médio de empregados durante o período: 250;
 
-l) «Normas internacionais de auditoria» as Normas Internacionais de Auditoria (ISA);
+k) «Normas internacionais de auditoria» as Normas Internacionais de Auditoria (ISA), a Norma Internacional sobre Controlo de Qualidade 1 (ISQC 1) e outras normas conexas emitidas pela Federação Internacional dos Contabilistas (IFAC) através do International Auditing and Assurance Standards Board (IAASB), na medida em que sejam relevantes para a revisão legal das contas;
 
-m) [Anterior alínea l) do corpo do artigo];
+l) «Normas internacionais de contabilidade» as normas internacionais de contabilidade (IAS - International Accounting Standards), as normas internacionais de informação financeira (IFRS - International Financial Reporting Standards) e as interpretações conexas (Interpretações SIC-IFRIC), alterações subsequentes a essas normas e interpretações conexas, e normas futuras e interpretações conexas emitidas ou adotadas pelo International Accounting Standards Board (IASB);
 
-n) «Normas internacionais de controlo de qualidade» as Normas Internacionais sobre Controlo de Qualidade (ISQC);
+m) «Órgão de fiscalização»:
 
-o) [Anterior alínea m) do corpo do artigo];
+i) No caso das sociedades anónimas e de outras entidades que adotem, por imposição legal ou estatutária, um dos modelos de fiscalização previstos no Código das Sociedades Comerciais, o conselho fiscal, a comissão de auditoria ou o conselho geral e de supervisão;
 
-p) «Outras normas internacionais» normas conexas com as definidas nas alíneas l) e n), emitidas pela International Federation of Accountants (IFAC) através do International Auditing and Assurance Standards Board (IAASB);
+ii) Noutras entidades, outros órgãos que desempenhem funções de fiscalização análogas às exercidas pelos órgãos mencionados na subalínea anterior;
 
-q) «Pequenas empresas» as empresas qualificadas como "pequenas entidades" na legislação contabilística;
+n) «Pequenas empresas» as empresas que, à data do balanço, não excedam os limites de, pelo menos, dois dos três critérios seguintes:
 
-r) [Anterior proémio da alínea p) do corpo do artigo]:
+i) Total do balanço: (euro) 4 000 000;
 
-i) [Anterior subalínea i) da alínea p) do corpo do artigo];
+ii) Volume de negócios líquido: (euro) 8 000 000;
 
-ii) Na qual se verifique uma das seguintes situações: partilha dos lucros e dos custos, partilha da propriedade, controlo ou gestão comuns, políticas e procedimentos de controlo interno de qualidade comuns, estratégia empresarial comum, utilização de uma marca comum ou de uma parte significativa dos recursos profissionais;
+iii) Número médio de empregados durante o período: 50;
 
-s) «Revisão legal das contas» a revisão das contas exercida em cumprimento de disposição legal ou estatutária;
+o) «Pessoa que não exerça a profissão de ROC» a pessoa singular que, durante a sua participação no governo do sistema de supervisão pública e nos três anos imediatamente anteriores a essa participação, não tenha executado revisão legal das contas, não tenha sido titular de direitos de voto numa SROC ou equivalente, não tenha sido membro dos órgãos de administração ou de fiscalização de uma SROC ou equivalente, nem empregado ou associado a qualquer outro título de uma SROC ou equivalente;
 
-t) «Revisão voluntária de contas» a revisão de contas exercida em cumprimento de vinculação contratual;
+p) «Rede» a estrutura mais vasta:
 
-u) «Revisor oficial de contas» ou «ROC» a pessoa singular com inscrição junto da Ordem dos Revisores Oficiais de Contas (OROC), de acordo com o Estatuto da Ordem dos Revisores Oficiais de Contas, para realizar revisões legais de contas;
+i) Que tem por objeto a cooperação, a que pertence um ROC ou uma SROC; e
 
-v) «ROC do grupo» o ROC ou a SROC que realiza a revisão legal das contas consolidadas;
+ii) Que tem por objetivo a partilha dos lucros e dos custos, ou a partilha da propriedade, controlo ou gestão comuns, políticas e procedimentos de controlo interno de qualidade comuns, uma estratégia empresarial comum, a utilização de uma marca comum ou uma parte significativa dos recursos profissionais;
 
-w) «Sociedade de Revisores Oficias de Contas» ou «SROC» a pessoa coletiva com inscrição junto da OROC, de acordo com o Estatuto da Ordem dos Revisores Oficiais de Contas, para realizar revisões legais de contas;
+q) «Revisão legal das contas» a revisão das contas exercida em cumprimento de disposição legal ou estatutária;
 
-x) «Sócio ou sócios principais»:
+r) «Revisão voluntária de contas» a revisão de contas exercida em cumprimento de vinculação contratual;
+
+s) «Revisor oficial de contas» ou «ROC» a pessoa singular com inscrição junto da Ordem dos Revisores Oficiais de Contas (OROC), de acordo com o Estatuto da Ordem dos Revisores Oficiais de Contas, para realizar revisões legais de contas;
+
+t) «ROC do grupo» o ROC ou a SROC que realiza a revisão legal das contas consolidadas;
+
+u) «Sociedade de Revisores Oficias de Contas» ou «SROC» a pessoa coletiva com inscrição junto da OROC, de acordo com o Estatuto da Ordem dos Revisores Oficiais de Contas, para realizar revisões legais de contas;
+
+v) «Sócio ou sócios principais»:
 
 i) O ROC designado por uma SROC para um trabalho de auditoria como primeiro responsável pela execução da revisão legal ou voluntária de contas; ou
 
 ii) No caso da auditoria de um grupo, pelo menos o ROC designado por uma SROC como primeiro responsável pela execução da revisão legal ou voluntária de contas a nível do grupo e os ROC designados como primeiros responsáveis ao nível das filiais significativas; ou
 
 iii) O ROC ou os ROC que assinem a certificação legal das contas ou relatório de auditoria.
-
-2 - São «normas relativas a auditores»:
-
-a) As constantes dos seguintes diplomas e sua regulamentação:
-
-i) O presente regime jurídico;
-
-ii) O EOROC;
-
-iii) As leis da União Europeia sobre auditoria;
-
-b) As normas internacionais de auditoria;
-
-c) As normas internacionais de controlo de qualidade;
-
-d) Outras normas internacionais;
-
-e) As constantes de leis ou regulamentos que rejam, em relação aos auditores:
-
-i) O acesso e exercício da atividade;
-
-ii) A organização;
-
-iii) O funcionamento;
-
-iv) A formação;
-
-v) O planeamento, execução, conclusões e relato e controlo de qualidade do seu trabalho;
-
-f) As constantes de lei ou regulamento, nacional ou da União Europeia, que prevejam a intervenção obrigatória ou facultativa de auditor.
-
-3 - Para efeitos da aplicação das normas previstas na legislação da União Europeia, a referência a «comité de auditoria» respeita ao «órgão de fiscalização».

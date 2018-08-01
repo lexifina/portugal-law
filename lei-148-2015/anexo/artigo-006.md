@@ -16,4 +16,4 @@
 
 3 - A inscrição efetuada junto da OROC pelos ROC, SROC, auditores e entidades de auditoria de Estados membros que não pretendam exercer funções de interesse público assegura a sua qualificação para todos os efeitos e atividades não incluídas nas funções de interesse público.
 
-4 -(Revogado.)
+4 - A CMVM pode desenvolver por regulamento o conteúdo dos requisitos referidos no presente capítulo para o registo e exercício de funções de interesse público, designadamente no que respeita ao registo de ROC e SROC e de auditores e entidades de auditoria de Estados membros e de países terceiros que auditem entidades de interesse público.
