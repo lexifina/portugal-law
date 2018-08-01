@@ -2,13 +2,13 @@
 
 ### Informação ao público
 
-1 - Para cada mercado regulamentado ou sistema de negociação multilateral, a entidade gestora deve prestar ao público informação sobre:
+1 - Para cada mercado regulamentado, sistema de negociação multilateral ou sistema de negociação organizado, a entidade gestora deve prestar ao público informação sobre:
 
 a) Os instrumentos financeiros admitidos à negociação ou seleccionados para negociação;
 
 b) As operações realizadas e respectivos preços.
 
-2 - No caso de sistema de negociação multilateral, considera-se cumprido o dever estabelecido na alínea a) do número anterior se a entidade gestora se certificar de que existe acesso à informação em causa.
+2 - No caso de sistemas de negociação multilateral e de sistemas de negociação organizado, considera-se cumprido o dever estabelecido na alínea a) do número anterior se a entidade gestora se certificar de que existe acesso à informação em causa.
 
 3 - O conteúdo, os meios e a periodicidade da informação a prestar ao público devem ser os adequados às características de cada sistema, ao nível de conhecimentos e à natureza dos investidores e à composição dos vários interesses envolvidos.
 

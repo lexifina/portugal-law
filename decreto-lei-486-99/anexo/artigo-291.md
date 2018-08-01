@@ -4,7 +4,7 @@
 
 São serviços auxiliares dos serviços e actividades de investimento:
 
-a) O registo e o depósito de instrumentos financeiros, bem como os serviços relacionados com a sua guarda, como a gestão de tesouraria ou de garantias;
+a) O registo e o depósito de instrumentos financeiros, bem como os serviços relacionados com a sua guarda, como a gestão de tesouraria ou de garantias, com exceção do serviço de administração de sistema de registo centralizado de valores mobiliários previsto no ponto 2 da secção A do anexo ao Regulamento (UE) n.º 909/2014, do Parlamento Europeu e do Conselho, de 23 de julho de 2014;
 
 b) A concessão de crédito, incluindo o empréstimo de valores mobiliários, para a realização de operações sobre instrumentos financeiros em que intervém a entidade concedente de crédito;
 

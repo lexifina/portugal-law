@@ -6,13 +6,9 @@
 
 2 - Constitui contraordenação muito grave a violação dos seguintes deveres por prestador de serviços de comunicação de dados de negociação:
 
-a) A falta de divulgação ou comunicação da informação devida;
+a) De prestar ao público da informação a que estão obrigadas e de divulgar a informação nos formatos e prazos fixados em lei ou regulamento;
 
-b) De adotar mecanismos destinados a evitar conflitos de interesses;
-
-c) O recebimento de remuneração proibida ou em condições não permitidas;
-
-d) A violação dos deveres relativos à sincronização de relógios profissionais.
+b) De adotar mecanismos destinados a evitar conflitos de interesses.
 
 3 - Constitui contraordenação grave a violação dos seguintes deveres por prestador de serviços de comunicação de dados de negociação:
 

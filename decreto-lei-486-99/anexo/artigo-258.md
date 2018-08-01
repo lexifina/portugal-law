@@ -16,4 +16,4 @@
 
 3 - As operações em que intervenha uma contraparte central tornam-se eficazes perante esta após o seu registo junto da mesma.
 
-4 - Além das operações previstas no Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, estão ainda sujeitas a compensação com interposição de contraparte central as operações realizadas em mercado regulamentado e sistema de negociação multilateral sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º
+4 - Além das operações previstas no Regulamento (UE) n.º 648/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, estão ainda sujeitas a compensação com interposição de contraparte central as operações realizadas em mercado regulamentado sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º, sem prejuízo do disposto nos artigos 29.º a 31.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados.

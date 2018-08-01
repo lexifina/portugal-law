@@ -14,6 +14,6 @@ d) A falta de disponibilização atempada de instrumentos financeiros ou de dinh
 
 e) A violação, por entidade que exerça as funções de câmara de compensação ou por contraparte central, do dever de adotar as medidas necessárias à minimização dos riscos e adequadas ao bom funcionamento dos mecanismos adotados e à proteção dos mercados;
 
-f) A violação, por contraparte central, dos deveres relativos a segregação e portabilidade e aos requisitos prudenciais.
+f) A violação por contraparte central, entidades gestoras de plataforma de negociação ou pessoas com direitos de propriedade sobre um índice de referência, do dever de conceder acesso aos seus sistemas, informações, preços ou licenças nos termos legalmente exigidos.
 
 2 - [Revogado].

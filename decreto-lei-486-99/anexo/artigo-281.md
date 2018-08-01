@@ -2,9 +2,9 @@
 
 ### Conexão com outros sistemas e instituições
 
-1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado ou de sistema de negociação multilateral devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
+1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado ou de sistemas de negociação multilateral ou organizado devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
 
-a) Entidades gestoras dos mercados regulamentados ou dos sistemas de negociação multilateral onde se realizem as operações a liquidar;
+a) Entidades gestoras dos mercados regulamentados ou dos sistemas de negociação multilateral ou organizado onde se realizem as operações a liquidar;
 
 b) Entidades que assumam as funções de câmara de compensação ou contrapartes centrais;
 

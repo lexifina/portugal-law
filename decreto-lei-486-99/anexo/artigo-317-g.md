@@ -16,9 +16,9 @@ c) Adotar sistemas, procedimentos e controlos eficazes de forma a garantir que c
 
 a) A celebração de contrato escrito com as entidades que prosseguem uma estratégia de criação de mercado;
 
-b) A existência de regimes que garantam a participação de um número suficiente de criadores de mercado, por força dos quais estes devam colocar ofertas de preços firmes a preços competitivos, de modo a fornecer liquidez ao mercado de forma regular e previsível, quando tal for adequado à natureza e à dimensão da negociação nesse mercado, nos termos previstos na legislação da União Europeia.
+b) A existência de regimes que garantam a participação de um número suficiente de criadores de mercado, por força dos quais estes devam colocar ofertas de preços firmes a preços competitivos, de modo a fornecer liquidez ao mercado de forma regular e previsível, quando tal for adequado à natureza e à dimensão da negociação nesse mercado, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
-4 - O contrato referido no número anterior cumpre os requisitos previstos na legislação da União Europeia, incluindo:
+4 - O contrato referido no número anterior cumpre os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, incluindo:
 
 a) As obrigações das pessoas referidas no n.º 1 em relação ao incremento de liquidez e, se for caso disso, qualquer outra obrigação que advenha da participação no regime a que se refere a alínea b) do n.º 3;
 

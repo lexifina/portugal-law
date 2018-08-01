@@ -1,6 +1,6 @@
 ## Subsecção IV
 
-## Registos e conservação de documentos
+## Contabilidade, registo e conservação de documentos
 
 # Artigo 307.º
 
@@ -8,15 +8,21 @@
 
 1 - A contabilidade do intermediário financeiro deve reflectir diariamente, em relação a cada cliente, o saldo credor ou devedor em dinheiro e em instrumentos financeiros.
 
-2 - A contabilidade relativa à gestão de instituições de investimento coletivo deve ser mantida de tal forma que os ativos e passivos das mesmas possam ser diretamente identificados a todo o tempo.
+2 - (Revogado.)
 
-3 - No caso de uma instituição de investimento coletivo com compartimentos patrimoniais autónomos, devem ser mantidas contas separadas para cada um dos compartimentos patrimoniais.
+3 - (Revogado.)
 
-4 - No caso da gestão de um OICVM autorizado noutro Estado-Membro, o intermediário financeiro deve adotar políticas e procedimentos de contabilidade, em conformidade com as regras de contabilidade desse Estado-Membro, de modo a assegurar que o cálculo do valor líquido global de cada OICVM seja efetuado com rigor e que as ordens de subscrição e de resgate possam ser corretamente executadas com base no valor líquido da unidade de participação calculado.
+4 - (Revogado.)
 
-5 - O intermediário mantém um registo diário e sequencial das operações por si realizadas, por conta própria e por conta de cada um dos clientes, com indicação dos movimentos de instrumentos financeiros e de dinheiro.
+5 - O intermediário financeiro mantém:
 
-6 - O registo de cada movimento contém ou permite identificar:
+a) Registos de todos os serviços, atividades e transações por si prestados ou efetuados, que sejam suficientes para permitir a verificação do cumprimento dos seus deveres legais previstos no presente Código e legislação complementar e das suas obrigações perante os investidores, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e no artigo 25.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados;
+
+b) Um registo diário e sequencial das operações por si realizadas, por conta própria e por conta de cada um dos clientes, com indicação dos movimentos de instrumentos financeiros e de dinheiro;
+
+c) Uma lista interna de todas as remunerações, comissões e benefícios não monetários recebidos de um terceiro em relação à prestação de serviços de investimento ou serviços auxiliares, indicando o modo como as remunerações, comissões ou benefícios não monetários pagos ou recebidos melhoram a qualidade dos serviços prestados aos clientes em causa, bem como as medidas tomadas para não prejudicar a obrigação do intermediário financeiro atuar de acordo com elevados padrões de diligência, lealdade e transparência, no sentido da proteção dos interesses legítimos do cliente.
+
+6 - Para efeitos da alínea b) do número anterior o registo de cada movimento contém ou permite identificar:
 
 a) O cliente e a conta a que diz respeito;
 
@@ -30,32 +36,10 @@ e) A quantidade ou o montante;
 
 f) O saldo inicial e após cada movimento.
 
-7 - As ordens e decisões de negociar são registadas nos termos previstos no artigo 7.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto.
+7 - As ordens e decisões de negociar são registadas nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
-8 - O registo das ordens de subscrição ou resgate de unidades de participação em instituições de investimento coletivo inclui os seguintes dados:
+8 - (Revogado).
 
-a) A instituição de investimento coletivo relevante;
-
-b) A pessoa que dá ou transmite a ordem;
-
-c) A pessoa que recebe a ordem;
-
-d) A data e hora da ordem;
-
-e) As condições e modo de pagamento;
-
-f) O tipo de ordem;
-
-g) A data de execução da ordem;
-
-h) O número de unidades de participação subscritas ou reembolsadas;
-
-i) O preço unitário de subscrição ou de reembolso;
-
-j) O valor total de subscrição ou de reembolso das unidades de participação;
-
-l) O valor bruto da ordem incluindo os encargos de subscrição ou o montante líquido depois de deduzidos os encargos do reembolso.
-
-9 - Os elementos que devem ser registados pelo intermediário financeiro após a execução ou recepção da confirmação da execução de uma ordem constam do artigo 8.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto.
+9 - Os elementos que devem ser registados pelo intermediário financeiro após a execução ou receção da confirmação da execução de uma ordem constam da regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
 10 - O intermediário financeiro deve adotar medidas adequadas no que respeita aos sistemas eletrónicos necessários para permitir o registo rápido e adequado de cada movimento da carteira ou ordem.

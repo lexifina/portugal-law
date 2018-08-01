@@ -6,7 +6,11 @@
 
 a) Depositado numa ou mais contas abertas junto de um banco central, de instituição de crédito autorizada na União Europeia a receber depósitos ou de banco autorizado num país terceiro; ou
 
-b) Aplicado num fundo do mercado monetário elegível, se o cliente, tendo conhecimento ainda que em termos genéricos desta possibilidade, não manifestar a sua oposição.
+b) Aplicado num fundo do mercado monetário elegível, desde que:
+
+i) O cliente tenha dado autorização expressa nesse sentido; e
+
+ii) O intermediário financeiro informe o cliente de que o dinheiro colocado junto de um fundo do mercado monetário elegível não cumpre os requisitos de proteção de dinheiro de clientes previstos no presente artigo.
 
 2 - As contas mencionadas no número anterior são abertas em nome da empresa de investimento por conta dos seus clientes, podendo respeitar a um único cliente ou a uma pluralidade destes.
 
@@ -14,7 +18,9 @@ b) Aplicado num fundo do mercado monetário elegível, se o cliente, tendo conhe
 
 a) Actuar com especial cuidado e diligência na selecção, na nomeação e na avaliação periódica da entidade depositária, considerando a sua capacidade técnica e a sua reputação no mercado; e
 
-b) Ponderar os requisitos legais ou regulamentares e as práticas de mercado relativas à detenção de dinheiro de clientes por essas entidades susceptíveis de afectar negativamente os direitos daqueles.
+b) Ponderar os requisitos legais ou regulamentares e as práticas de mercado relativas à detenção de dinheiro de clientes por essas entidades susceptíveis de afectar negativamente os direitos daqueles;
+
+c) Avaliar a necessidade de diversificação das entidades junto das quais o dinheiro de clientes é depositado.
 
 4 - As empresas de investimento devem estabelecer procedimentos escritos aplicáveis à recepção de dinheiro de clientes, nos quais se definem, designadamente:
 
@@ -28,7 +34,13 @@ d) Regras relativas ao local onde o mesmo é guardado até ser depositado ou apl
 
 e) Os procedimentos para prevenção de branqueamento de capitais e financiamento de terrorismo.
 
-5 - Para efeitos da alínea b) do n.º 1, entende-se por 'fundo do mercado monetário elegível', um organismo de investimento colectivo harmonizado ou que esteja sujeito à supervisão e, se aplicável, seja autorizado por uma autoridade de um Estado membro da União Europeia, desde que:
+5 - As empresas de investimento não podem depositar mais de 20 % do dinheiro de clientes junto de uma instituição de crédito, banco ou fundo do mercado monetário integrados no mesmo grupo a que a empresa de investimento pertence ou uma combinação de entidades pertencentes a esse grupo.
+
+6 - As empresas de investimento podem não cumprir o disposto no número anterior se demonstrarem que tal não é proporcional, tendo em conta a natureza, a escala e a complexidade das suas atividades, bem como a segurança proporcionada por entidades terceiras ou, em qualquer caso, o saldo reduzido dos fundos dos clientes.
+
+7 - As empresas de investimento analisam periodicamente e, pelo menos, anualmente, a avaliação efetuada em conformidade com o número anterior e devem comunicar as suas avaliações iniciais e revisões à CMVM.
+
+8 - Para efeitos da alínea b) do n.º 1, entende-se por 'fundo do mercado monetário elegível', um organismo de investimento colectivo harmonizado ou que esteja sujeito à supervisão e, se aplicável, seja autorizado por uma autoridade de um Estado membro da União Europeia, desde que:
 
 a) O seu objectivo principal de investimento seja a manutenção constante do valor líquido dos activos do organismo de investimento colectivo ao par ou ao valor do capital inicial adicionado dos ganhos;
 
@@ -36,10 +48,6 @@ b) Com vista à realização do objectivo principal de investimento, invista exc
 
 c) Proporcione liquidez através da liquidação no próprio dia ou no dia seguinte.
 
-6 - Um instrumento do mercado monetário é de elevada qualidade se tiver sido objecto de notação de risco por uma sociedade de notação de risco competente e receber a notação de risco disponível mais elevada por parte de todas as sociedades de notação de risco competentes que tenham sujeitado esse instrumento a notação.
+9 - Um instrumento do mercado monetário é de elevada qualidade se tiver sido objeto de uma avaliação documentada da qualidade do crédito dos instrumentos do mercado monetário efetuada pela entidade gestora que lhe permita considerar o instrumento financeiro como sendo de elevada qualidade.
 
-7 - Para efeitos do número anterior, uma sociedade de notação de risco é competente, se:
-
-a) Emitir notações de risco relativas a fundos do mercado monetário numa base regular e profissional;
-
-b) For uma sociedade de notação de risco elegível na acepção do n.º 1 do artigo 81.º da Directiva n.º 2006/48/CE do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício.
+10 - Para efeitos do número anterior, quando uma ou mais agências de notação de risco registadas e supervisionadas pela Autoridade Europeia dos Valores Mobiliários e dos Mercados emitirem uma notação de risco, a entidade gestora tem em conta essas notações de risco no âmbito da sua avaliação interna.

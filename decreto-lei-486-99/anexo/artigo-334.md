@@ -10,4 +10,4 @@ b) Pela autenticidade, validade e regularidade dos instrumentos financeiros adqu
 
 c) Pela inexistência de quaisquer vícios ou situações jurídicas que onerem os instrumentos financeiros adquiridos.
 
-2 - É nula qualquer cláusula contratual contrária ao disposto no número anterior, quando a ordem deva ser executada em mercado regulamentado ou sistema de negociação multilateral.
+2 - É nula qualquer cláusula contratual contrária ao disposto no número anterior, quando a ordem deva ser executada em mercado regulamentado ou sistema de negociação multilateral ou organizado.

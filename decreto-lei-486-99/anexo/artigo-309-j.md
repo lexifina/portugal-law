@@ -18,7 +18,7 @@ d) Assegurar o cumprimento dos deveres relativos a conflitos de interesses.
 
 4 - Para efeitos das alíneas a) a c) do número anterior, os intermediários financeiros devem:
 
-a) Identificar, com um nível suficiente de detalhe, o mercado-alvo potencial de cada instrumento financeiro e especificar as tipologias de clientes para as quais o instrumento financeiro é adequado, atendendo às necessidades, características e objetivos, incluindo eventuais objetivos relacionados com sustentabilidade, bem como os grupos de clientes aos quais o instrumento financeiro não é adequado, exceto quando os instrumentos financeiros integrem fatores de sustentabilidade;
+a) Identificar, com um nível suficiente de detalhe, o mercado-alvo potencial de cada instrumento financeiro e especificar os tipos de clientes a cujas necessidades, características e objetivos o instrumento financeiro é adequado, bem como os grupos de clientes aos quais o instrumento financeiro não é adequado;
 
 b) Se os instrumentos financeiros forem distribuídos apenas através de outros intermediários financeiros, o intermediário financeiro que produz aqueles instrumentos deve determinar as necessidades e as características dos clientes aos quais o instrumento financeiro é adequado, com base nos seus conhecimentos teóricos e na experiência adquirida com o instrumento financeiro ou instrumentos financeiros semelhantes, os mercados financeiros e as necessidades, características e objetivos de potenciais clientes finais;
 
@@ -36,9 +36,7 @@ d) Determinar se um instrumento financeiro satisfaz as necessidades, caracterís
 
 i) Se o perfil de risco/remuneração do instrumento financeiro é coerente com o mercado-alvo; e
 
-ii) Se os fatores de sustentabilidade do instrumento financeiro são coerentes com o mercado-alvo, quando relevante;
-
-iii) Se a estrutura do instrumento financeiro é determinada por características que beneficiam o cliente e não por um modelo empresarial que depende de maus resultados para os clientes para ser rentável;
+ii) Se a estrutura do instrumento financeiro é determinada por características que beneficiam o cliente e não por um modelo empresarial que depende de maus resultados para os clientes para ser rentável;
 
 e) Ter em consideração a estrutura de custos proposta para o instrumento financeiro, analisando nomeadamente:
 
@@ -61,5 +59,3 @@ i) Uma exposição contrária à anteriormente detida pelo próprio intermediár
 ii) Uma exposição contrária à que o intermediário financeiro pretende deter após a distribuição do instrumento financeiro;
 
 d) Avaliar se o instrumento financeiro pode representar uma ameaça para o bom funcionamento ou a estabilidade dos mercados financeiros antes de decidir avançar com o seu lançamento.
-
-6 - Para efeitos do disposto na alínea a) do n.º 4, caso colaborem na produção do instrumento financeiro, os intermediários financeiros só têm de identificar um mercado-alvo.

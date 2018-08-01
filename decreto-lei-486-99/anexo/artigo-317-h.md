@@ -8,11 +8,7 @@ a) Uma avaliação e revisão da adequação dos clientes que utilizam esse serv
 
 b) Que os clientes que utilizam esse serviço estão impedidos de ultrapassar limites de crédito e de negociação, que sejam adequados e previamente estabelecidos;
 
-c) Que a negociação efetuada por clientes que utilizam o serviço é devidamente supervisionada e que os controlos de risco adotados impedem que essa negociação seja suscetível de:
-
-i) Criar riscos para o próprio intermediário financeiro ou de criar ou contribuir para perturbações no mercado; ou
-
-ii) Ser contrária ao regime do abuso de mercado ou às regras da plataforma de negociação.
+c) Que a negociação efetuada por clientes que utilizam o serviço é devidamente supervisionada e que os controlos de risco adotados impedem que essa negociação seja suscetível de criar riscos para o próprio intermediário financeiro ou de criar ou contribuir para perturbações no mercado ou ser contrário ao disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, ou às regras da plataforma de negociação.
 
 2 - O intermediário financeiro que disponibilize o acesso eletrónico direto:
 
@@ -40,7 +36,7 @@ b) O intermediário financeiro com sede noutro Estado membro que disponibilize a
 
 a) Qualquer mecanismo ou acordo através do qual um membro, participante ou cliente numa plataforma de negociação permite que um terceiro utilize o seu código de negociação para que possa submeter por via eletrónica diretamente à plataforma de negociação ofertas relativas a um instrumento financeiro; e
 
-b) Mecanismos que envolvam a utilização, por um terceiro, da infraestrutura do membro, participante ou cliente ou de qualquer sistema de conexão por ele disponibilizado para transmitir ordens (acesso direto ao mercado), bem como os mecanismos ou acordos em que essa infraestrutura não seja utilizada por um terceiro (acesso patrocinado), nos termos previstos na legislação da União Europeia.
+b) Mecanismos que envolvam a utilização, por um terceiro, da infraestrutura do membro, participante ou cliente ou de qualquer sistema de conexão por ele disponibilizado para transmitir ordens (acesso direto ao mercado), bem como os mecanismos ou acordos em que essa infraestrutura não seja utilizada por um terceiro (acesso patrocinado), nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
 8 - A entidade gestora da plataforma de negociação deve dispor de sistemas, procedimentos e mecanismos eficazes para garantir que:
 

@@ -22,12 +22,10 @@ b) Avaliar a compatibilidade do instrumento financeiro às necessidades dos clie
 
 c) Assegurar que os produtos apenas são distribuídos caso tal seja do interesse do cliente.
 
-3 - O disposto na presente subsecção não prejudica a aplicação dos restantes requisitos previstos no presente Código e legislação e regulamentação nacional e europeia conexa, designadamente os requisitos relativos à divulgação, adequação, identificação e gestão de conflitos de interesses e benefícios ilegítimos.
+3 - O disposto na presente subsecção não prejudica a aplicação dos restantes requisitos previstos no presente Código e legislação e regulamentação nacional e europeia conexa, incluindo o Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, designadamente os requisitos relativos à divulgação, adequação, identificação e gestão de conflitos de interesses e benefícios ilegítimos.
 
 4 - Para efeitos da presente subsecção entende-se por:
 
 a) «Produzir», emitir, conceber, criar ou desenvolver instrumentos financeiros;
 
 b) «Distribuir», oferecer, recomendar ou comercializar instrumentos financeiros junto de clientes, em mercado primário ou secundário.
-
-c) «Fatores de sustentabilidade», os previstos na legislação da União Europeia relativa à divulgação de informação sobre sustentabilidade no setor dos serviços financeiros.

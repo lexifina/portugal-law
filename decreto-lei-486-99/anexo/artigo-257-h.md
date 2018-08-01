@@ -18,6 +18,4 @@ c) Quaisquer limites impostos às posições que uma pessoa pode deter em qualqu
 
 3 - Sempre que a CMVM receba informação nos termos referidos nas alíneas a) ou b) do n.º 1, pode adotar medidas nos termos da alínea h) do n.º 2 do artigo 361.º, quando tal for necessário para atingir o objetivo da medida adotada por outra autoridade competente comunicante, devendo nesse caso proceder à comunicação prevista no n.º 2.
 
-4 - Quando for adotada uma medida nos termos da alínea a) ou b) do n.º 1 relativamente a produtos energéticos grossistas, conforme definidos na legislação da União Europeia, a CMVM comunica igualmente essa medida à autoridade competente nacional do mercado do ativo subjacente e à Agência de Cooperação dos Reguladores da Energia.
-
-Artigo 258.º
+4 - Quando for adotada uma medida nos termos da alínea a) ou b) do n.º 1 relativamente a produtos energéticos grossistas conforme definidos no ponto 4 do artigo 2.º do Regulamento (UE) n.º 1227/2011, do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, a CMVM comunica igualmente essa medida à autoridade competente nacional do mercado do ativo subjacente e à Agência de Cooperação dos Reguladores da Energia (ACER).

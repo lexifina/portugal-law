@@ -1,12 +1,12 @@
 # Artigo 257.º-F
 
-### Controlos de gestão de posições em instrumentos financeiros derivados de mercadorias e derivados de licenças de emissão
+### Controlos de gestão de posições em instrumentos financeiros derivados de mercadorias
 
-1 - As entidades gestoras de uma plataforma de negociação que negoceie instrumentos financeiros derivados de mercadorias ou derivados de licenças de emissão adotam e aplicam controlos de gestão de posições nesses instrumentos que permitam, designadamente:
+1 - As entidades gestoras de uma plataforma de negociação que negoceie instrumentos financeiros derivados de mercadorias adotam e aplicam controlos de gestão de posições nesses instrumentos que permitam, designadamente:
 
 a) O acompanhamento de posições abertas nesses instrumentos;
 
-b) O acesso a todas as informações e documentação relevantes, sobre a dimensão e finalidade de uma posição detida, os respetivos beneficiários efetivos e quaisquer acordos de atuação concertada e ativos ou passivos relacionados com o mercado dos ativos subjacentes, nomeadamente, se for caso disso, informação sobre as posições detidas em derivados de mercadorias ou posições detidas em derivados de mercadorias com o mesmo ativo subjacente e as mesmas características negociados noutras plataformas de negociação e em instrumentos financeiros derivados economicamente equivalentes negociados no mercado de balcão;
+b) O acesso a todas as informações relevantes sobre a dimensão e finalidade de uma posição detida em instrumentos financeiros derivados de mercadorias, incluindo sobre os respetivos beneficiários efetivos, quaisquer acordos de atuação concertada e ativos ou passivos relacionados com o mercado dos ativos subjacentes;
 
 c) Exigir que uma pessoa feche ou reduza uma posição em instrumentos financeiros derivados de mercadorias, de forma temporária ou permanente, e adotar medidas adequadas para assegurar o seu cumprimento;
 

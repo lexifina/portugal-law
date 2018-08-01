@@ -2,7 +2,7 @@
 
 ### Negociação algorítmica de alta frequência
 
-1 - O intermediário financeiro que desenvolva negociação algorítmica de alta frequência efetua e conserva registos precisos e cronológicos de todas as ofertas colocadas e executadas em plataformas de negociação, incluindo o cancelamento de ofertas, em formato aprovado, e transmite-os à CMVM a pedido.
+1 - O intermediário financeiro que desenvolva negociação algorítmica de alta frequência efetua e conserva registos precisos e cronológicos de todas as ofertas colocadas e executadas em plataformas de negociação, incluindo o cancelamento de ofertas, em formato aprovado, e deve transmitir esses registos à CMVM a pedido.
 
 2 - Considera-se técnica de negociação algorítmica de alta frequência a negociação algorítmica caracterizada por:
 
@@ -16,4 +16,4 @@ iii) Acesso eletrónico direto de alta velocidade;
 
 b) A determinação pelo sistema, sem intervenção humana, do início, colocação, encaminhamento ou execução de ordens ou transações individuais; e
 
-c) Elevadas taxas de mensagens intradiárias constituídas por ordens, ofertas ou cancelamentos das mesmas.
+c) Elevadas taxas de mensagens intradiárias constituídas por ordens, ofertas ou cancelamentos das mesmas, conforme definido em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.

@@ -6,7 +6,7 @@
 
 ### Informação específica a prestar no âmbito da consultoria para investimento
 
-1 - Na prestação do serviço de consultoria para investimento, o investidor é informado com antecedência suficiente em relação à prestação do serviço, nos termos da legislação da União Europeia, incluindo sobre se:
+1 - Na prestação do serviço de consultoria para investimento o investidor é informado com antecedência suficiente em relação à prestação do serviço nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, incluindo sobre se:
 
 a) O serviço é prestado a título de consultoria para investimento independente ou não;
 
@@ -35,7 +35,3 @@ d) Os instrumentos financeiros ou serviços de investimento objeto de aconselham
 a) O cliente dê autorização para receber o documento, sem atraso indevido, após a conclusão da operação; e
 
 b) O intermediário financeiro dê ao cliente a possibilidade de diferir a realização da operação de modo a receber antecipadamente o documento relativo à avaliação da adequação.
-
-5 - O cumprimento dos deveres previstos nos n.os 1 e 4 não é exigível quando o intermediário financeiro preste serviços a investidores profissionais, exceto quando estes o solicitem por escrito em suporte duradouro.
-
-6 - O intermediário financeiro conserva um registo das comunicações efetuadas nos termos do número anterior.

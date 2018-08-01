@@ -20,6 +20,6 @@ c) Pelos emitentes, em relação a elementos constantes das contas de valores mo
 
 4 - A entidade registadora deve tomar a iniciativa de enviar a cada um dos titulares de valores mobiliários registados:
 
-a) O extracto previsto no artigo 323.º-C;
+a) O extrato previsto na alínea b) do n.º 8 do artigo 323.º;
 
 b) Os elementos necessários para o atempado cumprimento das obrigações fiscais.

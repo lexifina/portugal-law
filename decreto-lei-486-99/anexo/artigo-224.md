@@ -14,4 +14,4 @@
 
 4 - A pedido da autoridade competente referida no número anterior, a CMVM informa-a, em prazo razoável, da identidade dos membros remotos do mercado autorizado em Portugal estabelecidos nesse Estado membro.
 
-5 - Nas circunstâncias previstas no artigo 16.º do Regulamento (CE) n.º 1287/2006, de 10 de Agosto, a CMVM estabelece com a autoridade competente do Estado membro em que o mecanismo foi disponibilizado acordo de cooperação visando a adequada supervisão do mercado regulamentado em causa.
+5 - Nas circunstâncias previstas em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, a CMVM estabelece com a autoridade competente do Estado membro em que o mecanismo foi disponibilizado acordo de cooperação visando a adequada supervisão do mercado regulamentado em causa.

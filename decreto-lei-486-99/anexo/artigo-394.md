@@ -6,21 +6,23 @@
 
 a) A criação, a manutenção em funcionamento ou a gestão de uma forma organizada de negociação, a suspensão ou o encerramento da sua actividade fora dos casos e termos previstos em lei ou regulamento;
 
-b) O funcionamento de mercado regulamentado ou de sistema negociação multilateral de acordo com regras não registadas na CMVM ou não publicadas;
+b) O funcionamento de mercado regulamentado ou de sistemas de negociação multilateral ou organizado de acordo com regras não registadas na CMVM ou não publicadas;
 
-c) A falta de prestação ao público, pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral, da informação a que estão obrigadas;
+c) A falta de prestação ao público, pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado, ou por internalizador sistemático, da informação a que estão obrigadas;
 
-d) A admissão de membros de um mercado regulamentado ou de um sistema de negociação multilateral pela respectiva entidade gestora, sem os requisitos exigidos por lei ou regulamento;
+d) A admissão de membros de um mercado regulamentado ou de um sistema de negociação multilateral ou organizado pela respetiva entidade gestora, sem os requisitos exigidos por lei ou regulamento;
 
 e) A falta de publicidade das sessões de mercados regulamentados;
 
-f) A admissão de instrumentos financeiros à negociação em mercado regulamentado com violação das regras legais e regulamentares;
+f) A admissão de instrumentos financeiros à negociação em mercado regulamentado ou em sistemas de negociação multilateral ou organizado com violação das regras legais e regulamentares;
 
 g) A falta de divulgação do prospecto de admissão, das respectivas adenda e rectificações, ou de informações necessárias à sua actualização, ou a sua divulgação sem aprovação prévia pela entidade competente;
 
 h) A falta de divulgação da informação exigida pelos emitentes de valores mobiliários negociados em mercado regulamentado;
 
-i) (Revogada).
+i) (Revogada);
+
+j) A violação do dever de adotar e aplicar controlos de posições em instrumentos financeiros derivados de mercadorias.
 
 2 - Constitui contra-ordenação grave a violação de qualquer dos seguintes deveres:
 
@@ -28,7 +30,7 @@ a) De envio à entidade gestora de mercado regulamentado, pelos emitentes de val
 
 b) De conexão informativa com outros mercados regulamentados;
 
-c) De prestação à entidade gestora do mercado regulamentado ou do sistema de negociação multilateral, pelos membros desta, das informações necessárias à boa gestão do mercado ou do sistema;
+c) De prestação à entidade gestora do mercado regulamentado ou dos sistemas de negociação multilateral ou organizado, pelos membros ou participantes destas, das informações necessárias à boa gestão do mercado ou do sistema;
 
 d) De pedido de admissão à negociação em mercado regulamentado de valores mobiliários da mesma categoria dos já admitidos;
 
