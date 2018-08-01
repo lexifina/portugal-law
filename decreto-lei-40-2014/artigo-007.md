@@ -2,16 +2,32 @@
 
 ### Contraordenações muito graves
 
-Constituem contraordenação muito grave os seguintes factos ilícitos típicos:
+Constituem contraordenação muito grave a violação dos seguintes deveres constantes dos regulamentos EMIR ou OFVM, bem como dos seus atos delegados e restante regulamentação europeia ou nacional:
 
-a) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de compensação de contratos de derivados de balcão (contratos de derivados OTC), previsto nos n.os 1 e 3 do artigo 4.º do Regulamento e nos respetivos atos delegados;
+a) Pelas contrapartes financeiras e contrapartes não financeiras:
 
-b) Inobservância, pelas contrapartes não financeiras, dos deveres decorrentes da assunção de posições em contratos de derivados OTC que excedam o limiar de compensação aplicável, previstos no n.º 1 do artigo 10.º do Regulamento e nos respetivos atos delegados;
+i) De compensação de contratos de derivados de balcão (contratos de derivados OTC);
 
-c) Inobservância, pelas contrapartes financeiras e contrapartes não financeiras, do dever de assegurar o estabelecimento de procedimentos e mecanismos apropriados de medição, acompanhamento e atenuação de riscos operacionais e de risco de crédito de contraparte em caso de celebração de contratos de derivados OTC sem compensação através de uma contraparte central, previsto no n.º 1 do artigo 11.º do Regulamento e nos respetivos atos delegados;
+ii) De assegurar o estabelecimento de procedimentos e mecanismos apropriados de medição, acompanhamento e atenuação de riscos operacionais e de risco de crédito de contraparte em caso de celebração de contratos de derivados OTC sem compensação através de uma contraparte central;
 
-d) Inobservância, pelas contrapartes financeiras, do dever de estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir de 16 de agosto de 2012, previsto na primeira parte do n.º 3 do artigo 11.º do Regulamento;
+iii) Relativos à obrigação de notificação e de salvaguarda no que respeita às operações de financiamento de valores mobiliários;
 
-e) Inobservância, pelas contrapartes não financeiras, do dever de estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir da data em que o limiar de compensação seja excedido, previsto na segunda parte do n.º 3 do artigo 11.º do Regulamento;
+iv) Relativos à reutilização de instrumentos financeiros recebidos no âmbito de um acordo de garantia;
 
-f) Inobservância, pelas contrapartes financeiras, do dever de detenção de um montante de capital adequado e proporcional para gerir o risco não coberto por trocas de garantias adequadas, previsto no n.º 4 do artigo 11.º do Regulamento.
+b) Pelas contrapartes financeiras:
+
+i) De estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir de 16 de agosto de 2012;
+
+ii) De detenção de um montante de capital adequado e proporcional para gerir o risco não coberto por trocas de garantias adequadas;
+
+c) Pelas contrapartes não financeiras:
+
+i) Decorrentes da assunção de posições em contratos de derivados OTC que excedam o limiar de compensação aplicável;
+
+ii) De estabelecer procedimentos de gestão de risco relativamente aos contratos OTC celebrados a partir da data em que o limiar de compensação seja excedido;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)

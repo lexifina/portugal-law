@@ -4,11 +4,13 @@
 
 1 - Pela prática das contraordenações previstas no presente capítulo podem ser responsabilizadas:
 
-a) As contrapartes financeiras, tal como definidas no ponto 8 do artigo 2.º do Regulamento;
+a) As contrapartes financeiras, tal como definidas no ponto 8 do artigo 2.º do Regulamento EMIR e do ponto 3 do artigo 3.º do Regulamento OFVM;
 
-b) As contrapartes não financeiras, tal como definidas no ponto 9 do artigo 2.º do Regulamento;
+b) As contrapartes não financeiras, tal como definidas no ponto 9 do artigo 2.º do Regulamento EMIR e do ponto 4 do artigo 3.º do Regulamento OFVM;
 
-c) As pessoas singulares que sejam membros dos órgãos sociais das entidades referidas nas alíneas anteriores ou que nelas exerçam cargos de administração, gerência, direção ou chefia, ou atuem em sua representação, legal ou voluntária.
+c) As entidades gestoras caso estejam em causa organismos de investimento coletivo sob a forma contratual ou sob a forma societária heterogeridos;
+
+d) As pessoas singulares que sejam membros dos órgãos sociais das entidades referidas nas alíneas anteriores ou que nelas exerçam cargos de administração, gerência, direção ou chefia, ou atuem em sua representação, legal ou voluntária.
 
 2 - As pessoas coletivas referidas no número anterior, independentemente da regularidade da sua constituição, são responsáveis pelas contraordenações previstas no presente capítulo quando os factos tenham sido praticados pelos titulares dos cargos de administração, gerência, direção ou chefia, no exercício das suas funções, bem como por mandatários, representantes ou trabalhadores em nome e no interesse da pessoa coletiva.
 
