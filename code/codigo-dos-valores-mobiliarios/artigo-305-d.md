@@ -2,16 +2,24 @@
 
 ### Responsabilidades dos titulares do órgão de administração
 
-1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por garantir o cumprimento dos deveres previstos no presente Código.
+1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por:
 
-2 - Os titulares do órgão de administração devem avaliar periodicamente a eficácia das políticas, procedimentos e normas internas adoptados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detectadas e prevenir a sua ocorrência futura.
+a) Garantir o cumprimento dos deveres previstos no presente Código e respetiva legislação complementar, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
 
-3 - No caso da gestão de instituição de investimento coletivo, os titulares do órgão de administração do intermediário financeiro são ainda responsáveis pelo cumprimento dos deveres previstos na respetiva legislação e especificamente:
+b) Definir, aprovar e controlar:
 
-a) Pela execução da política geral de investimento, tal como descrita nos documentos constitutivos;
+i) A organização do intermediário financeiro para o exercício de atividades de intermediação financeira, incluindo as qualificações, os conhecimentos e a capacidade técnica de que os colaboradores devem dispor, os recursos, os procedimentos e as modalidades para a prestação de serviços e atividades, tendo em conta a natureza, a escala e a complexidade das suas atividades e os deveres previstos no presente Código e legislação complementar;
 
-b) Pela aprovação das estratégias de investimento;
+ii) A política do intermediário financeiro em matéria de serviços, atividades, produtos e operações oferecidos ou prestados, incluindo a realização de testes de esforço aos produtos, em conformidade com o nível de tolerância ao risco da empresa e as características e as necessidades dos clientes da empresa;
 
-c) Por assegurar e verificar regularmente que a política geral de investimento, as estratégias de investimento e os limites de risco são aplicados e cumpridos de modo adequado e eficaz, mesmo que a função de gestão de riscos seja exercida por terceiros.
+iii) A política de remuneração dos colaboradores envolvidos na prestação de serviços a clientes, tendo como objetivo promover uma conduta empresarial responsável, o tratamento equitativo dos clientes e evitar conflitos de interesses nas relações com os clientes.
 
-4 - Para efeitos do disposto no número anterior, deve ser elaborado e apresentado ao órgão de administração um relatório, de periodicidade pelo menos anual, sobre a aplicação de estratégias de investimento e dos procedimentos internos de tomada de decisões de investimento.
+2 - Os titulares do órgão de administração devem acompanhar e avaliar periodicamente:
+
+a) A adequação e a execução dos objetivos estratégicos do intermediário financeiro na prestação de atividades de intermediação financeira, a eficácia dos mecanismos de governo e a adequação das políticas relacionadas com a prestação de serviços aos clientes, tomando as medidas apropriadas para corrigir eventuais deficiências;
+
+b) A eficácia das políticas, procedimentos e normas internas adotados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detetadas e prevenir a sua ocorrência futura, conforme previsto em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+3 - (Revogado.)
+
+4 - (Revogado.)

@@ -8,7 +8,7 @@
 
 1 - Só podem ser admitidos à negociação valores mobiliários cujo conteúdo e forma de representação sejam conformes ao direito que lhes é aplicável e que tenham sido, em tudo o mais, emitidos de harmonia com a lei pessoal do emitente.
 
-2 - São definidas nos artigos 35.º a 37.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto, as características dos diferentes tipos de instrumentos financeiros que devem ser tidas em consideração pela entidade gestora do mercado regulamentado ao avaliar se o mesmo foi emitido em termos que permitam a sua admissão à negociação.
+2 - São definidas em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, as características dos diferentes tipos de instrumentos financeiros que devem ser tidas em consideração pela entidade gestora do mercado regulamentado ao avaliar se o mesmo foi emitido em termos que permitam a sua admissão à negociação.
 
 3 - O emitente deve satisfazer os seguintes requisitos:
 

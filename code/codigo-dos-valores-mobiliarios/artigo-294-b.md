@@ -4,13 +4,13 @@
 
 1 - O exercício da actividade do agente vinculado depende de contrato escrito, celebrado entre aquele e o intermediário financeiro, que estabeleça expressamente as funções que lhe são atribuídas, designadamente as previstas na alínea b) do n.º 1 do artigo anterior.
 
-2 - Sem prejuízo do disposto no artigo 294.º-D, a actividade do agente vinculado é exercida:
+2 - A atividade do agente vinculado é exercida:
 
 a) Por pessoas singulares, estabelecidas em Portugal, não integradas na estrutura organizativa do intermediário financeiro;
 
 b) Por sociedades comerciais, com sede estatutária em Portugal, que não se encontrem em relação de domínio ou de grupo com o intermediário financeiro.
 
-3 - O agente vinculado deve ser idóneo e possuir formação e experiência profissional adequadas.
+3 - O agente vinculado deve ser idóneo e possuir qualificação e aptidão profissional adequadas e, caso preste informações ou consultoria para investimento sobre instrumentos financeiros, deve cumprir com os requisitos previstos no artigo 305.º-G.
 
 4 - O intermediário financeiro é responsável pela verificação dos requisitos previstos no número anterior.
 

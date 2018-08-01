@@ -6,7 +6,7 @@
 
 a) Em relação aos quais tenham sido passados certificados para exercício de direitos a eles inerentes, durante o prazo de vigência indicado no certificado, quando o exercício daqueles direitos dependa da manutenção da titularidade até à data desse exercício;
 
-b) Em relação aos quais tenha sido passado certificado para valer como título executivo, devendo o bloqueio manter-se até à devolução do original do certificado ou até à apresentação de certidão da decisão final do processo executivo;
+b) Por iniciativa de intermediário financeiro, quanto aos valores mobiliários em relação aos quais lhe tenha sido dada ou transmitida ordem de venda em mercado regulamentado ou em sistema de negociação multilateral ou organizado.
 
 c) Que sejam objecto de penhora ou de outros actos de apreensão judicial, enquanto esta se mantiver;
 

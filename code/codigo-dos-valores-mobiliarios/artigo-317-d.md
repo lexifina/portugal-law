@@ -2,18 +2,14 @@
 
 ### Contrapartes elegíveis
 
-1 - São contrapartes elegíveis do intermediário financeiro com o qual se relacionam as entidades enunciadas nas alíneas a) a i), com excepção dos governos de âmbito regional, do n.º 1 do artigo 30.º
+1 - São contrapartes elegíveis do intermediário financeiro com o qual se relacionam as entidades enunciadas nas alíneas a) a i) do n.º 1 do artigo 30.º, com exceção das entidades referidas na alínea h) e dos governos e organismos públicos de âmbito regional.
 
-2 - O tratamento como contraparte elegível pode ser afastado, em relação a qualquer tipo de operação ou a operações específicas, mediante acordo escrito celebrado entre o intermediário financeiro e o cliente que o haja solicitado.
+2 - O tratamento como contraparte elegível pode ser afastado, em relação a qualquer tipo de operação ou a operações específicas, mediante acordo escrito celebrado entre o intermediário financeiro e o cliente que o haja solicitado, nos termos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
-3 - Se, na solicitação referida no número anterior, a contraparte elegível:
-
-a) Não solicitar expressamente o tratamento como investidor não qualificado, é a mesma tratada como investidor qualificado;
-
-b) Solicitar expressamente o tratamento como investidor qualificado, pode, a todo o tempo, solicitar o tratamento como investidor não qualificado nos termos do artigo 317.º-A.
+3 - (Revogado.)
 
 4 - O intermediário financeiro pode também tratar como contrapartes elegíveis as pessoas colectivas mencionadas na alínea k) do n.º 1 do artigo 30.º, desde que tal tratamento tenha sido por estas expressamente aceite, por escrito, em relação a um tipo de operação ou a operações específicas.
 
-5 - O reconhecimento do estatuto de contraparte elegível por intermediário financeiro relativamente a pessoa colectiva referida no número anterior, cuja sede se situe noutro Estado, depende da consagração de tal estatuto no respectivo ordenamento.
+5 - O reconhecimento do estatuto de contraparte elegível por intermediário financeiro relativamente a pessoa coletiva referida no número anterior, cuja sede se situe em país terceiro, depende da consagração de tal estatuto no respetivo ordenamento.
 
-6 - O cumprimento dos deveres previstos nos artigos 312.º a 314.º-D, 321.º a 323.º-C e 328.º a 333.º não é exigível ao intermediário financeiro na execução de um ou vários dos serviços e actividades nas alíneas a), b) e e) do n.º 1 do artigo 290.º sempre que esteja em causa a realização de operações entre o intermediário financeiro e uma contraparte elegível ou a prestação de serviços auxiliares com aquelas relacionados.
+6 - O cumprimento dos deveres previstos nos n.os 1 e 2 do artigo 309.º-I, nos artigos 313.º a 314.º-D, 321.º a 322.º e 328.º a 330.º não é exigível ao intermediário financeiro na execução de um ou vários dos serviços e atividades nas alíneas a), b) e e) do n.º 1 do artigo 290.º sempre que esteja em causa a realização de operações entre o intermediário financeiro e uma contraparte elegível ou a prestação de serviços auxiliares com aquelas relacionados.

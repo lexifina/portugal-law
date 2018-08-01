@@ -2,7 +2,7 @@
 
 ### Reclamações de investidores
 
-1 - O intermediário financeiro deve manter um procedimento eficaz e transparente para o tratamento adequado e rápido de reclamações recebidas de investidores não qualificados, que preveja, pelo menos:
+1 - O intermediário financeiro mantém um procedimento eficaz e transparente para o tratamento adequado e rápido de reclamações recebidas de investidores não profissionais, que cumpra os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e que preveja:
 
 a) A recepção, encaminhamento e tratamento da reclamação por colaborador diferente do que praticou o acto de que se reclama;
 

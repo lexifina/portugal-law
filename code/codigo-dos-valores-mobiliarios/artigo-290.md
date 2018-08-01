@@ -10,7 +10,11 @@ b) A execução de ordens por conta de outrem;
 
 c) A gestão de carteiras por conta de outrem;
 
-d) A tomada firme e a colocação com ou sem garantia em oferta pública de distribuição;
+d) Os serviços e atividades de:
+
+i) Tomada firme e colocação com garantia; ou
+
+ii) Colocação sem garantia;
 
 e) A negociação por conta própria;
 

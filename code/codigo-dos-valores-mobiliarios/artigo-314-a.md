@@ -2,18 +2,12 @@
 
 ### Gestão de carteiras e consultoria para investimento
 
-1 - No âmbito da prestação dos serviços de gestão de carteiras ou de consultoria para investimento, o intermediário financeiro deve obter do investidor, além da informação referida no n.º 1 do artigo anterior, informação relativa à sua situação financeira e aos seus objectivos de investimento.
+1 - No âmbito da prestação dos serviços de gestão de carteiras ou de consultoria para investimento, o intermediário financeiro deve obter do investidor, além da informação referida no n.º 1 do artigo anterior, informação relativa à sua situação financeira, incluindo a sua capacidade para suportar perdas, e aos seus objetivos de investimento, incluindo a sua tolerância ao risco, de modo a poder recomendar o serviço e os instrumentos financeiros que lhe são mais adequados e, em particular, mais consentâneos com o seu nível de tolerância ao risco e a sua capacidade para suportar perdas, nos termos previstos nos atos delegados e regulamentação da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
 
-2 - O intermediário financeiro deve obter a informação necessária para que possa compreender os factos essenciais relacionados com o cliente e para que, tendo em conta a natureza e o âmbito do serviço prestado, possa considerar que:
+2 - (Revogado.)
 
-a) A operação específica a recomendar ou a iniciar corresponde aos objectivos de investimento do cliente em questão;
+3 - Se o intermediário financeiro não obtiver a informação necessária para a avaliação da adequação do serviço ou operação em causa ou se considerar que não é adequado, não pode realizar ou recomendar o referido serviço ou operação ao cliente.
 
-b) O cliente pode suportar financeiramente quaisquer riscos de investimento conexos, em coerência com os seus objectivos de investimento; e
+4 - (Revogado.)
 
-c) A natureza do cliente assegura que este dispõe da experiência e dos conhecimentos necessários para compreender os riscos envolvidos na operação ou na gestão da sua carteira.
-
-3 - Se o intermediário financeiro não obtiver a informação necessária para a operação em causa, não a pode recomendar ao cliente.
-
-4 - Na prestação de consultoria para investimento a um investidor qualificado, o intermediário financeiro pode presumir, para efeitos da alínea b) do n.º 2, que aquele consegue suportar financeiramente o risco de qualquer eventual prejuízo causado pelo investimento.
-
-5 - O disposto no número anterior não se aplica a clientes cujo tratamento como investidores qualificados resulte de um seu pedido.
+5 - (Revogado.)

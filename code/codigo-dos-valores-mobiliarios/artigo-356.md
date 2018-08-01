@@ -4,15 +4,15 @@
 
 1 - As informações recebidas pela CMVM nos termos do artigo anterior só podem ser utilizadas:
 
-a) Para exame das condições de acesso à actividade dos intermediários financeiros;
+a) Para exame das condições de acesso à atividade dos intermediários financeiros;
 
-b) Para supervisão, em base individual ou consolidada, da actividade dos intermediários financeiros e para supervisão dos mercados de instrumentos financeiros;
+b) Para supervisão, em base individual ou consolidada, da atividade dos intermediários financeiros e para supervisão dos mercados de instrumentos financeiros;
 
 c) Para instrução de processos e para aplicação de sanções;
 
-d) No âmbito de recursos interpostos de decisões do Ministro das Finanças, da CMVM, do Banco de Portugal ou do Instituto de Seguros de Portugal, tomadas nos termos das disposições aplicáveis às entidades sujeitas à respectiva supervisão;
+d) No âmbito de recursos interpostos de decisões do Ministro das Finanças, da CMVM, do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões, tomadas nos termos das disposições aplicáveis às entidades sujeitas à respetiva supervisão;
 
-e) Para dar cumprimento a deveres legais de colaboração com outras entidades ou para o desenvolvimento de acções de cooperação.
+e) Para dar cumprimento a deveres legais de colaboração com outras entidades ou para o desenvolvimento de ações de cooperação.
 
 f) No âmbito do procedimento de mediação de conflitos previsto nos artigos 33.º e 34.º
 

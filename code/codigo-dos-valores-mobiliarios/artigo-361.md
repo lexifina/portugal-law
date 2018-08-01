@@ -14,11 +14,15 @@ c) Determinar que as pessoas responsáveis pelos locais onde se proceda à instr
 
 d) Requerer a colaboração de outras pessoas ou entidades, incluindo autoridades policiais, quando tal se mostre necessário ou conveniente ao exercício das suas funções, designadamente em caso de resistência a esse exercício ou em razão da especialidade técnica das matérias em causa;
 
-e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários e às contrapartes centrais quando estas não adotem as medidas necessárias à regularização de situações anómalas que ponham em causa o regular funcionamento do mercado, da atividade exercida ou os interesses dos investidores;
+e) Substituir-se às entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado e às contrapartes centrais quando estas não adotem as medidas necessárias à regularização de situações anómalas que ponham em causa o regular funcionamento do mercado, da atividade exercida ou os interesses dos investidores;
 
-f) Substituir-se às entidades supervisionadas no cumprimento de deveres de informação.
+f) Substituir-se às entidades supervisionadas no cumprimento de deveres de informação;
 
-g) Divulgar publicamente o facto de um emitente não estar a observar os seus deveres.
+g) Divulgar publicamente o facto de um emitente não estar a observar os seus deveres;
+
+h) Determinar que uma entidade reduza ou não aumente a sua posição ou exposição a instrumentos financeiros derivados de mercadorias;
+
+i) Proibir ou limitar a comercialização, distribuição ou venda de instrumentos financeiros ou um determinado tipo de atividade ou prática financeira, nos termos previstos no Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados, ou em virtude da violação dos deveres relativos à produção ou distribuição de instrumentos financeiros, sem prejuízo do exercício dos poderes de intervenção previstos nos termos do Regulamento (UE) n.º 236/2012, do Parlamento Europeu e do Conselho, de 14 de março de 2012.
 
 3 - Nas situações previstas no n.º 1 e nas alíneas a), b) e c) do n.º 2, as pessoas singulares ou colectivas em causa ficam sujeitas ao dever de não revelar a clientes ou a terceiros o teor ou a ocorrência do acto praticado.
 

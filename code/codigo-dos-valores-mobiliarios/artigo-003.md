@@ -6,7 +6,7 @@
 
 2 - Considera-se que têm conexão relevante com o território português, designadamente:
 
-a) As ordens dirigidas a membros de mercados regulamentados ou de sistemas de negociação multilateral registados na CMVM e as operações realizadas nesses mercados ou sistemas;
+a) As ordens dirigidas a membros ou participantes de mercados regulamentados ou de sistemas de negociação multilateral ou organizado registados na Comissão do Mercado de Valores Mobiliários (CMVM) e as operações realizadas nesses mercados ou sistemas;
 
 b) As actividades desenvolvidas e os actos realizados em Portugal;
 

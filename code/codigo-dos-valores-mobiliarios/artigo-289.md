@@ -14,48 +14,86 @@
 
 ### Noção
 
-1 - São actividades de intermediação financeira:
+1 - São atividades de intermediação financeira:
 
-a) Os serviços e actividades de investimento em instrumentos financeiros;
+a) Os serviços e atividades de investimento em instrumentos financeiros;
 
-b) Os serviços auxiliares dos serviços e actividades de investimento;
+b) Os serviços auxiliares dos serviços e atividades de investimento;
 
 c) A gestão das seguintes instituições de investimento coletivo:
 
 i) Organismos de investimento coletivo em valores mobiliários;
 
-ii) Organismos de investimento alternativo em valores mobiliários e organismos de investimento em ativos não financeiros;
+ii) Organismos de investimento alternativo em valores mobiliários;
 
-iii) Organismos de investimento imobiliário;
+iii) Organismos de investimento em ativos não financeiros;
 
-iv) Organismos de investimento em capital de risco, organismos de empreendedorismo social e organismos de investimento alternativo especializado; e
+iv) Organismos de investimento imobiliário;
 
-v) Fundos de titularização de créditos;
+v) Organismos de investimento em capital de risco;
 
-d) O exercício das funções de depositário dos instrumentos financeiros que integram o património das instituições de investimento coletivo referidas na alínea anterior.
+vi) Fundos de empreendedorismo social;
 
-2 - Só os intermediários financeiros podem exercer, a título profissional, actividades de intermediação financeira.
+vii) Organismos de investimento alternativo especializado; e
+
+viii) Fundos de titularização de créditos; e
+
+ix) Outros organismos de investimento alternativo regulados por legislação especial;
+
+d) O exercício das funções de depositário das instituições de investimento coletivo referidas na alínea anterior.
+
+2 - Só os intermediários financeiros podem exercer, a título profissional, atividades de intermediação financeira.
 
 3 - O disposto no número anterior não é aplicável:
 
-a) Aos membros do Sistema Europeu de Bancos Centrais, no exercício das suas funções, e ao Estado e outras entidades públicas no âmbito da gestão da dívida pública e das reservas do Estado;
+a) Aos membros do Sistema Europeu de Bancos Centrais, no exercício das suas funções, e ao Estado e outras entidades públicas no âmbito da gestão da dívida pública e das reservas do Estado, ou que gerem fundos destinados ao financiamento de sistemas de segurança social ou de regimes de pensões de reforma ou de proteção de trabalhadores, ou que participem em instituições financeiras internacionais criadas por dois ou mais Estados-Membros que tenham como fim mobilizar fundos e prestar assistência financeira em benefício dos seus membros por problemas graves de financiamento;
 
 b) Às pessoas que prestam serviços de investimento exclusivamente à sua sociedade dominante, a filial desta, ou à sua própria filial;
 
 c) Às pessoas que prestem conselhos de investimento como complemento normal e não especificamente remunerado de profissão de fim diverso da prestação de serviços de investimento;
 
-d) Às pessoas que tenham por única actividade de investimento a negociação por conta própria desde que não sejam criadores de mercado ou entidades que negoceiem por conta própria, fora de um mercado regulamentado ou de um sistema de negociação multilateral, de modo organizado, frequente e sistemático, facultando um sistema acessível a terceiros com o fim de com eles negociar;
+d) Às pessoas que tenham por única atividade de investimento a negociação por conta própria de instrumentos financeiros que não sejam derivados de mercadorias ou licenças de emissão e seus derivados desde que não:
 
-e) Às pessoas que prestam, exclusivamente ou em cumulação com a actividade descrita na alínea b), serviços de investimento relativos à gestão de sistemas de participação de trabalhadores;
+i) Sejam criadores de mercado;
 
-f) Às pessoas que prestem serviços de investimento, ou exerçam actividades de investimento, que consistam, exclusivamente, na negociação por conta própria nos mercados a prazo ou a contado, neste caso com a única finalidade de cobrir posições nos mercados de derivados, ou na negociação ou participação na formação de preços por conta de outros membros dos referidos mercados, e que sejam garantidas por um membro compensador que nos mesmos actue, quando a responsabilidade pela execução dos contratos celebrados for assumida por um desses membros;
+ii) Sejam membros ou participantes num mercado regulamentado ou sistema de negociação multilateral ou tenham acesso eletrónico direto a uma plataforma de negociação, exceto se forem entidades não financeiras que executam transações numa plataforma de negociação que reduzam, de forma objetivamente mensurável, os riscos diretamente relacionados com a atividade comercial ou a atividade de financiamento de tesouraria dessas entidades não financeiras ou dos respetivos grupos;
 
-g) Às pessoas cuja actividade principal consista em negociar por conta própria em mercadorias, em instrumentos derivados sobre mercadorias, ou em ambos, desde que não actuem no âmbito de um grupo cuja actividade principal consista na prestação de outros serviços de investimento ou de natureza bancária;
+iii) Exerçam uma atividade de negociação algorítmica de alta frequência;
 
-h) Às pessoas que negoceiem instrumentos financeiros por conta própria ou que prestem serviços de investimento em instrumentos derivados sobre mercadorias ou contratos de derivados referidos nas subalíneas ii) e iii) da alínea e) e na alínea f) do n.º 1 do artigo 2.º, desde que tais actividades sejam exercidas de forma acessória no contexto de um grupo cuja actividade principal não consista na prestação de serviços de investimento ou de natureza bancária;
+iv) Negoceiem por conta própria ao executarem ordens de clientes;
 
-i) Às pessoas que exercem, a título principal, algum dos serviços enumerados nas alíneas c), d) e g) do artigo 291.º, desde que não actuem no âmbito de um grupo cuja actividade principal consista na prestação de serviços de investimento ou de natureza bancária.
+e) Às pessoas que prestam, exclusivamente ou em cumulação com a atividade descrita na alínea b), serviços investimento relativos à gestão de sistemas de participação de trabalhadores;
 
-4 - O disposto nos artigos 294.º-A a 294.º-D, n.os 3 a 10 do artigo 306.º, artigos 306.º-A a 306.º-D, 309.º-D, 314.º a 314.º-D, 317.º a 317.º-D e capítulos II e III não é aplicável à atividade de gestão do investimento de instituições de investimento coletivo.
+f) Aos operadores sujeitos a obrigações de conformidade nos termos da Diretiva 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro, que negoceiem por conta própria licenças de emissão e que não executem ordens de clientes nem prestem ou exerçam outros serviços ou atividades de investimento e não desenvolvam negociação algorítmica de alta frequência;
 
-5 - Sem prejuízo do disposto no número anterior, o disposto nos n.os 2 a 4 do artigo 305.º-A, artigos 305.º-B, 305.º-C, n.º 3 do artigo 305.º-D, artigos 305.º-E, 307.º a 307.º-B, 308.º a 308.º-C, 309.º-G e 310.º a 316.º não é aplicável às sociedades de investimento mobiliário e às sociedades de investimento imobiliário heterogeridas.
+g) Às pessoas, incluindo criadores de mercado, que negoceiem por conta própria instrumentos financeiros derivados de mercadorias ou licenças de emissão e seus derivados, exceto se negociarem por conta própria ao executarem ordens de clientes, ou que prestem outros serviços de investimento relativamente àqueles instrumentos apenas a clientes ou fornecedores da sua atividade principal e que cumpram os seguintes requisitos;
+
+i) Os serviços ou atividades são efetuados enquanto atividade acessória da sua atividade principal ao nível do grupo a que pertencem, tanto numa base individual como agregada, conforme definido em regulamentação e atos delegados da Diretiva n.º 2014/65/UE2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, não sendo essa atividade principal a prestação de serviços de investimento ou de atividades bancárias previstas no Regime Geral das Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, ou a criação de mercado em derivados de mercadorias;
+
+ii) Não exerçam uma atividade de negociação algorítmica de alta frequência;
+
+iii) No caso de entidades com sede em Portugal, comuniquem anualmente à CMVM que beneficiam desta exceção;
+
+h) Aos operadores de redes de transporte conforme definidos no n.º 4 do artigo 2.º, da Diretiva 2009/72/CE ou no n.º 4 do artigo 2.º, da Diretiva 2009/73/CE, do Parlamento Europeu e do Conselho, de 13 de julho, quando atuem ao abrigo das funções aí previstas ou nos Regulamentos (CE) n.º 714/2009 e n.º 715/2009, do Parlamento Europeu e do Conselho, de 13 de julho, ou de códigos ou orientações relativos às redes adotados em aplicação desses regulamentos, incluindo pessoas que atuem como prestadores de serviços em seu nome no cumprimento dessas funções, e qualquer operador ou administrador de um mecanismo de compensação de fluxos de energia ou de uma rede ou sistema de oleodutos para manter o equilíbrio entre a oferta e a procura de energia no desempenho dessas tarefas, desde que os serviços ou atividades apenas tenham por objeto derivados de mercadorias a fim de desempenhar aquelas funções e não correspondam a operações efetuadas em mercado secundário, incluindo uma plataforma de negociação de direitos de transporte de natureza financeira;
+
+i) Às pessoas que exercem, a título principal, algum dos serviços enumerados nas alíneas c), d) e g) do artigo 291.º, desde que não atuem no âmbito de um grupo cuja atividade principal consista na prestação de serviços de investimento ou de natureza bancária;
+
+j) Às centrais de valores mobiliários, exceto nos termos previstos no artigo 73.º do Regulamento (UE) n.º 909/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A organização e o exercício da atividade referida na alínea c) do n.º 1 rege-se por legislação nacional específica e correspondente regulamentação da União Europeia, designadamente a regulamentação e atos delegados da Diretiva 2009/65/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e a regulamentação e atos delegados da Diretiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011.
+
+7 - As entidades referidas na alínea g) do n.º 3 informam a CMVM, a pedido desta, sobre:
+
+a) O cumprimento dos critérios para qualificar a atividade desenvolvida; e
+
+b) Os serviços prestados a clientes ou fornecedores como atividade auxiliar.
+
+8 - Considera-se criador de mercado qualquer pessoa que se apresenta nos mercados financeiros, com caráter contínuo, como estando disposta a negociar por conta própria através da compra e venda de instrumentos financeiros com base no seu próprio capital a preços que a própria define.
+
+9 - Os membros ou participantes de mercado regulamentado ou sistema de negociação multilateral que não sejam intermediários financeiros estão sujeitos aos deveres previstos na Secção IV-A do Capítulo I do presente título.
+
+10 - A CMVM pode definir, através de regulamento, o conteúdo e o modo como deve ser prestada a comunicação prevista na subalínea iii) da alínea g) do n.º 3 e a informação prevista no n.º 7 do presente artigo.

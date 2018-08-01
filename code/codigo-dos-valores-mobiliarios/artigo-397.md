@@ -26,17 +26,21 @@ i) De divulgar ordens que não sejam imediatamente executáveis;
 
 j) De respeitar as regras relativas à agregação de ordens e à afectação de operações;
 
-l) De não executar ordens, sem o consentimento do cliente, fora de mercado regulamentado ou de sistema de negociação multilateral;
+k) De não executar ordens, sem o consentimento do cliente, fora de mercado regulamentado ou de sistema de negociação multilateral ou organizado;
 
-m) De adoptar uma política de execução de ordens ou de a avaliar com a frequência exigida por lei;
+l) De adoptar uma política de execução de ordens ou de a avaliar com a frequência exigida por lei;
 
-n) De respeitar a exigência de forma escrita nos contratos de intermediação financeira, quando exigível;
+m) De respeitar a exigência de forma escrita nos contratos de intermediação financeira, quando exigível;
 
-o) De respeitar as regras relativas à apreciação do carácter adequado da operação em função do perfil do cliente.
+n) De respeitar as regras relativas à apreciação do carácter adequado da operação em função do perfil do cliente;
+
+o) De adotar e aplicar políticas e procedimentos relativas à produção e distribuição de instrumentos financeiros produzidos ou comercializados pelo intermediário financeiro.
 
 3 - (Revogado).
 
-4 - Constitui contra-ordenação grave a violação por entidades autorizadas a exercer actividades de intermediação financeira de qualquer dos seguintes deveres:
+4 - Constitui contraordenação muito grave a violação de proibição ou restrição de comercialização, distribuição ou venda de instrumentos financeiros ou de exercício de determinada atividade ou prática financeira, adotada pela CMVM ou pela Autoridade Europeia dos Valores Mobiliários e dos Mercados.
+
+5 - Constitui contra-ordenação grave a violação por entidades autorizadas a exercer actividades de intermediação financeira de qualquer dos seguintes deveres:
 
 a) De conservar os documentos pelo prazo legalmente exigido;
 

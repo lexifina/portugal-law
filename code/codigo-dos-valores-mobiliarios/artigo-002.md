@@ -14,23 +14,23 @@ d) Os contratos diferenciais;
 
 e) As opções, os futuros, os swaps, os contratos a prazo e quaisquer outros contratos derivados relativos a:
 
-i) Valores mobiliários, divisas, taxas de juro ou de rendibilidades ou relativos a outros instrumentos derivados, índices financeiros ou indicadores financeiros, com liquidação física ou financeira;
+i) Valores mobiliários, divisas, taxas de juro ou de rendibilidades, licenças de emissão ou relativos a outros instrumentos derivados, índices financeiros ou indicadores financeiros, com liquidação física ou financeira;
 
-ii) Mercadorias, variáveis climáticas, tarifas de fretes, licenças de emissão, taxas de inflação ou quaisquer outras estatísticas económicas oficiais, com liquidação financeira ainda que por opção de uma das partes;
+ii) Mercadorias, variáveis climáticas, tarifas de fretes, taxas de inflação ou quaisquer outras estatísticas económicas oficiais, com liquidação financeira ainda que por opção de uma das partes;
 
-iii) Mercadorias, com liquidação física, desde que sejam transaccionados em mercado regulamentado ou em sistema de negociação multilateral ou, não se destinando a finalidade comercial, tenham características análogas às de outros instrumentos financeiros derivados nos termos do artigo 38.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto;
+iii) Mercadorias, que possam ser objeto de liquidação física, desde que sejam transacionados em mercado regulamentado ou em sistemas de negociação multilateral ou organizado, com exceção dos produtos energéticos grossistas negociados em sistema de negociação organizado que só possam ser liquidados mediante entrega física, conforme definido em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, ou, não se destinando a finalidade comercial, tenham características análogas às de outros instrumentos financeiros derivados nos termos da referida regulamentação e atos delegados;
 
-f) Quaisquer outros contratos derivados, nomeadamente os relativos a qualquer dos elementos indicados no artigo 39.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto, desde que tenham características análogas às de outros instrumentos financeiros derivados nos termos do artigo 38.º do mesmo regulamento;
+f) Quaisquer outros contratos derivados, nomeadamente os relativos a qualquer dos elementos indicados em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, desde que tenham características análogas às de outros instrumentos financeiros derivados nos termos definidos na referida regulamentação e atos delegados;
 
-g) As licenças de emissão, nos termos e para os efeitos do Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e do Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010;
+g) Licenças de emissão, nos termos e para os efeitos do Regulamento (UE) n.º 596/2014, do Parlamento e do Conselho, de 16 de abril de 2014, do Regulamento (UE) n.º 1031/2010, da Comissão, de 12 de novembro de 2010 e da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
 
 h) As formas organizadas de negociação de instrumentos financeiros referidos nas alíneas anteriores, a liquidação e a compensação de operações àqueles respeitantes e as actividades de intermediação financeira;
 
 i) O regime de supervisão e sancionatório relativo aos instrumentos e às actividades mencionadas nas alíneas anteriores.
 
-2 - As referências feitas no presente Código a instrumentos financeiros devem ser entendidas de modo a abranger os instrumentos mencionados nas alíneas a) a f) do número anterior.
+2 - As referências feitas no presente Código a instrumentos financeiros devem ser entendidas de modo a abranger os instrumentos mencionados nas alíneas a) a g) do número anterior.
 
-3 - As disposições dos títulos i, vii e viii aplicam-se igualmente a contratos de seguro ligados a fundos de investimento e a contratos de adesão individual a fundos de pensões abertos.
+3 - (Revogado).
 
 4 - A proibição de manipulação de mercado e as disposições dos títulos vii e viii do presente Código aplicam-se igualmente aos índices de referência e aos contratos de mercadorias à vista, nos termos previstos no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo ao abuso de mercado.
 

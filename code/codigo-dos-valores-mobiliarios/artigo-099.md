@@ -14,7 +14,7 @@ b) Em sistema centralizado, nos casos em que a lei o imponha ou por iniciativa d
 
 2 - Os valores mobiliários titulados são obrigatoriamente depositados:
 
-a) Em sistema centralizado, quando estejam admitidos à negociação em mercado regulamentado;
+a) Em sistema centralizado, quando estejam admitidos à negociação em mercado regulamentado ou em sistema de negociação multilateral ou organizado;
 
 b) Em intermediário financeiro ou em sistema centralizado, quando toda a emissão ou série seja representada por um só título.
 

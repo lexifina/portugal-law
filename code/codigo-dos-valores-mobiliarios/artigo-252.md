@@ -4,12 +4,8 @@
 
 # Artigo 252.º
 
-### Internalizadores sistemáticos
+### Internalização sistemática
 
-1 - São regulados no artigo 21.º do Regulamento (CE) n.º 1287/2006, da Comissão, de 10 de Agosto:
+1 - Os intermediários financeiros que sejam internalizadores sistemáticos cumprem os deveres de divulgação de informação sobre ofertas, de execução de ordens de clientes e de acesso a preços de ofertas, nos termos previstos nos artigos 14.º, 15.º, 17.º e 18.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados.
 
-a) Os requisitos para um intermediário financeiro ser considerado internalizador sistemático;
-
-b) O procedimento para a perda da qualidade de internalizador sistemático.
-
-2 - O intermediário financeiro deve comunicar previamente à CMVM os instrumentos financeiros relativamente aos quais exerce a actividade de internalização sistemática.
+2 - (Revogado.)

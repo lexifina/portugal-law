@@ -6,12 +6,12 @@
 
 ### Disposições gerais
 
-1 - O intermediário financeiro deve estabelecer, por escrito, uma política interna que lhe permita, a todo o tempo, conhecer a natureza de cada cliente, como investidor não qualificado, qualificado ou contraparte elegível, e adoptar os procedimentos necessários à concretização da mesma.
+1 - O intermediário financeiro deve estabelecer, por escrito, uma política interna que lhe permita, a todo o tempo, conhecer a natureza de cada cliente, como investidor não profissional, profissional ou contraparte elegível, e adotar os procedimentos necessários à concretização da mesma.
 
-2 - O intermediário financeiro pode, por sua própria iniciativa, tratar:
+2 - O intermediário financeiro pode, por sua própria iniciativa ou a pedido do cliente, tratar:
 
-a) Qualquer investidor qualificado como investidor não qualificado;
+a) Qualquer investidor profissional como investidor não profissional;
 
-b) Uma contraparte elegível, assim qualificada nos termos do n.º 1 do artigo 317.º-D como investidor qualificado ou como investidor não qualificado.
+b) Uma contraparte elegível, assim qualificada nos termos do n.º 1 do artigo 317.º-D como investidor profissional ou como investidor não profissional.
 
-3 - (Revogado).
+3 - (Revogado.)

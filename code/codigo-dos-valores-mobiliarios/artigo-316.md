@@ -4,8 +4,8 @@
 
 # Artigo 316.º
 
-### Informação sobre operações realizadas fora de mercado regulamentado ou de sistema de negociação multilateral
+### Informação sobre operações de internalizadores sistemáticos e intermediários financeiros que negoceiem fora de uma plataforma de negociação
 
-1 - O disposto nos n.os 3 a 6 do artigo 221.º aplica-se aos intermediários financeiros relativamente a operações que executem, por conta própria ou em nome de clientes, fora de mercado regulamentado ou de sistema de negociação multilateral, sobre acções admitidas à negociação em mercado regulamentado.
+1 - Os intermediários financeiros que negoceiem por conta própria ou em nome de clientes, realizem operações em instrumentos financeiros negociados numa plataforma de negociação, incluindo internalizadores sistemáticos, divulgam a informação sobre as operações realizadas nos termos previstos nos artigos 20.º e 21.º do Regulamento (UE) n.º 600/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e respetiva regulamentação e atos delegados.
 
 2 - (Revogado).

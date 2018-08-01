@@ -1,19 +1,19 @@
 # Artigo 206.º
 
-### Membros
+### Membros ou participantes
 
-1 - A negociação dos instrumentos financeiros efectua-se em mercado regulamentado e em sistema de negociação multilateral através dos respectivos membros.
+1 - A negociação dos instrumentos financeiros efetua-se em mercado regulamentado e em sistemas de negociação multilateral ou organizado através dos respetivos membros ou participantes.
 
-2 - Podem ser admitidos como membros intermediários financeiros e outras pessoas que:
+2 - Podem ser admitidos como membros ou participantes intermediários financeiros e outras pessoas que:
 
 a) Sejam idóneas e profissionalmente aptas;
 
-b) Tenham um nível suficiente de capacidade e competência de negociação;
+b) Tenham um nível suficiente de capacidade, experiência e competência de negociação;
 
 c) Tenham, quando aplicável, mecanismos organizativos adequados; e
 
 d) Tenham recursos suficientes para as funções a exercer.
 
-3 - A admissão de membros compete à respectiva entidade gestora, de acordo com princípios de legalidade, igualdade e de respeito pelas regras de sã e leal concorrência.
+3 - A admissão de membros ou participantes compete à respetiva entidade gestora, de acordo com princípios de legalidade, igualdade e de respeito pelas regras de sã e leal concorrência, de acordo com regras transparentes e não discriminatórias, baseadas em critérios objetivos.
 
-4 - A intervenção dos membros pode consistir no mero registo de operações.
+4 - A intervenção dos membros ou participantes pode consistir no mero registo de operações.

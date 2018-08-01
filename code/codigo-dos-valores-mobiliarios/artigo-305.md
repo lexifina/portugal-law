@@ -6,30 +6,42 @@
 
 ### Requisitos gerais
 
-1 - O intermediário financeiro deve manter a sua organização empresarial equipada com os meios humanos, materiais e técnicos necessários para prestar os seus serviços em condições adequadas de qualidade, profissionalismo e de eficiência e por forma a evitar procedimentos errados, devendo, designadamente:
+1 - O intermediário financeiro:
 
-a) Adoptar uma estrutura organizativa e procedimentos decisórios que especifiquem os canais de comunicação e atribuam funções e responsabilidades;
+a) Mantém a sua organização empresarial equipada com os meios humanos, materiais e técnicos necessários para prestar os seus serviços em condições adequadas de qualidade, profissionalismo, regularidade, continuidade e de eficiência e por forma a evitar procedimentos errados, devendo designadamente cumprir com os requisitos previstos em regulamentação e atos delegados da Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014;
 
-b) Assegurar que as pessoas referidas no n.º 5 do artigo 304.º estejam ao corrente dos procedimentos a seguir para a correcta execução das suas responsabilidades;
+b) Dispõe de procedimentos de controlo interno adequados, incluindo regras relativas às transações pessoais dos seus colaboradores ou à detenção ou gestão de investimentos em instrumentos financeiros para investimento por conta própria;
 
-c) Assegurar o cumprimento dos procedimentos adoptados e das medidas tomadas;
+c) (Revogada.)
 
-d) Contratar colaboradores com as qualificações, conhecimentos e capacidade técnica necessários para a execução das responsabilidades que lhes são atribuídas;
+d) (Revogada.)
 
-e) Adoptar meios eficazes de reporte e comunicação da informação interna;
+e) (Revogada.)
 
-f) Manter registos das suas actividades e organização interna;
+f) (Revogada.)
 
-g) Assegurar que a realização de diversas funções por pessoas referidas no n.º 5 do artigo 304.º não as impede de executar qualquer função específica de modo eficiente, honesto e profissional;
+g) (Revogada.)
 
-h) Adotar sistemas e procedimentos adequados a salvaguardar a segurança, a integridade e a confidencialidade da informação, incluindo o tratamento eletrónico de dados;
+h) (Revogada.)
 
-i) Adoptar uma política de continuidade das suas actividades, destinada a garantir, no caso de uma interrupção dos seus sistemas e procedimentos, a preservação de dados e funções essenciais e a prossecução das suas actividades de intermediação financeira ou, se tal não for possível, a recuperação rápida desses dados e funções e o reatamento rápido dessas actividades;
+i) (Revogada.)
 
-j) Adoptar uma organização contabilística que lhe permita, a todo o momento e de modo imediato, efectuar a apresentação atempada de relatórios financeiros que reflictam uma imagem verdadeira e apropriada da sua situação financeira e que respeitem todas as normas e regras contabilísticas aplicáveis, designadamente em matéria de segregação patrimonial.
+j) (Revogada.)
 
-k) Adotar sistemas e procedimentos de deteção e comunicação de ordens ou operações que sejam suspeitas de constituírem abuso de mercado, em conformidade com o disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
+k) Adota sistemas e procedimentos de deteção e comunicação de ordens ou operações que sejam suspeitas de constituírem abuso de mercado, em conformidade com o disposto no Regulamento (UE) n.º 596/2014, do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e respetiva regulamentação e atos delegados.
 
-2 - Para efeitos do disposto nas alíneas a) a g) do número anterior, o intermediário financeiro deve ter em conta a natureza, a dimensão e a complexidade das suas actividades, bem como o tipo de actividades de intermediação financeira prestadas.
+2 - O intermediário financeiro assegura que os colaboradores que prestem serviços de intermediação financeira possuem conhecimentos e competências adequadas ao cumprimento dos seus deveres.
 
-3 - O intermediário financeiro deve acompanhar e avaliar regularmente a adequação e a eficácia dos sistemas e procedimentos, estabelecidos para efeitos do n.º 1, e tomar as medidas adequadas para corrigir eventuais deficiências.
+3 - O intermediário financeiro aplica mecanismos e sistemas de segurança sólidos para garantir a segurança e a autenticação dos meios de transferência das informações, minimizar o risco de corrupção de dados e de acesso não autorizado e para evitar fugas de informação, mantendo a confidencialidade dos dados em todos os momentos.
+
+4 - O intermediário financeiro assegura que não é concedido crédito para a realização de operações sobre instrumentos financeiros a colaboradores do intermediário financeiro relativamente a instrumentos financeiros:
+
+a) Emitidos pelo intermediário financeiro;
+
+b) Emitidos por entidades que se encontrem em relação de domínio ou de grupo com o intermediário financeiro;
+
+c) Emitidos por entidades que detenham participação qualificada no intermediário financeiro, calculada nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras;
+
+d) Emitidos por entidades que se encontrem em relação de domínio ou de grupo com as entidades referidas na alínea anterior;
+
+e) Geridos por sociedades gestoras de organismos de investimento coletivo que tenham com o intermediário financeiro uma das relações previstas nas alíneas anteriores.

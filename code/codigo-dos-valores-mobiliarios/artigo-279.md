@@ -2,9 +2,9 @@
 
 ### Obrigações dos participantes
 
-1 - Os participantes colocam à disposição do sistema de liquidação, no prazo indicado nas regras do sistema, os valores mobiliários ou o dinheiro necessários à boa liquidação das operações.
+1 - Os participantes colocam à disposição do sistema de liquidação, na data de liquidação prevista, os valores mobiliários, instrumentos do mercado monetário, e licenças de emissão ou o dinheiro necessários à boa liquidação das operações.
 
-2 - A obrigação a que se refere o número anterior incumbe ao participante que introduziu no sistema a ordem de transferência ou que tenha sido indicado pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral onde se efetuaram as operações a liquidar, pela entidade que assuma as funções de câmara de compensação ou pela contraparte central relativamente a essas operações.
+2 - A obrigação a que se refere o número anterior incumbe ao participante que introduziu no sistema a ordem de transferência ou que tenha sido indicado pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral ou organizado onde se efetuaram as operações a liquidar, pela entidade que assuma as funções de câmara de compensação ou pela contraparte central relativamente a essas operações.
 
 3 - O participante indicado para liquidação de uma operação pode, por sua vez, indicar outro participante no sistema para a efectuar, mas não se libera se este recusar a indicação.
 
