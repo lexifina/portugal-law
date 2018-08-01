@@ -16,4 +16,4 @@
 
 5 - A ASF pode proibir ou impedir a comercialização de produtos de seguros que prejudiquem ou possam prejudicar os interesses dos tomadores de seguros, segurados ou beneficiários, designadamente por serem desadequados ao respetivo perfil ou por induzirem ou contribuírem manifestamente para agravar situações de conflito com os seus interesses.
 
-6 - No caso de produtos de seguros ligados a fundos de investimento, a ASF, antes de adotar uma decisão nos termos do número anterior, consulta a Comissão do Mercado de Valores Mobiliários.
+6 - (Revogado).
