@@ -18,4 +18,6 @@
 
 4 - A existência das secções social, de família e menores, de comércio, de propriedade intelectual e de concorrência, regulação e supervisão depende do volume ou da complexidade do serviço e são instaladas por deliberação do Conselho Superior da Magistratura, sob proposta do presidente do respetivo tribunal da Relação.
 
-5 - Os tribunais da Relação podem organizar serviços comuns para efeitos administrativos.
+5 - Até à instalação da secção de concorrência, regulação e supervisão, as causas referidas no artigo 112.º são sempre distribuídas à mesma secção criminal, com exceção das causas referidas nos n.os 2 a 4 do artigo 112.º, que são sempre distribuídas à mesma secção cível.
+
+6 - Os tribunais da Relação podem organizar serviços comuns para efeitos administrativos.
