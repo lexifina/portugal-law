@@ -1,0 +1,13 @@
+Resolução da Assembleia da República n.º 230/2018
+Recomenda ao Governo a dinamização dos portos do Algarve e do transporte marítimo
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Proceda à criação urgente da administração dos portos do Algarve, integrando as infraestruturas portuárias, marítimas e fluviais, comerciais, de pesca, de recreio, de passageiros e de mercadorias desta região, dotando-a dos meios humanos, financeiros e materiais e das competências adequadas ao exercício da sua missão, num quadro de gestão inteiramente pública.
+2 - A nova administração dos portos do Algarve seja incumbida de definir e aprovar um plano estratégico de desenvolvimento dos portos do Algarve para o período de 2020 a 2027, que será abrangido pelo próximo quadro financeiro plurianual dos fundos comunitários, onde se estabeleçam as principais linhas de força do desenvolvimento da atividade portuária na região, os principais objetivos a alcançar, bem como as medidas de política que assegurem a sua concretização.
+3 - Concretize, com urgência, as obras de requalificação e de melhoria das acessibilidades e infraestruturas marítimas do porto de Portimão, constantes da Resolução do Conselho de Ministros n.º 175/2017, de 24 de novembro, integrando o prolongamento do cais comercial e a melhoria das condições de receção, em número e dimensão, de navios de cruzeiros turísticos oceânicos.
+4 - Proceda à aquisição de um rebocador multifuncional para o porto comercial de Portimão, de apoio a manobras com navios de grande dimensão, à proteção ambiental da costa algarvia, à navegação costeira internacional, às embarcações de pesca, à náutica de recreio, à balizagem marítima, às missões de busca e salvamento da Marinha Portuguesa, ao combate à poluição no mar e à investigação marinha, a operar na zona marítima do Algarve.
+5 - Desenvolva as diligências necessárias ao restabelecimento da linha regular de transporte de passageiros e carga rodada entre Portimão e a Madeira e ao estabelecimento de uma nova linha regular com os Açores, melhorando, para o efeito, as infraestruturas do terminal de carga rodada.
+6 - Promova, no Algarve e regiões adjacentes, junto do tecido empresarial, a utilização do porto comercial de Faro para o transporte de matérias-primas, bens intermédios e bens de consumo, e melhore as suas condições de movimentação de carga nesta infraestrutura portuária.
+7 - Estude a possibilidade de utilização do porto comercial de Faro no segmento de turismo marítimo, designadamente na vertente de cruzeiros oceânicos.
+Aprovada em 4 de maio de 2018.
+O Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.
+111549623
