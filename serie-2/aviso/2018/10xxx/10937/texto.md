@@ -1,0 +1,6 @@
+Aviso n.º 10937/2018
+Doutora Maria Elisa de Carvalho Ferraz, Presidente da Câmara Municipal de Vila do Conde, torna público que a Câmara Municipal na sua reunião ordinária realizada no dia 19 de julho de 2018, deliberou por unanimidade, aprovar a submissão a consulta pública do Projeto de Regulamento do Conselho Municipal da Juventude de Vila do Conde, durante o prazo de 30 dias, contados da publicação do presente aviso no Diário da República, em cumprimento do disposto no artigo 101.º, números 1 e 2 do Código do Procedimento Administrativo.
+Durante esse período, poderão os interessados dirigir, por escrito, à Câmara Municipal as suas sugestões e observações, tidas por convenientes, por correio, por correio eletrónico para o endereço geral@cm-viladoconde.pt, ou por fax para o n.º 252 641 853, estando ainda disponível para consulta o Projeto de Regulamento no Departamento de Administração Geral e Financeira da Câmara Municipal, durante as horas de expediente, bem como no sitio institucional do Município de Vila do Conde, em www.cm-viladoconde.pt.
+Para constar e não poder ser alegada ignorância, se pública o presente aviso na 2.ª série do Diário da República e vai ser afixado nos lugares públicos do costume.
+24 de julho de 2018. - A Presidente da Câmara Municipal, Elisa Ferraz, Dr.ª
+311546553
