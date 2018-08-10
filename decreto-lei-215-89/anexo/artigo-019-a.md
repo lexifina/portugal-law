@@ -2,7 +2,7 @@
 
 ### Deduções no âmbito de parcerias de títulos de impacto social
 
-1 - São considerados gastos e perdas do período de tributação, em valor correspondente a 130 % do respetivo total e até ao limite de 8/1000 do volume de vendas ou de serviços prestados, os fluxos financeiros prestados por investidores sociais no âmbito de parcerias de títulos de impacto social, independentemente de serem ou não objeto de reembolso por não atingimento das metas contratualizadas.
+1 - São considerados gastos e perdas do período de tributação, em valor correspondente a 130 % do respetivo total e até ao limite de 8/1000 do volume de vendas ou de serviços prestados, os fluxos financeiros prestados por investidores sociais, reconhecidos por estes como gastos, no âmbito de parcerias de títulos de impacto social.
 
 2 - Os títulos de impacto social devem ser entendidos na aceção prevista na Resolução do Conselho de Ministros n.º 73-A/2014, de 16 de dezembro, alterada e republicada pela Resolução do Conselho de Ministros n.º 157/2017, de 19 de outubro.
 
