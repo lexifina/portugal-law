@@ -1,0 +1,37 @@
+Aviso (extrato) n.º 11036/2018
+1.ª Alteração ao Plano de Pormenor do Parque Empresarial de Proença-a-Nova
+João Manuel Ventura Grilo de Melo Lobo, Presidente da Câmara Municipal de Proença-a-Nova. Torna público em cumprimento do disposto no n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua última redação dada pelo Dec. Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Proença-a-Nova, na sua reunião pública de 19 de fevereiro de 2018, deliberou mandar elaborar a 1.ª Alteração ao Plano de Pormenor do Parque Empresarial de Proença-a-Nova.
+Foi igualmente deliberado, nos termos do mesmo n.º 1 do artigo 76.º do RJIGT, estabelecer o prazo 3 meses para a elaboração da alteração, fixando-se em 30 dias o período de «participação pública» que antecede a elaboração da alteração do plano, nos termos do n.º 2 do artigo 88.º do mesmo diploma.
+Mantém-se a área de intervenção do plano de pormenor vigente publicado no Diário da República, 2.ª série, n.º 190, de 29 de setembro de 2010. A mesma área, na 1.ª Revisão do Plano Diretor Municipal, publicada no Diário da República, 2.ª série, n.º 153, de 7 de agosto de 2015, foi considerada unidade operativa de planeamento e gestão (UOPG3), pela dinâmica de evolução territorial e urbanística que apresenta, preconizando a sua alteração.
+A oportunidade e termos de referência, assim como a dispensa de procedimento de Avaliação Ambiental Estratégica constam da deliberação.
+Informa-se ainda que, nos termos do n.º 1 do artigo 5.º, conjugado com o n.º 1 dos artigos 76.º e 192.º do RJIGT, o presente aviso será divulgado através da comunicação social, encontrando-se igualmente disponível para consulta no sítio da internet do Município de Proença-a-Nova (http://www.cm-proencanova.pt/)
+O período de 30 dias de «participação preventiva» para elaboração da 1.ª alteração ao plano de pormenor do Parque Empresarial de Proença-a-Nova, conta-se a partir do dia útil a seguir à publicitação do presente aviso no Diário da República.
+20 de março de 2018. - O Presidente da Câmara Municipal, João Manuel Ventura Grilo de Melo Lobo.
+Deliberação
+Reunião de 19/2/2018
+Cármen Lúcia Cardoso Manso, Coordenadora Técnica do Município de Proença-a-Nova, certifica para os devidos e legais efeitos que, no texto das deliberações aprovadas em minuta da reunião ordinária pública da Câmara Municipal, realizada em dezanove de fevereiro de dois mil e dezoito, com a presença do Sr. Presidente da Câmara, João Manuel Ventura Grilo de Melo Lobo e dos vereadores Srs. João Crisóstomo Pereira Cavalheiro Manso, Catarina Sofia da Encarnação Dias, Helena Maria Ribeiro Mendonça Antunes Martins e Margarida Lopes Cristóvão, consta o seguinte:
+«2.5 1.ª Alteração ao Plano de Pormenor do Parque Empresarial de Proença-a-Nova;
+Foi presente proposta de 1.ª Alteração ao Plano de Pormenor do Parque Empresarial de Proença-a-Nova, subscrita pelo Sr. Presidente que se transcreve:
+«Nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), na sua última redação dada pelo Decreto-Lei n.º 80/2015, de 14 de maio e, tendo em conta o disposto no seu artigo 76.º , propõe-se a aprovação da presente proposta que determina mandar elaborar a 1.ª alteração do plano de pormenor do Parque Empresarial de Proença-a-Nova. Com a referida deliberação será dado início ao procedimento de "alteração" do plano nos termos definidos no RJIGT.
+Propõe-se ainda que seja deliberado:
+a) Estabelecer, nos termos do n.º 1 do artigo 76.º do RJIGT, o prazo de 3 meses para a elaboração da alteração, fixando-se em 30 dias o período de participação pública, que antecede a elaboração da alteração do plano, nos termos do n.º 2 do artigo 88.º do mesmo diploma.
+b) Definir como oportunidade e termos de referência:
+b.1) Adequar uma zona industrial desativada a uma nova realidade económica face à dinâmica da procura bem como à necessidade de criar uma alternativa à zona industrial de Proença-a-Nova já saturada gerando novos postos de trabalho para o concelho.
+b.2) A dinamização do investimento empresarial, associado a atividades que diversifiquem a base económica existente, promovendo a criação de emprego qualificado aliado a características que permitam gerar mais valor acrescentado.
+b.3) Promover o capital natural da região enquanto vetor de fortalecimento e diferenciação do seu capital humano, institucional, cultural e económico, bem como a promoção do bem-estar social.
+b.4) Criar um espaço para a instalação de empresas e para a captação de investimento externo ao concelho, em associação à componente I&D e à criação de uma incubadora de empresas/centro de negócios, com o devido complemento de serviços e concretização de uma cozinha industrial para apoio.
+b.5) Proporcionar um espaço adaptado às novas tecnologias, e que seja ambientalmente e energeticamente sustentável.
+b.6) Reajustar usos, áreas e funções às necessidades do mercado e potenciais investidores.
+b.7) Possibilitar a instalação de laboratórios fabris (no conceito LAB+FAB).
+(São mantidos os pressupostos que levaram anteriormente à elaboração do plano, tendo sido apenas acrescentados os pontos das quatro últimas subalíneas).
+c) Dispensar a alteração de procedimento de Avaliação Ambiental Estratégica (AAE), tendo por base:
+c.1) O procedimento de elaboração do plano de pormenor do Parque Empresarial de Proença-a-Nova que foi sujeito a AAE de acordo com o disposto no DL n.º 232/2007, de 15 de junho.
+c.2) O parque empresarial foi devidamente enquadrado no processo da 1.ª revisão do plano diretor municipal, que por sua vez também foi sujeito a procedimento de AAE.
+c.3) Atendendo à sua natureza e área de incidência das alterações, o impacto em termos ambientais é mínimo, não se considerando necessário novo procedimento de AAE, posição fundamentada nos aspetos que já constam dessa AAE anterior. Os indicadores adotados bem como todo o processo de análise constam de forma pormenorizada do respetivo relatório Ambiental, que se considera atualizado e ajustado à alteração pretendida.
+A presente proposta teve por base o documento justificativo presente na reunião. No mesmo é detalhada a estratégia de desenvolvimento local e as orientações estratégicas a seguir no procedimento de alteração, de modo a contribuir para o desenvolvimento e competitividade do município, explicitando e justificando a necessidade de introduzir alterações no Plano de Pormenor do Parque Empresarial de Proença-a-Nova.
+Face ao disposto no n.º 1 do artigo 5.º conjugado com o n.º 1 do artigo 76.º, ambos do RJIGT, a decisão da câmara municipal que vier determinar a alteração e estabelecer o período de participação, será publicada no Diário da República e divulgada através da comunicação social, da plataforma colaborativa de gestão territorial e no sítio da câmara municipal.
+Mantém-se a área de intervenção do plano de pormenor vigente publicado no Diário da República, 2.ª série n.º 190, de 29 de setembro de 2010. A mesma área, na 1.ª Revisão do Plano Diretor Municipal, publicada no Diário da República, 2.ª série, n.º 153 de 7 de agosto de 2015, foi considerada unidade operativa de planeamento e gestão (UOPG3), pela dinâmica de evolução territorial e urbanística que apresenta, preconizando a sua alteração.
+Colocada a votação a proposta foi aprovada por unanimidade.»
+Nada mais me cumpre certificar e aos referidos documentos me reporto.
+20 de março de 2018. - A Coordenadora Técnica, Cármen Lúcia Cardoso Manso.
+611519304
