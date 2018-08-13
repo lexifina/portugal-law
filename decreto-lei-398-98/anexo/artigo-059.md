@@ -34,6 +34,8 @@ m) Informação ao contribuinte dos seus direitos e obrigações, designadamente
 
 n) A interpelação ao contribuinte para proceder à regularização da situação tributária e ao exercício do direito à redução da coima, quando a administração tributária detecte a prática de uma infracção de natureza não criminal.
 
+o) A disponibilização no Portal das Finanças dos formulários digitais para o cumprimento das obrigações declarativas previstas nos artigos 57.º e 113.º do Código do IRS e nos artigos 120.º e 121.º do Código do IRC, com uma antecedência mínima de 120 dias em relação à data limite do cumprimento da obrigação declarativa.
+
 4 - A colaboração dos contribuintes com a administração tributária compreende o cumprimento das obrigações acessórias previstas na lei e a prestação dos esclarecimentos que esta lhes solicitar sobre a sua situação tributária, bem como sobre as relações económicas que mantenham com terceiros.
 
 5 - A publicação dos elementos referidos nos alíneas a), b), e), f) e i) do n.º 3 é promovida por meios electrónicos.
@@ -41,3 +43,5 @@ n) A interpelação ao contribuinte para proceder à regularização da situaç�
 6 - A administração tributária disponibiliza a versão electrónica dos códigos e demais legislação tributária actualizada.
 
 7 - As comunicações previstas nas alíneas m) e n) do n.º 3 são efetuadas por via eletrónica.
+
+8 - Sempre que a Autoridade Tributária e Aduaneira não cumpra o prazo mínimo de antecedência previsto na alínea o) do n.º 3, a data limite para o cumprimento da respetiva obrigação declarativa prorroga-se pelo mesmo número de dias de atraso.
