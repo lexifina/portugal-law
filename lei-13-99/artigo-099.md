@@ -6,4 +6,4 @@
 
 ### Legislação informática aplicável
 
-Aos crimes informáticos previstos na presente lei aplica-se o disposto nas Leis n.os 67/98, de 26 de Outubro (Lei da Protecção de Dados Pessoais), e 109/91, de 17 de Agosto (Lei da Criminalidade Informática), e, subsidiariamente, as disposições do Código Penal.
+Aos crimes informáticos previstos na presente lei aplica-se o disposto na Lei de Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro, e na Lei do Cibercrime, aprovada pela Lei n.º 109/2009, de 15 de setembro, e, subsidiariamente, as disposições do Código Penal.

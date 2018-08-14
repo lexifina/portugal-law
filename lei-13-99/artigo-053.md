@@ -2,7 +2,7 @@
 
 ### Organização
 
-1 - Os cadernos de recenseamento são organizados pela ordem do número de inscrição.
+1 - Os cadernos de recenseamento são organizados pela ordem alfabética dos nomes dos eleitores inscritos na circunscrição e posto, contendo em espaço apropriado os números dos títulos válidos de identificação.
 
 2 - Os cadernos são numerados e têm um termo de encerramento subscrito e autenticado pelas comissões recenseadoras.
 

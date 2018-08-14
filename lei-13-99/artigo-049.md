@@ -12,7 +12,7 @@ c) As inscrições de eleitores que hajam falecido;
 
 d) As inscrições canceladas nos termos do artigo 51.º;
 
-e) As inscrições dos cidadãos eleitores estrangeiros que deixem de residir em Portugal ou que, por escrito, o solicitem, devolvendo o cartão de eleitor.
+e) As inscrições dos cidadãos eleitores estrangeiros que deixem de residir em Portugal ou que, por escrito, o solicitem;
 
 f) As inscrições de cidadãos nacionais no estrangeiro quando duplamente inscritos.
 

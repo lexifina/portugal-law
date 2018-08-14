@@ -10,8 +10,8 @@
 
 4 - Caso a eleição ou referendo seja convocada com pelo menos 55 dias de antecedência, podem ainda inscrever-se até ao 55.º dia anterior ao dia da votação os cidadãos que completem 18 anos até ao dia da eleição ou referendo.
 
-5 - O disposto no presente artigo, designadamente em matéria de interconexão de sistemas de informação, é aplicável a cidadãos nacionais residentes no estrangeiro que se recenseiem voluntariamente, nos termos seguintes:
+5 - O disposto no presente artigo, designadamente em matéria de interconexão de sistemas de informação, é aplicável a todos os cidadãos que promovam, voluntariamente, a sua inscrição no recenseamento eleitoral português, nos termos seguintes:
 
-a) A inscrição e o tratamento de dados depende de consentimento do titular que deve ser garantido no momento em que exerça o direito de recenseamento voluntário previsto no artigo 4.º;
+a) A inscrição e o tratamento de dados dependem de consentimento do titular que deve ser garantido no momento em que exerça o direito de promover o seu recenseamento voluntário;
 
 b) Após a inscrição voluntária, a actualização e consolidação de dados faz-se, nos termos gerais, mediante a interacção entre o Sistema de Informação e Gestão do Recenseamento Eleitoral, adiante designado abreviadamente por SIGRE, e os sistemas de informação apropriados.

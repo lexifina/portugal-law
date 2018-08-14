@@ -6,7 +6,7 @@
 
 2 - A Conservatória dos Registos Centrais envia à DGAI cópia dos assentos de perda de cidadania portuguesa dos cidadãos maiores de 17 anos.
 
-3 - A Direcção-Geral da Administração da Justiça, do Ministério da Justiça, envia à DGAI informação dos cidadãos que sejam privados dos seus direitos políticos por decisão judicial transitada em julgado, bem como dos cidadãos que, encontrando-se nessa situação, completem 17 anos.
+3 - A Direção-Geral da Administração da Justiça envia à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna informação dos cidadãos que sejam privados dos seus direitos políticos por decisão judicial transitada em julgado, bem como dos cidadãos que, encontrando-se nessa situação, completem 17 anos.
 
 4 - O Instituto das Tecnologias de Informação na Justiça, I. P., comunica à DGAI a relação dos cidadãos falecidos, bem como dos cidadãos que completem 17 anos.
 

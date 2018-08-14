@@ -24,4 +24,4 @@ g) Prestar esclarecimentos aos eleitores sobre os aspectos atinentes ao recensea
 
 h) Publicitar a informação sobre a organização do recenseamento.
 
-2 - Às comissões recenseadoras sediadas no estrangeiro compete ainda remeter à DGAI, através do SIGRE, os dados respeitantes ao recenseamento eleitoral dos cidadãos previstos na alínea a) do artigo 4.º para inserção na BDRE.
+2 - Às comissões recenseadoras sediadas no estrangeiro compete ainda remeter à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, através do SIGRE, os dados respeitantes ao recenseamento eleitoral dos cidadãos nacionais detentores de bilhete de identidade que aí promovam as suas inscrições.

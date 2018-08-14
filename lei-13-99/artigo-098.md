@@ -1,3 +1,7 @@
+## Secção II
+
+## Contra-ordenações
+
 # Artigo 98.º
 
 ### Incumprimento negligente dos deveres dos membros da administração eleitoral e das comissões recenseadoras

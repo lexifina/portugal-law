@@ -6,7 +6,7 @@
 
 2 - Os recursos são interpostos:
 
-a) No continente, para o representante do Governo no distrito;
+a) No continente, para a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna;
 
 b) Nas Regiões Autónomas, para o Representante da República;
 

@@ -8,4 +8,4 @@
 
 1 - Qualquer modificação dos elementos de identificação dos eleitores é comunicada à BDRE, através do SIGRE.
 
-2 - No caso previsto no número anterior, o número de inscrição do eleitor não é alterado.
+2 - No caso previsto no número anterior, não será alterada a circunscrição ou posto de recenseamento do eleitor.
