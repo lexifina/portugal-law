@@ -1,0 +1,16 @@
+Aviso n.º 104/2018
+Por ordem superior se torna público que, por notificação de 8 de junho de 2017, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Federação da Rússia, formulado uma declaração relativamente à Convenção sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família, adotada na Haia, a 23 de novembro de 2007.
+(Tradução)
+Declaração
+Federação da Rússia, 19-07-2016.
+Declaração referente à Convenção de 23 de novembro de 2007 sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família.
+Com referência à declaração da Ucrânia de 16 de outubro de 2015 referente à Convenção de 23 de novembro de 2007 sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família, a Federação da Rússia, reafirmando o seu firme compromisso em respeitar e cumprir integralmente os princípios e normas de Direito Internacional geralmente reconhecidos, declara o seguinte:
+A Federação da Rússia rejeita a declaração da Ucrânia acima mencionada e declara que a mesma não pode ser tida em conta, porque se baseia numa apresentação e interpretação de má-fé e incorreta dos factos e da lei.
+A declaração da Ucrânia em relação a «determinados distritos das oblasts (províncias) de Donetsk e de Lugansk da Ucrânia» não pode servir de justificação ao incumprimento das suas obrigações, ao desrespeito pelas considerações humanitárias, à recusa ou incapacidade para tomar as medidas necessárias para encontrar soluções práticas para questões que têm um impacto muito grave e direto na capacidade dos residentes daquelas regiões de exercerem os seus direitos e liberdades fundamentais previstos no Direito Internacional.
+A declaração de independência da República da Crimeia e a sua adesão voluntária à Federação da Rússia resultam de uma expressão direta e livre da vontade do povo da Crimeia, em conformidade com os princípios democráticos, uma forma legítima de exercerem o seu direito à autodeterminação, dado o golpe de Estado violento que ocorreu na Ucrânia, com o apoio de forças estrangeiras, conduzindo ao aumento galopante dos elementos nacionalistas radicais que não hesitam em aterrorizar, intimidar e perseguir os seus oponentes políticos e a população de regiões inteiras da Ucrânia.
+A Federação da Rússia rejeita quaisquer tentativas que ponham em causa um estatuto objetivo da República da Crimeia e da cidade de Sebastopol enquanto entidades constituintes da Federação da Rússia, cujos territórios fazem parte integrante do seu território, sobre o qual ela exerce a sua plena soberania. Assim, a Federação da Rússia declara que, não sendo parte na Convenção, esta não se aplica a essa parte do seu território.
+Nos termos do n.º 2 do artigo 58.º da Convenção, esta foi aprovada pela União Europeia em 9 de abril de 2014.
+Nos termos da alínea a) do n.º 2 do artigo 60.º da Convenção, esta entra em vigor para a União Europeia em 1 de agosto de 2014.
+A República Portuguesa está vinculada pela Convenção como resultado da aprovação por parte da União Europeia, conforme o Aviso n.º 50/2017, publicado no Diário da República, 1.ª série, n.º 93, de 15 de maio de 2017.
+Departamento de Assuntos Jurídicos, 3 de agosto de 2018. - A Diretora, Susana Vaz Patto.
+111562972
