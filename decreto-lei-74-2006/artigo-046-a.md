@@ -8,7 +8,9 @@
 
 3 - A inscrição pode ser feita em regime sujeito a avaliação ou não.
 
-4 - As unidades curriculares em que o estudante se inscreva em regime sujeito a avaliação e em que obtenha aprovação:
+4 - Quando a inscrição seja feita em regime sujeito a avaliação, cada estudante pode inscrever-se a um número máximo de 60 créditos acumulados ao longo do seu percurso académico.
+
+5 - As unidades curriculares em que o estudante se inscreva em regime sujeito a avaliação e em que obtenha aprovação:
 
 a) São objecto de certificação;
 
@@ -16,4 +18,4 @@ b) São obrigatoriamente creditadas, nos termos do artigo 45.º, caso o seu titu
 
 c) São incluídas em suplemento ao diploma que venha a ser emitido.
 
-5 - Pela inscrição nos termos deste artigo são devidos os montantes que forem fixados, de forma proporcionada, pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.
+6 - Pela inscrição nos termos deste artigo são devidos os montantes que forem fixados, de forma proporcionada, pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior.

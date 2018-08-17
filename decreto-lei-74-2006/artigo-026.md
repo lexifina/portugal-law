@@ -16,11 +16,11 @@ e) Concretização da componente a que se refere a alínea b) do n.º 1 do artig
 
 f Regimes de precedências e de avaliação de conhecimentos no curso de mestrado;
 
-g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, alterada pelas Leis n.os 49/2005, de 30 de agosto, e 62/2007, de 10 de setembro;
+g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público e quando aplicável, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, na sua redação atual;
 
 h) Processo de nomeação do orientador ou dos orientadores, condições em que é admitida a co-orientação e regras a observar na orientação;
 
-i) Regras sobre a apresentação e entrega da dissertação, do trabalho de projecto ou do relatório de estágio, e sua apreciação;
+i) Regras sobre a apresentação e entrega da dissertação, do trabalho de projeto ou do relatório de estágio, e sua apreciação, sem prejuízo do disposto no artigo 46.º-D;
 
 j) Prazos máximos para a realização do acto público de defesa da dissertação, do trabalho de projecto ou do relatório de estágio;
 

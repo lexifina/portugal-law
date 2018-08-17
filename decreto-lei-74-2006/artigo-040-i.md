@@ -6,4 +6,4 @@
 
 ### Ciclo de estudos conducente ao diploma de técnico superior profissional
 
-O ciclo de estudos conducente ao diploma de técnico superior profissional tem 120 créditos e uma duração normal de quatro semestres curriculares de trabalho dos estudantes.
+O ciclo de estudos conducente ao diploma de técnico superior profissional tem 120 créditos.

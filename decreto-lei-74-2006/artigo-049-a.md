@@ -1,6 +1,6 @@
 # Artigo 49.º-A
 
-### Plataforma eletrónica de registo
+### Plataforma de registo de graus, diplomas, teses e dissertações
 
 1 - A atribuição de graus e de diplomas de técnico superior profissional é objeto de registo obrigatório numa plataforma eletrónica.
 
@@ -10,6 +10,10 @@
 
 4 - O número a que se refere o número anterior é aposto, obrigatoriamente, em todos os documentos comprovativos da titularidade do diploma.
 
-5 - A criação e gestão da plataforma são asseguradas pela Direção-Geral do Ensino Superior.
+5 - As teses de doutoramento, os trabalhos previstos na alínea a) do n.º 2 do artigo 31.º, as fundamentações escritas a que se refere a alínea b) do n.º 2 do mesmo artigo, as dissertações de mestrado e os trabalhos e relatórios a que se refere a alínea b) do n.º 1 do artigo 20.º ficam igualmente sujeitas a registo obrigatório na plataforma eletrónica.
 
-6 - O início do funcionamento da plataforma eletrónica depende de aviso da Direção-Geral do Ensino Superior publicado na 2.ª série do Diário da República.
+6 - A criação e gestão da plataforma são asseguradas pela Direção-Geral do Ensino Superior em articulação com a Direção-Geral de Estatísticas da Educação e Ciência.
+
+7 - Os dados recolhidos pela plataforma eletrónica são utilizados pela Direção-Geral de Estatísticas da Educação e Ciência para fins de análise e estatística.
+
+8 - Os procedimentos de registo referidos nos n.os 1 e 5 são definidos por portaria do membro do Governo responsável pela área do ensino superior.

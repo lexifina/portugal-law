@@ -10,23 +10,19 @@ a) Disponham de um corpo docente total que assegure a lecionação do ciclo de e
 
 b) Disponham dos recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
 
-c) Desenvolvam atividade reconhecida de formação e de investigação ou de desenvolvimento de natureza profissional de alto nível, por si ou através da sua participação ou colaboração, ou dos seus docentes e investigadores, em instituições científicas externas, com publicações ou produção científica relevantes;
+c) Desenvolvam atividades de formação e de investigação e desenvolvimento experimental de nível e qualidade reconhecidos, com publicações ou produção científica relevantes;
 
-d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor na área de formação fundamental do ciclo, que se encontre em regime de tempo integral.
+d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor na área de formação fundamental do ciclo, que se encontre integrado na carreira docente do ensino universitário ou na carreira de investigação da instituição em causa.
 
 3 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
 
-a) Próprio quando o corpo docente total é constituído por um mínimo de 75% de docentes em regime de tempo integral;
+a) Próprio quando o corpo docente total é constituído por um mínimo de 75 % de docentes integrados na carreira docente ou de investigação respetiva;
 
 b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 60% de docentes com o grau de doutor;
 
-c) Especializado quando:
+c) Especializado quando um mínimo de 50 % do corpo docente total é constituído por docentes especializados na área ou áreas de formação fundamentais do ciclo de estudos, dos quais um mínimo de 80 % têm o grau de doutor.
 
-i) Um mínimo de 50% do corpo docente total é constituído por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos ou por doutores especializados nessa área ou áreas;
-
-ii) Um mínimo de 40% do corpo docente total é constituído por doutores especializados na área ou áreas de formação fundamentais do ciclo de estudos.
-
-4 - Os docentes com o grau de doutor especializados na área ou áreas de formação fundamentais do ciclo de estudos podem, igualmente, ser contabilizados para os efeitos da alínea b) do número anterior.
+4 - (Revogado).
 
 5 - O grau de mestre numa determinada especialidade só pode ser conferido pelos estabelecimentos de ensino superior politécnicos que, na área ou áreas de formação fundamentais do ciclo de estudos, cumulativamente:
 
@@ -34,23 +30,19 @@ a) Disponham de um corpo docente total que assegure a lecionação no ciclo de e
 
 b) Disponham dos recursos humanos e materiais indispensáveis à garantia do nível e da qualidade da formação ministrada;
 
-c) Desenvolvam atividade reconhecida de formação e de investigação ou de desenvolvimento de natureza profissional de alto nível, por si ou através da sua participação ou colaboração, ou dos seus docentes e investigadores, em instituições científicas externas, com publicações ou produção científica relevantes;
+c) Desenvolvam atividades de formação e de investigação baseada na prática e orientadas para o desenvolvimento profissional, de nível e qualidade reconhecidos;
 
-d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor ou especialista de reconhecida experiência e competência profissional na área de formação fundamental do ciclo, que se encontre em regime de tempo integral.
+d) Disponham de um coordenador do ciclo de estudos titular do grau de doutor ou especialista de reconhecida experiência e competência profissional na área de formação fundamental do ciclo, que se encontre integrado na carreira docente de ensino politécnico da instituição em causa.
 
 6 - Para os efeitos da alínea a) do número anterior, considera-se que o corpo docente é:
 
-a) Próprio quando o corpo docente total é constituído por um mínimo de 75% de docentes em regime de tempo integral;
+a) Próprio quando o corpo docente total é constituído por um mínimo de 75 % de docentes integrados na carreira docente respetiva;
 
-b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 40% de docentes com o grau de doutor;
+b) Academicamente qualificado quando o corpo docente total é constituído por um mínimo de 60 % de docentes com o grau de doutor;
 
-c) Especializado quando:
+c) Especializado quando um mínimo de 50 % do corpo docente total é constituído por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos ou por doutores especializados nessa área ou áreas.
 
-i) Um mínimo de 50% do corpo docente total é constituído por especialistas de reconhecida experiência e competência profissional na área ou áreas de formação fundamentais do ciclo de estudos ou por doutores especializados nessa área ou áreas;
-
-ii) Um mínimo de 20% do corpo docente total é constituído por doutores especializados na área ou áreas de formação fundamentais do ciclo de estudos.
-
-7 - Os docentes com o grau de doutor especializados na área ou áreas de formação fundamentais do ciclo de estudos podem, igualmente, ser contabilizados para os efeitos da alínea b) do número anterior.
+7 - (Revogado).
 
 8 - Quando exista mais de uma área de formação fundamental num ciclo de estudos, os docentes especializados a que se referem a alínea c) do n.º 3 e a alínea c) do n.º 6 devem ter uma distribuição por áreas adequada ao peso de cada uma.
 

@@ -16,7 +16,7 @@ e) Regime de avaliação de conhecimentos;
 
 f) Regime de precedências;
 
-g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, alterada pelas Leis n.os 49/2005, de 30 de agosto, e 62/2007, de 10 de setembro;
+g) Regime de prescrição do direito à inscrição, tendo em consideração, no ensino público, o disposto sobre esta matéria na Lei n.º 37/2003, de 22 de agosto, na sua redação atual.
 
 h) Coeficientes de ponderação e procedimentos para o cálculo da classificação final;
 

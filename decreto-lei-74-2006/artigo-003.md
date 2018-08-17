@@ -22,13 +22,7 @@ e) «Condições de acesso» as condições gerais que devem ser satisfeitas par
 
 f) 'Condições de ingresso' as condições específicas que devem ser satisfeitas para requerer a admissão a um ciclo de estudos concreto numa determinada instituição de ensino superior;
 
-g) «Especialista de reconhecida experiência e competência profissional», aquele que exerce ou tenha exercido profissão na área em que leciona ou se propõe lecionar e que satisfaça uma das seguintes condições:
-
-i) Ser detentor do título de especialista conferido nos termos do disposto no Decreto-Lei n.º 206/2009, de 31 de agosto;
-
-ii) Ser detentor de um grau académico e possuir, no mínimo, 10 anos de experiência profissional, com exercício efetivo durante, pelo menos, cinco anos nos últimos 10, e um currículo profissional de qualidade e relevância comprovadas, devidamente confirmado e aceite pelo órgão científico ou técnico-científico do estabelecimento de ensino superior;
-
-iii) Ser considerado como tal pela Agência de Avaliação e Acreditação do Ensino Superior no âmbito do processo de acreditação de ciclos de estudos, mesmo não cumprindo todos os requisitos definidos na subalínea anterior;
+g) 'Especialista de reconhecida experiência e competência profissional', aquele que seja detentor do título de especialista conferido nos termos do disposto no Decreto-Lei n.º 206/2009, de 31 de agosto;
 
 h) «Áreas de formação fundamentais do ciclo», aquelas que, de harmonia com a classificação das áreas de educação e formação aprovada pela Portaria n.º 256/2005, de 16 de março, representem, pelo menos, 25% do total dos créditos;
 
@@ -36,12 +30,24 @@ i) «Número de docentes equivalentes em tempo inteiro», o número de docentes 
 
 j) «Corpo docente total», o conjunto dos docentes que desenvolva a atividade docente, a qualquer título, no ciclo de estudos, em equivalente em tempo inteiro;
 
-k) «Corpo docente próprio», o conjunto dos docentes que, independentemente do seu regime contratual, se encontra a lecionar em regime de tempo integral no ciclo de estudos;
+k) 'Corpo docente de carreira':
 
-l) «Regime de tempo integral», o regime de exercício da docência em que se encontram os que fazem do ensino e investigação a sua atividade profissional exclusiva ou predominante, não podendo ser considerados como tal em mais de um estabelecimento de ensino superior;
+i) Nas instituições de ensino superior públicas, o conjunto de professores catedráticos, associados e auxiliares, no caso do ensino universitário, e o conjunto de professores coordenadores principais, coordenadores e adjuntos, no caso do ensino superior politécnico, contratados por tempo indeterminado ou sem termo, ainda que se encontrem no período experimental;
 
-m) 'Horas de contacto' o tempo em horas utilizado em sessões presenciais de ensino de natureza coletiva, designadamente em salas de aula, laboratórios ou trabalhos de campo, e em sessões presenciais de orientação pessoal de tipo tutorial;
+ii) Nos estabelecimentos de ensino superior privados, o conjunto de docentes que integre as categorias de carreira estabelecidas pelo regime jurídico previsto no artigo 53.º da Lei n.º 62/2007, de 10 de setembro;
 
-n) 'Perfil profissional' a descrição do conjunto de atividades e saberes requeridos para o exercício de uma determinada atividade profissional;
+l) 'Investigadores de carreira':
 
-o) 'Referencial de competências' o conjunto de competências exigidas para a obtenção de uma qualificação.
+i) Nas instituições de ensino superior públicas, o conjunto de investigadores coordenadores, principais e auxiliares contratados por tempo indeterminado ou sem termo, ainda que se encontrem no período experimental;
+
+ii) Nos estabelecimentos de ensino superior privados, o conjunto de investigadores que integre as categorias de carreira estabelecidas pelo regime jurídico previsto no artigo 53.º da Lei n.º 62/2007, de 10 de setembro;
+
+m) «Regime de tempo integral», o regime de exercício da docência em que se encontram os que fazem do ensino e investigação a sua atividade profissional exclusiva ou predominante, não podendo ser considerados como tal em mais de um estabelecimento de ensino superior;
+
+n) 'Horas de contacto' o tempo em horas utilizado em sessões presenciais de ensino de natureza coletiva, designadamente em salas de aula, laboratórios ou trabalhos de campo, e em sessões presenciais de orientação pessoal de tipo tutorial;
+
+o) 'Perfil profissional' a descrição do conjunto de atividades e saberes requeridos para o exercício de uma determinada atividade profissional;
+
+p) 'Referencial de competências' o conjunto de competências exigidas para a obtenção de uma qualificação;
+
+q) 'Investigação e Desenvolvimento', abreviadamente 'I&D', o conjunto de atividades de produção e difusão de conhecimento, conforme definido no Manual de Frascati da Organização para a Cooperação e Desenvolvimento Económico, incluindo atividades de investigação derivadas da curiosidade científica e atividades baseadas na prática e orientadas para o aperfeiçoamento profissional.

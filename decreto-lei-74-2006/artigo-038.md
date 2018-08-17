@@ -2,7 +2,7 @@
 
 ### Normas regulamentares do doutoramento
 
-O órgão legal e estatutariamente competente de cada universidade ou instituto universitário aprova as normas relativas às seguintes matérias:
+O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova as normas relativas às seguintes matérias:
 
 a) Regras sobre a admissão no ciclo de estudos, em especial as condições de natureza académica e curricular, as normas de candidatura e os critérios de selecção;
 
@@ -14,7 +14,7 @@ d) Processo de registo do tema do doutoramento;
 
 e) Condições de preparação da tese ou da apresentação dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º;
 
-f) Regras sobre a apresentação e entrega da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e sua apreciação;
+f) Regras sobre a apresentação e entrega da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e sua apreciação, sem prejuízo do disposto no artigo 46.º-D;
 
 g) Regras sobre os prazos máximos para a realização do acto público de defesa da tese ou dos trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º;
 

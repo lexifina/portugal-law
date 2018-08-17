@@ -6,7 +6,7 @@
 
 ### Objecto da associação
 
-1 - Os estabelecimentos de ensino superior podem associar-se com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores, coordenando os recursos humanos e materiais dos estabelecimentos de ensino associados.
+1 - As instituições de ensino superior podem associar-se a outras instituições de ensino superior, nacionais ou estrangeiras, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores.
 
 2 - Os ciclos de estudos referidos no número anterior devem:
 
@@ -16,4 +16,4 @@ b) Ser objeto de registo pela Direção-Geral do Ensino Superior, enquanto ciclo
 
 3 - No caso a que se refere a alínea a) do número anterior, quando a associação envolva instituições de ensino superior estrangeiras, a Agência de Avaliação e Acreditação do Ensino Superior pode integrar no processo de acreditação os resultados de procedimentos de avaliação e de acreditação realizados por instituições estrangeiras ou internacionais que desenvolvam atividade de avaliação dentro dos princípios adotados pelo sistema europeu de garantia da qualidade do ensino superior.
 
-4 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adoção do regime de franquia nos ciclos de estudos conferentes de graus.
+4 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adoção do regime de franquia.

@@ -12,6 +12,6 @@
 
 5 - A alteração dos limites a que se refere a alínea j) do n.º 2 do artigo 40.º-T deve ser fundamentada na demonstração da existência de procura e das condições para a ministração do ensino.
 
-6 - As alterações são publicadas pela instituição de ensino superior na 2.ª série do Diário da República.
+6 - A publicação das alterações é feita nos termos definidos por portaria do membro do Governo responsável pela área do ensino superior.
 
 7 - A publicação das alterações deve mencionar expressamente o número e a data de registo das mesmas na Direção-Geral do Ensino Superior.

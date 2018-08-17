@@ -10,7 +10,7 @@ a) Por carta de curso, para os graus de licenciado e de mestre;
 
 b) Por carta doutoral, para o grau de doutor.
 
-3 - Os documentos a que se refere o número anterior podem ser plurilingues, sendo uma das línguas sempre a portuguesa.
+3 - Os documentos a que se refere o número anterior podem ser plurilingues, sem prejuízo de a referência aos graus e diplomas dever ser formulada em língua portuguesa.
 
 4 - A emissão de qualquer dos documentos a que se refere o n.º 2 é acompanhada da emissão de suplemento ao diploma nos termos do artigo 40.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de Junho.
 

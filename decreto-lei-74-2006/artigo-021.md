@@ -2,6 +2,6 @@
 
 ### Orientação
 
-1 - A elaboração da dissertação ou do trabalho de projecto e a realização do estágio são orientadas por doutor ou por especialista de mérito reconhecido como tal pelo órgão científico estatutariamente competente do estabelecimento de ensino superior, nacional ou estrangeiro.
+1 - A elaboração da dissertação ou do trabalho de projeto e a realização do estágio são orientadas por doutores ou especialistas de reconhecida experiência e competência profissional, nos termos previstos nas normas regulamentares do mestrado.
 
-2 - A orientação pode ser assegurada em regime de co-orientação, quer por orientadores nacionais, quer por nacionais e estrangeiros.
+2 - (Revogado).

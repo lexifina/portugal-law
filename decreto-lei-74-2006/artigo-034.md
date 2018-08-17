@@ -2,15 +2,15 @@
 
 ### Júri do doutoramento
 
-1 - A tese, ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º, são objeto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da universidade ou do instituto universitário.
+1 - A tese ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º são objeto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da instituição de ensino superior.
 
 2 - O júri de doutoramento é constituído:
 
-a) Pelo reitor, que preside, ou por quem ele nomeie para esse fim;
+a) Pelo dirigente máximo da instituição de ensino superior, que preside, ou por quem ele nomeie para esse fim;
 
 b) Por um mínimo de quatro vogais doutorados, podendo um destes ser o orientador;
 
-3 - Sempre que exista mais do que um orientador apenas um pode integrar o júri.
+3 - Nos ciclos de estudos em associação com instituições de ensino superior estrangeiras, sempre que existir mais do que um orientador, podem participar dois orientadores no júri, sendo nessa situação o júri constituído por um mínimo de seis vogais doutorados.
 
 4 - (Revogado).
 

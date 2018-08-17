@@ -6,9 +6,9 @@
 
 a) Os titulares do grau de mestre ou equivalente legal;
 
-b) Os titulares de grau de licenciado, detentores de um currículo escolar ou científico especialmente relevante que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da universidade ou instituto universitário onde pretendem ser admitidos;
+b) Os titulares de grau de licenciado, detentores de um currículo escolar ou científico especialmente relevante que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da instituição de ensino superior onde pretendem ser admitidos;
 
-c) Os detentores de um currículo escolar, científico ou profissional, que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da universidade ou instituto universitário onde pretendem ser admitidos.
+c) Os detentores de um currículo escolar, científico ou profissional que seja reconhecido como atestando capacidade para a realização deste ciclo de estudos pelo órgão científico legal e estatutariamente competente da instituição de ensino superior onde pretendem ser admitidos.
 
 2 - As normas regulamentares a que se refere o artigo 38.º fixam as condições específicas para o ingresso neste ciclo de estudos.
 
