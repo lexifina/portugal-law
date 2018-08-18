@@ -1,11 +1,23 @@
 # Artigo 70.º-D
 
-### Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+### Modo de exercício do direito de voto antecipado por doentes internados e por presos
 
-1 - Os eleitores que se encontrem nas condições previstas nos n.os 2, 4 e 5 do artigo 70.º-A podem exercer o direito de sufrágio entre o 12.º e o 10.º dias anteriores à eleição, junto das representações diplomáticas, consulares ou nas delegações externas dos ministérios e instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos previstos no artigo 70.º-B, sendo a intervenção do presidente da câmara municipal da competência do funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respectiva.
+1 - Os eleitores que se encontrem nas condições previstas no n.º 1 do artigo 70.º-B podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o número do seu documento de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou documento emitido pelo diretor do estabelecimento prisional, conforme os casos.
 
-2 - No caso dos eleitores referidos nas alíneas a) e b) do n.º 4 do artigo 70.º-A, o Ministério dos Negócios Estrangeiros, se reconhecer a impossibilidade da sua deslocação aos locais referidos no número anterior, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
+2 - Até ao décimo sétimo dia anterior ao da eleição, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna envia ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, por correio registado com aviso de receção, a relação nominal dos eleitores e locais abrangidos e correspondente número de boletins de voto, sobrescritos brancos e azuis.
 
-3 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas candidaturas que nomeiem delegados até ao 16.º dia anterior à eleição.
+3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado ou preso notifica, até ao décimo sexto dia anterior ao da eleição, as candidaturas concorrentes à eleição para cumprimento dos fins previstos no n.º 4 do artigo 70.º-B, dando conhecimento de quais os estabelecimentos onde se realiza o voto antecipado.
 
-4 - No caso de realização do segundo sufrágio, as operações referidas nos números anteriores realizam-se entre o 12.º e o 10.º dias anteriores ao dia de eleição, utilizando-se, se necessário, os boletins de voto do primeiro sufrágio.
+4 - A nomeação de delegados das candidaturas deve ser transmitida ao presidente da câmara municipal até ao décimo quarto dia anterior ao da eleição.
+
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos estabelecimentos onde se encontrem eleitores nas condições mencionadas no n.º 1, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 8 a 15 do artigo anterior.
+
+6 - O presidente da câmara pode excecionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município devidamente credenciado.
+
+7 - Os estabelecimentos hospitalares e prisionais onde se encontrem eleitores abrangidos pelo disposto no n.º 1 devem garantir as condições necessárias ao exercício do direito de voto antecipado.
+
+8 - As diligências previstas nos números anteriores são válidas para o segundo sufrágio.
+
+9 - No caso de realização do segundo sufrágio, o disposto no n.º 2 efetua-se até ao sétimo dia anterior ao da eleição.
+
+10 - O disposto no n.º 5 efetua-se entre o sexto e o quinto dias anteriores ao do segundo sufrágio.

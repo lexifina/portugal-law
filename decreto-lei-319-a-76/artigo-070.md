@@ -14,7 +14,7 @@
 
 ### Presencialidade e pessoalidade do voto
 
-1 - O direito de voto é exercido presencialmente, salvo o disposto quanto ao modo de exercício do voto antecipado.
+1 - O direito de voto é exercido presencialmente.
 
 2 - O direito de voto é exercido directamente pelo cidadão eleitor.
 

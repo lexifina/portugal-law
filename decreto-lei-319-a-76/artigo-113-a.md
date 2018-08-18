@@ -2,7 +2,7 @@
 
 ### (Candidatos admitidos ao segundo sufrágio)
 
-1 - O Secretariado Técnico dos Assuntos para o Processo Eleitoral fornece ao presidente do Tribunal Constitucional, no dia seguinte à realização do primeiro sufrágio, os resultados do escrutínio provisório.
+1 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna fornece ao presidente do Tribunal Constitucional, no dia seguinte à realização do primeiro sufrágio, os resultados do escrutínio provisório.
 
 2 - O presidente do Tribunal Constitucional, tendo por base os resultados referidos no número anterior, indica, por edital, até às 18 horas do terceiro dia seguinte ao da votação, os candidatos provisoriamente admitidos ao segundo sufrágio.
 
