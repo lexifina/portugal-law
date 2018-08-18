@@ -9,3 +9,5 @@
 3 - Para os efeitos do número anterior, devem os centro de saúde manter-se abertos no dia da eleição, durante o período de funcionamento das assembleias eleitorais.
 
 4 - Sem prejuízo da decisão da mesa sobre a admissibilidade do voto, qualquer dos respectivos membros ou dos delegados dos partidos políticos ou coligações pode lavrar protesto.
+
+5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 96.º

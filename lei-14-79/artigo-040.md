@@ -8,7 +8,7 @@
 
 1 - A cada freguesia corresponde uma assembleia de voto.
 
-2 - As assembleias de voto das freguesias com um número de eleitores sensivelmente superior a 1000 são divididas em secções de voto, de modo que o número de eleitores de cada uma não ultrapasse sensivelmente esse número.
+2 - As assembleias de voto das freguesias com um número de eleitores sensivelmente superior a 1500 são divididas em secções de voto, de modo a que o número de eleitores de cada uma não ultrapasse sensivelmente esse número.
 
 3 - Até ao 35.º dia anterior ao dia da eleição, o presidente da câmara municipal determina os desdobramentos previstos no número anterior, comunicando-os imediatamente à correspondente junta de freguesia.
 
