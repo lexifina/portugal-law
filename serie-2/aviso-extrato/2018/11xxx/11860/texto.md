@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 11860/2018
+Projeto de Alteração ao Regulamento Municipal de Urbanização e de Edificação (RMUE)
+Sandra Manuela Rodrigues Pinto, Vice-Presidente da Câmara Municipal de Resende, torna público que a Câmara Municipal de Resende, em sua reunião ordinária realizada a 1 de agosto de 2018, deliberou aprovar e dar início ao período de discussão pública do Projeto de Alteração ao Regulamento Municipal de Urbanização e de Edificação (RMUE), pelo período de trinta dias úteis, a contar da data da publicação do presente Aviso, no Diário da República.
+O projeto de alteração ao regulamento encontra-se disponível para consulta na página da internet da Câmara Municipal de Resende (www.cm-resende.pt) e na Divisão de Planeamento e Gestão Urbanística - Setor de Gestão Urbanística, sito no edifício da Câmara Municipal, todos os dias úteis, entre as 10h00 e as 12h00 e entre as 14h00 e as 16h00.
+Durante o período de consulta pública, podem os interessados formular as observações ou sugestões que entendam por convenientes, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal de Resende, podendo ser remetidas, por correio eletrónico, para o endereço geral@cm-resende.pt, por correio convencional ou entregues no balcão de atendimento geral desta Câmara Municipal, durante o período normal de expediente.
+E, para que conste, mandei publicar este aviso na 2.ª série do Diário da República e outros de igual teor, que serão publicados na página da internet da Câmara Municipal de Resende e afixados nos locais de estilo.
+8 de agosto de 2018. - A Vice-Presidente da Câmara, em substituição do Presidente da Câmara, Dr.ª Sandra Pinto.
+311579764
