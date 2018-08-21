@@ -2,4 +2,4 @@
 
 ### Processo contabilístico da operação
 
-Os beneficiários ficam obrigados a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e métodos de custeio.
+2 - Sem prejuízo do estabelecido no número anterior e atentas as obrigações previstas na alínea b) do artigo 68.º, apenas as entidades coordenadoras estão obrigadas à organização de um processo contabilístico, o qual deve conter os documentos comprovativos das transferências do financiamento atribuído às entidades mediadoras.

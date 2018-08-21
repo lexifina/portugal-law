@@ -1,12 +1,12 @@
 # Artigo 68.º
 
-### Obrigações das entidades coordenadoras
+### Constituem obrigações das entidades coordenadoras:
 
 Constituem obrigações das entidades coordenadoras:
 
 a) Coordenar a parceria e proceder à articulação, quer com a autoridade de gestão, quer entre as várias organizações parceiras da operação, em todos os domínios previstos no presente regulamento, designadamente nos pedidos de reembolso e saldo final;
 
-b) Receber diretamente o financiamento atribuído pela autoridade de gestão, geri-lo e transferi-lo para as organizações parceiras, quando existam;
+b) Receber diretamente o financiamento atribuído pela autoridade de gestão, calculado em função do disposto no n.º 4 do artigo 18.º, geri-lo e transferi-lo para as organizações parceiras, quando existam, nos termos do cálculo efetuado pela autoridade de gestão;
 
 c) Abranger, no âmbito da candidatura que integram em parceria, um número de destinatários finais igual ou superior a 150;
 

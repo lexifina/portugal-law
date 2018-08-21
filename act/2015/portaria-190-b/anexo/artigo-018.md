@@ -8,4 +8,6 @@
 
 3 - Quando os serviços da administração central, regional e autárquica, os institutos públicos que revistam a natureza de serviços personalizados, os fundos públicos, as associações públicas exclusivamente constituídas por pessoas de direito público, bem como as empresas públicas e outras entidades integradas no sector público empresarial, sejam entidades beneficiárias do FEAC, suportam a contribuição pública nacional.
 
-4 - Compete à Agência, I. P., gerir as dotações do FEAC e o montante da contrapartida pública nacional.
+4 - Sem prejuízo do disposto no número anterior, nas candidaturas em parceria o sistema de financiamento é determinado em função da natureza jurídica de cada uma das entidades parceiras, podendo coexistir, na mesma parceria, diferentes sistemas de financiamento.
+
+5 - Compete à Agência, I. P., gerir as dotações do FEAC e o montante da contrapartida pública nacional.
