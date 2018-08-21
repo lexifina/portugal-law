@@ -16,6 +16,8 @@ e) Os serviços de saúde e o Serviço de Emergência Médica Regional;
 
 f) O Corpo da Polícia Florestal.
 
+g) Os sapadores florestais.
+
 2 - A Cruz Vermelha Portuguesa - Delegação da Madeira exerce, em cooperação com os agentes mencionados no n.º 1 e de harmonia com o seu estatuto próprio, funções de protecção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social.
 
 3 - O Corpo Operacional do Sanas Madeira exerce, em cooperação com os agentes mencionados no n.º 1 e de harmonia com o seu estatuto próprio, funções de protecção civil no domínio do socorro a náufragos e buscas subaquáticas.
