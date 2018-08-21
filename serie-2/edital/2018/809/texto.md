@@ -1,0 +1,6 @@
+Edital n.º 809/2018
+Joaquim César Ramos Rodrigues, Presidente da União de Freguesias de Grijó e Sermonde, torna público que, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, foi deliberado em reunião do executivo realizada no dia 06 de agosto de 2018 submeter a consulta pública, pelo prazo de trinta dias a contar da data de publicação do presente edital no Diário da República, o Projeto de Regulamento da Universidade dos Avós para vigorar nesta União de Freguesias.
+O referido Projeto encontra-se à disposição dos interessados para consulta nos Serviços Administrativos da União de Freguesias de Grijó e de Sermonde, no horário de expediente, bem como, no sitio institucional da União (www.jf-grijosermonde.pt) podendo, durante esse prazo, apresentar por escrito, observações ou sugestões, dirigidas ao cuidado do Sr. Presidente da União de Freguesias, para a morada, Alameda do Mosteiro, s/n - Grijó ou através do correio eletrónico, secretaria-grijo@jf-grijosermonde.pt.
+Para constar se publica o presente edital e outros de igual teor, que vão ser afixados nos lugares de estilo.
+7 de agosto de 2018. - O Presidente da União de Freguesias, Joaquim César Ramos Rodrigues.
+311572319
