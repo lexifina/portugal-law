@@ -1,0 +1,20 @@
+Resolução da Assembleia da República n.º 279/2018
+Recomenda ao Governo medidas urgentes para acabar com o problema ambiental e de saúde pública relacionado com a laboração do bagaço de azeitona, em Fortes, Ferreira do Alentejo, e nos concelhos limítrofes.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+1 - Determine a realização de estudos epidemiológicos e ambientais para averiguar o impacto da produção de bagaço de azeite na qualidade do ar de Fortes, Ferreira do Alentejo, e na área geográfica circundante e concelhos limítrofes, assim como na saúde pública das respetivas populações, nomeadamente para avaliar se sofrem de patologias que possam estar relacionadas com a qualidade do ar.
+2 - Envolva nos referidos estudos o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., as universidades e os politécnicos da região como parceiros privilegiados tanto no diagnóstico como para resolução destes problemas e sua posterior monitorização.
+3 - Determine a realização contínua da monitorização e avaliação da atividade das unidades industriais de extração de óleo de bagaço de azeitona nos concelhos de Ferreira do Alentejo e Alvito, garantindo a instalação de sistemas que permitam uma permanente avaliação da qualidade do ar à saída das chaminés, assegurando análises semanais, com especial incidência na época de campanha da azeitona em que a laboração aumenta.
+4 - Tome medidas urgentes que assegurem a monitorização, nomeadamente:
+a) Das emissões de poluentes gasosos a partir das fontes fixas (chaminés) associadas, de acordo com o estabelecido no Decreto-Lei n.º 78/2004, de 3 de abril, procedendo à comparação dos valores obtidos com os fixados na Portaria n.º 675/2009, de 23 de junho;
+b) Da qualidade do ar, através da medição dos níveis de poluentes no ar ambiente, em vários locais, nas proximidades do aglomerado urbano de Fortes, seguindo os procedimentos dos Decretos-Leis n.os 102/2010, de 23 de setembro, e 47/2017, de 10 de maio;
+c) Da qualidade da água das ribeiras localizadas em Fortes e nas áreas limítrofes, assegurando a recolha de amostras a montante e a jusante das unidades industriais, de acordo com os critérios de acreditação;
+d) Da existência ou não de contaminação por poluentes com origem nas unidades industriais, através da recolha de amostras do solo, bem como de espécies vegetais.
+5 - Identifique e elenque as medidas urgentes para mitigação dos efeitos poluidores e as soluções técnicas que devem ser implementadas pelas unidades industriais para acabar com a atividade poluente do ar, solos e água, realizando análises no âmbito da proteção sanitária e, subsequentemente, estabelecendo quais as prioridades, programas e planos a desenvolver para permitir responder às necessidades.
+6 - Conclua e execute eventuais processos contraordenacionais decorrentes dos autos de notícia levantados pelas autoridades competentes no âmbito da fiscalização já realizada, informando a Assembleia da República das respetivas decisões finais.
+7 - Aprecie as licenças de exploração atribuídas às instalações industriais de laboração de bagaço de azeitona nos concelhos de Ferreira do Alentejo e Alvito, verificando se estão de acordo com as condições de laboração.
+8 - Sujeite a renovação ou a emissão de novas licenças para esta atividade ao regime de Avaliação de Impacto Ambiental (AIA), promovendo um processo de discussão pública e envolvendo as populações e as autarquias.
+9 - Estabeleça um período transitório para a reconversão ou adaptação das unidades industriais em Fortes e concretize as medidas de minimização dos impactes em função dos resultados das AIA.
+10 - Reflita nas medidas referidas nos números anteriores os resultados dos estudos e análises realizados, estabelecendo prazos e compromissos que envolvam todos os interessados, designadamente as populações, as unidades industriais, as autarquias e a administração central.
+Aprovada em 18 de julho de 2018.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+111571744
