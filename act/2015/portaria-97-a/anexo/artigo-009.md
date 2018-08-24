@@ -18,6 +18,10 @@ c) Quando apresentadas pelo Instituto do Emprego e da Formação Profissional, I
 
 d) Apoios à contratação que podem ter a duração máxima de 48 meses nos casos previstos nas alíneas a) e b) do artigo 28.º
 
+e) Rede local de intervenção social, para apoio das ações previstas no n.º 1 do artigo 201.º que podem ter a duração máxima de 48 meses;
+
+f) Contratos Locais de Desenvolvimento Social, para apoio a ações previstas no artigo 211.º, que podem ter a duração máxima de 48 meses.
+
 5 - No momento da submissão da candidatura, o beneficiário submete eletronicamente o termo de responsabilidade, devidamente autenticado nos termos previstos no artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro.
 
 6 - A apresentação de candidaturas pode ser feita por convite, em casos excecionais, devidamente justificados, mediante deliberação da Comissão Interministerial de Coordenação (CIC Portugal 2020) ou da CIC especializada da Inclusão Social e Emprego por delegação daquela.

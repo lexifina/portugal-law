@@ -4,7 +4,7 @@
 
 1 - O presente capítulo aplica-se às seguintes tipologias de operações:
 
-a) Contratos Locais de Desenvolvimento Social (CLDS), prevista nas PI 9i dos eixos prioritários 3 do PO ISE e 6 do POR Lisboa e do POR Algarve;
+a) CLDS, prevista nas PI 9i dos eixos prioritários 3 do PO ISE e 6 do POR Lisboa e do POR Algarve;
 
 b) Programa Escolhas, prevista nas PI 9i dos eixos prioritários 3 do PO ISE e 6 do POR Lisboa e do POR Algarve;
 
