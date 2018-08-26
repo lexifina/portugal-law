@@ -12,4 +12,6 @@ c) O incumprimento pelas EIG do disposto nos artigos 14.º, 16.º, no n.º 2 do 
 
 d) O incumprimento do disposto no n.º 2 e 5 do artigo 25.º
 
+e) O incumprimento pelas entidades distribuidoras ou EI do previsto no n.º 5 do artigo 21.º e no n.º 5 do artigo 23.º
+
 2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas, previstos no número anterior, reduzidos para metade, e com a coima aplicável à contraordenação consumada, especialmente atenuada, respetivamente.

@@ -8,7 +8,7 @@
 
 1 - A instalação de gás e a instalação dos aparelhos a gás devem ser executadas por EI e obedecer aos seguintes requisitos:
 
-a) Estar conforme com o regulamento técnico relativo ao projeto, construção, exploração e manutenção das instalações de gás combustível canalizado em edifícios,
+a) Estar conforme com o projeto aprovado e com o regulamento técnico relativo ao projeto, construção, exploração e manutenção das instalações de gás combustível canalizado em edifícios;
 
 b) Os aparelhos e os componentes da instalação utilizados devem ostentar a marcação «CE», sendo que os aparelhos devem também estar acompanhados pela respetiva declaração de conformidade emitida pelo fabricante;
 
