@@ -1,0 +1,20 @@
+Aviso n.º 12262/2018
+Alteração ao Plano de Pormenor para a Zona Urbana da Quinta de Santo António, na união das freguesias de S. Mamede de Infesta e Senhora da Hora
+Luísa Maria Neves Salgueiro, Presidente da Câmara Municipal de Matosinhos, torna público, que a Câmara Municipal na sua reunião ordinária pública de 19 de junho de 2018, deliberou abrir um procedimento de alteração ao Plano de Pormenor para a Zona Urbana da Quinta de Santo António, na união das freguesias de S. Mamede de Infesta e Senhora da Hora, pelo prazo de 18 (dezoito) meses, ao abrigo do artigo 76.º do Decreto-Lei n.º 80/2015 de 14 de maio.
+Nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015 de 14 de maio, decorrerá um período de 30 dias úteis, a contar da data desta publicação no Diário da República, um processo de audição ao público durante o qual os interessados poderão formular sugestões e apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração da alteração ao Plano de Pormenor para a Zona Urbana da Quinta de Santo António.
+O Plano encontrar-se-á disponível no Edifício dos Serviços Técnicos dos Paços do Concelho e Internet.
+As sugestões e informações, poderão ser apresentadas no FrontOffice da Loja do Munícipe, por e-mail: mail@cm-matosinhos.pt, ou na página da internet.
+3 de julho de 2018. - A Presidente da Câmara, Dr.ª Luísa Maria Neves Salgueiro.
+Deliberação
+Ponto doze da Ordem de Trabalhos da reunião ordinária da Câmara Municipal de Matosinhos, realizada no dia dezanove de junho de dois mil e dezoito.
+Deliberação: A Câmara Municipal deliberou, por maioria, com uma abstenção e um voto contra:
+1 - Abrir procedimento de alteração ao Plano de Pormenor para Zona Urbana da Quinta de S. António, em S. Mamede de Infesta publicado no Diário da República, 2.ª série, n.º 136, em 16 de julho de 2009, pelo prazo de 18 meses com os seguintes objetivos ou Termos de Referência:
+a) Adequar o plano à dinâmica de crescimento do contexto urbano - proximidade ao Polo universitário da Asprela - em constante desenvolvimento, e a necessidade de residências/habitação/serviços;
+b) A criação de espaço verde e/ou de equipamento de utilização coletiva, com programa versátil e de dimensões significativas que permitam integrar diversas valências;
+c) A criação de espaços públicos de atravessamento e circulação entre as ruas da Igreja Velha, Gaspar Lino e Laranjeiras, de cariz verde, que permitam consagrar o equilíbrio urbano previsto no plano original relativamente às parcelas privadas e de equipamento a criar, assim como a acessibilidade e mobilidade nesta zona urbana; e também um espaço de praça a poente, confinante com o percurso atrás descrito, que possa acolher edificado até 10 % de uma área de domínio privado municipal para estabelecimento de comércio, serviços e equipamento locais de promoção da vivência destes espaços públicos;
+d) A proposta urbanística a implementar deverá cumprir os indicadores urbanísticos do Plano atualmente em vigor, nomeadamente as áreas brutas máximas de construção, áreas verdes e de equipamento de utilização coletiva, circulação pedonal e lugares de estacionamento públicos; assim como do parcelamento disposto em planta anexa de orientação para alteração ao Plano;
+e) Manter o edificado da atual parcela L01 como conjunto arquitetónico e paisagístico a salvaguardar;
+f) Moradias a Nascente (parcelas L31 e L32): tendo em linha de conta a supressão das moradias previstas na versão do Plano em vigor, com a introdução da parcela de equipamento/áreas verdes em contiguidade com as mesmas, perde-se a lógica do conjunto a edificar; entende-se que esta área do plano deve ser revista e excluída do seu limite, e nela se passe a aplicar o uso residencial previsto em PDM.
+2 - Mandar abrir um período de participação preventiva, pelo prazo de 30 dias.
+Câmara Municipal de Matosinhos, aos dezanove dias do mês de junho de dois mil e dezoito. - A Presidente da Câmara Municipal, Dr.ª Luísa Maria Neves Salgueiro.
+611578938
