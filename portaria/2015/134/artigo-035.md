@@ -12,14 +12,20 @@
 
 5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 10 % da despesa total elegível da operação.
 
-6 - Podem ser apresentados até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+6 - Nas intervenções de estabilização de emergência, em alternativa ao adiantamento previsto no número anterior, podem ser apresentados pedidos de pagamento a título de adiantamento contra fatura, relativos a despesas elegíveis faturadas e não pagas, devendo a opção por esta modalidade ser expressamente manifestada pelo beneficiário junto do IFAP, I. P.
 
-7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.
+7 - Os adiantamentos contra fatura são obrigatoriamente regularizados no prazo de 45 dias úteis após o seu recebimento, mediante a apresentação do comprovativo do pagamento integral da despesa.
 
-8 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.
+8 - Não se verificando a sua regularização, a reposição do valor adiantado deve ser efetuada no prazo de 30 dias úteis, vencendo-se juros de mora desde a data do pagamento.
 
-9 - Em cada pedido de pagamento é obrigatório a apresentação da cartografia que evidencie as áreas intervencionadas que estão a ser objeto de pedido de reembolso.
+9 - Podem ser apresentados até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
-10 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.
+10 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.
 
-11 - O disposto nos n.os 2 e 3 não é aplicável aos projetos ou parte de projetos com custos definidos através de custos unitários.
+11 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+12 - Em cada pedido de pagamento é obrigatório a apresentação da cartografia que evidencie as áreas intervencionadas que estão a ser objeto de pedido de reembolso.
+
+13 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.
+
+14 - O disposto nos n.os 2, 3, 6, 7 e 8 não é aplicável aos projetos ou parte de projetos com custos definidos através de custos unitários.
