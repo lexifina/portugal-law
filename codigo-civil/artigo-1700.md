@@ -8,4 +8,8 @@ a) A instituição de herdeiro ou a nomeação de legatário em favor de qualque
 
 b) A instituição de herdeiro ou a nomeação de legatário em favor de terceiro, feita por qualquer dos esposados.
 
+c) A renúncia recíproca à condição de herdeiro legitimário do outro cônjuge.
+
 2. São também admitidas na convenção antenupcial cláusulas de reversão ou fideicomissárias relativas às liberalidades aí efectuadas, sem prejuízo das limitações a que genèricamente estão sujeitas essas cláusulas.
+
+3 - A estipulação referida na alínea c) do n.º 1 apenas é admitida caso o regime de bens, convencional ou imperativo, seja o da separação.
