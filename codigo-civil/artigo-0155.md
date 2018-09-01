@@ -1,5 +1,5 @@
 # Artigo 155.º
 
-### (Levantamento da inabilitação)
+### Revisão periódica
 
-Quando a inabilitação tiver por causa a prodigalidade ou o abuso de bebidas alcoólicas ou de estupefacientes, o seu levantamento não será deferido antes que decorram cinco anos sobre o trânsito em julgado da sentença que a decretou ou da decisão que haja desatendido um pedido anterior.
+O tribunal revê as medidas de acompanhamento em vigor de acordo com a periodicidade que constar da sentença e, no mínimo, de cinco em cinco anos.

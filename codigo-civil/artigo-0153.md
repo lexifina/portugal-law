@@ -1,7 +1,7 @@
 # Artigo 153.º
 
-### (Suprimento da inabilidade)
+### Publicidade
 
-1. Os inabilitados são assistidos por um curador, a cuja autorização estão sujeitos os actos de disposição de bens entre vivos e todos os que, em atenção às circunstâncias de cada caso, forem especificados na sentença.
+1 - A publicidade a dar ao início, ao decurso e à decisão final do processo de acompanhamento é limitada ao estritamente necessário para defender os interesses do beneficiário ou de terceiros, sendo decidida, em cada caso, pelo tribunal.
 
-2. A autorização do curador pode ser judicialmente suprida.
+2 - Às decisões judiciais de acompanhamento é aplicável o disposto nos artigos 1920.º-B e 1920.º-C.

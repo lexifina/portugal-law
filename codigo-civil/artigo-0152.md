@@ -1,5 +1,5 @@
 # Artigo 152.º
 
-### (Pessoas sujeitas a inabilitação)
+### Remoção e exoneração do acompanhante
 
-Podem ser inabilitados os indivíduos cuja anomalia psíquica, surdez-mudez ou cegueira, embora de carácter permanente, não seja de tal modo grave que justifique a sua interdição, assim como aqueles que, pela sua habitual prodigalidade ou pelo abuso de bebidas alcoólicas ou de estupefacientes, se mostrem incapazes de reger convenientemente o seu património.
+Sem prejuízo do disposto no artigo 144.º, a remoção e a exoneração do acompanhante seguem o disposto nos artigos 1948.º a 1950.º
