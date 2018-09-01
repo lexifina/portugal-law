@@ -1,0 +1,5 @@
+# Anexo
+
+### (a que se refere o artigo 3.º)
+
+ESTATUTOS DA AUTORIDADE DE SUPERVISÃO DE SEGUROS E FUNDOS DE PENSÕES
