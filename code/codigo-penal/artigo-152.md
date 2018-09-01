@@ -12,7 +12,15 @@ c) A progenitor de descendente comum em 1.º grau; ou
 
 d) A pessoa particularmente indefesa, nomeadamente em razão da idade, deficiência, doença, gravidez ou dependência económica, que com ele coabite;
 
-2 - No caso previsto no número anterior, se o agente praticar o facto contra menor, na presença de menor, no domicílio comum ou no domicílio da vítima é punido com pena de prisão de dois a cinco anos.
+é punido com pena de prisão de um a cinco anos, se pena mais grave lhe não couber por força de outra disposição legal.
+
+2 - No caso previsto no número anterior, se o agente:
+
+a) Praticar o facto contra menor, na presença de menor, no domicílio comum ou no domicílio da vítima; ou
+
+b) Difundir através da Internet ou de outros meios de difusão pública generalizada, dados pessoais, designadamente imagem ou som, relativos à intimidade da vida privada de uma das vítimas sem o seu consentimento;
+
+é punido com pena de prisão de dois a cinco anos.
 
 3 - Se dos factos previstos no n.º 1 resultar:
 
