@@ -2,9 +2,9 @@
 
 ### Obrigatoriedade do registo e duração
 
-1 - É obrigatório o registo na BEP-RAM da informação a que se referem as alíneas b), c), d) e) e f) do n.º 1 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo de outras publicitações legalmente exigidas.
+1 - É obrigatório o registo na BEP-RAM da informação a que se referem as alíneas b), c), e) e f) do n.º 1 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo de outras publicitações legalmente exigidas.
 
-2 - É igualmente obrigatório o registo na BEP-RAM da informação a que se refere a alínea a) do n.º 1 do artigo 5.º, quando a mesma seja objeto de divulgação em qualquer órgão de comunicação social.
+2 - É igualmente obrigatório o registo na BEP-RAM da informação referente a ofertas de emprego público mediante mobilidade a que se refere a alínea a) do n.º 1 do artigo 5.º, sempre que se aplique procedimento de seleção.
 
 3 - São anuláveis os recrutamentos feitos com preterição do disposto nos números anteriores, sem prejuízo da responsabilidade civil e disciplinar que ao caso couber.
 
@@ -16,20 +16,20 @@ b) Da publicação em órgãos de comunicação social;
 
 c) Em que se verifiquem as restantes situações previstas no n.º 1 do artigo 5.º.
 
-5 - A informação relativa ao pessoal referido na alínea d) do n.º 1 do artigo 5.º deve ser disponibilizada na BEP-RAM no prazo de oito dias úteis a contar da publicação no Jornal Oficial da respetiva colocação.
+5 - (Revogado.)
 
-6 - A atualização da informação a que se refere a alínea d) do n.º 2 do artigo 5.º deve ser disponibilizada na BEP-RAM no prazo de cinco dias úteis após o conhecimento, pelas entidades mencionadas naquele dispositivo legal, dos factos determinantes da atualização.
+6 - (Revogado.)
 
-7 - As listas previstas na alínea d) do n.º 1 do artigo 5.º devem ser disponibilizadas na BEP-RAM até 5 dias úteis após o início do processo de extinção do serviço.
+7 - As listas previstas na alínea e) do n.º 1 do artigo 5.º devem ser disponibilizadas na BEP-RAM até cinco dias úteis após o início do processo de extinção do serviço.
 
 8 - A informação é disponibilizada na BEP-RAM durante:
 
-a) O prazo de entrega de candidaturas prefixado, no caso dos procedimentos previstos na alínea b) do n.º 1 do artigo 5.º;
+a) O prazo de entrega de candidaturas prefixado, no caso dos procedimentos previstos nas alíneas a) a c) do n.º 1 do artigo 5.º;
 
-b) O período em que se mantiverem as situações de disponibilidade a que se referem as alíneas c), d) e e) do n.º 1 do artigo 5.º;
+b) O período em que se mantiverem as situações de disponibilidade a que se referem as alíneas e) e f) do n.º 1 do artigo 5.º;
 
-c) 90 dias seguidos, sem prejuízo da possibilidade de renovação, nos casos referidos nas alíneas a) e f) do n.º 1 do artigo 5.º.
+c) 90 dias seguidos, sem prejuízo da possibilidade de renovação, nos casos referidos nas alíneas g) e h) do n.º 1 do artigo 5.º
 
 9 - O disposto no número anterior não impede a eliminação da informação em prazo inferior, quando esta tenha perdido utilidade ou por iniciativa do interessado.
 
-10 - Os serviços utilizadores da BEP-RAM são obrigados a comunicar à DRAPL, no prazo máximo de 10 dias úteis, todos os recrutamentos efetuados e correspondentes preenchimentos de postos de trabalho, a que se aplique o regime de registo obrigatório, identificando ainda, de entre aqueles, os que foram concretizados com apoio da BEP-RAM.
+10 - (Revogado.)

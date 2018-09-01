@@ -2,7 +2,7 @@
 
 ### Responsabilidades de gestão e de suporte
 
-1 - À DRAPL, enquanto entidade gestora da BEP-RAM, compete especialmente:
+1 - Ao serviço referido no n.º 1 do artigo 4.º, enquanto entidade gestora da BEP-RAM, compete especialmente:
 
 a) Disponibilizar os recursos técnicos necessários ao acompanhamento material e de regime indispensáveis à estruturação e funcionamento da BEP-RAM, de acordo com os requisitos de atualização, segurança e acessibilidade;
 
@@ -20,7 +20,7 @@ g) Disponibilizar, em articulação com o serviço competente na parte de suport
 
 h) Proceder ao acompanhamento do funcionamento e dos resultados de atividade da BEP-RAM, procedendo designadamente, ao tratamento estatístico da informação registada, incluindo, nomeadamente, o número de ofertas de emprego e de postos de trabalho preenchidos e não preenchidos, desagregados por sexo.
 
-2 - À DRI, enquanto entidade que assegura a aplicação informática necessária ao suporte da BEP-RAM, bem como a sua disponibilização na Internet, compete especialmente:
+2 - Ao serviço referido no n.º 2 do artigo 4.º, enquanto entidade que assegura a aplicação informática necessária ao suporte da BEP-RAM, bem como a sua disponibilização na Internet, compete especialmente:
 
 a) Disponibilizar os recursos técnicos indispensáveis ao funcionamento do sistema informático que suporta a BEP-RAM, satisfazendo os requisitos de atualização, segurança e acessibilidade;
 
@@ -28,6 +28,6 @@ b) Definir e assegurar os procedimentos adequados à salvaguarda da confidencial
 
 c) Gerir a emissão e controlo dos códigos de acesso para registo de informação;
 
-d) Disponibilizar, em articulação com a DRAPL, um serviço de apoio aos utilizadores.
+d) Disponibilizar, em articulação com o serviço referido no n.º 1 do artigo 4.º, a prestação de apoio aos utilizadores.
 
 3 - A informação a que se refere a alínea h) do n.º 1 é de acesso não condicionado e é divulgada no site da BEP-RAM.

@@ -2,7 +2,7 @@
 
 ### Registo e acesso à bolsa
 
-1 - O registo da informação na BEP-RAM, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pela DRI.
+1 - O registo da informação na BEP-RAM, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pelo serviço referido no n.º 2 do artigo 4.º
 
 2 - A BEP-RAM é de consulta direta, possibilitando o acesso à estrutura de informação referida no artigo 7.º.
 

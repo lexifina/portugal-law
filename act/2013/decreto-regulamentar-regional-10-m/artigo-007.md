@@ -10,4 +10,4 @@
 
 4 - A divulgação da informação a que se referem as alíneas e) e f) do n.º 1 do artigo 5.º menciona as habilitações literárias e profissionais, atividade desempenhada, a carreira e a categoria e o concelho de residência.
 
-5 - A divulgação de informação respeitante ao pessoal a que se refere a alínea d) do n.º 1 do artigo 5.º, para além de outros dados previstos em legislação especial aplicável, menciona as habilitações literárias e profissionais, atividade desempenhada, a carreira, a categoria e a remuneração correspondentes, bem como os concelhos da sua residência e da localização do serviço de origem.
+5 - (Revogado.)
