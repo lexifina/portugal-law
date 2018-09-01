@@ -22,4 +22,4 @@ f) As condições das infraestruturas destinadas ao público.
 
 4 - Os comercializadores retalhistas colaboram com as ações e os procedimentos de inspeção de qualidade do combustível objeto de comercialização e do serviço prestado, fornecendo o combustível estritamente necessário à recolha da amostragem, em conformidade com as normas e os procedimentos legais aplicáveis e com as fichas de especificação de produto, sem direito ao reembolso do valor, ficando assegurado o direito de verificar e contestar os resultados.
 
-5 - A ENMC, E.P.E., no âmbito do sistema metrológico nacional, procede à realização de verificações extraordinárias ao equipamento métrico de distribuição de combustíveis.
+5 - (Revogado).
