@@ -24,9 +24,7 @@ e) DIA ou DIncA favorável ou condicionalmente favorável ou comprovativo de se 
 
 f) Parecer favorável sobre a localização do centro eletroprodutor emitido pela comissão de coordenação e desenvolvimento regional territorialmente competente, quando o projeto não esteja sujeito ao regime jurídico de avaliação de impacte ambiental ou de avaliação de incidências ambientais;
 
-g) Alteração ao projeto do centro eletroprodutor para contemplar o sobre-equipamento e respetivas peças desenhadas, em formato A4, compreendendo a planta, numa escala adequada e legível, do local contendo a implantação do centro eletroprodutor e os aerogeradores do sobre-equipamento;
-
-h) Indicação do modelo escolhido para efeito do disposto no n.º 4 do artigo 12.º
+g) Alteração ao projeto do centro eletroprodutor para contemplar o sobre-equipamento e respetivas peças desenhadas, em formato A4, compreendendo a planta, numa escala adequada e legível, do local contendo a implantação do centro eletroprodutor e os aerogeradores do sobre-equipamento.
 
 3 - Para integral cumprimento do disposto nos números anteriores, o interessado deve promover, direta e atempadamente, os procedimentos necessários para a obtenção dos elementos previstos nas alíneas e) e f), sem prejuízo da DGEG prestar a colaboração que lhe seja solicitada nos termos da legislação aplicável.
 
@@ -34,11 +32,9 @@ C - Elementos instrutórios do pedido de autorização para a separação juríd
 
 a) Identificação completa do titular do sobre-equipamento separado e documentação que comprove a relação de domínio total, direta ou indireta, que mantém com o titular do centro eletroprodutor a sobre-equipar;
 
-b) Minuta do contrato referido nos números 3 e 4 do artigo 6.º, do Decreto-Lei n.º 94/2014, de 24 de junho, rubricada pelas partes outorgantes;
+b) Minuta do contrato referido nos n.os 3 e 4 do artigo 6.º do Decreto-Lei n.º 94/2014, de 24 de junho, rubricada pelas partes outorgantes;
 
-c) Declaração que formalize o disposto nas alíneas b) a e) do n.º 4 do artigo 5.º;
-
-d) Qualquer outra informação considerada relevante.
+c) Qualquer outra informação considerada relevante.
 
 D - Elementos instrutórios do pedido de autorização para exploração do sobre-equipamento
 
@@ -50,6 +46,6 @@ c) Declaração de compromisso do titular da licença de produção atestando qu
 
 d) Memória descritiva e plantas atualizadas do centro eletroprodutor, incluindo o sobre-equipamento;
 
-e) Comprovativo da subscrição de seguro ou reforço do seguro de responsabilidade civil nos termos do artigo 29.º do Decreto-Lei n.º 172/2006 de 23 de agosto, na versão republicada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro;
+e) Comprovativo da subscrição de seguro ou reforço do seguro de responsabilidade civil nos termos do artigo 29.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na versão republicada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro;
 
 f) Quando aplicável, cópia do parecer de conformidade com a DIA, nos termos do respetivo regime jurídico, ou comprovativo de se ter produzido ato tácito favorável nos termos daquele regime jurídico.

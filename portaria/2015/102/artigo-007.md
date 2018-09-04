@@ -6,4 +6,4 @@
 
 2 - Aplica-se ao sobre-equipamento, com as necessárias adaptações, o disposto no artigo 3.º
 
-3 - A DGEG pode ainda solicitar a pronúncia de outras entidades, nos termos estabelecidos no Código do Procedimento Administrativo.
+3 - A DGEG solicita a pronúncia, na mesma altura e no mesmo prazo do n.º 1, da Entidade Reguladora dos Serviços Elétricos (ERSE), podendo ainda solicitar o parecer de outras entidades, nos termos estabelecidos no Código do Procedimento Administrativo.
