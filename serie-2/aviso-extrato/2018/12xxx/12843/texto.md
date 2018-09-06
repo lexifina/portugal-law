@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 12843/2018
+Projeto de Regulamento Municipal de Organização e Funcionamento da Polícia Municipal de Lagos
+Paulo Jorge Correia dos Reis, Vereador da Câmara Municipal de Lagos, torna público, nos termos e para os efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo, com a redação aprovada pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 1 de agosto de 2018, submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso, o Projeto de Regulamento Municipal de Organização e Funcionamento da Polícia Municipal de Lagos que se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em https://www.cm-lagos.pt, acedendo aos separadores Balcão Virtual e Participação Pública.
+Os interessados podem endereçar as suas sugestões por escrito ao Município de Lagos para Paços do Concelho Séc. XXI - Praça do Município, 8600-293 Lagos, ou através de correio eletrónico para expediente.geral@cm-lagos.pt, dentro do prazo referido.
+22 de agosto de 2018. - O Vereador, Paulo Jorge Correia dos Reis.
+311602937
