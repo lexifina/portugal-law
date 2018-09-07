@@ -1,0 +1,68 @@
+Portaria n.º 255/2018
+de 7 de setembro
+Os doentes insuficientes crónicos e transplantados renais, pelas características de que se reveste a patologia de que são portadores, encontram-se numa situação excecional, que justifica que o Estado lhes proporcione meios suplementares que possibilitem um acesso mais fácil aos medicamentos que lhes são indispensáveis.
+Este regime excecional de comparticipação permite que os doentes renais crónicos possam obter gratuitamente os medicamentos de que necessitam através das farmácias hospitalares, que, para tal efeito, procederão à respetiva distribuição.
+Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, com as alterações introduzidas pelo Decreto-Lei n.º 115/2017, de 7 de setembro, manda o Governo, pela Secretária de Estado da Saúde, o seguinte:
+Artigo 1.º
+Objeto
+Os medicamentos destinados aos doentes insuficientes renais crónicos e transplantados renais são comparticipados nos termos consagrados na presente portaria.
+Artigo 2.º
+Medicamentos abrangidos
+1 - Os medicamentos que beneficiam do regime excecional de comparticipação, previstos no artigo anterior, são os que contêm as denominações comuns internacionais (DCI) e pertencem aos grupos e subgrupos farmacoterapêuticos constantes do Anexo I à presente Portaria, da qual faz parte integrante.
+2 - Sem prejuízo do disposto no artigo 6.º, a inclusão de medicamentos no presente regime excecional de comparticipação depende de requerimento dos respetivos titulares de autorização de introdução no mercado, nos termos definidos no Decreto-Lei n.º 97/2015, de 1 de junho, alterado pelo Decreto-Lei n.º 115/2017, de 7 de setembro, e de autorização pelo membro do Governo responsável pela área da saúde, e são divulgados por Deliberação do Conselho Diretivo do INFARMED, I. P., publicada no respetivo sítio eletrónico.
+Artigo 3.º
+Condições de prescrição e dispensa
+1 - Os medicamentos prescritos aos doentes insuficientes renais crónicos e transplantados renais são dispensados sem qualquer encargo para os doentes, observadas que sejam as seguintes condições:
+a) Quando prescritos exclusivamente em consultas de nefrologia e/ou centros de diálise hospitalares, públicos ou privados, devendo da receita constar a menção expressa «Doente renal crónico» ou à presente Portaria;
+b) Os medicamentos são dispensados pelos serviços farmacêuticos hospitalares do Serviço Nacional de Saúde (SNS), sendo a respetiva dispensa obrigatoriamente registada em local próprio.
+2 - A prescrição dos medicamentos referidos no número anterior é efetuada por meios eletrónicos, nos termos legalmente previstos.
+Artigo 4.º
+Encargos
+O encargo com a dispensa destes medicamentos é da responsabilidade das seguintes entidades:
+a) Da responsabilidade do hospital onde o mesmo é prescrito, quando a prescrição tenha sido efetuada em ambiente hospitalar, incluindo na consulta externa;
+b) Da responsabilidade da Administração Regional de Saúde competente, quando o medicamento seja prescrito fora do ambiente hospitalar, salvo se a responsabilidade pelo encargo couber, legal ou contratualmente, a qualquer empresa seguradora ou outra entidade pública ou privada.
+Artigo 5.º
+Monitorização
+1 - Para efeitos de monitorização da utilização dos medicamentos, ficam as instituições e serviços do SNS obrigadas a enviar ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), a informação que por este for definida, através de Deliberação a publicar na sua página eletrónica.
+2 - A informação referida no número anterior será enviada mensalmente até ao 10.º dia do mês seguinte àquele a que respeita.
+Artigo 6.º
+Norma transitória
+Os medicamentos que beneficiam do regime especial de comparticipação autorizado ao abrigo do Despacho n.º 3/91, de 8 de fevereiro, na redação dada pelos Despachos n.os 11619/2003, 14916/2004, 25909/2006, 10053/2007 e 8680/2011, publicados no Diário da República, 2.ª série, n.os 136, de 14 de junho, 174, de 26 de julho, 244, de 21 de dezembro, 104, de 30 de maio, e 122, de 28 de junho, são divulgados por Deliberação do Conselho Diretivo do INFARMED, I. P., publicada no respetivo sítio eletrónico, e ficam automaticamente abrangidos pelo presente regime.
+Artigo 7.º
+Norma revogatória
+É revogado o Despacho n.º 3/91, de 8 de fevereiro, na redação dada pelos Despachos n.os 11.619/2003, 14916/2004, 25.909/2006, 10.053/2007 e 8680/2011, publicados no Diário da República, 2.ª série, n.os 136, de 14 de junho, 174, de 26 de julho, 244, de 21 de dezembro, 104, de 30 de maio, e 122, de 28 de junho.
+Artigo 8.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte à sua publicação.
+A Secretária de Estado da Saúde, Rosa Augusta Valente de Matos Zorrinho, em 4 de setembro de 2018.
+ANEXO I
+(a que se refere o artigo 1.º)
+Nos termos da presente portaria, são comparticipados os medicamentos que contêm as DCI e pertencem aos grupos e subgrupos farmacoterapêuticos infra indicados, quando prescritos aos doentes insuficientes renais crónicos e transplantados renais:
+Grupos e subgrupos farmacoterapêuticos
+Grupo 3 - Aparelho cardiovascular
+3.4 - Anti-hipertensores:
+3.4.2.1 - Inibidores da enzima de conversão da angiotensina;
+3.4.3 - Bloqueadores da entrada do cálcio.
+3.4.4 - Depressores da atividade adrenérgica:
+3.4.4.1 - Bloqueadores alfa;
+3.4.4.2 - Bloqueadores beta:
+3.4.4.2.1 - Seletivos cardíacos;
+3.4.4.2.2 - Não seletivos cardíacos;
+3.4.4.2.3 - Bloqueadores beta e alfa;
+3.4.4.3 - Agonistas alfa 2 centrais.
+Grupo 4 - Sangue
+4.1 - Antianémicos:
+4.1.1 - Compostos de ferro: Sulfato ferroso.
+4.1.2 - Medicamentos para tratamento das anemias megaloblásticas: Ácido fólico.
+Grupo 6 - Aparelho digestivo
+6.2 - Antiácidos e antiulcerosos: Hidróxido de alumínio; Fosfato de alumínio (gel oral).
+Grupo 8 - Hormonas e medicamentos usados no tratamento das doenças endócrinas
+8.2 - Corticosteroides: Prednisolona.
+Grupo 11 - Nutrição e metabolismo
+11.3.1 - Vitaminas: Complexo B; Carbonato de cálcio; Calcitriol; Alfacalcidol (*); Paricalcitol (*).
+Grupo 12 - Corretivos da volémia e das alterações eletrolíticas
+12.7 - Medicamentos captadores de iões:
+12.7.1 - Fixadores de fósforo. Oxihidróxido sucroférrico (*) e Sevelâmero (*).
+12.7.2 - Resinas permutadoras de catiões.
+(*) Só estão abrangidos por este regime especial os medicamentos, cujos titulares de autorização de introdução no mercado o tenham requerido, nos termos definidos no Decreto-Lei n.º 97/2015, de 1 de junho, com as alterações introduzidas pelo Decreto-Lei n.º 115/2017, de 7 de setembro.
+111632015
