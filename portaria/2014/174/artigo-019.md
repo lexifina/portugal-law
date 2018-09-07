@@ -18,7 +18,7 @@ c) A manutenção e tratamento de estomas;
 
 d) A terapêutica parentérica;
 
-e) As medidas de suporte respiratório designadamente a oxigenoterapia ou a ventilação assistida;
+e) As medidas de suporte respiratório designadamente a oxigenoterapia ou a ventilação assistida não invasiva;
 
 f) Ajuste terapêutico e ou de administração de terapêutica, com supervisão continuada.
 
@@ -63,3 +63,5 @@ b) Com necessidade exclusiva de apoio social;
 c) Cujo objetivo de internamento seja o estudo diagnóstico;
 
 d) Cujo regime terapêutico inclua antibióticos de uso exclusivo hospitalar.
+
+e) Com necessidades de cuidados paliativos.

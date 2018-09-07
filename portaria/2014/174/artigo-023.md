@@ -16,4 +16,4 @@
 
 7 - Os utentes internados em unidade, quando agudizam e carecem de cuidados em hospital integrado no SNS, por período temporal superior ao determinado nos n.os 2 e 3 do artigo anterior, beneficiam de prioridade na readmissão na RNCCI.
 
-8 - A preparação da alta deve ser iniciada com uma antecedência que permita encontrar a solução mais adequada à necessidade de continuidade de cuidados, pressupondo a necessária articulação entre a unidade e as ECL competentes.
+8 - A preparação da alta deve ser iniciada com uma antecedência que permita encontrar a solução mais adequada à necessidade de continuidade de cuidados, pressupondo a necessária articulação entre a unidade, a competente ECR e ou a ECL da área do domicílio do utente a quem cabem a responsabilidade de todas as diligências.

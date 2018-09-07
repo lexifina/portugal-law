@@ -22,4 +22,4 @@ h) Gestão de reclamações;
 
 i) Demais regras de funcionamento.
 
-2 - O regulamento interno é elaborado pela entidade promotora e gestora da unidade e é enviado à ECR, para aprovação, antes da entrada em funcionamento da unidade.
+2 - O regulamento interno é elaborado pela entidade promotora e gestora da unidade e, antes da entrada em funcionamento da unidade, é enviado à ECR para aprovação, a efetuar no prazo máximo de 30 dias úteis, contados da data da receção do mesmo.

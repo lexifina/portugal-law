@@ -12,6 +12,6 @@
 
 5 - Para além do documento referido no número anterior, a admissão nas unidades de internamento de média duração e reabilitação, de longa duração e manutenção e de ambulatório, carece ainda da assinatura do termo de aceitação das situações de comparticipação do utente, e da tomada de conhecimento da necessidade da celebração de contrato de prestação de serviços, no momento da admissão, em conformidade com a legislação aplicável.
 
-6 - As unidades e equipas prestadoras não podem recusar a admissão do utente após a validação da ECL.
+6 - As unidades e equipas prestadoras podem no prazo de 48 horas prévio à admissão do utente, solicitar à ECL a sua reavaliação, desde que devidamente fundamentada.
 
 7 - (Revogado).

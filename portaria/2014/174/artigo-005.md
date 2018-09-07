@@ -2,7 +2,7 @@
 
 ### Funcionamento das unidades de internamento
 
-1 - As unidades de internamento prestam cuidados de saúde e de apoio social, na sequência de episódio de doença aguda ou da necessidade de prevenção de agravamentos de doença crónica, centrados na reabilitação, readaptação, manutenção e cuidados paliativos a pessoas que se encontram em situação de dependência, com vista à sua reintegração sociofamiliar.
+1 - As unidades de internamento prestam cuidados de saúde e de apoio social, na sequência de episódio de doença aguda ou da necessidade de prevenção de agravamentos de doença crónica, centrados na reabilitação, readaptação, manutenção e ações paliativas a pessoas que se encontram em situação de dependência, com vista à sua reintegração sociofamiliar.
 
 2 - A concretização dos objetivos das unidades da RNCCI exige um funcionamento que proporcione e garanta ao utente:
 
