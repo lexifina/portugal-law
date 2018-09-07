@@ -1,0 +1,65 @@
+Portaria n.º 249-A/2018
+de 6 de setembro
+O Decreto-Lei n.º 186/2008, de 19 de setembro, criou um título de transporte destinado a todas as crianças e jovens que não beneficiem do transporte escolar previsto no Decreto-Lei n.º 299/84, de 5 de setembro, alterado pelo Decreto-Lei n.º 7/2003, de 15 de janeiro, e pela Lei n.º 13/2006, de 17 de abril, o qual é designado de passe escolar ou «passe 4_18@escola.tp».
+As condições de atribuição do desconto foram estabelecidas na Portaria n.º 138/2009, de 3 de fevereiro.
+Contudo, a Portaria n.º 138/2009, de 3 de fevereiro, foi alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, e pela Portaria n.º 268-A/2012, de 31 de agosto, restringindo o acesso ao «passe 4_18@escola.tp», que ficou disponível apenas para estudantes beneficiários de Ação Social Direta no Ensino Superior ou inseridos em famílias de baixos rendimentos.
+A Lei n.º 114/2017, de 29 de dezembro, no artigo 168.º, estatui que o Governo deve proceder às alterações legislativas necessárias para que o passe mensal 4-18@escola.tp abranja todas as crianças a partir dos 4 anos e os jovens com idade inferior ou igual a 18 anos que não frequentem o ensino superior e que não se encontrem abrangidos pelo transporte escolar estabelecido no Decreto-Lei n.º 299/84, de 5 de setembro.
+O artigo 168.º da Lei n.º 114/2017, de 29 de dezembro, estabelece ainda que a partir do início do ano letivo 2018/2019, o desconto a atribuir será de 25 % sobre o valor de tarifa inteira dos passes mensais em vigor, mantendo-se o desconto mais elevado para estudantes beneficiários de Ação Social Direta do Ensino Superior.
+Paralelamente, o artigo 169.º da Lei n.º 114/2017, de 29 de dezembro, habilita a aplicação do regime do «passe sub23@superior.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, nomeadamente nas regiões autónomas, pelo que se procede ao necessário ajuste nas responsabilidades de monitorização, fiscalização e compensação financeira.
+Assim, ao abrigo do disposto no n.º 3 do artigo 3.º-A do Decreto-Lei n.º 299/84, de 5 de setembro, alterado pelo Decreto-Lei n.º 7/2003, de 15 de janeiro, pela Lei n.º 13/2006, de 17 de abril, pelo Decreto-Lei n.º 186/2008, de 19 de setembro, e pelo Decreto-Lei n.º 29-A/2011, de 1 de março, e do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de agosto, alterado pelo artigo 75.º do Decreto-Lei n.º 29-A/2011, de 1 de março, pelo artigo 169.º da Lei n.º 114/2017, de 29 de dezembro, e ao abrigo do n.º 2 do artigo 168.º da Lei n.º 114/2017, de 29 de dezembro, manda o Governo, pelo Secretário de Estado do Tesouro, no uso da competência delegada pelo Despacho n.º 3492/2017, de 24 de março, publicado no Diário da República, 2.ª série, n.º 81, de 26 de abril de 2017, pelo Secretário de Estado das Autarquias Locais, no uso da competência delegada pelo Despacho n.º 9973-A/2017, de 16 de novembro, publicado no Diário da República, 2.ª série, n.º 222, de 17 de novembro de 2017, pela Secretária de Estado da Ciência, Tecnologia e Ensino Superior, no uso da competência delegada pelo Despacho n.º 8752/2016, de 24 de maio, publicado no Diário da República, 2.ª série, n.º 129, de 7 de julho de 2016, pelo Secretário de Estado da Educação, no uso da competência delegada pelo Despacho n.º 1009-B/2016, de 13 de janeiro, publicado no Diário da República, 2.ª série, n.º 13, de 20 de janeiro de 2016, pelo Secretário de Estado das Infraestruturas, no uso da competência delegada pelo Despacho n.º 2311/2016, de 1 de fevereiro, publicado no Diário da República, 2.ª série, n.º 32, de 16 de fevereiro de 2017, e pelo Secretário de Estado Adjunto e do Ambiente, no uso da competência delegada pelo Despacho n.º 7590/2017, de 18 de agosto de 2017, publicado no Diário da República, 2.ª série, n.º 165, de 28 de agosto de 2017, o seguinte:
+Artigo 1.º
+Objeto
+1 - A presente portaria altera as condições de atribuição do «passe 4_18@escola.tp», fixadas na Portaria n.º 138/2009, de 3 de fevereiro, alterada pela Portaria n.º 982-A/2009, de 2 de setembro, pela Portaria n.º 34-A/2012, de 1 de fevereiro, e pela Portaria n.º 268-A/2012, de 31 de agosto.
+2 - A presente portaria altera as condições de monitorização, fiscalização e compensação financeira do «passe sub23@superior.tp», fixadas na Portaria n.º 982-B/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, pela Portaria n.º 268-A/2012, de 31 de agosto, e pela Portaria n.º 261/2017, de 1 de setembro.
+Artigo 2.º
+Alteração à Portaria n.º 138/2009, de 3 de fevereiro
+São alterados os artigos 2.º, 5.º e 6.º da Portaria n.º 138/2009, de 3 de fevereiro, alterada pela Portaria n.º 982-A/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, e pela Portaria n.º 268-A/2012, de 31 de agosto, que passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - O «passe 4_18@escola.tp» destina-se aos estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, que não beneficiem de transporte escolar no âmbito do Decreto-Lei n.º 299/84, de 5 de setembro.
+2 - ...
+Artigo 5.º
+[...]
+1 - ...
+2 - ...
+3 - O «passe 4_18@escola.tp» tem os seguintes descontos:
+a) ...
+b) 25 % para os restantes estudantes do ensino não superior, dos 4 aos 18 anos, inclusive, não abrangidos pelo disposto na alínea anterior.
+c) (Revogada.)
+4 - ...
+5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino que ateste que estão abrangidos pelo respetivo escalão, no âmbito do regime da Ação Social Escolar.
+6 - (Revogado.)
+Artigo 6.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante, com esta ou outra designação, existente à data de 1 de janeiro de 2018.
+7 - Nos casos em que é aplicado o «passe 4_18@escola.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.»
+Artigo 3.º
+Alteração à Portaria n.º 982-B/2009, de 2 de setembro
+São alterados os artigos 2.º e 6.º da Portaria n.º 982-B/2009, de 2 de setembro, alterada pela Portaria n.º 34-A/2012, de 1 de fevereiro, pela Portaria n.º 268-A/2012, de 31 de agosto, e pela Portaria n.º 261/2017, de 1 de setembro, que passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - O «passe sub23@superior.tp» destina-se aos estudantes do ensino superior até aos 23 anos, inclusive, e aos estudantes de ensino superior inscritos nos cursos de Medicina e Arquitetura, até aos 24 anos de idade, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha correspondentes ao percurso casa/estabelecimento de ensino superior.
+2 - ...
+Artigo 6.º
+[...]
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...
+7 - Nos casos em que é aplicado o «passe sub23@superior.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.»
+Artigo 4.º
+Aplicação no tempo
+A presente portaria aplica-se à aquisição dos «passes 4_18@escola.tp» para a utilização de transportes públicos a partir do dia 1 de setembro de 2018.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 6 de setembro de 2018.
+O Secretário de Estado do Tesouro, Álvaro António da Costa Novo. - O Secretário de Estado das Autarquias Locais, Carlos Manuel Soares Miguel. - A Secretária de Estado da Ciência, Tecnologia e Ensino Superior, Maria Fernanda Fernandes Garcia Rollo. - O Secretário de Estado da Educação, João Miguel Marques da Costa. - O Secretário de Estado das Infraestruturas, Guilherme Waldemar Goulão dos Reis d'Oliveira Martins. - O Secretário de Estado Adjunto e do Ambiente, José Fernando Gomes Mendes.
+111637087
