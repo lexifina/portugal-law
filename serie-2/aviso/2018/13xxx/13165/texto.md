@@ -1,0 +1,6 @@
+Aviso n.º 13165/2018
+Projeto de Regulamento Municipal de Atribuição de Benefícios Sociais aos Bombeiros Voluntários de S. João da Madeira
+Jorge Manuel Rodrigues Vultos Sequeira, Presidente da Câmara Municipal de S. João da Madeira, torna público, nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 28 de agosto de 2018, submeter a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso no Diário da República, o projeto de "Regulamento Municipal de Atribuição de Benefícios Sociais aos Bombeiros Voluntários de S. João da Madeira", e cujo texto pode ser consultado no site da Câmara Municipal de S. João da Madeira (www.cm-sjm.pt) ou no Gabinete de Atendimento ao Munícipe situado no edifício do Fórum Municipal.
+Os interessados, no decurso do prazo referido, poderão endereçar por escrito para a Câmara Municipal as suas sugestões, dirigidas ao Presidente da Câmara Municipal ou para o e-mail proteccaocivil@cm-sjm.pt.
+29 de agosto de 2018. - O Presidente da Câmara Municipal, Jorge M. R. Vultos Sequeira.
+311621672
