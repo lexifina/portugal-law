@@ -1,0 +1,653 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13228",
+  "numero": "544",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-09-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-19",
+            "entidades": null,
+            "id": "112974",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-19 com Maria Margarida Dias da Silva Garrido"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-02",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "871721",
+                "obs": null,
+                "pag": [
+                  "15-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-13",
+                "pubLeg": "XIII",
+                "pubNr": "59",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/059/2019-07-13/15?pgs=15-19&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-12-04",
+        "DataArquivo": "2019-07-03",
+        "DataBaixaComissao": "2018-09-27",
+        "DataEnvioPAR": "2019-07-08",
+        "DataReaberta": "2018-12-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a56694d4455785a446b304c5745355a6d55744e47566c4d7930354f574a694c5746694d7a526d4d4452685a6d5a6d4d4335775a47593d&fich=5b051d94-a9fe-4ee3-99bb-ab34f04afff0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a5979595467784d6d56694c5464685a5459744e4451334d5331694e7a4d7a4c5755794d445a6b4e3245354d6a67774d4335515245593d&fich=62a812eb-7ae6-4471-b733-e206d7a92800.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-12-04",
+            "gp": "PS",
+            "id": "2885",
+            "motivoCessacao": null,
+            "nome": "Joana Lima"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-03-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-10-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c5a446b344f5467784f4330314d5459344c54517a4d445974595745794d53316b4e6d557a4d4455354e3256694d5441756347526d&fich=ed989818-5168-4306-aa21-d6e30597eb10.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44396",
+      "44060",
+      "44265",
+      "44399",
+      "44434"
+    ],
+    "Iniciativasoriginadas": [
+      "44396",
+      "44060",
+      "44265",
+      "44399",
+      "44434"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:22:15:780&drc=00:04:15:865"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:26:31:900&drc=00:03:11:489"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:29:43:389&drc=00:03:49:247"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:33:32:636&drc=00:04:27:154"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238382",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:37:59:902&drc=00:01:47:097"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238383",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:39:47:502&drc=00:03:31:497"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238384",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:43:19:913&drc=00:03:05:657"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238385",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:46:25:570&drc=00:03:35:430"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238386",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:50:01:417&drc=00:01:51:558"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238387",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais; Avaliação da aplicação da Lei n.º 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das associações zoófilas; Sobre a aplicação da Lei n.º 27/2016, de 23 de agosto, relativa a centros de recolha oficial de animais e proibição de abate de animais errantes; Monitorização e avaliação do programa de apoio à esterilização de animais errantes e de companhia e da implementação da rede de centros de recolha oficiais; Pela criação de um grupo de trabalho que promova o acompanhamento da lei que determina o fim dos abates e criação da estratégia nacional para os animais errantes",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13228",
+    "PetAssunto": "Pedem o cumprimento da Lei n.º 27/2016, de 23 de agosto e o não adiamento do fim dos abates de cães e gatos.",
+    "PetDataEntrada": "2018-09-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13228",
+    "PetLeg": "XIII",
+    "PetNr": "544",
+    "PetNrAssinaturas": "6161",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2664",
+        "obs": null,
+        "pag": [
+          "24-32"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-03-06",
+        "pubLeg": "XIV",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/24?pgs=24-32&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "835172",
+        "obs": null,
+        "pag": [
+          "17-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-07",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/018/2018-12-07/17?pgs=17&org=PLC"
+      }
+    ]
+  }
+}
