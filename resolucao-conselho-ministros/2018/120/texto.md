@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 120/2018
+A Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARSLVT, I. P.), pretende proceder à aquisição de serviços combinados de vigilância e segurança humana e de ligação a central de receção e monitorização de alarmes, celebrando o correspondente contrato para o ano de 2018.
+Considerando que os encargos totais com a presente aquisição de serviços são superiores aos que, nos termos legais, podem ser assumidos pelo conselho diretivo da ARLSVT, I. P., torna-se necessária a obtenção da competente autorização.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P. (ARSLVT, I. P.), a realizar a despesa relativa à aquisição de serviços combinados de vigilância e segurança humana e de ligação a central de receção e monitorização de alarmes, no montante de (euro) 7 044 514,82, ao qual acresce o IVA à taxa legal em vigor.
+2 - Determinar que os encargos resultantes do número anterior são integralmente pagos em 2018.
+3 - Determinar que os encargos decorrentes da presente resolução são suportados por verbas adequadas a inscrever no orçamento da ARSLVT, I. P.
+4 - Delegar, com faculdade de subdelegação, no conselho diretivo da ARSLVT, I. P., a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+5 - Determinar que a presente resolução produz efeitos desde a data da sua aprovação.
+Presidência do Conselho de Ministros, 6 de setembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+111653927
