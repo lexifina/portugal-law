@@ -24,6 +24,6 @@
 
 a) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 48 anos civis com registo de remunerações relevantes para o cálculo da pensão;
 
-b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 anos civis com registo de remunerações relevantes para o cálculo da pensão e que tenham iniciado a sua carreira contributiva no Regime Geral de Segurança Social ou na Caixa Geral de Aposentações com 14 anos de idade ou em idade inferior.
+b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 anos civis com registo de remunerações relevantes para o cálculo da pensão e que tenham iniciado a sua carreira contributiva no regime geral de segurança social ou no regime de proteção social convergente com 16 anos de idade ou em idade inferior.
 
 7 - O indicador da esperança média de vida aos 65 anos relativa a cada ano é objecto de publicação pelo Instituto Nacional de Estatística.
