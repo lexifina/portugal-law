@@ -1,0 +1,11 @@
+Aviso n.º 13575/2018
+3.ª Alteração do Plano Diretor Municipal de Santo Tirso
+Dr. Joaquim Barbosa Ferreira Couto, Presidente da Câmara Municipal de Santo Tirso torna público, para efeitos do disposto na alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Santo Tirso em reunião de 06 de setembro de 2018, deliberou iniciar a 3.ª Alteração do Plano Diretor Municipal, determinando a abertura do período de Participação pública inicial e fixando para o efeito o prazo de 15 dias úteis, após publicação no Diário da República. Foi ainda deliberado que esta alteração não será objeto de Avaliação Ambiental Estratégica, de acordo com o definido no artigo 120.º do RJIGT.
+A formulação de sugestões e a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da referida alteração podem ser realizadas na página da Internet da Câmara Municipal, em www.cm-stirso.pt, enviadas por correio para o endereço "Câmara Municipal de Santo Tirso, Praça 25 de Abril, 4780-373 Santo Tirso", ou através de correio eletrónico para o endereço dpua@cm-stirso.pt., ou diretamente no Departamento de Urbanismo e Ambiente desta Câmara Municipal.
+Os elementos para consulta estão disponíveis na página da Internet, em www.cm-stirso.pt e no Departamento de Urbanismo e Ambiente.
+6 de setembro de 2018. - O Presidente da Câmara Municipal, Dr. Joaquim Barbosa Ferreira Couto.
+Publicitação de Deliberação
+3.ª Alteração do Plano Diretor Municipal de Santo Tirso
+Para efeitos do disposto na alínea c) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio, declara-se que a Câmara Municipal de Santo Tirso, em sessão ordinária realizada no dia 06 de setembro de 2018, deliberou dar início ao procedimento de 3.ª Alteração do Plano Diretor Municipal, determinando a abertura do período de Participação pública inicial e fixando para o efeito o prazo de 15 dias úteis, após publicação no Diário da República. Foi ainda deliberado que esta alteração não será objeto de Avaliação Ambiental Estratégica, de acordo com o definido no artigo 120.º do RJIGT.
+6 de setembro de 2018. - O Presidente da Câmara Municipal, Dr. Joaquim Barbosa Ferreira Couto.
+611639347
