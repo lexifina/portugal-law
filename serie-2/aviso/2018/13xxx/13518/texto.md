@@ -1,0 +1,6 @@
+Aviso n.º 13518/2018
+José Luís Gaspar Jorge, Presidente da Câmara Municipal de Amarante, torna público, para efeitos do disposto no n.º 5 do artigo 7.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, em cumprimento da deliberação de câmara tomada em reunião de 21/08/2018, que será aberto o período de discussão pública referente à alteração ao regulamento da operação de loteamento de iniciativa municipal da Zona Industrial do Carido, por um período de 15 (quinze) dias, que se inicia 8 dias após a publicação presente aviso na 2.ª série do Diário da República.
+A proposta de alteração ao regulamento da operação de loteamento pode ser consultada na Câmara Municipal de Amarante, sita na Alameda Teixeira de Pascoaes, 4600-011 desta cidade de Amarante, todos os dias úteis, entre as 9:00 h e as 16:00h e no sítio oficial do Município de Amarante (www.cm-amarante.pt).
+Os interessados podem formular, por escrito, reclamações, observações ou sugestões até ao termo do referido período de discussão pública, dirigidas ao Presidente da Câmara Municipal de Amarante, para o endereço acima indicado, ou entregues diretamente no Balcão Único de Amarante, bem como por correio eletrónico, para geral@cm-amarante.pt.
+3 de setembro de 2018. - O Presidente da Câmara Municipal, José Luís Gaspar Jorge.
+311626979
