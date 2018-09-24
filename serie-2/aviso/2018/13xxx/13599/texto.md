@@ -1,0 +1,5 @@
+Aviso n.º 13599/2018
+No uso da competência prevista na Lei n.º 75/2013, de 12 de setembro, torna-se público que, na sua reunião de 10 de abril de 2018, a União das Freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra aprovou o Regulamento de Cedência da Utilização de Viaturas da União das Freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra, e que o mesmo foi submetido e aprovado pela Assembleia de Freguesia da União das Freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra, na sua sessão de 29 de junho de 2018.
+O referido Regulamento encontra-se exposto nos serviços administrativos da União de Freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra para consulta dos interessados, e entra em funcionamento no dia seguinte à sua publicação em Diário da República.
+5 de setembro de 2018. - A Presidente da União das Freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra, Isabel Maria Gonçalves Borges Contente.
+311636196
