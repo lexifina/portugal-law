@@ -1,0 +1,67 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "108400",
+  "tipo": "Pergunta",
+  "numero": "83",
+  "data_registo": "2018-09-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Armazém Temporário Intermédio de Almaraz",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "839",
+        "nome": "Pedro Soares"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4194",
+        "nome": "Jorge Costa"
+      }
+    ],
+    "DataEnvio": "2018-09-25",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2018-09-25",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DOS  NEGÓCIOS ESTRANGEIROS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2018-11-02",
+            "docRemetida": null,
+            "entidade": "MIN. DOS  NEGÓCIOS ESTRANGEIROS",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396b4e4751344e6a426b4d6930344e4759324c54526a597a6374595467354d7930354d6a5a6d596a4d344e32466b4e6d4d756347526d&fich=d4d860d2-84f6-4cc7-a893-926fb387ad6c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2018-09-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396d5a6d4a684d7a637a4e53316a4e7a686c4c54517a4d6a6b744f474a695a4330344e7a64694d7a63784e474e694d324d756347526d&fich=ffba3735-c78e-4329-8bbd-877b3714cb3c.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "108400",
+    "Legislatura": "XIII",
+    "Nr": "83",
+    "Observacoes": "Desativação da central nuclear de Almaraz; produção elétrica de origem nuclear; proteção do rio Tejo; segurnça ambiental; resíduo nuclear;",
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
