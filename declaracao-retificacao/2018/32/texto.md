@@ -1,0 +1,8 @@
+Declaração de Retificação n.º 32/2018
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Resolução do Conselho de Ministros n.º 106/2018, publicada no Diário da República, 1.ª série, n.º 167, de 30 de agosto de 2018, saiu com a seguinte inexatidão que, mediante declaração da entidade emitente, assim se retifica:
+No n.º 9, onde se lê:
+«9 - Determinar a inscrição nos orçamentos da AICEP, E. P. E., para os anos de 2019, 2020 e 2021, dos valores necessários ao cumprimento dos objetivos estabelecidos para a participação de Portugal na Exposição Mundial do Dubai em 2020 - EXPO 2020 DUBAI, bem como para a realização do programa de atividades a que se refere o número anterior, não devendo o montante anual exceder os (euro) 7 000 0000,00, podendo recorrer para efeito de financiamento destes montantes ao saldo de gerência do Fundo para as Relações Internacionais.»
+deve ler-se:
+«9 - Determinar a inscrição nos orçamentos da AICEP, E. P. E., para os anos de 2019, 2020 e 2021, dos valores necessários ao cumprimento dos objetivos estabelecidos para a participação de Portugal na Exposição Mundial do Dubai em 2020 - EXPO 2020 DUBAI, bem como para a realização do programa de atividades a que se refere o número anterior, não devendo o montante anual exceder os (euro) 7 000 000,00, podendo recorrer para efeito de financiamento destes montantes ao saldo de gerência do Fundo para as Relações Internacionais.»
+Secretaria-Geral, 10 de setembro de 2018. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+111642165
