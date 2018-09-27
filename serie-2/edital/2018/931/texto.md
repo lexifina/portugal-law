@@ -1,0 +1,6 @@
+Edital n.º 931/2018
+José Manuel Pereira Ribeiro, Presidente da Câmara Municipal de Valongo, torna público que se encontra em apreciação pública, pelo período de trinta dias, após publicação no Diário da República, nos termos do artigo 101.º, n.º 1 do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro de 2015, a Proposta de alteração de Regulamento de Prémios de Excelência e Mérito - Reconhecimento do Sucesso Escolar e Formativo, aprovado por deliberação tomada em reunião ordinária da Câmara Municipal de Valongo realizada no dia 6 de setembro de 2018, de acordo com a alínea k) no n.º 1 do artigo 33.º da Lei n.º 75/2013 de 12 de setembro.
+Os interessados poderão apresentar, por escrito, sugestões ou reclamações, por correio postal, dirigidas ao Presidente da Câmara Municipal de Valongo, com sede na Av. 5 de Outubro, n.º 160, 4440-503 Valongo, ou por correio eletrónico para deasd@cm-valongo.pt.
+O Projeto de Regulamento estará disponível para consulta na página eletrónica do Município, em http://www.cm-valongo.pt, bem como no Edifício dos Paços do Concelho.
+14 de setembro de 2018. - O Presidente da Câmara, Dr. José Manuel Pereira Ribeiro.
+311654218
