@@ -1,0 +1,279 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "132",
+    "id": "42628",
+    "titulo": "Autoriza o Governo a aprovar o novo Código da Propriedade Industrial, transpondo as Diretivas (UE) 2015/2436 e (UE) 2016/943."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2018-09-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "44208",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-09-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-09-28",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "ACPI - Parecer 1 (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e7a5a694e445a6c4e43316859324e694c54526c4d6a51744f5752685a43307a4e6a45314f4455784e6a6c6b4e544d756347526d&fich=676b46e4-accb-4e24-9dad-361585169d53.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "ACPI - Parecer 2 (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a6a67794d54466c4d79316b597a457a4c5452684d7a59744f5463774e5330304d5449775a5463344d6a45784e4745756347526d&fich=7f8211e3-dc13-4a36-9705-4120e782114a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "AIPPI - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a5756694d6a646b5a6930324e7a59314c5451784d4755744f54426d4f5330324e57526d5a4749344e324e6d4e4759756347526d&fich=beeb27df-6765-410e-90f9-65dfdb87cf4f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "APDI - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324f546b7a4d6d466d4d43316a596a526c4c54526c4e6d4574596a41344e53316b4d5445794e6d466d5a6a4535597a6b756347526d&fich=69932af0-cb4e-4e6a-b085-d1126aff19c9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "APOGEN - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387859325a684d44417a5a43316d4f44597a4c5451304e4755745954566d5a4330774e7a4e6a4f4759794e6a59354e7a45756347526d&fich=1cfa003d-f863-444e-a5fd-073c8f266971.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "ARBITRARE - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d54686a4d544d324e43307859574e6d4c5451785a44597459544e684d6930774d54557a596d5130597a686a597a59756347526d&fich=f18c1364-1acf-41d6-a3a2-0153bd4c8cc6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "ASAE - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5954686b4d4455334d53316c4f44566c4c5451794f444174596a59345a693078596a6c6b4f54457a597a6b784d3251756347526d&fich=ea8d0571-e85e-4280-b68f-1b9d913c913d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-18",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Audio da Votação Especialidade (17.10.2018)",
+            "URL": "http://media.parlamento.pt/site/XIIILEG/4SL/COM/06_CEIOP/CEIOP_20181017_2.mp3"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "CCI - Parecer 1 (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d5749324f444e6c4e43316d5a6a67314c5451354d4449744f5751325a6930305a44417a4f5445325a546c685a6d51756347526d&fich=d1b683e4-ff85-4902-9d6f-4d03916e9afd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "CCI - Parecer 2 (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a6a5a6b596a557a5a693079595467304c54526a4e6a6374596d4d304e7930325a544e6b5a6d466d4d324a684e5445756347526d&fich=0f6db53f-2a84-4c67-bc47-6e3dfaf3ba51.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "CIP - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794e5467354e6a67794d7930795a54597a4c5451354e5751744f546b79596930334d7a5a6d597a49775a575930596a4d756347526d&fich=25896823-2e63-495d-992b-736fc20ef4b3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "COTEC - PORTUGAL - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d44426b4f54566a4e793035596a49304c5451774d5751744f445130596930344d5745304d4455314f47526a4e7a63756347526d&fich=e00d95c7-9b24-401d-844b-81a40558dc77.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "CSM - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4d7a67334f4759774d5330354e32566c4c54526d596a41744f4459345a5330324f5451305a544533595751774d4749756347526d&fich=33878f01-97ee-4fb0-868e-6944e17ad00b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Faculdade Ciências e Tecnologia da UNL - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d7a6c6b4d574e6d4f43316c5a5459314c5451344e6d55744f5459325969316b4d54466d4d6a46684e7a49354d4449756347526d&fich=f39d1cf8-ee65-486e-966b-d11f21a72902.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Instituto Pedro Nunes - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4f474e694d5749335a4330784e5455794c5451315a6d5174595455354e7930324e7a457a593245794e4445325a6d51756347526d&fich=d8cb1b7d-1552-45fd-a597-6713ca2416fd.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "IST - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835597a41785a6d526a5a43316c4d7a4e694c54526c4d6a6b74595751774f53316b4e6a6c694e4759794e4749794d544d756347526d&fich=9c01fdcd-e33b-4e29-ad09-d69b4f24b213.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Oficio - Pareceres enviados pelo Governo (3.10.2018)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938795a4468694d545a6a4e4331684e574a6c4c5451345a574574596d45324e69316b4e574e6a4e32553059325a6b5a4459756347526d&fich=2d8b16c4-a5be-48ea-ba66-d5cc7e4cfdd6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "OSAE - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e54566b4e6a466d4d6931684e6d4e684c5451324f4759745954526b4d53316859325578597a4a6a4e7a4e694d7a45756347526d&fich=f55d61f2-a6ca-468f-a4d1-ace1c2c73b31.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-11",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - APOGEN (2018.09.07)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f54426d5a5467324e53316c596a55784c5451774e546b7459575a6b4f43316a4e5755325a47466c4e7a426d4f5455756347526d&fich=f90fe865-eb51-4059-afd8-c5e6dae70f95.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "PGR - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d7a4a6d4e6a67794d4330314d54517a4c5451784e324974595755785969316b5a446b314d6d497759324e6c595463756347526d&fich=e32f6820-5143-417b-ae1b-dd952b0ccea7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração (PSD) - C1",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877596d5a6c4d7a6732596930774d445a684c5451334f574d744f5751795a4330354e57566d4f4751305954466a597a4d756347526d&fich=0bfe386b-006a-479c-9d2d-95ef8d4a1cc3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de Alteração PS - C2",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c59545a6b4d6a59354e6930344f5756684c5451335a5755744f44526d4d533035593251324e6a426a4e6d59315a5441756347526d&fich=ea6d2696-89ea-47ee-84f1-9cd660c6f5e0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-18",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final + Relatório Votações + Proposta de Alteração",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793969597a686b4f5455355979316b4e6a45334c5451314f445974596d5a694f4330344d57466b4e5755784d4745334f4451756347526d&fich=bc8d959c-d617-4586-bfb8-81ad5e10a784.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "União de Marcas - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938775a4749314e4749334d4330335a6d557a4c545134596a49744f4464695a6930325a4751305a6a417759324a6d4d7a6b756347526d&fich=0db54b70-7fe3-48b2-87bf-6dd4f00cbf39.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-10-10",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Universidade do Algarve - Parecer (Parecer GOV - 2018.10.03)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694e324e694f5451315a53316a4e4759774c5451784f5745745954426d595330784d7a4d795a6a42684d324e6a4e6a67756347526d&fich=b7cb945e-c4f0-419a-a0fa-1332f0a3cc68.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4529",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "Numero": "4529",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da votação na especialidade e texto final",
+            "pag": [
+              "78-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-10-17",
+            "pubLeg": "XIII",
+            "pubNr": "15",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/015/2018-10-17/78?pgs=78-84&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da votação na especialidade e texto final",
+            "pag": [
+              "78-84"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-10-17",
+            "pubLeg": "XIII",
+            "pubNr": "15",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/015/2018-10-17/78?pgs=78-84&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2018-10-31",
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Redação Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-09-28",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "343993",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
