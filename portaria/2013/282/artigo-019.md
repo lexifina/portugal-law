@@ -10,7 +10,7 @@
 
 ### Anúncio eletrónico
 
-1 - A venda dos bens penhorados é publicitada, nos termos da alínea a) do n.º 1 do artigo 817.º do Código de Processo Civil, através de anúncio na página informática de acesso público, no endereço eletrónico http://www.citius.mj.pt.
+1 - A venda dos bens penhorados é publicitada, nos termos da alínea a) do n.º 1 do artigo 817.º do Código de Processo Civil, através de anúncio na página informática de acesso público, na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
 
 2 - O anúncio contém:
 
