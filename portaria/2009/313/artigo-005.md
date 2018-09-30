@@ -2,7 +2,7 @@
 
 ### Organização e conteúdo da lista pública de execuções
 
-1 - A lista pública de execuções é uma lista eletrónica de dados, disponível na Internet através do endereço eletrónico de acesso público http://www.citius.mj.pt.
+1 - A lista pública de execuções é uma lista eletrónica de dados, disponível na Internet na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
 
 2 - A lista pública de execuções contém a seguinte informação:
 
