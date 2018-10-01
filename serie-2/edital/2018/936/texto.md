@@ -1,0 +1,6 @@
+Edital n.º 936/2018
+José Alexandre Silva Almeida, Presidente da Câmara Municipal de Paredes, torna público que, em reunião ordinária realizada no dia seis de setembro do ano de dois mil e dezoito, o Executivo Municipal, deliberou, aprovar o projeto de Regulamento do Programa Mais Vida Ativa.
+Nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, o projeto é submetido a consulta pública pelo prazo de 30 dias a contar do dia seguinte à publicação deste edital na 2.ª série do Diário da República e na Internet no sítio institucional do Município de Paredes.
+Durante este período, o referido Projeto encontra-se disponível para consulta na página da internet do Município (www.cm-paredes.pt), podendo, ainda, os interessados apresentar as sugestões que entenderem por convenientes, devendo as mesmas ser endereçadas ao Presidente da Câmara Municipal de Paredes - Divisão de Desporto - Projeto de Regulamento do Programa Mais Vida Ativa, por correio registado para o Município de Paredes, Praça José Guilherme, 4580-130 Paredes, por correio eletrónico para pelouro.desporto@cm-paredes.pt, ou entregues presencialmente no Balcão Único, sito na referida morada.
+13 de setembro de 2018. - O Presidente da Câmara, Alexandre Almeida.
+311658796
