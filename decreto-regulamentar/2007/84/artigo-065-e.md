@@ -2,7 +2,7 @@
 
 ### Meios de prova para renovação de autorização de residência
 
-1 - Para prova do cumprimento do requisito previsto na alínea a) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+1 - Para a renovação de autorização de residência emitida ao abrigo do artigo 90.º-A da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve fazer prova da manutenção do investimento em território nacional através de:
 
 a) Declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade, livre de ónus e encargos, de contas de depósitos com saldo trimestral médio igual ou superior a 1 milhão de euros, ou de quota-parte no mesmo montante durante tal período quando estejam em causa contas coletivas; ou
 
@@ -18,54 +18,64 @@ f) No caso de aquisição de valores mobiliários titulados integrados em sistem
 
 g) No caso de aquisição de participação social não abrangida nas alíneas anteriores, certidão do registo comercial atualizada, que ateste a detenção da participação e contrato por meio do qual se realizou a respetiva aquisição, com indicação do valor de aquisição;
 
-h) Certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas, no caso de o investimento ser realizado através de sociedade unipessoal por quotas;
+h) (Revogada.)
 
-i) No caso de aplicação de montantes não previstos na declaração emitida nos termos da alínea i) do n.º 1 do artigo anterior, declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a transferência efetiva de capitais para a realização do investimento.
+i) No caso de aplicação de montantes não previstos na declaração emitida nos termos do n.º 15 do artigo anterior, declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a transferência efetiva de capitais para a realização do investimento.
 
-2 - Para prova do cumprimento do requisito previsto na alínea b) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar certidão atualizada da segurança social a atestar a manutenção do número mínimo de postos de trabalho exigido.
+2 - O requerente pode ainda comprovar a manutenção do investimento previsto no número anterior mediante prova da concretização de qualquer dos investimentos previstos nas subalíneas ii) a vii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, desde que perfaçam valor igual ou superior a 1 milhão de euros, sendo aplicável com as devidas adaptações, o disposto nos números seguintes quanto a este tipo de investimentos.
 
-3 - Para prova do cumprimento do requisito previsto na alínea c) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+3 - Para prova de manutenção do investimento previsto na subalínea ii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o SEF verifica oficiosamente a manutenção do número mínimo de postos de trabalho exigido.
 
-a) Título aquisitivo da propriedade de bens imóveis e certidão atualizada da conservatória do registo predial com os registos, averbamentos e inscrições em vigor, demonstrando ter a propriedade de bens imóveis; ou
+4 - Para prova de manutenção do investimento previsto nas subalíneas iii) e iv) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar:
 
-b) Contrato-promessa de compra e venda e, sempre que legalmente admissível, certidão do registo predial da qual conste o registo provisório de aquisição válido do contrato-promessa de compra e venda, com sinal igual ou superior a 500 mil euros;
+a) Título aquisitivo da propriedade de bens imóveis e certidão atualizada da conservatória do registo predial, com os registos, averbamentos e inscrições em vigor, demonstrando ter a propriedade de bens imóveis;
 
-c) Caderneta predial do imóvel atualizada, sempre que legalmente possível;
+b) Caderneta predial do imóvel atualizada;
 
-d) Certidão do registo comercial atualizada que demonstre ser o requerente o sócio da sociedade unipessoal por quotas proprietária ou promitente-compradora dos bens imóveis, no caso de o investimento ser realizado através de sociedade unipessoal por quotas.
+c) (Revogada.)
 
-4 - Para prova do cumprimento do requisito previsto na alínea d) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+d) (Revogada.)
 
-a) Título aquisitivo da propriedade de bens imóveis e certidão atualizada da conservatória do registo predial com os registos, averbamentos e inscrições em vigor, demonstrando ter a propriedade de bens imóveis;
+e) (Revogada.)
 
-b) No caso de obra sujeita a licenciamento para a realização de obras de reconstrução ou alteração de edifício que constituam obras de reabilitação urbana, alvará, quando aplicável, contrato de empreitada celebrado para a realização das obras de reabilitação do imóvel e, quando aplicável, declaração da entidade gestora da operação de reabilitação urbana competente, que ateste que a operação de reabilitação urbana se encontra em execução ou integralmente executada; ou
+5 - No primeiro pedido de renovação da autorização de residência pode o requerente apresentar contrato-promessa de compra e venda e, sempre que legalmente admissível, certidão do registo predial da qual conste o registo provisório de aquisição do contrato-promessa de compra e venda válido, com sinal igual ou superior ao mínimo legalmente exigível.
 
-c) No caso de obra sujeita a comunicação prévia, declaração da entidade gestora da operação de reabilitação urbana competente, que ateste que a operação de reabilitação urbana se encontra em execução ou integralmente executada e contrato de empreitada celebrado para a realização das obras de reabilitação do imóvel;
+6 - Para prova de manutenção do investimento previsto na subalínea iv) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve, ainda, apresentar:
 
-d) Recibo de quitação do preço do contrato de empreitada, sempre que possível;
+a) No caso de obra sujeita a licenciamento para a realização de obras de reconstrução ou alteração de edifício que constituam obras de reabilitação urbana, alvará, quando aplicável, contrato de empreitada celebrado para a realização das obras de reabilitação do imóvel e, quando aplicável, declaração da entidade gestora da operação de reabilitação urbana competente, que ateste que a operação de reabilitação urbana se encontra em execução ou integralmente executada; ou
 
-e) Certidão do registo comercial atualizada que demonstre ser o requerente o sócio da sociedade unipessoal por quotas proprietária dos bens imóveis, no caso de o investimento ser realizado através de sociedade unipessoal por quotas.
+b) No caso de obra sujeita a comunicação prévia, declaração da entidade gestora da operação de reabilitação urbana competente, que ateste que a operação de reabilitação urbana se encontra em execução ou integralmente executada e contrato de empreitada celebrado para a realização das obras de reabilitação do imóvel;
 
-5 - No caso de impossibilidade de pagamento integral do preço do contrato de empreitada por motivo não imputável ao requerente, deve o requerente apresentar declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade de contas de depósitos com saldo trimestral médio igual ou superior ao preço do contrato de empreitada, ou de quota-parte no mesmo montante durante tal período, quando estejam em causa contas coletivas.
+c) No caso de obra não sujeita a licenciamento ou comunicação prévia, contrato de empreitada para a realização de obras de reabilitação nos imóveis objeto da aquisição;
 
-6 - No caso de o requerente ter efetuado pagamento parcial do preço do contrato de empreitada, deve apresentar o respetivo recibo de quitação parcial, bem como declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade de contas de depósitos com saldo trimestral médio igual ou superior ao montante correspondente ao remanescente do preço do contrato de empreitada, ou de quota-parte no mesmo montante durante tal período, quando estejam em causa contas coletivas.
+d) Recibo de quitação do preço do contrato de empreitada, sempre que possível.
 
-7 - Para efeitos de renovação da autorização de residência para atividade de investimento nos termos do n.º 3, o requerente deve, até ao momento do segundo pedido de renovação de autorização de residência para atividade de investimento, apresentar o título definitivo de aquisição da propriedade dos bens imóveis.
+7 - (Revogado.)
 
-8 - Para prova do cumprimento do requisito previsto na alínea e) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+8 - (Revogado.)
 
-a) Declaração emitida por instituição pública ou privada de investigação científica integrada no sistema científico e tecnológico nacional, atestando que não se verificaram alterações supervenientes, imputáveis ao requerente, que tenham comprometido o apoio concedido;
+9 - (Revogado.)
 
-b) Certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas, no caso de o montante ser aplicado em atividades de investigação, através de sociedade unipessoal por quotas.
+10 - (Revogado.)
 
-9 - Para prova do cumprimento do requisito previsto na alínea f) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+11 - No caso de impossibilidade de pagamento integral do preço do contrato de empreitada, por motivo não imputável ao requerente, deve o requerente apresentar declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade de contas de depósitos com saldo trimestral médio igual ou superior ao preço do contrato de empreitada, ou de quota-parte no mesmo montante durante tal período, quando estejam em causa contas coletivas.
 
-a) Declaração emitida pelo Gabinete de Estratégia, Planeamento e Avaliação Culturais, ouvido o serviço da área da cultura com atribuições sobre o setor, atestando que não se verificaram alterações supervenientes, imputáveis ao requerente, que tenham comprometido o investimento ou apoio realizado ou concedido;
+12 - No caso de o requerente ter efetuado pagamento parcial do preço do contrato de empreitada, deve apresentar o respetivo recibo de quitação parcial, bem como declaração de instituição de crédito autorizada ou registada em território nacional junto do Banco de Portugal, atestando a titularidade de contas de depósitos com saldo trimestral médio igual ou superior ao montante correspondente ao remanescente do preço do contrato de empreitada, ou de quota-parte, no mesmo montante, durante tal período, quando estejam em causa contas coletivas.
 
-b) Certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas, no caso de investimento ou apoio à produção artística, recuperação ou manutenção do património cultural nacional, através de sociedade unipessoal por quotas.
+13 - Para prova de manutenção do investimento previsto na subalínea v) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar declaração emitida por instituição pública ou privada de investigação científica integrada no sistema científico e tecnológico nacional, atestando que não se verificaram alterações supervenientes, imputáveis ao requerente, que tenham comprometido o apoio concedido.
 
-10 - Para prova do cumprimento do requisito previsto na alínea g) do n.º 1 do artigo 65.º-A, no âmbito da renovação de autorização de residência, o requerente deve apresentar:
+14 - Para prova de manutenção do investimento previsto na subalínea vi) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar:
+
+a) Declaração emitida pelo Gabinete de Estratégia, Planeamento e Avaliação Culturais, atestando que não se verificaram alterações supervenientes, imputáveis ao requerente, que tenham comprometido o investimento ou apoio realizado ou concedido;
+
+b) Declaração emitida pela entidade beneficiária, atestando a manutenção do investimento ou apoio realizado ou concedido.
+
+15 - Para prova de manutenção do investimento previsto na subalínea vii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar:
 
 a) Certificado comprovativo da titularidade das unidades de participação, livre de ónus e encargos, emitido pela entidade à qual caiba a responsabilidade de manter um registo atualizado dos titulares de unidades de participação, nos termos da lei, do respetivo regulamento de gestão ou de instrumento contratual;
 
-b) Certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas, no caso de o investimento ser realizado através de sociedade unipessoal por quotas.
+b) Declaração emitida pela sociedade gestora do respetivo fundo de investimento, atestando a manutenção das condições do investimento.
+
+16 - Para prova de manutenção do investimento previsto na subalínea viii) da alínea d) do artigo 3.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o requerente deve apresentar certidão do registo comercial atualizada, a atestar a manutenção da sociedade constituída ou a titularidade da participação social adquirida, verificando o SEF oficiosamente a manutenção do número mínimo de postos de trabalho exigido.
+
+17 - O SEF pode solicitar a entidades nacionais competentes parecer sobre o cumprimento dos requisitos legais em razão do investimento.

@@ -14,4 +14,4 @@ d) Comprovativo da situação de excepcionalidade que ateste o carácter humanit
 
 e) Comprovativo do exercício da actividade relevante no domínio científico, cultural, desportivo, económico ou social.
 
-2 - Para efeitos da alínea b) do n.º 1 do artigo 123.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o SEF pode solicitar, quando se justifique, a demonstração de um período superior a um ano de inserção no mercado laboral.
+2 - Para efeitos da alínea b) do n.º 1 do artigo 123.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual, o SEF deve considerar, ponderadas as circunstâncias concretas do caso, como razões humanitárias a inserção no mercado laboral por um período superior a um ano.

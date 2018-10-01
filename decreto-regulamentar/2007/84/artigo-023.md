@@ -8,7 +8,7 @@
 
 a) Documento emitido pelo estabelecimento de ensino, comprovativo da aceitação da matrícula;
 
-b) Declaração comprovativa de acolhimento por família, nas condições previstas na alínea c) do n.º 5 do artigo 62.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto; ou,
+b) Declaração comprovativa de acolhimento por família, nas condições previstas na alínea c) do n.º 6 do artigo 62.º da Lei n.º 23/2007, de 4 de julho, na sua redação atual; ou
 
 c) Comprovativo de alojamento.
 
