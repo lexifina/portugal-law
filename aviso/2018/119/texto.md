@@ -1,0 +1,14 @@
+Aviso n.º 119/2018
+Por ordem superior se torna público que, por notificação de 13 de abril de 2018, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Portuguesa formulado uma declaração relativamente à Convenção Relativa ao Processo Civil, adotada na Haia, a 1 de março de 1954.
+Tradução
+Declaração
+Portugal, 13-03-2018
+O Governo da República Portuguesa toma nota da declaração apresentada pela Ucrânia em 16 de outubro de 2015 referente à aplicação da Convenção Relativa ao Processo Civil, concluída na Haia, em 1 de março de 1954, à «República Autónoma da Crimeia» e à cidade de Sebastopol, bem como das declarações apresentadas pela Federação da Rússia a 19 de julho de 2016 relativamente à declaração da Ucrânia.
+No que diz respeito à declaração da Federação da Rússia, o Governo da República Portuguesa declara, em conformidade com as conclusões do Conselho Europeu de 20 e 21 de março de 2014, que não reconhece o referendo ilegal na Crimeia, nem a anexação ilegal da «República Autónoma da Crimeia» e da cidade de Sebastopol pela Federação da Rússia.
+No que diz respeito ao âmbito de aplicação territorial da Convenção acima mencionada, o Governo da República Portuguesa considera, portanto, que a Convenção continua, em princípio, a aplicar-se à «República Autónoma da Crimeia» e à cidade de Sebastopol enquanto parte integrante do território da Ucrânia.
+O Governo da República Portuguesa toma ainda nota da declaração da Ucrânia de que a «República Autónoma da Crimeia» e a cidade de Sebastopol estão temporariamente fora do seu controlo e que a aplicação e execução pela Ucrânia das suas obrigações decorrentes da Convenção nessa parte do território da Ucrânia são limitadas e não estão garantidas, sendo o procedimento de comunicação em causa apenas determinado pelas autoridades centrais da Ucrânia em Kiev.
+Face ao exposto, o Governo da República Portuguesa declara que não irá comunicar e interagir diretamente com as autoridades da República Autónoma da Crimeia e da cidade de Sebastopol, nem aceitará quaisquer documentos ou pedidos emanados dessas autoridades ou transmitidos através das autoridades da Federação da Rússia. Declara ainda que irá comunicar apenas com as autoridades centrais da Ucrânia, em Kiev, para efeitos de aplicação e execução da Convenção.
+A República Portuguesa é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto-Lei n.º 47 097, publicado no Diário do Governo, 1.ª série, n.º 162, de 14 de julho de 1966, e ratificada a 3 de julho de 1967, conforme Aviso publicado no Diário do Governo, 1.ª série, n.º 196, de 23 de agosto de 1967.
+A Convenção encontra-se em vigor para a República Portuguesa desde 31 de agosto de 1967.
+Departamento de Assuntos Jurídicos, 27 de setembro de 2018. - A Diretora, Susana Vaz Patto.
+111686813
