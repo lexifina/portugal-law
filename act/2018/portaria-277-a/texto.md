@@ -1,0 +1,36 @@
+Portaria n.º 277-A/2018
+de 8 de outubro
+A doença de Parkinson é uma doença degenerativa e lentamente progressiva de áreas específicas do sistema nervoso central (cérebro e medula espinhal). É caracterizada pelo tremor quando os músculos estão em repouso (tremor de repouso), aumento no tónus muscular (rigidez), lentidão dos movimentos voluntários e dificuldade de manter o equilíbrio (instabilidade postural).
+É uma doença bastante frequente e progressiva estimando-se que cerca de 20 mil portugueses sofram da doença de Parkinson, sendo que são registados por ano mais de 1800 novos casos e prevê-se que, com o aumento da longevidade da população, esta doença aumente nos próximos vinte anos, afetando cerca de 30 mil portugueses.
+A presente portaria visa permitir que os medicamentos para a indicação terapêutica doença de Parkinson sejam comparticipados pelo Estado, em moldes muito específicos e, com horizonte temporal limitado, por imperiosas razões de saúde pública, no interesse dos doentes e de forma a garantir o acesso aos medicamentos utilizados na referida indicação terapêutica.
+Assim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, com as alterações introduzidas pelo Decreto-Lei n.º 115/2017, de 7 de setembro, manda o Governo, pelo Ministro da Saúde, o seguinte:
+Artigo 1.º
+Objeto
+Os medicamentos utilizados na indicação terapêutica doença de Parkinson são comparticipados nos termos estabelecidos na presente Portaria.
+Artigo 2.º
+Medicamentos abrangidos
+Os medicamentos que beneficiam do regime excecional de comparticipação para a indicação terapêutica doença de Parkinson, previstos no artigo anterior, são os que contêm as substâncias ativas cujas denominações comuns internacionais (DCI) constam do Anexo I à presente Portaria, que dela faz parte integrante, sem prejuízo do disposto nos artigos seguintes.
+Artigo 3.º
+Inclusão de medicamentos
+1 - A inclusão de medicamentos no presente regime excecional de comparticipação depende de requerimento ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.) de autorização de utilização de lotes de medicamentos em ruturas de fornecimento e comprovadamente sem alternativa terapêutica, nos termos previstos no Regulamento anexo à Deliberação n.º 1546/2015, de 15 de junho publicada no Diário da República, 2.ª série, n.º 152, de 6 de agosto.
+2 - O INFARMED, I. P. pode, ao abrigo da presente portaria, a título excecional e devidamente justificado, conceder ao titular de autorização de introdução no mercado (AIM), fabricante ou distribuidor por grosso, devidamente autorizado como representante legal do titular de AIM, autorização excecional para colocação no mercado dos lotes de medicamentos estritamente necessários a colmatar ruturas de fornecimento quando, comprovadamente, não houver alternativa terapêutica, ainda que rotulados em língua diferente da aprovada em sede de AIM.
+Artigo 4.º
+Condições de comparticipação e preços
+1 - A comparticipação do Estado é no Escalão A, atualmente correspondente a 90 % do preço a praticar pelo requerente com base numa proposta fundamentada e apresentada no pedido da autorização referida no artigo anterior.
+2 - Aos preços dos medicamentos abrangidos pelo presente regime excecional de comparticipação não é aplicável o disposto na Portaria n.º 195-C/2015, de 30 de junho, na sua atual redação.
+Artigo 5.º
+Prescrição e dispensa
+Os medicamentos abrangidos pelo regime excecional de comparticipação previsto na presente portaria são prescritos por meios eletrónicos, nos termos legalmente previstos e dispensados exclusivamente pelas farmácias de oficina.
+Artigo 6.º
+Validade
+1 - O regime excecional de comparticipação previsto na presente portaria vigora pelo prazo inicial de seis meses.
+2 - No final do prazo referido no número anterior, o regime excecional de comparticipação previsto na presente Portaria é objeto de avaliação pelo INFARMED, I. P., com vista a uma eventual prorrogação.
+Artigo 7.º
+Produção de efeitos
+A presente portaria produz efeitos no dia seguinte ao da sua publicação.
+O Ministro da Saúde, Adalberto Campos Fernandes, em 8 de outubro de 2018.
+ANEXO I
+(a que se refere o artigo 2.º)
+Levodopa + Carbidopa
+Levodopa + Benserazida
+111711371
