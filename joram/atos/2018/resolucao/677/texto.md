@@ -1,0 +1,32 @@
+# Resolução n.º 677/2018
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 168/2018, suplemento, de 2018-10-11
+
+**Sumário:** Autoriza a celebração de um Acordo de Cooperação, na modalidade de apoio atípico entre o ISSM, IP-RAM a Casa do Povo do Curral das Freiras, relativo ao financiamento das respostas sociais de centro de dia e centro de convívio para idosos.
+
+## Texto
+
+Resolução n.º 677/2018
+Considerando que a Casa do Povo do Curral, adiante designada de Instituição, é uma Instituição equiparada a Instituição Particular de Solidariedade Social vocacionada para o desenvolvimento de atividades na área da segurança social, designadamente as direcionadas para a terceira idade;
+Considerando que nesse âmbito, a Instituição já desenvolve as respostas sociais de centro de dia e de centro de convívio para idosos, cujo funcionamento é já alvo de apoio financeiro atribuído pelo Instituto de Segurança Social da Madeira, IP-RAM (ISSM, IP-RAM), de montante correspondente ao défice de funcionamento estimado com a prossecução das atividades socias em causa;
+Considerando a desatualização do acordo e da inerente comparticipação financeira atribuída pelo ISSM, IP-RAM, a qual não reflete a atualização dos rendimentos gerados nas respostas sociais em apreço, nem a atualização nos gastos com o pessoal e dos restantes gastos de funcionamento;
+Considerando o papel relevante que a Instituição tem assumido no contexto social onde está inserida, através de uma intervenção social de oferta diversificada e de proximidade à população mais carenciada da freguesia do Curral das Freiras;
+Considerando que a medida de atualização em apreço consubstancia uma medida inserida no objetivo “Dinamizar as Entidades da Economia Social”, delineado no Eixo I – – Combater a Pobreza e assegurar a Proteção, Inclusão e a Coesão Social, do Programa de Governo da Região Autónoma da Madeira 2015-2019.
+Nestes termos, o Conselho do Governo reunido em plenário em 4 de outubro de 2018, resolveu:
+1. Autorizar, nos termos do disposto na alínea d) do n.º 2 do artigo 3.º do Decreto Legislativo Regional n.º 11/2015/M, de 18 de dezembro, na redação da-
+
+da pelo Decreto Legislativo Regional n.º 22/2017/M, de 1 de agosto, que estabelece os princípios orientadores e o enquadramento a que deve obedecer a cooperação entre o Instituto de Segurança Social da Madeira, IP-RAM, adiante designado por ISSM, IP-RAM e as instituições particulares de solidariedade social e outras instituições particulares sem fins lucrativos que lhe são equiparadas e que prosseguem atividades sociais na Região Autónoma da Madeira, no n.º 2 do artigo 6.º e artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto Legislativo Regional n.º 9/2015/M, de 2 de dezembro, e nos artigos 9.º, 47.º e seguintes do Regulamento que estabelece as normas de cooperação entre o Centro de Segurança Social da Madeira e as Instituições Particulares de Solidariedade Social e outras instituições de apoio social sem fins lucrativos, aprovado pela Portaria n.º 78/2007, de 16 de agosto, da Secretaria Regional dos Assuntos Sociais, a celebração de um Acordo de Cooperação, na modalidade de apoio atípico entre o ISSM, IP-RAM a Casa do Povo do Curral das Freiras, relativo ao financiamento das respostas sociais de centro de dia e centro de convívio para idosos.
+2. Atribuir, no âmbito do mesmo acordo, uma comparticipação financeira no montante mensal de € 4.970,00 (quatro mil novecentos e setenta euros), correspondente ao défice de funcionamento previsto para as respostas sociais mencionadas no n.º anterior.
+3. O ISSM, IP-RAM atualizará a comparticipação financeira referida no número anterior, em função da alteração dos montantes de qualquer uma das componentes elegíveis no âmbito do acordo que concorram para a determinação do valor da comparticipação financeira a atribuir.
+4. Aprovar a minuta do referido acordo atípico, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria Geral da Presidência do Governo Regional.
+5. Por decisão do ISSM, IP – RAM, o montante de apoio recebido a mais, relativamente ao resultado efetivo apurado no âmbito da apresentação de contas anuais da Instituição, designadamente no mapa de demonstração de resultados por funções das respostas sociais em causa, poderá ser aplicado pela mesma nestas ou noutras atividades da área da Segurança Social.
+6. Na eventualidade do ISSM, IP-RAM entender não se justificar a aplicação do referido número anterior, deverá exigir a restituição dos montantes recebidos a mais, sem prejuízo da existência de um fundo de maneio necessário ao funcionamento da Instituição.
+7. O presente acordo produzirá efeitos reportados a 1 de janeiro de 2018, sendo válido pelo período de três anos, automaticamente renovável por iguais períodos, salvo cessação ou denúncia nos termos previstos no mesmo.
+
+8. As renovações mencionadas no número anterior estão condicionadas à obtenção da competente autorização para efeitos de assunção do respetivo compromisso plurianual, e ao seu registo no suporte informático adequado, conforme decorre do artigo 6.º, da Lei n.º 8/2012, de 21 de fevereiro, na redação atual.
+9. Revogar, com efeitos à data de entrada em vigor do presente novo acordo, o acordo de cooperação n.º 06/09, outorgado entre o ISSM, IP-RAM e a Instituição a 9 de julho de 2009.
+10. A despesa decorrente do presente acordo, para o ano económico de 2018, no valor de € 59.640,00 tem cabimento na rubrica DA113003, Económica D.04.07.03.01.99, do Orçamento do Instituto de Segurança Social da Madeira, IP-RAM e o respetivo compromisso foi registado no sistema informático de suporte à execução orçamental, Sistema de Informação Financeira (SIF) com o n.º 2801 803 540.
+11. A assunção do compromisso plurianual resultante do presente acordo foi previamente autorizada e os encargos previstos para os anos económicos de 2019 e 2020, nos montantes de € 59.640,00 e € 59.640,00, respetivamente, serão suportados pela mesma rubrica orçamental referida no número anterior, através de dotações a inscrever nos referidos orçamentos do ISSM, IP-RAM, em conformidade com o compromisso de anos futuros registado no sistema informático de suporte à execução orçamental, Sistema de Informação Financeira (SIF) e no Sistema Central de Encargos Plurianuais com o n.º 172018/2018.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
