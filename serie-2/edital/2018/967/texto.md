@@ -1,0 +1,16 @@
+Edital n.º 967/2018
+Deliberação que determina a revisão do Plano Diretor Municipal de Vale de Cambra
+António Alberto Almeida de Matos Gomes, Vereador em Regime de Tempo Inteiro na Câmara Municipal de Vale de Cambra:
+Torna público, que nos termos e para os efeitos previstos no n.º 1 do art.º 76.º, n.º 7 do art.º 89.º e na alínea c) do n.º 4 do artigo 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que a Assembleia Municipal de Vale de Cambra em sua sessão de 13/09/2018, sob proposta da Câmara Municipal (reunião de 31/07/2018), deliberou dar início ao procedimento de revisão do Plano diretor Municipal (PDM) de Vale de Cambra, estabelecendo um prazo para a mesma de vinte e um meses.
+Mais deliberou, em cumprimento do disposto no n.º 2 do artigo 88.º do mesmo diploma, proceder à abertura de um período de participação pública com a duração de 30 dias, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de revisão do Plano, o qual terá início no dia útil seguinte ao da publicação do presente edital no Diário da República.
+Durante este período, os interessados poderão proceder à apresentação de informações e sugestões sobre quaisquer questões que possam ser consideradas no âmbito do procedimento da revisão.
+Durante aquele período, os interessados poderão solicitar esclarecimentos no Edifício da Câmara Municipal, sito na Avenida Camilo Tavares de Matos, n.º 19, nesta cidade, na respetiva Divisão de Planeamento, Ambiente e Gestão Urbanística, ou através das Juntas Freguesia.
+Junto da Divisão de Planeamento, Ambiente e Gestão Urbanística, poderão ser marcadas reuniões de esclarecimento e informação adicional.
+Os interessados deverão formular as suas sugestões ou observações, devidamente fundamentadas, em ofício dirigido ao Sr. Presidente da Câmara Municipal de Vale de Cambra ou através de email.
+Com o objetivo de promover a participação neste processo a Câmara Municipal disponibiliza o seguinte email: discussaopublica@cm-valedecambra.pt.
+Para constar se lavrou o presente aviso e outros de igual teor, que vão ser afixados nos lugares públicos do costume, na imprensa e disponível no endereço http://www.cm-valedecambra.pt
+27 de setembro de 2018. - O Vereador, António Alberto Almeida de Matos Gomes.
+Ata
+Aos trinta-e-um dias do mês de julho do ano de dois mil e dezoito, pelas catorze horas e quarenta e cinco minutos, realizou a Câmara Municipal de Vale de Cambra, uma reunião ordinária, à qual presidiu o Sr. Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva, em que participaram os senhores vereadores António Alberto Almeida de Matos Gomes, Daniela Sofia Paiva da Silva, José Alexandre Coutinho Bastos de Pinho, José Pedro Vieira de Almeida e Nelson da Silva Martins, tendo sido deliberado por unanimidade dos membros presentes: propor à Assembleia Municipal que delibere proceder à Revisão do Plano Diretor Municipal, fixando um prazo de dois anos para a sua revisão, nos termos e com os fundamentos da informação técnica de 16 de julho de 2018.
+31 de julho de 2018. - O Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva.
+611700282
