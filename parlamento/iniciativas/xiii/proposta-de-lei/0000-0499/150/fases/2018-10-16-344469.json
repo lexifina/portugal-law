@@ -1,0 +1,227 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "150",
+    "id": "43086",
+    "titulo": "Altera o regime do exercício da atividade de segurança privada e da autoproteção."
+  },
+  "fase": "Baixa comissão distribuição inicial generalidade",
+  "codigo_fase": "180",
+  "data_registo": "2018-10-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "180",
+    "Comissao": [
+      {
+        "AccId": "44327",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-10-24",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-10-16",
+        "DatafimApreciacaoPublica": "2018-11-26",
+        "DatainicioApreciacaoPublica": "2018-10-27",
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-12-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Anexo - Relatório do grupo de trabalho constituído em 2015",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e574d31596a42684e5755744f475a6a4e7930305a4451334c5749795a5751744f5456684d5449324e445a6c4e4467774c6e426b5a673d3d&fich=5c5b0a5e-8fc7-4d47-b2ed-95a12646e480.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-11-26",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos - Apreciação Pública",
+            "URL": "http://www.parlamento.pt/sites/com/xiiileg/1cacdlg/paginas/iniciativasapreciacaopublica.aspx?t=55484a766347397a644745675a475567544756704947347577726f674d5455774946684a53556b674e43374371673d3d&path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765130394e4c7a464451554e455445637651584a7864576c3262304e7662576c7a633246764c304677636d566a6157456c517a4d6c5154636c517a4d6c51544e764a544977554356444d79564351574a7361574e684a5449775a47556c4d6a424a626d6c6a6157463061585a68637955794d45786c5a326c7a6247463061585a6863793951636d397762334e305953426b5a53424d5a576b6762693743756941784e54416757456c4a535341304c734b71"
+          },
+          {
+            "DataDocumento": "2019-03-11",
+            "TipoDocumento": "Informação",
+            "TituloDocumento": "Informação - Conselho Superior da Magistratura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a526c59544d31596a67744d446b345a4330304f57597a4c5467784e6d5574596d55315a4459324e7a45784f4451344c6e426b5a673d3d&fich=f4ea35b8-098d-49f3-816e-be5d66711848.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-11-13",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Comissão Nacional de Proteção de Dados (CNPD)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a59794d5441324e4467744f5759314d693030597a4a694c5467344e4449745a6d4e6d4e6a6b304e444e6d4d6a566a4c6e426b5a673d3d&fich=f6210648-9f52-4c2b-8842-fcf69443f25c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Advogados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f546b774f54466a4f474d744d5751334d6930304d6a6b354c546c6d4e4745745a4751774e444979595749314e32526a4c6e426b5a673d3d&fich=99091c8c-1d72-4299-9f4a-dd0422ab57dc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Procuradoria-Geral da República (CSMP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876597a4d35597a41354d7a4574597a6c6a4e6930304e6a686c4c546b31593245744f5745794e7a686d5a6a417759545a6b4c6e426b5a673d3d&fich=c39c0931-c9c6-468e-95ca-9a278ff00a6d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2018-12-19",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer e Nota Técnica CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e5759334e5449314d6a4d744e7a466d4e7930304e47526b4c546c684f4459745a47566a5932557a596d5931596d526b4c6e426b5a673d3d&fich=5f752523-71f7-44dd-9a86-decce3bf5bdd.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2019-03-11"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2018-11-29"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2019-03-19"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2018-11-13"
+          }
+        ],
+        "PedidosParecer": [
+          {
+            "link": "",
+            "nome": "Conselho Superior da Magistratura em 2018-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Conselho Superior do Ministério Público em 2018-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Ordem dos Advogados em 2018-10-24"
+          },
+          {
+            "link": "",
+            "nome": "Comissão Nacional de Proteção de Dados em 2018-10-24"
+          }
+        ],
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "49-108"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2018-12-19",
+            "pubLeg": "XIII",
+            "pubNr": "36",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/036S2/2018-12-19/49?pgs=49-108&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "49-108"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "2018-12-19",
+            "pubLeg": "XIII",
+            "pubNr": "36",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/036S2/2018-12-19/49?pgs=49-108&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "1239",
+            "motivoCessacao": null,
+            "nome": "Luís Marques Guedes"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2018-12-19",
+            "dataRemessa": "2018-12-19",
+            "numeroOficio": "1052/XIII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2018-12-19",
+            "descricao": null,
+            "detalhe": null,
+            "id": "81557",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "224",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-10-16",
+    "EvtId": "9",
+    "Fase": "Baixa comissão distribuição inicial generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "344469",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
