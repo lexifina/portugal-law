@@ -1,0 +1,115 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "999",
+    "id": "43041",
+    "titulo": "Altera o código penal impedindo o confinamento excessivo de animais de companhia"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16787",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-10-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43062",
+        "leg": "XIII",
+        "nr": "1006",
+        "publicacao": null,
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Plano de emergência para a criação e modernização da rede de centros de recolha oficial de animais"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "42637",
+        "leg": "XIII",
+        "nr": "1618",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": "R",
+        "titulo": "Avaliação da aplicação da Lei nº 69/2014, de 29 de agosto, sobre a criminalização de maus tratos a animais, proteção aos animais e alargamento dos direitos das Associações Zoófilas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-10-17",
+        "oradores": null
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "344417",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIII",
+        "nr": "454",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": null,
+        "titulo": "Solicitam alteração legislativa relacionada com a criminalização dos maus tratos a animais de companhia."
+      },
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIII",
+        "nr": "384",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": null,
+        "titulo": "Solicitam a adoção de medidas com vista à construção de um canil municipal na cidade de Aveiro."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "831992",
+        "obs": null,
+        "pag": [
+          "47-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-10-18",
+        "pubLeg": "XIII",
+        "pubNr": "12",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/012/2018-10-18/47?pgs=47-55&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
