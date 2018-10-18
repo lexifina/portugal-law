@@ -1,0 +1,614 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13241",
+  "numero": "557",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-10-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-09",
+            "entidades": null,
+            "id": "111050",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-09 com Professor Mário Nogueira; Professor João Cunha Serra e Professor Pedro Oliveira"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-12-05",
+            "dataResposta": "2018-12-20",
+            "entidades": [
+              "CRUP - Conselho de Reitores das Universidades Portuguesas"
+            ],
+            "nrOficio": "255/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-05",
+            "dataResposta": null,
+            "entidades": [
+              "CCISP - Conselho Coordenador dos Institutos Superiores Politécnicos"
+            ],
+            "nrOficio": "256/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-05",
+            "dataResposta": "2019-01-10",
+            "entidades": [
+              "MIN. DA CIÊNCIA, TECNOLOGIA E ENSINO SUPERIOR"
+            ],
+            "nrOficio": "254/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2018-01-30",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "851942",
+                "obs": null,
+                "pag": [
+                  "17-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-09",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/030/2019-02-09/17?pgs=17-20&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-12-04",
+        "DataArquivo": "2018-01-30",
+        "DataBaixaComissao": "2018-10-30",
+        "DataEnvioPAR": "2019-02-08",
+        "DataReaberta": "2018-12-04",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249305a47526a596a51304c54686b596a55744e446b335a6930344e3245304c5445774e32493359546b774e324d35596935775a47593d&fich=b4ddcb44-8db5-497f-87a4-107b7a907c9b.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67774d5467784d324a6c4c545668595445744e4749324f5331694e3255324c575535595755784d325a6b4d4449325a6935775a47593d&fich=801813be-5aa1-4b69-b7e6-e9ae13fd026f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32457a4e6a42684e5445314c574e6a4e5459744e446332597931694d6a4d314c575131596d5a694d5451334d47466d4e5335775a47593d&fich=a360a515-cc56-476c-b235-d5bfb1470af5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-05",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5931596d56685a4468684c5467314d444d744e445a6d4e6931695a445a6d4c574a694e4745354e5464695a6a646c4e6935775a47593d&fich=65bead8a-8503-46f6-bd6f-bb4a957bf7e6.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-02-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6c6b5a6d55314e7a68684c5459314f4459744e475a695a5331685957457a4c54597a4d4755304e6a63785a474577596935775a47593d&fich=9dfe578a-6586-4fbe-aaa3-630e4671da0b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-20",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249325932466d59575a6b4c546b784d6a49744e4463305a6930354d6a46684c545532596a6333596a51785a4464694d4335775a47593d&fich=b6cafafd-9122-474f-921a-56b77b41d7b0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-01-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a6a4e4468684e7a41794c57566d597a55744e4463314d6931694d4455784c57526a4d7a5935597a646a4e5445795a5335775a47593d&fich=bc48a702-efc5-4752-b051-dc369c7c512e.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-12-04",
+            "gp": "PS",
+            "id": "5678",
+            "motivoCessacao": null,
+            "nome": "Ana Passos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-11-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938324d475a6c5a4749784d793077593245774c5451325a6a5574596a566c596930304d4751344d6a4d35597a51354d6a59756347526d&fich=60fedb13-0ca0-46f5-b5eb-40d8239c4926.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44000",
+      "44041",
+      "44048",
+      "44054"
+    ],
+    "Iniciativasoriginadas": [
+      "44000",
+      "44041",
+      "44048",
+      "44054"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:47:19:737&drc=00:03:07:005"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235907",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/13?pgs=13&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:50:26:742&drc=00:04:40:034"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:55:06:777&drc=00:04:01:967"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/14?pgs=14-15&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=00:59:08:744&drc=00:03:58:003"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/15?pgs=15-16&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:03:06:748&drc=00:03:25:019"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/16?pgs=16&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:06:31:768&drc=00:03:00:935"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:09:32:704&drc=00:02:47:539"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/17?pgs=17-18&org=PLC"
+              }
+            ],
+            "Sumario": "Pelo direito ao descongelamento das carreiras docentes do ensino superior; Materializa o direito à alteração obrigatória de posicionamento remuneratório aos docentes do ensino superior público; Clarifica o regime de progressão remuneratória dos docentes do ensino superior; Valorizações remuneratórias dos docentes do ensino superior; Efetiva o direito à progressão remuneratória dos professores do ensino superior público, garantindo a contabilização de todos os pontos obtidos.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13241",
+    "PetAssunto": "Pelo direito ao descongelamento das carreiras docentes do ensino superior",
+    "PetDataEntrada": "2018-10-18",
+    "PeticoesAssociadas": null,
+    "PetId": "13241",
+    "PetLeg": "XIII",
+    "PetNr": "557",
+    "PetNrAssinaturas": "4265",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2615",
+        "obs": null,
+        "pag": [
+          "13-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-15",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/13?pgs=13-18&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "835173",
+        "obs": null,
+        "pag": [
+          "18-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-07",
+        "pubLeg": "XIII",
+        "pubNr": "18",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/018/2018-12-07/18?pgs=18&org=PLC"
+      }
+    ]
+  }
+}
