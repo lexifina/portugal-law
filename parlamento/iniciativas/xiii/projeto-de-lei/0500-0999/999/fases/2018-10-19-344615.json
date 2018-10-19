@@ -1,0 +1,194 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "999",
+    "id": "43041",
+    "titulo": "Altera o código penal impedindo o confinamento excessivo de animais de companhia"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2018-10-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "44379",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2019-03-26",
+            "id": "111964",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-10-19",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-10-19",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XIII",
+            "nome": "Grupo de Trabalho - Alteração do Código Penal e Código Processo Penal sobre maus-tratos a animais (PJL 724/XIII/3.ª - PAN e 999/XIII/3.ª - PAN)",
+            "num": "79",
+            "orgId": "7024",
+            "publicacao": null,
+            "sigla": "GT-ACPCPPMTA"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2019-04-26",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de alteração - PAN (substitui integralmente o texto da iniciativa) ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a6c6b5a6a6b774e446374596a49784d693030597a6c6b4c54677859325174595449335a6d566c4e6a67795a6a41304c6e426b5a673d3d&fich=29df9047-b212-4c9d-81cd-a27fee682f04.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Observatório Nacional para a Defesa dos Animais e Interesses Difusos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e54686a5a6d4e6d5a6d51744e445132596930304e6a49314c5467784f544d744d444e684e6a51335a475a684f4452694c6e426b5a673d3d&fich=58cfcffd-446b-4625-8193-03a647dfa84b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Plataforma Sociedade Animal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d5a694e444a684f47497459546b784e4330304e574d354c546b344f544d744f574d785a6a4d775a446b354d6d49304c6e426b5a673d3d&fich=6fb42a8b-a914-45c9-9893-9c1f30d992b4.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-02",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Prof.ª Maria da Conceição Valdágua ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f57466b597a49325a6a49745a6d59784d7930305a6a63774c5467345a6d5174595441354d3245315a6d4e684d5463334c6e426b5a673d3d&fich=9adc26f2-ff13-4f70-88fd-a093a5fca177.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-14",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Relatório da nova apreciação na generalidade em Comissão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d44566a4d7a49794f4749744f5459794e7930305a6a49314c5749344e4463744d574d304e6a6c684f474a6a597a566b4c6e426b5a673d3d&fich=05c3228b-9627-4f25-b847-1c469a8bcc5d.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "79",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação na generalidade e especialidade e proposta de alteração apresentadas pelo PAN",
+            "pag": [
+              "4-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-05-14",
+            "pubLeg": "XIII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/100/2019-05-14/4?pgs=4-8&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da nova apreciação na generalidade e especialidade e proposta de alteração apresentadas pelo PAN",
+            "pag": [
+              "4-8"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-05-14",
+            "pubLeg": "XIII",
+            "pubNr": "100",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/100/2019-05-14/4?pgs=4-8&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-05-13",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-05-13",
+            "dataRemessa": "2019-05-14",
+            "numeroOficio": "382/XIII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-05-13",
+            "descricao": null,
+            "detalhe": null,
+            "id": "83256",
+            "publicacao": null,
+            "resultado": "Rejeitado",
+            "reuniao": "258",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2018-10-19",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "344615",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
