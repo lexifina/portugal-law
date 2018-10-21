@@ -11,3 +11,5 @@ a) Extintor e manta de incêndio acessíveis aos utilizadores;
 b) Equipamento de primeiros socorros acessível aos utilizadores;
 
 c) Indicação do número nacional de emergência (112) em local visível aos utilizadores.
+
+3 - Correm por conta do titular do alojamento local as despesas com obras que sejam realizadas nas partes comuns para adaptar ou licenciar o locado para esse fim.
