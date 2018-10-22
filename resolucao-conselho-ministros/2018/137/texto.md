@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 137/2018
+O investimento produtivo em Portugal, nos mais variados setores, nomeadamente na indústria transformadora, é essencial ao relançamento da economia.
+A presente resolução aprova as minutas de quatro contratos fiscais de investimento, e respetivos anexos, com processos negociais já concluídos.
+O contrato fiscal de investimento a celebrar com a sociedade Coficab Portugal - Companhia de Fios e Cabos, Lda., visa o aumento da capacidade da unidade fabril desta sociedade, bem como a criação de uma nova unidade fabril localizada na Guarda.
+O contrato fiscal de investimento a celebrar com a sociedade SOMINCOR - Sociedade Mineira de Neves Corvo, S. A., tem como propósito o aumento da produção de concentrado de zinco na mina Neves Corvo.
+O contrato fiscal de investimento a celebrar com a sociedade LUSO FINSA - Indústria e Comércio de Madeira, S. A., visa o aumento da capacidade de produção da sua unidade industrial.
+O contrato fiscal de investimento a celebrar com a sociedade TMG - Tecidos Plastificados e Outros Revestimentos para a Indústria Automóvel, S. A., tem como propósito a criação de um novo estabelecimento industrial para a produção de tecidos plastificados para a indústria automóvel.
+Considera-se que estes projetos de investimento reúnem as condições legalmente previstas para a concessão dos incentivos fiscais aos grandes projetos de investimento, nos termos do artigo 16.º do Decreto-Lei n.º 162/2014, de 31 de outubro, na sua redação atual.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), e a sociedade Coficab Portugal - Companhia de Fios e Cabos, Lda., com o número de identificação de pessoa coletiva 503 062 928, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas e uma isenção em sede de imposto do selo.
+2 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela AICEP, E. P. E., e a sociedade SOMINCOR - Sociedade Mineira de Neves Corvo, S. A., com o número de identificação de pessoa coletiva 503 352 896, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas e uma isenção em sede de imposto do selo.
+3 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela AICEP, E. P. E., e a sociedade LUSO FINSA - Indústria e Comércio de Madeira, S. A., com o número de identificação de pessoa coletiva 501 133 747, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas e uma isenção em sede de imposto do selo.
+4 - Aprovar a minuta do contrato fiscal de investimento e respetivos anexos, a celebrar entre o Estado Português, representado pela AICEP, E. P. E., e a sociedade TMG - Tecidos Plastificados e Outros Revestimentos para a Indústria Automóvel, S. A., com o número de identificação de pessoa coletiva 503 902 128, à qual se atribui um crédito a título de imposto sobre o rendimento das pessoas coletivas e uma isenção em sede de imposto do selo.
+5 - Determinar que os originais dos contratos referidos nos números anteriores fiquem arquivados na AICEP, E. P. E.
+6 - Determinar que a presente resolução reporta os seus efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 18 de outubro de 2018. - Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+111748608
