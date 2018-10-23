@@ -22,4 +22,4 @@ c) Dentro de cada carreira e ou categoria, quando imprescindível, da área de f
 
 7 - Na informação referida no número anterior deve igualmente constar o número de postos de trabalho que podem ser disponibilizados tendo em conta as necessidades de afectação a outros órgãos e serviços.
 
-8 - A informação a que se refere este artigo deve igualmente ser remetida ao membro do Governo Regional responsável pela área da Administração Pública.
+8 - O mapa anual global consolidado de recrutamento destinado ao recrutamento de entre indivíduos sem vínculo de emprego público ou com vínculo de emprego público a termo é aprovado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública durante o primeiro trimestre do respetivo ano orçamental e publicado na bolsa de emprego público dos Açores - BEP-Açores.

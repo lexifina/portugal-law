@@ -8,7 +8,7 @@
 
 3 - A possibilidade de candidatura a procedimento concursal a quem não seja titular da habilitação exigida carece de autorização prévia do membro do Governo Regional com competência na área da Administração Pública.
 
-4 - (Revogado).
+4 - (Revogado.)
 
 5 - O dirigente máximo do serviço pode optar, em alternativa à publicitação de procedimento concursal, pelo recurso a diplomados com o curso de Estudos Avançados em Gestão Pública (CEAGP) ou de outros cursos de idêntica natureza desde que devidamente reconhecidos por despacho conjunto dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.
 
@@ -16,6 +16,14 @@
 
 7 - A tramitação do procedimento concursal, incluindo a do destinado a constituir reservas de recrutamento em entidade centralizada, bem como a referente a carreiras especiais à qual aquela tramitação se revele desadequada, é regulamentada por resolução do Governo Regional.
 
-8 - Os métodos de selecção a que se refere a alínea b) dos n.os 1 e 2 do artigo 53.º da Lei n.º 12-A/2008, de 27 de Fevereiro, podem ser substituídos por entrevista profissional de selecção nos termos a definir no diploma a que alude o número anterior.
+8 - Sem prejuízo do disposto nos números seguintes, nos procedimentos concursais para constituição de vínculos de emprego público por tempo indeterminado, a termo ou nomeação transitória, os métodos de seleção obrigatórios são, exclusivamente, a prova de conhecimentos e a avaliação curricular.
 
-9 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
+9 - Para além dos métodos de seleção obrigatórios, face à natureza das tarefas e responsabilidades inerentes aos postos de trabalho a ocupar e ao perfil de competências previamente definido, pode igualmente ser adotada uma prova específica, desde que prevista na lei e devidamente fundamentada, com exceção da entrevista profissional de seleção, desde que esta não seja obrigatória em legislação nacional específica.
+
+10 - A prova de conhecimentos a realizar no âmbito do procedimento concursal, quando assuma a forma escrita, é efetuada após o sorteio, realizado na presença dos candidatos, de três propostas fechadas apresentadas em envelope branco e opaco.
+
+11 - A ponderação para a valoração final dos métodos de seleção obrigatórios, prova de conhecimentos e avaliação curricular, é de 70 % e 30 %, respetivamente.
+
+12 - No caso previsto no n.º 9, a ponderação para a valoração final dos métodos de seleção, prova de conhecimentos e avaliação curricular, não pode ser inferior, respetivamente, a 50 % e 30 %.
+
+13 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
