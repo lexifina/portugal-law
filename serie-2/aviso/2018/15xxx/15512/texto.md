@@ -1,0 +1,5 @@
+Aviso n.º 15512/2018
+Torna-se público, que nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, se encontra para consulta pública, pelo prazo de 30 dias, a contar da data de publicação do presente Aviso no Diário da República, 2.ª série, o Projeto de Regulamento Serviços de Apoio à Família - Refeições Escolares e AAAF/Prolongamento de Horário, que poderá ser consultado no Edifício dos Paços do Município da Figueira da Foz todos os dias úteis, durante o horário normal de expediente ou na Internet, no sítio institucional do Município em www.cm-figfoz.pt.
+Mais se informa que os interessados podem formular por escrito reclamações, observações ou sugestões sobre o projeto de Regulamento em causa, dirigidas ao Presidente da Câmara, as quais poderão ser remetidas para o endereço eletrónico do município - municipe@cm-figfoz.pt, por correio para a morada: Paços do Concelho, Av. Saraiva de Carvalho, 3084-501 Figueira da Foz ou entregues pessoalmente no Balcão de Atendimento Único do Município.
+28 de setembro de 2018. - O Presidente da Câmara Municipal, João Ataíde.
+311721497
