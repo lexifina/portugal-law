@@ -2,6 +2,8 @@
 
 ### 1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:
 
+1 - Os vinhos com IG «Alentejano» devem ter um título alcoométrico volúmico adquirido mínimo de:
+
 a) Vinho tinto e rosado ou rosé - 11 % vol.;
 
 b) Vinho branco - 11 % vol.;
