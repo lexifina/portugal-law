@@ -1,0 +1,547 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13245",
+  "numero": "561",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-24",
+            "entidades": null,
+            "id": "111220",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-24 com Peticionários da Petição n.º 561/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-01-16",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "7/CS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-15",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-12-05",
+        "DataArquivo": "2019-07-17",
+        "DataBaixaComissao": "2018-11-15",
+        "DataEnvioPAR": "2019-07-18",
+        "DataReaberta": "2018-12-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-10",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a474a694d5759794d574d744e6d51344d6930305a4752694c546c6d4d5459745a6d45794f57557a4d4455324f47597a4c6e426b5a673d3d&fich=dbb1f21c-6d82-4ddb-9f16-fa29e30568f3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-01-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876596d566b5a54426b4d4749744e546b31595330305a6a59784c546b35595759744e474e6a4e3251314d444a6d595749334c6e426b5a673d3d&fich=bede0d0b-595a-4f61-99af-4cc7d502fab7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764f444d354e6d55345a546b745a4745794f4330305a54426a4c5749325a6d55744d7a45305a5749304d3259304f5445314c6e426b5a673d3d&fich=8396e8e9-da28-4e0c-b6fe-314eb43f4915.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-12-05",
+            "gp": "PSD",
+            "id": "6138",
+            "motivoCessacao": null,
+            "nome": "Isaura Pedro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-05-21",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-11-16",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794e4755794f444d354f533035596d457a4c54526b4e5759744f5459304e7930344d54466c4f54637a4f545a69596a67756347526d&fich=24e28399-9ba3-4d5f-9647-811e97396bb8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44389",
+      "44507",
+      "44382"
+    ],
+    "Iniciativasoriginadas": [
+      "44389",
+      "44507",
+      "44382"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:29:34:886&drc=00:03:15:540"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:32:50:427&drc=00:02:53:895"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:35:44:322&drc=00:03:53:014"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:39:37:337&drc=00:03:08:370"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:42:45:707&drc=00:02:03:218"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:44:48:926&drc=00:03:47:483"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-22",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_21_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=02:48:36:409&drc=00:03:04:445"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-22",
+                "pubLeg": "XIV",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/44?pgs=44&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à contratação de intérpretes de língua gestual portuguesa para o Serviço Nacional de Saúde; Recomenda ao Governo a contratação de intérpretes de língua gestual para os serviços públicos; Garante o acesso das pessoas surdas ao Serviço Nacional de Saúde",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13245",
+    "PetAssunto": "Pela contratação de intérpretes de Língua Gestual Portuguesa para o Serviço Nacional de Saúde",
+    "PetDataEntrada": "2018-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "13245",
+    "PetLeg": "XIII",
+    "PetNr": "561",
+    "PetNrAssinaturas": "4147",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2696",
+        "obs": null,
+        "pag": [
+          "39-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-22",
+        "pubLeg": "XIV",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/055/2020-05-22/39?pgs=39-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "837597",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-01-18",
+        "pubLeg": "XIII",
+        "pubNr": "25",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/025/2019-01-18/14?pgs=14-15&org=PLC"
+      }
+    ]
+  }
+}
