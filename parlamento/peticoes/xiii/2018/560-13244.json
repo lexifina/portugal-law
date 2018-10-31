@@ -1,0 +1,171 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13244",
+  "numero": "560",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-15",
+            "entidades": null,
+            "id": "111126",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-15 com Daniel Vinhais, Sandra Marisa Pimenta, Susana Silva, Tenente Coronel António Costa Mota"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-01-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "851943",
+                "obs": null,
+                "pag": [
+                  "21-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-09",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/030/2019-02-09/21?pgs=21-23&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-12-05",
+        "DataArquivo": "2019-01-30",
+        "DataBaixaComissao": "2018-11-09",
+        "DataEnvioPAR": "2019-01-31",
+        "DataReaberta": "2018-12-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e515a585270593246764c7a4e6c4d7a466a4d574d334c5455335a5441744e444d354d4331684d44686b4c5445304d6a45785a6a6c6a5954426c4f4335775a47593d&fich=3e31c1c7-57e0-4390-a08d-14211f9ca0e8.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-02-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387a5130524f4c305276593356745a57353062334e515a585270593246764c7a6869596a41314d544d774c546c6a595441744e44646a4e533169595759344c5449344e6a45334d6a6b324d6a4669596935775a47593d&fich=8bb05130-9ca0-47c5-baf8-2861729621bb.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4526",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Defesa Nacional",
+        "NotasAdmissibilidade": null,
+        "Numero": "3",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-12-05",
+            "gp": "CDS-PP",
+            "id": "1654",
+            "motivoCessacao": null,
+            "nome": "João Rebelo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-11-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a5a574e684e5755774f4330345a4467334c5451335a6a41744f57526d4d53316d596a59795a44466d4e6a55334d7a4d756347526d&fich=3eca5e08-8d87-47f0-9df1-fb62d1f65733.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44038"
+    ],
+    "Iniciativasoriginadas": [
+      "44038"
+    ],
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13244",
+    "PetAssunto": "Solicitam igualdade na contagem do tempo de serviço de ex-militares.",
+    "PetDataEntrada": "2018-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "13244",
+    "PetLeg": "XIII",
+    "PetNr": "560",
+    "PetNrAssinaturas": "4570",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "842846",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-02-05",
+        "pubLeg": "XIII",
+        "pubNr": "29",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/029/2019-02-05?org=PLC"
+      }
+    ]
+  }
+}
