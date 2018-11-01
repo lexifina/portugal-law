@@ -6,7 +6,7 @@
 
 a) A entrega da declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), quando respeite a pessoas singulares titulares de estabelecimentos individuais de responsabilidade limitada;
 
-b) A entrega da declaração anual de informação contabilística e fiscal prevista na alínea c) do n.º 1 do artigo 109.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas;
+b) A entrega da declaração anual de informação contabilística e fiscal prevista na alínea c) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas;
 
 c) O registo da prestação de contas, nos termos previstos na legislação do registo comercial;
 
@@ -22,10 +22,14 @@ g) A confirmação da informação sobre o beneficiário efetivo, nos termos pre
 
 a) A declaração anual de informação contabilística e fiscal prevista no n.º 1 do artigo 113.º do CIRS, quando respeite a pessoas singulares que não sejam titulares de estabelecimentos individuais de responsabilidade limitada;
 
-b) A declaração anual de informação contabilística e fiscal e os mapas recapitulativos previstos nas alíneas d) a f) do n.º 1 do artigo 28.º do Código do Imposto sobre o Valor Acrescentado;
+b) A declaração anual de informação contabilística e fiscal e os mapas recapitulativos previstos nas alíneas d) a f) do n.º 1 do artigo 29.º do Código do Imposto sobre o Valor Acrescentado;
 
 c) A declaração anual prevista nos n.os 1 e 2 do artigo 52.º do Código do Imposto do Selo.
 
 3 - As obrigações legais previstas no n.º 1 do artigo 2.º são exclusivamente cumpridas através da entrega da IES.
 
 4 - As entidades obrigadas ao cumprimento das obrigações legais referidas nos números anteriores são determinadas pela legislação respectiva.
+
+5 - O cumprimento das obrigações legais referidas no n.º 1 e na alínea a) do n.º 2 fica dependente da submissão prévia do ficheiro normalizado de auditoria tributária, designado de SAF-T (PT), relativo à contabilidade, à Autoridade Tributária e Aduaneira e respetiva validação, sem a qual não é possível a entrega da IES/DA, nos termos a definir por portaria dos membros do Governo responsáveis pela área das finanças, pelo INE, I. P., e pelas áreas da justiça e da economia.
+
+6 - Para efeitos contraordenacionais, a obrigação de entrega da IES/DA constitui uma obrigação distinta da submissão e validação do ficheiro normalizado referido no número anterior.
