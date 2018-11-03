@@ -16,7 +16,7 @@ d) Um representante da Delegação da Madeira da União dos Sindicatos Independe
 
 e) Um representante da Associação Comercial e Industrial do Funchal (ACIF);
 
-f) Um representante da Associação de Comércio e Serviços (ACS);
+f) Um representante da Associação de Agricultores da Madeira;
 
 g) Um representante de Associação de Indústria - Associação da Construção da Região Autónoma da Madeira (ASSICOM);
 

@@ -28,6 +28,10 @@ i) Apreciar, em geral, a evolução da economia e as medidas da política econó
 
 j) Promover o diálogo e a concertação entre parceiros sociais;
 
-k) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, retificada pela Declaração de retificação n.º 21/2009, de 18 de março e alterada pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho (retificada pela Declaração de Retificação n.º 38/2012, de 23 de julho), 47/2012, de 29 de agosto, 69/2013, de 30 de agosto, 27/2014, de 8 de maio, 55/2014, de 25 de agosto, 28/2015, de 14 de abril, e 120/2015, de 1 de setembro, conforme o disposto no Decreto Legislativo Regional n.º 4/2012/M, de 16 de março;
+k) Acompanhar as estratégias e políticas públicas de desenvolvimento da economia social;
 
-l) Aprovar o seu regulamento interno.
+l) Organizar e manter listas para efeitos de designação de árbitros, de arbitragem obrigatória, e a arbitragem necessária, bem como a arbitragem sobre serviços mínimos durante a greve e os meios necessários para os assegurar de acordo com o artigo 513.º e a alínea b) do n.º 4 do artigo 538.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, retificada pela Declaração de retificação n.º 21/2009, de 18 de março e alterada pelas Leis n.os 105/2009, de 14 de setembro, 53/2011, de 14 de outubro, 23/2012, de 25 de junho (retificada pela Declaração de Retificação n.º 38/2012, de 23 de julho), 47/2012, de 29 de agosto, 69/2013, de 30 de agosto, 27/2014, de 8 de maio, 55/2014, de 25 de agosto, 28/2015, de 14 de abril, e 120/2015, de 1 de setembro, conforme o disposto no Decreto Legislativo Regional n.º 4/2012/M, de 16 de março;
+
+m) Aprovar o seu regulamento interno.
+
+4 - O Conselho será responsável pela elaboração de um relatório anual sobre o desenvolvimento da economia social regional.

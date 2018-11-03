@@ -2,4 +2,4 @@
 
 ### Pessoal
 
-Os serviços de apoio técnico e administrativo dispõem de pessoal destacado dos quadros do Governo Regional.
+Os serviços de apoio técnico e administrativo dispõem de pessoal pertencente à administração pública regional, em regime de mobilidade nos termos da lei.
