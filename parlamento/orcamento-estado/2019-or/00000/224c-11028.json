@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tuVvQ8lueOB0qx4QedHPyLq16usJf5itCRE0ciKpx80C3UBsmJDhdrK7jW723VbsW4ynGAKj5ZHf0XV8mT0AkJe1Kz5Wulj3wHkA7jfZ9oPZxMCaD%2fAPvhGNvWKtYeJZ5doMl79E9Ql3Q8DEztWmomKHZNNvLptQyajll%2fnRJ1VJunMUIpAPaXoqL677tHtC5UAp%2fwZ0HQxztJHKlz7Lk5Y64OfF3l3Krz%2fEjV2mrzkXnPqFTw76OMSKxzW2Xqg0k8bjQEltB88cjypX1BwvMUDVEsqZHSTnKqIBzKato2UresCJ5X74TRXx4HBs0JgDVanfhhE97j4pJ3HjjCuVWTrdbnsMHNtYNVd1HV8Hzij06T5bOw8gGtWEbmmBXkZIHCErUG%2bPvH6EC3NOqqxUkzK9MMTmcvVacZ%2fEmrVgy4U%3d&fich=OEPropostasAlteracao2019Or_json.txt&Inline=true",
+  "ficheiro_sha256": "494bd91e7bbc2757e1f7f6ddf7144d42ca0a156839b51a7ba394255263146d5c",
+  "legislatura": "XIII",
+  "id": "11028",
+  "numero": "224C",
+  "orcamento": "2019",
+  "versao": "Or",
+  "data_registo": "2018-11-06",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11028",
+    "Numero": "224C",
+    "Data": "06/11/2018 20:48:00",
+    "Titulo": "Novo Artigo 274.º-A (Alteração da Lei n.º 169/99, de 18 de setembro)",
+    "Tema": "Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) em Plenário",
+    "NumeroArtigoNovo": "Artigo 274.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f5449774d5467784d4445314c3142424c3249325a44646d4d54466a4c5759334f5755744e4751345a6930344d4441784c5755784f4441774d3255334e54566c597935775a47593d&Fich=b6d7f11c-f79e-4d8f-8001-e18003e755ec.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DUARTE ALVES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULA SANTOS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 274.º-A",
+        "Titulo": "Alteração da Lei n.º 169/99, de 18 de setembro",
+        "Texto": "O artigo 27.º da Lei n.º 169/99, de 18 de setembro, que define as competências e o regime jurídico das autarquias locais, na sua redação atual, passa a ter a seguinte redação:\r\n«Artigo 27.º\r\nFunções a tempo inteiro e a meio tempo\r\n1 – (…).\r\n2 – (…).\r\n3 – (…).\r\n4 – (…).\r\n5 – (…).\r\n6- (Novo) A possibilidade de ",
+        "Estado": "Aprovado(a) em Plenário"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 274.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Alteração da Lei n.º 169/99, de 18 de setembro",
+        "Data": "29/11/2018 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) em Plenário",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português",
+            "Partido Ecologista \"Os Verdes\"",
+            "Pessoas-Animais-Natureza"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
