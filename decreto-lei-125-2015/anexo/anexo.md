@@ -1,0 +1,5 @@
+# Anexo
+
+### (a que se refere o artigo 13.º)
+
+ESTATUTO DOS ESTABELECIMENTOS MILITARES DE ENSINO NÃO SUPERIOR DO EXÉRCITO
