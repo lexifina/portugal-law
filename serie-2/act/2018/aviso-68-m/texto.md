@@ -1,0 +1,4 @@
+Aviso n.º 68/2018/M
+No cumprimento dos termos do disposto no n.º 1 do artigo 161.º do Decreto Legislativo Regional n.º 18/2017/M, de 27 de junho, que institui o Sistema Regional de Gestão Territorial da Região Autónoma da Madeira, torna-se público que foi publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 174, suplemento, de 19 de outubro de 2018, a Resolução n.º 717/2018, aprovada na reunião do Conselho do Governo realizada no dia 17 de outubro, que prorroga por mais um ano o prazo de vigência das medidas preventivas a que ficou sujeita a área abrangida pela suspensão parcial do Plano Diretor Municipal São Vicente, determinada pela Resolução n.º 716/2016, de 21 de outubro.
+22 de outubro de 2018. - O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+311762223
