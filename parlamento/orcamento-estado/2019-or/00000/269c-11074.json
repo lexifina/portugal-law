@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tuVvQ8lueOB0qx4QedHPyLq16usJf5itCRE0ciKpx80C3UBsmJDhdrK7jW723VbsW4ynGAKj5ZHf0XV8mT0AkJe1Kz5Wulj3wHkA7jfZ9oPZxMCaD%2fAPvhGNvWKtYeJZ5doMl79E9Ql3Q8DEztWmomKHZNNvLptQyajll%2fnRJ1VJunMUIpAPaXoqL677tHtC5UAp%2fwZ0HQxztJHKlz7Lk5Y64OfF3l3Krz%2fEjV2mrzkXnPqFTw76OMSKxzW2Xqg0k8bjQEltB88cjypX1BwvMUDVEsqZHSTnKqIBzKato2UresCJ5X74TRXx4HBs0JgDVanfhhE97j4pJ3HjjCuVWTrdbnsMHNtYNVd1HV8Hzij06T5bOw8gGtWEbmmBXkZIHCErUG%2bPvH6EC3NOqqxUkzK9MMTmcvVacZ%2fEmrVgy4U%3d&fich=OEPropostasAlteracao2019Or_json.txt&Inline=true",
+  "ficheiro_sha256": "494bd91e7bbc2757e1f7f6ddf7144d42ca0a156839b51a7ba394255263146d5c",
+  "legislatura": "XIII",
+  "id": "11074",
+  "numero": "269C",
+  "orcamento": "2019",
+  "versao": "Or",
+  "data_registo": "2018-11-09",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11074",
+    "Numero": "269C",
+    "Data": "09/11/2018 17:04:00",
+    "Titulo": "Novo Artigo 182.º-A (Eficiência energética)",
+    "Tema": "Economia, Inovação e Obras Públicas; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 182.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f5449774d5467784d4445314c3142424c324e6a4e4755355a6a4a6c4c544579597a67744e474a6a4d7931694e474e6d4c546c694d6a55774d4759314e474532595335775a47593d&Fich=cc4e9f2e-12c8-4bc3-b4cf-9b2500f54a6a.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "BRUNO DIAS"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DUARTE ALVES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 182.º-A",
+        "Titulo": "Eficiência energética",
+        "Texto": "1 – O Governo cria, no âmbito dos ministérios do Ambiente e Transição Energética, da Economia, da Agricultura, do Mar e da Presidência e Modernização Administrativa, uma Estrutura de Missão tendo como objetivo o desenvolvimento dos programas de eficiência energética nos sectores público e privado, que promove",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 182.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Eficiência energética",
+        "Data": "27/11/2018 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
