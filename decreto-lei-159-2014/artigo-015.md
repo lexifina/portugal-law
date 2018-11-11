@@ -42,4 +42,4 @@ g) Se o termo do contrato de locação financeira ou de aluguer for posterior à
 
 13 - Não são elegíveis as despesas pagas no âmbito de contratos efetuados através de intermediários ou consultores, em que o montante a pagar é expresso em percentagem do montante cofinanciado ou das despesas elegíveis da operação.
 
-14 - Não são elegíveis os pagamentos em numerário, exceto, no âmbito dos fundos da política de coesão, nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a 250 euros.
+14 - Sem prejuízo da regulamentação europeia aplicável, não são elegíveis os pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a 250 euros.
