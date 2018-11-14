@@ -16,7 +16,7 @@ b) A Secretária de Estado Adjunta do Primeiro-Ministro;
 
 c) Uma/um- secretária/o de Estado em representação de cada ministra/o.
 
-d) Uma/um representante do Ministro Adjunto que por ele seja indicada/o.
+d) Revogada;
 
 3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.
 
