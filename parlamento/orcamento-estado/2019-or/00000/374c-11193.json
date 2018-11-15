@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tuVvQ8lueOB0qx4QedHPyLq16usJf5itCRE0ciKpx80C3UBsmJDhdrK7jW723VbsW4ynGAKj5ZHf0XV8mT0AkJe1Kz5Wulj3wHkA7jfZ9oPZxMCaD%2fAPvhGNvWKtYeJZ5doMl79E9Ql3Q8DEztWmomKHZNNvLptQyajll%2fnRJ1VJunMUIpAPaXoqL677tHtC5UAp%2fwZ0HQxztJHKlz7Lk5Y64OfF3l3Krz%2fEjV2mrzkXnPqFTw76OMSKxzW2Xqg0k8bjQEltB88cjypX1BwvMUDVEsqZHSTnKqIBzKato2UresCJ5X74TRXx4HBs0JgDVanfhhE97j4pJ3HjjCuVWTrdbnsMHNtYNVd1HV8Hzij06T5bOw8gGtWEbmmBXkZIHCErUG%2bPvH6EC3NOqqxUkzK9MMTmcvVacZ%2fEmrVgy4U%3d&fich=OEPropostasAlteracao2019Or_json.txt&Inline=true",
+  "ficheiro_sha256": "494bd91e7bbc2757e1f7f6ddf7144d42ca0a156839b51a7ba394255263146d5c",
+  "legislatura": "XIII",
+  "id": "11193",
+  "numero": "374C",
+  "orcamento": "2019",
+  "versao": "Or",
+  "data_registo": "2018-11-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11193",
+    "Numero": "374C",
+    "Data": "15/11/2018 17:10:00",
+    "Titulo": "Novo Artigo 158.º-B (Reposição do Programa de Itinerâncias Culturais)",
+    "Tema": "Educação e Ciência; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 158.º-B",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f5449774d5467784d4445314c3142424c7a426c5a5759794e6a597a4c544e6c4d4467744e4755334f4330354f4749334c5459344e3245354d7a637a4d6a45325a6935775a47593d&Fich=0eef2663-3e08-4e78-98b7-687a9373216f.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ANA MESQUITA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DUARTE ALVES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 158.º-B",
+        "Titulo": "Reposição do Programa de Itinerâncias Culturais",
+        "Texto": "1- É retomado o Programa de Itinerâncias Culturais, com vista à difusão do livro e de promoção de leitura em vários contextos.\r\n2 – O Programa referido no número anterior é de responsabilidade partilhada entre os ministérios da cultura e da educação, em articulação com as autarquias locais em termos a acordar",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 158.º-B"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Reposição do Programa de Itinerâncias Culturais",
+        "Data": "27/11/2018 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
