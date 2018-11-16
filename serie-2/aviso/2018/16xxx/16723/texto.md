@@ -1,0 +1,12 @@
+Aviso n.º 16723/2018
+Revogação do Plano de Pormenor de Uma Área da Vila de Nordeste (PP-VN)
+António Miguel Borges Soares, presidente da Câmara Municipal de Nordeste, nos termos do disposto no n.º 3 do artigo 127.º conjugado com a alínea j) do n.º 4 do artigo 191.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, que a Assembleia Municipal de Nordeste, na sua sessão ordinária de 28 de setembro de 2018, aprovou a proposta de Revogação do Plano de Pormenor de uma Área da Vila de Nordeste apresentada pela Câmara Municipal de Nordeste.
+Assim, nos termos e para efeitos do disposto na alínea f) do n.º 4 do artigo 191.º em conjugação o n.º 3 do artigo 127.º do Decreto-Lei n.º 80/2015, de 14 de maio, publica-se a deliberação da Assembleia Municipal de Nordeste que aprovou a proposta de Revogação do Plano de Pormenor de uma Área da Vila de Nordeste, a qual pode ser encontrada no Website da CMN através do endereço http://cmnordeste.pt.
+28 de setembro de 2018. - O Presidente da Câmara Municipal de Nordeste, António Miguel Borges Soares.
+Deliberação
+A Assembleia Municipal de Nordeste, em sessão ordinária de 28 de setembro de 2018, deliberou por unanimidade aprovar em minuta para efeitos de execução imediata, de acordo com o que dispõe o n.º 3 do artigo 57.º da Lei n.º 75/2013 de 12 de setembro, a seguinte deliberação:
+Proposta - Revogação do Plano de Pormenor de Uma Área da Vila de Nordeste (PP-VN)
+Presente o ofício número mil oitocentos sessenta e seis, de sete de agosto findo, da Câmara Municipal de Nordeste, submetendo à aprovação deste órgão a proposta referenciada em epígrafe, ao abrigo do disposto no n.º 3 do artigo 127.º, em conjugação com o disposto no n.º 1 do artigo 90.º do Decreto-Lei n.º 80/2015, de 14 de maio, tendo em consideração que a referida revogação decorre ao abrigo do disposto no artigo 50.º e no n.º do artigo 57.º da Lei n.º 31/2014, de 30 de maio alterada pela Lei n.º 74/2017 de 16 de agosto, e também ao abrigo do disposto no artigo 127.º e no n.º 1, do artigo 115.º do já referido Decreto-Lei n.º 80/2015, de 14 de maio, encontrando-se devidamente fundamentado no respetivo Relatório de Execução e Avaliação do PP-VN.
+A Assembleia deliberou, por unanimidade, aprovar a presente proposta.
+Vila de Nordeste, 28 de setembro de 2018. - O Presidente da Câmara Municipal de Nordeste, António Miguel Borges Soares.
+611784767
