@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tuVvQ8lueOB0qx4QedHPyLq16usJf5itCRE0ciKpx80C3UBsmJDhdrK7jW723VbsW4ynGAKj5ZHf0XV8mT0AkJe1Kz5Wulj3wHkA7jfZ9oPZxMCaD%2fAPvhGNvWKtYeJZ5doMl79E9Ql3Q8DEztWmomKHZNNvLptQyajll%2fnRJ1VJunMUIpAPaXoqL677tHtC5UAp%2fwZ0HQxztJHKlz7Lk5Y64OfF3l3Krz%2fEjV2mrzkXnPqFTw76OMSKxzW2Xqg0k8bjQEltB88cjypX1BwvMUDVEsqZHSTnKqIBzKato2UresCJ5X74TRXx4HBs0JgDVanfhhE97j4pJ3HjjCuVWTrdbnsMHNtYNVd1HV8Hzij06T5bOw8gGtWEbmmBXkZIHCErUG%2bPvH6EC3NOqqxUkzK9MMTmcvVacZ%2fEmrVgy4U%3d&fich=OEPropostasAlteracao2019Or_json.txt&Inline=true",
+  "ficheiro_sha256": "494bd91e7bbc2757e1f7f6ddf7144d42ca0a156839b51a7ba394255263146d5c",
+  "legislatura": "XIII",
+  "id": "11371",
+  "numero": "547C",
+  "orcamento": "2019",
+  "versao": "Or",
+  "data_registo": "2018-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11371",
+    "Numero": "547C",
+    "Data": "16/11/2018 15:11:00",
+    "Titulo": "Novo Artigo N.º 278.º-A (Financiamento do Instituto do Cinema e do Audiovisual, I:P)",
+    "Tema": "Cultura, Comunicação, Juventude e Desporto; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 278.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f5449774d5467784d4445314c3142424c325a6d4d444d784e6d466b4c544579595459744e47457a595331694f474d324c57526b4f54466b596d45304e44637a4d7935775a47593d&Fich=ff0316ad-12a6-4a3a-b8c6-dd91dba44733.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ANA MESQUITA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DUARTE ALVES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 278.º-A",
+        "Titulo": "Financiamento do Instituto do Cinema e do Audiovisual, I:P",
+        "Texto": "O artigo 9.º da Lei n.º 55/2012, de 6 de setembro, alterada pelas Leis n.ºs 28/2014, de 19 de maio e 82-B/2014, de 31 de dezembro, que “Estabelece os princípios de ação do Estado no quadro do\r\nfomento, desenvolvimento e proteção da arte do cinema e das atividades cinematográficas e audiovisuais”, passa a ter ",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 278.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Financiamento do Instituto do Cinema e do Audiovisual, I:P",
+        "Data": "28/11/2018 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
