@@ -8,4 +8,6 @@
 
 3 - A apreciação do projeto docente pelo avaliador é comunicada por escrito ao avaliado.
 
-4 - O projeto docente tem caráter opcional, sendo substituído, para efeitos avaliativos, se não for apresentado pelo avaliado, pelas metas e objetivos do projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial e plano anual de atividades do serviço técnico da Direção Regional de Educação.
+4 - O projeto docente é obrigatório, sem prejuízo dos casos previstos no artigo 28.º
+
+5 - A omissão na entrega do projeto docente, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.

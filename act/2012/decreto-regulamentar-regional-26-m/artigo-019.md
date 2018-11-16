@@ -20,4 +20,8 @@ e) A formação realizada e o seu contributo para a melhoria da ação educativa
 
 4 - O relatório de autoavaliação deve ter um máximo de três páginas, não lhe podendo ser anexados documentos.
 
-5 - A omissão na entrega do relatório de autoavaliação, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.
+5 - Sobre o relatório de autoavaliação é emitida anualmente uma apreciação quantitativa fundamentada relativamente a cada uma das dimensões previstas no n.º 1 do artigo 4.º, devendo a mesma ser comunicada pelo avaliador interno ao avaliado, por escrito, até ao final do respetivo ano escolar.
+
+6 - A classificação final de cada uma das dimensões corresponde ao resultado da média aritmética simples das pontuações obtidas nos relatórios de autoavaliação.
+
+7 - A omissão na entrega do relatório de autoavaliação, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.

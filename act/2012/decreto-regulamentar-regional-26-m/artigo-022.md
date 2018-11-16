@@ -2,7 +2,7 @@
 
 ### Critérios de desempate
 
-Quando, para os efeitos previstos no artigo anterior, for necessário proceder ao desempate entre docentes com a mesma classificação final na avaliação do desempenho relevam, sucessivamente, os seguintes critérios:
+1 - Quando, para os efeitos previstos no artigo anterior, for necessário proceder ao desempate entre docentes com a mesma classificação final na avaliação do desempenho relevam, sucessivamente, os seguintes critérios:
 
 a) A classificação obtida na dimensão «científica e pedagógica»;
 
@@ -10,6 +10,8 @@ b) A classificação obtida na dimensão «participação nas atividades desenvo
 
 c) A classificação obtida na dimensão «formação contínua e desenvolvimento profissional»;
 
-d) A graduação profissional calculada nos termos dos artigos 12.º e 13.º do Decreto Legislativo Regional n.º 14/2009/M, de 8 de junho;
+d) A graduação profissional calculada nos termos dos artigos 11.º e 12.º do Decreto Legislativo Regional n.º 28/2016/M, de 15 de julho;
 
 e) O tempo de serviço em exercício de funções públicas.
+
+2 - Caso seja necessário proceder ao desempate de docentes com a mesma menção quantitativa, abrangidos por diferentes sistemas de classificação, são aplicáveis, sucessivamente, as alíneas d) e e) do número anterior.

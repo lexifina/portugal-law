@@ -10,7 +10,7 @@ a) 60 % para a dimensão científica e pedagógica;
 
 b) 20 % para a dimensão participação nas atividades desenvolvidas no estabelecimento de educação, de ensino ou de instituição de educação especial ou no serviço técnico da Direção Regional de Educação;
 
-c) 20 % para a dimensão formação contínua e desenvolvimento profissional.
+c) 20 % para a dimensão formação contínua e desenvolvimento profissional, sendo que, caso se trate de docente com contrato a termo resolutivo que não tenha realizado formação, é atribuída a classificação mínima de 6,5 valores nesta dimensão;
 
 3 - Havendo observação de atividades educativas, aulas ou estratégias de intervenção, a avaliação externa representa 70 % da percentagem prevista na alínea a) do número anterior.
 

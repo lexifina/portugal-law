@@ -15,3 +15,5 @@ b) Tendo sido atribuída a avaliação do desempenho prevista no n.º 2, pretend
 4 - Aos docentes que permaneçam em situação de ausência ao serviço que inviabilize a verificação do requisito de tempo mínimo para avaliação do desempenho é-lhes aplicável o disposto nos n.os 2 e 3.
 
 5 - A correspondência entre a classificação obtida nos termos do regime geral do sistema integrado de gestão e avaliação de desempenho, aplicável aos docentes em regime de mobilidade em organismos e serviços da Administração Pública, e as menções previstas no artigo 23.º é estabelecida por despacho conjunto dos membros do Governo responsáveis pela Administração Pública e educação, ouvidas as associações sindicais.
+
+6 - Os docentes referidos nos n.os 1 e 2 estão dispensados do requisito previsto na alínea c) do n.º 2 do artigo 18.º para a atribuição da menção de Excelente.
