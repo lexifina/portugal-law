@@ -1,0 +1,90 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tuVvQ8lueOB0qx4QedHPyLq16usJf5itCRE0ciKpx80C3UBsmJDhdrK7jW723VbsW4ynGAKj5ZHf0XV8mT0AkJe1Kz5Wulj3wHkA7jfZ9oPZxMCaD%2fAPvhGNvWKtYeJZ5doMl79E9Ql3Q8DEztWmomKHZNNvLptQyajll%2fnRJ1VJunMUIpAPaXoqL677tHtC5UAp%2fwZ0HQxztJHKlz7Lk5Y64OfF3l3Krz%2fEjV2mrzkXnPqFTw76OMSKxzW2Xqg0k8bjQEltB88cjypX1BwvMUDVEsqZHSTnKqIBzKato2UresCJ5X74TRXx4HBs0JgDVanfhhE97j4pJ3HjjCuVWTrdbnsMHNtYNVd1HV8Hzij06T5bOw8gGtWEbmmBXkZIHCErUG%2bPvH6EC3NOqqxUkzK9MMTmcvVacZ%2fEmrVgy4U%3d&fich=OEPropostasAlteracao2019Or_json.txt&Inline=true",
+  "ficheiro_sha256": "494bd91e7bbc2757e1f7f6ddf7144d42ca0a156839b51a7ba394255263146d5c",
+  "legislatura": "XIII",
+  "id": "11559",
+  "numero": "722C",
+  "orcamento": "2019",
+  "versao": "Or",
+  "data_registo": "2018-11-16",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11559",
+    "Numero": "722C",
+    "Data": "16/11/2018 17:47:00",
+    "Titulo": "Novo Artigo 32.º-A (Contabilização do tempo de trabalho dos docentes em horário incompleto)",
+    "Tema": "Educação e Ciência; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 32.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a53556c4d52556376543055764d6a41784f5449774d5467784d4445314c3142424c324e6d4f47526a4d574e6d4c574a6d4d6a51744e446c6d59533034596a526b4c54426d5a4746685a5745304e32457a5a5335775a47593d&Fich=cf8dc1cf-bf24-49fa-8b4d-0fdaaea47a3e.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PCP",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "ANA MESQUITA"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "DUARTE ALVES"
+        },
+        {
+          "GP_Partido": "PCP",
+          "Deputado": "PAULO SÁ"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 32.º-A",
+        "Titulo": "Contabilização do tempo de trabalho dos docentes em horário incompleto",
+        "Texto": "Aos docentes que se encontrem contratados a termo resolutivo ao abrigo do Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, não se aplica o previsto nos n.º 4 e 5 do artigo 16.º do Decreto- Regulamentar n.º 1-A/2011, de 3 de janeiro.",
+        "Estado": "Rejeitado(a) em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 32.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Contabilização do tempo de trabalho dos docentes em horário incompleto",
+        "Data": "26/11/2018 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Social Democrata",
+            "Partido Socialista",
+            "Bloco de Esquerda",
+            "Centro Democrático Social - Partido Popular",
+            "Partido Comunista Português"
+          ],
+          "Voto": [
+            "Abstenção",
+            "Contra",
+            "Favor",
+            "Abstenção",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
