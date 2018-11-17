@@ -1,0 +1,707 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13250",
+  "numero": "566",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2018-11-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-01-22",
+            "entidades": null,
+            "id": "111159",
+            "tipo": null,
+            "titulo": "Audição em 2019-01-22 com Liliana Brito  e Nuno Luís Ferreira Lopes Camacho Mondril"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": "2019-01-22",
+            "entidades": [
+              "Direção-Geral da Educação"
+            ],
+            "nrOficio": "274(1)/CEC/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": null,
+            "entidades": [
+              "DGEstE - Direção-Geral dos Estabelecimentos Escolares"
+            ],
+            "nrOficio": "274(2)/CEC/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-01-15",
+                "dataResposta": null,
+                "nrOficio": "9/CEC/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": null,
+            "entidades": [
+              "DGS - Direção-Geral da Saúde"
+            ],
+            "nrOficio": "274(3)/CEC/2018",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-01-15",
+                "dataResposta": null,
+                "nrOficio": "8/CEC/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "274(4)/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": null,
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "274(5)/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": "2018-12-26",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "274(6)/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2018-12-19",
+            "dataResposta": null,
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "274(7)/CEC/2018",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-01-30",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "851944",
+                "obs": null,
+                "pag": [
+                  "23-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-09",
+                "pubLeg": "XIII",
+                "pubNr": "30",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/030/2019-02-09/23?pgs=23-25&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2018-12-18",
+        "DataArquivo": "2019-02-06",
+        "DataBaixaComissao": "2018-11-27",
+        "DataEnvioPAR": "2019-02-06",
+        "DataReaberta": "2018-12-18",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e6b4f57526d5a5755324c54686a4e574d744e4459354d5331694f47466c4c5467354e44466b4e5451314e44526b4d7935775a47593d&fich=3d9dfee6-8c5c-4691-b8ae-8941d54544d3.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686d4e7a4d774e3255774c546b315a5441744e4755794d5330354f5445774c54566c4d446b7a4d7a6b314e3249794e7935775a47593d&fich=8f7307e0-95e0-4e21-9910-5e0933957b27.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59344f546b314e54646c4c574a684d544d744e475a6a4e5331684e574a6d4c54686a4d475178593245355a6a4d784d7935775a47593d&fich=6899557e-ba13-4fc5-a5bf-8c0d1ca9f313.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a68695a54426d596d52684c5749334e6d49744e444e684f53303559544e6d4c545a6b596d566c4d545534593249784f4335775a47593d&fich=8be0fbda-b76b-43a9-9a3f-6dbee158cb18.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259314d6a6b354e7a63344c5459774d3259744e4441354f5330345a6a4e694c5463314d7a67354d7a63314e6a6b344d4335775a47593d&fich=f5299778-603f-4099-8f3b-753893756980.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d784e6a646b4e6d526c4c544d784f4449744e4445305a5331685a4456694c57526d4e6d55354f5463774e47466c4e7935775a47593d&fich=c167d6de-3182-414e-ad5b-df6e99704ae7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3259304f5445784f54646c4c5467354d7a59744e4455354d5330344e6a4d304c544d355a4749344d575668595441304e6935775a47593d&fich=f491197e-8936-4591-8634-39db81eaa046.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324a684e446869597a4a684c545179595749744e4449774e4330354d6a646a4c544d324f47517a4d7a597a4f4749795a5335775a47593d&fich=ba48bc2a-42ab-4204-927c-368d33638b2e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-01-15",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324e6a4f474d344d5455314c57526d4e6a45744e445935595330354d475a6d4c5456694f4749794f5755324d7a59305a4335775a47593d&fich=cc8c8155-df61-469a-90ff-5b8b29e6364d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2018-12-19",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41775a6d4a6c4e544a6a4c54566b4e6a67744e474d314d7931684f4751344c545578596a5268596a59795932466a4d5335775a47593d&fich=00fbe52c-5d68-4c53-a8d8-51b4ab62cac1.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-02-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325177596d51774e4456684c545130595451744e4745355a5331684f4449794c5755334d6d59334e7a466c4d5459775a6935775a47593d&fich=d0bd045a-44a4-4a9e-a822-e72f771e160f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2018-12-27",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526b4d6a426b4d3252694c5449774e4759744e444e695a4331684e3251314c5749794e6a51315a5463795a474a6b4d7935775a47593d&fich=dd20d3db-204f-43bd-a7d5-b2645e72dbd3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-01-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a67774f44426d4e4755354c5463785a6a55744e445a694e4331684d4455304c5468685a6a49314e7a686c4e4445794e6935775a47593d&fich=8080f4e9-71f5-46b4-a054-8af2578e4126.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2018-12-18",
+            "gp": "CDS-PP",
+            "id": "2300",
+            "motivoCessacao": null,
+            "nome": "Ilda Araújo Novo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-11-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2018-12-04",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344e5459355a4459344e5331684e5441314c54526a5a574d74596a63334e53316b4f44566b4e574d314f4464694e4449756347526d&fich=8569d685-a505-4cec-b775-d85d5c587b42.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44016",
+      "44039",
+      "44053"
+    ],
+    "Iniciativasoriginadas": [
+      "44016",
+      "44039",
+      "44053"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:30:20:173&drc=00:04:58:418"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:35:18:591&drc=00:03:04:621"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:38:23:212&drc=00:04:13:087"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:42:36:300&drc=00:02:48:836"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:45:25:136&drc=00:03:51:808"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:49:16:945&drc=00:02:57:226"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-11-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_11_14_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m11/&tI=01:52:14:171&drc=00:02:37:496"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-11-15",
+                "pubLeg": "XIV",
+                "pubNr": "6",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas para crianças até à entrada na primária; Recomenda ao Governo que avalie a pertinência da introdução da sesta nos estabelecimentos de educação pré-escolar; Adota as recomendações da Sociedade Portuguesa de Pediatria, promovendo a criação de condições para a prática da sesta das crianças do ensino pré-escolar; Recomenda ao Governo que garanta as condições para a efetiva possibilidade de realização de sesta a partir dos três anos na educação pré-escolar da rede pública do Ministério da Educação.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13250",
+    "PetAssunto": "Solicitam a adoção de medidas com vista à obrigatoriedade de disponibilização de condições para as sestas, para crianças até à entrada na primária.",
+    "PetDataEntrada": "2018-11-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13250",
+    "PetLeg": "XIII",
+    "PetNr": "566",
+    "PetNrAssinaturas": "4751",
+    "PetNrAssinaturasInicial": "128",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2616",
+        "obs": null,
+        "pag": [
+          "22-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-15",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/006/2019-11-15/22?pgs=22-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "835794",
+        "obs": null,
+        "pag": [
+          "17-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-22",
+        "pubLeg": "XIII",
+        "pubNr": "21",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/021/2018-12-22/17?pgs=17-18&org=PLC"
+      }
+    ]
+  }
+}
