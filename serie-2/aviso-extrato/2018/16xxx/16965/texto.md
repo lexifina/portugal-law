@@ -1,0 +1,7 @@
+Aviso (extrato) n.º 16965/2018
+Projeto de Regulamento do Orçamento Participativo da União das Freguesias de Montijo e Afonsoeiro (OPMA)
+Fernando José Gouveia Caria, Presidente da Junta de Freguesia da União das Freguesias de Montijo e Afonsoeiro, torna público que, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 07 de janeiro, é submetido a consulta pública, para recolha de sugestões, e durante o prazo de 30 dias úteis a contar da data da publicação do presente aviso no Diário da República, o Projeto de Regulamento do Orçamento Participativo da União das Freguesias de Montijo e Afonsoeiro (OPMA), aprovado na reunião ordinária do Executivo desta Junta, realizada no dia 08 de novembro de 2018.
+O texto integral do referido documento poderá ser consultado na página eletrónica da União das Freguesias de Montijo e Afonsoeiro, em https://www.jf-montijoeafonsoeiro.pt/, bem como na Sede da Junta, sita em Avenida dos Pescadores n.º 78, 2870-114 Montijo e na Delegação do Afonsoeiro, sita na Rua Ilha do Príncipe, n.º 2 - 1.º, 2870-822 Montijo, durante o horário normal de funcionamento.
+As sugestões que se entendam por convenientes, poderão ser feitas por escrito, dirigidas ao Presidente da Junta, e remetidas por correio postal para a morada da Sede supra mencionada, entregues pessoalmente na referida Sede ou por correio eletrónico para o endereço geral@jf-montijoeafonsoeiro.pt.
+9 de novembro de 2018. - O Presidente da Junta, Fernando José Gouveia Caria.
+311808289
