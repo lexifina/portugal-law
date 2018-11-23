@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Administração e fiscalização
-
 # Artigo 10.º
 
 ### Comunicação de designação dos titulares dos órgãos de administração e de fiscalização
