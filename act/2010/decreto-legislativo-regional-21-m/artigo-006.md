@@ -1,5 +1,5 @@
 # Artigo 6.º
 
-### Entrada em vigor
+### Benefício de tarifas sociais
 
-O presente diploma entra em vigor com a entrada em vigor da Lei n.º 48/2009, de 4 de Agosto.
+Aos direitos definidos no artigo 5.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua atual redação, é aditado o direito às tarifas sociais na eletricidade, de forma direta e inegável, relativamente aos bombeiros do quadro de ativos.
