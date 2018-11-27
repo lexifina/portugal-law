@@ -24,6 +24,10 @@ i) Garantir que todos os pagamentos e recebimentos referentes à operação são
 
 j) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
 
+k) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso de operação inteiramente sujeita a custos simplificados.
+
 2 - Os beneficiários do apoio à operação 3.2.2, «Pequenos investimentos na exploração agrícola», devem ainda manter o registo da respetiva exploração no Sistema de Identificação Parcelar, até à data da conclusão da operação.
 
 3 - Os beneficiários do apoio à operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», devem ainda possuir uma situação económica e financeira equilibrada, com uma AF pós-projeto igual ou superior a 20 %, aferida no momento do último pagamento.
+
+4 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea k) do n.º 1.
