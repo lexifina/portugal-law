@@ -2,7 +2,7 @@
 
 ### Obrigações dos beneficiários
 
-Os beneficiários do apoio previsto na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+1 - Os beneficiários dos apoios previstos no presente capítulo, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:
 
 a) Executar as ações previstas no Programa de Conservação Genética Animal ou no Programa de Melhoramento Genético Animal, conforme o previsto na alínea a) do artigo 6.º;
 
@@ -28,4 +28,8 @@ k) Adotar comportamentos que respeitem os princípios da transparência, da conc
 
 l) Assegurar o acesso, por parte dos organismos com competência na matéria, à base de dados das entidades que detenham o livro de registo genealógico, sendo que, no caso da raça bovina Frísia, a obrigação recai sobre a entidade que detém a base de dados nacional da raça;
 
-m) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento.
+m) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;
+
+n) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, exceto no caso de operação inteiramente sujeita a custos simplificados.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea n) do número anterior.

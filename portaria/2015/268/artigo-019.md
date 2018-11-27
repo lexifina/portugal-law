@@ -4,7 +4,7 @@
 
 1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
 
-2 - As entidades beneficiárias podem apresentar quatro pedidos de pagamento anuais, reportando-se às ações efetivamente realizadas, de acordo com o programa previamente aprovado.
+2 - As entidades beneficiárias podem apresentar cinco pedidos de pagamento anuais, reportando-se às ações efetivamente realizadas, de acordo com o programa previamente aprovado.
 
 3 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor das ações do programa aprovado, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
 
