@@ -1,0 +1,8 @@
+Aviso (extrato) n.º 17278/2018
+Plano de pormenor da zona de expansão ZE1 de Almograve
+Discussão pública
+José Alberto Candeias Guerreiro, Presidente da Câmara Municipal de Odemira, torna público em cumprimento do disposto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015 de 14 de maio, na sua atual redação, o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), que por deliberação da Câmara Municipal de Odemira em reunião pública do Executivo Municipal de 31 de outubro de 2018, deliberou promover a Discussão Pública da proposta do «Plano de pormenor da zona de expansão ZE1 de Almograve».
+A discussão pública encontra-se aberta por um período de 20 dias úteis, contados a partir do 5.º dia posterior ao da publicação do presente aviso na 2.ª série do Diário da República.
+Mais se informa que nos termos do n.º 1 do artigo 89.º, conjugado com o n.º 1 do artigo 192.º do RJIGT, que a proposta de Plano de Pormenor, a ata da conferência procedimental, o relatório de ponderação conferência procedimental e período de concertação, o contrato para planeamento encontram-se disponíveis para consulta, pelos interessados, no Balcão Único do Município de Odemira, na Junta de Freguesia da Longueira-Almograve, todos os dias úteis durante as horas normais de expediente e, no sítio da internet www.cm-odemira.pt, podendo ser objeto de sugestões, reclamações e informações a apresentar por escrito em impresso próprio disponível no local da consulta ou por carta registada, dirigida ao Presidente da Câmara Municipal, para a Praça da República, 7630-139 Odemira.
+5 de novembro de 2018. - O Presidente da Câmara, Eng.º José Alberto Guerreiro.
+611793628
