@@ -10,7 +10,7 @@
 
 4 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
 
-5 - Podem ser apresentados, anualmente, até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+5 - Podem ser apresentados, anualmente, até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 6 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de ação, devendo o último pagamento corresponder ao montante estabelecido na alínea c) do n.º 3 do artigo 11.º e ser efetuado após aprovação pela autoridade de gestão do relatório final de execução, sob pena de indeferimento.
 

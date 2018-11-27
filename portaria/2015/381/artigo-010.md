@@ -2,7 +2,7 @@
 
 ### Obrigações dos beneficiários
 
-Os beneficiários do apoio previsto na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:
 
 a) Manter o reconhecimento como OI ou OIF;
 
@@ -25,3 +25,7 @@ i) Apresentar à autoridade de gestão, nos termos definidos em OTE, relatório 
 j) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;
 
 k) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente, nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
+l) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea l) do número anterior.
