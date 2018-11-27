@@ -28,6 +28,8 @@ k) Assegurar diretamente ou através de outra entidade pública ou privada, a ge
 
 l) Proceder, caso não esteja instalado, à instalação de equipamento de medição de consumo de água até à data da conclusão física da operação.
 
+m) Comprovar o início da execução da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.
+
 2 - Quando, no âmbito do procedimento inerente à emissão ou renovação do título de utilização de recursos hídricos, o estado das massas de água, subterrâneas ou superficiais, esteja identificado como inferior a 'Bom' no plano de gestão de bacia hidrográfica pertinente, por motivos ligados à quantidade de água, ou não haja indicação dessa identificação, no caso dos investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes, os beneficiários devem ainda atingir, até à data da conclusão física da operação, uma redução efetiva de consumo de água mínima de 50 % relativamente à poupança potencial referida no n.º 3 do artigo 6.º
 
 3 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
@@ -42,4 +44,4 @@ d) Respeitem à intervenção em segurança de barragens, não estando diretamen
 
 e) Respeitem a aproveitamento hidroagrícola com título de utilização de recursos hídricos já emitido e utilizado.
 
-4 - Quando a candidatura respeite apenas a estudos ou projetos, nos termos do n.º 2 do artigo 6.º, os beneficiários devem cumprir as obrigações previstas nas alíneas a), b), c), e), f), g), i) e j) do n.º 1 do presente artigo.
+4 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do n.º 1.
