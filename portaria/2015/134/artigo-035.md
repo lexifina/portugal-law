@@ -2,7 +2,7 @@
 
 ### Apresentação dos pedidos de pagamento
 
-1 - A apresentação dos pedidos de pagamento do apoio ao investimento efetua-se através de submissão de formulário eletrónico disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+1 - Os beneficiários dos apoios previstos no presente capítulo, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:
 
 2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
 
@@ -18,7 +18,7 @@
 
 8 - Não se verificando a sua regularização, a reposição do valor adiantado deve ser efetuada no prazo de 30 dias úteis, vencendo-se juros de mora desde a data do pagamento.
 
-9 - Podem ser apresentados até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+9 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 10 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.
 

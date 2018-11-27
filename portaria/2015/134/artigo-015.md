@@ -2,7 +2,7 @@
 
 ### Obrigações dos beneficiários
 
-Os beneficiários dos apoios previstos no presente capítulo, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+1 - Os beneficiários dos apoios previstos no presente capítulo, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:
 
 a) Executar os investimentos nos termos e condições aprovados;
 
@@ -30,4 +30,8 @@ l) Dispor de um processo relativo à operação, preferencialmente em suporte di
 
 m) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação dos investimentos e participar em processos de inquirição relacionados com as mesmas;
 
-n) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+n) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;
+
+o) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso das candidaturas que contemplem exclusivamente despesas definidas através de custos unitários.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea o) do número anterior.
