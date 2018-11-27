@@ -24,6 +24,8 @@ i) Conservar os documentos relativos à realização da operação, sob a forma 
 
 j) Dispor de um processo relativo à operação, devidamente organizado, nos termos a definir em orientação técnica específica (OTE), preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação.
 
+k) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.
+
 2 - A entidade coordenadora deve ainda:
 
 a) Assegurar a coordenação do plano de ação e articulação entre as entidades parceiras, bem como a interlocução com a autoridade de gestão;
@@ -35,3 +37,5 @@ c) Informar a autoridade de gestão de quaisquer alterações à composição do
 d) Apresentar à autoridade de gestão os relatórios anuais de progresso e o relatório final de execução, nos termos a definir em OTE, no prazo máximo de 90 dias a contar da data de conclusão do plano de ação;
 
 e) Dispor de um processo relativo à ação, devidamente organizado, nos termos a definir em OTE, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada.
+
+3 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea k) do n.º 1.

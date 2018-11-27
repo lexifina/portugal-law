@@ -8,7 +8,7 @@
 
 3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.
 
-4 - Podem ser apresentados três pedidos de pagamento por cada ano civil por cada candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+4 - Podem ser apresentados quatro pedidos de pagamento por cada ano civil por cada candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 5 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de ação, sendo o respetivo pagamento efetuado após verificação pela autoridade de gestão do relatório final de execução e da divulgação dos resultados do projeto na plataforma da Rede Rural Nacional, sob pena de indeferimento.
 
