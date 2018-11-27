@@ -1,0 +1,105 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=eQqzyBl6uit0nroYw8sOLQwUcCji%2b67zhpwI82sadejXqXSGBpfluOozo8mmIy1hd6TNCOdxBnBAue%2byRBaVyCBFnx8ckl1q%2bwJrQtQxZUnUE61Yzr8JCGPVNkESvLh%2fsyzHj7nEzsAvxPlMjUMKPhR%2bL%2byiZtNty9UDBtUtTKw1THDPR87BjhCW2keYy2VlcJUoAeKxGquT4SN5qB%2bgt1f8y%2bOhGvTbkDnZVAFCKB39Nh%2bAz6TLnEXzjwCMQfcmMh%2bPC0JdaC2xSRW%2beSnWSFFiNTx9F8HRU0IOUp2YF6anxVaNhUXIsHlpGDfZnMFuNA54F6YBE3pD42Kc41vyKw%3d%3d&fich=AtividadesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "dccc0ae3323a2996fab1b9924e44b6ef5459ac3f20a2b02193970269d62aac38",
+  "legislatura": "XIII",
+  "tipo": "Voto",
+  "numero": "674",
+  "data_registo": "2018-11-27",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "De condenação da guerra no Iémen",
+    "AutoresGP": [
+      "Carla Cruz (PCP)",
+      "João Oliveira (PCP)",
+      "Paulo Sá (PCP)",
+      "Jerónimo de Sousa (PCP)",
+      "Rita Rato (PCP)",
+      "Ana Mesquita (PCP)",
+      "Jorge Machado (PCP)",
+      "Diana Ferreira (PCP)",
+      "Francisco Lopes (PCP)",
+      "Paula Santos (PCP)",
+      "Bruno Dias (PCP)",
+      "João Dias (PCP)",
+      "Duarte Alves (PCP)",
+      "Ângela Moreira (PCP)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2018-11-27",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIII",
+    "Numero": "674",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "831863",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-11-27",
+        "pubLeg": "XIII",
+        "pubNr": "14",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/014/2018-11-27/9?pgs=9&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "4",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2018-11-29",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> PAN</I>",
+        "id": "81387",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "839598",
+            "obs": null,
+            "pag": [
+              "54-54"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-11-30",
+            "pubLeg": "XIII",
+            "pubNr": "24",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/024/2018-11-30/54?pgs=54&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
