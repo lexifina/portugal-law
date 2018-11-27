@@ -18,7 +18,7 @@
 
 8 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.
 
-9 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+9 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 10 - O disposto nos n.os 2, 3 e 8 não é aplicável às operações ou componentes de operações com custos simplificados.
 
