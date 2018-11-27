@@ -30,6 +30,10 @@ l) Dispor de um processo relativo à operação, preferencialmente em suporte di
 
 m) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação dos investimentos e participar em processos de inquirição relacionados com as mesmas;
 
-n) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+n) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;
 
-2 - Os beneficiários dos apoios às Operações 8.1.1 e 8.1.2 são obrigados a registar, em seu nome, as áreas de intervenção no Sistema de Identificação Parcelar (SIP).
+o) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso das candidaturas que contemplem exclusivamente despesas definidas através de custos unitários.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea o) do número anterior.
+
+3 - Os beneficiários dos apoios às Operações 8.1.1 e 8.1.2 são obrigados a registar, em seu nome, as áreas de intervenção no Sistema de Identificação Parcelar (SIP).

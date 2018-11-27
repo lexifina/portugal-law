@@ -12,7 +12,7 @@
 
 5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 10 % da despesa total elegível da operação.
 
-6 - Podem ser apresentados até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do investimento, sob pena do seu indeferimento.
 
