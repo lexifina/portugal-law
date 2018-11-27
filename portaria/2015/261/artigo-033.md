@@ -12,7 +12,7 @@
 
 5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.
 
-6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+6 - Podem ser apresentados até cinco pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 7 - O disposto nos n.os 2, 3, 5 e 6 não é aplicável às operações ou componentes de operações objeto de modalidade de custos simplificados relativas ao apoio «Recuperação de muros de pedra posta», sendo, neste caso, apresentado um único pedido de pagamento após a execução da operação sujeita a custo simplificado, para além do previsto no n.º 4.
 

@@ -31,3 +31,7 @@ j) Adotar comportamentos que respeitem os princípios da transparência, da conc
 k) Manter o registo da superfície objeto de investimento no SIP até à data da conclusão da operação;
 
 l) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluído, ou pelo prazo fixado na legislação nacional aplicável, ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior.
+
+m) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso das candidaturas que contemplem exclusivamente despesas definidas através de custos simplificados.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.
