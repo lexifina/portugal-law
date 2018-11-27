@@ -8,7 +8,7 @@
 
 3 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.
 
-4 - Podem ser apresentados anualmente até três pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+4 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
 
 5 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de ação, sendo o respetivo pagamento efetuado após aprovação pela autoridade de gestão do relatório final de execução, sob pena de indeferimento.
 
