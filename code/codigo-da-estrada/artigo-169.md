@@ -26,4 +26,4 @@ a) Levantamento e notificação de autos de contraordenação instaurados com re
 
 b) Instrução e decisão de processos de contraordenação rodoviária.
 
-7 - A competência para o processamento das contraordenações previstas no artigo 71.º e a competência para aplicação das respetivas coimas e sanções acessórias podem ser atribuídas à câmara municipal competente para aprovar a localização do parque ou zona de estacionamento, por designação do membro do Governo responsável pela área da administração interna, mediante proposta da câmara municipal, com parecer favorável da ANSR, desde que reunidas as condições definidas por portaria do membro do Governo responsável pela área da administração interna.
+7 - A competência para o processamento e aplicação de coimas nas contraordenações rodoviárias por infrações leves relativas a estacionamento proibido, indevido ou abusivo nos parques ou zonas de estacionamento, nas vias e nos demais espaços públicos quer dentro das localidades, quer fora das localidades, neste caso desde que estejam sob jurisdição municipal, é da respetiva câmara municipal.

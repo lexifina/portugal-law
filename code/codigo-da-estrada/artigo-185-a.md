@@ -4,7 +4,7 @@
 
 1 - Quando se verifique que a coima ou as custas não foram pagas, decorrido o prazo legal de pagamento, contado a partir da data em que a decisão se tornou definitiva, é extraída certidão de dívida com base nos elementos constantes do processo de contraordenação.
 
-2 - A certidão de dívida é assinada e autenticada pelo presidente da ANSR ou por quem tiver competência delegada para o efeito, e contém os seguintes elementos:
+2 - A certidão de dívida é assinada e autenticada pelo presidente da entidade competente para o processamento e aplicação da coima, ou pelo órgão ou agente em quem aquele tenha delegado essa competência, e contém os seguintes elementos:
 
 a) Identificação do agente da infração, incluindo o nome completo ou denominação social, a residência ou sede social, o número do documento legal de identificação, o domicílio fiscal e o número de identificação fiscal;
 
