@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 155/2018
+O Governo, através da Resolução do Conselho de Ministros n.º 14/2017, de 11 de janeiro, autorizou a realização da despesa, bem como o procedimento de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia, ao abrigo do disposto na alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, para a aquisição dos serviços de cópia e impressão em regime de outsourcing, para a Secretaria-Geral do Ministério da Administração Interna e para a Guarda Nacional Republicana, no montante máximo de (euro) 7 096 073,20, ao qual acresce IVA à taxa legal em vigor, prevendo-se, à data, uma repartição de encargos para os anos de 2017 a 2021.
+Nos termos da referida Resolução foi previsto que a execução do contrato, decorrente do procedimento de concurso público internacional, acima referido, se iniciasse no início de 2017. Contudo devido às vicissitudes decorrentes da tramitação do procedimento aquisitivo, acrescido da interposição de ação de impugnação do ato de adjudicação, a qual foi julgada improcedente, os contratos só entrarão em vigor em 2018, pelo que é necessário proceder a uma alteração na distribuição dos encargos plurianuais. Nesta medida, e consequentemente, importa proceder ao reajustamento dos anos inicialmente estimados, previstos nos n.os 2 e 3 da Resolução suprarreferida.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, dos artigos 44.º e 46.º e do n.º 3 do artigo 164.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar os n.os 1 a 3 da Resolução do Conselho de Ministros n.º 14/2017, de 11 de janeiro, que passam a ter a seguinte redação:
+«1 - Autorizar os encargos orçamentais inerentes à aquisição dos serviços de cópia e impressão em regime de outsorcing, para a Secretaria-Geral do Ministério da Administração Interna (SGMAI) e para a Guarda Nacional Republicana (GNR), que não podem exceder o valor de (euro) 3 378 465,60, ao qual acresce IVA à taxa legal em vigor.
+2 - [...]:
+
+(ver documento original)
+3 - Determinar que as importâncias fixadas para os anos económicos de 2019 a 2023, podem ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.»
+2 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da administração interna a competência para a prática de todos os atos a realizar no âmbito da Resolução do Conselho de Ministros n.º 14/2017, de 11 de janeiro, com a redação dada pela presente resolução.
+3 - Ratificar todos os atos praticados no âmbito da Resolução do Conselho de Ministros n.º 14/2017, de 11 de janeiro, até à presente data.
+4 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 15 de novembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+111856062
