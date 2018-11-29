@@ -1,0 +1,7 @@
+Aviso n.º 17555/2018
+Consulta Pública da Proposta de Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures
+Orlanda Maria Oliveira Rodrigues, Presidente da Junta de Freguesia de Loures, torna público, em cumprimento do disposto no n.º 101 do Decreto-Lei n.º 4/2015 de 7 de janeiro, que a Junta de Freguesia de Loures, na sua 16.ª reunião extraordinária, realizada em 5 de novembro de 2018, deliberou por unanimidade submeter a consulta pública a proposta de Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures, fixando o prazo de 30 dias, com início a partir da data de publicação deste Aviso no Diário da República.
+Esta proposta encontra-se disponível para consulta dos interessados na página da internet da Junta de Freguesia, em www.jf-loures.pt, e na secretaria da Junta de Freguesia de Loures, sita na Rua Manuel Francisco Soromenho n.º 50, em Loures, todos os dias úteis das 9h às 13h e das 14h às 16h30.
+Todos os interessados podem formular por escrito as reclamações, observações e sugestões ou pedidos de esclarecimento sobre a proposta de Regulamento de Apoios ao Movimento Associativo da Freguesia de Loures. As participações devem ser entregues pessoalmente ou remetidas por correio para a Junta de Freguesia de Loures, na Rua Manuel Francisco Soromenho n.º 50, 2670 - 452 Loures, ou para o endereço de correio eletrónico da Junta de Freguesia de Loures, geral@jf-loures.pt.
+15 de novembro de 2018. - A Presidente, Orlanda Rodrigues.
+311822488
