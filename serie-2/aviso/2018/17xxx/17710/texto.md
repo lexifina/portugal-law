@@ -1,0 +1,7 @@
+Aviso n.º 17710/2018
+Discussão Pública da Proposta de Alteração ao Plano Diretor Municipal de Idanha-a-Nova
+Armindo Moreira Palma Jacinto, Presidente da Câmara Municipal de Idanha-a-Nova, torna público que, em cumprimento da deliberação da Câmara Municipal de 16 de novembro de 2018 e, nos termos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, se encontra aberto um período de discussão pública da proposta de alteração ao Plano Diretor Municipal, a decorrer no período de 30 dias, contados 5 dias após a publicação deste aviso no Diário da República.
+A proposta de alteração do Plano Diretor Municipal está disponível para consulta nos Paços do Concelho, sito no Largo do Município em Idanha-a-Nova, de segunda a sexta-feira, nos dias úteis, entre as 9,00 horas e as 16,00 horas. A proposta será também disponibilizada para consulta digital na página da internet da Câmara Municipal de Idanha-a-Nova, através do endereço www.cm-idanhanova.pt.
+Durante o período de discussão pública, os interessados podem proceder à apresentação, por escrito, de observações, sugestões ou pedidos de esclarecimento, devendo ser entregues no Balcão de Atendimento da Câmara Municipal, ou remeter por correio endereçado ao Presidente da Câmara Municipal de Idanha-a-Nova, identificando como assunto, «Alteração ao Plano Diretor Municipal», para a morada: Largo do Município - 6060-163 Idanha-a-Nova.
+16 de novembro de 2018. - O Presidente da Câmara, Armindo Moreira Palma Jacinto.
+611835497
