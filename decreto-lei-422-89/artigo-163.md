@@ -2,9 +2,9 @@
 
 ### Contra-ordenações
 
-1 - Constituem contra-ordenações, puníveis com coima de 50000$00 a 500000$00, as violações ao disposto nos artigos 160.º a 162.º
+1 - Constituem contraordenações, puníveis com coimas de (euro) 750,00 a (euro) 3 740,98, as violações ao disposto nos artigos 160.º a 162.º
 
-2 - Quando as contra-ordenações a que se refere o número anterior forem praticadas por pessoas colectivas, os montantes mínimos e máximos das correspondentes coimas aplicáveis elevar-se-ão, respectivamente, a 500000$00 e 5000000$00.
+2 - Quando as contraordenações a que se refere o número anterior forem praticadas por pessoas coletivas, os montantes mínimos e máximos elevam-se, respetivamente, a (euro) 3 750,00 a (euro) 37 500,00.
 
 3 - Os aparelhos e utensílios utilizados na prática das contra-ordenações a que se refere o n.º 1, bem como as importâncias obtidas por via da prática de tais infracções, podem ser apreendidos, a título de sanção acessória, desde que verificados os pressupostos previstos nas alíneas do n.º 2 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro.
 
