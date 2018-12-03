@@ -1,0 +1,20 @@
+Aviso n.º 17865/2018
+Prorrogação do Prazo de Elaboração do Plano de Pormenor Noroeste de Olhão
+António Miguel Ventura Pina, Presidente da Câmara Municipal de Olhão, nos termos do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, torna público, que a Câmara Municipal de Olhão, em reunião de
+17 de outubro de 2018, deliberou por unanimidade, aprovar a Prorrogação do Prazo de Elaboração do Plano de Pormenor Noroeste de Olhão, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, por mais 366 dias e conceder eficácia retroativa à presente decisão, com a sua produção de efeitos a partir de dia 29 de março de 2018.
+21 de novembro de 2018. - O Presidente da Câmara Municipal de Olhão, António Miguel Ventura Pina.
+Deliberação
+Município de Olhão
+Em reunião de Câmara Municipal de dezassete de outubro de dois mil e dezoito, foi deliberado, por unanimidade, aprovar, a proposta do Senhor Presidente da Câmara Municipal, datada de onze de outubro de dois mil e dezoito, que a seguir se transcreve:
+Considerando que o Município de Olhão em reunião pública, de 29 de março de 2017, deliberou por unanimidade, iniciar o processo de elaboração do Plano de Pormenor Noroeste de Olhão, conforme foi publicitado no Aviso n.º 7702/2017, de 7 de julho, publicado em Diário da República.
+Atendendo a que a elaboração material do plano de pormenor está concluída, como se pode aferir pelo teor da Proposta de Plano e restantes peças conexas, como por exemplo o regulamento que estipula o regime jurídico que rege o instrumento de gestão territorial municipal, e que este já foi devidamente enviado às entidades competentes para a emissão dos devidos pareceres em sede de conferência procedimental, conferência que aliás já decorreu a 16 de julho de 2018.
+Verificando contudo que não foi tecnicamente possível, atendendo aos escassos recursos humanos municipais disponíveis, proceder à conclusão do plano de pormenor dentro do prazo estabelecido inicialmente (prazo de 366 dias estabelecido por deliberação da Câmara Municipal de 29 de março de 2017), e que este prazo pode, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, ser prorrogado, por uma única vez, por um período máximo igual ao previamente estabelecido.
+Recordando que conforme o previsto na alínea a) do n.º 2 do art.º 156 do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, o autor do ato administrativo pode atribuir-lhe eficácia retroativa "Quando a retroatividade seja favorável para os interessados e não lese direitos ou interesses legalmente protegidos de terceiros, desde que à data a que se pretende fazer remontar a eficácia do ato já existissem os pressupostos justificativos dos efeitos a produzir;".
+E que no momento a que se pretende retroagir a eficácia da prorrogação do prazo de elaboração do plano de pormenor já existia conhecimento da necessidade de prorrogação por imperioso interesse público, uma vez que a conclusão dentro do prazo fixado seria inexequível e a caducidade de todo o procedimento acarretaria uma desproporcionada demora na conclusão de um instrumento fundamental para os cidadãos e para o Município.
+Tenho a honra de propor que a Câmara Municipal de Olhão delibere, ao abrigo do disposto na alínea a) do n.º 1 do artigo 33.º da Lei
+n.º 75/2013, de 12 de setembro:
+1 - Aprovar a Prorrogação do Prazo de Elaboração do Plano de Pormenor Noroeste de Olhão, nos termos do n.º 6 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, por mais 366 dias.
+2 - Conceder eficácia retroativa à presente decisão, com a sua produção de efeitos a partir de dia 29 de março de 2018.
+3 - Aprovar a deliberação que recair sobre a presente proposta, em minuta, nos termos do disposto no n.º 3 e para os efeitos do preceituado no n.º 4 do artigo 57.º da Lei n.º 75/2013, de 12 de setembro.
+21 de novembro de 2018. - O Presidente da Câmara Municipal de Olhão, António Miguel Ventura Pina.
+611840397
