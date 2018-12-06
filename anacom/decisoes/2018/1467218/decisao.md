@@ -1,0 +1,12 @@
+# Concurso público para aquisição de uma solução de rede Wi-Fi nos edifícios da ANACOM em Lisboa, Porto, Barcarena e Açores
+
+Decisão de 2018-12-06 · publicado em 2018-12-06
+
+Por decisão de 6 de dezembro de 2018, a ANACOM aprovou o relatório final do concurso público para aquisição de uma solução de rede Wi-Fi nos edifícios da ANACOM em Lisboa, Porto, Barcarena e Açores, e autorizou a adjudicação à MEO – Serviços de Comunicações e Multimédia.
+
+Consulte:
+
+Concurso público para aquisição de uma solução de rede Wi-Fi nos edifícios da ANACOM em Lisboa, Porto, Barcarena e Açores - lançado a 06.11.2018
+https://www.anacom.pt/render.jsp?categoryId=407076
+
+Fonte: https://www.anacom.pt/render.jsp?contentId=1467218
