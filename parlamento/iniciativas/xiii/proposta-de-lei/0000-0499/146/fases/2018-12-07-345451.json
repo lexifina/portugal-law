@@ -1,0 +1,141 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "146",
+    "id": "42947",
+    "titulo": "Altera o regime de acesso e exercício da atividade de treinador de desporto"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2018-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "44624",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-12-07",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-12-07",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2018-12-19",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributos",
+            "URL": "http://www.parlamento.pt/sites/com/xiiileg/12cccjd/paginas/contributosiniciativaslegislativas.aspx?t=4e433743716942545a584e7a77364e764945786c5a326c7a6247463061585a684c31427962334276633352684947526c4947786c615342754c734b36494445304e69425953556c4a49444d7577716f3d&path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765130394e4c7a457951304e44536b517651584a7864576c3262304e7662576c7a633246764c304e76626e527961574a316447397a4a5449775a47556c4d6a424a626d6c6a6157463061585a68637955794d45786c5a326c7a6247463061585a68637938304c734b7149464e6c633350446f3238675447566e61584e7359585270646d457655484a766347397a644745675a475567624756704947347577726f674d5451324946684a53556b674d79374371673d3d"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GP CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324935595449774d6d59744d6d45774f53303059575a6a4c5745344d5445744f5446684d6a51314d6d4d304f5749354c6e426b5a673d3d&fich=3b9a202f-2a09-4afc-a811-91a2452c49b9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GP PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a475a6d4f4451344d3259745a6a4d335a5330304f4441354c54686a596a4d744f445a685a545131595749334d4467784c6e426b5a673d3d&fich=dff8483f-f37e-4809-8cb3-86ae45ab7081.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d55324f5749794e6d59745a6a526d4e433030596a6b354c57466a5a6a67745a6d51354e7a67304e7a59344d54646b4c6e426b5a673d3d&fich=fe69b26f-f4f4-4b99-acf8-fd978476817d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a51324f4467334e4759744e3246694e793030597a497a4c546c6c5a6a45744e47466d5a54526b4d3245794f5467774c6e426b5a673d3d&fich=7468874f-7ab7-4c23-9ef1-4afe4d3a2980.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de Alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f5455305954426a4f5755745954673159793030596a45784c54686d4d5467744e5449305a6d59354e7a55354e4751784c6e426b5a673d3d&fich=954a0c9e-a85c-4b11-8f18-524ff97594d1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de votação",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5463334e5451354f474d744d5455355a693030596a45314c546b794f4751745a6d4d305957526b5954566b59546c6b4c6e426b5a673d3d&fich=1775498c-159f-4b15-928d-fc4adda5da9d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a55784e6a526c4f544174596a4d355a6930305954566b4c546c694e5445745a44566a4d6a41315a545934595446684c6e426b5a673d3d&fich=25164e90-b39f-4a5d-9b51-d5c205e68a1a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-18",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Votações",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d6b4e44513070454c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765954686c4e324d334e7a51744e3245304d433030597a46684c5749795a6d4574596a4d784e4451354d7a56694f5467784c6e426b5a673d3d&fich=a8e7c774-7a40-4c1a-b2fa-b3144935b981.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4535",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Cultura, Comunicação, Juventude e Desporto",
+        "Numero": "4535",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2019-07-17",
+            "numeroOficio": "E-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-12-07",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "345451",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
