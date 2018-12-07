@@ -1,0 +1,12 @@
+Aviso n.º 18240/2018
+Alteração ao Plano de Pormenor da zona envolvente da Circunvalação e 1.ª Circular Sul (Jugueiros) e da zona do Novo Hospital Distrital de Viseu (UOPG 1.12)
+Joaquim António Ferreira Seixas, Vice-Presidente da Câmara Municipal de Viseu, com competências delegadas, torna público, que a Câmara Municipal de Viseu, deliberou na sua reunião ordinária do dia vinte e três de agosto de dois mil e dezoito, dar início ao procedimento de elaboração de alteração, e de modo subsequente ao período de participação pública, com vista à alteração do Plano de Pormenor da zona envolvente da Circunvalação e 1.ª Circular Sul (Jugueiros) e da Zona do Novo Hospital Distrital de Viseu (UOPG 1.12) circunscrita aos lotes 216 e 218, por força do disposto no n.º 7 do artigo 126.º do Decreto-Lei n.º 80/2015 de 14 de maio, estabelecendo-se o prazo de dois anos para elaboração das alterações necessárias ao referido Plano de Pormenor.
+Nos termos da referida legislação, designadamente de acordo com o n.º 2 do artigo 88.º, o período de participação pública decorre durante 15 (quinze) dias úteis, contados após publicação do presente aviso no Diário da República.
+A formulação de sugestões e a apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração, deverão ser dirigidas, por escrito, ao Senhor Presidente da Câmara Municipal de Viseu, até ao termo do referido período de participação pública, remetidas ao Município de Viseu, Praça de República 3514-501 Viseu, ou enviadas por correio eletrónico para geral@cmviseu.pt.
+22 de outubro de 2018. - O Vice-Presidente, Joaquim Ferreira Seixas.
+Ata
+Movida - Empreendimentos Turísticos, S. A.
+Processo n.º 04/46/2018
+A Câmara Municipal de Viseu deliberou ainda, que seja efetuada a alteração ao Plano de Pormenor, por força do disposto no n.º 7 do mesmo artigo 126.º do RJIGT, devendo promover-se a abertura do período de participação de 15 dias, para a formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de alteração ao plano, nos termos do disposto do artigo 88.º do RJIGT, estabelecendo-se o prazo de 2 (dois) anos para a elaboração das alterações necessárias ao referido Plano de Pormenor. Para efeitos de execução imediata, esta deliberação foi aprovada em minuta.
+Viseu, 23 de agosto de 2018. - O Chefe de Divisão, Rui Alexandre Mendes Duarte.
+611851801
