@@ -1,0 +1,8 @@
+Aviso n.º 18225/2018
+Abertura do Período de Divulgação Pública da Proposta de Alteração Simplificada do Plano Diretor Municipal de Santa Maria da Feira
+Emídio Ferreira dos Santos Sousa, Presidente da Câmara Municipal de Santa Maria da Feira, torna público, em cumprimento do n.º 4 do artigo 123.º do decreto-lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Santa Maria da Feira, na sua sessão ordinária de 19 de novembro de 2018 aprovou a abertura de um período de divulgação pública da proposta de alteração simplificada do Plano Diretor Municipal de Santa Maria da Feira, para os imóveis sitos a sul da Rua 1 da Zona Industrial da Silveirinha, na freguesia de São João de Ver, por um período de 10 dias úteis.
+Torna-se ainda público que o mencionado período de divulgação pública terá início no dia seguinte após publicação do presente Aviso no Diário da República, 2.ª série, nos termos da alínea a) do n.º 4 do artigo 191.º do citado decreto-lei n.º 80/2015.
+Os interessados poderão consultar a proposta de Alteração do Plano e demais documentação que a consubstanciou no sítio eletrónico da câmara municipal de Santa Maria da Feira, no endereço (http://www.cm-feira.pt) ou no Pelouro das Obras Municipais, Mobilidade, Planeamento e Ordenamento do Território.
+Durante este período os interessados poderão, por escrito, formular reclamações, sugestões ou observações, através do correio eletrónico santamariadafeira@cm-feira.pt, por via postal, dirigidos ao Presidente da Câmara Municipal de Santa Maria da Feira, Praça da República, 135, 4520-174 Santa Maria da Feira ou por entrega pessoal (nos balcões de atendimento).
+26 de novembro de 2018. - O Presidente da Câmara Municipal de Santa Maria da Feira, Emídio Ferreira dos Santos Sousa, Dr.
+611854564
