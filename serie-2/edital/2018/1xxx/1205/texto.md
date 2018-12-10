@@ -1,0 +1,7 @@
+Edital n.º 1205/2018
+Consulta Pública da Proposta de Alteração do Regulamento Municipal de Edificação e Urbanização
+Tiago Farinha Matias, Vereador da Câmara Municipal de Loures, torna público que a Câmara Municipal, em reunião ordinária realizada em 7 de novembro de 2018, deliberou aprovar e submeter a discussão pública, a proposta de Alteração do Regulamento Municipal de Edificação e Urbanização do Município de Loures (RMEU), que incide sobre os artigos 33.º n.º 2 e artigo 66.º alíneas b) e c).
+De harmonia com o disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se a Proposta de Alteração do Regulamento a apreciação pública, para recolha de sugestões, pelo prazo de 30 dias a contar da publicação do presente Edital no Diário da República. A Proposta de Alteração encontra-se disponível para consulta dos interessados no Departamento de Planeamento e Gestão Urbanística, sito na Rua Ilha da Madeira n.º 4 em Loures.
+Para constar se publica o presente edital, que vai autenticado com o selo oficial em uso no Município de Loures, constituído por uma folha, na 2.ª série do Diário da República e no sítio institucional da Câmara Municipal de Loures em www.cm-loures.pt, bem como se procede à sua afixação nos Paços do Município e nos locais habituais.
+9 de novembro de 2018. - O Vereador, Tiago Farinha Matias.
+311858339
