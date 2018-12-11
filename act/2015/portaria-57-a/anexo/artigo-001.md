@@ -27,3 +27,5 @@ e) Programa Operacional Regional Alentejo;
 f) Programa Operacional Regional Algarve.
 
 3 - O disposto no presente regulamento tem aplicação em todo o território de Portugal continental.
+
+4 - Em caso de insuficiência das fontes de financiamento indicadas no n.º 1, podem as operações apresentadas ao abrigo do sistema de incentivos às empresas, previsto na Parte II do presente regulamento, ser financiadas por outras fontes, designadamente reembolsos gerados no atual ou em anteriores períodos de programação.

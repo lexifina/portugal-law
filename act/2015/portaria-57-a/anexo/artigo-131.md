@@ -6,7 +6,7 @@
 
 a) Dispor de contabilidade organizada nos termos da legislação aplicável;
 
-b) Apresentar uma situação económico-financeira equilibrada, através de situação líquida positiva com referência ao ano anterior ao da apresentação da candidatura, utilizando o balanço referente ao ano pré-projeto, ou um balanço intercalar posterior, certificado por um Revisor Oficial de Contas (ROC), e reportado até à data da candidatura;
+b) Apresentar uma situação económico-financeira equilibrada, através de situação líquida positiva com referência ao ano anterior ao da apresentação da candidatura, utilizando o balanço referente ao ano pré-projeto, ou um balanço intercalar posterior, certificado por um Revisor Oficial de Contas (ROC), e reportado até à data da candidatura, no caso das entidades de natureza privada e no caso das entidades de natureza pública demonstrar possuí-la através de prova de financiamento da operação;
 
 c) Ter como missão atividades em áreas diretamente relacionadas com o projeto a realizar;
 

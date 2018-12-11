@@ -13,3 +13,5 @@
 a) Constituição de uma garantia bancária ou garantia prestada no âmbito do sistema nacional de garantia mútua;
 
 b) Apresentação de faturas, ou de documentos equivalentes fiscalmente aceites, ficando, neste caso, o beneficiário obrigado a apresentar, no prazo de 30 dias úteis, a contar da data de pagamento do adiantamento, os comprovativos do pagamento integral da despesa que serviu de base ao pagamento do adiantamento.
+
+5 - Sem prejuízo do disposto no número anterior, os pagamentos aos beneficiários, no âmbito dos projetos realizados na área da promoção da inovação e do empreendedorismo e internacionalização, cofinanciados pelo FSE, seguem o regime estabelecido no n.º 12 do artigo 25.º do Decreto-Lei n.º 159/2014, de 27 de outubro, designadamente um sistema de financiamento específico a fixar por Deliberação da CIC Portugal 2020.

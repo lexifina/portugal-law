@@ -14,13 +14,13 @@ b) No caso das tipologias de operações no âmbito da área de "Redes e outras 
 
 i) Reforçar as redes e outras formas de parceria e cooperação no âmbito das estratégias de eficiência coletiva;
 
-c) No caso das tipologias de operações no âmbito da área de "Promoção do espírito empresarial", enquadrada no objetivo específico 1 da prioridade de investimento 3.1 do objetivo temático 3:
+c) No caso das tipologias de operações no âmbito da área de «Promoção do espírito empresarial», enquadrada no objetivo específico 1 da prioridade de investimento 3.1 do objetivo temático 3, no objetivo específico 1 da prioridade de investimento 8.3 do objetivo temático 8 ou no objetivo específico 1 da prioridade de investimento 8.5 do objetivo temático 8:
 
 i) Reforçar a cooperação, as parcerias e as redes de apoio ao empreendedorismo qualificado e criativo;
 
 ii) Potenciar o apoio à geração de ideias inovadoras, a iniciativas empresariais e à criação de novas empresas;
 
-d) No caso das tipologias de operações no âmbito da área de "Internacionalização", enquadrada no objetivo específico 2 da prioridade de investimento 3.2 do objetivo temático 3:
+d) No caso das tipologias de operações no âmbito da área de «Internacionalização», enquadrada no objetivo específico 2 da prioridade de investimento 3.2 do objetivo temático 3 ou no objetivo específico 1 da prioridade de investimento 8.5 do objetivo temático 8:
 
 i) Aumentar o reconhecimento internacional coletivo de bens e serviços produzidos em Portugal;
 

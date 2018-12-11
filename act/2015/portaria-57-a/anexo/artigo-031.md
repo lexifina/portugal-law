@@ -2,29 +2,39 @@
 
 ### Taxas de financiamento
 
-1 - O incentivo a conceder aos projetos no âmbito da inovação empresarial e empreendedorismo qualificado e criativo para as despesas elegíveis referidas nas alíneas a), b) e c) do n.º 1 e nos n.os 5 e 6 do artigo 32.º é calculado através da aplicação de uma taxa base máxima de 30 %, a qual pode ser acrescida das seguintes majorações, não podendo a taxa ultrapassar 75 %:
+1 - A taxa de financiamento dos projetos no âmbito da inovação empresarial e empreendedorismo para as despesas elegíveis referidas nas alíneas a), b) e c) do n.º 1 e nos n.os 4 a 6 do artigo 32.º é obtida a partir da soma das seguintes parcelas, taxa base mais majorações, até ao limite máximo de 75 %:
 
-a) Majoração «tipo de empresa»:
+a) Taxa Base:
 
-i) 10 pontos percentuais (p. p.) a atribuir a médias empresas, independentemente da dimensão do projeto, e a micro e pequenas empresas que desenvolvam projetos com despesa elegível igual ou superior a 5 milhões de euros;
+i) Para investimentos elegíveis iguais ou superiores a 15 milhões de euros ou promovidos por empresas Não PME: 15 pontos percentuais (p.p.);
 
-ii) 20 p. p. a atribuir a micro e pequenas empresas, em projetos com despesa elegível inferior a 5 milhões de euros;
+ii) Para as restantes situações: 35 p.p. para médias empresas e 45 p.p. para micro e pequenas empresas.
 
-b) Majoração 'territorial': 10 p.p. a atribuir a projetos localizados em territórios de baixa densidade ou afetados por calamidades naturais;
+b) Majorações:
 
-c) (Revogada.)
+i) «Baixa Densidade» - 10 p.p. para projetos localizados em territórios de baixa densidade ou afetados por calamidades naturais, os quais são definidos por deliberação da Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020);
 
-d) Majoração «empreendedorismo»: 10 p.p. a atribuir aos projetos na tipologia empreendedorismo qualificado e criativo;
+ii) «Prioridades de políticas setoriais»: 10 p.p. para projetos de PME com investimentos elegíveis inferiores a 15 milhões de euros, a atribuir, nos termos a definir em sede de aviso para apresentação de candidaturas, a projetos fundamentalmente orientados para temáticas com especial relevância para políticas públicas setoriais ou transversais, designadamente, digitalização, transição industrial, economia circular, transição energética;
 
-e) Majoração «empreendedorismo jovem ou feminino»: 10 p.p. a atribuir a projetos que resultem de empreendedorismo feminino ou jovem;
+iii) «Criação de emprego qualificado em novas unidades produtivas»: 5 p.p. a atribuir a projetos de criação de novas unidades geradoras de criação de postos de trabalho qualificados nos termos a definir nos avisos de abertura dos concursos;
 
-f) Majoração «sustentabilidade»: 10 p.p. a atribuir a projetos que demonstrem atuações ou impactos em matéria de uso eficiente de recursos, eficiência energética, mobilidade sustentável e redução de emissões de gases com efeitos de estufa, a apreciar pela autoridade de gestão financiadora.
+iv) «Capitalização PME»: 5 p.p. a atribuir a projetos de PME que, prescindindo da componente reembolsável, assegurada via Instrumento Financeiro, nos termos previstos no artigo 30.º-B, recorram a capitais próprios adicionais nos termos a definir nos avisos de abertura dos concursos;
 
-g) Majoração «execução do investimento»: até 10 p.p. a atribuir a projetos que cumpram ou antecipem o plano de execução dos investimentos aprovado em candidatura nas condições a definir por deliberação da CIC Portugal 2020.
+v) «Empreendedorismo»: 5 p.p. para projetos de empreendedorismo qualificado e criativo e 10 p.p. quando resultem de iniciativa feminina ou jovem;
 
-2 - Para efeitos de atribuição da majoração referida na alínea b) do número anterior, os territórios abrangidos são definidos em aviso para apresentação de candidatura.
+c) (Revogada).
 
-3- O incentivo atribuído por projeto não pode exceder as taxas máximas, expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxílio Estatal n.º SA 38571), sendo que o ajustamento, quando necessário, é efetuado na taxa máxima de isenção de reembolso do incentivo, prevista no n.º 3 do artigo anterior.
+d) (Regovada).
+
+e) (Regovada).
+
+f) (Regovada).
+
+g) (Regovada).
+
+2 - No caso dos projetos promovidos por PME com investimento elegível inferior a 15 milhões de euros, o montante do incentivo calculado nos termos do n.º 1, é dividido em duas componentes iguais, 50 % não reembolsável e 50 % reembolsável.
+
+3 - Em qualquer situação a taxa de incentivo não pode ser superior a 75 %, nem exceder as taxas máximas expressas em equivalente de subvenção bruta (ESB) conforme mapa de auxílios com finalidade regional 2014-2020 aprovado pela Comissão Europeia (Auxilio Estatal n.º SA 38571), sendo que o ajustamento, quando necessário, é efetuado na componente não reembolsável.
 
 4- São concedidos ao abrigo do regime de auxílios de minimis:
 

@@ -16,7 +16,7 @@ e) Quando aplicável, cumprir os normativos em matéria de contratação públic
 
 f) Permitir a divulgação, em plataforma de acesso livre, do âmbito e resultados expectáveis do projeto de I&D, assim como de sumários executivos publicáveis relativos aos relatórios de execução final, sem prejuízo dos requisitos relativos à proteção de propriedade intelectual;
 
-g) Comunicar às autoridades de gestão todas as ações públicas de disseminação de resultados do projeto de I&D com uma antecedência nunca inferior a 10 dias úteis;
+g) Comunicar às autoridades de gestão todas as ações públicas de disseminação de resultados do projeto de I&D;
 
 h) Assegurar o acesso livre e gratuito a todas as publicações científicas (peer-reviewed) geradas no âmbito do projeto de I&D, em condições a definir;
 

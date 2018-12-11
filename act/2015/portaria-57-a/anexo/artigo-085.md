@@ -23,3 +23,5 @@ a) Os trabalhadores no exercício de funções públicas afetos a entidades da A
 b) Os titulares de cargos públicos;
 
 c) Outros colaboradores que desempenhem funções com reporte funcional às entidades da Administração local e central do Estado, incluindo a desconcentrada.
+
+3 - Sem prejuízo do referido nos números anteriores, as entidades previstas nas alíneas a) e c) do n.º 1 podem intervir na qualidade de «outros operadores» relativamente a projetos de carácter formativo, ao abrigo da alínea c) do n.º 2 do artigo 12.º do Decreto-Lei n.º 159/2014, de 27 de outubro.

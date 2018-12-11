@@ -6,7 +6,7 @@
 
 a) Projetos individuais, realizados por uma empresa;
 
-b) Projetos em copromoção, liderados por uma empresa, envolvendo a colaboração efetiva entre entidades do sistema de I&I no desenvolvimento de atividades de I&D, nomeadamente a colaboração entre empresas ou entre estas e entidades não empresariais do sistema de I&I.
+b) Projetos em copromoção, liderados por uma empresa, envolvendo a colaboração efetiva entre entidades do sistema de I&I no desenvolvimento de atividades de I&D, nomeadamente a colaboração entre empresas ou entre estas e entidades não empresariais do sistema de I&I, ou promovidos por instituições sem finalidades lucrativos com atividades de I&D participadas por empresas e instituições científicas e tecnológicas no capital associativo.
 
 2- Para a tipologia programas mobilizadores apenas é admitida a modalidade de candidatura em copromoção.
 

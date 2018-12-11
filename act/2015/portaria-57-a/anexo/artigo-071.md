@@ -30,7 +30,7 @@ c.3) Majoração «Divulgação ampla dos resultados», desde que os resultados 
 
 3- No caso de projetos em copromoção, a taxa de incentivo das entidades não empresariais do sistema de I&I é calculada em função da média ponderada das taxas de incentivo aplicadas a cada uma das empresas beneficiárias ou de 75% quando a cooperação não implique auxílios de Estado indiretos às empresas beneficiárias e esta percentagem for superior à taxa média acima referida, devendo para tal estar preenchida uma das seguintes condições:
 
-a) Os resultados que não dão origem a direitos da propriedade industrial (DPI) podem ser amplamente divulgados, e quaisquer DPI resultantes das atividades dos organismos ou infraestruturas de investigação são integralmente afetos a essas entidades, as quais são titulares de todos os direitos de propriedade;
+a) Os resultados que não dão origem a direitos de propriedade intelectual (DPI) podem ser amplamente divulgados, e quaisquer DPI resultantes das atividades dos organismos ou infraestruturas de investigação são integralmente afetos a essas entidades, as quais são titulares de todos os direitos de propriedade.
 
 b) Quaisquer DPI resultantes do projeto, bem como direitos de acesso conexos, são afetados a diferentes parceiros da colaboração de uma forma que reflita adequadamente os seus pacotes de trabalho, contribuições e respetivos interesses;
 

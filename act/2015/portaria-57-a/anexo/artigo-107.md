@@ -8,7 +8,7 @@ a) Inserir-se nos domínios prioritários da estratégia de investigação e ino
 
 b) Apresentar uma caracterização técnica e um orçamento suficientemente detalhados e fundamentados, com uma estrutura de custos adequada aos objetivos visados e assegurar o controlo orçamental do mesmo através de um sistema que permita aferir adequadamente a imputação das despesas e custos do projeto;
 
-c) Iniciar a execução do projeto nos 3 meses seguintes à comunicação da decisão de financiamento, salvo em situações devidamente justificadas e autorizadas pela autoridade de gestão;
+c) Iniciar a execução do projeto nos seis meses seguintes à comunicação da decisão de financiamento, salvo em situações devidamente justificadas e autorizadas pela autoridade de gestão;
 
 d) Demonstrar que se encontram asseguradas as fontes de financiamento do projeto.
 
@@ -32,13 +32,13 @@ b) Apresentar um plano de divulgação de resultados e de disseminação de conh
 
 c) Ter uma duração até 36 meses, prorrogável, no máximo, por mais 12 meses em casos devidamente justificados;
 
-d) No caso de projetos realizados em copromoção, apresentar um protocolo celebrado entre os copromotores envolvidos, explicitando o âmbito da cooperação das entidades envolvidas, a identificação da IP, a responsabilidade conjunta, direitos e deveres das partes, e quando aplicável, questões inerentes à confidencialidade, à propriedade intelectual e à propriedade final dos bens de equipamento adquiridos ou desenvolvidos durante a execução do projeto;
+d) No caso de projetos realizados em copromoção, apresentar, aquando da assinatura do termo de aceitação, um protocolo celebrado entre os copromotores envolvidos, explicitando o âmbito dessa cooperação, a identificação da IP, a responsabilidade conjunta, direitos e deveres das partes, e quando aplicável, questões inerentes à confidencialidade, à propriedade intelectual e à propriedade final dos bens de equipamento adquiridos ou desenvolvidos durante a execução do projeto;
 
 e) Identificar um responsável pelo projeto que, no caso de projetos de IC&DT, corresponderá ao IR que é corresponsável com a instituição proponente, pela candidatura e direção do projeto e pelo cumprimento dos objetivos propostos e regras subjacentes à concessão do financiamento;
 
 f) O IR identificado não pode encontrar-se em situação de incumprimento injustificado dos requisitos regulamentares, no que respeita à apresentação de relatórios de execução científica de projetos concluídos, financiados no âmbito dos FEEI ou por fundos nacionais, e nos quais tenha desempenhado o papel de IR;
 
-g) Assegurar que o IR possui vínculo contratual com a IP ou, em caso da sua inexistência, acordo escrito entre as partes;
+g) Assegurar que o IR possui, ou venha a possuir, aquando da assinatura do termo de aceitação, vínculo laboral ou titule uma bolsa de pós-doutoramento com a IP ou, no caso da sua inexistência, acordo escrito entre as partes;
 
 h) Assegurar que abrangem atividades que incluem investigação básica e aplicada, cobrindo o ciclo de atividades até, no máximo, à produção e demonstração de protótipos de aplicações em ambiente laboratorial ou num ambiente de interfaces simuladas com sistemas existentes, bem como linhas-piloto de pequena escala para testar e validar o desempenho do método de fabrico, se necessários à investigação industrial, por norma, TRL 0-4, somente sendo enquadráveis atividades de desenvolvimento experimental a título residual.
 
@@ -60,4 +60,4 @@ b) Apresentar um plano de participação em programas de I&D financiados pela Un
 
 c) Caso exista histórico de participação em programas europeus de apoio à I&D, devem os beneficiários demonstrar o efeito de adicionalidade gerado pelo projeto.
 
-10 - No caso dos projetos de proteção de direitos de propriedade intelectual, devem apresentar uma duração de 24 meses, exceto nos casos devidamente justificados, prorrogáveis por mais 12 meses, desde que devidamente fundamentado.
+10 - Os projetos de proteção de direitos de propriedade intelectual e de desenvolvimento e implementação de infraestruturas de investigação têm uma duração máxima de trinta e seis meses, podendo ser prorrogável, no caso dos projetos de desenvolvimento e implementação de infraestruturas de investigação, por mais doze meses, em casos devidamente justificados.

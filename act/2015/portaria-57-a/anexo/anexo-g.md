@@ -12,7 +12,11 @@ a) No caso de Não PME, apresentem um rácio de autonomia financeira não inferi
 
 b) No caso de PME, apresentem um rácio de autonomia financeira não inferior a 0,15;
 
-c) No caso de entidades não empresariais do sistema de I&I, apresentem situação líquida positiva.
+c) No caso de entidades não empresariais do sistema de I&I:
+
+i) De natureza privada, apresentarem situação líquida positiva;
+
+ii) De natureza pública, demonstrarem ter capacidade de financiamento da operação.
 
 2 - O rácio de autonomia financeira referido no número anterior é calculado através da seguinte fórmula:
 

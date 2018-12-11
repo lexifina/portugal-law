@@ -6,7 +6,11 @@
 
 1 - Para efeitos do disposto no n.º 1 do artigo 106.º do presente regulamento, considera-se que os beneficiários possuem uma situação económico-financeira equilibrada quando:
 
-a) No caso de entidades não empresariais do sistema de I&I, apresentem situação líquida positiva;
+a) No caso de entidades não empresariais do sistema de I&I:
+
+i) de natureza privada, apresentarem situação líquida positiva;
+
+ii) de natureza pública, demonstrarem ter capacidade de financiamento da operação.
 
 b) No caso de grandes empresas, apresentem um rácio de autonomia financeira não inferior a 0,20;
 

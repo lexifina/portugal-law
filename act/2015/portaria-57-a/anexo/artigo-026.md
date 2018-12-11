@@ -8,7 +8,7 @@ a) Ter data de candidatura, ou pedido de auxílio nos termos do n.º 8 do presen
 
 b) Ser sustentado por uma análise estratégica da empresa que identifique as áreas de competitividade críticas para o negócio em que se insere, diagnostique a situação da empresa nestas áreas críticas e fundamente as opções de investimento consideradas na candidatura;
 
-c) Demonstrar a viabilidade económico-financeira e que se encontram asseguradas as fontes de financiamento, incluindo o financiamento por capitais próprios nos termos definidos no anexo C, sendo que o beneficiário deverá assegurar pelo menos 25% dos custos elegíveis com recursos próprios ou alheios, que não incluam qualquer financiamento estatal, conforme previsto no n.º 14 do artigo 14.º do Regulamento (UE) n.º 651/2014, de 16 de junho;
+c) Demonstrar a viabilidade económico-financeira, designadamente através da análise de risco da empresa e do projeto, e que se encontram asseguradas as fontes de financiamento, incluindo o financiamento por empréstimo bancário quando necessário, e por capitais próprios nos termos definidos no anexo C, sendo que o beneficiário deverá assegurar pelo menos 25 % dos custos elegíveis com recursos próprios ou alheios, que não incluam qualquer financiamento estatal, conforme previsto no n.º 14 do artigo 14.º do Regulamento (UE) n.º 651/2014, de 16 de junho;
 
 d) Demonstrar o efeito de incentivo, nos termos previstos no artigo seguinte;
 

@@ -2,7 +2,7 @@
 
 ### Avaliação dos resultados gerados pelo projeto
 
-(a que se refere o n.º 3 e n.º 5 do artigo 30.º)
+(a que se refere o artigo 30.º-A)
 
 Incentivos à inovação empresarial e empreendedorismo
 
@@ -12,7 +12,7 @@ Incentivos à inovação empresarial e empreendedorismo
 
 a) No encerramento financeiro - com a apresentação dos dados sobre a conclusão física e financeira do projeto, é avaliada a concretização dos objetivos e condições subjacentes à aprovação do projeto, incluindo a concretização dos indicadores de realização e de resultado;
 
-b) No ano de cruzeiro - que corresponde ao segundo exercício económico completo após o ano de conclusão física e financeira do projeto, com exceção dos projetos do setor do turismo que corresponde ao terceiro exercício económico completo, é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, com vista a aferir da possibilidade de atribuição de uma isenção de reembolso no montante máximo de 60 % do incentivo reembolsável.
+b) No ano de cruzeiro - que corresponde ao segundo exercício económico completo após o ano de conclusão física e financeira do projeto, com exceção dos projetos do setor do turismo que corresponde ao terceiro exercício económico completo, é efetuada uma avaliação sobre o cumprimento dos resultados associados a externalidades positivas geradas na economia, aferindo a possibilidade de manutenção definitiva da componente não reembolsável face aos objetivos contratuais alcançados.
 
 3 - A avaliação referida na alínea a) do número anterior releva para efeitos de aplicação do disposto no artigo 15.º, incluindo para efeitos do disposto no n.º 3 do artigo 34.º
 
@@ -52,10 +52,24 @@ c) Indicador I3 - (beta)3 = [0,15 a 0,40].
 
 8 - Para os projetos de interesse especial e para os projetos de interesse estratégico podem ser definidos indicadores e ponderadores diferentes dos apresentados nos pontos anteriores.
 
-9 - De acordo com o apuramento previsto no n.º 6, há lugar à atribuição de uma isenção de reembolso, proporcionalmente e até ao montante máximo de 60 %, se o Grau de Cumprimento apurado for superior a 100 %, nos seguintes termos:
+9 - De acordo com o apuramento previsto no n.º 6, há lugar à confirmação da atribuição do incentivo não reembolsável a título definitivo se o GC apurado for superior a 100 %.
 
 (ver documento original)
 
-10 - De acordo com o apuramento referido nos n.os 4, 5 e 6, relativo ao Grau de Cumprimento, haverá lugar a restituição antecipada do reembolso, relativa a cada ponto percentual de incumprimento de acordo com a seguinte tabela:
+10 - Se o GC apurado for inferior a 100 % e superior a 50 %, a componente não reembolsável é transformada em reembolsável nos seguintes termos:
 
-(ver documento original)
+R = 100 % - (GC(elevado a 2))
+
+R - Parcela (em %) do incentivo a reembolsar.
+
+11 - Se o GC apurado for inferior a 50 %, a componente não reembolsável não é confirmada, sendo objeto de reembolso na sua totalidade.
+
+12 - O plano de reembolsos, a aplicar aos n.os 10 e 11 anteriores, obedece às seguintes condições:
+
+a) O prazo total de reembolso é de 3 anos, à exceção dos projetos de criação de novos estabelecimentos hoteleiros e conjuntos turísticos em que, o prazo total de reembolso é de 5 anos;
+
+b) Os reembolsos são efetuados, por princípio, com uma periodicidade trimestral, em montantes iguais e sucessivos;
+
+c) O prazo de reembolso inicia-se no primeiro dia do mês seguinte à comunicação da decisão de avaliação do GC;
+
+d) Neste reembolso não são cobrados ou devidos juros ou quaisquer outros encargos.

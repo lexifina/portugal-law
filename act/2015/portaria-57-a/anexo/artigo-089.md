@@ -12,7 +12,7 @@ c) Aquisição de software expressamente para a operação;
 
 d) Aquisição, implementação, e prestação de serviços, infraestruturas e equipamentos de comunicações, incluindo os custos diretamente atribuíveis para os colocar na localização e nas condições necessárias ao seu funcionamento;
 
-e) Aquisição, implementação, e prestação de serviços, infraestruturas e equipamentos de centros de dados e computação em nuvem, incluindo os custos diretamente atribuíveis para os colocar na localização e nas condições necessárias ao seu funcionamento;
+e) Aquisição, implementação e prestação de serviços, infraestruturas e equipamentos de centros de dados e computação em nuvem, incluindo os custos diretamente atribuíveis para os colocar na localização e nas condições necessárias ao seu funcionamento, designadamente as despesas com utilização dos serviços de computação em nuvem, que poderão corresponder à duração do projeto;
 
 f) Aquisição de equipamento básico, designadamente mobiliário, sinalética, comunicações e equipamentos relacionados com o atendimento, desde que devidamente justificado como necessário para a implementação da operação;
 

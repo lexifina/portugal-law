@@ -4,7 +4,7 @@
 
 1- Para além das obrigações previstas no artigo 12.º, são ainda exigíveis, para a tipologia de investimento a que respeita a presente secção as seguintes:
 
-a) Para os projetos com a majoração «demonstração e disseminação» prevista na alínea c) do n.º 1 do artigo 31.º:
+a) (Revogada).
 
 i) Permitir a divulgação, em plataforma de acesso livre, do âmbito do processo e resultados do projeto, sem prejuízo dos requisitos relativos à proteção de propriedade intelectual;
 

@@ -12,9 +12,9 @@ I - Incentivos à inovação empresarial e empreendedorismo
 
 a) O cofinanciamento dos investimentos localizados nas regiões menos desenvolvidas NUTS II (Norte, Centro e Alentejo) é assegurado por:
 
-i) Autoridade de gestão do programa operacional Competitividade e Internacionalização, para projetos com investimento total superior a 3M (euro);
+i) Autoridade de gestão do programa operacional Competitividade e Internacionalização, para projetos com investimento total superior ao limite definido em aviso para apresentação de candidaturas e projetos multirregionais;
 
-ii) Autoridade de gestão do programa operacional regional, desde que realizados na respetiva NUTS II, para projetos com investimento total igual ou inferior a 3M (euro);
+ii) Autoridade de gestão do programa operacional regional, desde que realizados na respetiva NUTS II, para projetos com investimento total igual ou inferior a 5M(euro);
 
 b) O cofinanciamento dos investimentos localizados nas regiões de Lisboa e Algarve é assegurado pela autoridade de gestão do respetivo programa operacional regional.
 
