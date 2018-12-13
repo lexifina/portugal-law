@@ -1,0 +1,7 @@
+Aviso n.º 18735/2018
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público que, nos termos e para os efeitos do disposto no art. 56.º da Lei n.º 75/2013, de 12 de setembro, na sua atual redação, e nos termos do art. 127.º do Decreto-Lei n.º 80/2015, de 15 de maio, conjugado com a alínea j) do n.º 4 do art. 191.º do mesmo diploma legal, a Assembleia Municipal da Murtosa deliberou, na reunião da sessão ordinária do dia vinte e três de novembro de dois mil e dezoito, sob proposta da Câmara Municipal, aprovada na sua reunião ordinária de vinte de setembro de 2018, proceder à revogação do Plano de Urbanização do Bunheiro (publicado no Diário da República n.º 213, de 6 de novembro de 2007).
+27 de novembro de 2018. - O Presidente da Câmara Municipal da Murtosa, Joaquim Manuel dos Santos Baptista.
+Deliberação
+José Alcides Ramos Pereira, Primeiro Secretário da Assembleia Municipal da Murtosa declara que, na reunião da sessão ordinária do dia vinte e três de novembro de dois mil e dezoito, foi aprovado o ponto número nove da respetiva ordem de trabalhos, titulado «Apreciação, discussão e votação da proposta 'Plano de Urbanização do Bunheiro' - deliberação de Câmara de 20.09.2018», por maioria com os votos favoráveis da bancada do PSD e da bancada do CDS-PP, e com os votos contra da bancada do PS.
+Murtosa, 26 de novembro de 2018. - O Primeiro Secretário da Assembleia Municipal, José Alcides Ramos Pereira.
+611866269
