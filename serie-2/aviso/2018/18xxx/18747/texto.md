@@ -1,0 +1,6 @@
+Aviso n.º 18747/2018
+José Manuel Barbosa de Almeida e Costa, Vice-Presidente da Câmara Municipal de Sever do Vouga, dando cumprimento ao estipulado na alínea b), do n.º 1, do artigo 35.º, do anexo I, à Lei n.º 75/2013, de 12 de setembro, torna público que foi aprovado na reunião da Câmara Municipal do dia 14 de novembro deste ano, o projeto de "Regulamento de Funcionamento do Ecocentro Municipal - Valorização Ambiental", precedido que foi da fase de início de procedimento e participação procedimental.
+Assim, dando-se cumprimento ao artigo n.º 101 do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se o projeto de Regulamento a consulta pública, para recolha de sugestões, procedendo-se à publicação do presente aviso no Diário da República, 2.ª série, na Internet, no sítio institucional deste Município, no átrio do Município e nos locais de estilo das juntas de freguesia, podendo o projeto de Regulamento ser consultado no Serviço Administrativo deste Município.
+Nos termos do n.º 2 do referido artigo, os interessados devem dirigir, por escrito, as suas sugestões ao Sr. Vice-Presidente da Câmara, no prazo de 30 dias, a contar da publicação deste aviso no Diário da República, 2.ª série.
+30 de novembro de 2018. - O Vice-Presidente, José Manuel Barbosa de Almeida e Costa, Dr.
+311869866
