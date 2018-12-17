@@ -1,0 +1,7 @@
+Aviso n.º 18928/2018
+Alteração do Plano Diretor Municipal de Bragança
+Torna-se público, nos termos do n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal deliberou, em reunião pública de 26 de novembro de 2018, determinar a abertura da discussão pública da alteração ao Plano Diretor Municipal de Bragança.
+Para a Discussão Pública, nos termos do n.º 1 do artigo 89.º do referido decreto-lei, é estabelecido o período de 30 dias, contados a partir do quinto dia, após a publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram, na página oficial da Câmara Municipal de Bragança em www.cm-braganca.pt e nas instalações do Balcão Único desta Câmara Municipal, sita no Forte S. João de Deus, em Bragança.
+Assim, convidam-se todos os interessados a apresentar reclamações, observações ou sugestões, por escrito e dentro do período atrás referido, as quais deverão ser dirigidas diretamente ao Exmo. Sr. Presidente da Câmara Municipal de Bragança e realizadas por uma das seguintes formas: apresentadas presencialmente no Balcão Único desta Câmara Municipal, enviadas por via postal para o Município de Bragança, Forte S. João de Deus, 5300-263 Bragança, ou por via eletrónica para cmb@cm-braganca.pt
+3 de dezembro de 2018. - O Presidente da Câmara, Hernâni Dinis Venâncio Dias.
+611887612
