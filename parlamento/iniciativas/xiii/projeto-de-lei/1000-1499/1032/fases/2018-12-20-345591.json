@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1032",
+    "id": "43180",
+    "titulo": "Reforço sísmico de edifícios, incluindo em obras de reabilitação"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13554",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42185",
+        "leg": "XIII",
+        "nr": "778",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2541",
+            "obs": null,
+            "pag": [
+              "31-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/31?pgs=31-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2541",
+            "obs": null,
+            "pag": [
+              "31-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/31?pgs=31-37&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Revoga o regime excepcional e temporário relativo à reabilitação de edifícios ou de fracções estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de Abril, relativo a riscos sísmicos e outros"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42898",
+        "leg": "XIII",
+        "nr": "958",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2541",
+            "obs": null,
+            "pag": [
+              "31-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/31?pgs=31-37&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2541",
+            "obs": null,
+            "pag": [
+              "31-37"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/31?pgs=31-37&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Visa o reforço da resistência sísmica dos edifícios"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:03:19:143&drc=00:04:13:094"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:26:07:158&drc=00:02:54:972"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/32?pgs=32,37&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:07:32:237&drc=00:01:54:345"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5952",
+                "nome": "Maria Manuel Rola"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:09:26:582&drc=00:02:30:313"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/33?pgs=33&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6188",
+                "nome": "Luís Vilhena"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:11:56:895&drc=00:03:11:146"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5489",
+                "nome": "António Topa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:15:07:787&drc=00:04:32:170"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:19:39:957&drc=00:03:10:042"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=02:22:50:079&drc=00:03:17:078"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/36?pgs=36&org=PLC"
+              }
+            ],
+            "sumario": "Visa o reforço da resistência sísmica dos edifícios; Revoga o regime excecional e temporário relativo à reabilitação de edifícios ou de frações estabelecido pelo Decreto-Lei n.º 53/2014, de 8 de abril, relativo a riscos sísmicos e outros; Reforço sísmico de edifícios, incluindo em obras de reabilitação.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "345591",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "840305",
+        "obs": null,
+        "pag": [
+          "31-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-21",
+        "pubLeg": "XIII",
+        "pubNr": "32",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/31?pgs=31-37&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
