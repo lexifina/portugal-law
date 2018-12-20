@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "928",
+    "id": "42808",
+    "titulo": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a Segurança Social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13544",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAN",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43183",
+        "leg": "XIII",
+        "nr": "1035",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2538",
+            "obs": null,
+            "pag": [
+              "20-26"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/20?pgs=20-26&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Altera o Regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a Segurança Social"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:16:39:136&drc=00:04:22:576"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:36:12:172&drc=00:03:12:980"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21",
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/20?pgs=20-21,25-26&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:21:01:712&drc=00:01:57:741"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:22:59:454&drc=00:03:41:155"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "4452",
+                "nome": "Isabel Alves Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:26:40:610&drc=00:03:24:075"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5492",
+                "nome": "Rui Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:30:04:685&drc=00:03:01:314"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:33:06:529&drc=00:03:05:642"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Atribui um visto de residência temporário aos cidadãos estrangeiros com um ano de descontos para a segurança social; Altera o regime de entrada, permanência, saída e afastamento de estrangeiros do território nacional, instituindo a atribuição da figura do visto temporário de residência ao cidadão imigrante com um ano de descontos para a segurança social.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "345580",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "840299",
+        "obs": null,
+        "pag": [
+          "20-26"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-21",
+        "pubLeg": "XIII",
+        "pubNr": "32",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/20?pgs=20-26&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
