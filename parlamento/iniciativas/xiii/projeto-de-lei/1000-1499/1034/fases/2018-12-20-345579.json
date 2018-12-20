@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1034",
+    "id": "43182",
+    "titulo": "Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os  direitos das mulheres na gravidez e no parto"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2018-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13543",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2018-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "42609",
+        "leg": "XIII",
+        "nr": "872",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2537",
+            "obs": null,
+            "pag": [
+              "15-20"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2018-12-21",
+            "pubLeg": "XIII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/15?pgs=15-20&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Regime de proteção na pré conceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2018-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2522",
+                "nome": "Catarina Marcelino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=00:53:09:855&drc=00:05:55:503"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:15:18:238&drc=00:01:20:898"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-16",
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/15?pgs=15-16,20&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PAN",
+                "idCadastro": "5777",
+                "nome": "André Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=00:59:05:358&drc=00:02:32:317"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "16-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/16?pgs=16-17&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4162",
+                "nome": "Moisés Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:01:37:675&drc=00:03:24:585"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "17-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/17?pgs=17&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4297",
+                "nome": "Carla Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:05:02:260&drc=00:03:30:005"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/18?pgs=18&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6138",
+                "nome": "Isaura Pedro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:08:32:266&drc=00:03:23:935"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "18-19"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/18?pgs=18-19&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:04",
+            "horaTermo": "17:37",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2018_12_20_15_00_00_clean_14_plenario&url=l13/sl4/a2018/m12/&tI=01:11:56:201&drc=00:03:22:037"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "232341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2018-12-21",
+                "pubLeg": "XIII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Regime de proteção na preconceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério; Procede à segunda alteração da Lei n.º 15/2014, de 21 de março, reforçando os direitos das mulheres na gravidez e no parto.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "345579",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "840298",
+        "obs": null,
+        "pag": [
+          "15-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2018-12-21",
+        "pubLeg": "XIII",
+        "pubNr": "32",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/032/2018-12-21/15?pgs=15-20&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
