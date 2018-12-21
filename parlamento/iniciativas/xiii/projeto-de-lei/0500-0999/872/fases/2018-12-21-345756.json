@@ -1,0 +1,213 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "872",
+    "id": "42609",
+    "titulo": "Regime de proteção na pré conceção, na procriação medicamente assistida, na gravidez, no parto, no nascimento e no puerpério"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2018-12-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "44705",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2019-02-07",
+            "id": "111625",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-02-21",
+            "id": "111470",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-14",
+            "id": "111758",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-21",
+            "id": "111892",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-28",
+            "id": "111969",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2018-12-21",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2018-12-21",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-03-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938785a6d49354e5449785a4330785a6a63794c5451354e6a45744f475a6b5a693034596d466d4d54526d4f54566d596a6b756347526d&fich=1fb9521d-1f72-4961-8fdf-8baf14f95fb9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-07",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - MDM movimento democrático de mulheres",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4e4441314d6d55354d5330324e445a684c5451344e546b745954426c4d5330324d445979597a67344d324d32596a45756347526d&fich=f4052e91-646a-4859-a0e1-6062c883c6b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-21",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer -  Colégio de Pediatria da Ordem dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a47457a4d6a59315a4330345a6d5a6b4c54526b4f574974596a42685a6930334d5441314d574d79596a4d304e544d756347526d&fich=6da3265d-8ffd-4d9b-b0af-71051c2b3453.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - APMJ  Associação Portuguesa de Mulheres Juristas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4f54646b5a6a4e6d4e4330335a6a426a4c5451774f5459744f5463324d79316d4e3249354e57566a4e7a593359574d756347526d&fich=397df3f4-7f0c-4096-9763-f7b95ec767ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-14",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d5446694d545977597931685a6a457a4c5451314d6d55744f54457a4e5330354d546b304d6a45784f475a684d4451756347526d&fich=a11b160c-af13-452e-9135-91942118fa04.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d546b304d54417a5a6930315a6a46694c545134597a41745954686b4f43316b4d324e6c4e5745794e7a45344f5755756347526d&fich=7194103f-5f1b-48c0-a8d8-d3ce5a27189e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Propostas de alteração PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d7a417a4d6d56694e79316a4f57466d4c5451774f546b74596d466a5a5331684d6a686b595452695a544d77596d4d756347526d&fich=e3032eb7-c9af-4099-bace-a28da4be30bc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a596a686b593246695a5330784e6a56684c5451774e446b7459574a6d5979316c596a677a5a6d51344d54646a596d49756347526d&fich=3b8dcabe-165a-4049-abfc-eb83fd817cbb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "TEXTO COMUM APRESENTADO PELO PS, PEV E PAN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b595755774e474e6b5a5330314f5445784c5451785a574d74596d4a6d4f43307a4e54597a597a6331597a68684e4441756347526d&fich=dae04cde-5911-41ec-bbf8-3563c75c8a40.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938314d7a5135595463355a69316b4e324a6c4c54517a5a6d55744f4442694d693031597a426c4f44646b5a6a6469595755756347526d&fich=5349a79f-d7be-43fe-80b2-5c0e87df7bae.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Votações indiciárias",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684f5755784d44593459693034596a6b314c54526a5a6d49744f546b324d5330345a6a4a684f446b3259574d775a5459756347526d&fich=a9e1068b-8b95-4cfb-9961-8f2a896ac0e6.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4532",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "4532",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração do PS, PEV, PAN, PCP e PSD e texto final",
+            "pag": [
+              "3-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-18",
+            "pubLeg": "XIII",
+            "pubNr": "129",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/129/2019-07-18/3?pgs=3-38&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração do PS, PEV, PAN, PCP e PSD e texto final",
+            "pag": [
+              "3-38"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-18",
+            "pubLeg": "XIII",
+            "pubNr": "129",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/129/2019-07-18/3?pgs=3-38&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2018-12-21",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "345756",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
