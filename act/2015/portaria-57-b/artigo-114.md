@@ -44,6 +44,10 @@ ii) Criação e promoção de novas rotas turísticas, centradas em recursos e p
 
 iii) Utilização das TICE, sinalética e outros instrumentos de aproximação e visibilidade da região e do seu património nos mercados e junto dos visitantes.
 
+d) Proteção contra riscos de incêndios:
+
+i) Ações locais e regionais de proteção contra riscos de incêndios, complementares aos apoios no âmbito do PO SEUR, designadamente os investimentos ou equipamentos destinados à proteção e socorro das populações e para alojamento e abastecimento de desalojados em situações de catástrofe, sistemas de vigilância e monitorização florestal e a realização de campanhas de informação e sensibilização.
+
 2 - Apenas são apoiados projetos de animação e programação cultural ou de organização de eventos que sejam da iniciativa de entidades públicas ou de entidades protocoladas com estas, que apresentem potencial de captação de fluxos turísticos e que estejam enquadrados numa estratégia de promoção turística.
 
 3 - O apoio aos projetos referidos no número anterior é atribuído para o lançamento da iniciativa, e, quando realizados de forma continuada, até ao limite de três anos e com intensidade degressiva do financiamento.

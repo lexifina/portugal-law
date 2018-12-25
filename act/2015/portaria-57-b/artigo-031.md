@@ -16,4 +16,4 @@ e) (Revogada.)
 
 f) Incidir apenas sobre infraestruturas já existentes de propriedade e de utilização da Administração Pública, não sendo financiadas despesas de funcionamento e de manutenção;
 
-g) No caso das operações que sejam implementadas ao abrigo de um contrato de gestão de eficiência energética, promovido por uma entidade da Administração Pública, evidenciar que têm condições de apresentar um contrato de gestão de eficiência energética nos termos do Decreto-Lei n.º 29/2011, de 28 de fevereiro, para efeitos de assinatura do termo de aceitação, em termos a definir nos Avisos de Abertura.
+g) (Revogada.)

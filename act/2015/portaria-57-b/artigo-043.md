@@ -2,7 +2,7 @@
 
 ### Tipologias das operações
 
-1 - As operações abrangidas são as que se revelem indispensáveis para a prossecução da Prioridade de Investimento «Apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos e no sector da habitação» e para a realização das ações definidas na auditoria ou diagnóstico energético que demonstre os ganhos financeiros líquidos resultantes das respetivas operações, podendo assumir as seguintes tipologias:
+1 - As operações abrangidas são as que se revelem indispensáveis para a prossecução da Prioridade de Investimento «Apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos e no setor da habitação» e para a realização das ações definidas na auditoria energética que demonstre os ganhos financeiros líquidos resultantes das respetivas operações, podendo assumir as seguintes tipologias:
 
 a) Intervenções ao nível do aumento da eficiência energética no setor da habitação particular, nas quais se inclui:
 
@@ -24,8 +24,8 @@ i) Instalação de painéis solares térmicos para produção de água quente sa
 
 ii) Instalação de sistemas de produção de energia para autoconsumo a partir de fontes de energia renovável;
 
-c) Auditorias, estudos, diagnósticos e análises energéticas necessárias à realização dos investimentos bem como a avaliação «ex-post» independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento.
+c) Auditorias energéticas necessárias à realização dos investimentos bem como a avaliação ex post independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento;
 
 d) Campanhas de sensibilização e de promoção da eficiência energética na habitação particular.
 
-2 - As auditorias, estudos e análises energéticas previstas na alínea c) do número anterior, devem obrigatoriamente incidir sobre as componentes comuns do edifício e as frações individuais, permitindo estruturar e elaborar o projeto que deve concretizar as soluções apontadas, no todo ou pelo menos para um conjunto de medidas identificadas que resultem em melhoramentos significativos em eficiência energética, e que constituem soluções integradas no domínio da eficiência energética.
+2 - As auditorias energéticas previstas na alínea c) do número anterior, devem obrigatoriamente incidir sobre as componentes comuns do edifício e as frações individuais, permitindo estruturar e elaborar o projeto que deve concretizar as soluções apontadas, no todo ou pelo menos para um conjunto de medidas identificadas que resultem em melhoramentos significativos em eficiência energética, e que constituem soluções integradas no domínio da eficiência energética.

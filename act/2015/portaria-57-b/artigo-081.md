@@ -1,7 +1,3 @@
-## Secção 12
-
-## Adaptação às Alterações Climáticas e Prevenção e Gestão de Riscos
-
 # Artigo 81.º
 
 ### Objetivos específicos

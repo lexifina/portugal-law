@@ -4,9 +4,9 @@
 
 As operações abrangidas são as que se revelem indispensáveis para a prossecução da Prioridade de Investimento "Promoção de investimentos para abordar riscos específicos, assegurar a capacidade de resistência às catástrofes e desenvolver sistemas de gestão de catástrofes", podendo assumir as seguintes tipologias:
 
-a) Ações materiais de proteção costeira em zonas de risco, no sentido da eliminação, redução ou controlo do risco e da salvaguarda de pessoas e bens, de caráter estrutural e impacte sistémico:
+a) Ações materiais de proteção costeira em zonas de risco ou em situação crítica de erosão, no sentido da eliminação, redução ou controlo do risco e da salvaguarda de pessoas e bens, de caráter estrutural e impacte sistémico:
 
-i) Proteção e reabilitação de sistemas costeiros naturais, nomeadamente dunares;
+i) Proteção e reabilitação de sistemas costeiros naturais, nomeadamente dunares, incluindo regeneradores dunares, passadiços sobrelevados, paliçadas e vedações para limitar o acesso e evitar o pisoteio, para preservação dos sistemas costeiros naturais;
 
 ii) Ações de reposição de equilíbrio da dinâmica sedimentar, nomeadamente através de transposição de barras e reposição de dragados;
 
@@ -18,7 +18,7 @@ v) Minimização de risco associado à instabilidade das arribas;
 
 vi) Construção e reabilitação de estruturas de defesa costeira;
 
-vii) Demolição e remoção de estruturas localizadas em áreas de risco;
+vii) Demolição e remoção de estruturas em risco localizadas em áreas de Domínio Público Marítimo;
 
 viii) Medidas ativas que visem restabelecer o fornecimento de sedimentos ao litoral;
 
@@ -26,7 +26,7 @@ ix) Ações que visem conferir maior resiliência às frentes urbanas, como seja
 
 x) Minimização dos efeitos da erosão associados à divagação de embocaduras;
 
-xi) Abertura artificial e ações de desassoreamento de lagoas costeiras;
+xi) Abertura artificial e ações de desassoreamento de rias e lagoas costeiras;
 
 xii) Implementação de ações de recuo planeado, não abrangendo as ações de realojamento, estando incluída a aquisição de terrenos não construídos ou construídos, tendo em vista a proteção, reabilitação e redução de riscos no litoral. As áreas adquiridas passarão a fazer parte do domínio público do Estado ou do domínio privado do Estado indisponível.
 

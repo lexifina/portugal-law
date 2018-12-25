@@ -1,10 +1,14 @@
+## Secção 9
+
+## Promoção de estratégias de baixo teor de carbono para todos os tipos de territórios, nomeadamente as zonas urbanas, incluindo a promoção da mobilidade urbana multimodal sustentável.
+
 # Artigo 66.º
 
 ### Tipologias das operações
 
 1 - As operações abrangidas são as que se revelem necessárias para o desenvolvimento de Planos de mobilidade e para a realização das ações que decorram dos mesmos, desde que previstas nos POR, podendo nomeadamente assumir as seguintes tipologias:
 
-a) Planos de ação de mobilidade urbana sustentável;
+a) Elaboração de Planos de ação de mobilidade urbana sustentável;
 
 b) Construção de ciclovias ou vias pedonais, excluindo as que tenham fins de lazer como objetivo principal, podendo exigir a eliminação de pontos de acumulação de acidentes que envolvem peões e ciclistas;
 
@@ -21,6 +25,8 @@ g) Estruturação de corredores urbanos de procura elevada, nomeadamente, priori
 h) Adoção de sistemas de informação aos utilizadores em tempo real;
 
 i) Desenvolvimento e aquisição de equipamento para sistemas de gestão e informação para soluções inovadoras e experimentais de transporte, adequadas à articulação entre os territórios urbanos e os territórios de baixa densidade populacional, incluindo para as soluções flexíveis de transporte com utilização de formas de energia menos poluentes.
+
+j) Outras intervenções em espaço público que promovam a pedonalização dos centros urbanos e a adoção de práticas de mobilidade suave que garantam o direito à mobilidade de todos os cidadãos, em particular cidadãos com mobilidade reduzida.
 
 2 - No caso dos PO Norte, Centro, Lisboa e Alentejo, para os centros urbanos de nível superior previstos no respetivo Programa Operacional Regional, os territórios daquelas Autoridades Urbanas devem estar abrangidos por um Plano de ação de mobilidade urbana sustentável enquadrado no plano estratégico de desenvolvimento urbano sustentável, aprovado pela Autoridade de Gestão. É no plano estratégico de desenvolvimento urbano sustentável que são articulados os seguintes instrumentos de programação, em função das áreas de intervenção que sejam mobilizadas em cada caso:
 

@@ -2,4 +2,6 @@
 
 ### Forma dos apoios
 
-Os apoios a conceder às empresas revestem a natureza de subvenções reembolsáveis, através de instrumento financeiro à exceção das despesas relativas à realização de estudos, planos e projetos, diagnósticos, auditorias energéticas, atividades preparatórias e acessórias, diretamente ligados à operação, que revestem a natureza de subvenção não reembolsável.
+1 - Os apoios a conceder, com exceção das auditorias energéticas em que o apoio é não reembolsável, assumem a forma de apoio reembolsável, podendo este apoio ser parcialmente convertido em apoio não reembolsável, limitado a uma taxa máxima de 30 % e aos limiares decorrentes das regras em matéria de auxílios de estado.
+
+2 - As condições de conversão do apoio reembolsável em não reembolsável serão fixadas nos avisos para apresentação de candidaturas em função do alcance de metas predefinidas aferidas com a conclusão dos investimentos.

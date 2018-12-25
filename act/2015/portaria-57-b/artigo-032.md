@@ -8,7 +8,7 @@ a) Nos casos em que as intervenções previstas sejam tipificáveis, incluindo a
 
 b) A despesa elegível com investimento em produção de energia elétrica para autoconsumo a partir de fontes de energias renováveis está limitada a 30 % do montante de investimento total elegível da candidatura.
 
-c) As despesas com auditorias, estudos, planos de ação ou análises energéticas, necessárias ao diagnóstico 'ex-ante' ou avaliação 'ex-post'.
+c) As despesas com auditorias energéticas, necessárias ao diagnóstico ex ante ou avaliação ex post.
 
 d) A elegibilidade das despesas previstas na alínea anterior fica dependente da realização de medidas identificadas no diagnóstico ex ante que garantam um mínimo de redução em 30 % no consumo de energia primária no investimento candidato face ao consumo anterior à realização do investimento.
 

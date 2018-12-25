@@ -28,7 +28,7 @@ a) Localização em terrenos não privados;
 
 b) As intervenções devem contribuir para a implementação das orientações/medidas preconizadas nos seguintes instrumentos de planeamento:
 
-i) ENAAC;
+i) (Revogada.)
 
 ii) Plano Nacional de Defesa da Floresta contra Incêndios (PNDFCI);
 

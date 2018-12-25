@@ -10,6 +10,6 @@
 
 4 - As tipologias de operações de investimento exclusivamente dirigido à climatização e ou à iluminação, previstas nas subalíneas iii) e iv) da alínea a) do artigo 29.º, são apoiadas unicamente através de subvenção reembolsável.
 
-5 - Os apoios a conceder às ESE revestem a natureza de instrumentos financeiros, sendo reembolsáveis a 100 %, não estando o reembolso dependente das economias de energia alcançadas, e realizados através de um instrumento financeiro.
+5 - (Revogado.)
 
 6 - Os apoios a conceder às tipologias de operações previstas nas alíneas c) e d) do artigo 29.º têm a natureza de subvenções não reembolsáveis.

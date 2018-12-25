@@ -22,7 +22,7 @@ h) Ações de informação, de divulgação, de sensibilização e de publicidad
 
 i) Aquisição de serviços de execução de operação de cadastro predial do prédio ou prédios em que incide a operação, incluindo aluguer de equipamento;
 
-j) Outras despesas necessárias à execução da operação, desde que sejam especificamente discriminadas, justificadas e aprovadas pela Autoridade de Gestão.
+j) (Revogada.)
 
 2 - As despesas elegíveis a cofinanciamento a que se refere a alínea b) do n.º 1 do presente artigo estão limitadas a 10 % do total da despesa total elegível da operação, desde que tenham sido previstas e se, cumulativamente, forem observadas as seguintes regras:
 

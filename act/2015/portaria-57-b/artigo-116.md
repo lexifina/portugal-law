@@ -16,4 +16,4 @@ e) Demonstrem sustentabilidade técnica, económica e financeira adequada à sua
 
 f) Caso constituam operações do domínio de intervenção "Património Cultural", apresentem uma avaliação dos riscos associados à operação, designadamente de caráter financeiro ou de execução, nomeadamente associados à existência de achados arqueológicos na área de incidência.
 
-2 - Não são elegíveis intervenções em infraestruturas culturais ou de turismo cujo custo total exceda 5 milhões de euros.
+2 - (Revogado.)

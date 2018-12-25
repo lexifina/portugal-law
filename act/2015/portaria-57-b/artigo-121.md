@@ -12,7 +12,7 @@ c) Reabilitação de espaços e unidades industriais abandonadas com vista à su
 
 d) Desenvolvimento de ações com vista à gestão e animação da área urbana, à promoção da atividade económica, à valorização dos espaços urbanos e à mobilização das comunidades locais, desde que estejam enquadradas no plano de ação para a regeneração urbana.
 
-2 - Para efeitos do disposto na alínea b) do n.º 1, a reabilitação de espaços públicos pode incluir a construção de obra nova, bem como a reconstrução sem manutenção da fachada, a construção em substituição de edifícios existentes e obras de demolição por motivo de segurança e salubridade.
+2 - Para efeitos do disposto nas alíneas b) e c) do n.º 1, a reabilitação de espaços públicos pode incluir a construção de obra nova, bem como a reconstrução sem manutenção da fachada, a construção em substituição de edifícios existentes e obras de demolição por motivo de segurança e salubridade.
 
 3 - Para efeitos do disposto na alínea c) do n.º 1, a reabilitação de espaços e unidades industriais pode incluir as intervenções em unidades comerciais ou de serviços, nomeadamente entrepostos comerciais, armazéns ou silos localizados em zonas industriais abandonadas.
 

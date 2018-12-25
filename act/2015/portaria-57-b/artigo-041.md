@@ -28,8 +28,8 @@ b) Caso o investimento envolva uma intervenção num edifício com mais de 40 an
 
 c) Para efeito da aplicação da taxa de cofinanciamento base de 30 %, considera-se intervenção integrada quando esta, para além de prever uma intervenção na envolvente exterior, designadamente na envolvente opaca e ou nos vãos envidraçados, tipologias de operações previstas nas subalíneas i) e ii) da alínea a) do artigo 36.º, também contemple uma intervenção nos sistemas técnicos, designadamente na climatização, AQS, gestão centralizada, iluminação e outros sistemas técnicos, tipologias de operações previstas nas subalíneas iii) a iv) da alínea a) do artigo 36.º, e ou contemple uma intervenção nos equipamentos de produção de energia com base em fontes renováveis, designadamente na produção térmica para climatização e ou AQS e produção elétrica para autoconsumo, tipologias de operações previstas na alínea b) do artigo 36.º;
 
-d) Nas operações com um custo total elegível superior ou igual a um milhão de euros é calculado o défice de financiamento em conformidade com o estipulado no artigo 61.º do Regulamento (UE) n.º 1303/2013, a despesa elegível para efeitos de cofinanciamento pelo FEDER é a que resulta da dedução das receitas líquidas previstas pela operação no período de referência aplicável, não se aplicando as limitações de taxas de cofinanciamento acima referidas, sendo a taxa máxima de cofinanciamento FEDER a que se encontra prevista no n.º 2 do artigo 8.º
+d) (Revogada.)
 
-3 - A taxa máxima de cofinanciamento aplicável aos apoios previstos nas tipologias das alíneas d) do artigo 36.º não está sujeita às condições fixadas no número anterior.
+3 - A taxa máxima de cofinanciamento aplicável aos apoios previstos nas tipologias das alíneas d) e e) do artigo 36.º não está sujeita às condições fixadas no número anterior.
 
-4 - No apoio às ESE enquanto veículos promotores da eficiência energética na Administração Pública a taxa máxima de financiamento sobre o investimento elegível é de 50 %.
+4 - (Revogado.)

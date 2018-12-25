@@ -21,3 +21,7 @@ ii) Operadores da rede de mobilidade elétrica;
 iii) ADENE - para ações de sensibilização;
 
 iv) (Revogado.)
+
+c) No que respeita às intervenções identificadas na alínea c) do artigo anterior:
+
+i) Empresas do Setor Empresarial do Estado responsáveis pela realização dos investimentos previstos.

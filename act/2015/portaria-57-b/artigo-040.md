@@ -12,6 +12,6 @@
 
 5 - Os apoios a conceder aos beneficiários para a tipologia de operação prevista na alínea c) do artigo 36.º revestem a natureza de subvenção reembolsável.
 
-6 - Nos casos em que os apoios sejam concedidos a ESE, as subvenções são reembolsáveis a 100 %, não estando o reembolso dependente das economias de energia alcançadas.
+6 - (Revogado.)
 
 7 - Os apoios a conceder à tipologia de operação prevista na alínea d) do artigo 36.º têm a natureza de subvenções não reembolsáveis.

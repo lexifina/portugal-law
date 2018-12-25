@@ -23,3 +23,5 @@ ii) Instalação de sistemas de produção de energia para autoconsumo a partir 
 c) Intervenções nos sistemas de iluminação pública, sistemas semafóricos e sistemas de iluminação decorativa, tais como monumentos, jardins, entre outros, com o objetivo de reduzir os consumos de energia, através da instalação de sistemas e tecnologias mais eficientes, assim como pela introdução de sistemas de gestão capazes de potenciar reduções do consumo de energia elétrica associado a estes sistemas;
 
 d) Auditorias, diagnósticos e outros trabalhos necessários à realização de investimentos, bem como a avaliação «ex-post» independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento.
+
+e) Ações de sensibilização, promoção e planeamento territorial, difusão de informação e sensibilização socioeconómica no domínio da eficiência energética.

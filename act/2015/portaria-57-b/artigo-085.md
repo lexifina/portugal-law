@@ -4,13 +4,13 @@
 
 Para além das despesas elegíveis previstas no artigo 7.º do presente regulamento específico, são ainda elegíveis a cofinanciamento os custos incorridos com:
 
-a) Aquisição de aeronaves;
+a) (Revogada.)
 
-b) Aquisição de equipamento de proteção individual;
+b) Aquisição de equipamento de proteção individual e Equipamentos de Sustentabilidade Individual;
 
 c) Aquisição de veículos operacionais de proteção e socorro;
 
-d) Aquisição de serviços para trabalhos florestais com vista à instalação da rede de defesa da floresta contra incêndios;
+d) Aquisição de serviços para trabalhos florestais com vista à instalação da rede de defesa da floresta contra incêndios, bem como a aquisição de máquinas e veículos pesados que visem a instalação de redes de defesa da floresta contra incêndios;
 
 e) Aquisição de meios e equipamentos para fazer face a acidentes graves e catástrofes;
 

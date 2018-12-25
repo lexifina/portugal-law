@@ -14,4 +14,4 @@ d) POR Lisboa - 50 %;
 
 e) POR Algarve - 70 %.
 
-2 - No apoio às ESE enquanto veículos promotores da eficiência energética a taxa máxima de cofinanciamento sobre o investimento elegível é de 45 %.
+2 - (Revogado.)

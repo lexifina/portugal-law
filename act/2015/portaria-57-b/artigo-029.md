@@ -22,6 +22,6 @@ i) Instalação de painéis solares térmicos para produção de água quente sa
 
 ii) Instalação de sistemas de produção de energia para autoconsumo a partir de fontes de energia renovável.
 
-c) Auditorias, estudos, diagnósticos e análises energéticas necessários à realização dos investimentos, e à implementação de Planos de Ação de eficiência energética bem como a avaliação «ex-post» independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento;
+c) Auditorias energéticas necessárias à realização dos investimentos, e à implementação de Planos de Ação de eficiência energética bem como a avaliação ex post independente que permita a avaliação e o acompanhamento do desempenho e da eficiência energética do investimento.
 
 d) Campanhas de sensibilização e de promoção da eficiência energética dirigidas à Administração Pública.
