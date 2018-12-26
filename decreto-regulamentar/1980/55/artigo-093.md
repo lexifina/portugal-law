@@ -1,3 +1,15 @@
+## Subsecção IV
+
+## Lista de antiguidades e promoções
+
+## Secção II
+
+## Ajudantes e escriturários
+
+## Subsecção I
+
+## Quadro e exercício de funções
+
 # Artigo 93.º
 
 1 - Cumpre aos oficiais dos registos e notariado executar em geral os serviços para os quais lhes seja atribuída, por lei, competência própria ou delegada e que lhes sejam distribuídos pelo respectivo conservador ou notário.

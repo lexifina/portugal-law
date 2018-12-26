@@ -1,3 +1,19 @@
+## Capítulo II
+
+## Do pessoal dos serviços de registos e do notariado
+
+## Secção I
+
+## Conservadores e notários
+
+## Subsecção I
+
+## Concursos de habilitação
+
+## Subsecção II
+
+## Regime da função de conservador e notário
+
 # Artigo 52.º
 
 1 - O conservador ou notário provido definitiva ou interinamente deve conferir o inventário da conservatória ou do cartório na presença do anterior serventuário ou, não podendo este estar presente, do seu substituto legal.
