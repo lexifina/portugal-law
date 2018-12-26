@@ -1,0 +1,18 @@
+Resolução do Conselho de Ministros n.º 182/2018
+O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), tem por missão a gestão dos recursos financeiros, do património afeto à área da justiça e das infraestruturas e recursos tecnológicos do Ministério da Justiça (MJ).
+Na área do património, o IGFEJ, I. P., tem como atribuições assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituem o património imobiliário afeto ao MJ, organizando e atualizando o respetivo cadastro e inventário, realizando avaliações e elaborando e executando planos de aquisição e de arrendamento, de forma a assegurar as necessidades de instalação dos diversos tribunais e demais serviços do MJ.
+Nos termos do Decreto-Lei n.º 164/2012, de 31 de julho, na sua redação atual, o IGFEJ, I. P., sucedeu nas atribuições do Instituto de Gestão Financeira e de Infraestruturas da Justiça, I. P. (IGFIJ, I. P.), e do Instituto das Tecnologias de Informação na Justiça, I. P.
+Em 2000, o IGFIJ, I. P., espoletou os procedimentos legais com vista à celebração de um contrato de arrendamento que permitisse a instalação dos antigos Juízos Cíveis de Lisboa no imóvel sito na Rua Mouzinho da Silveira, n.º 26, em Lisboa - então propriedade da Petrogal, S. A. - que veio a ser adquirido pela Caixa de Previdência dos Advogados e Solicitadores (CPAS), a 12 de dezembro de 2002.
+Em julho de 2000, a antiga Direção-Geral do Património avaliou o imóvel e homologou, como limite para a renda mensal, o valor de (euro) 61.850,94, tendo as partes acordado um valor ligeiramente inferior, de (euro) 59 855,74.
+O IGFIJ, I. P., usou, entre 30 de setembro de 2000 e 5 de agosto de 2011, de forma pública e continuada, o imóvel sito na Rua Mouzinho da Silveira, n.º 26, em Lisboa.
+Entre 12 de dezembro de 2002 e 5 de agosto de 2011, data em que os Juízos Cíveis foram reinstalados noutro local, não foi celebrado qualquer contrato de arrendamento entre o IGFIJ, I. P., e a CPAS, nem foi paga qualquer quantia a título de contrapartida pelo referido uso do imóvel.
+A CPAS reclama agora o ressarcimento pela utilização do imóvel naquele período, em substituição da respetiva renda, pelo que, na sequência de negociações realizadas entre as partes, estas se propõem celebrar uma convenção de pagamento no valor total de (euro) 6 837 717,63.
+Com este acordo, a CPAS renuncia expressamente a qualquer pretensão indemnizatória, incluindo juros moratórios, decorrente do período de ocupação do imóvel.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), a realizar a despesa decorrente da celebração de uma convenção de pagamento com a Caixa de Previdência dos Advogados e Solicitadores, no montante de (euro) 6 837 717,63, pela ocupação do imóvel sito na Rua Mouzinho da Silveira, n.º 26, em Lisboa, onde funcionaram, entre 30 de setembro de 2000 e 5 de agosto de 2011, os Juízos Cíveis de Lisboa.
+2 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas no orçamento do IGFEJ, I. P., em 2018.
+3 - Delegar na Ministra da Justiça, com faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+4 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 20 de dezembro de 2018. - O Primeiro-Ministro, António Luís Santos da Costa.
+111939306
