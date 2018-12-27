@@ -14,6 +14,4 @@ c) As funções da entidade gestora no âmbito da gestão de resíduos de pilhas
 
 d) Os efeitos sobre o ambiente e a saúde humana decorrentes da presença de substâncias perigosas nos resíduos de pilhas e acumuladores;
 
-e) O significado do símbolo referido no n.º 1 do artigo 75.º, bem como dos símbolos químicos do mercúrio (Hg), do cádmio (Cd) e do chumbo (Pb);
-
-f) A prevenção da deposição de lixo em espaços públicos.
+e) O significado do símbolo referido no artigo 75.º, bem como dos símbolos químicos do mercúrio (Hg), do cádmio (Cd) e do chumbo (Pb).

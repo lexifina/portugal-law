@@ -2,9 +2,9 @@
 
 ### Faturação
 
-Para efeitos do disposto no n.º 2 do artigo 39.º da Lei n.º 82-D/2014, de 31 de dezembro, na sua redação atual, da fatura devem constar nomeadamente os seguintes elementos:
+Para efeitos do disposto no n.º 2 do artigo 39.º da Lei n.º 82-D/2014, de 31 de dezembro, da fatura devem constar nomeadamente os seguintes elementos:
 
-a) A designação do produto como ‘saco de plástico leve’ ou ‘saco de plástico muito leve’;
+a) A designação do produto como «saco de plástico leve» ou «saco leve»;
 
 b) O número de unidades vendidas ou disponibilizadas;
 

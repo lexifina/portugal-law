@@ -2,7 +2,7 @@
 
 ### Objetivos e metas anuais de recolha de equipamentos elétricos e eletrónicos
 
-1 - Os produtores, através de sistemas individuais ou integrados de gestão, contribuem, nos termos definidos nas autorizações dos sistemas individuais e nas licenças dos sistemas integrados, para as seguintes metas nacionais de recolha:
+1 - Sem prejuízo da responsabilidade atribuída a outros intervenientes na recolha seletiva de REEE, os produtores, individualmente ou através de uma entidade gestora licenciada nos termos do artigo 16.º, contribuem, nos termos definidos nas autorizações dos sistemas individuais e nas licenças dos sistemas coletivos, para as seguintes metas nacionais de recolha:
 
 a) A partir de 2016: 45 % do peso médio dos EEE colocados no mercado nos três anos anteriores, considerando o peso total dos REEE recolhidos provenientes de utilizadores particulares e não particulares;
 

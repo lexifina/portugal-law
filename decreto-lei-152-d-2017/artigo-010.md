@@ -10,7 +10,7 @@
 
 2 - O produtor do produto e o embalador, bem como o fornecedor de embalagens de serviço, no caso do fluxo das embalagens e resíduos de embalagens, transfere a sua responsabilidade mediante o pagamento dos valores de prestação financeira para a entidade gestora a que se refere o artigo 14.º
 
-3 - A transferência de responsabilidade a que se refere o n.º 1 é objeto de contrato escrito, de duração coincidente com o período de vigência da licença da entidade gestora, o qual contém obrigatoriamente:
+3 - A transferência de responsabilidade a que se refere o n.º 1 é objeto de contrato escrito, de duração coincidente com o período de vigência da licença da entidade gestora, com possibilidade de rescisão, denúncia ou revisão, o qual contém obrigatoriamente:
 
 a) A identificação e caracterização dos produtos ou embalagens, conforme aplicável, abrangidas pelo contrato;
 
@@ -28,10 +28,4 @@ g) A obrigatoriedade de prestação de informação, por parte da entidade gesto
 
 h) A obrigação dos produtores do produto, dos embaladores ou dos fornecedores de embalagens de serviço transmitirem informação às instalações de tratamento nos termos previstos no presente decreto-lei.
 
-4 - Sem prejuízo das regras relativas à cessação por incumprimento, o contrato referido no número anterior deve prever a possibilidade de cessação apenas se decorrido um ano completo de vigência, produzindo efeitos a 1 de janeiro do ano seguinte.
-
-5 - A entidade gestora não pode celebrar ou renovar o contrato previsto no n.º 3 se o produtor, o embalador ou o fornecedor de embalagens de serviço estiver em incumprimento da obrigação de inscrição prevista no n.º 1 do artigo 19.º, devendo confirmar junto da APA, I. P., o cumprimento desta obrigação.
-
-6 - A entidade gestora pode recusar a celebração do contrato previsto no n.º 3, se o produtor, o embalador ou o fornecedor de embalagens de serviço estiver em incumprimento da obrigação de pagamento de valores de prestação financeira relativos ao ano anterior a outra entidade gestora no âmbito do mesmo fluxo.
-
-7 - A responsabilidade a que se refere o n.º 1 só cessa mediante declaração de assunção de responsabilidade para os efeitos do disposto no n.º 6 do artigo 9.º do RGGR.
+4 - A responsabilidade a que se refere o n.º 1 só cessa mediante declaração de assunção de responsabilidade para os efeitos do disposto no n.º 6 do artigo 5.º do RGGR.

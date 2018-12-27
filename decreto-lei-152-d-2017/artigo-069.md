@@ -12,6 +12,6 @@ a) Os diversos componentes e materiais dos EEE;
 
 b) A localização das substâncias e misturas perigosas contidas nos EEE.
 
-4 - Os produtores devem assegurar que a informação prevista no n.º 1 é disponibilizada às entidades que efetuam a preparação para reutilização, bem como às instalações de tratamento e reciclagem, nos termos e prazos previstos nos n.os 2 e 3.
+4 - Os produtores devem assegurar que a informação prevista no n.º 1 é disponibilizada aos centros que efetuam a preparação para reutilização, bem como às instalações de tratamento e reciclagem, nos termos e prazos previstos nos n.os 2 e 3.
 
 5 - Os EEE colocados no mercado após 13 de agosto de 2005 devem ostentar uma marca que permita distingui-los dos EEE colocados no mercado antes dessa data, consistindo essa marca numa barra preta colocada por baixo do símbolo apresentado no anexo XIII ao presente decreto-lei, de acordo com as especificações da norma europeia EN 50419.

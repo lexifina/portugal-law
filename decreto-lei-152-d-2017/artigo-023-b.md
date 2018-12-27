@@ -1,9 +1,5 @@
 # Artigo 23.º-B
 
-### Áreas dedicadas a bebidas em embalagens reutilizáveis e a produtos a granel
+### Área assinalada e dedicada a bebidas em embalagens reutilizáveis ou 100 % biodegradáveis
 
-1 - As grandes superfícies comerciais, de venda a retalho, devem sinalizar áreas para o comércio de bebidas em embalagens reutilizáveis e de produtos a granel.
-
-2 - Nas grandes superfícies comerciais, de venda a retalho, as bebidas são disponibilizadas em embalagens reutilizáveis sempre que exista essa oferta no mercado em embalagens primárias reutilizáveis e identificadas em conformidade.
-
-3 - Nas áreas de venda de produtos a granel, o consumidor tem o direito a usar as suas próprias embalagens, desde que sejam adequadas para o armazenamento e transporte do produto, sendo responsável por assegurar que as suas embalagens não são suscetíveis de colocar em risco a segurança alimentar.
+As grandes superfícies comerciais referidas no n.º 5 do artigo anterior que sejam integradas no projeto-piloto ficam obrigadas a implementar nas suas instalações uma área devidamente assinalada e exclusivamente dedicada ao comércio de bebidas em embalagens reutilizáveis ou 100 % biodegradáveis identificadas nos termos da lei.

@@ -2,7 +2,7 @@
 
 ### Introdução no consumo
 
-1 - A introdução no consumo dos sacos de plástico leves e muito leves deve ser formalizada através da DIC ou da declaração aduaneira de importação.
+1 - A introdução no consumo dos sacos de plástico leves deve ser formalizada através da DIC ou da declaração aduaneira de importação.
 
 2 - A DIC é obrigatoriamente processada por transmissão eletrónica de dados.
 

@@ -1,63 +1,37 @@
 # Artigo 15.º
 
-### Modelo de determinação dos valores de prestações financeiras
+### Modelo de financiamento
 
-1 - O financiamento de uma entidade gestora assenta num modelo de determinação dos valores de prestações financeiras, a submeter à APA, I. P., e à DGAE, que tenha em vista o cumprimento das metas para a totalidade do período de vigência da licença, competindo à DGAE coordenar o processo de avaliação e transmissão da respetiva decisão à entidade gestora.
+1 - No âmbito do pedido de licenciamento a que se refere o n.º 1 do artigo seguinte, cabe à entidade gestora propor à APA, I. P., e à DGAE um modelo de determinação dos valores de prestações financeiras para a totalidade do período de vigência da licença, com os seguintes elementos:
 
-2 - O modelo de determinação dos valores de prestações financeiras referido no número anterior deve ser construído de forma a promover a maior eficiência económica e financeira na gestão do sistema integrado, obedecendo à seguinte estrutura base:
+a) Modelo de cálculo das prestações financeiras, fórmula de cálculo e suas variáveis com discriminação dos inputs e outputs;
 
-Prestação Financeira = Gastos Operacionais + Gastos de Não Operacionais + Reservas - Outros Rendimentos.
+b) Conceitos e princípios fundamentais subjacentes ao modelo apresentado, sendo que um dos princípios deve ser o de que os preços devem refletir os gastos, ou seja, a prestação financeira deve corresponder à prestação de um serviço;
 
-3 - O modelo de determinação dos valores de prestações financeiras referido nos números anteriores deve obrigatoriamente conter o seguinte:
+c) Decomposição e caraterização efetivas dos gastos diretos e indiretos, bem como dos rendimentos do sistema tendo em atenção os inputs e os pressupostos em que assenta o modelo, devidamente dissociados por material e por rubrica;
 
-a) Conceitos e princípios fundamentais subjacentes ao modelo apresentado, os quais devem demonstrar que:
+d) Perspetiva da evolução do fluxo específico de resíduos, em termos da quantidade de produto ou de embalagens no caso do fluxo específico de embalagens e resíduos de embalagens, colocados no mercado, e resíduos gerados;
 
-i) A prestação financeira corresponde à prestação de um serviço;
+e) Análise de sensibilidade aos pressupostos utilizados para o modelo de cálculo proposto;
 
-ii) A inexistência de financiamento de um material ou categoria de produtos por outro material ou categoria de produtos;
+f) Demonstração de resultados previsional que evidencie o equilíbrio económico e financeiro do sistema resultante da opção proposta;
 
-iii) A concorrência entre materiais ou categoria de produtos não é comprometida ou distorcida;
+g) Apresentação dos valores de prestação financeira obtidos com a aplicação do modelo.
 
-b) Decomposição e caracterização efetivas dos gastos operacionais e dos gastos não operacionais, bem como de outros rendimentos e respetivos pressupostos, sendo que:
+2 - O modelo a que se refere o número anterior não deve permitir o financiamento de um material ou categoria de produtos por outro material ou categoria de produtos, incluindo a subsidiação cruzada, nem comprometer ou distorcer a concorrência entre materiais ou categoria de produtos, e deve ser construído de forma a promover a maior eficiência económica e financeira na gestão do sistema integrado.
 
-i) Por gastos operacionais entendem-se todos os custos inerentes à atividade de gestão de resíduos, designadamente, a recolha, o transporte, o tratamento e os custos de limpeza urbana, quando aplicável;
+3 - O modelo deve prever prestações financeiras diferenciadas em função do impacte ambiental dos produtos e do custo real de gestão dos respetivos resíduos, nomeadamente no que respeita à utilização de substâncias ou misturas perigosas, à incorporação de materiais reciclados, à suscetibilidade para o desmantelamento, à reutilização e à valorização e à facilidade de reciclagem dos produtos e das matérias-primas secundárias com valor económico que contenham.
 
-ii) Por gastos não operacionais entendem-se todos os custos de suporte à atividade, designadamente, os custos com pessoal, com serviços especializados, com o pagamento de rendas ou alugueres, com comunicações, com as ações e projetos de prevenção, sensibilização, comunicação e educação, investigação e desenvolvimento, bem como com a reutilização e preparação para reutilização;
+4 - A APA, I. P., e a DGAE pronunciam-se sobre o modelo de determinação dos valores de prestações financeiras, no prazo máximo de 60 dias, mediante parecer prévio das regiões autónomas.
 
-iii) Por outros rendimentos entendem-se as demais receitas e resultados não provenientes das prestações financeiras, designadamente, as receitas provenientes da venda de resíduos e os excedentes financeiros resultantes do exercício da atividade, após a aplicação do estabelecido no n.º 10 do artigo 11.º;
+5 - A APA, I. P., e a DGAE podem solicitar esclarecimentos adicionais sobre a fundamentação do modelo apresentado.
 
-c) Perspetiva da evolução do fluxo específico de resíduos, em termos da quantidade de produto ou de embalagens no caso do fluxo específico de embalagens e resíduos de embalagens, colocados no mercado, quantidades retomadas ou recolhidas e respetivos pressupostos;
+6 - A entidade gestora publicita no seu sítio da Internet os valores de prestações financeiras em vigor, no prazo máximo de três dias úteis contados da data da aprovação da APA, I. P., e da DGAE.
 
-d) Demonstração de resultados previsional e estrutura estimada dos fundos patrimoniais ou capitais próprios que, conjuntamente, evidenciem o equilíbrio económico e financeiro do sistema resultante da opção proposta.
+7 - A entidade gestora pode proceder à atualização anual dos valores de prestações financeiras por aplicação do modelo previsto no n.º 1, transmitindo-os à APA, I. P., e à DGAE com antecedência mínima de 30 dias, previamente à sua publicitação no respetivo sítio na Internet.
 
-4 - O modelo deve prever prestações financeiras diferenciadas em função do impacte ambiental dos produtos e do custo de gestão dos respetivos resíduos, nomeadamente no que respeita à utilização de substâncias ou misturas perigosas, à incorporação de materiais reciclados, à suscetibilidade para o desmantelamento, à reutilização, à valorização e à facilidade de reciclagem dos produtos e das matérias-primas secundárias com valor económico que contenham.
+8 - A variação anual dos valores de prestação financeira, resultante da aplicação do modelo de cálculo aprovado nos termos do n.º 4, que corresponda a uma redução ou aumento superior a 10 % determina uma revisão do modelo de cálculo anteriormente aprovado.
 
-5 - Os critérios previstos no número anterior têm em conta as regras definidas pela Comissão Europeia e por portaria dos membros do Governo responsáveis pelas áreas da economia e do ambiente, e podem ser revistos para efeitos de adaptação ao progresso científico e técnico.
+9 - Sem prejuízo do disposto no número anterior e caso a evolução das circunstâncias o aconselhe, a APA, I. P., e a DGAE podem determinar a revisão do modelo previsto no n.º 3.
 
-6 - A DGAE pronuncia-se sobre o modelo de determinação dos valores de prestações financeiras, no prazo máximo de 45 dias, mediante parecer prévio das Regiões Autónomas e da Entidade Reguladora dos Serviços de Águas e Resíduos (ERSAR) no que se refere a entidades gestoras de fluxos específicos com interação com os resíduos urbanos, dando conhecimento à APA, I. P.
-
-7 - A DGAE pode solicitar esclarecimentos adicionais sobre a fundamentação do modelo apresentado.
-
-8 - A entidade gestora pode proceder à atualização dos valores de prestações financeiras por aplicação do modelo aprovado previsto no n.º 1 mediante proposta da entidade gestora devidamente fundamentada a apresentar à DGAE, devendo esta pronunciar-se no prazo de 15 dias.
-
-9 - Caso a atualização referida no número anterior resulte numa variação que corresponda a uma redução ou aumento superior a 10 %, por material, categoria ou sistema químico, a entidade gestora deve demonstrar à DGAE o equilíbrio económico e financeiro resultante da aplicação dos novos valores, através da apresentação dos seguintes elementos:
-
-a) Fundamentação e pressupostos para a atualização;
-
-b) Demonstração de resultados previsional para o ano n e n+1;
-
-c) Estrutura estimada dos fundos patrimoniais ou capitais próprios para o ano n e n+1.
-
-10 - A DGAE pronuncia-se sobre a proposta de atualização dos valores de prestações financeiras mediante parecer prévio das Regiões Autónomas e da ERSAR no que se refere a entidades gestoras de fluxos específicos com interação com os resíduos urbanos, dando conhecimento à APA, I. P.
-
-11 - Os valores de prestação financeira a que se referem o n.º 9 e o número anterior são publicitados pela entidade gestora no seu sítio na Internet, no prazo máximo de 3 dias contados da data da aprovação pela DGAE, e comunicados aos respetivos aderentes no prazo mínimo de 30 dias antes da sua aplicação.
-
-12 - (Revogado.)
-
-13 - (Revogado.)
-
-14 - Sem prejuízo do disposto nos números anteriores, e caso a evolução das circunstâncias o justifique, a DGAE pode determinar a revisão do modelo previsto no n.º 1.
-
-15 - A entidade gestora não pode cobrar aos produtores do produto, aos embaladores ou aos fornecedores de embalagens de serviço quaisquer valores adicionais para além das prestações financeiras previstas no n.º 1 do artigo anterior, sem prejuízo do valor de depósito a que se refere o artigo 30.º-E.
-
-16 - A não apresentação ou a não aprovação do modelo referido no n.º 1 constitui motivo de cassação da licença atribuída à entidade gestora.
+10 - A entidade gestora não pode cobrar aos produtores do produto, aos embaladores, importadores de produtos embalados, bem como aos fornecedores de embalagens de serviço no caso do fluxo específico das embalagens e resíduos de embalagens, quaisquer valores adicionais para além das prestações financeiras previstas no n.º 1 do artigo anterior.

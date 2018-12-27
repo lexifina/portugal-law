@@ -2,7 +2,7 @@
 
 ### Responsabilidade pela gestão
 
-1 - Nos fluxos específicos geridos segundo o regime da responsabilidade alargada do produtor, é atribuída, total ou parcialmente, ao produtor do produto, ao embalador e ao fornecedor de embalagens de serviço a responsabilidade financeira ou financeira e operacional da gestão da fase do ciclo de vida dos produtos quando estes atingem o seu fim de vida e se tornam resíduos, nos termos definidos no presente decreto-lei.
+1 - Nos fluxos específicos geridos segundo o regime da responsabilidade alargada do produtor, previstos no n.º 1 do artigo 1.º, é atribuída, total ou parcialmente, ao produtor do produto, ao embalador e ao fornecedor de embalagens de serviço, no caso do fluxo específico de embalagens e resíduos de embalagens, a responsabilidade financeira ou financeira e operacional da gestão da fase do ciclo de vida dos produtos quando estes atingem o seu fim de vida e se tornam resíduos, nos termos definidos no presente decreto-lei.
 
 2 - Os intervenientes no ciclo de vida do produto, desde a sua conceção, fabrico, distribuição, comercialização e utilização até ao manuseamento dos respetivos resíduos, são corresponsáveis pela sua gestão, devendo contribuir, na medida da respetiva intervenção e responsabilidade, para o funcionamento dos sistemas de gestão nos termos definidos no presente decreto-lei.
 

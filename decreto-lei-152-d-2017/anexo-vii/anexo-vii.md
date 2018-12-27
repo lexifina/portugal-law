@@ -1,8 +1,8 @@
 # Anexo VII
 
-### Modelo de mandato
+### (a que se refere o n.º 5 do artigo 20.º)
 
-(a que se refere o n.º 4 do artigo 20.º)
+Modelo de mandato
 
 A. Modelo de mandato
 
@@ -16,11 +16,13 @@ Nomeia [Identificação do representante autorizado - nome e número de identifi
 
 [Endereço do representante autorizado]
 
-Portugal como seu representante autorizado em Portugal, nos termos do Decreto-Lei n.º .../..., de ... [número e data de publicação do decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor.
+Portugal
 
-O presente mandato abrange os seguintes produtos [indicar no mínimo o detalhe do produto estabelecido pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e publicitado no seu sítio na Internet]:
+como seu representante autorizado em Portugal, nos termos do Decreto-lei n.º.../..., de ... [número e data de publicação do Decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor.
 
-O [Representante autorizado] compromete-se, enquanto representante autorizado do [produtor/embalador] em Portugal, a representá-lo nos termos constantes no Decreto-Lei n.º .../..., de ... [número e data de publicação do decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], sendo legalmente responsável por assegurar o cumprimento das obrigações do [produtor/embalador] previstas nos [referir números e artigos respetivos] do referido decreto-lei.
+O presente mandato abrange as seguintes categorias de produto/tipo de produto/material de embalagem:
+
+O [Representante autorizado] compromete-se, enquanto representante autorizado do [produtor/embalador] em Portugal, a representá-lo nos termos constantes no Decreto-Lei n.º .../..., de ... [número e data de publicação do Decreto-lei que estabelece o regime jurídico a que fica sujeita a gestão dos fluxos específicos de resíduos abrangidos pela Responsabilidade Alargada do produtor], sendo legalmente responsável por assegurar o cumprimento das obrigações do [produtor/embalador] previstas nos [referir números e artigos respetivos] do referido decreto-lei.
 
 Não obstante o disposto no presente mandato, o [produtor/embalador] só fica desonerado das responsabilidades ora delegadas no [Representante autorizado] desde que se verifique o efetivo cumprimento do mandato pelo delegatário.
 
@@ -30,8 +32,4 @@ O presente mandato, assinado por ambas as partes, produz efeito a [data] e termi
 
 [Assinatura produtor/embalador]
 
-[Nome e qualidade do signatário (v.g. gerente, administrador)]
-
 [Assinatura do Representante Autorizado]
-
-[Nome e qualidade do signatário (v.g. gerente, administrador)]"

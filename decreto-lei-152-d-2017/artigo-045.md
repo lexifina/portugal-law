@@ -2,7 +2,7 @@
 
 ### Objetivos de gestão e metas anuais
 
-1 - Os produtores de óleos devem adotar as medidas necessárias para que sejam garantidos os princípios de gestão e a hierarquia de operações de tratamento definidos no artigo anterior.
+1 - Os produtores de óleos devem adotar as medidas tidas por necessárias para que sejam garantidos os princípios de gestão e a hierarquia de operações de gestão definidos no artigo anterior.
 
 2 - Os produtores de óleos devem garantir:
 

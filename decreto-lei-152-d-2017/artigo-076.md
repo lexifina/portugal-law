@@ -2,11 +2,11 @@
 
 ### Tratamento, reciclagem e eliminação de pilhas e acumuladores portáteis e de baterias, acumuladores industriais, baterias e acumuladores para veículos automóveis
 
-1 - Sem prejuízo do disposto no artigo 8.º, o tratamento e a reciclagem devem cumprir o disposto no RGGR e demais legislação aplicável, e ainda observar os seguintes requisitos mínimos:
+1 - Os processos de tratamento e de reciclagem devem cumprir o disposto no RGGR, e demais legislação aplicável, devendo ainda os operadores observar os seguintes requisitos mínimos:
 
-a) O tratamento deve incluir, no mínimo, a extração de todos os fluidos e ácidos e deve ser realizado em instalações, incluindo as de armazenagem, com superfícies e cobertura impermeáveis adequadas ou em contentores adequados;
+a) Extração de todos os fluidos e ácidos realizada em instalações, incluindo as de armazenagem temporária, com superfícies e cobertura impermeáveis adequadas ou em contentores adequados;
 
-b) Os processos de reciclagem devem atingir os seguintes rendimentos mínimos:
+b) Atingir os seguintes rendimentos mínimos:
 
 i) Reciclagem de 65 %, em massa, das pilhas e acumuladores de chumbo-ácido, incluindo a reciclagem do mais elevado teor possível de chumbo que seja tecnicamente viável, evitando simultaneamente custos excessivos;
 
@@ -14,13 +14,7 @@ ii) Reciclagem de 75 %, em massa, das pilhas e acumuladores de níquel-cádmio, 
 
 iii) Reciclagem de 50 %, em massa, de outros resíduos de pilhas e de acumuladores.
 
-2 - É proibida:
-
-a) A receção de resíduos de pilhas e acumuladores classificados como perigosos por operadores de gestão de resíduos que não atuem ao abrigo de um contrato com os respetivos sistemas individuais ou integrados de gestão previstos no n.º 1 do artigo 7.º;
-
-b) A eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis;
-
-c) O encaminhamento de pilhas e acumuladores para o sistema integrado de gestão de embalagens.
+2 - É proibida a eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis.
 
 3 - A eliminação em aterro ou armazenamento subterrâneo de resíduos de pilhas e de acumuladores portáteis que contenham mercúrio, cádmio ou chumbo só é admissível nos seguintes casos:
 
