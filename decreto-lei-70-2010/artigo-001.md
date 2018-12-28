@@ -30,7 +30,7 @@ d) Comparticipação da segurança social aos utentes no âmbito da Rede Naciona
 
 e) Apoios sociais à habitação atribuídos pelo Estado quando tal atribuição dependa da verificação da condição de recursos dos beneficiários;
 
-f) Outros apoios sociais ou subsídios atribuídos pelos serviços da administração central do Estado, qualquer que seja a sua natureza, previstos em actos legislativos ou regulamentares.
+f) (Revogada).
 
 3 - O presente decreto-lei procede ainda à alteração dos diplomas seguintes:
 
