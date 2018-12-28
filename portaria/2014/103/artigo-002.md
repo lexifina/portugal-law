@@ -14,8 +14,8 @@ d) «Praticante elegível» corresponde ao praticante que individualmente ou com
 
 e) «Prova» a unidade competitiva dentro de uma modalidade ou disciplina desportiva, que tem por resultado uma classificação e determina a concessão de um título;
 
-f) «Prova olímpica» a prova integrada no programa olímpico do ciclo em curso ou, caso ainda não esteja determinado, dos jogos olímpicos anteriores, sendo que deve obedecer à regulamentação vigente em tais jogos;
+f) 'Prova olímpica' a prova integrada no programa olímpico do ciclo em curso, constante de despacho do Presidente do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), publicado na respetiva página de internet, no início de cada ciclo olímpico, após parecer do Comité Olímpico de Portugal, com vigência até à publicação de novo despacho, que deve considerar as provas constantes nos guias de qualificação de cada modalidade para os Jogos Olímpicos;
 
-g) «Prova paralímpica» a prova integrada no programa paralímpico do ciclo em curso ou, caso ainda não esteja determinado, dos jogos paralímpicos anteriores, sendo que deve obedecer à regulamentação vigente em tais jogos;
+g) 'Prova paralímpica' a prova integrada no programa paralímpico do ciclo em curso, constante de despacho do Presidente do IPDJ, I. P., publicado na respetiva página de internet, no início de cada ciclo paralímpico, após parecer do Comité Paralímpico de Portugal, com vigência até à publicação de novo despacho, que deve considerar as provas constantes nos guias de qualificação de cada modalidade para os Jogos Paralímpicos;
 
-h) «Prova de progressão» a indicada para competição de grupos de idade jovens, adaptada e com correspondência a prova absoluta, mas adequada ao nível de desenvolvimento e maturação do grupo de idade em apreço, não sendo oficialmente adotada em competições absolutas.
+h) 'Prova de progressão' a indicada para competição de grupos de idade jovens, adaptada e com correspondência a prova absoluta, mas adequada ao nível de desenvolvimento e maturação do grupo de idade em apreço.

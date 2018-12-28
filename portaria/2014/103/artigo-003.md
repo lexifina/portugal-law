@@ -4,7 +4,7 @@
 
 1 - Ao resultado desportivo correspondente aos três primeiros lugares nas principais competições absolutas internacionais corresponde um prémio por mérito desportivo, nos termos dos números seguintes.
 
-2 - Para efeitos do disposto no número anterior, é considerado o resultado desportivo obtidos em Jogos Olímpicos, Jogos Paralímpicos, Jogos Surdolímpicos, Universíadas, Campeonato do Mundo e Campeonato da Europa reconhecidos pela federação internacional reguladora da modalidade, reconhecida pela SportAccord e ou Comité Olímpico Internacional ou Comité Paralímpico Internacional, nos termos do presente artigo.
+2 - Para efeitos do disposto no número anterior, é considerado o resultado desportivo obtido em Jogos Olímpicos, Jogos Paralímpicos, Jogos Europeus organizados sob a égide dos Comités Olímpicos Europeus, Jogos Surdolímpicos, Universíadas, Campeonatos do Mundo e Campeonatos da Europa reconhecidos pela federação internacional reguladora da modalidade, reconhecida pela Global Association of International Sport Federations (GAISF), pelo Comité Olímpico Internacional ou pelo Comité Paralímpico Internacional, nos termos do presente artigo.
 
 3 - O prémio a atribuir é calculado através da fórmula seguinte, arredondada à unidade inferior:
 
@@ -20,50 +20,34 @@ c) «Nprat» corresponde ao número de praticantes elegíveis que participaram n
 
 4 - O valor base do prémio é definido nos seguintes termos:
 
-a) Provas olímpicas:
+a) Provas olímpicas e paralímpicas:
 
-i) Jogos Olímpicos - 1.º classificado, (euro) 40 000; 2.º classificado, (euro) 25 000; 3.º classificado (euro) 17 500;
+i) Jogos Olímpicos e Jogos Paralímpicos - 1.º classificado, (euro) 50 000; 2.º classificado, (euro) 30 000; 3.º classificado, (euro) 20 000;
 
-ii) Campeonatos do Mundo - 1.º classificado, (euro) 20 000; 2.º classificado, (euro) 10 000; 3.º classificado (euro) 5 000;
+ii) Campeonatos do Mundo - 1.º classificado, (euro) 25 000; 2.º classificado, (euro) 15 000; 3.º classificado, (euro) 7 500;
 
-iii) Campeonatos da Europa - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 5 000; 3.º classificado, (euro) 2 500;
+iii) Campeonatos da Europa - 1.º classificado, (euro) 15 000; 2.º classificado, (euro) 7 500; 3.º classificado, (euro) 3 500.
 
-b) Provas paralímpicas:
+b) Jogos Europeus organizados sob a égide dos Comités Olímpicos Europeus - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 5 000; 3.º classificado, (euro) 2 500;
 
-i) Jogos Paralímpicos - 1.º classificado, (euro) 20 000; 2.º classificado, (euro) 12 500; 3.º classificado, (euro) 7 500;
+c) Universíadas - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
 
-ii) Campeonatos do Mundo organizados pelo Comité Paralímpico Internacional ou pela respetiva federação internacional da modalidade - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 5 000; 3.º classificado, (euro) 2 500;
+d) Jogos Surdolímpicos - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
 
-iii) Campeonatos da Europa organizados pelo Comité Paralímpico Internacional ou pela respetiva federação internacional da modalidade - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 500; 3.º classificado, (euro) 1 250;
-
-c) Universíadas - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 000; 3.º classificado, (euro) 1 000;
-
-d) Jogos Surdolímpicos - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 000; 3.º classificado, (euro) 1 000;
-
-e) Jogos Mundiais promovidos pela SportAccord - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 000; 3.º classificado, (euro) 1 000;
+e) Jogos Mundiais promovidos pela GAISF - 1.º classificado, (euro) 10 000; 2.º classificado, (euro) 4 000; 3.º classificado, (euro) 2 000;
 
 f) Campeonatos do Mundo de provas desportivas não olímpicas ou não paralímpicas, organizados no âmbito de federações desportivas internacionais nas quais são filiadas federações desportivas nacionais ou no âmbito das Organizações Internacionais de Desporto por Deficiên-cia (International Organisations of Sports for the Disabled) - 1.º classificado, (euro) 5 000; 2.º classificado, (euro) 2 000; 3.º classificado, (euro) 1 000.
 
-5 - Para efeitos da alínea f) do número anterior, apenas são consideradas as provas de disciplinas ou modalidades desportivas que satisfaçam os seguintes critérios mínimos:
+5 - Para efeitos dos números anteriores, o valor base dos prémios relativos às provas de disciplinas ou modalidades desportivas em que a classificação obtida não permita a inscrição no nível A do registo de praticantes de alto rendimento, nos termos do Decreto-Lei n.º 272/2009, de 1 de outubro, é reduzido em 50 %.
 
-a) Participação de um número de praticantes desportivos não inferior a 32, pertencentes a 16 países;
+6 - Para efeitos da alínea f) do n.º 4, apenas são consideradas as provas de disciplinas ou modalidades desportivas que tiverem participação de praticantes desportivos pertencentes a um número não inferior a 16 países.
 
-b) A classificação obtida permita a inscrição no nível A do registo de praticantes de alto rendimento, nos termos do Decreto-Lei n.º 272/2009, de 1 de outubro.
+7 - No caso de Campeonatos do Mundo e da Europa com periodicidade, respetivamente, bienal ou anual, o valor base do prémio referido no n.º 4 é reduzido para 90 % ou 80 % do valor, com arredondamento para a unidade imediatamente inferior.
 
-6 - No caso de Campeonatos do Mundo e da Europa com periodicidade, respetivamente, bienal ou anual, o valor do prémio base referido no n.º 4 é reduzido para 90 % ou 80 % do valor, com arredondamento para a centena de euros imediatamente inferior.
+8 - No caso de competição de modalidade individual em que haja lugar a classificação por equipa, o praticante desportivo não pode acumular o prémio resultante da sua classificação individual com o que for obtido em função da classificação por equipa, sendo este calculado nos termos do n.º 3.
 
-7 - No caso de competição de modalidade individual em que haja lugar a classificação por equipa, o praticante desportivo não pode acumular o prémio resultante da sua classificação individual com o que for obtido em função da classificação por equipa, sendo este calculado nos termos do n.º 3.
+9 - A obtenção de recorde Olímpico, Paralímpico, do Mundo ou da Europa no escalão absoluto, em provas olímpicas e paralímpicas, concede a cada praticante elegível o direito a um prémio, calculado nos termos do n.º 3, acumulável com os prémios previstos no n.º 4, cujo valor base é definido nos seguintes termos:
 
-8 - A obtenção de recorde Olímpico, Paralímpico, do Mundo ou da Europa concede a cada praticante elegível o direito a um prémio, calculado nos termos do n.º 3 e acumulável com o previsto nos termos do n.º 4, cujo valor base é definido nos seguintes termos:
+a) Recorde Olímpico, Paralímpico ou do Mundo - (euro) 15 000;
 
-a) Provas olímpicas:
-
-i) Recorde Olímpico ou do Mundo - (euro) 15 000;
-
-ii) Recorde da Europa - (euro) 10 000.
-
-b) Provas paralímpicas:
-
-i) Recorde Paralímpico ou do Mundo - (euro) 7 500;
-
-ii) Recorde da Europa - (euro) 5 000.
+b) Recorde da Europa - (euro) 10 000.

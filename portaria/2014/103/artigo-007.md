@@ -2,6 +2,28 @@
 
 ### Prémios a árbitros, juízes, júri ou equipas de arbitragem
 
-1 - Anualmente são concedidos cinco prémios a árbitros, juízes, júri ou equipas de arbitragem que arbitrem em Jogos Olímpicos, Jogos Paralímpicos e finais de Campeo-natos do Mundo e da Europa, propostos pelas respetivas federações desportivas.
+1 - Aos árbitros, juízes, jurados ou coordenadores de equipas de arbitragem, participantes em Jogos Olímpicos, Jogos Paralímpicos e finais de provas olímpicas ou paralímpicas em Campeonatos do Mundo e da Europa ou em Jogos Europeus são concedidos prémios nos termos previstos nos números seguintes.
 
-2 - Os cinco prémios a conceder nos termos do número anterior, bem como os respetivos montantes, os quais não podem ultrapassar (euro) 5 000 para árbitros ou juízes individuais e (euro) 10 000 para júri ou equipas de arbitragem, são determinados, sob proposta do plenário do Conselho Nacional do Desporto, por despacho do membro do Governo responsável pela área do desporto ou por despacho conjunto dos membros do Governo responsáveis pela área do desporto e da solidariedade e da segurança social tratando-se de competições desportivas para cidadãos com deficiência.
+2 - O prémio a atribuir é calculado através da fórmula seguinte, arredondada à unidade inferior:
+
+Párbitro = (3 x Pbase + Pbase x Narb)/(4 x Narb)
+
+em que:
+
+a) 'Párbitro' corresponde ao valor do prémio a conceder a cada coordenador, árbitro, juiz ou jurado elegível;
+
+b) 'Pbase' corresponde ao valor base do prémio, definido nos termos do número seguinte;
+
+c) 'Narb' corresponde ao número de elementos nacionais ou estrangeiros que participaram na equipa de arbitragem.
+
+3 - O valor base do prémio é definido nos seguintes termos:
+
+a) Jogos Olímpicos ou Paralímpicos:
+
+i) Fases intermédias, (euro) 2 500;
+
+ii) Final, (euro) 5 000.
+
+b) Final do Campeonato do Mundo, (euro) 4 000;
+
+c) Final do Campeonato da Europa, (euro) 2 500.
