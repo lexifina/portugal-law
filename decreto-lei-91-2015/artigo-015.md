@@ -4,7 +4,7 @@
 
 1 - São receitas da IP, S. A.:
 
-a) A receita parcial efetiva de imposto sobre os produtos petrolíferos e energéticos, a título de consignação de serviço rodoviário nacional;
+a) O produto da contribuição de serviço rodoviário;
 
 b) O valor de taxas de portagem;
 
