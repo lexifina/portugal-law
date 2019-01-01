@@ -10,11 +10,11 @@
 
 4 - As taxas dos elementos específico e ad valorem são as seguintes:
 
-a) Elemento específico - (euro) 0,080/g;
+a) Elemento específico - 0,081 (euro)/g;
 
 b) Elemento ad valorem - 15 %.
 
-5 - O imposto relativo ao tabaco de corte fino destinado a cigarros de enrolar, e restantes tabacos de fumar, ao rapé, ao tabaco de mascar e ao tabaco aquecido, resultante da aplicação do número anterior, não pode ser inferior a (euro) 0,171/g.
+5 - O imposto relativo ao tabaco de corte fino destinado a cigarros de enrolar, e restantes tabacos de fumar, ao rapé, ao tabaco de mascar e ao tabaco aquecido, resultante da aplicação do número anterior, não pode ser inferior a 0,174 (euro)/g.
 
 6 - Para efeitos de determinação do imposto aplicável, caso o peso das embalagens individuais, expresso em gramas, constitua um número decimal, esse peso é arredondado:
 

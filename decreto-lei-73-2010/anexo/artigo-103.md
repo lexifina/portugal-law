@@ -10,7 +10,7 @@
 
 4 - As taxas dos elementos específico e ad valorem são as seguintes:
 
-a) Elemento específico - (euro) 94,89;
+a) Elemento específico - 96,12 (euro);
 
 b) Elemento ad valorem - 15 %.
 

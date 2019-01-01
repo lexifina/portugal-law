@@ -15,3 +15,5 @@ b) 'Passageiros que viajem para um país ou território terceiro', qualquer pass
 4 - Os produtos vendidos a bordo de aeronaves ou navios, durante um voo ou uma travessia marítima para um país ou território terceiro, são equiparados a produtos vendidos em lojas francas.
 
 5 - (revogado.)
+
+6 - Para efeitos da isenção prevista no n.º 1, tratando-se de travessia marítima, considera-se que constitui destino final um porto situado num país ou território terceiro em que ocorra a escala do navio, com a saída e permanência temporária dos passageiros nesse porto, ainda que posteriormente possam ocorrer escalas em portos situados no território aduaneiro da União Europeia.

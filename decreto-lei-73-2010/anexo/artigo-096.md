@@ -21,3 +21,5 @@ b) O montante pago não seja inferior ao montante do imposto devido por essa mis
 4 - O tratamento de óleos minerais usados com vista à obtenção de produtos utilizáveis em uso como combustível ou como carburante é obrigatoriamente feito em entreposto fiscal.
 
 5 - A mistura de vários tipos de gases de petróleo com metano, gás natural ou outro tipo de gases, para obtenção de gás carburante para automóveis, só pode ser feita em entreposto fiscal.
+
+6 - A mistura ou incorporação de biocombustíveis noutros produtos petrolíferos e energéticos é obrigatoriamente feita em entreposto fiscal.

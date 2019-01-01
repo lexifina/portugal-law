@@ -6,7 +6,7 @@
 
 (ver documento original)
 
-2 - O valor da taxa referida no número anterior a vigorar em cada ano (n) é calculado no ano anterior (n-1) como média aritmética do preço resultante dos leilões de licenças de emissão de gases de efeito de estufa, realizados no âmbito do Comércio Europeu de Licenças de Emissão, entre 1 de julho do ano n-2 e 30 de junho do ano n-1.
+2 - O valor da taxa referida no número anterior a vigorar em cada ano (n) é calculado no ano anterior (n-1) como média aritmética do preço resultante dos leilões de licenças de emissão de gases de efeito de estufa, realizados no âmbito do Comércio Europeu de Licenças de Emissão, entre 1 de outubro do ano n-2 e 30 de setembro do ano n-1.
 
 3 - De acordo com a evolução de preços nos termos do número anterior, o Governo pode fixar um valor mínimo, atualizado periodicamente, para a tonelada de CO(índice 2).
 
