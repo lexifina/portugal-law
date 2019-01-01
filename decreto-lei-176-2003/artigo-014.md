@@ -24,7 +24,7 @@
 
 4 - O montante do abono de família para crianças e jovens inseridos em agregados familiares monoparentais é majorado em 35 %.
 
-5 - Nos primeiros 36 meses de vida, o montante do abono de família para crianças e jovens é majorado nos termos a fixar em portaria.
+5 - Nos primeiros 6 anos de vida, o montante do abono de família para crianças e jovens é majorado em função da idade, nos termos a fixar em portaria.
 
 6 - A majoração prevista no n.º 4 incide sobre o valor dos respectivos subsídios e das respectivas majorações e bonificações previstas na lei.
 
