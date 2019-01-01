@@ -2,9 +2,9 @@
 
 ### Factor de sustentabilidade
 
-1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto nos n.os 5 e 6.
+1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto no n.º 5.
 
-2 - Na data da convolação das pensões de invalidez em pensão de velhice não é aplicável o fator de sustentabilidade.
+2 - [Revogado].
 
 3 - O fator de sustentabilidade é definido pela seguinte fórmula:
 
@@ -18,12 +18,18 @@
 
 «EMV(índice anoi-1)» a esperança média de vida aos 65 anos verificada no ano anterior ao de início da pensão.
 
-5 - Ficam salvaguardadas da aplicação do fator de sustentabilidade as pensões estatutárias dos beneficiários que passem à situação de pensionistas de velhice na idade normal de acesso à pensão, ou em idade superior.
+5 - Fica salvaguardado da aplicação do fator de sustentabilidade o cálculo das seguintes pensões estatutárias:
 
-6 - Ficam, igualmente, salvaguardadas da aplicação do fator de sustentabilidade as pensões estatutárias dos seguintes beneficiários:
+a) Pensões de invalidez;
 
-a) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 48 anos civis com registo de remunerações relevantes para o cálculo da pensão;
+b) Pensões de velhice resultantes da convolação das pensões de invalidez;
 
-b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 anos civis com registo de remunerações relevantes para o cálculo da pensão e que tenham iniciado a sua carreira contributiva no regime geral de segurança social ou no regime de proteção social convergente com 16 anos de idade ou em idade inferior.
+c) Pensões de velhice dos beneficiários que passem à situação de pensionistas na idade normal ou na idade pessoal de acesso à pensão, ou em idade superior;
+
+d) Pensões de velhice do regime de flexibilização da idade;
+
+e) Pensões de velhice do regime de antecipação por carreiras contributivas muito longas.
+
+6 - [Revogado].
 
 7 - O indicador da esperança média de vida aos 65 anos relativa a cada ano é objecto de publicação pelo Instituto Nacional de Estatística.

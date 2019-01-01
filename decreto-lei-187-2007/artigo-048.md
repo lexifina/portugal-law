@@ -16,7 +16,7 @@ b) Não tenham usufruído da contagem do referido tempo para efeito de qualquer 
 
 a) Cumprimento dos prazos de garantia e de outras condições especiais de tempo de carreira contributiva para acesso às pensões de invalidez e velhice;
 
-b) Condições de acesso à pensão de velhice do regime de flexibilização e do regime de antecipação nas situações de desemprego involuntário de longa duração;
+b) Condições de acesso à pensão de velhice do regime de flexibilização, do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas e do regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração;
 
 c) Determinação do fator de redução ou de bonificação a aplicar no cálculo da pensão;
 

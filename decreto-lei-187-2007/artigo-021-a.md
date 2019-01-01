@@ -10,6 +10,4 @@ b) Idade igual ou superior a 60 anos e, pelo menos, 46 anos civis com registo de
 
 2 - Para efeitos do disposto no número anterior, não releva o tempo de carreira contributiva que corresponda a tempo bonificado contado ao abrigo do disposto no artigo 49.º
 
-3 - (Revogado).
-
-4 - (Revogado).
+3 - O deferimento da pensão depende de prévia informação ao beneficiário, por parte da entidade gestora das pensões do regime geral, do montante da pensão a atribuir e da subsequente manifestação expressa de vontade do beneficiário em manter a decisão de aceder à pensão antecipada.

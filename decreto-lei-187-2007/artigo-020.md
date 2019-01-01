@@ -6,11 +6,13 @@
 
 a) Regime de flexibilização da idade de pensão de velhice;
 
-b) Regimes de antecipação da idade de pensão de velhice, por motivo da natureza especialmente penosa ou desgastante da actividade profissional exercida, expressamente reconhecida por lei;
+b) Regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas;
 
-c) Medidas temporárias de protecção específica a actividades ou empresas por razões conjunturais;
+c) Regimes de antecipação da idade de pensão de velhice, por motivo da natureza especialmente penosa ou desgastante da actividade profissional exercida, expressamente reconhecida por lei;
 
-d) Regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração.
+d) Medidas temporárias de protecção específica a actividades ou empresas por razões conjunturais;
+
+e) Regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração.
 
 2 - A idade normal de acesso à pensão de velhice em 2014 e 2015 é igual a 65 anos mais o número de meses necessários à compensação do efeito redutor no cálculo das pensões resultante da aplicação do fator de sustentabilidade correspondente a 2013, calculado nos termos do n.º 3 do artigo 35.º, tendo por referência a taxa mensal de bonificação de 1%.
 
@@ -32,6 +34,6 @@ d) Regime de antecipação da pensão de velhice nas situações de desemprego i
 
 7 - Para efeitos do número anterior, os beneficiários devem apresentar declaração que comprove a prestação de trabalho ou da atividade, emitida pelo empregador, pelo prestador do serviço, ou pela entidade beneficiária da atividade prestada, consoante os casos.
 
-8 - Na data em que o beneficiário perfaça 65 anos, a idade normal de acesso à pensão é reduzida em quatro meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevante para efeitos de taxa de formação da pensão, não podendo a redução resultar no acesso à pensão de velhice antes daquela idade.
+8 - A idade pessoal de acesso à pensão de velhice é a que resulta da redução, por relação à idade normal de acesso à pensão em vigor, de 4 meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevantes para cálculo da pensão, não podendo a redução resultar no acesso à pensão de velhice antes dos 60 anos de idade.
 
 9 - A idade normal de acesso à pensão, determinada nos termos dos números anteriores, consta de portaria do membro do Governo responsável pela área da solidariedade e da segurança social, a publicar no segundo ano civil imediatamente anterior.

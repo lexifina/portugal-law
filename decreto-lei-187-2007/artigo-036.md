@@ -14,10 +14,10 @@
 
 4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade normal de acesso à pensão de velhice em vigor.
 
-5 - Quando o beneficiário na data da apresentação do requerimento da pensão antecipada ou na data indicada no requerimento para início da pensão tiver carreira contributiva superior à exigida no n.º 2 do artigo 21.º, o número de meses de antecipação a considerar para determinação da taxa global de redução da pensão é reduzido de quatro meses por cada ano que exceda os 40.
+5 - [Revogado].
 
 6 - Os beneficiários com pensão antecipada, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, nos termos da lei.
 
-7 - Nos casos previstos nas alíneas b), c) e d) do n.º 1 do artigo 20.º, o montante da pensão antecipada é calculado nos termos gerais, com as particularidades previstas em lei especial que se lhes aplique.
+7 - O montante da pensão antecipada atribuída ao abrigo do regime previsto no artigo 21.º-A é calculado nos termos gerais, sem aplicação do disposto nos números anteriores ou do artigo 37.º
 
-8 - Estão excluídas do âmbito de aplicação do presente artigo as pensões estatutárias dos beneficiários referidos no n.º 6 do artigo anterior.
+8 - O montante da pensão antecipada atribuída ao abrigo dos regimes especiais previstos nas alíneas c), d) e e) do n.º 1 do artigo 20.º é calculado nos termos gerais, com as particularidades previstas na lei especial que se lhes aplique.

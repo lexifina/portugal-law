@@ -16,4 +16,4 @@
 
 1 - A pensão estatutária é a que resulta da aplicação das regras de cálculo da pensão.
 
-2 - O montante mensal da pensão estatutária é igual ao produto da remuneração de referência pela taxa global de formação da pensão e pelo factor de sustentabilidade, nos termos previstos na presente secção.
+2 - O montante mensal da pensão estatutária é igual ao produto da remuneração de referência pela taxa global de formação da pensão e pelo fator de sustentabilidade, quando aplicável, nos termos previstos na presente secção.

@@ -6,6 +6,6 @@
 
 2 - O quantitativo mensal dos rendimentos do trabalho, a considerar para efeitos do número anterior, corresponde aos valores seguintes, conforme o caso:
 
-a) No início da acumulação, ao valor da remuneração declarada pelo pensionista;
+a) No início da acumulação, ao valor da remuneração declarada pelo pensionista ou oficiosamente apurada pela entidade gestora das pensões;
 
 b) Posteriormente, a 1/14 das remunerações auferidas no ano anterior.
