@@ -10,11 +10,11 @@
 
 4 - As pessoas singulares que sejam sujeitos passivos de IVA apenas podem beneficiar das deduções à coleta relativamente às faturas que titulam aquisições efetuadas fora do âmbito da sua atividade empresarial ou profissional.
 
-5 - O valor das deduções à coleta é apurado pela Autoridade Tributária e Aduaneira com base nas faturas que lhe forem comunicadas, por via eletrónica, até ao dia 15 de fevereiro do ano seguinte ao da sua emissão, relativamente a cada adquirente nelas identificado.
+5 - O valor das deduções à coleta é apurado pela Autoridade Tributária e Aduaneira com base nas faturas que lhe forem comunicadas, por via eletrónica, até ao dia 25 de fevereiro do ano seguinte ao da sua emissão, relativamente a cada adquirente nelas identificado.
 
-6 - A Autoridade Tributária e Aduaneira disponibiliza no Portal das Finanças o montante das deduções à coleta até ao final do mês de fevereiro do ano seguinte ao da emissão das faturas.
+6 - A Autoridade Tributária e Aduaneira disponibiliza no Portal das Finanças o montante das deduções à coleta até ao dia 15 de março do ano seguinte ao da emissão das faturas.
 
-7 - Do cálculo do montante das deduções à coleta referido no número anterior, pode o adquirente reclamar, até ao dia 15 de março do ano seguinte ao da emissão, de acordo com as normas aplicáveis ao procedimento de reclamação graciosa com as devidas adaptações.
+7 - Do cálculo do montante das deduções à coleta referido no número anterior, pode o adquirente reclamar, até ao dia 31 de março do ano seguinte ao da emissão, de acordo com as normas aplicáveis ao procedimento de reclamação graciosa, com as devidas adaptações.
 
 8 - À dedução prevista no presente artigo são aplicáveis, com as necessárias adaptações, os n.os 6 a 8 do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, pelo Decreto-Lei n.º 71/2013, de 30 de maio, e pela Lei n.º 83-C/2013, de 31 de dezembro.
 

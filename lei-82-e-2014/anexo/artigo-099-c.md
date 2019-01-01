@@ -10,6 +10,12 @@
 
 4 - No caso de remunerações fixas relativas a períodos inferiores ao mês, considera-se como remuneração mensal a soma das importâncias atribuídas, pagas ou colocadas à disposição em cada mês.
 
-5 - Os subsídios de férias e de Natal são sempre objeto de retenção autónoma, não podendo, para o cálculo do imposto a reter, ser adicionados às remunerações dos meses em que são pagos ou postos à disposição.
+5 - Os subsídios de férias e de natal, a remuneração relativa a trabalho suplementar e as remunerações relativas a anos anteriores àquele em que são pagas ou colocadas à disposição do sujeito passivo, são sempre objeto de retenção autónoma, não podendo, para cálculo do imposto a reter, ser adicionados às remunerações dos meses em que são pagos ou colocados à disposição.
 
 6 - Quando os subsídios de férias e de Natal forem pagos fracionadamente, deve ser retido, em cada pagamento, a parte proporcional do imposto calculado nos termos do número anterior.
+
+7 - Quando forem pagos ou colocados à disposição subsídios de férias e de natal respeitantes a anos anteriores, o apuramento do imposto a reter, nos termos dos n.os 5 e 6, é efetuado autonomamente por cada ano a que aqueles respeitam.
+
+8 - Quando for paga remuneração relativa a trabalho suplementar, a taxa de retenção a aplicar é a que corresponder à remuneração mensal do trabalho dependente referente ao mês em que aquela é paga ou colocada à disposição.
+
+9 - No caso de remunerações de anos anteriores, para efeitos de determinação da taxa de retenção na fonte que lhes é aplicável, o respetivo valor é dividido pela soma do número de meses a que respeitam, aplicando-se a taxa assim determinada à totalidade dessas remunerações.

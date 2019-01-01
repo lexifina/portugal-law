@@ -46,14 +46,16 @@ b) O agregado do sujeito passivo com o qual o dependente tenha identidade de dom
 
 10 - Sem prejuízo do disposto no número anterior, os dependentes na situação aí prevista podem ser incluídos nas declarações de ambos os sujeitos passivos para efeitos de imputação de rendimentos e de deduções.
 
-11 - O domicílio fiscal faz presumir a habitação própria e permanente do sujeito passivo que pode, a todo o tempo, apresentar prova em contrário.
+11 - Para efeitos de concretização do disposto no número anterior devem ser disponibilizados a cada sujeito passivo os meios de acesso à área reservada dos respetivos dependentes no Portal das Finanças nos termos a definir pelo membro do Governo responsável pela área das finanças.
 
-12 - Para efeitos do disposto no número anterior, considera-se preenchido o requisito de prova aí previsto, designadamente quando o sujeito passivo:
+12 - O domicílio fiscal faz presumir a habitação própria e permanente do sujeito passivo que pode, a todo o tempo, apresentar prova em contrário.
+
+13 - Para efeitos do disposto no número anterior, considera-se preenchido o requisito de prova aí previsto, designadamente quando o sujeito passivo:
 
 a) Faça prova de que a sua habitação própria e permanente é localizada noutro imóvel; ou
 
 b) Faça prova de que não dispõe de habitação própria e permanente.
 
-13 - A prova dos factos previstos no número anterior compete ao sujeito passivo, sendo admissíveis quaisquer meios de prova admitidos por lei.
+14 - A prova dos factos previstos no número anterior compete ao sujeito passivo, sendo admissíveis quaisquer meios de prova admitidos por lei.
 
-14 - Compete à Autoridade Tributária e Aduaneira demonstrar a falta de veracidade dos meios de prova mencionados no número anterior ou das informações neles constantes.
+15 - Compete à Autoridade Tributária e Aduaneira demonstrar a falta de veracidade dos meios de prova mencionados no número anterior ou das informações neles constantes.

@@ -12,7 +12,7 @@
 
 3 - Nas situações de contitularidade, tratando-se de rendimentos da categoria B, incumbe ao contitular a quem pertença a respetiva administração apresentar na sua declaração de rendimentos a totalidade dos elementos contabilísticos exigidos nos termos das secções precedentes para o apuramento do rendimento tributável, nela identificando os restantes contitulares e a parte que lhes couber.
 
-4 - Para efeitos do disposto nos n.os 5 a 7 do artigo 10.º, devem os sujeitos passivos:
+4 - Para efeitos do disposto nos n.os 5 a 9 do artigo 10.º, devem os sujeitos passivos:
 
 a) Mencionar a intenção de efetuar o reinvestimento na declaração do ano de realização, indicando na mesma e nas declarações dos dois anos seguintes, os investimentos efetuados;
 

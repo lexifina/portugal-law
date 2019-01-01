@@ -46,4 +46,6 @@ b) O saldo positivo entre as mais-valias e menos-valias, resultante das operaç�
 
 c) Os ganhos previstos no n.º 3) da alínea b) do n.º 1 do artigo 10.º relativos a estruturas fiduciárias domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
+d) As mais-valias previstas na alínea a) do n.º 1 do artigo 10.º auferidas por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
+
 13 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.

@@ -24,7 +24,7 @@ e) Pelas associações mutualistas.
 
 a) As bolsas atribuídas aos praticantes de alto rendimento desportivo, e respetivos treinadores, pelo Comité Olímpico de Portugal ou pelo Comité Paralímpico de Portugal, no âmbito do contrato-programa de preparação para os Jogos Olímpicos, Paralímpicos ou Surdolímpicos, ou pela respetiva federação titular do estatuto de utilidade pública desportiva, nos termos do Decreto-Lei n.º 273/2009, de 1 de outubro;
 
-b) As bolsas de formação desportiva, como tal reconhecidas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do desporto, atribuídas pela respetiva federação titular do estatuto de utilidade pública desportiva aos agentes desportivos não profissionais, nomeadamente praticantes, juízes e árbitros, até ao montante máximo anual correspondente a (euro) 2 375;
+b) As bolsas de formação desportiva, como tal reconhecidas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do desporto, atribuídas pela respetiva federação titular do estatuto de utilidade pública desportiva aos agentes desportivos não profissionais, nomeadamente praticantes, juízes e árbitros, até ao montante máximo anual correspondente a 2375 (euro), bem como, com este mesmo limite, as compensações atribuídas pelas mesmas federações pelo desempenho não profissional das funções de juízes e árbitros;
 
 c) Os prémios em reconhecimento do valor e mérito de êxitos desportivos, nos termos do Decreto-Lei n.º 272/2009, de 1 de outubro, e da Portaria n.º 103/2014, de 15 de maio.
 

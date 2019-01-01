@@ -84,22 +84,38 @@ b) Nos demais casos, o adquirente não requeira a inscrição na matriz do imóv
 
 c) (Revogada.)
 
-7 - No caso de reinvestimento parcial do valor de realização e verificadas as condições estabelecidas no número anterior, o benefício a que se refere o n.º 5 respeitará apenas à parte proporcional dos ganhos correspondente ao valor reinvestido.
+d) Os imóveis que tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas para a aquisição, construção, reconstrução ou realização de obras de conservação de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI, sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio público não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação.
 
-8 - No caso de se verificar uma permuta de partes sociais nas condições mencionadas no n.º 5 do artigo 73.º e n.º 2 do artigo 77.º do Código do IRC, a atribuição, em resultado dessa permuta, dos títulos representativos do capital social da sociedade adquirente aos sócios da sociedade adquirida não dá lugar a qualquer tributação destes últimos se os mesmos continuarem a valorizar, para efeitos fiscais, as novas partes sociais pelo valor das antigas, determinado de acordo com o estabelecido neste Código, sem prejuízo da tributação relativa às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
+7 - Os ganhos previstos no n.º 5 são igualmente excluídos de tributação, desde que verificadas, cumulativamente, as seguintes condições:
 
-9 - Nos casos de fusão ou cisão de sociedades a que seja aplicável o artigo 74.º do Código do IRC, não há lugar à tributação dos sócios das sociedades fundidas ou cindidas, desde que verificadas as seguintes condições:
+a) O valor de realização, deduzido da amortização de eventual empréstimo contraído para a aquisição do imóvel e, se aplicável, do reinvestimento previsto na alínea a) do n.º 5, seja utilizado para a aquisição de um contrato de seguro ou de uma adesão individual a um fundo de pensões aberto, ou ainda para contribuição para o regime público de capitalização;
+
+b) O sujeito passivo ou o respetivo cônjuge, na data da transmissão do imóvel, se encontre, comprovadamente, em situação de reforma, ou tenha, pelo menos, 65 anos de idade;
+
+c) A aquisição do contrato de seguro, a adesão individual a um fundo de pensões aberto ou a contribuição para o regime público de capitalização seja efetuada nos seis meses posteriores contados da data de realização;
+
+d) Sendo o investimento realizado por aquisição de contrato de seguro ou da adesão individual a um fundo de pensões aberto, estes visem, exclusivamente, proporcionar ao adquirente ou ao respetivo cônjuge, uma prestação regular periódica, de montante máximo anual igual a 7,5 % do valor investido;
+
+e) O sujeito passivo manifeste a intenção de proceder ao reinvestimento, ainda que parcial, mencionando o respetivo montante na declaração de rendimentos respeitante ao ano da alienação.
+
+8 - Não há lugar ao benefício referido no número anterior se o reinvestimento não for efetuado no prazo referido na alínea c), ou se, em qualquer ano, o valor das prestações recebidas ultrapassar o limite fixado na alínea d), sendo esse ganho objeto de tributação no ano em que se conclua o prazo para reinvestimento, ou que seja ultrapassado o referido limite, respetivamente.
+
+9 - No caso de reinvestimento parcial do valor de realização e verificadas as condições estabelecidas nos n.os 6 e 8, os benefícios a que se referem os n.os 5 e 7 respeitam apenas à parte proporcional dos ganhos correspondentes ao valor reinvestido.
+
+10 - No caso de se verificar uma permuta de partes sociais nas condições mencionadas no n.º 5 do artigo 73.º e n.º 2 do artigo 77.º do Código do IRC, a atribuição, em resultado dessa permuta, dos títulos representativos do capital social da sociedade adquirente aos sócios da sociedade adquirida não dá lugar a qualquer tributação destes últimos se os mesmos continuarem a valorizar, para efeitos fiscais, as novas partes sociais pelo valor das antigas, determinado de acordo com o estabelecido neste Código, sem prejuízo da tributação relativa às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
+
+11 - Nos casos de fusão ou cisão de sociedades a que seja aplicável o artigo 74.º do Código do IRC, não há lugar à tributação dos sócios das sociedades fundidas ou cindidas, desde que verificadas as seguintes condições:
 
 a) Havendo lugar à atribuição àqueles sócios de partes de capital, sejam observadas, com as necessárias adaptações, as regras previstas nos n.os 1 e 3 do artigo 76.º do Código do IRC, consoante se trate de fusão ou cisão, respetivamente;
 
 b) Não havendo lugar à atribuição de partes de capital, seja dado cumprimento, com as necessárias adaptações, ao disposto nos n.os 4 e 5 do artigo 76.º do Código do IRC, consoante se trate, respetivamente, de fusão ou cisão.
 
-10 - O disposto nos n.os 8 e 9 não prejudica a tributação dos sócios relativamente às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
+12 - O disposto nos n.os 10 e 11 não prejudica a tributação dos sócios relativamente às importâncias em dinheiro que lhes sejam eventualmente atribuídas.
 
-11 - Nos casos previstos nos n.os 8 e 9 são ainda aplicáveis:
+13 - Nos casos previstos nos n.os 10 e 11 são ainda aplicáveis:
 
 a) O disposto no n.º 10 do artigo 73.º do Código do IRC, com as necessárias adaptações;
 
 b) A exigência dos elementos de prova previstos nos n.os 5 e 6 do artigo 78.º do mesmo código.
 
-12 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.
+14 - Os sujeitos passivos devem declarar a alienação onerosa das ações, bem como a data das respetivas aquisições.

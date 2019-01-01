@@ -4,7 +4,11 @@
 
 1 - O valor dos rendimentos qualificados como mais-valias é o correspondente ao saldo apurado entre as mais-valias e as menos-valias realizadas no mesmo ano, determinadas nos termos dos artigos seguintes.
 
-2 - O saldo referido no número anterior, respeitante às transmissões efetuadas por residentes previstas nas alíneas a), c) e d) do n.º 1 do artigo 10.º, positivo ou negativo, é apenas considerado em 50 % do seu valor.
+2 - O saldo referido no número anterior, respeitante às transmissões efetuadas por residentes previstas nas alíneas a), c) e d) do n.º 1 do artigo 10.º, positivo ou negativo, é:
+
+a) Integralmente considerado nas situações previstas na alínea a) do n.º 1 do artigo 10.º, quando os imóveis tenham beneficiado de apoio não reembolsável concedido pelo Estado ou outras entidades públicas, quando o valor total do apoio concedido para aquisição ou para realização de obras seja de valor superior a 30 % do valor patrimonial tributário do imóvel para efeitos de IMI e estes sejam vendidos antes de decorridos 10 anos sobre a data da sua aquisição, da assinatura da declaração comprovativa da receção da obra ou do pagamento da última despesa relativa ao apoio não reembolsável que, nos termos legais ou regulamentares, não estejam sujeitos a ónus ou regimes especiais que limitem ou condicionem a respetiva alienação;
+
+b) Apenas considerado em 50 % do seu valor, nos restantes casos.
 
 3 - O saldo referido no n.º 1, respeitante às operações previstas na alínea b) do n.º 1 do artigo 10.º, relativo a micro e pequenas empresas não cotadas nos mercados regulamentado ou não regulamentado da bolsa de valores, quando positivo, é igualmente considerado em 50 % do seu valor.
 

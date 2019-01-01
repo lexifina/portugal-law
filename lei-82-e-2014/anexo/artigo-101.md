@@ -16,9 +16,9 @@ e) 25 %, tratando-se de rendimentos da categoria F.
 
 2 - Tratando-se de rendimentos referidos no artigo 71.º, a retenção na fonte nele prevista cabe:
 
-a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 12 do artigo 71.º;
+a) Às entidades devedoras dos rendimentos referidos nos n.os 1 e 4 e na alínea c) do n.º 16 do artigo 71.º;
 
-b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 12 do artigo 71.º
+b) Às entidades que paguem ou coloquem à disposição os rendimentos referidos na alínea b) do n.º 1 e nas alíneas a) e b) do n.º 16 do artigo 71.º
 
 3 - Tratando-se de rendimentos de valores mobiliários sujeitos a registo ou depósito, emitidos por entidades residentes em território português, o disposto na alínea a) do n.º 1 e na alínea a) do n.º 2 é da responsabilidade das entidades registadoras ou depositárias.
 
