@@ -18,7 +18,7 @@ f) 1,00 do valor de aquisição dos incrementos patrimoniais obtidos a título g
 
 g) 0,35 dos rendimentos da exploração de estabelecimentos de alojamento local na modalidade de moradia ou apartamento.
 
-2 - O valor determinado nos termos do número anterior não pode ser inferior a 60 % do valor anual da retribuição mensal mínima garantida.
+2 - (Revogado).
 
 3 - Nos setores de revenda de combustíveis, de tabacos, de veículos sujeitos ao imposto sobre os veículos e de álcool e bebidas alcoólicas não se consideram, para efeitos da determinação da matéria coletável nos termos do n.º 1, os montantes correspondentes aos impostos especiais sobre o consumo e ao imposto sobre os veículos.
 

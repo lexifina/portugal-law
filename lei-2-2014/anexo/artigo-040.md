@@ -20,6 +20,6 @@ b) Tratando-se de diminuição dos encargos estimados ou de aumento do número d
 
 5 - A constituição do fundo a que se refere a alínea b) do n.º 3 é dispensada quando seja exigida a prestação de caução a favor da entidade que aprova o Plano Ambiental e de Recuperação Paisagística, de acordo com o regime jurídico de exploração da respetiva atividade.
 
-6 - A provisão deve ser aplicada na cobertura dos encargos a que se destina até ao fim do terceiro período de tributação seguinte ao do encerramento da exploração.
+6 - A provisão deve ser aplicada na cobertura dos encargos a que se destina até ao fim do terceiro período de tributação seguinte ao do encerramento da exploração, podendo este período ser prorrogado, até ao máximo de cinco períodos de tributação, mediante comunicação prévia à Autoridade Tributária e Aduaneira, devendo as razões que o justificam integrar o processo de documentação fiscal a que se refere o artigo 130.º
 
-7 - Decorrido o prazo previsto no número anterior sem que a provisão tenha sido utilizada, total ou parcialmente, nos fins para que foi criada, a parte não aplicada deve ser considerada como rendimento do terceiro período de tributação posterior ao do final da exploração.
+7 - A parte da provisão não aplicada nos fins para que a provisão foi constituída é considerada como rendimento do terceiro período de tributação seguinte ao do encerramento da exploração ou do último período de tributação em que seja comunicada a utilização da provisão nos termos do número anterior.

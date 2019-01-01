@@ -19,3 +19,5 @@ a) Aos ativos intangíveis adquiridos no âmbito de operações de fusão, cisã
 b) Ao goodwill respeitante a participações sociais;
 
 c) Aos ativos intangíveis adquiridos a entidades residentes em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
+
+d) Aos ativos intangíveis adquiridos a entidades com as quais existam relações especiais nos termos do n.º 4 do artigo 63.º

@@ -6,7 +6,7 @@
 
 2 - Relativamente aos sujeitos passivos que, nos termos dos n.os 2 e 3 do artigo 8.º, adotem um período de tributação diferente do ano civil, a declaração deve ser enviada até ao último dia do 5.º mês seguinte à data do termo desse período, independentemente de esse dia ser útil ou não útil, prazo que é igualmente aplicável relativamente ao período mencionado na alínea d) do n.º 4 do artigo 8.º
 
-3 - No caso de cessação de atividade nos termos do n.º 5 do artigo 8.º, a declaração de rendimentos relativa ao período de tributação em que a mesma se verificou deve ser enviada até ao 30.º dia seguinte ao da data da cessação, independentemente de esse dia ser útil ou não útil, aplicando-se igualmente este prazo ao envio da declaração relativa ao período de tributação imediatamente anterior, quando ainda não tenham decorrido os prazos mencionados nos n.os 1 e 2.
+3 - No caso de cessação de atividade nos termos do n.º 5 do artigo 8.º, a declaração de rendimentos relativa ao período de tributação em que a mesma se verificou deve ser enviada até ao último dia do terceiro mês seguinte ao da data da cessação, independentemente de esse dia ser útil ou não útil, aplicando-se igualmente este prazo ao envio da declaração relativa ao período de tributação imediatamente anterior, quando ainda não tenham decorrido os prazos mencionados nos n.os 1 e 2.
 
 4 - As entidades que não tenham sede nem direção efetiva em território português, e que neste obtenham rendimentos não imputáveis a estabelecimento estável aí situado, são igualmente obrigadas a enviar a declaração mencionada no n.º 1, desde que relativamente aos mesmos não haja lugar a retenção na fonte a título definitivo.
 

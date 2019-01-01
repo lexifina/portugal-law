@@ -48,8 +48,12 @@ c) Os sujeitos passivos que tenham deixado de efetuar vendas ou prestações de 
 
 d) Os sujeitos passivos a que seja aplicado o regime simplificado de determinação da matéria coletável.
 
+e) Os sujeitos passivos que não efetuem o pagamento até ao final do terceiro mês do respetivo período de tributação, desde que as obrigações declarativas previstas nos artigos 120.º e 121.º, relativas aos dois períodos de tributação anteriores, tenham sido cumpridas nos termos neles previstos.
+
 12 - Quando seja aplicável o regime especial de tributação dos grupos de sociedades, é devido um pagamento especial por conta por cada uma das sociedades do grupo, incluindo a sociedade dominante, cabendo a esta última as obrigações de determinar o valor global do pagamento especial por conta e de proceder à sua entrega.
 
 13 - O montante do pagamento especial por conta a que se refere o número anterior é calculado para cada uma das sociedades do grupo, incluindo a sociedade dominante, nos termos do n.º 2, deduzindo, nos termos do n.º 3, o montante dos pagamentos por conta que seria obtido a partir dos dados resultantes da declaração periódica de rendimentos de cada uma das sociedades do grupo.
 
 14 - Nos casos em que ocorra a cessação do regime simplificado de determinação da matéria coletável nos termos do n.º 6 do artigo 86.º-A por não verificação dos requisitos previstos nas alíneas a) ou b) do n.º 1 daquele artigo o sujeito passivo deve efetuar o pagamento especial por conta previsto nos n.os 1 e 2 até ao fim do 3.º mês do período de tributação seguinte.
+
+15 - A dispensa a que se refere a alínea e) do n.º 11 é válida por cada período de tributação, verificados os requisitos aí previstos, cabendo à Autoridade Tributária e Aduaneira a verificação da situação tributária do sujeito passivo.
