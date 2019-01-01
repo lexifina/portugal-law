@@ -40,9 +40,9 @@ q) Revogada;
 
 r) Revogada;
 
-s) «Serviços concessionados» os serviços que só podem ser efetuados ao abrigo de concessão ou delegação, nos termos da lei;
+s) Revogada;
 
-t) «Serviços liberalizados» os serviços que podem ser efetuados por qualquer empresa, desde que reúna as condições enunciadas no presente diploma;
+t) Revogada;;
 
 u) «Sistema de gestão da segurança (SGS)» a organização e as disposições adotadas pelo gestor da infraestrutura ou por empresa de transporte ferroviário para garantir a segurança da gestão das suas operações;
 

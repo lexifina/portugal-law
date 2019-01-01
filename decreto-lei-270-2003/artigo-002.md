@@ -8,13 +8,7 @@ a) Do âmbito de aplicação do presente diploma os ramais privados, cuja utiliz
 
 b) Do âmbito de aplicação do presente diploma, as redes destinadas, em exclusivo, a serviços de transporte local, urbano e suburbano de passageiros, funcionalmente separadas da restante rede do sistema ferroviário, bem como as empresas ferroviárias que operem, ou efetuem a gestão, exclusivamente, nessas redes;
 
-2 - Estão igualmente excluídas:
-
-a) Do âmbito de aplicação do presente diploma, as empresas que operem numa rede sem ligação física a qualquer outra, com material circulante próprio, desde que efectuem apenas transporte de mercadorias;
-
-b) Do âmbito de aplicação do presente diploma as empresas que prestem, em exclusivo, serviços de transporte urbano, suburbano e regional de passageiros nas redes referidas na alínea b) do n.º 1, sem prejuízo do disposto nos capítulos III e VI;
-
-c) Do âmbito de aplicação do presente diploma, com excepção dos capítulos III e VI, que se lhes aplicam, as empresas que efectuem apenas transporte de mercadorias, em ramais privados, com tracção própria;
+2 - Revogado;
 
 d) Do âmbito de aplicação do capítulo IV as empresas cuja actividade se limite, em absoluto, à exploração de serviços de transporte urbano, suburbano ou regional de passageiros, ou de transporte regional de mercadorias, quando sejam também detentoras da infra-estrutura em que operam.
 

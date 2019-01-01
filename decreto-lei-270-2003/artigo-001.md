@@ -24,6 +24,6 @@ g) Revogada;
 
 h) Segurança;
 
-i) Promoção e defesa da concorrência.
+i) Revogada;
 
 2 - O disposto no presente diploma não prejudica a aplicação da legislação nacional e comunitária de defesa da concorrência às empresas e actividades a ele sujeitas.
