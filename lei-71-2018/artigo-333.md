@@ -1,0 +1,49 @@
+# Artigo 333.º
+
+### Alteração ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social
+
+Os artigos 157.º e 163.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 157.º
+
+[...]
+
+1 - ...
+
+a) Relativamente ao rendimento relevante mensal médio apurado trimestral ou anualmente, consoante os casos, de montante inferior a quatro vezes o valor do IAS, quando acumulem atividade independente com atividade profissional por conta de outrem, desde que se verifiquem cumulativamente as seguintes condições:
+
+i) ...
+
+ii) ...
+
+iii) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+Artigo 163.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestral ou anualmente, consoante os casos, de montante igual ou superior a quatro vezes o valor do IAS, que acumulem atividade independente com atividade profissional por conta de outrem nos termos da alínea a) do n.º 1 do artigo 157.º, corresponde ao valor que ultrapasse aquele limite, não sendo aplicável o disposto no n.º 1 do artigo seguinte.
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...»

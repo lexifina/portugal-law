@@ -1,0 +1,5 @@
+# Artigo 76.º
+
+### Rede de radares meteorológicos
+
+O Governo concretiza, nos termos do procedimento pré-contratual em curso, a instalação da rede de radares meteorológicos na Região Autónoma dos Açores, tendo por base a Resolução da Assembleia da República n.º 100/2010, de 11 de agosto, e a Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 24/2013/A, de 8 de outubro.
