@@ -6,4 +6,6 @@
 
 2 - A isenção concedida a veículo adquirido em regime de locação financeira não dispensa a tributação prevista no número anterior, sempre que o locatário proceda à devolução do veículo ao locador antes do fim do prazo de cinco anos, sendo ambos solidariamente responsáveis pelo pagamento da dívida.
 
-3 - O ónus de tributação residual previsto no n.º 1 do presente artigo, bem como o ónus de intransmissibilidade previsto no artigo 47.º, são registados nos documentos dos veículos pela autoridade competente, sendo nula a transmissão de veículo sobre os quais os mesmos incidam, sem prejuízo da sua extinção pelo decurso do respectivo prazo ou pelo pagamento do imposto.
+3 - O prazo previsto nos números anteriores é de quatro anos, no caso dos veículos a que se referem os n.os 1 a 3 do artigo 53.º
+
+4 - O ónus de tributação residual previsto no n.º 1 do presente artigo, bem como o ónus de intransmissibilidade previsto no artigo 47.º, são registados nos documentos dos veículos pela autoridade competente, sendo nula a transmissão de veículo sobre os quais os mesmos incidam, sem prejuízo da sua extinção pelo decurso do respectivo prazo ou pelo pagamento do imposto.

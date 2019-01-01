@@ -6,7 +6,7 @@
 
 a) Quanto aos veículos das categorias A, a cilindrada, a voltagem, a antiguidade da matrícula e o combustível;
 
-b) Quanto aos veículos da categoria B, a cilindrada e o nível de emissão de dióxido de carbono (CO2) relativo ao ciclo combinado de ensaios constante do certificado de conformidade ou, não existindo, da medição efectiva efectuada em centro técnico legalmente autorizado nos termos previstos para o cálculo do imposto sobre veículos;
+b) Quanto aos veículos da categoria B, a cilindrada e o nível de emissão de dióxido de carbono (CO(índice 2)) relativo ao ciclo combinado de ensaios resultante dos testes realizados ao abrigo do 'Novo Ciclo de Condução Europeu Normalizado' (New European Driving Cycle - NEDC) ou ao abrigo do 'Procedimento Global de Testes Harmonizados de Veículos Ligeiros' (Worldwide Harmonized Light Vehicle Test Procedure - WLTP), consoante o sistema de testes a que o veículo foi sujeito para efeitos da sua homologação técnica, ou, quando este elemento não integre o certificado de conformidade, as emissões que resultam de medição efetiva realizada em centro técnico legalmente autorizado nos termos previstos para o cálculo do imposto sobre veículos;
 
 c) Quanto aos veículos das categorias C e D, o peso bruto, o número de eixos, o tipo de suspensão dos eixos motores e antiguidade da primeira matrícula do veículo motor;
 
@@ -18,7 +18,7 @@ f) Quanto aos veículos da categoria G, o peso máximo autorizado à descolagem,
 
 g) No caso de veículos da categoria B fabricados antes de 1970, referidos no n.º 2 do artigo 8.º do Código do ISV, aos quais seja aplicada a tabela D a que se refere o n.º 1 do artigo 11.º do mesmo diploma, considera-se para efeitos de determinação do nível de emissão de dióxido de carbono (CO(índice 2)) o escalão mínimo (até 120 g por quilómetro).
 
-2 - Na determinação da base tributável do imposto incidente sobre os veículos das categorias C e D, considera-se equivalente a suspensão pneumática o tipo de suspensão definido no anexo III da Directiva n.º <a href="eurlex.asp?ano=1996&id=396L0053" title="Link para Directiva da Comunidade Europeia!���96/53/CE</`�� do Conselho, de 25 de Julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade.
+2 - Na determinação da base tributável do imposto incidente sobre os veículos das categorias C e D, considera-se equivalente a suspensão pneumática o tipo de suspensão definido no anexo ii da Diretiva 96/53/CE do Conselho, de 25 de julho de 1996, que fixa as dimensões máximas autorizadas no tráfego nacional e internacional e os pesos máximos autorizados no tráfego internacional para certos veículos rodoviários em circulação na Comunidade.
 
 3 - Na determinação da base tributável do imposto incidente sobre os veículos das categorias C e D que sejam veículos articulados, constituídos por tractor e semi-reboque, ou conjuntos formados por veículo automóvel e reboque, cujo peso bruto, excluindo o rebocável, seja igual ou superior a 12 toneladas, valem as seguintes regras:
 

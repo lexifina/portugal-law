@@ -2,4 +2,4 @@
 
 ### Taxas - categoria F
 
-A taxa aplicável aos veículos da categoria F é de (euro) 2,69/kW.
+A taxa aplicável aos veículos da categoria F é de 2,72 (euro)/kW.

@@ -22,9 +22,11 @@ d) Os veículos automóveis, com lotação igual ou superior a sete lugares, inc
 
 e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P.
 
-2 - O reconhecimento da isenção prevista no número anterior depende de pedido dirigido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, anterior ou concomitante à apresentação do pedido de introdução no consumo, instruído com os seguintes documentos:
+f) Os veículos adquiridos para o exercício de funções operacionais pela Agência para a Gestão Integrada de Fogos Rurais, I. P. (AGIF, I. P.), quando afetos exclusivamente ao apoio preventivo e combate a incêndios.
 
-a) Declaração emitida pela Autoridade Nacional de Protecção Civil da qual conste o reconhecimento da entidade requerente e as características técnicas dos veículos, nos casos previstos na alínea a) do número anterior;
+2 - O reconhecimento da isenção prevista no número anterior depende de pedido dirigido à Autoridade Tributária e Aduaneira, anterior ou concomitante à apresentação do pedido de introdução no consumo, instruído com os seguintes documentos:
+
+a) Declaração emitida pela Autoridade Nacional de Proteção Civil da qual conste o reconhecimento da entidade requerente e as características técnicas dos veículos, nos casos previstos na alínea a) do número anterior, bem como nos casos previstos na alínea e) do mesmo número no que diz respeito às corporações de bombeiros;
 
 b) Declaração emitida pelos serviços respectivos que ateste o destino a que o veículo será afecto, no caso referido na alínea b) do número anterior;
 
@@ -32,6 +34,6 @@ c) Cópia da sentença ou decisão que determinou a perda ou abandono da viatura
 
 d) Declaração emitida pelo serviço competente do município ou freguesia acompanhada de factura pró-forma identificativa da marca, modelo e versão do veículo a adquirir, no caso referido na alínea d) do número anterior.
 
-e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P., bem como os veículos adquiridos pelas corporações de bombeiros para o cumprimento das missões de proteção civil, nomeadamente socorro, assistência, apoio e combate a incêndios.
+e) Os veículos adquiridos para o exercício de funções operacionais das equipas de sapadores florestais pelo Instituto da Conservação da Natureza e das Florestas, I. P., bem como os veículos adquiridos pelas corporações de bombeiros para o cumprimento das missões de proteção civil, nomeadamente socorro, assistência, apoio e combate a incêndios. f) Declaração, emitida pelo serviço respetivo, que ateste o destino a que o veículo será afeto, no caso referido na alínea f) do número anterior.
 
-3 - Os veículos referidos nas alíneas a), d) e e) do n.º 1 devem ostentar dizeres identificadores da entidade beneficiária, inscritos de forma permanente nas partes laterais e posterior, em dimensão não inferior à da matrícula, considerando-se de outro modo haver introdução ilegal no consumo.
+3 - Os veículos referidos nas alíneas a), d), e) e f) do n.º 1 devem ostentar dizeres identificadores da entidade beneficiária, inscritos de forma permanente nas partes laterais e posterior, em dimensão não inferior à da matrícula, considerando-se de outro modo haver introdução ilegal no consumo.
