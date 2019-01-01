@@ -10,6 +10,6 @@
 
 4 - O passageiro que inicie a sua viagem num local onde não se efectua a venda de títulos de transporte ou onde não seja possível obter esse título fica obrigado a adquiri-lo, logo após o embarque, no decurso da viagem.
 
-5 - O título de transporte é válido apenas para o tipo de serviço para que foi adquirido, salvo se as condições gerais de transporte permitirem a sua utilização noutro tipo de serviço.
+5 - O título de transporte é válido apenas para o tipo de serviço para que foi adquirido, salvo se as condições gerais de transporte, o contrato de serviço público, o contrato de acesso e utilização da infraestrutura ou as autoridades de transportes permitirem a sua utilização noutro tipo de serviço.
 
 6 - O passageiro sem título de transporte válido fica sujeito às sanções previstas na Lei n.º 28/2006, de 4 de Julho, que regula as condições de utilização do título de transporte válido nos transportes colectivos.

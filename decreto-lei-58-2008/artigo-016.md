@@ -4,11 +4,11 @@
 
 1 - Se o passageiro não utilizar o título de transporte por motivo alheio ao operador, não há lugar a qualquer reembolso, salvo o disposto no número seguinte.
 
-2 - Nos serviços de transporte regional, inter-regional e de longo curso, o passageiro tem direito a reaver até 75 % do valor pago, pelo título de transporte, mediante a sua apresentação e desde que o reembolso seja solicitado:
+2 - Nos serviços de transporte regional, de longo curso e internacional, o passageiro tem direito a reaver até 75 % do valor pago pelo título de transporte, mediante a sua apresentação e desde que o reembolso seja solicitado:
 
 a) Até três horas antes do início da viagem, quando se trate de serviços de transporte com lugar reservado;
 
-b) Até trinta minutos antes do início da viagem, quando se trate de serviços de transporte regional e inter-regional.
+b) Até 30 minutos antes do início da viagem, quando se trate de serviços de transporte regional e de longo curso.
 
 3 - Há direito a reembolso do preço do título de transporte pago pelo passageiro se, por razões imputáveis ao operador, o atraso à partida exceder trinta minutos em viagens com duração inferior a uma hora ou exceder sessenta minutos em viagens com duração igual ou superior a uma hora.
 

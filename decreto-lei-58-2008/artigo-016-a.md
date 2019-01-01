@@ -22,6 +22,6 @@ b) O valor a pagar, de acordo com as regras referidas nos números anteriores, s
 
 c) O atraso resultante da continuação da viagem num serviço diferente ou do reencaminhamento seja inferior a 60 minutos;
 
-d) Seja titular de uma assinatura, passe ou de um título de transporte sazonal.
+d) O passageiro seja titular de uma assinatura, passe ou título de transporte sazonal e, comprovadamente, existam alternativas viáveis para a sua deslocação por estes abrangidas, designadamente através de outros modos de transporte.
 
 6 - Sempre que o atraso ou a supressão seja da responsabilidade do gestor de infraestrutura ferroviária, o operador tem direito de regresso sobre este da importância paga a título de indemnização aos passageiros nos termos do presente decreto-lei.

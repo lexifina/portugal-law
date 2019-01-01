@@ -2,4 +2,4 @@
 
 ### Transporte e entrega de automóveis e motociclos
 
-As condições de transporte e entrega de automóveis ou motociclos são definidas pelo operador, sujeitas a aprovação pelo IMTT, I. P.
+As condições de transporte e entrega de automóveis ou motociclos são definidas pelo operador e estão sujeitas a aprovação da autoridade de transportes competente.

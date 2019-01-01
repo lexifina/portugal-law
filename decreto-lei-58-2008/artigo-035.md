@@ -20,7 +20,7 @@ e) O incumprimento das regras relativas à indemnização do preço do bilhete a
 
 f) A recusa de emissão de documento comprovativo de atraso, nos termos do artigo 17.º;
 
-g) O incumprimento das obrigações relativas à fixação e divulgação de preços a que se refere o artigo 21.º;
+g) (Revogada);
 
 h) O incumprimento das obrigações relativas aos títulos de transporte a que se referem os artigos 22.º e 23.º;
 

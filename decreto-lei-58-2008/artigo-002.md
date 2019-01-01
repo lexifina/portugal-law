@@ -28,18 +28,22 @@ l) «Gestor da estação» a entidade à qual se encontra atribuída a responsab
 
 m) «Estação» a infra-estrutura destinada ao embarque e desembarque de passageiros;
 
-n) «Serviços urbanos e suburbanos» os serviços destinados a dar resposta às necessidades de um centro urbano ou de uma aglomeração, bem como ao transporte entre esse centro ou essa aglomeração e os respectivos subúrbios;
+n) «Serviços urbanos e suburbanos» os serviços de transporte destinados a dar resposta às necessidades de transporte de um centro urbano ou de uma aglomeração, incluindo uma aglomeração transfronteiriça, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respetivos subúrbios;
 
-o) «Serviços regionais e inter-regionais» os serviços destinados a dar resposta às necessidades de uma região, assegurando as ligações aos centros urbanos e a complementaridade nos serviços de longo curso;
+o) «Serviços regionais» os serviços de transporte destinados a dar resposta às necessidades de uma região, incluindo uma região transfronteiriça;
 
-p) «Serviços de longo curso» os serviços de transporte destinados a assegurar as ligações entre cidades do País e as ligações internacionais e que se caracterizam pela elevada velocidade comercial e por adicionais níveis de conforto;
+p) «Serviços de longo curso» os serviços de transporte destinados a dar resposta às necessidades de âmbito nacional, entre diversas cidades ou aglomerações e de âmbito supra regional;
 
-q) «Serviço ocasional» o serviço de transporte não regular promovido em função de necessidades específicas;
+q) «Serviços internacionais» os serviços de transporte em que a composição atravessa, pelo menos, uma fronteira de um Estado-Membro da União Europeia e destinados a transportar passageiros entre estações situadas em Estados-Membros da União Europeia diferentes;
 
-r) «Atraso à partida» a diferença compreendida entre a hora prevista de partida divulgada pelo operador e a ocorrida;
+r) «Serviços públicos integrados de transporte de passageiros» os serviços de transporte interligados no interior de uma zona geográfica determinada, com serviço de informações, sistema de bilhética e horário integrados;
 
-s) «Atraso à chegada» a diferença compreendida entre a hora prevista de chegada divulgada pelo operador e a ocorrida;
+s) «Serviço ocasional» o serviço de transporte não regular promovido em função de necessidades específicas;
 
-t) «Supressão temporária» a suspensão total ou parcial de um serviço planeado e divulgado, com carácter temporário;
+t) «Atraso à partida» a diferença compreendida entre a hora prevista de partida divulgada pelo operador e a ocorrida;
 
-u) «Supressão definitiva» a descontinuação total ou parcial de um serviço planeado e divulgado, com carácter permanente.
+u) «Atraso à chegada» a diferença compreendida entre a hora prevista de chegada divulgada pelo operador e a ocorrida;
+
+v) «Supressão temporária» a suspensão total ou parcial de um serviço planeado e divulgado, com carácter temporário;
+
+x) «Supressão definitiva» a descontinuação total ou parcial de um serviço planeado e divulgado, com carácter permanente.
