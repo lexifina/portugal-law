@@ -2,7 +2,7 @@
 
 ### Introdução fraudulenta no consumo
 
-1 - Quem, com intenção de se subtrair ao pagamento dos impostos especiais sobre o álcool e as bebidas alcoólicas, produtos petrolíferos e energéticos ou tabaco:
+1 - Quem, com intenção de se subtrair ao pagamento dos impostos especiais sobre o álcool, as bebidas alcoólicas e as bebidas adicionadas de açúcar ou outros edulcorantes, produtos petrolíferos e energéticos ou tabaco:
 
 a) Introduzir no consumo produtos tributáveis sem o cumprimento das formalidades legalmente exigidas;
 

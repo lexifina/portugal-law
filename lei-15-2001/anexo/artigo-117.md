@@ -10,7 +10,7 @@
 
 4 - A falta de apresentação ou apresentação fora do prazo legal das declarações ou fichas para inscrição ou actualização de elementos do número fiscal de contribuinte das pessoas singulares é punível com coima de (euro) 75 a (euro) 375.
 
-5 - A falta de comunicação, ou a comunicação fora do prazo legal, da adesão à caixa postal eletrónica é punível com coima de (euro) 50 a (euro) 250.
+5 - (Revogado).
 
 6 - A falta de apresentação da documentação respeitante à política adotada em matéria de preços de transferência, bem como a falta de apresentação, no prazo legalmente previsto, da declaração financeira e fiscal por país relativa às entidades de um grupo multinacional, é punível com coima de (euro) 500 a (euro) 10 000, acrescida de 5 % por cada dia de atraso no cumprimento da presente obrigação.
 

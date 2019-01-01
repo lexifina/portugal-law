@@ -6,4 +6,6 @@
 
 2 - Para efeitos deste artigo, são equiparadas às declarações referidas no número anterior as declarações que o contribuinte periodicamente deva efectuar para efeitos estatísticos ou similares.
 
-3 - O disposto no n.º 1 não é aplicável quando o sujeito passivo, no ano a que respeita a declaração de rendimentos, esteja abrangido por uma das situações de dispensa de declaração previstas no artigo 58.º do Código do IRS.»
+3 - O disposto no n.º 1 não é aplicável quando o sujeito passivo, no ano a que respeita a declaração de rendimentos, esteja abrangido por uma das situações de dispensa de declaração previstas no artigo 58.º do Código do IRS.
+
+4 - Quando a infração prevista no n.º 1 diga respeito à falta de apresentação ou apresentação fora do prazo legal da declaração a que se referem os n.os 2 e 6 do artigo 63.º-A da lei geral tributária, é punível com coima de 3000 (euro) a 165 000 (euro).
