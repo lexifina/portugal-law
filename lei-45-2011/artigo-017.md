@@ -18,7 +18,9 @@ d) O disposto no Decreto-Lei n.º 170/2008, de 26 de agosto, alterado pelas Leis
 
 4 - Quando da decisão referida no n.º 1 não resultar destino especial para os bens, o GAB procede à afetação dos mesmos a finalidade pública ou socialmente útil, ou à sua venda e subsequente repartição do produto por ela gerado.
 
-5 - O produto da venda realizada pelo GAB ao abrigo do número anterior reverte:
+5 - Quando o bem referido no número anterior for um veículo automóvel, embarcação ou aeronave cujo valor resultante da avaliação seja inferior a 3000 (euro), apenas há lugar à sua venda e subsequente repartição do produto por ela gerado.
+
+6 - O produto da venda realizada pelo GAB ao abrigo dos n.os 4 e 5 reverte:
 
 a) Em 50 % para o Fundo de Modernização da Justiça;
 
@@ -26,4 +28,6 @@ b) Em 49 % para o IGFEJ, I. P.;
 
 c) Em 1 % para a Comissão de Proteção às Vítimas de Crimes.
 
-6 - As demais receitas geradas pela administração dos bens recuperados ou declarados perdidos a favor do Estado são destinadas pelo GAB em conformidade com o disposto no presente artigo.
+7 - As demais receitas geradas pela administração dos bens recuperados ou declarados perdidos a favor do Estado são destinadas pelo GAB em conformidade com o disposto no presente artigo.
+
+8 - Os bens entregues ao GAB que venham a ser declarados perdidos a favor do Estado por decisão transitada em julgado são registados pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., em nome do Estado Português.
