@@ -75,3 +75,9 @@ c) A contraprestação seja superior ao valor normal e o transmitente dos bens o
 11 - A derrogação prevista no número anterior não será aplicada sempre que seja feita prova de que a diferença entre a contraprestação e o valor normal não se deve à existência de uma relação especial entre o sujeito passivo e o adquirente dos bens ou serviços.
 
 12 - Para efeitos do n.º 10, consideram-se ainda relações especiais as relações estabelecidas entre um empregador e um empregado, a família deste ou qualquer pessoa com ele estreitamente relacionada.
+
+13 - Em relação a vales de finalidade múltipla, sem prejuízo do disposto no n.º 1, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é constituído pela contraprestação paga, quando da cessão do vale, pelo adquirente, pelo destinatário ou por um terceiro em seu lugar, deduzido do montante do imposto devido por essa transmissão de bens ou prestação de serviços.
+
+14 - Quando o transmitente dos bens ou prestador dos serviços não tenha sido o próprio cedente do vale de finalidade múltipla e não lhe seja possível aceder a informação segura acerca da contraprestação referida no número anterior, sem prejuízo do disposto no n.º 1, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é constituído pelo valor monetário indicado no próprio vale ou resultante de informação contratual relacionada, deduzido do montante do imposto devido por essa transmissão de bens ou prestação de serviços.
+
+15 - No caso previsto no número anterior, não havendo indicação no próprio vale do respetivo valor monetário, nem resultando este de informação contratual relacionada, o valor tributável da transmissão de bens ou prestação de serviços a que o vale diz respeito é determinado nos termos do n.º 4.

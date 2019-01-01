@@ -40,6 +40,12 @@ i) 'Sujeito passivo revendedor de gás, de electricidade, de calor ou de frio' a
 
 j) «Locação de curta duração de um meio de transporte», a locação de um meio de transporte por um período não superior a 30 dias ou, tratando-se de uma embarcação, por um período não superior a 90 dias.
 
+l) 'Vale', um instrumento que, nos termos e condições nele especificados ou em informação contratual relacionada, independentemente da sua designação e do seu suporte físico ou eletrónico, confere ao titular o direito de obter, junto de transmitentes de bens ou de prestadores de serviços identificados, o fornecimento de uma ou de várias categorias de bens ou serviços previamente determinadas ou determináveis, e de o utilizar, total ou parcialmente, como contraprestação desse fornecimento, não abrangendo, designadamente, os meros instrumentos ou meios de pagamento e os vales de descontos que não conferem ao respetivo titular o direito de exigir em troca a transmissão de um bem ou a prestação de um serviço;
+
+m) 'Vale de finalidade única', um vale em relação ao qual todos os elementos necessários para a determinação do imposto devido, independentemente do bem que venha a ser transmitido ou do serviço que venha a ser prestado, são conhecidos no momento da sua emissão ou cessão;
+
+n) 'Vale de finalidade múltipla', um vale em relação ao qual, no momento da sua emissão ou cessão, não são conhecidos todos os elementos necessários para a determinação do imposto devido.
+
 3 - Para efeitos das regras aplicáveis às transmissões de bens e às prestações de serviços efectuadas a bordo de um navio, de uma aeronave ou de um comboio, durante um transporte intracomunitário de passageiros, entende-se por:
 
 a) «Transporte intracomunitário de passageiros» o transporte de passageiros cujo lugar de partida e de chegada se situa no território da Comunidade sem escala em país terceiro, bem como a parte de um transporte de passageiros efectuada no território da Comunidade, sem que haja escala em país terceiro entre o lugar de partida e o lugar de chegada;
