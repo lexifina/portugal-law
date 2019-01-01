@@ -12,7 +12,9 @@
 
 a) Por intermediário financeiro autorizado a exercer essa actividade, relativamente a quaisquer instrumentos financeiros;
 
-b) Por consultores para investimento autónomos, relativamente a valores mobiliários.
+b) Por consultores para investimento autónomos, relativamente a valores mobiliários;
+
+c) Por outras entidades legalmente habilitadas.
 
 5 - Os consultores para investimento autónomos podem ainda prestar o serviço de receção e transmissão de ordens, por conta de outrem em valores mobiliários desde que:
 
