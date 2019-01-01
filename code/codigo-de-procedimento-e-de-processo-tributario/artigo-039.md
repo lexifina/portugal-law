@@ -2,7 +2,7 @@
 
 ### Perfeição das notificações
 
-1 - As notificações efectuadas nos termos do n.º 3 do artigo anterior presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
+1 - As notificações efetuadas nos termos do n.º 3 do artigo 38.º presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
 
 2 - A presunção do número anterior só pode ser ilidida pelo notificado quando não lhe seja imputável o facto de a notificação ocorrer em data posterior à presumida, devendo para o efeito a administração tributária ou o tribunal, com base em requerimento do interessado, requerer aos correios informação sobre a data efectiva da recepção.
 

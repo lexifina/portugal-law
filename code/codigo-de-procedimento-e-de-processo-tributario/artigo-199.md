@@ -12,7 +12,7 @@
 
 5 - No caso de a garantia apresentada se tornar insuficiente, a mesma deve ser reforçada nos termos das normas previstas neste artigo.
 
-6 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior, com o limite de cinco anos, e custas na totalidade, acrescida de 25 % da soma daqueles valores, sem prejuízo do disposto no n.º 13 do artigo 169.º
+6 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados até ao termo do prazo de pagamento voluntário ou à data do pedido, quando posterior, com o limite de cinco anos, e custas na totalidade, acrescida de 25 % da soma daqueles valores, exceto no caso dos planos prestacionais onde a garantia é prestada pelo valor da dívida exequenda, juros de mora contados até ao termo do prazo do plano de pagamento concedido e custas na totalidade, sem prejuízo do disposto no n.º 13 do artigo 169.º
 
 7 - As garantias referidas no nº 1 serão constituídas para cobrir todo o período de tempo que foi concedido para efectuar o pagamento, acrescido de três meses, e serão apresentadas no prazo de 15 dias a contar da notificação que autorizar as prestações, salvo no caso de garantia que pela sua natureza justifique a ampliação do prazo até 30 dias, prorrogáveis por mais 30, em caso de circunstâncias excepcionais.
 
