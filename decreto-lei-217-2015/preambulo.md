@@ -1,0 +1,33 @@
+Decreto-Lei n.º 217/2015
+
+de 7 de outubro
+
+A Diretiva n.º 2012/34/UE, do Parlamento Europeu e do Conselho, de 21 de novembro de 2012, que estabelece um espaço ferroviário europeu único, revogou a Diretiva n.º 91/440/CEE, do Conselho, de 29 de julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários, a Diretiva n.º 95/18/CE, do Conselho, de 19 de junho de 1995, relativa às licenças das empresas de transporte ferroviário, e a Diretiva n.º 2001/14/CE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2001, relativa à repartição de capacidade da infraestrutura ferroviária, à aplicação de taxas de utilização da infraestrutura ferroviária e à certificação da segurança, as quais foram transpostas para a ordem jurídica nacional pelo Decreto-Lei n.º 270/2003, de 28 de outubro, que constituiu o principal quadro disciplinador destas matérias no setor do transporte ferroviário.
+
+Pese embora as medidas introduzidas pelos «pacotes ferroviários», a União Europeia considerou necessário introduzir novas regras que permitam uma maior integração dos caminhos-de-ferro no setor dos transportes, sobretudo na relação com os outros modos de transporte, pelo que procurou melhorar a eficácia da rede ferroviária, assegurar a coordenação entre os seus gestores de infraestrutura e os de países terceiros, nomeadamente com aqueles que tenham a mesma bitola da rede ferroviária principal europeia, e garantir às empresas ferroviárias um estatuto independente que lhes permita adaptar-se às regras e necessidades de um mercado competitivo e, simultaneamente, incrementar uma mobilidade sustentável e inclusiva.
+
+Neste contexto, são objetivos da Diretiva n.º 2012/34/UE, do Parlamento Europeu e do Conselho, de 21 de novembro de 2012, a promoção do desenvolvimento dos caminhos-de-ferro da União Europeia, o estabelecimento dos princípios gerais para a emissão de licenças às empresas ferroviárias, a coordenação dos mecanismos que regulam a repartição da capacidade da infraestrutura ferroviária nos diferentes Estados-Membros e a tarifação da utilização da referida infraestrutura.
+
+Não sendo possível alcançar estes objetivos através dos Estados-Membros, devido à dimensão manifestamente internacional da emissão das licenças e do funcionamento de elementos importantes das redes ferroviárias, à necessidade de criar condições justas e não discriminatórias de acesso à infraestrutura e às implicações transnacionais, a União Europeia procurou adotar medidas que possam atingi-los, sem desrespeito pelos princípios da subsidiariedade e da proporcionalidade.
+
+Para tanto, procurou estimular a concorrência no domínio da exploração dos serviços de transporte ferroviário, assegurando a separação entre a prestação de serviços de transporte e a exploração das instalações de serviço, designadamente as que são geridas autonomamente por empresas ou entidades que possuam estruturas organizativas, contabilista e financeiramente distintas e, também, permitir que as empresas ferroviárias ofereçam melhores serviços aos utentes dos serviços de passageiros e mercadorias.
+
+Neste contexto, fixam-se regras que permitam que as empresas ferroviárias disponham de uma estrutura financeira sã, que tenha em conta as regras relativas aos auxílios estatais e a criação de procedimentos e critérios de avaliação dos riscos para o equilíbrio económico dos contratos de serviço público, celebrados ao abrigo do Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, nomeadamente os impactos no custo líquido para as autoridades públicas que tenham adjudicado o contrato de serviço público.
+
+Neste âmbito, a entidade reguladora pode autorizar, alterar ou recusar o direito de acesso ao serviço internacional de transporte de passageiros que possa ser solicitado numa linha que cumpra uma obrigação de serviço público.
+
+Além disso, para assegurarem serviços fiáveis e adequados, as empresas ferroviárias devem preencher permanentemente determinados requisitos que permitam a emissão de uma licença pelo Instituto da Mobilidade e dos Transportes, I. P. De entre estes, destaca-se, para a proteção tanto de clientes como de terceiros envolvidos, a cobertura de um seguro de responsabilidade civil. As empresas ferroviárias devem também respeitar o direito nacional e o direito da União Europeia na prestação dos serviços ferroviários, assegurando que a sua atividade se desenvolve, em percursos específicos, com toda a segurança e respeitando plenamente a vida, a saúde, as condições sociais e os direitos dos trabalhadores e dos utilizadores.
+
+Quanto às regras de repartição dos custos de infraestrutura, em especial sobre modalidades de pagamentos das taxas de utilização, e ao direito de acesso à infraestrutura, o gestor de infraestrutura deve garantir uma aplicação equitativa e não discriminatória entre as empresas ferroviárias, de modo a satisfazer as necessidades de todos os utilizadores e todos os tipos de tráfego, e a melhoria da fiabilidade do serviço.
+
+A este propósito, os regimes de repartição da capacidade e os regimes de tarifação fixados devem procurar proporcionar às empresas ferroviárias indicações económicas claras e coerentes para a tomada de decisões racionais. As taxas de utilização da infraestrutura devem ser diferenciadas em função do ruído de rolamento provocado por cepos de freio com tecnologia de ferro fundido, utilizados nos vagões de mercadorias.
+
+Para atingir-se uma maior competitividade dos serviços ferroviários internacionais e assegurar uma utilização eficiente da rede europeia, promove-se a cooperação de cada gestor de infraestrutura com outros gestores da União Europeia e de países terceiros.
+
+Para uma gestão e utilização justa e não discriminatória da infraestrutura ferroviária foi criada uma entidade reguladora, a Autoridade da Mobilidade e dos Transportes, que supervisiona a aplicação das regras previstas no presente decreto-lei, sem prejuízo do controlo jurisdicional, nos termos legais. Esta entidade deve funcionar de modo a evitar conflitos de interesses e eventual falta de transparência na adjudicação de contratos de serviço público para a prestação de serviços de transporte de passageiros.
+
+A entidade reguladora é autónoma, juridicamente distinta e independente, no plano organizativo, funcional, hierárquico e decisório, e, nas suas decisões, deve respeitar os princípios da equidade, da transparência, da não discriminação e da proporcionalidade, bem como cooperar e trocar informações com outras entidades reguladoras nacionais e da União Europeia.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
