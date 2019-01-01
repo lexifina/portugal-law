@@ -12,4 +12,4 @@ a) A declaração modelo 2 do Imposto do Selo e respetivas instruções de preen
 
 b) (Revogada);
 
-c) A declaração modelo 44 e respetivas instruções de preenchimento, a que se refere a alínea b) do n.º 5 do artigo 115.º do Código do IRS, que constam do anexo III.
+c) (Revogada).
