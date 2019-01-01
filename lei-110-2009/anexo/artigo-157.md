@@ -4,7 +4,7 @@
 
 1 - Os trabalhadores independentes estão isentos da obrigação de contribuir:
 
-a) Relativamente ao rendimento relevante mensal médio apurado trimestralmente de montante inferior a 4 vezes o valor do IAS, quando acumulem atividade independente com atividade profissional por conta de outrem, desde que se verifiquem cumulativamente as seguintes condições:
+a) Relativamente ao rendimento relevante mensal médio apurado trimestral ou anualmente, consoante os casos, de montante inferior a quatro vezes o valor do IAS, quando acumulem atividade independente com atividade profissional por conta de outrem, desde que se verifiquem cumulativamente as seguintes condições:
 
 i) O exercício da atividade independente e a outra atividade sejam prestados a entidades empregadoras distintas e que não tenham entre si uma relação de domínio ou de grupo;
 
