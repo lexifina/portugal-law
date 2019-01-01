@@ -2,7 +2,7 @@
 
 ### Escalões contributivos
 
-1 - Os escalões referidos no artigo anterior são os que constam da tabela seguinte:
+1 - Os escalões contributivos produzem efeitos de 1 de janeiro a 31 de dezembro de cada ano e são os que constam da tabela seguinte:
 
 (ver documento original)
 
@@ -14,7 +14,7 @@ b) O 2.º escalão até ao fim do primeiro ano civil após a inscrição como ad
 
 c) O 3.º escalão até ao fim do segundo ano civil após a inscrição como advogado ou associado da Câmara dos Solicitadores;
 
-d) O 4.º escalão até ao fim do terceiro ano civil após a inscrição como advogado ou associado da Câmara dos Solicitadores e para os beneficiários extraordinários;
+d) O 4.º escalão até ao fim do terceiro ano civil após a inscrição como advogado ou associado da Ordem dos Solicitadores e Agentes de Execução, para os beneficiários extraordinários e, quando aplicável, para os beneficiários titulares de pensão de reforma;
 
 e) O 5.º escalão, nos restantes casos, salvo se já tiver vigorado escalão superior no ano anterior, caso em que continua a ser este.
 
@@ -22,7 +22,7 @@ e) O 5.º escalão, nos restantes casos, salvo se já tiver vigorado escalão su
 
 4 - Os beneficiários devem, no prazo de 30 dias a contar da notificação da Caixa subsequente à respetiva inscrição, declarar o escalão de remuneração convencional escolhido para base de incidência das contribuições, com observância dos escalões mínimos estabelecidos no n.º 2.
 
-5 - Os beneficiários extraordinários devem, no prazo de 30 dias a contar da notificação da Caixa com essa finalidade, declarar o escalão de remunerações convencionais escolhido, do 4.º ao 18.º escalões.
+5 - Os beneficiários extraordinários e os beneficiários titulares de pensão de reforma que nos termos do disposto no artigo 79.º procedam ao pagamento de contribuições devem, no prazo de 30 dias a contar da respetiva situação, declarar à Caixa o escalão de remuneração convencional escolhido, com observância dos escalões mínimos estabelecidos no n.º 2.
 
 6 - Quando os beneficiários não indiquem, nos termos e prazo referidos no número anterior, o escalão da remuneração convencional é fixado de acordo com as regras do n.º 2.
 
