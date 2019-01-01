@@ -20,27 +20,9 @@ a) Os serviços e atividades de investimento em instrumentos financeiros;
 
 b) Os serviços auxiliares dos serviços e atividades de investimento;
 
-c) A gestão das seguintes instituições de investimento coletivo:
+c) [Revogada];
 
-i) Organismos de investimento coletivo em valores mobiliários;
-
-ii) Organismos de investimento alternativo em valores mobiliários;
-
-iii) Organismos de investimento em ativos não financeiros;
-
-iv) Organismos de investimento imobiliário;
-
-v) Organismos de investimento em capital de risco;
-
-vi) Fundos de empreendedorismo social;
-
-vii) Organismos de investimento alternativo especializado; e
-
-viii) Fundos de titularização de créditos; e
-
-ix) Outros organismos de investimento alternativo regulados por legislação especial;
-
-d) O exercício das funções de depositário das instituições de investimento coletivo referidas na alínea anterior.
+d) O exercício das funções de depositário de instituições de investimento coletivo.
 
 2 - Só os intermediários financeiros podem exercer, a título profissional, atividades de intermediação financeira.
 
@@ -80,11 +62,13 @@ i) Às pessoas que exercem, a título principal, algum dos serviços enumerados 
 
 j) Às centrais de valores mobiliários, exceto nos termos previstos no artigo 73.º do Regulamento (UE) n.º 909/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.
 
+k) Às entidades habilitadas por lei especial a exercer atividades de intermediação financeira.
+
 4 - (Revogado.)
 
 5 - (Revogado.)
 
-6 - A organização e o exercício da atividade referida na alínea c) do n.º 1 rege-se por legislação nacional específica e correspondente regulamentação da União Europeia, designadamente a regulamentação e atos delegados da Diretiva 2009/65/CE do Parlamento Europeu e do Conselho, de 13 de julho de 2009, e a regulamentação e atos delegados da Diretiva 2011/61/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011.
+6 - [Revogado].
 
 7 - As entidades referidas na alínea g) do n.º 3 informam a CMVM, a pedido desta, sobre:
 

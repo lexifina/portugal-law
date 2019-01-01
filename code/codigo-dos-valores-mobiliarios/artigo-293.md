@@ -6,11 +6,11 @@
 
 a) As instituições de crédito e as empresas de investimento que estejam autorizadas a exercer actividades de intermediação financeira em Portugal;
 
-b) As entidades gestoras de instituições de investimento colectivo autorizadas a exercer essa actividade em Portugal;
+b) [Revogada];
 
-c) As instituições com funções correspondentes às referidas nas alíneas anteriores que estejam autorizadas a exercer em Portugal qualquer actividade de intermediação financeira.
+c) As instituições com funções correspondentes às referidas na alínea a) que estejam autorizadas a exercer em Portugal qualquer atividade de intermediação financeira;
 
-d) As sociedades de investimento mobiliário autogeridas e as sociedades de investimento imobiliário autogeridas.
+d) [Revogada].
 
 2 - São empresas de investimento em instrumentos financeiros:
 
