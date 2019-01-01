@@ -12,9 +12,9 @@ c) Despesas com a participação de dirigentes e quadros na gestão de institui�
 
 d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de investigação e desenvolvimento contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;
 
-e) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho dos membros do Governo responsáveis pelas áreas da economia, da inovação, da ciência, da tecnologia e do ensino superior;
+e) Despesas relativas à contratação de atividades de investigação e desenvolvimento junto de entidades públicas ou beneficiárias do estatuto de utilidade pública ou de entidades cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida nos termos do artigo 37.º-A;
 
-f) Participação no capital de instituições de investigação e desenvolvimento e contributos para fundos de investimentos, públicos ou privados, destinados a financiar empresas dedicadas sobretudo a investigação e desenvolvimento, incluindo o financiamento da valorização dos seus resultados, cuja idoneidade em matéria de investigação e desenvolvimento seja reconhecida por despacho membros do Governo responsáveis pelas áreas da economia, do emprego, da educação e da ciência;
+f) Participação no capital de instituições de investigação e desenvolvimento, no capital de fundos de investimento, públicos ou privados, que tenham como objeto o financiamento de empresas dedicadas sobretudo a investigação e desenvolvimento e que desenvolvam projetos reconhecidos nos termos do artigo 37.º-A;
 
 g) Custos com registo e manutenção de patentes;
 
@@ -34,6 +34,6 @@ j) Despesas com ações de demonstração que decorram de projetos de investiga�
 
 6 - As despesas que digam respeito a atividades de investigação e desenvolvimento associadas a projetos de conceção ecológica de produtos são consideradas em 110 %.
 
-7 - Para efeitos da majoração prevista no número anterior, as entidades interessadas devem submeter o pedido, instruído com declaração ambiental de produto, patente ou rótulo ecológico, se existirem, à auditoria tecnológica determinada pela Agência Nacional de Inovação, S. A., referida no n.º 1 do artigo 40.º, podendo esta consultar a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e o Laboratório Nacional de Energia e Geologia, I. P.
+7 - (Revogado.)
 
 8 - (Revogado.)

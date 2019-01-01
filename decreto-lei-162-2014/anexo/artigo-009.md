@@ -6,13 +6,13 @@
 
 2 - A percentagem estabelecida no número anterior pode ser majorada da seguinte forma:
 
-a) Até 10 %, em função do índice per capita de poder de compra da região em que se localize o projeto, de acordo com os seguintes escalões:
+a) Até 12 %, em função do índice per capita de poder de compra da região em que se localize o projeto, de acordo com os seguintes escalões:
 
-i) Em 6 %, caso o projeto se localize numa região NUTS 2 que, à data de apresentação da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo Instituto Nacional de Estatística, I. P. (INE, I. P.); ou
+i) Em 8 %, caso o projeto se localize numa região NUTS 2 que, à data de apresentação da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo Instituto Nacional de Estatística, I. P. (INE, I. P.); ou
 
-ii) Em 8 %, caso o projeto se localize numa região NUTS 3 que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P; ou
+ii) Em 10 %, caso o projeto se localize numa região NUTS 3 que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 90 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.; ou
 
-iii) Em 10 %, caso o projeto se localize num concelho que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 80 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.;
+iii) Em 12 %, caso o projeto se localize num concelho que, à data da candidatura, não apresente um índice per capita de poder de compra superior a 80 % da média nacional nos dois últimos apuramentos anuais publicados pelo INE, I. P.;
 
 b) Até 8 %, caso o projeto proporcione a criação de postos de trabalho ou a sua manutenção até ao final da vigência do contrato referido no artigo 20.º de acordo com os oito escalões seguintes:
 

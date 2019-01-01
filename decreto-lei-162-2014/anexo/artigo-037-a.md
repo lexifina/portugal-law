@@ -20,4 +20,4 @@
 
 9 - O reconhecimento do caráter de investigação e desenvolvimento dos projetos é válido até ao encerramento do projeto.
 
-10 - A Agência Nacional de Inovação, S. A., em face da informação reportada no mapa de indicadores a que se refere o n.º 10 do artigo 40.º, reavaliará anualmente o caráter de investigação e desenvolvimento do projeto, podendo, caso se não mantenham os pressupostos que o determinaram, fazer cessar o referido reconhecimento.
+10 - A Agência Nacional de Inovação, S. A., em face da informação reportada no mapa de indicadores a que se refere o n.º 11 do artigo 40.º, reavaliará anualmente o caráter de investigação e desenvolvimento do projeto, podendo, caso se não mantenham os pressupostos que o determinaram, fazer cessar o referido reconhecimento.
