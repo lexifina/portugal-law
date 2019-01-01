@@ -14,7 +14,7 @@
 
 a) Relativos à execução dos serviços durante o prazo de livre resolução, se:
 
-i) O prestador do serviço não tiver cumprido o dever de informação pré-contratual previsto nas alíneas j) ou m) do n.º 1 do artigo 4.º, ou
+i) O prestador do serviço não tiver cumprido o dever de informação pré-contratual previsto nas alíneas l) ou n) do n.º 1 do artigo 4.º; ou
 
 ii) O consumidor não tiver solicitado expressamente o início do serviço durante o prazo de livre resolução; ou
 
@@ -26,4 +26,4 @@ ii) O consumidor não tiver reconhecido que perde o seu direito de livre resolu�
 
 iii) O fornecedor de bens não tiver fornecido a confirmação do consentimento prévio e expresso do consumidor.
 
-6 - O presente artigo aplica-se aos contratos de fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, ou de aquecimento urbano.
+6 - Quando se trate de contrato celebrado à distância de prestação de serviços ou o fornecimento de água, gás ou eletricidade, caso não sejam postos à venda em volume ou quantidade limitados, ou de aquecimento urbano, sempre que o consumidor pretenda que a prestação ou o fornecimento desses serviços se inicie durante o prazo de retratação previsto no artigo 10.º, o profissional deve exigir que o consumidor apresente um pedido expresso.

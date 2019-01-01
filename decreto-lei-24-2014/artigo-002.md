@@ -20,7 +20,7 @@ f) Contratos relativos a serviços de cuidados de saúde, prestados ou não no �
 
 g) Contratos de jogo de fortuna ou azar, incluindo lotarias, bingos e atividades de jogo em casinos e apostas;
 
-h) Contratos relativos a serviços prestados no âmbito do Decreto-Lei n.º 61/2011, de 6 de maio, alterado pelo Decreto-Lei n.º 199/2012, de 24 de agosto, que estabelece o regime de acesso e de exercício da atividade das agências de viagens e turismo;
+h) Contratos relativos a viagens organizadas na aceção da alínea p) do n.º 1 do artigo 2.º do Decreto-Lei n.º 17/2018, de 8 de março, que estabelece o regime de acesso e de exercício da atividade das agências de viagens e turismo, sem prejuízo do n.º 3 do mesmo artigo;
 
 i) Contratos celebrados no âmbito do Decreto-Lei n.º 275/93, de 5 de agosto, alterado pelos Decretos-Leis n.os 180/99, de 22 de maio, 22/2002, de 31 de janeiro, 76-A/2006, de 29 de março, 116/2008, de 4 de julho, e 37/2011, de 10 de março;
 
@@ -31,3 +31,5 @@ l) Contratos em que intervenha um titular de cargo público obrigado por lei à 
 m) Contratos de serviços de transporte de passageiros com exceção do disposto nos n.os 2, 3 e 4 do artigo 5.º;
 
 n) Contratos celebrados fora do estabelecimento comercial para aquisição de assinaturas de publicações periódicas, definidas nos termos da Lei n.º 2/99, de 13 de janeiro, alterada pelas Leis n.os 18/2003, de 11 de junho, e 19/2012, de 8 de maio, quando o pagamento a efetuar pelo consumidor não exceda (euro) 40.
+
+3 - Sem prejuízo do disposto na alínea h) do número anterior, os n.os 2, 3, 4, 7 e 8 do artigo 5.º do presente decreto-lei, o n.º 3 do artigo 7.º e os artigos 9.º-A e 9.º-D da Lei n.º 24/96, de 31 de julho, na sua redação atual, são aplicáveis, com as devidas adaptações às viagens organizadas, no que respeita aos viajantes, tal como definidos nas alíneas p) e q) do n.º 1 do artigo 2.º do Decreto-Lei n.º 17/2018, de 8 de março sem prejuízo do n.º 3 do mesmo artigo.
