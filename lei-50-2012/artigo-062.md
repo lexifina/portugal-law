@@ -44,6 +44,10 @@ c) Previsão das disponibilidades orçamentais necessárias, nos termos da Lei n
 
 14 - O disposto na alínea a) do n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de ensino e formação profissional.
 
-15 - O disposto nas alíneas a) e b) do n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de gestão de equipamentos e prestação de serviços na área da cultura, da educação e da ação social.
+15 - O disposto no n.º 1 não é aplicável às empresas locais que exercem, a título principal, as atividades de gestão de equipamentos e prestação de serviços na área da cultura, da educação, da ação social, do desporto e da ciência, inovação e tecnologia.
 
 16 - Relativamente às entidades a que se refere o n.º 3 do artigo 58.º, a contagem do decurso dos três anos a que se referem as alíneas a) a d) do n.º 1 só se inicia com a entrada em vigor da Lei n.º 69/2015, de 16 de julho, para todos os efeitos constantes da presente lei.
+
+17 - Numa circunstância de dissolução obrigatória determinada pela presente lei, a transmissão de bens do ativo imobilizado da empresa local para o município, durante o decurso do respetivo período de regularização, não determina a obrigação de efetuar, por parte de qualquer destes intervenientes, regularizações no âmbito do imposto sobre o valor acrescentado, salvo se for comprovado que o direito à dedução foi exercido de forma fraudulenta ou abusiva.
+
+18 - Os trabalhadores que foram ou venham a ser integrados no mapa de pessoal do município na base da carreira, na sequência de procedimento concursal, têm direito à contagem do tempo de serviço prestado por tempo indeterminado ao serviço da empresa local, para efeitos de antiguidade e de alteração do posicionamento remuneratório, aplicando-se, com as devidas adaptações, a conversão estabelecida no artigo 113.º da Lei n.º 12-A/2008, de 27 de fevereiro.
