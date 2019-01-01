@@ -4,11 +4,11 @@
 
 1 - O imposto deve ser pago:
 
-a) Em uma prestação, no mês de abril, quando o seu montante seja igual ou inferior a (euro) 250;
+a) Em uma prestação, no mês de maio, quando o seu montante seja igual ou inferior a 100 (euro);
 
-b) Em duas prestações, nos meses de abril e novembro, quando o seu montante seja superior a (euro) 250 e igual ou inferior a (euro) 500;
+b) Em duas prestações, nos meses de maio e novembro, quando o seu montante seja superior a 100 (euro) e igual ou inferior a 500 (euro);
 
-c) Em três prestações, nos meses de abril, julho e novembro, quando o seu montante seja superior a (euro) 500.
+c) Em três prestações, nos meses de maio, agosto e novembro, quando o seu montante seja superior a 500 (euro).
 
 2 - Sempre que a liquidação deva ter lugar fora do prazo referido no n.º 2 do artigo 113.º o sujeito passivo é notificado para proceder ao pagamento, o qual deve ter lugar até ao fim do mês seguinte ao da notificação.
 
