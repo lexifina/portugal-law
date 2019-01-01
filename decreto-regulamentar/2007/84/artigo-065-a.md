@@ -27,3 +27,5 @@
 12 - Os investimentos devem estar realizados no momento da apresentação do pedido de autorização de residência.
 
 13 - Sempre que os investimentos sejam realizados através de sociedade unipessoal por quotas, deve o requerente da concessão ou renovação de autorização de residência apresentar certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas.
+
+14 - Sem prejuízo das verificações a realizar oficiosamente, para efeitos de verificação dos requisitos previstos na alínea b) do n.º 1 do artigo 77.º da Lei n.º 23/2007, de 4 de julho, o requerente de autorização de residência para investimento deverá apresentar informação relativa a números de identificação fiscal pessoais, ou equivalentes, do seu país de origem, de residência ou de residência fiscal.
