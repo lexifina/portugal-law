@@ -12,4 +12,6 @@ b) Âmbito e extensão da inspecção a realizar.
 
 3 - A carta-aviso conterá um anexo contendo os direitos, deveres e garantias dos sujeitos passivos e demais obrigados tributários no procedimento de inspecção.
 
-4 - À notificação prevista nos números anteriores é aplicável o n.º 10 do artigo 39.º do Código de Procedimento e de Processo Tributário.
+4 - A notificação prevista no n.º 1 fixa a competência territorial determinada nos termos da alínea c) do n.º 1 do artigo 16.º
+
+5 - À notificação prevista nos números anteriores é aplicável o n.º 10 do artigo 39.º do Código de Procedimento e de Processo Tributário.
