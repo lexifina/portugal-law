@@ -16,11 +16,11 @@ c) Quando houver necessidade de proceder à venda de bens;
 
 d) Quando o órgão de execução fiscal a considerar mais eficaz para a cobrança da dívida.
 
-4 - As citações referidas no presente artigo podem ser efetuadas para o domicílio fiscal eletrónico, valendo como citação pessoal.
+4 - As citações referidas no presente artigo podem ser efetuadas para o domicílio fiscal eletrónico ou na respetiva área reservada do Portal das Finanças, valendo como citação pessoal.
 
 5 - [Revogado.]
 
-6 - As citações efetuadas para o domicílio fiscal eletrónico consideram-se efetuadas no quinto dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital ou na caixa postal eletrónica da pessoa a citar.
+6 - As citações efetuadas para o domicílio fiscal eletrónico ou na área reservada do Portal das Finanças consideram-se efetuadas no 5.º dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital, na caixa postal eletrónica ou na respetiva área reservada do Portal das Finanças.
 
 7 - A presunção do número anterior só pode ser ilidida pelo citado quando, por facto que não lhe seja imputável, a citação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
 

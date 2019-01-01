@@ -14,6 +14,8 @@
 
 6 - Expedida carta precatória para citação e verificada a ausência em parte incerta, compete à entidade deprecante ordenar a citação edital, se for caso disso.
 
-7 - As citações editais serão feitas por éditos afixados no órgão da execução fiscal da área da última residência do citando.
+7 - A citação edital é feita por afixação de edital, seguida da publicação de anúncio no Portal das Finanças em acesso público.
 
-8 - Sendo as citações feitas nos termos e local do número anterior, constam dos éditos, conforme o caso, a natureza dos bens penhorados, o prazo do pagamento e de oposição e a data e o local designados para a venda, sendo os mesmos afixados à porta da última residência ou sede do citando e podem ser publicados em dois números seguidos de um dos jornais mais lidos nesse local ou no Portal das Finanças.
+8 - O edital é afixado na porta da casa da última residência ou sede que o citando teve no País.
+
+9 - Sendo as citações feitas nos termos e locais dos números anteriores, constam dos éditos, conforme o caso, a natureza dos bens penhorados, o prazo do pagamento e de oposição e a data e o local designado para a venda.
