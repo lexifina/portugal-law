@@ -1,6 +1,6 @@
 # Artigo 19.º
 
-### Informação a transmitir pela Autoridade Tributária e Aduaneira
+### Informação a transmitir pela Autoridade Tributária e Aduaneira aos municípios
 
 1 - No âmbito da obrigação referida nos n.os 6 e 7 do artigo 17.º, a AT comunica, até ao último dia útil do mês seguinte ao da transferência:
 
@@ -22,7 +22,7 @@ c) O número de sujeitos passivos com matéria coletável superior a (euro) 50 0
 
 3 - Sem prejuízo do disposto nos números anteriores, a AT comunica ainda a cada município:
 
-a) Até 31 de maio de cada ano e com referência a 31 de dezembro do ano anterior, o valor patrimonial tributário para efeitos do IMI de cada prédio situado no seu território, indicando quais os prédios isentos, bem como a identificação dos respetivos sujeitos passivos;
+a) Até 31 de maio de cada ano e com referência a 31 de dezembro do ano anterior, o valor patrimonial tributário para efeitos do IMI de cada prédio situado no seu território, indicando quais os prédios isentos, bem como a identificação dos respetivos sujeitos passivos e demais dados constantes das cadernetas prediais;
 
 b) Até 31 de maio de cada ano e com referência às declarações de IMT entregues no ano civil anterior, a identificação dos sujeitos passivos e o valor de imposto liquidado, relativamente a factos tributários localizados nesses municípios, por sujeito passivo;
 
@@ -34,4 +34,4 @@ c) Até 30 de setembro e com referência aos períodos de tributação terminado
 
 6 - Os trabalhadores e titulares de órgãos municipais que tenham acesso a informação transmitida pela AT ficam sujeitos aos deveres de sigilo e confidencialidade nos termos previstos no artigo 64.º da Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 17 de dezembro.
 
-7 - Toda a informação referida no presente artigo é disponibilizada por transmissão eletrónica de dados ou através do acesso ao portal das finanças.
+7 - Toda a informação referida no presente artigo é disponibilizada por transmissão eletrónica de dados ou através do acesso ao portal das finanças, sendo a informação a que se refere a alínea a) do n.º 3 disponibilizada em suporte digital que possibilite a consulta, edição e extração de todos esses dados.

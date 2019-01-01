@@ -4,7 +4,7 @@
 
 Os municípios dispõem de poderes tributários relativamente a impostos e outros tributos a cuja receita tenham direito, nomeadamente:
 
-a) Acesso à informação atualizada dos impostos municipais e da derrama, liquidados e cobrados, quando a liquidação e cobrança seja assegurada pelos serviços do Estado, nos termos do n.º 6 do artigo 17.º;
+a) Acesso à informação atualizada dos impostos municipais e da derrama, liquidados e cobrados, quando a liquidação e cobrança seja assegurada pelos serviços do Estado, nos termos do n.º 6 do artigo 17.º e do artigo 19.º;
 
 b) Possibilidade de liquidação e cobrança dos impostos e outros tributos a cuja receita tenham direito, nos termos a definir por diploma próprio;
 

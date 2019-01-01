@@ -4,7 +4,7 @@
 
 # Artigo 68.º
 
-### Receitas
+### Receitas e despesas
 
 1 - A entidade intermunicipal dispõe de património e finanças próprios.
 
@@ -35,3 +35,5 @@ j) As transferências do Orçamento do Estado, nos termos do artigo seguinte;
 k) Quaisquer outras receitas permitidas por lei.
 
 4 - Constituem despesas da entidade intermunicipal os encargos decorrentes da prossecução das suas atribuições.
+
+5 - O disposto nos artigos 45.º, 46.º e 46.º-A aplica-se, com as necessárias adaptações, às entidades intermunicipais.

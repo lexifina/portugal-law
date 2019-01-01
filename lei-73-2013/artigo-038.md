@@ -4,24 +4,38 @@
 
 1 - A distribuição pelas freguesias dos montantes apurados nos termos do artigo anterior é determinada de acordo com os seguintes critérios:
 
-a) Tipologia de área urbana;
+a) 20 % com base na densidade populacional apurada nos termos do n.º 3;
 
-b) Densidade populacional;
+b) 50 % na razão direta do número de habitantes;
 
-c) Número de habitantes;
+c) 30 % na razão direta da área.
 
-d) Área.
+2 - (Revogado.)
 
-2 - Os tipos de freguesias são definidos de acordo com a tipologia de áreas urbanas, aprovada pelo Conselho Superior de Estatística, nos termos das alíneas c) e h) do artigo 13.º da Lei n.º 22/2008, de 13 de maio.
+3 - O critério de distribuição referido na alínea a) do n.º 1 é apurado para cada freguesia i de acordo com a seguinte fórmula:
 
-3 - A ponderação atribuída a cada um dos critérios referidos nos números anteriores é definida em diploma próprio.
+(ver documento original)
 
-4 - Os elementos e os indicadores para aplicação dos critérios referidos nos números anteriores são comunicados, de forma discriminada, à Assembleia da República, juntamente com a proposta de Lei do Orçamento do Estado.
+4 - (Revogado.)
 
-5 - Da distribuição resultante da aplicação dos critérios constantes dos n.os 1 e 3 não pode resultar uma diminuição superior a 5 % das transferências do ano anterior para as freguesias dos municípios com capitação de impostos locais superior a 1,25 vezes a média nacional, nem uma diminuição superior a 2,5 % das transferências para as freguesias dos municípios com capitação inferior a 1,25 vezes aquela média.
+5 - Da aplicação dos critérios constantes do n.º 1 não pode resultar:
 
-6 - A participação de cada freguesia no FFF não pode sofrer um acréscimo superior a 5 % da participação relativa às transferências financeiras do ano anterior.
+a) Uma diminuição superior a 5 % das transferências do ano anterior calculadas nos termos do n.º 1 para as freguesias integradas em municípios com capitação de impostos locais superior a 1,25 vezes a média nacional em três anos consecutivos, nem uma diminuição superior a 2,5 % das transferências para as freguesias integradas em municípios com capitação inferior a 1,25 vezes aquela média durante aquele período;
 
-7 - A compensação necessária para assegurar o montante mínimo previsto no n.º 5 efetua-se mediante dedução proporcional à diferença entre as transferências previstas e os montantes mínimos garantidos para as freguesias que tenham transferências superiores aos montantes mínimos a que teriam direito.
+b) Um acréscimo superior a 5 % das transferências do ano anterior calculadas nos termos do n.º 1.
 
-8 - A distribuição resultante dos números anteriores deve ser suficiente para o pagamento das despesas relativas à compensação por encargos dos membros do órgão executivo da freguesia, bem como das senhas de presença dos membros do órgão deliberativo para a realização do número de reuniões obrigatórias, nos termos da lei.
+6 - A compensação necessária para assegurar o montante mínimo previsto no número anterior efetua-se por ordem sequencial e até esgotar o valor:
+
+a) Pelos excedentes resultantes da aplicação do número anterior;
+
+b) Por dedução proporcional à diferença entre as transferências previstas e os montantes mínimos garantidos para as freguesias que tenham transferências superiores aos montantes mínimos a que teriam direito.
+
+7 - A distribuição resultante dos números anteriores deve ser suficiente para o pagamento das despesas relativas à compensação por encargos dos membros do órgão executivo da freguesia, bem como das senhas de presença dos membros do órgão deliberativo para a realização do número de reuniões obrigatórias, nos termos da lei.
+
+8 - O excedente resultante do disposto nos números anteriores é distribuído de acordo com os seguintes critérios:
+
+a) 70 % igualmente por todas as freguesias de baixa densidade, nos termos definidos pela Portaria n.º 208/2017, de 13 de julho, e as freguesias das regiões autónomas;
+
+b) 30 % igualmente pelas restantes freguesias.
+
+9 - O montante distribuído nos termos do número anterior, nos anos em que ocorre, não concorre para os crescimentos máximos e mínimos previstos nos números anteriores, não sendo permitido efetuar compromissos plurianuais por conta desta receita.

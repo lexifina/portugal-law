@@ -20,22 +20,24 @@ c) O produto da cobrança de derramas lançadas nos termos do artigo 18.º;
 
 d) A parcela do produto do imposto único de circulação que caiba aos municípios, nos termos do artigo 3.º da Lei n.º 22-A/2007, de 29 de junho;
 
-e) O produto da cobrança de taxas e preços resultantes da concessão de licenças e da prestação de serviços pelo município, de acordo com o disposto nos artigos 20.º e 21.º
+e) O produto da cobrança de contribuições, designadamente em matéria de proteção civil, nos termos da lei;
 
-f) O produto da participação nos recursos públicos determinada nos termos do disposto nos artigos 25.º e seguintes;
+f) O produto da cobrança de taxas e preços resultantes da concessão de licenças e da prestação de serviços pelo município, de acordo com o disposto nos artigos 20.º e 21.º
 
-g) O produto da cobrança de encargos de mais-valias destinados por lei ao município;
+g) O produto da participação nos recursos públicos determinada nos termos do disposto nos artigos 25.º e seguintes;
 
-h) O produto de multas e coimas fixadas por lei, regulamento ou postura que caibam ao município;
+h) O produto da cobrança de encargos de mais-valias destinados por lei ao município;
 
-i) O rendimento de bens próprios, móveis ou imóveis, por eles administrados, dados em concessão ou cedidos para exploração;
+i) O produto de multas e coimas fixadas por lei, regulamento ou postura que caibam ao município;
 
-j) A participação nos lucros de sociedades e nos resultados de outras entidades em que o município tome parte;
+j) O rendimento de bens próprios, móveis ou imóveis, por eles administrados, dados em concessão ou cedidos para exploração;
 
-k) O produto de heranças, legados, doações e outras liberalidades a favor do município;
+k) A participação nos lucros de sociedades e nos resultados de outras entidades em que o município tome parte;
 
-l) O produto da alienação de bens próprios, móveis ou imóveis;
+l) O produto de heranças, legados, doações e outras liberalidades a favor do município;
 
-m) O produto de empréstimos, incluindo os resultantes da emissão de obrigações municipais;
+m) O produto da alienação de bens próprios, móveis ou imóveis;
 
-n) Outras receitas estabelecidas por lei ou regulamento a favor dos municípios.
+n) O produto de empréstimos, incluindo os resultantes da emissão de obrigações municipais;
+
+o) Outras receitas estabelecidas por lei ou regulamento a favor dos municípios.

@@ -12,11 +12,11 @@ c) A percentagem da participação variável no IRS, nos termos do artigo 26.º;
 
 d) Os tarifários de água, saneamento e resíduos, quer o prestador do serviço seja o município, um serviço municipalizado, uma empresa local, intermunicipal, concessionária ou um parceiro privado no âmbito de uma parceria público-privada;
 
-e) Os regulamentos de taxas municipais;
+e) Os regulamentos de taxas municipais, bem como o regulamento referido no n.º 2 do artigo 16.º, e benefícios fiscais reconhecidos nesse âmbito;
 
 f) O montante total das dívidas desagregado por rubricas e individualizando os empréstimos bancários.
 
-g) As deliberações previstas no n.º 2 do artigo 16.º, a respetiva fundamentação e os dados da respetiva despesa fiscal, desagregados por tipo de isenção concedida.
+g) As isenções fiscais reconhecidas pela câmara municipal nos termos previstos no artigo 16.º, a respetiva fundamentação e os dados da respetiva despesa fiscal, desagregados por tipo de isenção concedida.
 
 2 - As autarquias locais, as entidades intermunicipais, as entidades associativas municipais e as entidades do setor empresarial local disponibilizam no respetivo sítio eletrónico os documentos previsionais e de prestação de contas referidos na presente lei, nomeadamente:
 
