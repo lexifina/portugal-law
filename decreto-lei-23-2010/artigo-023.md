@@ -1,9 +1,9 @@
 # Artigo 23.º
 
-### Entidade responsável pela emissão das garantias e certificados de origem
+### Entidade responsável pela emissão das garantias e certificados de origem (EEGO)
 
-1 - As competências relativas à emissão e acompanhamento das garantias e certificados de origem são cometidas à EEGO, nos termos previstos no presente decreto-lei.
+1 - Ficam cometidas à concessionária da RNT as competências relativas à emissão e acompanhamento das garantias e certificados de origem, nos termos previstos no presente decreto-lei, sendo esta designada por EEGO.
 
-2 - Cabe à DGEG exercer as atribuições e competências de EEGO, sem prejuízo do disposto no número seguinte.
+2 - A EEGO deve, no desempenho das suas funções, utilizar critérios objetivos, transparentes e não discriminatórios.
 
-3 - As competências relativas à emissão e acompanhamento de garantias e certificados de origem podem ser exercidas por entidade terceira, selecionada mediante procedimento concursal, nos termos a estabelecer em portaria do membro do Governo responsável pela área da energia.
+3 - A EEGO está sujeita à fiscalização da Entidade Nacional para o Setor Energético, E. P. E., que divulga no seu sítio na Internet o relatório anual síntese das ações realizadas.
