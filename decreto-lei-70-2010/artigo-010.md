@@ -13,3 +13,5 @@ c) Prestações a cargo de companhias de seguros ou de fundos de pensões;
 d) Pensões de alimentos.
 
 2 - Para efeitos do disposto no número anterior, são equiparados a pensões de alimentos, os apoios no âmbito do Fundo de Garantia de Alimentos Devidos a Menores e outros de natureza análoga.
+
+3 - O disposto na alínea a) do n.º 1 não se aplica aos rendimentos auferidos pelos pensionistas das Regiões Autónomas, a título de complemento regional de pensão ou outros, desde que atribuídos pelas Regiões Autónomas.
