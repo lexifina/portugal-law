@@ -8,7 +8,7 @@
 
 3 - Sempre que o rendimento relevante seja apurado nos termos do n.º 3 do artigo anterior, a base de incidência mensal corresponde ao duodécimo do lucro tributável, com o limite mínimo de 1,5 vezes o valor do IAS, sendo fixada em outubro para produzir efeitos no ano civil seguinte.
 
-4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestralmente de montante igual ou superior a 4 vezes o valor do IAS, que acumulem atividade com atividade profissional por conta de outrem nos termos da alínea a) do artigo 157.º, corresponde ao valor que ultrapasse aquele limite.
+4 - A base de incidência contributiva dos trabalhadores independentes com rendimento relevante mensal médio apurado trimestral ou anualmente, consoante os casos, de montante igual ou superior a quatro vezes o valor do IAS, que acumulem atividade independente com atividade profissional por conta de outrem nos termos da alínea a) do n.º 1 do artigo 157.º, corresponde ao valor que ultrapasse aquele limite, não sendo aplicável o disposto no n.º 1 do artigo seguinte.
 
 5 - A base de incidência contributiva considerada em cada mês tem como limite máximo 12 vezes o valor do IAS.
 
