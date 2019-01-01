@@ -16,4 +16,6 @@
 
 da sua natureza.
 
-3 - Podem integrar o SNCP, na qualidade de entidades compradoras voluntárias, entidades da administração autónoma, do setor empresarial público, as instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente da sua natureza, mediante a celebração de contrato de adesão com a ANCP
+3 - Podem integrar o SNCP, na qualidade de entidades compradoras voluntárias, os serviços e entidades públicas não referidos no número anterior, incluindo a Presidência da República, a Assembleia da República, a Procuradoria-Geral da República, os tribunais, as entidades administrativas independentes com funções de regulação, as entidades do setor público empresarial e as instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente da sua natureza.
+
+4 - A adesão das entidades voluntárias ao SNCP faz-se mediante a celebração de contrato com a ESPAP, I. P.
