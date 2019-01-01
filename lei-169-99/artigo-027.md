@@ -20,4 +20,6 @@ d) Podem ainda exercer o mandato em regime de tempo inteiro mais dois vogais do 
 
 5 - A possibilidade de exercício de funções a tempo inteiro habilita igualmente o exercício de funções apenas a meio tempo, nomeadamente nos casos em que tal seja necessário para assegurar o cumprimento dos limites com encargos anuais previstos no n.º 3.
 
-6 - O número de eleitores relevante para efeitos dos números anteriores é o constante do recenseamento vigente na data das eleições gerais, imediatamente anteriores, para a assembleia de freguesia.
+6 - A possibilidade de exercício de funções a meio tempo nos termos do n.º 1, cujo pagamento de remunerações e encargos é assegurada pelo Orçamento do Estado, habilita igualmente o exercício de funções em regime de tempo inteiro desde que cumpridos os requisitos da alínea b) do n.º 3, caso em que a remuneração e encargos remanescentes são assegurados pelo orçamento próprio da freguesia.
+
+7 - O número de eleitores relevante para efeitos dos números anteriores é o constante do recenseamento vigente na data das eleições gerais, imediatamente anteriores, para a assembleia de freguesia.
