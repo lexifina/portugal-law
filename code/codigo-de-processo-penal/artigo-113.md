@@ -46,7 +46,7 @@ b) Por via telefónica em caso de urgência, se respeitarem os requisitos consta
 
 12 - Quando efetuadas por via eletrónica, as notificações presumem-se feitas no terceiro dia posterior ao do seu envio, quando seja útil, ou no primeiro dia útil seguinte a esse, quando o não seja.
 
-13 - A notificação edital é feita mediante a afixação de um edital na porta do tribunal, outro na porta da última residência do arguido e outro nos lugares para o efeito destinados pela respectiva junta de freguesia. Sempre que tal for conveniente, é ordenada a publicação de anúncios em dois números seguidos de um dos jornais de maior circulação na localidade da última residência do arguido ou de maior circulação nacional.
+13 - A notificação edital é feita mediante a afixação de um edital na porta da última residência do notificando e outro nos lugares para o efeito destinados pela respetiva junta de freguesia, seguida da publicação de anúncio na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
 
 14 - Nos casos expressamente previstos, havendo vários arguidos ou assistentes, quando o prazo para a prática de actos subsequentes à notificação termine em dias diferentes, o acto pode ser praticado por todos ou por cada um deles até ao termo do prazo que começou a correr em último lugar.
 
