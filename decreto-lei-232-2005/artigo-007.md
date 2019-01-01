@@ -35,3 +35,5 @@ l) Transferências monetárias ou bancárias de pessoas singulares ou colectivas
 5 - Os rendimentos previstos nos n.os 1 e 2 são objecto de actualização nos termos a regulamentar.
 
 6 - Para efeitos do disposto nos n.os 1 e 2, consideram-se os rendimentos anuais.
+
+7 - O disposto na alínea g) do n.º 1 não se aplica aos rendimentos auferidos pelos pensionistas das Regiões Autónomas, a título de complemento regional de pensão ou outros, desde que atribuídos pelas Regiões Autónomas.
