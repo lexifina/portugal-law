@@ -12,6 +12,8 @@ c) A ordenação final dos candidatos é unitária, ainda que lhes tenham sido a
 
 d) O recrutamento efetua-se pela ordem decrescente da ordenação final dos candidatos colocados em situação de requalificação e, esgotados estes, dos restantes candidatos.
 
-2 - A tramitação do procedimento concursal, incluindo a do procedimento destinado a constituir reservas de recrutamento em cada órgão ou serviço ou em entidade centralizada, é regulamentada por portaria do membro do Governo responsável pela área da Administração Pública.
+e) A tramitação do procedimento concursal e a aplicação dos métodos de seleção é realizada preferencialmente por meios eletrónicos.
+
+2 - A tramitação do procedimento concursal, incluindo a do procedimento destinado à constituição de reservas de recrutamento para satisfação de necessidades futuras do empregador público e a do procedimento de recrutamento centralizado para satisfação de necessidades de um conjunto de empregadores públicos, é regulamentada por portaria do membro do Governo responsável pela área da Administração Pública.
 
 3 - Quando a tramitação fixada nos termos do número anterior se revelar desadequada, pode a tramitação do procedimento concursal para carreira especial ser regulamentada por portaria do membro do Governo responsável pela área da Administração Pública e do membro do Governo que exerça poderes de direção, superintendência ou tutela sobre o órgão ou serviço em cujo mapa de pessoal se contenha a previsão da carreira.
