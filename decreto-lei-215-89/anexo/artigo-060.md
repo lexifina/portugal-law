@@ -42,9 +42,9 @@ b) 'Ramo de atividade' o conjunto de elementos que constituem, do ponto de vista
 
 5 - Nos casos em que a operação esteja sujeita a notificação nos termos da Lei n.º 19/2012, de 8 de maio, os benefícios previstos no n.º 1 só podem ser aplicados quando seja emitida decisão favorável pela Autoridade da Concorrência.
 
-6 - Quando a operação de reestruturação em causa corresponda a uma cisão, na aceção da alínea c) do n.º 3, salvo quando a parte cindida se destina a fundir com sociedades já existentes ou com partes de patrimónios de outras sociedades, os benefícios previstos no n.º 1 são concedidos por despacho do membro do Governo responsável pela área das finanças, precedido de informação da Autoridade Tributária e Aduaneira a requerimento das empresas interessadas, o qual deve ser enviado, preferencialmente por via eletrónica, até à data de apresentação a registo dos atos necessários às operações de reestruturação ou dos acordos de cooperação ou, não havendo lugar a registo, até à data da produção dos respetivos efeitos jurídicos.
+6 - O disposto no presente artigo não é aplicável quando se conclua que as operações abrangidas pelo mesmo tiveram como principal objetivo ou como um dos principais objetivos obter uma vantagem fiscal, o que pode considerar-se verificado, designadamente, quando as operações não tenham sido realizadas por razões económicas válidas e não reflitam substância económica, tais como o reforço da competitividade das empresas ou da respetiva estrutura produtiva, procedendo-se então, se for caso disso, às correspondentes liquidações adicionais de imposto, majoradas em 15 %.
 
-7 - O requerimento a que se refere o número anterior deve conter expressamente a descrição da operação de reestruturação a realizar e ser acompanhado do projeto de cisão, quando este seja exigido nos termos do Código das Sociedades Comerciais e do estudo demonstrativo das vantagens económicas da operação.
+7 - (Revogado.)
 
 8 - Para efeitos de justificação e comprovação dos pressupostos das isenções previstas no presente artigo, devem constar do processo de documentação fiscal, previsto no artigo 130.º do Código do IRC, os seguintes elementos:
 
@@ -65,3 +65,7 @@ d) Decisão da Autoridade da Concorrência, quando a operação esteja sujeita a
 12 - (Revogado.)
 
 13 - (Revogado.)
+
+14 - O regime previsto no n.º 1 é igualmente aplicável às operações de fusão e cisão de confederações e associações patronais e sindicais, bem como associações de cariz empresarial ou setorial, com as necessárias adaptações.
+
+15 - Para efeitos do número anterior, consideram-se 'associações de cariz empresarial ou setorial' as associações que tenham como objeto principal representar, promover, fomentar e apoiar as empresas de determinada zona geográfica ou atividade económica.

@@ -22,6 +22,8 @@ b) A entidades não residentes e sem estabelecimento estável em território por
 
 c) Às mais-valias realizadas por entidades não residentes com a transmissão onerosa de partes sociais em sociedades residentes em território português cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados ou que, sendo sociedades gestoras ou detentoras de participações sociais, se encontrem em relação de domínio, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, a título de dominantes, com sociedades dominadas, igualmente residentes em território português, cujo activo seja constituído, em mais de 50 %, por bens imóveis aí situados.
 
+d) Às mais-valias resultantes da transmissão onerosa de partes de capital ou de direitos similares em sociedades ou outras entidades que não tenham sede nem direção efetiva em território português, quando, em qualquer momento durante os 365 dias anteriores, o valor dessas partes de capital ou direitos resulte, direta ou indiretamente, em mais de 50 % de bens imóveis ou direitos reais sobre bens imóveis situados em território português, com exceção dos bens imóveis afetos a uma atividade de natureza agrícola, industrial ou comercial que não consista na compra e venda de bens imóveis.
+
 3 - O disposto no n.º 1 não é ainda aplicável:
 
 a) A pessoas singulares não residentes e sem estabelecimento estável em território português que sejam domiciliadas em país, território ou região sujeitas a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças;

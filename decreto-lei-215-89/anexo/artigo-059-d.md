@@ -32,7 +32,9 @@ b) Pela soma do número de anos ou fração a que respeitem os gastos imputados 
 
 13 - O montante máximo da majoração prevista no número anterior não pode exceder o equivalente a 8/1000 do volume de negócios referente ao exercício em que são realizadas as contribuições.
 
-14 - O disposto nos n.os 12 e 13 é aplicável aos sujeitos de IRS e de IRC que preencham, cumulativamente, as seguintes condições:
+14 - Aos sujeitos passivos de IRS ou IRC abrangidos pelas regras decorrentes do regime simplificado é igualmente aplicável uma dedução ao rendimento tributável ou à matéria coletável, respetivamente, obtidos após a aplicação dos respetivos coeficientes e até à sua concorrência, de um montante equivalente à majoração prevista nos n.os 12 e 13.
+
+15 - O disposto nos n.os 12, 13 e 14 é aplicável aos sujeitos de IRS e de IRC que preencham, cumulativamente, as seguintes condições
 
 a) O seu lucro tributável não seja determinado por métodos indiretos;
 

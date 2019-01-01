@@ -14,9 +14,9 @@ c) (euro) 300 por sujeito passivo com idade superior a 50 anos.
 
 3 - As importâncias pagas pelos fundos de poupança-reforma, mesmo nos casos de reembolso por morte do participante, ficam sujeitas a tributação nos seguintes termos:
 
-a) De acordo com as regras aplicáveis aos rendimentos da categoria H de IRS, incluindo as relativas a retenções na fonte, quando a sua percepção ocorra sob a forma de prestações regulares e periódicas;
+a) De acordo com as regras aplicáveis aos rendimentos da categoria H de IRS, incluindo as relativas a retenções na fonte, quando a sua perceção ocorra sob a forma de prestações regulares e periódicas não referidas na alínea b);
 
-b) De acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, em caso de reembolso total ou parcial, devendo, todavia, observar-se o seguinte:
+b) De acordo com as regras aplicáveis aos rendimentos da categoria E de IRS, incluindo as relativas a retenções na fonte, em caso de reembolso total ou parcial, incluindo os que sejam efetuados com natureza prestacional, durante um período não superior a dez anos, devendo, todavia, observar-se o seguinte:
 
 1) A matéria colectável é constituída por dois quintos do rendimento;
 

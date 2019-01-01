@@ -1,6 +1,6 @@
 # Artigo 41.º-B
 
-### Benefícios fiscais relativos à instalação de empresas em territórios do interior
+### Benefícios fiscais aplicáveis aos territórios do Interior e às Regiões Autónomas
 
 1 - Às empresas que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial, industrial ou de prestação de serviços em territórios do interior, que sejam qualificados como micro, pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho, é aplicável a taxa de IRC de 12,5 % aos primeiros (euro) 15 000 de matéria coletável.
 
@@ -16,6 +16,18 @@ d) A determinação do lucro tributável ser efetuada com recurso a métodos dir
 
 3 - O benefício fiscal previsto no presente artigo não é cumulativo com outros benefícios de idêntica natureza, não prejudicando a opção por outro mais favorável.
 
-4 - A delimitação das áreas territoriais beneficiárias é estabelecida por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do planeamento e das infraestruturas, e obedece a critérios como a emigração e envelhecimento, a atividade económica e o emprego, o empreendedorismo e a infraestruturação do território.
+4 - Aos sujeitos passivos abrangidos pelo n.º 1 é aplicável uma majoração de 20 % à dedução máxima prevista no n.º 1 do artigo 29.º do Código Fiscal do Investimento quando estejam em causa investimentos elegíveis realizados em territórios do Interior.
 
-5 - O benefício fiscal previsto no presente artigo está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis, não podendo o montante do benefício exceder o limiar de minimis.
+5 - O benefício fiscal previsto nos números anteriores está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis, não podendo o montante do benefício exceder o limiar de minimis.
+
+6 - A delimitação das áreas territoriais beneficiárias é estabelecida por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do planeamento e das infraestruturas, e obedece a critérios como a emigração e envelhecimento, a atividade económica e o emprego, o empreendedorismo e a infraestruturação do território.
+
+7 - No caso de estudantes que frequentem estabelecimentos de ensino situados em território do Interior identificado na portaria a que se refere o n.º 6, ou em estabelecimentos de ensino situados nas Regiões Autónomas, é aplicável uma majoração de 10 pontos percentuais ao valor suportado a título de despesas de educação e formação a que se refere o n.º 1 do artigo 78.º-D do Código do IRS, sendo o limite global aí estabelecido elevado para 1000 (euro) quando a diferença seja relativa a estas despesas.
+
+8 - A dedução à coleta do IRS a que se refere a alínea a) do n.º 1 do artigo 78.º-E do Código do IRS tem o limite de 1000 (euro) durante três anos, sendo o primeiro o da celebração do contrato, no caso de os encargos aí previstos resultarem da transferência da residência permanente para um território do Interior identificado na portaria a que se refere o n.º 6.
+
+9 - Para efeitos do disposto nos n.os 7 e 8, os sujeitos passivos devem indicar no Portal das Finanças:
+
+a) No prazo previsto no n.º 6 do artigo 58.º-A do Código do IRS, os membros do agregado familiar que frequentam estabelecimentos de ensino situados em território do Interior ou das Regiões Autónomas e o valor total das respetivas despesas suportadas;
+
+b) As faturas ou outro documento que sejam relativas a arrendamento de que resulte a transferência da residência permanente para um território do Interior.

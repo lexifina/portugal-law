@@ -8,4 +8,6 @@ a) (euro) 400 por sujeito passivo com idade inferior a 35 anos;
 
 b) (euro) 350 por sujeito passivo com idade superior a 35 anos.
 
-2 - Às importâncias pagas, sob a forma de renda vitalícia ou resgate do capital acumulado, no âmbito do regime público de capitalização é aplicável o regime previsto nos n.os 2 a 5 do artigo 21.º
+2 - Às importâncias pagas, sob a forma de renda vitalícia ou resgate de capital acumulado, no âmbito do regime público de capitalização é aplicável o regime previsto nos n.os 3 a 5 do artigo 21.º
+
+3 - Os benefícios previstos no presente artigo são aplicáveis às entregas efetuadas pelas entidades empregadoras em nome e a favor dos seus trabalhadores.
