@@ -9,3 +9,5 @@ a) Sensibilização e incentivo aos consumidores finais para a utilização de m
 b) Promoção, junto dos consumidores finais, de práticas de deposição seletiva dos sacos de plástico não passíveis de reutilização, tendo em vista a sua reciclagem;
 
 c) Disponibilização, aos consumidores finais, de meios de carregamento e transporte reutilizáveis, a preços acessíveis.
+
+d) Disponibilização, aos consumidores finais, na entrega de produtos ao domicílio, de embalagens de serviço reutilizáveis.
