@@ -1,0 +1,8 @@
+Declaração de Retificação n.º 1/2019
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012, de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013, de 21 de março, declara-se que a Portaria n.º 328-A/2018, publicada no Diário da República, 1.ª série, n.º 244 (1.º suplemento), de 19 de dezembro, saiu com a seguinte inexatidão, que, mediante declaração da entidade emitente, assim se retifica:
+No artigo 1.º, n.º 1, alínea a), onde se lê:
+«a) Regime base, aplicável a veículos de transporte de mercadorias das Classes 2, 3 e 4 nos lanços e sublanços das autoestradas A4 Túnel do Marão, A4 Vila Real-Bragança (Quintanilha), A13 Entroncamento-Coimbra, A13-1, A22, A23, A24, A25 Nó com IC2-Vilar Formoso e A28 que integram o objeto das concessões da Infraestruturas de Portugal, S. A. (e subconcessões Transmontana e do Pinhal Interior), do Algarve, da Beira Interior, do Interior Norte, da Beiras Litoral e Alta e do Norte Litoral;»
+deve ler-se:
+«a) Regime base, aplicável a veículos de transporte de mercadorias das Classes 2, 3 e 4 nos lanços e sublanços das autoestradas A4 Túnel do Marão, A4 Vila Real-Bragança (Quintanilha), A13 Atalaia (A23)-Coimbra Sul, A13-1, A22, A23, A24, A25 Albergaria (IP1)-Vilar Formoso e A28 que integram o objeto das concessões da Infraestruturas de Portugal, S. A. (e subconcessões Transmontana e do Pinhal Interior), do Algarve, da Beira Interior, do Interior Norte, da Beiras Litoral e Alta e do Norte Litoral;»
+Secretaria-Geral, 28 de dezembro de 2018. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+111948419
