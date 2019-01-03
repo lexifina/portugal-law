@@ -1,0 +1,19 @@
+Aviso (extrato) n.º 152/2019
+Alteração ao Plano Diretor Municipal de Sesimbra no âmbito do Regime Excecional de Regularização das Atividades Económicas - Decreto-Lei n.º 165/2014, de 5 de novembro
+Francisco Manuel Firmino de Jesus, Presidente da Câmara Municipal de Sesimbra, em conformidade com o n.º 1 do artigo 76.º e alíneas a) e c) do n.º 4 do artigo 191.º, do Decreto-Lei n.º 80/2015 de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), aplicáveis por via do disposto no n.º 1 do artigo 119.º, do mesmo diploma, torna público que, esta Câmara Municipal, em reunião realizada no dia 21 de novembro de 2018, deliberou, por unanimidade, iniciar o procedimento de alteração do Plano Diretor Municipal de Sesimbra, (PDMS) no âmbito do Regime Excecional de Regularização de Atividades Económicas (RERAE) - Decreto-Lei n.º 165/2014, de 5 de novembro, aprovando os respetivos termos de referência, que deverá estar concluído no prazo de 4 meses a contar do dia seguinte ao da deliberação.
+A Câmara Municipal deliberou, ainda, dar início à discussão pública que, nos termos do n.º 2 do artigo 12.º do RERAE, decorrerá por um período de 15 dias úteis subsequentes à publicação do presente aviso no Diário da República, durante o qual os interessados poderão apresentar reclamações, observações ou sugestões por escrito, dirigidas ao Presidente da Câmara Municipal de Sesimbra.
+Durante esse período os elementos relativos ao procedimento de alteração do PDMS no âmbito do RERAE estarão disponíveis para consulta no Balcão Único de Serviços (BUS), sito no edifício Paços do Concelho, Rua da República n.º 3, 2970-741 em Sesimbra, ou no BUS sito no Edifício do Mercado Municipal, na Avenida Manuel Arriaga, 2975-329 Quinta do Conde, no horário das 8 às 18.30h, de segunda a sexta-feira, e das 8.30 às 13h ao sábado, e ainda na página eletrónica do município (www.cm-sesimbra.pt).
+Para constar se publica o presente Aviso no Diário da República e na comunicação social sendo ainda afixados nos lugares de estilo Editais de igual teor.
+26 de novembro de 2018. - O Presidente da Câmara, Francisco Manuel Firmino de Jesus.
+Deliberação
+Alteração ao Plano Diretor Municipal de Sesimbra no âmbito do Regime Excecional de Regularização das Atividades Económicas - Decreto-Lei n.º 165/2014, de 5 de novembro
+A Câmara Municipal de Sesimbra deliberou, por unanimidade, em 21 de novembro de 2018:
+1 - Dar início ao procedimento de alteração ao PDM de Sesimbra, aprovando os "Termos de Referência" que fundamentam a sua oportunidade e fixam os respetivos objetivos e base programática para o desenvolvimento da solução, nos termos dos n.os 1 e 3 do artigo 76.º do RJIGT;
+Fixar o prazo de 120 dias úteis, em conformidade com as fases metodológicas e prazos previstos no supramencionado documento;
+2 - Publicitar a deliberação de início do procedimento, nos termos do n.º 1 do artigo 76.º e da alínea c) do n.º 4 do artigo 191.º, ambos do RJIGT, em articulação com o disposto no n.º 2 do artigo 12.º do RERAE, na 2.ª série da Diário da República e proceder à sua divulgação na comunicação social e no sítio eletrónico do Município;
+3 - Dar início a um período de discussão pública pelo prazo de 15 dias e proceder à respetiva publicitação, conforme dispõe o n.º 2 do artigo 12.º do RERAE conjugado com a alínea a) do n.º 4 do artigo 191.º do RJIGT;
+4 - Aprovar a dispensa do procedimento de Avaliação Ambiental Estratégica - AAE, prevista no n.º 1 do artigo 4.º do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 05 de maio, nos termos dos n.os 2 e 4 do artigo 12.º do RERAE;
+5 - Dar conhecimento do teor da deliberação à Assembleia Municipal e à CCDRLVT;
+6 - Dar início à alteração da REN de Sesimbra, em conformidade com o n.º 2 do artigo 13.º do RERAE.
+Sesimbra, 26 de novembro de 2018. - O Presidente da Câmara, Francisco Manuel Firmino de Jesus.
+611902523
