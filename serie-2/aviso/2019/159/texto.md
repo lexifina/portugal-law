@@ -1,0 +1,8 @@
+Aviso n.º 159/2019
+Discussão Pública do Regulamento Municipal de Urbanização e Edificação de Vila Velha de Ródão
+Luís Miguel Ferro Pereira, Presidente da Câmara Municipal de Vila Velha de Ródão, torna público que a Câmara Municipal, na sua reunião de 16 de novembro de 2018, deliberou aprovar a proposta de projeto e submeter a discussão pública o Regulamento Municipal de Urbanização e Edificação de Vila Velha de Ródão (RMUEVVR), nos termos do disposto no n.º 1 do artigo 101.º do Código do Procedimento Administrativo e no artigo 3.º do Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual.
+O período de discussão pública terá uma duração de 30 dias úteis e inicia-se no dia seguinte à publicação do presente Aviso na 2.ª série do Diário da República.
+A proposta do RMUEVVR pode ser consultada no site institucional do Município (www.cm-vvrodao.pt) e presencialmente, nos serviços de atendimento da Câmara Municipal (nos dias úteis, das 9,00h às 17,00h) ou nos serviços técnicos municipais (nos dias úteis, das 9,00h às 12,30h e das 14,00h às 17,30h).
+Durante o período de discussão, os interessados podem apresentar, por escrito, diretamente no balcão de atendimento da Câmara Municipal, via correio eletrónico (geral@cm-vvrodao.pt) ou endereço postal (rua de Santana, 6030-230 Vila Velha de Ródão) as suas reclamações, observações ou sugestões, através de requerimento dirigido ao Sr. Presidente da Câmara, devendo ser identificado, de forma clara, o seu subscritor.
+12 de dezembro de 2018. - O Presidente da Câmara Municipal de Vila Velha de Ródão, Luís Miguel Ferro Pereira.
+311907327
