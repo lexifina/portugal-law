@@ -1,0 +1,226 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "150",
+    "id": "43086",
+    "titulo": "Altera o regime do exercício da atividade de segurança privada e da autoproteção."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2019-01-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "44748",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2019-01-04",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2019-01-04",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-03-22",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de Alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6d5a6b4e4749794d4441744e325579596930305a6a686c4c5749314e4451745a6a51344f44646b4d574669593255334c6e426b5a673d3d&fich=ffd4b200-7e2b-4f8e-b544-f4887d1abce7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-23",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "10 - Proposta de alteração - PS (Artigo 39.º)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a4a6c4f5441314d6d55744f4759354e5330304d5745794c546777596d457459574d785a6d55334e546c6d4f54526a4c6e426b5a673d3d&fich=f2e9052e-8f95-41a2-80ba-ac1fe759f94c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764f545a684d5467315a544174596a49324e6930304e7a526c4c54686d5a6a49744e7a4e6b4d544a6b5a4755304e574d794c6e426b5a673d3d&fich=96a185e0-b266-474e-8ff2-73d12dde45c2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-02",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a45344e3259774e4449745a4745794e4330304f44677a4c5749774e7a55744e6a41305a6d4d784d3259304d4464694c6e426b5a673d3d&fich=7187f042-da24-4883-b075-604fc13f407b.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "4 - Proposta de alteração - CDS-PP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e544d794d444a6c4f5441744e6d557959533030595745314c5745354f574d745a5446694d6d59794f54646b4f474d774c6e426b5a673d3d&fich=53202e90-6e2a-4aa5-a99c-e1b2f297d8c0.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "5 - Proposta de alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a4759794e4759305a4445744d6a6c6b5a5330304e57526a4c5745314d4459745a6d4e6d4e6d466b597a426d5a6a5a6a4c6e426b5a673d3d&fich=df24f4d1-29de-45dc-a506-fcf6adc0ff6c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "6 - Proposta de alteração - PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e3259304e57466b4f4745744f574a69595330304f44426d4c57466c4e4459745a575a6c4e3245315932597a4e57466a4c6e426b5a673d3d&fich=7f45ad8a-9bba-480f-ae46-efe7a5cf35ac.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-14",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "7 - Proposta de alteração - PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d49324d6d55785a5441744e3256694e4330304d6d526b4c5749345a6d45744d5451775a57526d59545a6c5a5459354c6e426b5a673d3d&fich=2b62e1e0-7eb4-42dd-b8fa-140edfa6ee69.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-15",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "8 - Proposta de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e4455344e4445314e6a55744e6d4d304e793030593249314c546c68595755744d446b355a6a4132593259335a44497a4c6d52765933673d&fich=45841565-6c47-4cb5-9aae-099f06cf7d23.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-16",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "9 - Proposta de alteração - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a6a59334f54417a4e4459745a475a6c596930305a6d51354c54677959324d745a47493459575979597a4e684f544d7a4c6e426b5a673d3d&fich=f6790346-dfeb-4fd9-82cc-db8af2c3a933.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-05",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - ANUSA - Associação Nacional do Comércio e Valorização do Bem Usado",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d4e6c596d51345a546774596d45774f5330305a6d55344c54686a4f474d744f4755794f5455794f5745304d6a55304c6e426b5a673d3d&fich=2cebd8e8-ba09-4fe8-8c8c-8e29529a4254.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-06",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - AES - Associação de Empresas de Segurança Privada",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6a63314f4467354e4759744f544e6a4e69303059575a6a4c5745324e7a41744e7a686d4e4759305a6a4e6a4d5451334c6e426b5a673d3d&fich=2758894f-93c6-4afc-a670-78f4f4f3c147.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-16",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Quadro Comparativo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a426d5a5755354e4759744d7a646959533030595751354c5745354e5441744d4459334f5751354f4463784d6d45344c6d52765933673d&fich=60fee94f-37ba-4ad9-a950-0679d98712a8.docx&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-24",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final e Relatório da discussão e votação na especialidade CACDLG",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d7a526d597a4e6b4e4441745a6a4d314f4330305a574d774c546b304d7a63745a4759785a4456694e6d49784f4755314c6e426b5a673d3d&fich=34fc3d40-f358-4ec0-9437-df1d5b6b18e5.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "4524",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração apresentadas pelo PSD, BE, PS, CDS-PP e PCP e texto final",
+            "pag": [
+              "23-107"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-04-26",
+            "pubLeg": "XIII",
+            "pubNr": "92",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/092/2019-04-26/23?pgs=23-107&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na especialidade, propostas de alteração apresentadas pelo PSD, BE, PS, CDS-PP e PCP e texto final",
+            "pag": [
+              "23-107"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-04-26",
+            "pubLeg": "XIII",
+            "pubNr": "92",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/092/2019-04-26/23?pgs=23-107&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": null,
+            "dataRemessa": "2019-04-24",
+            "numeroOficio": "347/XIII/1.ª-CACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-04-24",
+            "descricao": null,
+            "detalhe": null,
+            "id": "82945",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "253",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2019-01-04",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "346121",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
