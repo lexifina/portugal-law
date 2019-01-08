@@ -1,0 +1,20 @@
+# Portaria n.º 10/2019
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E SECRETARIA REGIONAL DO AMBIENTE E RECURSOS NATURAIS
+
+**Publicação:** JORAM, I série, n.º 5/2019, de 2019-01-08
+
+**Sumário:** Redistribui e altera os encargos orçamentais previstos na Portaria n.º 318/2018, publicada no 2.º Suplemento, da I Série do Jornal Oficial, n.º 136, de 24 de agosto, referentes à aquisição de serviços silvícolas tendo em vista a “Limpeza de espécies infestantes e reconversão do coberto do Montado da Esperança”, no valor global de € 512.104,85.
+
+## Texto
+
+Portaria n.º 10/2019
+de 9 de janeiro
+Dando cumprimento ao disposto nos n.ºs 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, mantido em vigor pela alínea f), n.º 1 do artigo 14.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, revogado pelo Decreto-Lei n.º 40/2011, de 22 de março e repristinado pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, e do disposto no artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na alínea b) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na redação dada pela Lei n.º 22/2015, de 17 de março e no artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na redação dada pelo Decreto-Lei n.º 99/2015, de 2 de junho, e no n.º 1 do artigo 27.º do Decreto Legislativo Regional n.º 2/2018/M, de 9 de janeiro, manda o Governo Regional da Madeira, através do Vice-Presidente do Governo Regional e da Secretária Regional do Ambiente e Recursos Naturais, o seguinte:
+
+1 - Redistribuir e alterar os encargos orçamentais previstos na Portaria n.º 318/2018, publicada no Jornal Oficial, n.º 136, I Série, 2.º Suplemento, de 24 de agosto, referentes à aquisição de serviços silvícolas tendo em vista a “Limpeza de espécies infestantes e reconversão do coberto do Montado da Esperança”, no valor global de € 512.104,85 (quinhentos e doze mil cento e quatro euros e oitenta e cinco cêntimos), acrescidos de IVA à taxa legal em vigor, na forma seguinte indicada:
+Ano Económico de 2018 ............................. € 0,00 Ano Económico de 2019 .................. € 204.319,92 Ano Económico de 2020 .................. € 307.784,93
+2 - A presente portaria entra imediatamente em vigor.
+Vice-Presidência do Governo Regional e Secretaria Regional do Ambiente e Recursos Naturais, no Funchal, aos 19 dias do mês de dezembro de 2018.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL, Pedro Miguel Amaro de Bettencourt Calado
+A SECRETÁRIA REGIONAL DO AMBIENTE E RECURSOS NATURAIS, Susana Luisa Rodrigues Nascimento Prada
