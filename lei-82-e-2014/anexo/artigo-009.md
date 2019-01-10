@@ -12,7 +12,7 @@ c) As importâncias auferidas em virtude da assunção de obrigações de não c
 
 d) Os acréscimos patrimoniais não justificados, determinados nos termos dos artigos 87.º, 88.º ou 89.º-A da lei geral tributária;
 
-e) As indemnizações devidas por renúncia onerosa a posições contratuais ou outros direitos inerentes a contratos relativos a bens imóveis.
+e) As indemnizações devidas por renúncia onerosa a posições contratuais ou outros direitos inerentes a contratos relativos a bens imóveis, com exceção das indemnizações legalmente devidas pela denúncia de contratos de arrendamento sem termo, relativos a imóveis que constituam habitação permanente do sujeito passivo, nos casos previstos no artigo 1101.º do Código Civil.
 
 2 - (Revogado.)
 
