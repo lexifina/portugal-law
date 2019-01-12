@@ -12,7 +12,9 @@
 
 a) A idade do veículo automóvel, determinada pela data da primeira matrícula, não exceda os dezoito anos;
 
-b) A idade média da frota de veículos automóveis da empresa, determinada pela data da primeira matrícula de cada veículo, não exceda os quinze anos.
+b) (Revogada.)
+
+c) A idade média da frota de veículos automóveis da empresa, determinada pela data da primeira matrícula de cada veículo, não exceda os vinte anos.
 
 3 - Em caso de instalação de um filtro de partículas devidamente aprovado e verificado pelos centros de inspecção técnica de veículos, a idade do veículo, para efeitos do disposto no n.º 2, será reduzida em 5 anos.
 

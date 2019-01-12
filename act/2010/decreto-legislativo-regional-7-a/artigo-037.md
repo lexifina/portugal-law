@@ -2,9 +2,9 @@
 
 ### Normas transitórias
 
-1 - As pessoas singulares ou coletivas que à data de entrada em vigor do presente diploma efetuem transporte regional de mercadorias por conta de outrem devem até 31 de dezembro de 2018 conformar-se com os requisitos exigidos para o licenciamento da atividade e proceder ao licenciamento dos veículos ligeiros de mercadorias, nos termos previstos no presente diploma.
+1 - As pessoas singulares ou coletivas que à data de entrada em vigor do presente diploma efetuem transporte regional de mercadorias por conta de outrem devem até 31 de dezembro de 2020 conformar-se com os requisitos exigidos para o licenciamento da atividade, nos termos previstos no presente diploma.
 
-2 - Durante o período transitório a que se refere o número anterior, não é aplicável a disposição prevista no n.º 2 do artigo 13.º do presente diploma.
+2 - (Revogado.)
 
 3 - As empresas que, à data de entrada em vigor do presente diploma, sejam titulares de alvará para outras actividades de transporte ou para a actividade transitária podem licenciar veículos ligeiros para transporte regional de mercadorias, não carecendo do alvará a que se refere o artigo 3.º
 
