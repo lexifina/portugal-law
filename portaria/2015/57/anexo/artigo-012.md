@@ -18,7 +18,11 @@ b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Fl
 
 c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
 
-d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas, acrescida de 150 horas de outras unidades de formação do mesmo referencial, com exceção das que constam do anexo V da presente portaria, da qual faz parte integrante;
+d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas, acrescida de, alternativamente:
+
+i) 150 horas de outras unidades de formação do mesmo referencial, com exceção das que constam do anexo v da presente portaria, da qual faz parte integrante;
+
+ii) Serviço de aconselhamento agrícola obtido nos termos do n.º 7 do artigo 14.º da Portaria n.º 151/2016, de 26 de maio, que cria o Sistema de Aconselhamento Agrícola e Florestal;
 
 e) Qualificação de nível 2, nas áreas de Educação e Formação 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, no caso dos agricultores ativos previstos na alínea a) do número anterior.
 
@@ -47,3 +51,5 @@ e) Agricultores que tenham comprado hectares elegíveis entre 15 de maio de 2013
 9 - Os agricultores referidos no n.º 7 apenas são elegíveis para efeitos de atribuição de direitos ao pagamento quando tenham iniciado a atividade agrícola até dois anos antes da data de apresentação de um pedido de atribuição de direitos.
 
 10 - São ainda atribuídos pela reserva nacional os direitos que vierem a ser reconhecidos ao agricultor por decisão judicial transitada em julgado ou ato administrativo definitivo.
+
+11 - No caso das pessoas coletivas que iniciem atividade agrícola nos termos da alínea b) do n.º 1, as exigências em termos de competências e formação devem ser cumpridas, pelo menos, por um dos sócios que exerce o controlo da pessoa coletiva.

@@ -20,7 +20,7 @@ d) Florestação de terras agrícolas, no âmbito dos programas de desenvolvimen
 
 e) Com as seguintes culturas fixadoras de azoto, desde que cultivadas em parcelas com IQFP 1 e 2, sem prejuízo da legislação aplicável às zonas vulneráveis a nitratos do Continente, onde prevalecem as obrigações definidas nos respetivos programas de ação:
 
-i) Tremocilha (Lupinus spp), fava (Vicia faba), feijão (Phaseolus spp), amendoim (Arachis spp), grão-de-bico (Cicer spp), ervilha (Pisum spp), tremoço (Lupinus spp), luzerna (Medicago spp), serradela (Ornithopus spp), ervilhaca (Vicia spp), trevo (Trifolium spp) e soja (Glycine max), incluindo misturas destas espécies;
+i) Tremocilha (Lupinus spp.), fava (Vicia faba), feijão (Phaseolus spp.), feijão-frade (Vigna unguiculata), amendoim (Arachis spp.), grão-de-bico (Cicer spp.), ervilha (Pisum spp.), tremoço (Lupinus spp.), luzerna (Medicago spp.), serradela (Ornithopus spp.), ervilhaca (Vicia spp.), trevo (Trifolium spp.) e soja (Glycine max), incluindo misturas entre estas espécies;
 
 ii) Misturas das espécies referidas na subalínea anterior com outras culturas, desde que estas últimas representem uma percentagem inferior a 50 %.
 

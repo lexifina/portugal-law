@@ -10,6 +10,10 @@ b) Curso de empresário agrícola homologado pelo Ministério da Agricultura, Fl
 
 c) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;
 
-d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4, do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas de duração, acrescida de 150 horas de outras unidades de formação do mesmo referencial, com exceção das que constam do anexo V da presente portaria, da qual faz parte integrante.
+d) Formação com base nas unidades de formação de curta duração do referencial de formação 621312, 'Técnico/a de Produção Agropecuária', de nível 4 do Catálogo Nacional de Qualificações, constituída pelo código 7580, de 50 horas, acrescida de, alternativamente:
+
+i) 150 horas de outras unidades de formação do mesmo referencial, com exceção das que constam do anexo v da presente portaria, da qual faz parte integrante;
+
+ii) Serviço de aconselhamento agrícola obtido nos termos do n.º 7 do artigo 14.º da Portaria n.º 151/2016, de 26 de maio.
 
 2 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências em termos de competências e formação tem de ser verificada em pelo menos num dos jovens agricultores que participa no capital e gestão da pessoa coletiva, em aplicação da alínea c) do n.º 1 do artigo 49.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março.

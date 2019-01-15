@@ -1,7 +1,3 @@
-## Capítulo IX
-
-## Disposições finais e transitórias
-
 # Artigo 35.º
 
 ### Disposição transitória
