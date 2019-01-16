@@ -1,0 +1,9 @@
+Edital n.º 107/2019
+Dr. José Luís Gaspar Jorge, Presidente da Câmara Municipal de Amarante:
+Torna público, para efeitos do disposto no n.º 1 do artigo 56.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, que, a Câmara Municipal de Amarante em sua reunião ordinária realizada a 18 de dezembro de 2018, deliberou aprovar, para submissão a apreciação pública, pelo prazo de 30 dias úteis a contar da publicação do presente edital na 2.ª série do Diário da República, o projeto de "Regulamento de Serviço de Gestão de Resíduos Urbanos do Município de Amarante", nos termos conjugados do n.º 3 do artigo 62.º do Decreto-Lei n.º 194/2009, de 20 de agosto e do n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+Assim, nos termos do n.º 2 do artigo 101.º do Código do Procedimento Administrativo, convidam-se todos os interessados, devidamente identificados, a dirigir por escrito, ao Presidente da Câmara Municipal, eventuais sugestões, dentro do período atrás referido, para a Câmara Municipal de Amarante, Alameda Teixeira de Pascoaes, 4600-011 Amarante ou para o seguinte endereço eletrónico: geral@cm-amarante.pt.
+Mais se torna público que o processo se encontra disponível para consulta no Edifício dos Paços do Concelho, durante o horário normal de expediente, bem como na página eletrónica do Município (www.cm-amarante.pt).
+Para constar e surtir efeitos, publica-se o presente edital que vai ser afixado nos locais de estilo e disponibilizado na página eletrónica do Município, bem como nos locais e publicações de estilo.
+E eu, Carla Mónica Marques Teixeira Pereira Afonso, Chefe da Divisão Administrativa e de Recursos Humanos, o subscrevo.
+7 de janeiro de 2019. - O Presidente da Câmara, Dr. José Luís Gaspar Jorge.
+311960009
