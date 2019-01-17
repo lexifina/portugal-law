@@ -1,0 +1,9 @@
+Aviso n.º 1094/2019
+1.ª Alteração ao Regulamento do Plano de Pormenor do Parque de Campismo de Quarteira - Período de Discussão Pública
+Heloísa Bárbara Madeira e Madeira, Vereadora da Câmara Municipal de Loulé, nos termos e para os efeitos do disposto no n.º 2 do artigo 89.º do regime jurídico dos instrumentos de gestão territorial (RJIGT), na redação conferida pelo Decreto-Lei n.º 80/2015, de 14 de maio, torna público que, na sequência da deliberação tomada, por unanimidade, pela Câmara Municipal de Loulé, na reunião de 19 de dezembro de 2018, sobre a Proposta n.º 2031/2018 [DP], o projeto de 1.ª alteração ao regulamento do Plano de Pormenor do Parque de Campismo de Quarteira, se encontra em fase de discussão pública pelo prazo de 20 (vinte) dias úteis, com início 5 dias após a publicação do presente aviso no Diário da República.
+Mais se torna público que, o referido projeto de alteração ao regulamento e demais elementos objeto de deliberação de Câmara encontram-se disponíveis para consulta nos seguintes locais:
+Câmara Municipal de Loulé (Divisão de Planeamento);
+Sítio da Internet da Câmara Municipal: Sítio da Internet da Câmara Municipal: http://www.cm-loule.pt/ em Serviços Municipais/ Planeamento, Urbanismo e Reabilitação Urbana/ Planeamento e Ordenamento do Território/ Consultas Públicas.
+Quaisquer reclamações e sugestões, observações e pedidos de esclarecimento deverão ser dirigidos, por escrito (preferencialmente com recurso à minuta disponível para o efeito), ao Presidente da Câmara Municipal de Loulé, Praça da República, 8104-001 Loulé, pelo correio ou através do endereço eletrónico cmloule@cm-loule.pt com indicação expressa em "assunto" de "1.ª alteração ao regulamento do Plano de Pormenor do Parque de Campismo de Quarteira - Período de Discussão Pública" e com a identificação e morada de contacto do signatário.
+4 de janeiro de 2019. - A Vereadora, Heloísa Bárbara Madeira e Madeira.
+611964051
