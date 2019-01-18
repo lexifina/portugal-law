@@ -1,0 +1,8 @@
+Edital n.º 121/2019
+Guilherme Lagido Domingos, Presidente da Câmara Municipal de Caminha em exercício, torna público que a Câmara Municipal, na sua reunião ordinária realizada no dia 19 de dezembro de 2018, deliberou aprovar e remeter a audiência dos interessados e discussão pública o Projeto de Regulamento Municipal para a Atribuição de Incentivos a Estudantes do Ensino Superior.
+Assim, nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo, submete-se o referido projeto, a audiência de interessados e consulta pública, pelo prazo de 30 dias úteis contados a partir da data da publicação do presente edital, na 2.ª série do Diário da República.
+O referido projeto encontra-se disponível para consulta no site institucional do Município em www.cm-caminha.pt, bem como no Balcão de Atendimento da Câmara Municipal e no Gabinete de Apoio ao Munícipe de Vila Praia de Âncora, em formato papel.
+As sugestões, propostas e/ou reclamações, deverão ser apresentadas por escrito no prazo de 30 dias úteis a contar da data da publicação deste edital no Diário da República, devendo ser dirigidas ao Presidente da Câmara Municipal de Caminha, por via postal para o Largo Calouste Gulbenkian, 4910-113 Caminha, entregues pessoalmente nos serviços de atendimento do Município ou por correio eletrónico: geral@cm-caminha.pt, com a identificação do remetente, morada, contacto e identificação fiscal.
+Para constar, lavrou-se o presente edital e outros de igual teor que vão ser afixados nos locais públicos habituais e na página do Município em www.cm-caminha.pt.
+21 de dezembro de 2018. - O Presidente da Câmara Municipal, em exercício, Guilherme Lagido Domingos.
+311947641
