@@ -1,0 +1,4 @@
+Aviso n.º 1290/2019
+Valter Manuel Antunes Januário, Presidente da Freguesia de Algueirão-Mem Martins, torna público que, o Executivo da Freguesia, reunido em sessão ordinária de 6 de dezembro de 2018, deliberou por unanimidade aprovar a 1.ª alteração ao Regulamento e Tabela de Taxas e Preços da Freguesia de Algueirão-Mem Martins, assim como a sua sujeição à consulta pública pelo prazo de 30 dias, contados desde a data de publicação do presente aviso no Diário da República. O projeto de alteração encontra-se disponível para consulta, na sede da Freguesia (sita em Rua Domingos Saraiva, n.º 6, 2725-286 Algueirão-Mem Martins), assim como na sua página eletrónica (https://www.jfamm.pt/). Os interessados podem apresentar eventuais sugestões, as quais deverão ser formuladas por escrito e dirigidas ao Senhor Presidente da Freguesia.
+7 de dezembro de 2018. - O Presidente da Freguesia, Valter Manuel Antunes Januário.
+311964984
