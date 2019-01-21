@@ -46,40 +46,42 @@ t) O incumprimento ou o cumprimento deficiente de requisito ou dever fixado no �
 
 u) O incumprimento dos deveres associados à gestão de conflitos de interesses previstos no artigo 152.º;
 
-v) O incumprimento de um dos deveres inerentes à definição, difusão, divulgação, implementação e monitorização de uma política de tratamento dos tomadores de seguros, segurados, beneficiários e terceiros lesados, conforme ao disposto no artigo 154.º e respetiva regulamentação;
+v) O incumprimento dos deveres associados à definição, implementação, monitorização, revisão e disponibilização aos distribuidores de uma política de conceção e aprovação de produtos de seguros, nos termos previstos no artigo 153.º;
 
-w) O não acatamento das determinações da ASF em matéria de publicidade previstas no n.º 3 do artigo 156.º;
+w) O incumprimento de um dos deveres inerentes à definição, difusão, divulgação, implementação e monitorização de uma política de tratamento dos tomadores de seguros, segurados, beneficiários e terceiros lesados, conforme ao disposto no artigo 154.º e respetiva regulamentação;
 
-x) O incumprimento do dever de instituição de uma função autónoma responsável pela gestão das reclamações dos tomadores de seguros, segurados, beneficiários e terceiros lesados conforme ao disposto no artigo 157.º e respetiva regulamentação;
+x) O não acatamento das determinações da ASF em matéria de publicidade previstas no n.º 3 do artigo 156.º;
 
-y) O incumprimento do dever de designação do provedor do cliente e de garantia das condições necessárias a que o mesmo exerça as funções em conformidade com o disposto no artigo 158.º e respetiva regulamentação;
+y) O incumprimento do dever de instituição de uma função autónoma responsável pela gestão das reclamações dos tomadores de seguros, segurados, beneficiários e terceiros lesados conforme ao disposto no artigo 157.º e respetiva regulamentação;
 
-z) O incumprimento ou o cumprimento deficiente de dever de informação ou esclarecimento para com o público em geral ou para com tomadores de seguros, segurados ou beneficiários de contratos de seguro ou de operações de capitalização;
+z) O incumprimento do dever de designação do provedor do cliente e de garantia das condições necessárias a que o mesmo exerça as funções em conformidade com o disposto no artigo 158.º e respetiva regulamentação;
 
-aa) A comercialização ou celebração de contratos de seguro ou operações de capitalização com características manifestamente desajustadas face ao perfil dos respetivos tomadores de seguros ou segurados;
+aa) O incumprimento ou o cumprimento deficiente de dever de informação ou esclarecimento para com o público em geral ou para com tomadores de seguros, segurados ou beneficiários de contratos de seguro ou de operações de capitalização;
 
-bb) A inobservância das disposições relativas à realização ou representação do capital social das empresas de seguros e de resseguros;
+bb) A comercialização ou celebração de contratos de seguro ou operações de capitalização com características manifestamente desajustadas face ao perfil dos respetivos tomadores de seguros ou segurados;
 
-cc) A aquisição, direta ou indireta, ou aumento de participação qualificada em empresa de seguros ou de resseguros sem comunicação prévia à ASF ou caso esta tenha deduzido oposição;
+cc) A inobservância das disposições relativas à realização ou representação do capital social das empresas de seguros e de resseguros;
 
-dd) O desrespeito pela inibição do exercício de direitos de voto;
+dd) A aquisição, direta ou indireta, ou aumento de participação qualificada em empresa de seguros ou de resseguros sem comunicação prévia à ASF ou caso esta tenha deduzido oposição;
 
-ee) A transferência, total ou parcial, de carteira de empresa de seguros ou de resseguros sem a respetiva autorização;
+ee) O desrespeito pela inibição do exercício de direitos de voto;
 
-ff) O incumprimento de um dos deveres de notificação, comunicação ou informação à ASF previstos no artigo 304.º, no n.º 1 do artigo 306.º e no n.º 1 do artigo 307.º;
+ff) A transferência, total ou parcial, de carteira de empresa de seguros ou de resseguros sem a respetiva autorização;
 
-gg) O incumprimento do dever de implementar os meios adequados de receção, tratamento e arquivo de participações de irregularidades graves nos termos previstos no artigo 305.º;
+gg) O incumprimento de um dos deveres de notificação, comunicação ou informação à ASF previstos no artigo 304.º, no n.º 1 do artigo 306.º e no n.º 1 do artigo 307.º;
 
-hh) A omissão de submissão à ASF de um plano de recuperação ou de um plano de financiamento, quando obrigatório nos termos legais, que respeite o conteúdo mínimo previsto no presente regime;
+hh) O incumprimento do dever de implementar os meios adequados de receção, tratamento e arquivo de participações de irregularidades graves nos termos previstos no artigo 305.º;
 
-ii) O incumprimento das medidas de recuperação determinadas pela ASF em situação de deterioração das condições financeiras, nos termos dos artigos 309.º a 315.º
+ii) A omissão de submissão à ASF de um plano de recuperação ou de um plano de financiamento, quando obrigatório nos termos legais, que respeite o conteúdo mínimo previsto no presente regime;
 
-jj) O incumprimento do dever de manter um registo especial atualizado dos ativos representativos das provisões técnicas em função da hipótese de liquidação conforme ao disposto no artigo 333.º;
+jj) O incumprimento das medidas de recuperação determinadas pela ASF em situação de deterioração das condições financeiras, nos termos dos artigos 309.º a 315.º
 
-kk) A omissão de entrega da documentação requerida pela ASF para o caso individualmente considerado;
+kk) O incumprimento do dever de manter um registo especial atualizado dos ativos representativos das provisões técnicas em função da hipótese de liquidação conforme ao disposto no artigo 333.º;
 
-ll) A falta ou deficiente prestação da informação requerida pela ASF para o caso individualmente considerado;
+ll) A omissão de entrega da documentação requerida pela ASF para o caso individualmente considerado;
 
-mm) A inobservância de regras contabilísticas aplicáveis, determinadas por lei ou por regulamentação, quando dela resulte prejuízo grave para o conhecimento da situação patrimonial e financeira da entidade em causa;
+mm) A falta ou deficiente prestação da informação requerida pela ASF para o caso individualmente considerado;
 
-nn) A utilização de interpostas pessoas com a finalidade de atingir um resultado cuja obtenção direta implicaria a prática de contraordenação simples ou grave.
+nn) A inobservância de regras contabilísticas aplicáveis, determinadas por lei ou por regulamentação, quando dela resulte prejuízo grave para o conhecimento da situação patrimonial e financeira da entidade em causa;
+
+oo) A utilização de interpostas pessoas com a finalidade de atingir um resultado cuja obtenção direta implicaria a prática de contraordenação simples ou grave.

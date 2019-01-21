@@ -8,4 +8,4 @@
 
 3 - A suspensão não abrange as custas.
 
-4 - Se decorrer o período de suspensão sem que o arguido tenha sido condenado por crime previsto na legislação aplicável às entidades sujeitas à supervisão da ASF ou por contraordenação constante do mesmo diploma em que está prevista a contraordenação que deu origem à sanção suspensa, cujo processamento seja da competência da ASF e sem ter violado as obrigações que lhe tenham sido impostas, fica a condenação sem efeito, procedendo-se, no caso contrário, à sua execução imediata.
+4 - Se decorrer o período de suspensão sem que o arguido tenha sido condenado por crime previsto na legislação aplicável às entidades sujeitas à supervisão da ASF ou por contraordenação constante do mesmo diploma em que está prevista a contraordenação que deu origem à sanção suspensa, cujo processamento seja da competência da ASF e tendo cumprido as injunções que lhe tenham sido impostas, considera-se extinta a sanção cuja execução tinha sido suspensa, procedendo-se, caso contrário, à sua execução imediata, incluindo a parte suspensa.

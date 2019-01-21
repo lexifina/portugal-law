@@ -31,3 +31,5 @@ l) A prática de atos de gestão relacionados com contratos de seguros ou opera�
 m) A utilização de interpostas pessoas com a finalidade de atingir um resultado cuja obtenção direta implicaria a prática de contraordenação muito grave;
 
 n) Os demais atos que prejudiquem gravemente a gestão sã e prudente da entidade.
+
+o) O incumprimento dos deveres associados à definição, implementação, monitorização, revisão e disponibilização aos distribuidores de uma política de conceção e aprovação de produtos de investimento com base em seguros, nos termos previstos no artigo 153.º
