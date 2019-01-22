@@ -1,0 +1,542 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13270",
+  "numero": "586",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-01-22",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-03-20",
+            "entidades": null,
+            "id": "111900",
+            "tipo": null,
+            "titulo": "Audição em 2019-03-20 com Silvia Sequeira e David Nascimento"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-07-11",
+            "entidades": [
+              "APA - Agência Portuguesa do Ambiente"
+            ],
+            "nrOficio": "60/CAOTDPLH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-03-27",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "855531",
+                "obs": null,
+                "pag": [
+                  "20-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-04-05",
+                "pubLeg": "XIII",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/040/2019-04-05/20?pgs=20-23&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-02-20",
+        "DataArquivo": "2019-04-03",
+        "DataBaixaComissao": "2019-01-31",
+        "DataEnvioPAR": "2019-04-05",
+        "DataReaberta": "2019-02-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-05-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a46695a5445344e5451334c546c6b4d4463744e4745344e43303559544d784c5759354e4745795a444d7a4e5751795a4335775a47593d&fich=1be18547-9d07-4a84-9a31-f94a2d335d2d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-02-28",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c3245785a6a4d314e5759314c54466a4e7a49744e4745324d6931694e6a51774c5467784e5442694e6a426d4e7a4d334f5335775a47593d&fich=a1f355f5-1c72-4a62-b640-8150b60f7379.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324577595455334e444e6b4c5467355a5759744e445578597930345a475a694c54493159546b304d474a6a5a5467334d7935775a47593d&fich=a0a5743d-89ef-451c-8dfb-25a940bce873.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-04-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a45314e5442694f5752694c5455315a6a63744e44646d4d7931684d3249774c5759305a5759314e7a41324f5749784d4335515245593d&fich=1550b9db-55f7-47f3-a3b0-f4ef57069b10.PDF&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-07-26",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c32566c5a4445324f4449304c5759314f544d744e4751324d433169597a51774c5449324e6d59314e4749345a6a6c684f5335775a47593d&fich=eed16824-f593-4d60-bc40-266f54b8f9a9.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-02-20",
+            "gp": "BE",
+            "id": "5952",
+            "motivoCessacao": null,
+            "nome": "Maria Manuel Rola"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2019-12-19",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-02-06",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938784f4441334e7a4e6c5a433035596d4d304c5452684d6d45744f4759324e7930774e57466b4e3246685a474d795a5745756347526d&fich=180773ed-9bc4-4a2a-8f67-05ad7aadc2ea.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "43983",
+      "44032",
+      "44052"
+    ],
+    "Iniciativasoriginadas": [
+      "43983",
+      "44032",
+      "44052"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:07:11:215&drc=00:04:15:929"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:11:27:144&drc=00:04:17:161"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:15:44:305&drc=00:04:05:092"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:19:49:397&drc=00:03:58:168"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:32:47:570&drc=00:01:03:127"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39",
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/38?pgs=38-39,43&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:23:47:566&drc=00:02:53:604"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:30:56:564&drc=00:01:51:005"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:33:50:697&drc=00:01:25:887"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41",
+                  "42-43",
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/40?pgs=40-41,42-43,43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2019-12-20",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_12_19_15_00_00_clean_14_plenario&url=l14/sl1/a2019/m12/&tI=02:26:41:171&drc=00:04:15:393"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "236476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-12-20",
+                "pubLeg": "XIV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Sobre as dragagens no estuário do Sado; Recomenda ao Governo que revogue a autorização concedida à Administração do Porto de Setúbal para avançar com as dragagens no Sado; Recomenda a suspensão das dragagens no Porto de Setúbal",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13270",
+    "PetAssunto": "Solicitam a adoção de medidas de defesa da Reserva Natural do Sado.",
+    "PetDataEntrada": "2019-01-22",
+    "PeticoesAssociadas": null,
+    "PetId": "13270",
+    "PetLeg": "XIII",
+    "PetNr": "586",
+    "PetNrAssinaturas": "13075",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2634",
+        "obs": null,
+        "pag": [
+          "35-44"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-12-20",
+        "pubLeg": "XIV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/019/2019-12-20/35?pgs=35-44&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851698",
+        "obs": null,
+        "pag": [
+          "9-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-01",
+        "pubLeg": "XIII",
+        "pubNr": "33",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/033/2019-03-01/9?pgs=9&org=PLC"
+      }
+    ]
+  }
+}
