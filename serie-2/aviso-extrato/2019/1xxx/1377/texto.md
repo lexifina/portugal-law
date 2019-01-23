@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 1377/2019
+Manuel António Natário Cordeiro, Presidente da Câmara Municipal de S. João da Pesqueira, torna público que a Câmara Municipal de S. João da Pesqueira, em reunião de 16 de novembro de 2018, deliberou submeter a consulta pública o projeto de «Regulamento Municipal da Universidade Vida Ativa-UVA», por um período de trinta (30) dias, a contar da data de publicação do presente aviso no Diário da República, nos termos e para os efeitos do artigo n.º 101.º do Código do Procedimento Administrativo.
+Mais torna público que o projeto do regulamento em apreço poderá ser consultado na Loja de Turismo, durante todos os dias da semana, no Balcão Único de Atendimento, de segunda a sexta-feira, assim como na página da Internet, em www.sjpesqueira.pt.
+Naquele prazo de 30 dias, poderão os interessados remeter, por escrito, as suas sugestões para o Município de S. João da Pesqueira, Avenida Marquês de Soveral, n.º 67, 5130-321 S. João da Pesqueira, ou para o endereço eletrónico cmsjp@sjpesqueira.pt, com a identificação do assunto («sugestões para o Regulamento Municipal da Universidade Vida Ativa-UVA»).
+10 de janeiro de 2019. - O Presidente da Câmara, Manuel António Natário Cordeiro.
+311972143
