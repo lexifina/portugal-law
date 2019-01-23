@@ -1,0 +1,122 @@
+# Decisão dos Julgados de Paz de 2019-01-23, processo 689/2018-JPLSB
+
+**Processo:** 689/2018-JPLSB
+
+**Relator:** SOFIA CAMPOS COELHO
+
+**Descritores:** RESPONSABILIDADE CIVIL EXTRACONTRATUAL
+
+**Data da sentença:** 01/23/2019
+
+**Julgado de Paz de:** LISBOA
+
+## Decisão Texto Integral
+
+Processo n.º 689/2018-JP
+
+Objeto: Responsabilidade civil extracontratual.
+
+Demandante: A.., S.A.
+
+Mandatário: Sr. Dr. B.
+
+Demandada: C.
+
+RELATÓRIO:
+
+A demandante, devidamente identificada nos autos, intentou contra a demandada, também devidamente identificada nos autos, a presente ação declarativa de condenação, pedindo que esta seja condenada a pagar-lhe a quantia de € 800 (oitocentos euros), acrescida de juros de mora. Para tanto, alegou os factos constantes do requerimento inicial, de folhas 1 a 4 dos autos, que aqui se dá por integralmente reproduzido, alegando, em síntese, que no dia 10 de agosto de 2016, pelas 22:45 horas, o veículo 00-LB-00 (doravante somente LB), propriedade da demandada, encontrava-se irregularmente estacionado no Largo …, frente ao n.º .., em Lisboa, impedindo a passagem do elétrico n.º …, da carreira …, que não pôde prosseguir a sua marcha, tendo ficado imobilizado durante 01:40 horas (uma hora e quarenta minutos), até o LB ser removido do local pelo seu condutor. Acresce que além do referido elétrico, outros dois (chapas .. e .. da carreira …) tiveram de alterar o seu percurso normal e pré determinado. A imobilização forçada do elétrico, e a alteração do percurso dos outros dois, originou o incumprimento de horários previamente determinados para esses elétricos e impediu a prestação do serviço aos utentes nos períodos e locais pré determinados; causou à demandante danos decorrentes da alteração dos respetivos horários dos guarda freios dos elétricos que foram remunerados apesar de durante esse período não terem trabalhado; deixou também a demandante de receber os montantes relativos às validações de títulos de transporte, cartão Lisboa Viva, Cartão Sete Colinas, Cartão Viva Viagem, Cartão Navegante Urbano 30 dias, Navegante Rede 30, que não foram efectuados e a venda de bilhetes a bordo; acresce ainda que a imobilização forçada originou reclamações dos utentes, quer junto dos guarda freio quando chegam às estações subsequentes com o atraso referido, quer por telefone e obrigou a demandante a deslocar ao local um técnico de controlo e comando de tráfego, bem como despesas com comunicações postais e telefónicas, e com as deslocações posteriores do guarda freio e do denunciante ao gabinete de auditoria da Divisão de Trânsito da PSP de Lisboa. Acresce que a demandante sentiu-se ofendida na sua imagem pelas reclamações. Juntou procuração forense e 5 documentos, que aqui se dão por integralmente reproduzidos. ***
+Regularmente citada, a demandada não contestou. ***
+Foi marcada data para realização da audiência de julgamento, tendo as partes, e o mandatário, sido devidamente notificados. Nessa data a demandada faltou, não tendo justificado a sua falta. Foi marcada nova data para realização da audiência de julgamento, da qual as partes e mandatário foram, mais uma vez, devidamente notificadas. A demandada reiterou a falta. ***
+Nos termos do n.º 1 do art.º 306.º do Código de Processo Civil, fixa-se à causa o valor
+
+de € 800 (oitocentos euros).
+
+O Julgado de Paz é competente em razão do valor, da matéria e do território.
+
+As partes são dotadas de personalidade e capacidade jurídica e são legítimas.
+
+Não existem nulidades ou exceções de que cumpra conhecer ou questões prévias que obstem ao conhecimento do mérito da causa. ***
+FUNDAMENTAÇÃO – MATÉRIA DE FACTO
+
+Com interesse para a decisão da causa, ficou provado que:
+
+1 – A demandante é uma sociedade anónima concessionária de serviço de transportes … de passageiros de superfície, na cidade de Lisboa.
+
+2 – No exercício da sua atividade a demandante está subordinada ao cumprimento dos horários aprovados para as respetivas carreiras.
+
+3 – No dia 10 de agosto de 2016, operava ao serviço do público na carreira …, o elétrico número …, propriedade da demandante, doravante designado apenas elétrico.
+
+4 – Cerca das 22:45 horas, quando o referido elétrico circulava no Largo …, frente ao n.º .. em Lisboa, foi impedido de prosseguir a marcha pelo veículo automóvel matrícula 00-LB-00 (doravante somente LB) (cfr. docs. fls. 9 a 12).
+
+5 – À data dos factos a propriedade do LB encontrava-se registada a favor da demandada (cfr. doc. fls. 13).
+
+6 – O LB encontrava-se estacionado de forma a impedir a marcha do eléctrico nos termos visíveis nas fotografias a fls. 11 dos autos.
+
+7 – A obstrução da via pelo LB, impediu que o elétrico de prosseguir a sua marcha, tendo ficado imobilizado cerca de 01:40 horas (uma hora e quarenta minutos), até o LB ser retirado pelo seu condutor.
+
+8 – A obstrução da via pelo LB obrigou outros dois elétricos (chapas … e . da carreira …) a alterar o seu percurso normal e pré determinado.
+
+9 – A imobilização forçada do elétrico durante cerca de 01:40 horas (uma hora e quarenta minutos) e a alteração de percurso de outros dois eléctricos, originou o incumprimento dos horários previamente determinados, e que deviam realizar, e impediu a prestação do serviço aos utentes nos períodos e locais pré determinados.
+
+10 – O estacionamento irregular do LB originou que a demandante teve de remunerar o guarda freios do elétrico apesar de, durante o período referido no número 8 supra, o mesmo não estar a executar as sua funções.
+
+11 – O estacionamento irregular do LB originou que a demandante deixou de receber as quantias referentes aos montantes das validações de títulos de transporte, cartão Lisboa Viva, Cartão Sete Colinas, Cartão Viva Viagem, Cartão Navegante Urbano 30 dias, Navegante Rede 30, que não foram efectuados, e a venda de bilhetes a bordo.
+
+12 – A demandante teve de fazer deslocar ao local um técnico de controlo e comando de tráfego.
+
+13 – A imobilização forçada e o atraso de cerca de 01:40 horas (uma hora e quarenta minutos) originou reclamações dos utentes junto da demandante.
+
+14 – A demandante teve despesas com comunicações postais e telefónicas, bem como com a deslocação ao local da equipa de fiscalização técnica do comando de tráfego e com as deslocações posteriores do guarda freio e do denunciante ao gabinete de auditoria da Divisão de Trânsito da PSP de Lisboa.
+
+15 – A demandante sentiu-se ofendida na sua imagem pelas reclamações relativas ao atraso com que o elétrico chegou ao seu destino.
+
+Não ficou provado:
+
+Não se provaram mais quaisquer factos alegados pelas partes, com interesse para a decisão da causa.
+
+Motivação da matéria de facto:
+
+Para fixação da matéria fáctica dada como provada concorreram a cominação legal prevista no n.º 2, do artigo 58.º, da Lei nº 78/2001, de 13 de julho, com a redação que lhe foi atribuída pela Lei n.º 54/2013, de 31 de julho (“Quando o demandada, tendo sido pessoal e regularmente citado, não comparecer, não apresentar contestação escrita, nem justificar a falta no prazo de três dias, consideram-se confessados os factos articulados pelo autor”) e o teor dos documentos juntos dos autos, que aqui se dão por reproduzidos. ***
+FUNDAMENTAÇÃO – MATÉRIA DE DIREITO
+
+Nos presentes autos, a demandante peticiona a condenação da demandada no pagamento de indemnização no montante de € 800 (oitocentos euros) a título de reparação dos danos que lhe advieram do impedimento/obstrução à circulação de um eléctrico, e à alteração de percurso de outros dois, causado pelo estacionamento irregular do LB. Assim, a questão a analisar resume-se, basicamente, ao apuramento da existência de responsabilidade civil da demandada e da sua consequente obrigação de indemnizar a demandante no valor dos danos alegadamente causados.
+
+A responsabilidade civil por facto ilícito depende da verificação simultânea de vários pressupostos, previstos no art.º 483.º do Código Civil. É necessário existir um facto voluntário ilícito imputável ao lesante; que daí sobrevenha um dano; que entre o facto e o dano se verifique nexo de causalidade, de modo a poder afirmar-se que o dano resulta do facto ilícito.
+
+A ilicitude consiste na infração de um dever jurídico e para que o facto ilícito seja gerador de responsabilidade civil é necessário que o agente tenha assumido uma conduta culposa, que seja merecedora de reprovação ou censura em face do direito constituído. Actua com culpa, por ação ou omissão, quem omite o dever de diligência ou do cuidado que lhe era exigível, envolvendo, as vertentes consciente e inconsciente. No primeiro caso, o agente prevê a realização do facto ilícito como possível mas, por precipitação, desleixo ou incúria, crê na sua não verificação; na segunda vertente, por imprevidência, descuido, imperícia ou inaptidão, não previu a realização do facto ilícito como possível, podendo prevê-la se nisso concentrasse a sua inteligência e vontade. Para que o facto ilícito e culposo seja gerador de responsabilidade civil é ainda necessário que exista um nexo causal entre o facto culposo praticado pelo agente e o dano.
+
+Na responsabilidade extracontratual incumbe ao lesado provar a culpa do autor da lesão, nos termos dos artigos 487.º, n.º 1 e 342.º, n.º 1, ambos do Código Civil, salvo existindo presunção especial de culpa, já que a obrigação de indemnizar, independentemente de culpa, só existe nos casos especificados na lei, como prescreve o nº 2 do artigo 483º do Código Civil. É exemplo desses casos a disposição do artigo 493.º, do Código Civil, segundo o qual, “1. Quem tiver em seu poder coisa móvel ou imóvel, com o dever de a vigiar (…) responde pelos danos que a coisa ou os animais causarem, salvo se provar que nenhuma culpa houve da sua parte ou que os danos se teriam igualmente produzido ainda que não houvesse culpa sua”. Nesta disposição legal estabelece-se a inversão do ónus da prova, ou seja, uma presunção de culpa por parte de quem tem a seu cargo a vigilância de coisas. Se é o agente que provoca os danos com o emprego das coisas, então vigora o regime geral da responsabilidade civil. Como ensina o Prof. Antunes Varela, se a responsabilidade assenta sobre a ideia de que não foram tomadas as medidas de precaução necessárias para evitar o dano, a precaução recai em pleno sobre a pessoa que detém a coisa. Essa pessoa será, por via de regra, o proprietário. No caso, está provado que o veículo automóvel identificado nos autos foi irregularmente estacionado no Largo …, frente ao número …, em Lisboa, em violação do disposto no n.º 2 do artigo 3.º, do Código da Estrada, que dispõe “As pessoas devem abster-se de actos que impeçam ou embaracem o trânsito ou comprometam a segurança ou a comodidade dos utentes das vias”. Tal facto provocou a interrupção da marcha de um eléctrico durante cerca de 01:40 horas (uma hora e quarenta minutos) e obrigou à alteração de percurso de outros dois elétricos. Desta descrição resulta claro que os danos causados à demandante foram provocados por facto imputado à demandada, sendo a mesma responsável pelo ressarcimento dos danos causados à demandante.
+
+Prescreve o art.º 562.º, do Código Civil, que “quem estiver obrigado a reparar um dano deve reconstituir a situação que existiria, se não se tivesse verificado o evento que obriga à reparação” e a obrigação de indemnizar só existe em relação aos danos que o lesado provavelmente não teria sofrido se não fosse a lesão (cfr. artigo 563º do Código Civil), será fixada em dinheiro quando for impossível ou inconveniente a reconstituição natural (art.º 566º, nº 1, do mesmo Código), tendo como medida a diferença entre a situação patrimonial do lesado, na data mais recente que puder ser atendida pelo tribunal, e a que teria nessa data se não existissem os danos (cfr. art.º 566º, n.º 2).
+
+Por sua vez, estipula o n.º 1 do art.º 496.°, do Código Civil, "na fixação da indemnização deve atender-se aos danos não patrimoniais que, pela sua gravidade, mereçam a tutela do direito", acrescentando o seu n.º 3 que "O montante da indemnização será fixado equitativamente pelo tribunal, tendo em atenção, em qualquer caso, as circunstâncias referidas no art. 494.° (…)" ou seja, atendendo ao grau de culpabilidade do responsável, à sua situação económica e às do lesado e do titular do direito de indemnização, aos padrões da indemnização geralmente adaptados na jurisprudência, às flutuações do valor da moeda, etc. Donde resulta que, no caso dos danos não patrimoniais, a indemnização reveste uma natureza acentuadamente mista: "por um lado, visa reparar, de algum modo, mais do que indemnizar, os danos sofridos pela pessoa lesada, por outro lado, não lhe é estranha a ideia de reprovar ou castigar, no plano civilístico e com os meios próprios do direito privado, a conduta do agente " (A. Varela, ob. cit., pág. 630). Assim, o montante da indemnização deve ser proporcionado à gravidade do dano, calculado segundo critérios de equidade e tendo em conta as circunstâncias concretas do caso.
+
+Será, assim, neste âmbito que cumpre analisar os pedidos formulados pela demandante.
+
+Do requerimento inicial resulta que valores indemnizatórios reclamados resultam de uma estimativa efectuada pela demandante, tanto dos danos materiais, como dos danos morais. Quanto à fixação do montante relativo aos danos materiais, estipula o n.º 3, do artigo 566.º, do Código Civil, que “Se não poder ser averiguado o valor exato dos danos, o tribunal julgará equitativamente dentro dos limites que tiver por provado”.
+
+No caso dos autos não se coloca em dúvida que existam danos morais, que assumem gravidade bastante para justificar a fixação duma indemnização. Ou seja, no estado atual das sociedades contemporâneas, incluindo a nossa, a exigência do cidadão relativamente à prestação do serviço público é cada vez maior, sendo a pressão social sobre as empresas que prestam serviços públicos, quaisquer que sejam, é proporcional. É compreensível que um cidadão utente dos serviços de transporte da demandante, ao fim de esperar na paragem quase meia hora, se insurja contra a empresa, pondo em causa a sua eficiência na prestação do serviço, e que a empresa se sinta ofendida. Deste modo, qualquer cidadão que, por prática de contra ordenação estradal, impeça o prestador de um importante serviço público de cumprir cabalmente as obrigações que lhe competem, deve ser censurado também proporcionalmente.
+
+Vejamos, então, os montantes indemnizatórios peticionados: € 60 (sessenta euros) correspondente ao tempo de trabalho perdido pelos trabalhadores da demandante, apesar de os ter remunerado por esse tempo; € 340 (trezentos e quarenta euros) por quantias que deixou de receber na venda de vários bilhetes/cartões; € 250 (duzentos e cinquenta euros) por perda da sua boa imagem e € 150 (cento de cinquenta euros) das despesas dadas como provadas no número 14 de factos provados.
+
+Considerando os danos provados, a conduta da demandada, o grau da sua culpabilidade e os padrões da indemnização geralmente adaptados na jurisprudência, consideramos que os valores indemnizatórios peticionados pela demandante acima referidos, justos e equilibrados, pelo que nos termos do n.º 3 do artigo 496.º, do Código Civil, fixa-se em € 800 (oitocentos euros) o montante indemnizatório a pagar pela demandada à demandante. ***
+Quanto aos juros de mora, verificando-se existir um retardamento da prestação por causa imputável ao devedor, constitui-se este em mora e, consequentemente, na obrigação de reparar os danos causados ao credor, ao demandante (artigo 804º do Código Civil). Tratando-se de obrigações pecuniárias, a indemnização corresponderá aos juros a contar a partir do dia de constituição de mora (artigo 806º do Código Civil). Nos termos do nº 1 do artigo 805º do Código Civil, o devedor fica constituído em mora, após ter sido extrajudicialmente ou judicialmente interpolado ao pagamento. Assim, considerando-se a demandada citada em 28 de junho de 2018 (Doc. fls. 19), a demandante tem direito a juros de mora, à taxa de 4%, (nos termos do artigo 559º do Código Civil e Portaria nº 291/03, de 8 de Abril) desde essa data até efetivo e integral pagamento. ***
+DECISÃO
+
+Em face do exposto, julgo a presente ação procedente, por provada e, consequentemente, condeno a demandada a pagar ao demandante a quantia de € 800 (oitocentos euros), acrescida de juros de mora desde 29 de junho de 2018 até efetivo e integral pagamento. ***
+CUSTAS
+
+Nos termos da Portaria nº 1456/2001, de 28 de dezembro, declaro a demandada parte vencida, indo condenada no pagamento das custas processuais, pelo que deverá proceder ao pagamento de € 70 (setenta euros) neste Julgado de Paz, no prazo de três dias úteis a contar da data de notificação da presente decisão, sob pena do pagamento de uma sobretaxa diária de € 10 (dez euros) por cada dia de atraso. Cumpra-se o disposto no número 9 da mesma portaria, em relação à demandante. Decorridos vinte dias sobre o termo do prazo acima concedido, sem que se mostre efetuado o pagamento das custas, emita-se a respetiva certidão para efeitos de execução por falta de pagamento de custas, e remeta-se aos Serviços do Ministério Público junto do Juízo Local Cível do Tribunal da Comarca de Lisboa, pelo valor das custas em dívida, acrescidas da respetiva multa, com o limite previsto no n.º 10 da citada Portaria.
+
+Após trânsito, e encontrando-se integralmente pagas as respectivas custas processuais, arquivem-se os autos. ***
+A presente sentença (processada em computador, revista e impressa pela signatária - artº 18º da Lei nº 78/2001, de 13 de Julho) foi proferida e notificada à demandante e seu mandatário, nos termos do artigo 60º, da Lei nº 78/2001, de 13 de Julho, que ficaram cientes de tudo quanto antecede.
+
+Remeta-se cópia à demandada.
+
+Registe. ***
+
+Julgado de Paz de Lisboa, 23 de janeiro de 2019
+
+A Juíza de Paz,
+
+(Sofia Campos Coelho)
