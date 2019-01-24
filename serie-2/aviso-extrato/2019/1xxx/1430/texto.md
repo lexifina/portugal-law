@@ -1,0 +1,5 @@
+Aviso (extrato) n.º 1430/2019
+Projeto de Regulamento da Habitação Social do Município de Mirandela
+Júlia Maria de Almeida Lima e Sequeira Rodrigues, Presidente da Câmara Municipal de Mirandela, torna público, nos termos e para os efeitos do disposto no n.º 1 dos artigos 100.º e 101.º do Código do Procedimento Administrativo, que a Câmara Municipal deliberou, em reunião realizada no dia 3 de janeiro de 2019, submeter a audiência dos interessados e consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso, o projeto de Regulamento da Habitação Social do Município de Mirandela que se encontra disponível para consulta na página do Município em https://www.cm-mirandela.pt/pages/579. Os interessados podem endereçar as suas sugestões por escrito à Câmara Municipal de Mirandela para Largo do Município, 5370-288 Mirandela, ou através de correio eletrónico para gabinetejuridico@cm-mirandela.pt, dentro do prazo referido.
+11 de janeiro de 2019 - A Presidente da Câmara Júlia Maria de Almeida Lima e Sequeira Rodrigues.
+311973601
