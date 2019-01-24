@@ -1,0 +1,52 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "68",
+    "id": "43032",
+    "titulo": "Decreto-Lei n.º 54/2018, de 6 de julho, que \"Estabelece o regime jurídico da educação inclusiva\""
+  },
+  "fase": "Admissão Proposta de Alteração",
+  "codigo_fase": "260",
+  "data_registo": "2019-01-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c3249774e4752685a6a64694c54466d4d7a59744e4755785a6930344d6a59324c5442685a5746684d7a51784d6d55304f5335775a47593d&fich=b04daf7b-1f36-4e1f-8266-0aeaa3412e49.pdf&Inline=true",
+        "anexoNome": "Pospostas de Alteração (CDS-PP)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a67324d7a63334e7a646d4c545932596a45744e4464694e4330354d5452694c575977595755794e47566b4e7a6b77597935775a47593d&fich=8637777f-66b1-47b4-914b-f0ae24ed790c.pdf&Inline=true",
+        "anexoNome": "Propostas de Alteração (PSD)"
+      },
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45344d6a686a4f574d774c54426c4e5745744e475a6a4e6931684d5459324c574d334e7a4a6d4d54686c4e5463784e5335775a47593d&fich=1828c9c0-0e5a-4fc6-a166-c772f18e5715.pdf&Inline=true",
+        "anexoNome": "Porposta de Alteração (PCP)"
+      }
+    ],
+    "CodigoFase": "260",
+    "Comissao": null,
+    "DataFase": "2019-01-24",
+    "EvtId": "46",
+    "Fase": "Admissão Proposta de Alteração",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "346716",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
