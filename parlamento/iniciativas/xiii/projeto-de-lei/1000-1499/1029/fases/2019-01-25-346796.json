@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1029",
+    "id": "43149",
+    "titulo": "Lei de Bases da Política de Saúde"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2019-01-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "44958",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2019-02-26",
+            "id": "111529",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-02-26",
+            "id": "111520",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-02-26",
+            "id": "111518",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-08",
+            "id": "111666",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-12",
+            "id": "111677",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-22",
+            "id": "111907",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-26",
+            "id": "111922",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-03-29",
+            "id": "111986",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2019-01-25",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2019-01-25",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-03-15",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "1.ª Prorrogação do prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4d32497a4d6d49794d53316d5a6a557a4c5452694e4745744f47457a5969316d5a4442694d3259324d54686d4d4459756347526d&fich=f3b32b21-ff53-4b4a-8a3b-fd0b3f618f06.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-17",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "2.ª Prorrogação do Prazo",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e4455314f546b7a4f43316a4e5455344c545134595745744f446b7a5a6931685a54493259324d7a4f54466b5a4445756347526d&fich=04559938-c558-48aa-893f-ae26cc391dd1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo I - PA1 - Proposta alteração do PCP",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784d5445784e7a4d314f5330794d6d56694c545133597a637459575933597930314d7a59354e474d354e324d31596d49756347526d&fich=11117359-22eb-47c7-af7c-53694c97c5bb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo II - PA2 - Proposta alteração do BE",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387a4e5459354d444d315a43316b593259304c545179597a5974596a49344f5330344d32466a5a5745324e444e6d4e6a6b756347526d&fich=3569035d-dcf4-42c6-b289-83acea643f69.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo III - PA3 - Proposta alteração do PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d575a6b4d5459794e6931685957526b4c54526c596a4174595759325953316d4d44426d4f544e6d4f575a6c596d4d756347526d&fich=41fd1626-aadd-4eb0-af6a-f00f93f9febc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo IV - PA4 - Proposta alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938355a6a64685954646a4d79316d5a4745354c54526a4f546b744f54426b4e4330795a5456685a474e6c5a6a466a5a6a63756347526d&fich=9f7aa7c3-fda9-4c99-90d4-2e5adcef1cf7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo IX-LBS votações indic Mapa I  (de IV) PPP 171 - bases 1 a 9 e PAs ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d4f475177597a6332597930345a5752684c54517a4d324974595459784e4330334e6d5579597a413259545978593249756347526d&fich=f8d0c76c-8eda-433b-a614-76e2c06a61cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo IX-LBS votações indic Mapa II  (de IV) PPL 171 - bases 10 a 18 e PA's",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879596a59785a5463334e6930334d475a6b4c54526c5a6d4574596a63774d79307a4e6d49794d6a41334d324e6c4d324d756347526d&fich=2b61e776-70fd-4efa-b703-36b22073ce3c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo IX-LBS votações indic Mapa III (de IV) PPL 171 - bases 19 a 23 e PAs",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d3255315a54646a597931694e3252694c5451775a545174595445345979307a5a6a466a4e6d526d4d6a686b4d6a6b756347526d&fich=63e5e7cc-b7db-40e4-a18c-3f1c6df28d29.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Quadro comparativo",
+            "TituloDocumento": "Anexo IX-LBS votações indic Mapa IV (de IV) PPL 171 - bases 24 a 28 e PAs",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a6d566d596d4d314d7930355a4755354c5451774d6d51744f4451344e7930775a5752684f444a6c4d544a6b5a6d55756347526d&fich=dfefbc53-9de9-402d-8487-0eda82e12dfe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo V - PA5 - Proposta alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e6d5a694e474a684d69316c596d59784c5451325a44637459546b354f4330354e474e694e6d49325a4745304d4455756347526d&fich=46fb4ba2-ebf1-46d7-a998-94cb6b6da405.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "ANEXO VI - BE - Proposta de Adenda de um Novo número 2 à Base 22",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774f57493059545a6d5a43316c4d54417a4c54526a593249744f444d304d43316b5957597a4e6a466859574d784d7a67756347526d&fich=09b4a6fd-e103-4ccb-8340-daf361aac138.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo VII - PA7 - Proposta PCP novo número base V",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304f575a6a597a526c5a433168595451314c5452694f4449744f574e685a4330785a574e6a4e444e6d596a566b4e6a67756347526d&fich=49fcc4ed-aa45-4b82-9cad-1ecc43fb5d68.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Anexo VIII - PA8 - BE -Propostas de alteração à Lei de Bases da Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938784f4446694d4463324e43307a4e5455794c54526a595751744f444e6a4e79307a4d6a513559544d7a4e324d3059324d756347526d&fich=181b0764-3552-4cad-83c7-3249a337c4cc.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - ADSE - Conselho Geral e de Supervisão",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f4445784f5441314e53316a4e6a5a6a4c54526a4d324974595449335a5330314e6a566b4d4759354d7a5577593249756347526d&fich=28119055-c66c-4c3b-a27e-565d0f9350cb.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - ADSE - Conselho Geral e de Supervisão ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793879596d526c4d6d45784f5331694e3251344c54517a4d545574596a5977596930784e7a646b4d4445344e546b344e5455756347526d&fich=2bde2a19-b7d8-4315-b60b-177d01859855.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Ancc - Associação Nacional dos Cuidados Continuados",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a54553159546b325a433077595755784c54526c4e325574595449324e5330784e6a6c6c4d325a6a4e5759794e6a67756347526d&fich=de55a96d-0ae1-4e7e-a265-169e3fc5f268.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - apf - Associação de Farmácias de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835597a4d784f546b794f43316a4d57526d4c54513559545174595467344d69316d4e474d345a446b35595756684e3255756347526d&fich=9c319928-c1df-49a4-a882-f4c8d99aea7e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo  APFISIO - Associação Portuguesa de Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a6a55794f5463354d5330774d4463304c5451354d446374595445784d7930794f4459314e7a497a4e5459774d5441756347526d&fich=4f529791-0074-4907-a113-286572356010.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APNA - Naturopatia",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793835597a6b345a546733597930794e5463794c5451354e6d49744f4441784f533078596d46684f5467314e7a5a6c4d4745756347526d&fich=9c98e87c-2572-496b-8019-1baa98576e0a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APOGEN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793833596d557a4d54557a4d6930314f47526c4c5451334f4449744f5455344d43316a5a6a566b4e6a63774d6d466d4d574d756347526d&fich=7be31532-58de-4782-9580-cf5d6702af1c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Apogen - Associação Portuguesa de Medicamentos Genéricos e Biossimilares",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684e7a4d324f546778597930775a4759334c54526c4d7a4d744f54466c5a69303559574d314e5752694e6d453059544d756347526d&fich=a736981c-0df7-4e33-91ef-9ac55db6a4a3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Apormed - Associação Portuguesa das Empresas de Dispositivos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938794f44686d4e6a4a6b4d53316b4e446c684c54526b596a63744f4455304e7930344d4459345a474e694e6a677a4f5467756347526d&fich=288f62d1-d49a-4db7-8547-8068dcb68398.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APPA -Associação Portuguesa dos Profissionais de Acupuntura",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324d5446694e475134597930324e54566d4c5452684d6a51744f5746684e69316b4f545132597a526a597a677a4e5455756347526d&fich=611b4d8c-655f-4a24-9aa6-d946c4cc8355.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - APSEi - Associação Portuguesa de Segurança",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e3251344e6a55794e4330784e474a684c5451784d444d744f4463774e7930344e4745784d325a6a59575177597a4d756347526d&fich=e7d86524-14ba-4103-8707-84a13fcad0c3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação de Médicos pelo Direito à Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b4d6d4d795a6d55305a6930335a444d7a4c5451314e7a4974595467324d43316b59574a6a5a474e6d4d6a67344f544d756347526d&fich=d2c2fe4f-7d33-4572-a860-dabcdcf28893.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação de Técnicos e Engenheiros Hospitalares Portugueses (ATEHP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939684d44646b4d545a69597931694e54566b4c54526a596a5974596a45345a5330794f4745355a5455345a6d566a4d7a4d756347526d&fich=a07d16bc-b55d-4cb6-b18e-28a9e58fec33.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-19",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação para o Desenvolvimento da Enfermagem Hospitalar Portuguesa (ADEHPO) ",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325a446b354e5467334d6930304f546b324c5451324e6a4174596a63324e5331695a6a5a695a4468685a5749344e6a51756347526d&fich=6d995872-4996-4660-b765-bf6bd8aeb864.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Fitoterapia Clássica - APFC",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c59574d31596a4535597930324e5463314c54526b4d444174596a4d344e6931694f574a6a4e32497a4e324a695a6a59756347526d&fich=eac5b19c-6575-4d00-b386-b9bc7b37bbf6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Associação Portuguesa de Hospitalização Privada (APHP)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d6a6b3059324d7a4e43316a4e6a45794c54526a4e6a5174595445784e53316d4e6d4d795a44646a4d6a513559546b756347526d&fich=0294cc34-c612-4c64-a115-f6c2d7c249a9.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Augusto Henriques",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a445269596a4e694d4330784e6a49794c5451345957497459544d354e79316b4d4468684e6a6b774e444d334d6d55756347526d&fich=8d4bb3b0-1622-48ab-a397-d08a6904372e.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - CGTP-IN",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d596a59304d446732597930324e6a51794c5451344e444574596d4e684d69307a597a67314e446b784e47566c5a6d55756347526d&fich=fb64086c-6642-4841-bca2-3c854914eefe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Cidadania na Enfermagem",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396a4f474d314e6d51344d7931694d4751794c54526c4f5759744f474a6b4f5330795a5745794f4455784d574535596d55756347526d&fich=c8c56d83-b0d2-4e9f-8bd9-2ea28511a9be.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Cidadania na Enfermagem",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334d444e695a57566d4e4331694f5449314c5451784d7a51745957466b4e79316d4d5745314d544d774e6d45354e7a51756347526d&fich=703beef4-b925-4134-aad7-f1a51306a974.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-04",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Contributo - CIP - Confederação Empresarial de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c324679626d56304c334e706447567a4c31684a53556c4d5a5763765130394e4c7a6c4455793942636e463161585a765132397461584e7a59573876544756704a5449775a47556c4d6a424359584e6c6379394462323530636d6c69645852764a5449774c5355794d454e4a554355794d43306c4d6a42446232356d5a57526c636d484470384f6a627955794d45567463484a6c63324679615746734a5449775a47556c4d6a425162334a3064576468624335775a47593d&fich=Contributo%20-%20CIP%20-%20Confedera%C3%A7%C3%A3o%20Empresarial%20de%20Portugal.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Conselho Nacional de Ética para as Ciências da Vida (CNECV)",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832597a6b354d545a6c5a5330784d7a526a4c54517a4e5445744f57557a5a6930794d32566d4d324a694d5455344e6a51756347526d&fich=6c9916ee-134c-4351-9e3f-23ef3bb15864.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - DECO - Associação Portuguesa para a Defesa do Consumido",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279387959324932597a49355a5330314d446c6b4c5451774d4451744f544d7a596930314e324a6b4e44426a4d544d774d4759756347526d&fich=2cb6c29e-509d-4004-933b-57bd40c1300f.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - DECO - Associação Portuguesa para a Defesa do Consumidor",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d7a646a595446694d7930785a6a4d334c5451784e5745744f446c694e79316d4f4749315a6d4d794d574d354e6d4d756347526d&fich=e37ca1b3-1f37-415a-89b7-f8b5fc21c96c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-23",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Duarte Soares e Outros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354f546b334f544d354d5330334d6a41304c5451794f5759744f5759794e433035597a426c59574d794d5449304d5445756347526d&fich=99979391-7204-429f-9f24-9c0eac212411.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-08",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - EUPATI Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334f5755334f5459325a43316b5a574d334c5451304e4451744f5745354e69316a4d474d794e7a4935595749785a444d756347526d&fich=79e7966d-dec7-4444-9a96-c0c2729ab1d3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - FNAM - Federação Nacional dos Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396d5a475179593259315a6930354e54566d4c5451355a546374596a4e695953316b4e6d45344e544e694d6d497a4f474d756347526d&fich=fdd2cf5f-955f-49e7-b3ba-d6a853b2b38c.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - FNEMTCA - Federação Nacional de Escolas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d7a64694e7a59794d7930775a5459784c5451794e446b744f545935596930304f4441334e544e684f445535596a45756347526d&fich=937b7623-0e61-4249-969b-480753a859b1.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-22",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - FNS - Federação Nacional dos Prestadores de Cuidados de Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938344f44497a597a4a6a4e53316c4f5467324c54517a4d5441744f47526c4d53316d5a574d305a446b324f5459335a5459756347526d&fich=8823c2c5-e986-4310-8de1-fec4d96967e6.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-15",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - José Contributo - Germano de Sousa pelos Subscritores dos Princípios orientadores para uma Lei de Bases da Saúde",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938345a4751324e444e6a4e79307a4d4452694c5452684e6a6774596a67774d79316a4d6a6b794f4755354e47497a5a6a49756347526d&fich=8dd643c7-304b-4a68-b803-c2928e94b3f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Ordem dos Farmacêutios",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939695a44686b596a42694f53316a5a6d517a4c5451784d474d744f4745314d6930324f4749344f4755304e6a4d775a5755756347526d&fich=bd8db0b9-cfd3-410c-8a52-68b88e4630ee.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - Ordem dos Médicos Veterinários",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938354d3249794d4751354d7930774e6a4a6d4c5452695a6a59744f444135597930314d47457a4e574d7a596a63335a544d756347526d&fich=93b20d93-062f-4bf6-809c-50a35c3b77e3.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo - USF-AN - Unidade Saúde Familiar Associação Nacional",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938325954526a4d474531596930344e4467774c5451325a6d49744f475a694e4331684d574a6b4e5745774e6d55324d4467756347526d&fich=6a4c0a5b-8480-46fb-8fb4-a1bd5a06e608.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo ANEM - Associação Nacional de Estudantes de Medicina",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627939694d47466c4e5463784f53316a596d45324c54517a4e6a59744f5445795953307959574d344d6d49354e7a68694d6d51756347526d&fich=b0ae5719-cba6-4366-912a-2ac82b978b2d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo APPSP - Associação Portuguesa para Promoção da Saúde Pública",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938335a6a6b305a6a51344e533169595449334c5451794e575574596a45335a6930354e474e6d4e6a4d325a4445354d6a51756347526d&fich=7f94f485-ba27-425e-b17f-94cf636d1924.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributo CNIS - Confederação Nacional das Instituições de Solidariedade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4d5756685a47466c5a6930324e54686b4c54526d59544974596d45355a433077593255794e6a6c6a4d444e684e7a6b756347526d&fich=e1eadaef-658d-4fa2-ba9d-0ce269c03a79.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-03-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos_APFISIO -  Associação Portuguesa de Fisioterapeutas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396b5a574a6a596a4e6b4d4330334f54597a4c5451344d7a67744f44466b4d5330324d3245774f574d314d4441794f446b756347526d&fich=debcb3d0-7963-4838-81d1-63a09c500289.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-04-01",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Contributos_APSAi - Associação Portuguesa de Saúde Ambiental",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793830595751785a6a4a6c4e7931695a54557a4c54526a4f474574596a677a4e5330785a546331596d45314d6d4e685a6d55756347526d&fich=4ad1f2e7-be53-4c8a-b835-1e75ba52cafe.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-25",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem dos Biólogos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793878595463775a444a694d5331684d6a55344c5452694d7a63744f474e6a4d5330304e6d45324e7a63335a574977593245756347526d&fich=1a70d2b1-a258-4b37-8cc1-46a6777eb0ca.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - Ordem Médicos",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d7a4e6b4d4749355a4331684d5455794c54526d4d5451744f44466c4d5331684d4467344e574e6b4e4745304d6a59756347526d&fich=433d0b9d-a152-4f14-81e1-a0885cd4a426.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-27",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer - sobre Missões e representações Externas de Portugal",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c5a444e695a5445304f5331695a6d466c4c5451314e546774595442684d43316a597a49334f5463785a6d45334e6a55756347526d&fich=ed3be149-bfae-4558-a0a0-cc27971fa765.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-02-26",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Pronúncia - Ordem Enfermeiros",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793832597a68694e444d785a6931694f474d304c5451304e5441744f544d344e69316a4d7a64694e4467784d5745774d6a67756347526d&fich=6c8b431f-b8c4-4450-9386-c37b4811a028.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório de discussão e votação da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304e446c6b4f47526b4e533032597a45794c5452684d6a67744f4752694d6930305a5449354e4442694e6d59314d3251756347526d&fich=449d8dd5-6c12-4a28-8db2-4e2940b6f53d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-12",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de substituição da 9.ª CS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e686279396c4e5446694d54526c4d69316d4e5463784c5451315a6d4974595756694e79307a4f474d344e44426b5a47597a5a6a6b756347526d&fich=e51b14e2-f571-45fb-aeb7-38c840ddf3f9.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4532",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Saúde",
+        "Numero": "4532",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na generalidade e especialidade, proposta de alteração apresentadas pelo PCP, BE, PSD e PS e texto de substituição",
+            "pag": [
+              "180-358"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-10",
+            "pubLeg": "XIII",
+            "pubNr": "124",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/124/2019-07-10/180?pgs=180-358&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Relatório da discussão e votação na generalidade e especialidade, proposta de alteração apresentadas pelo PCP, BE, PSD e PS e texto de substituição",
+            "pag": [
+              "180-358"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-10",
+            "pubLeg": "XIII",
+            "pubNr": "124",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/124/2019-07-10/180?pgs=180-358&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": null,
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2019-01-25",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "346796",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
