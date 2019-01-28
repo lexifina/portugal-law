@@ -1,0 +1,7 @@
+Aviso n.º 1561/2019
+Victor Hugo Machado da Costa Salgado de Abreu, Presidente da Câmara Municipal de Vizela, torna público que, para os efeitos previstos no n.º 1 do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal de Vizela, reunida em sessão ordinária no dia 18 de dezembro de 2018, deliberou por maioria, a abertura da discussão publicada alteração ao regulamento do Plano Diretor Municipal de Vizela.
+Para a Discussão Pública, nos termos do n.º 1 do artigo 89.º do referido decreto-lei, é estabelecido o período de 30 dias, contados a partir do quinto dia, após a publicação da deliberação camarária no Diário da República, podendo os interessados consultar a referida deliberação e os documentos que a integram, na página oficial da Câmara Municipal de Vizela em www.cm-vizela.pt e na Divisão de Planeamento e Gestão Urbanística, desta Câmara Municipal.
+A formulação de sugestões, reclamações ou observações, poderão ser enviadas à Câmara Municipal de Vizela, por carta registada, ou endereço eletrónico da Divisão de Planeamento e Gestão Urbanística dgu@cm-vizela.pt, ou entregue diretamente no Balcão Único de Atendimento.
+Para os devidos efeitos legais, considera-se cumprida a respetiva divulgação, através do presente Aviso, que será afixado nos lugares de estilo e na página da internet deste Município.
+15 de janeiro de 2019. - O Presidente da Câmara, Dr. Victor Hugo Machado da Costa Salgado de Abreu.
+611981248
