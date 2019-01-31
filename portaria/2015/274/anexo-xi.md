@@ -2,14 +2,14 @@
 
 ### Nível dos apoios
 
-(a que se refere o artigo 31.º)
+(a que se refere o artigo 25.º)
 
-8.1.6, «Melhoria do valor económico das florestas»
+8.1.5, 'Melhoria da resiliência e do valor ambiental das florestas'
 
-I - Apoio ao investimento
+I - Intervenção ao nível das explorações florestais
 
 (ver documento original)
 
-II - Apoio à elaboração de PGF
+II - Intervenção de escala territorial relevante
 
 (ver documento original)

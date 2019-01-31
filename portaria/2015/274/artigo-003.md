@@ -2,9 +2,9 @@
 
 ### Definições
 
-1- Para efeitos de aplicação da presente portaria, e sem prejuízo das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+1 - Para efeitos de aplicação da presente portaria, e sem prejuízo das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
 
-a) 'Área contígua', áreas confinantes ou que se encontrem separadas por elementos no terreno com largura inferior a 20 metros, quer naturais quer artificiais, como sejam caminhos, estradas ou linhas de água, sem prejuízo do disposto no n.º 2;
+a) 'Área agrupada', o conjunto de prédios, ocupados total ou parcialmente por espaços florestais, submetido a uma gestão única e com uma área mínima de 100 hectares (ha), na titularidade de organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais ou de, pelo menos, dois detentores de espaços florestais distintos;
 
 b) «Bosquetes» as formações vegetais com a presença de, pelo menos, seis árvores de altura superior a 5 m e grau de coberto maior ou igual a 10 %, ou árvores capazes de atingir esses limiares in situ, inseridas noutra superfície com uma ocupação do solo de natureza diversa;
 
@@ -12,7 +12,7 @@ c) «Certificação da gestão florestal» o processo através do qual uma entid
 
 d) «Detentor de espaços florestais» o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestal;
 
-e) «Detentor de terras agrícolas ou não agrícolas» o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, detenha a administração de terras agrícolas ou não agrícolas, incluindo as entidades gestoras de zonas de intervenção florestal;
+e) 'Entidade Coletiva de Gestão Florestal (ECGF)' as entidades de gestão florestal (EGF) e as unidades de gestão florestal (UGF), reconhecidas nos termos no Decreto-Lei n.º 66/2017, de 12 de junho, alterado pela Lei n.º 111/2017, de 19 de dezembro, e as entidades gestoras de área agrupada;
 
 f) 'Entidades Coletivas de Gestão Florestal', as entidades de gestão florestal (EGF) e as unidades de gestão florestal (UGF), reconhecidas nos termos do Decreto-Lei n.º 66/2017, de 12 de junho, alterado pela Lei n.º 111/2017, de 19 de dezembro;
 
@@ -22,7 +22,7 @@ h) «Exploração florestal» o prédio ou conjunto de prédios, de forma contí
 
 i) 'Florestação de terras agrícolas', a primeira instalação de espécies florestais, arbóreas ou arbustivas, por sementeira ou plantação, em terras agrícolas;
 
-j) 'Florestação de terras não agrícolas', a primeira instalação de espécies florestais, arbóreas ou arbustivas, por sementeira ou plantação, em terras não agrícolas, podendo incluir o aproveitamento da regeneração natural;
+j) 'Intervenções com escala territorial relevante' as intervenções que abranjam áreas mínimas de 750 hectares (ha), sem prejuízo do disposto nos n.os 3 e 4;
 
 k) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas contínuas ou contíguas de 750 hectares (ha), sem prejuízo do disposto no n.º 3;
 
@@ -48,8 +48,12 @@ u) 'Sistema agroflorestal', as superfícies que combinam agricultura (pastagem o
 
 v) [Anterior alínea u) do corpo do artigo.]
 
-w) 'Zona de intervenção florestal (ZIF)', a área territorial contínua e delimitada, constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e administrada por uma única entidade, conforme estabelecido no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, 27/2014, de 18 de fevereiro, e 67/2017, de 12 de junho.
+w) 'Zona de intervenção florestal (ZIF)', a área territorial contínua e delimitada, constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e administrada por uma única entidade, conforme estabelecido no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, 27/2014, de 18 de fevereiro, e 67/2017, de 12 de junho;
+
+x) 'Entidade gestora de área agrupada', a pessoa coletiva ou o organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais a quem compete, pelo período mínimo de dez anos, a gestão florestal comum de uma área agrupada.
 
 2 - A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
 
-3 - Consideram-se no âmbito das intervenções a que se refere a alínea k) do n.º 1, aquelas que incluam áreas submetidas ao regime florestal detidas por pessoas coletivas públicas da Administração Central ou Local, zonas de intervenção florestal, baldios, áreas de intervenção cujos detentores sejam entidades do Setor Empresarial do Estado e Local e entidades coletivas de gestão florestal, numa área mínima contínua ou contígua de 100 ha ou áreas de intervenção apresentadas por organismos da Administração Local, numa área mínima contínua ou contígua de 100 ha.
+3 - Consideram-se no âmbito das intervenções a que se refere a alínea k) do n.º 1, aquelas que incluam áreas submetidas ao regime florestal detidas por pessoas coletivas públicas da administração central ou local, zonas de intervenção florestal, baldios, áreas de intervenção cujos detentores sejam organismos da administração pública central, entidades do Setor Empresarial do Estado e local, ou entidades coletivas de gestão florestal, numa área mínima de 100 hectares (ha), ou áreas de intervenção apresentadas por organismos da administração local, numa área mínima de 100 ha.
+
+4 - Os investimentos que respeitem exclusivamente a infraestruturas não são considerados no âmbito do apuramento da área de intervenção para efeitos do disposto na alínea k) do n.º 1.

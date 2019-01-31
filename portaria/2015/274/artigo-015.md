@@ -12,7 +12,7 @@ c) Respeitem as densidades mínimas e máximas previstas no anexo vi da presente
 
 d) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os programas regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal, e demais instrumentos de planeamento e gestão aplicáveis;
 
-e) No caso das ações de arborização e rearborização localizadas em áreas integradas total ou parcialmente na RNAP ou RN2000, devem as mesmas encontrar-se previamente autorizadas ou com comunicação prévia válida, se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P. que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto;
+e) No caso das ações de arborização e rearborização localizadas em áreas integradas total ou parcialmente na RNAP ou RN2000, devem as mesmas encontrar-se autorizadas ou com comprovativo da apresentação do pedido de autorização, ou com comunicação prévia válida quando aplicável, se se encontrarem previstas em PGF aprovado em decisão expressa favorável do ICNF, I. P., que integre todos os elementos técnicos de conteúdo necessários ao cumprimento do RJAAR, de acordo com o estabelecido pelo Decreto-Lei n.º 96/2013, de 19 de julho, alterado pela Lei n.º 77/2017, de 17 de agosto, e pelo Decreto-Lei n.º 12/2019, de 21 de janeiro;
 
 f) Apresentem PGF aprovado ou comprovativo da sua entrega no ICNF, I. P., quando obrigatório por força do Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro e 65/2017, de 12 de junho.
 
