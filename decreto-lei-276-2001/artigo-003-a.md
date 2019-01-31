@@ -2,7 +2,7 @@
 
 ### Mera comunicação prévia
 
-1 - A mera comunicação prévia a que se refere a alínea a) do n.º 1 do artigo anterior é dirigida à DGAV e deve conter os seguintes elementos, quando aplicáveis:
+1 - A mera comunicação prévia a que se refere a alínea a) do n.º 1 do artigo anterior é dirigida ao presidente da câmara municipal e deve conter os seguintes elementos, quando aplicáveis:
 
 a) O nome ou a denominação social do interessado;
 
@@ -27,3 +27,5 @@ j) Declaração de responsabilidade, subscrita pelo interessado, relativa ao cum
 2 - A mera comunicação prévia é efetuada por via eletrónica, através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
 3 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a mera comunicação prévia pode ser efetuada por qualquer outro meio previsto na lei.
+
+4 - A câmara municipal transmite à DGAV, no prazo de 24 horas, da receção da comunicação prévia referida nos números anteriores, para efeitos de atribuição de número nacional de identificação e registo, no âmbito da base de dados de gestão dos animais de companhia.

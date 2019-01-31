@@ -2,7 +2,7 @@
 
 ### Permissão administrativa
 
-1 - O pedido de permissão administrativa a que se refere a alínea b) do n.º 1 do artigo 3.º é apresentado à DGAV e deve conter os seguintes elementos, quando aplicáveis:
+1 - O pedido de permissão administrativa a que se refere a alínea b) do n.º 1 do artigo 3.º é dirigido ao presidente da câmara municipal da área do alojamento, e deve conter os seguintes elementos, quando aplicáveis:
 
 a) O nome ou a denominação social do interessado;
 
