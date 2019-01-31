@@ -6,7 +6,7 @@
 
 ### Controlo e fiscalização
 
-1 - Sem prejuízo das competências atribuídas por lei a outras entidades no âmbito da fiscalização, em especial as atribuídas à Autoridade de Segurança Alimentar e Económica (ASAE), o controlo do cumprimento das normas do NREAP compete em especial às DRAP.
+1 - Sem prejuízo das competências de fiscalização atribuídas por lei a outras entidades, em especial as atribuídas à Autoridade de Segurança Alimentar e Económica (ASAE), o controlo do cumprimento das normas do NREAP compete em especial às DRAP, exceto no que respeita à classe 3, em que tal competência pertence aos órgãos do município em cujo território a exploração se situe.
 
 2 - Qualquer das entidades públicas com competências previstas no artigo 9.º deve informar as restantes da intenção de proceder a uma ação de controlo com vista à realização de ação conjunta.
 

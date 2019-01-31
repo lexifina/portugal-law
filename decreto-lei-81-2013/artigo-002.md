@@ -36,7 +36,7 @@ l) «Efluentes pecuários» o estrume e chorume;
 
 m) «Encabeçamento» a relação entre o conjunto de animais das diferentes espécies existentes numa exploração, expressa em cabeças normais, em face da superfície agrícola da exploração utilizada no pastoreio ou na alimentação do efetivo pecuário, expressa por hectare (ha);
 
-n) «Entidade coordenadora» a direção regional de agricultura e pescas territorialmente competente, a quem compete a coordenação do processo de controlo prévio da instalação, da alteração e do desenvolvimento das atividades pecuárias, nos termos previstos no presente decreto-lei;
+n) «Entidade coordenadora» a direção regional de agricultura e pescas territorialmente competente, a quem compete a coordenação do processo de controlo prévio da instalação, da alteração e do desenvolvimento das atividades pecuárias e a câmara municipal em relação às explorações classe 3, nos termos previstos no presente decreto-lei;
 
 o) «Entreposto pecuário» a instalação onde animais são agrupados, com o objetivo de constituição de lotes para abate ou para exploração em vida, sendo detidos por um comerciante;
 
