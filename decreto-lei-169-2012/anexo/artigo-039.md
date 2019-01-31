@@ -16,9 +16,9 @@ c) «Alteração substancial» que implique um aumento do risco do estabelecimen
 
 d) Alteração, que careça por si mesma, de alvará para operação de gestão de resíduos perigosos;
 
-e) Alteração que implique a atribuição do número de controlo veterinário ou número de identificação individual, consoante se trate de operador no setor dos géneros alimentícios ou subprodutos de origem animal ou do setor dos alimentos para animais, respetivamente, de acordo com a legislação aplicável.
+e) [Revogada.]
 
-2 - (Revogado).
+2 - (Revogado.)
 
 3 - Fica sujeita a procedimento sem vistoria prévia, a alteração de estabelecimento industrial:
 

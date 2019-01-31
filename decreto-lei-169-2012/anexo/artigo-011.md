@@ -26,15 +26,15 @@ c) Regime jurídico de prevenção de acidentes graves que envolvam substâncias
 
 d) Realização de operação de gestão de resíduos que careça de vistoria prévia ao início da exploração, à luz do regime de prevenção, produção e gestão de resíduos;
 
-e) Exploração de atividade agroalimentar que utilize matéria-prima de origem animal não transformada, de atividade que envolva a manipulação de subprodutos de origem animal ou de atividade de fabrico de alimentos para animais que careça de atribuição de número de controlo veterinário ou de número de identificação individual, nos termos da legislação aplicável.
+e) [Revogada.]
 
 3 - São incluídos no tipo 2 os estabelecimentos industriais não incluídos no tipo 1, desde que abrangidos por pelo menos um dos seguintes regimes jurídicos ou circunstâncias:
 
-a) [Revogada];
+a) [Revogada.]
 
-b) [Revogada];
+b) [Revogada.]
 
-c) [Revogada];
+c) [Revogada.]
 
 d) Regime do comércio europeu de licenças de emissão de gases com efeitos de estufa (CELE);
 
