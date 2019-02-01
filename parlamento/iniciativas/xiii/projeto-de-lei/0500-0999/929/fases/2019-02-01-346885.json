@@ -1,0 +1,422 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "929",
+    "id": "42810",
+    "titulo": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-02-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13664",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-02-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43324",
+        "leg": "XIII",
+        "nr": "1075",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2571",
+            "obs": null,
+            "pag": [
+              "11-16"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-02-02",
+            "pubLeg": "XIII",
+            "pubNr": "47",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/11?pgs=11-16&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Fim do prazo de um ano para desmantelar veículos em centros certificados"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-02-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:42:30:873&drc=00:04:14:027"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=01:01:48:347&drc=00:02:10:807"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "11-12",
+                  "15-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/11?pgs=11-12,15-16&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "6037",
+                "nome": "Patrícia Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:46:44:900&drc=00:03:30:237"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "12-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/12?pgs=12-13&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:50:15:137&drc=00:03:00:539"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-13"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/13?pgs=13&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5489",
+                "nome": "António Topa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:53:15:677&drc=00:03:04:596"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "13-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/13?pgs=13-14&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5906",
+                "nome": "Ângela Moreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:56:20:273&drc=00:02:41:000"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "14-14"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/14?pgs=14&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3926",
+                "nome": "Pedro Filipe Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "12:26",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_01_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=00:59:01:273&drc=00:02:47:074"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "15-15"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-02",
+                "pubLeg": "XIII",
+                "pubNr": "47",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/15?pgs=15&org=PLC"
+              }
+            ],
+            "sumario": "Elimina o prazo para o desmantelamento dos Veículos em Fim de Vida nos Centros de Abate (Alteração ao Decreto-Lei n.º 152-D/2017, de 11 de dezembro); Fim do prazo de um ano para desmantelar veículos em centros certificados",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "346885",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851996",
+        "obs": null,
+        "pag": [
+          "11-16"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-02-02",
+        "pubLeg": "XIII",
+        "pubNr": "47",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/047/2019-02-02/11?pgs=11-16&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
