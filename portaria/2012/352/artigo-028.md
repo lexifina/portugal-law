@@ -6,20 +6,24 @@
 
 2 - Os montantes a cobrar pelo INFARMED, I. P., pelos atos referidos no número anterior são os seguintes:
 
-a) (euro) 250 pela análise e pré-seleção das candidaturas;
+a) (euro) 100 pela análise e pré-seleção das candidaturas no âmbito de procedimento concursal para abertura de nova farmácia ou novo posto farmacêutico móvel;
 
-b) (euro) 375 pela análise de documentos referente a qualquer procedimento, concursal ou não, não abrangida pela alínea anterior;
+b) (euro) 250 pela análise de documentos referentes a procedimento de transferência de localização de farmácia dentro do mesmo município ou para município limítrofe;
 
-c) (euro) 500 pela vistoria às instalações da farmácia ou do posto farmacêutico móvel;
+c) (euro) 600 pela vistoria às instalações da nova farmácia ou nova localização resultante de transferência da mesma, ou às instalações do posto farmacêutico móvel;
 
-d) (euro) 750 pela emissão de alvará de nova farmácia ou nova localização resultante de transferência;
+d) (euro) 350 pela análise de qualquer pedido de registo ou a averbamento no alvará, resultantes da alteração da propriedade da farmácia ou das participações sociais na sociedade proprietária de farmácia;
 
-e) (euro) 100 por qualquer ato sujeito a registo ou a averbamento no alvará, incluindo os que impliquem alteração da propriedade da farmácia ou das participações sociais na sociedade proprietária de farmácia, bem como os ónus incidentes sobre o estabelecimento.
+e) (euro) 150 pela análise de qualquer pedido de averbamento no alvará da direção técnica ou farmacêutico responsável pelo posto farmacêutico móvel ou de registo de farmacêutico substituto ou procedimentos de obras.
 
-3 - Constituem ainda encargos dos requerentes os custos das certidões e das fotocópias simples referentes a processos de farmácias ou postos farmacêuticos, nos seguintes termos:
+3 - O cancelamento de registos ou averbamentos não está sujeito ao pagamento de taxa.
 
-a) Por cada certidão até 10 folhas - (euro) 30;
+4 - Constituem ainda encargos dos requerentes os custos das certidões e das fotocópias simples referentes a processos de farmácias ou postos farmacêuticos móveis, nos seguintes termos:
 
-b) Por cada conjunto suplementar de até 10 folhas - (euro) 7,50;
+a) Por cada certidão ou declaração descritiva do teor até 2 folhas - (euro) 35;
 
-c) Por cada conjunto de fotocópias simples até 10 folhas - (euro) 3.
+b) Por cada conjunto suplementar de certidão ou declaração descritiva do teor até 2 folhas - (euro) 25;
+
+c) Por certidão de cópia de documentos - (euro) 1 por folha;
+
+d) Por cada fotocópia simples - (euro) 0,50 por folha.
