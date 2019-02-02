@@ -14,6 +14,8 @@ b) Em caso de anulação do acto tributário por iniciativa da administração t
 
 c) Quando a revisão do acto tributário por iniciativa do contribuinte se efectuar mais de um ano após o pedido deste, salvo se o atraso não for imputável à administração tributária.
 
+d) Em caso de decisão judicial transitada em julgado que declare ou julgue a inconstitucionalidade ou ilegalidade da norma legislativa ou regulamentar em que se fundou a liquidação da prestação tributária e que determine a respetiva devolução.
+
 4 - A taxa dos juros indemnizatórios é igual à taxa dos juros compensatórios.
 
 5 - No período que decorre entre a data do termo do prazo de execução espontânea de decisão judicial transitada em julgado e a data da emissão da nota de crédito, relativamente ao imposto que deveria ter sido restituído por decisão judicial transitada em julgado, são devidos juros de mora a uma taxa equivalente ao dobro da taxa dos juros de mora definida na lei geral para as dívidas ao Estado e outras entidades públicas.
