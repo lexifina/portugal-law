@@ -1,3 +1,7 @@
+## Secção IV
+
+## Organização
+
 ## Secção V
 
 ## Acesso a recursos pedagógicos
