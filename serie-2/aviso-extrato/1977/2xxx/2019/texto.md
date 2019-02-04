@@ -1,0 +1,27 @@
+Aviso (extrato) n.º 1977/2019
+Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia
+União das freguesias de Santa Iria de Azoia, São João da Talha e Bobadela
+Tiago Farinha Matias, Vereador da Câmara Municipal de Loures, no âmbito das competências que lhe foram delegadas por Despacho n.º 184/2018, de 2 de outubro de 2018, torna público que esta Câmara Municipal, na 26.ª Reunião Ordinária de 21 de novembro de 2018, de acordo com a proposta 511/2018, deliberou aprovar Novos Termos de Referência para a elaboração do Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia, estimando-se o prazo de 665 dias para a conclusão do plano, nos termos do n.º 1, do artigo 76.º e do artigo 78.º do Decreto-Lei n.º 80, de 14 de maio.
+Mais se anuncia que, nos termos do n.º 2 do artigo 88.º do referido diploma legal é fixado um prazo de 15 dias úteis, a contar da data da publicação no Diário da República para a formulação de sugestões, bem como a apresentação de informação sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração do Plano de Pormenor, as quais deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Loures - Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia.
+Os elementos encontram-se disponível para consulta dos interessados na página da internet da Câmara Municipal, em www.cm-loures.pt e no Departamento de Planeamento e Gestão Urbanística, sito na Rua Ilha da Madeira, n.º 4, r/c, em Loures, todos os dias úteis das 09:00 às 16:00 horas.
+As sugestões e informações poderão ser entregues pessoalmente ou remetidas para o endereço de correio eletrónico da Divisão de Planeamento e Reabilitação Urbana, discussaopublica_dpru@cm-loures.pt, ou ainda enviadas por correio para o Departamento de Planeamento e Gestão Urbanística, na Rua Ilha da Madeira, n.º 4 r/c, 2674 -501 Loures.
+28 de novembro de 2018. - O Vereador, Tiago Farinha Matias.
+Deliberação
+Considerando que:
+A) Através da deliberação de aprovação da proposta 255/2015, na Reunião de Câmara de 09-06-2015, foi aprovada, por unanimidade, a elaboração do Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia, e os respetivos termos de referência;
+B) Que foram iniciados os trabalhos de elaboração nos pressupostos então estabelecidos, contando com a natureza e vocação do IST para abrir novas condições de integração espacial e funcional do espaço da Quinta dos Remédios na envolvente da Bobadela/São João da Talha, e apostando na concertação dos objetivos e termos fixados no Plano Diretor Municipal (PDM) para a Subunidade Operativa de Planeamento e Gestão (SUOPG) 23 com as perspetivas de desenvolvimento do campus por parte do IST;
+C) A Resolução do Conselho de Ministros n.º 28/2018, de 9 de março, que determinou a localização, na área de intervenção de uma importante nova unidade de saúde, integrada no Serviço Nacional de Saúde (SNS), apetrechada para o tratamento de doentes com cancro, com recurso a tecnologias de ponta e associada à unidade de investigação e desenvolvimento, situada no Campus Tecnológico e Nuclear do Instituto Superior Técnico (IST), na Bobadela;
+D) Tal fator, não comprometendo o conceito inicial do Plano, pelo seu valor acrescentado, exige que se adeque a capacidade conferida pelo PDM de Loures aos requisitos operacionais do novo equipamento a implantar, cuja influência ultrapassa, não apenas a dimensão local, mas também a dimensão nacional;
+E) Que o novo modelo de ocupação não se restringe à consideração do equipamento, mas terá em conta as funções complementares associadas e os recursos de sustentação daquele investimento;
+F) A alteração dos termos de referência agora proposta e a recalendarização dos prazos de elaboração do Plano, concertados no âmbito da cooperação com o IST, visam proporcionar enquadramento às novas necessidades formadas e proporcionar o tempo necessário à construção do novo modelo;
+G) As características dos novos equipamentos programados, não alteram a necessidade de imposição de uma rigorosa avaliação ambiental;
+Tenho a honra de propor:
+Que a Câmara Municipal delibere, ao abrigo das competências conferidas pelos n.os 1 e 3 do artigo 76.º e n.os 1 e 2 do artigo 78.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na redação em vigor, aprovar:
+1 - A calendarização dos prazos a observar a partir do presente, para a elaboração do Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia, de acordo com a alteração dos termos de referência agora submetidos a deliberação;
+2 - Os novos Termos de referência do Plano de Pormenor da Quinta dos Remédios - Parque de Ciência e Tecnologia, em anexo à presente proposta;
+3 - Manter a necessidade de o Plano de Pormenor ser objeto de avaliação ambiental, nos termos do Decreto-Lei n.º 232/2007, de 15 de junho, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio;
+4 - Fixar um prazo de 15 dias, a partir da data de publicação da presente deliberação no Diário da República, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo procedimento de elaboração.
+14 de novembro de 2018. - O Vereador, Tiago Matias.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+46839 - http://ssaigt.dgterritorio.pt/i/Texto_do_ato_a_publicar_no_DR_46839_1107_Planta.jpg
+611993333
