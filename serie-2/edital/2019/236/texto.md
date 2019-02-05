@@ -1,0 +1,8 @@
+Edital n.º 236/2019
+Projeto de Regulamento Municipal da Academia Artística do Município de Tábua
+Mário de Almeida Loureiro, Presidente da Câmara Municipal de Tábua:
+Torna público, que por deliberação tomada em reunião pública da Câmara Municipal de 27 de dezembro de 2018, nos termos do artigo 100.º e 101.º do Anexo do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, é submetido a audiência dos interessados e consulta pública, para recolha de sugestões, o Projeto de Regulamento Municipal da Academia Artística do Município de Tábua, pelo período de 30 dias a contar da data da publicação do presente Edital na 2.ª série do Diário da República e na Internet, no sítio institucional da entidade em causa.
+Mais se informa, que os interessados podem consultar o presente Projeto de Regulamento junto do Balcão Único da Câmara Municipal de Tábua, no Edifício dos Paços do Concelho, sito na Praça da República, em Tábua, e sobre ele formularem, por escrito, as sugestões tidas por convenientes. As sugestões devem ser dirigidas ao Presidente da Câmara Municipal de Tábua, podendo estas ser enviadas por carta normal ou registada, com aviso de receção, para esta morada ou aí entregues pessoalmente, bem como remetidas para o e-mail gab.juridico@cm-tabua.pt
+Para produzir os devidos efeitos publica-se o presente Edital, que vai ser publicado na página eletrónica www.cm-tabua.pt, sítio institucional da Câmara de Tábua, e afixado nos lugares públicos do costume.
+17 de janeiro de 2019. - O Presidente da Câmara Municipal, Mário de Almeida Loureiro.
+311994013
