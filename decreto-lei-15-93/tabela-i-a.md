@@ -1,20 +1,24 @@
 # TABELA I-A
 
-Acetil-alfa-metilfentanil - N-(1-(alfa) metilfenetil-4-piperidil) acetanilida.
+Acetil-alfa-metilfentanil - N-[1-(alfa) metilfenetil-4-piperidil] acetanilida.
 
 Acetildiidrocodeína - 3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano.
+
+Acetilfentanilo - (N-fenil-N-[1-(2-feniletil) piperidina-4-il]acetamida).
 
 Acetilmetadol - 3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
 
 Acetorfina - 3-0-acetiltetra-hidro-7(alfa)-(1-hidro-1-metilbutil)-6,14-endoetano-oripavina.
 
-Alfacetilmetadol - alfa-3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
+Acrilofentanilo - N-(1-fenetilpiperidina-4-il)-N-fenilacrilamida.
+
+Alfacetilmetadol - -alfa-3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
 
 Alfameprodina - alfa-3-etil-1-metil-4-fenil-4-propionoxipiperidina.
 
 Alfametadol - alfa-6-dimetilamino-4,4-difenil-3-heptanol.
 
-Alfa-metilfentanil - N-[1-((alfa) metilfenetil)-4-piperidil] propionanilida.
+Alfa-metilfentanil - N-{1-[(alfa) metilfenetil]-4-piperidil} propionanilida.
 
 Alfa-metiltiofentanil - N-[1-metil-2-(2-tienil) etil]-4-piperidil propionanilida.
 
@@ -24,17 +28,19 @@ Alfaprodina - alfa-1,3-dimetil-4-fenil-4-propionoxipiperidina.
 
 Alilprodina - 3-alil-1-metil-4-fenil-4-propionoxipiperidina.
 
-Anileridina - éster etílico do ácido 1-para-aminofenetil-4-fenilpiperidino-4-carboxílico.
+Anileridina - éster etílico do ácido 1-para-aminofene-til-4-fenilpiperidino-4-carboxílico.
+
+ANPP (4-anilino-N-fenetilpiperidina).
 
 Benzilmorfina - 3-benziloxi-4,5-epoxi-N-metil-7-morfineno-6-ol; 3-benzilmorfina.
 
-Benzetidina - éster etílico do ácido 1-(2-benziloxietil)-4-fenilpepiridino-4-carboxílico.
+Benzetidina - éster etílico do ácido 1-(2-benziloxietil)-- 4-fenilpepiridino-4-carboxílico.
 
 Betacetilmetadol - beta-3-acetoxi-6-dimetilamino-4,4-difenil-heptano.
 
-Beta-hidroxifentanil - N-[1-((beta)-hidroxifenetil)-4-piperidil] propionanilida.
+Beta-hidroxifentanil - N-{1-[(beta)-hidroxifenetil]-4-piperidil} propionanilida.
 
-Beta-hidroxi-3-metilfentanil - N-[1-(beta)-hidroxifenetil)-3-metil-4-piperidil] propionanilida.
+Beta-hidroxi-3-metilfentanil - N-{1-[(beta)-hidroxifenetil]-3-metil-4-piperidil} propionanilida.
 
 Betameprodina - beta-3-etil-1-metil-4-fenil-4-propionoxipiperidina.
 
@@ -46,6 +52,10 @@ Bezitramida - 1-(3-ciano-3,3-difenilpropil)-4-(2-oxo-3-propionil-1-benzimidazoli
 
 Butirato de dioxafetilo - etil-4-morfolino-2,2-difenilbutirato.
 
+Butirfentanilo - (N-fenil-N-[1-(2-feniletil)-4-iperidinil]butanamida).
+
+Carfentanilo - (1-(2-feniletil)-4-[fenil(propanoil)amino]piperidina-4-carboxilato de metilo).
+
 Cetobemidona - 4-meta-hidroxifenil-1-metil-4-propionilpiperidina.
 
 Clonitazeno - 2-para-clorobenzil-1-dietilaminoetil-5-nitrobenzimidazol.
@@ -54,9 +64,9 @@ Codeína - 3-metoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno; 3-metil-morfina.
 
 Codeína N-óxido - 3-metoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno-17-oxi-ol.
 
-Codoxina-di-hidrocodeinona-6-carboximetiloxina.
+Codoxina - di-hidrocodeinona-6-carboximetiloxina.
 
-Concentrado de palha de papoila - matéria obtida por tratamento da palha de papoila em ordem a obter a concentração dos seus alcalóides, logo que esta matéria é colocada no comércio.
+Concentrado de palha de papoila - matéria obtida por tratamento da palha de papoila em ordem a obter a concentração dos seus alcaloides, logo que esta matéria é colocada no comércio.
 
 Desomorfina - 3-hidroxi-4,5-epoxi-17-metilmorfinano; di-hidrodoximorfina.
 
@@ -66,7 +76,7 @@ Dextropropoxifeno - (+)-4-dimetilamino-3-metil-1,2-difenil-2-butanol propionato.
 
 Diampromida - N-[(2-metilfenetilamino)-propil]-propionanilida.
 
-Dietiltiambuteno - 3 dietilamino-1,1-di-(2'-tienil)--1-buteno.
+Dietiltiambuteno - 3 dietilamino-1,1-di-'2'-tienil)-1-buteno.
 
 Difenoxilato - éster etílico do ácido 1-(3-ciano-3,3-difenilpropil)-4-fenilpiperidino-4-carboxílico.
 
@@ -74,21 +84,21 @@ Difenoxina - ácido-1-(3-ciano-3,3-difenilpropil)-4-fenilisonipecótico.
 
 Diidrocodeína - 6-hidroxi-3-metoxi-17-metil-4,5-epoximorfinano.
 
-Diidroetorfina-7,8-diidro-7-a-[1-(R)-hidroxi-1-metilbutil]-6,14-enab-etanotetraidrooripavina.
+Diidroetorfina - 7,8-diidro-7-(alfa)-[1-(R)-hidroxi-1-metilbutil]-6,14-enab-etanotetraidrooripa vina.
 
 Di-hidromorfina - 3,6-di-hidroxi-4,5-epoxi-17-metilmorfinano.
 
-Dimefeptanol - 6-dimetilamino-4,4-difenil-3-heptanol.
+Dimefeptano - 6-dimetilamino-4,4-difenil-3-heptanol.
 
 Dimenoxadol - 2-dimetilaminoetilo-1-etoxi-1,1-difenilacetato.
 
-Dimetiltiambuteno - 3-dimetilamino-1,1-di-(2'-tienil)-1-buteno.
+Dimetiltiambuteno - 3-dimetilamino-1,1-di-'2'-tienil)-1-buteno.
 
 Dipipanona - 4,4-difenil-6-piperidina-3-heptanona.
 
 Drotebanol - 3,4-dimetoxi-17-metilmorfinano-6-beta, 14-diol.
 
-Etilmetiltiambuteno - 3-etilmetilamino-1,1-di-(2'-tienil)-1-buteno.
+Etilmetiltiambuteno - 3-etilmetilamino-1,1-di-'2'-tienil)-1-buteno.
 
 Etilmorfina - 3-etoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno; 3-etilmorfina.
 
@@ -100,19 +110,23 @@ Etoxeridina - éster etílico do ácido-1-[2-(2-hidroxietoxi)-etil]-4-fenilpiper
 
 Fenadoxona - 6-morfolino-4,4-difenil-3-heptanona.
 
-Fenopiridina - éster etílico de ácido 1-(3-hidroxi-3-fenilpropil)-fenil-piperidino-4-carboxílico.
+Fenanpromida - N-(1-metil-2-piperidinoetil)-propionalida.
 
-Fenazocina - 2'-hidroxi-5,9-dimetil-2-fenetil-6,7-benzomorfano.
+Fenazocina - '2'-hidroxi-5,9-dimetil-2-fenetil-6,7-benzomorfano.
 
 Fenomorfano - 3-hidroxi-N-fenetilmorfinano.
 
-Fenopiridina - éster etílico do ácido 1-(3-hidroxi-3-fenilpropil)-4-fenil-4-piperidinocarboxílico.
+Fenopiridina - éster etílico de ácido 1-(3-hidroxi-3- -fenilpropil)-fenil-piperidino-4-carboxílico.
 
 Fentanil - 1-fenetil-4-N-propionilanilinopiperidina.
 
+4-fluoroisobutirilfentanilo (4F-iBF, 4-FIBF, pFIBF, N-(4-fluorofenil)-N-(1-fenetilpiperidin-4-il)isobutiramida).
+
 Folcodina - 3-(2-morfolino-etoxi)-6-hidroxi-4,5-epoxi-17-metil-7-morfineno; morfoliniletilmorfina.
 
-Furetidina - éster etílico do ácido 1-(2-tetra-hidrofurfuriloxietil)-4-fenilpiperidino-4-carboxílico.
+Furanilfentanilo - (Fu-F; N-fenil-N-[1-(2-feniletil) piperidin-4-il)]furano-2-carboxamida).
+
+Furetidina - éster etílico do ácido 1-(2-tetra-hidrofur-furiloxietil)-4-fenilpiperidino-4-carboxílico.
 
 Heroína - 3,6-diacetoxi-4,5-epoxi-17-metil-7-morfineno; diacetilmorfina.
 
@@ -122,23 +136,23 @@ Hidromorfinol - 3,6,14-triidroxi-4,5-epoxi-17-metilmorfinano; 14-hidroxidiidromo
 
 Hidromorfona - 3-hidroxi-4,5-epoxi-6-oxo-17-metilmorfinano; diidromorfinona.
 
-Hidroxipetidina - éster etílico do ácido 4-meta-hidroxifenil-1-metilpiperidino-4-carboxílico.
+Hidroxipetidin - éster etílico do ácido 4-meta-hidro-xifenil-1-metilpiperidino-4-carboxílico.
 
 Isometadona - 6-dimetilamino-5-metil-4,4-difenil-3-hexanona.
 
 Levofenacilmorfano - (-)-3-hidroxi-N-fenacilmorfinano.
 
-Levometorfano - (-)-3-metoxi-N-metilmorfinano (ver nota *).
+Levometorfano - (-)-3-metoxi-N-metilmorfinano [v. nota (*)].
 
-Levomoramide -(-)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil] morfina.
+Levomoramide - (-)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil] morfina.
 
-Levorfanol - (-)-3-hidroxi-N-metilmorfinano (ver nota *).
+Levorfanol - (-)-3-hidroxi-N-metilmorfinano [v. nota (*)].
 
 Metadona - 6-dimetilamino-4,4-difenil-3-heptanona.
 
 Metadona, intermediário de - 4-ciano-2-dimetilamino-4,4-difenilbutano.
 
-Metazocina - 2'-hidroxi-2,5,9-trimetil-6,7-benzomorfano.
+Metazocina - '2'-hidroxi-2,5,9-trimetil-6,7-benzom orfano.
 
 Metildesorfina - 6-metil-delta-6-desoximorfina; 3-hidroxi-4,5-epoxi-6,17-dimetil-6-morfineno.
 
@@ -152,7 +166,7 @@ Mirofina - miristilbenzilmorfina; tetradecanoato de 3-benziloxi-4,5-epoxi-17-met
 
 Morferidina - éster etílico do ácido 1-(2-morfolinoetil)-4-fenilpiperidino-4-carboxílico.
 
-Moramida, intermediário de - ácido 2-metil-3-morfolino-1,1-difenilpropano carboxílico.
+Moramida, intermediário de - ácido 2-metil-3-morfo-lino-1,1-difenilpropano carboxílico.
 
 Morfina - 3,6-diidroxi-4,5-epoxi-17-metil-7-morfineno.
 
@@ -168,6 +182,8 @@ Nicodicodina - éster diidrocodeínico do ácido 3-piridinocarboxílico; 6-nicot
 
 Nicomorfina - 3,6-dinicotilmorfina.
 
+NPP (N-fenetil-4-piperidona).
+
 Noracimetadol - (mais ou menos)-alfa-3-acetoxi-6-metilamino-4,4-difenil-heptano.
 
 Norcodeína - 3-metoxi-4,5-epoxi-6-hidroxi-7-morfineno; N-desmetilcodeína.
@@ -180,35 +196,37 @@ Normorfina - 3,6-di-hidroxi-4,5-epoxi-7-morfineno; desmetilmorfina.
 
 Norpipanona - 4,4-difenil-6-peperidino-3-hexanona.
 
+Ocfentanilo (N-(2-fluorofenil) -2-metoxi-N-[1-(2-fenetil)piperidin-4-il]acetamida).
+
 Ópio - o suco coagulado espontaneamente obtido da cápsula da Papaver som niferum L. e que não tenha sofrido mais do que as manipulações necessárias para o seu empacotamento e transporte, qualquer que seja o seu teor em morfina.
 
-Ópio - mistura de alcalóides sob a forma de cloridratos e brometos.
+Ópio - mistura de alcaloides sob a forma de cloridratos e brometos.
 
-oripavina (3-O-desmetiltebaína, o 6,7,8,14-tetradeshidro-4,5-(alfa)-epoxi-6-metoxi-17-metilmorfinan-3-ol).
+Oripavina [3-O-desmetiltebaína, o 6,7,8,14-tetradeshi-dro-4,5-(alfa)-epoxi-6-metoxi-17-metilmorfinan-3-ol].
 
 Oxicodona - 3-metoxi-4,5-epoxi-6-oxo-14-hidroxi-17-metilmorfinano; 14-hidroxidiidrocodeínona.
 
 Oximorfona - 3,14-diidroxi-4,5-epoxi-6-oxo-17-metilmorfinano; 14-hidroxidiidromorfinona.
 
-Para-fluorofentanil-(4'-fluoro-N-(1-fenetil-4-piperidil) propionanilida.
+Para-fluorofentanil-['4'-fluoro-N-(1-fenetil-4-piperidil)] propionanilida.
 
 PEPAP - acetato de 1-fenetil-4-fenil-4-piperidinol.
 
-Petidina - éster etílico do ácido 1-metil-4-fenilpiperidino-4-carboxílico.
+Petidina - éster etílico do ácido 1-metil-4-fenilpiperi-dino-4-carboxílico.
 
-Petidina, intermediário A da - 4-ciano-1-metil-4-fenilpiperidina.
+Petidina, intermediário A da - 4-ciano-1-metil-4-fenil-piperidina.
 
 Petidina, intermediário B da - éster etílico do ácido-4-fenilpiperidino-4-carboxílico.
 
-Petidina, intermediário C da - ácido 1-metil-4-fenilpiperidino-4-carboxílico.
+Petidina, intermediário C da - ácido 1-metil-4-fenilpi-peridino-4-carboxílico.
 
-Piminodina - éster etílico do ácido 4-fenil-1-[3-(fenilamino)-propilpiperidino]-4-carboxílico.
+Piminodina - éster etílico do ácido 4-fenil-1-[3-(feni-lamino)-propilpiperidino]-4-carboxílico.
 
-Piritramida - amida do ácido 1-(3-ciano-3,3-difenilpropil)-4-(1-piperidino)-piperidino-4-carboxílico.
+Piritramida - amida do ácido 1-(3-ciano-3,3-difenil-propil)-4-(1-piperidino)-piperidino-4-carboxílico.
 
 Pro-heptazina - 1,3-dimetil-4-fenil-4-propionoxiazaciclo-heptano.
 
-Properidina - éster isopropílico do ácido 1-metil-4-fenilpiperi-dino-4-carboxílico.
+Properidina- éster isopropílico do ácido 1-metil-4-fe-nilpiperi-dino-4-carboxílico.
 
 Propirano - N-(1-metil-2-piperidinoetil)-N-2-piridilpropionamida.
 
@@ -218,17 +236,17 @@ Racemoramida - (mais ou menos)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-b
 
 Racemorfano - (mais ou menos)-3-hidroxi-N-metilmorfinano.
 
-Remifentanilo-1-(2-metoxicarboniletil)-4-(fenilpropionilamino)
+Remifentanilo - 1-(2-metoxicarboniletil)-4-(fenilpropionilamino) piperidina-4-carboxilato de metilo.
 
-piperidina-4-carboxilato de metilo.
-
-Sufentanil - N-{4-metoximetil-1-[2-(2-(tienil)-etil]-4-piperidil}-propionanilida.
+Sufentanil - N-{4-metoximetil-1-[2-(2-tienil)-etil]-4-piperidil}-propionanilida.
 
 Tabecão - 3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano; acetidil-hidrocodeínona.
 
-tapentadol (3-[(1R,2R)-3-(dimetilamino)-1-etil-2-metilpro-pil]fenol)
+Tapentadol - {3-[(1R,2R)-3-(dimetilamino)-1-etil-2-metilpropil]fenol}.
 
-Tebaína - (3,6-dimetoxi-4,5-epoxi-17-metil-6,8-morfinadieno).
+Tebaíns - (3,6-dimetoxi-4,5-epoxi-17-metil-6,8-morfinadieno).
+
+Tetra-hidrofuranilfentanilo (THF-F; N-fenil-N-[1-(2-feniletil)piperidin-4-il] tetra-hidrofurano-2-carboxamida).
 
 Tilidina - (mais ou menos)-etil-trans-2-(dimetilamino)-1-fenil-3-ciclo-hexeno-1-carboxilato.
 
@@ -236,10 +254,12 @@ Tiofentanil - N-{1-[2-(2-tienil) etil]-4-piperidil} propionanilida.
 
 Trimeperidina - 1,2,5-trimetil-4-fenil-4-propionoxipiperidina.
 
+U47700 (3,4-dicloro-N-(2-dimetilaminociclo-hexil)-N-metilbenzamida).
+
 Os isómeros das substâncias inscritas nesta tabela em todos os casos em que estes isómeros possam existir com designação química específica, salvo se forem expressamente excluídos.
 
 Os ésteres e os éteres das substâncias inscritas na presente tabela em todas as formas em que estes ésteres e éteres possam existir, salvo se figurarem noutra tabela.
 
 Os sais das substâncias inscritas na presente tabela, incluindo os sais dos ésteres e éteres e isómeros mencionados anteriormente sempre que as formas desses sais sejam possíveis.
 
-(nota *) O dextrometorfano (+)-3-metoxi-N-metilmorfinano e o dextrorfano (+)-3-hidroxi-N-metilmorfineno estão especificamente excluídos desta tabela.
+(*) O dextrometorfano (+)-3-metoxi-N-metilmorfinano e o dextrorfano (+)-3-hidroxi-N-metilmorfineno estão especificamente excluídos desta tabela.
