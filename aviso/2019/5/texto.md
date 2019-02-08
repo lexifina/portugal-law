@@ -1,0 +1,6 @@
+Aviso n.º 5/2019
+Por ordem superior se torna público que, em 6 de novembro de 2015, a República Portuguesa depositou, junto do Secretário-Geral do Conselho da União Europeia, na qualidade de depositário, o seu instrumento de ratificação do Acordo entre a União Europeia, os seus Estados-Membros, por um lado, e a Islândia, por outro, relativo à participação da Islândia no cumprimento conjunto dos compromissos da União Europeia, dos seus Estados-Membros e da Islândia no segundo período de compromisso do Protocolo de Quioto à Convenção-Quadro das Nações Unidas sobre as Alterações Climáticas, adotado em Bruxelas, em 1 de abril de 2015.
+Mais se torna público que, em cumprimento do seu artigo 11.º, o presente Acordo entre a União Europeia e os seus Estados-Membros, por um lado, e a Islândia, por outro, entrou em vigor em 27 de novembro de 2018, o nonagésimo dia após a data em que todas as Partes depositaram o seu instrumento de ratificação.
+A República Portuguesa é Parte neste Acordo, aprovado pelo Decreto n.º 20/2015, publicado no Diário da República, 1.ª série-A, n.º 206, de 21 de outubro de 2015.
+Direção-Geral de Política Externa, 4 de fevereiro de 2019. - O Subdiretor-Geral, Francisco Alegre Duarte.
+112040539
