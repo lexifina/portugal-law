@@ -1,0 +1,9 @@
+Aviso n.º 2246/2019
+3.ª Alteração do Plano Diretor Municipal de Azambuja - Regime Extraordinário de Regularização e de Alteração ou Ampliação de Estabelecimentos e Explorações (RERAE)
+Luís Manuel Abreu de Sousa, Presidente da Câmara Municipal de Azambuja:
+Torna público, nos termos e para os efeitos do disposto nos n.os 1 e 2 do artigo 89.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, conjugado com o n.º 2 do artigo 12.º do RERAE aprovado pelo Decreto-Lei n.º 165/2014, de 5 de novembro, e em cumprimento da deliberação da Câmara Municipal de 15 de janeiro de 2019 que, a partir do quinto dia a seguir à publicação deste aviso no Diário da República e durante quinze dias úteis, se encontra aberto o período de discussão pública da proposta da 3.ª alteração do Plano Diretor Municipal de Azambuja - RERAE.
+Os elementos da proposta de alteração estão disponíveis para consulta na Unidade de Atendimento ao Público, sita no Edifício do Valverde, Avenida do Valverde, 8B, 2050-356 Azambuja, no horário normal de expediente, das 9 h às 16.30 h, ou no sítio da internet do Município de Azambuja, em www.cm-azambuja.pt.
+Os interessados deverão apresentar as reclamações, observações ou sugestões mediante exposição dirigida ao Presidente da Câmara Municipal, devendo nesta constar a identificação e o endereço dos seus autores e a qualidade em que as apresentam e poderão ser entregues na Unidade de Atendimento ao Público, enviadas para: Praça do Município, n.º 19, 2050-315 Azambuja, ou através do email geral@cm-azambuja.pt.
+Para constar se publica o presente e outros de igual teor que vão ser afixados nos lugares públicos de estilo.
+17 de janeiro de 2019. - O Presidente da Câmara Municipal, Luís Manuel Abreu de Sousa.
+312004834
