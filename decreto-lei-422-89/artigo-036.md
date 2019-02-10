@@ -8,7 +8,7 @@
 
 a) Menores de 18 anos;
 
-b) Incapazes, inabilitados e culpados de falência fraudulenta, desde que não tenham sido reabilitados;
+b) Incapazes, maiores acompanhados dependentes de representação ou de autorização prévia para a prática de atos patrimoniais e insolventes cuja insolvência seja qualificada como culposa;
 
 c) Membros das forças armadas e das corporações paramilitares, de qualquer nacionalidade, quando se apresentem fardados;
 
