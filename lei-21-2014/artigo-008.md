@@ -6,7 +6,7 @@
 
 2 - A realização de estudos clínicos com maiores que, antes do início da sua incapacidade, não tenham dado nem recusado o consentimento informado só é possível quando:
 
-a) For obtido o consentimento informado do respetivo representante legal, nos termos do número seguinte, o qual deve refletir a vontade presumível do participante;
+a) For obtido o consentimento informado do acompanhante com poderes de representação especial, nos termos do número seguinte, o qual deve refletir a vontade presumível do participante;
 
 b) A pessoa incapaz de dar o consentimento informado tiver recebido informações adequadas à sua capacidade de compreensão sobre o estudo clínico e os respetivos riscos e benefícios;
 
