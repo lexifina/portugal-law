@@ -14,7 +14,7 @@ b) Aos titulares dos órgãos de Governo das Regiões Autónomas;
 
 c) Aos Magistrados do Ministério Público, às autoridades policiais, às forças de segurança e seus agentes;
 
-d) Aos menores e aos declarados incapazes nos termos da lei civil;
+d) Aos menores e aos maiores acompanhados, dependentes de representação ou de autorização prévia para a prática de atos patrimoniais;
 
 e) Àqueles que, voluntária ou judicialmente, estejam impedidos de jogar;
 
