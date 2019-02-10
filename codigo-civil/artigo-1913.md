@@ -10,10 +10,10 @@
 
 a) Os condenados definitivamente por crime a que a lei atribua esse efeito;
 
-b) Os interditos e os inabilitados por anomalia psíquica;
+b) Os maiores acompanhados, apenas no casos em que a sentença de acompanhamento assim o declare;
 
 c) Os ausentes, desde a nomeação do curador provisório.
 
-2. Consideram-se de pleno direito inibidos de representar o filho e administrar os seus bens os menores não emancipados e os interditos e inabilitados não referidos na alínea b) do número anterior.
+2 - Os menores não emancipados consideram-se de pleno direito inibidos de representar o filho e administrar os seus bens.
 
 3. As decisões judiciais que importem inibição do exercício das responsabilidades parentais são comunicadas, logo que transitem em julgado, ao tribunal competente, a fim de serem tomadas as providências que no caso couberem.

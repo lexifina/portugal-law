@@ -6,7 +6,7 @@
 
 a) Ser o casamento de menor não núbil confirmado por este, perante o funcionário do registo civil e duas testemunhas, depois de atingir a maioridade;
 
-b) Ser o casamento do interdito ou inabilitado por anomalia psíquica confirmado por ele, nos termos da alínea precedente, depois de lhe ser levantada a interdição ou inabilitação ou, tratando-se de demência notória, depois de o demente fazer verificar judicialmente o seu estado de sanidade mental;
+b) Ser o casamento confirmado pela pessoa que se encontrava na situação da alínea b) do artigo 1601.º, depois de este fazer verificar judicialmente a cessação das causas do impedimento;
 
 c) Ser declarado nulo ou anulado o primeiro casamento do bígamo;
 

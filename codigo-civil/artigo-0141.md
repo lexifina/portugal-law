@@ -2,6 +2,8 @@
 
 ### (Legitimidade)
 
-1. A interdição pode ser requerida pelo cônjuge do interditando, pelo tutor ou curador deste, por qualquer parente sucessível ou pelo Ministério Público.
+1 - O acompanhamento é requerido pelo próprio ou, mediante autorização deste, pelo cônjuge, pelo unido de facto, por qualquer parente sucessível ou, independentemente de autorização, pelo Ministério Público.
 
-2. Se o interditando estiver sob o poder paternal, só têm legitimidade para requerer a interdição os progenitores que exercerem aquele poder e o Ministério Público.
+2 - O tribunal pode suprir a autorização do beneficiário quando, em face das circunstâncias, este não a possa livre e conscientemente dar, ou quando para tal considere existir um fundamento atendível.
+
+3 - O pedido de suprimento da autorização do beneficiário pode ser cumulado com o pedido de acompanhamento.

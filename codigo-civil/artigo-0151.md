@@ -1,5 +1,7 @@
 # Artigo 151.º
 
-### (Levantamento da interdição)
+### Retribuição do acompanhante e prestação de contas
 
-Cessando a causa que determinou a interdição, pode esta ser levantada a requerimento do próprio interdito ou das pessoas mencionadas no n.º 1 do artigo 141.º
+1 - As funções do acompanhante são gratuitas, sem prejuízo da alocação de despesas, consoante a condição do acompanhado e a do acompanhante.
+
+2 - O acompanhante presta contas ao acompanhado e ao tribunal, quando cesse a sua função ou, na sua pendência, quando assim seja judicialmente determinado.

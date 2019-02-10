@@ -1,5 +1,7 @@
 # Artigo 139.º
 
-### (Capacidade do interdito e regime da interdição)
+### Decisão judicial
 
-Sem prejuízo do disposto nos artigos seguintes, o interdito é equiparado ao menor, sendo-lhe aplicáveis, com as necessárias adaptações, as disposições que regulam a incapacidade por menoridade e fixam os meios de suprir o poder paternal.
+1 - O acompanhamento é decidido pelo tribunal, após audição pessoal e direta do beneficiário, e ponderadas as provas.
+
+2 - Em qualquer altura do processo, podem ser determinadas as medidas de acompanhamento provisórias e urgentes, necessárias para providenciar quanto à pessoa e bens do requerido.

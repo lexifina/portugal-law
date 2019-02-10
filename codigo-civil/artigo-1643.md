@@ -6,9 +6,9 @@
 
 ### (Anulação fundada em impedimento dirimente)
 
-1. A acção de anulação fundada em impedimento dirimente deve ser instaurada:
+1 - A ação de anulação fundada em impedimento dirimente deve ser instaurada:
 
-a) Nos casos de menoridade, interdição ou inabilitação por anomalia psíquica ou demência notória, quando proposta pelo próprio incapaz, até seis meses depois de ter atingido a maioridade, de lhe ter sido levantada a interdição ou inabilitação ou de a demência ter cessado; quando proposta por outra pessoa, dentro dos três anos seguintes à celebração do casamento, mas nunca depois da maioridade, do levantamento da incapacidade ou da cessação da demência;
+a) Nos casos de menoridade, de demência notória ou de acompanhamento de maior judicialmente impeditivo, quando proposta pelo próprio incapaz, até seis meses depois de ter atingido a maioridade, de a incapacidade natural ter cessado ou de cessar ou ser revisto, nesse sentido, o acompanhamento; quando proposta por outra pessoa, dentro dos três anos seguintes à celebração do casamento, mas nunca depois da maioridade ou da cessação da incapacidade natural;
 
 b) No caso de condenação por homicídio contra o cônjuge de um dos nubentes, no prazo de três anos a contar da celebração do casamento;
 

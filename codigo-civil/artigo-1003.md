@@ -6,7 +6,7 @@ A exclusão de um sócio pode dar-se nos casos previstos no contrato, e ainda no
 
 a) Quando lhe seja imputável violação grave das obrigações para com a sociedade;
 
-b) Em caso de interdição ou inabilitação;
+b) Em caso de benefício do acompanhamento, precedendo decisão do tribunal que o tenha decretado;
 
 c) Quando, sendo sócio de indústria, se impossibilite de prestar à sociedade os serviços a que ficou obrigado;
 

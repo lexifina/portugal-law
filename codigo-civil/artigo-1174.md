@@ -8,6 +8,6 @@
 
 O mandato caduca:
 
-a) Por morte ou interdição do mandante ou do mandatário;
+a) Por morte do mandante ou do mandatário;
 
-b) Por inabilitação do mandante, se o mandato tiver por objecto actos que não possam ser praticados sem intervenção do curador.
+b) Por sentença de acompanhamento do mandante ou do mandatário, quando essa sentença, relativamente aos atos abrangidos pelo mandato, atribua poderes de representação ao acompanhante ou determine a necessidade de autorização prévia.

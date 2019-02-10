@@ -10,7 +10,7 @@ b) O prazo internupcial;
 
 c) O parentesco no terceiro grau da linha colateral;
 
-d) O vínculo de tutela, curatela ou administração legal de bens;
+d) O vínculo de tutela, acompanhamento de maior ou administração legal de bens;
 
 e) (Revogada);
 

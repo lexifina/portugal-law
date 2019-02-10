@@ -4,4 +4,6 @@
 
 1. Têm capacidade para celebrar convenções antenupciais aqueles que têm capacidade para contrair casamento.
 
-2. Aos menores, bem como aos interditos ou inabilitados, só é permitido celebrar convenções antenupciais com autorização dos respectivos representantes legais.
+2 - Aos menores só é permitido celebrar convenções antenupciais com autorização dos respetivos representantes legais.
+
+3 - Aos maiores acompanhados, quando devam ser representados para a realização de atos de disposição entre vivos ou quando os mesmos dependam de autorização, só é permitido celebrar convenções antenupciais com o acordo expresso do acompanhante.

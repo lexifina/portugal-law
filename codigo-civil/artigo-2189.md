@@ -6,4 +6,4 @@ São incapazes de testar:
 
 a) Os menores não emancipados;
 
-b) Os interditos por anomalia psíquica.
+b) Os maiores acompanhados, apenas nos casos em que a sentença de acompanhamento assim o determine.

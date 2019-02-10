@@ -6,6 +6,6 @@ São impedimentos dirimentes, obstando ao casamento da pessoa a quem respeitam c
 
 a) A idade inferior a dezasseis anos;
 
-b) A demência notória, mesmo durante os intervalos lúcidos, e a interdição ou inabilitação por anomalia psíquica;
+b) A demência notória, mesmo durante os intervalos lúcidos, e a decisão de acompanhamento, quando a sentença respetiva assim o determine;
 
 c) O casamento anterior não dissolvido, católico ou civil, ainda que o respectivo assento não tenha sido lavrado no registo do estado civil.

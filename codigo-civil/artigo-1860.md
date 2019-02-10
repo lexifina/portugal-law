@@ -6,4 +6,6 @@
 
 2. Só é relevante o erro sobre circunstâncias que tenham contribuído decisivamente para o convencimento da paternidade.
 
-3. A acção de anulação caduca no prazo de um ano, a contar do momento em que o perfilhante teve conhecimento do erro ou em que cessou a coacção, salvo se ele for menor não emancipado ou interdito por anomalia psíquica; neste caso, a acção não caduca sem ter decorrido um ano sobre a maioridade, emancipação ou levantamento da interdição.
+3 - A ação de anulação caduca no prazo de um ano a contar do momento em que o perfilhante teve conhecimento do erro ou em que cessou a coação.
+
+4 - Se o perfilhante for menor não emancipado ou maior acompanhado com restrições ao exercício de direitos pessoais, a ação não caduca sem ter decorrido um ano sobre a maioridade, emancipação, cessação ou modificação bastante do acompanhamento.

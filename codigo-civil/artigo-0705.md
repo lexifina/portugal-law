@@ -8,7 +8,7 @@ a) O Estado e as autarquias locais, sobre os bens cujos rendimentos estão sujei
 
 b) O Estado e as demais pessoas colectivas públicas, sobre os bens dos encarregados da gestão de fundos públicos, para garantia do cumprimento das obrigações por que se tornem responsáveis;
 
-c) O menor, o interdito e o inabilitado, sobre os bens do tutor, curador e administrador legal, para assegurar a responsabilidade que nestas qualidades vìerem a assumir;
+c) O menor e o maior acompanhado, sobre os bens do tutor, acompanhante e administrador legal, para assegurar a responsabilidade que nestas qualidades vierem a assumir;
 
 d) O credor por alimentos;
 

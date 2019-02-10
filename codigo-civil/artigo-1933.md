@@ -4,9 +4,9 @@
 
 1. Não podem ser tutores:
 
-a) Os menores não emancipados, os interditos e os inabilitados;
+a) Os menores não emancipados;
 
-b) Os notòriamente dementes, ainda que não estejam interditos ou inabilitados;
+b) Os afetados por perturbação mental notória, ainda que não estejam em situação de acompanhamento com limitação para o exercício de direitos pessoais;
 
 c) As pessoas de mau procedimento ou que não tenham modo de vida conhecido;
 
@@ -26,4 +26,4 @@ j) Os que tenham sido excluídos pelo pai ou mãe do menor, nos mesmos termos em
 
 l) Os magistrados judiciais ou do Ministério Público que exerçam funções na comarca do domicílio do menor ou na da situação dos seus bens.
 
-2. Os inabilitados por prodigalidade, os falidos ou insolventes, e bem assim os inibidos ou suspensos do poder paternal ou removidos da tutela quanto à administração de bens, podem ser nomeados tutores, desde que sejam apenas encarregados da guarda e regência da pessoa do menor.
+2 - Os maiores acompanhados, os insolventes e os inibidos ou suspensos das responsabilidades parentais ou removidos da tutela quanto à administração de bens podem ser nomeados tutores, desde que sejam apenas encarregados da guarda e regência da pessoa do menor ou desde que as medidas de acompanhamento o permitam.

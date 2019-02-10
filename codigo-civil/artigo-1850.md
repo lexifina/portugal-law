@@ -2,6 +2,6 @@
 
 ### (Capacidade)
 
-1. Têm capacidade para perfilhar os indivíduos com mais de dezasseis anos, se não estiverem interditos por anomalia psíquica ou não forem notoriamente dementes no momento da perfilhação.
+1 - Têm capacidade para perfilhar os indivíduos com mais de 16 anos, se não forem maiores acompanhados com restrições ao exercício de direitos pessoais nem forem afetados por perturbação mental notória no momento da perfilhação.
 
-2. Os menores, os interditos não compreendidos no número anterior e os inabilitados não necessitam, para perfilhar, de autorização dos pais, tutores ou curadores.
+2 - Os menores não necessitam, para perfilhar, de autorização dos pais ou tutores.

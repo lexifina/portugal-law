@@ -1,5 +1,7 @@
 # Artigo 148.º
 
-### (Actos do interdito posteriores ao registo da sentença)
+### Internamento
 
-São anuláveis os negócios jurídicos celebrados pelo interdito depois do registo da sentença de interdição definitiva.
+1 - O internamento do maior acompanhado depende de autorização expressa do tribunal.
+
+2 - Em caso de urgência, o internamento pode ser imediatamente solicitado pelo acompanhante, sujeitando-se à ratificação do juiz.

@@ -1,5 +1,7 @@
 # Artigo 1175.º
 
-### (Morte, interdição ou inabilitação do mandante)
+### Morte ou acompanhamento do mandante
 
-A morte, interdição ou inabilitação do mandante não faz caducar o mandato, quando este tenha sido conferido também no interessse do mandatário ou de terceiro; nos outros casos, só o faz caducar a partir do momento em que seja conhecida do mandatário, ou quando da caducidade não possam resultar prejuízos para o mandante ou seus herdeiros.
+1 - A morte do mandante ou a sentença de acompanhamento a ele relativa não faz caducar o mandato quando este tenha sido conferido também no interesse do mandatário ou de terceiro.
+
+2 - Nos outros casos, só o faz caducar a partir do momento em que sejam conhecidas do mandatário, ou quando da caducidade não possam resultar prejuízos para o mandante ou seus herdeiros.

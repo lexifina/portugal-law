@@ -2,8 +2,8 @@
 
 ### (Legitimidade)
 
-1. Só tem legitimidade para a acção de separação o cônjuge lesado ou, estando ele interdito, o seu representante legal, ouvido o conselho de família.
+1 - Só tem legitimidade para a ação de separação o cônjuge lesado ou o seu acompanhante, quando dotado de poderes de representação e mediante autorização judicial.
 
-2. Se o representante legal do cônjuge lesado for o outro cônjuge, a acção só pode ser intentada, em nome daquele, por algum parente na linha recta ou até ao terceiro grau da linha colateral.
+2 - Se o acompanhante do cônjuge lesado for o outro cônjuge, a ação só pode ser intentada, em nome daquele, por algum parente na linha reta ou até ao terceiro grau da linha colateral ou pelo Ministério Público.
 
-3. Se o cônjuge lesado estiver inabilitado, a acção pode ser intentada por ele, ou pelo curador com autorização judicial.
+3 - (Revogado.)

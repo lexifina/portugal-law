@@ -2,4 +2,4 @@
 
 ### (Alimentos provisórios)
 
-O filho menor, interdito ou inabilitado tem direito a alimentos provisórios desde a proposição da acção, contanto que o tribunal considere provável o reconhecimento da maternidade.
+O filho menor e o maior acompanhado têm direito a alimentos provisórios desde a proposição da ação, contanto que o tribunal considere provável o reconhecimento da maternidade.

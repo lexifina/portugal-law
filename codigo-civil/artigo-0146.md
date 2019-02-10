@@ -1,7 +1,7 @@
 # Artigo 146.º
 
-### (Escusa da tutela e exoneração do tutor)
+### Cuidado e diligência
 
-1. O cônjuge do interdito, bem como os descendentes ou ascendentes deste, não podem escusar-se da tutela, nem ser dela exonerados, salvo se tiver havido violação do disposto no artigo 143.º
+1 - No exercício da sua função, o acompanhante privilegia o bem-estar e a recuperação do acompanhado, com a diligência requerida a um bom pai de família, na concreta situação considerada.
 
-2. Os descendentes do interdito podem, contudo, ser exonerados a seu pedido ao fim de cinco anos, se existirem outros descendentes igualmente idóneos para o exercício do cargo.
+2 - O acompanhante mantém um contacto permanente com o acompanhado, devendo visitá-lo, no mínimo, com uma periodicidade mensal, ou outra periodicidade que o tribunal considere adequada.

@@ -4,10 +4,10 @@
 
 # Artigo 2192.º
 
-### (Tutor, curador, administrador legal de bens e protutor)
+### Acompanhante e administrador legal de bens
 
-1. É nula a disposição feita por interdito ou inabilitado a favor do seu tutor, curador ou administrador legal de bens, ainda que estejam aprovadas as respectivas contas.
+1 - É nula a disposição feita por maior acompanhado a favor de acompanhante ou administrador legal de bens do disponente, ainda que estejam aprovadas as respetivas contas.
 
-2. É igualmente nula a disposição a favor do protutor, se este, na data em que o testamento foi feito, substituía qualquer das pessoas designadas no número anterior.
+2 - É, porém, válida a disposição a favor das mesmas pessoas, quando se trate de descendentes, ascendentes, colaterais até ao terceiro grau, cônjuge do testador ou pessoa com quem este viva em união de facto.
 
-3. É, porém, válida a disposição a favor das mesmas pessoas, quando se trate de descendentes, ascendentes, colaterais até ao terceiro grau ou cônjuge do testador.
+3 - (Revogado.)

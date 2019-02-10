@@ -1,15 +1,27 @@
 # Artigo 143.º
 
-### (A quem incumbe a tutela)
+### Acompanhante
 
-1. A tutela é deferida pela ordem seguinte:
+1 - O acompanhante, maior e no pleno exercício dos seus direitos, é escolhido pelo acompanhado ou pelo seu representante legal, sendo designado judicialmente.
 
-a) Ao cônjuge do interdito, salvo se estiver separado judicialmente de pessoas e bens ou separado de facto por culpa sua, ou se for por outra causa legalmente incapaz;
+2 - Na falta de escolha, o acompanhamento é deferido, no respetivo processo, à pessoa cuja designação melhor salvaguarde o interesse imperioso do beneficiário, designadamente:
 
-b) À pessoa designada pelos pais ou pelo progenitor que exercer o poder paternal, em testamento ou documento autêntico ou autenticado;
+a) Ao cônjuge não separado, judicialmente ou de facto;
 
-c) A qualquer dos progenitores do interdito que, de acordo com o interesse deste, o tribunal designar;
+b) Ao unido de facto;
 
-d) Aos filhos maiores, preferindo o mais velho, salvo se o tribunal, ouvido o conselho de família, entender que algum dos outros dá maiores garantias de bom desempenho do cargo.
+c) A qualquer dos pais;
 
-2. Quando não seja possível ou razões ponderosas desaconselhem o deferimento da tutela nos termos do número anterior, cabe ao tribunal designar o tutor, ouvido o conselho de família.
+d) À pessoa designada pelos pais ou pela pessoa que exerça as responsabilidades parentais, em testamento ou em documento autêntico ou autenticado;
+
+e) Aos filhos maiores;
+
+f) A qualquer dos avós;
+
+g) À pessoa indicada pela instituição em que o acompanhado esteja integrado;
+
+h) Ao mandatário a quem o acompanhado tenha conferido poderes de representação;
+
+i) A outra pessoa idónea.
+
+3 - Podem ser designados vários acompanhantes com diferentes funções, especificando-se as atribuições de cada um, com observância dos números anteriores.
