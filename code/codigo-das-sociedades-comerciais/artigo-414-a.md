@@ -10,19 +10,19 @@ b) Os que exercem funções de administração na própria sociedade;
 
 c) Os membros dos órgãos de administração de sociedade que se encontrem em relação de domínio ou de grupo com a sociedade fiscalizada;
 
-d) O sócio de sociedade em nome colectivo que se encontre em relação de domínio com a sociedade fiscalizada;
+d) O sócio de sociedade em nome coletivo que se encontre em relação de domínio com a sociedade fiscalizada;
 
-e) Os que, de modo directo ou indirecto, prestem serviços ou estabeleçam relação comercial significativa com a sociedade fiscalizada ou sociedade que com esta se encontre em relação de domínio ou de grupo;
+e) Os que, de modo direto ou indireto, prestem serviços ou estabeleçam relação comercial significativa com a sociedade fiscalizada ou sociedade que com esta se encontre em relação de domínio ou de grupo;
 
-f) Os que exerçam funções em empresa concorrente e que actuem em representação ou por conta desta ou que, por qualquer outra forma, estejam vinculados a interesses da empresa concorrente;
+f) Os que exerçam funções em empresa concorrente e que atuem em representação ou por conta desta ou que, por qualquer outra forma, estejam vinculados a interesses da empresa concorrente;
 
-g) Os cônjuges, parentes e afins na linha recta e até ao 3.º grau, inclusive, na linha colateral, de pessoas impedidas por força do disposto nas alíneas a), b), c), d) e f), bem como os cônjuges das pessoas abrangidas pelo disposto na alínea e);
+g) Os cônjuges, parentes e afins na linha reta e até ao 3.º grau, inclusive, na linha colateral, de pessoas impedidas por força do disposto nas alíneas a), b), c), d) e f), bem como os cônjuges das pessoas abrangidas pelo disposto na alínea e);
 
 h) Os que exerçam funções de administração ou de fiscalização em cinco sociedades, exceptuando as sociedades de advogados, as sociedades de revisores oficiais de contas e os revisores oficiais de contas, aplicando-se a estes o regime do artigo 76.º do Decreto-Lei n.º 487/99, de 16 de Novembro;
 
-i) Os revisores oficiais de contas em relação aos quais se verifiquem outras incompatibilidades previstas na respectiva legislação;
+i) Os revisores oficiais de contas em relação aos quais se verifiquem outras incompatibilidades previstas na respetiva legislação;
 
-j) Os interditos, os inabilitados, os insolventes, os falidos e os condenados a pena que implique a inibição, ainda que temporária, do exercício de funções públicas.
+j) Os maiores acompanhados dependentes de representação ou de autorização prévia para a prática de atos patrimoniais, os insolventes e os condenados a pena que implique a inibição, ainda que temporária, do exercício de funções públicas.
 
 2 - A superveniência de algum dos motivos indicados nos números anteriores importa caducidade da designação.
 
