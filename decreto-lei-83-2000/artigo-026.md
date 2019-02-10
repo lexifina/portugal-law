@@ -4,7 +4,7 @@
 
 1 - O titular do passaporte destruído, furtado ou extraviado deve comunicar imediatamente tal facto à autoridade mais próxima ou à autoridade responsável pela concessão, para efeitos de cancelamento e apreensão.
 
-2 - Os representantes legais de menores e incapazes podem requerer à entidade concedente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
+2 - O representante legal de menor e o acompanhante de maior com poderes bastantes podem requerer à entidade concedente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
 
 3 - A entidade competente para a concessão comunica às autoridades de fronteira o pedido de apreensão do passaporte a que se referem os números anteriores.
 
