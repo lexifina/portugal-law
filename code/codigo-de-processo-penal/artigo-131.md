@@ -2,7 +2,7 @@
 
 ### (Capacidade e dever de testemunhar)
 
-1 - Qualquer pessoa que se não encontrar interdita por anomalia psíquica tem capacidade para ser testemunha e só pode recusar-se nos casos previstos na lei.
+1 - Qualquer pessoa tem capacidade para ser testemunha desde que tenha aptidão mental para depor sobre os factos que constituam objeto da prova e só pode recusar-se nos casos previstos na lei.
 
 2 - A autoridade judiciária verifica a aptidão física ou mental de qualquer pessoa para prestar testemunho, quando isso for necessário para avaliar da sua credibilidade e puder ser feito sem retardamento da marcha normal do processo.
 
