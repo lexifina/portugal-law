@@ -30,7 +30,7 @@ f) A regulação do exercício do poder paternal, sua alteração e cessação;
 
 g) A inibição ou suspensão do exercício do poder paternal e as providências limitativas desse poder;
 
-h) A interdição e inabilitação definitivas, a tutela de menores ou interditos, a administração de bens de menores e a curadoria de inabilitados;
+h) O acompanhamento de maiores e a tutela e administração de bens;
 
 i) O apadrinhamento civil e a sua revogação;
 
