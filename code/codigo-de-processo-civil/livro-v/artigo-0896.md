@@ -1,5 +1,7 @@
 # Artigo 896.º
 
-### Prova preliminar
+### Resposta
 
-Quando se trate de ação de interdição, ou de inabilitação não fundada em mera prodigalidade, procede-se, findos os articulados, à realização do exame pericial ao requerido e, tendo havido contestação, ao seu interrogatório.
+1 - Ao requerimento inicial segue-se a resposta do beneficiário, no prazo de 10 dias.
+
+2 - Na falta de resposta, aplica-se o estabelecido no artigo 21.º

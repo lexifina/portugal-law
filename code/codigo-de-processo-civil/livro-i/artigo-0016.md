@@ -2,7 +2,7 @@
 
 ### Suprimento da incapacidade
 
-1 - Os incapazes só podem estar em juízo por intermédio dos seus representantes, ou autorizados pelo seu curador, exceto quanto aos atos que possam exercer pessoal e livremente.
+1 - Os menores e os maiores acompanhados sujeitos a representação só podem estar em juízo por intermédio dos seus representantes, exceto quanto aos atos que possam exercer pessoal e livremente.
 
 2 - Os menores cujo exercício das responsabilidades parentais compete a ambos os pais são por estes representados em juízo, sendo necessário o acordo de ambos para a propositura de ações.
 

@@ -2,7 +2,7 @@
 
 ### Suprimento da incapacidade judiciária e da irregularidade de representação
 
-1 - A incapacidade judiciária e a irregularidade de representação são sanadas mediante a intervenção ou citação do representante legítimo ou do curador do incapaz.
+1 - A incapacidade judiciária e a irregularidade de representação são sanadas mediante a intervenção ou a citação do representante legítimo do incapaz.
 
 2 - Se estes ratificarem os atos anteriormente praticados, o processo segue como se o vício não existisse; no caso contrário, fica sem efeito todo o processado posterior ao momento em que a falta se deu ou a irregularidade foi cometida, correndo novamente os prazos para a prática dos atos não ratificados, que podem ser renovados.
 

@@ -1,9 +1,11 @@
 ## Título III
 
-## Das interdições e inabilitações
+## Do acompanhamento de maiores
 
 # Artigo 891.º
 
-### Petição inicial
+### Natureza do processo e medidas cautelares
 
-Na petição inicial da ação em que requeira a interdição ou inabilitação, deve o autor, depois de deduzida a sua legitimidade, mencionar os factos reveladores dos fundamentos invocados e do grau de incapacidade do interditando ou inabilitando e indicar as pessoas que, segundo os critérios da lei, devam compor o conselho de família e exercer a tutela ou curatela.
+1 - O processo de acompanhamento de maior tem carácter urgente, aplicando-se-lhe, com as necessárias adaptações, o disposto nos processos de jurisdição voluntária no que respeita aos poderes do juiz, ao critério de julgamento e à alteração das decisões com fundamento em circunstâncias supervenientes.
+
+2 - Em qualquer altura do processo, podem ser requeridas ou decretadas oficiosamente as medidas cautelares que a situação justificar.

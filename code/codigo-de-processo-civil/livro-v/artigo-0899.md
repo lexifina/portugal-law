@@ -1,7 +1,7 @@
 # Artigo 899.º
 
-### Termos posteriores ao interrogatório e exame
+### Relatório pericial
 
-1 - Se o interrogatório, quando a ele haja lugar, e o exame do requerido fornecerem elementos suficientes e a ação não tiver sido contestada, pode o juiz decretar imediatamente a interdição ou inabilitação.
+1 - Quando determinado pelo juiz, o perito ou os peritos elaboram um relatório que precise, sempre que possível, a afeção de que sofre o beneficiário, as suas consequências, a data provável do seu início e os meios de apoio e de tratamento aconselháveis.
 
-2 - Nos restantes casos, seguem-se os termos do processo comum, posteriores aos articulados; sendo ordenado na fase de instrução novo exame médico do requerido, aplicam-se as disposições relativas ao primeiro exame.
+2 - Permanecendo dúvidas, o juiz pode autorizar o exame numa clínica da especialidade, com internamento nunca superior a um mês e sob responsabilidade do diretor respetivo, ou ordenar quaisquer outras diligências.

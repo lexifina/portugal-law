@@ -1,7 +1,9 @@
 # Artigo 902.º
 
-### Recurso de apelação
+### Efeitos
 
-1 - Da sentença de interdição ou inabilitação definitiva pode apelar o representante do requerido; pode também apelar o requerente, se ficar vencido quanto à extensão e limites da incapacidade.
+1 - A decisão de acompanhamento transitada permite que, por apenso, a pedido do requerente, do acompanhado, do acompanhante ou do Ministério Público, sejam relacionados os bens do beneficiário.
 
-2 - A apelação tem efeito meramente devolutivo; subsiste, porém, nos termos estabelecidos, a representação processual do interdito ou inabilitado, podendo o tutor ou curador nomeado intervir também no recurso como assistente.
+2 - Transitada a decisão de acompanhamento, têm aplicação, com as devidas adaptações, os artigos 1920.º-B e 1920.º-C do Código Civil.
+
+3 - A decisão que decrete o acompanhamento ou que o rejeite é publicitada e comunicada nos precisos termos decididos ao abrigo do artigo 894.º

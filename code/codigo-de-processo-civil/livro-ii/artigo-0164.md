@@ -11,3 +11,5 @@ a) Os processos de anulação de casamento, divórcio, separação de pessoas e 
 b) Os procedimentos cautelares pendentes, que só podem ser facultados aos requerentes e seus mandatários e aos requeridos e respetivos mandatários, quando devam ser ouvidos antes de ordenada a providência;
 
 c) Os processos de execução só podem ser facultados aos executados e respetivos mandatários após a citação ou, nos casos previstos no artigo 626.º, após a notificação; independentemente da citação ou da notificação, é vedado aos executados e respetivos mandatários o acesso à informação relativa aos bens indicados pelo exequente para penhora e aos atos instrutórios da mesma.
+
+d) Os processos de acompanhamento de maior.

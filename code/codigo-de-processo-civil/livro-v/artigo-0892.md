@@ -1,5 +1,17 @@
 # Artigo 892.º
 
-### Publicidade da ação
+### Requerimento inicial
 
-Apresentada a petição, se a ação estiver em condições de prosseguir, o juiz determina a afixação de editais no tribunal e na sede da junta de freguesia da residência do requerido, com menção do nome deste e do objeto da ação, e publica-se, com as mesmas indicações, anúncio num dos jornais mais lidos na respetiva circunscrição judicial.
+1 - No requerimento inicial, deve o requerente, além do mais:
+
+a) Alegar os factos que fundamentam a sua legitimidade e que justificam a proteção do maior através de acompanhamento;
+
+b) Requerer a medida ou medidas de acompanhamento que considere adequadas;
+
+c) Indicar quem deve ser o acompanhante e, se for caso disso, a composição do conselho de família;
+
+d) Indicar a publicidade a dar à decisão final;
+
+e) Juntar elementos que indiciem a situação clínica alegada.
+
+2 - Nos casos em que for cumulado pedido de suprimento da autorização do beneficiário, deve o requerente alegar os factos que o fundamentam.

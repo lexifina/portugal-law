@@ -1,7 +1,9 @@
 # Artigo 900.º
 
-### Providências provisórias
+### Decisão
 
-1 - Em qualquer altura do processo, pode o juiz, oficiosamente ou a requerimento do autor ou do representante do requerido, proferir decisão provisória, nos próprios autos, nos termos previstos no artigo 142.º do Código Civil.
+1 - Reunidos os elementos necessários, o juiz designa o acompanhante e define as medidas de acompanhamento, nos termos do artigo 145.º do Código Civil e, quando possível, fixa a data a partir da qual as medidas decretadas se tornaram convenientes.
 
-2 - Da decisão que decrete a providência provisória cabe apelação, nos termos do n.º 2 do artigo 644.º.
+2 - O juiz pode ainda proceder à designação de um acompanhante substituto, de vários acompanhantes e, sendo o caso, do conselho de família.
+
+3 - A sentença que decretar as medidas de acompanhamento deverá referir expressamente a existência de testamento vital e de procuração para cuidados de saúde e acautelar o respeito pela vontade antecipadamente expressa pelo acompanhado.

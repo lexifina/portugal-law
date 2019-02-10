@@ -1,7 +1,9 @@
 # Artigo 904.º
 
-### Seguimento da ação mesmo depois da morte do requerido
+### Termo e alteração do acompanhamento
 
-1 - Falecendo o requerido no decurso do processo, mas depois de feitos o interrogatório e o exame, pode o requerente pedir que a ação prossiga para o efeito de se verificar se existia e desde quando datava a incapacidade alegada.
+1 - A morte do beneficiário extingue a instância.
 
-2 - Não se procede neste caso a habilitação dos herdeiros do falecido, prosseguindo a causa contra quem nela o representava.
+2 - As medidas de acompanhamento podem, a todo o tempo, ser revistas ou levantadas pelo tribunal, quando a evolução do beneficiário o justifique.
+
+3 - Ao termo e à modificação das medidas de acompanhamento aplicam-se, com as necessárias adaptações e na medida do necessário, o disposto nos artigos 892.º e seguintes, correndo os incidentes respetivos por apenso ao processo principal.
