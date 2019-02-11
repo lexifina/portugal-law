@@ -1,0 +1,7 @@
+Aviso n.º 2342/2019
+Projeto de Alteração ao Regulamento e Tabela de Taxas do Município
+Maria de Fátima Gomes de Aguiar Moreira Paz, Vice-Presidente da Câmara Municipal do Cadaval, torna público, nos termos e para efeitos do disposto no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual e ao abrigo do n.º 1 do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal do Cadaval deliberou, na sua reunião ordinária de 20 de novembro de 2018, submeter a período de consulta e discussão pública o projeto de alteração ao Regulamento e Tabela de Taxas do Município, pelo prazo de trinta dias úteis contados da data da publicação deste aviso na 2.ª série do Diário da República.
+O texto do projeto de alteração ao Regulamento está disponível para consulta na Divisão de Ordenamento do Território da Câmara Municipal do Cadaval, durante as horas normais de expediente (das 8h30 às 16h00), e na página do sítio da internet da Câmara Municipal do Cadaval em: http://www.cm-cadaval.pt/.
+Os interessados devem dirigir ao Presidente da Câmara Municipal do Cadaval, por escrito e durante o período de consulta pública, as suas sugestões para a morada: Câmara Municipal do Cadaval, Av. Francisco Sá Carneiro, 2550-103 Cadaval, ou entrega-las no balcão de atendimento da Câmara Municipal do Cadaval, ou enviá-las através do correio eletrónico: geral@cm-cadaval.pt.
+23 de janeiro de 2019. - A Vice-Presidente da Câmara Municipal, Maria Fátima Paz.
+312008244
