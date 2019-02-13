@@ -24,4 +24,4 @@ b) 60 dias do termo pretendido do contrato, se o prazo deste for inferior a um a
 
 5 - A denúncia do contrato, nos termos dos n.os 3 e 4, produz efeitos no final de um mês do calendário gregoriano, a contar da comunicação.
 
-6 - A inobservância da antecedência prevista nos números anteriores não obsta à cessação do contrato, mas obriga ao pagamento das rendas correspondentes ao período de pré-aviso em falta.
+6 - A inobservância da antecedência prevista nos números anteriores não obsta à cessação do contrato, mas obriga ao pagamento das rendas correspondentes ao período de pré-aviso em falta, exceto se resultar de desemprego involuntário, incapacidade permanente para o trabalho ou morte do arrendatário ou de pessoa que com este viva em economia comum há mais de um ano.

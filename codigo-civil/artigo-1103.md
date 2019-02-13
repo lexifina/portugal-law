@@ -30,8 +30,8 @@ b) A garantir o realojamento do arrendatário por período não inferior a três
 
 8 - Metade da indemnização deve ser paga após a confirmação da denúncia e o restante no ato da entrega do locado, sob pena de ineficácia.
 
-9 - Salvo motivo não imputável ao senhorio, o não cumprimento do disposto no n.º 5, bem como o não início da obra no prazo de seis meses contados da desocupação do locado, obriga o senhorio ao pagamento de uma indemnização correspondente a 10 anos de renda.
+9 - Salvo motivo não imputável ao senhorio, o não cumprimento do disposto no n.º 5, ou o não início da obra prevista na alínea b) do artigo 1101.º, no prazo de seis meses contados da desocupação do locado, obriga o senhorio ao pagamento de uma indemnização correspondente a 10 anos de renda.
 
 10 - Da denúncia pelo senhorio não pode resultar uma duração total do contrato inferior a dois anos.
 
-11 - A denúncia do contrato para demolição ou realização de obra de remodelação ou restauro profundos é objeto de legislação especial.
+11 - A denúncia prevista na alínea b) do artigo 1101.º é objeto de legislação especial, sem prejuízo do disposto nos números anteriores.

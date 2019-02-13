@@ -10,7 +10,7 @@ b) Pessoa que com ele vivesse em união de facto há mais de um ano;
 
 c) Pessoa que com ele vivesse em economia comum há mais de um ano.
 
-2 - Nos casos previstos nas alíneas b) e c) do número anterior, a transmissão da posição de arrendatário depende de, à data da morte do arrendatário, o transmissário residir no locado há mais de um ano.
+2 - (Revogado).
 
 3 - Havendo várias pessoas com direito à transmissão, a posição do arrendatário transmite-se, em igualdade de circunstâncias, sucessivamente para o cônjuge sobrevivo ou pessoa que com o falecido vivesse em união de facto, para o parente ou afim mais próximo ou, de entre estes, para o mais velho ou para a mais velha de entre as restantes pessoas que com ele residissem em economia comum.
 

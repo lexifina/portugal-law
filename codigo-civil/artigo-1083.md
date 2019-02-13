@@ -25,3 +25,5 @@ e) A cessão, total ou parcial, temporária ou permanente e onerosa ou gratuita,
 4 - É ainda inexigível ao senhorio a manutenção do arrendamento no caso de o arrendatário se constituir em mora superior a oito dias, no pagamento da renda, por mais de quatro vezes, seguidas ou interpoladas, num período de 12 meses, com referência a cada contrato, não sendo aplicável o disposto nos n.os 3 e 4 do artigo seguinte.
 
 5 - É fundamento de resolução pelo arrendatário, designadamente, a não realização pelo senhorio de obras que a este caibam, quando tal omissão comprometa a habitabilidade do locado e, em geral, a aptidão deste para o uso previsto no contrato.
+
+6 - No caso previsto no n.º 4, o senhorio apenas pode resolver o contrato se tiver informado o arrendatário, por carta registada com aviso de receção, após o terceiro atraso no pagamento da renda, de que é sua intenção pôr fim ao arrendamento naqueles termos.
