@@ -6,11 +6,7 @@
 
 2 - Os mutuantes não podem agravar os encargos com o crédito cuja finalidade seja financiar a aquisição, realização de obras ou manutenção de direitos de propriedade sobre habitação própria permanente, nomeadamente aumentando os spreads estipulados, em caso de renegociação motivada por qualquer uma das seguintes situações:
 
-a) Celebração entre o consumidor e um terceiro de um contrato de arrendamento da totalidade ou parte do imóvel, na sequência de um dos seguintes eventos:
-
-i) A mudança de local de trabalho do consumidor ou de outro membro do agregado familiar, à exceção dos descendentes, para um local cuja distância do imóvel seja superior a 50 km em linha reta, e que implique a mudança da habitação permanente do agregado familiar;
-
-ii) Situação de desemprego do consumidor ou de outro membro do agregado familiar;
+a) Celebração entre o consumidor e um terceiro de um contrato de arrendamento habitacional da totalidade ou de parte do imóvel;
 
 b) Ocorrência superveniente de divórcio, separação judicial de pessoas e bens, dissolução da união de facto ou falecimento de um dos cônjuges, quando o empréstimo fique titulado por um consumidor que comprove que o respetivo agregado familiar tem rendimentos que proporcionam uma taxa de esforço inferior a 55 %, ou, no caso de agregados familiares com dois ou mais dependentes, inferior a 60 %.
 
