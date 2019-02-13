@@ -1,0 +1,78 @@
+Decreto Regulamentar n.º 3/2019
+de 12 de fevereiro
+Nos termos do disposto no n.º 2 do artigo 283.º do Código de Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, e do n.º 1 do artigo 94.º da Lei n.º 98/2009, de 4 de setembro, as doenças profissionais constam de lista organizada e publicada no Diário da República, a qual é elaborada pela Comissão Nacional de Revisão da Lista das Doenças Profissionais. Por outro lado, a composição, competência e funcionamento da referida Comissão são, de acordo com o disposto no n.º 1 do artigo 94.º da Lei n.º 98/2009, de 4 de setembro, fixados em legislação especial.
+A Comissão Nacional de Revisão da Lista das Doenças Profissionais foi aprovada pelo Decreto Regulamentar n.º 5/2001, de 3 de maio, tendo através do Decreto Regulamentar n.º 76/2007, de 17 de julho, que procedeu à alteração do Decreto Regulamentar n.º 6/2001, de 5 de maio, sido aprovada a lista de doenças profissionais que se encontra em vigor.
+A alteração do regime de reparação de acidentes de trabalho e de doenças profissionais, operada pela Lei n.º 98/2009, de 4 de setembro, bem como a emergência de novas doenças profissionais e a evolução das ciências médicas no período temporal entretanto decorrido, e ainda a aprovação da Lei n.º 73/2017, de 16 de agosto, que vem reforçar o quadro legislativo para a prevenção da prática de assédio, implicam a necessidade de avaliação da lista de doenças profissionais em vigor, da sua revisão ou inclusão de novas doenças, face ao período temporal decorrido, bem como às alterações do quadro legislativo em vigor nesta matéria ou em matérias conexas.
+Neste contexto, importa proceder, através do presente diploma, à adaptação da composição, competência e funcionamento da Comissão Nacional de Revisão da Lista das Doenças Profissionais, criada através do Decreto Regulamentar n.º 5/2001, de 3 de maio, ajustando-o às alterações orgânicas entretanto ocorridas, designadamente a integração do Centro Nacional de Proteção Contra os Riscos Profissionais no Instituto da Segurança Social, I. P.
+Foram ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+Assim:
+Nos termos da alínea c) do artigo 199.º da Constituição e do n.º 4 do artigo 7.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto regulamentar regulamenta a competência, composição e funcionamento da Comissão Nacional de Revisão da Lista das Doenças Profissionais (Comissão), prevista no n.º 2 do artigo 283.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, e no artigo 94.º da Lei n.º 98/2009, de 4 de setembro.
+Artigo 2.º
+Competência
+À Comissão compete:
+a) Proceder ao exame permanente da lista de doenças profissionais e propor a sua atualização;
+b) Pronunciar-se sobre os casos de aplicação do disposto no n.º 2 do artigo 94.º da Lei n.º 98/2009, de 4 de setembro, tendo em vista a proteção das situações aí referidas;
+c) Dar parecer sobre quaisquer outras questões relativas a doenças profissionais sujeitas à sua apreciação.
+d) Aprovar o respetivo regulamento de funcionamento;
+e) Aprovar a criação de comissões técnicas e respetivos regulamentos de funcionamento.
+Artigo 3.º
+Composição e funcionamento da Comissão
+1 - A Comissão tem a seguinte composição:
+a) Um presidente;
+b) Dois representantes do Instituto da Segurança Social, I. P. (ISS, I. P.);
+c) Um representante da Direção-Geral da Segurança Social;
+d) Um representante do Instituto do Emprego e da Formação Profissional, I. P.;
+e) Um representante da Autoridade para as Condições do Trabalho;
+f) Um representante do Instituto Nacional para a Reabilitação, I. P.;
+g) Um representante da Caixa Geral de Aposentações, I. P.;
+h) Um representante do membro do Governo responsável pela área das finanças;
+i) Um representante do membro do Governo responsável pela área da Administração Pública;
+j) Dois representantes do membro do Governo responsável pela área da saúde;
+k) Um representante do membro do Governo responsável pela área do planeamento e das infraestruturas;
+l) Um representante do membro do Governo responsável pela área da economia;
+m) Um representante do membro do Governo responsável pela área da educação;
+n) Um representante do membro do Governo responsável pela área do ambiente;
+o) Um representante do membro do Governo responsável pela área da agricultura, florestas e desenvolvimento rural;
+p) Um representante do membro do Governo responsável pela área do mar;
+q) Um representante da Autoridade de Supervisão de Seguros e Fundos de Pensões;
+r) Um representante da Escola Nacional de Saúde Pública;
+s) Um representante da Ordem dos Médicos;
+t) Quatro representantes das associações sindicais com assento na Comissão Permanente de Concertação Social;
+u) Quatro representantes das associações patronais com assento na Comissão Permanente de Concertação Social.
+2 - Os membros da Comissão podem ser substituídos por membros suplentes, em igual número dos membros efetivos.
+3 - A Comissão reúne ordinariamente duas vezes por ano e extraordinariamente por iniciativa do presidente ou a requerimento de mais de 50 % dos seus membros.
+Artigo 4.º
+Presidente da Comissão
+1 - O presidente do conselho diretivo do ISS, I. P., é, por inerência, o presidente da Comissão, podendo delegar no vice-presidente ou no vogal do conselho diretivo do Instituto responsável pela área da proteção contra riscos profissionais.
+2 - Ao presidente compete convocar as reuniões da Comissão, dirigir os trabalhos e assegurar o cumprimento das deliberações que venham a ser tomadas.
+Artigo 5.º
+Comissões técnicas
+1 - Compete às comissões técnicas o cumprimento dos objetivos fixados pela Comissão, podendo recorrer, mediante a utilização dos procedimentos adjudicatórios da contratação pública, a especialistas de reconhecida competência na área das doenças profissionais.
+2 - As comissões técnicas podem solicitar aos serviços e organismos públicos os elementos que considerem necessários ao exercício da sua atividade.
+3 - As comissões técnicas reúnem por convocação do seu presidente, nos termos fixados no respetivo regulamento de funcionamento.
+Artigo 6.º
+Apoio administrativo e financeiro
+1 - O apoio logístico, administrativo e financeiro necessário ao normal funcionamento da Comissão e das comissões técnicas compete ao ISS, I. P.
+2 - Os membros da Comissão e das comissões técnicas sem vínculo à Administração Pública têm direito ao abono de senhas de presença, em montante a fixar por despacho dos membros do Governo responsáveis pelas áreas do trabalho, das finanças e da Administração Pública, bem como a ajudas de custo e a despesas de transportes, nos termos legalmente fixados.
+Artigo 7.º
+Norma transitória
+1 - As entidades previstas no n.º 1 do artigo 3.º comunicam os seus representantes e respetivos suplentes ao presidente da Comissão, no prazo de 30 dias a contar da data da entrada em vigor do presente decreto regulamentar.
+2 - O presidente da Comissão convoca a primeira reunião no prazo máximo de 60 dias após a data da entrada em vigor do presente decreto regulamentar.
+3 - Sem prejuízo do disposto na alínea a) do artigo 2.º, a Comissão propõe a atualização da lista de doenças profissionais no prazo máximo de 240 dias após a data da entrada em vigor do presente decreto regulamentar.
+4 - O prazo previsto no número anterior pode ser prorrogado pelo membro de Governo responsável pela área da segurança social, mediante proposta fundamentada da Comissão.
+Artigo 8.º
+Norma revogatória
+É revogado o Decreto Regulamentar n.º 5/2001, de 3 de maio.
+Artigo 9.º
+Entrada em vigor
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 24 de janeiro de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - João Jorge Arede Correia Neves - Tiago Brandão Rodrigues - Miguel Filipe Pardal Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes - Ana Paula Mendes Vitorino.
+Promulgado em 3 de fevereiro de 2019.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 5 de fevereiro de 2019.
+O Primeiro-Ministro, António Luís Santos da Costa.
+112045918
