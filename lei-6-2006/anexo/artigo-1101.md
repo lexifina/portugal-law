@@ -6,6 +6,6 @@ O senhorio pode denunciar o contrato de duração indeterminada nos casos seguin
 
 a) Necessidade de habitação pelo próprio ou pelos seus descendentes em 1.º grau;
 
-b) Para demolição ou realização de obra de remodelação ou restauro profundos que obriguem à desocupação do locado;
+b) Para demolição ou realização de obras de remodelação ou restauro profundos que obriguem à desocupação do locado, desde que não resulte local com características equivalentes às do locado, onde seja possível a manutenção do arrendamento;
 
-c) Mediante comunicação ao arrendatário com antecedência não inferior a dois anos sobre a data em que pretenda a cessação.
+c) Mediante comunicação ao arrendatário com antecedência não inferior a cinco anos sobre a data em que pretenda a cessação.

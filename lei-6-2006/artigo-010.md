@@ -16,9 +16,9 @@ b) Integrem título para pagamento de rendas, encargos ou despesas ou que possam
 
 c) Sejam devolvidas por não terem sido levantadas no prazo previsto no regulamento dos serviços postais.
 
-3 - Nas situações previstas no número anterior, o senhorio deve remeter nova carta registada com aviso de recepção decorridos que sejam 30 a 60 dias sobre a data do envio da primeira carta.
+3 - Nas situações previstas no número anterior, o remetente deve enviar nova carta registada com aviso de receção, decorridos que sejam 30 a 60 dias sobre a data do envio da primeira carta.
 
-4 - Se a nova carta voltar a ser devolvida, nos termos da alínea a) do n.º 1, considera-se a comunicação recebida no 10.º dia posterior ao do seu envio.
+4 - Se a nova carta voltar a ser devolvida, nos termos da alínea a) do n.º 1 e da alínea c) do n.º 2, considera-se a comunicação recebida no 10.º dia posterior ao do seu envio.
 
 5 - Nos casos previstos nas alíneas a) e b) do n.º 7 do artigo anterior, se:
 
