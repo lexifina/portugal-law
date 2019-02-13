@@ -18,7 +18,7 @@ b) As obras de alteração ou ampliação, definidas respetivamente na alínea d
 
 i) Destas resulte um nível bom ou superior no estado de conservação do locado, de acordo com a tabela referida no n.º 3 do artigo 6.º da Portaria n.º 1192-B/2006, de 3 de novembro; e
 
-ii) O custo da obra a realizar no locado, incluindo imposto sobre valor acrescentado, corresponda, pelo menos, a 25 % do seu valor patrimonial tributário constante da matriz do locado ou proporcionalmente calculado, se este valor não disser exclusivamente respeito ao locado.
+ii) O custo da obra a realizar no locado, incluindo imposto sobre valor acrescentado, corresponda, pelo menos, a 25 % do valor aplicável ao locado em função da sua localização e área bruta de construção, de acordo com o valor mediano das vendas por m2 de alojamentos familiares (euro), por concelho, divulgado pelo Instituto Nacional de Estatística, I. P., para o trimestre anterior.
 
 2 - (Revogado.)
 
@@ -34,6 +34,6 @@ b) Nos casos da alínea b) do n.º 1:
 
 i) Orçamento total da operação a realizar, incluindo estimativa do custo total da operação urbanística;
 
-ii) Caderneta predial, que inclui o valor patrimonial do locado.
+ii) Caderneta predial, que inclui área bruta de construção correspondente ao locado.
 
 6 - Ao arrendatário não pode, em qualquer caso, ser negada a consulta ou a emissão de reprodução ou certidão do processo respeitante ao controlo prévio urbanístico relativo ao locado, dispondo os órgãos competentes do prazo improrrogável de 10 dias para assegurar a garantia de acesso, sem prejuízo dos demais direitos previstos na Lei n.º 26/2016, de 22 de agosto, que aprova o regime de acesso à informação administrativa e ambiental e de reutilização dos documentos administrativos.

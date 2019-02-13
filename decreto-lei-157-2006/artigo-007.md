@@ -10,8 +10,8 @@ b) Seja necessária por força da degradação do prédio, a atestar pelo munic�
 
 c) Resulte de plano de ordenamento do território aplicável, nomeadamente de plano de pormenor de reabilitação urbana.
 
-2 - Nas situações previstas no número anterior, o senhorio está obrigado ao pagamento da indemnização prevista na alínea a) do n.º 1 do artigo anterior, sem prejuízo do disposto no número seguinte.
+2 - Nas situações previstas no número anterior, aplica-se, com as devidas adaptações, o disposto no artigo anterior, sem prejuízo do disposto nos números seguintes.
 
-3 - Nas situações previstas nas alíneas a) e b) do n.º 1, o senhorio não está obrigado ao pagamento da indemnização prevista no número anterior, quando a ordem ou a necessidade de demolição não resulte de ação ou omissão culposa da sua parte.
+3 - No caso previsto na alínea c) do n.º 1, o proprietário pode pedir à entidade responsável pela execução do plano o ressarcimento dos custos suportados com o realojamento ou indemnização dos arrendatários.
 
 4 - À denúncia para demolição de imóveis onde se encontrem instalados estabelecimentos ou entidades de interesse histórico e cultural ou social local é aplicável o disposto nos números anteriores e no artigo seguinte.

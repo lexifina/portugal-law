@@ -8,7 +8,7 @@
 
 a) De comprovativo de que foi iniciado, junto da entidade competente, procedimento de controlo prévio da operação urbanística a efetuar no locado;
 
-b) De termo de responsabilidade do técnico autor do projeto legalmente habilitado que ateste que a operação urbanística a realizar constitui uma obra de remodelação ou restauro profundos ou uma obra de demolição, nos termos previstos no n.º 1 do artigo 4.º ou no n.º 1 do artigo anterior, bem como as razões pelas quais a execução da obra obriga à desocupação do locado; e
+b) De termo de responsabilidade do técnico autor do projeto legalmente habilitado que ateste que a operação urbanística a realizar constitui uma obra de remodelação ou restauro profundos ou uma obra de demolição, nos termos previstos no n.º 1 do artigo 4.º e do n.º 2 do artigo 5.º-A ou no n.º 1 do artigo anterior;
 
 c) Nos casos em que estejam em causa obras de alteração ou ampliação, nos termos da alínea b) do n.º 1 do artigo 4.º, de cópia dos elementos entregues juntamente com o requerimento de controlo prévio, referidos na alínea b) do n.º 5 do mesmo artigo 4.º, bem como de documento emitido pelo município que ateste a entrega pelo senhorio destes elementos, no pedido de controlo prévio da operação urbanística.
 

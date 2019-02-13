@@ -16,7 +16,9 @@ c) À edificação em prédio rústico arrendado e não sujeito a regime especia
 
 d) (Revogada.);
 
-e) À desocupação do locado para realização de obras de conservação.
+e) À desocupação do locado para realização de obras de conservação;
+
+f) À suspensão do contrato de arrendamento para realização de obras de remodelação ou restauro profundos.
 
 2 - O presente decreto-lei estabelece ainda o regime aplicável nos contratos de arrendamento para fim habitacional celebrados antes da vigência do Regime do Arrendamento Urbano (RAU), aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de outubro:
 
