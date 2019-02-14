@@ -1,0 +1,367 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "834",
+    "id": "42461",
+    "titulo": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-02-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13704",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-02-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43380",
+        "leg": "XIII",
+        "nr": "1102",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2573",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-02-15",
+            "pubLeg": "XIII",
+            "pubNr": "52",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15?org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-02-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4389",
+                "nome": "Teresa Leal Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:04:39:872&drc=00:04:27:069"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:19:39:578&drc=00:02:58:456"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-36",
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-15",
+                "pubLeg": "XIII",
+                "pubNr": "52",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/36?pgs=36,39&org=PLC"
+              }
+            ],
+            "sumario": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas; Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:09:06:942&drc=00:02:20:185"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-15",
+                "pubLeg": "XIII",
+                "pubNr": "52",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas; Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5500",
+                "nome": "Fernando Rocha Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:11:27:127&drc=00:03:42:606"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-15",
+                "pubLeg": "XIII",
+                "pubNr": "52",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas; Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5710",
+                "nome": "Duarte Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:15:09:734&drc=00:02:46:093"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-15",
+                "pubLeg": "XIII",
+                "pubNr": "52",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas; Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:20",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_02_14_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m02/&tI=02:17:55:828&drc=00:01:43:750"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-02-15",
+                "pubLeg": "XIII",
+                "pubNr": "52",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/39?pgs=39&org=PLC"
+              }
+            ],
+            "sumario": "Cria um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas; Cria, em complemento à Lei n.º 9/2019, de 1 de fevereiro, um mecanismo de regularização oficiosa das declarações de IRS em decorrência de decisões judiciais que impliquem devoluções aos contribuintes de prestações tributárias indevidamente cobradas.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "347488",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "853515",
+        "obs": null,
+        "pag": [
+          "35-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-02-15",
+        "pubLeg": "XIII",
+        "pubNr": "52",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/052/2019-02-15/35?pgs=35-40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
