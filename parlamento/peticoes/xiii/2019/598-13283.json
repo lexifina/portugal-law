@@ -1,0 +1,670 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13283",
+  "numero": "598",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-02-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-04-30",
+            "entidades": null,
+            "id": "112324",
+            "tipo": null,
+            "titulo": "Audição em 2019-04-30 com APROTED- Professores:António Silva; Firmino Bernardo e Rosário Cadete, FENPROF-  Anabela Delgado"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-04-08",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-05-13",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-04-15",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-04-02",
+            "entidades": [
+              "FNE - Federação Nacional da Educação"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-05-02",
+                "dataResposta": "2019-05-29",
+                "nrOficio": "74/CEC/2019",
+                "oficioResposta": "595/2019"
+              },
+              {
+                "dataOficio": "2019-05-27",
+                "dataResposta": null,
+                "nrOficio": "88/CEC/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-06-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-03-26",
+        "DataArquivo": "2019-06-19",
+        "DataBaixaComissao": "2019-03-12",
+        "DataEnvioPAR": "2019-07-09",
+        "DataReaberta": "2019-03-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-07-01",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304d324e6c4e5468694c5452684d7a4d744e4463304e533035596a59324c544d77595755784e7a6c685a4445334e4335775a47593d&fich=743ce58b-4a33-4745-9b66-30ae179ad174.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251304e546b354e6a466c4c5441335a6a67744e44466b4f5330345a6a526c4c544d304d4745324d445a6d5954686a595335775a47593d&fich=d459961e-07f8-41d9-8f4e-340a606fa8ca.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41344e544d304e6a49784c57466b4d3251744e47457a4f5331694e4745344c546b344d446c6d4d54637a4d7a55325a4335775a47593d&fich=08534621-ad3d-4a39-b4a8-9809f173356d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3249344d6d52684d5749334c5751784f5751744e4449345a5330354d4459784c57466d5a6a59774f544d785a6a566d4e7935775a47593d&fich=b82da1b7-d19d-428e-9061-aff60931f5f7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c325a6959574935597a41784c546b775a6d4d744e474a6d4d5330354d4751344c54566d4e545a6a4e4451774d7a4131597935775a47593d&fich=fbab9c01-90fc-4bf1-90d8-5f56c440305c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466d4e7a6b344e6d4a6a4c57557a4d7a55744e4456694d5331695a5745794c54466a4e6d526d5957517a59575268595335775a47593d&fich=af7986bc-e335-45b1-bea2-1c6dfad3adaa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32466d4d4455344e6a686c4c574978596d51744e446777595331695a6a637a4c54566c4f5463784e4455334d574e684d7935775a47593d&fich=af05868e-b1bd-480a-bf73-5e9714571ca3.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245344e7a5177596a41774c54566d5a5467744e4463305a4331684f5459784c546378597a557a4d5752684f4445304f5335775a47593d&fich=a8740b00-5fe8-474d-a961-71c531da8149.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3256684e7a6b775932526c4c5455784f5449744e474579595330344f546c694c5752695a6a55784e6a646b4d6a4d304e4335775a47593d&fich=ea790cde-5192-4a2a-899b-dbf5167d2344.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251775a54426859574d7a4c5449334f4755744e445a6c4e5331695a6a55784c5755334d7a67784f4441314e5759314d6935775a47593d&fich=d0e0aac3-278e-46e5-bf51-e73818055f52.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-04-18",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41774d5751314d4755784c5749334d6a67744e4749314f533168595759304c575a6b4d6a6b335a446732597a646a4d4335775a47593d&fich=001d50e1-b728-4b59-aaf4-fd297d86c7c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a41324f444d774d5467314c574577596d59744e4449354d7931694e7a51334c5755324f44686a596a41344e6a646b4e4335775a47593d&fich=06830185-a0bf-4293-b747-e688cb0867d4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a6a596d4a6d4f474e6c4c5449794e6a41744e475135596931684e4445784c5755344e475268597a67785a6a426c596935775a47593d&fich=2cbbf8ce-2260-4d9b-a411-e84dac81f0eb.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d325a6a4e685a6a67324c54466d4f446b744e4455774f5330354e6a566d4c574d794d5749334d44497a4d324d334f4335775a47593d&fich=c6f3af86-1f89-4509-965f-c21b70233c78.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-31",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51304d5441774d446b344c575135596a49744e474e685a4330344e446c684c5456684e6a6c6c5a574d795a6a646a4d4335775a47593d&fich=44100098-d9b2-4cad-849a-5a69eec2f7c0.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-03-26",
+            "gp": "PSD",
+            "id": "4435",
+            "motivoCessacao": null,
+            "nome": "Ana Sofia Bettencourt"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-03-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-03-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793835597a497a5a5756684f53316b4e54646d4c5451335a6a67744f5451784d43316b595452694e6a4d7759544a6c595745756347526d&fich=9c23eea9-d57f-47f8-9410-da4b630a2eaa.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44303",
+      "44336",
+      "44381"
+    ],
+    "Iniciativasoriginadas": [
+      "44303",
+      "44336",
+      "44381"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:51:52:976&drc=00:04:22:024"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238391",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:56:15:465&drc=00:02:56:534"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:15:09:226&drc=00:00:43:920"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238392",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/33?pgs=33-34,38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=01:59:12:061&drc=00:02:50:677"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238393",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:02:02:738&drc=00:03:16:261"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238394",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:05:19:783&drc=00:02:48:216"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238395",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:08:08:694&drc=00:04:00:418"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238396",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_05_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:12:09:113&drc=00:03:00:112"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238397",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-06",
+                "pubLeg": "XIV",
+                "pubNr": "37",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que crie o grupo de recrutamento nas áreas da Expressão Dramática e do Teatro; Pela criação de um grupo de recrutamento da área do Teatro; Pela criação de um regime de vinculação e integração na carreira dos docentes da área do Teatro e criação do respetivo grupo de recrutamento",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13283",
+    "PetAssunto": "Solicitam a adoção de medidas com vista à vinculação e integração na carreira de docente da área de Teatro e a criação do respetivo grupo de recrutamento",
+    "PetDataEntrada": "2019-02-14",
+    "PeticoesAssociadas": null,
+    "PetId": "13283",
+    "PetLeg": "XIII",
+    "PetNr": "598",
+    "PetNrAssinaturas": "5007",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2665",
+        "obs": null,
+        "pag": [
+          "32-38"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-03-06",
+        "pubLeg": "XIV",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/037/2020-03-06/32?pgs=32-38&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851749",
+        "obs": null,
+        "pag": [
+          "16-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-30",
+        "pubLeg": "XIII",
+        "pubNr": "39",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/039/2019-03-30/16?pgs=16-17&org=PLC"
+      }
+    ]
+  }
+}
