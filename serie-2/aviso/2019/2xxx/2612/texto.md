@@ -1,0 +1,13 @@
+Aviso n.º 2612/2019
+Alteração do Plano de Urbanização de Vila Viçosa
+Manuel João Fontainhas Condenado, Presidente da Câmara Municipal de Vila Viçosa, Torna público, nos termos do disposto no artigo 88.º do Decreto-Lei n.º 80/2015 de 14 de maio, que a Câmara Municipal deliberou, na sua reunião ordinária de 25 de julho de 2018, proceder à elaboração da alteração ao Plano de Urbanização de Vila Viçosa, com alteração à delimitação da RAN e REN, no prazo de 120 dias, no sentido de inserir uma unidade industrial da firma Planinertes - Pavimentações, Terraplanagens e Inertes, Lda., sita no Olival das Pocinhas, prédio rústico artigo 135.º-B da freguesia de Nossa Senhora da Conceição e S. Bartolomeu.
+A participação pública decorrerá durante um período de 15 dias, contados a partir da data da publicação deste aviso no Diário da República, no qual os interessados poderão formular sugestões ou apresentar informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de elaboração da alteração do plano, encontrando-se o processo disponível para consulta na Divisão de Urbanismo e Ambiente, nas horas normais de expediente.
+Os interessados deverão apresentar as suas observações ou sugestões por escrito, fazendo referência ao presente aviso e à alteração ao Plano de Urbanização de Vila Viçosa.
+A participação poderá ainda ser feita através do e-mail: geral@cm-vilavicosa.pt
+4 de janeiro de 2019. - O Presidente da Câmara Municipal, Manuel João Fontainhas Condenado, Prof.
+Deliberação
+Manuel João Fontainhas Condenado, Presidente da Câmara Municipal de Vila Viçosa, faz público que na reunião ordinária da Câmara Municipal, ocorrida no dia 25 de julho de 2018, foi tomada a deliberação do seguinte teor:
+5.º Ponto - Alteração ao Plano de Urbanização de Vila Viçosa para inserção de uma Unidade Industrial Planinertes - Pavimentações, Terraplanagens e Inertes, Lda.:
+Foi presente uma informação da DUA, de 20/07/2018, relativamente à Alteração ao Plano de Urbanização de Vila Viçosa, para inserir uma unidade industrial da firma Planinertes - Pavimentações, Terraplanagens e Inertes, Lda., tendo a Câmara Municipal deliberado, por unanimidade, iniciar a alteração ao Plano de Urbanização de Vila Viçosa, com alteração à delimitação da REN e RAN, no prazo de 120 dias. Aprovar a minuta de protocolo a celebrar com o interessado e delegar poderes no Presidente da Câmara Municipal para assinatura do Protocolo. A participação pública decorrerá no prazo de 15 dias. Solicitar o acompanhamento da CCRDRA ao processo em causa.
+4 de janeiro de 2019. - O Presidente da Câmara Municipal de Vila Viçosa, Manuel João Fontainhas Condenado.
+612049474
