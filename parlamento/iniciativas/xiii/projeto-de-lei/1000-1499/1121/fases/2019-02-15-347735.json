@@ -1,0 +1,130 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1121",
+    "id": "43416",
+    "titulo": "Altera a Lei n.º 37/2003, de 22 de Agosto, estabelecendo mecanismos de regularização de dívida por não pagamento de propinas em instituições de ensino superior públicas"
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2019-02-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "45178",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2019-02-15",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2019-02-15",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Gravação audio da votação na especialidade",
+            "URL": "http://media.parlamento.pt/site/xiiileg/4sl/com/08_cec/cec_20190716_1.mp3"
+          },
+          {
+            "DataDocumento": "2019-03-15",
+            "TipoDocumento": "Link",
+            "TituloDocumento": "Link para contributos recebidos",
+            "URL": "http://www.parlamento.pt/sites/com/xiiileg/8cec/paginas/contributosiniciativasii.aspx?id_ini=93"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração do PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d5451794e5467335a5759744d5751325a6930304f4745314c5745324e446774595459304f445134596a637a4d6a55304c6e426b5a673d3d&fich=142587ef-1d6f-48a5-a648-a64848b73254.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de texto conjunto PAN e PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d324e694d324579597a67745a4445314d4330304d32526d4c574a6b4f4745744e7a6c6a4d545a684f445130597a49324c6e426b5a673d3d&fich=3cb3a2c8-d150-43df-bd8a-79c16a844c26.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Relatório",
+            "TituloDocumento": "Relatório da discussão e votação na especialidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6d4e694e7a5935597a6b745a47557a595330304f54637a4c5467354e4449744d6d45324e6d59794f474d334e7a4a6b4c6e426b5a673d3d&fich=6cb769c9-de3a-4973-8942-2a66f28c772d.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-17",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto Final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e7a6b785a5759344f474d744d6a513159693030596a45784c546b334d6a59745a5467334e44426b4d6d566c4e6d4a694c6e426b5a673d3d&fich=791ef88c-245b-4b11-9726-e8740d2ee6bb.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4531",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Educação e Ciência",
+        "Numero": "4531",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2017-07-16",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2017-07-16",
+            "dataRemessa": "2019-07-17",
+            "numeroOficio": "email",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2019-02-15",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "347735",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
