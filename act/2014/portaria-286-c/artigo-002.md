@@ -4,7 +4,7 @@
 
 1 - A quota de sarda (Scomber scombrus) atribuída a Portugal nos termos da regulamentação europeia aplicável é repartida, anualmente, do seguinte modo:
 
-a) 12,5% é atribuída à frota do largo licenciada para operar no Atlântico Norte;
+a) 12,5 % é atribuída à frota do largo licenciada para operar no Atlântico Norte, nos termos do despacho anual de repartição de quotas;
 
 b) 65 % é atribuída às embarcações autorizadas a operar com arrasto, com malhagem 65-69 mm e/ou 70 mm, na zona VIIIc do CIEM, ao abrigo do Acordo Luso-Espanhol, nos termos do artigo seguinte;
 
