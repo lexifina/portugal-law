@@ -22,7 +22,7 @@ h) Controlar, nos termos da lei, os bens em circulação;
 
 i) Solicitar informações às administrações tributárias estrangeiras, no âmbito dos instrumentos de assistência mútua e cooperação administrativa europeia ou internacional.
 
-j) Verificar no âmbito do acesso e da troca automática e obrigatória de informações para fins fiscais, do cumprimento das obrigações de comunicação de informações financeiras e de diligência devida por parte das instituições financeiras reportantes, registadas, para esse efeito, nos termos a definir por portaria do membro do Governo responsável pela área das finanças.
+j) Verificar o cumprimento das obrigações de comunicação de informações financeiras e de diligência devida por parte das instituições financeiras reportantes no âmbito da troca automática de informações para fins fiscais ou do regime de comunicação obrigatória previsto no artigo 10.º-A do Decreto-Lei n.º 64/2016, de 11 de outubro.
 
 2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se susceptíveis de revelar a situação tributária dos contribuintes os seguintes elementos:
 
