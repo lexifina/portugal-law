@@ -1,0 +1,62 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "109816",
+  "tipo": "Requerimento",
+  "numero": "60",
+  "data_registo": "2019-02-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Recusa por parte da concessionária em mostrar documento em que renuncia à prospeção de petróleo em Aljezur",
+    "Autores": [
+      {
+        "GP": "PAN",
+        "idCadastro": "5777",
+        "nome": "André Silva"
+      }
+    ],
+    "DataEnvio": "2019-02-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2019-02-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO MAR",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2019-06-19",
+            "docRemetida": null,
+            "entidade": "MIN. DO MAR",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396d4d5755344e5445794e6931695a5463794c5451325a545574596a45314e69316d5a6a566a4f47526a4e474d314e5749756347526d&fich=f1e85126-be72-46e5-b156-ff5c8dc4c55b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2019-02-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a52545443396c4f57526c593259785a69307a5a444e694c54526c596d49744f4756694f43316a596a526d4f4459774d6d45305a6a41756347526d&fich=e9decf1f-3d3b-4ebb-8eb8-cb4f8602a4f0.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "109816",
+    "Legislatura": "XIII",
+    "Nr": "60",
+    "Observacoes": "PALP - Plataforma Algarve Livre de Petróleo; documento de renúncia do contrato de prospeção, pesquisa, desenvolvimento e produção de petróleo para as áreas denominadas por Santola, Lavagante e Gamba;",
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Requerimento"
+  }
+}
