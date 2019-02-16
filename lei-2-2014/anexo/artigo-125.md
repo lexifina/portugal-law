@@ -1,11 +1,7 @@
 # Artigo 125.º
 
-### Centralização da contabilidade ou da escrituração
+### Faturação e arquivo
 
-1 - A contabilidade ou a escrituração mencionada nos artigos anteriores deve ser centralizada em estabelecimento ou instalação situado no território português, nos seguintes termos:
+1 - Os sujeitos passivos com sede ou direção efetiva em território nacional, bem como aqueles que aí possuam estabelecimento estável, estão sujeitos às obrigações de faturação e de conservação de livros, registos e respetivos documentos de suporte nos termos previstos no Código do IVA e no Decreto-Lei n.º 28/2019, de 15 de fevereiro.
 
-a) No tocante às pessoas coletivas e outras entidades residentes naquele território, a centralização abrange igualmente as operações realizadas no estrangeiro;
-
-b) No que respeita às pessoas coletivas e outras entidades não residentes no mesmo território, mas que aí disponham de estabelecimento estável, a centralização abrange apenas as operações que lhe sejam imputadas nos termos deste Código, devendo, no caso de existir mais de um estabelecimento estável, abranger as operações imputáveis a todos eles.
-
-2 - O estabelecimento ou instalação em que seja feita a centralização mencionada no número anterior deve ser indicado na declaração de inscrição no registo mencionada no artigo 118.º e, quando se verificarem alterações do mesmo, na declaração de alterações, igualmente referida naquela disposição.
+2 - (Revogado.)
