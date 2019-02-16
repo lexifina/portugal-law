@@ -6,12 +6,12 @@
 
 2 - Para os registos previstos na alínea d) do n.º 1 do artigo 50.º e no artigo 51.º e documentos anexos, o prazo de 10 anos referido no número anterior deve ser contado a partir da data em que for efectuada a última das regularizações previstas nos artigos 24.º e 25.º
 
-3 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional são obrigados a manter os livros, registos e demais documentos referidos no n.º 1 em estabelecimento ou instalação situado em território nacional, salvo se o arquivamento for efectuado por meios electrónicos.
+3 - A regulamentação do arquivo dos livros, registos e documentos de suporte consta de legislação especial.
 
-4 - É permitido o arquivamento em suporte eletrónico das faturas emitidas por via eletrónica desde que se encontre garantido o acesso completo e em linha aos dados e assegurada a integridade da origem e do conteúdo e a sua legibilidade.
+4 - (Revogado.)
 
-5 - Os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional que pretendam proceder ao arquivamento em suporte eletrónico dos documentos referidos no número anterior fora do território da Comunidade devem solicitar autorização prévia à Autoridade Tributária e Aduaneira, a qual pode fixar condições específicas para a sua efetivação.
+5 - (Revogado.)
 
-6 - Os sujeitos passivos que não disponham de sede, estabelecimento estável ou domicílio em território nacional que pretendam manter o arquivo dos livros, registos e demais documentos, incluindo os referidos no n.º 4, fora do território da Comunidade, devem solicitar autorização prévia à Autoridade Tributária e Aduaneira, a qual pode fixar condições específicas para a sua efetivação.
+6 - (Revogado.)
 
-7 - É ainda permitido o arquivamento em suporte eletrónico das faturas ou de quaisquer outros documentos com relevância fiscal desde que processados por computador, nos termos definidos por portaria do Ministro das Finanças.
+7 - (Revogado.)

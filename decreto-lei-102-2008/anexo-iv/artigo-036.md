@@ -18,7 +18,7 @@ c) Na data do recebimento, no caso de pagamentos relativos a uma transmissão de
 
 5 - As faturas devem ser datadas, numeradas sequencialmente e conter os seguintes elementos:
 
-a) Os nomes, firmas ou denominações sociais e a sede ou domicílio do fornecedor de bens ou prestador de serviços e do destinatário ou adquirente, bem como os correspondentes números de identificação fiscal dos sujeitos passivos de imposto;
+a) Os nomes, firmas ou denominações sociais e a sede ou domicílio do fornecedor de bens ou prestador de serviços e do destinatário ou adquirente sujeito passivo do imposto, bem como os correspondentes números de identificação fiscal;
 
 b) A quantidade e denominação usual dos bens transmitidos ou dos serviços prestados, com especificação dos elementos necessários à determinação da taxa aplicável; as embalagens não efectivamente transaccionadas devem ser objecto de indicação separada e com menção expressa de que foi acordada a sua devolução;
 
@@ -40,7 +40,7 @@ No caso de a operação ou operações às quais se reporta a factura compreende
 
 9 - No caso de sujeitos passivos que não disponham de sede, estabelecimento estável ou domicílio em território nacional, que tenham nomeado representante nos termos do artigo 30.º, as faturas emitidas, além dos elementos previstos no n.º 5, devem conter ainda o nome ou denominação social e a sede, estabelecimento estável ou domicílio do representante, bem como o respetivo número de identificação fiscal.
 
-10 - As faturas podem, sob reserva de aceitação pelo destinatário, ser emitidas por via eletrónica desde que seja garantida a autenticidade da sua origem, a integridade do seu conteúdo e a sua legibilidade através de quaisquer controlos de gestão que criem uma pista de auditoria fiável, considerando-se cumpridas essas exigências se adotada, nomeadamente, uma assinatura eletrónica avançada ou um sistema de intercâmbio eletrónico de dados.
+10 - As faturas podem, sob reserva de aceitação pelo destinatário, ser emitidas por via eletrónica.
 
 11 - A elaboração de faturas por parte do adquirente dos bens ou dos serviços fica sujeita às seguintes condições:
 
@@ -50,12 +50,14 @@ b) O adquirente provar que o transmitente dos bens ou prestador dos serviços to
 
 c) Conter a menção 'autofaturação'.
 
-12 - Sem prejuízo do disposto no número anterior, a elaboração de faturas pelos próprios adquirentes dos bens ou dos serviços ou por terceiros que não disponham de sede, estabelecimento estável ou domicílio em qualquer Estado membro está sujeita a autorização prévia da Autoridade Tributária e Aduaneira, que pode fixar condições específicas para a sua efetivação.
+12 - (Revogado.)
 
 13 - Nas situações previstas nas alíneas i), j) e l) do n.º 1 do artigo 2.º, bem como nas demais situações em que o destinatário ou adquirente for o devedor do imposto, as faturas emitidas pelo transmitente dos bens ou prestador dos serviços devem conter a expressão 'IVA - autoliquidação'.
 
-14 - Nas faturas processadas através de sistemas informáticos, todas as menções obrigatórias, incluindo o nome, a firma ou a denominação social e o número de identificação fiscal do sujeito passivo adquirente, devem ser inseridas pelo respetivo programa ou equipamento informático de faturação.
+14 - (Revogado.)
 
-15 - A indicação na fatura da identificação e do domicílio do adquirente ou destinatário que não seja sujeito passivo não é obrigatória nas faturas de valor inferior a (euro) 1000, salvo quando o adquirente ou destinatário solicite que a fatura contenha esses elementos.
+15 - (Revogado.)
 
 16 - A indicação na fatura do número de identificação fiscal do adquirente ou destinatário não sujeito passivo é sempre obrigatória quando este o solicite.
+
+17 - A regulamentação do processamento e arquivo das faturas e documentos retificativos de faturas consta de legislação especial.

@@ -30,9 +30,13 @@ i) Indicar na declaração recapitulativa a que se refere a alínea c) do n.º 1
 
 3 - Não obstante o disposto no n.º 1, estão dispensados do cumprimento:
 
-a) Das obrigações referidas nas suas alíneas b), c), d) e g), os sujeitos passivos que pratiquem exclusivamente operações isentas de imposto, exceto quanto essas operações conferem direito à dedução nos termos da alínea b) do n.º 1 do artigo 20.º;
+a) Da obrigação referida na sua alínea b), as pessoas coletivas de direito público, organismos sem finalidade lucrativa e instituições particulares de solidariedade social que pratiquem exclusivamente operações isentas de imposto e que tenham obtido para efeitos de IRC, no período de tributação imediatamente anterior, um montante anual ilíquido de rendimentos não superior a (euro) 200 000;
 
 b) Da obrigação referida na sua alínea b), os sujeitos passivos relativamente às operações isentas ao abrigo das alíneas 27) e 28) do artigo 9.º, quando o destinatário esteja estabelecido ou domiciliado noutro Estado membro da União Europeia e seja um sujeito passivo do IVA.
+
+c) Das obrigações referidas nas suas alíneas c), d) e g), os sujeitos passivos que pratiquem exclusivamente operações isentas de imposto, exceto quando estas operações conferem direito à dedução nos termos da alínea b) do n.º 1 do artigo 20.º;
+
+d) Da obrigação referida na alínea e), os sujeitos passivos com sede, estabelecimento estável ou domicílio em território nacional.
 
 4 - Se, por motivos de alteração da actividade, o sujeito passivo passar a praticar exclusivamente operações isentas que não conferem direito à dedução, a dispensa do envio da declaração referida na alínea c) do n.º 1 produz efeitos a partir de 1 de Janeiro do ano civil seguinte àquele em que é apresentada a respectiva declaração.
 
@@ -58,7 +62,13 @@ b) Da obrigação referida na sua alínea b), os sujeitos passivos relativamente
 
 15 - Os sujeitos passivos referidos na alínea i) do n.º 1 do artigo 2.º são obrigados a emitir uma factura por cada aquisição de bens ou de serviços aí mencionados quando o respectivo transmitente ou prestador não seja um sujeito passivo, não se aplicando, nesse caso, os condicionalismos previstos no n.º 11 do artigo 36.º
 
-16 - Ficam dispensados de apresentar a declaração, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1 os sujeitos passivos que não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS.
+16 - Ficam dispensados de apresentar a declaração de informação contabilística e fiscal, os anexos e os mapas recapitulativos a que se referem as alíneas d), e) e f) do n.º 1, os sujeitos passivos que reúnam qualquer das seguintes condições:
+
+a) Não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS;
+
+b) A que seja aplicável o regime de normalização contabilística para microentidades;
+
+c) Exerçam a atividade económica de diversão itinerante e estejam enquadrados nas subclasses 93211 e 93295 da Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE-Rev 3), aprovada em anexo ao Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual.
 
 17 - No preenchimento da declaração recapitulativa a que se refere a alínea i) do n.º 1 deve atender-se ao seguinte:
 
@@ -68,10 +78,10 @@ b) As prestações de serviços a declarar são as efectuadas no período a que 
 
 c) Podem não ser incluídas as prestações de serviços que sejam isentas do imposto no Estado membro em que as operações são tributáveis.
 
-18 - Os sujeitos passivos a que seja aplicável o regime de normalização contabilística para microentidades ficam dispensados da obrigação de entrega da declaração de informação contabilística e fiscal e anexos respeitantes à aplicação do Decreto-Lei n.º 347/85, de 23 de Agosto.
+18 - (Revogado.)
 
 19 - Não é permitida aos sujeitos passivos a emissão e entrega de documentos de natureza diferente da fatura para titular a transmissão de bens ou prestação de serviços aos respetivos adquirentes ou destinatários, sob pena de aplicação das penalidades legalmente previstas.
 
 20 - A obrigação referida na alínea b) do n.º 1 pode ser cumprida mediante a emissão de outros documentos pelas pessoas coletivas de direito público, organismos sem finalidade lucrativa e instituições particulares de solidariedade social, relativamente às transmissões de bens e prestações de serviços isentas ao abrigo do artigo 9.º
 
-21 - Os sujeitos passivos que pratiquem uma só operação tributável nas condições referidas na alínea a) do n.º 1 do artigo 2.º podem cumprir a obrigação referida na alínea b) do n.º 1 do presente artigo mediante emissão de fatura no Portal das Finanças.
+21 - (Revogado.)

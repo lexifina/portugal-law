@@ -22,11 +22,11 @@ e) O motivo justificativo da não aplicação do imposto, se for caso disso.
 
 3 - As faturas referidas nos números anteriores devem ainda conter o número de identificação fiscal do adquirente ou destinatário que não seja sujeito passivo quando este o solicite.
 
-4 - As faturas referidas nos números anteriores podem ser processadas nos termos previstos no artigo 5.º do Decreto-Lei n.º 198/90, de 19 de junho, ou ainda por outros meios eletrónicos, nomeadamente máquinas registadoras, terminais eletrónicos ou balanças eletrónicas, com registo obrigatório das operações no rolo interno da fita da máquina ou em registo interno por cada transmissão de bens ou prestação de serviços, sendo-lhes aplicável, em qualquer caso, quanto às matérias não especificamente reguladas neste artigo, as restantes disposições que regem a emissão de faturas.
+4 - (Revogado.)
 
 5 - Sem prejuízo da obrigação de registo das transmissões de bens e das prestações de serviços efetuadas, a obrigação referida na alínea b) do n.º 1 do artigo 29.º pode ser cumprida mediante a emissão de documentos ou do registo das operações, respetivamente, nas seguintes operações:
 
-a) Prestações de serviços de transporte, de estacionamento, portagens e entradas em espetáculos, quando seja emitido um bilhete de transporte, ingresso ou outro documento ao portador comprovativo do pagamento;
+a) Prestações de serviços de transporte, de estacionamento, portagens, entradas em espetáculos, bibliotecas, arquivos, museus, galerias de arte, castelos, palácios, monumentos, parques, perímetros florestais, jardins botânicos, zoológicos e serviços prestados por sujeitos passivos que exerçam a atividade económica de diversão itinerante enquadrados nas subclasses 93211 e 93295 da Classificação Portuguesa das Atividades Económicas, Revisão 3 (CAE - Rev 3), aprovada em anexo ao Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual, quando seja emitido um bilhete de transporte, ingresso ou documento comprovativo do pagamento;
 
 b) Transmissões de bens efetuadas através de aparelhos de distribuição automática que não permitam a emissão de fatura.
 
