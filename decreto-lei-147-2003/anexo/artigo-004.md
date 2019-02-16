@@ -20,11 +20,11 @@ d) Designação comercial dos bens, com indicação das quantidades.
 
 5 - Na falta de menção expressa dos locais de carga e descarga e da data do início do transporte, presumir-se-ão como tais os constantes do documento de transporte.
 
-6 - Os documentos de transporte, quando o destinatário ou os bens a entregar em cada local de destino não sejam conhecidos na altura da saída dos locais referidos no n.º 2 do artigo 2.º, são processados globalmente, nos termos referidos nos artigos 5.º e 8.º, e impressos em papel, devendo proceder-se do seguinte modo à medida que forem feitos os fornecimentos:
+6 - Os documentos de transporte, quando o destinatário ou os bens a entregar em cada local de destino não sejam conhecidos na altura da saída dos locais referidos no n.º 2 do artigo 2.º, são processados globalmente e impressos em papel ou emitidos eletronicamente, devendo proceder-se do seguinte modo à medida que forem feitos os fornecimentos:
 
 a) No caso de entrega efetiva dos bens, os documentos previstos no presente diploma, bem como a fatura simplificada a que se refere o n.º 1 do artigo 40.º do Código do IVA, devem ser processados em duplicado, utilizando-se o duplicado para justificar a saída dos bens;
 
-b) No caso de saída de bens a incorporar em serviços prestados pelo remetente dos mesmos, deve a mesma ser registada em documento próprio, processado por uma das vias previstas no n.º 1 do artigo 5.º, nomeadamente folha de obra ou outro documento equivalente.
+b) No caso de saída de bens a incorporar em serviços prestados pelo remetente dos mesmos, deve a mesma ser registada em documento de transporte próprio, nomeadamente folha de obra ou outro documento equivalente.
 
 7 - Nas situações referidas nas alíneas a) e b) do número anterior, deve sempre fazer-se referência ao respectivo documento global.
 
@@ -34,4 +34,4 @@ b) No caso de saída de bens a incorporar em serviços prestados pelo remetente 
 
 10 - Em relação aos bens transportados por vendedores ambulantes e vendedores em feiras e mercados, destinados a venda a retalho, abrangidos pelo regime especial de isenção ou regime especial dos pequenos retalhistas a que se referem os artigos 53.º e 60.º do Código do IVA, respetivamente, o documento de transporte pode ser substituído pelas faturas de aquisição processadas nos termos e de harmonia com os artigos 36.º e 40.º do mesmo Código.
 
-11 - Os documentos referidos nas alíneas a) e b) do n.º 6 e as alterações referidas no n.º 8 são comunicados até ao 5.º dia útil seguinte ao do transporte, por inserção no Portal das Finanças, ou por outra forma de transmissão eletrónica de dados, a definir por portaria do membro do Governo responsável pela área das finanças.
+11 - Os documentos referidos nas alíneas a) e b) do n.º 6 e as alterações referidas no n.º 8 são comunicados por transmissão eletrónica de dados ou, quando emitidos nos termos da alínea e) do n.º 1 do artigo 5.º, por inserção no Portal das Finanças até ao 5.º dia útil seguinte ao do transporte.
