@@ -1,0 +1,6 @@
+Aviso n.º 2677/2019
+Prorrogação do prazo de elaboração da revisão do Plano Diretor Municipal de Celorico da Beira
+Carlos Manuel da Fonseca Ascensão, Presidente da Câmara Municipal de Celorico da Beira, torna público, em cumprimento do disposto nos n.os 6 e 7 do artigo 76.º e n.º 2 do artigo 199.º ambos do Decreto-Lei n.º 80/2015, de 14 de maio, conjugados com o n.º 1 do artigo 78.º da Lei n.º 74/2017, de 16 de agosto, que a Câmara Municipal de Celorico da Beira, em Reunião Ordinária de dezasseis de janeiro de dois mil e dezanove, deliberou, por unanimidade, a prorrogação do prazo de elaboração da Revisão do Plano Diretor Municipal, até 13 de julho de 2020, data limite para a transposição das normas do Programa Especial do Parque Natural da Serra da Estrela (PEPNSE) para o Plano Diretor Municipal.
+Informa-se ainda que, nos termos do n.º 1 do artigo 5.º, conjugado com o n.º 1 dos artigos 76.º e 192.º do Decreto-Lei n.º 80/2015, de 14 de maio, o presente Aviso será divulgado no Diário da República, através da Comunicação Social e no site da Câmara Municipal de Celorico da Beira (www.cm-celoricodabeira.pt),
+21 de janeiro de 2019. - O Presidente da Câmara, Carlos Manuel da Fonseca Ascensão.
+312019382
