@@ -14,11 +14,15 @@ Sede: Évora.
 
 Sede: Lisboa.
 
-Área de competência: comarcas dos Açores, Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
+Área de competência: comarcas de Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
 
 Sede: Porto.
 
 Área de competência: comarcas de Aveiro, Braga, Bragança, Porto, Porto Este, Viana do Castelo e Vila Real.
+
+Sede: Ponta Delgada.
+
+Área de competência: comarca dos Açores, estabelecimento prisional de Angra do Heroísmo, estabelecimento prisional regional de Ponta Delgada e cadeia de apoio da Horta.
 
 Tribunal Marítimo
 

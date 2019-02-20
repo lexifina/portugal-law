@@ -30,7 +30,7 @@ Tribunal da Relação de Lisboa
 
 Comarcas: Açores, Lisboa, Lisboa Norte, Lisboa Oeste e Madeira.
 
-Tribunais de competência territorial alargada: Tribunal da Propriedade Intelectual, Tribunal da Concorrência, Regulação e Supervisão, Tribunal Marítimo, Tribunal de Execução das Penas de Lisboa e Tribunal Central de Instrução Criminal.
+Tribunais de competência territorial alargada: Tribunal da Propriedade Intelectual, Tribunal da Concorrência, Regulação e Supervisão, Tribunal Marítimo, Tribunal de Execução das Penas dos Açores, Tribunal de Execução das Penas de Lisboa e Tribunal Central de Instrução Criminal.
 
 Tribunal da Relação de Évora
 
