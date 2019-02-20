@@ -8,18 +8,20 @@
 
 São criados os seguintes tribunais de competência territorial alargada:
 
-a) Tribunal de Execução das Penas de Coimbra;
+a) Tribunal de Execução das Penas dos Açores;
 
-b) Tribunal de Execução das Penas de Évora;
+b) Tribunal de Execução das Penas de Coimbra;
 
-c) Tribunal de Execução das Penas de Lisboa;
+c) Tribunal de Execução das Penas de Évora;
 
-d) Tribunal de Execução das Penas do Porto;
+d) Tribunal de Execução das Penas de Lisboa;
 
-e) Tribunal Marítimo;
+e) Tribunal de Execução das Penas do Porto;
 
-f) Tribunal da Propriedade Intelectual;
+f) Tribunal Marítimo;
 
-g) Tribunal da Concorrência, Regulação e Supervisão;
+g) Tribunal da Propriedade Intelectual;
 
-h) Tribunal Central de Instrução Criminal.
+h) Tribunal da Concorrência, Regulação e Supervisão;
+
+i) Tribunal Central de Instrução Criminal.

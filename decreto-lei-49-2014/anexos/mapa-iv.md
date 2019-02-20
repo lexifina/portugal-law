@@ -20,11 +20,11 @@ Tribunal da Relação competente: Évora.
 
 Juízes: 2.
 
-Sede: Lisboa
+Sede: Lisboa.
 
 Tribunal da Relação competente: Lisboa.
 
-Área de competência territorial: comarcas dos Açores, Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
+Área de competência: comarcas de Lisboa, Lisboa Norte, Lisboa Oeste, Madeira e estabelecimentos prisionais de Alcoentre, das Caldas da Rainha e de Vale de Judeus.
 
 Juízes: 7.
 
@@ -35,6 +35,14 @@ Tribunal da Relação competente: Porto.
 Área de competência territorial: comarcas de Aveiro, Braga, Bragança, Porto, Porto Este, Viana do Castelo e Vila Real.
 
 Juízes: 4.
+
+Sede: Ponta Delgada.
+
+Tribunal da Relação competente: Lisboa.
+
+Área de competência territorial: comarca dos Açores, estabelecimento prisional de Angra do Heroísmo, estabelecimento prisional regional de Ponta Delgada e cadeia de apoio da Horta.
+
+Juízes: 1.
 
 Tribunal Marítimo
 
