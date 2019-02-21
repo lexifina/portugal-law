@@ -8,7 +8,7 @@ a) Estágios desenvolvidos em todos os setores de atividade, comparticipados pel
 
 b) Estágios comparticipados pelo IEFP, I.P que visem o desenvolvimento de uma experiência prática em contexto real de trabalho por jovens em situação de desfavorecimento face ao mercado de trabalho, conjuntamente com jovens mais qualificados;
 
-c) Estágios desenvolvidos nos serviços da administração pública central (PEPAC);
+c) (Revogada.)
 
 d) Estágios profissionais na administração local (PEPAL);
 

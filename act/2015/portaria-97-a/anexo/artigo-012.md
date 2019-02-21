@@ -12,7 +12,7 @@ b) Verificação da situação tributária e contributiva regularizada perante, 
 
 c) Comunicação do início ou reinício da operação.
 
-3 - Os pedidos de reembolso são efetuados com uma periodicidade mínima bimestral, devendo o beneficiário submeter eletronicamente, no portal do Portugal 2020, os dados físicos e financeiros requeridos pelo sistema de informação.
+3 - Os pedidos de reembolso são efetuados com uma periodicidade mínima bimestral, salvo quando seja definida em sede de aviso outra periodicidade, devendo o beneficiário submeter eletronicamente, no portal do Portugal 2020, os dados físicos e financeiros requeridos pelo sistema de informação.
 
 4 - No caso de candidaturas plurianuais, o beneficiário fica obrigado a submeter eletronicamente, no portal do Portugal 2020 até 31 de março de cada ano, a informação anual da execução física e financeira, reportada a 31 de dezembro do ano anterior, ao abrigo do disposto na alínea b) do n.º 7 do artigo 25.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
 

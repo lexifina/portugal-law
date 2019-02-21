@@ -26,7 +26,7 @@ ii) Aumentar as competências pessoais, sociais e profissionais e facilitar o ac
 
 iii) Combater as discriminações e os estereótipos;
 
-iv) Aumentar a qualidade e diversificar a oferta de serviços e de respostas sociais e de saúde dirigidas a pessoas com deficiência ou incapacidades e de pessoas idosas e suas famílias.
+iv) (Revogada.)
 
 c) No âmbito do POR Algarve:
 
@@ -37,3 +37,5 @@ ii) Aumentar o reconhecimento de competências pessoais, sociais e profissionais
 iii) Aumentar a capacidade de resposta das entidades públicas e privadas através da sensibilização e formação dos atores chave para a prevenção e combate à discriminação, à violência doméstica, de género e ao tráfico de seres humanos;
 
 iv) Aumentar a qualidade e diversificar a oferta de serviços e de respostas sociais e de saúde.
+
+d) No âmbito dos POR Norte, Centro, Alentejo e Lisboa, promover o desenvolvimento das competências socioprofissionais, pessoais, sociais e básicas de grupos potencialmente mais vulneráveis, potenciando a sua empregabilidade e o reforço das oportunidades para a sua integração socioprofissional e cultural.

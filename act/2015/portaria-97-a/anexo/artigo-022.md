@@ -10,13 +10,13 @@ b) Participantes empregados 6 meses depois de terminada a participação num est
 
 c) Participantes empregados 6 meses depois de terminada a participação num estágio profissional da administração local;
 
-d) Participantes jovens empregados 6 meses depois de terminada a participação nas ações de apoio à contratação;
+d) (Revogada.)
 
-e) Participantes jovens empregados 6 meses depois de terminada a participação num estágio profissional;
+e) (Revogada.)
 
 f) Entidades apoiadas com planos para a igualdade implementados com avaliação efetuada;
 
-g) Proporção de inscrições para emprego, registo de ofertas e candidaturas a medidas de emprego realizadas online;
+g) (Revogada.)
 
 h) Associados inquiridos que reconhecem a melhoria do desempenho dos parceiros sociais.
 

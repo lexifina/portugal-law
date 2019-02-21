@@ -14,7 +14,7 @@ d) Elaboração e execução do PIIP, em função das necessidades de contexto f
 
 e) Ações de apoio às famílias nos acessos e recursos dos sistemas da Segurança Social, Saúde e Educação;
 
-f) Ações de formação contínua dos docentes, técnicos e outros profissionais com vista ao reforço da rede de equipas locais de intervenção precoce na infância, potenciador da criação de mecanismos articulados de suporte social em cada comunidade;
+f) Ações de formação dos docentes, técnicos e outros profissionais com vista ao reforço da rede de equipas locais de intervenção precoce na infância, potenciador da criação de mecanismos articulados de suporte social em cada comunidade;
 
 g) Ações para assegurar os processos de transição adequados para outros programas, serviços ou contextos educativos de cada criança;
 

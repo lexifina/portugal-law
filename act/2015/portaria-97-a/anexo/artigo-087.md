@@ -4,19 +4,19 @@
 
 1 - Os resultados a contratualizar com os beneficiários no âmbito das tipologias de operações previstas nos eixos prioritários 1 e 3 do PO ISE e nos POR devem considerar o contributo das pertinentes operações candidatas para os seguintes indicadores de resultado, conforme previsto em cada um dos PO:
 
-a) Participantes desempregados, incluindo desempregados de longa duração, que obtiveram competências escolares e ou profissionais certificadas;
+a) Participações certificadas de desempregados em unidades de formação de curta duração;
 
-b) Participantes empregados que, pelo menos, mantêm o emprego, 6 meses depois de terminada a participação na formação;
+b) Participantes empregados que mantêm o emprego, 6 meses depois de terminada a participação na formação;
 
-c) Entidades que aderiram a iniciativas de voluntariado face às acreditadas na bolsa de voluntariado;
+c) (Revogada.)
 
-d) Participantes de grupos desfavorecidos, incluindo desempregados de longa duração com baixas qualificações, que foram certificados no final da formação modular certificada;
+d) Participações certificadas de pessoas de grupos desfavorecidos, incluindo desempregados em unidades de formação de curta duração;
 
-e) Participantes de grupos desfavorecidos que foram certificados no final da formação de percursos formativos;
+e) Participações certificadas de pessoas de grupos desfavorecidos que foram certificados no final da formação de percursos formativos;
 
-f) Participantes em ações de formação de públicos estratégicos que concluíram a formação;
+f) Participações concluídas em ações de formação de públicos estratégicos;
 
-g) Participantes que concluem ações de formação para profissionais de serviços sociais e de saúde.
+g) Participações concluídas em ações de formação para profissionais de serviços sociais e de saúde.
 
 2 - Nos critérios de seleção das operações no âmbito do eixo prioritário 2 do PO ISE, é considerado o contributo de cada ação candidata para os seguintes indicadores de resultado:
 

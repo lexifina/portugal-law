@@ -32,7 +32,7 @@ ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades i
 
 iii) PI 9iii, "Luta contra todas as formas de discriminação e promoção da igualdade de oportunidades", do eixo prioritário 6, "Promover a inclusão social e combater a pobreza e a discriminação";
 
-iv) PI 9iv, "Melhoria do acesso a serviços sustentáveis, de grande qualidade e a preços comportáveis, mormente cuidados de saúde e serviços sociais de interesse geral", do eixo prioritário 6, "Promover a inclusão social e combater a pobreza e a discriminação".
+iv) (Revogada.)
 
 c) No âmbito do POR Algarve:
 
@@ -43,3 +43,11 @@ ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades i
 iii) PI 9iii, "Luta contra todas as formas de discriminação e promoção da igualdade de oportunidades", do eixo prioritário 6, "Afirmar a coesão social e territorial";
 
 iv) PI 9iv, "Melhoria do acesso a serviços sustentáveis, de grande qualidade e a preços comportáveis, mormente cuidados de saúde e serviços sociais de interesse geral", do eixo prioritário 6, "Afirmar a coesão social e territorial".
+
+d) No âmbito dos POR Norte, Centro e Alentejo:
+
+i) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade" do eixo prioritário 7 "Inclusão social e pobreza" do POR Norte;
+
+ii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade", do eixo prioritário 5 "Fortalecer a coesão social e territorial (APROXIMAR E CONVERGIR)" do POR Centro;
+
+iii) PI 9i, "Inclusão ativa, inclusivamente com vista a promover oportunidades iguais e a participação ativa e melhorar a empregabilidade" do eixo prioritário 6 "Coesão Social e Inclusão" do POR Alentejo.

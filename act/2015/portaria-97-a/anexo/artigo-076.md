@@ -1,8 +1,8 @@
 # Artigo 76.º
 
-### Forma, montantes e limites dos apoios
+### Montantes e limites dos apoios
 
-1 - Os apoios a conceder pelo PO ISE no âmbito da presente secção revestem a natureza de subvenção não reembolsável, com o limite máximo de financiamento público a definir nos avisos para apresentação de candidaturas.
+1 - (Revogado.)
 
 2 - Sem prejuízo do disposto nos números seguintes, os apoios a conceder pelos POR revestem a natureza de subvenção não reembolsável e os limites máximos dos apoios a conceder bem como as majorações, nomeadamente para os territórios de baixa densidade, constam dos respetivos diplomas normativos enquadradores e ou dos avisos para apresentação de candidaturas, sem prejuízo das regras de aplicação do FSE e do FEDER.
 

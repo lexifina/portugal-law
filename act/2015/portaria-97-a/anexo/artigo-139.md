@@ -2,7 +2,7 @@
 
 ### Ações elegíveis
 
-1 - No âmbito da presente secção são elegíveis as seguintes ações:
+1 - No âmbito da presente secção são elegíveis, designadamente as seguintes ações:
 
 a) Ações de formação de técnicos, docentes e outros profissionais que atuam junto das CPCJ;
 

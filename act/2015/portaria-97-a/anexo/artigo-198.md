@@ -1,6 +1,6 @@
 ## Secção X
 
-## Centros Nacionais de Apoio ao Imigrante
+## Centros Nacionais de Apoio à Integração de Migrantes
 
 # Artigo 198.º
 

@@ -40,7 +40,7 @@ a) Apoio à capacitação e constituição de empresas por mulheres;
 
 b) Apoio à criação de novas empresas, preferencialmente por desempregados e inativos que pretendam voltar ao mercado de trabalho.
 
-4 - No âmbito do POR Algarve é dada prioridade aos domínios que contribuem para a implementação da Estratégia de Especialização Inteligente (RIS3) regional e a elegibilidade fora dos territórios das parcerias das DLBC está prioritariamente vocacionada para as áreas urbanas classificadas como cidades.
+4 - No âmbito do POR Algarve é dada prioridade aos domínios que contribuem para a implementação da Estratégia de Especialização Inteligente (RIS3) regional.
 
 5 - As operações previstas nas alíneas b), c) e d) do n.º 1 do presente artigo, apenas são elegíveis no PO ISE durante o período de elegibilidade da IEJ, sem prejuízo de poderem integrar outros eixos prioritários de outros PO, após esse período.
 

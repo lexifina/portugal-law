@@ -6,15 +6,15 @@ As tipologias de operações previstas no presente capítulo têm como objetivos
 
 a) No âmbito do PO ISE:
 
-i) Integrar, de forma sustentada, desempregados e inativos no mercado de trabalho;
+i) Integrar, de forma sustentada, adultos e jovens, desempregados e ou inativos no mercado de trabalho;
 
-ii) Integrar os jovens no mercado de trabalho, através do aumento de oportunidades de acesso e de manutenção sustentada do emprego;
+ii) (Revogada.)
 
 iii) Aumentar a qualificação e integração sustentada no mercado de trabalho dos jovens que não estão em situação de emprego, ensino ou formação, nomeadamente através do desenvolvimento de competências para o mercado de trabalho;
 
-iv) Aumentar a qualidade do emprego através do apoio a uma maior flexibilidade na gestão do horário de trabalho, que favoreça a ligação ao mercado de trabalho dos pais e das mães e a melhoria da integração da dimensão da igualdade de género na organização, funcionamento e atividade das entidades empregadoras, visando reforçar as condições de conciliação entre a vida familiar e profissional para mulheres e homens;
+iv) Aumentar a qualidade do emprego através do apoio à melhoria da integração da dimensão da igualdade de género na organização, funcionamento e atividade das entidades empregadoras, visando reforçar as condições de conciliação entre a vida familiar e profissional para mulheres e homens;
 
-v) Modernizar as instituições do mercado de trabalho, em particular o Serviço Público de Emprego, com vista a maximizar a eficácia e a eficiência na prestação de serviços (presenciais e à distância);
+v) (Revogada.)
 
 vi) Melhorar a capacitação institucional dos parceiros sociais com assento na CPCS.
 

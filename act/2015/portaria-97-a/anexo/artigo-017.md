@@ -16,7 +16,7 @@ a) No âmbito do PO ISE:
 
 i) PI 8i, "Acesso ao emprego pelos candidatos a emprego e os inativos, incluindo desempregados de longa duração e pessoas afastadas do mercado de trabalho, igualmente através de iniciativas locais de emprego e de apoio à mobilidade dos trabalhadores", do eixo prioritário 1, "Promover a sustentabilidade e a qualidade do emprego";
 
-ii) PI 8ii, "Integração sustentável no mercado laboral dos jovens (FSE), em especial os que não trabalham, não estudam, nem se encontram em formação, incluindo os jovens em risco de exclusão social e de comunidades marginalizadas, nomeadamente através da concretização da Garantia para a Juventude", do eixo prioritário 1, "Promover a sustentabilidade e a qualidade do emprego";
+ii) (Revogada.)
 
 iii) PI 8iv, "Igualdade entre homens e mulheres em todos os domínios, incluindo no acesso ao emprego, na progressão na carreira, na conciliação da vida profissional e privada e na promoção da igualdade de remuneração para trabalho igual", do eixo prioritário 1, "Promover a sustentabilidade e a qualidade do emprego";
 

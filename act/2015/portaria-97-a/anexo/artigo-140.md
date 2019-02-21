@@ -2,7 +2,7 @@
 
 ### Grupo-alvo
 
-São destinatários das ações de formação financiadas no âmbito da presente secção:
+São destinatários das ações de formação financiadas no âmbito da presente secção, designadamente:
 
 a) Os docentes, técnicos e outros profissionais e colaboradores dos serviços sociais e de saúde;
 

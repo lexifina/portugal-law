@@ -6,7 +6,7 @@
 
 a) Norte, Centro e Alentejo, no âmbito das tipologias de operações previstas no eixo prioritário 1 do PO ISE;
 
-b) Norte, Centro, Lisboa, Alentejo, Algarve e Regiões Autónomas dos Açores e da Madeira, no âmbito das tipologias de operações previstas no eixo prioritário 2 do PO ISE, durante o período de elegibilidade da IEJ;
+b) Norte, Centro, Lisboa, Alentejo, Algarve e Regiões Autónomas dos Açores e da Madeira, no âmbito das tipologias de operações previstas no eixo prioritário 2 do PO ISE, durante o período em que forem elegíveis à IEJ;
 
 c) Norte, no âmbito das tipologias de operações previstas nos eixos prioritários 6 e 7 do POR Norte;
 

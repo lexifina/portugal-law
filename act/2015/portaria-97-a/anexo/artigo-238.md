@@ -1,6 +1,6 @@
 ## Secção IV
 
-## Títulos de Impacto social
+## Títulos de Impacto Social
 
 # Artigo 238.º
 
