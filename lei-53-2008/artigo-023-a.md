@@ -30,7 +30,7 @@ i) Programar e implementar ações destinadas à formação contínua dos trabal
 
 5 - As/Os Coordenadoras/es de Gabinete, cargos de direção intermédia de 1.º grau, são nomeados por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça, sob proposta da/o Secretária/o-Geral do Sistema de Segurança Interna, e exercem funções em comissão de serviço pelo período de três anos.
 
-6 - O PUC-CPI reúne, sob a mesma gestão, o Gabinete Nacional Sirene, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira e os pontos de contacto decorrentes das Decisões Prüm.
+6 - O PUC-CPI reúne, sob a mesma gestão, o Gabinete Nacional Sirene, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira, os pontos de contacto decorrentes das Decisões Prüm e o Gabinete de Informações de Passageiros.
 
 7 - O PUC-CPI funciona ininterruptamente, em regime de turnos e é coordenado, rotativamente, por cada um/a dos/as Coordenadores/as de Gabinete, do Gabinete de Gestão, o qual é denominado Coordenador-Geral e responsável pelo encaminhamento dos pedidos nacionais, pela decisão de distribuição dos pedidos ou informações recebidas do exterior e pela validação das respostas nacionais emitidas.
 
