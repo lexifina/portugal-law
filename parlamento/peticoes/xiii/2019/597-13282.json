@@ -1,0 +1,645 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13282",
+  "numero": "597",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-02-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-11",
+            "entidades": null,
+            "id": "112608",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-11 com Peticionários da petição n.º 597/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-06-06",
+            "dataResposta": "2019-07-09",
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "49/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-03",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "871723",
+                "obs": null,
+                "pag": [
+                  "24-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-13",
+                "pubLeg": "XIII",
+                "pubNr": "59",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/059/2019-07-13/24?pgs=24-29&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-06-05",
+        "DataArquivo": "2019-07-10",
+        "DataBaixaComissao": "2019-03-12",
+        "DataEnvioPAR": "2019-07-11",
+        "DataReaberta": "2019-06-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a5449345a6a526a5a5755744e7a67325a4330304d5467784c574a6d5a5755744d446b794d54513059324d33595755774c6e426b5a673d3d&fich=e28f4cee-786d-4181-bfee-092144cc7ae0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f5467335a4449795a6a59744f5751344e7930304d4751794c5467345a6a6374596a526b5a6a597a4f444933596a6b304c6c424552673d3d&fich=987d22f6-9d87-40d2-88f7-b4df63827b94.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a6b774d57557a4f474d744d7a51314e5330305a4451324c574a6a4f4451744f5751314d4749304f544e695a5445354c6c424552673d3d&fich=c901e38c-3455-4d46-bc84-9d50b493be19.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d5745794e44466b5a446374597a6778596930304e7a55794c546b784e6d4d745a544e6c4e54497a4d54677a59325a684c6c424552673d3d&fich=1a241dd7-c81b-4752-916c-e3e523183cfa.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a6b344e4746694d444574595467314d4330304f5749314c5749354f5755744f444d304f5751354e445533596a646a4c6c424552673d3d&fich=c984ab01-a850-49b5-b99e-8349d9457b7c.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f5467324d6d5a6c4d5467744d5749794d533030596a646c4c574a6b5a546b744d7a4e694e6d45784f444e6c5a5459794c6c424552673d3d&fich=9862fe18-1b21-4b7e-bde9-33b6a183ee62.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6d4a6d4d7a45354e7a41744e5445335a5330304e574e694c54686d596d4d744d44646c597a59324e54686d5a47466a4c6e426b5a673d3d&fich=6bf31970-517e-45cb-8fbc-07ec6658fdac.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e57566d4d47597a4d4467744f444d324d4330304e54457a4c5749784e7a6b744e47526c5a574e684f544130597a6b344c6e426b5a673d3d&fich=5ef0f308-8360-4513-b179-4deeca904c98.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765957466c59574d33596a4d74597a557a4f5330305a474a694c546b315a5745744e544a6c5a5745314d6a67784d474d774c6e426b5a673d3d&fich=aaeac7b3-c539-4dbb-95ea-52eea52810c0.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e7a5a684d32466959575174596a67344d433030597a59344c5746694d6a4574593246695a444e684e6a526c4f474a694c6c424552673d3d&fich=76a3abad-b880-4c68-ab21-cabd3a64e8bb.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a544d774d6d45314d4445744e6d4e6a4e5330304f444d354c57466a4f5751744e574d334e6a5a6d5a5755345a44566a4c6e426b5a673d3d&fich=e302a501-6cc5-4839-ac9d-5c766fee8d5c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a4d325a6a4a694d4445744d44426b5a4330304d6a52694c5745784e4751744d44566d4d324d305a574e695a475a6b4c6e426b5a673d3d&fich=c36f2b01-00dd-424b-a14d-05f3c4ecbdfd.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a6b324e5463345a4751744d7a4d344f433030597a64684c574a6d596d4d74593245325a5755794e6a6335595449304c6c424552673d3d&fich=c96578dd-3388-4c7a-bfbc-ca6ee2679a24.PDF&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d6a51314d6d4d354d3255744e6a67354f5330304d6a557a4c5745794e7a49744f544e6d5a6a41784d6a4931597a59794c6e426b5a673d3d&fich=2452c93e-6899-4253-a272-93ff01225c62.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d546b78597a426b596d45745a5451314e5330304e6a4e6d4c54677759546374596a6c6c5a446c6b59546b795a4745794c6e426b5a673d3d&fich=191c0dba-e455-463f-80a7-b9ed9da92da2.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-06-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765932466c4d5463794f5455744d6a67784d5330304e7a46694c5745784e544174596a67774d5441784e47597a4d7a45334c6e426b5a673d3d&fich=cae17295-2811-471b-a150-b801014f3317.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e5441344e3259334e4467744e44646c596930304e7a686b4c574a6d4d6a6b744e4455784d324a6d4e7a4e6a4d545a684c6e426b5a673d3d&fich=5087f748-47eb-478d-bf29-4513bf73c16a.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-07-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a54557a5a6d49304f4455744e5759314e4330304d545a6c4c546b354e5441744d7a6332596a4d35596a49354f5459794c6e426b5a673d3d&fich=e53fb485-5f54-416e-9950-376b39b29962.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-06-05",
+            "gp": "PCP",
+            "id": "1715",
+            "motivoCessacao": null,
+            "nome": "Bruno Dias"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-05-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-03-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a597a4d355a446b795a5331684e6a41344c5451334e5455744f5455354d7930785a5755314e7a6c694d4445354e3259756347526d&fich=3c39d92e-a608-4755-9593-1ee579b0197f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44481",
+      "44438",
+      "44533"
+    ],
+    "Iniciativasoriginadas": [
+      "44481",
+      "44438",
+      "44533"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:22:58:727&drc=00:04:35:981"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:27:34:709&drc=00:03:14:949"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:30:49:659&drc=00:02:43:154"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:33:32:814&drc=00:03:39:616"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:37:12:430&drc=00:03:16:451"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237904",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/69?pgs=69-70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:40:28:881&drc=00:03:21:901"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237905",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-70"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/70?pgs=70&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=04:43:50:783&drc=00:03:40:143"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "70-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-14",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/70?pgs=70-71&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido; Classificação de tripulante de cabinecomo profissão de desgaste rápido; Pelaregulamentação da atividade de tripulante de cabine comvista à redução do desgaste resultante do exercício daatividade e à garantia das condições de segurança e saúdeno trabalho e Criação do grupo de trabalho para aregulamentação legal das profissões de desgaste rápido ecriação da respetiva tabela.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13282",
+    "PetAssunto": "Solicitam que a profissão de tripulante de cabine seja qualificada como de desgaste rápido.",
+    "PetDataEntrada": "2019-02-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13282",
+    "PetLeg": "XIII",
+    "PetNr": "597",
+    "PetNrAssinaturas": "13234",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2697",
+        "obs": null,
+        "pag": [
+          "66-71"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-14",
+        "pubLeg": "XIV",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/052/2020-05-14/66?pgs=66-71&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871696",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-07",
+        "pubLeg": "XIII",
+        "pubNr": "51",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/051/2019-06-07/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
