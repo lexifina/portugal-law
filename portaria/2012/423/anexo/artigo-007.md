@@ -1,17 +1,21 @@
 # Artigo 7.º
 
-### Departamento de Recolha de Informação
+### Departamento de Recolha e Gestão de Dados
 
-Ao Departamento de Recolha de Informação, abreviadamente designado por DRI, compete:
+Ao Departamento de Recolha e Gestão de Dados, abreviadamente designado por DRGD, compete:
 
-a) Preparar as especificações das aplicações informáticas utilizadas nas operações estatísticas no âmbito da recolha e coordenar os respetivos testes;
+a) Gerir a recolha de dados e análise de microdados das operações estatísticas, designadamente no que respeita aos dados que resultam de inquéritos amostrais, recenseamentos, integração de dados administrativos e de outras fontes;
 
-b) Gerir o Centro de Contactos para atendimento e apoiar a recolha de dados;
+b) Participar nas fases de processamento e análise do processo de produção estatística;
 
-c) Gerir os sistemas de transmissão eletrónica de dados e de leitura ótica;
+c) Participar na análise de coerência dos dados provenientes da recolha por inquérito e da receção de dados administrativos ou de outro âmbito, assegurando o diálogo técnico entre as unidades intervenientes;
 
-d) Promover a adoção de novas formas de recolha;
+d) Assegurar a especificação dos requisitos funcionais dos sistemas de apoio à recolha e gestão de dados;
 
-e) Codificar, registar e validar os dados recolhidos, com base em especificações definidas pelas unidades orgânicas de matéria;
+e) Gerir a comunicação com os respondentes e prestadores de informação;
 
-f) Participar no recrutamento dos entrevistadores locais e gerir a sua atividade.
+f) Assegurar a harmonização de procedimentos, bem como a modernização e inovação dos processos e infraestruturas de suporte à recolha e gestão de dados;
+
+g) Participar na conceção e modernização das fases de processamento e análise de dados do processo de produção estatística;
+
+h) Zelar pela contenção da carga estatística gerada pelos inquéritos.

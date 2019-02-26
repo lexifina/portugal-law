@@ -16,7 +16,7 @@ b) O Departamento de Recursos Humanos;
 
 c) O Departamento de Metodologia e Sistemas de informação;
 
-d) O Departamento de Recolha de informação;
+d) Departamento de Recolha e Gestão de Dados;
 
 e) O Departamento de Estatísticas Demográficas e Sociais;
 
@@ -33,3 +33,5 @@ g) O Departamento de Contas Nacionais.
 6 - O INE, IP compreende ainda, ao nível desconcentrado, delegações no Porto, Coimbra, Évora e Faro, unidades orgânicas de 2º nível, funcionalmente dependentes do conselho diretivo.
 
 7 - Junto do conselho diretivo funciona ainda o Secretariado do Conselho Superior de Estatística.
+
+8 - O INE, I. P., dispõe de um encarregado de proteção de dados, designado pelo conselho diretivo, que coordena a matéria relativa aos dados pessoais e ao qual é aplicável o disposto no n.º 3 do artigo 11.º considerando a natureza e complexidade das respetivas funções.
