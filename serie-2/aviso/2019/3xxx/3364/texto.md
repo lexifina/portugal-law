@@ -1,0 +1,7 @@
+Aviso n.º 3364/2019
+Regulamento Municipal de Concessão de Incentivos ao Investimento
+Frederico Alexandre Aljustrel da Costa Rosa, Presidente da Câmara Municipal do Barreiro, torna público que a Câmara Municipal do Barreiro, em reunião de ordinária pública de 11 de fevereiro de 2019, deliberou submeter a consulta pública o Projeto de "Regulamento Municipal de Concessão de Incentivos ao Investimento", por um período de 30 (trinta) dias úteis, nos termos e para os efeitos do artigo 101.º do Código do Procedimento Administrativo.
+Mais torna público que o projeto do regulamento em apreço poderá, ser consultado na internet, no sítio institucional do Município do Barreiro, acessível através do endereço http://www.cm-barreiro.pt/, e nos serviços do "Balcão Único", sito na Av. do Bocage, n.º 12, de segunda a sexta-feira, durante o horário de expediente (das 9h às 16h).
+Naquele prazo de 30 dias, poderão os interessados remeter por escrito, as suas sugestões para o Município do Barreiro, Rua Miguel Bombarda, 2834-005 Barreiro ou para o endereço eletrónico regulamento.investimento@cm-barreiro.pt, identificando, expressamente, no assunto "Contributos para o Regulamento Municipal de Concessão de Incentivos ao Investimento".
+13 de fevereiro de 2019. - O Presidente da Câmara, Frederico Rosa.
+312068469
