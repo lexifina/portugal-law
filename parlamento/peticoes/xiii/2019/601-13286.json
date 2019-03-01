@@ -1,0 +1,699 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13286",
+  "numero": "601",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-01",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-04-24",
+            "entidades": null,
+            "id": "113015",
+            "tipo": null,
+            "titulo": "Audição em 2019-04-24 com Audição de Peticionários da Petição n.º 601/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-03-25",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   SAÚDE"
+            ],
+            "nrOficio": "38/CS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-03-20",
+        "DataArquivo": "2019-07-17",
+        "DataBaixaComissao": "2019-03-12",
+        "DataEnvioPAR": "2019-07-18",
+        "DataReaberta": "2019-03-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-04-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e446c6b4f5441794f4441745932466a4f433030596a55314c5467784d6d4974597a526a4d546c694d3259344e4745314c6e426b5a673d3d&fich=49d90280-cac8-4b55-812b-c4c19b3f84a5.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-04-12",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738765a574e684d6d49314d5467744e6a45784d5330304e54466c4c574577597a63744e6a5179596a686a4e6d45784f57566c4c6e426b5a673d3d&fich=eca2b518-6111-451e-a0c7-642b8c6a19ee.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d445a6c5a6d5531596a67744e574a6a4e6930304f444d314c57466d4d544574597a41794f5759794d7a51304e4745784c6e426b5a673d3d&fich=06efe5b8-5bc6-4835-af11-c029f23444a1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-03-20",
+            "gp": "PS",
+            "id": "6197",
+            "motivoCessacao": null,
+            "nome": "António Sales"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-05-27",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-03-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793879596a566b5a574e6b4e53316c596d59794c5451324e6a49744f44417a4e5330795a6d59784d5446684d6a646d596a59756347526d&fich=2b5decd5-ebf2-4662-8035-2ff111a27fb6.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44508",
+      "44210",
+      "44432",
+      "44433"
+    ],
+    "Iniciativasoriginadas": [
+      "44433",
+      "44508",
+      "44210",
+      "44432"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:06:36:020&drc=00:03:43:614"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:10:19:635&drc=00:02:53:878"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:13:13:514&drc=00:02:03:300"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:15:16:814&drc=00:03:41:041"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:18:57:856&drc=00:04:14:603"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/53?pgs=53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:23:12:460&drc=00:03:28:345"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:26:40:805&drc=00:03:32:210"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:30:13:016&drc=00:03:19:090"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/55?pgs=55-56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:33:32:106&drc=00:01:34:182"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-05-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_05_27_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m05/&tI=03:35:06:288&drc=00:00:28:832"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-05-28",
+                "pubLeg": "XIV",
+                "pubNr": "56",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista a salvar as farmácias; Recomenda ao Governo que adote medidas para garantir a sustentabilidade económica e financeira das farmácias comunitárias; Recomenda ao Governo a adoção de medidas que apoiem a rede de farmácias comunitárias; Pela proximidade no acesso ao medicamento; Pela sustentabilidade no acesso ao medicamento.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13286",
+    "PetAssunto": "Solicitam a adoção de medidas com vista a salvar as farmácias.",
+    "PetDataEntrada": "2019-03-01",
+    "PeticoesAssociadas": null,
+    "PetId": "13286",
+    "PetLeg": "XIII",
+    "PetNr": "601",
+    "PetNrAssinaturas": "120056",
+    "PetNrAssinaturasInicial": "56598",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2700",
+        "obs": null,
+        "pag": [
+          "50-56"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-28",
+        "pubLeg": "XIV",
+        "pubNr": "56",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/056/2020-05-28/50?pgs=50-56&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851744",
+        "obs": null,
+        "pag": [
+          "36-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-23",
+        "pubLeg": "XIII",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/038/2019-03-23/36?pgs=36-37&org=PLC"
+      }
+    ]
+  }
+}
