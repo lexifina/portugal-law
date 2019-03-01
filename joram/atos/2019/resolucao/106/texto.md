@@ -1,0 +1,32 @@
+# Resolução n.º 106/2019
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 35/2019, de 2019-03-01
+
+**Sumário:** Autoriza a alteração e o 1.º aditamento ao “Contrato de concessão de serviço público de transporte rodoviário de passageiros no município do Funchal”, celebrado em 2 de outubro de 2018, entre o Governo Regional e a empresa Horários do Funchal - Transportes Públicos, S.A., aprovado pela Resolução n.º 570/2018, de 13 de setembro, publicada no Jornal Oficial n.º 152, I Série, de 17 de setembro.
+
+## Texto
+
+Resolução n.º 106/2019
+Considerando que a Lei n.º 52/2015, de 9 de junho, adaptada à Região Autónoma da Madeira através do Decreto Legislativo Regional n.º 37/2016/M, de 17 de agosto, aprovou o Regime Jurídico do Serviço Público de Trans-
+
+porte de Passageiros, estabelecendo o regime aplicável ao planeamento, organização, operação, atribuição, fiscalização, investimento, financiamento, divulgação e desenvolvimento do serviço público de transporte de passageiros, por modo rodoviário, fluvial, ferroviário e outros sistemas guiados, incluindo o regime das Obrigações de Serviço Público e respetiva compensação;
+Considerando que a Região Autónoma da Madeira é a Autoridade de Transporte competente relativa aos serviços públicos de transporte rodoviário de passageiros na região, quer no que respeita aos serviços de âmbito intermunicipal, por decorrência da Lei n.º 52/2015, de 9 de junho, adaptada à Região Autónoma da Madeira através do Decreto Legislativo Regional n.º 37/2016/M, de 17 de agosto, quer no que respeita aos serviços de âmbito municipal, por delegação dos Municípios na RAM;
+Considerando que foi celebrado, em 2 de outubro de 2018, um “Contrato de concessão de serviço público de transporte rodoviário de passageiros no município do Funchal” com a Horários do Funchal, Transportes Públicos, S.A.;
+Considerando que aquele Contrato estabelece que a operadora deve cumprir as eventuais obrigações de serviço público adicionais que venham a ser determinadas pela Região no âmbito da execução do contrato, designadamente a prática de tarifários inferiores aos previstos e que essas obrigações de serviço público adicionais dão direito a compensações adicionais;
+Considerando que nos termos dos artigos 23.º e 24.º do Regime Jurídico do Serviço Público de Transporte de Passageiros, as Autoridades de Transporte podem impor obrigações de serviço público ao operador de serviço público, cujo cumprimento pode conferir o direito a uma compensação a efetuar nos termos do anexo ao Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007 e do Decreto-Lei n.º 167/2008, de 26 de agosto, alterado pela Lei n.º 64/2013, de 27 de agosto;
+Considerando que o Orçamento da Região Autónoma da Madeira para 2019, aprovado pelo Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, estabeleceu, no seu artigo 62.º, a criação do Programa de Apoio à Redução Tarifária na Região Autónoma da Madeira (PARTRAM) nos transportes públicos, que se consubstancia na imposição de um limite de 30 euros para os passes sociais urbanos, de 40 euros para os passes sociais interurbanos e gratuitidade para as crianças até aos 12 anos;
+Considerando que o Governo Regional, ao reconhecer o papel da mobilidade na população reformada, pretende promover a gratuidade do Passe Social Pensionista, aplicável aos reformados ou pensionistas, de qualquer regime de Segurança Social, cujo comprovado rendimento mensal seja igual ou inferior a 240€ por mês;
+Considerando que estas medidas consubstanciam obrigações de serviço público adicionais determinadas pela Região no âmbito da execução do Contrato de Concessão, designadamente pela prática de tarifários inferiores aos previstos;
+Considerando que para operacionalizar a implementação do PARTRAM, revela-se necessário celebrar uma adenda ao contrato de concessão em apreço.
+O Conselho de Governo, reunido em plenário em 28 de fevereiro de 2019, face aos considerandos expostos e ao abrigo do disposto no artigo 4.º do Decreto Legislativo Regional n.º 37/2016/M, de 17 de agosto que adaptou à Região a Lei n.º 52/2015, de 9 de junho e do disposto no artigo 40.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, resolveu:
+1. Autorizar a alteração e o 1.º aditamento ao “Contrato de concessão de serviço público de transporte rodoviário de passageiros no município do Funchal”, celebrado em 2 de outubro de 2018, entre o Governo
+
+Regional e a empresa Horários do Funchal - Transportes Públicos, S.A., aprovado pela Resolução n.º 570/2018, de 13 de setembro, publicada no JORAM n.º 152, I Série, de 17 de setembro. 2. Determinar que, no período que decorre entre 2019 e 2029, a compensação financeira, devida por obrigações de serviço público, a conceder à empresa Horários do Funchal - Transportes Públicos, S.A., seja no montante global de € 87 696 969,45 (oitenta e sete milhões, seiscentos e noventa e seis mil, novecentos e sessenta e nove euros e quarenta e cinco cêntimos).
+3. A compensação financeira a que se refere o n.º 2 será atribuída, e produz efeitos financeiros, de acordo com a programação mensal detalhada apensa à minuta referida no número seguinte.
+4. Aprovar a minuta de alteração e 1.º aditamento ao “Contrato de concessão de serviço público de transporte rodoviário de passageiros no município do Funchal”, a qual, fazendo parte integrante da presente Resolução, ficará arquivada na Secretaria-Geral da Presidência.
+5. Mandatar o Vice-Presidente, Licenciado Pedro Miguel Amaro de Bettencourt Calado, ou na sua ausência o seu substituto legalmente designado, para, em representação da Região Autónoma da Madeira, assinar a referida alteração e aditamento ao Contrato de Prestação de Serviço Público.
+6. A despesa prevista para o corrente ano económico tem cabimento na Secretaria 43, Capítulo 50, Divisão 05, Subdivisão 00, Classificação Funcional 3033, através da rubrica de classificação económica D.05.01.03.A0.00, classificação orgânica 43 9 50 05 00 e Fonte de Financiamento 111, Programa 045, Medida 012, Projeto 50528, sendo que o acréscimo para o ano de 2019 corresponde à fonte de financiamento 117 com o n.º de cabimento CY41904951.
+7. As verbas necessárias para o ano económico de 2020 e seguintes, serão inscritas na proposta de orçamento da Região Autónoma da Madeira para esses anos.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
