@@ -1,0 +1,6 @@
+Edital n.º 308/2019
+Hélder Manuel Esménio, na qualidade de Presidente da Câmara Municipal de Salvaterra de Magos, torna público, que a Câmara Municipal em reunião ordinária realizada em 16 de janeiro de 2019, deliberou aprovar a Alteração ao Regulamento Municipal de Gestão de Resíduos Urbanos, Higiene e Limpeza Pública e proceder à apreciação pública de tal documento, nos termos do artigo 101.º do Código do Procedimento Administrativo, pelo prazo de 30 dias, a contar da data da publicação do presente Edital na 2.ª série do Diário da República, podendo a alteração ser consultada no site do Município em www.cm-salvaterrademagos.pt, bem como na Subunidade Orgânica de Expediente Geral, durante o horário normal de atendimento, das 9 horas às 12:30 horas e das 13:30 horas às 17 horas.
+Assim, convidam-se todos os interessados a pronunciarem-se acerca de qualquer questão que se ligue com a alteração ao regulamento, devendo para o efeito dirigir as suas questões por escrito e em carta fechada ao Presidente da Câmara Municipal de Salvaterra de Magos, Praça da República, n.º 1, 2120-072 Salvaterra de Magos.
+Para constar, se publica este edital e outros de igual teor, que vão ser afixados nos lugares públicos de estilo.
+5 de fevereiro de 2019. - O Presidente da Câmara Municipal, Hélder Manuel Esménio, Eng.º
+312045107
