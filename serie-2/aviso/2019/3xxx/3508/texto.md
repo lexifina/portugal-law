@@ -1,0 +1,9 @@
+Aviso n.º 3508/2019
+Consulta pública
+Projeto de Alteração ao Regulamento Municipal da Urbanização e da Edificação do Município de Sabrosa
+Domingos Manuel Alves Carvas, Presidente da Câmara Municipal de Sabrosa, no uso da competência que lhe está atribuída pela alínea t) do n.º 1 do artigo 35.º do Anexo I à Lei n.º 75/2013, de 12 de setembro, na sua atual redação, Regime Jurídico das Autarquias Locais (RJAL), torna público que, o Órgão Executivo Municipal, em reunião de 13 de fevereiro de 2019, deliberou aprovar e submeter a consulta pública o Projeto de Alteração ao Regulamento Municipal da Urbanização e da Edificação do Município de Sabrosa, pelo prazo de 30 dias úteis, a contar do dia seguinte à publicação do presente aviso na 2.ª série do Diário da República, para os efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, conjugado com o artigo 101.º do Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro.
+O presente projeto de alteração ao RMUE encontra-se disponível para consulta no sítio do Município de Sabrosa na Internet e na Divisão de Obras, Serviços e Ordenamento do Território da Câmara Municipal e vai ainda ser afixado no Edifício dos Paços do Concelho e nas sedes das Juntas de Freguesia.
+A apresentação de sugestões deverá ser efetuada por escrito, até ao termo do referido período, dirigida, sob a referência em epígrafe, ao Presidente da Câmara Municipal de Sabrosa, através do correio eletrónico geral@cm-sabrosa.pt, por via postal ou por entrega presencial no Balcão Único de Atendimento da Câmara Municipal (Rua do Loreto, 5060-328 Sabrosa.
+Para que conste, mandou-se publicar este aviso no Diário da República, no sítio do Município de Sabrosa na Internet e outros de igual teor que serão afixados nos lugares públicos do costume.
+18 de fevereiro de 2019. - O Presidente da Câmara, Domingos Manuel Alves Carvas.
+312077792
