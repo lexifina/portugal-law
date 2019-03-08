@@ -1,0 +1,713 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13289",
+  "numero": "604",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-19",
+            "entidades": null,
+            "id": "112685",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-19 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-06-06",
+            "dataResposta": "2019-06-28",
+            "entidades": [
+              "UGT - União Geral dos Trabalhadores"
+            ],
+            "nrOficio": "51/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-06-06",
+            "dataResposta": null,
+            "entidades": [
+              "CGTP-IN - Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional"
+            ],
+            "nrOficio": "52/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-06-06",
+            "dataResposta": null,
+            "entidades": [
+              "CNIS - Confederação Nacional das Instituições de Solidariedade"
+            ],
+            "nrOficio": "53/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-06-25",
+            "dataResposta": "2019-07-05",
+            "entidades": [
+              "Sindicato dos Trabalhadores da Saúde, Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "57/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-06-06",
+            "dataResposta": "2019-07-09",
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "50/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-17",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "872933",
+                "obs": null,
+                "pag": [
+                  "3-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-19",
+                "pubLeg": "XIII",
+                "pubNr": "62",
+                "pubSL": "4",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/062/2019-07-19/3?pgs=3-8&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-06-05",
+        "DataArquivo": "2019-07-17",
+        "DataBaixaComissao": "2019-03-15",
+        "DataEnvioPAR": "2019-07-25",
+        "DataReaberta": "2019-06-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-07-11",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a5957387659544d354e444d30595463745a544a694f433030597a59774c5749345a4749744f5746695a57566c4f446b315954597a4c6e426b5a673d3d&fich=a39434a7-e2b8-4c60-b8db-9abeee895a63.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-05",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876597a5a6a4e44677a4e6a6374593255325a433030597a6b354c5468684f544d745a6a517a5a574e6d4d444d795954426b4c6e426b5a673d3d&fich=c6c48367-ce6d-4c99-8a93-f43ecf032a0d.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-06-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a5749314e7a4d7a4d5463744e5759314e4330304f4463304c54677a4f5467744d6a59794e6a4a6a4f445a6c4d32566d4c6e426b5a673d3d&fich=eb573317-5f54-4874-8398-26262c86e3ef.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e3251774e574d31596d55744f54566d595330304f5463784c54686b4f5451744d575a6a4d54466c596a55324e6a646d4c6e426b5a673d3d&fich=7d05c5be-95fa-4971-8d94-1fc11eb5667f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f444530596a55354d7a41744e6a597a4e6930304d3245354c574a6c4d324d74596a63794e445177597a597a5a54457a4c6e426b5a673d3d&fich=814b5930-6636-43a9-be3c-b72440c63e13.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876596d4a6c597a41784f5749745a444e6a597930305a4759324c546b304f4463744f544e695a44526a4d5751344d6a4a6a4c6e426b5a673d3d&fich=bbec019b-d3cc-4df6-9487-93bd4c1d822c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-26",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764e6d5977596a4d324e6a51744e474e6c596930304d7a6b794c54686a5a6d55745a545a694d3249355a4441324d6a686b4c6e426b5a673d3d&fich=6f0b3664-4ceb-4392-8cfe-e6b3b9d0628d.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-25",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f474e6c4f5745344d6d4d744d6a63304d6930304d574d784c5749324e5445744f5449774e6a55334e5755354f5441344c6e426b5a673d3d&fich=8ce9a82c-2742-41c1-b651-9206575e9908.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-07-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a6d5a6b4e6d597a5a5745745a4459784d7930304f54497a4c546c69596d49744d32526b4e44426d4d574d30595467304c6e426b5a673d3d&fich=ffd6f3ea-d613-4923-9bbb-3dd40f1c4a84.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-07-05",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764f57457a595467324d54677459546734595330305a6d5a6a4c5468695a6a55744e6a45354e7a466c4f54646d4e6a6c694c6e426b5a673d3d&fich=9a3a8618-a88a-4ffc-8bf5-61971e97f69b.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a59573876596a52685a4749304e6a55745957566a597930304f4749354c5745774e7a55744d4459304e5751314d474d784d5455794c6e426b5a673d3d&fich=b4adb465-aecc-48b9-a075-0645d50c1152.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-06-05",
+            "gp": "CDS-PP",
+            "id": "5751",
+            "motivoCessacao": null,
+            "nome": "Filipe Anacoreta Correia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-06-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-06-07",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938354d4463774f544e695a5330794f44457a4c5451795a5445744f574d304d69316b4d3249324d6d55785a5749354f4449756347526d&fich=907093be-2813-42e1-9c42-d3b62e1eb982.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-03-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938344e6a4a684d6a52684d4330315954526b4c54526a5a4467745954686d59793034597a41324e7a4d7a4d444533597a63756347526d&fich=862a24a0-5a4d-4cd8-a8fc-8c06733017c7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44464",
+      "44502",
+      "44525",
+      "44923",
+      "44860",
+      "44868"
+    ],
+    "Iniciativasoriginadas": [
+      "44860",
+      "44464",
+      "44502",
+      "44525",
+      "44868",
+      "44923"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:41:38:498&drc=00:04:12:950"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:45:51:448&drc=00:01:45:134"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/30?pgs=30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:47:36:582&drc=00:03:41:668"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/31?pgs=31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:51:18:251&drc=00:03:40:126"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:54:58:378&drc=00:03:48:418"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=01:58:46:796&drc=00:02:54:063"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:01:40:859&drc=00:03:47:837"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_05_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:05:28:697&drc=00:01:52:104"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-06",
+                "pubLeg": "XIV",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas instituições particulares de segurança social; Atualização do Compromisso de Cooperação celebrado com as entidades do setor social e solidário num valor que cubra os custos do aumento da remuneração mínima mensal garantida e de outros fatores, tais como a inflação; Pelo aumento dos apoios às Unidades de Cuidados Continuados Integrados; Recomenda ao Governo aumentos nas diárias nas Unidades de Cuidados Continuados Integrados da Rede Nacional de Cuidados Continuados Integrados; Recomenda ao Governo que promova um estudo sobre o financiamento das IPSS, que acabe com o crónico subfinanciamento do setor, atenda à modulação regional de forma a corrigir as assimetrias existentes e promova a harmonização das carreiras profissionais nas IPSS; Recomenda ao Governo a flexibilização das condições da linha de financiamento Crédito Social Investe; Promove a igualdade e valoriza os salários dos trabalhadores das IPSS.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13289",
+    "PetAssunto": "Solicitam a adoção de medidas com vista ao fim das desigualdades salariais nas Instituições Particulares de Segurança Social",
+    "PetDataEntrada": "2019-03-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13289",
+    "PetLeg": "XIII",
+    "PetNr": "604",
+    "PetNrAssinaturas": "4055",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2723",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-06-06",
+        "pubLeg": "XIV",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/060/2020-06-06?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871698",
+        "obs": null,
+        "pag": [
+          "16-17"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-07",
+        "pubLeg": "XIII",
+        "pubNr": "51",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/051/2019-06-07/16?pgs=16-17&org=PLC"
+      }
+    ]
+  }
+}
