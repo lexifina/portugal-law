@@ -1,0 +1,557 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13288",
+  "numero": "603",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "Links.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-04-30",
+            "entidades": null,
+            "id": "112325",
+            "tipo": null,
+            "titulo": "Audição em 2019-04-30 com Maria Luísa Novo de Sousa e Ricardo André de Castro Pereira."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": "2019-06-07",
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-03-27",
+            "dataResposta": null,
+            "entidades": [
+              "MIN. DO TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL"
+            ],
+            "nrOficio": "Email",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-04-30",
+                "dataResposta": "2019-06-06",
+                "nrOficio": "58/CEC/2019",
+                "oficioResposta": "1627"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-06-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-03-26",
+        "DataArquivo": "2019-06-11",
+        "DataBaixaComissao": "2019-03-15",
+        "DataEnvioPAR": "2019-06-12",
+        "DataReaberta": "2019-03-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45774d4451314f4751324c575177593255744e4749314e5331694e445a684c5749324e7a686a4e7a59324f544532595335775a47593d&fich=100458d6-d0ce-4b55-b46a-b678c766916a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32526a5932466d5a5456684c5755784d6a51744e474a6a597930345a574e6c4c5755784d7a4d314d3256694d544a6d595335775a47593d&fich=dccafe5a-e124-4bcc-8ece-e13353eb12fa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-03-27",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b324f54566c4d6a426a4c5467354f4459744e446b304f5331694f544d334c546b774f5459354e6a4a6b4f5464684d6935775a47593d&fich=9695e20c-8986-4949-b937-9096962d97a2.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a5133595745784e6a4e684c5451314e7a51744e44646c59533168593255784c574d335a6a4a6b5a546c695a6a5931596935775a47593d&fich=47aa163a-4574-47ea-ace1-c7f2de9bf65b.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-06-12",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a426d5a6a59795a44646c4c54426b4d4449744e44457a595331695a6d55794c544d3059544a6b59544a694f574a6d4f4335775a47593d&fich=0ff62d7e-0d02-413a-bfe2-34a2da2b9bf8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-06-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a51784d6a56694e54526c4c54526a4f5467744e445577595330344d7a42684c546b784d3246695a444d795a6a59774e7935775a47593d&fich=4125b54e-4c98-450a-830a-913abd32f607.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3251784d4755794d5441794c54646b4d6a45744e444d784e4331694d6a67774c54457a4d445530597a497a4f44677a4d5335775a47593d&fich=d10e2102-7d21-4314-b280-13054c238831.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-03-26",
+            "gp": "PS",
+            "id": "1028",
+            "motivoCessacao": null,
+            "nome": "Sónia Fertuzinhos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-02-14",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-02-13",
+        "TipoDocumento": "Anexo",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d597a55344f444d785a6930324e7a557a4c5451794e5759744f475a685a6930794d5455314e4455314e3249774f4455756347526d&fich=fc58831f-6753-425f-8faf-21554557b085.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-02-13",
+        "TipoDocumento": "Anexo",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4e7a5a6a5a6a646c4e53316b5a6d526b4c54526b595449745954526d5a5330784e3259354e5463794e54637a4e5745756347526d&fich=c76cf7e5-dfdd-4da2-a4fe-17f95725735a.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-02-13",
+        "TipoDocumento": "Anexo",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4d574d334d32557a4f43316a4e445a6d4c545177596a4174596d59324d793031593256684d6a466a5a6a557a4d4459756347526d&fich=e1c73e38-c46f-40b0-bf63-5cea21cf5306.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-02-13",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a5a544d774e6a4e6d596930315a5756694c5451314e544d74596a49785a433033595755785a5445784d6a686a5a6a67756347526d&fich=3e3063fb-5eeb-4553-b21d-7ae1e1128cf8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44112",
+      "44138"
+    ],
+    "Iniciativasoriginadas": [
+      "44112",
+      "44138"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:38:22:143&drc=00:05:30:823"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:43:52:966&drc=00:03:32:971"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/23?pgs=23-24&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:47:25:938&drc=00:02:43:783"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:50:09:722&drc=00:03:01:250"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:53:10:972&drc=00:03:31:028"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-15",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_14_10_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:56:42:975&drc=00:03:09:161"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-15",
+                "pubLeg": "XIV",
+                "pubNr": "29",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Contabilização de dias de serviço para efeitos de proteção social dos docentes colocados em horários incompletos; Regime especial de contabilização do tempo de trabalho dos docentes em horário incompleto",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": [
+      {
+        "DataDocumento": "2019-03-19",
+        "TipoDocumento": "Link",
+        "URL": "https://www.youtube.com/watch?v=kr0URv2BocA&feature=youtu.be"
+      }
+    ],
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13288",
+    "PetAssunto": "Solicitam a adoção de medidas com vista à correção das Declarações Mensais de Remunerações de todos os docentes contratados com horários incompletos.",
+    "PetDataEntrada": "2019-03-08",
+    "PeticoesAssociadas": null,
+    "PetId": "13288",
+    "PetLeg": "XIII",
+    "PetNr": "603",
+    "PetNrAssinaturas": "5032",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2646",
+        "obs": null,
+        "pag": [
+          "22-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-15",
+        "pubLeg": "XIV",
+        "pubNr": "29",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/029/2020-02-15/22?pgs=22-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "851750",
+        "obs": null,
+        "pag": [
+          "17-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-30",
+        "pubLeg": "XIII",
+        "pubNr": "39",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/039/2019-03-30/17?pgs=17-22&org=PLC"
+      }
+    ]
+  }
+}
