@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "tipo": "Projeto de Lei",
+  "numero": "1156",
+  "id": "43524",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2019-03-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2019-10-24",
+    "DataInicioleg": "2018-09-15",
+    "IniAnexos": [
+      {
+        "anexoFich": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a4d314e444d79596a45334c546b355a5751744e474d344e5330354f545a6c4c544e6d4e7a686d4f4755775a574e695a5335775a47593d&fich=35432b17-99ed-4c85-996e-3f78f8e0ecbe.pdf&Inline=true",
+        "anexoNome": "A.I.G."
+      }
+    ],
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "2114",
+        "nome": "Emídio Guerreiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4392",
+        "nome": "Paulo Rios de Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4152",
+        "nome": "Fernando Virgílio Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5489",
+        "nome": "António Topa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4437",
+        "nome": "Carlos Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2297",
+        "nome": "Cristóvão Norte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1597",
+        "nome": "Fátima Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5490",
+        "nome": "Helga Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2117",
+        "nome": "Joel Sá"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "5645",
+        "nome": "António Costa Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4304",
+        "nome": "Bruno Coimbra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4147",
+        "nome": "Carla Barros"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6121",
+        "nome": "Liliana Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4364",
+        "nome": "Luís Leite Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4148",
+        "nome": "Luís Vales"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4318",
+        "nome": "Nuno Serra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6178",
+        "nome": "Paulo Neves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "629",
+        "nome": "Pedro Pinto"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "43524",
+    "IniLeg": "XIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a45785a4468695954686d4c575a6c4e6a6b744e4463345a693168593249324c54526d4d6a686a4d4749795a6a497a4f53356b62324d3d&fich=11d8ba8f-fe69-478f-acb6-4f28c0b2f239.doc&Inline=true",
+    "IniNr": "1156",
+    "IniObs": null,
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Estabelece o regime jurídico da atividade de transporte público de aluguer em veículos automóveis ligeiros de passageiros («táxi»)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
