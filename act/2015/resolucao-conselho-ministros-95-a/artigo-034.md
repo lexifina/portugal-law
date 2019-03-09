@@ -6,7 +6,7 @@
 
 ### Devolução e circulação
 
-1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros, em coordenação com o Secretário de Estado dos Assuntos Parlamentares, a apreciação dos projetos que lhe sejam remetidos, após o que, consoante os casos:
+1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros, em coordenação com o Secretário de Estado Adjunto e dos Assuntos Parlamentares, a apreciação dos projetos que lhe sejam remetidos, após o que, consoante os casos:
 
 a) Determina a sua devolução às entidades proponentes, caso não tenham sido respeitados os requisitos previstos no presente Regimento, não tenha sido observada a forma adequada ou existam quaisquer inconstitucionalidades, ilegalidades, irregularidades ou deficiências grosseiras ou flagrantes, sempre que tais vícios não possam ser desde logo supridos; ou
 

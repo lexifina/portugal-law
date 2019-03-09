@@ -10,6 +10,6 @@
 
 4 - Em casos de urgência, o Secretário de Estado da Presidência do Conselho de Ministros pode promover a assinatura dos diplomas na reunião do Conselho de Ministros em que os mesmos são aprovados.
 
-5 - Após o processo de recolha de assinaturas, as propostas de lei ou de resolução da Assembleia da República são enviadas pelo Secretário de Estado da Presidência do Conselho de Ministros ao Secretário de Estado dos Assuntos Parlamentares, que conduz o respetivo processo de apresentação à Assembleia da República.
+5 - Após o processo de recolha de assinaturas, as propostas de lei ou de resolução da Assembleia da República são enviadas pelo Secretário de Estado da Presidência do Conselho de Ministros ao Secretário de Estado Adjunto e dos Assuntos Parlamentares, que conduz o respetivo processo de apresentação à Assembleia da República.
 
 6 - Em sede de promulgação ou de assinatura dos diplomas pelo Presidente da República, caso seja necessária a recolha de informações complementares, são as mesmas prestadas à Presidência da República, através da sua ou do seu Chefe da Casa Civil, pelo Secretário de Estado da Presidência do Conselho de Ministros.
