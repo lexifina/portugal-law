@@ -10,4 +10,4 @@
 
 4 - A lista dos árbitros que compõem o Centro de Arbitragem Administrativa é elaborada nos termos do presente decreto-lei e dos Estatutos e Regulamento do Centro de Arbitragem Administrativa.
 
-5 - Os magistrados jubilados podem exercer funções de árbitro em matéria tributária, devendo, para o efeito, fazer uma declaração de renúncia à condição de jubilados ou solicitar a suspensão temporária dessa condição, por um período mínimo de um ano, renovável, aplicando-se em tais casos o regime geral da aposentação pública.
+5 - Os magistrados jubilados podem exercer funções de árbitro em matéria tributária, devendo, para o efeito, fazer uma declaração de renúncia à condição de jubilados, aplicando-se em tal caso o regime geral da aposentação pública.
