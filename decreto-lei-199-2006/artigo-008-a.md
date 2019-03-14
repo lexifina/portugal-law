@@ -12,7 +12,7 @@ b) Os instrumentos de dívida não incorporam instrumentos financeiros derivados
 
 c) As disposições contratuais aplicáveis aos instrumentos de dívida e, se aplicável, o respetivo prospeto, referem expressamente que, em caso de insolvência, a graduação dos créditos emergentes dos instrumentos de dívida é a prevista no presente artigo.
 
-3 - O disposto nos números anteriores é aplicável aos instrumentos de dívida de entidades que, à data da emissão ou celebração, sejam instituições de crédito, empresas de investimento que exerçam as atividades de negociação por conta própria ou as atividades de tomada firme de instrumentos e/ou colocação de instrumentos financeiros com garantia, ou entidades referidas nas alíneas a) a c) do n.º 2 do artigo 152.º do RGICSF.
+3 - O disposto nos números anteriores é aplicável aos instrumentos de dívida de entidades que, à data da emissão ou celebração, sejam instituições de crédito, empresas de investimento que exerçam as atividades previstas nas alíneas c) ou f) do n.º 1 do artigo 199.º-A do RGICSF, com exceção do serviço de colocação sem garantia, ou entidades referidas no n.º 1 do artigo 152.º do RGICSF.
 
 4 - Para efeitos do disposto nos números anteriores, são instrumentos de dívida as obrigações, outros valores mobiliários representativos de dívida e quaisquer instrumentos que criem ou reconheçam um direito de crédito.
 
