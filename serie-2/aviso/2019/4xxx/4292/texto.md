@@ -1,0 +1,6 @@
+Aviso n.º 4292/2019
+José Manuel Barbosa de Almeida e Costa, Dr., na qualidade de Vice-Presidente da Câmara Municipal de Sever do Vouga, torna público, nos termos da alínea b), do artigo 35.º do anexo I, da Lei n.º 75/2013, de 12 setembro, que o órgão executivo na reunião do dia 13 de fevereiro de 2019, aprovou a proposta de Regulamento Municipal da Atribuição de Incentivos à Criação de Gado Tradicional - Raça Arouquesa, antecedida que foi pela fase de início de procedimento e participação procedimental.
+Assim, dando-se cumprimento ao estipulado no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se o projeto de Regulamento a consulta pública, para recolha de sugestões, procedendo-se à publicação do presente aviso no Diário da República, 2.ª série e na Internet, no sítio institucional deste Município, podendo o projeto de Regulamento ser consultado no Serviço Administrativo deste Município.
+Nos termos do n.º 2 do referido artigo, os interessados devem dirigir, por escrito, as suas sugestões ao Sr. Presidente da Câmara, no prazo de 30 dias, a contar da data de publicação deste aviso.
+18 de fevereiro de 2019. - O Vice-Presidente, José Manuel Barbosa de Almeida e Costa.
+312080034
