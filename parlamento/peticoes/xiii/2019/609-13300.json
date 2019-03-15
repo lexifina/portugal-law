@@ -1,0 +1,613 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13300",
+  "numero": "609",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-01-06",
+            "entidades": null,
+            "id": "114139",
+            "tipo": null,
+            "titulo": "Audição em 2020-01-06 com Subscritores da Petição n.º 609/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "7/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "7/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-03-11",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "893266",
+                "obs": null,
+                "pag": [
+                  "2-4"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/028/2020-03-14/2?pgs=2-4&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-11-27",
+        "DataArquivo": "2020-03-11",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-03-12",
+        "DataReaberta": "2019-11-27",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938355a444d7a4d6a49305a4331694d6a4e684c54526b4f574d74596d4932596930324d444d794d6d52684d3255334e6d45756347526d&fich=9d33224d-b23a-4d9c-bb6b-60322da3e76a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279387a4e3259315a5452695a5330784e44526a4c54526c596d45744f4459345a53307a4f54686b4e6a59304e47466b4e6a49756347526d&fich=37f5e4be-144c-4eba-868e-398d6644ad62.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-03-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396a5a57526d4d4755334e7930795a474e684c5451325a6a5174596a566d5a4330774d6a6778595749314e474e6d4f444d756347526d&fich=cedf0e77-2dca-46f4-b5fd-0281ab54cf83.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-27",
+            "gp": "PSD",
+            "id": "5984",
+            "motivoCessacao": null,
+            "nome": "Maria Germana Rocha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2019-07-03",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-04-05",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-07-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-07-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a4459324d4463355a544d744f57566c5a5330304e4449344c546b794e545574597a55304f4755324e575131595456684c6e426b5a673d3d&fich=d66079e3-9eee-4428-9255-c548e65d5a5a.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Trabalho e Segurança Social da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2020-06-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-04-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637939684e7a4e6d4d7a4d774e79316d4f544d794c54517a4e4755744f5746694d4330354d57566c4e7a59785a6a526a4e4459756347526d&fich=a73f3307-f932-434e-9ab0-91ee761f4c46.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44926",
+      "44780",
+      "44806"
+    ],
+    "Iniciativasoriginadas": [
+      "44926",
+      "44780",
+      "44806"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:53:34:782&drc=00:04:38:811"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/64?pgs=64&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:58:13:593&drc=00:04:26:127"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=04:02:39:721&drc=00:03:07:256"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=04:05:46:977&drc=00:03:04:384"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=04:08:51:362&drc=00:02:39:103"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=04:11:30:465&drc=00:03:28:416"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-68"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/67?pgs=67-68&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestual",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=04:14:58:882&drc=00:04:02:720"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Pela regulamentação da profissão de intérprete de língua gestual portuguesa; Adoção de medidas com vista à concretização dos direitos das pessoas surdas e valorização da profissão de intérprete de língua gestual portuguesa; Procede à alteração da Lei n.º 89/99, de 5 de julho, que define as condições de acesso e exercício da atividade de intérprete de língua gestualA Deputada usou da palavra por videoconferência",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13300",
+    "PetAssunto": "Solicitam a regulamentação da Profissão de Intérprete de Língua Gestual Portuguesa.",
+    "PetDataEntrada": "2019-03-15",
+    "PeticoesAssociadas": null,
+    "PetId": "13300",
+    "PetLeg": "XIII",
+    "PetNr": "609",
+    "PetNrAssinaturas": "4110",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2726",
+        "obs": null,
+        "pag": [
+          "63-69"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-06-09",
+        "pubLeg": "XIV",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/63?pgs=63-69&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871724",
+        "obs": null,
+        "pag": [
+          "29-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-13",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/059/2019-07-13/29?pgs=29-30&org=PLC"
+      }
+    ]
+  }
+}
