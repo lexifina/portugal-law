@@ -1,0 +1,673 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13303",
+  "numero": "612",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-20",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-03-10",
+            "entidades": null,
+            "id": "114600",
+            "tipo": null,
+            "titulo": "Audição em 2020-03-10 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-04-23",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915073",
+                "obs": null,
+                "pag": [
+                  "9-16"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-05-08",
+                "pubLeg": "XIV",
+                "pubNr": "44",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/044/2021-05-08/9?pgs=9-16&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2021-05-04",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2021-05-05",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-05-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d474d784d7a51314f4755744e5463354e4330304d54526c4c5467334d7a45745a6a4933597a52695a6a4a6b5a6a67354c6e426b5a673d3d&fich=0c13458e-5794-414e-8731-f27c4bf2df89.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-14",
+            "gp": "PSD",
+            "id": "4437",
+            "motivoCessacao": null,
+            "nome": "Carlos Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-05-29",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-04-05",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-05-29",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-05-29",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a546c6c4d3255334d6a45744d44566b59533030597a63784c574a6a4f5455744d575a684d6d4e695a6a59344e4455324c6e426b5a673d3d&fich=e9e3e721-05da-4c71-bc95-1fa2cbf68456.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-22",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738764e7a63335a4452695954677459324d325a433030596a68684c574a6b4d54417459546b324f4441314d5751774f4459304c6e426b5a673d3d&fich=777d4ba8-cc6d-4b8a-bd10-a968051d0864.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-23",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a595738765a44677a4e6d55354e474974597a45344d6930304d5751344c546c6b4e324d74596a45305a4442685a6d46685a4449324c6e426b5a673d3d&fich=d836e94b-c182-41d8-9d7c-b14d0afaad26.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-27",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338325130564a543141765247396a6457316c626e52766331426c64476c6a5957387659544d30595751304d7a4d745a54526b595330304e6d55774c5467344e6a59744e574a6a4f5441334d6a4d345a4449334c6e426b5a673d3d&fich=a34ad433-e4da-46e0-8866-5bc907238d27.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-05-29",
+            "gp": "PSD",
+            "id": "4437",
+            "motivoCessacao": null,
+            "nome": "Carlos Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Economia, Inovação, Obras Públicas e Habitação da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2022-06-15",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-04-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379383559575935595749345a5331694d6a67794c54526d4f545174596a426b4f433031596d4d355a6a6c6b4d5456694e7a63756347526d&fich=9af9ab8e-b282-4f94-b0d8-5bc9f9d15b77.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121515",
+      "121462",
+      "121536"
+    ],
+    "Iniciativasoriginadas": [
+      "121462",
+      "121515",
+      "121536"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=77"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65",
+                  "73-74"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/64?pgs=64-65,73-74&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": "Apresentação do Projeto-Resolução nº 69/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/65?pgs=65-66&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": "Apresentação do Projeto-Resolução nº52/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/66?pgs=66-67&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": "Apresentação do Projeto-Resolução nº 84/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "67-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/67?pgs=67&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "68-69"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/68?pgs=68-69&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "69-71"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/69?pgs=69-71&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=75"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "72-72"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/72?pgs=72&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-06-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_06_15_15_00_00_clean_14_plenario.xml&idsegmento=76"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "268639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "73-73"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-06-17",
+                "pubLeg": "XV",
+                "pubNr": "24",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/73?pgs=73&org=PLC"
+              }
+            ],
+            "Sumario": "Contra o fim da atual Linha Amarela do metro de Lisboa; Suspensão imediata das obras da linha circular do metro de Lisboa; Recomenda ao Governo que cumpra o disposto no artigo 282.º da Lei do Orçamento do Estado de 2020 e suspenda o processo de construção da linha circular do metro de Lisboa; Recomenda ao Governo a revisão do projeto de linha circular do metro de Lisboa rejeitada pelo Parlamento e evolução para a linha em laço.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13303",
+    "PetAssunto": "Contra o fim da atual linha amarela do metro de Lisboa.",
+    "PetDataEntrada": "2019-03-20",
+    "PeticoesAssociadas": null,
+    "PetId": "13303",
+    "PetLeg": "XIII",
+    "PetNr": "612",
+    "PetNrAssinaturas": "4366",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16196",
+        "obs": null,
+        "pag": [
+          "64-74"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-06-17",
+        "pubLeg": "XV",
+        "pubNr": "24",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/024/2022-06-17/64?pgs=64-74&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "915076",
+        "obs": null,
+        "pag": [
+          "12-13"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-04-30",
+        "pubLeg": "XIV",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/041/2021-04-30/12?pgs=12-13&org=PLC"
+      }
+    ]
+  }
+}
