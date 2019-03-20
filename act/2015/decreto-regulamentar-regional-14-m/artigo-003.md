@@ -4,7 +4,7 @@
 
 1 - Para a prossecução da sua missão, as atribuições da AT-RAM abrangem os seguintes domínios:
 
-a) Execução das orientações da política fiscal regional nos termos definidos pelo secretário regional da tutela;
+a) Execução das orientações da política fiscal regional nos termos definidos pelo Vice-Presidente;
 
 b) Fiscalização tributária;
 
@@ -14,19 +14,19 @@ d) Procedimentos graciosos, instrução criminal e contencioso fiscal;
 
 e) Informação e investigação tributária;
 
-f) Acompanhamento e coordenação do exercício das atividades desenvolvidas na Zona Franca da Madeira.
+f) (Revogada.)
 
 2 - A AT-RAM tem as seguintes atribuições:
 
-a) Coadjuvar o secretário regional da tutela na proposta, definição e desempenho da política fiscal regional;
+a) Coadjuvar o Vice-Presidente na proposta, definição e desempenho da política fiscal regional;
 
 b) Assegurar e coordenar um sistema de planeamento e controlo da política fiscal regional;
 
 c) Apoiar a atividade dos diversos serviços e organismos cuja área de competência se relacione com a AT-RAM;
 
-d) Estudar e propor medidas fiscais de caráter normativo no âmbito das competências atribuídas ao secretário regional da tutela, que decorram da lei e da demais legislação em vigor;
+d) Estudar e propor medidas fiscais de carácter normativo no âmbito das competências atribuídas ao Vice-Presidente, que decorram da lei e da demais legislação em vigor.
 
-e) Coadjuvar o secretário regional da tutela, no acompanhamento e coordenação do exercício das atividades desenvolvidas na Zona Franca da Madeira, nomeadamente no procedimento administrativo relativo aos processos de pedidos de licenças remetidos pela concessionária da Zona Franca da Madeira.
+e) (Revogada.)
 
 3 - Incumbe em especial à AT-RAM e relativamente às receitas fiscais próprias da Região Autónoma da Madeira:
 

@@ -2,7 +2,7 @@
 
 ### Equipas de projeto
 
-1 - Quando a natureza ou a especificidade das tarefas temporárias a desenvolver o aconselhem, podem ser constituídas equipas de projeto com caráter transitório por despacho do secretário regional da tutela, que fixa os seus objetivos, composição e duração.
+1 - Quando a natureza ou a especificidade das tarefas temporárias a desenvolver o aconselhem, podem ser constituídas equipas de projeto com caráter transitório por despacho do Vice-Presidente, que fixa os seus objetivos, composição e duração.
 
 2 - Os trabalhadores designados para a chefia de equipas de projeto que não beneficiem de regime remuneratório próprio têm direito a um acréscimo salarial correspondente a 30 pontos indiciários, a adicionar ao índice do escalão que detêm na categoria, até ao limite do estatuto remuneratório do cargo de direção intermédia de 2.º grau.
 
