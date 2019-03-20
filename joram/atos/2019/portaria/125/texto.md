@@ -1,0 +1,22 @@
+# Portaria n.º 125/2019
+
+**Emissor:** VICE-PRESIDÊNCIA DO GOVERNO REGIONAL E SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+
+**Publicação:** JORAM, I série, n.º 45/2019, 2.º suplemento, de 2019-03-20
+
+**Sumário:** Autoriza a distribuição dos encargos orçamentais relativos ao contrato-programa a celebrar com a IHM - Investimentos Habitacionais da Madeira, EPERAM, tendo em vista a definição do processo de cooperação financeira entre as partes outorgantes com vista a possibilitar a execução do Acordo de Transação estabelecido aos 7 de janeiro de 2019 entre a IHM - Investimentos Habitacionais da Madeira, EPERAM e o IHRU - Instituto da Habitação e Reabilitação Urbana, IP, na parte em que a IHM, EPERAM receberá do IHRU, IP, de arrendamento pelo período inicial de 10 anos, com opção de compra, 151 fogos localizados na Região Autónoma da Madeira, para finalidade de subarrendamento de habitação social, totalizando o valor anual de rendas, para o ano de 2019, o montante global de € 538.124,52.
+
+## Texto
+
+Portaria n.º 125/2019
+de 20 de março
+Dando cumprimento ao artigo 25.º do Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual, em conjugação com o n.º 2 do artigo 5.º do Decreto Legislativo Regional n.º 27/2004/M, de 24 de agosto, alterado pelos Decretos Legislativos Regionais n.os 26/2013/M, de 29 de julho, 6/2015/M, de 13 de agosto e 42-A/2016/M, de 30 dezembro, e com o n.º 1 do artigo 29.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, manda o Governo Regional da Madeira, pelo Vice-Presidente do Governo Regional e pela Secretária Regional da Inclusão e Assuntos Sociais, o seguinte:
+1. Os encargos orçamentais relativos ao contratoprograma a celebrar com a IHM - Investimentos Habitacionais da Madeira, EPERAM, tendo em vista a definição do processo de cooperação financeira entre as partes outorgantes com vista a possibilitar a execução do Acordo de Transação estabelecido aos 7 de janeiro de 2019 entre a IHM - Investimentos Habitacionais da Madeira, EPERAM e o IHRU - Instituto da Habitação e Reabilitação Urbana, IP, na parte em que a IHM, EPERAM receberá do IHRU, IP, de arrendamento pelo período inicial de 10 anos, com opção de compra, 151 fogos localizados na Região Autónoma da Madeira, para finalidade de subarrendamento de habitação social, totalizando o valor anual de rendas, para o ano de 2019, o montante global de € 538.124,52 (quinhentos e trinta e oito mil, cento e vinte e quatro euros e cinquenta e dois cêntimos), atualizável por aplicação do coeficiente fixado, para cada ano, nos termos do artigo 24.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual, e para o qual de estima o valor de atualização anual de 1,015, de 2020 a 2028, perfazendo o montante máximo de € 5.759.397,03 (cinco milhões, setecentos e cinquenta e nove mil, trezentos e noventa e sete euros e três cêntimos) encontram-se escalonados da forma abaixo indicada:
+
+Ano económico de 2019 até ao valor global de ............... € 538.124,52; Ano económico de 2020 até ao valor global de ............... € 546.196,39; Ano económico de 2021 até ao valor global de ............... € 554.389,34; Ano económico de 2022 até ao valor global de ............... € 562.705,18; Ano económico de 2023 até ao valor global de ............... € 571.145,76; Ano económico de 2024 até ao valor global de ............... € 579.712,95; Ano económico de 2025 até ao valor global de ............... € 588.408,64; Ano económico de 2026 até ao valor global de ............... € 597.234,77; Ano económico de 2027 até ao valor global de ............... € 606.193,29; Ano económico de 2028 até ao valor global de ................€ 615.286,19.
+2. As verbas necessárias para o ano económico de 2019 estão inscritas no Orçamento da Secretaria Regional da Inclusão e Assuntos Sociais, na Classificação orgânica 48 9 50 01 04, Classificação funcional 243, Classificações económicas D.08.04.03.00.00, Projeto 51181, Fonte 117, Programa 049, Medida 026, Centro Financeiro M100804.
+3. As verbas necessárias para os anos económicos de 2020 a 2028 serão inscritas nos respetivos orçamentos da Secretaria Regional da Inclusão e Assuntos Sociais.
+4. A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Vice-Presidência do Governo Regional e Secretaria Regional da Inclusão e Assuntos Sociais, no Funchal, aos 20 dias do mês de março de 2019.
+O VICE-PRESIDENTE DO GOVERNO REGIONAL, Pedro Miguel Amaro de Bettencourt Calado
+A SECRETÁRIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS, Maria Rita Sabino Martins Gomes de Andrade
