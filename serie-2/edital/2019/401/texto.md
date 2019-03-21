@@ -1,0 +1,5 @@
+Edital n.º 401/2019
+Raul Miguel de Castro, Presidente da Câmara Municipal de Leiria, para cumprimento do estipulado no artigo 56.º do Anexo I da Lei n.º 75/2013, de 12 de setembro, torna público que por deliberação tomada na reunião da Câmara Municipal realizada em 05 de fevereiro de 2019, e aprovação da Assembleia Municipal na sua sessão ordinária de 15 de fevereiro de 2019, ao abrigo do disposto no artigo 174.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, foi aprovada a retificação do n.º 1 do artigo 7.º do Regulamento das Distinções Honoríficas do Município de Leiria, publicado no Diário da República, 2.ª série, n.º 29, de 11 de fevereiro de 2019.
+Assim, onde se lê "As Medalhas de Mérito Municipal, dos vários metais para cada grau, têm um formato circular, com 33 milímetros de diâmetro e 3 milímetros de espessura...", deve ler-se "As Medalhas de Mérito Municipal, dos vários metais para cada grau, têm um formato circular, com 45 milímetros de diâmetro e 3 milímetros de espessura..."
+25 de fevereiro de 2019. - O Presidente da Câmara Municipal, Raúl Castro.
+312106951
