@@ -24,6 +24,4 @@ g) Suspensão de execuções quando o executado seja trabalhador com retribuiç�
 
 h) Informação periódica sobre a actividade social da empresa.
 
-i) Referendo para a instituição de regime de banco de horas grupal.
-
 2 - O regime a que se refere a alínea b) do número anterior transpõe parcialmente para a ordem jurídica interna a Directiva n.º 94/33/CE, do Conselho, de 22 de Junho, relativa à protecção dos jovens no trabalho.
