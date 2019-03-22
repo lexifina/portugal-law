@@ -1,0 +1,182 @@
+Regulamento n.º 257/2019
+Regulamento Municipal de Apoio ao Associativismo no Concelho da Ribeira Brava
+Ricardo António Nascimento, Presidente da Câmara Municipal da Ribeira Brava, torna público que, em sua reunião ordinária realizada a 29 de novembro de 2018, deliberou, aprovar o Projeto de Regulamento Municipal de Apoio ao Associativismo no Concelho da Ribeira Brava submetendo-o a um período de discussão pública de 30 dias nos termos do disposto no artigo 101.º do Código do Procedimento Administrativo.
+Findo esse período, sem que o mesmo tivesse sido objeto de quaisquer sugestões, nos termos do disposto na alínea k) do n.º 1 do artigo 33.º da Lei n.º 75/2013, de 12 de setembro, foi a mesma encaminhada para deliberação da Câmara Municipal da Ribeira Brava, que a aprovou em 07 de fevereiro de 2019, submetendo-o à posterior aprovação pela Assembleia Municipal da Ribeira Brava, nos termos da alínea g) do n.º 1 do artigo 25.º da supramencionada Lei, tendo a mesma sido aprovada por deliberação tomada em 26 de fevereiro de 2019, pelo que, pelo presente, se concretiza a necessária publicação.
+28 de fevereiro de 2019. - O Presidente da Câmara, Ricardo António Nascimento.
+Preâmbulo
+Considerando que o Regulamento de Apoio ao Associativismo está em execução desde 2014.
+Considerando que no sobredito regulamento foram detetadas várias dificuldades na sua aplicação designadamente no próprio preenchimento dos dados relativos aos critérios de ponderação, que se mostram muito vagos e subjetivos.
+Considerando ainda que, o apoio social terá um regulamento específico para essa área.
+Por outro lado, reitera-se que movimento associativo tem-se afirmado ao longo destes anos como um verdadeiro parceiro do poder local, assumindo um papel de tal ordem importante que se tornou imprescindível na prossecução de políticas de desenvolvimento local, de âmbito desportivo e cultural, no Município da Ribeira Brava.
+Sendo certo que tendo em vista à valorização da dinâmica associativa, enquanto polo de desenvolvimento local e reconhecendo o mérito das ações desenvolvidas pelas diversas entidades e agentes culturais amadores, torna-se fundamental reforçar o seu papel dinamizador de uma crescente participação cívica, bem como o seu contributo para a descentralização da atividade cultural do Município da Ribeira Brava.
+Na verdade, o associativismo tem constituído um forte aliado do poder local, durante os últimos anos, mais concretamente na prossecução de políticas de desenvolvimento cultural, desportivo e recreativo, que promovam um conjunto de programas com vista a servir as nossas crianças e jovens e a comunidade local em geral.
+Pelo que, o presente regulamento municipal de apoio ao associativismo pretende redefinir metodologias e critérios de apoio da Câmara Municipal da Ribeira Brava ao associativismo, de forma a consagrar e sobretudo implementar uma reformulada prática de transparência, rigor e imparcialidade nas relações estabelecidas entre a Autarquia e as estruturas associativas com intervenção cultural, desportiva e recreativa.
+Em cumprimento do disposto no n.º 8, do artigo 112.º, da Constituição da República Portuguesa, o presente regulamento, elaborado ao abrigo do disposto no artigo 241.º, da Constituição da República Portuguesa, que atribui poder regulamentar aos municípios, tem como lei habilitante o Decreto-Lei n.º 273/2009, de 1 de outubro e o Decreto Legislativo Regional 12/2005/M, de 26 de julho, e respetivas alterações, conjugado com o preceituado no artigo 33, alínea ccc, u) e k) da Lei 75/2013, de 12 de setembro.
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objeto
+O presente regulamento define os princípios, os critérios e as modalidades de apoios da Autarquia às Associações para iniciativas de interesse público Municipal, de natureza desportiva e cultural, desenvolvidas no Concelho da Ribeira Brava.
+Artigo 2.º
+Princípios
+O regulamento baseia-se nos seguintes princípios:
+1 - Princípio de rigor na atribuição e utilização dos apoios
+2 - Princípio de transparência nos critérios
+3 - Princípio do mérito das iniciativas
+4 - Princípio da imparcialidade na avaliação das candidaturas
+5 - Princípio da racionalidade na utilização dos recursos disponíveis
+6 - Princípios de justiça
+7 - Princípio da equidade de tratamento
+Artigo 3.º
+Âmbito
+1 - Podem candidatar-se aos apoios constantes do presente regulamento, as associações sem fins lucrativos que reúnam cumulativamente os seguintes requisitos:
+a) Estejam legalmente constituídas;
+b) Possuam sede e desenvolvam atividades no Concelho da Ribeira Brava;
+c) Tenham os seus órgãos sociais regularmente eleitos e em exercício de funções, conforme os estatutos e regulamentos da Associação;
+d) Tenham a sua situação regularizada perante a administração fiscal, a segurança social e o Município de Ribeira Brava;
+e) Cumpram com os regulamentos e estatutos.
+2 - As candidaturas aos apoios devem ser apresentadas em formulário próprio, até 30 de novembro de cada ano a que se reporta o pedido de apoio;
+3 - As entidades apoiadas devem manter um registo de contabilidade organizada e ficam obrigadas a apresentar o relatório de atividades e contas legalmente validados relativo ao ano em que apresentam o pedido de apoio, bem como o ano em que auferiram do apoio;
+4 - Poderão ainda ser concedidos apoios a associações sem fins lucrativos que não tendo sede no concelho de Ribeira Brava, desenvolvam atividades de especial interesse para os munícipes da Ribeira Brava, sendo estas complementares à oferta das associações com sede neste concelho, e que reúnam as condições referidas no ponto n.º 1, com exceção da alínea b).
+5 - As associações não podem acumular apoios municipais que visem a realização da mesma atividade para os mesmos encargos.
+CAPÍTULO II
+Dos apoios
+Artigo 4.º
+Divulgação dos apoios municipais
+1 - A concessão de apoios municipais obriga as associações beneficiárias a referenciá-los publicamente das seguintes formas:
+a) Através dos seus meios de difusão digital;
+b) Através da colocação em local visível de cartaz cedido pela Câmara Municipal.
+Artigo 5.º
+Finalidade dos apoios
+1 - Os apoios destinam-se a programas e projetos, bem como, a comparticipações dos planos anuais de atividades dos beneficiários, enquadrados no acordo de cooperação.
+2 - Os apoios são concedidos a uma atividade ou conjunto de atividades cuja realização deverá ser assegurada no prazo máximo de um ano.
+3 - Excetuam-se do disposto no número anterior os apoios concedidos para obras, equipamentos ou viaturas que, nestes casos, será pontual, em função da disponibilidade orçamental e mediante avaliação e deliberação da Câmara Municipal.
+Artigo 6.º
+Modalidade dos Apoios
+1 - Os apoios a disponibilizar ao abrigo do presente regulamento revestem as seguintes modalidades:
+a) Disponibilização da utilização de infraestruturas municipais;
+b) Disponibilização da utilização de viaturas, máquinas ou equipamentos integrados no património municipal;
+c) Apoios técnicos e logísticos;
+d) Apoio na cobertura de seguros para atividades e eventos aprovados no âmbito do protocolo assinado entre a Câmara Municipal e a Instituição apoiada;
+e) Apoios financeiros.
+2 - A utilização de viaturas e infraestruturas municipais rege-se pelos respetivos regulamentos, quando existam.
+3 - A disponibilização de apoio material, técnico e logístico compreende a disponibilização dos equipamentos, realização de atividades ou a prestação de serviços que sejam propriedade ou da competência especializada dos serviços da Câmara Municipal;
+4 - O apoio financeiro reveste a forma de subsídios, podendo ser disponibilizados:
+a) Na modalidade de prestações ou duodécimos mensais;
+b) Na modalidade de pagamento único mediante apresentação de despesas validamente realizadas;
+c) Na modalidade de antecipação de parte do apoio mediante apresentação de orçamento certificado pela assembleia geral da associação.
+Capítulo III
+Das Candidaturas
+Artigo 7.º
+Forma de Candidatura
+1 - As candidaturas terão de ser formalizadas por escrito, em obediência ao exarado no artigo n.º 3 do presente regulamento.
+2 - A análise das candidaturas será realizada por uma comissão, composta pelo mínimo de três elementos
+3 - A referida comissão será nomeada pelo Presidente da Câmara Municipal de Ribeira Brava.
+Capítulo IV
+Da atribuição
+Artigo 8.º
+Acordos de colaboração
+Serão celebrados acordos de colaboração para titular os apoios concedidos, formalizados após comunicação e deliberação dos mesmos pela Câmara Municipal, ao abrigo do presente regulamento. Os referidos acordos serão revestidos sob forma de protocolo ou contrato programa elaborados nos termos legais.
+Capítulo V
+Critérios e ponderação dos financiamentos
+Artigo 9.º
+Definição e distribuição dos montantes de financiamento
+1 - O financiamento Municipal a atribuir ao associativismo sem fins lucrativos com intervenção nas áreas da cultura e/ou do desporto, sendo esse montante redistribuído pelas diferentes áreas e fins de apoio, na afetação percentual conforme critérios deste regulamento.
+2 - A alteração do estabelecido neste regulamento compete à Assembleia Municipal sob proposta da Câmara Municipal.
+Artigo 10.º
+Financiamentos por fim e áreas de intervenção
+1 - A distribuição do montante global consagrado no orçamento Municipal para esta rubrica, na concretização da e) do n.º 1 do artigo 6.º deste regulamento, efetiva-se numa redistribuição em termos percentuais pelos fins e áreas de intervenção:
+a) Financiamento ao funcionamento das Associações - 25 %
+b) Financiamento para a área do Desporto - 50 %
+c) Financiamento para a área da Cultura - 25 %
+Artigo 11.º
+Financiamentos ao funcionamento das Associações
+1 - A distribuição da percentagem de financiamento total destinada ao funcionamento das Associações rege-se pelos seguintes critérios de ponderação:
+a) Despesas com pessoal 25 %
+b) Despesas com sede própria 25%
+c) Despesas gerais de funcionamento e manutenção 25%
+d) Despesas com viaturas próprias 25%
+2 - Para preenchimento dos critérios referidos no ponto 1 e para efeitos de controlo da boa aplicação do financiamento municipal ao abrigo deste regulamento para o funcionamento das Associações sem fins lucrativos com intervenção nas áreas do desporto e cultura, consideram-se elegíveis as despesas:
+a) Aquelas realizadas com funcionários afetos ao funcionamento da Instituição (administrativos, motoristas, limpeza ou outros), deduzidas de quaisquer outros apoios financeiros obtidos com o fim de atenuar essas despesas.
+b) Aquelas relacionadas com a sede própria da Associação, nomeadamente as despesas com beneficiação, manutenção, seguros e juros de financiamento com a construção ou aquisição do imóvel.
+c) Aquelas relacionadas com o funcionamento geral da Instituição nomeadamente, as despesas com assessorias técnicas, água, luz, comunicações, gás, segurança, higiene, assistência informática, contabilidade, seguros, equipamentos e produtos de limpeza.
+d) Aquelas relacionadas com viaturas próprias nomeadamente, as despesas com combustível, seguros, inspeções, manutenção e encargos com aquisição de novas viaturas.
+3 - Para cada critério referido no ponto 1 deverão ser utilizados os dados do último relatório de contas aprovado.
+Artigo 12.º
+Financiamentos à área do Desporto
+1 - A distribuição da percentagem de financiamento total destinada à área do Desporto rege-se pelos seguintes critérios de ponderação:
+1.1 - Desporto Federado: 70 %
+1.1.1 - Escalões de formação desportiva federada (menores de 18 anos) Regular - 65 %
+a) N.º de Atletas 80%
+b) N.º de escalões de formação 10%
+c) N.º de Modalidades 10%
+1.1.2 - Escalão sénior federado (18 ou mais anos) regular - 35 %
+a) N.º de Atletas 90%
+b) N.º de Modalidades 10%
+1.2 - Desporto para Todos: 30 %
+1.2.1 - Atividades regulares de desporto para todos - 80 %
+a) N.º de Atletas (limite de um atleta por cada associação) 80%
+b) N.º de Modalidades 20%
+1.2.2 - Eventos pontuais (todos o que não se enquadrem nos regulares) de desporto para todos - 20 %
+a) N.º de Torneios/Atividades 70%
+b) N.º de participantes 30%
+2 - Para efeitos de controlo da boa aplicação do financiamento municipal ao abrigo deste regulamento para a área do desporto, considera-se elegíveis as despesas realizadas com inscrições, seguros, aluguer de instalações desportivas, técnicos desportivos, de enfermagem, médicos, bombeiros, equipamentos desportivos, materiais, viagens ou fretamento de serviços de transporte, serviços de som, estadias, alimentação, policiamento ou outras comprovadamente diretamente associadas à dinamização das atividades desportivas alvo de apoio.
+3 - Entende-se como atividade regular:
+a) Para o "Desporto Federado" todas aquelas realizadas no mínimo 2 vezes por semana ou então que se realizem no mínimo 80 vezes durante o ano civil.
+b) Para o "Desporto para Todos" todas aquelas realizadas no mínimo 1 vez por semana ou então que se realizem no mínimo 40 vezes durante o ano civil.
+4 - Na contabilização do número de atletas nas alíneas a) do ponto 1.1.1. e 1.1.2., e participantes na alínea b) do ponto 1.2.2, só deverá ser considerado um atleta nos casos em que estes pratiquem mais do que uma modalidade.
+5 - O referido no ponto anterior deverá ser comprovado através da ficha de inscrição de cada atleta.
+Artigo 13.º
+Financiamentos à área da Cultura
+1 - A distribuição da percentagem de financiamento total destinada à área da Cultura rege-se pelos seguintes critérios de ponderação:
+1.1 - Atividades regulares de cariz cultural - 75 %
+a) N.º de dias de ensaios (limite de 365 dias) 35%
+b) N.º de atuações 30%
+c) N.º de elementos envolvidos 25%
+d) N.º de agrupamentos culturais 10%
+1.2 - Atividades pontuais (todas as que não se enquadrem nas regulares) de cariz cultural - 25 %
+a) N.º de participações em atividades promovidas pela CMRB 40%
+b) N.º de atividades 35%
+c) N.º de grupos envolvidos 25%
+2 - Para efeitos de controlo da boa aplicação do financiamento municipal ao abrigo deste regulamento para a área da cultura, consideram-se elegíveis as despesas realizadas com inscrições, seguros, aluguer de instalações de fins culturais, técnicos culturais, aquisição, reparação e manutenção de instrumentos, materiais destinados aos fins culturais, aquisição, reparação e manutenção de guarda-roupa afeto aos grupos culturais, viagens ou fretamento de serviços de transporte, serviços de som, estadias, alimentação, serviços de segurança ou outras comprovadamente diretamente associadas à dinamização das atividades culturais alvo de apoio.
+3 - Entende-se como atividades regulares aquelas realizadas no mínimo 2 vezes por semana ou então que se realizem no mínimo 80 vezes durante o ano civil.
+Artigo 14.º
+Fiscalização
+1 - O Município de Ribeira Brava exercerá a fiscalização da veracidade das candidaturas e podendo, a todo o tempo, solicitar também aos beneficiários dos apoios financeiros, a comprovação da sua aplicação dos apoios concedidos, baseando-se:
+a) De modo aleatório no controlo direto das atividades e eventos realizados;
+b) Nos dados constantes nos formulários próprios criados para a candidatura ao apoio municipal ao associativismo;
+c) Nos dados estatísticos e documentos oficiais das entidades que superintendam as áreas de atividades apoiadas;
+d) Nos relatórios e contas do exercício referente às instituições e anos alvo de apoio municipal;
+e) Na verificação da apresentação de faturas elegíveis comprovativas da aplicação dos apoios aos fins consignados nos apoios;
+f) Noutras formas e nos momentos, tidos por convenientes pelo Município para validação da boa aplicação dos apoios concedidos.
+Artigo 15.º
+Suspensão
+1 - O não cumprimento das obrigações previstas no presente regulamento, ou nos acordos dele decorrentes, celebrados com os beneficiários dos apoios financeiros, confere à Câmara Municipal o direito de proceder à suspensão de execução dos mesmos.
+2 - A decisão de suspensão prevista no número anterior, bem como a sua fundamentação, é comunicada ao interessado sendo-lhe fixado um prazo para cumprimento, que não pode exceder os 60 dias.
+Artigo 16.º
+Rescisão
+1 - Ocorrendo o incumprimento das obrigações previstas no presente regulamento, ou nos acordos deles decorrentes, pode a Câmara Municipal rescindir o respetivo acordo, e exigir a reposição dos valores entregues caso não cumpra o n.º 2 do artigo 15.º
+CAPÍTULO VI
+Artigo 17.º
+Regime sancionatório
+1 - As associações cujas candidaturas tenham sido contempladas com os apoios solicitados e não os cumpram, ou que destinem o apoio Municipal a fim diverso daquele a que se candidataram, sujeitam-se, mediante decisão e notificação da Câmara Municipal a:
+a) Reposição parcial ou total dos apoios recebidos e não aplicados para os fins e condições determinadas no regulamento ou documento legal dele decorrente;
+b) Interdição por período mínimo de 1 ano de beneficiação de apoio do Município de Ribeira Brava no âmbito do presente regulamento.
+2 - Em casos devidamente justificados e comprovados pelas associações, a interdição referida no número anterior poderá não ser aplicada.
+3 - Caso o valor total calculado para cada associação não seja aplicado na íntegra nas diferentes rubricas previstas, poderá o mesmo ser reafetado em outras rubricas mediante solicitação da associação e com a devida autorização do Presidente de Câmara Municipal.
+Artigo 18.º
+Casos omissos
+Os casos omissos do presente regulamento serão resolvidos pela Câmara Municipal.
+Artigo 19.º
+Outros subsídios
+O presente regulamento não prejudica a atribuição de outros subsídios, para fins distintos dos previstos neste, em condições devidamente fundamentadas.
+Artigo 20.º
+Norma revogatória
+O presente regulamento revoga o anterior Regulamento n.º 323/2014 - Regulamento Municipal de Apoio ao Associativismo no Concelho de Ribeira Brava, publicado no Diário da República n.º 138 da 2.ª série de 21 de julho de 2014.
+Artigo 21.º
+Norma transitória
+Atendendo à proposta de novo regulamento, a Câmara Municipal excecionalmente fixa o prazo de candidatura até ao último dia do mês de março para o ano de 2019
+Artigo 22.º
+Entrada em vigor
+O presente regulamento entra em vigor no dia seguinte à sua publicação no Diário da República.
+312108952
