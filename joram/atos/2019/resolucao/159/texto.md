@@ -1,0 +1,28 @@
+# Resolução n.º 159/2019
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 48/2019, de 2019-03-26
+
+**Sumário:** Autoriza a quinta alteração ao contrato-programa relativo à comparticipação de despesas de investimento, outorgado a Região e o Serviço de Saúde da Região Autónoma da Madeira E.P.E., em 16 de maio de 2016, na redação dada pelos contratos n.ºs 191/2016, de 11 de outubro, 25/2017, de 21 de abril, 262/2017, de 30 de novembro e 186/2018, de 14 de março.
+
+## Texto
+
+Resolução n.º 159/2019
+Considerando que, na sequência da autorização concedida pela Resolução n.º 248/2016, de 12 de maio, foi celebrado, em 16 de maio de 2016, um contrato-programa entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira E.P.E. (adiante designado por SESARAM, E.P.E.), tendo por objeto a definição do processo de cooperação financeira entre as partes outorgantes para a comparticipação de despesas de investimento do SESARAM, E.P.E., discriminadas em listagem constante como anexo ao contrato-programa, que inclui a programação plurianual dos projetos de investimento.
+Considerando que, por razões supervenientes e de manifesto interesse público, esse contrato foi objeto de quatro alterações, formalizadas através dos contratos
+
+n.ºs 191/2016, de 11 de outubro, 25/2017, de 21 de abril, 262/2017, de 30 de novembro e 186/2018, de 14 de março, na sequência, respetivamente, das autorizações concedidas em sede das Resoluções do Conselho de Governo n.ºs 672/2016, de 6 de outubro, 244/2017, de 12 de abril, 880/2017, de 23 de novembro e 84/2018, de 22 de fevereiro.
+Considerando que o prazo de vigência deste contrato-programa termina no próximo dia 15 de maio, pelo que se impõe reajustar a comparticipação financeira atribuída, face à execução que efetivamente se perspetiva.
+Considerando que a Região Autónoma da Madeira tem acesso, no corrente ano, a uma receita proveniente do Fundo de Coesão Nacional, previsto no artigo 49.º da Lei das Finanças das Regiões Autónomas, aprovada pela Lei Orgânica n.º 2/2013, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, para financiar projectos constantes em planos anuais de investimento da Região Autónoma da Madeira, aqui se incluindo as entidades publicas que integrem o universo das administrações públicas em contas nacionais.
+Considerando que o SESARAM, E.P.E. apresenta despesas elegíveis para efeitos de Fundo de Coesão Nacional, existindo todo o interesse na sua regularização, como fator determinante para o reforço de sustentabilidade financeira desta entidade, bem assim das finanças públicas regionais.
+O Conselho do Governo reunido em plenário em 21 de março de 2019, resolveu:
+1. Ao abrigo do disposto na cláusula 5.ª do contratoprograma celebrado em 16 de maio de 2016 entre a Região Autónoma da Madeira e o Serviço de Saúde da Região Autónoma da Madeira E.P.E., conjugada com os artigos 29.º, 32.º, 34.º e 39.º do Decreto Legislativo Regional n.º 26/2018/M, de 31 de dezembro, que aprovou o Orçamento da Região Autónoma da Madeira para 2019, o n.º 3 do artigo 7.º do Decreto Legislativo Regional n.º 12/2012/M, de 2 de julho, na redação dada pelo artigo 59.º do Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, e a alínea K), do n.º 2 do artigo 3.º do Decreto Legislativo Regional n.º 22/2008/M, de 23 de junho, alterado pelo Decreto Legislativo Regional n.º 10/2011/M, de 27 de abril e pelo Decreto Legislativo Regional n.º 14/2012/M, de 9 de julho, que o republicou, autorizar a quinta alteração ao contrato-programa relativo à comparticipação de despesas de investimento, outorgado pelas partes em 16 de maio de 2016, na redação dada pelos contratos n.ºs 191/2016, de 11 de outubro, 25/2017, de 21 de abril, 262/2017, de 30 de novembro e 186/2018, de 14 de março, nos seguintes termos: a) Alterar o n.º 1 da cláusula 4.ª do contrato-programa, fixando que a comparticipação financeira à segunda outorgante, não poderá ultrapassar o montante máximo de € 11 079 059,87 (onze milhões, setenta e nove mil, cinquenta e nove euros e oitenta e sete cêntimos), de acordo com a seguinte programação: I. 2016 - € 364.255,58 (trezentos e sessenta e quatro mil, duzentos e cinquenta e cinco euros, e cinquenta e oito cêntimos); II. 2017 - € 3 397 058,00 (três milhões, trezentos e noventa e sete mil e cinquenta e oito euros);
+
+III. 2018 - € 3.362.473,29 (três milhões, trezentos e sessenta e dois mil, quatrocentos e setenta e três euros, e vinte e nove cêntimos);
+IV. 2019 - € 3 955 273,00 (três milhões, novecentos e cinquenta e cinco mil, duzentos e setenta e três euros);
+b) O mapa I junto ao contrato-programa é alterado, em conformidade com o disposto na alínea anterior.
+2. Aprovar a minuta de alteração do contrato-programa, que faz parte integrante da presente Resolução e que fica arquivada na Secretaria-Geral da Presidência.
+3. Mandatar o Vice-Presidente do Governo Regional e o Secretário Regional da Saúde, para, em representação da Região Autónoma da Madeira, elaborarem o respetivo processo e outorgarem a presente alteração ao contrato-programa.
+4. As verbas que asseguram a execução desta alteração ao Contrato-Programa estão inscritas no Orçamento do Gabinete do Secretário Regional da Saúde e Serviços dependentes, no Ano Económico de 2019, têm cabimento na Secretaria 45, Capítulo 50, Divisão 01, Subdivisão 03, Classificação Económica 08.04.03.00.00, Projetos 51315, 51392, 51393, 51478, 51479 e 51728, Fonte de Financiamento 192 do Orçamento da Região Autónoma da Madeira, e os n.ºs de compromisso CY51905621, CY51905622, CY51905623, CY51905624, CY51905627 e o CY51905628.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
