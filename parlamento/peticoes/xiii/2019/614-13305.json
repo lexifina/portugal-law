@@ -1,0 +1,790 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13305",
+  "numero": "614",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-03-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-05-28",
+            "entidades": null,
+            "id": "112471",
+            "tipo": null,
+            "titulo": "Audição em 2019-05-28 com FENPROF: Professora Manuela Mendonça; Professor José Alberto Marques e Professor Manuel Nobre R. Rosa"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-09",
+            "entidades": [
+              "Conselho Nacional de Educação"
+            ],
+            "nrOficio": "60/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-21",
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "61/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-15",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "62/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-31",
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "63/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "64/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "65/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-14",
+            "entidades": [
+              "Associação Nacional de Municípios Portugueses"
+            ],
+            "nrOficio": "66/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "59/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-06-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-04-16",
+        "DataArquivo": "2019-06-19",
+        "DataBaixaComissao": "2019-04-09",
+        "DataEnvioPAR": "2019-06-19",
+        "DataReaberta": "2019-04-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-04-23",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b304f57497a4f54646d4c57557a4f5449744e4459774e7931695a474d324c546b324d5441314d5449775a6a526b5a5335775a47593d&fich=949b397f-e392-4607-bdc6-96105120f4de.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45334d5751794e6a6b354c5445354e546b744e474e6a4f5330344e7a49344c546733597a67314f475a6c4d6a41355a6935775a47593d&fich=171d2699-1959-4cc9-8728-87c858fe209f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a64685932566a4e6d4d344c57497a5a6d4d744e4449795a5331694d7a526d4c5467315a545a6d4d6a59324d3259304d6935775a47593d&fich=7acec6c8-b3fc-422e-b34f-85e6f2663f42.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45324d474a684f4468684c575a6a4f4751744e474535597931684d574a6a4c575a6a5a6a55314e6a45334d5755774e5335775a47593d&fich=160ba88a-fc8d-4a9c-a1bc-fcf556171e05.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3252685a54566d4d4755774c54526a595455744e444d304e7931694e544d314c574a6a4f445535596a56694d324d31597935775a47593d&fich=dae5f0e0-4ca5-4347-b535-bc859b5b3c5c.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45334f546c6d59324a684c54646c5a6a67744e4463794d4330354d324d344c54517a4e4455774f545532597a686a4f5335775a47593d&fich=1799fcba-7ef8-4720-93c8-43450956c8c9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245324f4449304d444d784c54646d4f544d744e444978597931684e474a6d4c5463314f574a6c4e6a63775a6a41305a5335775a47593d&fich=a6824031-7f93-421c-a4bf-759be670f04e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59324d444a6b4d4464694c544a6b4e7a4d744e4749304e7930344e6a686a4c544a6a5932466b5a4759325a4755794d4335775a47593d&fich=6602d07b-2d73-4b47-868c-2ccaddf6de20.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a466b4d6d51355a574e684c5445345a474d744e474a6c4f5331684f4749314c54526a4d7a686959546c6a4e54557a4d7935775a47593d&fich=1d2d9eca-18dc-4be9-a8b5-4c38ba9c5533.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-06-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a63304e5459794e4467794c574d344d6a63744e4451774e6931684e546c6b4c544e6d4d6d5a6d4e5745314e5463324e7935775a47593d&fich=74562482-c827-4406-a59d-3f2ff5a55767.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-06-06",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a686b4d4749324f4449324c574d33597a4d744e446b354e5331684d6a45784c57566b596a457a4e4455784d6d51335a4335775a47593d&fich=8d0b6826-c7c3-4995-a211-edb134512d7d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-16",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4e694e4467794d6d4d794c574932597a55744e44417a4e6931694e57526d4c5745334e4459344d7a67354f446c694d5335775a47593d&fich=3b4822c2-b6c5-4036-b5df-a746838989b1.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-14",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45304f475a6a4e574a684c54526c4e5751744e475a694d5330354f544a6c4c5451354e544e6c4e54597a4e4749305a5335775a47593d&fich=148fc5ba-4e5d-4fb1-992e-4953e5634b4e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-21",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49354d6a513559546b334c545a684f5751744e4759334f433035597a41344c574a6a4e6a6b334e3251315a44466d4e4335775a47593d&fich=29249a97-6a9d-4f78-9c08-bc6977d5d1f4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a59774f54686d4e5759354c5751314d446b744e446b7a4d6930354e44637a4c57566d596d526c4f474a684d5459344d5335775a47593d&fich=6098f5f9-d509-4932-9473-efbde8ba1681.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-04-16",
+            "gp": "PS",
+            "id": "5530",
+            "motivoCessacao": null,
+            "nome": "Maria Augusta Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-02-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-04-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304e6a4e6a4d3249784d53316a4d444e6c4c5451324d5445744f4745304f433169595464685a4751304d4445344d6d51756347526d&fich=463c3b11-c03e-4611-8a48-ba7add40182d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44387",
+      "44403",
+      "44376"
+    ],
+    "Iniciativasoriginadas": [
+      "44387",
+      "44403",
+      "44376"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:15:49:130&drc=00:04:35:675"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:20:24:805&drc=00:03:26:317"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:44:33:030&drc=00:00:39:516"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-24",
+                  "30-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/23?pgs=23-24,30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:23:51:122&drc=00:03:43:592"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:27:34:715&drc=00:01:26:161"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/25?pgs=25&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:29:00:876&drc=00:02:46:764"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:31:47:640&drc=00:03:17:420"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/27?pgs=27&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:35:05:060&drc=00:03:31:798"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:38:36:859&drc=00:02:04:125"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-02-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_02_13_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m02/&tI=01:40:40:984&drc=00:03:52:045"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "237019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-02-14",
+                "pubLeg": "XIV",
+                "pubNr": "28",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Altera o Decreto-Lei n.º 75/2008, de 22 de abril - Regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário; Gestão democrática dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário; Recomenda ao Governo que avalie e pondere a readoção de um modelo de gestão democrática dos estabelecimentos públicos dos ensinos básico e secundário.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13305",
+    "PetAssunto": "Solicitam a revisão do Decreto-Lei n.º 75/2008, de 22 de abril, que aprova o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.",
+    "PetDataEntrada": "2019-03-26",
+    "PeticoesAssociadas": null,
+    "PetId": "13305",
+    "PetLeg": "XIII",
+    "PetNr": "614",
+    "PetNrAssinaturas": "8652",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2654",
+        "obs": null,
+        "pag": [
+          "22-30"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-14",
+        "pubLeg": "XIV",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/028/2020-02-14/22?pgs=22-30&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "865882",
+        "obs": null,
+        "pag": [
+          "14-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-04-26",
+        "pubLeg": "XIII",
+        "pubNr": "44",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/044/2019-04-26/14?pgs=14-15&org=PLC"
+      }
+    ]
+  }
+}
