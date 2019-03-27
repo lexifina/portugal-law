@@ -1,0 +1,425 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "187",
+    "id": "43485",
+    "titulo": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-03-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13816",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-03-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-03-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=01:51:56:685&drc=00:03:29:976"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=01:58:53:373&drc=00:01:09:169"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. ADJUNTA E DA ADMINISTRAÇÃO INTERNA",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Isabel Oneto"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-31",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/31?pgs=31,32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=01:55:26:662&drc=00:03:26:710"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1458",
+                "nome": "Carlos Alberto Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=02:00:02:542&drc=00:03:33:505"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=02:03:36:048&drc=00:03:36:686"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/33?pgs=33-34&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "5854",
+                "nome": "Isabel Pires"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=02:07:12:734&drc=00:03:48:603"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4197",
+                "nome": "Paula Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=02:11:01:337&drc=00:03:29:245"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28/35?pgs=35&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:02",
+            "horaTermo": "17:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_03_27_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m03/&tI=02:14:30:583&drc=00:02:54:189"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. DAS COMUNIDADES",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "José Luís Carneiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "233793",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-03-28",
+                "pubLeg": "XIII",
+                "pubNr": "67",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28?org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas de contingência a aplicar na eventualidade de uma saída do Reino Unido da União Europeia sem acordo",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "348836",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "13816",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-03-28",
+        "pubLeg": "XIII",
+        "pubNr": "67",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/067/2019-03-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
