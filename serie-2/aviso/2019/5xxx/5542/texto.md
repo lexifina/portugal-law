@@ -1,0 +1,7 @@
+Aviso n.º 5542/2019
+Alteração ao Plano Diretor Municipal de Moura - Discussão Pública
+Álvaro José Pato Azedo, Presidente da Câmara Municipal de Moura, torna público que, ao abrigo do disposto nos números 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que estabelece o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), a Câmara Municipal de Moura, em reunião pública realizada em 13 de março de 2019, deliberou a abertura do período de discussão pública da proposta de alteração ao Plano Diretor Municipal de Moura (PDMMA) pelo prazo de 30 (trinta) dias, com início no 5.º dia após publicação deste Aviso no Diário da República.
+Durante o período de discussão pública os interessados podem apresentar reclamações, observações ou sugestões, as quais devem ser entregues, por escrito, na Câmara Municipal de Moura, Praça Sacadura Cabral, 7860-207 Moura, ou enviadas por carta registada com aviso de receção para aquela morada, ou para o endereço eletrónico cmmoura@cm-moura.pt.
+A proposta de alteração ao PDMMA, a ata e o relatório de ponderação da conferência procedimental podem ser consultados no sítio da Internet da Câmara Municipal de Moura (www.cm-moura.pt) e na Divisão de Planeamento, Gestão Urbanística, Investimento e Turismo, todos os dias úteis no horário normal de atendimento ao público (das 9h00 às 12h30 e das 14h00 às 17h30).
+15 de março de 2019. - O Presidente da Câmara, Álvaro José Pato Azedo.
+612148278
