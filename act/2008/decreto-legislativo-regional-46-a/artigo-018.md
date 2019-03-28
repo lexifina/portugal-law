@@ -46,6 +46,6 @@ n) A alteração do coberto vegetal através da realização de cortes rasos de 
 
 5 - Os limites territoriais da área de paisagem protegida da Zona Central estão representados no anexo ii pela sigla FAI09.
 
-6 - A área de paisagem protegida da Zona Central integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Caldeira e Capelinhos e para a ZPE Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+6 - A área de paisagem protegida da Zona Central integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Caldeira e Capelinhos e para a ZPE Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
 7 - Dentro dos limites territoriais da área de paisagem protegida da Zona Central incluem-se áreas que preenchem os critérios de classificação da BirdLife International como IBA.

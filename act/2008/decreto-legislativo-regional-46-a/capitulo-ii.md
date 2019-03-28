@@ -10,8 +10,10 @@ As áreas terrestres e marítimas que integram o Parque Natural classificam-se n
 
 a) Reserva natural;
 
-b) Área protegida para a gestão de habitats ou espécies;
+b) Monumento natural;
 
-c) Área de paisagem protegida;
+c) Área protegida para a gestão de habitats ou espécies;
 
-d) Área protegida de gestão de recursos.
+d) Área de paisagem protegida;
+
+e) Área protegida de gestão de recursos.

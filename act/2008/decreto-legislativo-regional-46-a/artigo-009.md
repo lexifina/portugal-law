@@ -34,4 +34,4 @@ h) A instalação de parques eólicos, de campos de golfe, de oleodutos, de tele
 
 5 - Os limites territoriais da Reserva Natural da Caldeira do Faial estão representados no anexo ii pela sigla FAI02.
 
-6 - A Reserva Natural da Caldeira do Faial integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Caldeira e Capelinhos e a zona de protecção especial, doravante designada por ZPE Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+6 - A Reserva Natural da Caldeira do Faial integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Caldeira e Capelinhos e a zona de proteção especial, doravante designada por ZPE Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.

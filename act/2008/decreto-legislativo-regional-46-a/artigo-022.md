@@ -12,6 +12,6 @@
 
 5 - Os limites territoriais da área protegida de gestão de recursos dos Capelinhos estão representados no anexo ii pela sigla FAI12.
 
-6 - A área protegida de gestão de recursos dos Capelinhos integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+6 - A área protegida de gestão de recursos dos Capelinhos integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
 7 - A área protegida de gestão de recursos dos Capelinhos integra no seu âmbito as zonas de reserva integral de captura de lapas definidas no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.

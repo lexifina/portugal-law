@@ -26,6 +26,6 @@ c) As acções que provoquem alterações dos níveis de ruído e poluição son
 
 5 - Os limites territoriais da área protegida de gestão de recursos do Castelo Branco estão representados no anexo ii pela sigla FAI11.
 
-6 - A área protegida de gestão de recursos do Castelo Branco integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Morro do Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+6 - A área protegida de gestão de recursos do Castelo Branco integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
 7 - A área protegida de gestão de recursos do Castelo Branco integra no seu âmbito as zonas de reserva integral de captura de lapas definidas no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.

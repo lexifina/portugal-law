@@ -4,10 +4,12 @@
 
 Compete ao conselho consultivo:
 
-a) Eleger o respectivo presidente e aprovar o regulamento interno de funcionamento;
+a) Aprovar o seu regulamento interno de funcionamento;
 
-b) Apreciar os planos anuais e plurianuais e os relatórios anuais de actividades;
+b) Apreciar e emitir parecer sobre a proposta de plano de gestão do Parque Natural e avaliar a respetiva execução;
 
-c) Apreciar as propostas do conselho de gestão quanto à elaboração periódica de relatórios de estado do Parque Natural, submetendo a realização da respectiva elaboração à decisão ao membro do Governo com competência em matéria de ambiente;
+c) Apreciar os relatórios anuais de atividades;
 
-d) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
+d) Apreciar as propostas do diretor quanto à elaboração periódica de relatórios de estado do Parque Natural, submetendo a realização da respetiva elaboração à decisão do membro do Governo Regional com competência em matéria de ambiente;
+
+e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.

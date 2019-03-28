@@ -28,7 +28,7 @@ e) A realização de acções de gestão das comunidades de predadores terrestre
 
 4 - Os limites territoriais da área protegida para a gestão de habitats ou espécies dos Capelinhos, Costa Noroeste e Varadouro estão representados no anexo ii pela sigla FAI05.
 
-5 - A área protegida para a gestão de habitats ou espécies dos Capelinhos, Costa Noroeste e Varadouro integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Caldeira, para o SIC Ponta do Varadouro e a ZPE da Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+5 - A área protegida para a gestão de habitats ou espécies dos Capelinhos, Costa Noroeste e Varadouro integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Caldeira, para a ZEC Ponta do Varadouro e para a ZPE da Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
 6 - A área protegida para a gestão de habitats ou espécies dos Capelinhos, Costa Noroeste e Varadouro integra no seu âmbito as zonas de reserva integral de captura de lapas definida no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.
 

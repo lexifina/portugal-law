@@ -10,7 +10,7 @@
 
 4 - Os limites territoriais da área protegida para a gestão de habitats ou espécies do Varadouro - Castelo Branco estão representados no anexo ii pela sigla FAI06.
 
-5 - A área protegida para a gestão de habitats ou espécies do Varadouro - Castelo Branco integra no seu âmbito os objectivos e limites territoriais definidos para o SIC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
+5 - A área protegida para a gestão de habitats ou espécies do Varadouro - Castelo Branco integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Morro de Castelo Branco e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
 6 - A área protegida para a gestão de habitats ou espécies do Varadouro - Castelo Branco integra no seu âmbito as zonas de reserva integral de captura de lapas definida no n.º 8 do artigo 4.º do Decreto Regulamentar Regional n.º 14/93/A, de 31 de Julho.
 
