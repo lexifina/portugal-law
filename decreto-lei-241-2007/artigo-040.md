@@ -6,4 +6,4 @@
 
 2 - A aplicação das penas de repreensão escrita, de suspensão e de demissão é da competência do comandante do corpo de bombeiros.
 
-3 - A aplicação de qualquer pena disciplinar ao comandante do corpo de bombeiros é da competência do comandante operacional distrital.
+3 - (Revogado).
