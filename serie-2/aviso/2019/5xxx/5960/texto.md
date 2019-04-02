@@ -1,0 +1,16 @@
+Aviso n.º 5960/2019
+Proposta de Alteração Simplificada ao Plano Diretor Municipal
+Período de participação pública
+Adolfo Manuel dos Santos Marques de Sousa, Diretor Municipal da Presidência, ao abrigo da competência delegada na Ordem de Serviço n.º I/343222/18/CMP, de 4 de outubro, torna público que, nos termos da alínea a), do n.º 1, do artigo 33.º do anexo I à Lei n.º 75/2013, de 12 de setembro e dos n.os 3, 4 e 5 do artigo 123.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), a Câmara Municipal do Porto, em reunião pública de 6 de março de 2019, aprovou a abertura de um período de divulgação pública, por um período de 10 dias úteis, da proposta de alteração simplificada do Plano Diretor Municipal do Porto, para o imóvel sito às ruas da Constituição, de Serpa Pinto e de Egas Moniz, designado por "Quartel do Monte Pedral", União das Freguesias de Cedofeita, St.º Ildefonso, Sé, Miragaia, S. Nicolau e Vitória, dado a proprietária ter procedido à desafetação do referido imóvel dos fins de utilidade pública a que encontrava adstrito.
+Torna-se ainda público que o mencionado período de divulgação pública terá início no dia seguinte ao da publicação do presente Aviso no Diário da República, 2.ª série, nos termos da alínea c), do n.º 4 do artigo 191.º, conjugado com o n.º 1, do artigo 191.º e n.os 3, 4 e 5 do artigo 123.º, por força do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial e que para a elaboração do procedimento de Alteração Simplificada do Plano Diretor Municipal está previsto o prazo de 60 dias.
+Os interessados poderão consultar a Proposta de Alteração Simplificada do Plano Diretor Municipal e demais documentação que a consubstanciou no sítio eletrónico da Câmara Municipal do Porto, no endereço www.cm-porto.pt ou no Gabinete do Munícipe sito à Praça General Humberto Delgado, 266, 4000-286 Porto.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, mediante impresso próprio disponibilizado pelo Município, até ao termo do referido período e devem ser dirigidas ao Presidente da Câmara Municipal do Porto, podendo ser apresentadas por via eletrónica, através do endereço eletrónico dmu@cm-porto.pt, por via dos CTT, para a morada Gabinete do Munícipe sito à Praça General Humberto Delgado, 266, 4000-286 Porto ou apresentadas presencialmente no Gabinete do Munícipe.
+20 de março de 2019. - O Diretor Municipal da Presidência, Adolfo Sousa.
+Deliberação
+Adolfo Manuel dos Santos Marques de Sousa, Diretor Municipal da Presidência:
+Certifico que, de acordo com a minuta da Ata da Reunião do Executivo Municipal realizada no dia seis de março de dois mil e dezanove, foi aprovada a deliberação que a seguir se transcreve:
+"Ponto dois - Aprovação da decisão de início do procedimento da Alteração Simplificada do Plano Diretor Municipal do Porto - Quartel Monte Pedral.
+A Câmara Municipal deliberou, aprovar por unanimidade."
+E por ser verdade, mandei passar a presente certidão, que assino e faço autenticar com o selo branco em uso neste Município.
+Direção Municipal da Presidência, aos vinte dias do mês de março de dois mil e dezanove. - O Diretor Municipal da Presidência, Adolfo Sousa.
+612168803
