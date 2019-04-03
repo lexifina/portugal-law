@@ -1,0 +1,9 @@
+Aviso (extrato) n.º 6067/2019
+Alteração ao Plano de Urbanização da Correlhã no âmbito do Regime Excecional de Regularização das Atividades Económicas (RERAE)
+Discussão Pública
+Vítor Manuel Alves Mendes, Presidente da Câmara Municipal de Ponte de Lima, torna público, em cumprimento do disposto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015 de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial), que a Câmara Municipal de Ponte de Lima, em reunião pública 29 de outubro de 2018, deliberou dar início ao processo de alteração do Plano de Urbanização da Correlhã no âmbito do Regime Excecional de Regularização de Atividades Económicas (RERAE) e proceder à abertura do período de discussão pública.
+Assim, para cumprimento do disposto no n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro, comunica-se que se encontra aberto o período de discussão pública, para formulação de reclamações, observações ou sugestões, por um prazo de 15 dias úteis, contados a partir da publicação no Diário da República.
+Durante esse período, os interessados poderão consultar os elementos relativos ao processo de alteração do Plano de Urbanização da Correlhã no âmbito do RERAE na página da internet do Município de Ponte de Lima e no Balcão Único do Município de Ponte de Lima, sito no edifício dos Paços do Concelho, nas horas normais de expediente. O presente Aviso será igualmente publicado na Plataforma Colaborativa de Gestão Territorial.
+Todos os interessados, poderão apresentar por escrito, as suas observações, sugestões ou pedidos de esclarecimento, dirigidas ao Presidente da Câmara Municipal de Ponte de Lima - Praça da República, 4990-062 Ponte de Lima, ou por correio eletrónico (geral@cm-pontedelima.pt).
+20 de março de 2019. - O Presidente da Câmara Municipal, Eng. Victor Mendes.
+612163992
