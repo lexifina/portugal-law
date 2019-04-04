@@ -1,0 +1,761 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13307",
+  "numero": "616",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-04-04",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-05-14",
+            "entidades": null,
+            "id": "112443",
+            "tipo": null,
+            "titulo": "Audição em 2019-05-14 com Professor - Mário Nogueira e Professora - Ana Simões."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-28",
+            "entidades": [
+              "ANDE - Associação Nacional de Dirigentes Escolares"
+            ],
+            "nrOficio": "68/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "ANDAEP - Associação Nacional de Diretores de Agrupamentos e Escolas Públicas"
+            ],
+            "nrOficio": "69/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "CE - Conselho das Escolas"
+            ],
+            "nrOficio": "70/CEC/2019",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-06-17",
+                "dataResposta": "2019-06-24",
+                "nrOficio": "98/CEC/2019",
+                "oficioResposta": "Email"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "CONFAP - Confederação Nacional das Associações de Pais"
+            ],
+            "nrOficio": "71/CEC/2019",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-06-17",
+                "dataResposta": null,
+                "nrOficio": "99/CEC/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "CNIPE - Confederação Nacional Independente de Pais e Encarregados de Educação"
+            ],
+            "nrOficio": "72/CEC/2019",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-06-17",
+                "dataResposta": null,
+                "nrOficio": "100/CEC/2019",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": "2019-05-09",
+            "entidades": [
+              "Conselho Nacional de Educação"
+            ],
+            "nrOficio": "73/CEC/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-04-30",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DA   EDUCAÇÃO"
+            ],
+            "nrOficio": "67/CEC/2019",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2019-06-17",
+                "dataResposta": "2019-07-01",
+                "nrOficio": "97/CEC/2019",
+                "oficioResposta": "735/2019"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-04-16",
+        "DataArquivo": "2019-07-09",
+        "DataBaixaComissao": "2019-04-09",
+        "DataEnvioPAR": "2019-07-09",
+        "DataReaberta": "2019-04-16",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-04-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4a695a544d784e475a6a4c5451794d4459744e4455774e533169596a67784c544d784d475269595451304e6a6b794e7935775a47593d&fich=2be314fc-4206-4505-bb81-310dba446927.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4932593249315a575a6a4c54417a4e4759744e444e6b4e6930344e546b314c544e6b593245314d4451774d4755775a4335775a47593d&fich=26cb5efc-034f-43d6-8595-3dca50400e0d.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b314d5755344d546c6a4c545134596d4d744e444d775a6931694e4449784c5755304e6a566d4e6a41794f5755324f4335775a47593d&fich=951e819c-48bc-430f-b421-e465f6029e68.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b354e32466d4f4442694c5755774e6d45744e44526b4d6931695a5756694c5755314e324d7a4d3255314d47526c4e6935775a47593d&fich=997af80b-e06a-44d2-beeb-e57c33e50de6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a526d4e3249314e444d774c54686d597a49744e4442694d5331684e7a6c6a4c5441304d54526c5a5441304d6a63325a5335775a47593d&fich=4f7b5430-8fc2-40b1-a79c-0414ee04276e.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3255784f546c6c4d5751774c5755304f4467744e4451794e433035595445304c57566d4d54457a5a6d497a4d7a59325a6935775a47593d&fich=e199e1d0-e488-4424-9a14-ef113fb3366f.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a4d31595452694e7a686d4c574535596a67744e44426c4f5330344d574e694c5455354d444a6d597a526959546c685a6935775a47593d&fich=35a4b78f-a9b8-40e9-81cb-5902fc4ba9af.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c324d334e4745314d44526c4c5459784f5759744e4441774d6930345a6d5a694c5756694f544d7a5a5749775a574a685a5335775a47593d&fich=c74a504e-619f-4002-8ffb-eb933eb0ebae.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c3245795a5459334d3249304c574d774f5459744e4441334f533169597a59334c5745794d7a6732596a6b334e446c6c4f4335775a47593d&fich=a2e673b4-c096-4079-bc67-a2386b9749e8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566c595759784d6a55324c54686d597a63744e4749785a4330345954566c4c5452694e54466c4d32466859324d304d4335775a47593d&fich=5eaf1256-8fc7-4b1d-8a5e-4b51e3aacc40.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-04-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c32566a4d3259354f4749354c5456684d6d59744e474d77596930345a6a67324c54686d59546b32597a63314e545a684e6935775a47593d&fich=ec3f98b9-5a2f-4c0b-8f86-8fa96c7556a6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-17",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a6b324d4751774e6a4d314c574d7a5a6d45744e4745344f4330354e4751344c545a6a4d5759334d544a6b4e6a526a4f5335775a47593d&fich=960d0635-c3fa-4a88-94d8-6c1f712d64c9.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49344d4451774d446b304c574e6a595749744e444a68596930355954557a4c5749344e6a5a6c4d4445304d47526c4e5335775a47593d&fich=28040094-ccab-42ab-9a53-b866e0140de5.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-05-28",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45354d324e6b597a45304c544e6a5a5467744e474e6a4e4330344d6d5a694c54597a597a46694d54686a5a445a6a4e5335775a47593d&fich=193cdc14-3ce8-4cc4-82fb-63c1b18cd6c5.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-24",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a566b4e6a526d5a6d51324c544a6c4f4455744e4445774e793034596a67794c5759774d6a67305a5455324d6a68684f4335775a47593d&fich=5d64ffd6-2e85-4107-8b82-f0284e5628a8.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-05-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a45354f4467304f4445344c5456694e3255744e474e6b4e4330344e6a597a4c544a6a4d5463334f54566b4d6d5a6a5a6935775a47593d&fich=19884818-5b7e-4cd4-8663-2c17795d2fcf.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-07-03",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e5054533834513056444c305276593356745a57353062334e515a585270593246764c7a49784e3245334f4445314c5449784d6d55744e4756695a5330344d5463334c5751344d5455355957466c5932466b4f4335775a47593d&fich=217a7815-212e-4ebe-8177-d8159aaecad8.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4531",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Educação e Ciência",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-04-16",
+            "gp": "PSD",
+            "id": "6121",
+            "motivoCessacao": null,
+            "nome": "Liliana Silva"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-03-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-04-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938304d446778596d59304f4330775a47566b4c5451354e4459744f544d774f4330784d6d59354e4445354e474a6a4e5451756347526d&fich=4081bf48-0ded-4946-9308-12f94194bc54.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44181",
+      "44305",
+      "44378"
+    ],
+    "Iniciativasoriginadas": [
+      "44181",
+      "44305",
+      "44378"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:44:21:430&drc=00:04:32:350"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:48:53:780&drc=00:03:27:349"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:52:21:129&drc=00:03:18:686"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/40?pgs=40&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:55:39:816&drc=00:02:35:479"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=02:58:15:296&drc=00:02:42:120"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/41?pgs=41&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:00:57:417&drc=00:03:08:612"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/42?pgs=42&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:04:06:029&drc=00:03:40:484"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/42?pgs=42-43&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_03_11_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m03/&tI=03:07:46:513&drc=00:01:41:364"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "39",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Pela criação de um grupo de recrutamento de intervenção precoce; Recomenda ao Governo que crie o grupo de recrutamento na área da intervenção precoce; Pela criação de um grupo de recrutamento da intervenção precoce",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13307",
+    "PetAssunto": "Solicitam a criação de um Grupo de Recrutamento da Intervenção Precoce.",
+    "PetDataEntrada": "2019-04-04",
+    "PeticoesAssociadas": null,
+    "PetId": "13307",
+    "PetLeg": "XIII",
+    "PetNr": "616",
+    "PetNrAssinaturas": "4065",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2672",
+        "obs": null,
+        "pag": [
+          "37-43"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-03-12",
+        "pubLeg": "XIV",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/039/2020-03-12/37?pgs=37-43&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "865884",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-04-26",
+        "pubLeg": "XIII",
+        "pubNr": "44",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/044/2019-04-26?org=PLC"
+      }
+    ]
+  }
+}
