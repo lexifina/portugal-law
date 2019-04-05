@@ -1,0 +1,199 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "178",
+    "id": "43337",
+    "titulo": "Altera Código do Imposto sobre o Rendimento das Pessoas Coletivas, em matéria de imparidades das instituições de crédito e outras instituições financeiras."
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2019-04-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "45639",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2019-05-14",
+            "id": "112447",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-05-30",
+            "id": "112557",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-06-05",
+            "id": "112589",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-06-11",
+            "id": "112633",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2019-04-05",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2019-04-05",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": [
+          {
+            "DataDocumento": "2019-06-21",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Contributo da OROC - Ordem dos Revisores Oficiais de Contas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938334e44426c5a545a6c596931685a5756684c545178597a4974595441775a4330314d7a51334d445930597a67775a6a49756347526d&fich=740ee6eb-aeea-41c2-a00d-5347064c80f2.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-25",
+            "TipoDocumento": "Outro",
+            "TituloDocumento": "Guião de Votação preenchido",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774e7a67334e3255355a6931694d5749334c5451315a5451744f5455775a533169596a6b304e7a4a684e4751324e4459756347526d&fich=07877e9f-b1b7-45e4-950e-bb9472a4d646.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-08",
+            "TipoDocumento": "Parecer",
+            "TituloDocumento": "Parecer da UTAO",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938774d6a6c6b4e5449305969316b4e6a6b794c5452694e6a49744f4449785a4330314d6d45784d444d354d4451775a5463756347526d&fich=029d524b-d692-4b62-821d-52a1039040e7.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938305a4445354f5445344d5330774f444a684c5452684f5759744f4459795a6930334e7a6b7a4e7a59784e5463305a4755756347526d&fich=4d199181-082a-4a9f-862f-7793761574de.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-06-21",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938304d6d4e6c596d466b5969316c4f5455774c5452685a574d744f544a694e4330325a5467795a6d4d7a4f5751334f5445756347526d&fich=42cebadb-e950-4aec-92b4-6e82fc39d791.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-08",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "Substituição à proposta de alteração GP PSD",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e6862793877597a686b4d44426a4e5330324d574a6c4c54526b5a6a5574596d59305953316b4f4755335a4755335957526a4e7a6b756347526d&fich=0c8d00c5-61be-4df5-bf4a-d8e7de7adc79.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-16",
+            "TipoDocumento": "Texto final",
+            "TituloDocumento": "Texto final",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e527663306c7561574e7059585270646d46446232317063334e68627938324e6a6c694e7a42695a5330344d54426a4c54526a4e6a41744f47457a4d6930334e4442694e6a4d314d6a46694f574d756347526d&fich=669b70be-810c-4c60-8a32-740b63521b9c.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4528",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "Numero": "4528",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto de substituição",
+            "pag": [
+              "241-245"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-16",
+            "pubLeg": "XIII",
+            "pubNr": "127",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/127/2019-07-16/241?pgs=241-245&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": "Texto de substituição",
+            "pag": [
+              "241-245"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-16",
+            "pubLeg": "XIII",
+            "pubNr": "127",
+            "pubSL": "4",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/127/2019-07-16/241?pgs=241-245&org=PLC"
+          }
+        ],
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-07-16",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-07-16",
+            "dataRemessa": "2019-07-16",
+            "numeroOficio": "e-mail",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": null
+      }
+    ],
+    "DataFase": "2019-04-05",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "349151",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
