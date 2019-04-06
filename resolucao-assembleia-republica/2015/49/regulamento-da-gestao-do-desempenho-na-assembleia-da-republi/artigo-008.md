@@ -6,11 +6,11 @@
 
 2 - A avaliação ordinária reporta-se ao ano civil anterior, devendo ocorrer no ano seguinte ao do período sob avaliação, nos termos da seguinte calendarização:
 
-a) Até ao dia 15 de março, envio ao Secretário-Geral dos relatórios de avaliação devidamente preenchidos;
+a) a) Até ao dia 30 de março, envio ao Secretário-Geral dos relatórios de avaliação devidamente preenchidos;
 
-b) Até 30 de março, reunião do Conselho Coordenador de Avaliação para os efeitos previstos nas alíneas b), c) e d) do n.º 2 do artigo 12.º;
+b) Até ao dia 15 de abril, reunião do Conselho Coordenador de Avaliação para os efeitos previstos nas alíneas b), d) e e) do n.º 2 do artigo 12.º;
 
-c) Até 15 de abril, homologação das avaliações pelo Secretário-Geral, devendo os interessados ser notificados no prazo de 10 dias úteis.
+c) Até ao dia 30 de abril, homologação das avaliações pelo Secretário-Geral, devendo os interessados ser notificados no prazo de 10 dias úteis.
 
 3 - À avaliação extraordinária, quando ocorra, são aplicados os prazos previstos no número anterior.
 
