@@ -6,4 +6,4 @@
 
 2 - Todos os intervenientes no processo estão obrigados ao dever de sigilo, com exceção do avaliado quando estiver em causa o exercício dos seus direitos de reclamação ou recurso.
 
-3 - Após a conclusão do processo, é divulgada internamente lista nominal com as avaliações atribuídas.
+3 - (Revogado.)

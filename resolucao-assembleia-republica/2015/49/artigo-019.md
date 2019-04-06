@@ -10,4 +10,4 @@
 
 4 - O Secretário-Geral apenas pode proceder à avaliação desde que detenha mais de um ano de contacto funcional com o dirigente a avaliar.
 
-5 - Não se verificando o pressuposto constante do número anterior, ao dirigente é atribuída a menção de Adequado.
+5 - Não se verificando o pressuposto constante do número anterior, o CCA designa uma comissão de três avaliadores para proceder à avaliação.

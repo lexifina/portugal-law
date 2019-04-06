@@ -16,4 +16,4 @@ e) Identificar insuficiências no quadro das competências, instituindo vias de 
 
 f) Possibilitar a autoavaliação e incrementar o autodesenvolvimento;
 
-g) Instituir formas de reconhecimento do desempenho excelente e de desenvolvimento de competências no caso de insuficiente desempenho.
+g) Reconhecer o desempenho excecional e desenvolver competências no caso de desempenho insuficiente.

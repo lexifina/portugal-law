@@ -1,3 +1,7 @@
+## Capítulo III
+
+## Garantias
+
 ## Capítulo IV
 
 ## Disposições finais e transitórias

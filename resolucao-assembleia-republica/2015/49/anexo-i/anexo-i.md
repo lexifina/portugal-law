@@ -2,8 +2,6 @@
 
 ### Relatório de Avaliação Ordinária
 
-GEDAR
-
-Gestão do Desempenho na Assembleia da República
+GESTÃO DO DESEMPENHO NA ASSEMBLEIA DA REPÚBLICA
 
 (ver documento original)

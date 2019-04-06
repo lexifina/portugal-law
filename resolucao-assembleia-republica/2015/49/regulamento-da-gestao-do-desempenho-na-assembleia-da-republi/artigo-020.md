@@ -1,3 +1,11 @@
+## Secção III
+
+## Avaliações ordinária e extraordinária
+
+## Secção IV
+
+## Avaliação de dirigentes
+
 # Artigo 20.º
 
 ### Procedimento

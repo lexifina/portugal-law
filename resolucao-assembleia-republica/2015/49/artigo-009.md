@@ -1,7 +1,3 @@
-## Secção II
-
-## Intervenientes na GEDAR
-
 # Artigo 9.º
 
 ### Intervenientes
@@ -14,4 +10,6 @@ b) Os avaliados;
 
 c) O Conselho Coordenador de Avaliação (CCA);
 
-d) O Secretário-Geral.
+d) A Comissão Paritária;
+
+e) O Secretário-Geral.
