@@ -1,0 +1,11 @@
+Aviso n.º 6613/2019
+Prorrogação de prazo da revisão do Plano Diretor Municipal de Faro
+Sophie Matias, Vereadora do Urbanismo e das Infraestruturas da Câmara Municipal de Faro, para efeitos do disposto no n.º 1 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, que estabelece o Regime Jurídico das Autarquias Locais, torna público que a Câmara Municipal, em reunião ordinária pública, de 18 de fevereiro de 2019, deliberou, por unanimidade, aprovar a Proposta n.º 53/CM/2019 e prorrogar o prazo da elaboração da Revisão do Plano Diretor Municipal (PDM), por um período de 36 (trinta e seis) meses, contados a partir da data da publicação do Aviso n.º 7311/2016, no Diário da República, 2.ª série, de 8 de junho de 2016, nos termos do artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio, que aprovou o Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT).
+Torna, ainda, público que o presente Aviso será divulgado nos lugares de estilo, na 2.ª série do Diário da República e no sítio da Internet em www.cm-faro.pt, em conformidade com a alínea c) do n.º 4 do artigo 191.º e do n.º 192, ambos do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT).
+25 de fevereiro de 2019. - A Vereadora das Infraestruturas e do Urbanismo, Arqt.ª Sophie Matias.
+Deliberação
+A Câmara Municipal, em reunião ordinária pública, de 18 de fevereiro de 2019, «aprovou por unanimidade a Proposta n.º 53/CM/2019», a qual, nos termos do n.º 7 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), ratifica o deliberado na reunião ordinária, de 4 de fevereiro de 2019, ao abrigo da Proposta n.º 41/CM/2019:
+«A Câmara Municipal de Faro deliberou, por unanimidade, aprovar a Proposta n.º 412/CM/2016 e elaborar a Revisão do Plano Diretor Municipal estabelecendo para esse efeito um período de 36 (trinta e seis) meses, prazo que se dá por findo em 8 de junho do presente ano.
+Na sua reunião ordinária, de 4 de fevereiro de 2019, a Câmara Municipal de Faro deliberou, por unanimidade, aprovar a Proposta n.º 41/CM/2019 e prorrogar o prazo suprarreferido, por igual período de tempo, contado a partir da data de produção de efeitos do Aviso n.º 7311/2016, publicado no Diário da República, 2.ª série, de 8 de junho de 2016».
+18 de fevereiro de 2019. - A Vereadora das Infraestruturas e do Urbanismo, Arqt.ª Sophie Matias.
+612133721
