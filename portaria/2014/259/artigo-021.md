@@ -14,4 +14,6 @@
 
 6 - Os certificados comprovativos da frequência e aprovação final no estágio são registados no sítio do PEPAC-MNE a que se refere o artigo anterior.
 
-7 - Compete à Secretaria-Geral do Ministério dos Negócios Estrangeiros anexar ao certificado referido no número anterior uma descrição das atividades desenvolvidas e dos conhecimentos adquiridos.
+7 - (Revogado.)
+
+8 - É dever do estagiário entregar o relatório de autoavaliação no prazo determinado pela entidade promotora.

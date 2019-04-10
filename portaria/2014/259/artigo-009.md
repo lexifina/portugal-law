@@ -18,6 +18,6 @@ c) Subsistindo o empate, em função da titularidade de grau académico mais ele
 
 d) (Revogada.);
 
-e) Subsistindo o empate, em função da mais elevada classificação final obtida no grau académico imediatamente inferior;
+e) (Revogada.)
 
 f) Subsistindo o empate, em função da data mais antiga e ordem de submissão da candidatura.

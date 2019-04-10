@@ -12,13 +12,25 @@ a) Estágio em Diplomacia Económica:
 
 - Cód. 222 - Línguas e Literaturas Estrangeiras;
 
+- Cód. 225 - História e Arqueologia;
+
+- Cód. 226 - Filosofia e Ética;
+
+- Cód. 312 - Sociologia e outros estudos;
+
 - Cód. 313 - Ciência Política e Cidadania;
 
 - Cód. 314 - Economia;
 
+- Cód. 321 - Jornalismo e Reportagem;
+
 - Cód. 342 - Marketing e Publicidade;
 
+- Cód. 343 - Finanças, Banca e Seguros;
+
 - Cód. 345 - Gestão e Administração;
+
+- Cód. 346 - Secretariado e Trabalho Administrativo;
 
 - Cód. 380 - Direito.
 

@@ -17,3 +17,5 @@ b) Demonstração de apetência pela vida em missão e experiência em ambientes
 c) Apresentação e clareza na exposição oral.
 
 5 - No contexto da entrevista, são ainda aferidas as competências nas línguas em que o candidato alegou fluência.
+
+6 - A entrevista de seleção ocorre presencialmente, sem possibilidade de ser substituída por recurso a meios de comunicação à distância.
