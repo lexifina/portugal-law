@@ -1,0 +1,879 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13313",
+  "numero": "622",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-04-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-01-19",
+            "entidades": null,
+            "id": "116503",
+            "tipo": null,
+            "titulo": "Audição em 2021-01-19 com "
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-05-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915078",
+                "obs": null,
+                "pag": [
+                  "13-18"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-05-29",
+                "pubLeg": "XIV",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/047/2021-05-29/13?pgs=13-18&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2021-05-26",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2021-05-27",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-05-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738765a6d4e685a5749794d6a4d744f44566b5a5330304f5756694c546b334e47597459324e694e4451354e475530597a56694c6e426b5a673d3d&fich=fcaeb223-85de-49eb-974f-ccb4494e4c5b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-20",
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-21",
+            "entidades": null,
+            "id": "112763",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-21 com Plataforma Alentejo"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              null
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-05-14",
+        "DataArquivo": "2019-07-22",
+        "DataBaixaComissao": "2019-04-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-05-14",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-05-15",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c7a4d315a6d51325a6d4a694c5455315a5745744e4441774d6930345a5445344c54597a4d474d784e444d334d7a55774e4335775a47593d&fich=35fd6fbb-55ea-4002-8e18-630c14373504.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-07-22",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d554e4254315245554578494c305276593356745a57353062334e515a585270593246764c324e684d4463324f444e6c4c574d774e4459744e4756694e533168596a67784c57566b4f475931596d49335a5745774e4335775a47593d&fich=ca07683e-c046-4eb5-ab81-ed8f5bb7ea04.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4534",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-05-14",
+            "gp": "PEV",
+            "id": "834",
+            "motivoCessacao": null,
+            "nome": "Heloísa Apolónia"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída para: Comissão de Economia, Inovação e Obras Públicas."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-07-22",
+        "DataEnvioPAR": "2021-05-27",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4529",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Economia, Inovação e Obras Públicas",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Redistribuída da Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação para esta comissão."
+      }
+    ],
+    "DataDebate": "2022-09-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-05-03",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396d4f575179597a55335a6930354d7a526d4c5451325a5463744f44646c5979316c4d4751794d5751794e3255775a4445756347526d&fich=f9d2c57f-934f-46e7-87ec-e0d21d27e0d1.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-05-03",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4f474d305a5752685a43316c4e32466a4c54513159544974596a59344e53316b4e6a4d354d445a6b4e7a67344f4459756347526d&fich=d8c4edad-e7ac-45a2-b685-d63906d78886.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-05-03",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938355a6a566c4d6a51325a5330794d6a49324c5451344e474974596a646a4d4330324d32557759545132596a466a4f4467756347526d&fich=9f5e246e-2226-484b-b7c0-63e0a46b1c88.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-05-03",
+        "TipoDocumento": "Anexos",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d3245785a446c6b5a6930304e444d324c5451335a6d59744f57526a5a4330325a446b355a5467774e546730595745756347526d&fich=53a1d9df-4436-47ff-9dcd-6d99e80584aa.pdf&Inline=true"
+      },
+      {
+        "DataDocumento": "2019-05-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d3245304e7a4935597931684f4455324c54526c4e444d744f5751784f533168597a6b7a4d44557859324e694e6a63756347526d&fich=53a4729c-a856-4e43-9d19-ac93051ccb67.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121607",
+      "121621",
+      "131721",
+      "121621"
+    ],
+    "Iniciativasoriginadas": [
+      "121607",
+      "121621",
+      "131721"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=41"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269715",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=43"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=45"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "47-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/47?pgs=47&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/48?pgs=48&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/49?pgs=49-50&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269743",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/51?pgs=51-53&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo; Recomenda ao Governo português a avaliação ambiental estratégica do novo aeroporto de Lisboa e afira diversas hipóteses de localização de respostas aeroportuárias; Por uma estratégia integrada de acessibilidades do Alentejo enquanto instrumento de promoção da coesão e desenvolvimento territorial; Recomenda ao Governo o investimento na Linha do Leste.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13313",
+    "PetAssunto": "Apresentação de um conjunto de prioridades para o desenvolvimento sustentável da região do Alentejo.",
+    "PetDataEntrada": "2019-04-11",
+    "PeticoesAssociadas": null,
+    "PetId": "13313",
+    "PetLeg": "XIII",
+    "PetNr": "622",
+    "PetNrAssinaturas": "6257",
+    "PetNrAssinaturasInicial": "4611",
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16236",
+        "obs": null,
+        "pag": [
+          "44-55"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-29",
+        "pubLeg": "XV",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/44?pgs=44-55&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "865899",
+        "obs": null,
+        "pag": [
+          "19-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-05-18",
+        "pubLeg": "XIII",
+        "pubNr": "48",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/048/2019-05-18/19?pgs=19-21&org=PLC"
+      }
+    ]
+  }
+}
