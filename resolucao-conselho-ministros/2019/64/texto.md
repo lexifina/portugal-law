@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 64/2019
+O ar é um recurso essencial à vida, com repercussões diretas e indiretas no ambiente natural e modificado. A sua qualidade é determinante para a saúde pública e para a qualidade de vida da população, pelo que a gestão desta componente ambiental requer uma abordagem integrada, com a articulação de políticas e medidas ao nível setorial e entre os vários níveis de governação, bem como o envolvimento da sociedade civil.
+Consciente desta realidade, o Governo adotou a Resolução do Conselho de Ministros n.º 46/2016, de 26 de agosto, que definiu a Estratégia Nacional para o Ar para 2020 (ENAR 2020), e que, ao privilegiar as inter-relações com outros domínios relevantes, pretendeu garantir a coerência e a integração entre políticas e medidas no domínio das emissões e da qualidade do ar, com vista à redução dos impactes na saúde e nos ecossistemas.
+Esta estratégia estabelece, igualmente, um quadro de referência em matéria de informação, conhecimento e sensibilização, dirigido a um conjunto alargado de partes interessadas, cujas atividades e comportamentos poderão contribuir, de forma mais ou menos direta, para mitigar os efeitos da poluição atmosférica.
+Atendendo ao interesse crescente que as questões de poluição do ar têm vindo a assumir, considera-se relevante alertar, sensibilizar e envolver a sociedade por forma a fomentar um sentido de responsabilidade pessoal e uma maior motivação e compromisso com a proteção da qualidade do ar.
+A promoção de uma campanha de âmbito nacional sobre esta temática revela-se, assim, de particular importância para divulgar informação, aumentar o conhecimento e promover, de forma consciente, comportamentos e estilos de vida que contribuam para um «melhor ar».
+É, pois, neste contexto que se institui o Dia Nacional do Ar, como reconhecimento da importância da componente ambiental Ar, procedendo-se à criação de uma jornada anual onde se procura dinamizar vontades e iniciativas, na perspetiva de mobilizar diferentes intervenientes para o desafio de preservar e melhorar a qualidade do ar atual e futura.
+Assim:
+Nos termos das alíneas d) e g) do artigo 199.º e da alínea c) do artigo 200.º da Constituição, o Conselho de Ministros resolve:
+1 - Instituir o dia 12 de abril, data do lançamento da primeira campanha nacional sobre o ar, como o Dia Nacional do Ar.
+2 - Recomendar que as comemorações relativas ao Dia Nacional do Ar sejam organizadas de forma descentralizada, com envolvimento dos vários níveis de governação e de intervenientes de diferentes setores, de acordo com os respetivos interesses e recursos.
+3 - Determinar que em cada ano, sob proposta da Agência Portuguesa do Ambiente, I. P., seja adotado um tema específico a abordar no âmbito das comemorações do Dia Nacional do Ar.
+4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+Presidência do Conselho de Ministros, 4 de abril de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112215272
