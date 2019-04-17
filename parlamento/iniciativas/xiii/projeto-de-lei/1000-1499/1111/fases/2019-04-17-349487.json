@@ -1,0 +1,162 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1111",
+    "id": "43401",
+    "titulo": "Altera o Código Penal, nomeadamente o crime de perseguição, permitindo a aplicação da medida preventiva de proibição de contacto com a vítima"
+  },
+  "fase": "Nova apreciação comissão generalidade",
+  "codigo_fase": "240",
+  "data_registo": "2019-04-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "240",
+    "Comissao": [
+      {
+        "AccId": "45736",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": [
+          {
+            "data": "2019-05-31",
+            "id": "112563",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-06-11",
+            "id": "112632",
+            "tipo": "AUP"
+          },
+          {
+            "data": "2019-07-04",
+            "id": "112850",
+            "tipo": "AUP"
+          }
+        ],
+        "Audiencias": null,
+        "Competente": "S",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2019-04-17",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2019-04-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": [
+          {
+            "leg": "XIII",
+            "nome": "Grupo de Trabalho - Alterações Legislativas - Crimes de Perseguição e Violência Doméstica",
+            "num": "86",
+            "orgId": "7204",
+            "publicacao": null,
+            "sigla": "GT-AL-CPVD"
+          }
+        ],
+        "Documentos": [
+          {
+            "DataDocumento": "2019-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "1 - Proposta de texto único - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764e6a466b4d544a6a596a49745957566a595330304e6a4e6c4c5467774d4449744f44566d4e5751784e6d4a6d4e544e684c6e426b5a673d3d&fich=61d12cb2-aeca-463e-8002-85f5d16bf53a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "2 - Proposta de Alteração - BE à  Proposta de texto único - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876595459324d4755784f546b744e446b784d5330304e7a63314c546b784d4751744e7a63304e44637a5932526a4d4463794c6e426b5a673d3d&fich=a660e199-4911-4775-910d-774473cdc072.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-10",
+            "TipoDocumento": "Proposta de alteração",
+            "TituloDocumento": "3 - Proposta de Alteração - PCP à  Proposta de texto único - PS",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a59573876596a67334d3259304e5445745a54457a4d433030597a55344c546b314e6a6374596d466a4f44526d4d444d30597a56684c6e426b5a673d3d&fich=b873f451-e130-4c58-9567-bac84f034c5a.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-05-28",
+            "TipoDocumento": "Pareceres AP",
+            "TituloDocumento": "Parecer -APMJ -  Associação Portuguesa de Mulheres Jurístas",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738765a54646b4e474d354d7a41744d7a51344d6930305a544d774c546b7a4f5449744e44466a4d6a49334f4449784d47566a4c6e426b5a673d3d&fich=e7d4c930-3482-4e30-9392-41c2278210ec.pdf&Inline=true"
+          },
+          {
+            "DataDocumento": "2019-07-16",
+            "TipoDocumento": "Texto de Substituição",
+            "TituloDocumento": "Texto de Substituição e Relatório da nova apreciação na generalidade",
+            "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453387851304644524578484c305276593356745a57353062334e4a626d6c6a6157463061585a685132397461584e7a595738764d6d4d33597a4d354e4451745a446777595330304e6d55304c574935593251744f5441794d47566d5a54566c4f5759344c6e426b5a673d3d&fich=2c7c3944-d80a-46e4-b9cd-9020efe5e9f8.pdf&Inline=true"
+          }
+        ],
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "4524",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "Numero": "86",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": null,
+        "PublicacaoRelatorio": null,
+        "Relatores": null,
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2019-07-11",
+            "dataRemessa": null,
+            "numeroOficio": null,
+            "observacoes": null,
+            "tipoRemessa": "Relatório/Parecer"
+          },
+          {
+            "dataDocumento": "2019-07-11",
+            "dataRemessa": "2019-07-16",
+            "numeroOficio": "626/XIII/1.ªCACDLG",
+            "observacoes": null,
+            "tipoRemessa": "Texto Final"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2019-07-11",
+            "descricao": null,
+            "detalhe": null,
+            "id": "84548",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "277",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2019-04-17",
+    "EvtId": "12",
+    "Fase": "Nova apreciação comissão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "349487",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
