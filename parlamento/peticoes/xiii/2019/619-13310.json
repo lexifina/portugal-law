@@ -1,0 +1,595 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13310",
+  "numero": "619",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-04-17",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-12-04",
+            "entidades": null,
+            "id": "113977",
+            "tipo": null,
+            "titulo": "Audição em 2019-12-04 com subscritores da Petição n.º 619/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "8/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-01",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "910503",
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/051/2020-07-18/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2020-07-15",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-07-16",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938784d7a56694e445a6b4d5331694d6a5a694c54526a4e7a677459574d795a533033595442694e44646c5a545533596d4d756347526d&fich=135b46d1-b26b-4c78-ac2e-7a0b47ee57bc.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938344d4441784d6d5178595331685a6a51324c54526b4d446b7459545177597931684e6d4534597a6c6d5a475532597a59756347526d&fich=80012d1a-af46-4d09-a40c-a6a8c9fde6c6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-27",
+            "gp": "PSD",
+            "id": "4055",
+            "motivoCessacao": null,
+            "nome": "Olga Silvestre"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2019-07-03",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-04-30",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-07-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-07-03",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738765a4459344d7a49335a6a59744e4755325a5330305a57466b4c57466c5932597459546b794d7a4532593251794f5455314c6e426b5a673d3d&fich=d68327f6-4e6e-4ead-aecf-a92316cd2955.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Trabalho e Segurança Social da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2020-12-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-05-02",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c4d6a686a597a426b4d6930334d47517a4c5451334d444d74596a49794d5330354d446b304e32526a595749354e5449756347526d&fich=e28cc0d2-70d3-4703-b221-90947dcab952.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "40994",
+      "45398"
+    ],
+    "Iniciativasoriginadas": [
+      "40994",
+      "45398"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242121",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=71"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=72"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=73"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_16_15_00_00_clean_14_plenario.xml&idsegmento=74"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-64"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-17",
+                "pubLeg": "XIV",
+                "pubNr": "30",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/63?pgs=63-64&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido; Pela regulamentação da atividade de trabalhador da manutenção e montagem de aerogeradores com vista à redução do desgaste resultante do exercício da atividade, à garantia das condições de segurança e saúde no trabalho e à adequação do acesso à reforma e Recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os trabalhadores da manutenção e montagem de aerogeradores. ",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13310",
+    "PetAssunto": "Solicitam o reconhecimento da profissão dos trabalhadores da manutenção e montagem de aerogeradores como de desgaste rápido.",
+    "PetDataEntrada": "2019-04-17",
+    "PeticoesAssociadas": null,
+    "PetId": "13310",
+    "PetLeg": "XIII",
+    "PetNr": "619",
+    "PetNrAssinaturas": "4075",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5986",
+        "obs": null,
+        "pag": [
+          "58-64"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-17",
+        "pubLeg": "XIV",
+        "pubNr": "30",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/030/2020-12-17/58?pgs=58-64&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871726",
+        "obs": null,
+        "pag": [
+          "30-31"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-13",
+        "pubLeg": "XIII",
+        "pubNr": "59",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/059/2019-07-13/30?pgs=30-31&org=PLC"
+      }
+    ]
+  }
+}
