@@ -1,0 +1,5 @@
+Edital n.º 525/2019
+Jorge Manuel Alves de Faria, Presidente da Câmara Municipal do Entroncamento, faz saber, que por deliberação tomada em reunião realizada em 01 de abril de 2019 e nos termos do artigo 101.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, que o Projeto de Regulamento do Parque Empresarial do Entroncamento, se encontra em período de consulta pública, pelo prazo de 30 dias úteis, contados a partir da publicação do respetivo aviso na 2.ª série do Diário da República, podendo as sugestões ser apresentadas por escrito, durante aquele período, dirigidas ao Presidente da Câmara Municipal do Entroncamento e entregues no Gabinete de Investimentos do Município Entroncamento, ou por correio eletrónico para investimentos@cm-entroncamento.pt, com identificação do remetente, morada e identificação fiscal.
+O regulamento poderá ser consultado no Gabinete de Investimentos do Município, durante as horas normais de expediente, encontrando-se igualmente disponível na página oficial do município em www.cm-entroncamento.pt.
+4 de abril de 2019. - O Presidente da Câmara Municipal, Jorge Manuel Alves de Faria.
+312208185
