@@ -1,0 +1,56 @@
+Portaria n.º 121/2019
+de 26 de abril
+Considerando que a nova orgânica do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, abreviadamente designado por GPEARI, aprovada pelo Decreto Regulamentar n.º 7/2018, de 13 de julho, redefiniu a sua missão e atribuições;
+Considerando a necessidade de associar ao GPEARI uma imagem própria e distintiva que o identifique no relacionamento com todas as entidades públicas e privadas e com o público em geral, procede-se à criação de um logótipo que o individualize, o represente graficamente e permita transmitir valores de modernidade, rigor e abrangência da atividade do GPEARI;
+Assim:
+Manda o Governo, pelo Ministro das Finanças, nos termos do Decreto-Lei n.º 117/2011, de 15 de dezembro, na redação atual, e ao abrigo do disposto na alínea d) do artigo 199.º da Constituição, o seguinte:
+Artigo 1.º
+Objeto
+O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais adota o logótipo reproduzido em anexo à presente portaria, de acordo com as regras dele constantes.
+Artigo 2.º
+Regras de utilização
+1 - O logótipo, referido no artigo anterior, é utilizado nos termos do disposto na presente portaria, consoante o fim a que se destine e de acordo com as normas de utilização definidas para o efeito no Manual de Utilização do Logótipo do GPEARI.
+2 - As características do logótipo estão descritas no anexo da presente portaria, que dela faz parte integrante.
+3 - O logótipo é obrigatoriamente utilizado por todas as unidades orgânicas, em comunicações internas ou externas e em cartões identificativos do pessoal.
+4 - O logótipo deve, ainda, ser utilizado nos moldes constantes no número anterior, em todos os materiais de divulgação das atividades do GPEARI.
+5 - O logótipo só pode vir a ser utilizado por terceiros quando estes tenham sido expressa e previamente autorizados para o efeito e de acordo com o fim para o qual foi concedida a utilização.
+6 - O pedido de utilização referido no número anterior deve ser dirigido, por escrito, ao Diretor-Geral do GPEARI e conter expressamente o fim a que se destina a utilização do logótipo.
+Artigo 3.º
+Proteção
+1 - À utilização ilícita ou indevida do logótipo ora aprovado aplicam-se as disposições legais constantes no Código da Propriedade Industrial sobre a matéria.
+2 - É expressamente proibida a utilização, reprodução ou imitação, no todo ou em parte, do logótipo do GPEARI, por parte de quaisquer entidades, públicas ou privadas, sem a expressa e prévia autorização do GPEARI.
+3 - A proibição prevista no número anterior abrange ainda os sinais que, de algum modo, possam induzir em erro ou suscitar confusão com o logótipo aprovado pela presente portaria.
+Artigo 4.º
+Entrada em vigor
+A presente portaria entra em vigor no dia útil seguinte ao da sua publicação.
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 8 de abril de 2019.
+ANEXO
+O logótipo a adotar pelo GPEARI é constituído por um elemento figurativo e por um elemento nominativo.
+1 - O logótipo deverá ser sempre apresentado numa das suas três versões, de acordo com a especificidade da situação:
+a) A 1.ª versão do logótipo (apresentação vertical) é composta por um elemento figurativo e por um elemento nominativo, com a designação do GPEARI.
+b) A 2.ª versão do logótipo (apresentação horizontal) por um elemento figurativo e por um elemento nominativo, com a designação do GPEARI.
+c) A 3.ª versão do logótipo (apresentação horizontal simples) por um elemento figurativo e por um elemento nominativo, com a designação do Ministério.
+2 - O logótipo é constituído nas cores encarnado borgonha (Pantone 49-8 U), com texto a preto (Pantone 179-16 U), e preto (Pantone 179-16 - 70 %), não devendo nunca ser feita a sua apresentação sobre fundos de cor que comprometam a referida identidade cromática.
+3 - O logótipo pode ainda ser representado, numa das cores institucionais: preto (Pantone 179-16 U), e ouro pedra (Pantone 4515 U).
+4 - Poderão ainda ser utilizadas versões a preto e branco, positivo ou negativo.
+5 - No processo de utilização das cores devem ser consideradas as seguintes equivalências:
+
+(ver documento original)
+6 - As dimensões mínimas a considerar na utilização dos logótipos são as seguintes:
+a) A versão print na vertical pode ser reduzida na largura a 18mm e na altura a 10mm;
+b) A versão print na horizontal pode ser reduzida na largura a 48mm e na altura a 5mm;
+c) A versão digital na vertical pode ser reduzida na largura a 62px e na altura a 34px;
+d) A versão digital na horizontal pode ser reduzida na largura a 15,874px e na altura a 1,475px;
+e) A versão print horizontal simples pode ser reduzida na largura a 18mm e na altura a 10mm;
+f) A versão digital horizontal simples pode ser reduzida na largura a 18mm e na altura a 10mm.
+7 - O tipo de letra a utilizar será Gotham book e medium.
+1.ª Versão - Vertical
+
+(ver documento original)
+2.ª Versão - Horizontal
+
+(ver documento original)
+3.ª Versão - Horizontal simples
+
+(ver documento original)
+112218601
