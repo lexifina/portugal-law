@@ -26,4 +26,6 @@ c) Coimas e outras sanções pecuniárias decorrentes da responsabilidade civil 
 
 a) Outras dívidas ao Estado e a outras pessoas colectivas de direito público que devam ser pagas por força de acto administrativo;
 
-b) Reembolsos ou reposições.
+b) Reembolsos ou reposições;
+
+c) Custas, multas não penais e outras sanções pecuniárias fixadas em processo judicial.
