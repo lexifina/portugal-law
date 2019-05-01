@@ -26,7 +26,7 @@ d) Promover o processo conducente à emissão de passaportes e outros documentos
 
 e) Dirigir e fiscalizar os atos e funções de registo civil e de notariado praticados pelos postos e secções consulares;
 
-f) Proceder ao reconhecimento das assinaturas dos funcionários consulares portugueses quando não estiverem autenticadas com o selo branco ou ofereçam dúvidas;
+f) Proceder ao reconhecimento das assinaturas dos funcionários consulares portugueses quando não estiverem autenticadas com o selo branco ou ofereçam dúvidas, bem como atestar que os funcionários das missões diplomáticas e consulares, acreditadas em Portugal, e que procedem à assinatura, com ou sem aposição de selo e carimbo, de documentos relativos a essas Missões para efeitos de instrução de procedimentos administrativos junto de entidades portuguesas, se encontram identificados, nessa qualidade, nos registos da DGACCP;
 
 g) Verificar a aplicação da tabela de emolumentos consulares e a arrecadação da correspondente receita, mantendo a necessária articulação com os demais serviços;
 
