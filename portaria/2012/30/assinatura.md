@@ -1,0 +1,1 @@
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 27 de janeiro de 2012. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo de Sacadura Cabral Portas, em 24 de janeiro de 2012.
