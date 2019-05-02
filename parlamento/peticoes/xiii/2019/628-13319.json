@@ -1,0 +1,662 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13319",
+  "numero": "628",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-05-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-09-23",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2020-09-23",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-09-23",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-09-23",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764d7a59334e32557a4d574974597a63335a6930304e5745794c5745784d5441744d54426b4d3259774e3245774d32466c4c6e426b5a673d3d&fich=3677e31b-c77f-45a2-a110-10d3f07a03ae.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7344",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-09-03",
+            "gp": "PS",
+            "id": "1977",
+            "motivoCessacao": null,
+            "nome": "António Gameiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-26",
+            "entidades": null,
+            "id": "112754",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-26 com ANACO - Associação Nacional de Contabilistas"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-06-12",
+            "dataResposta": "2019-07-08",
+            "entidades": [
+              "CNPD - Comissão Nacional de Proteção de Dados"
+            ],
+            "nrOficio": "40/COFMA/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-06-12",
+            "dataResposta": null,
+            "entidades": [
+              "MIN.  DAS   FINANÇAS"
+            ],
+            "nrOficio": "41/COFMA/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-06-05",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-05-16",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-06-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-06-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d4467785a6a51784d5467744d4759345a6930304f4745304c546b305a546b744f544d775a4463305a6d59354d5455344c6e426b5a673d3d&fich=081f4118-0f8f-48a4-94e9-930d74ff9158.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d325a6b4f54646b4e5467744e3245344d4330304f44686b4c546c6d4d5745744f444e684e5755324d5449304f544e684c6e426b5a673d3d&fich=3fd97d58-7a80-488d-9f1a-83a5e612493a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-06-25",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a595738764d545178597a6377597a6b744f57526c59533030596d59304c5467784f4749745a475a6a4d5456694f4467795a5467334c6e426b5a673d3d&fich=141c70c9-9dea-4bf4-818b-dfc15b882e87.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-07-08",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383151303947545545765247396a6457316c626e52766331426c64476c6a59573876595751344e3251784d4455744e4755315a4330305a444a6a4c546c6c5a475174596a49344e6d466a4e44526a5a4756694c6e426b5a673d3d&fich=ad87d105-4e5d-4d2c-9edd-b286ac44cdeb.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-06-05",
+            "gp": "PS",
+            "id": "1977",
+            "motivoCessacao": null,
+            "nome": "António Gameiro"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Orçamento e Finanças da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2021-03-11",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-05-16",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793968597a64685a54646c596930324d574e694c5451324d4451744f54466d597930314e5441794f47566b4d6a6b7859544d756347526d&fich=ac7ae7eb-61cb-4604-91fc-55028ed291a3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45680",
+      "110325",
+      "45681"
+    ],
+    "Iniciativasoriginadas": [
+      "45680",
+      "110325",
+      "45681"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/49?pgs=49-50,56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/50?pgs=50-51,56&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/51?pgs=51-52&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/54?pgs=54&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2021-03-12",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2021_03_11_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-03-12",
+                "pubLeg": "XIV",
+                "pubNr": "50",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária (Vítor Alexandre Lopes Pereira Vicente e outros); Altera os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade (Primeira alteração ao Decreto-Lei n.º 48/2020, de 3 de agosto); Procede à revogação do big brother fiscal, revogando o Decreto-Lei n.º 48/2020, de 3 de agosto; Recomenda ao Governo que altere os procedimentos da entrega do ficheiro SAF-T(PT) relativo à contabilidade. ",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13319",
+    "PetAssunto": "Solicitam a adoção de medidas contra as bases de dados da Autoridade Tributária.",
+    "PetDataEntrada": "2019-05-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13319",
+    "PetLeg": "XIII",
+    "PetNr": "628",
+    "PetNrAssinaturas": "11433",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6006",
+        "obs": null,
+        "pag": [
+          "49-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2021-03-12",
+        "pubLeg": "XIV",
+        "pubNr": "50",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/050/2021-03-12/49?pgs=49-57&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
