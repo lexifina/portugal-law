@@ -1,0 +1,81 @@
+Resolução do Conselho de Ministros n.º 77/2019
+O Programa do XXI Governo Constitucional estabelece que Portugal deve almejar um futuro próspero, estimulando-se, em todos os domínios, a criatividade e a inovação, que permitam responder com sucesso aos desafios sociais, económicos e ambientais, definindo assim como sua prioridade a inovação.
+Neste contexto, o Governo tem apostado, com os olhos postos no futuro, na diferenciação, renovação e atualização permanente a vários níveis, concretizando esta inovação no desenho das várias políticas públicas.
+Em particular quanto ao setor da saúde, a aposta no investimento e na inovação tecnológica consubstancia, assim, um desígnio claro do XXI Governo Constitucional, que tem como seu desiderato essencial dotar o Serviço Nacional de Saúde (SNS) de infraestruturas e equipamentos indispensáveis à prossecução da sua missão de prestação de cuidados de saúde de qualidade a toda a população, na concretização daquele que é o seu papel estruturante de garantir o direito fundamental à proteção da saúde.
+Deste modo, tem sido prosseguida uma melhoria da capacidade da rede de cuidados de saúde primários e da qualidade dos cuidados de saúde prestados às pessoas, expandindo-se e melhorando-se a capacidade instalada, com um reforço de políticas e programas de saúde.
+Assim, no esforço que tem sido feito de acompanhar a recuperação económica do País com a recuperação do SNS, pretende-se agora alavancar, dentro das disponibilidades e recursos disponíveis, o investimento, a recuperação e a melhoria de infraestruturas e equipamentos do setor da saúde, numa lógica de permanente melhoria da promoção e garantia do direito à proteção da saúde através do SNS e de outras instituições públicas, assegurando não só um melhor acesso das pessoas aos cuidados de saúde de qualidade como também a obtenção de ganhos em saúde.
+Dentro desta mesma ótica, considera-se importante também dotar o Hospital das Forças Armadas/Polo de Lisboa (HFAR/PL) de uma estrutura de saúde atualizada e que garanta um elevado padrão de qualidade dos serviços prestados, pelo que se inclui também este estabelecimento hospitalar entre o investimento a definir, como medida determinante para o seu melhor funcionamento.
+Estima-se atingir, neste âmbito, um montante total de investimento superior a 90 milhões de euros, financiado em parte por investimento nacional, o qual é complementado por verbas provenientes de financiamento comunitário.
+Assim:
+Nos termos do n.º 2 do artigo 45.º da Lei n.º 91/2001, de 20 de agosto, na sua redação atual, da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, e do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, o Conselho de Ministros resolve:
+1 - Aprovar o Programa de Investimentos na Área da Saúde, doravante PIAS, no montante total de (euro) 90 637 254,14, incluindo IVA à taxa legal em vigor, que compreende:
+a) Alargamento e Remodelação das Instalações da Urgência Polivalente do Centro Hospitalar Tondela Viseu, E. P. E., no montante total de (euro) 5 649 039,09, incluindo IVA à taxa legal em vigor, cujo montante elegível é de (euro) 5 390 060,54, a que se aplica uma taxa de cofinanciamento do Fundo Europeu de Desenvolvimento Regional (FEDER) de 85 %, resultando numa comparticipação de FEDER de (euro) 4 581 551,46 e numa contrapartida nacional (CN) no montante de (euro) 1 067 487,63;
+b) Aquisição de um Acelerador Linear para a Radioterapia e realização de obras de adaptação física do bunker existente do Centro Hospitalar Barreiro Montijo, E. P. E., no montante total de (euro) 2 813 750,00, incluindo IVA à taxa legal em vigor, com cofinanciamento do Fundo Europeu de Desenvolvimento Regional - Programa Operacional Regional de Lisboa (FEDER - POR Lisboa 2020), em 50 %, sendo o restante financiamento correspondente à CN no montante de (euro) 1 406 875,00;
+c) Reabilitação e melhoramento das instalações e equipamentos do Centro Hospitalar da Póvoa de Varzim/Vila do Conde, E. P. E., no montante total de (euro) 3 230 000,00, incluindo IVA à taxa legal em vigor;
+d) Aquisição de Acelerador Linear para o Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., no montante total de (euro) 4 905 675,00, incluindo IVA à taxa legal em vigor;
+e) Requalificação das Instalações do Hospital de Conde de São Bento - Unidade de Santo Tirso, do Centro Hospitalar do Médio Ave, E. P. E., no montante total de (euro) 5 350 500,00, incluindo IVA à taxa legal em vigor;
+f) Projeto de Eficiência Energética no Centro Hospitalar do Baixo Vouga, E. P. E., no montante total de (euro) 2 623 597,12, incluindo IVA à taxa legal em vigor, com financiamento no âmbito do Programa Operacional Sustentabilidade e Eficiência no Uso de Recursos (POSEUR) no montante de (euro) 2 276 099,40 e CN no montante de (euro) 347 497,72;
+g) Construção de uma Central Térmica no Hospital de Santa Maria, do Centro Hospitalar Lisboa Norte, E. P. E., no montante total de (euro) 9 682 551,70, incluindo IVA à taxa legal em vigor, com financiamento no âmbito do POSEUR no montante de (euro) 9 198 424,12 e CN no montante de (euro) 484 127,58;
+h) Reabilitação dos sistemas energéticos do Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E., no montante total de (euro) 4 648 155,41, incluindo IVA à taxa legal em vigor, com financiamento no âmbito do POSEUR no montante de (euro) 3 873 965,84 e CN no montante de (euro) 774 189,57;
+i) Construção de um novo edifício para o Serviço de Urgência do Hospital de S. Bernardo, do Centro Hospitalar de Setúbal, E. P. E., no montante de (euro) 17 163 291,82, incluindo IVA à taxa legal em vigor;
+j) Requalificação do Edifício de Cirurgia do Instituto Português de Oncologia de Coimbra, Francisco Gentil, E. P. E., no montante de (euro) 28 814 294,00, incluindo IVA à taxa legal em vigor;
+k) Requalificação do Hospital das Forças Armadas/Polo de Lisboa (HFAR/PL), no montante de (euro) 5 756 400,00, incluindo IVA à taxa legal em vigor.
+2 - Determinar que os estabelecimentos hospitalares referidos no número anterior devem realizar todas as ações necessárias com vista à concretização célere dos investimentos inerentes ao PIAS.
+3 - Autorizar a realização da despesa bem como a assunção dos encargos plurianuais decorrentes da execução do PIAS, os quais não podem exceder, em cada ano económico, os seguintes montantes, incluindo IVA à taxa legal em vigor:
+a) Centro Hospitalar Tondela Viseu, E. P. E.:
+i) Em 2019: (euro) 1 738 712,50;
+ii) Em 2020: (euro) 2 647 265, 20;
+iii) Em 2021: (euro) 1 263 061,39;
+b) Centro Hospitalar Barreiro Montijo, E. P. E.:
+i) Em 2019: (euro) 1 406 875,00;
+ii) Em 2020: (euro) 1 406 875,00;
+c) Centro Hospitalar da Póvoa de Varzim/Vila do Conde, E. P. E.:
+i) Em 2019: (euro) 515 000,00;
+ii) Em 2020: (euro) 2 715 000,00;
+d) Centro Hospitalar de Trás-os-Montes e Alto Douro, E. P. E.:
+i) Para a aquisição de Acelerador Linear:
+a) Em 2019: (euro) 200 000,00;
+b) Em 2020: (euro) 4 705 675,00;
+ii) Reabilitação dos sistemas energéticos:
+a) Em 2019: (euro) 4 648 155,41;
+e) Centro Hospitalar do Médio Ave, E. P. E.:
+i) Em 2019: (euro) 500 000,00;
+ii) Em 2020: (euro) 2 000 000,00;
+iii) Em 2021: (euro) 2 850 500,00;
+f) Centro Hospitalar do Baixo Vouga, E. P. E.:
+i) Em 2019: (euro) 2 000 000,00;
+ii) Em 2020: (euro) 623 597,12;
+g) Centro Hospitalar Lisboa Norte, E. P. E.:
+i) Em 2020: (euro) 4 841 275, 85;
+ii) Em 2021: (euro) 4 841 275, 85;
+h) Centro Hospitalar de Setúbal, E. P. E.:
+i) Em 2019: (euro) 263 886,30;
+ii) Em 2020: (euro) 10 812 873,85;
+iii) Em 2021: (euro) 6 086 531,67;
+i) Instituto Português de Oncologia de Coimbra, Francisco Gentil, E. P. E.:
+i) Em 2019: (euro) 3 110 507;
+ii) Em 2020: (euro) 12 867 262,74;
+iii) Em 2021: (euro) 12 836 524,26;
+j) Hospital das Forças Armadas/Polo de Lisboa (HFAR/ PL):
+i) Em 2019: (euro) 3 019 650,00;
+ii) Em 2020: (euro) 2 736 750,00.
+4 - Determinar que o PIAS é financiado por verbas do Orçamento do Estado e, quando aplicável, por fundos europeus no âmbito do POSEUR e no âmbito do POR Lisboa 2020 e Centro 2020, nos seguintes termos:
+a) Transferências orçamentais provenientes do Orçamento do Estado, no montante de (euro) 69 300 338,32, repartidas da seguinte forma:
+i) Em 2019: (euro) 9 919 689,83;
+ii) Em 2020: (euro) 37 367 110,90;
+iii) Em 2021: (euro) 22 013 537,59;
+b) Verbas financiadas por fundos europeus no âmbito do POSEUR, no montante de (euro) 15 348 489,36, repartidas da seguinte forma:
+i) Em 2019: (euro) 10 206 747,81;
+ii) Em 2020: (euro) 5 141 741,55;
+c) Verba financiada por fundos europeus no âmbito do POR Lisboa 2020, no montante de (euro) 1 406 875,00, repartida da seguinte forma:
+i) Em 2019: (euro) 703 437,50;
+ii) Em 2020: (euro) 703 437,50;
+d) Verba financiada por fundos europeus no âmbito do Programa Operacional Regional do Centro (CENTRO 2020), no montante de (euro) 4 581 551,46, repartida da seguinte forma:
+i) Em 2019: (euro) 1 414 186,93;
+ii) Em 2020: (euro) 2 144 284,81;
+iii) Em 2021: (euro) 1 023 079,73.
+5 - Estabelecer que os montantes fixados para cada ano económico nos n.os 3 e 4 são acrescidos do saldo apurado no ano que antecede.
+6 - Delegar, com faculdade de subdelegação, a competência para a prática de todos os atos de contratação pública, a realizar no âmbito da presente resolução, no Ministro da Defesa Nacional, no que respeita ao HFAR/PL indicado na alínea k) do n.º 1, e nos conselhos de administração dos estabelecimentos hospitalares indicados nas alíneas a) a j) do mesmo número.
+7 - Estabelecer que a presente resolução produz efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 28 de março de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112263451
