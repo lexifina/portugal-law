@@ -36,20 +36,10 @@ d) Os gastos de financiamento líquidos de sociedades do grupo, bem como a parte
 
 11 - O disposto no presente artigo não se aplica às entidades sujeitas à supervisão do Banco de Portugal e do Instituto de Seguros de Portugal, às sucursais em Portugal de instituições de crédito e outras instituições financeiras ou empresas de seguros, e às sociedades de titularização de créditos constituídas nos termos do Decreto-Lei n.º 453/99, de 5 de novembro.
 
-12 - Para efeitos do presente artigo, consideram-se gastos de financiamento líquidos as importâncias devidas ou associadas à remuneração de capitais alheios, designadamente juros de descobertos bancários e de empréstimos obtidos a curto e longo prazos, juros de obrigações e outros títulos assimilados, amortizações de descontos ou de prémios relacionados com empréstimos obtidos, amortizações de custos acessórios incorridos em ligação com a obtenção de empréstimos, encargos financeiros relativos a locações financeiras, bem como as diferenças de câmbio provenientes de empréstimos em moeda estrangeira, deduzidos dos rendimentos de idêntica natureza.
+12 - Para efeitos do presente artigo, consideram-se:
 
-13 - Para efeitos do presente artigo, o resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos é o apurado na contabilidade, corrigido de:
+a) Gastos de financiamento, os juros de descobertos bancários e de empréstimos obtidos a curto e longo prazos ou quaisquer importâncias devidas ou imputadas à remuneração de capitais alheios, abrangendo, designadamente, pagamentos no âmbito de empréstimos participativos e montantes pagos ao abrigo de mecanismos de financiamento alternativos, incluindo instrumentos financeiros islâmicos, juros de obrigações, abrangendo obrigações convertíveis, obrigações subordinadas e obrigações de cupão zero, e outros títulos assimilados, amortizações de descontos ou de prémios relacionados com empréstimos obtidos, amortizações de custos acessórios incorridos em ligação com a obtenção de empréstimos, encargos financeiros relativos a locações financeiras, depreciações ou amortizações de custos de empréstimos obtidos capitalizados no custo de aquisição de elementos do ativo, montantes calculados por referência ao retorno de um financiamento no âmbito das regras em matéria de preços de transferência, montantes de juros nocionais no âmbito de instrumentos derivados ou de mecanismos de cobertura do risco relacionados com empréstimos obtidos, ganhos e perdas cambiais relativos a empréstimos obtidos e instrumentos associados à obtenção de financiamento, bem como comissões de garantia para acordos de financiamento, taxas de negociação e gastos similares relacionados com a obtenção de empréstimos;
 
-a) Ganhos e perdas resultantes de alterações de justo valor que não concorram para a determinação do lucro tributável;
+b) Gastos de financiamento líquidos, os gastos de financiamento que concorram para a formação do lucro tributável após a dedução, até à respetiva concorrência, do montante dos juros e outros rendimentos de idêntica natureza, sujeitos e não isentos.
 
-b) Imparidades e reversões de investimentos não depreciáveis ou amortizáveis;
-
-c) Ganhos e perdas resultantes da aplicação do método da equivalência patrimonial ou, no caso de empreendimentos conjuntos que sejam sujeitos passivos de IRC, do método de consolidação proporcional;
-
-d) Rendimentos ou gastos relativos a partes de capital às quais seja aplicável o regime previsto nos artigos 51.º e 51.º-C;
-
-e) Rendimentos ou gastos imputáveis a estabelecimento estável situado fora do território português relativamente ao qual seja exercida a opção prevista no n.º 1 do artigo 54.º-A;
-
-f) A contribuição extraordinária sobre o setor energético;
-
-g) A contribuição extraordinária sobre a indústria farmacêutica.
+13 - Para efeitos do presente artigo, o resultado antes de depreciações, amortizações, gastos de financiamento líquidos e impostos corresponde ao lucro tributável ou prejuízo fiscal sujeito e não isento, adicionado dos gastos de financiamento líquidos e das depreciações e amortizações que sejam fiscalmente dedutíveis.

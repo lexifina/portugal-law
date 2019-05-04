@@ -12,6 +12,8 @@ a) Os lucros imputáveis a esse estabelecimento estável estejam sujeitos e não
 
 b) Esse estabelecimento estável não esteja localizado em país, território ou região sujeito a um regime fiscal claramente mais favorável constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
+c) O imposto sobre os lucros efetivamente pago não seja inferior a 50 % do imposto que seria devido nos termos deste Código, exceto quando se verifique a condição prevista no n.º 7 do artigo 66.º
+
 2 - Para efeitos do disposto no presente artigo, o conceito de estabelecimento estável é o que resulta da aplicação de convenção para evitar a dupla tributação celebrada por Portugal ou, na sua ausência, da aplicação do disposto no artigo 5.º
 
 3 - No caso do exercício da opção prevista no n.º 1, o lucro tributável do sujeito passivo deve refletir as operações com os respetivos estabelecimentos estáveis situados fora do território português e ser corrigido dos gastos correspondentes aos rendimentos imputáveis a esses estabelecimentos estáveis ou aos ativos a estes afetos, por forma a corresponder ao que seria obtido caso estes fossem empresas separadas e independentes.
@@ -22,7 +24,7 @@ b) Esse estabelecimento estável não esteja localizado em país, território ou
 
 6 - A opção prevista no n.º 1 deve abranger, pelo menos, todos os estabelecimentos estáveis situados na mesma jurisdição e ser mantida por um período mínimo de três anos, a contar da data em que se inicia a sua aplicação.
 
-7 - Na desafetação de elementos patrimoniais de um estabelecimento estável situado fora do território português, considera-se valor de realização o respetivo valor de mercado.
+7 - (Revogado.)
 
 8 - No caso de exercício da opção prevista no n.º 1, não é aplicável aos lucros e prejuízos imputáveis a estabelecimento estável situado fora do território português o disposto no n.º 2 do artigo 74.º e no artigo 91.º ou outro método de eliminação da dupla tributação internacional ao abrigo de convenção para evitar a dupla tributação celebrada por Portugal.
 

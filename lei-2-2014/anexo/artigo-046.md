@@ -77,3 +77,27 @@ a) Não é aplicável a correção monetária prevista no artigo seguinte;
 b) A opção deve ser aplicada a todas as partes de capital que pertençam à mesma carteira e ser mantida por um período mínimo de três anos.
 
 13 - No caso de transmissões onerosas realizadas no âmbito de operações de fusão, quando não sejam atribuídas partes sociais ao sócio da sociedade fundida, considera-se mais-valia ou menos-valia de partes sociais a diferença positiva ou negativa, respetivamente, entre o valor de mercado das partes de capital da sociedade fundida na data da operação e o valor de aquisição das partes de capital detidas pelos sócios da sociedade fundida.
+
+14 - Verificando-se a desafetação de elementos do ativo de um estabelecimento estável situado fora do território português, considera-se como custo de aquisição, para efeitos fiscais, o respetivo valor líquido contabilístico, desde que este não exceda o valor de mercado nessa data.
+
+15 - No caso de entidades que transfiram a respetiva sede ou direção efetiva para território português, considera-se que o custo de aquisição, para efeitos fiscais, dos elementos do ativo detidos pela entidade à data dessa transferência, e que não se encontrassem nessa data afetos a estabelecimento estável situado em território português, corresponde ao respetivo valor líquido contabilístico, desde que, no caso de elementos do ativo, este não exceda o valor de mercado à data da transferência.
+
+16 - O disposto no número anterior não é aplicável às entidades que:
+
+a) Anteriormente à transferência da sede ou direção efetiva já tinham sede ou direção efetiva em território português e não fossem consideradas como residentes noutro Estado, nos termos de convenção para evitar a dupla tributação; ou
+
+b) Nos termos de convenção para evitar a dupla tributação sejam consideradas como:
+
+i) Residentes em território português anteriormente à transferência da sua sede ou direção efetiva; ou
+
+ii) Residentes noutro Estado após a transferência da sede ou direção efetiva.
+
+17 - O disposto nos n.os 14 a 16 é aplicável aos ativos correntes e não correntes, bem como aos passivos correntes e não correntes:
+
+a) Que sejam afetos a um estabelecimento estável situado fora do território português;
+
+b) De entidades que transfiram a respetiva sede ou direção efetiva para território português que não fossem anteriormente imputáveis um estabelecimento estável situado em território português.
+
+18 - Para efeitos do apuramento dos resultados respeitantes a elementos do passivo referidos nas alíneas a) e b) do número anterior considera-se o respetivo valor líquido contabilístico à data da transferência.
+
+19 - Não obstante o disposto nos n.os 14 a 18, caso os elementos patrimoniais ou as entidades provenham de outro Estado membro da União Europeia, o sujeito passivo pode optar por considerar, para efeitos fiscais, o valor considerado nesse outro Estado membro para efeitos da determinação do lucro aí sujeito ao imposto sobre as sociedades, desde que esse valor reflita o valor de mercado à data da transferência.
