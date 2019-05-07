@@ -1,0 +1,542 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13322",
+  "numero": "631",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-05-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-06-19",
+            "entidades": null,
+            "id": "112714",
+            "tipo": null,
+            "titulo": "Audição em 2019-06-19 com Audição de Peticionários da Petição n.º 631/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2019-07-17",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-06-05",
+        "DataArquivo": "2019-07-17",
+        "DataBaixaComissao": "2019-05-30",
+        "DataEnvioPAR": "2019-07-18",
+        "DataReaberta": "2019-06-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-06-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764d544e6d5a6a55334d5441745a6d5a694f4330305a446c684c546c685a474574595459354e6a6b31596d59354e546c6a4c6e426b5a673d3d&fich=13ff5710-ffb8-4d9a-9ada-a69695bf959c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2019-07-18",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a59573876596d4a694d575a6c595755745954426d4d693030597a6b334c546c6c596a67745a5445774e6a6b305a6a45324f545a6d4c6e426b5a673d3d&fich=bbb1feae-a0f2-4c97-9eb8-e10694f1696f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-06-05",
+            "gp": "PS",
+            "id": "4186",
+            "motivoCessacao": null,
+            "nome": "Eurídice Pereira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-06-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-05-30",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c5a5463325a5459795a43316b4f445a6d4c54526b4d6a59744f54553459693030596d45774e4752684f546732596a67756347526d&fich=ee76e62d-d86f-4d26-958b-4ba04da986b8.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44304",
+      "44390",
+      "44494",
+      "44779",
+      "44304",
+      "44390",
+      "44494",
+      "44779"
+    ],
+    "Iniciativasoriginadas": [
+      "44304",
+      "44390",
+      "44494",
+      "44779"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:05:20:640&drc=00:03:09:897"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/32?pgs=32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:08:30:538&drc=00:03:13:039"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "32-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/32?pgs=32-33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:11:43:577&drc=00:03:05:572"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:27:59:010&drc=00:00:43:262"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "33-34",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/33?pgs=33-34,37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:14:49:149&drc=00:03:18:525"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-34"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/34?pgs=34&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:18:07:674&drc=00:02:24:305"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "34-35"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/34?pgs=34-35&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:20:31:980&drc=00:02:29:917"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:26:56:724&drc=00:01:02:286"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36",
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/35?pgs=35-36,37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_03_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=02:23:01:898&drc=00:03:54:826"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "238242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-04",
+                "pubLeg": "XIV",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro; Construção da unidade de saúde do Alto do Seixalinho, no concelho do Barreiro; Construção de uma nova unidade de saúde no Alto do Seixalinho, no concelho do Barreiro e a atribuição de médico de família a todos os utentes; Por um novo centro de saúde no Alto do Seixalinho, no Barreiro; Pela construção do novo centro de saúde no Alto do Seixalinho, no Barreiro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13322",
+    "PetAssunto": "Solicitam a construção de uma nova unidade de saúde familiar no Alto Seixalinho e a atribuição de um médico de família a todos os utentes do concelho do Barreiro.",
+    "PetDataEntrada": "2019-05-07",
+    "PeticoesAssociadas": null,
+    "PetId": "13322",
+    "PetLeg": "XIII",
+    "PetNr": "631",
+    "PetNrAssinaturas": "4293",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2716",
+        "obs": null,
+        "pag": [
+          "31-37"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-06-04",
+        "pubLeg": "XIV",
+        "pubNr": "58",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/058/2020-06-04/31?pgs=31-37&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871699",
+        "obs": null,
+        "pag": [
+          "17-18"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-07",
+        "pubLeg": "XIII",
+        "pubNr": "51",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/051/2019-06-07/17?pgs=17-18&org=PLC"
+      }
+    ]
+  }
+}
