@@ -1,0 +1,4 @@
+Aviso (extrato) n.º 7919/2019
+Em cumprimento do disposto no n.º 1 do artigo 161.º do Decreto Legislativo Regional n.º 18/2017/M, de 27 de junho, que institui o Sistema Regional de Gestão do Território da Região Autónoma da Madeira, torna-se público que foi publicado no Jornal Oficial da Região Autónoma da Madeira, 2.ª série, n.º 63, do dia 12 de abril de 2019, o aviso n.º 130/2019, referente à deliberação da Assembleia Municipal do Funchal que, na sessão realizada no dia 6 de março de 2019 (continuação da sua sessão ordinária realizada no dia 26 de fevereiro de 2019), aprovou por maioria, a revogação do Projeto Urbano da Área AR1/CE, integrada no Plano de Urbanização de Santa Luzia.
+16 de abril de 2019. - O Presidente da Câmara Municipal do Funchal, Paulo Alexandre Nascimento Cafôfo.
+312234697
