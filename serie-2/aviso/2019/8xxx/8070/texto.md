@@ -1,0 +1,7 @@
+Aviso n.º 8070/2019
+Plano de Pormenor da Área Empresarial da Carapinha - Discussão Pública
+Mário Almeida Loureiro, presidente da Câmara Municipal de Tábua, torna público, para efeitos do disposto no n.º 1 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que se encontra aberto, a partir do 5.º dia a seguir à publicação deste aviso no Diário da República, durante o prazo de 20 dias, o período de discussão pública sobre a proposta do Plano de Pormenor da Área Empresarial da Carapinha, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de reclamações e observações sobre quaisquer questões que possam ser consideradas no âmbito do respetivo processo de alteração, encontrando-se a proposta do plano, o parecer final da Comissão de Coordenação e Desenvolvimento Regional do Centro, a ata da conferência procedimental e demais elementos constantes do processo do plano, disponíveis para consulta na Secção Administrativa da Divisão de Obras Particulares e Gestão Urbanística, sita no edifício dos Paços do Concelho, nas horas normais de expediente, e na página da Internet do Município de Tábua.
+Os interessados deverão apresentar as suas observações ou sugestões por escrito, fazendo referência ao presente aviso e ao Plano de Pormenor da Área Empresarial da Carapinha, em documento dirigido ao Presidente da Câmara Municipal de Tábua.
+A participação poderá ainda ser feita através do e-mail: geral@cm-tabua.pt.
+18 de abril de 2019. - O Presidente da Câmara, Mário Almeida Loureiro.
+612243193
