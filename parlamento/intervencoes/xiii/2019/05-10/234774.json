@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "234774",
+  "tipo": "Intervenção",
+  "orador": "Margarida Mano (PSD)",
+  "data_registo": "2019-05-10",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "350232",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "43560",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-Lei nº 36/2019, de 15 de março, que mitiga os efeitos do congelamento ocorrido entre 2011 e 2017 na carreira docente"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Avocação pelo Plenário da votação, na especialidade, respetivamente, da proposta de alteração do n.º 1 do artigo 2.º-A do Decreto-Lei n.º 36/2019, de 15 de março, constante do artigo 3.º do texto final, e das propostas de alteração dos artigos 1.º e 2.º-A do Decreto-Lei n.º 36/2019, de 15 de março, constantes dos artigos 2.º e 3.º do mesmo texto final, apresentado pela Comissão de Educação e Ciência, sobre as Apreciações Parlamentares n.os 126/XIII/4.ª (BE), 127/XIII/4.ª (PCP) e 129/XIII/4.ª (PS",
+        "duracao": "00:04:13:548",
+        "tipoIntervencao": "Intervenção",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2019_05_10_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m05/&tI=02:08:02:900&drc=00:04:13:548"
+      }
+    ],
+    "DataReuniaoPlenaria": "2019-05-10",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "5617",
+      "nome": "Margarida Mano"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "234774",
+    "IdDebate": "13901",
+    "Iniciativas": [
+      {
+        "fase": "Requerimento avocação plenário",
+        "id": "43560",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "234774",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "37-39"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-05-11",
+        "pubLeg": "XIII",
+        "pubNr": "85",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/085/2019-05-11/37?pgs=37-39&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Decreto-Lei nº 36/2019, de 15 de março, que mitiga os efeitos do congelamento ocorrido entre 2011 e 2017 na carreira docente",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
