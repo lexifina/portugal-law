@@ -1,0 +1,31 @@
+Aviso n.º 18570/2018
+Projeto de Regulamento de alteração ao Regulamento n.º 257/2018, de 8 de maio
+Nota justificativa
+O Regulamento n.º 58/2005 de 18 de agosto, alterado pelos Regulamentos n.º 87/2009, de 18 de fevereiro, n.º 302/2009, de 16 de julho e n.º 114/2012, de 13 de março, que estabelece os princípios e regras aplicáveis à portabilidade nas redes de comunicações públicas (Regulamento da Portabilidade), foi recentemente alterado pelo Regulamento n.º 257/2018, publicado a 8 de maio.
+Conforme estabelecido no seu artigo 6.º, as alterações introduzidas no regime da portabilidade pelo Regulamento n.º 257/2018, de 8 de maio, entraram em vigor a 22 de maio de 2018, com exceção de algumas das suas disposições, cuja entrada em vigor foi diferida no tempo.
+É o caso das disposições relativas ao novo mecanismo de validação do pedido eletrónico de portabilidade, realizado através do Código de Validação da Portabilidade (CVP), que devem ser implementadas no prazo de 9 meses a contar da data de publicação do regulamento, ou seja, até 9 de fevereiro de 2019.
+No entanto, foram reportados à ANACOM diversos constrangimentos relacionados com a complexidade associada à implementação e disponibilização do CVP, tal como previsto no novo artigo 12.º-A do Regulamento da Portabilidade, nomeadamente a necessidade dos prestadores de serviços com obrigações de portabilidade realizarem alterações em vários sistemas de informação SI/TI que interagem entre si, os quais podem, no limite, impactar no direito à portabilidade e na confiança dos consumidores neste novo processo de validação do pedido eletrónico de portabilidade.
+Por estes motivos, a ANACOM aprovou, em 14.11.2018, e publicitou, em 15.11.2018, o início do procedimento de alteração do Regulamento n.º 257/2018, de 8 de maio, tendo em vista a alteração da regra de entrada em vigor do regime aplicável ao CVP, tudo nos termos previstos no n.º 1 do artigo 98.º do Código do Procedimento Administrativo.
+Findo o prazo concedido para o efeito, 5 dias úteis após a publicação do aviso no site institucional da ANACOM, foi recebido o contributo da APRITEL - Associação dos operadores de comunicações eletrónicas, em nome dos seus associados, que foi objeto de análise e ponderação na elaboração do presente projeto de alteração do Regulamento n.º 257/2018, de 8 de maio.
+A APRITEL propõe a prorrogação do prazo de entrada em vigor das disposições previstas na alínea b) do n.º 1 do artigo 6.º por um período não inferior a 3 meses. Todavia, verifica-se que, de acordo com as regras de contagem de prazos previstas no Código do Procedimento Administrativo, o regime aplicável ao CVP entraria, caso fosse concedido o período de 3 meses, em vigor num dia útil (quinta-feira), facto que pode dificultar a sua implementação caso se verifiquem problemas ao nível dos sistemas de informação, tal como é sinalizado pela APRITEL.
+Neste contexto e com o objetivo de mitigar o impacto de eventuais constrangimentos operacionais associados ao novo mecanismo de validação (CVP), a ANACOM considera mais apropriado que o mesmo entre em vigor num sábado - 11 de maio de 2019 -, atenta a reduzida atividade associada aos processos de portabilidade durante o fim de semana. Tal permitirá ainda aos prestadores efetuar as validações em progresso antes de passar a usar o novo mecanismo.
+Assim, no sentido de garantir a integridade do processo de portabilidade como um todo e minimizar os impactos da transição para os diferentes prestadores bem como para os utilizadores, entende-se que se deve conceder a prorrogação do prazo solicitado nos termos acima referidos.
+Neste contexto, no âmbito das atribuições previstas nas alíneas a) e h) do n.º 1 do artigo 8.º dos seus Estatutos, aprovados pelo Decreto-Lei n.º 39/2015, de 16 de março, na prossecução dos objetivos de regulação fixados nas alíneas a) e c) do n.º 1 do artigo 5.º e ao abrigo do disposto no artigo 54.º e no n.º 1 do artigo 125.º, todos da Lei n.º 5/2004, de 10 de fevereiro, na redação atualmente em vigor, bem como nos termos da alínea a) do n.º 2 do artigo 9.º e da alínea b) do n.º 1 do artigo 26.º ambos dos seus Estatutos, a ANACOM aprovou, por deliberação de 30 de novembro de 2018, o projeto de regulamento de alteração do Regulamento n.º 257/2018, de 8 de maio.
+Nos termos do disposto no artigo 10.º dos seus Estatutos e dos artigos 98.º e seguintes do Código do Procedimento Administrativo, o presente projeto de regulamento deve ser submetido ao devido procedimento de consulta regulamentar, mediante publicação na 2.ª série do Diário da República e no site institucional da ANACOM, pelo prazo de 10 dias úteis, fixado ao abrigo do n.º 3 do artigo 10.º dos Estatutos, atenta a urgência de rever em tempo útil o prazo de entrada em vigor do mecanismo de validação do pedido eletrónico de portabilidade através do CVP, tal como solicitado pelas empresas com obrigações de portabilidade.
+Assim, os interessados podem enviar os respetivos contributos, por escrito e em língua portuguesa, preferencialmente por correio eletrónico para o endereço regulamento-portabilidade@anacom.pt. Encerrada a consulta regulamentar, a ANACOM procederá à apreciação dos contributos apresentados pelos interessados e, com a aprovação da versão final do regulamento, disponibilizará um relatório contendo referência a todos os contributos recebidos, bem como uma apreciação global que reflita o entendimento desta Autoridade sobre os mesmos e os fundamentos das opções tomadas.
+Projeto de Regulamento
+Artigo 1.º
+Alteração ao Regulamento n.º 257/2018, de 8 de maio
+1 - O artigo 6.º do Regulamento n.º 257/2018, de 8 de maio, passa a ter a seguinte redação:
+«Artigo 6.º
+[...]
+1 - ...
+a) ...
+b) Do artigo 2.º, do n.º 8 do artigo 7.º e dos artigos 8.º, 9.º, 12.º, 12.º-A, 13.º, 14.º, 17.º, 18.º e 23.º-A que entram em vigor no dia 11 de maio de 2019.
+c) ...
+2 - Os anexos I e II da Especificação de portabilidade revistos, atualizados e disponibilizados nos termos do n.º 3 do artigo 5.º do presente regulamento, entram em vigor no dia 11 de maio de 2019.»
+Artigo 2.º
+Entrada em vigor
+As alterações introduzidas no Regulamento n.º 257/2018, de 8 de maio, pelo presente regulamento, entram em vigor no dia útil seguinte ao da sua publicação.
+30 de novembro de 2018. - O Presidente do Conselho de Administração, João António Cadete de Matos.
+311872595
