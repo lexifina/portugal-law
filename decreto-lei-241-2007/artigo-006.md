@@ -34,10 +34,12 @@ e) Subsídios para custear as despesas de recuperação se forem deficientes mot
 
 7 - Os descendentes de primeiro grau de bombeiros voluntários dos quadros de comando e ativo com pelo menos 15 anos de serviço têm direito ao reembolso das propinas e da taxa de inscrição paga pela frequência do ensino superior, desde que tenham tido aproveitamento no ano letivo anterior, salvo se se tratar de início de curso.
 
-8 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 3, no n.º 5 e nas alíneas b) e c) do n.º 6, é de um salário mínimo nacional, em vigor no início do ano letivo a que as propinas e taxas de inscrição se reportam.
+8 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com berçários, creches e estabelecimentos da educação pré-escolar, da rede pública, da rede do setor social e solidário com acordo de cooperação com o Estado e da rede privada, relativas a descendentes em primeiro grau.
 
-9 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 7, é o equivalente a 50 % do valor referido no número anterior.
+9 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 3, no n.º 5, nas alíneas b) e c) do n.º 6 e no número anterior é de um salário mínimo nacional, em vigor no início do ano letivo a que as propinas, taxas de inscrição e despesas se reportam.
 
-10 - Compete à Liga dos Bombeiros Portugueses, através do Fundo de Proteção Social do Bombeiro, a atribuição dos benefícios referidos nos números anteriores, após apreciação, por parte da Autoridade Nacional de Proteção Civil, dos processos de candidatura instruídos pela respetiva entidade detentora do corpo de bombeiros.
+10 - O montante máximo a conceder, para pagamento dos benefícios referidos no n.º 7, é o equivalente a 50 % do valor referido no número anterior.
 
-11 - A organização dos processos de candidatura referidos no número anterior é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
+11 - Compete à Liga dos Bombeiros Portugueses, através do Fundo de Proteção Social do Bombeiro, a atribuição dos benefícios referidos nos números anteriores, após apreciação, por parte da Autoridade Nacional de Proteção Civil, dos processos de candidatura instruídos pela respetiva entidade detentora do corpo de bombeiros.
+
+12 - A organização dos processos de candidatura referidos no número anterior é definida por regulamento aprovado pela Autoridade Nacional de Proteção Civil.
