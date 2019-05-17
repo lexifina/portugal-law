@@ -1,0 +1,5 @@
+Aviso n.º 8568/2019
+Projeto de Regulamento do Serviço de Gestão de Resíduos Urbanos
+José Manuel Gonçalves, Presidente da Câmara Municipal do Peso da Régua, torna público, nos termos e para os efeitos do disposto no n.º 1 do artigo 101 do Código de Procedimento Administrativo, aprovado em Anexo pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada em 24 de abril de 2019, aprovar o Projeto de Regulamento do Serviço de Gestão de Resíduos Urbanos e submeter o mesmo a consulta pública, pelo prazo de 30 dias, contados do dia seguinte ao da publicação do presente Aviso. O referido Projeto encontra-se disponível para consulta na página do Município em www.cm-pesoregua.pt. Os interessados podem endereçar as suas sugestões por escrito à Câmara Municipal do Peso da Régua para Praça do Município, 5054-003 Peso da Régua, ou através de correio eletrónico para cmregua@cmpr.pt, dentro do prazo referido.
+2 de maio de 2019. - O Presidente da Câmara, José Manuel Gonçalves.
+312266943
