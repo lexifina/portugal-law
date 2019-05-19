@@ -1,3 +1,0 @@
-# Anexo
-
-(ver documento original)
