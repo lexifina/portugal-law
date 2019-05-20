@@ -1,0 +1,6 @@
+Aviso n.º 8713/2019
+Consulta pública para «Projeto de Regulamento de Venda Ambulante, Mercados e Feiras da Freguesia de Vila Nova de Milfontes»
+Francisco António Caetano Lampreia, Presidente da Junta de Freguesia de Vila Nova de Milfontes, torna público que de acordo com a deliberação da Junta de Freguesia de 17 de abril de 2019, e em cumprimento com o artigo 101.º do Código do Procedimento Administrativo, foi deliberado submeter a consulta pública, pelo prazo de 30 dias, a contar do dia seguinte ao da publicação do presente aviso, o projeto de Regulamento de Venda Ambulante, Mercados e Feiras da Freguesia de Vila Nova de Milfontes.
+O referido projeto de regulamento encontra-se disponível para consulta nos serviços administrativos da Junta de Freguesia, sito em Largo do Rossio - 7645-310 Vila Nova de Milfontes, durante o horário de expediente (9:00 - 16:30) bem como no sítio eletrónico desta freguesia https://jf-vnmilfontes.pt. Os interessados devem entregar, por escrito, as suas sugestões ao órgão com competência regulamentar, no prazo de 30 dias, a contar da data da publicação do projeto de regulamento no Diário da República, nos serviços administrativos da Junta de Freguesia.
+7 de maio de 2019. - O Presidente da Junta, Francisco António Caetano Lampreia.
+312278137
