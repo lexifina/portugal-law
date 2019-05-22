@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "111565",
+  "tipo": "Pergunta",
+  "numero": "2116",
+  "data_registo": "2019-05-22",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Transporte público rodoviário. Autocarro 333, dos TST, Vale da Amoreira (Moita) - Gare do Oriente (Lisboa). Reavaliação da procura  e reforço de viagens",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "4186",
+        "nome": "Eurídice Pereira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2522",
+        "nome": "Catarina Marcelino"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6048",
+        "nome": "Ivan Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6049",
+        "nome": "Sofia Araújo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "6050",
+        "nome": "André Pinotes Batista"
+      }
+    ],
+    "DataEnvio": "2019-05-23",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2019-05-23",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DO AMBIENTE E DA TRANSIÇÃO ENERGÉTICA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2019-09-23",
+            "docRemetida": null,
+            "entidade": "MIN. DO AMBIENTE E DA TRANSIÇÃO ENERGÉTICA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338355a445530596d5532596930314d7a52694c5452684e574d74595445354d6930304e44566b4d4459794e6a526c4f5451756347526d&fich=9d54be6b-534b-4a5c-a192-445d06264e94.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2019-05-22",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a525454433968597a67345a474d314e7930774e57526d4c5451315a545574596a67795a43316c4d6d4d33596a4d774d7a426d596a6b756347526d&fich=ac88dc57-05df-45e5-b82d-e2c7b3030fb9.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "111565",
+    "Legislatura": "XIII",
+    "Nr": "2116",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
