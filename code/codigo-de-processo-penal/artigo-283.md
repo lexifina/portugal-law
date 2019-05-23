@@ -20,7 +20,9 @@ e) A indicação dos peritos e consultores técnicos a serem ouvidos em julgamen
 
 f) A indicação de outras provas a produzir ou a requerer;
 
-g) A data e assinatura.
+g) A indicação do relatório social ou de informação dos serviços de reinserção social, quando o arguido seja menor, salvo quando não se mostre ainda junto e seja prescindível em função do superior interesse do menor;
+
+h) A data e assinatura.
 
 4 - Em caso de conexão de processos, é deduzida uma só acusação.
 

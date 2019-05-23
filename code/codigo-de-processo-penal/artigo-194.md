@@ -29,3 +29,5 @@ d) A referência aos factos concretos que preenchem os pressupostos de aplicaç�
 9 - O despacho referido no n.º 1, com a advertência das consequências do incumprimento das obrigações impostas, é notificado ao arguido.
 
 10 - No caso de prisão preventiva, o despacho é comunicado de imediato ao defensor e, sempre que o arguido o pretenda, a parente ou a pessoa da sua confiança.
+
+11 - Sendo o arguido menor, o despacho referido no n.º 1 é comunicado, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.

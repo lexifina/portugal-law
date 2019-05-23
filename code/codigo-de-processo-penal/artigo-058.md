@@ -21,3 +21,5 @@ d) For levantado auto de notícia que dê uma pessoa como agente de um crime e a
 5 - A omissão ou violação das formalidades previstas nos números anteriores implica que as declarações prestadas pela pessoa visada não podem ser utilizadas como prova.
 
 6 - A não validação da constituição de arguido pela autoridade judiciária não prejudica as provas anteriormente obtidas.
+
+7 - Sem prejuízo da prossecução do processo, a constituição de arguido menor é comunicada, de imediato, aos titulares das responsabilidades parentais, ao seu representante legal ou à pessoa que tiver a sua guarda de facto.

@@ -12,17 +12,19 @@
 
 a) Os actos processuais relativos a arguidos detidos ou presos, ou indispensáveis à garantia da liberdade das pessoas;
 
-b) Os actos de inquérito e de instrução, bem como os debates instrutórios e audiências relativamente aos quais for reconhecida, por despacho de quem a elas presidir, vantagem em que o seu início, prosseguimento ou conclusão ocorra sem aquelas limitações.
+b) Os atos relativos a processos em que intervenham arguidos menores, ainda que não haja arguidos presos;
 
-c) Os actos relativos a processos sumários e abreviados, até à sentença em primeira instância;
+c) Os actos de inquérito e de instrução, bem como os debates instrutórios e audiências relativamente aos quais for reconhecida, por despacho de quem a elas presidir, vantagem em que o seu início, prosseguimento ou conclusão ocorra sem aquelas limitações.
 
-d) Os actos processuais relativos aos conflitos de competência, requerimentos de recusa e pedidos de escusa;
+d) Os actos relativos a processos sumários e abreviados, até à sentença em primeira instância;
 
-e) Os actos relativos à concessão da liberdade condicional, quando se encontrar cumprida a parte da pena necessária à sua aplicação;
+e) Os actos processuais relativos aos conflitos de competência, requerimentos de recusa e pedidos de escusa;
 
-f) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
+f) Os actos relativos à concessão da liberdade condicional, quando se encontrar cumprida a parte da pena necessária à sua aplicação;
 
-g) Os atos considerados urgentes em legislação especial.
+g) Os actos de mero expediente, bem como as decisões das autoridades judiciárias, sempre que necessário.
+
+h) Os atos considerados urgentes em legislação especial.
 
 3 - O interrogatório do arguido não pode ser efectuado entre as 0 e as 7 horas, salvo em acto seguido à detenção:
 
