@@ -8,7 +8,7 @@
 
 a) Percentagem de diplomados nas ofertas formativas dirigidas à promoção do sucesso educativo de nível ISCED 2 para as ações previstas na alínea a) do n.º 2 e no n.º 3 do artigo 14.º, quando apoiadas pelo PO CH;
 
-b) Percentagem de alunos transitados para ano de escolaridade seguinte nos cursos vocacionais de nível ISCED 2 para as ações previstas na alínea a) do n.º 4 do referido artigo 14.º, quando apoiadas pelo PO CH;
+b) Percentagem de alunos transitados para o ano de escolaridade seguinte nos cursos de nível ISCED 2 para as ações previstas nas alíneas b) do n.º 1 e a) do n.º 4 do artigo 14.º, quando apoiadas pelo PO CH;
 
 c) Percentagem de adultos certificados em cursos de certificação escolar e/ou profissional, para as ações previstas no n.º 8 do artigo 14.º, quando apoiadas pelo PO CH, pelo POR Lisboa e pelo POR Algarve;
 
@@ -17,6 +17,8 @@ d) Percentagem de diplomados nos cursos de aprendizagem de dupla certificação 
 e) Percentagem de diplomados nos cursos de dupla certificação de nível ISCED 3, para as ações previstas no n.º 5 do artigo 14.º, quando apoiadas pelo PO CH e pelo POR Lisboa;
 
 f) Percentagem de diplomados em cursos de nível ISCED 4 (CET), para as ações previstas na alínea h) do n.º 1 do artigo 14.º, quando apoiadas pelos PO Regionais Norte, Centro, Alentejo, Lisboa e Algarve.
+
+g) Percentagem de alunos que estão empregados ou que prosseguiram estudos nos 6 meses seguintes à conclusão dos cursos profissionais, quando apoiados pelo PO CH.
 
 3 - Os avisos para apresentação de candidaturas, por concurso ou por convite, nas ações referidas nos números anterior, podem definir os indicadores de resultado a contratualizar com os beneficiários que desenvolvam os indicadores de realização ali enunciados, ou outros que tenham um contributo indireto para o seu alcance, tendo em conta as tipologias de operações e ações em causa.
 

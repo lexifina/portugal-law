@@ -10,17 +10,17 @@ b) «Bolsa de estudo por mérito», uma prestação pecuniária, de valor fixo, 
 
 c) «Bolsa de estudo», uma prestação pecuniária anual para comparticipação nos encargos com a frequência de um curso ou com a realização de um estágio curricular de caráter obrigatório, atribuída por um organismo de direito público, sempre que o agregado familiar em que o estudante se integra não disponha de um nível mínimo adequado de recursos financeiros;
 
-d) «Bolsa Retomar», o apoio financeiro anual, para comparticipação nos encargos com a frequência de um curso, destinado a estudantes que pretendam completar formações anteriormente iniciadas ou realizar uma formação em área diferente e o apoio anual à graduação desse estudante a atribuir às Instituições do Ensino Superior (IES);
+d) (Revogada.)
 
-e) 'Bolsas de Doutoramento (BD)', uma prestação pecuniária mensal para apoio à formação avançada a quem satisfaça as condições necessárias ao ingresso em ciclo de estudos conducente à obtenção do grau académico de doutor e que pretenda desenvolver trabalhos de investigação conducentes à obtenção do grau académico de doutor;
+e) 'Bolsas de Doutoramento (BD)', conjunto de prestações pecuniárias para apoio à realização de trabalhos de investigação e formação avançada daqueles que tenham ingressado ou venham a ingressar num ciclo de estudos conducente à obtenção do grau académico de doutor;
 
-f) «Bolsas de Doutoramento em empresas (BDE)», uma prestação pecuniária mensal para apoio à formação avançada de investigadores que satisfaçam as condições necessárias ao ingresso em ciclo de estudos conducente à obtenção do grau de doutor e que pretendam desenvolver atividades de investigação em ambiente empresarial;
+f) 'Bolsas de Doutoramento em Empresas (BDE)', conjunto de prestações pecuniárias para apoio à realização de trabalhos de investigação em ambiente empresarial e formação avançada daqueles que tenham ingressado ou venham a ingressar num ciclo de estudos conducente à obtenção do grau de doutor;
 
-g) 'Bolsas de Investigação (BI)', uma prestação pecuniária mensal destinada à formação de licenciados, mestres ou doutores, para obterem formação científica em projetos de investigação, ou em instituições científicas e tecnológicas portuguesas;
+g) 'Bolsas de Investigação (BI)', conjunto de prestações pecuniárias para apoio à formação avançada no âmbito de projetos de investigação em instituições científicas;
 
-h) 'Bolsas de Pós-doutoramento (BPD)', uma prestação pecuniária mensal para apoio à formação especializada de doutorados com vista à realização de trabalhos de investigação em todas as áreas do conhecimento no âmbito de instituições científicas portuguesas de reconhecida idoneidade;
+h) 'Bolsas de Pós-Doutoramento (BPD)', conjunto de prestações pecuniárias para apoio à realização de trabalhos de investigação e formação avançada de pós-doutoramento em instituições científicas;
 
-i) «Bolsas Individuais», bolsas atribuídas através de concurso nacional promovido pela Fundação para a Ciência e a Tecnologia (FCT), relativamente a BD, BDE e BPD;
+i) (Revogada.)
 
 j) «Classificação Internacional Normalizada da Educação - International Standard Classification of Education (ISCED)», a classificação dos níveis educativos destinada a permitir a comparação de estatísticas e de políticas educativas entre sistemas educativos diferentes, através do estabelecimento de níveis desde a educação pré-primária até à formação avançada;
 
@@ -32,6 +32,6 @@ m) «Jovens NEET (Young People Not in Education, Employment or Training)», jove
 
 n) «Nível de qualificação», definido de acordo com o Quadro Nacional de Qualificações (QNQ), aprovado pela Portaria n.º 782/2009, de 23 de julho, que estrutura os resultados de aprendizagem em 8 níveis de qualificação;
 
-o) «Programas de Doutoramento (PDF)», conjunto integrado e coerente de atividades de investigação e de formação avançada, ministradas com o objetivo de conferir conhecimentos e competências adequadas à realização de trabalho de investigação conducente à obtenção do grau de doutor;
+o) 'Programas de Doutoramento (PD)', conjunto integrado e coerente de atividades de investigação e de formação avançada, conducente à obtenção do grau de doutor, consubstanciado no 3.º ciclo de estudos de formação ministrada por instituição de ensino superior;
 
 p) «Sistema de Informação de Gestão da Oferta Educativa e Formativa (SIGO)», o sistema da responsabilidade da Direção-Geral de Estatísticas da Educação e Ciência, onde os estabelecimentos de ensino e formação tutelados pelo Ministério da Educação e Ciência, pelo Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.) e outros operadores submetem as propostas de formação, sendo registado o respetivo processo de autorização, nos termos da legislação aplicável.

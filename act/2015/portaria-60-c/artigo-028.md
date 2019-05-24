@@ -16,7 +16,7 @@ c) Reforçar o acesso e a qualidade dos mecanismos de promoção de competência
 
 d) Promover a inclusão, o sucesso e a prevenção do abandono escolar;
 
-e) Consolidar e melhorar o funcionamento da rede de Centros para a Qualificação e o Ensino Profissional (CQEP);
+e) Consolidar e melhorar o funcionamento da rede de Centros Qualifica (CQ);
 
 f) Melhorar o sucesso e a qualidade dos resultados da aprendizagem, bem como das ofertas que compõem o sistema de educação e formação;
 

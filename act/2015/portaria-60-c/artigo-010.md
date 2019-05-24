@@ -26,7 +26,7 @@ i) A prestação de declarações incorretas sobre a realização da operação 
 
 3 - A redução do apoio é realizada segundo critérios de conformidade e razoabilidade das despesas apresentadas, atendendo, sempre que possível, e designadamente, ao grau de incumprimento verificado, aos valores não legalmente permitidos e aprovados ou aos valores considerados não elegíveis.
 
-4 - Sem prejuízo do disposto no número anterior, nas operações relativas a Programas de Doutoramento e aos Pós-Doutoramento, previstos na alínea c) dos n.os 1 e 2 do artigo 21.º, pode ter lugar um ajustamento da taxa de financiamento da operação, em função do sucesso na conclusão do grau, e em termos a definir nos respetivos avisos de abertura de candidaturas.
+4 - Sem prejuízo do disposto no número anterior, nas operações relativas a Programas de Doutoramento e aos Pós-Doutoramento, previstos na alínea c) do n.º 2 do artigo 21.º, pode ter lugar um ajustamento da taxa de financiamento da operação, em função do sucesso na conclusão do grau, e em termos a definir nos respetivos avisos de abertura de candidaturas.
 
 5 - Para efeitos do presente regulamento são objeto de decisão de revogação do apoio concedido as operações em que se verifiquem, além dos fundamentos previstos no n.º 3 do artigo 23.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os seguintes fundamentos:
 

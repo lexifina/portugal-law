@@ -4,19 +4,15 @@
 
 1 - São elegíveis no âmbito do presente título as seguintes operações, cuja legislação de referência se encontra acessível no Portal Portugal 2020:
 
-a) Apoios específicos da ação social escolar em matéria de:
+a) Apoios específicos da ação social escolar em matéria de apoios de alimentação;
 
-i) Apoio à bolsa de manuais escolares;
-
-ii) Apoio à alimentação;
-
-b) Programas de promoção da autonomia escolar;
+b) (Revogada.)
 
 c) Desenvolvimento de serviços de psicologia e orientação em meio escolar;
 
 d) Medidas educativas orientadas para a promoção da inclusão, do sucesso educativo e para a prevenção do abandono escolar;
 
-e) Desenvolvimento da rede de Centros para a Qualificação e o Ensino Profissional (CQEP) e de processos de Reconhecimento, Validação e Certificação de Competências (RVCC);
+e) Desenvolvimento da rede de Centros Qualifica (CQ);
 
 f) Formação de docentes e outros agentes de educação e formação;
 
@@ -28,7 +24,7 @@ i) Cooperação transnacional;
 
 j) Apoios ao pré-escolar;
 
-k) Promoção de contratos de desenvolvimento;
+k) (Revogada.)
 
 l) Ações de inovação social para experimentação e teste de novas respostas na área educativa, em particular as desenvolvidas no âmbito da iniciativa Portugal Inovação Social.
 
@@ -38,7 +34,7 @@ a) Apoios à bolsa de manuais escolares nas condições de acesso definidas na a
 
 b) Apoios com alimentação dos alunos nas condições de acesso definidas na ação social escolar do Ministério da Educação e Ciência.
 
-3 - No âmbito das operações referidas na alínea b) do n.º 1 são elegíveis as iniciativas integradas no «Programa de Aprofundamento da Autonomia das Escolas».
+3 - (Revogado.).
 
 4 - No âmbito das operações previstas na alínea c) do n.º 1 é elegível:
 
@@ -56,7 +52,7 @@ c) Desenvolvimento do Programa Integrado de Educação e Formação (PIEF);
 
 d) Outras iniciativas concorrentes para os objetivos da política educativa, da Agenda Education and Training 2020 (ET 2020) ou de âmbito regional.
 
-6 - No âmbito das ações previstas na alínea e) do n.º 1 são elegíveis atividades referentes ao funcionamento da rede de CQEP, designadamente:
+6 - No âmbito das ações previstas na alínea e) do n.º 1 são elegíveis atividades referentes ao funcionamento da rede de CQ, designadamente:
 
 a) Informação, orientação e encaminhamento de jovens e adultos face às diferentes ofertas de educação e formação e de qualificação;
 
@@ -116,6 +112,6 @@ b) Promoção da transição para a vida pós-escolar;
 
 c) Disponibilização de produtos e tecnologias de apoio.
 
-10 - No âmbito das operações previstas na alínea k) são elegíveis os apoios aos contratos de desenvolvimento, celebrados no âmbito do estatuto do ensino particular e cooperativo de nível não superior, aprovado pelo Decreto-Lei n.º 152/2013, de 4 de novembro.
+10 - (Revogado.)
 
 11 - Em sede de divulgação dos avisos para apresentação de candidaturas podem ser fixados critérios e condições específicas que delimitem as condições de acesso às tipologias de operações previstas nos números anteriores.

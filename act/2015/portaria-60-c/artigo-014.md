@@ -14,7 +14,7 @@ d) Cursos de aprendizagem;
 
 e) Cursos de educação e formação de adultos;
 
-f) Cursos do ensino recorrente;
+f) (Revogada.)
 
 g) Cursos profissionais;
 
@@ -54,13 +54,9 @@ a) Cursos de educação e formação de adultos conferentes do nível 2 ou 4 de 
 
 b) Cursos de educação e formação de adultos conferentes do nível 2, de certificação escolar, e conferentes do nível 3 de qualificação, ambos do QNQ, desde que se destinem à conclusão de certificações parciais obtidas através de processos de RVCC.
 
-9 - A constituição de oferta dos cursos a que se refere a alínea b) do número anterior está obrigatoriamente dependente da identificação e fundamentação da respetiva necessidade pelos CQEP.
+9 - A constituição de oferta dos cursos a que se refere a alínea b) do número anterior está obrigatoriamente dependente da identificação e fundamentação da respetiva necessidade pelos Centros Qualifica (CQ).
 
-10 - No âmbito das ações previstas na alínea f) do n.º 1 são elegíveis as seguintes ações:
-
-a) Cursos na modalidade de ensino recorrente conferentes de certificação escolar de nível básico;
-
-b) Cursos na modalidade de ensino recorrente conferentes de certificação escolar de nível secundário.
+10 - (Revogado.)
 
 11 - No âmbito das ações previstas na alínea h) do n.º 1 são elegíveis os cursos conferentes do nível 5 de qualificação do QNQ.
 

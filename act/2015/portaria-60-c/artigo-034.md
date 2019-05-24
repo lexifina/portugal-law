@@ -8,7 +8,7 @@
 
 a) Número de alunos por psicólogo ou técnico de psicologia, em equivalente de tempo integral, para as ações previstas na alínea c) do n.º 1 do artigo 30.º, quando apoiadas pelo PO CH;
 
-b) Ratio de docentes que concluíram a formação contínua em didáticas específicas, para as ações previstas na alínea f) do n.º 1 do artigo 30.º, quando apoiadas pelo PO CH e pelo POR Algarve;
+b) Ratio de participantes que concluíram ações de formação contínua dirigidas a docentes e outros agentes de educação e formação, para as ações previstas na alínea f) do n.º 1 do artigo 30.º, quando apoiadas pelo PO CH e pelo POR Algarve;
 
 c) Taxa de cobertura de crianças no pré-escolar associada aos contratos de desenvolvimento, para as ações previstas na alínea k) do n.º 1 do artigo 30.º, quando apoiadas pelos POR Lisboa e Algarve;
 

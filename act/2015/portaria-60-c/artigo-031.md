@@ -12,7 +12,7 @@ c) Os organismos do Ministério da Educação com competências para regular os 
 
 d) Os estabelecimentos públicos de educação e ensino, nas ações previstas nas alíneas d) e h) do n.º 1 do artigo 30.º;
 
-e) As entidades promotoras de CQEP, nas ações previstas na alínea e) do n.º 1 do artigo 30.º;
+e) As entidades promotoras de CQ, nas ações previstas na alínea e) do n.º 1 do artigo 30.º;
 
 f) Os estabelecimentos de ensino público, do ensino particular e cooperativo, as instituições do ensino superior, os organismos do Ministério da Educação e Ciência, pessoas coletivas da administração local, entidades formadoras certificadas para desenvolver formação de professores, de formadores e de tutores, o IEFP, I. P., e a sua rede de centros de gestão direta e participada, nas ações previstas na alínea f) do n.º 1 do artigo 30.º;
 
@@ -20,7 +20,7 @@ g) Os estabelecimentos públicos de ensino e organismos do Ministério da Educa�
 
 h) A Direção-Geral da Educação, enquanto beneficiário responsável pela execução de políticas públicas nacionais, nos termos do artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, para as ações enquadradas nos planos de ação estratégica de promoção do sucesso escolar, devidamente inseridos no Programa Nacional de Promoção do Sucesso Escolar, no quadro da tipologia de operação prevista na alínea g) do n.º 1 do artigo 30.º;
 
-i) As pessoas coletivas de direito público, nas ações previstas na alínea i) do n.º 1 do artigo 30.º;
+i) (Revogada.)
 
 j) As entidades proprietárias dos estabelecimentos de ensino particular e cooperativo, nas ações previstas na alínea k) do n.º 1 do artigo 30.º;
 

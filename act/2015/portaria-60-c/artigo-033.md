@@ -30,21 +30,25 @@ i) Aquisição de equipamentos na área das Tecnologias de Informação e Comuni
 
 j) Encargos com a contratação de animadores culturais.
 
+k) Rendas, alugueres e amortizações e encargos gerais dos projetos previstos, respetivamente, nas alíneas d) e f) do n.º 1 do artigo 12.º do Regulamento que estabelece Normas Comuns sobre o Fundo Social Europeu, aprovado pela Portaria n.º 60-A/2015, de 2 de março, com exceção das operações promovidas por estabelecimentos públicos de educação e ensino, podendo ser fixados condições e limites mais restritivos das despesas em sede de avisos.
+
 3 - No âmbito das ações previstas na alínea c) do n.º 1 do artigo 30.º são elegíveis as seguintes categorias de despesas:
 
 a) Encargos com a contratação de psicólogos;
 
 b) Encargos com aquisição e produção de ferramentas e conteúdos para desenvolvimento das atividades de orientação para a carreira;
 
-c) Encargos com ações de capacitação e supervisão de psicólogos em funções nos serviços de psicologia e orientação (SPO).
+c) (Revogada.)
 
-4 - As despesas com salários de docentes e técnicos internos ou externos aos serviços do Ministério da Educação e Ciência previstos nos n.os 2 e 3 do presente artigo são elegíveis na proporção correspondente à imputação do respetivo horário ao projeto apoiado, sendo que nos externos se deve considerar o montante equivalente a idênticas categorias da administração pública.
+4 - As despesas com salários de docentes e técnicos internos previstos nos n.os 2 e 3 do presente artigo são elegíveis na proporção correspondente à imputação do respetivo horário ao projeto apoiado, nos termos da alínea a) do n.º 1 do artigo 14.º do Regulamento que estabelece Normas Comuns sobre o Fundo Social Europeu, aprovado pela Portaria n.º 60-A/2015, de 2 de março.
 
-5 - Para efeitos dos números anteriores entende-se por pessoal interno ao Ministério da Educação e Ciência os trabalhadores com contrato de trabalho em funções públicas.
+5 - As despesas com salários de docentes e técnicos externos previstos nos n.os 2 e 3 do presente artigo são elegíveis na proporção correspondente à imputação do respetivo horário ao projeto apoiado, devendo considerar-se o montante equivalente a idênticas categorias da administração pública.
 
-6 - Ainda para efeitos dos números anteriores entende-se por pessoal externo ao Ministério da Educação e Ciência o pessoal em regime de prestação de serviços celebrado nos termos legalmente aplicáveis.
+6 - Para efeitos dos números anteriores entende-se por pessoal interno ao Ministério da Educação e Ciência os trabalhadores com contrato de trabalho em funções públicas.
 
-7 - No âmbito das ações previstas na alínea f) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
+7 - Ainda para efeitos dos números anteriores entende-se por pessoal externo ao Ministério da Educação e Ciência o pessoal em regime de prestação de serviços celebrado nos termos legalmente aplicáveis.
+
+8 - No âmbito das ações previstas na alínea f) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
 
 a) Encargos com formadores;
 
@@ -58,7 +62,7 @@ e) Encargos com a promoção e divulgação das ações.
 
 f) Encargos com formandos, nomeadamente remunerações dos ativos pelo período em que se encontrem em formação, contabilizadas nos termos do artigo 20.º da Portaria n.º 60-A/2015, de 2 de março, alterada pelas Portarias n.os 242/2015, de 13 de agosto, e 122/2016, de 4 de maio, bem como outras despesas associadas à da frequência das ações formativas no que respeita a transportes, alimentação e alojamento dos formandos nos termos previstos no artigo 13.º da mesma portaria.
 
-8 - No âmbito das ações previstas na alínea g) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
+9 - No âmbito das ações previstas na alínea g) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
 
 a) Encargos com salários dos docentes e técnicos afetos aos projetos;
 
@@ -78,7 +82,7 @@ h) Encargos com a realização de visitas de estudo e deslocações;
 
 i) Encargos com a produção de materiais informativos e de divulgação.
 
-9 - No âmbito das ações previstas na alínea h) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
+10 - No âmbito das ações previstas na alínea h) do n.º 1 do artigo 30.º são elegíveis as seguintes despesas:
 
 a) Encargos com a produção de materiais escolares em formato Daisy e distribuição de licenças de software;
 
@@ -88,6 +92,6 @@ c) Encargos com parcerias para implementação de projetos de transição para a
 
 d) Encargos com aquisição de produtos e tecnologias de apoio à aprendizagem para alunos com NEE.
 
-10 - No âmbito das ações previstas na alínea i) do n.º 1 do artigo 30.º são elegíveis, com as necessárias adaptações, em função da natureza transnacional dos projetos, as despesas previstas no n.º 8 do presente artigo.
+11 - (Revogado.)
 
-11 - No âmbito das ações previstas na alínea k) do artigo 30.º são elegíveis os encargos decorrentes dos contratos de desenvolvimento celebrados, nos termos e montantes previstos na legislação aplicável.
+12 - No âmbito das ações previstas na alínea i) do n.º 1 do artigo 30.º são elegíveis, com as necessárias adaptações, em função da natureza transnacional dos projetos, as despesas previstas no n.º 8 do presente artigo.
