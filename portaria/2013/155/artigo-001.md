@@ -2,4 +2,4 @@
 
 ### Objeto
 
-A presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade das associações e federações de jovens, inserida no plano estratégico de iniciativas de promoção da empregabilidade juvenil, no âmbito da medida Estágios Emprego, através do programa Incentivo ao Desenvolvimento Associativo (IDA).
+A presente portaria regulamenta a concessão de apoios financeiros destinados ao incentivo à gestão da atividade do Conselho Nacional de Juventude (CNJ) e das associações de jovens e suas federações, no âmbito da medida Estágios Profissionais e da medida Emprego Jovem Ativo, através do programa Incentivo ao Desenvolvimento Associativo (IDA).
