@@ -1,0 +1,5 @@
+Aviso n.º 32/2019
+Por ordem superior se torna público que, em 2 de janeiro de 2018 e em 5 de julho de 2018, foram emitidas notas, respetivamente, pela Embaixada da Índia em Lisboa e pela Embaixada de Portugal em Nova Deli, em que se comunica terem sido cumpridas as respetivas formalidades constitucionais internas de aprovação do Protocolo que altera a Convenção entre o Governo da República Portuguesa e o Governo da República da Índia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinado em Lisboa, em 24 de junho de 2017.
+O referido Protocolo foi aprovado pela Resolução da Assembleia da República n.º 133/2018, de 26 de abril, e ratificado pelo Decreto do Presidente da República n.º 38/2018, de 25 de maio, ambos publicados no Diário da República, 1.ª série, n.º 101, de 25 de maio de 2018. Nos termos do artigo iii do referido Protocolo, este entrou em vigor a 8 de agosto de 2018.
+Direção-Geral de Política Externa, 26 de abril de 2019. - A Subdiretora-Geral, Ana Paula Moreira.
+112310788
