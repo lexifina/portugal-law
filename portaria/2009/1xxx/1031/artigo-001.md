@@ -20,6 +20,10 @@ i) Dos ciclos de estudos no domínio da Engenharia Informática, em que é obrig
 
 ii) Dos ciclos de estudos nos domínios da Engenharia do Ambiente e de Engenharia Geológica e de Minas, em que é obrigatória a prova de Matemática e em que, em alternativa à prova de ingresso das áreas de Física e Química, as instituições de ensino superior podem optar pela prova de ingresso das áreas de Biologia e Geologia.
 
+iii) Dos ciclos de estudos de Engenharia abrangidos pela área 62 (Agricultura, Silvicultura e Pescas) da Classificação Nacional das Áreas de Educação e Formação, em que é obrigatória a prova de Matemática e em que, em alternativa à prova de ingresso nas áreas da Física e Química, as instituições de ensino superior podem optar pela prova de ingresso das áreas de Biologia e Geologia.
+
+iv) Dos ciclos de estudo no domínio da Engenharia Alimentar, em que é obrigatória a prova de Matemática e em que, em alternativa à prova de ingresso das áreas de Física e Química, podem as instituições de ensino superior optar pela prova de ingresso das áreas de Biologia e Geologia.
+
 3 - A prova de ingresso que integra a área de Biologia é obrigatória para o ingresso nos primeiros ciclos de estudos e ciclos de estudos integrados de mestrado abrangidos pelas seguintes áreas da Classificação Nacional das Áreas de Educação e Formação:
 
 a) 62: Agricultura, Silvicultura e Pescas;
