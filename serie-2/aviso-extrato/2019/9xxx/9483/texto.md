@@ -1,0 +1,6 @@
+Aviso (extrato) n.º 9483/2019
+Joaquim Manuel dos Santos Baptista, Presidente da Câmara Municipal da Murtosa, torna público que, nos termos do n.º 3 do artigo 127.º do DL 80/2015, de 14 de maio, conjugado com a alínea f) do n.º 4 do artigo 191.º do mesmo diploma legal, a Assembleia Municipal da Murtosa deliberou, na reunião da sessão ordinária de vinte e nove de abril de 2019, sob proposta da Câmara Municipal, aprovada na sua reunião de 18 de abril de 2019, proceder à revogação do plano de pormenor da zona industrial a norte da Arribação, publicado no DR 2.ª série, n.º 81, de 07 de abril de 1989 e que foi subsequentemente alterado em 2013, com publicação no DR 2.ª série, n.º 99, de 23 de maio.
+Em cumprimento do disposto no n.º 2 do artigo 191.º do decreto acima referido, esta deliberação de revogação será divulgada na página municipal da internet (www.cm-murtosa.pt) e ainda nos meios de comunicação social nos termos do n.º 2 do artigo 56.º da Lei n.º 75/2013, de 12 de setembro, na sua atual redação.
+Mais se informa que na área objeto do plano agora revogado, passará a aplicar-se as disposições do PDM da Murtosa em vigor.
+2 de maio de 2019. - O Presidente da Câmara Municipal da Murtosa, Joaquim Manuel dos Santos Baptista.
+612306616
