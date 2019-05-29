@@ -1,0 +1,1 @@
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 23 de setembro de 2015. - A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 4 de setembro de 2015.
