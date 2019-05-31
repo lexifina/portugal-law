@@ -2,7 +2,7 @@
 
 ### Competências gerais
 
-1 - Ao CRADS compete a emissão de pareceres e recomendações relativas à formulação das linhas gerais de acção da administração regional autónoma nos domínios ambiental e do desenvolvimento sustentável, nomeadamente em matéria de conservação da natureza e da biodiversidade, do ordenamento do território, da gestão dos recursos hídricos, de política de resíduos e de estratégia face às mudanças climáticas.
+1 - Ao CRADS compete a emissão de pareceres e recomendações relativas à formulação das linhas gerais de ação da administração regional autónoma nos domínios ambiental e do desenvolvimento sustentável, nomeadamente em matéria de conservação da natureza e da biodiversidade, do ordenamento do território, da gestão dos recursos hídricos, de política de resíduos, das estratégias de mitigação e adaptação às alterações climáticas, e das políticas energética e de mobilidade sustentável.
 
 2 - No exercício das suas competências cabe genericamente ao CRADS:
 
@@ -14,7 +14,9 @@ c) Promover o diálogo e a consulta da sociedade civil, associando representante
 
 d) Comunicar sobre o desenvolvimento sustentável, participando em eventos públicos e publicando informações sobre o desenvolvimento sustentável;
 
-e) Participar na definição e acompanhamento das políticas ambientais referentes ao Mar dos Açores.
+e) Participar na definição e acompanhamento das políticas ambientais referentes ao espaço marítimo adjacente ao arquipélago dos Açores;
+
+f) Participar na definição e acompanhamento das políticas agrícola, florestal e de desenvolvimento rural.
 
 3 - Compete ainda ao CRADS:
 
@@ -24,6 +26,6 @@ b) Emitir parecer sobre os relatórios a que se refere o artigo 3.º do presente
 
 c) Emitir os pareceres em matéria da sua competência que lhe sejam especificamente solicitados pelo Governo Regional;
 
-d) Aprovar o seu plano anual de actividades e o correspondente relatório anual;
+d) Aprovar o seu plano anual de atividades e o correspondente relatório anual;
 
 e) Aprovar as normas reguladoras do seu funcionamento interno que considere necessárias.
