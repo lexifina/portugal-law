@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "234874",
+  "tipo": "Declaração de voto",
+  "orador": "Pedro Mota Soares (CDS-PP)",
+  "data_registo": "2019-05-31",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "350769",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "42400",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera o estatuto dos magistrados judiciais."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2019-05-31",
+    "Debate": null,
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1102",
+      "nome": "Pedro Mota Soares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "234874",
+    "IdDebate": "13940",
+    "Iniciativas": [
+      {
+        "fase": "Votação final global",
+        "id": "42400",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "234874",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "83-83"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-01",
+        "pubLeg": "XIII",
+        "pubNr": "91",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/091/2019-06-01/83?pgs=83&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Altera o estatuto dos magistrados judiciais",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
