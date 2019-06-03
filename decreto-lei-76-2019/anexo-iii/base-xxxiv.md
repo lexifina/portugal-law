@@ -1,0 +1,13 @@
+## Capítulo VI
+
+## Alteração e extinção do contrato de concessão
+
+# Base XXXIV
+
+### Alteração do contrato de concessão
+
+1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
+
+2 - Com o objetivo de assegurar a permanente adequação da concessão às exigências da regularidade, da continuidade e da qualidade do serviço público ou por alteração do regime de exclusivo que decorra da transposição para o direito português de legislação da União Europeia, o concedente reserva-se o direito de alterar as condições da sua exploração.
+
+3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, faça a prova de não poder prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão financeira e a prova seja aceite pelo concedente.
