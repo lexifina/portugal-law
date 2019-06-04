@@ -56,9 +56,9 @@ x) Acompanhar e fiscalizar o cumprimento das condições da certificação do op
 
 y) Assegurar a eficiência e a racionalidade da atividade de gestão de operações da rede de mobilidade elétrica em termos objetivos, transparentes, não discriminatórios e concorrenciais, designadamente, protegendo os direitos e interesses dos utilizadores de veículos elétricos e velando pelo cumprimento, pelos agentes do sector, das obrigações estabelecidas na lei e nos regulamentos aplicáveis.
 
-z) Emitir parecer prévio vinculativo relativamente à existência de capacidade de receção e às condições de ligação à rede, bem como a respetiva cativação, a solicitação da Direção-Geral de Energia e Geologia (DGEG), para efeitos de atribuição de licença de produção de energia elétrica;
+z) [Revogada];
 
-aa) Promover e organizar o sorteio a que se refere o n.º 4 do artigo 33.º-F do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual.
+aa) [Revogada].
 
 3 - No âmbito da regulação dos Sistema Petrolífero Nacional (SPN), nomeadamente dos setores do GPL, dos combustíveis derivados do petróleo e dos biocombustíveis, são atribuições da ERSE:
 

@@ -68,7 +68,7 @@ b) Os membros do conselho tarifário devem ser pessoas singulares e representar 
 
 6 - A designação dos membros do conselho tarifário é da competência das entidades representadas, sem prejuízo do disposto no número seguinte, devendo ser efetuada entre os 30 dias anteriores e os 30 dias subsequentes ao termo do mandato dos membros cessantes.
 
-7 - Nos casos previstos nas alíneas d), h), j), k), m), n), q), p), r), s) e t) do n.º 1 e no n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
+7 - Nos casos previstos nas alíneas d), h), j), k), m), n), q), p), r), s), t) e u) do n.º 1 e no n.º 2, a designação dos representantes é feita em reunião de interessados convocada pelo presidente do conselho de administração da ERSE através de anúncio publicado no sítio da ERSE e num jornal de âmbito nacional, com a antecedência mínima de 15 dias relativamente à data da reunião.
 
 8 - No caso de correspondência, os membros do conselho tarifário podem ser os mesmos do conselho consultivo.
 
