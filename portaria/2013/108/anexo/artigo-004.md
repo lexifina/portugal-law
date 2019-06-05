@@ -52,7 +52,7 @@ g) Acompanhar a implementação, a nível nacional, da Política Integrada do Pr
 
 h) Assegurar o acompanhamento das matérias relacionadas com eco inovação a nível nacional, comunitário e internacional, a promoção e coordenação do desenvolvimento do plano de ação em eco inovação, nomeadamente, através de parcerias;
 
-4- Compete ao DGA, no domínio das substâncias químicas, organismos geneticamente modificados e emergências radiológicas:
+4 - Compete ao DGA, no domínio das substâncias químicas e organismos geneticamente modificados:
 
 a) Assegurar a implementação da regulamentação e acompanhamento das matérias relacionadas com o registo, avaliação, autorização e restrição de substâncias químicas, ao nível comunitário e nacional;
 
@@ -76,6 +76,6 @@ j) Gerir os mecanismos de avaliação, gestão e troca de informação ao nível
 
 k) Assegurar a implementação da regulamentação e acompanhamento das matérias relacionadas com o procedimento de prévia informação e consentimento, ao nível comunitário e nacional e atuar no âmbito das atribuições da APA, I.P., enquanto Autoridade Nacional Designada para a Convenção de Roterdão;
 
-l) Assegurar a implementação da regulamentação e acompanhamento das matérias relacionadas com as emergências radiológicas e nucleares;
+l) (Revogada.)
 
-m) Manter operacional a rede de alerta em contínuo da radioatividade no ambiente, assegurar a preparação, coordenação e resposta a emergências radiológicas e nucleares e assegurar os mecanismos de troca de informação existentes ao nível comunitário e internacional e bilateral em matéria de emergências radiológicas e nucleares.
+m) (Revogada.)

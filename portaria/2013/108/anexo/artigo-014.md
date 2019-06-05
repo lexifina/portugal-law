@@ -14,7 +14,7 @@ d) Assegurar, em estreita articulação com os restantes departamentos, o acompa
 
 e) Assegurar a atividade da APA, I.P., nos grupos de trabalho sobre ambiente e desenvolvimento sustentável da OCDE e junto da Agência Europeia de Ambiente;
 
-f) Assegurar a coordenação da preparação dos conselhos de Ministros do Ambiente formais e reuniões informais da União Europeia, nas matérias da competência da APA, I.P, em articulação com o serviço competente do Gabinete de Planeamento e Políticas do MAMAOT;
+f) Assegurar a coordenação da preparação dos Conselhos de Ministros do Ambiente formais e reuniões informais da União Europeia, nas matérias da competência da APA, I. P., em articulação com o serviço competente da Secretaria-Geral do Ministério do Ambiente;
 
 g) Acompanhar, em articulação com o Departamento Jurídico e com os restantes departamentos, os processos de ratificação de acordos jurídicos internacionais e de transposição de legislação comunitária nas áreas sob competência da APA, I.P.;
 
@@ -26,6 +26,6 @@ j) Assegurar a coordenação e apoio técnico nas atividades bilaterais e multil
 
 k) Promover o intercâmbio internacional de conhecimento técnico e institucional nas áreas de competências da APA, I.P., através de projetos de parceria com entidades nacionais e internacionais;
 
-l) Apoiar as candidaturas de nacionais portugueses a organismos internacionais nas áreas de competência da APA, I.P., em articulação com o serviço competente do Gabinete de Planeamento e Políticas do MAMAOT;
+l) Apoiar as candidaturas de nacionais portugueses a organismos internacionais nas áreas de competência da APA, I. P., em articulação com o serviço competente da Secretaria-Geral do Ministério do Ambiente;
 
 m) Divulgar informação e documentação sobre questões e temas de âmbito comunitário e internacional, bem como, dinamizar e apoiar todo o tipo de iniciativas que contribuam para esses objetivos.

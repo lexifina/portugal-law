@@ -2,7 +2,7 @@
 
 ### Departamento de Tecnologias e Sistemas de Informação
 
-Compete ao Departamento de Tecnologias e Sistemas de Informação, abreviadamente designado por DSI, em articulação com os restantes departamentos, em especial com o serviço responsável pela implementação das tecnologias de informação e comunicação e pela informatização e atualização tecnológica dos respetivos serviços e organismos do MAMAOT, desenvolver a abordagem integrada de sistemas de informação em matéria de ambiente da APA, I.P., assegurando e promovendo a execução de ações no domínio das tecnologias e dos sistemas de informação e comunicação necessários à atividade da APA, I.P., de modo a:
+Compete ao Departamento de Tecnologias e Sistemas de Informação, abreviadamente designado por DSI, em articulação com os restantes departamentos, em especial com o serviço responsável pela implementação das tecnologias de informação e comunicação e pela informatização e atualização tecnológica dos respetivos serviços e organismos da área governativa responsável pelo ambiente, desenvolver a abordagem integrada de sistemas de informação em matéria de ambiente da APA, I. P., assegurando e promovendo a execução de ações no domínio das tecnologias e dos sistemas de informação e comunicação necessários à atividade da APA, I. P., de modo a:
 
 a) Assegurar o desenvolvimento e a gestão das infraestruturas informáticas e de comunicações necessárias às atividades da APA, I.P.;
 
@@ -20,7 +20,7 @@ g) Gerir os sítios internet e intranet;
 
 h) Gerir a infraestrutura de dados espaciais e a metainformação relativa à informação produzida pela APA, I.P.;
 
-i) Assegurar a interoperabilidade dos sistemas internos e a colaboração com as estruturas congéneres de outros organismos do MAMAOT e da administração pública;
+i) Assegurar a interoperabilidade dos sistemas internos e a colaboração com as estruturas congéneres de outros organismos da área governativa responsável pelo ambiente e da Administração Pública;
 
 j) Apoiar os utilizadores das tecnologias de informação;
 

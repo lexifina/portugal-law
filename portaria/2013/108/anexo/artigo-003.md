@@ -40,4 +40,4 @@ f) Praticar os atos necessários no âmbito das atribuições da APA, I.P., e en
 
 g) Assegurar a coordenação, preparar e submeter os registos, relatórios e comunicações nacionais para efeitos do cumprimento das obrigações comunitárias e internacionais, em matéria de alterações climáticas;
 
-h) Assegurar o apoio técnico aos projetos do Fundo Português de Carbono.
+h) Assegurar o apoio técnico aos projetos do Fundo Ambiental.

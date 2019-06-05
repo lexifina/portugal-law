@@ -36,6 +36,8 @@ l) Departamento de Assuntos Internacionais
 
 m) Departamento de Tecnologias e Sistemas de Informação
 
+n) Departamento de Emergências e Proteção Radiológica.
+
 3-As administrações dos serviços territorialmente desconcentrados são as seguintes:
 
 a) Administração da Região Hidrográfica do Norte, cuja circunscrição territorial abrange as Regiões Hidrográficas do Minho e Lima, do Cávado, Ave e Leça e do Douro;
@@ -48,7 +50,7 @@ d) Administração da Região Hidrográfica do Alentejo, cuja circunscrição te
 
 e) Administração da Região Hidrográfica do Algarve, cuja circunscrição territorial abrange a Região Hidrográfica das Ribeiras do Algarve.
 
-4. As divisões e gabinetes são criados, modificados ou extintos por deliberação do conselho diretivo, a publicar em Diário da República, não podendo exceder, em cada momento, o limite máximo total de 53, sendo as respetivas competências definidas naquela deliberação.
+4 - As divisões e gabinetes são criados, modificados ou extintos por deliberação do conselho diretivo, a publicar no Diário da República, não podendo exceder, em cada momento, o limite máximo total de 55, sendo as respetivas competências definidas naquela deliberação.
 
 5. Por deliberação do conselho diretivo, a publicar em Diário da República, podem ainda ser constituídas até 5 equipas multidisciplinares, em simultâneo, para o desenvolvimento e acompanhamento de projetos e ações temporárias de carácter tático e estratégico, em função de objetivos que envolvam um caráter transversal às diversas áreas de atuação da APA, I.P., dirigidas por chefes de equipa, equiparados, para efeitos remuneratórios, a cargo de direção intermédia de 1.º grau ou a cargo de direção intermédia de 2.º grau, a atribuir em função da natureza e complexidade das funções, não podendo o estatuto remuneratório equiparado a cargo de direção intermédia de 1.º grau ser atribuído a mais do que 2 chefes de equipa.
 
