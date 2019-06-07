@@ -1,0 +1,476 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "195",
+    "id": "43692",
+    "titulo": "Aprova o estatuto do antigo combatente"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-06-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13943",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-06-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-06-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:02:07:663&drc=00:04:02:326"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  DEFESA NACIONAL",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "João Gomes Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "19-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/19?pgs=19-20&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5831",
+                "nome": "Diogo Leão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:06:09:990&drc=00:03:30:900"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234636",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/20?pgs=20-21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1733",
+                "nome": "Luís Pedro Pimentel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:09:40:890&drc=00:03:39:088"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234637",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:13:19:979&drc=00:04:02:726"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/22?pgs=22-23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4022",
+                "nome": "João Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:17:22:706&drc=00:03:35:990"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/23?pgs=23&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2069",
+                "nome": "Jorge Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:20:58:697&drc=00:03:27:332"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/24?pgs=24&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6045",
+                "nome": "Paulo Trigo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:24:26:030&drc=00:02:05:953"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:04",
+            "horaTermo": "14:14",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_07_10_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=01:26:31:983&drc=00:02:27:920"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  DEFESA NACIONAL",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Ana Santos Pinto"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-08",
+                "pubLeg": "XIII",
+                "pubNr": "94",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08/25?pgs=25&org=PLC"
+              }
+            ],
+            "sumario": "Aprova o estatuto do antigo combatente",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "350779",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "13943",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-08",
+        "pubLeg": "XIII",
+        "pubNr": "94",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/094/2019-06-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
