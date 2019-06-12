@@ -1,0 +1,386 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1153",
+    "id": "43520",
+    "titulo": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13955",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-06-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "2419",
+                "nome": "Cecília Meireles"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:17:58:362&drc=00:03:38:872"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:38:16:668&drc=00:03:08:783"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37",
+                  "42-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/36?pgs=36-37,42-43&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5989",
+                "nome": "Leonel Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:21:37:234&drc=00:03:09:390"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/37?pgs=37-38&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "5500",
+                "nome": "Fernando Rocha Andrade"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:24:46:625&drc=00:03:44:206"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-39"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/38?pgs=38-39&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "4557",
+                "nome": "Mariana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:28:30:831&drc=00:04:21:532"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4471",
+                "nome": "Paulo Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:32:52:364&drc=00:03:22:167"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "40-41"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/40?pgs=40-41&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Ninsc",
+                "idCadastro": "6045",
+                "nome": "Paulo Trigo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "18:36",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_06_12_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m06/&tI=02:36:14:532&drc=00:02:02:136"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "234970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-06-14",
+                "pubLeg": "XIII",
+                "pubNr": "95",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "sumario": "Altera a tributação em sede de IRS, de modo a que os rendimentos passem a ser tributados de acordo com os proveitos efetivos do sujeito passivo em cada um dos anos a que se reportam e à taxa efetiva (Alteração ao Decreto-Lei n.º 442-A/88, de 30 de novembro de 1988)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "350989",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "13955",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-06-14",
+        "pubLeg": "XIII",
+        "pubNr": "95",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/095/2019-06-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
