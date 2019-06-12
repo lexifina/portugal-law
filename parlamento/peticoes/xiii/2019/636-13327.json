@@ -1,0 +1,561 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13327",
+  "numero": "636",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-06-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-02-19",
+            "entidades": null,
+            "id": "114440",
+            "tipo": null,
+            "titulo": "Audição em 2020-02-19 com Audição dos Peticionários da Petição 636/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-05-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-11-20",
+        "DataArquivo": "2020-06-03",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-06-03",
+        "DataReaberta": "2019-11-20",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a6c445579394562324e31625756756447397a5547563061574e686279396b4d7a67794e4442684d5330335a574a6a4c5451784e474d744f444d34596930775a4749304d544a6c5a5751324d7a51756347526d&fich=d38240a1-7ebc-414c-838b-0db412eed634.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7424",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-20",
+            "gp": "PSD",
+            "id": "4030",
+            "motivoCessacao": null,
+            "nome": "Carlos Peixoto"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2019-07-10",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-06-28",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-07-10",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-03-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e505453383551314d765247396a6457316c626e52766331426c64476c6a595738764e7a4d305a474931596d4d745a546b355a6930305a5751774c5749304e7a45745a6a526d4e47526b5a444533597a4d334c6e426b5a673d3d&fich=734db5bc-e99f-4ed0-b471-f4f4ddd17c37.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4532",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Saúde",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Saúde da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2020-09-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-07-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396a4e445179597a41334f4330304e5749784c5451774e7a55744f446b304d7930774e324e6d4e6d4e694e6a63304f4751756347526d&fich=c442c078-45b1-4075-8943-07cf6cb6748d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45077",
+      "45088",
+      "45166",
+      "45188",
+      "45192"
+    ],
+    "Iniciativasoriginadas": [
+      "45077",
+      "45088",
+      "45166",
+      "45188",
+      "45192"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/53?pgs=53-54&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/54?pgs=54-55&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/55?pgs=55-57&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-10-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_30_15_00_00_clean_14_plenario.xml&idsegmento=70"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "242134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-10-01",
+                "pubLeg": "XIV",
+                "pubNr": "7",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Projeto de Resolução 547/XIV/1ª (CDS); Projeto de Resolução 555/XIV/1ª (PSD); Projeto de Resolução 595/XIV/1.ª (PS); Projeto de Resolução 609/XIV/1º (BE); Projeto de Resolução 613/XIV/1ª (PCP); Petição 636/XIII/4ª",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13327",
+    "PetAssunto": "Solicitação a adoção de medidas com vista à requalificação do pavilhão 5 do Hospital de Sousa Martins da Unidade Local de Saúde da Guarda",
+    "PetDataEntrada": "2019-06-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13327",
+    "PetLeg": "XIII",
+    "PetNr": "636",
+    "PetNrAssinaturas": "18661",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "5987",
+        "obs": null,
+        "pag": [
+          "53-60"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-10-01",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/007/2020-10-01/53?pgs=53-60&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "882477",
+        "obs": null,
+        "pag": [
+          "22-25"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-22",
+        "pubLeg": "XIV",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/006/2019-11-22/22?pgs=22-25&org=PLC"
+      }
+    ]
+  }
+}
