@@ -1,0 +1,24 @@
+Portaria n.º 182/2019
+de 11 de junho
+O Decreto-Lei n.º 159/2014, de 27 de outubro, estabeleceu as regras gerais de aplicação dos programas operacionais e dos programas de desenvolvimento rural (PDR) financiados pelos fundos europeus estruturais e de investimento, para o período de 2014-2020.
+O artigo 15.º do citado decreto-lei estabelece que os pagamentos em numerário, efetuados pelos beneficiários aos seus fornecedores, não são elegíveis para comparticipação financeira nos programas. Contudo, no que respeita aos fundos da política de coesão, sempre que o pagamento em numerário se revele como o meio mais frequente, em função da natureza das despesas, e desde que o valor da despesa seja inferior a 250 euros, é admitido o referido método de pagamento.
+Sucede que o programa de desenvolvimento rural Continente (PDR2020), financiado pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), não se encontrava abrangido pela exceção admitida quanto aos pagamentos em numerário.
+A experiência adquirida nos procedimentos tendentes à atribuição dos apoios no âmbito do PDR2020 tem revelado as dificuldades dos potenciais beneficiários no cumprimento da regra relativa ao método de pagamento.
+Nestes termos, o Governo considerou fundamental que a referida exceção, quanto aos pagamentos em numerário, seja aplicável não apenas aos fundos da política de coesão, mas também ao FEADER, consagrando-se a elegibilidade das despesas pagas em numerário sempre que determinadas condições sejam cumpridas, alteração preconizada pelo Decreto-Lei n.º 88/2018, de 6 de novembro.
+Apesar desta alteração, que determinou a elegibilidade das despesas efetuadas pelos beneficiários em numerário, a regulamentação europeia, nomeadamente o Regulamento (UE) n.º 1303/2013 e do Regulamento (UE) n.º 1305/2013, ambos do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, preveem normas especificas no que respeita à verificabilidade e controlabilidade dos pagamentos cujo cumprimento importa ressalvar, de forma a garantir uma boa governação económica.
+Por último, importa salientar que todas as normas relativas ao procedimento de pagamento de despesas constantes das portarias regulamentadoras das medidas e ações do Programa de Desenvolvimento Rural do Continente (PDR2020) se mantêm em vigor.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º e do n.º 14 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, e pelo Decreto-Lei n.º 88/2018, de 6 de novembro, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria regula o regime excecional aplicável à apresentação dos pedidos de pagamento relativos a despesas pagas, em numerário, pelos beneficiários aos seus fornecedores no âmbito do Programa de Desenvolvimento Rural do Continente (PDR2020).
+Artigo 2.º
+Pagamentos em numerário
+Sem prejuízo do disposto nos regimes de aplicação do PDR2020, no que se refere à apresentação dos pedidos de pagamento de despesas, os beneficiários das respetivas medidas e ações podem efetuar pagamentos em numerário nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que, cumulativamente, se preencham os seguintes requisitos:
+a) O valor unitário do bem ou serviço objeto de pagamento seja inferior a 250 euros;
+b) O valor total dos pagamentos em numerário não ultrapasse 10 % do valor total das despesas financiadas no âmbito da mesma candidatura ou projeto com o limite máximo de 3000 euros.
+Artigo 3.º
+Entrada em vigor e produção de efeitos
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se às despesas efetuadas a partir de 17 de junho de 2017.
+O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 5 de junho de 2019.
+112364612
