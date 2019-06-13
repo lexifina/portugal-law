@@ -12,7 +12,7 @@ c) Manter as condições legais necessárias ao exercício da respectiva activid
 
 d) Manter em funcionamento os equipamentos comparticipados por um período mínimo de seis anos contados a partir da data de conclusão do investimento;
 
-e) Cumprir, no caso da microprodução de energia elétrica com interligação à rede pública de transporte e distribuição de eletricidade, as condições técnicas e legais para ligação àquela rede.
+e) Cumprir, no caso da produção de energia elétrica com interligação à rede pública de transporte e distribuição de eletricidade, as condições técnicas e legais para ligação àquela rede.
 
 2 - Para além das obrigações referidas no número anterior, os promotores a que se refere a alínea a) do n.º 2 do artigo 2.º devem:
 

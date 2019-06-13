@@ -4,7 +4,7 @@
 
 Os projetos candidatos ao PROENERGIA devem:
 
-a) Corresponder a um investimento mínimo de (euro) 1000;
+a) Corresponder a um investimento mínimo de (euro) 500,00 (quinhentos euros);
 
 b) (Revogada.)
 

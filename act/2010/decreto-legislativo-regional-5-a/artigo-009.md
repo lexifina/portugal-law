@@ -6,7 +6,7 @@
 
 2 - Cabe ao organismo gestor disponibilizar o formulário da candidatura, bem como toda a informação necessária à sua correta instrução e submissão, no Portal do Governo Regional na Internet.
 
-3 - Apenas podem ser aceites candidaturas apresentadas até 90 dias após a conclusão do projeto, considerando-se como data de conclusão a data do recibo correspondente à última despesa imputada.
+3 - Apenas podem ser aceites candidaturas apresentadas até noventa dias úteis após a conclusão do projeto, considerando-se como data de conclusão a data do recibo correspondente à última despesa imputada.
 
 4 - A candidatura à qual se referem os números anteriores pode ser apresentada pela entidade que tenha vendido o equipamento desde que tenham, cumulativamente, sido cumpridas as seguintes condições:
 
