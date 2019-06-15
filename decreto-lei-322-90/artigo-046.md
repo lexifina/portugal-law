@@ -10,6 +10,6 @@
 
 ### Instituições competentes
 
-1 - A gestão das prestações compete ao Centro Nacional de Pensões e aos centros regionais de segurança social, nos termos das competências próprias destes organismos, fixadas por despacho do Ministro do Emprego e da Segurança Social.
+1 - A gestão das pensões previstas neste decreto-lei e a aplicação da respetiva legislação compete ao Instituto da Segurança Social, I. P., através do Centro Nacional de Pensões e dos centros distritais.
 
-2 - A atribuição da pensão provisória de sobrevivência é da competência dos centros regionais de segurança social.
+2 - (Revogado.)
