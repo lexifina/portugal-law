@@ -34,6 +34,6 @@ e) Regime de antecipação da pensão de velhice nas situações de desemprego i
 
 7 - Para efeitos do número anterior, os beneficiários devem apresentar declaração que comprove a prestação de trabalho ou da atividade, emitida pelo empregador, pelo prestador do serviço, ou pela entidade beneficiária da atividade prestada, consoante os casos.
 
-8 - A idade pessoal de acesso à pensão de velhice é a que resulta da redução, por relação à idade normal de acesso à pensão em vigor, de 4 meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevantes para cálculo da pensão, não podendo a redução resultar no acesso à pensão de velhice antes dos 60 anos de idade.
+8 - A idade pessoal de acesso à pensão de velhice é a que resulta da redução, por relação à idade normal de acesso à pensão em vigor, de 4 meses por cada ano civil que exceda os 40 anos de carreira contributiva com registo de remunerações relevantes para cálculo da pensão, que o beneficiário possua à data da apresentação do requerimento da pensão ou na data indicada por este no requerimento com efeitos diferidos, não podendo a redução resultar no acesso à pensão de velhice antes dos 60 anos de idade.
 
 9 - A idade normal de acesso à pensão, determinada nos termos dos números anteriores, consta de portaria do membro do Governo responsável pela área da solidariedade e da segurança social, a publicar no segundo ano civil imediatamente anterior.

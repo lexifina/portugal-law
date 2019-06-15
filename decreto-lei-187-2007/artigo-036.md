@@ -12,7 +12,7 @@
 
 3 - A taxa global de redução é o produto da taxa mensal de 0,5% pelo número de meses de antecipação considerados para o efeito.
 
-4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade normal de acesso à pensão de velhice em vigor.
+4 - O número de meses de antecipação é apurado entre a data da apresentação do requerimento da pensão antecipada ou, quando aplicável, entre a data indicada pelo beneficiário no requerimento apresentado com efeitos diferidos, e a idade pessoal de acesso à pensão de velhice do beneficiário, ou a idade normal de acesso à pensão de velhice em vigor.
 
 5 - [Revogado].
 

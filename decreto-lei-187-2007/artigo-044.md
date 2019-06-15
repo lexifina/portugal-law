@@ -10,4 +10,4 @@
 
 2 - Quando esteja em causa a atribuição de pensão proporcional prevista no artigo 39.º, é garantida, como valor mínimo, uma percentagem da pensão mínima aplicável correspondente à fracção do período contributivo cumprido no âmbito do regime geral.
 
-3 - O valor mínimo de pensão previsto no n.º 1 não é aplicável às pensões antecipadas atribuídas ao abrigo dos regimes previstos nas alíneas a) e b) do n.º 1 do artigo 20.º
+3 - O valor mínimo de pensão previsto no n.º 1 é aplicável nas pensões antecipadas atribuídas ao abrigo dos regimes previstos nas alíneas b), c), d) e e) do n.º 1 do artigo 20.º

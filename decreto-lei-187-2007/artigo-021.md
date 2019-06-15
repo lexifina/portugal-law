@@ -8,4 +8,6 @@
 
 3 - A flexibilização da idade de pensão de velhice pode verificar-se no âmbito do regime da pensão unificada.
 
-4 - O deferimento da pensão depende de prévia informação ao beneficiário, por parte da entidade gestora das pensões do regime geral, do montante da pensão a atribuir e da subsequente manifestação expressa de vontade do beneficiário em manter a decisão de aceder à pensão antecipada.
+4 - A pensão é deferida se, no prazo de 30 dias após a comunicação, por parte da entidade gestora das pensões, do montante da pensão a atribuir, o beneficiário não manifestar de forma expressa a desistência do requerimento de acesso à pensão antecipada.
+
+5 - Em caso de concordância por parte do beneficiário, expressamente manifestada no requerimento, fica dispensado o período de espera previsto no número anterior.
