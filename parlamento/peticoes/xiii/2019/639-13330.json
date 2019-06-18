@@ -1,0 +1,582 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13330",
+  "numero": "639",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-06-18",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-02-18",
+            "entidades": null,
+            "id": "114411",
+            "tipo": null,
+            "titulo": "Audição em 2020-02-18 com Frente Comum de Sindicatos da Administração Pública: Ana Avoila; Cristina Torres e Victor Reis."
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-26",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Modernização do Estado e da Administração Pública"
+            ],
+            "nrOficio": "07/CAPMADPL/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-02-26",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-11-26",
+        "DataArquivo": "2020-03-10",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-03-11",
+        "DataReaberta": "2019-11-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-12-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a59573876595745304f5463304d5445745a6a67795a693030595445784c546733596a51744d6a4d784f5446694d47466b5a5463354c6e426b5a673d3d&fich=aa497411-f82f-4a11-87b4-23191b0ade79.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-12-02",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764d574a6d5a544d344e7a457459324e6a4d433030597a41344c574a6b4d4441744d5445794f5442684e6a51344e6d45314c6e426b5a673d3d&fich=1bfe3871-ccc0-4c08-bd00-11290a6486a5.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-03-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457a5130465154554645554577765247396a6457316c626e52766331426c64476c6a595738764e32597a5a54686a4d7a49745a544d774e6930304d324a6c4c54686b5a6d55745a6a52694e546b354d5459345a545a6b4c6e426b5a673d3d&fich=7f3e8c32-e306-43be-8dfe-f4b599168e6d.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7504",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local",
+        "NotasAdmissibilidade": null,
+        "Numero": "13",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-26",
+            "gp": "PSD",
+            "id": "5984",
+            "motivoCessacao": null,
+            "nome": "Maria Germana Rocha"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2019-07-17",
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-06-28",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2019-07-17",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-07-18",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c304e50545338784d454e5555314d765247396a6457316c626e52766331426c64476c6a595738764d4441304d445a694e3259744e6d4a694e693030596a51314c574a6c4e5751744f574a6b4e6d526b5a4467354d4441794c6e426b5a673d3d&fich=00406b7f-6bb6-4b45-be5d-9bd6ddd89002.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Administração Pública, Modernização Administrativa, Descentralização e Poder Local da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2020-06-08",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-07-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379387a5932557a596a55774e5330345a4451784c54526959544d744f4755784e69316d4d7a67785a6a4d324e6a49784d7a4d756347526d&fich=3ce3b505-8d41-4ba3-8e16-f381f3662133.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44921",
+      "44937",
+      "44921",
+      "44937"
+    ],
+    "Iniciativasoriginadas": [
+      "44921",
+      "44937"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:29:17:972&drc=00:04:21:721"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:33:39:694&drc=00:03:04:560"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:36:44:254&drc=00:03:08:911"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:39:53:166&drc=00:03:39:517"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239647",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:43:32:683&drc=00:03:47:813"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239648",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:47:20:497&drc=00:03:26:658"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239649",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/62?pgs=62&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-06-09",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_06_08_15_00_00_clean_14_plenario&url=l14/sl1/a2020/m06/&tI=03:50:47:155&drc=00:02:47:626"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "239650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-06-09",
+                "pubLeg": "XIV",
+                "pubNr": "61",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Recomenda ao Governo que proceda à revisão da tabela remuneratória única com vista a assegurar níveis de proporcionalidade; Pela urgente negociação da tabela remuneratória única da Administração Pública tendo em vista assegurar a sua proporcionalidade",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13330",
+    "PetAssunto": "Solicitam a adoção de medidas com vista a assegurar a proporcionalidade dos níveis da Tabela Remuneratória Única",
+    "PetDataEntrada": "2019-06-18",
+    "PeticoesAssociadas": null,
+    "PetId": "13330",
+    "PetLeg": "XIII",
+    "PetNr": "639",
+    "PetNrAssinaturas": "25921",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2725",
+        "obs": null,
+        "pag": [
+          "57-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-06-09",
+        "pubLeg": "XIV",
+        "pubNr": "61",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/061/2020-06-09/57?pgs=57-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871734",
+        "obs": null,
+        "pag": [
+          "21-22"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-17",
+        "pubLeg": "XIII",
+        "pubNr": "60",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/13/04/060/2019-07-17/21?pgs=21-22&org=PLC"
+      }
+    ]
+  }
+}
