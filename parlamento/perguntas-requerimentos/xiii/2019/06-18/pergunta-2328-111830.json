@@ -1,0 +1,77 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=aulw49mPoTryeyGAl5BQBKn5EeWkt1lTUENBMeYFgrBdsAqqrJslnVvkFzuUj4jB4q5dDfIBt752OmBTGYUXBZCUOI2ePSt9Dto6X%2b9nRKN1wtOjGZy8Os4JU7pqIjk%2fMGyyMG17G59nKaj2znnz5tCYByTQEDLl0%2fT%2fEuxhtLVyPnOZkxIq%2bFQ7KSZ1gjxAQ1jdBN5TBec3Im%2fyOWhfhbTSZ9KkbKF%2bbHYp0Dy9jaO790AevVLYChBQ%2fk4b7ySeNBN%2bJUtGmmKAtyIzWj8F0NwGFsabwX%2fLZG0JvtUYJ%2fMlRSqzZdxXjq9fYVuBoNNo5SbDDT6BaMrYcAj0UpQ6WKSC4rgQct5SMV%2bGc63168S15qxGGvAAkth7qfrkxe7FTGYI1b8W3HxnkbhlDQXKhw%3d%3d&fich=RequerimentosXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c3546652376f135073b6a3233834c4b890b97551564c373e1b2f788afb51c8c9",
+  "legislatura": "XIII",
+  "id": "111830",
+  "tipo": "Pergunta",
+  "numero": "2328",
+  "data_registo": "2019-06-18",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Injustificado atraso na abertura de concursos no processo de regularização de precários do Instituto Nacional de Investigação Agrária, IP (INIAV)",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "2433",
+        "nome": "José Moura Soeiro"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "6063",
+        "nome": "Joana Mortágua"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "5854",
+        "nome": "Isabel Pires"
+      },
+      {
+        "GP": "BE",
+        "idCadastro": "4557",
+        "nome": "Mariana Mortágua"
+      }
+    ],
+    "DataEnvio": "2019-06-19",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2019-06-19",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2019-10-16",
+            "docRemetida": null,
+            "entidade": "MIN. DA AGRICULTURA, FLORESTAS E DESENVOLVIMENTO RURAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338324e5449784d4449775a6930305a54426d4c54517a5a4745744f444d314f4330325954426d4f47526b5a6a5a685a5449756347526d&fich=6521020f-4e0f-43da-8358-6a0f8ddf6ae2.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2019-06-18",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a5254544338354d7a55315a6a4e6a5953316b5a6a51344c5451794d7a67744f4759344e79316a4e54566b4e324e6b4e4456695a5751756347526d&fich=9355f3ca-df48-4238-8f87-c55d7cd45bed.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "111830",
+    "Legislatura": "XIII",
+    "Nr": "2328",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "4",
+    "Tipo": "Pergunta"
+  }
+}
