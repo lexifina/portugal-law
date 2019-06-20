@@ -2,7 +2,7 @@
 
 ### Arrendamento forçado
 
-1 - Após a conclusão das obras realizadas pela entidade gestora nos termos do disposto no n.º 2 do artigo 55.º, se o proprietário, no prazo máximo de quatro meses, não proceder ao ressarcimento integral das despesas incorridas pela entidade gestora, ou não der de arrendamento o edifício ou fracção por um prazo mínimo de cinco anos afectando as rendas ao ressarcimento daquelas despesas, pode a entidade gestora arrendá-lo, mediante concurso público, igualmente por um prazo de cinco anos, renovável nos termos do artigo 1096.º do Código Civil.
+1 - Após a conclusão das obras realizadas pela câmara municipal nos termos do disposto no n.º 4 do artigo 55.º, se o proprietário, no prazo de 20 dias, não proceder ao ressarcimento integral das despesas incorridas pela entidade gestora, ou, no mesmo prazo, não propuser outra forma alternativa de extinção da dívida, nomeadamente a dação em cumprimento ou em função do cumprimento, ou ainda a consignação de rendimentos do imóvel, nos termos da lei, pode a entidade gestora optar, em alternativa à cobrança judicial da dívida em processo de execução fiscal, pelo arrendamento forçado, nos termos previstos no RJUE.
 
 2 - (Revogado.)
 
