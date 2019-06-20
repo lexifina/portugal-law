@@ -16,6 +16,8 @@ e) Averbamentos do acto declarativo de utilidade pública, nos casos de expropri
 
 f) (Revogado.)
 
+g) A inscrição e respetivos averbamentos relativos à intimação municipal para a execução de obras coercivas ou de demolição pelo proprietário de prédio urbano ou fração autónoma, bem como ao arrendamento forçado efetuado ao abrigo do Regime Jurídico da Urbanização e Edificação ou do Regime Jurídico da Reabilitação Urbana.
+
 2 - São ainda gratuitos os seguintes actos:
 
 a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;
