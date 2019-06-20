@@ -28,6 +28,8 @@ l) «Obras de escassa relevância urbanística» as obras de edificação ou dem
 
 m) «Trabalhos de remodelação dos terrenos» as operações urbanísticas não compreendidas nas alíneas anteriores que impliquem a destruição do revestimento vegetal, a alteração do relevo natural e das camadas de solo arável ou o derrube de árvores de alto porte ou em maciço para fins não exclusivamente agrícolas, pecuários, florestais ou mineiros;
 
-n) (Revogada);
+n) (Revogada.)
 
-o) «Zona urbana consolidada» a zona caracterizada por uma densidade de ocupação que permite identificar uma malha ou estrutura urbana já definida, onde existem as infra-estruturas essenciais e onde se encontram definidos os alinhamentos dos planos marginais por edificações em continuidade.
+o) «Zona urbana consolidada» a zona caracterizada por uma densidade de ocupação que permite identificar uma malha ou estrutura urbana já definida, onde existem as infra-estruturas essenciais e onde se encontram definidos os alinhamentos dos planos marginais por edificações em continuidade;
+
+p) «Arrendamento forçado», o arrendamento de edifícios ou frações autónomas, assumido por uma entidade administrativa, pelo prazo estritamente necessário para o efeito, com o objetivo de garantir o ressarcimento das despesas incorridas com a realização de obras coercivas, através do recebimento das rendas relativas a contrato previamente existente à intervenção que se mantenha em vigor ou, quando este não exista ou tenha cessado a sua vigência, pela celebração de novo contrato.

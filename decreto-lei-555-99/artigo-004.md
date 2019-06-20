@@ -26,7 +26,7 @@ e) Obras de reconstrução das quais resulte um aumento da altura da fachada ou 
 
 f) As obras de demolição das edificações que não se encontrem previstas em licença de obras de reconstrução;
 
-g) (Revogada);
+g) (Revogada.)
 
 h) As obras de construção, reconstrução, ampliação, alteração ou demolição de imóveis em áreas sujeitas a servidão administrativa ou restrição de utilidade pública, sem prejuízo do disposto em legislação especial;
 
@@ -50,9 +50,11 @@ e) A edificação de piscinas associadas a edificação principal;
 
 f) As operações urbanísticas precedidas de informação prévia favorável, nos termos dos n.ºs 2 e 3 do artigo 14.º;
 
-g) (Revogada);
+g) (Revogada.)
 
-h) (Revogada).
+h) (Revogada.)
+
+i) As obras resultantes de uma intimação da câmara municipal, nos termos previsto no artigo 90.º-A.
 
 5 - Está sujeita a autorização a utilização dos edifícios ou suas fracções, bem como as alterações da utilização dos mesmos.
 

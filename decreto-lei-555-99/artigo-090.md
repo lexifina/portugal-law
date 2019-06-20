@@ -4,7 +4,7 @@
 
 1 - As deliberações referidas nos n.ºs 2 e 3 do artigo 89.º são precedidas de vistoria a realizar por três técnicos a nomear pela câmara municipal, dois dos quais com habilitação legal para ser autor de projecto, correspondentes à obra objecto de vistoria, segundo o regime da qualificação profissional dos técnicos responsáveis pela elaboração e subscrição de projectos.
 
-2 - Do acto que determinar a realização da vistoria e respectivos fundamentos é notificado o proprietário do imóvel, mediante carta registada expedida com, pelo menos, sete dias de antecedência.
+2 - Do ato que determinar a realização da vistoria e respetivos fundamentos é notificado o proprietário do imóvel, mediante carta registada expedida com, pelo menos, sete dias de antecedência, ou, não sendo esta possível em virtude do desconhecimento da identidade ou do paradeiro do proprietário, mediante edital, nos termos estabelecidos no Código do Procedimento Administrativo, sendo, para este efeito, obrigatória a afixação de um edital no imóvel.
 
 3 - Até à véspera da vistoria, o proprietário pode indicar um perito para intervir na realização da vistoria e formular quesitos a que deverão responder os técnicos nomeados.
 
@@ -17,3 +17,5 @@
 7 - Quando o proprietário não indique perito até à data referida no n.º 3, a vistoria é realizada sem a presença deste, sem prejuízo de, em eventual impugnação administrativa ou contenciosa da deliberação em causa, o proprietário poder alegar factos não constantes do auto de vistoria, quando prove que não foi regularmente notificado nos termos do n.º 2.
 
 8 - As formalidades previstas no presente artigo podem ser preteridas quando exista risco iminente de desmoronamento ou grave perigo para a saúde pública, nos termos previstos na lei para o estado de necessidade.
+
+9 - Aplica-se à vistoria o disposto no artigo 95.º, com as devidas adaptações.
