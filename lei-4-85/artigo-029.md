@@ -1,11 +1,3 @@
-## Título II
-
-## Subvenções dos titulares de cargos políticos
-
-## Capítulo I
-
-## Subvenções vitalícias por incapacidade e por morte
-
 # Artigo 29.º
 
 ### (Subvenção em caso de incapacidade)
