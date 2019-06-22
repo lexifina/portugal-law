@@ -1,7 +1,7 @@
 # Artigo 9.º
 
-### Local de apresentação de candidatura
+### Apresentação da candidatura
 
-1 - O requerimento de candidatura é apresentado na Escola.
+1 - A candidatura ao concurso local é apresentada, exclusivamente, através de um portal de candidaturas da Escola na internet.
 
-2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º
+2 - O prazo para submissão da candidatura é fixado nos termos do artigo 25.º
