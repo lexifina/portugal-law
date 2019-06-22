@@ -18,7 +18,7 @@ a) Os VFV não disponham de matrícula ou outros elementos identificativos, e te
 
 b) Exista uma declaração do destinatário a explicitar o motivo da utilização, assegurando que o VFV não é utilizado para outros fins, designadamente para circulação na via pública, bem como data da respetiva devolução.
 
-7 - Os operadores de desmantelamento ficam obrigados a realizar as operações descritas no n.º 2.2 do anexo XIX imediatamente após a receção de VFV, não excedendo o prazo de um ano.
+7 - Os operadores de desmantelamento ficam obrigados a realizar as operações descritas no n.º 2.2 do anexo xix.
 
 8 - Os operadores de fragmentação ficam obrigados a cumprir os requisitos técnicos mínimos constantes do n.º 3 do anexo XIX do presente decreto-lei.
 
