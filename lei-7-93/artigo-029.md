@@ -1,15 +1,9 @@
-## Capítulo V
-
-## Disposições finais e transitórias
-
 # Artigo 29.º
 
-### Antigos Deputados
+### Deputado honorário
 
-1 - Os antigos Deputados que tenham exercido mandato de Deputado durante, pelo menos, quatro anos têm direito a um cartão de identificação próprio.
+1 - É criado o título de Deputado honorário.
 
-2 - Os antigos Deputados a que se refere o número anterior têm direito de livre trânsito no edifício da Assembleia da República.
+2 - O referido título é atribuído por deliberação do Plenário, sob proposta fundamentada subscrita por um quarto dos Deputados em exercício de funções, aos Deputados que, por relevantes serviços prestados na defesa da instituição parlamentar, tenham contribuído decisivamente para a sua dignificação e prestígio.
 
-3 - Os Deputados a que se refere o presente artigo têm ainda as regalias que vierem a ser fixadas por despacho do Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares.
-
-4 - Os Deputados que tenham exercido as funções de Presidente da Assembleia da República gozam de estatuto próprio, fixado nos termos do número anterior.
+3 - O Deputado honorário tem direito ao correspondente cartão de identificação e goza das mesmas prerrogativas dos antigos Deputados, previstos no artigo 26.º, e outras a definir pelo Presidente da Assembleia da República.

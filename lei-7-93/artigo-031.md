@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposições finais e tansitórias
-
 # Artigo 31.º
 
 ### Encargos
