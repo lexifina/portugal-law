@@ -1,0 +1,17 @@
+Aviso n.º 10422/2019
+Início de procedimento de elaboração de Plano de Pormenor da Quinta do Carmo
+Tiago Farinha Matias, Vereador da Câmara Municipal de Loures, no âmbito das competências que lhe foram delegadas por Despacho n.º 184/2018, de 02 de outubro de 2018, torna público que esta Câmara Municipal, na 36.ª Reunião Ordinária de 24 de abril de 2019, de acordo com a proposta de deliberação n.º 235/2019, deliberou dar início ao procedimento de elaboração do Plano de Pormenor da Quinta do Carmo, União das freguesias de Sacavém e Prior Velho, ao abrigo do disposto nos artigos 76.º e 88.º do Regime Jurídico dos Instrumentos de Gestão Territorial, estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, e ainda nos termos do artigo 56.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, que estabelece o Regime Jurídico das Autarquias Locais, estimando-se o prazo de 665 dias para a sua conclusão.
+Mais se anuncia que, nos termos do n.º 2 do artigo 88.º do referido diploma legal é fixado um prazo de 15 dias úteis, a contar da data da publicação no Diário da República para a formulação de sugestões, bem como a apresentação de informação sobre quaisquer questões que possam ser consideradas, no âmbito do presente procedimento de elaboração do plano, as quais deverão ser formuladas por escrito e dirigidas ao Presidente da Câmara Municipal de Loures - Plano de Pormenor da Quinta do Carmo.
+A deliberação e os documentos que a integram encontram-se disponível para consulta dos interessados na página da Internet da Câmara Municipal, em https://www.cm-loures.pt e no Departamento de Planeamento e Gestão Urbanística, sito na Rua Ilha da Madeira, n.º 4, r/c, em Loures, todos os dias úteis das 09:00 às 16:00 horas.
+As sugestões e informações poderão ser entregues pessoalmente ou remetidas para o endereço de correio eletrónico da Divisão de Planeamento e Reabilitação Urbana, discussaopublica_dpru@cm-loures.pt, ou ainda enviadas por correio para o Departamento de Planeamento e Gestão Urbanística, Divisão de Planeamento e Reabilitação Urbana, na Rua Ilha da Madeira, n.º 4 r/c, 2674 -501 Loures.
+16 de maio de 2019. - O Vereador, Tiago Farinha Matias.
+Deliberação
+Tiago Farinha Matias, Vereador da Câmara Municipal de Loures, no âmbito das competências que lhe foram delegadas por Despacho n.º 184/2018, de 02 de outubro de 2018, certifica, para os devidos efeitos, que esta Câmara Municipal, na 36.ª Reunião Ordinária de 24 de abril de 2019, deliberou por unanimidade, dar início ao procedimento de elaboração do Plano de Pormenor da Quinta do Carmo, ao abrigo do disposto nos artigos 76.º e 88.º do Regime Jurídico dos Instrumentos de Gestão Territorial, estabelecido pelo Decreto-Lei n.º 80/2015, de 14 de maio, e ainda nos termos do artigo 56.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, que estabelece o Regime Jurídico das Autarquias Locais.
+Deliberou, ainda, estabelecer um prazo de 15 dias para o período inicial de participação, destinado à formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento em questão.
+16 de maio de 2019. - O Vereador, Tiago Farinha Matias.
+Identificadores das imagens e respetivos endereços do sítio do SNIT
+(conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+49759 - http://ssaigt.dgterritorio.gov.pt/i/PAinterv_49759_1107_E_Pub.jpg
+49759 - http://ssaigt.dgterritorio.gov.pt/i/PAinterv_49759_1107_ELeg_Pub.jpg
+49759 - http://ssaigt.dgterritorio.gov.pt/i/PAinterv_49759_1107_EOrto_Pub.jpg
+612337259
