@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 98/2019
+A satisfação das necessidades básicas de alimentação das populações dos centros educativos e dos estabelecimentos prisionais compete à Direção-Geral de Reinserção e Serviços Prisionais (DGRSP). As refeições servidas devem ser preparadas e apresentadas de acordo com exigências dietéticas e de higiene adequadas, tendo em consideração a estação do ano e o clima do local, e atendendo às especificidades relativas à idade, ao estado de saúde e às convicções filosóficas e religiosas destas populações.
+Atenta a imprescindibilidade do fornecimento contínuo de refeições, a DGRSP pretende dar início ao procedimento pré-contratual com vista à celebração do contrato de fornecimento para o período de 2020 a 2022, até ao montante estimado de (euro) 55 059 000, a que acresce IVA à taxa legal em vigor, por recurso ao procedimento pré-contratual de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia, nos termos dos artigos 130.º e 131.º do Código dos Contratos Públicos.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e dos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinados pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, do n.º 1 do artigo 36.º, do n.º 1 do artigo 109.º e dos artigos 130.º e 131.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Direção-Geral de Reinserção e Serviços Prisionais (DGRSP) a realizar a despesa relativa à aquisição de refeições confecionadas destinadas às populações dos centros educativos e dos estabelecimentos prisionais, nos anos de 2020 a 2022, até ao montante de (euro) 55 059 000, a que acresce IVA à taxa legal em vigor, por recurso ao procedimento pré-contratual de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia.
+2 - Autorizar a repartição do valor total da despesa decorrente do procedimento referido no número anterior, estimado em (euro) 55 059 000, a que acresce IVA à taxa legal em vigor, pelos seguintes anos económicos e nos seguintes montantes:
+a) 2020 - (euro) 18 386 490;
+b) 2021 - (euro) 18 336 255;
+c) 2022 - (euro) 18 336 255.
+3 - Estabelecer que os valores fixados em cada ano económico podem ser acrescidos do saldo apurado no ano que antecede.
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da DGRSP em cada um dos anos económicos indicados.
+5 - Delegar na Ministra da Justiça, com a faculdade de subdelegação, a competência para a prática de todos os atos a realizar no âmbito do procedimento e da execução do contrato previsto no n.º 1.
+6 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+Presidência do Conselho de Ministros, 13 de junho de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112387074
