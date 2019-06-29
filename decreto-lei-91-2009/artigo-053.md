@@ -6,4 +6,6 @@
 
 2 - (Revogado.)
 
-3 - O valor das prestações de desemprego, a suspender nas situações de reconhecimento de direito aos subsídios sociais, não releva para efeitos de apuramento da condição de recursos.
+3 - Para efeitos do n.º 1, sem prejuízo do disposto no Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, são considerados os rendimentos mensais mais recentes.
+
+4 - O valor das prestações de desemprego, a suspender nas situações de reconhecimento de direito aos subsídios sociais, não releva para efeitos de apuramento da condição de recursos.
