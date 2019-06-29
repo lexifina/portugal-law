@@ -35,3 +35,5 @@ c) Comunica a declaração de insolvência ao Banco de Portugal para que este pr
 10 - Sem prejuízo do disposto no número anterior, se o direito do Estado do processo de insolvência previr a efetivação de registo desconhecido do direito português, é determinado o registo que com aquele apresente maiores semelhanças.
 
 11 - Sem prejuízo do disposto no n.º 9, a publicação regulada no n.º1 do artigo 28.º do Regulamento (UE) n.º 2015/848 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, é determinada oficiosamente pelos competentes serviços de registo se o devedor for titular de estabelecimento situado em Portugal.
+
+12 - O registo previsto no n.º 2 deve ainda conter os factos referidos no n.º 2 do artigo 24.º do Regulamento (UE) 2015/848, do Parlamento Europeu e do Conselho, de 20 de maio de 2015.
