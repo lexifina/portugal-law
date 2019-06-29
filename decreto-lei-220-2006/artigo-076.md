@@ -2,11 +2,7 @@
 
 ### Meios de prova específicos do subsídio social de desemprego e do subsídio de desemprego parcial
 
-1 - Para atribuição do subsídio social de desemprego constituem prova das respectivas condições:
-
-a) Declaração da composição do agregado familiar;
-
-b) Documentos fiscais, cópias dos recibos das retribuições auferidas ou outros meios comprovativos dos rendimentos do agregado familiar.
+1 - Revogado;
 
 2 - Para atribuição do subsídio de desemprego parcial constituem prova das respectivas condições:
 
