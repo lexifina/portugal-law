@@ -2,7 +2,7 @@
 
 ### Regime da aposentação
 
-1 - O regime da aposentação voluntária que não dependa de verificação de incapacidade fixa-se com base na lei em vigor e na situação existente na data em que se profira despacho a reconhecer o direito à aposentação.
+1 - O regime da aposentação voluntária que não dependa de verificação de incapacidade fixa-se com base na lei em vigor à data em que seja recebido o pedido de aposentação pela CGA, sem prejuízo do disposto no n.º 7 do artigo 39.º, e na situação existente à data em que o mesmo seja despachado.
 
 2 - Nas restantes situações, o regime da aposentação fixa-se com base na lei em vigor e na situação existente à data em que:
 

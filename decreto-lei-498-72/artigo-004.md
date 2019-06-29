@@ -17,3 +17,5 @@ d) Apuramento da pensão mínima.
 3 - Para efeitos do disposto no número anterior, consideram-se outros regimes de proteção social, o regime geral de segurança social, os regimes especiais de segurança social, os regimes das caixas de reforma ou previdência ainda subsistentes, o regime de segurança social substitutivo constante de instrumento de regulamentação coletiva de trabalho vigente no setor bancário e os regimes de segurança social estrangeiros ou internacionais, desde que confiram proteção nas eventualidades de invalidez e velhice.
 
 4 - Quando o cargo for exercido em regime de tempo parcial, será este considerado, só para efeitos de inscrição na Caixa, como tempo completo.
+
+5 - Para efeitos do disposto na alínea d) do n.º 2, a pensão apenas é elevada para o montante mínimo legalmente previsto quando o aposentado ou reformado não perceba pensão ou pensões de valor global igual ou superior à pensão mínima que seria devida com base exclusivamente no tempo de serviço da CGA, I. P.

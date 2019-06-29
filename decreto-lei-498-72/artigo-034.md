@@ -8,4 +8,6 @@ a) Em processo de contagem prévia, até ser instaurado o processo de aposentaç
 
 b) No processo de aposentação, até neste ser proferida a resolução final a que se refere o n.º 1 do artigo 97.º
 
-2 - As resoluções tomadas em processo de contagem prévia pela Caixa são preparatórias da resolução final prevista no n.º 1 do artigo 97.º, podendo nesta última, ou antes dela, mediante novas decisões das entidades que a proferiram, ser revistas nos termos da alínea a) do n.º 1 do artigo 101.º, revogadas ou reformadas com base em ilegalidade ou modificação da lei.
+2 - A CGA, I. P., pode efetuar oficiosamente contagens prévias do tempo de serviço a que se refere o artigo 24.º
+
+3 - As resoluções tomadas em processo de contagem prévia pela Caixa são preparatórias da resolução final prevista no n.º 1 do artigo 97.º, podendo nesta última, ou antes dela, mediante novas decisões das entidades que a proferiram, ser revistas nos termos da alínea a) do n.º 1 do artigo 101.º, revogadas ou reformadas com base em ilegalidade ou modificação da lei.
