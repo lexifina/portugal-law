@@ -10,7 +10,7 @@
 
 ### Publicitação anual
 
-Até ao dia 31 de janeiro de cada ano o IHRU, I. P., publicita no sítio na Internet do Portal da Habitação a informação relativa ao 1.º Direito, que deve incluir:
+Até ao dia 31 de janeiro de cada ano o IHRU, I. P., publicita no sítio na Internet do Portal da Habitação, a informação relativa ao 1.º Direito, que deve incluir:
 
 a) O montante da dotação orçamental existente para a atribuição de novos pedidos de apoio financeiro;
 

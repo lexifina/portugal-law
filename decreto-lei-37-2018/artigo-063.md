@@ -6,7 +6,7 @@
 
 2 - As candidaturas são aprovadas tendo em conta, nomeadamente, a validade e viabilidade das soluções habitacionais, bem como a coerência destas com os princípios e regras aplicáveis ao caso nos termos do presente decreto-lei.
 
-3 - É, nomeadamente, causa de rejeição dos pedidos a existência de uma das situações determinantes de exclusão nos termos do artigo 7.º ou de parecer desfavorável do município nos casos previstos no n.º 3 do artigo 13.º e no n.º 6 do artigo 59.º
+3 - É, nomeadamente, causa de rejeição dos pedidos a existência de uma das situações determinantes de exclusão nos termos do artigo 7.º ou de parecer desfavorável do município no caso previsto no n.º 3 do artigo 13.º
 
 4 - O modelo e os elementos essenciais para efeito de instrução das candidaturas ao 1.º Direito são definidos por portaria do membro do Governo responsável pela área da habitação.
 

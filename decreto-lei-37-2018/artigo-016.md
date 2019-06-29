@@ -8,4 +8,4 @@
 
 3 - O apoio referido no número anterior é concedido sob a forma de comparticipação, devendo o IHRU, I. P., destinar até 2 % da dotação anual do 1.º Direito para assegurar o financiamento das despesas com as contratações referidas no número anterior.
 
-4 - O apoio financeiro referido nos números anteriores pode exceder 2/prct. de cada dotação anual do 1.º Direito, com um limite máximo de (euro) 4 000 000,00.
+4 - Durante o ano de 2019, o apoio técnico referido no número anterior pode exceder 2 % da dotação anual do 1.º Direito, com um limite máximo de (euro) 4 000 000, desde que o montante excedente seja compensado nos anos seguintes.
