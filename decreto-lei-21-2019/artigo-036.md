@@ -11,5 +11,3 @@ b) Requisitar às entidades concessionárias dos serviços de transporte coletiv
 c) Pagar as faturas emitidas mensalmente pelas entidades concessionárias dos serviços de transporte coletivo;
 
 d) Contratar, gerir e pagar os circuitos especiais.
-
-e) Atribuir apoios ao transporte para a frequência do ensino secundário, no âmbito da escolaridade obrigatória, aos alunos cujo agregado familiar resida em concelho sem oferta de ensino secundário.
