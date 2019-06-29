@@ -12,4 +12,4 @@ b) As indemnizações devidas por factos ilícitos dolosos praticados pelo deved
 
 c) Os créditos por multas, coimas e outras sanções pecuniárias por crimes ou contra-ordenações;
 
-d) Os créditos tributários.
+d) Os créditos tributários e da segurança social.
