@@ -16,7 +16,7 @@ a) Ações em que a causa de pedir verse sobre direito de autor e direitos conex
 
 b) Ações em que a causa de pedir verse sobre propriedade industrial, em qualquer das modalidades previstas na lei;
 
-c) Ações de nulidade e de anulação previstas no Código da Propriedade Industrial;
+c) Ações de nulidade e de anulação de patentes, certificados complementares de proteção, modelos de utilidade e topografias de produtos semicondutores previstas no Código da Propriedade Industrial e demais legislação aplicável, bem como os pedidos de declaração de nulidade ou de anulação de registos de desenhos ou modelos, marcas, logótipos, recompensas, denominações de origem e indicações geográficas deduzidos em reconvenção;
 
 d) Recursos de decisões do Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.) que concedam ou recusem qualquer direito de propriedade industrial ou sejam relativas a transmissões, licenças, declarações de caducidade ou a quaisquer outros atos que afetem, modifiquem ou extingam direitos de propriedade industrial;
 
@@ -30,7 +30,7 @@ h) Ações em que a causa de pedir verse sobre firmas ou denominações sociais;
 
 i) Recursos das decisões do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.) relativas à admissibilidade de firmas e denominações no âmbito do regime jurídico do Registo Nacional de Pessoas Coletivas;
 
-j) Ações em que a causa de pedir verse sobre a prática de atos de concorrência desleal em matéria de propriedade industrial;
+j) Ações em que a causa de pedir verse sobre a prática de atos de concorrência desleal ou de infração de segredos comerciais em matéria de propriedade industrial;
 
 k) Medidas de obtenção e preservação de prova e de prestação de informações quando requeridas no âmbito da proteção de direitos de propriedade intelectual e direitos de autor.
 
