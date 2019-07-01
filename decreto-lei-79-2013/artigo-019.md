@@ -2,7 +2,7 @@
 
 ### Contraordenações ambientais
 
-1 - Constitui contraordenação ambiental muito grave, punível nos termos do regime aplicável às contraordenações ambientais, previsto na Lei n.º 50/2006, de 29 de agosto, alterada pela Leis n.os 89/2009, de 31 de agosto, e 114/2015, de 28 de agosto, a colocação no mercado de EEE contendo substâncias sujeitas a restrição, nos termos do n.º 1 do artigo 5.º, em violação do disposto na alínea a) do n.º 1 do artigo 7.º
+1 - CConstitui contraordenação ambiental muito grave, punível nos termos do regime aplicável às contraordenações ambientais, previsto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a colocação no mercado, pelo respetivo fabricante ou importador, de EEE contendo substâncias sujeitas a restrição nos termos do n.º 1 do artigo 5.º
 
 2 - A tentativa e a negligência são puníveis.
 

@@ -42,7 +42,7 @@ r) «Instrumentos industriais de monitorização e controlo» os instrumentos de
 
 s) «Mandatário» uma pessoa singular ou coletiva estabelecida na União Europeia que tenha sido mandatada por escrito por um fabricante para agir em seu nome a fim de executar funções especificadas;
 
-t) «Máquinas móveis não rodoviárias destinadas exclusivamente a utilização profissional» máquinas que dispõem de uma fonte de alimentação a bordo cujo funcionamento necessita de mobilidade ou de movimento contínuo ou semicontínuo em funcionamento entre uma sucessão de locais de trabalho fixos e que se destinam a uma utilização exclusivamente profissional;
+t) 'Máquinas móveis não rodoviárias destinadas exclusivamente a utilização profissional' máquinas que dispõem de uma fonte de alimentação a bordo ou com tração e com uma fonte de alimentação externa cujo funcionamento necessita de mobilidade ou de movimento contínuo ou semicontínuo em funcionamento entre uma sucessão de locais de trabalho fixos e que se destinam a uma utilização exclusivamente profissional;
 
 u) «Marcação CE» a marcação através da qual o fabricante indica que um determinado equipamento elétrico ou eletrónico está em conformidade com os requisitos aplicáveis, previstos na legislação da União Europeia de harmonização que prevê a sua aposição;
 

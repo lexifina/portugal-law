@@ -6,9 +6,11 @@
 
 2 - Para efeitos do disposto no número anterior, compete à APA, I. P.:
 
-a) Apreciar as propostas, de revisão e de alteração, apresentadas pela Comissão Europeia, da lista de substâncias sujeitas a restrição constante dos anexos ii, iii e iv da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011;
+a) Apreciar as propostas, de revisão e de alteração, apresentadas pela Comissão Europeia, da lista de substâncias sujeitas a restrição constante do anexo ii da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011;
 
-b) Assegurar a representação nacional nos comités e grupos de trabalho constituídos junto da Comissão Europeia, no âmbito da matéria objeto do presente decreto-lei.
+b) Apreciar as propostas, apresentadas pela Comissão Europeia, de adaptação ao progresso científico e técnico dos anexos iii e iv da Diretiva 2011/65/UE do Parlamento Europeu e do Conselho, de 8 de junho de 2011;
+
+c) Assegurar a representação nacional nos comités e grupos de trabalho constituídos junto da Comissão Europeia, no âmbito da matéria objeto do presente decreto-lei.
 
 3 - Para efeitos do disposto no n.º 1, compete à DGAE:
 
