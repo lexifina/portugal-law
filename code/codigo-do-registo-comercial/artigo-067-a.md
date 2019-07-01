@@ -6,6 +6,6 @@
 
 2 - No caso do registo da fusão transfronteiriça, aplica-se o disposto no número anterior às sociedades participantes na fusão que tenham sede em território nacional.
 
-3 - O serviço que efectue o registo de fusão transfronteiriça notifica desse facto e do consequente início de produção de efeitos da fusão os serviços de registo competentes dos Estados membros da União Europeia onde estejam sediadas sociedades participantes.
+3 - O registo de fusão transfronteiriça na sociedade incorporante, ou de constituição da nova sociedade resultante da fusão, determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, aos registos competentes dos Estados-Membros onde estejam sediadas as sociedades participantes.
 
-4 - A recepção por qualquer serviço de registo comercial de notificação do início da produção de efeitos de fusão transfronteiriça, efectuada por serviço de registo competente de Estado membro da União Europeia, determina a realização oficiosa do registo da fusão transfronteiriça nas sociedades participantes na fusão que estejam sediadas em território nacional.
+4 - A receção de notificação do início da produção de efeitos de fusão transfronteiriça, efetuada por registo competente do respetivo Estado-Membro da União Europeia, determina a realização oficiosa do registo da fusão transfronteiriça e o cancelamento da matrícula das sociedades participantes na fusão que estejam sediadas em território nacional.
