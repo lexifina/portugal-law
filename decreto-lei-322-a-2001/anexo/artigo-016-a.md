@@ -19,3 +19,5 @@ d) Alteração do código de actividade económica (CAE);
 e) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de Março;
 
 f) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
+
+g) A inscrição oficiosa, no registo de pessoas jurídicas canónicas, das pessoas coletivas religiosas inscritas no ficheiro central de pessoas coletivas, em data anterior à entrada em vigor do Decreto-Lei n.º 19/2015, de 3 de fevereiro.

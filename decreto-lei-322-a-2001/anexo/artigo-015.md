@@ -24,6 +24,8 @@ g) Os registos realizados oficiosamente nos termos do artigo 67.º-A do Código 
 
 h) (Revogada.)
 
+i) Os registos realizados oficiosamente nos termos do artigo 10.º-A e do n.º 4 do artigo 67.º do Código do Registo Comercial.
+
 2 - São ainda gratuitos os seguintes actos:
 
 a) Rectificação de actos de registo ou documentos, resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;

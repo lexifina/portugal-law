@@ -116,6 +116,16 @@ Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 13.9 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
+13.10 - Pela disponibilização da informação não certificada no Portal Europeu da Justiça Eletrónica, através do sistema de interconexão dos registos comerciais:
+
+13.10.1 - Relativa a informação contida na matrícula - (euro) 5
+
+13.10.2 - Relativa ao pacto social atualizado - (euro) 8
+
+13.10.3 - Relativa às contas anuais - (euro) 5
+
+13.10.4 - Relativa a quaisquer outros factos registados ou documentos arquivados - (euro) 10.
+
 14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120
 
 15 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
