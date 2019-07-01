@@ -6,17 +6,25 @@
 
 a) Acta de aprovação das contas do exercício e da aplicação dos resultados;
 
-b) Balanço, demonstração de resultados e anexo ao balanço e demonstração de resultados;
+b) Balanço;
 
-c) Certificação legal das contas;
+c) Demonstração dos resultados;
 
-d) Parecer do órgão de fiscalização, quando exista.
+d) Demonstração das alterações no capital próprio/património líquido;
+
+e) Demonstração de fluxos de caixa;
+
+f) Anexo às demonstrações financeiras;
+
+g) Certificação legal das contas;
+
+h) Parecer do órgão de fiscalização, quando exista.
 
 2 - O registo da prestação de contas consolidadas consiste no depósito, por transmissão electrónica de dados e de acordo com os modelos oficiais previstos em legislação especial, da informação constante dos seguintes documentos:
 
 a) Acta da deliberação de aprovação das contas consolidadas do exercício, de onde conste o montante dos resultados consolidados;
 
-b) Balanço consolidado, demonstração consolidada dos resultados e anexo;
+b) Balanço consolidado, demonstração consolidada dos resultados, demonstração das alterações no capital próprio/património líquido, demonstração consolidada de fluxos de caixa e anexo às demonstrações financeiras;
 
 c) Certificação legal das contas consolidadas;
 
@@ -33,3 +41,5 @@ d) Parecer do órgão de fiscalização, quando exista.
 7 - O preenchimento dos modelos oficiais com a informação constante dos documentos referidos nos números anteriores permite a utilização dessa informação para fins de investigação científica ou de estatística, ainda que o registo não possa ser efetuado por falta de pagamento da taxa devida.
 
 8 - O acesso por meios electrónicos, nos termos legalmente previstos, à informação constante dos documentos referidos nos n.os 1 e 2, substitui, para todos os efeitos legais, os correspondentes documentos em suporte de papel.
+
+9 - Quando, nos termos da legislação especial, não forem exigíveis os documentos referidos nas alíneas d), e) e f) do n.º 1, os mesmos não integram o registo da prestação de contas.
