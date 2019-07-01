@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Actos de registo
+
 # Artigo 54.º
 
 ### Prazo e ordem dos registos
