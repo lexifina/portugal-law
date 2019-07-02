@@ -1,0 +1,548 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1956",
+    "id": "43354",
+    "titulo": "Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2019-07-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13990",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2019-07-02",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "43226",
+        "leg": "XIII",
+        "nr": "1889",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "43256",
+        "leg": "XIII",
+        "nr": "1903",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2601",
+            "obs": null,
+            "pag": [
+              "61-67"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-03",
+            "pubLeg": "XIII",
+            "pubNr": "103",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-07-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "5705",
+                "nome": "Ana Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=03:57:33:240&drc=00:04:14:549"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:01:47:789&drc=00:03:30:858"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:05:18:647&drc=00:03:17:634"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/63?pgs=63&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4096",
+                "nome": "Isabel Galriça Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:08:36:281&drc=00:03:57:989"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "64-65"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/64?pgs=64-65&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4328",
+                "nome": "Maurício Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:12:34:271&drc=00:03:15:541"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:19:48:704&drc=00:01:00:335"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "65-65",
+                  "66-67"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/65?pgs=65,66-67&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1893",
+                "nome": "Pedro Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:34",
+            "horaTermo": "18:54",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_02_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=04:15:49:813&drc=00:03:58:890"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "66-66"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-03",
+                "pubLeg": "XIII",
+                "pubNr": "103",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/66?pgs=66&org=PLC"
+              }
+            ],
+            "sumario": "Criação de uma Unidade de Cuidados Continuados Integrados e de Reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão; Integração do Hospital Psiquiátrico de Lorvão na rede nacional de cuidados continuados integrados, aumentando assim o número de camas públicas nesta rede; Pela implementação de uma Unidade de Cuidados Continuados integrados e de reabilitação nas instalações do antigo Hospital Psiquiátrico de Lorvão (Penacova)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "351776",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIII",
+        "nr": "522",
+        "publicacao": null,
+        "sel": "3",
+        "tipo": null,
+        "titulo": "Solicitam a reconversão e integração do Hospital Psiquiátrico de Lorvão na Rede Nacional de Cuidados Continuados Integrados."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871135",
+        "obs": null,
+        "pag": [
+          "61-67"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-03",
+        "pubLeg": "XIII",
+        "pubNr": "103",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/103/2019-07-03/61?pgs=61-67&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
