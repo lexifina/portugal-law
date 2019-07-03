@@ -8,13 +8,13 @@
 
 3 - O recrutamento dos candidatos ao estágio faz-se mediante concurso de prestação de provas de conhecimentos gerais e provas práticas, precedidas de inspecção médica para avaliar a robustez física dos candidatos e o estado geral de saúde, tendo em vista determinar a aptidão para o exercício das funções a que se candidatam.
 
-4 - A frequência do estágio de formação é feita como recruta, sendo a remuneração correspondente à primeira posição remuneratória da categoria de bombeiro sapador da tabela remuneratória de bombeiro profissional.
+4 - A frequência do estágio é feita como recruta, sendo a remuneração correspondente ao índices 75 e 89, respectivamente, quando se trate do estágio para a carreira de bombeiro sapador ou de bombeiro municipal.
 
 5 - A frequência do estágio é feita em regime de contrato administrativo de provimento, nos casos de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinária, nos restantes casos, nos termos da lei geral.
 
 6 - O estágio tem a duração de um ano, findo o qual os recrutas são ordenados em função da classificação obtida.
 
-7 - Os recrutas aprovados com a classificação mínima de Bom são reposicionados na segunda posição remuneratória da categoria de bombeiro sapador da tabela remuneratória de bombeiro profissional.
+7 - Os recrutas aprovados com classificação mínima de Bom são nomeados definitivamente nos lugares, respectivamente, de bombeiro sapador e de bombeiro de 3.ª classe.
 
 8 - O regulamento geral do estágio, contendo, designadamente, o sistema de funcionamento e a avaliação, é aprovado por despacho dos membros do Governo responsáveis pelas áreas da administração interna, da administração local, da Administração Pública e das florestas, ouvidas a Associação Nacional de Municípios Portugueses e as organizações sindicais.
 

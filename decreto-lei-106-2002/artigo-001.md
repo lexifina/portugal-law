@@ -6,4 +6,4 @@
 
 ### Objecto
 
-O presente diploma estabelece o estatuto de pessoal dos bombeiros profissionais.
+O presente diploma estabelece o estatuto de pessoal dos bombeiros profissionais da administração local.
