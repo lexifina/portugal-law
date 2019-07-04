@@ -1,0 +1,489 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "1235",
+    "id": "43841",
+    "titulo": "Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2019-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13997",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2019-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "43840",
+        "leg": "XIII",
+        "nr": "1234",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2604",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2604",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "43773",
+        "leg": "XIII",
+        "nr": "202",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2604",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-9&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2604",
+            "obs": null,
+            "pag": [
+              "3-9"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-05",
+            "pubLeg": "XIII",
+            "pubNr": "105",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-9&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Altera o regime aplicável ao processo de inventário"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:01:11:396&drc=00:04:44:036"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:24:44:576&drc=00:04:13:921"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": "S.E. ADJUNTA E DA JUSTIÇA",
+              "governo": "XXI GOVERNO CONSTITUCIONAL",
+              "nome": "Helena Mesquita Ribeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3-4",
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-4,8-9&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "2234",
+                "nome": "João Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:05:55:432&drc=00:04:34:745"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4-5"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/4?pgs=4-5&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6119",
+                "nome": "Emília Cerqueira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:10:30:177&drc=00:03:31:168"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/5?pgs=5-6&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1554",
+                "nome": "Filipe Neto Brandão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:14:01:345&drc=00:03:25:960"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "3998",
+                "nome": "José Manuel Pureza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:17:27:305&drc=00:03:33:685"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/7?pgs=7&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "4402",
+                "nome": "Vânia Dias da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:31",
+            "horaTermo": "17:48",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_04_14_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=00:21:00:991&drc=00:03:43:585"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-05",
+                "pubLeg": "XIII",
+                "pubNr": "105",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "sumario": "Altera o regime aplicável ao processo de inventário; Altera o Código do Processo Civil estabelecendo um regime de impenhorabilidade da habitação própria e permanente e fixando restrições à penhora e à execução de hipoteca; Altera o regime jurídico do processo de inventário reforçando os poderes gerais de controlo do juiz",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "351822",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871389",
+        "obs": null,
+        "pag": [
+          "3-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-05",
+        "pubLeg": "XIII",
+        "pubNr": "105",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/105/2019-07-05/3?pgs=3-9&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
