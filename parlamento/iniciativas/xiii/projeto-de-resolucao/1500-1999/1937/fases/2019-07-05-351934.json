@@ -1,0 +1,398 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "1937",
+    "id": "43308",
+    "titulo": "Universalidade da escola pública na freguesia de Fátima"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2019-07-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "14032",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2019-07-05",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "43104",
+        "leg": "XIII",
+        "nr": "1853",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2613",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-06",
+            "pubLeg": "XIII",
+            "pubNr": "106",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/35?pgs=35-40&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "2613",
+            "obs": null,
+            "pag": [
+              "35-40"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2019-07-06",
+            "pubLeg": "XIII",
+            "pubNr": "106",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/35?pgs=35-40&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "R",
+        "titulo": "Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-07-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "6037",
+                "nome": "Patrícia Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:33",
+            "horaTermo": "14:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:54:03:434&drc=00:04:23:699"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "35-36"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/35?pgs=35-36&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a adoção de medidas para defesa do direito à educação em Fátima; Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima; Universalidade da escola pública na freguesia de Fátima.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "6063",
+                "nome": "Joana Mortágua"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:33",
+            "horaTermo": "14:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=01:58:27:134&drc=00:03:26:532"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "36-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/36?pgs=36-37&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a adoção de medidas para defesa do direito à educação em Fátima; Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima; Universalidade da escola pública na freguesia de Fátima.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:33",
+            "horaTermo": "14:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=02:01:53:666&drc=00:03:08:876"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "37-37"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/37?pgs=37&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a adoção de medidas para defesa do direito à educação em Fátima; Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima; Universalidade da escola pública na freguesia de Fátima.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1977",
+                "nome": "António Gameiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:33",
+            "horaTermo": "14:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=02:05:02:543&drc=00:03:50:726"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "38-38"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/38?pgs=38&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a adoção de medidas para defesa do direito à educação em Fátima; Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima; Universalidade da escola pública na freguesia de Fátima.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "4170",
+                "nome": "Duarte Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:33",
+            "horaTermo": "14:41",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_05_09_30_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=02:08:53:269&drc=00:03:36:608"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "39-40"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-06",
+                "pubLeg": "XIII",
+                "pubNr": "106",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/39?pgs=39-40&org=PLC"
+              }
+            ],
+            "sumario": "Solicitam a adoção de medidas para defesa do direito à educação em Fátima; Recomenda ao Governo que aumente o número de turmas em contratos de associação na freguesia de Fátima; Universalidade da escola pública na freguesia de Fátima.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "351934",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": [
+      {
+        "autor": null,
+        "dataEntrada": null,
+        "descTipo": null,
+        "id": "11",
+        "leg": "XIII",
+        "nr": "546",
+        "publicacao": null,
+        "sel": "4",
+        "tipo": null,
+        "titulo": "Solicitam adoção de medidas para defesa do direito à educação em Fátima."
+      }
+    ],
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "872497",
+        "obs": null,
+        "pag": [
+          "35-40"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-06",
+        "pubLeg": "XIII",
+        "pubNr": "106",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/106/2019-07-06/35?pgs=35-40&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
