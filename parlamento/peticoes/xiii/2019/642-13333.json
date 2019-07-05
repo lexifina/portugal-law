@@ -1,0 +1,603 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13333",
+  "numero": "642",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-07-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-12-19",
+            "entidades": null,
+            "id": "114102",
+            "tipo": null,
+            "titulo": "Audição em 2019-12-19 com Subscritores da Petição n.º 642/XIII/4.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "12/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-15",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "910504",
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/051/2020-07-18/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-11-27",
+        "DataArquivo": "2020-07-15",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-07-16",
+        "DataReaberta": "2019-11-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-12-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938785a5449324d7a4a6d4d43307a5a47457a4c54526c596a41744f5751304e6930325a6d59304e446c694d6d59315a4441756347526d&fich=1e2632f0-3da3-4eb0-9d46-6ff449b2f5d0.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938355a5455355a6a566a5a4330314d5445354c5451314e6a5974596d5a6a5a69316a5a474e6b59544a68596a646a4d5755756347526d&fich=9e59f5cd-5119-4566-bfcf-cdcda2ab7c1e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396d4e6a49774e475a684d5330324e47466b4c54526a4f5463744f4749344f4331694e7a6c6b4d546c6a5a6d526d4d6d59756347526d&fich=f6204fa1-64ad-4c97-8b88-b79d19cfdf2f.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-27",
+            "gp": "PS",
+            "id": "6919",
+            "motivoCessacao": null,
+            "nome": "Maria Joaquina Matos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-09-23",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Trabalho e Segurança Social da XIV Legislatura."
+      }
+    ],
+    "DataDebate": "2020-12-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-09-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793968596d49344f54417a4d693035595463334c5451344e7a45744f44597a4f53316d59574a684d7a686b4d444d3159544d756347526d&fich=abb89032-9a77-4871-8639-faba38d035a3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45282",
+      "45397",
+      "45478"
+    ],
+    "Iniciativasoriginadas": [
+      "45282",
+      "45397",
+      "45478"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=34"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-26",
+                  "32-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/26?pgs=26,32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=28"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=35"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-27",
+                  "33-33"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/27?pgs=27,33&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=29"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "27-28"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/27?pgs=27-28&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=30"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "28-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/28?pgs=28-29&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=31"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "29-30"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/29?pgs=29-30&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=32"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "30-31"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/30?pgs=30-31&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=33"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "31-32"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/31?pgs=31-32&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos;  Altera o regime do complemento solidário para idosos, fazendo depender a sua atribuição da situação de pobreza do idoso e não do rendimento dos filhos e garantindo a convergência do valor de referência com o limiar de pobreza ; Melhora as condições de atribuição do complemento solidário para idosos e Condições de atribuição do complemento solidário para idosos (alteração ao Decreto-Lei n.º 232/2005, de 29 de dezembro).",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13333",
+    "PetAssunto": "Solicitam a alteração da legislação relativa ao Complemento Solidário para Idosos",
+    "PetDataEntrada": "2019-07-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13333",
+    "PetLeg": "XIII",
+    "PetNr": "642",
+    "PetNrAssinaturas": "4627",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6023",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-23",
+        "pubLeg": "XIV",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "882507",
+        "obs": null,
+        "pag": [
+          "21-21"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-29",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/007/2019-11-29/21?pgs=21&org=PLC"
+      }
+    ]
+  }
+}
