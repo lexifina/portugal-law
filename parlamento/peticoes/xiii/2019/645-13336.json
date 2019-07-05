@@ -1,0 +1,169 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13336",
+  "numero": "645",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-07-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-20",
+            "dataResposta": "2019-12-20",
+            "entidades": [
+              "Banco de Portugal"
+            ],
+            "nrOficio": "06/COF/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2019-11-20",
+            "dataResposta": "2020-09-21",
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "05/COF/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2019-11-20",
+        "DataArquivo": "2020-10-23",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-10-28",
+        "DataReaberta": "2019-11-20",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-11-21",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e5467314d544a6c4d4751744f575a6c4f5330304f4755774c574a6a595449744e444a6d4d444e6c4f4468685a44566d4c6e426b5a673d3d&fich=58512e0d-9fe9-48e0-bca2-42f03e88ad5f.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-11-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e574a695a444d324d444574596a55304d5330304f5449304c546b324e5745744d7a67354e5759315a44646d5a6a67794c6e426b5a673d3d&fich=5bbd3601-b541-4924-965a-3895f5d7ff82.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2019-11-21",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e444a6c4d5449774f5751744e7a5135596930304e5751354c546b79597a67744d5452684f5459314e57466a4e7a6b314c6e426b5a673d3d&fich=42e1209d-749b-45d9-92c8-14a9655ac795.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-10-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e7a6c6c4e54557a5a5755744e4451784e6930304e32526a4c546b304e5463744d5459795954566d4e7a4d785a444e694c6e426b5a673d3d&fich=79e553ee-4416-47dc-9457-162a5f731d3b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-01-02",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e5445344d7a41784e6a63744e6d5130595330304e4468694c54677a596d4d744d446b32597a56684f47593559544e684c6e426b5a673d3d&fich=51830167-6d4a-448b-83bc-096c5a8f9a3a.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-09-23",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5644543059765247396a6457316c626e52766331426c64476c6a595738764e474a6d4f4455314e324d744d7a4e6c4f5330304e3255344c5468684e544d744e6a4a6d595463304d575178596a67334c6e426b5a673d3d&fich=4bf8557c-33e9-47e8-8a53-62fa741d1b87.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7344",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Orçamento e Finanças",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-09-24",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4528",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Orçamento, Finanças e Modernização Administrativa",
+        "NotasAdmissibilidade": null,
+        "Numero": "5",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Orçamento e Finanças da XIV Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2019-09-24",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938775a546c694d6d4d795a4330304d6a5a6c4c5451344e325974596a5a684d6930305a546b344e5759775a544d78595451756347526d&fich=0e9b2c2d-426e-487f-b6a2-4e985f0e31a4.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13336",
+    "PetAssunto": "Urge acabar com os abusos-erros que são um produto da hiper-simplificação do regime SEPA (débitos bancários automáticos)",
+    "PetDataEntrada": "2019-07-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13336",
+    "PetLeg": "XIII",
+    "PetNr": "645",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
