@@ -1,0 +1,43 @@
+Lei n.º 47/2019
+de 8 de julho
+Primeira alteração ao Regime de Execução do Acolhimento Familiar, aprovado pelo Decreto-Lei n.º 11/2008, de 17 de janeiro
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:
+Artigo 1.º
+Objeto
+A presente lei altera o Regime de Execução do Acolhimento Familiar, aprovado pelo Decreto-Lei n.º 11/2008, de 17 de janeiro.
+Artigo 2.º
+Alteração ao Decreto-Lei n.º 11/2008, de 17 de janeiro
+É alterado o artigo 44.º do Decreto-Lei n.º 11/2008, de 17 de janeiro, que passa a ter a seguinte redação:
+«Artigo 44.º
+[...]
+1 - O regime previsto no presente decreto-lei aplica-se ainda, com as alterações decorrentes da natureza não onerosa do contrato, às situações em que o serviço de acolhimento é prestado gratuitamente por pessoa singular ou família que estejam habilitadas para o efeito.
+2 - Não é aplicável às situações previstas no número anterior, atenta a sua natureza gratuita, o disposto na alínea f) do n.º 1 do artigo 14.º e no n.º 2 do artigo 21.º
+3 - Às situações previstas no n.º 1 é ainda aplicável o disposto nos artigos 44.º-A, 44.º-B e 44.º-C.»
+Artigo 3.º
+Aditamento ao Decreto-Lei n.º 11/2008, de 17 de janeiro
+São aditados ao Decreto-Lei n.º 11/2008, de 17 de janeiro, os artigos 44.º-A a 44.º-C com a seguinte redação:
+«Artigo 44.º-A
+Deduções à coleta
+1 - Durante a vigência do contrato de acolhimento, a criança ou jovem será considerado:
+a) Membro do agregado familiar, para os efeitos dos artigos 78.º-C e 78.º-D do Código do Imposto sobre Rendimento de Pessoas Singulares;
+b) Dependente da pessoa singular ou da família, para os efeitos previstos no artigo 78.º-A do Código do Imposto sobre o Rendimento de Pessoas Singulares, sendo a dedução calculada de forma proporcional à duração, no ano em causa, do período do acolhimento.
+2 - O disposto no n.º 1 do presente artigo não obsta ao caráter de gratuitidade plasmado no artigo 44.º
+Artigo 44.º-B
+Direitos laborais
+1 - Durante a vigência do contrato de acolhimento, a pessoa singular ou um elemento da família de acolhimento dispõem do direito a faltas para assistência à criança ou jovem, sendo aplicável, com as devidas adaptações, o regime previsto no artigo 49.º e nas alíneas e) e f) do n.º 2 do artigo 249.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, incluindo a falta ocorrida na data de início do acolhimento.
+2 - O disposto no n.º 1 não obsta ao caráter de gratuitidade plasmado no artigo 44.º
+3 - A mãe e o pai trabalhadores envolvidos no processo de acolhimento familiar de crianças até 1 ano de idade têm direito a licença parental, sendo aplicável, com as devidas adaptações, o regime previsto nos artigos 40.º a 44.º do Código do Trabalho.
+Artigo 44.º-C
+Direito ao subsídio para a manutenção da criança ou jovem
+A natureza gratuita da prestação de serviço de acolhimento obsta ao pagamento da retribuição prevista na alínea d) do n.º 3 do artigo 20.º, mantendo-se o direito ao subsídio previsto na alínea e) do mesmo artigo.»
+Artigo 4.º
+Entrada em vigor
+A presente lei entra em vigor com o Orçamento do Estado subsequente ao da sua publicação.
+Aprovada em 26 de abril de 2019.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+Promulgada em 25 de junho de 2019.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendada em 27 de junho de 2019.
+O Primeiro-Ministro, António Luís Santos da Costa.
+112411949
