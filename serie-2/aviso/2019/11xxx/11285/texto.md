@@ -1,0 +1,14 @@
+Aviso n.º 11285/2019
+2.ª Revisão do Plano Diretor Municipal de Celorico de Basto
+Início de procedimento
+Joaquim Mota e Silva, Presidente da Câmara Municipal de Celorico de Basto, torna público que a Câmara Municipal, em reunião realizada em 30 de maio de 2019, deliberou, nos termos do n.º 2 do artigo 124.º do Regime Jurídico dos Instrumentos de Gestão Territorial, publicado pelo Decreto-Lei n.º 80/2015 de 14 de maio, dar início ao procedimento de Revisão do Plano Diretor Municipal de Celorico de Basto com o objetivo principal de o adequar às alterações legislativas relativas à classificação do solo, conforme exigido pelo artigo 199.º do mesmo diploma, sendo previsto para elaboração da proposta do plano o prazo de 15 meses.
+Os termos de referência e o relatório do estado do ordenamento do território (REOT) que fundamentam a necessidade de revisão do PDM estarão disponíveis para consulta no Departamento de Planeamento e Serviços Socioculturais, na página da Internet http://www.mun-celoricodebasto.pt e na área de cidadania da Plataforma Colaborativa de Gestão Territorial http://pcgt.dgterritorio.gov.pt.
+No âmbito do período de participação previsto no n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, com a duração de 15 dias úteis, os interessados poderão apresentar as sugestões ou as informações que devam ser tidas em consideração no procedimento de revisão, por escrito, nos serviços da Câmara Municipal, por correio para Município de Celorico de Basto - Departamento de Planeamento, Praça Cardeal D. António Ribeiro, 4890-291 Celorico de Basto ou por e-mail para geral@mun-celoricodebasto.pt, devendo identificar-se com o nome completo, n.º de contribuinte, morada e n.º de telefone ou e-mail de contacto, referindo como assunto "Revisão do PDM - sugestões e informações".
+3 de junho de 2019. - O Presidente da Câmara Municipal, Dr. Joaquim Monteiro da Mota e Silva.
+Deliberação
+José Joaquim da Silva Carvalho, coordenador técnico da Secção de Taxas e Licenças da Câmara Municipal de Celorico de Basto, por delegação de competências pelo Despacho de 19 de março de 2019:
+Certifica que, em reunião ordinária de 30 de maio de 2019, a Câmara Municipal deliberou, por unanimidade, dar início ao procedimento da Revisão do Plano Diretor Municipal de Celorico de Basto com o objetivo principal de o adequar às alterações legislativas relativas à classificação do solo, conforme exigido pelo artigo 199.º do Decreto-Lei n.º 80/2015 de 14 de maio (cujo prazo previsto para elaboração da proposta de revisão é de 15 meses).
+Mais deliberando, abrir um período de participação preventiva, para apresentação de sugestões e informações, nos termos do n.º 2 do artigo 88.º do Decreto-Lei n.º 80/2015, com a duração de 15 dias úteis e início no dia seguinte à publicação da presente deliberação.
+Está conforme.
+Celorico de Basto, 13 de junho de 2019. - O Coordenador Técnico, José Joaquim da Silva Carvalho.
+612377857
