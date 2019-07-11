@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=KN8asRY3F%2boLwzlW%2bWxN0cdlpy6IvLCOFPR5X84uKPHMAY3P2RQEfr1P5sqbl%2brhRP2KxbI7X5ozrkHdifucwVJhHVVkEAo%2f2CdtgMVDfGQwaQLkn9%2fJ8TY7ADGKoCdFZiBnJaOAKqAJlstTjUigXy4nWnmuR2jbJcjcXtAMgXWuR6pxNa3eJ2kUfPaUcVpHGETkA2yoS0k%2b4jTliOkBpJdEpOyflajEM4QzO%2biQWFciqqvZjeA1%2buytfKyhCkdjtaPiV9B6tcNyXa8n6lGo3PDFkOgWevu5Qyn3ww7Kytpek4Hq1uBE%2bNFIOYb15GX7oW96d%2ffBTLDONnA2gh9JNqhLzrYJ9KllVK8ZN43bEBcuRRr5YfaHysppv%2flq1wawjUw2Sfn0Lo2BlYxNXoigDA%3d%3d&fich=DiplomasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6ca685f682ed6e372d8e4c9a26faabbdb3cbba2a01111d82ab17c788115cc3bb",
+  "legislatura": "XIII",
+  "id": "21639",
+  "tipo": "Resolução",
+  "numero": null,
+  "data_registo": "2019-07-11",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2019",
+    "Id": "21639",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "42854",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32566a597a51305a445a6c4c546b78596a51744e4745775a5330345954646d4c5455334d444d794f475a6c4f54566c4f53356b62324d3d&fich=ecc44d6e-91b4-4a0e-8a7f-570328fe95e9.doc&Inline=true",
+        "IniNr": "1756",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "R",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764d5455334e7a517a4e6a49744e4463334d5330304e7a4d334c574a6b4d6a6b744e546b774d6d59345a5749304d7a41774c6d527659773d3d&fich=15774362-4771-4737-bd29-5902f8eb4300.doc&Inline=true",
+    "Numero": null,
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "871501",
+        "obs": null,
+        "pag": [
+          "61-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-11",
+        "pubLeg": "XIII",
+        "pubNr": "125",
+        "pubSL": "4",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/13/04/125/2019-07-11/61?pgs=61&org=PLC"
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Resolução",
+    "Titulo": "Recomenda ao Governo que adote medidas para corrigir as anomalias nos voos e a prestação de assistência adequada aos passageiros para as regiões autónomas",
+    "Tp": "R",
+    "Versao": "1"
+  }
+}
