@@ -12,10 +12,6 @@
 
 5 - A regulamentação específica do POAPMC fixa, para as candidaturas em parceria, regras complementares ao disposto no presente artigo.
 
-6 - As candidaturas podem ser anuais ou plurianais, não podendo exceder, neste último caso, 36 meses.
+6 - As candidaturas podem ser anuais ou plurianuais, podendo, neste último caso, o seu limite máximo ser definido em regulamento específico.
 
-7 - A execução da candidatura pode ter um prazo superior ao previsto no número anterior, em casos excecionais devidamente fundamentados e expressamente aprovados pela autoridade de gestão.
-
-CAPÍTULO VI
-
-Entidades beneficiárias e destinatários
+7 - Em casos excecionais, devidamente fundamentados e expressamente aprovados pela autoridade de gestão, a execução da candidatura pode ter um prazo superior ao que resulta do estabelecido no número anterior.

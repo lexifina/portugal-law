@@ -21,3 +21,5 @@ b) As despesas com as medidas de acompanhamento.
 7 - São elegíveis as despesas que tenham sido realizadas entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data da conclusão da operação, que constituem a data limite para apresentação do saldo final.
 
 8 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.
+
+9 - Podem ser considerados prazos superiores aos previstos no n.º 7, desde que solicitado pela entidade beneficiária e autorizado pela autoridade de gestão.

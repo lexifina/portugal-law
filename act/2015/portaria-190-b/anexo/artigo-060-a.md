@@ -13,3 +13,9 @@ b) Uma garantia de rentabilização de investimentos anteriormente realizados, d
 3 - O convite pode definir requisitos das entidades e das operações diferenciados e/ou complementares aos previstos na presente secção.
 
 4 - O aviso de abertura de candidaturas por convite é devidamente publicitado na página da Internet do POAPMC e no portal do Portugal 2020.
+
+5 - Nos casos previstos no n.º 2 a autoridade de gestão pode definir, em articulação com o organismo intermédio da medida 1.2, procedimento prévio de manifestação de interesse, por parte das entidades a convidar, compatíveis com os pressupostos previstos no n.º 1, antes de proceder à publicitação da abertura de candidaturas por convite.
+
+6 - Caso as entidades referidas no número anterior não manifestem interesse na apresentação de candidaturas, a autoridade de gestão pode publicitar um aviso de abertura de candidaturas com o mesmo objeto constante do procedimento previsto nesse número.
+
+7 - Nas candidaturas em parceria o convite para apresentação de candidatura é dirigido à entidade coordenadora.

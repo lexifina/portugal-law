@@ -28,7 +28,7 @@ d) As despesas das medidas de acompanhamento, realizadas, no âmbito de operaç�
 
 6 - As taxas referidas nas alíneas b), c) e d) do número anterior aplicam-se sobre valores de aquisição dos géneros alimentares ou dos bens de primeira necessidade.
 
-7 - A redução da despesa elegível associada à aquisição dos géneros alimentares ou dos bens de primeira necessidade prevista na alínea a) do n.º 5 determina, por consequência, a redução da despesa elegível que resulta da aplicação da taxa fixa referida nas alíneas b), c) e d) do mesmo número.
+7 - Quando a redução da despesa elegível associada à aquisição dos géneros alimentares ou dos bens de primeira necessidade, prevista na alínea a) do n.º 5, se dever ao incumprimento do direito aplicável, por parte do organismo responsável pela aquisição de alimentos e/ou pela assistência material de base, não dá origem à redução das despesas elegíveis que resultam da aplicação da taxa fixa referida nas alíneas c) e d) do mesmo número realizada pelos organismos aí referidos.
 
 8 - Não são elegíveis as seguintes despesas:
 

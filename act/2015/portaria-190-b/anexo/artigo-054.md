@@ -2,15 +2,17 @@
 
 ### Fundamentos para alteração da decisão de aprovação
 
-1 - Sem prejuízo do disposto no n.º 6 do artigo 36.º, a alteração à decisão de aprovação, nos termos previstos no artigo 47.º, apenas pode ocorrer nas seguintes situações:
+1 - Sem prejuízo do disposto no n.º 6 do artigo 36.º, a alteração à decisão de aprovação nos termos previstos no artigo 47.º, pode ocorrer, nomeadamente, nas seguintes situações:
 
 a) Necessidade de reprogramação de natureza física da candidatura aprovada, sem aumento do montante do financiamento elegível aprovado e sem substituição do respetivo objeto;
 
 b) A alteração do número de embalagens individuais a adquirir em número superior ou inferior a 25 % do número inicialmente aprovado;
 
-2 - Para efeitos do número anterior, carecem de decisão expressa da autoridade de gestão as seguintes alterações à decisão de aprovação:
+c) Necessidade de reprogramação do âmbito da candidatura aprovada, nomeadamente da tipologia de produtos a distribuir, que implica reprogramação de natureza financeira, designadamente o reforço financeiro da candidatura.
 
-a) A alteração do tipo de géneros alimentares e ou dos bens de primeira necessidade a adquirir;
+2 - Para efeitos do disposto no número anterior, carecem de decisão expressa da autoridade de gestão as seguintes alterações à decisão de aprovação:
+
+a) A alteração, introdução e/ou eliminação do tipo de géneros alimentares e/ou bens de primeira necessidade;
 
 b) A alteração do número de embalagens coletivas a adquirir em número superior ou inferior a 25 % do número inicialmente aprovado;
 

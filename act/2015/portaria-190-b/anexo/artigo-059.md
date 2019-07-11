@@ -12,7 +12,7 @@ b) Verificação da situação tributária e contributiva regularizada perante, 
 
 c) Comunicação no SI FEAC do início ou reinício da operação.
 
-3 - O pedido de reembolso é efetuado com uma periodicidade trimestral devendo os beneficiários submeter no SI FEAC:
+3 - O pedido de reembolso é efetuado com uma periodicidade mínima trimestral, devendo os beneficiários submetê-lo no SI FEAC.
 
 a) A listagem de todas as despesas pagas por rubrica;
 
@@ -23,3 +23,5 @@ b) O mapa que evidencie o nível de execução dos indicadores de realização f
 5 - Os pagamentos ficam condicionados aos fluxos financeiros da Comissão Europeia, conforme estipulado no n.º 2 do artigo 42.º do Regulamento (UE) n.º 223/2014, de 11 de março.
 
 6 - Os pagamentos aos beneficiários são efetuados para uma conta bancária devidamente identificada, sendo que a mudança de domicílio ou de conta bancária, sem comunicação prévia à autoridade de gestão no prazo de 30 dias úteis, determina a suspensão de pagamentos, nos termos previstos no artigo 38.º
+
+8 - Em casos devidamente fundamentados, e por solicitação das entidades beneficiárias, pode ser autorizada pela autoridade de gestão uma periodicidade mínima diferente da prevista no n.º 3.

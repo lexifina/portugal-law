@@ -2,7 +2,7 @@
 
 ### Apresentação de candidaturas, análise e seleção
 
-1 - As candidaturas podem ser apresentadas em períodos predefinidos, ou, excecionalmente e mediante autorização dos membros do governo responsáveis pela coordenação política do FEAC, em período contínuo.
+1 - As candidaturas podem ser apresentadas em períodos predefinidos ou em período contínuo.
 
 2 - Os prazos para apresentação de candidaturas são fixados por despacho da autoridade de gestão e divulgados no sítio da internet do POAPMC e no portal do Portugal 2020.
 

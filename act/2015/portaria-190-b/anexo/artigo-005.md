@@ -2,7 +2,9 @@
 
 ### Coordenação política
 
-1 - A coordenação política do FEAC é da responsabilidade conjunta dos Ministros do Trabalho, Solidariedade e Segurança Social e do Planeamento e das Infraestruturas.
+1 - A coordenação política do FEAC é da responsabilidade conjunta dos Ministros do Trabalho, Solidariedade e Segurança Social e do Planeamento.
+
+2 - Compete à coordenação política, designadamente:
 
 a) Coordenar a execução do POAPMC;
 
