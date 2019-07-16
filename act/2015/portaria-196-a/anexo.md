@@ -46,7 +46,7 @@ b) Do trabalho independente - rendimentos empresariais e profissionais;
 
 c) De pensões;
 
-d) De prestações sociais (exceto as atribuídas por encargos familiares e por deficiência);
+d) De prestações sociais (exceto as atribuídas por encargos familiares e por deficiência, sem prejuízo do disposto nos n.os 11.3.4 e 11.3.5);
 
 e) Bolsas de estudo e formação (exceto as atribuídas para frequência e conclusão, até ao grau de licenciatura);
 
@@ -128,6 +128,12 @@ n = Número de elementos do agregado familiar
 
 Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o período de ausência devidamente fundamentado exceda 15 dias seguidos.
 
+9.1 - Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o período de ausência devidamente fundamentado exceda 15 dias seguidos.
+
+9.2 - Sempre que se verifique a frequência da mesma resposta social e estabelecimento de apoio social por mais do que um elemento do mesmo agregado familiar, pode haver lugar a uma redução na comparticipação familiar mensal devida pelo segundo e seguintes elementos do agregado familiar, a estabelecer pela instituição em regulamento interno.
+
+9.3 - No caso de resposta social Creche, a redução a que se refere o número anterior corresponde a uma percentagem entre 10 % a 20 %, a fixar pela instituição em regulamento interno.
+
 10 - Revisão da comparticipação familiar
 
 10.1 - As comparticipações familiares são, em regra, objeto de revisão anual a efetuar no início do ano letivo ou no início do ano civil.
@@ -169,3 +175,7 @@ Há lugar a uma redução de 10 % na comparticipação familiar mensal quando o 
 11.3.2 - Para efeitos de comparticipação familiar em Lar Residencial consideram-se as normas constantes da presente orientação, salvaguardando-se que, quando o valor da comparticipação familiar apurada seja inferior a 90 % do rendimento do utente, a comparticipação familiar a aplicar é de 90 % sobre dos rendimentos do utente.
 
 11.3.3 - Para as respostas sociais centro de convívio e centro de atendimento, acompanhamento e reabilitação social para pessoas com deficiência, a comparticipação familiar é variável de acordo com a avaliação casuística, em função das características do território, das atividades e dos serviços prestados aos utentes.
+
+11.3.4 - Para efeitos da comparticipação familiar nas respostas sociais de natureza residencial/internamento considera-se, enquanto rendimento do agregado familiar e para determinação do respetivo montante, 80 % do montante da Prestação Social para a Inclusão (PSI) recebida pelo utente, salvo na situação de frequência de residência autónoma em que é considerado 50 % do montante da PSI recebida pelo utente.
+
+11.3.5 - Para efeitos da comparticipação familiar nas respostas sociais não enquadradas no número anterior considera-se, enquanto rendimento do agregado familiar e para determinação do respetivo montante, 50 % do montante da Prestação Social para a Inclusão recebida pelo utente.

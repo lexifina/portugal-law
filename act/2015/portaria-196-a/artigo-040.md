@@ -10,9 +10,9 @@
 
 2.º A CNC tem composição paritária, sendo constituída por representantes das seguintes entidades:
 
-a) Três membros em representação do ministério que tutela a segurança social, designados pela Direção-Geral da Segurança Social, pelo Instituto da Segurança Social, e pelo Gabinete de Estratégia e Planeamento;
+a) Quatro representantes do ministério que tutela a segurança social designados, um pela Direção-Geral da Segurança Social, dois pelo Instituto da Segurança Social, I. P., e um pelo Gabinete de Estratégia e Planeamento;
 
-b) Três membros em representação do sector social e solidário, designados pela Confederação Nacional das Instituições de Solidariedade, pela União das Misericórdias Portuguesas e pela União das Mutualidades Portuguesas.
+b) Um representante de cada uma das entidades representativas das instituições sociais, previstas no n.º 3 do artigo 13.º do Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual.
 
 3 - A CNC é coordenada pela Direção-Geral da Segurança Social.
 

@@ -4,4 +4,4 @@
 
 1.º O acordo de gestão só pode ser celebrado com a instituição em cujos objetivos estatutários se enquadrem as atividades desenvolvidas ou a desenvolver nas instalações e estabelecimentos que sejam objeto do acordo.
 
-2.º A celebração do acordo de gestão implica, para o funcionamento da resposta social, a celebração de um acordo de cooperação.
+2 - A celebração do acordo de gestão implica, para o funcionamento da resposta social, a celebração de um acordo de cooperação ou protocolo.

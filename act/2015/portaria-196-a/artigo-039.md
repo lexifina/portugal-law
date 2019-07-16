@@ -6,20 +6,12 @@
 
 ### Ações de fiscalização
 
-1.º Compete ao ISS, I. P. o desenvolvimento de ações de fiscalização dos equipamentos e serviços, nos termos da legislação aplicável.
+1 - Compete ao ISS, I. P., através do departamento de fiscalização, e sem prejuízo da ação inspetiva de outros organismos competentes, o desenvolvimento de ações de fiscalização dos equipamentos e serviços, nos termos da legislação aplicável.
 
-2.º Sem prejuízo da ação inspetiva dos organismos competentes, compete ainda ao ISS, I. P., no âmbito da cooperação com as instituições:
+2 - A elaboração de autos de notícia respeitantes a infrações de natureza contraordenacional cometidas pelas IPSS, incluindo a proposta de aplicação do respetivo regime sancionatório, cabe ao departamento de fiscalização do ISS, I. P., sem prejuízo das competências próprias dos centros distritais no desenvolvimento das ações necessárias à aplicação do regime sancionatório pelos serviços de jurídico e contencioso.
 
-a) Zelar pelo integral cumprimento das cláusulas dos acordos e protocolos;
+3 - Cabe ainda ao departamento referido nos números anteriores proceder à admissão, tratamento e determinação do procedimento aplicável no que respeita a autos de infração que sejam levantados, nos termos legais em vigor.
 
-b) Avaliar a qualidade dos cuidados prestados pelas instituições;
+4 - A realização de ações inspetivas ou de fiscalização que envolvam a intervenção de organismos com competências de fiscalização de âmbitos setoriais específicos é efetuada em conjunto com o serviço de fiscalização do ISS, I. P.
 
-c) Fiscalizar os estabelecimentos e desencadear os procedimentos respeitantes às atuações irregulares detetadas;
-
-d) Elaborar o relatório de avaliação das respostas sociais tendo em vista a decisão de manutenção, revisão, suspensão ou cessação;
-
-e) Acompanhar, em colaboração com as instituições, a execução das medidas propostas.
-
-3 - [Revogado].
-
-4 - [Revogado].
+5 - O desenvolvimento de ações de fiscalização dos equipamentos e serviços só pode ser efetuado por organismos da Administração Central do Estado com competências de auditoria, inspeção e fiscalização

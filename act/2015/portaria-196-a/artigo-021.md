@@ -6,7 +6,7 @@
 
 ### Objeto do acordo de gestão
 
-O acordo de gestão pode prever a transferência de um equipamento social de natureza pública, numa das seguintes formas:
+O acordo de gestão pode prever a transferência de um equipamento social, numa das seguintes formas:
 
 a) A gestão do funcionamento do equipamento social;
 

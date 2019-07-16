@@ -4,7 +4,7 @@
 
 1.º O pagamento da comparticipação financeira da segurança social é efetuado mensalmente tendo em conta a resposta social em causa.
 
-2.º Para efeitos do disposto no número anterior, a instituição deve enviar ao ISS, I. P. a frequência verificada no mês anterior.
+2 - Para efeitos do disposto no número anterior, a instituição deve comunicar ao ISS, I. P., a frequência verificada no mês anterior, através da Segurança Social Direta.
 
 3.º A não comunicação da frequência no prazo indicado implica a suspensão do pagamento no segundo mês a partir da ocorrência do incumprimento, sendo imediatamente reposto após a sua regularização.
 

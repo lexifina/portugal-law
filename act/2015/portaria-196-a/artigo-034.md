@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Incumprimento e fiscalização
-
 ## Secção I
 
 ## Incumprimento
@@ -10,7 +6,7 @@
 
 ### Consequências do incumprimento
 
-O não cumprimento das cláusulas constantes dos acordos de cooperação, gestão e protocolos pode dar lugar a:
+O não cumprimento das cláusulas constantes dos acordos de cooperação, gestão e protocolos pode dar lugar, mediante proposta do serviço de fiscalização e aprovação do Conselho Diretivo do ISS, I. P., a:
 
 a) Advertência escrita;
 

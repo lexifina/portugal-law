@@ -2,9 +2,9 @@
 
 ### Comissões distritais de cooperação
 
-1.º As comissões distritais de cooperação, adiante designadas por comissões distritais, têm composição paritária, sendo constituídas por três membros designados pela segurança social e por um membro designado por cada uma das seguintes entidades: Confederação Nacional das Instituições de Solidariedade, União das Misericórdias Portuguesas e União das Mutualidades Portuguesas.
+1 - As comissões distritais de cooperação, adiante designadas por comissões distritais, têm composição paritária, sendo constituídas por quatro membros designados pela segurança social e por um membro designado por cada uma das entidades representativas das instituições sociais, previstas no n.º 3 do artigo 13.º do Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual.
 
-2.º Na impossibilidade de designação de um membro de uma das entidades referidas no número anterior, a comissão distrital é constituída apenas por dois membros designados pelo centro distrital do ISS, I. P. por forma a garantir-se a sua composição paritária.
+2 - Na impossibilidade de designação de um membro de uma ou mais de uma das entidades representativas das instituições sociais, a comissão distrital é constituída pelo mesmo número de membros designados pelo centro distrital do ISS, I. P., por forma a garantir-se a sua composição paritária.
 
 3.º As comissões distritais de cooperação funcionam junto dos serviços descentralizados do ISS, I. P., competindo-lhes:
 
