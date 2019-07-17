@@ -1,0 +1,7 @@
+Aviso n.º 11653/2019
+Sumário: Prorrogado o prazo da consulta pública ao Projeto de Revisão do Regulamento de Trânsito e Estacionamento de Sintra.
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público que, ao abrigo do n.º 2 do ponto XXI da deliberação da Câmara Municipal de Sintra tomada em 30 de outubro de 2017 sobre a Proposta n.º 824-P/2017, de 25 de outubro de 2017, é prorrogado o prazo da consulta pública ao Projeto de Revisão do Regulamento de Trânsito e Estacionamento de Sintra, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, até ao dia 30 de setembro de 2019, estando o texto disponível mediante afixação do presente Edital n.º 228/2019, nos locais de estilo e no sítio eletrónico oficial do município www.cm-sintra.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Sintra, entregues no Gabinete de Apoio ao Munícipe, Lgº Dr. Virgílio Horta, 2710 Sintra, através do fax 219238551, ou ainda através do e-mail dju@cm-sintra.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta, sob pena de rejeição liminar.
+25 de junho de 2019. - O Presidente da Câmara, Basílio Horta.
+312400008
