@@ -1,0 +1,512 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HXm%2b87HTPtJbQrrZDMoZDehosVixBWLVr7%2fWzQFp6sH41dW9FhCuotEoGzLlp%2b1spvFT8stP8Jg6R%2b6zhGqlO1eQzj5%2b6FoTJxC1fJONBYndPjQY9t64WZoCNPCHDPPZvKGO1I46KsLPS3msbbaT0BaH1roVBwehND06TmkN71H2DxkkxzFmpV%2fVJmSi%2bLtWC2X60oVQCLudwp2VmzBZ%2fCtFA6O%2fkrdFLkBGb5neGpHm9bqs9Ewu3ZHsbOih2Ks0yEK2fG2uzIlPzbz4nPgFmPT9hpBko33nxiG%2fvCPnaIs%2bh53izWx2zLc5qJ0cgSdsw0nKLfSF8v1jQDfgqnAUnGOwfrRNs9uM0qBVi0gEhZ4p5tHlupqt4slOBPHob3gj&fich=IniciativasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6d69361681beb476f74051295cc9181b0aea8e1b62645de20e0cddc6df15e621",
+  "legislatura": "XIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "136",
+    "id": "42733",
+    "titulo": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2019-07-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "14091",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2019-07-19",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2019-07-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2433",
+                "nome": "José Moura Soeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=07:33:56:266&drc=00:02:56:173"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "132-133"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/132?pgs=132-133&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "4104",
+                "nome": "Rita Rato"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=07:36:52:440&drc=00:02:32:586"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "133-134"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/133?pgs=133-134&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1656",
+                "nome": "António Carlos Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=07:39:25:027&drc=00:02:22:171"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "134-134"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/134?pgs=134&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "5491",
+                "nome": "Susana Lamas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=07:41:47:198&drc=00:01:59:865"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "134-135"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/134?pgs=134-135&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2445",
+                "nome": "Tiago Barbosa Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2019_07_19_09_00_00_clean_14_plenario&url=l13/sl4/a2019/m07/&tI=07:43:47:064&drc=00:02:37:936"
+              }
+            ],
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "135-136"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/135?pgs=135-136&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "6207",
+                "nome": "Margarida Balseiro Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "157-158"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/157?pgs=157-158&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "09:00",
+            "horaTermo": "18:07",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "158-158"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-07-20",
+                "pubLeg": "XIII",
+                "pubNr": "108",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20/158?pgs=158&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social; Combate a precariedade laboral e reforça os direitos dos trabalhadores; Altera o Código do Trabalho e o Código de Processo do Trabalho, introduzindo alterações no regime da presunção de contrato de trabalho e do contrato a termo certo resolutivo; Altera o regime jurídico aplicável à contratação a termo, concretizando os compromissos constantes do Programa do Governo e as recomendações do «grupo de trabalho para a preparação de um plano nacional de combate à precariedade», procedendo à 13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro; Elimina os regimes do banco de horas individual e da adaptabilidade individual, procedendo à 13.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro; Revoga as normas de celebração do contrato a termo certo nas situações de trabalhadores à procura do primeiro emprego e desempregados de longa duração (13.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprovou o Código do Trabalho); Procede à revogação das normas que permitem a celebração do contrato a termo certo só porque os trabalhadores se encontram em situação de procura do primeiro emprego e desempregados de longa duração; Combate o falso trabalho temporário e restringe o recurso ao outsourcing e ao trabalho temporário (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Revoga a presunção legal de aceitação do despedimento por causas objetivas quando o empregador disponibiliza a compensação ao trabalhador (14.ª alteração ao Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro); Altera o regime de trabalho temporário limitando a sua utilização e reforçando os direitos dos trabalhadores (14.ª alteração à Lei n.º 7/2009, de 12 de fevereiro, que aprova o Código do Trabalho).",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "2019-09-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "6048",
+                "nome": "Ivan Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:06",
+            "horaTermo": "16:11",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "235646",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2019-09-12",
+                "pubLeg": "XIII",
+                "pubNr": "109",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/109/2019-09-12/21?pgs=21&org=PLC"
+              }
+            ],
+            "sumario": "Altera o Código de Trabalho, e respetiva regulamentação, e o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "353105",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "14091",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-07-20",
+        "pubLeg": "XIII",
+        "pubNr": "108",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/108/2019-07-20?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "14092",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-09-12",
+        "pubLeg": "XIII",
+        "pubNr": "109",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/109/2019-09-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2019-07-19",
+        "descricao": "Texto de Substituição apresentado pela Comissão de Trabalho e Segurança Social relativo à Proposta de Lei n.º 136/XIII/3.ª (GOV), Projetos de Lei n.ºs 137/XIII/1.ª (PCP), 550/XIII/2.ª (PAN), 729/XIII/3.ª (BE), 732/XIII/3.ª (BE), 797/XIII/3.ª (PCP), 901/XIII/3.ª (PEV), 904/XIII/3.ª (BE), 905/XIII/3.ª (BE) e 912/XIII/3.ª (PCP)",
+        "detalhe": "A Favor: <I>PS</I>, <I> Paulo Trigo Pereira (Ninsc)</I><BR>Contra:<I>BE</I>, <I> PCP</I>, <I> PEV</I>, <I> PAN</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "85039",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "108",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
