@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 117/2019
+Sumário: Altera a delegação nacional no Comité das Regiões da União Europeia.
+A delegação nacional no Comité das Regiões da União Europeia, composta por dois representantes das regiões autónomas dos Açores e da Madeira e 10 representantes dos municípios, foi proposta, através da Resolução n.º 3/2015, de 13 de janeiro, ao Conselho da União Europeia, o qual, em 26 de janeiro do mesmo ano, nomeou os membros e suplentes do Comité das Regiões para o período compreendido entre 26 de janeiro de 2015 e 25 de janeiro de 2020. A delegação nacional foi, entretanto, alterada pelas Resoluções n.os 32/2015, de 21 de maio, e 23/2016, de 2 de agosto, e pelas Resoluções do Conselho de Ministros n.os 27/2017, de 8 de fevereiro, 177/2017, de 27 de novembro, e 93/2018, de 16 de julho.
+Os membros deste Comité e respetivos suplentes são representantes das pessoas coletivas territoriais regionais e locais, sendo necessariamente titulares de um mandato eleitoral a nível regional ou local e politicamente responsáveis perante uma assembleia eleita, sendo que o respetivo mandato cessa, quer pelo termo do mandato eleitoral regional ou local em virtude do qual foram nomeados, quer pela renúncia do membro daquele Comité, devendo este, nestes casos e para o efeito, notificar por escrito o Presidente do Comité da sua decisão.
+Recentemente, Álvaro dos Santos Amaro, que, na qualidade de Presidente da Câmara Municipal da Guarda, havia sido nomeado pelo Conselho da União Europeia como membro efetivo do Comité das Regiões, renunciou ao mandato como presidente da Câmara Municipal da Guarda.
+Importa, pois, proceder à sua substituição para o período remanescente do mandato em curso, propondo-se, para o efeito, Hélder António Guerra de Sousa Silva, presidente da Câmara Municipal de Mafra, que é, por seu turno, membro suplente do Comité das Regiões, importando, assim, proceder também à correspondente substituição.
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Propor ao Conselho da União Europeia a substituição de Álvaro dos Santos Amaro, até agora membro efetivo do Comité das Regiões, por Hélder António Guerra de Sousa Silva, presidente da Câmara Municipal de Mafra e até agora membro suplente do Comité das Regiões.
+2 - Propor ao Conselho da União Europeia a substituição de Hélder António Guerra de Sousa Silva, presidente da Câmara Municipal de Mafra e até agora membro suplente do Comité das Regiões, por Carlos André Teles Paulo de Carvalho, presidente da Câmara Municipal de Tabuaço.
+3 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
+Presidência do Conselho de Ministros, 11 de julho de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112451209
