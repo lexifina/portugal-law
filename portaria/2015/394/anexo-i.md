@@ -1,6 +1,6 @@
 # Anexo I
 
-### (a que se refere o n.º 1 do artigo 1.º)
+### (a que se referem os n.os 2 e 3 do artigo 1.º)
 
 I - Preparação mecânica do terreno e piquetagem
 
