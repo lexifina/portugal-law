@@ -2,12 +2,8 @@
 
 ### Despesas elegíveis e não elegíveis
 
-(a que se refere o artigo 10.º)
-
-8.1.1, «Florestação de terras agrícolas e não agrícolas»
+I - Apoio ao investimento
 
 (ver documento original)
 
-Despesas não elegíveis
-
-(ver documento original)
+No caso de a candidatura incluir investimentos com níveis de apoio diferentes, o nível de apoio aplicável às despesas de elaboração e acompanhamento do projeto e elaboração do PGF, corresponde à média ponderada dos níveis de apoio dos restantes investimentos.

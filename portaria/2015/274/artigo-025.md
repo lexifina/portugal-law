@@ -2,4 +2,4 @@
 
 ### Nível dos apoios
 
-Os níveis dos apoios previstos no presente capítulo são os estabelecidos no anexo xi da presente portaria, da qual faz parte integrante.
+Sem prejuízo do disposto no n.º 3 do artigo 5.º, os níveis dos apoios previstos no presente capítulo são os estabelecidos no anexo XI da presente portaria, da qual faz parte integrante.

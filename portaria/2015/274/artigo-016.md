@@ -2,4 +2,4 @@
 
 ### Despesas elegíveis e não elegíveis
 
-As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo vii da presente portaria, da qual faz parte integrante.
+As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo VII à presente Portaria, da qual faz parte integrante, sendo que as despesas complementares serão elegíveis se realizadas em conjunto com, pelo menos, uma das despesas indicadas no referido anexo.

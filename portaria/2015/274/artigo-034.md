@@ -6,7 +6,7 @@
 
 a) Reembolso de custos elegíveis efetivamente incorridos e pagos;
 
-b) Tabelas normalizadas de custos unitários, nos termos da Portaria n.º 394/2015, de 3 de novembro;
+b) Tabelas normalizadas de custos unitários, nos termos da Portaria n.º 394/2015, de 3 de novembro, na sua redação em vigor;
 
 c) Prémios.
 

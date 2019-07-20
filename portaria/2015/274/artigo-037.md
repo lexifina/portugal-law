@@ -4,7 +4,7 @@
 
 1 - A autoridade de gestão ou as direções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como o apuramento do montante do custo total elegível e o nível de apoio previsional.
 
-2 - As visitas ao local, no âmbito do controlo administrativo prévio à decisão das candidaturas, são realizadas a todas as candidaturas com um montante total proposto igual ou superior a 500 mil euros, bem como a todas as candidaturas que contemplem despesas definidas através de tabelas normalizadas de custos unitários.
+2 - As visitas ao local, no âmbito do controlo administrativo prévio à decisão das candidaturas, são realizadas a todas as candidaturas com um montante total proposto igual ou superior a 500 mil euros, bem como a todas as candidaturas que contemplem despesas definidas através de tabelas normalizadas de custos unitários, podendo ser dispensadas nos termos e condições a definir em orientação técnica específica.
 
 3 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.
 

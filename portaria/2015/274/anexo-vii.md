@@ -2,46 +2,18 @@
 
 ### Outras espécies elegíveis para rejuvenescimento de povoamentos
 
-(a que se refere o artigo 20.º)
+(ver documento original)
 
-8.1.5, «Melhoria da resiliência e do valor ambiental das florestas»
+A complementaridade entre despesas deverá verificar-se por local de investimento, enquanto os limites (em percentagem) se deverão verificar por projeto. Os limites definidos anteriormente aplicam-se ao investimento elegível validado em sede de análise, sendo que, na eventualidade de ser rateado o custo unitário da despesa em causa, a área de intervenção terá de ser executada na sua totalidade.
 
-Espécies indígenas dos seguintes géneros, que constam da lista de espécies arbóreas florestais utilizáveis em Portugal continental (*)
+Outros:
 
-Acer sp.
+9 - As contribuições em espécie podem constituir despesas elegíveis, de acordo com valores tabelados constantes em normativo técnico;
 
-Alnus sp.
+10 - As despesas com pessoal constituem despesas elegíveis em condições a definir em sede de Orientação Técnica Específica (OTE);
 
-Arbutus sp.
+11 - As despesas com a elaboração e acompanhamento do projeto e a elaboração do PGF podem ser elegíveis se efetuados até seis meses antes da data de apresentação da candidatura.
 
-Betula sp.
+Despesas não elegíveis
 
-Castanea sp.
-
-Crataegus sp.
-
-Fraxinus sp.
-
-Ilex sp.
-
-Taxus sp.
-
-Juniperus sp.
-
-Pistacia sp.
-
-Phillyrea sp.
-
-Prunus sp.
-
-Pyrus sp.
-
-Celtis sp.
-
-Salix sp
-
-Sorbus sp.
-
-Ulmus sp.
-
-(*) Lista disponível no portal do ICNF, I. P., em www.icnf.pt e no portal do PDR2020, em www.pdr-2020.pt.
+(ver documento original)

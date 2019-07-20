@@ -16,9 +16,9 @@ e) Manter a situação tributária e contributiva regularizada perante a adminis
 
 f) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;
 
-g) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, quando aplicável;
+g) Manter a atividade e as condições legais necessárias ao exercício da mesma durante o período de cinco anos, ou de três anos quando estejam em causa investimentos de pequenas e médias empresas, em ambos os casos, a contar da data do pagamento final ao beneficiário;
 
-h) Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;
+h) Não locar ou alienar os equipamentos, os povoamentos florestais e as instalações cofinanciadas, durante o período de cinco anos, ou de três anos quando estejam em causa investimentos de pequenas e médias empresas, em ambos os casos, a contar da data do pagamento final ao beneficiário, sem prévia autorização da autoridade de gestão;
 
 i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas ou nas operações com despesas definidas através de tabelas normalizadas de custos unitários;
 
