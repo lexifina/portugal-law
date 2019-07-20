@@ -6,9 +6,9 @@
 
 ### Beneficiários
 
-1 - Podem beneficiar dos apoios previstos no presente capítulo as pessoas singulares ou coletivas, de natureza pública ou privada, e as entidades gestoras de baldios, detentoras de espaços florestais.
+1 - Podem beneficiar dos apoios previstos no presente capítulo as pessoas singulares ou coletivas, de natureza pública ou privada, incluindo as Organizações de Produtores Florestais (OPF), e as entidades gestoras de baldios, detentoras de espaços florestais.
 
-2 - Podem, ainda, beneficiar dos apoios previstos no presente capítulo as autarquias locais e respetivas associações e as Organizações de Produtores Florestais (OPF), quando os investimentos se enquadrem no previsto nos planos municipais de defesa da floresta contra incêndios (PMDFCI) ou no Programa Operacional de Sanidade Florestal (POSF).
+2 - Podem, ainda, beneficiar dos apoios previstos no presente capítulo as autarquias locais e respetivas associações, e as entidades intermunicipais.
 
 3 - Para os investimentos referidos na subalínea i) da alínea a) do artigo 9.º, apenas são elegíveis entidades públicas, entidades gestoras de ZIF e OPF de âmbito nacional ou regional.
 

@@ -16,4 +16,6 @@ i) Reabilitação de povoamentos florestais;
 
 ii) Reflorestação de áreas afetadas;
 
-iii) Recuperação de infraestruturas danificadas.
+iii) Recuperação de infraestruturas danificadas;
+
+c) Investimentos imateriais.

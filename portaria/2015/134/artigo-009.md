@@ -26,4 +26,6 @@ ii) Instalação e manutenção de mosaicos de parcelas de gestão de combustív
 
 iii) Instalação e manutenção de sinalização de infraestruturas de defesa da floresta contra incêndios;
 
-iv) Instalação e manutenção de pontos de água.
+iv) Instalação e manutenção de pontos de água;
+
+c) Investimentos imateriais.

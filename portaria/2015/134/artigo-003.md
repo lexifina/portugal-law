@@ -8,15 +8,15 @@ a) «Acontecimento catastrófico» o acontecimento imprevisto, biótico ou abió
 
 b) «Agentes bióticos nocivos» os microrganismos ou invertebrados que têm comportamento epidémico ou adquirem caráter de praga, elencados no Programa Operacional de Sanidade Florestal (POSF);
 
-c) 'Área agrupada', o conjunto de prédios, ocupados total ou parcialmente por espaços florestais, submetido a uma gestão única e com uma área mínima de 100 hectares (ha), na titularidade de organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais ou de, pelo menos, dois detentores de espaços florestais distintos;
+c) «Castinçal» as culturas de castanheiros conduzidos em alto fuste ou talhadia, com o objetivo de produção de madeira;
 
-d) «Área contígua», áreas confinantes ou que se encontrem separadas por elementos no terreno com largura inferior a 20 metros, quer naturais quer artificiais, como sejam caminhos, estradas ou linhas de água, sem prejuízo do disposto no n.º 2;
+d) 'Área agrupada', o conjunto de prédios, ocupados total ou parcialmente por espaços florestais, submetido a uma gestão única e com uma área mínima de 100 hectares (ha), na titularidade de organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais ou de, pelo menos, dois detentores de espaços florestais distintos;
 
 e) «Calamidade Natural» o acontecimento natural abiótico que perturbe as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para o setor florestal, nomeadamente os tremores de terra, as avalanches, os deslizamentos de terras, as inundações, os tornados, os ciclones, as erupções vulcânicas e os fogos violentos de origem natural;
 
 f) «Certificação da gestão florestal» o processo através do qual uma entidade certificadora verifica a conformidade das práticas de gestão florestal definidas por uma entidade gestora ou entidade individual com o referencial do Programme for the endorsment of forest certification (PEFC) ou do Forest Stewardship Council (FSC);
 
-g) «Detentor de espaços florestais» o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integrem os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestais;
+g) 'Detentor de espaços florestais', o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integrem os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestal;
 
 h) 'Entidades Coletivas de Gestão Florestal', as entidades de gestão florestal (EGF) e as unidades de gestão florestal (UGF), reconhecidas nos termos no Decreto-Lei n.º 66/2017, de 12 de junho, alterado pela Lei n.º 111/2017, de 19 de dezembro, e as entidades gestoras de área agrupada;
 
@@ -28,9 +28,9 @@ k) «Exploração florestal» o prédio ou conjunto de prédios, de forma contí
 
 l) «Fogo controlado» o uso do fogo na gestão de espaços florestais, sob condições, normas e procedimentos conducentes à satisfação de objetivos específicos e quantificáveis e que é executada sob responsabilidade de técnico credenciado, nos termos da legislação especial aplicável;
 
-m) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas de 750 ha, sem prejuízo do disposto nos n.os 3 e 4;
+m) 'Intervenções com escala territorial relevante', as intervenções que abranjam áreas mínimas de 750 ha, ou que, no caso da operação 8.1.4, incidam em áreas afetadas superiores a 750 ha identificadas pelo ICNF, I. P., para efeitos de estabilização da emergência, sem prejuízo do disposto no artigo seguinte;
 
-n) «Instrumento equivalente do Plano de Gestão Florestal (PGF)», o plano de intervenção coerente com as ações e intervenções previstas em Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI) ou Programa Operacional de Sanidade Florestal (POSF);
+n) 'Instrumento equivalente do Plano de Gestão Florestal (PGF)', o plano de utilização dos baldios;
 
 o) «Monitorização» o procedimento, aplicado de forma contínua, que permite acompanhar a evolução temporal da população de um determinado agente biótico, com o objetivo de conhecer a dimensão do ataque e avaliar as suas consequências económicas, no sentido de permitir a tomada de decisão;
 
@@ -40,7 +40,7 @@ q) «Organização de Produtores Florestais (OPF)» as organizações reconhecid
 
 r) «Plano específico de intervenção florestal (PEIF)», o instrumento específico de intervenção em espaços florestais que determina ações de natureza cultural, visando a prevenção e o combate a agentes bióticos nocivos e abióticos, conforme estabelecido no Decreto-Lei n.º 16/2009, de 14 de janeiro, na redação dada pelos Decretos-Leis n.os 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho;
 
-s) «Plano de Gestão Florestal (PGF)», o instrumento de administração de espaços florestais que, de acordo com as orientações definidas no PROF, determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionado e tendo em conta as atividades e os usos dos espaços envolventes no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho;
+s) 'Plano de Gestão Florestal (PGF)', o instrumento de administração de espaços florestais que, de acordo com as orientações definidas no Programa regional de ordenamento florestal (PROF), determina, no espaço e no tempo, as intervenções de natureza cultural e de exploração dos recursos, visando a produção sustentada dos bens e serviços por eles proporcionado e tendo em conta as atividades e os usos dos espaços envolventes no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, 65/2017, de 12 de junho e 11/2019, de 21 de janeiro
 
 t) «Programa Regional de Ordenamento Florestal (PROF)», o instrumento de política setorial à escala da região que estabelece as normas específicas de utilização e exploração florestal dos seus espaços, de acordo com os objetivos previstos na Estratégia Nacional para as Florestas, com a finalidade de garantir a produção sustentada do conjunto de bens e serviços a eles associados no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelos Decretos-Leis n.os 114/2010, de 22 de outubro, 27/2014, de 18 de fevereiro, e 65/2017, de 12 de junho;
 
@@ -66,14 +66,14 @@ dd) «Rede viária florestal fundamental», a rede constituída nos termos do De
 
 ee) «Sistema de produção misto lenho-fruto» sistema de produção múltipla de madeira e de fruto, devendo ser garantido, pelo menos, 2,50 metros de fuste direito e limpo de nós;
 
-ff) «Zonas de intervenção florestal (ZIF)», a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um Plano de Gestão Florestal e administrada por uma única entidade, conforme estabelecido no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, 27/2014, de 18 de fevereiro, e 67/2017, de 12 de junho.
+ff) 'Zonas de intervenção florestal (ZIF)', a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um Plano de Gestão Florestal, e que cumpre o estabelecido nos Planos Municipais de Defesa da Floresta Contra Incêndios, e administrada por uma única entidade, conforme estabelecido no Decreto-Lei n.º 127/2005, de 5 de agosto, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 2/2011, de 6 de janeiro, 27/2014, de 18 de fevereiro, e 67/2017, de 12 de junho;
 
-jj) 'Entidade gestora de área agrupada', a pessoa coletiva ou o organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais a quem compete, pelo período mínimo de dez anos, a gestão florestal comum de uma área agrupada.
+gg) 'Entidade gestora de área agrupada', a pessoa coletiva ou o organismo de investimento coletivo cujo objeto seja a gestão e exploração florestais a quem compete, pelo período mínimo de dez anos, a gestão florestal comum de uma área agrupada.
 
-2 - A existência de rede de faixas de gestão de combustível não prejudica a contiguidade das áreas confinantes.
+2 - (Revogado).
 
-3 - Consideram-se no âmbito das intervenções a que se refere a alínea m) do n.º 1, aquelas que incluam áreas submetidas ao regime florestal detidas por pessoas coletivas públicas da administração central ou local, zonas de intervenção florestal, baldios, áreas de intervenção cujos detentores sejam organismos da administração pública central, entidades do setor empresarial do Estado e local, ou entidades coletivas de gestão florestal, numa área mínima de 100 hectares (ha), ou áreas de intervenção apresentadas por organismos da administração local, desde que estas estejam em consonância com a totalidade da área definida e calendarizada no Plano Municipal de Defesa da Floresta Contra Incêndios (PMDFCI), para cada tipologia de intervenção e no âmbito da respetiva área geográfica.
+3 - (Revogado)
 
-4 - Os investimentos que respeitem exclusivamente a infraestruturas não são considerados no âmbito do apuramento da área de intervenção para efeitos do disposto na alínea m) do n.º 1.
+4 - (Revogado).
 
-5 - No caso da operação 8.1.4, a escala a que se refere a alínea m) do n.º 1 é cumprida desde que as intervenções incidam em áreas afetadas superiores a 750 ha.
+5 - (Revogado).

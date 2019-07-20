@@ -26,4 +26,6 @@ i) Instalação e manutenção de troços de rede primária de faixas de gestão
 
 ii) Instalação e manutenção de mosaicos de parcelas de gestão de combustível;
 
-iii) Instalação e manutenção de pontos de água.
+iii) Instalação e manutenção de pontos de água;
+
+d) Investimentos imateriais.
