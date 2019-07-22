@@ -1,0 +1,85 @@
+Portaria n.º 229/2019
+de 22 de julho
+Sumário: Procede à primeira alteração à Portaria n.º 148/2015, de 25 de maio, que estabelece as taxas devidas pela prestação de serviços com os procedimentos decorrentes dos despachos referidos no artigo 5.º da Portaria n.º 354/2013, de 9 de dezembro, e com os serviços de formação prestada pelos serviços e organismos do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR).
+A Portaria n.º 148/2015, de 25 de maio, estabeleceu as taxas devidas pela prestação de serviços com os procedimentos decorrentes dos despachos referidos no artigo 5.º da Portaria n.º 354/2013, de 9 de dezembro, e com os serviços de formação prestada pelos serviços e organismos do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR). Visando simplificar atos administrativos da mesma natureza relativos à certificação de entidades formadoras, homologação de ações, avaliação de conhecimentos e reconhecimento de formadores, procedeu-se a uma classificação mais abrangente dos serviços a prestar pelo MAFDR e à reclassificação e clarificação da afetação das taxas inerentes à participação de júri na avaliação.
+Tendo ainda sido identificada a necessidade de definir a afetação da taxa a cobrar no âmbito da avaliação de conhecimentos pelos organismos do MAFDR envolvidos neste ato, foi estabelecida a repartição das taxas.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, nos termos do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria procede à primeira alteração à Portaria n.º 148/2015, de 25 de maio, que estabelece as taxas devidas pela prestação de serviços com os procedimentos decorrentes dos despachos referidos no artigo 5.º da Portaria n.º 354/2013, de 9 de dezembro, e com os serviços de formação prestada pelos serviços e organismos do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR).
+Artigo 2.º
+Alteração aos artigos 2.º e 3.º da Portaria n.º 148/2015
+Os artigos 2.º e 3.º da Portaria n.º 148/2015, de 25 de maio, passam a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - [...]
+2 - Os estabelecimentos públicos de oferta de ensino agrícola, que estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.
+3 - Os centros de formação profissional do Instituto de Emprego e Formação Profissional, I. P. que ministrem cursos profissionais de nível secundário de dupla certificação escolar e profissional e estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.
+4 - As entidades referidas no número anterior, quando ministrem Unidade(s) de Formação de Curta Duração (UFCD) correspondentes aos cursos relativos à formação profissional regulamentada setorialmente, fora dos cursos profissionais de nível secundário de dupla certificação escolar e profissional, apenas ficam isentos das taxas de certificação de entidade formadora, nos termos definidos no protocolo.
+Artigo 3.º
+[...]
+1 - [...]
+2 - [...]
+3 - [...]
+4 - Quanto aos serviços previstos no anexo i, códigos I.5 a I.8, o valor da taxa é dividido de forma equitativa por cada um dos organismos do MAFDR intervenientes.
+5 - Quando a realização de uma ação formação integre no seu conteúdo programático mais do que um curso da mesma área temática ou de áreas temáticas distintas, será cobrada uma única taxa de homologação de ação.»
+Artigo 3.º
+Alteração aos anexos i e ii da Portaria n.º 148/2015, de 25 de maio
+Os anexos i e ii da Portaria n.º 148/2015, de 25 de maio, passam a ter a seguinte redação:
+«ANEXO I
+Certificação de entidades formadoras, homologação de ações de cursos regulamentados no âmbito do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR), emissão de certificados, de declarações e reconhecimento de competências, reconhecimento de formadores e integração na bolsa
+
+(ver documento original)
+ANEXO II
+[...]
+
+(ver documento original)
+[...]
+a) [...]
+b) [...]
+c) Excetuam-se as avaliações previstas em ações da área da Proteção Animal.
+[...]»
+Artigo 4.º
+Republicação
+É republicada, em anexo à presente portaria, da qual faz parte integrante, a Portaria n.º 148/2015, de 25 de maio, na sua redação atual.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no mês seguinte ao da sua publicação.
+O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 8 de julho de 2019.
+ANEXO
+(a que se refere o artigo 4.º)
+Republicação da Portaria n.º 148/2015, de 25 de maio
+Artigo 1.º
+Objeto
+A presente portaria estabelece as taxas devidas pela prestação de serviços com os procedimentos decorrentes dos despachos referidos no artigo 5.º da Portaria n.º 354/2013, de 9 de dezembro, e com os serviços de formação prestada pelos serviços e organismos do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR).
+Artigo 2.º
+Taxas devidas pelos procedimentos
+1 - As taxas a cobrar pelos procedimentos a que se refere o n.º 1 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo i da presente portaria e que dela faz parte integrante.
+2 - Os estabelecimentos públicos de oferta de ensino agrícola, que estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.
+3 - Os centros de formação profissional do Instituto do Emprego e Formação Profissional, I. P. que ministrem cursos profissionais de nível secundário de dupla certificação, escolar e profissional e estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.
+4 - As entidades referidas no número anterior, quando ministrem Unidade(s) de Formação de Curta Duração (UFCD) correspondentes aos cursos relativos à formação profissional regulamentada setorialmente, fora dos cursos profissionais de nível secundário de dupla certificação escolar e profissional, apenas ficam isentos das taxas de certificação de entidade formadora, nos termos definidos no protocolo.
+Artigo 3.º
+Taxas devidas pela formação
+1 - As taxas a cobrar pela prestação de serviços de formação profissional a que se refere o n.º 2 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo ii da presente portaria e que dela faz parte integrante.
+2 - As prestações de serviço com os códigos II.1 a II.8 constantes do anexo ii, sempre que a atividade implique deslocação de técnicos ao local, acrescem ao valor indicado para o serviço, os seguintes valores:
+a) Ajudas de custo e de transporte pelas deslocações em serviço público devidas nos termos legais;
+b) Eventual remuneração por trabalho suplementar nos termos legais.
+3 - Em relação às prestações de serviço indicadas no anexo ii, códigos II.9 a II.16, os valores a cobrar são definidos por despacho do responsável máximo do organismo que presta os serviços de formação profissional.
+4 - Quanto aos serviços previstos no anexo i, códigos I.5 a I.8, o valor da taxa é dividido de forma equitativa por cada um dos organismos do MAFDR intervenientes.
+5 - Quando a realização de uma ação formação integre no seu conteúdo programático mais do que um curso da mesma área temática ou de áreas temáticas distintas, será cobrada uma única taxa de homologação de ação.
+Artigo 4.º
+Atualização das taxas
+A atualização das taxas e dos valores a cobrar constantes das tabelas dos anexos i e ii é efetuada mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, sob proposta da Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), ouvidas as DRAP.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no mês seguinte ao da sua publicação.
+ANEXO I
+Certificação de entidades formadoras, homologação de ações de cursos regulamentados no âmbito do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR), emissão de certificados, de declarações e reconhecimento de competências, reconhecimento de formadores e integração na bolsa
+
+(ver documento original)
+ANEXO II
+Prestação de serviços de formação profissional
+
+(ver documento original)
+112432036
