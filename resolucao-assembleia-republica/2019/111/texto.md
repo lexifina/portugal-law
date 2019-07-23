@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 111/2019
+Sumário: Recomenda ao Governo que reforce a proteção dos cidadãos adquirentes e dos proprietários de imóveis em caso de insolvência dos prestadores de serviços na área da construção civil ou de insuficiência económica da pessoa responsável pela reparação de defeitos ocorridos em edifícios.
+Recomenda ao Governo que reforce a proteção dos cidadãos adquirentes e dos proprietários de imóveis em caso de insolvência dos prestadores de serviços na área da construção civil ou de insuficiência económica da pessoa responsável pela reparação de defeitos ocorridos em edifícios
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que, em parceria com o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.), e a Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF), crie e apresente, no prazo máximo de 120 dias, os mecanismos necessários a uma maior proteção dos cidadãos adquirentes e dos proprietários de imóveis em caso de insolvência judicialmente declarada das empresas e empresários em nome individual que exerçam atividade na área da construção civil ou de insuficiência económica da pessoa responsável pela reparação de defeitos ocorridos em edifícios.
+Aprovada em 7 de junho de 2019.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+112441157
