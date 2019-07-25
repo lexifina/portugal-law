@@ -1,0 +1,9 @@
+Aviso n.º 12018/2019
+Sumário: Alteração ao Plano de Pormenor do Quarteirão 32 - discussão pública.
+Carla Tavares, Presidente da Câmara Municipal da Amadora, torna público que, nos termos de deliberação da Câmara Municipal da Amadora datada de 29 de maio de 2019, encontra-se a correr prazo de 20 dias para efeitos de discussão pública do procedimento de alteração do Regulamento do Plano de Pormenor do Quarteirão 32 (Brandoa), o qual começa a correr no 5.º dia posterior ao da publicação do presente aviso no Diário da República, nos termos do disposto no artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+A alteração em causa traduz-se na modificação da redação do artigo 6.º do Regulamento do Plano de Pormenor do Quarteirão 32 da Brandoa, propondo-se que o referido normativo passe a ser composto por um número único que consagre a seguinte redação genérica:
+A altura mínima, piso a piso, e o pé-direito livre mínimo dos pisos, deve respeitar o previsto no Regulamento Geral da Edificação e Urbanização e demais normas legais e regulamentares aplicáveis.
+Durante o período de discussão pública, o respetivo processo administrativo encontra-se disponível para consulta no Departamento de Administração Urbanística desta autarquia, nos dias úteis e dentro do horário de funcionamento dos serviços, podendo os interessados apresentar sugestões, observações ou reclamações, devendo as mesmas serem formuladas por escrito e dirigidas à Presidente da Câmara Municipal.
+Mais se torna público que pela mesma deliberação camarária atrás referida, foi prorrogado o prazo de conclusão do procedimento, por mais 3 (três) meses, nos termos do disposto no artigo 76.º, n.º 6 do Decreto-Lei n.º 80/2015, de 14 de maio.
+31 de maio de 2019. - A Presidente da Câmara Municipal da Amadora, Carla Tavares.
+612355021
