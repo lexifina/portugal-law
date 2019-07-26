@@ -1,0 +1,16 @@
+Aviso n.º 12105/2019
+Sumário: Alteração à 1.ª revisão do Plano Diretor Municipal de Pombal (adequação ao Novo RJIGT e PROF do Centro Litoral).
+Alteração à 1.ª revisão do Plano Diretor Municipal de Pombal
+(adequação ao Novo Regime Jurídico dos Instrumentos de Gestão Territorial e Programa Regional de Ordenamento Florestal do Centro Litoral)
+Pedro Filipe Silva Murtinho, Vereador do Ordenamento da Câmara Municipal de Pombal, no uso da competência delegada:
+Torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 76.º, conjugado com o n.º 1 do artigo 119.º, ambos do Decreto-Lei n.º 80/2015, de 14 de maio (novo RJIGT), que a Câmara Municipal, em sua reunião ordinária e pública n.º 0009/CMP/19, de 26 de abril de 2019, deliberou por unanimidade, proceder à abertura do procedimento de alteração à 1.ª Revisão do Plano Diretor Municipal de Pombal, publicada sob o Aviso n.º 4945/2014, no Diário da República, 2.ª série, n.º 71, de 10 de abril, na sua versão atual, para adequação ao Novo Regime Jurídico dos Instrumentos de Gestão Territorial e Programa Regional de Ordenamento Florestal do Centro Litoral, entretanto publicado.
+Mais deliberou, aprovar os termos de referência e oportunidade e estabelecer um prazo de 14 meses para a elaboração da alteração da 1.ª Revisão do Plano Diretor Municipal de Pombal, contados a partir da publicação da presente deliberação, no Diário da República.
+Deliberou ainda, para efeitos do disposto no n.º 1 do artigo 120.º do RJIGT, conjugado com o disposto no n.º 1 do artigo 4.º, do Decreto-Lei n.º 232/2007, de 15 de junho, na sua redação atual, qualificar a alteração à 1.ª Revisão do Plano Diretor Municipal como insuscetível de ter efeitos significativos no ambiente e, como tal, isentá-la de Avaliação Ambiental.
+Nos termos do n.º 2 do artigo 88.º do RJIGT, decorrerá um período de 15 dias úteis, a contar da data de publicação do presente Aviso no Diário da República, 2.ª série, para participação pública preventiva, durante o qual os interessados poderão proceder à formulação de sugestões, bem como à apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da alteração à 1.ª Revisão do Plano Diretor Municipal.
+A deliberação da Câmara Municipal de Pombal, bem como a documentação de suporte, poderá ser consultada na Divisão de Urbanismo, Planeamento e Reabilitação Urbana, todos os dias úteis, durante a hora de expediente e na página da Internet, em www.cm-pombal.pt..
+As participações deverão ser apresentadas, por escrito, através de requerimento dirigido ao Vereador do Pelouro do Ordenamento, por correio para Largo do Cardal - 3100 - 440 Pombal, ou para o seguinte e-mail: geral@cm-pombal.pt.
+30 de abril de 2019. - O Vereador do Ordenamento, Pedro Murtinho, Eng.º
+Deliberação
+Pedro Murtinho, Vereador do Ordenamento, certifica que esta Câmara Municipal, na sua reunião ordinária e pública, realizada a 26 de abril de 2019, deliberou, por unanimidade, aprovar o Ponto 2.10.1. da Ordem de Trabalhos intitulada "Alteração à 1.ª Revisão do Plano Diretor Municipal de Pombal para adequação ao novo RJIGT e PROFCL - Abertura de Procedimento".
+Pombal, 2 de julho de 2019. - O Vereador do Ordenamento, Pedro Murtinho, Eng.º
+612419806
