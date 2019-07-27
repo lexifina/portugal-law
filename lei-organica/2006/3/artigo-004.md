@@ -1,11 +1,7 @@
 # Artigo 4.º
 
-### Efeitos da não correcção das listas
+### Efeitos do incumprimento
 
-A não correcção das listas de candidatura nos prazos previstos na respectiva lei eleitoral determina:
+1 - A não correção da lista de candidatura no prazo previsto na respetiva lei eleitoral determina a rejeição de toda a lista.
 
-a) A afixação pública das listas com a indicação da sua desconformidade à presente lei;
-
-b) A sua divulgação através do sítio na Internet da Comissão Nacional de Eleições com a indicação referida na alínea anterior;
-
-c) A redução do montante de subvenções públicas para as campanhas eleitorais nos termos da presente lei.
+2 - No caso da eleição dos vogais das juntas de freguesia, é nula a deliberação da eleição de listas de candidatos que não cumpram os requisitos do artigo 2.º
