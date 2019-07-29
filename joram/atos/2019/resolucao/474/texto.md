@@ -1,0 +1,30 @@
+# Resolução n.º 474/2019
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 121/2019, 2.º suplemento, de 2019-07-29
+
+**Sumário:** Autoriza a cessão de utilização e gestão a título precário e gratuito à entidade pública empresarial IHM - Investimentos Habitacionais da Madeira, EPERAM de: a) Parte do prédio misto e suas benfeitorias, localizado no sítio do Galeão, na freguesia de São Roque, município do Funchal e b) Prédio urbano, destinado a habitação, localizado no Caminho Novo de Galeão n.º 27, freguesia de São Roque, município do Funchal.
+
+## Texto
+
+Resolução n.º 474/2019
+Considerando que por escrituras de expropriação amigável, a Região Autónoma da Madeira adquiriu em 2011 e
+
+2014, as parcelas 27, 28, 29 e 30 destinadas à “Obra da Nova Ligação Vasco Gil/Fundoa Cota Quinhentos – Segunda Fase”, localizado no sítio do Galeão, da freguesia de São Roque;
+Considerando que por Resolução do Conselho de Governo n.º 285/2016, de 2 de junho, publicada no JORAM, I Série n.º 99, de 7 de junho, foi decidido desistir da expropriação das parcelas acima identificadas e uma vez que a Região adquiriu a propriedade das mesmas, os interessados foram notificados para exercício do direito de reversão ao abrigo do disposto no artigo 5.º do Código das Expropriações;
+Considerando que existem 3 moradias implantadas nas parcelas de terreno adquiridas pela Região, as quais encontram-se atualmente devolutas, revestem caráter excedentário, existindo perigo de que as mesmas sejam vandalizadas ou ocupadas de forma ilegítima;
+Considerando que na sequência dos incêndios que no início de agosto de 2016 flagelaram a Ilha da Madeira, nomeadamente o concelho do Funchal, vários agregados familiares viram destruídas as suas habitações, as quais não reúnem condições de segurança que permitam a sua recuperação para reocupação;
+Considerando que com a pronta intervenção do Governo Regional, inúmeras dessas famílias foram encaminhadas para habitações condignas, sendo certo que existem ainda casos que estão a merecer das entidades públicas regionais o desenvolvimento de todos os esforços necessários a obtenção no mais curto trecho de tempo possível de soluções para os problemas habitacionais criados pela tragédia, tudo no âmbito da prioridade que na atuação pública foi dada ao problema social que surgiu da perda de habitações nos termos acima descritos;
+Considerando que a Investimentos Habitacionais da Madeira, EPERAM, tem no âmbito das suas competências, a realização de obras de recuperação, de construção e de reconstrução de habitações, de requalificação urbanística e de outras infraestruturas, especialmente no âmbito da habitação de interesse social.
+Considerando que nos termos do disposto no artigo 26.º do DLR n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M, de 3 de agosto, os bens imóveis do domínio privado da Região, podem ser cedidos a título precário, para fins de interesse público revestindo a natureza gratuita ou onerosa;
+Considerando que importa no imediato, assegurar à IHMEPERAM a legitimidade para proceder à reabilitação de tais moradias, para finalidades de habitação social, através de um protocolo de utilização e gestão precário e gratuito;
+Considerando que os trabalhos inerentes à reconversão e requalificação das ditas moradias, transformando-as em 4 fogos habitacionais, incluindo todos os encargos relativos à conceção do projeto de execução, empreitada e fiscalização da obra, será promovido pela IHM - EPERAM, permitindose assim dar resposta às necessidades da população que ficou desalojada com a perda das habitações, impossibilitando as atividades normais da vida diária, sendo urgente levar a cabo ações que reponham, com a maior brevidade possível as condições de vida das populações afetadas;
+Considerando que a gratuitidade do presente protocolo se fundamenta no claro interesse público em realojar os agregados familiares afetados pelos incêndios ocorridos na Região no mês de agosto de 2016, através do projeto de empreendimento para habitação social denominado “Moradias São Roque”.
+Considerando que nos termos do disposto no n.º 2 do artigo 28.º DLR n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M, de 3 de agosto, o protoloco de utilização e gestão em apreço, obteve a autorização prévia do Vice-Presidente do Governo Regional.
+
+O Conselho do Governo reunido em plenário em 25 de julho de 2019, resolve:
+1. Autorizar nos termos do n.º 1 do artigo 28.º conjugado com o artigo 26.º ambos do DLR n.º 7/2012/M, de 20 de abril, alterado e republicado pelo DLR n.º 24/2017/M, de 3 de agosto, a cessão de utilização e gestão a título precário e gratuito à entidade pública empresarial IHM – Investimentos Habitacionais da Madeira, EPERAM, pessoa coletiva de direito público de: A) Parte do prédio misto e suas benfeitorias, localizado no sítio do Galeão, na freguesia de São Roque, concelho do Funchal, inscrito a parte rústica na matriz cadastral sob o artigo n.º 121 da secção “H”, correspondente a uma área de 522m2 e a parte urbana, inscrita na matriz predial respetiva sob os artigos n.ºs 1370 com área total de 28m2, o artigo n.º 2000, com área total de 82m2, e parte do logradouro do artigo 2321, com área de 38m2, descrito na Conservatória do Registo Predial do Funchal sob o n.º 2245; B) Prédio urbano, destinado a habitação, localizado no Caminho Novo de Galeão n.º 27, freguesia de São Roque, concelho do Funchal, inscrito na matriz predial respetiva sob o artigo n.º 3752, com área total de 455 m2, descrito na Conservatória do Registo Predial do Funchal sob o n.º 1725.
+2. Aprovar a minuta do protocolo de utilização e gestão, a qual faz parte integrante desta resolução e fica arquivada na Secretaria Geral da Presidência.
+3. Mandatar o Vice-Presidente do Governo Regional para em representação da Região Autónoma da Madeira, outorgar o protocolo de utilização e gestão.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Miguel Filipe Machado de Albuquerque
