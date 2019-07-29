@@ -1,0 +1,7 @@
+Aviso n.º 12176/2019
+Sumário: Projeto de Regulamento dos Aglomerados Rurais Tradicionais em Áreas de Reabilitação Urbana.
+Basílio Horta, Presidente da Câmara Municipal de Sintra, torna público que, ao abrigo do n.º 2 do ponto XXI da deliberação da Câmara Municipal de Sintra tomada em 30 de outubro de 2017 sobre a Proposta n.º 824-P/2017, de 25 de outubro de 2017, é submetido a consulta pública, o Projeto de Regulamento dos Aglomerados Rurais Tradicionais em Áreas de Reabilitação Urbana, nos termos do artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, durante o prazo de 30 dias a contar da data da publicação do presente Aviso em 2.ª série do Diário da República, estando o texto disponível mediante afixação do Edital n.º 305/2019 nos locais de estilo e no sítio eletrónico oficial do município www.cm-sintra.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Código do Procedimento Administrativo, endereçadas ao Presidente da Câmara Municipal de Sintra, entregues no Gabinete de Apoio ao Munícipe, Lg. Dr. Virgílio Horta, 2710 Sintra, através do fax 219238551, ou ainda através do e-mail drur@cm-sintra.pt.
+Em todas as comunicações deve ser indicado o procedimento a que mesma se reporta, sob pena de rejeição liminar.
+28 de junho de 2019. - O Presidente da Câmara, Basílio Horta.
+312414849
