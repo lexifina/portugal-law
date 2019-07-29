@@ -1,0 +1,8 @@
+Aviso n.º 12150/2019
+Sumário: Projeto de Regulamento Intermunicipal «Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos do Tâmega e Sousa».
+Consulta Pública - Projeto de Regulamento Intermunicipal «Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos do Tâmega e Sousa»
+Telmo Pinto, Primeiro-Secretário da Comunidade Intermunicipal do Tâmega e Sousa, torna público, nos termos da alínea c) do n.º 3 do artigo 100.º e do artigo 101.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que se submete a consulta pública pelo período de 30 dias o projeto de Regulamento Intermunicipal «Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos do Tâmega e Sousa», aprovado pelo Conselho Intermunicipal da Comunidade Intermunicipal do Tâmega e Sousa na sua reunião ordinária e pública de 13 de junho de 2019.
+O projeto de Regulamento encontra-se disponível para consulta dos interessados na página da internet da Comunidade Intermunicipal, e nos serviços desta entidade, sitos na Avenida José Júlio, n.º 42, em Penafiel, no horário de funcionamento.
+Durante o prazo de 30 dias, contados a partir da publicação deste aviso no Diário da República, poderão os interessados apresentar por escrito, em requerimento dirigido a esta entidade, as suas sugestões sobre o projeto de Regulamento projeto de Regulamento Intermunicipal «Regras Gerais para a Implementação do PART (Programa de Apoio à Redução Tarifária) nos Transportes Públicos do Tâmega e Sousa».
+3 de julho de 2019. - O Primeiro-Secretário, Telmo Pinto.
+312420801
