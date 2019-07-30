@@ -1,0 +1,14 @@
+Aviso n.º 12244/2019
+Sumário: Elaboração do Plano de Pormenor de Vales de Algoz.
+Elaboração do Plano de Pormenor de Vales de Algoz
+Torna-se público, nos termos dos artigos 76.º, n.º 1, e 191.º, n.º 4, alínea c), do Decreto-Lei n.º 80/2015, de 14 de maio, e do artigo 56.º do anexo I da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, que a Câmara Municipal de Silves, em reunião de 15 de julho de 2019, deliberou proceder à elaboração do Plano de Pormenor de Vales de Algoz, tendo aprovado os Termos de Referência que fundamentam a sua oportunidade, fixam os respetivos objetivos e estabelecem o prazo de 330 (trezentos e trinta) dias úteis para a sua elaboração. Mais deliberou a Câmara Municipal de Silves celebrar um contrato para planeamento para a elaboração do Plano de Pormenor de Vales de Algoz e aprovar a minuta de contrato.
+Torna-se ainda público, nos termos do artigo 88.º, n.º 2, do Decreto-Lei n.º 80/2015, de 14 de maio, que terá início no 5.º dia, após a publicação do presente aviso no Diário da República, 2.ª série, um período de 15 dias úteis para participação dos interessados, podendo ser formuladas sugestões e apresentadas informações. Durante este período, os interessados poderão consultar os termos de referência, a proposta de contrato e a qualificação da elaboração do Plano para efeitos de avaliação ambiental estratégica, na página da Câmara Municipal de Silves (www.cm-silves.pt) ou nos locais a seguir identificados:
+Divisão de Ordenamento e Gestão Urbanística, Ordenamento do Território, Edifício dos Paços de Concelho, Silves; e
+Junta de Freguesia de Algoz e Tunes, Rua do Palmeiral, Algoz.
+A formulação de sugestões, bem como a apresentação de informações, deverão ser feitas por escrito, dirigidas ao Vereador Permanente da Câmara Municipal de Silves com o pelouro do ordenamento do território e urbanismo, utilizando para o efeito o impresso próprio que pode ser obtido nos locais acima referidos ou no site institucional da Câmara Municipal de Silves (www.cm-silves.pt).
+15 de julho de 2019. - O Vereador Permanente da Câmara Municipal de Silves, Maxime Sousa Bispo.
+Deliberação
+Deliberar por unanimidade iniciar a elaboração do Plano de Pormenor em epígrafe, aprovando os Termos de Referência e promovendo a sua publicitação, através de um período de consulta pública de 15 dias, para a formulação de sugestões e de apresentação de informações. Bem como contratualizar a elaboração do referido plano, aprovando a minuta de contrato para planeamento, conferindo plenos poderes à Exma. Sr.ª Presidente para a sua outorga, sujeitando-o também a um período de consulta pública de 15 dias.
+Mais se delibera aprovar as minutas de aviso em anexo e qualificar a elaboração do plano como sujeita a Avaliação Ambiental Estratégica, nos termos e condições da informação.
+15 de julho de 2019. - O Vereador Permanente da Câmara Municipal de Silves, Maxime Sousa Bispo.
+612449914
