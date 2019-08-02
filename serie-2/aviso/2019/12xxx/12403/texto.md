@@ -1,0 +1,16 @@
+Aviso n.º 12403/2019
+Sumário: Segunda revisão do Plano Diretor Municipal de Vila Nova de Famalicão.
+Segunda Revisão do Plano Diretor Municipal de Vila Nova de Famalicão
+Paulo Alexandre Matos Cunha, Presidente da Câmara Municipal de Vila Nova de Famalicão, torna público, nos termos do disposto no artigo 76.º e do 191.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, que a Câmara Municipal deliberou, em reunião ordinária de 06 de junho de 2019, proceder à segunda revisão do Plano Diretor Municipal (PDM) de Vila Nova de Famalicão.
+Em cumprimento do disposto no artigo 88.º do referido Decreto-Lei n.º 80/2015, de 14 de maio, foi deliberada a concessão de um período de participação pública de 15 dias úteis para formulação de sugestões e apresentação de informações, sobre quaisquer questões que possam ser consideradas no âmbito deste procedimento. Torna-se ainda público que este período de participação pública terá início no dia seguinte à publicação do presente Aviso no Diário da República, podendo os interessados consultar a referida deliberação camarária e os documentos que a integram, na página oficial da Câmara Municipal de Vila Nova de Famalicão em www.cm-vnfamalicao.pt e no Balcão Único de Atendimento, localizado na Praça Álvaro Marques, Vila Nova de Famalicão, de segunda a quinta-feira das 9:00 horas às 18:00 horas e à sexta-feira das 9:00 horas às 12:00 horas.
+A formulação de sugestões e a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito da referida revisão devem ser realizadas por escrito, mediante preenchimento de formulário tipo, disponível na página eletrónica desta autarquia, e enviadas por correio eletrónico para o endereço camaramunicipal@famalicao.pt, por via postal ou por entrega pessoal no Balcão Único de Atendimento. Caso a questão suscitada se refira a um local em concreto, deve ser anexada planta de localização do mesmo, devidamente assinalado.
+Para constar, publica-se o presente aviso e outros de igual teor que serão afixados nos locais de estilo, bem como publicados na comunicação social, na plataforma colaborativa de gestão territorial e na página da Internet da Câmara Municipal de Vila Nova de Famalicão.
+6 de junho de 2019. - O Presidente da Câmara, Paulo Alexandre Matos Cunha, Dr.
+Deliberação
+Em reunião ordinária, realizada em 06 de junho de 2019, a Câmara Municipal de Vila Nova de Famalicão deliberou por maioria:
+1 - Aprovar o Relatório de Avaliação do Ordenamento do Território elaborado nos termos do n.º 2 do artigo 202.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+2 - Aprovar a Proposta da Segunda Revisão do Plano Diretor Municipal, nos termos do artigo 76.º, por remissão do n.º 3 do artigo 119.º do Decreto-Lei n.º 80/2015, de 14 de maio e os respetivos Termos de Referência;
+3 - Determinar o início do procedimento de revisão nos termos legalmente estabelecidos e fixar o prazo de 15 dias, a contar da data da publicação do respetivo aviso no Diário da República, para participação pública, nos termos do artigo 88.º do referido diploma legal;
+4 - Fixar o prazo de 13 meses para a elaboração da revisão do PDM.
+Vila Nova de Famalicão, 06 de junho de 2019. - O Presidente da Câmara, Paulo Alexandre Matos Cunha, Dr.
+612419799
