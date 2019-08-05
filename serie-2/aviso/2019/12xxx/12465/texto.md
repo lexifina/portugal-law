@@ -1,0 +1,7 @@
+Aviso n.º 12465/2019
+Sumário: Projeto de Regulamento dos Cemitérios da União de Freguesias de São João da Pesqueira e Várzea de Trevões.
+Artur Adriano Tiago Ferreira, Presidente da Junta de Freguesia da União de Freguesias de S. João da Pesqueira e Várzea de Trevões, torno público que, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código de Procedimento Administrativo, aprovado em Anexo pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Assembleia de Freguesia deliberou, na sua reunião realizada em 21 de junho de 2019, aprovar o projeto de "Regulamento dos Cemitérios da União de Freguesias de S. João da Pesqueira e Várzea de Trevões" e submeta o mesmo a consulta pública, pelo prazo de trinta dias a contar da data da publicação do presente aviso no Diário da República.
+A referida proposta de Regulamento encontra-se disponível para consulta, nos serviços da Junta de Freguesia, situada na Rua Afonso III de Leão, 5130-321 S. João da Pesqueira, durante as horas normais de expediente (09:00h às 12:30h e 14:00h às 17:30h), bem como no seguinte sítio https://www.sjpesqueira.pt/p/ufsjpvt
+Os interessados deverão formular as suas sugestões por escrito, dirigidas ao Presidente da Junta, ou ainda por correio eletrónico para o endereço da Junta: jfreguesia.sjp.vt@gmail.com até ao final do período mencionado.
+3 de julho de 2019. - O Presidente da Junta de Freguesia, Artur Adriano Tiago Ferreira.
+312424569
