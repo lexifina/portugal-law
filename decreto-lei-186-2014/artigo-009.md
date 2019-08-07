@@ -6,7 +6,7 @@
 
 2 - O Chefe do Gabinete do CEME é um major-general.
 
-3 - Incumbe ao Gabinete do CEME assegurar as atividades de relações públicas, informação pública e protocolo do Exército.
+3 - Incumbe ao Gabinete do CEME:
 
 a) Assegurar as atividades de relações públicas, informação pública e protocolo do Exército;
 

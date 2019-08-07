@@ -8,13 +8,13 @@
 
 3 - Constituem ainda receitas próprias do Exército:
 
-a) As provenientes de prestações de serviços, incluindo de formação, ou cedência de bens a entidades públicas ou privadas, sem prejuízo dos regimes de afetação de receita legalmente previstos;
+a) As provenientes de prestações de serviços ou cedência de bens a entidades públicas ou privadas, sem prejuízo dos regimes de afetação de receita legalmente previstos;
 
 b) O produto das atividades desenvolvidas em matéria de gestão florestal ou agrícola das áreas de treino e manobra, em particular, a alienação de madeira, cortiça ou pastagens;
 
 c) Os saldos anuais das receitas consignadas, nos termos do decreto-lei de execução orçamental;
 
-d) As indemnizações devidas, nos termos da lei, nomeadamente pelo pessoal, por situações previstas em legislação própria para os alunos que frequentam as unidades e estabelecimentos de formação e ensino, por abate ao quadro permanente ou rescisão de contratos;
+d) As indemnizações devidas pelo pessoal, por situações previstas em legislação própria para os alunos que frequentam as escolas de ensino militar, por abate ao quadro permanente ou rescisão de contratos;
 
 e) O produto das atividades desenvolvidas, no âmbito do Laboratório Militar de Produtos Químicos e Farmacêuticos, na área do medicamento, dispositivos médicos e outros produtos de saúde e na área da prestação de serviços técnico-farmacêuticos e de apoio sanitário;
 

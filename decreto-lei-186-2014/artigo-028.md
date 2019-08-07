@@ -16,6 +16,4 @@ b) A Unidade Militar Laboratorial de Defesa Biológica e Química;
 
 c) A Unidade Militar de Medicina Veterinária;
 
-d) (Revogada.)
-
-e) O Laboratório Nacional do Medicamento (LM), com as suas especificidades.
+d) O Laboratório Militar de Produtos Químicos e Farmacêuticos

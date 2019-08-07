@@ -20,9 +20,7 @@ d) A Direção de Serviços de Pessoal (DSP);
 
 e) A Direção de Saúde;
 
-f) O Centro de Psicologia Aplicada do Exército (CPAE);
-
-g) A Unidade de Apoio.
+f) A Unidade de Apoio.
 
 5 - Para apoio do CMDPESS funcionam os conselhos das armas e dos serviços, que são presididos por um oficial general ou oficial superior, a designar, em acumulação de funções, pelo CEME.
 

@@ -12,16 +12,14 @@
 
 a) O Comandante e o respetivo gabinete;
 
-b) A Direção de Reabastecimento e Transportes;
+b) A Direção de Material e Transportes;
 
-c) A Direção de Manutenção e Sistemas de Armas;
+c) A Direção de Aquisições;
 
-d) A Direção de Aquisições;
+d) A Direção de Infraestruturas;
 
-e) A Direção de Infraestruturas;
-
-f) A Unidade de Apoio.
+e) A Unidade de Apoio.
 
 5 - O diretor do órgão previsto na alínea b) do n.º 4 é major-general e, em acumulação de funções, é o 2.º Comandante do CMDLOG.
 
-6 - Os diretores dos órgãos previstos nas alíneas c), d) e e) do n.º 4 são brigadeiros-generais.
+6 - Os diretores dos órgãos previstos nas alíneas c) e d) do n.º 4 são brigadeiros-generais.

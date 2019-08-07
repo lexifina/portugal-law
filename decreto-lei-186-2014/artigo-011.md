@@ -12,8 +12,6 @@
 
 3 - O EME compreende:
 
-a) O Estado-Maior Coordenador (EMC);
+a) O Estado-Maior Coordenador;
 
 b) A Unidade de Apoio.
-
-4 - O EMC compreende até seis divisões, criadas e extintas por despacho do CEME.
