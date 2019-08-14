@@ -18,7 +18,7 @@ d) O impedimento de acesso a quaisquer infraestruturas concessionadas à ARM, S.
 
 e) O incumprimento da obrigação de ligação dos sistemas prediais de distribuição de águas e de drenagem de águas residuais aos sistemas públicos, quando tal resulte do disposto na legislação e regulamentação vigente;
 
-f) A execução de ligações aos sistemas públicos de abastecimento de águas e de drenagem de águas residuais ou alteração das existentes sem a respetiva autorização da concessionária;
+f) A execução de ligações aos sistemas públicos de abastecimento de águas, de drenagem de águas residuais e de águas para regadio ou alteração das existentes sem a respetiva autorização da concessionária;
 
 g) A instalação de sistemas prediais de distribuição de águas e de drenagem de águas residuais sem observância das regras e condicionantes legais e regulamentares aplicáveis;
 
@@ -48,8 +48,12 @@ s) A desconformidade entre os resíduos entregues nas instalações da ARM, S.A.
 
 t) A colocação de resíduos em equipamentos de deposição, em violação com as normas regulamentares e legais vigentes;
 
-u) O impedimento de que funcionários da ARM, S.A., devidamente identificados, exerçam as respetivas funções de fiscalização e de medição;
+u) O abandono de resíduos fora dos equipamentos de deposição nos respetivos pontos de recolha, em violação das normas regulamentares e legais vigentes;
 
-v) O não cumprimento das condições constantes das licenças e ou impedimento à respetiva fiscalização.
+v) A alteração do posicionamento dos contentores de recolha de resíduos para fora dos respetivos pontos de recolha;
+
+w) O impedimento de que funcionários da ARM, S.A., devidamente identificados, exerçam as respetivas funções de fiscalização e de medição;
+
+x) O não cumprimento das condições constantes das licenças e ou impedimento à respetiva fiscalização.
 
 2 - A tentativa e a negligência são puníveis até metade dos montantes máximos previstos no n.º 1 do presente artigo.

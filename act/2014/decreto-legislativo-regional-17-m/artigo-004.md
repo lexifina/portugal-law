@@ -12,9 +12,9 @@ c) Construção e exploração de aproveitamentos hidro e termo energéticos;
 
 d) Drenagem de águas residuais urbanas, incluindo a recolha de águas pluviais nas situações de coletores unitários, tratamento e envio de efluentes a destino final;
 
-e) Recolha seletiva e indiferenciada de resíduos, transferência e triagem de recicláveis;
+e) Recolha seletiva e indiferenciada de resíduos;
 
-f) Tratamento, valorização e envio a destino final de resíduos;
+f) Operações de valorização e eliminação de resíduos, nomeadamente transferência, triagem, valorização orgânica e energética, bem como outras formas de tratamento, e o envio ou deposição em destino final;
 
 g) Caracterização e quantificação de resíduos;
 
