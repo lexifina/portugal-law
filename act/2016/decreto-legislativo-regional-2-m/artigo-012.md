@@ -14,4 +14,6 @@ c) Controlar a legalidade dos atos administrativos e financeiros;
 
 d) Autorizar a constituição de um fundo de maneio e controlar a sua utilização;
 
-e) Exercer as demais competências relativas a despesas públicas.
+e) Exercer as demais competências relativas a despesas públicas;
+
+f) Regulamentar e conceder as contribuições financeiras a atribuir às organizações referidas no artigo 10.º, cuja dotação se encontra inscrita no orçamento do Conselho.
