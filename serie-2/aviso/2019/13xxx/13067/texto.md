@@ -1,0 +1,8 @@
+Aviso n.º 13067/2019
+Sumário: Correção material da 2.ª alteração por adaptação da 1.ª revisão do Plano Diretor Municipal.
+Correção material da 2.ª alteração por adaptação da 1.ª revisão do Plano Diretor Municipal de Oliveira de Frades - Atualização da Carta de Perigosidade
+Paulo Manuel Robalo da Silva Ferreira, presidente da Câmara Municipal de Oliveira de Frades, torna público, que a Câmara Municipal de Oliveira de Frades, na reunião pública realizada no dia 22 de maio de 2019, para o efeito consignado na alínea e) do n.º 1 do artigo 122.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT) deliberou aprovar, por maioria, aprovada em minuta, a proposta de correção de erro material da 2.ª Alteração por adaptação da 1.ª Revisão do Plano Diretor Municipal (alteração publicada através do aviso n.º 6060/2019, no Diário da República, 2.ª série, n.º 66, de 3 de abril de 2019), referente à retificação da planta de condicionantes disponibilizada. Mais foi deliberado, de acordo com o referido no n.º 3 do artigo 122.º do diploma mencionado, comunicar a referida declaração de correção material à Assembleia Municipal e à Comissão e Coordenação e Desenvolvimento Regional do Centro e, proceder à sua publicação e depósito.
+4 de julho de 2019. - O Presidente da Câmara Municipal, Paulo Manuel Robalo da Silva Ferreira.
+Identificadores das imagens e respetivos endereços do sítio do SNIT (conforme o disposto no artigo 14.º da Portaria n.º 245/2011)
+50243 - http://ssaigt.dgterritorio.gov.pt/i/PCond_50243_1810_Perigosidade.jpg
+612439376
