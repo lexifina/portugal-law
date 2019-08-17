@@ -41,3 +41,15 @@ o) Responde civil, contra-ordenacional e criminalmente pela exactidão dos docum
 4 - Para efeitos da alínea f) do n.º 1, e mediante pedido do INFARMED, I.P., o titular da autorização de introdução no mercado fica obrigado a apresentar, no prazo que lhe for fixado para o efeito, uma versão consolidada e atualizada do processo quanto à qualidade, segurança e eficácia do medicamento, incluindo todas as alterações que hajam sido introduzidas desde a concessão inicial da autorização.
 
 5 - As informações previstas na alínea i) do n.º 1 incluem os resultados positivos e negativos dos ensaios clínicos ou de outros estudos relativos a todas as indicações e populações, independentemente da sua inclusão na autorização de introdução no mercado, bem como dados de utilização do medicamento, quando essa utilização estiver fora dos termos da autorização de introdução no mercado.
+
+6 - Para efeitos do disposto na alínea d) do n.º 1 e do artigo 6.º, o dever de abastecimento do mercado determina a obrigação de fornecimento de medicamentos aos demais intervenientes no mercado do medicamento, de modo contínuo e nas quantidades necessárias para satisfazer de forma permanente as necessidades dos doentes no território nacional.
+
+7 - Para efeitos do disposto no número anterior, o titular de autorização de introdução no mercado deve assegurar a satisfação das encomendas dos distribuidores por grosso que disponham de pedidos de fornecimento por parte de farmácias e serviços farmacêuticos hospitalares nacionais, não podendo recusar o fornecimento de medicamentos que lhe sejam solicitados.
+
+8 - Para efeitos dos números anteriores, o titular de autorização de introdução no mercado deve monitorizar, de forma regular, as necessidades do mercado e o fornecimento por si realizado, devendo manter uma comunicação permanente com os diferentes intervenientes da cadeia de abastecimento.
+
+9 - A obrigação prevista no número anterior é independente e complementar da obrigação de fornecimento adequado e contínuo que recai sobre os titulares de autorização de introdução no mercado.
+
+10 - Após a notificação a que se refere a alínea e) do n.º 1, sempre que se verifique um potencial risco para a saúde pública, o INFARMED, I. P., pode solicitar ao titular de autorização de introdução no mercado o envio do plano de prevenção de escassez, em termos a definir pelo órgão máximo do INFARMED, I. P.
+
+11 - Para efeitos do disposto na alínea d) do n.º 1, o titular de autorização introdução no mercado dispõe, designadamente, de todos os meios técnicos, logísticos e humanos para assegurar o fornecimento e abastecimento dos distribuidores por grosso de forma permanente e contínua com vista a permitir o cumprimento das obrigações previstas nas alíneas a) a c) do n.º 1 do artigo 100.º
