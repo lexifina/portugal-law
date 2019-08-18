@@ -2,7 +2,7 @@
 
 ### Montante da pensão bonificada
 
-1 - A pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações, I. P., que reúnam as condições de aposentação ordinária estabelecidas no artigo 3.º-A da Lei n.º 60/2005, de 29 de dezembro, é calculada nos termos gerais e bonificada pela aplicação do fator definido no número seguinte.
+1 - A pensão de aposentação atribuída a subscritores da Caixa Geral de Aposentações, I. P., que reúnam as condições de aposentação estabelecidas no n.º 1 ou no n.º 2 do artigo 37.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual, é calculada nos termos gerais e bonificada pela aplicação do fator definido no número seguinte.
 
 2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.
 
