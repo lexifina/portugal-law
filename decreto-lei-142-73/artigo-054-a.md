@@ -1,0 +1,9 @@
+# Artigo 54.º-A
+
+### Recurso hierárquico necessário
+
+Haverá recurso hierárquico necessário para o conselho de administração das resoluções que:
+
+a) Resolvam sobre a diminuição ou perda de pensão;
+
+b) Resolvam sobre a negação ou extinção da qualidade de contribuinte ou pensionista.
