@@ -6,7 +6,7 @@
 
 2 - A pensão de sobrevivência é sempre devida até ao último dia do mês em que se extinguir a qualidade de pensionista.
 
-3 - A pensão é paga mensalmente nos serviços da Caixa Geral de Depósitos e vence-se, por inteiro, no dia 1 do mês a que respeita, sem prejuízo do disposto no número seguinte, mediante prova periódica de vida e dos demais requisitos legais a prestar nos termos que forem determinados pelo conselho de administração da Caixa.
+3 - A pensão é paga mensalmente e vence-se, por inteiro, no dia 1 do mês a que respeita, sem prejuízo do disposto no número seguinte.
 
 4 - A pensão, na parte que for devida relativamente aos dias decorridos desde a data do óbito até ao fim do mês em que este tiver ocorrido, vence-se no dia 1 do mês imediato, juntamente com a pensão por inteiro referente a este mês.
 
@@ -23,3 +23,11 @@
 10 - A concessão das pensões fixadas em montante provisório não prejudica a sua rectificação, em resolução final, uma vez completada a instrução do processo, quanto ao montante encontrado e quanto ao fraccionamento, da pensão, quando for caso de ser dividida por herdeiro hábil que tenha sido preterido, nos termos do artigo 34.º
 
 11 - O pensionista que tenha recebido importância a mais, por efeitos dos números anteriores, fica sujeito ao correspondente desconto a fazer nas mensalidades das pensões seguintes, até perfazer o total em dívida, não podendo o desconto mensal ser superior a 10% da importância de cada pensão.
+
+12 - O pagamento da pensão depende de prova periódica de vida, que tem lugar:
+
+a) Para os residentes em território nacional, por interconexão de dados com o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);
+
+b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membros do Governo responsáveis pela tutela da CGA, I. P.
+
+13 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
