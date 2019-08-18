@@ -12,4 +12,4 @@ a) Uma, pela Caixa Geral de Aposentações, em função do tempo de serviço por
 
 b) Outra, pela respectiva instituição de previdência social, nos termos dos diplomas aplicáveis.
 
-4 - O tempo a que se refere o n.º 4 do artigo 37.º não influi na pensão a calcular pela Caixa.
+4 - O tempo a que se refere o n.º 5 do artigo 37.º não influi na pensão a calcular pela Caixa.

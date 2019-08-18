@@ -2,8 +2,8 @@
 
 ### (Aposentação obrigatória por incapacidade ou por limite de idade)
 
-1. Nos casos da alínea a) do n.º 2 do artigo 37.º, a aposentação ordinária poderá também ser promovida pelo competente órgão superior da administração pública, mediante apresentação do subscritor a exame médico.
+1 - Nos casos da alínea a) do n.º 3 do artigo 37.º, a aposentação ordinária pode também ser promovida pelo competente órgão superior da Administração Pública, mediante apresentação do subscritor a exame médico.
 
-2. A aposentação por limite de idade, a que se refere a alínea b) do n.º 2 do artigo 37.º, será promovida pelo serviço a que o subscritor estiver adstrito.
+2 - A aposentação por limite de idade, a que se refere a alínea b) do n.º 3 do artigo 37.º, é promovida pelo serviço a que o subscritor estiver adstrito.
 
 3. (Revogado).

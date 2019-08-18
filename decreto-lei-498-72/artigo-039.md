@@ -2,7 +2,7 @@
 
 ### Aposentação voluntária
 
-1 - A aposentação depende necessariamente de requerimento do interessado nos casos previstos no n.º 1 do artigo 37.º e no artigo 40.º
+1 - A aposentação depende necessariamente de requerimento do interessado nos casos previstos nos n.os 1 e 2 do artigo 37.º e nos artigos 37.º-A, 37.º-B e 40.º
 
 2 - A aposentação pode ser requerida pelo subscritor nas hipóteses previstas na alínea a) do n.º 3 do artigo 37.º
 
@@ -14,6 +14,6 @@
 
 6 - O requerente não pode desistir do pedido de aposentação depois de proferido despacho a reconhecer o direito a aposentação voluntária que não dependa de incapacidade, ou de verificados os factos a que se refere o n.º 2 do artigo 43.º
 
-7 - Sem prejuízo do disposto no número anterior, se, até à data do despacho, ocorrer uma alteração ao regime legal que seja mais favorável ao subscritor, pode este solicitar à CGA que seja este o regime a considerar na sua aposentação.
+7 - (Revogado.)
 
-8 - Se o despacho do pedido de aposentação não for proferido até à data indicada pelo subscritor como sendo aquela em que pretende aposentar-se, pode este solicitar à CGA que a situação a considerar na sua aposentação seja a existente à data desse despacho.
+8 - (Revogado.)

@@ -4,7 +4,7 @@
 
 1. A pensão de aposentação é devida pela Caixa a partir da data em que o subscritor passa à situação de aposentado.
 
-2 - Com excepção dos casos previstos no subsequente n.º 7, a pensão vence-se mensalmente por inteiro no dia 1 do mês a que respeita e é paga nos serviços da Caixa mediante prova periódica de vida.
+2 - Com exceção dos casos previstos no n.º 7, a pensão vence-se mensalmente por inteiro no dia 1 do mês a que respeita.
 
 3 - Se o aposentado estiver impossibilitado, de modo permanente ou duradouro, de receber a pensão, ou estiver internado em estabelecimento de assistência ou equiparado, poderá o conselho de administração da Caixa, não havendo interdição ou inabilitação judicial, autorizar que as pensões sejam pagas à pessoa que superintenda na assistência ao aposentado, ou directamente ao referido estabelecimento, desde que, em qualquer dos casos, a respectiva idoneidade seja atestada pela autoridade administrativa com competência para tal.
 
@@ -17,3 +17,11 @@
 7 - A primeira pensão dos aposentados a que se refere o n.º 2 do artigo 73.º é devida desde a data em que devam considerar-se desligados do serviço e o abono será sempre proporcional aos dias que decorrerem entre aquela data e o termo do respectivo mês, passando as pensões seguintes a obedecer às regras gerais de vencimento e cálculo.
 
 8 - No mês do óbito do aposentado a pensão é devida por inteiro.
+
+9 - O pagamento da pensão depende de prova periódica de vida, que tem lugar:
+
+a) Para os residentes em território nacional, por interconexão de dados com o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);
+
+b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membros do Governo responsáveis pela tutela da CGA, I. P.
+
+10 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.

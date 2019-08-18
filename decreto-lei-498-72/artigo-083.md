@@ -1,9 +1,9 @@
 # Artigo 83.º
 
-### (Subsídio por morte)
+### Prestações por morte
 
-1 - As pessoas de família a cargo dos aposentados têm direito a receber, por morte destes, um subsídio correspondente a um número de pensões igual ao dos meses de vencimento que a lei concede por morte dos servidores no ativo, com o limite máximo de três vezes o indexante dos apoios sociais (IAS).
+1 - O subsídio por morte e o reembolso das despesas de funeral atribuídos pela Caixa Geral de Aposentações seguem o regime que sucessivamente estiver estabelecido no sistema previdencial do regime geral de segurança social para essas prestações.
 
-2. À concessão do subsídio é aplicável o regime fixado na Lei para os subsídios por morte dos funcionários na actividade.
+2 - (Revogado.)
 
 3. (Revogado).

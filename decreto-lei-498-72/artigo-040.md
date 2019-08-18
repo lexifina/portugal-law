@@ -4,7 +4,7 @@
 
 1 - A eliminação da qualidade de subscritor não extingue o direito de requerer a aposentação nos seguintes casos:
 
-a) Previstos no n.º 1 e nas alíneas a) e b) do n.º 3 do artigo 37.º, quando a cessação definitiva de funções ocorra após cinco anos de subscritor;
+a) Previstos nos n.os 1 e 2 e nas alíneas a) e b) do n.º 3 do artigo 37.º, quando a cessação definitiva de funções ocorra após cinco anos de serviço;
 
 b) Previstos nos artigos 37.º-A e 37.º-B, quando a cessação definitiva de funções ocorra após cinco anos de subscritor e, cumulativamente, este não reúna as condições de acesso a pensão atribuída por outro regime de proteção social de inscrição obrigatória.
 
