@@ -1,0 +1,21 @@
+1. A legislação sobre registo de propriedade automóvel, muito embora já tenha sido objecto de sucessivas alterações, orientadas no sentido de abreviar a execução dos actos de registo, consagra um sistema ainda demasiado complexo, por excessivamente apegado às normas aplicáveis ao registo predial, que tradicionalmente lhe têm servido de paradigma.
+
+Na verdade, mormente sob o ponto de vista formal, os serviços de registo automóvel mantêm-se, em grande parte, subordinados a certos princípios de técnica registral que, adequados ao registo de imóveis para que foram directamente concebidos, não se compadecem com a celeridade requerida pelo enorme volume do comércio jurídico dos veículos automóveis, em constante e intensivo incremento.
+
+Sob este último aspecto, como índice suficientemente esclarecedor, salienta-se que só o movimento de inscrições de propriedade inicial - registos cujo número corresponde a outros tantos novos veículos acrescidos ao parque automóvel nacional - atingiu, no ano de 1972, o total de 93900 actos, o que, tomando por base os registos da mesma espécie efectuados em 1968 (62255), traduz, em relação ao primeiro ano do último quinquénio, um aumento superior a 50%.
+
+Para fazer face a tão acelerado ritmo de desenvolvimento do serviço, torna-se, pois, indispensável proceder a uma profunda remodelação do actual sistema de registo, delineando-o em termos que bem se ajustem à natureza muito especial das coisas que constituem o seu objecto, particularmente caracterizadas pela limitadíssima duração e extrema mobilidade negocial inerentes aos veículos automóveis, e, simultaneamente, possibilitem o eventual funcionamento do sistema no regime de tratamento automático.
+
+É com este duplo propósito que os diplomas agora publicados, sem deixarem de reproduzir, com ligeiras alterações de pormenor, os princípios que actualmente definem a finalidade e o objecto da instituição, refundem integralmente, nos seus múltiplos aspectos regulamentares, a disciplina em vigor, procurando limitar o recurso, como direito subsidiário, às normas aplicáveis ao registo predial, ao mínimo e apenas na medida compatível com a natureza especial dos veículos automóveis e das disposições legais contidas na legislação privativa do respectivo registo.
+
+2. Como nota característica predominante do esquema em que virá a movimentar-se o registo da propriedade automóvel, destaca-se a grande simplicidade das soluções adoptadas, as quais, sem quebra das indispensáveis garantias de certeza e segurança, vão a ponto de comportar a unificação dos diversos livros de registo, pressupostos pelo actual sistema, e reduzir a breves anotações o trabalho material da execução dos actos, já que o seu conteúdo passa a ser directamente estabelecido pelos títulos que lhes venham a servir de base, e cujo arquivo é estruturado por forma a permitir a sua valorização como elementos integrantes dos próprios registos.
+
+Por sua vez, pelo muito que deverá concorrer para libertar as conservatórias de tarefas inúteis ou prejudiciais ao rendimento da actividade dos serviços, merece referência especial a consagração do princípio da subordinação sistemática de lançamento, no livro a esse fim destinado, da nota de apresentação dos requerimentos para actos de registo, a prévio exame do seu contexto e dos respectivos documentos, com vista a condicioná-la à antecipada verificação da viabilidade da feitura do registo requerido.
+
+3. Mas, além das inovações de pura técnica registral introduzidas no sistema, outras, de índole diversa e com não menor alcance, são ainda previstas, como complemento indispensável das primeiras.
+
+Sob este aspecto, destaca-se, em especial, a revisão da tabela de emolumentos, a qual é realizada no sentido de prever a abolição do sistema de emolumentos parcelares e de montante variável em função do valor do direito ou facto registado, sistema que, com bem evidente vantagem para a simplificação dos trabalhos de elaboração da conta de encargos e contabilização de receitas, passa a ser substituído pela orientação de fazer corresponder a cada registo, consoante o seu objecto material, uma única taxa emolumentar fixa.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:

@@ -1,0 +1,3 @@
+# Artigo 2.º
+
+Por cada registo de alteração de nome, denominação, residência ou sede ... 200$00
