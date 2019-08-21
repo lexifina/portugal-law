@@ -16,14 +16,26 @@ f) A afectação do veículo ao regime de aluguer sem condutor;
 
 g) A transmissão de direitos ou créditos registados e o penhor, o arresto e a penhora desses créditos;
 
-h) A penhora, o arresto, o arrolamento, a apreensão, a apreensão em processo penal ou quaisquer outras providências ou atos judiciais ou administrativos que afetem a livre disposição de veículos;
+h) A penhora e quaisquer providências administrativas que afetem a livre disposição de veículos;
 
-i) Os ónus de inalienabilidade ou indisponibilidade previstos na legislação fiscal;
+i) Os ónus de intransmissibilidade e de tributação residual previstos na legislação fiscal;
 
-j) A extinção ou a modificação de direitos ou encargos anteriormente registados, a alteração da composição do nome ou denominação e a mudança de residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos;
+j) O utilizador não proprietário;
 
-l) Quaisquer outros factos jurídicos sujeitos por lei a registo.
+k) A declaração de insolvência;
 
-2 - É obrigatório o registo dos factos previstos nas alíneas a), b), d), e), f) e i) e o registo da mudança de nome ou denominação e da residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos.
+l) A extinção ou a modificação de direitos ou encargos anteriormente registados, a alteração da composição do nome ou denominação e a mudança de residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos;
+
+m) A apreensão do certificado de matrícula, nos casos em que for comunicada por entidades administrativas e policiais, bem como o pedido de apreensão e a apreensão de veículo previstos no procedimento especial para regularização de propriedade;
+
+n) A apreensão em processo penal;
+
+o) A apreensão de veículo por decisão administrativa condenatória, nos termos do n.º 3 do artigo 147.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, na sua redação atual;
+
+p) A declaração de veículo perdido definitivamente a favor do Estado, por decisão judicial transitada em julgado;
+
+q) Quaisquer outros factos jurídicos sujeitos por lei a registo.
+
+2 - É obrigatório o registo dos factos previstos nas alíneas a), b), d), e), f) e i) do número anterior e o registo da mudança de nome ou denominação e da residência habitual ou sede dos proprietários, usufrutuários e locatários dos veículos.
 
 3 - É dispensado o registo de propriedade, em caso de sucessão hereditária, quando o veículo se destine a ser alienado pelo herdeiro ou herdeiros.
