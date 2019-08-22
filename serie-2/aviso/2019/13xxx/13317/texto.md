@@ -1,0 +1,11 @@
+Aviso n.º 13317/2019
+Sumário: Plano de Pormenor do Centro Direcional de Valongo (PPCDV) - abertura de período de discussão pública.
+José Manuel Ribeiro, Presidente da Câmara Municipal de Valongo, torna público que, nos termos previstos nos n.os 1 e2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que estabelece o novo Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), a Câmara Municipal deliberou, na sua reunião pública ordinária de 1 de agosto de 2019, por unanimidade, aprovar a abertura do período de discussão pública, da proposta de Plano de Pormenor do Centro Direcional de Valongo (PPCDV).
+A proposta aprovada referente ao PPCDV está disponível para consulta no Gabinete do Munícipe/ Loja do Cidadão/ Receção do Edifício dos Paços do Concelho e na página do Município em www.cm-valongo.pt.
+Assim no prazo de 20 dias seguidos a contar do 5.º dia após a data de publicação do aviso no Diário da República, poderão os interessados apresentar os seus contributos e sugestões, por escrito, dirigidos ao Presidente da Câmara Municipal, nos dias úteis das 09h00 às 17h30, que podem ser entregues nos serviços de atendimento ao público da Câmara Municipal de Valongo, nos feriados e fins de semana das 09h00 às 12h30 e das 14h00 às 17h30, na receção do edifício dos Paços do Concelho, ou via postal, a serem remetidos para a Av. 5 de Outubro, n.º 160, 4440-503 Valongo, ou, ainda, por correio eletrónico gabmunicipe@cm-valongo.pt.
+Para constar se lavrou o presente edital e outros de igual teor, que vão ser afixados nos locais públicos do costume e divulgados através da página da internet do Município.
+1 de agosto de 2019. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+Deliberação
+A Câmara Municipal deliberou, em reunião pública de 1 de agosto de 2019, por unanimidade, nos termos dos n.os 1 e 2 do artigo 89.º do Decreto-Lei n.º 80/2015, de 14 de maio, que estabelece o novo Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovar a abertura do período de discussão pública, da proposta de Plano de Pormenor do Centro Direcional de Valongo (PPCDV), por 20 dias seguidos a contar do 5.º dia após a data de publicação do aviso no Diário da República.
+1 de agosto de 2019. - O Presidente da Câmara Municipal, José Manuel Ribeiro.
+612496595
