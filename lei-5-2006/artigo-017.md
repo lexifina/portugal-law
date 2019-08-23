@@ -6,7 +6,7 @@
 
 a) Se encontrem em pleno uso de todos os direitos civis;
 
-b) Demonstrem carecer da licença para a prática desportiva de artes marciais, sendo atletas federados, ou para práticas recreativas em propriedade privada e coleccionismo de réplicas e armas de fogo inutilizadas;
+b) Demonstrem carecer da licença para a prática desportiva de artes marciais, sendo atletas federados, para práticas recreativas em propriedade privada, para o colecionismo de réplicas e para a atividade de reconstituição histórica com réplicas de armas de fogo e de armas brancas;
 
 c) Sejam idóneos;
 

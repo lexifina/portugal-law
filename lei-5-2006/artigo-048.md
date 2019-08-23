@@ -4,13 +4,13 @@
 
 1 - Tendo em consideração a actividade pretendida e as condições de segurança das instalações, são atribuídos os seguintes tipos de alvarás:
 
-a) Alvará de armeiro do tipo 1, para o fabrico, montagem e reparação de armas de fogo e suas munições;
+a) Alvará de armeiro do tipo 1, para o fabrico, montagem, reparação e desativação de armas de fogo, componentes essenciais ou outros, partes, mecanismos, acessórios e suas munições;
 
-b) Alvará de armeiro do tipo 2, para a compra e venda e reparação de armas das classes B, B1, C, D, E, F e G e suas munições;
+b) Alvará de armeiro do tipo 2, para a compra e venda, guarda, desativação e reparação de armas das classes B, B1, C, D, E, F e G, seus componentes essenciais ou outros, partes, mecanismos, acessórios e suas munições;
 
 c) Alvará de armeiro do tipo 3, para a compra e venda e reparação de armas das classes E, F e G e suas munições;
 
-d) Alvará de armeiro do tipo 4, para importar, transferir, deter e ceder temporariamente armas e acessórios de todas as classes, com excepção dos equipamentos, meios militares e material de guerra, para efeitos cénicos e cinematográficos;
+d) Alvará de armeiro do tipo 4, para importar, transferir, deter e ceder temporariamente armas e acessórios de todas as classes, e adquirir e vender munições de salva para as referidas armas, com exceção dos bens e tecnologias militares, para efeitos cénicos e cinematográficos;
 
 e) Alvará de armeiro do tipo 5, para venda e leilão de armas destinadas a colecção.
 
@@ -26,7 +26,9 @@ d) Tenha obtido aprovação em curso de formação técnica e cívica para o exe
 
 e) Seja portador de certificado médico;
 
-f) Seja possuidor de instalações comerciais ou industriais devidamente licenciadas e que observem as condições de segurança fixadas para actividade pretendida.
+f) Seja possuidor de instalações comerciais ou industriais devidamente licenciadas e que observem as condições de segurança fixadas para actividade pretendida;
+
+g) Apresente certidão comprovativa da inexistência de dívidas ao Estado e à segurança social, ou de que o seu pagamento se encontra assegurado.
 
 3 - Quando o requerente for uma pessoa colectiva, os requisitos mencionados nas alíneas a), b), c) e e) do número anterior têm de se verificar relativamente a todos os sócios e gerentes ou aos cinco maiores accionistas ou administradores, conforme os casos.
 
@@ -46,8 +48,10 @@ f) Seja possuidor de instalações comerciais ou industriais devidamente licenci
 
 11 - O exercício da actividade de armeiro em feiras da especialidade ou feiras agrícolas, bem como em exposições, carece de autorização prévia do director nacional da PSP.
 
-12 - As regras de funcionamento, obrigações, requisitos de concessão e das taxas a cobrar pela emissão dos alvarás de armeiro tipo 4 e 5 são estabelecidos por portaria do Ministério da Administração Interna.
+12 - As regras de funcionamento, obrigações, requisitos de concessão e taxas a cobrar pela emissão dos alvarás de armeiro são estabelecidos por portaria do membro do Governo responsável pela área da administração interna.
 
-13 - Sem prejuízo das normas de segurança, aos titulares de alvará e seus funcionários é autorizado o transporte de armas, munições e partes essenciais de armas, para os locais referidos no n.º 11 do presente artigo, desde que afectas à respectiva actividade comercial.
+13 - Sem prejuízo das normas de segurança, aos titulares de alvará e seus funcionários é autorizado o transporte de armas, munições e partes ou componentes essenciais de armas, para os locais referidos no n.º 11, ou qualquer outro, desde que afetas à respetiva atividade comercial.
 
-14 - Os titulares de alvará de armeiro tipo 2 podem ter à sua guarda armas das classes C e D, desde que acompanhadas do respectivo livrete, bem como de declaração do proprietário da arma.
+14 - A guarda de armas das classes B, B1, C, D, E, F e G por armeiro tipo 2 devem ser acompanhadas do respetivo livrete, quando aplicável, bem como de declaração justificativa do proprietário da arma referindo os motivos para esse efeito.
+
+15 - Os responsáveis técnicos dos estabelecimentos de armeiro, com exceção do armeiro do tipo 3, podem requerer ao diretor nacional da PSP uma licença de uso e porte de arma da classe B1, para sua defesa pessoal.

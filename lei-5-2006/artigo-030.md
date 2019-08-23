@@ -18,7 +18,7 @@ a) A identificação completa do comprador ou donatário;
 
 b) O número e o tipo de licença de que é titular ou o número do alvará da entidade que exerce a actividade;
 
-c) Identificação da marca, modelo, tipo e calibre ou, no caso de partes essenciais de arma de fogo, a identificação da arma a que se destinam e as características dessas partes;
+c) Identificação da marca, modelo, tipo e calibre ou, no caso de componentes essenciais de arma de fogo, a identificação da arma a que se destinam e as suas caraterísticas;
 
 d) Declaração, sob compromisso de honra, de possuir no seu domicílio ou instalações, respectivamente, um cofre ou armário de segurança não portáteis, ou casa-forte ou fortificada, bem como referência à existência de menores no domicílio, se os houver;
 

@@ -22,6 +22,6 @@ e) Obtenham aprovação em curso de formação técnica e cívica para o uso e p
 
 5 - O incidente corre por apenso ao processo principal, sendo instruído com requerimento fundamentado do requerente, que é obrigatoriamente ouvido pelo juiz do processo, que decide, produzida a necessária prova e após parecer do Ministério Público.
 
-6 - Os pedidos de concessão de licenças de uso e porte de arma da classe B1 são formulados através de requerimento do qual conste o nome completo do requerente, número do bilhete de identidade, data e local de emissão, data de nascimento, profissão, estado civil, naturalidade, nacionalidade e domicílio, bem como a justificação da pretensão.
+6 - Os pedidos de concessão de licenças de uso e porte de arma da classe B1 são formulados através de requerimento do qual conste nome completo do requerente, número e validade do documento de identificação, data de nascimento, profissão, estado civil, naturalidade, nacionalidade e domicílio, bem como a justificação da pretensão.
 
 7 - O requerimento referido no número anterior deve ser acompanhado do certificado de aprovação para o uso e porte de armas de fogo da classe B1.

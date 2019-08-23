@@ -2,17 +2,17 @@
 
 ### Armas declaradas perdidas a favor do Estado
 
-1 - Sem prejuízo do disposto em legislação especial, todas as armas que, independentemente do motivo da entrega ou decisão, sejam declaradas perdidas a favor do Estado, ficam depositadas à guarda da PSP, que promoverá o seu destino.
+1 - Sem prejuízo do disposto em legislação especial, todas as armas que, independentemente do motivo da entrega ou decisão, sejam declaradas perdidas a favor do Estado ficam depositadas à guarda da PSP, que promoverá o seu destino.
 
-2 - As armas referidas no número anterior, desde o momento do depósito à guarda da PSP até à decisão final, nomeadamente de destruição, venda, afectação a museus públicos ou privados, ou utilização pelas forças de segurança, devem ser acompanhadas de registo documental, consultável a todo o tempo pelo interessado, do qual devem constar os seguintes elementos:
+2 - As armas referidas no número anterior, desde o momento do depósito à guarda da PSP até à decisão final, nomeadamente de destruição, afetação a museus públicos ou privados ou utilização pelas forças e serviços de segurança, devem ser acompanhadas de registo documental, consultável a todo o tempo pelo interessado, do qual devem constar os seguintes elementos:
 
 a) Identificação da pessoa, ou entidade, que procedeu à entrega;
 
 b) Motivo que determinou a entrega;
 
-c) Agente que recepcionou a entrega e respectiva esquadra;
+c) Agente que rececionou a entrega e respetiva esquadra;
 
-d) Características da arma, com referência à marca, modelo, calibre, condições de funcionalidade, estado de conservação e demais características relevantes;
+d) Caraterísticas da arma, com referência à marca, modelo, calibre, condições de funcionalidade, estado de conservação e demais caraterísticas relevantes;
 
 e) Fotografia da arma aquando do depósito, da qual deve ser facultada cópia à pessoa ou entidade que procedeu à entrega;
 

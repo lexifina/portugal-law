@@ -1,35 +1,43 @@
 ## Capítulo VII
 
-## Importação, exportação, transferência e cartão europeu de arma de fogo
+## Exportação, importação, transferência e cartão europeu de arma de fogo
 
 ## Secção I
 
-## Importação e exportação de armas e munições
+## Exportação e importação de armas e munições
 
 # Artigo 60.º
 
-### Autorização prévia à importação e exportação
+### Autorização prévia à exportação
 
-1 - A importação e a exportação de armas de aquisição condicionada, munições, fulminantes, cartuchos ou invólucros com fulminantes, punhos para armas de fogo longas e coronhas retrácteis ou rebatíveis, partes essenciais de armas de fogo, com excepção da culatra, caixa da culatra e carcaça, estão sujeitas a prévia autorização do director nacional da PSP.
+1 - A exportação de armas de aquisição condicionada, componentes essenciais, munições, fulminantes, cartuchos ou invólucros com fulminantes, estão sujeitas a autorização prévia do diretor nacional da PSP.
 
-2 - A autorização pode ser concedida:
+2 - Para efeitos do previsto no número anterior, o diretor nacional da PSP pode emitir a autorização de exportação, numa das seguintes modalidades:
 
-a) Ao titular do alvará de armeiro, de acordo com a actividade exercida;
+a) Uma autorização única concedida a um exportador específico para um só envio de uma ou mais armas de fogo, componentes essenciais e munições, a um destinatário final ou consignatário identificado num país terceiro;
+
+b) Uma autorização múltipla ou uma licença concedida a um exportador específico para envios múltiplos de uma ou mais armas de fogo, componentes essenciais e munições, a um destinatário final ou consignatário identificado num país terceiro; ou
+
+c) Uma autorização global ou uma licença concedida a um exportador específico para envios múltiplos de uma ou mais armas de fogo, componentes essenciais e munições, a vários destinatários finais ou consignatários identificados em um ou mais países terceiros.
+
+3 - A autorização é requerida e emitida previamente à exportação e pode ser concedida aos seguintes requerentes:
+
+a) Ao titular do alvará de armeiro, de acordo com a atividade exercida;
 
 b) Ao titular de licença B, ou isento nos termos da lei, para armas de fogo da classe B;
 
-c) Ao titular de licença B1, C, D, E ou F, para armas da classe permitida pela respectiva licença.
+c) Ao titular de licença B1, C, D, E, F ou isento nos termos da lei, para armas da classe permitida pela respetiva licença;
 
-3 - Em cada ano apenas é concedida autorização de importação de uma arma aos titulares das licenças B, B1,C, D, E e F, ou que delas estejam isentos.
+d) Ao titular de licença de tiro desportivo ou licença de colecionador, para as armas abrangidas pela respetiva licença federativa ou temática da coleção, respetivamente.
 
-4 - Os cidadãos nacionais regressados de países terceiros após ausência superior a um ano e os estrangeiros oriundos desses países que pretendam fixar residência em território nacional podem ser autorizados a importar as suas armas das classes B, B1, C, D, E, F ou G e respectivas munições, ficando contudo sujeitos à prova da respectiva licença de uso e porte ou detenção.
+4 - Se as armas de fogo, componentes essenciais e munições se encontrarem num ou mais Estados-Membros, esse facto é indicado no requerimento, devendo a PSP consultar imediatamente as autoridades competentes do Estado-Membro ou Estados-Membros em questão e prestar-lhes as informações necessárias, para a emissão de comunicação vinculativa no prazo de 10 dias úteis, sobre as eventuais objeções à concessão de autorização de exportação.
 
-5 - A autorização prevista no número anterior pode, em casos devidamente fundamentados, ser concedida, pelo director nacional da PSP, a nacionais regressados de países terceiros antes de decorrido um ano.
+5 - O exportador faculta à PSP os documentos que comprovem que o país terceiro importador autorizou a importação e que o país terceiro de trânsito não emitiu objeções ao trânsito.
 
-6 - O requerimento, acompanhado pelo certificado de utilizador final, individual ou colectivo, quando a arma se destine à exportação, indica o tipo, a marca, o modelo, o calibre, o número de série de fabrico, demais características da arma e a indicação de a arma ter sido sujeita ao controlo de conformidade.
+6 - Pode ser exigida ao exportador uma tradução para a língua portuguesa dos documentos fornecidos, a título de prova, na língua oficial do país onde a declaração de exportação é apresentada.
 
-7 - Previamente à concessão da autorização de exportação, a PSP solicita ao Ministério dos Negócios Estrangeiros parecer relativo ao cumprimento pelo país de destino dos critérios previstos no Código de Conduta da União Europeia sobre exportação de armas.
+7 - A exportação de culatras, caixas da culatra e carcaças por titulares de alvará de armeiro do tipo 1 e 2 dispensa a autorização prevista no n.º 1.
 
-8 - O parecer previsto no número anterior é vinculativo e enviado à PSP no prazo de 10 dias após o pedido.
+8 - (Revogado.)
 
-9 - Só podem ser admitidas em território nacional as armas homologadas por despacho do director nacional da PSP, nos termos do artigo 11.º-A.
+9 - (Revogado.)
