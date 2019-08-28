@@ -20,6 +20,8 @@ f) Serviço de recolha e tratamento de águas residuais;
 
 g) Serviços de gestão de resíduos sólidos urbanos.
 
+h) Serviço de transporte de passageiros.
+
 3 - Considera-se utente, para os efeitos previstos nesta lei, a pessoa singular ou colectiva a quem o prestador do serviço se obriga a prestá-lo.
 
 4 - Considera-se prestador dos serviços abrangidos pela presente lei toda a entidade pública ou privada que preste ao utente qualquer dos serviços referidos no n.º 2, independentemente da sua natureza jurídica, do título a que o faça ou da existência ou não de contrato de concessão.
