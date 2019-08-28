@@ -1,0 +1,85 @@
+Portaria n.º 276/2019
+de 28 de agosto
+Sumário: Portaria que atualiza os montantes do abono de família para crianças e jovens, do abono de família pré-natal e do subsídio de funeral.
+Garantindo a manutenção da centralidade das políticas sociais dirigidas às famílias, com foco no combate à pobreza das crianças e jovens, o XXI Governo, no âmbito do subsistema de proteção familiar, procede à conclusão da convergência dos montantes de abono auferidos pelas crianças com idade entre 12 e 36 meses com os montantes atribuídos até aos 12 meses, de forma que, em 2019, o valor seja o mesmo, dentro de cada escalão de rendimentos.
+Refere-se ainda que, num esforço de reforço desta prestação, nos primeiros 6 anos de vida o montante do abono de família para crianças e jovens passará a ser majorado em função da idade, o que anteriormente apenas abrangia as crianças até aos 36 meses de idade.
+Nesse contexto, a presente portaria procede à atualização anual dos valores das prestações familiares para o ano de 2019 de modo a reforçar em termos reais a proteção garantida às famílias portuguesas para qualquer uma das prestações e respetivos escalões.
+São igualmente atualizadas as majorações em função de situações de monoparentalidade bem como reforçados os valores para as famílias mais numerosas tendo por referência os valores fixados para o abono de família para crianças e jovens.
+Procede-se também à atualização do abono de família pré-natal, da bonificação por deficiência, do subsídio por assistência de terceira pessoa e do subsídio de funeral.
+Assim:
+Ao abrigo do disposto no n.º 5 do artigo 14.º e no artigo 18.º do Decreto-Lei n.º 176/2003, de 2 de agosto, republicado pelo Decreto-Lei n.º 133/2012, de 27 de junho, e alterado pelo Decreto-Lei n.º 2/2016, de 6 de janeiro e pelas Leis n.os 42/2016, de 28 de dezembro, e 114/2017, de 29 de dezembro.
+Manda o Governo, pelos Ministros das Finanças e do Trabalho, Solidariedade e Segurança Social, o seguinte:
+Artigo 1.º
+Objeto
+1 - A presente portaria atualiza os montantes do abono de família para crianças e jovens, do abono de família pré-natal e do subsídio de funeral, regulados pelo Decreto-Lei n.º 176/2003, de 2 de agosto, republicado pelo Decreto-Lei n.º 133/2012, de 27 de junho, e alterado pelo Decreto-Lei n.º 2/2016, de 6 de janeiro, e pelas Leis n.os 42/2016, de 28 de dezembro, e 114/2017, de 29 de dezembro.
+2 - A presente portaria atualiza, ainda, os montantes da bonificação por deficiência do abono de família para crianças e jovens e do subsídio por assistência de terceira pessoa, regulados pelo Decreto-Lei n.º 133-B/97, de 30 de maio, alterado pelos Decretos-Leis n.os 248/99, de 2 de julho, 341/99, de 25 de agosto, 250/2001, de 21 de setembro, e 176/2003, de 2 de agosto, pela Lei n.º 82-B/2014, de 31 de dezembro, e pelos Decretos-Leis n.os 25/2017, de 3 de março, e 126-A/2017, de 6 de outubro, e pelo Decreto-Lei n.º 160/80, de 27 de maio, alterado pelos Decretos-Leis n.os 133-C/97, de 30 de maio, 265/99, de 14 de julho, e 126-A/2017, de 6 de outubro.
+Artigo 2.º
+Prestações por encargos familiares
+1 - Os montantes mensais do abono de família para crianças e jovens, previsto na alínea a) do artigo 3.º do Decreto-Lei n.º 176/2003, de 2 de agosto, são os seguintes:
+a) Em relação ao 1.º escalão de rendimentos:
+i) (euro) 149,85, para crianças com idade igual ou inferior a 12 meses;
+ii) (euro) 130,31, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, até 30 de junho de 2019;
+iii) (euro) 149,85, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, a partir de 1 de julho de 2019;
+iv) (euro) 43,44, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, até 30 de junho de 2019;
+v) (euro) 49,95, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, a partir de 1 de julho de 2019;
+vi) (euro) 37,46, para crianças e jovens com idade superior a 72 meses.
+b) Em relação ao 2.º escalão de rendimentos:
+i) (euro) 123,69, para crianças com idade igual ou inferior a 12 meses;
+ii) (euro) 107,56, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, até 30 de junho de 2019;
+iii) (euro) 123,69, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, a partir de 1 de julho de 2019;
+iv) (euro) 35,85, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, até 30 de junho de 2019;
+v) (euro) 41,23, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, a partir de 1 de julho de 2019;
+vi) (euro) 30,93, para crianças e jovens com idade superior a 72 meses.
+c) Em relação ao 3.º escalão de rendimentos:
+i) (euro) 97,31, para crianças com idade igual ou inferior a 12 meses;
+ii) (euro) 85,22, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, até 30 de junho de 2019;
+iii) (euro) 97,31, para crianças e jovens com idade superior a 12 meses e igual ou inferior a 36 meses, a partir de 1 de julho de 2019;
+iv) (euro) 28,41, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, até 30 de junho de 2019;
+v) (euro) 32,44, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, a partir de 1 de julho de 2019;
+vi) (euro) 28,00, para crianças e jovens com idade superior a 72 meses.
+d) Em relação ao 4.º escalão de rendimentos:
+i) (euro) 48,35, para crianças com idade igual ou inferior a 36 meses, até 30 de junho de 2019;
+ii) (euro) 58,39, para crianças e jovens com idade igual ou inferior a 36 meses, a partir de 1 de julho de 2019;
+iii) (euro) 16,12, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, até 30 de junho de 2019;
+iv) (euro) 19,46, para crianças e jovens com idade superior a 36 meses e igual ou inferior a 72 meses, a partir de 1 de julho de 2019.
+2 - Os montantes mensais do abono de família pré-natal previsto na alínea b) do artigo 3.º do Decreto-Lei n.º 176/2003, de 2 de agosto, são os seguintes:
+a) (euro) 149,85, em relação ao 1.º escalão de rendimentos;
+b) (euro) 123,69, em relação ao 2.º escalão de rendimentos;
+c) (euro) 97,31, em relação ao 3.º escalão de rendimentos;
+d) (euro) 48,35, em relação ao 4.º escalão de rendimentos, até 30 de junho de 2019;
+e) (euro) 58,39, em relação ao 4.º escalão de rendimentos, a partir de 1 de julho de 2019.
+3 - O montante do subsídio de funeral, previsto na alínea d) do artigo 3.º do Decreto-Lei n.º 176/2003, de 2 de agosto, é de (euro) 219,96.
+Artigo 3.º
+Majorações do abono de família para crianças e jovens do segundo titular e seguintes
+Os montantes mensais da majoração do abono de família para crianças e jovens nas famílias mais numerosas têm por referência os valores desta prestação fixados no artigo anterior e são, consoante o caso, os seguintes:
+a) Para criança com idade igual ou inferior a 36 meses e inserida em agregados familiares com dois titulares de abono nas condições previstas no n.º 1 do artigo 14.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto:
+(euro) 37,46, em relação ao 1.º escalão de rendimentos;
+(euro) 30,93, em relação ao 2.º escalão de rendimentos;
+(euro) 28,00, em relação ao 3.º escalão de rendimentos;
+(euro) 14,60, em relação ao 4.º escalão de rendimentos.
+b) Para criança com idade igual ou inferior a 36 meses e inserida em agregados familiares com mais de dois titulares de abono nas condições previstas no n.º 1 do artigo 14.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto:
+(euro) 74,92, em relação ao 1.º escalão de rendimentos;
+(euro) 61,86, em relação ao 2.º escalão de rendimentos;
+(euro) 56,00, em relação ao 3.º escalão de rendimentos;
+(euro) 29,20, em relação ao 4.º escalão de rendimentos.
+Artigo 4.º
+Majorações do abono de família para crianças e jovens e do abono de família pré-natal nas situações de monoparentalidade
+1 - O montante mensal da majoração do abono de família para crianças e jovens nas situações de monoparentalidade corresponde à aplicação de 35 % sobre os valores da prestação fixados no n.º 1 do artigo 2.º, bem como sobre os valores das majorações e da bonificação por deficiência que lhe acresçam.
+2 - O montante mensal da majoração do abono de família pré-natal nas situações de monoparentalidade corresponde à aplicação de 35 % sobre os valores do abono fixados no n.º 2 do artigo 2.º
+Artigo 5.º
+Prestações por deficiência e dependência
+1 - Os montantes mensais da bonificação por deficiência e do subsídio por assistência de terceira pessoa, previstos, respetivamente, nos artigos 7.º e 10.º do Decreto-Lei n.º 133-B/97, de 30 de maio, são os seguintes:
+a) Bonificação por deficiência:
+i) (euro) 63,01, para titulares até aos 14 anos;
+ii) (euro) 91,78, para titulares dos 14 aos 18 anos;
+iii) (euro) 122,85, para titulares dos 18 aos 24 anos.
+b) O subsídio por assistência de terceira pessoa é (euro) 110,41.
+2 - Os montantes mensais da bonificação por deficiência e do subsídio por assistência de terceira pessoa, no âmbito do regime não contributivo, previstos no Decreto-Lei n.º 160/80, de 27 de maio, são de igual valor ao fixado no número anterior para as correspondentes prestações.
+Artigo 6.º
+Norma revogatória
+É revogada a Portaria n.º 160/2018, de 6 de junho.
+Artigo 7.º
+Produção de efeitos
+A presente portaria produz efeitos a partir de 1 de janeiro de 2019.
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 23 de agosto de 2019. - O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 2 de janeiro de 2019.
+112541808
