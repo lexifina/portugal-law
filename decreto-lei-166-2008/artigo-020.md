@@ -16,7 +16,7 @@ c) Vias de comunicação;
 
 d) Escavações e aterros;
 
-e) Destruição do revestimento vegetal, não incluindo as ações necessárias ao normal e regular desenvolvimento das operações culturais de aproveitamento agrícola do solo e das operações correntes de condução e exploração dos espaços florestais.
+e) Destruição do revestimento vegetal, não incluindo as ações necessárias ao normal e regular desenvolvimento das operações culturais de aproveitamento agrícola do solo, das operações correntes de condução e exploração dos espaços florestais e de ações extraordinárias de proteção fitossanitária previstas em legislação específica.
 
 2 - Excetuam-se do disposto no número anterior os usos e as ações que sejam compatíveis com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais de áreas integradas em REN.
 
@@ -28,7 +28,7 @@ b) Constem do anexo ii do presente decreto-lei, que dele faz parte integrante, n
 
 i) Isentos de qualquer tipo de procedimento; ou
 
-ii) Sujeitos à realização de uma mera comunicação prévia; ou
+ii) Sujeitos à realização de comunicação prévia;
 
 iii) (Revogada.)
 

@@ -16,4 +16,4 @@ a) A delimitação das áreas incluídas na REN, indicando as suas diferentes ti
 
 b) As exclusões de áreas, nos termos do número anterior, que, em princípio, deveriam ser integradas na REN, incluindo a sua fundamentação e a indicação do fim a que se destinam.
 
-4 - As áreas da REN são identificadas nas plantas de condicionantes dos planos especiais e municipais de ordenamento do território e constituem parte integrante das estruturas ecológicas municipais.
+4 - As áreas da REN são identificadas nas plantas de condicionantes dos planos territoriais de âmbito municipal e intermunicipal e constituem parte integrante das estruturas ecológicas municipais.

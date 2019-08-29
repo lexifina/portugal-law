@@ -2,7 +2,7 @@
 
 ### Embargo e demolição
 
-1 - Compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, às comissões de coordenação e desenvolvimento regional, à Agência Portuguesa do Ambiente, I. P., aos municípios e às demais entidades competentes em razão da matéria ou área de jurisdição embargar e demolir as obras, bem como fazer cessar outros usos e ações, realizadas em violação ao disposto no presente decreto-lei, nomeadamente os interditos nos termos do artigo 20.º e os que careçam de autorização nos termos dos artigos 20.º e 23.º sem que a mesma tenha sido emitida.
+1 - Compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, às comissões de coordenação e desenvolvimento regional, à Agência Portuguesa do Ambiente, I. P., aos municípios e às demais entidades competentes em razão da matéria ou área de jurisdição embargar e demolir as obras, bem como fazer cessar outros usos e ações, realizadas em violação ao disposto no presente decreto-lei.
 
 2 - As entidades referidas no número anterior devem determinar o cumprimento integral dos condicionamentos e medidas de minimização estabelecidos nos termos do n.º 2 do artigo 21.º quando se verifique o incumprimento ou cumprimento deficiente dos mesmos.
 

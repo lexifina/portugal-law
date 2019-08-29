@@ -6,7 +6,7 @@ a) Faixa marítima de proteção costeira
 
 1 - A faixa marítima de proteção costeira é uma faixa ao longo de toda a costa marítima no sentido do oceano, correspondente à parte da zona nerítica com maior riqueza biológica, delimitada superiormente pela linha que limita o leito das águas do mar, ou pelo limite de jusante das águas de transição e inferiormente pela batimétrica dos 30 m.
 
-2 - A faixa marítima de proteção costeira caracteriza-se pela sua elevada produtividade em termos de recursos biológicos e pelo seu elevado hidrodinamismo responsável pelo equilíbrio dos litorais arenosos, bem como por ser uma área de ocorrência de habitats naturais e de espécies da flora e da fauna marinhas consideradas de interesse comunitário nos termos do Decreto-Lei n.º 49/2005, de 24 de Fevereiro.
+2 - A faixa marítima de proteção costeira caracteriza-se pela sua elevada produtividade em termos de recursos biológicos e pelo seu elevado hidrodinamismo responsável pelo equilíbrio dos litorais arenosos, bem como por ser uma área de ocorrência de habitats naturais e de espécies da flora e da fauna marinhas, nomeadamente as consideradas de interesse comunitário nos termos do Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro.
 
 3 - Na faixa marítima de proteção costeira podem ser realizados os usos e as ações que não coloquem em causa, cumulativamente, as seguintes funções:
 
@@ -22,11 +22,11 @@ b) Praias
 
 1 - As praias são formas de acumulação de sedimentos não consolidados, geralmente de areia ou cascalho, compreendendo um domínio emerso que corresponde à área sujeita à influência das marés e ainda à porção geralmente emersa com indícios do mais extenso sintoma de atividade do espraio das ondas ou de galgamento durante episódios de temporal, bem como um domínio submerso, que se estende até à profundidade de fecho e que corresponde à área onde, devido à influência das ondas e das marés, se processa a deriva litoral e o transporte de sedimentos e onde ocorrem alterações morfológicas significativas nos fundos proximais.
 
-2 - Na delimitação das praias deve considerar-se a área compreendida entre a linha representativa da profundidade de fecho para o regime da ondulação no respetivo setor de costa e a linha que delimita a atividade do espraio das ondas ou de galgamento durante episódio de temporal, a qual, consoante o contexto geomorfológico presente, poderá ser substituída pela base da duna embrionária/frontal ou pela base da escarpa de erosão entalhada no cordão dunar ou pela base da arriba.
+2 - Na delimitação das praias deve considerar-se a área compreendida entre a linha representativa da profundidade de fecho para o regime da ondulação no respetivo setor de costa e a linha que delimita a atividade do espraio das ondas ou de galgamento durante episódio de temporal, a qual, consoante o contexto morfológico presente, poderá ser substituída pela base da duna embrionária/frontal ou pela base da escarpa de erosão entalhada no cordão dunar ou pela base da arriba.
 
 3 - Nas praias podem ser realizados os usos e as ações que não coloquem em causa, cumulativamente, as seguintes funções:
 
-i) Manutenção dos processos de dinâmica costeira;
+i) Manutenção dos processos de dinâmica costeira e estuarina;
 
 ii) Conservação dos habitats naturais e das espécies da flora e da fauna;
 
@@ -100,21 +100,45 @@ I - Dunas costeiras
 
 2 - A área correspondente às dunas costeiras é delimitada, do lado do mar, pela base da duna embrionária, ou frontal, ou pela base da escarpa de erosão entalhada no cordão dunar, abrangendo as dunas frontais em formação, próximas do mar, as dunas frontais semiestabilizadas, localizadas mais para o interior, e outras dunas, estabilizadas pela vegetação ou móveis, cuja morfologia resulta da movimentação da própria duna.
 
-3 - Em dunas costeiras podem ser realizados os usos e as ações que não coloquem em causa, cumulativamente, as seguintes funções:
+3 - As dunas costeiras são divididas em duas classes: dunas costeiras litorais e dunas costeiras interiores:
+
+i) As dunas costeiras litorais são as que têm um papel ativo na defesa contra a erosão costeira (dunas frontais ou outro tipo de dunas formadas sobre depósitos costeiros não consolidados como praias, restingas, planícies costeiras, etc.) e que são passíveis de poderem vir a sofrer erosão marinha tendo em conta a evolução geológica e subida do nível do mar para os próximos 100 anos;
+
+ii) As dunas costeiras interiores são aquelas que pela sua localização estejam fora do domínio da erosão marinha, tendo em conta a subida do nível do mar para os próximos 100 anos;
+
+iii) (Revogada.)
+
+iv) (Revogada.)
+
+v) (Revogada.)
+
+vi) (Revogada.)
+
+vii) (Revogada.)
+
+4 - O critério para a divisão de dunas costeiras em litorais ou interiores, deve basear-se na interpretação das cartas geológicas e em estudos geológicos e geotécnicos efetuados no setor costeiro, ortofotomapas, fotografias aéreas, modelo digital do terreno, cartas de solos e trabalho de campo.
+
+5 - Dada a relevância do habitat costeiro, o coberto vegetal caraterístico dos sistemas dunares deverá ser um critério complementar, considerando a suas funções, nomeadamente ao nível de estabilização do sistema, devendo utilizar-se, para esse efeito, a melhor informação disponível sobre os habitats naturais no sentido de evitar descontinuidades nestas formações.
+
+6 - Em dunas costeiras litorais podem ser realizados os usos e as ações que não coloquem em causa, cumulativamente, as seguintes funções:
 
 i) Constituição de barreira contra fenómenos de erosão e galgamento oceânico, associados a tempestades ou tsunami, e de erosão eólica;
 
 ii) Armazenamento natural de areia para compensação da perda de sedimento provocada pela erosão;
 
-iii) Garantia dos processos de dinâmica costeira e da diversidade dos sistemas naturais, designadamente da estrutura geomorfológica, dos habitats naturais e das espécies da flora e da fauna;
+iii) Garantia dos processos de dinâmica costeira e da diversidade dos sistemas naturais, designadamente das características morfológicas, dos habitats naturais e das espécies da flora e da fauna;
 
-iv) Manutenção da linha de costa;
+iv) A deslocação expectável da linha de costa, no período de 100 anos, tendo em conta as condições geológicas locais;
 
-v) Prevenção e redução do risco, garantindo a segurança de pessoas e bens;
+v) Prevenção e redução do risco, garantindo a segurança de pessoas e bens.
 
-vi) (Revogada.)
+7 - Em dunas costeiras interiores podem ser realizados os usos e as ações que não coloquem em causa, cumulativamente, as seguintes funções:
 
-vii) (Revogada.)
+i) Continuidade dos sistemas dunares, no que respeita aos aspetos geológicos, morfológicos, ecológicos e paisagísticos;
+
+ii) Reserva de biodiversidade florística e faunística e respetivos serviços dos ecossistemas associados as essas formações bióticas;
+
+iii) Prevenção e redução do risco, garantindo a segurança de pessoas e bens.
 
 II - Dunas fósseis
 
@@ -184,13 +208,13 @@ j) Águas de transição e respetivos leitos, margens e faixas de proteção
 
 2 - Incluem-se nas águas de transição as lagunas e zonas húmidas adjacentes, designadas habitualmente por rias e lagoas costeiras, que correspondem ao volume de águas salobras ou salgadas e respetivos leitos adjacentes ao mar e separadas deste, temporária ou permanentemente, por barreiras arenosas.
 
-3 - As águas de transição são delimitadas, a montante, pelo local até onde se verifique a influência da propagação física da maré salina e, a jusante, por critérios geomorfológicos, que incluem os alinhamentos de cabos, promontórios, restingas e ilhas-barreira, incluindo os seus prolongamentos artificiais por obras marítimo-portuárias ou de proteção costeira, que definem as fozes ou barras destas águas, no caso dos estuários e das lagunas com ligação permanente ao mar, ou pelo limite interior das barreiras soldadas, no caso das lagunas com ligação efémera ao mar.
+3 - As águas de transição são delimitadas, a montante, pelo local até onde se verifique a influência da propagação física da maré salina e, a jusante, por critérios morfológicos, que incluem os alinhamentos de cabos, promontórios, restingas e ilhas-barreira, incluindo os seus prolongamentos artificiais por obras marítimo-portuárias ou de proteção costeira, que definem as fozes ou barras destas águas, no caso dos estuários e das lagunas com ligação permanente ao mar, ou pelo limite interior das barreiras soldadas, no caso das lagunas com ligação efémera ao mar.
 
 4 - As águas de transição caracterizam-se pela sua elevada produtividade em termos de recursos biológicos.
 
 5 - A delimitação das faixas de proteção deve partir da linha de máxima preia-mar de águas vivas equinociais e considerar as características dos conteúdos sedimentares, morfológicos e bióticos.
 
-6 - Na faixa de proteção inclui-se a margem, cuja largura se encontra definida pela alínea gg) do artigo 4.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 60/2012, de 14 de março, e 130/2012, de 12 de junho.
+6 - Na faixa de proteção inclui-se a margem, cuja largura se encontra definida no artigo 11.º da Lei da Titularidade dos Recursos Hídricos, aprovada pela Lei n.º 54/2005, de 15 de novembro e na alínea gg) do artigo 4.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro.
 
 7 - Nas águas de transição e respetivos leitos, margens e faixas de proteção podem ser realizados os usos e ações que não coloquem em causa, cumulativamente, as seguintes funções:
 
