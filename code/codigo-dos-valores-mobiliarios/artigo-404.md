@@ -12,7 +12,7 @@ c) Inibição do exercício de funções de administração, gestão, direção,
 
 d) Publicação pela CMVM, a expensas do infractor e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da protecção dos mercados de valores mobiliários ou de outros instrumentos financeiros, da sanção aplicada pela prática da contra-ordenação;
 
-e) Revogação da autorização ou cancelamento do registo necessários para o exercício de actividades de intermediação em valores mobiliários ou outros instrumentos financeiros.
+e) Revogação da autorização ou cancelamento do registo;
 
 f) Interdição temporária de negociar por conta própria em instrumentos financeiros;
 
