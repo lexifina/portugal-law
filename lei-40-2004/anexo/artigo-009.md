@@ -26,7 +26,9 @@ h) Beneficiar de um período de descanso que não exceda os 22 dias úteis por a
 
 i) Receber, por parte das entidades financiadora e acolhedora, todos os esclarecimentos que solicite a respeito do seu estatuto;
 
-j) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.
+j) Suspender o contrato de bolsa em caso de exercício transitório de outra função ou atividade remunerada, pública ou privada, incompatível com o regime de dedicação exclusiva previsto no artigo 5.º;
+
+k) Todos os outros direitos que decorram da lei, do regulamento e ou do contrato de bolsa.
 
 2 - Sem prejuízo do disposto nos números seguintes, os bolseiros que sejam titulares de um vínculo jurídico-laboral têm ainda direito à contagem do tempo durante o qual beneficiaram do presente Estatuto, para todos os efeitos legais, como tempo de serviço efetivo.
 
