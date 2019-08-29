@@ -18,7 +18,7 @@ d) Instituições de investimento colectivo e respectivas sociedades gestoras;
 
 e) Fundos de pensões e respectivas sociedades gestoras;
 
-f) Outras instituições financeiras autorizadas ou reguladas, designadamente fundos de titularização de créditos, respectivas sociedades gestoras e demais sociedades financeiras previstas na lei, sociedades de titularização de créditos, sociedades de capital de risco, fundos de capital de risco e respectivas sociedades gestoras.
+f) Outras instituições financeiras autorizadas ou reguladas, designadamente entidades com objeto específico de titularização, respetivas sociedades gestoras, se aplicável, e demais sociedades financeiras previstas na lei, sociedades de capital de risco, fundos de capital de risco e respetivas sociedades gestoras;
 
 g) Instituições financeiras de Estados que não sejam membros da União Europeia que exerçam actividades semelhantes às referidas nas alíneas anteriores;
 
