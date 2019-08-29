@@ -18,10 +18,12 @@ f) Pagar as despesas que, nos termos do regulamento de gestão, caiba ao fundo s
 
 g) Manter em ordem a escrita do fundo;
 
-h) Dar cumprimento aos deveres de informação estabelecidos por lei ou pelo regulamento de gestão;
+h) Dar cumprimento aos deveres de informação estabelecidos em legislação nacional ou europeia, ou pelo regulamento de gestão;
 
 i) Informar a CMVM, sempre que esta o solicite, sobre as aplicações referidas no n.º 2 do artigo 12.º;
 
-j) Praticar todos os actos adequados à boa gestão dos créditos e das respectivas garantias, caso a gestão não seja assegurada pelo cedente ou por terceiro;
+j) (Revogada.)
 
-l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos nos n.ºs 5 e 6 do artigo 12.º
+l) Autorizar a alienação e a oneração de créditos do fundo, nos casos previstos nos n.ºs 5 e 6 do artigo 12.º;
+
+m) Respeitar e assegurar o cumprimento das normas aplicáveis do regulamento de gestão do fundo e dos contratos celebrados no âmbito da atividade do mesmo.

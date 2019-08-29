@@ -8,9 +8,9 @@
 
 3 - De entre outras circunstâncias atendíveis, considera-se indiciador de falta de idoneidade o facto de a pessoa ter sido:
 
-a) Condenada por crime de branqueamento de capitais, manipulação do mercado, abuso de informação, falsificação, furto, abuso de confiança, roubo, burla, extorsão, infidelidade, usura, frustração de créditos, falência dolosa ou não intencional, favorecimento de credores, receptação, apropriação ilegítima, corrupção ou emissão de cheques sem provisão;
+a) Condenada por crime de branqueamento de capitais, manipulação do mercado, abuso de informação, falsificação, furto, abuso de confiança, roubo, burla, extorsão, infidelidade, usura, frustração de créditos, insolvência dolosa, insolvência negligente, favorecimento de credores, recetação, apropriação ilegítima, corrupção ou emissão de cheques sem provisão;
 
-b) Declarada falida ou julgada responsável por falência de pessoa colectiva, nos termos previstos nos artigos 126.º-A e 126.º-B do Código dos Processos Especiais de Recuperação da Empresa e de Falência;
+b) Declarada insolvente ou julgada afetada pela qualificação da insolvência de pessoa coletiva como dolosa, nos termos previstos nos artigos 185.º a 191.º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Decreto-Lei n.º 53/2004, de 18 de março;
 
 c) Condenada em processo de contra-ordenação iniciado pela CMVM, pelo Banco de Portugal ou pelo Instituto de Seguros de Portugal;
 

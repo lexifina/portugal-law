@@ -16,4 +16,4 @@
 
 5 - A subscrição das unidades de titularização implica a aceitação do regulamento de gestão e confere à sociedade gestora os poderes necessários para que esta administre com autonomia o fundo.
 
-6 - As entidades cedentes podem adquirir unidades de titularização de fundos para os quais hajam transmitido créditos.
+6 - As entidades cedentes podem adquirir unidades de titularização de fundos para os quais hajam transferido créditos ou os respetivos riscos, nomeadamente para cumprimento dos seus deveres de retenção de risco.

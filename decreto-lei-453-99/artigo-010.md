@@ -6,7 +6,7 @@
 
 2 - São de património variável os fundos cujo regulamento de gestão preveja, cumulativa ou exclusivamente:
 
-a) A aquisição de novos créditos, quer quando o fundo detenha créditos de prazo inferior ao da sua duração, por substituição destes na data do respectivo vencimento, quer em adição aos créditos adquiridos no momento da constituição do fundo;
+a) A aquisição de novos créditos ou a transferência de riscos, direitos e obrigações a eles inerentes, quer quando o fundo detenha créditos ou riscos de prazo inferior ao da sua duração, por substituição destes na data do respetivo vencimento, quer em adição aos créditos ou riscos adquiridos no momento da constituição do fundo;
 
 b) A realização de novas emissões de unidades de titularização.
 

@@ -1,6 +1,6 @@
-## Capítulo IV
+## Capítulo VI
 
-## Disposições finais
+## Disposição final
 
 # Artigo 67.º
 

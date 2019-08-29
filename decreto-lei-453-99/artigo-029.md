@@ -6,11 +6,11 @@
 
 2 - O regulamento de gestão deve conter, pelo menos, informação sobre os seguintes elementos:
 
-a) Denominação e duração do fundo, bem como identificação da decisão que haja autorizado a sua constituição;
+a) Denominação e duração do fundo, bem como identificação da decisão de concessão do registo prévio, se aplicável;
 
-b) Identificação da sociedade gestora e do depositário;
+b) Identificação da sociedade gestora;
 
-c) As características dos créditos, ou das categorias homogéneas de créditos, que integram o fundo e o regime da sua gestão, designadamente se estes serviços são prestados pelo fundo, através da sociedade gestora ou do depositário, pelo cedente ou por terceira entidade idónea;
+c) As características dos créditos, ou das categorias homogéneas de créditos, ou, no caso de operações de titularização sintética, dos instrumentos de transferência de riscos, que integram o fundo, assim como o regime da sua gestão, designadamente se estes serviços são prestados pelo fundo, através da sociedade gestora, pelo cedente ou por terceira entidade idónea;
 
 d) Os direitos inerentes a cada categoria de unidades de titularização a emitir pelo fundo, nomeadamente os referidos no artigo 32.º;
 
@@ -22,9 +22,9 @@ g) Os contratos a celebrar pela sociedade gestora, por conta do fundo, destinado
 
 h) Termos e condições dos empréstimos que a sociedade gestora pode contrair por conta do fundo;
 
-i) Remuneração dos serviços da sociedade gestora e do depositário, respectivos modos de cálculo e condições de cobrança, bem como quaisquer outras despesas e encargos que devam ser suportados pelo fundo;
+i) Remuneração dos serviços da sociedade gestora, respetivos modos de cálculo e condições de cobrança, bem como quaisquer outras despesas e encargos que devam ser suportados pelo fundo;
 
-j) Deveres da sociedade gestora e do depositário;
+j) Deveres da sociedade gestora;
 
 l) Termos e condições em que seja admitida a alienação de créditos vencidos.
 
@@ -44,4 +44,6 @@ d) Procedimentos a adoptar no caso de, por motivos excepcionais, não ser possí
 
 6 - As informações a prestar sobre as características dos créditos nunca poderão permitir a identificação dos devedores.
 
-7 - As alterações ao regulamento de gestão ficam dependentes de autorização da CMVM, com excepção das resultantes dos casos previstos na alínea b) do n.º 2 do artigo 10.º, as quais são objecto de mera comunicação à CMVM.
+7 - As alterações ao regulamento de gestão relativamente às informações previstas nos n.os 2 e 3 são comunicadas previamente à CMVM e tornam-se eficazes no prazo de 15 dias a contar da referida comunicação, desde que a CMVM não se oponha no prazo referido.
+
+8 - As alterações ao regulamento de gestão resultantes da realização de novas emissões de unidades de titularização são comunicadas à CMVM e tornam-se eficazes na data da comunicação, desde que os valores mobiliários a emitir sejam fungíveis com alguma das categorias de valores mobiliários anteriormente emitidos pelo fundo.

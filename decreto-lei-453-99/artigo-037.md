@@ -10,6 +10,8 @@ a) Definir o conteúdo mínimo do relatório de notação de risco previsto na a
 
 b) Estabelecer as condições em que pode ser concedida a aprovação de prospecto preliminar de uma oferta pública de subscrição de unidades de titularização de fundo em constituição, com base no qual a sociedade gestora pode desenvolver acções de prospecção e sensibilização do mercado, tendo em vista aferir a viabilidade e verificar as condições em que o fundo pode ser constituído e a oferta lançada;
 
-c) Definir a periodicidade e o conteúdo da informação a prestar pela sociedade gestora à CMVM e ao público;
+c) Definir a periodicidade, o modo e o conteúdo da informação a prestar à CMVM e ao público;
 
-d) Estabelecer regras relativas à liquidação e partilha dos fundos de titularização de créditos.
+d) Definir os motivos e demais requisitos para a prorrogação do prazo de alienação de imóveis que integrem o ativo do fundo em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos;
+
+e) Estabelecer regras relativas à liquidação e partilha dos fundos de titularização de créditos.

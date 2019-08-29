@@ -22,13 +22,13 @@ f) O incumprimento dos requisitos previstos no artigo 9.º do Regulamento (UE) 2
 
 g) A utilização da designação «titularização STS» ou «titularização simples, transparente e padronizada» em incumprimento do disposto no artigo 18.º do Regulamento (UE) 2017/2402;
 
-h) O incumprimento dos requisitos e dos deveres aplicáveis à titularização previstos nos artigos 19.º a 26.º-E do Regulamento (UE) 2017/2402;
+h) O incumprimento dos requisitos e dos deveres aplicáveis à titularização simples, transparente e padronizada previstos nos artigos 19.º a 22.º do Regulamento (UE) 2017/2402;
 
-i) (Revogada.)
+i) O incumprimento dos requisitos e dos deveres aplicáveis à titularização simples, transparente e padronizada, no âmbito de uma operação ou de programa de papel comercial garantido por ativos, previstos nos artigos 23.º a 26.º do Regulamento (UE) 2017/2402;
 
 j) A realização de uma "notificação STS" em violação do artigo 27.º do Regulamento (UE) 2017/2402;
 
-k) O incumprimento dos deveres de notificar e de informar previstos no n.º 4 do artigo 27.º do Regulamento (UE) 2017/2402, quando a titularização deixe de preencher os requisitos previstos nos artigos 19.º a 26.º-E daquele regulamento;
+k) O incumprimento dos deveres de notificar e de informar previstos no n.º 4 do artigo 27.º do Regulamento (UE) 2017/2402, quando a titularização deixe de preencher os requisitos dos artigos 19.º a 22.º e 23.º a 26.º daquele regulamento;
 
 l) O incumprimento dos deveres dos terceiros de notificar alterações substanciais das informações prestadas nos termos do n.º 1 do artigo 28.º do Regulamento (UE) 2017/2402 e outras alterações que razoavelmente se considere poderem afetar a avaliação das respetivas autoridades competentes;
 
@@ -90,15 +90,15 @@ nn) A liquidação e partilha de fundo de titularização de créditos em viola�
 
 oo) A realização de operações de titularização de créditos ou de riscos, mediante a sua aquisição, gestão e transmissão e a emissão de obrigações titularizadas para pagamento dos créditos ou dos riscos adquiridos sem autorização da CMVM nos termos do disposto na subsecção II da secção I do capítulo III do presente decreto-lei e respetiva regulamentação, ou cuja autorização para o seu exercício tenha caducado, tenha sido revogada ou não tenha sido objeto de notificação, ou sem o registo devido nos termos da subsecção III da secção I do capítulo III do presente decreto-lei e respetiva regulamentação;
 
-pp) O exercício das funções de membro de órgão de administração ou de fiscalização de sociedades gestoras de fundos de titularização de créditos e de sociedades de titularização de créditos em violação dos artigos 17.º-H e 41.º;
+pp) O exercício das funções de membro de órgão de administração ou de fiscalização em sociedade de titularização de créditos sem o registo devido nos termos do disposto no artigo 58.º do presente decreto-lei e respetiva regulamentação;
 
-qq) (Revogada.)
+qq) O exercício das funções de responsável pela gestão financeira da sociedade de titularização de créditos, pelo planeamento dos fluxos financeiros e pela coordenação da sua execução em articulação com o gestor dos créditos, se este for diferente da própria sociedade, sem o registo devido nos termos do disposto no n.º 2 do artigo 7.º do Regulamento da CMVM n.º 12/2002;
 
-rr) A aquisição de participação qualificada em sociedade gestora de fundos de titularização de créditos e em sociedade de titularização de créditos em violação do disposto nos artigos 17.º-I e 42.º;
+rr) A aquisição de participação qualificada em sociedade de titularização de créditos relativamente à qual tenha havido oposição da CMVM, nos termos do disposto no n.º 4 do artigo 59.º do presente decreto-lei;
 
-ss) A omissão de comunicação ou a indevida instrução da comunicação de quaisquer alterações à informação sobre participações qualificadas em violação do disposto nos artigos 17.º-I e 42.º;
+ss) A omissão de registo de aquisição de participação qualificada em sociedade de titularização de créditos, nos termos do disposto no n.º 5 do artigo 59.º do presente decreto-lei;
 
-tt) (Revogada.)
+tt) A omissão das medidas adequadas para que as pessoas a quem não tenham sido reconhecidas as qualidades mencionadas no n.º 6 do artigo 58.º do presente decreto-lei cessem imediatamente o exercício de funções de membro de órgão de administração ou fiscalização em sociedade de titularização de créditos, em caso de recusa ou cancelamento do respetivo registo nos termos do disposto no n.º 8 do mesmo artigo;
 
 uu) A violação do dever de tratamento igualitário de detentores de obrigações titularizadas da mesma categoria, nos termos do n.º 2 do artigo 61.º do presente decreto-lei;
 
@@ -110,17 +110,9 @@ xx) A violação do dever de organizar a contabilidade do fundo de titularizaç�
 
 yy) A violação do dever de encerrar as contas do fundo de titularização de créditos anualmente com referência a 31 de dezembro e de as sujeitar a certificação por auditor que não integre o conselho fiscal da sociedade gestora, nos termos do n.º 2 do artigo 36.º do presente decreto-lei;
 
-zz) (Revogada.)
+zz) A violação do dever de organizar a contabilidade de sociedade de titularização de créditos de acordo com o artigo 1.º do Regulamento da CMVM n.º 12/2002;
 
-aaa) (Revogada.)
-
-bbb) A realização de atos ou o exercício da atividade de gestão de fundos de titularização de créditos em violação do disposto no artigo 22.º-A;
-
-ccc) A realização de alterações estatutárias de sociedade gestora de fundos de titularização de créditos em violação do disposto no artigo 17.º-F;
-
-ddd) A realização de operações de fusão e de cisão que envolvam a sociedade gestora de fundos de titularização de créditos em violação do disposto no artigo 17.º-G;
-
-eee) O incumprimento de medidas corretivas transmitidas por escrito aos seus destinatários.
+aaa) A violação do dever de regularmente testar os ativos afetos às obrigações titularizadas por si emitidas com vista ao reconhecimento de eventuais imparidades, nos termos do n.º 2 do artigo 1.º do Regulamento da CMVM n.º 12/2002.
 
 2 - São puníveis com coima entre 12 500 (euro) a 2 500 000 (euro) as contraordenações previstas nas alíneas seguintes:
 
@@ -130,9 +122,7 @@ b) A violação de deveres emergentes de contratos celebrados no âmbito da ativ
 
 c) A violação de deveres relativos a entidades e atividades relacionadas com a titularização de créditos ou de riscos, que não sejam punidos nos termos no número anterior ou nas alíneas anteriores, previstos em legislação, nacional ou europeia, e sua regulamentação;
 
-d) O incumprimento de ordens ou mandados legítimos da CMVM ou de determinações emitidas pelo Banco de Portugal, transmitidas por escrito aos seus destinatários;
-
-e) O incumprimento do dever de alterar imediatamente a firma e o objeto social da sociedade gestora de fundos de titularização de créditos e de promover com urgência o registo dessa alteração em caso de revogação da autorização, em violação do disposto na alínea b) do n.º 4 do artigo 17.º-E.
+d) O incumprimento de ordens ou mandados legítimos da CMVM ou de determinações emitidas pelo Banco de Portugal, transmitidas por escrito aos seus destinatários.
 
 3 - O limite máximo da coima aplicável nos termos do disposto nos números anteriores é elevado ao maior dos seguintes valores:
 
@@ -142,4 +132,4 @@ b) 10 % do volume de negócios anual total, de acordo com as últimas contas con
 
 4 - Se a pessoa coletiva for uma empresa-mãe ou uma filial da empresa-mãe obrigada a elaborar contas financeiras consolidadas, o volume de negócios a considerar para efeitos do disposto na alínea b) do número anterior é o volume de negócios anual total ou o tipo de rendimento correspondente, de acordo com as diretivas contabilísticas aplicáveis, nos termos das últimas contas consolidadas disponíveis aprovadas pelo órgão de administração da empresa-mãe de que essa empresa depende em última instância.
 
-5 - (Revogado.)
+5 - As disposições constantes do título VIII do Código dos Valores Mobiliários são aplicáveis diretamente às matérias previstas naquele Código e respetiva regulamentação que sejam aplicadas à titularização de créditos por força das remissões operadas pelo n.º 1 do artigo 34.º, pelo artigo 46.º e pelo n.º 3 do artigo 60.º do presente decreto-lei.

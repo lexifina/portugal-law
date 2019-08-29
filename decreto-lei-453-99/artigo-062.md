@@ -2,7 +2,7 @@
 
 ### Princípio da segregação
 
-1 - Os créditos afectos ao reembolso de uma emissão de obrigações titularizadas, bem como o produto do reembolso daqueles e os respectivos rendimentos, constituem um património autónomo, não respondendo por quaisquer dívidas da sociedade de titularização de créditos até ao pagamento integral dos montantes devidos aos titulares das obrigações titularizadas que constituem aquela emissão e das despesas e encargos com esta relacionados.
+1 - Os créditos, fluxos financeiros, direitos e obrigações afetos ao reembolso de uma emissão de obrigações titularizadas, bem como o produto do reembolso daqueles e os respetivos rendimentos, constituem um património autónomo, não respondendo por quaisquer dívidas da sociedade de titularização de créditos até ao pagamento integral dos montantes devidos aos titulares das obrigações titularizadas que constituem aquela emissão e das despesas e encargos com esta relacionados.
 
 2 - Os bens que em cada momento integrem o património autónomo afecto à respectiva emissão devem ser adequadamente descritos em contas segregadas da sociedade e identificados sob forma codificada nos documentos da emissão, salvo quando se trate de créditos tributários em que a forma de descrição e identificação daqueles bens é definida de modo a garantir a confidencialidade dos dados pessoais relativos aos contribuintes, mediante portaria conjunta do Ministro das Finanças e do ministro competente em função da titularidade dos créditos objecto de cessão para efeitos de titularização.
 

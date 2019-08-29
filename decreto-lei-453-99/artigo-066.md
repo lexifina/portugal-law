@@ -14,4 +14,6 @@ c) Regras relativas aos processos de autorização e de registo;
 
 d) Requisitos relativos aos meios humanos, materiais e técnicos exigidos às sociedades de titularização de créditos;
 
-e) Regras relativas a conflitos de interesses, designadamente sobre percentagens máximas de participação de entidades cedentes dos créditos em sociedade de titularização de créditos.
+e) Regras relativas a conflitos de interesses, designadamente sobre percentagens máximas de participação de entidades cedentes dos créditos em sociedade de titularização de créditos;
+
+f) Motivos e demais requisitos para a prorrogação do prazo de alienação de imóveis que integrem o ativo das sociedades de titularização de créditos em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos.

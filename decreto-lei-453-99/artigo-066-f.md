@@ -14,7 +14,7 @@ d) Publicação pela autoridade competente para a supervisão, a expensas do inf
 
 e) Revogação da autorização ou cancelamento do registo necessários para o exercício da atividade de terceiro autorizado nos termos do artigo 28.º do Regulamento (UE) 2017/2402;
 
-f) Proibição temporária de o cedente e o patrocinador notificarem a Autoridade Europeia dos Valores Mobiliários e dos Mercados que uma titularização cumpre os requisitos previstos nos artigos 19.º a 26.º-E do Regulamento (UE) 2017/2402, na sua redação atual.
+f) Proibição temporária de o cedente e o patrocinador notificarem a Autoridade Europeia dos Valores Mobiliários e dos Mercados que uma titularização cumpre os requisitos previstos nos artigos 19.º a 22.º ou 23.º a 26.º do Regulamento (UE) 2017/2402.
 
 2 - As sanções acessórias referidas nas alíneas b), c) e f) do número anterior não podem ter duração superior a cinco anos, contados a partir da decisão condenatória definitiva.
 
