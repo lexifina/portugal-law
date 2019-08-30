@@ -2,36 +2,36 @@
 
 ### Forma dos apoios
 
-1 - Os apoios a conceder no âmbito dos FEEI podem revestir a natureza de subvenções, reembolsáveis ou não reembolsáveis, prémios, estes apenas no FEADER, instrumentos financeiros ou ainda de uma combinação destes, conforme estabelecido na legislação europeia e na regulamentação específica aplicáveis.
+1 - Os apoios a conceder no âmbito dos FEEI podem revestir a natureza de subvenções, reembolsáveis ou não reembolsáveis, prémios, estes apenas no FEADER e no FEAMP, instrumentos financeiros ou ainda de uma combinação destes, conforme estabelecido na legislação europeia e na regulamentação específica aplicáveis.
 
-2 - As subvenções, reembolsáveis ou não reembolsáveis, podem assumir as seguintes modalidades:
+2 - As subvenções, reembolsáveis ou não reembolsáveis, podem assumir as seguintes modalidades, as quais podem ser combinadas entre si desde que respeitem a diferentes categorias de custos:
 
-a) Reembolso de custos elegíveis efetivamente incorridos e pagos, incluindo, sendo o caso, amortizações;
+a) Reembolso de custos elegíveis efetivamente incorridos e pagos, incluindo, sendo o caso, as contribuições em espécie e as amortizações;
 
-b) Reembolso de contribuições em espécie;
+b) (Revogada.)
 
 c) Tabelas normalizadas de custos unitários;
 
-d) Montantes fixos de até 100 000 euros de contribuição pública;
+d) Montantes fixos;
 
-e) Financiamento através de taxa fixa, determinado pela aplicação de uma percentagem a uma ou mais categorias de custos, estabelecidas segundo uma das seguintes opções:
+e) Taxa fixa.
 
-i) Taxa fixa de até 25 % dos custos diretos elegíveis, para cobrir os restantes custos de uma operação;
+3 - As candidaturas relativas a operações cujo financiamento público não exceda os 100 000 euros e que não estejam ao abrigo de regras de auxílios estatais, com exceção da regra de minimis, são apoiadas exclusivamente em regime de custos simplificados ao abrigo de uma das alíneas c) a e) do número anterior.
 
-ii) Taxa fixa de até 15 % dos custos diretos elegíveis com pessoal, para cobrir os restantes custos de uma operação.
+4 - Caso uma operação seja exclusiva e integralmente executada através de procedimentos previstos no Código dos Contratos Públicos, é adotado o regime de custos reais previsto na alínea a) do n.º 2.
 
-3 - As modalidades referidas no número anterior só podem ser combinadas se cada uma cobrir categorias diferentes de custos ou se forem utilizadas para diferentes projetos que façam parte de uma mesma operação ou, ainda, para fases sucessivas de uma mesma operação.
+5 - (Revogado.)
 
-4 - Caso uma operação, ou um projeto que faça parte de uma operação, seja exclusiva e integralmente executada através de contratação pública, é adotado o regime de custos reais previsto na alínea a) do n.º 2.
+6 - (Revogado.)
 
-5 - No caso referido no número anterior é também admissível a adoção das modalidades de custos simplificados, a que se referem as alíneas b), c) e d) do n.º 2, se a contratação pública em causa respeitar apenas a certas categorias de custos da operação apoiada.
+7 - (Revogado.)
 
-6 - Nas operações cujo financiamento público não exceda os 100 000 euros, o método de cálculo de quaisquer modalidades aplicáveis de custos simplificados pode ser estabelecido caso a caso, com referência a um projeto de orçamento previamente aprovado pela autoridade de gestão, desde que essa opção esteja prevista na respetiva regulamentação específica.
+8 - (Revogado.)
 
-7 - Para além do disposto na alínea e) do n.º 2, a regulamentação específica aplicável às operações no âmbito do FSE pode prever a aplicação de uma taxa fixa de até 40 % sobre os custos diretos elegíveis com pessoal, para cobrir os restantes custos.
+9 - (Revogado.)
 
-8 - Ainda no caso do FSE, as candidaturas relativas a operações cujo financiamento público não exceda os 50000 euros são apoiadas exclusivamente em regime de custos simplificados, devendo a regulamentação específica aplicável prever, para o efeito, a adoção daquele regime.
+10 - (Revogado.)
 
-9 - Para além do disposto nas alíneas d) e e) do n.º 2, a regulamentação específica aplicável às operações no âmbito do FEADER pode prever uma taxa fixa superior, em conformidade com a legislação europeia aplicável.
+11 - As autoridades de gestão, quando adotem as modalidades previstas nas alíneas c) a e) do n.º 2, estabelecem, num documento metodológico, quais os pressupostos que fundamentam o custo simplificado, bem como as condições associadas ao seu pagamento.
 
-10 - O disposto no n.º 2 não prejudica a possibilidade de a regulamentação específica aplicável às operações no âmbito do FEAMP prever diferentes modalidades e taxas de apoio em conformidade com a legislação europeia que lhes é aplicável.
+12 - O disposto no n.º 3 não é aplicável a operações financiadas pelo FC, pelo FEADER e pelo FEAMP.

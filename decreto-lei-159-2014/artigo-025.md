@@ -2,7 +2,7 @@
 
 ### Pagamentos e suspensão de pagamentos
 
-1 - Os pagamentos aos beneficiários, no âmbito dos fundos da política de coesão, são efetuados pela Agência, I. P., e pelos organismos intermédios com competências delegadas nessa matéria, com base em pedidos de pagamento apresentados pela respetiva autoridade de gestão, a título de adiantamento, de reembolso ou de saldo final, com base em procedimentos a definir pela Agência, I. P.
+1 - Os pagamentos aos beneficiários, no âmbito dos fundos da política de coesão, são efetuados pela Agência, I. P., e pelos organismos intermédios com competências delegadas nessa matéria, bem como, no caso das operações apoiadas pelo FSE, pelo Instituto de Gestão Financeira da Segurança Social, I. P., com base em pedidos de pagamento apresentados pela respetiva autoridade de gestão, a título de adiantamento, de reembolso ou de saldo final, com base em procedimentos a definir pela Agência, I. P.
 
 2 - Os pedidos de pagamento nos projetos cofinanciados pelos fundos da política de coesão são apresentados pelos beneficiários no Balcão Portugal 2020, sendo observado o seguinte nos procedimentos de reembolso:
 
