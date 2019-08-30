@@ -21,3 +21,5 @@ f) FR4 e FR8 do polo de captação dos Loios;
 g) FR5 do polo de captação de Penalva;
 
 h) FR7 do polo de captação de Coina;
+
+i) RA2 do polo de captação do Alto do Romão.
