@@ -24,6 +24,10 @@ viii) Medicina Legal e Ciências Forenses;
 
 ix) Investigação Criminal e Gestão do Inquérito;
 
+x) Direitos humanos;
+
+xi) Violência de género, nomeadamente violência doméstica.
+
 b) Componente profissional, nas seguintes áreas:
 
 i) Direito Civil, Direito Comercial e Direito Processual Civil;
