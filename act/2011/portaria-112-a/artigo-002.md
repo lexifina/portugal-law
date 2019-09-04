@@ -10,4 +10,6 @@ b) Pretensões relativas a actos de determinação da matéria colectável e act
 
 c) Pretensões relativas a direitos aduaneiros sobre a importação e demais impostos indirectos que incidam sobre mercadorias sujeitas a direitos de importação; e
 
-d) Pretensões relativas à classificação pautal, origem e valor aduaneiro das mercadorias e a contingentes pautais, ou cuja resolução dependa de análise laboratorial ou de diligências a efectuar por outro Estado membro no âmbito da cooperação administrativa em matéria aduaneira.
+d) Pretensões relativas à classificação pautal, origem e valor aduaneiro das mercadorias e a contingentes pautais, ou cuja resolução dependa de análise laboratorial ou de diligências a efectuar por outro Estado membro no âmbito da cooperação administrativa em matéria aduaneira;
+
+e) Pretensões relativas à declaração de ilegalidade da liquidação de tributos com base na disposição antiabuso referida no n.º 1 do artigo 63.º do CPPT, que não tenham sido precedidos de recurso à via administrativa nos termos do n.º 11 do mesmo artigo.
