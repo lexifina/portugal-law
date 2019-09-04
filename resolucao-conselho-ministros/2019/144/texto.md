@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 144/2019
+Sumário: Autoriza a Marinha a realizar a despesa atinente à aquisição e fornecimento contínuo de géneros alimentares para 2020.
+O Decreto-Lei n.º 329-G/75, de 30 de junho, estabelece que os militares em serviço efetivo nas forças armadas têm, em regra, direito à alimentação por conta do Estado, consagrando a modalidade de alimentação em espécie para esse efeito. O fornecimento de géneros alimentares para as Unidades Navais e Unidades em Terra da Marinha constitui-se como fator crítico ao cumprimento da missão de que se encontra investida.
+Assim, dada a necessidade de garantir em tempo oportuno a adjudicação e celebração dos contratos relativos ao fornecimento de géneros alimentares a todas as Unidades Navais e Unidades em Terra da Marinha, por forma que não se verifiquem falhas no fornecimento, que ponham em causa o cumprimento das várias missões atribuídas àquele ramo das Forças Armadas, torna-se necessário autorizar a realização da correspondente despesa para o ano de 2020. Face ao valor estimado da despesa a realizar, é necessário obter a prévia autorização de despesa através de resolução do Conselho de Ministros.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º, dos artigos 36.º e 38.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 28 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º, 46.º e 164.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Autorizar a Marinha a realizar a despesa atinente à aquisição e fornecimento contínuo de géneros alimentares para 2020, no montante máximo de (euro) 6 401 536,07, ao qual acresce IVA à taxa legal em vigor.
+2 - Determinar o recurso ao procedimento pré-contratual de concurso público, com publicação de anúncio no Jornal Oficial da União Europeia.
+3 - Estabelecer que os encargos decorrentes da presente resolução são satisfeitos por verbas adequadas a inscrever no orçamento da Marinha para 2020.
+4 - Delegar no membro do Governo responsável pela defesa nacional, com a faculdade de subdelegação no Chefe do Estado-Maior da Armada, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+5 - Ratificar os atos praticados em cumprimento da presente resolução.
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 22 de agosto de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112558243
