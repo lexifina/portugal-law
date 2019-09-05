@@ -9,3 +9,5 @@
 3 - O disposto no n.º 1 não é aplicável quando o sujeito passivo, no ano a que respeita a declaração de rendimentos, esteja abrangido por uma das situações de dispensa de declaração previstas no artigo 58.º do Código do IRS.
 
 4 - Quando a infração prevista no n.º 1 diga respeito à falta de apresentação ou apresentação fora do prazo legal da declaração a que se referem os n.os 2 e 6 do artigo 63.º-A da lei geral tributária, é punível com coima de 3000 (euro) a 165 000 (euro).
+
+5 - Quando a infração prevista no n.º 1 diga respeito a falta de apresentação ou apresentação fora do prazo legal do mapa plurianual das perdas por imparidade para risco específico de crédito a incluir no processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, é punível com coima de 375 (euro) a 22 500 (euro).

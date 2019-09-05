@@ -15,3 +15,5 @@
 6 - Não é aplicada a coima prevista no número anterior se estiver regularizada a falta cometida e a mesma revelar um diminuto grau de culpa, o que se presume quando as inexatidões se refiram ao montante de rendimentos comunicados por substituto tributário.
 
 7 - As omissões ou inexatidões relativas à declaração a que se referem os n.os 2 e 6 do artigo 63.º-A da lei geral tributária são puníveis com coima prevista no n.º 4 do artigo 116.º.
+
+8 - As omissões ou inexatidões relativas ao mapa plurianual das perdas por imparidade para risco específico de crédito a incluir no processo de documentação fiscal, a que se refere o artigo 130.º do Código do IRC, são puníveis com coima prevista no n.º 5 do artigo 116.º.
