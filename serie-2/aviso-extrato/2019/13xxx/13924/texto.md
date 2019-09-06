@@ -1,0 +1,12 @@
+Aviso (extrato) n.º 13924/2019
+Sumário: Alteração ao Plano Diretor Municipal.
+Alteração ao Plano Diretor Municipal
+Paulo Jorge Frazão Batista dos Santos, na qualidade de Presidente da Câmara Municipal da Batalha, nos termos do disposto no artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT) publicado pelo Decreto-Lei n.º 80/2015, de 14 de maio, torna público a deliberação tomada pela Câmara Municipal na sua reunião de 8 de julho de 2019, de início do procedimento de alteração do Plano Diretor Municipal, cujo prazo de elaboração será de 12 meses, bem como, nos termos do n.º 2 do artigo 88.º do RJIGT, determinar a abertura de um período de participação pública pelo prazo de 30 dias úteis, com início no 5.º dia útil posterior ao da publicação do presente aviso no Diário da República, para a formulação de sugestões e apresentação de informações pelos interessados, sobre quaisquer questões que possam ser consideradas no âmbito da alteração do plano.
+Neste sentido, os eventuais interessados poderão apresentar as sugestões e informações, mediante requerimento dirigido ao Presidente da Câmara, devidamente identificado, a apresentar diretamente nos serviços da Câmara Municipal da Batalha, a enviar por meio de correio registado para a morada - Rua Infante D. Fernando, 2440-118 Batalha, ou remeter por via do correio eletrónico para o endereço PDM2020@cm-batalha.pt. Os interessados poderão consultar toda a informação referente ao assunto na Divisão de Ordenamento Território da Câmara Municipal da Batalha, localizada na Rua Infante D. Fernando, 2440-118 Batalha, todos os dias úteis, no horário compreendido entre as 09.00h-12.00h e 14.00h-17.00h, ou no portal eletrónico do Município da Batalha, em www.cm-batalha.pt.
+31 de julho de 2019. - O Presidente da Câmara Municipal, Paulo Jorge Frazão Batista dos Santos.
+Deliberação
+Alteração do Plano Diretor Municipal da Batalha
+Paulo Jorge Frazão Batista dos Santos, Presidente da Câmara Municipal da Batalha, certifica que por deliberação n.º 2019/0257/DOT, vertida na ata n.º 15/2019 da reunião realizada a 8 de julho de 2019, o executivo municipal deliberou, por unanimidade dar início à alteração do Plano Diretor Municipal (PDM), usando da faculdade conferida pelo n.º 1 do artigo 76.º do Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio, na sua atual redação.
+Por ser verdade o certifica.
+31 de julho de 2019 - O Presidente da Câmara Municipal, Paulo Jorge Frazão Batista dos Santos.
+612550823
