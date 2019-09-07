@@ -10,4 +10,6 @@ b) Por morte do titular.
 
 c) Por desistência do titular;
 
-d) Por aplicação de sanção acessória que determine a privação do direito à prestação.
+d) Por atribuição da prestação social para a inclusão;
+
+e) Por aplicação de sanção acessória que determine a privação do direito à prestação.
