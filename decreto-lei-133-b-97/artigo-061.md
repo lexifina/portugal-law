@@ -8,4 +8,6 @@ a) No âmbito da segurança social, através de certificação por equipas multi
 
 b) No âmbito do regime de proteção social da função pública, através de certificação pela junta médica da Caixa Geral de Aposentações, I. P., relativamente aos subsídios atribuídos pela CGA, ou por médico especialista na deficiência em causa, nos demais casos.
 
-2 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.
+2 - Os critérios a ter em consideração na prova de deficiência referidos no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde.
+
+3 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.
