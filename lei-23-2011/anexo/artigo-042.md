@@ -16,6 +16,4 @@ d) Mau relacionamento estabelecido com os superiores hierárquicos, demais coleg
 
 e) Incompreensão quanto às condições e limites do exercício da sua actividade;
 
-f) Não aproveitamento na fase formativa teórico-prática.
-
-3 - A cessação antecipada do período experimental produz os efeitos previstos nos n.os 3 e 4 do artigo anterior.
+f) Não aproveitamento na fase formativa teórica.

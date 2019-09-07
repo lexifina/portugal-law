@@ -14,7 +14,7 @@ c) As motivadas pela prestação de provas em estabelecimento de ensino;
 
 d) As motivadas por impossibilidade de prestar trabalho devido a facto que não lhe seja imputável, nomeadamente doença, acidente ou cumprimento de obrigações legais que envolvam obrigatoriamente a presença física do funcionário parlamentar;
 
-e) As motivadas pela necessidade de prestação de assistência inadiável e imprescindível a filho, a neto ou a membro do seu agregado familiar;
+e) As motivadas pela necessidade de prestação de assistência inadiável e imprescindível a membros do seu agregado familiar;
 
 f) As motivadas pela necessidade de tratamento ambulatório, realização de consultas médicas e exames complementares de diagnóstico que não possam comprovadamente efectuar-se fora do período normal de trabalho e só pelo tempo estritamente necessário;
 
@@ -34,7 +34,7 @@ n) As dadas por candidatos a eleições para cargos públicos durante o período
 
 o) As dadas ao abrigo do estatuto de bolseiro e trabalhador-estudante;
 
-p) As dadas com perda de remuneração, as quais não podem ultrapassar seis dias em cada ano civil.
+p) As dadas com perda de remuneração.
 
 3 - O disposto na alínea f) do número anterior é extensivo à assistência ao cônjuge ou equiparado, ascendentes, descendentes, adoptandos, adoptados e enteados, menores ou deficientes, em regime de tratamento ambulatório, quando comprovadamente o funcionário parlamentar seja a única pessoa em condições de o fazer.
 
