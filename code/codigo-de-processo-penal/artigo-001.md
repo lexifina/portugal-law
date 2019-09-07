@@ -28,4 +28,4 @@ j) 'Criminalidade violenta' as condutas que dolosamente se dirigirem contra a vi
 
 l) 'Criminalidade especialmente violenta' as condutas previstas na alínea anterior puníveis com pena de prisão de máximo igual ou superior a 8 anos;
 
-m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência, participação económica em negócio ou branqueamento.
+m) 'Criminalidade altamente organizada' as condutas que integrarem crimes de associação criminosa, tráfico de órgãos humanos, tráfico de pessoas, tráfico de armas, tráfico de estupefacientes ou de substâncias psicotrópicas, corrupção, tráfico de influência, participação económica em negócio ou branqueamento.

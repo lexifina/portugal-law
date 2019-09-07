@@ -2,7 +2,7 @@
 
 ### (Declarações para memória futura)
 
-1 - Em caso de doença grave ou de deslocação para o estrangeiro de uma testemunha, que previsivelmente a impeça de ser ouvida em julgamento, bem como nos casos de vítima de crime de tráfico de pessoas ou contra a liberdade e autodeterminação sexual, o juiz de instrução, a requerimento do Ministério Público, do arguido, do assistente ou das partes civis, pode proceder à sua inquirição no decurso do inquérito, a fim de que o depoimento possa, se necessário, ser tomado em conta no julgamento.
+1 - Em caso de doença grave ou de deslocação para o estrangeiro de uma testemunha, que previsivelmente a impeça de ser ouvida em julgamento, bem como nos casos de vítima de crime de tráfico de órgãos humanos, tráfico de pessoas ou contra a liberdade e autodeterminação sexual, o juiz de instrução, a requerimento do Ministério Público, do arguido, do assistente ou das partes civis, pode proceder à sua inquirição no decurso do inquérito, a fim de que o depoimento possa, se necessário, ser tomado em conta no julgamento.
 
 2 - No caso de processo por crime contra a liberdade e autodeterminação sexual de menor, procede-se sempre à inquirição do ofendido no decurso do inquérito, desde que a vítima não seja ainda maior.
 
