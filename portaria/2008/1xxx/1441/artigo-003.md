@@ -28,7 +28,7 @@ c) Assegurar a organização técnico-pedagógica da informação respeitante à
 
 d) Prestar informação relativa às actividades desenvolvidas, no âmbito da formação inicial.
 
-3 - Em matéria de formação contínua, compete, em especial, à área de formação:
+3 - Em matéria de formação contínua, incluindo a formação à medida, consultoria e assistência técnica compete, em especial, à área de formação:
 
 a) Elaborar diagnósticos de necessidades de formação contínua;
 

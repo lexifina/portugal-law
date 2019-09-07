@@ -2,18 +2,22 @@
 
 ### Estrutura orgânica
 
-1 - As Escolas de tipo i adoptam na sua estruturação interna um modelo hierarquizado, organizado de acordo com as seguintes áreas funcionais de actuação:
+1 - As escolas adotam na sua estruturação interna um modelo funcional flexível de estrutura matricial, ajustado aos objetivos do projeto técnico-pedagógico previsto no artigo 2.º do Decreto-Lei n.º 226-A/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 110/2019, de 14 de agosto, organizado de acordo com as seguintes áreas de atuação:
 
 a) Área de formação;
 
 b) Área técnica.
 
-2 - A área de formação engloba a formação inicial, a formação contínua e a certificação profissional, no âmbito do acesso às profissões e nos termos da legislação em vigor, e a área técnica integra a produção hoteleira e, ainda, a formação nas áreas técnicas.
+c) Área de inovação;
+
+d) Área administrativa e financeira.
+
+2 - As áreas funcionais são dirigidas e coordenadas pelo diretor da escola, sem prejuízo das competências que, por despacho do diretor, sejam delegadas nos trabalhadores que nelas exerçam funções.
 
 3 - A organização interna de cada uma das áreas identificadas no número anterior é definida pelo director da escola.
 
-4 - Nas Escolas pode, ainda, existir um Centro Novas Oportunidades, a constituir nos termos da Portaria n.º 370/2008, de 21 de Maio.
+4 - Nas Escolas podem ainda ser criados centros especializados em qualificação de adultos, com vista ao reconhecimento, validação e certificação de competências adquiridas ao longo da vida.
 
-5 - O modelo organizacional das Escolas de tipo ii deve obedecer aos princípios definidos pela escola de tipo i que integra o respectivo agrupamento formativo de zona em que aquelas estão inseridas, podendo, igualmente, estruturar-se em áreas, em função da dimensão da Escola, subordinando-se ao modelo organizacional definido nos n.os 1 e 2, coordenadas pelo director da escola.
+5 - [Revogado.]
 
-6 - Em função da complexidade e dimensão de cada uma das áreas, considerando nomeadamente o pessoal que lhe está afecto, excluindo os formadores, podem ser designados trabalhadores para funções de coordenação, exercidas com isenção de horário de trabalho, mediante deliberação do conselho directivo do Turismo de Portugal, I. P., sob proposta do director da escola de tipo i.
+6 - [Revogado.]

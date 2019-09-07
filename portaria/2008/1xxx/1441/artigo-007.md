@@ -1,8 +1,8 @@
 # Artigo 7.º
 
-### Unidade de apoio administrativo e financeiro
+### Área administrativa e financeira
 
-1 - Nas Escolas de tipo i é criada uma unidade de gestão com competência nas áreas administrativa e financeira, à qual cabe, designadamente:
+1 - À área administrativa e financeira compete:
 
 a) Prestar apoio técnico na gestão administrativa, financeira e orçamental;
 
@@ -28,6 +28,6 @@ l) Organizar, executar e manter actualizado o inventário e o arquivo, em articu
 
 m) Exercer as demais competências que se mostrem necessárias para assegurar o normal funcionamento da escola e cuja execução seja determinada pelo director.
 
-2 - Esta unidade é dirigida e coordenada pelo director da escola, sem prejuízo das competências que, por despacho do director, sejam delegadas nos técnicos que a ela estejam afectos.
+2 - [Revogado.]
 
-3 - Nas Escolas de tipo ii, as competências enunciadas no n.º 1 são exercidas de acordo com o âmbito da delegação ou subdelegação de competências que for feita no respectivo director pelo director da escola de tipo i, considerando as competências deste em matéria de coordenação centralizada da gestão de recursos, humanos, materiais e financeiros, das Escolas de tipo ii inseridas no respectivo agrupamento formativo de zona.
+3 - [Revogado.].
