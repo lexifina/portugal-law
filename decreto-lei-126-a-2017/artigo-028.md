@@ -6,7 +6,7 @@
 
 a) Deixe de se verificar alguma das condições de atribuição que não dê lugar à suspensão;
 
-b) Alteração do grau de incapacidade para percentagem inferior aos valores previstos na alínea c) do n.º 1 e no n.º 2 do artigo 15.º;
+b) Alteração do grau de incapacidade para percentagem inferior aos valores previstos nos n.os 1 e 2 do artigo 15.º;
 
 c) Decorridos 180 dias após o início da suspensão sem que tenha sido suprida ou deixe de se verificar a causa da suspensão;
 

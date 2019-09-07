@@ -12,7 +12,7 @@ a) Pensões do sistema previdencial, do regime de proteção social convergente 
 
 b) Pensões de viuvez;
 
-c) Prestações por encargos familiares;
+c) Prestações por encargos familiares, com exceção da bonificação por deficiência;
 
 d) Subsídio por frequência de estabelecimento de educação especial;
 
@@ -30,4 +30,6 @@ j) Indemnizações e pensões por acidente de trabalho e doença profissional;
 
 k) Indemnizações por responsabilidade civil de terceiro.
 
-l) Subsídio por morte, do sistema previdencial.
+l) Subsídio por morte, do sistema previdencial;
+
+m) Pensão de orfandade.

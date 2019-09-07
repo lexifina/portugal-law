@@ -10,7 +10,7 @@
 
 4 - Os montantes das remunerações auferidas no segundo mês anterior ao da apresentação do requerimento que se reportem a atividades exercidas em período anterior, não são considerados no cálculo da prestação.
 
-5 - Os rendimentos empresariais e profissionais correspondem ao rendimento, mensualizado, não podendo, no entanto, ser inferior à base de incidência contributiva para o regime geral de segurança social dos trabalhadores independentes, correspondendo a 50 % do indexante dos apoios sociais (IAS) nas situações de início de atividade sem enquadramento no respetivo regime.
+5 - Os rendimentos empresariais e profissionais correspondem ao rendimento a que se refere o artigo 7.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, mensualizado.
 
 6 - Os rendimentos de prestações sociais correspondem às prestações no âmbito das eventualidades de doença, desemprego e maternidade, paternidade e adoção.
 
