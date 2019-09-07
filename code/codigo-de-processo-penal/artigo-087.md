@@ -6,7 +6,7 @@
 
 2 - O despacho referido na segunda parte do número anterior deve fundar-se em factos ou circunstâncias concretas que façam presumir que a publicidade causaria grave dano à dignidade das pessoas, à moral pública ou ao normal decurso do acto e deve ser revogado logo que cessarem os motivos que lhe deram causa.
 
-3 - Em caso de processo por crime de tráfico de pessoas ou contra a liberdade e autodeterminação sexual, ou que envolva arguidos menores, os atos processuais decorrem, em regra, com exclusão da publicidade.
+3 - Em caso de processo por crime de tráfico de órgãos humanos, tráfico de pessoas, ou contra a liberdade e autodeterminação sexual, os atos processuais decorrem, em regra, com exclusão da publicidade.
 
 4 - Decorrendo o acto com exclusão da publicidade, apenas podem assistir as pessoas que nele tiveram de intervir, bem como outras que o juiz admitir por razões atendíveis, nomeadamente de ordem profissional ou científica.
 
