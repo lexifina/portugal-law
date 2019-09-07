@@ -20,4 +20,8 @@ f) Se sujeitar, mediante prévio consentimento, a tratamento de dependência de 
 
 3 - A proibição de o arguido se ausentar para o estrangeiro implica a entrega à guarda do tribunal do passaporte que possuir e a comunicação às autoridades competentes, com vista à não concessão ou não renovação de passaporte e ao controle das fronteiras.
 
-4 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
+4 - As obrigações previstas nas alíneas a), d), e) e f) do n.º 1 também podem ser impostas pelo juiz ao arguido, se houver fortes indícios de prática do crime de ameaça, de coação ou de perseguição, no prazo máximo de 48 horas.
+
+5 - Para efeitos do disposto no número anterior, quando esteja em causa a obrigação prevista na alínea d) e quando tal se demonstre imprescindível para a proteção da vítima, podem ser aplicados, fundamentadamente, meios técnicos de controlo à distância, podendo ser dispensada a audiência prévia do suspeito, caso em que, se necessário, a constituição como arguido será feita aquando da notificação da medida de coação.
+
+6 - A aplicação de obrigação ou obrigações que impliquem a restrição de contacto entre progenitores são imediatamente comunicadas ao representante do Ministério Público que exerce funções no tribunal competente, para efeitos de instauração, com caráter de urgência, do respetivo processo de regulação ou alteração da regulação do exercício das responsabilidades parentais.
