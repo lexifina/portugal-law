@@ -1,0 +1,56 @@
+Decreto-Lei n.º 135/2019
+de 6 de setembro
+Sumário: Altera a composição, as competências, o funcionamento e o processo eleitoral dos conselhos de classes na Marinha.
+O Decreto-Lei n.º 29/2016, de 24 de junho, define a composição, as competências, o funcionamento e o processo eleitoral dos conselhos de classes na Marinha.
+O referido decreto-lei surge na sequência da reorganização da estrutura superior da Defesa Nacional e das Forças Armadas, do Estatuto dos Militares das Forças Armadas, aprovado enquadramento normativo, organizacional e estatutário que consta do Decreto-Lei n.º 185/2014, de 29 de dezembro, alterado pela Lei n.º 10/2018, de 2 de março, e do Decreto Regulamentar n.º 10/2015, de 31 de julho.
+Torna-se necessário proceder a ajustamentos ao Decreto-Lei n.º 29/2016, de 24 de junho, de forma a adequá-lo à nova forma de ordenação, por mérito relativo, dos oficiais, sargentos e praças dos quadros permanentes, para efeitos de promoção por escolha.
+Aproveita-se para incluir, no âmbito dos membros eleitos das comissões dos conselhos de classes dos sargentos e para efeitos da promoção a sargento-chefe e a sargento-ajudante, o posto de sargento-mor.
+Foram ouvidas as associações de militares, nos termos do disposto na alínea b) do artigo 2.º da Lei Orgânica n.º 3/2001, de 29 de agosto.
+Assim:
+No desenvolvimento do regime jurídico estabelecido pela Lei Orgânica n.º 1-A/2009, de 7 de julho, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objeto
+O presente decreto-lei procede à primeira alteração ao Decreto-Lei n.º 29/2016, de 24 de junho, que define a composição, as competências, o funcionamento e o processo eleitoral dos conselhos de classes na Marinha.
+Artigo 2.º
+Alteração ao anexo i do Decreto-Lei n.º 29/2016, de 24 de junho
+O artigo 2.º do anexo i a que se refere o artigo 7.º do Decreto-Lei n.º 29/2016, de 24 de junho, passa a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - [...].
+2 - [...]:
+a) [...];
+b) [...]:
+i) [...];
+ii) Para efeitos de promoção a sargento-chefe, dois sargentos-mores, sendo um da classe dos sargentos a promover, se os houver, e três sargentos-chefes, sendo dois da classe dos sargentos a promover, se os houver;
+iii) Para efeitos de promoção a sargento-ajudante, um sargento-mor e um sargento-chefe da classe dos sargentos a promover, se os houver, e três sargentos-ajudantes, sendo dois da classe dos sargentos a promover, se os houver;
+iv) [...];
+c) [...];
+d) [...];
+e) [...];
+f) [...].»
+Artigo 3.º
+Alteração ao anexo ii do Decreto-Lei n.º 29/2016, de 24 de junho
+O artigo 2.º do anexo ii a que se refere o artigo 7.º do Decreto-Lei n.º 29/2016, de 24 de junho, passa a ter a seguinte redação:
+«Artigo 2.º
+[...]
+1 - [...].
+2 - [...].
+3 - [...].
+4 - [...].
+5 - [...]:
+a) Cada membro do Conselho de Classes atribui a cada um dos militares em apreciação um valor de avaliação complementar, até às centésimas, cujo máximo é definido por despacho do Chefe do Estado-Maior da Armada;
+b) Para cada militar em apreciação, calcula-se a média dos valores da avaliação complementar atribuídos por cada membro do Conselho de Classes, que se soma à classificação da Ficha de Avaliação do Mérito, de forma a obter a cota de mérito desse militar, sendo todos valores arredondados até às centésimas;
+c) Os militares em apreciação são ordenados por ordem decrescente de cota de mérito, ocupando por essa ordem as posições da lista de promoção;
+d) Se de uma votação resultarem cotas de mérito idênticas para dois ou mais militares, os militares em apreço são ordenados por antiguidade.
+6 - [...].
+7 - [...].»
+Artigo 4.º
+Entrada em vigor
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 22 de agosto de 2019. - António Luís Santos da Costa - João Titterington Gomes Cravinho.
+Promulgado em 30 de agosto de 2019.
+Publique-se.
+O Presidente da República, Marcelo Rebelo de Sousa.
+Referendado em 3 de setembro de 2019.
+O Primeiro-Ministro, António Luís Santos da Costa.
+112562341
