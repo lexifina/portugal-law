@@ -4,7 +4,7 @@
 
 1 - Salvo o disposto no número seguinte e nos casos especialmente previstos na lei, só as pessoas singulares são susceptíveis de responsabilidade criminal.
 
-2 - As pessoas coletivas e entidades equiparadas, com exceção do Estado, de pessoas coletivas no exercício de prerrogativas de poder público e de organizações de direito internacional público, são responsáveis pelos crimes previstos nos artigos 152.º-A e 152.º-B, nos artigos 159.º e 160.º, nos artigos 163.º a 166.º sendo a vítima menor, e nos artigos 168.º, 169.º, 171.º a 176.º, 217.º a 222.º, 240.º, 256.º, 258.º, 262.º a 283.º, 285,º, 299.º, 335.º, 348.º, 353.º, 363.º, 367.º, 368.º-A e 372.º a 376.º, quando cometidos:
+2 - As pessoas coletivas e entidades equiparadas, com exceção do Estado, de pessoas coletivas no exercício de prerrogativas de poder público e de organizações de direito internacional público, são responsáveis pelos crimes previstos nos artigos 144.º-B, 152.º-A, 152.º-B, 159.º e 160.º, nos artigos 163.º a 166.º sendo a vítima menor, e nos artigos 168.º, 169.º, 171.º a 176.º, 217.º a 222.º, 240.º, 256.º, 258.º, 262.º a 283.º, 285,º 299.º, 335.º, 348.º, 353.º, 363.º, 367.º, 368.º-A e 372.º a 376.º, quando cometidos:
 
 a) Em seu nome e no interesse colectivo por pessoas que nelas ocupem uma posição de liderança; ou
 
