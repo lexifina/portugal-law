@@ -1,0 +1,6 @@
+Edital n.º 1000/2019
+Sumário: Regulamento Municipal de Reconhecimento e Proteção de Estabelecimentos e Entidades de Interesse Histórico e Cultural ou Social Local do Município das Caldas da Rainha.
+Regulamento Municipal de Reconhecimento e Proteção de Estabelecimentos e Entidades de Interesse Histórico e Cultural ou Social Local do Município das Caldas da Rainha
+Dr. Hugo Patrício Martinho de Oliveira, Vice-Presidente da Câmara Municipal das Caldas da Rainha, torna Público nos termos e para os efeitos do disposto no artigo 139.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015 de 7 de janeiro, que o Regulamento Municipal de Reconhecimento e Proteção de Estabelecimentos e Entidades de Interesse Histórico e Cultural ou Social Local do Município das Caldas da Rainha, depois de ter sido aprovado pela Câmara Municipal em sua reunião ordinária realizada em 08 de abril de 2019 e pela Assembleia Municipal em sessão extraordinária realizada em 16 de julho de 2019, entra em vigor no dia seguinte à data da sua publicação no Diário da República. Mais Torna Público, que o referido Regulamento poderá ser consultado na página do Município em www.cm-caldas-rainha.pt.
+1 de agosto de 2019. - O Vice-Presidente da Câmara, Dr. Hugo Patrício Martinho de Oliveira.
+312496295
