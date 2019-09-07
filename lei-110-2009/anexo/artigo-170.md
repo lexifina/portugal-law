@@ -20,4 +20,6 @@ c) Os agentes da cooperação que, reunindo as condições definidas no respecti
 
 d) Os praticantes desportivos de alto rendimento.
 
+e) Os cuidadores informais principais.
+
 3 - A definição dos requisitos específicos de enquadramento relativos a cada grupo de situações especiais é objecto de legislação própria.
