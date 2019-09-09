@@ -6,27 +6,31 @@
 
 a) Licença em situação de risco clínico durante a gravidez;
 
-b) Licença por interrupção de gravidez;
+b) Licença para deslocação a unidade hospitalar localizada fora da ilha de residência para realização de parto;
 
-c) Licença parental, em qualquer das modalidades;
+c) Licença por interrupção de gravidez;
 
-d) Licença por adopção;
+d) Licença parental, em qualquer das modalidades;
 
-e) Licença parental complementar em qualquer das modalidades;
+e) Licença por adopção;
 
-f) Falta para assistência a filho;
+f) Licença parental complementar em qualquer das modalidades;
 
-g) Falta para assistência a neto;
+g) Falta para assistência a filho;
 
-h) Dispensa de prestação de trabalho no período nocturno;
+h) Falta para assistência a neto;
 
-i) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de protecção da sua segurança e saúde;
+i) Dispensa de prestação de trabalho no período nocturno;
 
-j) Dispensa para avaliação para adopção.
+j) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de protecção da sua segurança e saúde;
 
-2 - A dispensa para consulta pré-natal, amamentação ou aleitação não determina perda de quaisquer direitos e é considerada como prestação efectiva de trabalho.
+k) Dispensa para avaliação para adopção.
 
-3 - As licenças por situação de risco clínico durante a gravidez, por interrupção de gravidez, por adopção e licença parental em qualquer modalidade:
+l) Dispensa do acompanhante da mulher grávida, que se encontre numa das ilhas das regiões autónomas sem unidade hospitalar, nas deslocações desta à unidade hospitalar onde decorrerá o parto.
+
+2 - A dispensa para consulta de PMA ou pré-natal, amamentação ou aleitação não determina perda de quaisquer direitos e é considerada como prestação efetiva de trabalho.
+
+3 - As licenças por situação de risco clínico durante a gravidez, para deslocação a unidade hospitalar localizada fora da ilha de residência para realização de parto, por interrupção de gravidez, por adoção e licença parental em qualquer modalidade:
 
 a) Suspendem o gozo das férias, devendo os dias remanescentes ser gozados após o seu termo, mesmo que tal se verifique no ano seguinte;
 
@@ -34,7 +38,7 @@ b) Não prejudicam o tempo já decorrido de estágio ou acção ou curso de form
 
 c) Adiam a prestação de prova para progressão na carreira profissional, a qual deve ter lugar após o termo da licença.
 
-4 - A licença parental e a licença parental complementar, em quaisquer das suas modalidades, por adopção, para assistência a filho e para assistência a filho com deficiência ou doença crónica:
+4 - A licença parental e a licença parental complementar, em quaisquer das suas modalidades, por adoção, para assistência a filho e para assistência a filho com deficiência, doença crónica ou doença oncológica:
 
 a) Suspendem-se por doença do trabalhador, se este informar o empregador e apresentar atestado médico comprovativo, e prosseguem logo após a cessação desse impedimento;
 
@@ -46,6 +50,6 @@ d) Terminam com a cessação da situação que originou a respectiva licença qu
 
 5 - No termo de qualquer situação de licença, faltas, dispensa ou regime de trabalho especial, o trabalhador tem direito a retomar a actividade contratada, devendo, no caso previsto na alínea d) do número anterior, retomá-la na primeira vaga que ocorrer na empresa ou, se esta entretanto se não verificar, no termo do período previsto para a licença.
 
-6 - A licença para assistência a filho ou para assistência a filho com deficiência ou doença crónica suspende os direitos, deveres e garantias das partes na medida em que pressuponham a efectiva prestação de trabalho, designadamente a retribuição, mas não prejudica os benefícios complementares de assistência médica e medicamentosa a que o trabalhador tenha direito.
+6 - A licença para assistência a filho ou para assistência a filho com deficiência, doença crónica ou doença oncológica suspende os direitos, deveres e garantias das partes na medida em que pressuponham a efetiva prestação de trabalho, designadamente a retribuição, mas não prejudica os benefícios complementares de assistência médica e medicamentosa a que o trabalhador tenha direito.
 
 7 - Constitui contra-ordenação grave a violação do disposto nos n.os 1, 2, 3 ou 4.

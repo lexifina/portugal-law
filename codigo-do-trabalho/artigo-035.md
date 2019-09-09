@@ -6,38 +6,42 @@
 
 a) Licença em situação de risco clínico durante a gravidez;
 
-b) Licença por interrupção de gravidez;
+b) Licença para deslocação a unidade hospitalar localizada fora da ilha de residência para realização de parto;
 
-c) Licença parental, em qualquer das modalidades;
+c) Licença por interrupção de gravidez;
 
-d) Licença por adopção;
+d) Licença parental, em qualquer das modalidades;
 
-e) Licença parental complementar em qualquer das modalidades;
+e) Licença por adopção;
 
-f) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de protecção da sua segurança e saúde;
+f) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de proteção da sua segurança e saúde, e respetivo acompanhante, nas deslocações interilhas das regiões autónomas.
 
-g) Dispensa para consulta pré-natal;
+g) Licença parental complementar em qualquer das modalidades;
 
-h) Dispensa para avaliação para adopção;
+h) Dispensa da prestação de trabalho por parte de trabalhadora grávida, puérpera ou lactante, por motivo de protecção da sua segurança e saúde;
 
-i) Dispensa para amamentação ou aleitação;
+i) Dispensa para consulta pré-natal;
 
-j) Faltas para assistência a filho;
+j) Dispensa para avaliação para adopção;
 
-l) Faltas para assistência a neto;
+k) Dispensa para amamentação ou aleitação;
 
-m) Licença para assistência a filho;
+l) Faltas para assistência a filho;
 
-n) Licença para assistência a filho com deficiência ou doença crónica;
+m) Faltas para assistência a neto;
 
-o) Trabalho a tempo parcial de trabalhador com responsabilidades familiares;
+n) Licença para assistência a filho;
 
-p) Horário flexível de trabalhador com responsabilidades familiares;
+o) Licença para assistência a filho com deficiência, doença crónica ou doença oncológica;
 
-q) Dispensa de prestação de trabalho em regime de adaptabilidade;
+p) Trabalho a tempo parcial de trabalhador com responsabilidades familiares;
 
-r) Dispensa de prestação de trabalho suplementar;
+q) Horário flexível de trabalhador com responsabilidades familiares;
 
-s) Dispensa de prestação de trabalho no período nocturno.
+r) Dispensa de prestação de trabalho em regime de adaptabilidade;
+
+s) Dispensa de prestação de trabalho suplementar;
+
+t) Dispensa de prestação de trabalho no período nocturno.
 
 2 - Os direitos previstos no número anterior apenas se aplicam, após o nascimento do filho, a trabalhadores progenitores que não estejam impedidos ou inibidos totalmente do exercício do poder paternal, com excepção do direito de a mãe gozar 14 semanas de licença parental inicial e dos referentes a protecção durante a amamentação.
