@@ -14,6 +14,6 @@ d) O acidente ocorrido no decurso de tumulto ou de desordem;
 
 e) As ocorrências que resultem de actos danosos cuja responsabilidade, nos termos legais, seja atribuída a entidade extra-escolar;
 
-f) Os acidentes que ocorram em trajecto com veículos ou velocípedes com ou sem motor, que transportem o aluno ou sejam por este conduzidos;
+f) Os acidentes que ocorram em trajeto com veículos ou velocípedes com motor, que transportem o aluno ou sejam por este conduzidos;
 
 g) Os acidentes com veículos afectos aos transportes escolares.
