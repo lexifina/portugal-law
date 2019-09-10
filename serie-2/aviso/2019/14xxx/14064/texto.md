@@ -1,0 +1,7 @@
+Aviso n.º 14064/2019
+Sumário: Regulamento e Tabela Geral de Taxas e Licenças da União das Freguesias de Alverca do Ribatejo e Sobralinho.
+Regulamento e Tabela Geral de Taxas e Licenças da União das Freguesias de Alverca do Ribatejo e Sobralinho
+Carlos Manuel Gonçalves, Presidente da União das Freguesias de Alverca do Ribatejo e Sobralinho e no âmbito das competências que lhe são atribuídas pela Lei n.º 75/2013 de 12 de setembro, na sua redação atual, torna público para efeitos do disposto na alínea h) do n.º 1, do artigo 16.º e alínea f) do n.º 1 do artigo 9.º, ambos do Anexo I da Lei n.º 75/2013, de 12 de setembro, conjugado com o disposto no artigo 139.º do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que o Projeto de Regulamento e Tabela Geral de Taxas e Licenças da União das Freguesias de Alverca do Ribatejo e Sobralinho, publicitado através do Diário da República, 2.ª série, n.º 100 de 24 de maio de 2019, sob o Edital n.º 673/2019, após o decurso do prazo para consulta pública, foi aprovado por maioria, na sessão extraordinária de 18 de julho de 2019, da Assembleia de Freguesia da União das Freguesias de Alverca do Ribatejo e Sobralinho.
+Mais torna público, para geral conhecimento se publica este e outros de igual teor que serão afixados nos lugares de estilo desta União de Freguesias e na página eletrónica http://www.jf-alvercasobralinho.pt
+18 de julho de 2019. - O Presidente da União das Freguesias de Alverca do Ribatejo e Sobralinho, Carlos Gonçalves.
+312505788
