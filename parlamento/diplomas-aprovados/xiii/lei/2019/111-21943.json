@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=KN8asRY3F%2boLwzlW%2bWxN0cdlpy6IvLCOFPR5X84uKPHMAY3P2RQEfr1P5sqbl%2brhRP2KxbI7X5ozrkHdifucwVJhHVVkEAo%2f2CdtgMVDfGQwaQLkn9%2fJ8TY7ADGKoCdFZiBnJaOAKqAJlstTjUigXy4nWnmuR2jbJcjcXtAMgXWuR6pxNa3eJ2kUfPaUcVpHGETkA2yoS0k%2b4jTliOkBpJdEpOyflajEM4QzO%2biQWFciqqvZjeA1%2buytfKyhCkdjtaPiV9B6tcNyXa8n6lGo3PDFkOgWevu5Qyn3ww7Kytpek4Hq1uBE%2bNFIOYb15GX7oW96d%2ffBTLDONnA2gh9JNqhLzrYJ9KllVK8ZN43bEBcuRRr5YfaHysppv%2flq1wawjUw2Sfn0Lo2BlYxNXoigDA%3d%3d&fich=DiplomasXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6ca685f682ed6e372d8e4c9a26faabbdb3cbba2a01111d82ab17c788115cc3bb",
+  "legislatura": "XIII",
+  "id": "21943",
+  "tipo": "Lei",
+  "numero": "111",
+  "data_registo": "2019-09-10",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2019",
+    "Id": "21943",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "43694",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32466c5a6d4a6c5a6a51304c544a6b595749744e4449344d6931694e44566a4c574e6b4d57457a5a54457a4f544d345a53356b62324d3d&fich=aefbef44-2dab-4282-b45c-cd1a3e13938e.doc&Inline=true",
+        "IniNr": "194",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "XIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a5735305958497659574d774e4755784d7a67745a546c6a4e7930304e4463334c57466c4d7a45744e7a566d4f44686d4e4449775a5451794c6e426b5a673d3d&fich=ac04e138-e9c7-4477-ae31-75f88f420e42.pdf&Inline=true",
+    "Numero": "111",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "870986",
+        "obs": null,
+        "pag": [
+          "3-57"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-09-10",
+        "pubLeg": "XIII",
+        "pubNr": "173",
+        "pubSL": "4",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/173/2019/0/pt/html"
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Lei",
+    "Titulo": "Terceira alteração à Lei n.º 38/2012, de 28 de agosto, que aprova a lei antidopagem no desporto, adotando na ordem jurídica interna as regras estabelecidas no Código Mundial Antidopagem",
+    "Tp": "L",
+    "Versao": null
+  }
+}
