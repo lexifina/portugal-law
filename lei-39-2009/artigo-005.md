@@ -10,9 +10,9 @@
 
 ### Regulamentos de prevenção da violência
 
-1 - O organizador da competição desportiva aprova regulamentos internos em matéria de prevenção e punição das manifestações de violência, racismo, xenofobia e intolerância nos espectáculos desportivos, nos termos da lei.
+1 - O organizador da competição desportiva elabora regulamentos internos, em matéria de prevenção e punição das manifestações de violência, racismo, xenofobia e intolerância nos espetáculos desportivos, nos termos da lei.
 
-2 - Os regulamentos previstos no número anterior estão sujeitos a registo junto do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), que é condição da sua validade, e devem estar conformes com:
+2 - Os regulamentos previstos no número anterior são sujeitos a aprovação e registo pela APCVD, que é condição da sua validade, e devem estar conformes com:
 
 a) As regras estabelecidas pela presente lei e disposições regulamentares;
 
@@ -30,6 +30,12 @@ d) Discriminação dos tipos de objectos e substâncias previstos na alínea d) 
 
 4 - As sanções referidas na alínea b) do número anterior podem consistir em sanções disciplinares, desportivas e, quando incidam sobre promotores do espectáculo desportivo, na interdição de recintos desportivos ou na obrigação de realizar competições desportivas à porta fechada.
 
-5 - A não aprovação e a não adoção da regulamentação prevista no n.º 1, pelo organizador da competição desportiva, bem como a adoção de regulamento cujo registo seja recusado pelo IPDJ, I. P., implicam, enquanto a situação se mantiver, a impossibilidade de o organizador da competição desportiva em causa beneficiar de qualquer tipo de apoio público e, caso se trate de entidade titular de estatuto de utilidade pública desportiva, a suspensão do mesmo, nos termos previstos na lei.
+5 - A não conformidade dos regulamentos com o disposto nos números anteriores implica, enquanto a situação se mantiver:
 
-6 - As sanções mencionadas no número anterior são aplicadas pelo IPDJ, I. P.
+a) A impossibilidade de o organizador da competição desportiva beneficiar de qualquer tipo de apoio público; e
+
+b) Caso se trate de entidade titular de estatuto de utilidade pública desportiva, a suspensão do mesmo, nos termos previstos na lei.
+
+6 - A sanção mencionada na alínea a) do número anterior é aplicada pela APCVD.
+
+7 - A APCVD disponibiliza um modelo de regulamento de prevenção da violência que serve de base para a respetiva aprovação e presta o apoio necessário ao organizador da competição desportiva para a sua elaboração.

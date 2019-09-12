@@ -6,7 +6,7 @@
 
 a) 60 % para o Estado;
 
-b) 20 % para o IPDJ, I. P.;
+b) 20 % para a APCVD;
 
 c) 10 % para o suporte de encargos com o policiamento de espetáculos desportivos, nos termos do Decreto-Lei n.º 216/2012, de 9 de outubro;
 
@@ -16,7 +16,7 @@ d) 10 % para a força de segurança que levanta o auto.
 
 a) 60 % para a Região Autónoma;
 
-b) 20 % para o IPDJ, I. P.;
+b) 20 % para a APCVD;
 
 c) 10 % para o suporte de encargos com o policiamento de espetáculos desportivos, nos termos do Decreto-Lei n.º 216/2012, de 9 de outubro, alterado pelo Decreto-Lei n.º 52/2013, de 17 de abril;
 

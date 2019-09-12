@@ -10,9 +10,11 @@ b) O incumprimento do dever de manter uma lista atualizada dos adeptos de todos 
 
 c) O incumprimento do dever de reservar, nos recintos desportivos que lhe estão afetos, uma ou mais áreas específicas para os filiados dos grupos organizados de adeptos, em violação do disposto no n.º 2 do artigo 16.º;
 
-d) A cedência ou venda de bilhetes a grupos organizados de adeptos em violação do disposto no n.º 3 do artigo 16.º;
+d) (Revogada);
 
-e) A permissão de acesso ou ingresso em áreas destinadas aos filiados dos grupos organizados de adeptos, em violação do disposto no n.º 4 do artigo 16.º
+e) A permissão de acesso ou ingresso em áreas destinadas aos filiados dos grupos organizados de adeptos, em violação do disposto no n.º 4 do artigo 16.º;
+
+f) O incumprimento do dever de impedir os grupos organizados de adeptos de aceder e permanecer, antes e durante o espetáculo desportivo, noutras zonas do recinto desportivo que não aquelas que lhes estão destinadas, em violação do disposto na alínea r) do n.º 1 do artigo 8.º
 
 2 - Constitui contraordenação:
 
@@ -24,6 +26,6 @@ c) Não assegurar a fiscalização devida, em violação do disposto no n.º 6 d
 
 d) A atribuição de qualquer apoio por qualquer outra entidade que pretenda concedê-los a grupo organizado de adeptos, em violação do disposto no n.º 9 do artigo 14.º;
 
-e) A violação da obrigação de confirmação prévia junto do IPDJ, I. P., da suscetibilidade de atribuição de quaisquer facilidades ou apoios a determinado grupo organizado de adeptos, em violação do disposto no n.º 10 do artigo 14.º;
+e) A violação da obrigação de confirmação prévia junto da APCVD da suscetibilidade de atribuição de quaisquer facilidades ou apoios a determinado grupo organizado de adeptos, em violação do disposto no n.º 10 do artigo 14.º;
 
 f) A atribuição de qualquer apoio a grupos organizados de adeptos que não se encontrem previamente registados ou cujo registo tenha sido suspenso ou anulado, em violação do disposto no n.º 6 do artigo 15.º

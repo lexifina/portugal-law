@@ -2,4 +2,4 @@
 
 ### Publicitação das decisões
 
-A APCVD publica, no seu sítio na Internet, as decisões condenatórias definitivas ou transitadas em julgado dos processos de contraordenação.
+A APCVD publicita as decisões finais condenatórias dos processos de contraordenação na sua página na Internet.

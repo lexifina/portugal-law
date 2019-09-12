@@ -8,7 +8,11 @@ a) Da gravidade da contraordenação;
 
 b) Da culpa do agente;
 
-c) No caso de o agente ser o promotor do espetáculo desportivo, do facto de ser detentor do estatuto de sociedade desportiva ou de pessoa coletiva sem fins lucrativos;
+c) No caso de o agente ser o promotor do espetáculo desportivo:
+
+i) Do facto de ser detentor do estatuto de sociedade desportiva ou de pessoa coletiva sem fins lucrativos;
+
+ii) Do facto de este estar inserido em competições de âmbito nacional ou regional.
 
 d) Da qualidade de encarregado de educação de praticante desportivo que se encontra a participar em competições de escalões juvenis e inferiores;
 

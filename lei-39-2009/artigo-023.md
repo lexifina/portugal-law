@@ -20,12 +20,24 @@ g) Não circular de um sector para outro;
 
 h) Não arremessar quaisquer objectos no interior do recinto desportivo;
 
-i) Não utilizar material produtor de fogo-de-artifício, quaisquer outros engenhos pirotécnicos ou produtores de efeitos análogos;
+i) Não utilizar material produtor de fogo-de-artifício, quaisquer engenhos pirotécnicos, fumígenos ou produtores de efeitos análogos, e produtos explosivos, nos termos da lei;
 
-j) Cumprir os regulamentos do recinto desportivo;
+j) Usar de correção, moderação e respeito relativamente a promotores dos espetáculos desportivos e organizadores de competições desportivas, associações, clubes, sociedades desportivas, agentes desportivos, adeptos, autoridades públicas, elementos da comunicação social e outros intervenientes no espetáculo desportivo;
+
+k) Cumprir os regulamentos do recinto desportivo;
 
 l) Observar as condições de segurança previstas no artigo anterior.
 
-2 - O incumprimento das condições previstas nas alíneas a), c), d), e), g) e h) do número anterior, bem como nas alíneas c) e d) do n.º 1 do artigo anterior, implica o afastamento imediato do recinto desportivo a efectuar pelas forças de segurança presentes no local, sem prejuízo de outras sanções eventualmente aplicáveis.
+m) Não ostentar ou envergar qualquer utensílio ou apetrecho que oculte, total ou parcialmente, o rosto.
 
-3 - O incumprimento das condições previstas nas alíneas b), f), g) e l) do n.º 1, bem como nas alíneas a), b), e) e f) do n.º 1 do artigo anterior, implica o afastamento imediato do recinto desportivo a efectuar pelos assistentes de recinto desportivo presentes no local, sem prejuízo de outras sanções eventualmente aplicáveis.
+2 - O incumprimento das condições previstas nas alíneas a), c), d), e), h), i), j) e m) do número anterior, bem como nas alíneas c) e d) do n.º 1 do artigo anterior, implica o afastamento imediato do recinto desportivo, a efetuar pelas forças de segurança, sem prejuízo de outras sanções eventualmente aplicáveis.
+
+3 - O incumprimento das condições previstas nas alíneas b), f), g), k) e l) do n.º 1, bem como nas alíneas a), b), e) e f) do n.º 1 do artigo anterior, implica o afastamento imediato do recinto desportivo a efetuar pelas forças de segurança, pelos assistentes de recinto desportivo presentes no local ou, caso não se encontre no local qualquer dos anteriormente referidos, pelo gestor de segurança, sem prejuízo de outras sanções eventualmente aplicáveis.
+
+4 - Sem prejuízo do disposto no artigo 16.º-A, nos recintos desportivos integrados em competições desportivas de natureza profissional ou em espetáculos desportivos integrados nas competições desportivas de natureza não profissional, considerados de risco elevado, é vedado aos espetadores do espetáculo desportivo a posse, transporte ou utilização de:
+
+a) Megafones e outros instrumentos produtores de ruídos, por percussão mecânica e de sopro;
+
+b) Bandeiras, faixas, tarjas e outros acessórios, de qualquer natureza e espécie, de dimensão superior a 1 m por 1 m, passíveis de serem utilizados em coreografias de apoio aos clubes e sociedades desportivas, que não sejam da responsabilidade destes últimos.
+
+5 - O incumprimento das condições previstas no número anterior, bem como no n.º 6 do artigo anterior, implica o afastamento imediato do recinto desportivo a efetuar pelas forças de segurança ou assistentes de recinto desportivo presentes no local, sem prejuízo de outras sanções eventualmente aplicáveis.

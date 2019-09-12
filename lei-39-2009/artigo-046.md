@@ -6,17 +6,21 @@
 
 ### Sanções disciplinares por actos de violência
 
-1 - A prática de actos de violência é punida, conforme a respectiva gravidade, com as seguintes sanções:
+1 - O incitamento ou a prática de atos de violência são punidos, conforme a respetiva gravidade, com as seguintes sanções:
 
 a) Interdição do recinto desportivo, e, bem assim, a perda dos efeitos desportivos dos resultados das competições desportivas, nomeadamente os títulos e os apuramentos, que estejam relacionadas com os actos que foram praticados e, ainda, a perda, total ou parcial, de pontos nas classificações desportivas;
 
 b) Realização de espectáculos desportivos à porta fechada;
 
-c) Multa.
+c) Multa;
+
+d) Interdição do exercício da atividade;
+
+e) Interdição de acesso a recinto desportivo.
 
 2 - As sanções previstas na alínea a) do número anterior são aplicáveis, consoante a gravidade dos actos e das suas consequências, aos clubes, associações e sociedades desportivas intervenientes no respectivo espectáculo desportivo cujos sócios, adeptos ou simpatizantes pratiquem uma das seguintes infracções:
 
-a) Agressão aos agentes desportivos, elementos das forças de segurança em serviço, ponto de contacto para a segurança, coordenador de segurança, assistentes de recinto desportivo, bem como a todas as pessoas autorizadas por lei ou por regulamento a permanecerem na área do espetáculo desportivo que levem o árbitro, juiz ou cronometrista, justificadamente, a não dar início ou reinício ao espetáculo desportivo ou mesmo dá-lo por findo antes do tempo regulamentar;
+a) Agressão aos agentes desportivos, elementos das forças de segurança em serviço, gestor de segurança, coordenador de segurança, assistentes de recinto desportivo, bem como a todas as pessoas autorizadas por lei ou por regulamento a permanecerem na área do espetáculo desportivo que leve o árbitro, juiz ou cronometrista, justificadamente, a não dar início ou reinício ao espetáculo desportivo ou mesmo a dá-lo por findo antes do tempo regulamentar;
 
 b) Invasão da área do espectáculo desportivo que, de forma justificada, impeça o início ou conclusão do espectáculo desportivo;
 
@@ -39,3 +43,7 @@ b) A prática de ameaças e ou coacção contra as pessoas ou entidades referida
 c) Ocorrência de distúrbios que provoquem, de forma injustificada, o atraso no início ou reinício do espectáculo desportivo ou levem à sua interrupção não definitiva.
 
 5 - Se das situações previstas no número anterior resultarem danos para as infra-estruturas desportivas que ponham em causa as condições de segurança, o recinto desportivo permanece interdito pelo período necessário à reposição das mesmas.
+
+6 - A sanção de interdição de exercício da atividade e de interdição de acesso a recinto desportivo é aplicada a dirigentes ou representantes das sociedades desportivas ou clubes que pratiquem ou incitem à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos.
+
+7 - A reincidência na mesma época desportiva das infrações previstas nos n.os 2 a 4 é obrigatoriamente punida com as sanções previstas nas alíneas a) ou b) do n.º 1.

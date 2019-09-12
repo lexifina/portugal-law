@@ -1,8 +1,8 @@
 # Artigo 30.º
 
-### Participação em rixa na deslocação para ou de espectáculo desportivo
+### Participação em rixa na deslocação para ou de espetáculo desportivo ou em acontecimento relacionado com o fenómeno desportivo
 
-1 - Quem, quando da deslocação para ou de espectáculo desportivo, intervier ou tomar parte em rixa entre duas ou mais pessoas de que resulte:
+1 - Quem, aquando da deslocação para ou de espetáculo desportivo ou em acontecimento relacionado com o fenómeno desportivo, intervier ou tomar parte em rixa entre duas ou mais pessoas de que resulte:
 
 a) Morte ou ofensa à integridade física dos contendores;
 
