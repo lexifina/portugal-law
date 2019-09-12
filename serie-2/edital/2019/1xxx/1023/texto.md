@@ -1,0 +1,6 @@
+Edital n.º 1023/2019
+Sumário: Revisão da Parte G (Equipamentos Municipais na parte referente ao Parque de Campismo), do Código Regulamentar do Município de Braga.
+Ricardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga, faz saber que a Assembleia Municipal de Braga, em Sessão realizada no dia 19 de julho de 2019, sob proposta da Câmara Municipal de 23 de abril de 2019, e após dispensa de submissão a consulta pública, deliberou aprovar a alteração da Parte G (Equipamentos Municipais na parte referente ao Parque de Campismo), do Código Regulamentar do Município de Braga. As referidas alterações ao Código Regulamentar do Município de Braga entrarão em vigor no quinto dia após a publicação do presente edital no Diário da República, nos termos do artigo 140.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro. Mais se torna público que o Código Regulamentar do Município de Braga está disponível, em versão integral, na página da internet do Município (www.cm-braga.pt).
+Para constar se mandou passar o presente Edital e outros de igual teor que vão ser afixados nos lugares de estilo e publicitado na página da Internet do Município.
+1 de agosto de 2019. - O Presidente da Câmara Municipal de Braga, Ricardo Bruno Antunes Machado Rio.
+312502141
