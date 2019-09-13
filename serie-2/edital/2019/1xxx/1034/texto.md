@@ -1,0 +1,7 @@
+Edital n.º 1034/2019
+Sumário: Procedimento de elaboração de Projeto de Código Regulamentar.
+Dr. José Manuel Pereira Ribeiro, Presidente da Câmara Municipal de Valongo, faz público que:
+Para efeitos do disposto no artigo 98.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 04/2015, de 07 de janeiro, teve início o procedimento de elaboração do Código Regulamentar, cuja elaboração envolve todos os serviços municipais, em articulação com o Centro de Estudos e Investigação em Direito da Faculdade de Direito da Universidade Católica Portuguesa.
+Assim, qualquer pessoa, singular ou coletiva, pode constituir-se interessada no procedimento, desde que manifeste tal propósito, no prazo de 15 dias úteis, a contar da publicação do presente aviso no sítio da Câmara Municipal de Valongo na internet - www.cm-valongo.pt - e nos locais de estilo, podendo nessa altura, apresentar os seus contributos, sem prejuízo de o poderem fazer no decorrer do período de discussão pública, por escrito, dirigidas ao Presidente da Câmara Municipal, nos dias úteis das 09:00h às 17:30h, que podem ser entregues nos serviços de atendimento ao público da Câmara Municipal de Valongo, ou via postal, a serem remetidos para a avenida 5 de Outubro n.º 160, 4440-503 - Valongo, ou, ainda, por correio eletrónico para gabmunicipe@cm-valongo.pt.
+9 de agosto de 2019. - O Presidente da Câmara, Dr. José Manuel Pereira Ribeiro.
+312514632
