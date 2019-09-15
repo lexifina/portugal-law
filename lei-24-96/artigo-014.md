@@ -4,8 +4,10 @@
 
 1 - Incumbe aos órgãos e departamentos da Administração Pública promover a criação e apoiar centros de arbitragem com o objetivo de dirimir os conflitos de consumo.
 
-2 - É assegurado ao consumidor o direito à isenção de preparos nos processos em que pretenda a proteção dos seus interesses ou direitos, a condenação por incumprimento do fornecedor de bens ou prestador de serviços, ou a reparação de perdas e danos emergentes de factos ilícitos ou da responsabilidade objetiva definida nos termos da lei, desde que o valor da ação não exceda a alçada do tribunal judicial de 1.ª instância.
+2 - Os conflitos de consumo de reduzido valor económico estão sujeitos a arbitragem necessária ou mediação quando, por opção expressa dos consumidores, sejam submetidos à apreciação de tribunal arbitral adstrito aos centros de arbitragem de conflitos de consumo legalmente autorizados.
 
-3 - Os autores nos processos definidos no número anterior ficam isentos do pagamento de custas em caso de procedência parcial da respetiva ação.
+3 - Consideram-se conflitos de consumo de reduzido valor económico aqueles cujo valor não exceda a alçada dos tribunais de 1.ª instância.
 
-4 - Em caso de decaimento total, o autor ou autores intervenientes são condenados em montantes, a fixar pelo julgador, entre um décimo e a totalidade das custas que normalmente seriam devidas, tendo em conta a sua situação económica e a razão formal ou substantiva da improcedência.
+4 - Nos conflitos de consumo a que se referem os n.os 2 e 3 deve o consumidor ser notificado, no início do processo, de que pode fazer-se representar por advogado ou solicitador, sendo que, caso não tenha meios económicos para tal, pode solicitar apoio judiciário, nos termos da lei que regula o acesso ao direito e aos tribunais.
+
+5 - Nos conflitos de consumo a que se referem os n.ºs 2 e 3 o consumidor fica dispensado do pagamento prévio de taxa de justiça, que será apurada a final.
