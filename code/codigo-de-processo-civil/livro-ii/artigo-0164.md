@@ -13,3 +13,5 @@ b) Os procedimentos cautelares pendentes, que só podem ser facultados aos reque
 c) Os processos de execução só podem ser facultados aos executados e respetivos mandatários após a citação ou, nos casos previstos no artigo 626.º, após a notificação; independentemente da citação ou da notificação, é vedado aos executados e respetivos mandatários o acesso à informação relativa aos bens indicados pelo exequente para penhora e aos atos instrutórios da mesma.
 
 d) Os processos de acompanhamento de maior.
+
+3 - O acesso a informação do processo também pode ser limitado, em respeito pelo regime legal de proteção e tratamento de dados pessoais, quando, estando em causa dados pessoais constantes do processo, os mesmos não sejam pertinentes para a justa composição do litígio.

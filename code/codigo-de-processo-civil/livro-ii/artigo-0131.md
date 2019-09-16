@@ -10,4 +10,4 @@
 
 4 - As datas e os números podem ser escritos por algarismos, exceto quando respeitem à definição de direitos ou obrigações das partes ou de terceiros; nas ressalvas, porém, os números que tenham sido rasurados ou emendados devem ser sempre escritos por extenso.
 
-5 - É permitido o uso de meios informáticos no tratamento e execução de quaisquer atos ou peças processuais, desde que se mostrem respeitadas as regras referentes à proteção de dados pessoais e se faça menção desse uso.
+5 - (Revogado)

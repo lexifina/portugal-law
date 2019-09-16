@@ -19,3 +19,5 @@
 6 - O exequente, o executado e os credores reclamantes podem requerer ao juiz a prática, ou a autorização para a prática, dos atos que se afigurem indispensáveis à conservação do direito de crédito penhorado.
 
 7 - Se o crédito estiver garantido por penhor, faz-se apreensão do objeto deste, aplicando-se as disposições relativas à penhora de coisas móveis, ou faz-se a transferência do direito para a execução; se estiver garantido por hipoteca, faz-se no registo o averbamento da penhora.
+
+8 - Sendo o devedor uma entidade pública da Administração direta ou indireta do Estado, as comunicações entre o agente de execução e o devedor efetuadas no âmbito da penhora de créditos, incluindo a notificação referida no n.º 1, a declaração prevista no n.º 2 e as notificações previstas nos artigos 777.º e 779.º, são efetuadas, sempre que possível, por via eletrónica, preferencialmente de forma automática, e com as adaptações práticas que se revelem necessárias, nos casos e termos previstos em portaria dos membros do Governo responsáveis pela área da Justiça e pela entidade pública em causa.

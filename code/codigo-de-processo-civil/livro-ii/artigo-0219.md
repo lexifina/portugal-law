@@ -16,4 +16,16 @@
 
 3 - A citação e as notificações são sempre acompanhadas de todos os elementos e de cópias legíveis dos documentos e peças do processo necessários à plena compreensão do seu objeto.
 
-4 - Quando a citação e as notificações sejam efetuadas por meios eletrónicos, nos termos definidos na portaria prevista no n.º 1 do artigo 132.º, os elementos e cópias referidos no número anterior podem constar de outro suporte eletrónico acessível ao citando ou notificando.
+4 - Quando as citações e as notificações forem realizadas por via eletrónica:
+
+a) Podem ser efetuadas através do envio de informação estruturada respeitante à identificação do processo e da interoperabilidade entre o sistema de informação de suporte à atividade dos tribunais e o sistema de informação do citando ou notificando;
+
+b) Os elementos e cópias referidos no número anterior podem constar de outro suporte eletrónico acessível ao citando ou notificando.
+
+5 - As citações e as notificações dirigidas a pessoas coletivas podem ser efetuadas por via eletrónica nos termos do número anterior, quando:
+
+a) Tratando-se de entidade pública da Administração direta ou indireta do Estado, tal se encontre previsto em portaria dos membros do Governo responsáveis pela área da justiça e pela entidade pública em causa;
+
+b) Tratando-se de outras pessoas coletivas, tal se encontre previsto em protocolo celebrado entre a pessoa coletiva e o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., e homologado pelo membro do Governo responsável pela área da justiça.
+
+6 - As citações e as notificações realizadas nos termos do número anterior presumem-se efetuadas no 3.º dia posterior ao do seu envio para o sistema informático do citando ou notificando.

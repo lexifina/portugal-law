@@ -58,4 +58,4 @@ a) Na data do pagamento da quantia inicialmente devida ao agente de execução a
 
 b) Quando aplicável, na data do pagamento da retribuição prevista no n.º 8 do artigo 749.º, nos casos em que este ocorra após a data referida na alínea anterior.
 
-7 - Aplicam-se ao disposto no número anterior os n.os 5 e 6 do artigo 552.º, com as devidas adaptações.
+7 - Aplicam-se ao disposto no número anterior os n.os 9 e 10 do artigo 552.º, com as devidas adaptações.

@@ -4,6 +4,6 @@
 
 1 - Na apelação com subida em separado, as partes indicam, após as conclusões das alegações, as peças do processo de que pretendem certidão para instruir o recurso.
 
-2 - No caso previsto no número anterior, os mandatários procedem ao exame do processo através de página informática de acesso público do Ministério da Justiça, nos termos definidos na portaria prevista no n.º 1 do artigo 132.º, devendo a secretaria facultar, durante o prazo de cinco dias, as peças processuais, documentos e demais elementos que não estiverem disponíveis na referida página informática.
+2 - No caso previsto no número anterior, a secretaria deve facultar aos mandatários, durante o prazo de cinco dias, as peças processuais, documentos e demais elementos que, por terem sido apresentados em suporte físico e não tendo sido digitalizados, apenas constem do suporte físico do processo.
 
-3 - As peças do processo disponibilizadas por via eletrónica valem como certidão para efeitos de instrução do recurso.
+3 - (Revogado.)

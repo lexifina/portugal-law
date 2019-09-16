@@ -12,6 +12,6 @@
 
 3 - O requerimento e a certidão são entregues a quem tiver requerido a diligência.
 
-4 - Os requerimentos e documentos para as notificações avulsas são apresentados em duplicado e, tendo de ser notificada mais de uma pessoa, apresentam-se tantos duplicados quantas forem as que vivam em economia separada.
+4 - Quando apresentados por uma das formas previstas nas alíneas a) e b) do n.º 7 do artigo 144.º, os requerimentos e documentos para as notificações avulsas são apresentados em duplicado e, tendo de ser notificada mais de uma pessoa, apresentam-se tantos duplicados quantos os necessários para a realização, pela secretaria, de notificações por via que não seja eletrónica.
 
-5 - Quando os requerimentos e documentos sejam apresentados por transmissão eletrónica de dados, o requerente está dispensado de entregar os duplicados referidos no número anterior.
+5 - (Revogado.)

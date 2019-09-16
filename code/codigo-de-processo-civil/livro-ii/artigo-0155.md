@@ -4,7 +4,7 @@
 
 1 - A audiência final de ações, incidentes e procedimentos cautelares é sempre gravada, devendo apenas ser assinalados na ata o início e o termo de cada depoimento, informação, esclarecimento, requerimento e respetiva resposta, despacho, decisão e alegações orais.
 
-2 - A gravação é efetuada em sistema sonoro, sem prejuízo de outros meios audiovisuais ou de outros processos técnicos semelhantes de que o tribunal possa dispor.
+2 - A gravação é efetuada em sistema vídeo ou sonoro, sem prejuízo de outros meios audiovisuais ou de outros processos técnicos semelhantes de que o tribunal possa dispor, devendo todos os intervenientes no ato ser informados da sua realização.
 
 3 - A gravação deve ser disponibilizada às partes, no prazo de dois dias a contar do respetivo ato.
 

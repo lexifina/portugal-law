@@ -1,7 +1,3 @@
-## Livro VI
-
-## Do tribunal arbitral necessário
-
 # Artigo 1082.º
 
 ### Regime do julgamento arbitral necessário

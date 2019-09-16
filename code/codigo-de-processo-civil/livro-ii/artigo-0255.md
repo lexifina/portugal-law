@@ -6,4 +6,4 @@
 
 ### Notificações entre os mandatários
 
-As notificações entre os mandatários judiciais das partes são realizadas pelos meios previstos no n.º 1 do artigo 132.º e nos termos definidos na portaria aí referida, devendo o sistema informático certificar a data da elaboração da notificação, presumindo-se esta feita no 3.º dia posterior ao da elaboração ou no 1.º dia útil seguinte a esse, quando o não seja.
+As notificações entre os mandatários judiciais das partes são realizadas por via eletrónica nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, devendo o sistema de informação de suporte à atividade dos tribunais certificar a data da elaboração da notificação, presumindo-se esta feita no terceiro dia posterior ao do seu envio, ou no primeiro dia útil seguinte a esse, quando o não seja.

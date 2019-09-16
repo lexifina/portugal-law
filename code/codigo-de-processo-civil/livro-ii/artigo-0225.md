@@ -10,7 +10,7 @@
 
 2 - A citação pessoal é feita mediante:
 
-a) Transmissão eletrónica de dados, nos termos definidos na portaria prevista no n.º 1 do artigo 132.º;
+a) Via eletrónica, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º;
 
 b) Entrega ao citando de carta registada com aviso de receção, seu depósito, nos termos do n.º 5 do artigo 229.º, ou certificação da recusa de recebimento, nos termos do n.º 3 do mesmo artigo;
 

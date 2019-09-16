@@ -11,3 +11,5 @@
 4 - As certidões eletrónicas podem ainda ser emitidas de forma automatizada com base na informação constante do sistema de suporte à atividade dos tribunais, sendo-lhe aposto mecanismo de autenticação pelo sistema informático, o qual dispensa, para todos os efeitos legais, a aposição de assinatura e rubrica de funcionário e o selo do serviço.
 
 5 - As certidões eletrónicas previstas no presente artigo são documentos autênticos, nos mesmos termos e para os mesmos efeitos que as certidões em papel.
+
+6 - Sempre que a emissão de certidão seja efetuada oficiosamente pelo tribunal, deve ser feita em formato eletrónico.

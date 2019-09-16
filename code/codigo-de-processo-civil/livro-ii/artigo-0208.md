@@ -2,4 +2,4 @@
 
 ### Periodicidade da distribuição
 
-A distribuição tem lugar diariamente e é realizada de forma automática.
+A distribuição é efetuada duas vezes por dia, de forma automática.

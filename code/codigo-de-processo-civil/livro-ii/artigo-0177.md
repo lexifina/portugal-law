@@ -2,7 +2,7 @@
 
 ### Expedição das cartas
 
-1 - As cartas precatórias são expedidas pela secretaria.
+1 - As cartas precatórias são expedidas pela secretaria através do sistema de informação de suporte à atividade dos tribunais.
 
 2 - As cartas rogatórias, seja qual for o ato a que se destinem, são expedidas pela secretaria e endereçadas diretamente à autoridade ou tribunal estrangeiro, salvo tratado ou convenção em contrário.
 

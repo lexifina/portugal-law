@@ -1,5 +1,5 @@
 # Artigo 244.º
 
-### Junção, ao processo, do edital e anúncio
+### Registo da afixação do edital e publicação do anúncio
 
-Ao processo é junta uma cópia do anúncio e do edital, consignando-se a identidade de quem efetuou a afixação.
+No processo deve constar informação relativa ao teor do anúncio e do edital, sendo registada no sistema de informação de suporte à atividade dos tribunais a identidade de quem efetuou a afixação do edital e os elementos relativos à sua afixação.

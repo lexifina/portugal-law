@@ -1,8 +1,8 @@
 # Artigo 779.º
 
-### Penhora de rendas, abonos, vencimentos ou salários
+### Penhora de rendas, abonos, vencimentos, salários ou rendimentos periódicos
 
-1 - Quando a penhora recaia sobre rendas, abonos, vencimentos, salários ou outros rendimentos periódicos, é notificado o locatário, o empregador ou a entidade que os deva pagar para que faça, nas quantias devidas, o desconto correspondente ao crédito penhorado e proceda ao depósito em instituição de crédito.
+1 - Quando a penhora recaia sobre rendas, abonos, vencimentos, salários ou outros rendimentos periódicos, incluindo prestações sociais e pensões, é notificado o locatário, o empregador ou a entidade que os deva pagar para que faça, nas quantias devidas, o desconto correspondente ao crédito penhorado e proceda ao depósito em instituição de crédito.
 
 2 - As quantias depositadas ficam à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria, mantendo-se indisponíveis até ao termo do prazo para a oposição do executado, caso este se não oponha, ou, caso contrário, até ao trânsito em julgado da decisão que sobre ela recaia.
 
@@ -19,3 +19,5 @@ a) Entrega ao exequente as quantias já depositadas que não garantam crédito r
 b) Adjudica as quantias vincendas, notificando a entidade pagadora para as entregar diretamente ao exequente, extinguindo-se a execução.
 
 5 - Nos casos previstos no número anterior o exequente pode requerer a renovação da instância para satisfação do remanescente do seu crédito, aplicando-se o disposto n.º 4 do artigo 850.º.
+
+6 - Sendo a entidade pagadora uma entidade pública da Administração direta ou indireta do Estado, as comunicações entre o agente de execução e a entidade efetuadas ao abrigo do presente artigo são efetuadas, sempre que possível, por via eletrónica, preferencialmente de forma automática, e com as adaptações práticas que se revelem necessárias, nos casos e termos previstos em portaria dos membros do Governo responsáveis pela área da Justiça e pela entidade pública em causa.
