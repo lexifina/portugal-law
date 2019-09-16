@@ -1,0 +1,21 @@
+Aviso n.º 14340/2019
+Sumário: Alteração ao Plano Diretor Municipal de Penafiel para adequação ao Regime Extraordinário de Regularização das Atividades Económicas (RERAE).
+Alteração ao Plano Diretor Municipal de Penafiel para adequação ao Regime Extraordinário de Regularização das Atividades Económicas (RERAE)
+Antonino Aurélio Vieira de Sousa, Presidente da Câmara Municipal de Penafiel, torna público que foi deliberado por unanimidade, na reunião de câmara ordinária pública de 15 de julho de 2019, ao abrigo dos artigos 115.º e 118.º do Decreto-Lei n.º 80/2015 de 14 de maio (RJIGT), conjugado com o n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro (RERAE), dar início ao procedimento de alteração do Regulamento do Plano Diretor Municipal de Penafiel, por um prazo de 90 dias.
+Para efeitos do n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro (RERAE) decorrerá um período de discussão pública, por um prazo de 15 dias úteis contados a partir da data da publicação, no Diário da República, da deliberação do procedimento de alteração, para a formulação de sugestões e para apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração ao regulamento do plano.
+Os interessados poderão consultar os documentos anexos à deliberação que determinou a elaboração desta alteração ao regulamento, no site da Câmara Municipal de Penafiel (www.cm-penafiel.pt), e na Divisão de Projetos de Arquitetura e Ordenamento Territorial, no Museu Municipal de Penafiel, sito na Rua do Paço - s/n, nos dias úteis e durante o horário de expediente.
+Foi, ainda, deliberado dispensar a alteração ao Regulamento do Plano Diretor Municipal de Avaliação Ambiental, nos termos do n.º 2 do artigo 12.º do Decreto-Lei n.º 165/2014, de 5 de novembro (RERAE) e considerando as justificações técnicas constantes da informação DPAOT 106.19.
+As participações deverão ser apresentadas por escrito e dirigidas ao Presidente da Câmara Municipal de Penafiel, entregues no Balcão Único de Atendimento, remetidas por correio ou correio eletrónico penafiel@cm-penafiel.pt.
+Para conhecimento geral se mandou publicitar este aviso no Diário da República - 2.ª série, na comunicação social, na plataforma colaborativa de gestão territorial, na página da internet da Câmara Municipal, bem como nos locais de estilo.
+15 de julho de 2019. - O Presidente da Câmara Municipal, Dr. Antonino de Sousa.
+Deliberação
+António Fernando Mesquita Barbeitos, diretor do departamento de gestão organizacional da Câmara Municipal de Penafiel:
+Certifica, que esta Câmara Municipal, na reunião ordinária pública, realizada a 15 de julho de 2019, tomou a deliberação n.º 901, que de seguida se transcreve:
+Deliberação n.º 901 de 15/07/2019
+Assunto: Proposta de procedimento de Alteração ao Plano Diretor Municipal de Penafiel para Adequação ao Regime Extraordinário de Regularização das Atividades Económicas (RERAE), estabelecido pelo Decreto-Lei n.º 165/2014, de 5 de novembro, alterado pela Lei n.º 21/2016, de 19 de julho e regulamentado pela Portaria 68/2015, de 9 de março, Abertura do Período de Discussão Pública e Dispensa de Avaliação Ambiental - DPAOT.
+Proposta: Subscrita pelo Senhor Presidente da Câmara, datada de 2019-07-12 e do senhor vereador Pedro Cepeda, datada de 2019-07-12, documento que se dá por inteiramente reproduzido e que passa a fazer parte integrante desta ata.
+Documentos que acompanharam a proposta: Informação da Divisão de Projetos de Arquitetura e Ordenamento do Território, datada de 2018-07-12, proposta de alteração ao regulamento ao PDM, informação do DGU, datada de 2019-07-09, cópia da ata da conferência decisória realizada em 2019-06-25, cópia de ofício da ACT, ref.ª 759, datado de 2018-08-08, cópia do ofício da Agência Portuguesa do Ambiente Pc.º ARHN.DRHL.01005.2018, S004166-2019, datado de 2019-01-24 e cópia do ofício das Infraestruturas de Portugal, ref.ª 4239PRT190523, datado de 2019-06-06, documentos que se dão por inteiramente reproduzidos e que passam a fazer parte integrante desta ata.
+Votação: Aprovado por unanimidade.
+Esta deliberação foi aprovada em minuta para produzir efeitos imediatos.
+Penafiel, 2019-07-24. - O Diretor do Departamento de Gestão Organizacional, António Barbeitos, Dr.
+612496562
