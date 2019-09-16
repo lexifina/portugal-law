@@ -1,0 +1,7 @@
+Edital n.º 1039/2019
+Sumário: Projeto de regulamento de liquidação e cobrança de taxas municipais.
+Projeto de regulamento de liquidação e cobrança de taxas municipais
+Manuel Orlando Fernandes Alves, Presidente da Câmara Municipal de Montalegre, no uso das competências que lhe são atribuídas, torna público, nos termos e para efeitos do disposto no n.º 3, alínea c), do artigo 100.º e do n.º 1 do artigo 101.º, do Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Câmara Municipal deliberou, em reunião realizada no dia 18 de julho, do ano em curso, submeter a consulta pública, pelo prazo de trinta dias, contados do dia seguinte ao da presente publicação no Diário da República, projeto de regulamento de liquidação e cobrança de taxas municipais do Município de Montalegre, cujo texto se encontra disponível para consulta nesta Câmara Municipal, durante as horas normais de expediente e na página do Município em http://www.cm-montalegre.pt.
+Mais torna público que, nos termos do disposto no n.º 2 do citado artigo 101.º, os interessados deverão dirigir as suas sugestões, mediante requerimento dirigido ao Presidente da Câmara Municipal, devidamente identificado, diretamente nos serviços da Câmara Municipal de Montalegre, através dos correios, para o endereço Largo do Município, n.º 1, 5470-218 Montalegre, ou para o seguinte correio eletrónico: município@cm-montalegre.pt.
+22 de julho de 2019. - O Presidente da Câmara Municipal de Montalegre, Manuel Orlando Fernandes Alves.
+312474887
