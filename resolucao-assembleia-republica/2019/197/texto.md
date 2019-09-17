@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 197/2019
+Sumário: Deslocação do Presidente da República aos Estados Unidos da América.
+Deslocação do Presidente da República aos Estados Unidos da América
+A Comissão Permanente da Assembleia da República resolve, nos termos da alínea e) do n.º 3 do artigo 179.º e do n.º 5 do artigo 166.º da Constituição, dar assentimento à deslocação de Sua Excelência o Presidente da República aos Estados Unidos da América, entre os dias 22 a 27 de setembro, a fim de participar na 74.ª Assembleia-Geral das Nações Unidas.
+Aprovada em 11 de setembro de 2019.
+O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.
+112583564
