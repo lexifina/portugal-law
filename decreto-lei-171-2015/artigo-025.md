@@ -1,8 +1,8 @@
 # Artigo 25.º
 
-### Requisitos do acesso à informação relativa a pessoa coletiva ou entidade equiparada por um terceiro autorizado
+### Requisitos do pedido de código de acesso apresentado por um terceiro autorizado
 
-1 - O terceiro autorizado pelo representante legal de pessoa coletiva ou entidade equiparada a pedir a emissão de um certificado desta deve apresentar declaração escrita e assinada por um representante legal, onde conste:
+1 - O terceiro autorizado pelo representante legal de pessoa coletiva ou entidade equiparada a pedir um código de acesso ao registo criminal ou ao registo de contumazes desta deve apresentar declaração escrita e assinada por um representante legal, onde conste:
 
 a) A denominação e o número de identificação da pessoa coletiva ou entidade equiparada;
 
@@ -10,7 +10,7 @@ b) O nome completo e o número do cartão do cidadão ou bilhete de identidade, 
 
 c) O nome completo e o número do cartão do cidadão ou bilhete de identidade, ou de outro documento de identificação idóneo, da pessoa autorizada;
 
-d) A declaração de que autoriza o pedido de emissão de certificado, com menção da finalidade a que se destina.
+d) A declaração de que autoriza o pedido de um código de acesso ao registo criminal ou ao registo de contumazes da pessoa coletiva ou entidade equiparada, com menção da finalidade a que se destina o acesso ao registo e o prazo escolhido para a vigência do código de acesso.
 
 2 - Além da declaração mencionada no número anterior, o terceiro autorizado deve:
 

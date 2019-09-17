@@ -12,4 +12,6 @@
 
 5 - Em casos excecionais, designadamente de inoperacionalidade temporária de sistema informático de suporte, pode ser autorizada pelos serviços de identificação criminal a emissão de certificados solicitada por entidades legalmente habilitadas por qualquer outra via suscetível de deixar registo escrito e que permita comprovar a respetiva autenticidade.
 
-6 - O acesso à informação em registo pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., é efetuado mediante consulta em linha, através de webservice, nos termos do n.º 1, relativamente a todos os inscritos no Portal dos Fornecedores do Estado de que seja necessária informação, apenas sendo emitido certificado de registo criminal no caso de dever ser certificada informação vigente no registo criminal.
+6 - O certificado emitido nos termos dos números anteriores certifica o conteúdo, ou a ausência de conteúdo, do registo em causa relativamente à pessoa nele identificada, de acordo com o que a lei de identificação criminal dispõe para a finalidade a que o certificado se destine, com referência à data e hora da emissão.
+
+7 - O acesso à informação do registo criminal pelo Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., é efetuado mediante consulta em linha, através de webservice, nos termos do n.º 1, relativamente a todos os inscritos no Portal dos Fornecedores do Estado de que seja necessária informação, apenas sendo emitido certificado do registo criminal no caso de dever ser certificada informação vigente neste registo.
