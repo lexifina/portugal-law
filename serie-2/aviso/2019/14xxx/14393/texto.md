@@ -1,0 +1,7 @@
+Aviso n.º 14393/2019
+Sumário: Proposta de alteração ao Regulamento de Atribuição de Bolsas de Investigação.
+Francisco António Chaves de Melo, Vice-Presidente da Câmara Municipal de Chaves, na ausência do Presidente, faz público que, por deliberação do executivo camarário, tomada em reunião ordinária, realizada no pretérito dia 5 de agosto de 2019, foi aprovada a "Proposta de Alteração ao Regulamento de Atribuição de Bolsas de Investigação", conforme documento que aqui se dá por integralmente reproduzido para todos os efeitos legais.
+Mais torna público que a referida Proposta, se encontra na fase de consulta pública dos interessados, por um período de 30 dias seguidos, nos termos e para os efeitos previstos no n.º 1, do artigo 101.º do CPA, devendo as sugestões serem apresentadas, por escrito, mediante requerimento devidamente identificado, dirigido ao Presidente da Câmara Municipal de Chaves, o qual deverá ser entregue junto da Secção de Expediente Geral, sita na Praça de Camões, em Chaves.
+Por último e durante o referido período, os interessados poderão consultar a respetiva "Proposta de Alteração ao Regulamento de Atribuição de Bolsas de Investigação", durante as horas normais de expediente, entre as 9:00 e as 16:00 horas, junto da Divisão de Recursos Humanos e Ação Social, sita na rua 1.º de dezembro (antiga residência dos magistrados), ou através da Internet, no endereço eletrónico deste Município (http://www.chaves.pt/).
+9 de agosto de 2019. - O Vice-Presidente da Câmara Municipal, na ausência do Presidente, Francisco Melo.
+312520115
