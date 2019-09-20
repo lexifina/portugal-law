@@ -2,18 +2,8 @@
 
 ### Financiamento
 
-1 - O financiamento do FGVT é assegurado pelas agências de viagens e turismo, que contribuem com os seguintes montantes:
+1 - O financiamento do FGVT é assegurado pelas agências de viagens e turismo, mediante uma contribuição única de (euro) 2.500,00, a prestar no momento da inscrição no RNAVT.
 
-a) (euro) 6000, as agências vendedoras;
+2 - Sempre que o FGVT atinja um valor inferior a (euro) 3.000.000,00, as agências de viagens e turismo são notificadas pelo Turismo de Portugal, I. P., para prestarem contribuição adicional, nos termos do quadro único em anexo ao Decreto-Lei n.º 17/2018, de 8 de março, e na proporção estabelecida, até que o FGVT atinja o seu valor mínimo de (euro) 4.000.000,00.
 
-b) (euro) 10 000, as agências organizadoras e as que sejam, simultaneamente, vendedoras e organizadoras.
-
-2 - Os montantes referidos no número anterior são prestados de forma progressiva, mediante o pagamento:
-
-a) De uma contribuição inicial, a prestar no momento da inscrição da agência no Registo Nacional das Agências de Viagens e Turismo, no valor de (euro) 2500 para as agências vendedoras e de (euro) 5000 para as agências organizadoras ou vendedoras e organizadoras;
-
-b) De contribuições posteriores anuais, de valor equivalente a 0,1 % do volume de negócios da agência no ano imediatamente anterior.
-
-3 - O valor da contribuição anual é entregue ao Turismo de Portugal, I. P., até ao dia 31 de Agosto, devendo, em simultâneo, a agência facultar o acesso à informação empresarial simplificada (IES) que tenha apresentado para efeitos fiscais, para comprovação do volume de negócios no ano de referência.
-
-4 - Caso o pretendam, as agências de viagens e turismo podem prestar a totalidade da contribuição prevista no n.º 1 no acto de inscrição no RNAVT.
+3 - A contribuição referida no número anterior é efetuada no prazo de 30 dias a contar da data da notificação do Turismo de Portugal, I. P., devendo em simultâneo a agência de viagens e turismo facultar o acesso à informação empresarial simplificada (IES) que tenha apresentado para efeitos fiscais, para comprovação do respetivo volume de negócios e apuramento do escalão aplicável e respetivo montante a contribuir, nos termos do número anterior.

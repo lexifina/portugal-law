@@ -6,7 +6,7 @@ A gestão do FGVT cabe ao Turismo de Portugal, I. P., através da titularidade d
 
 a) Um presidente e um vogal designados pelo conselho directivo do Turismo de Portugal, I. P., e que o representam;
 
-b) Um representante da Direcção-Geral do Consumidor (DGC);
+b) (Revogada.)
 
 c) Um representante da APAVT;
 
