@@ -1,0 +1,17 @@
+Portaria n.º 319/2019
+de 19 de setembro
+Sumário: Identifica os procedimentos administrativos e as entidades públicas competentes para a respetiva instrução que beneficiam de isenção de taxa na emissão de certificados do registo criminal.
+O Decreto-Lei n.º 171/2015, de 25 de agosto, que regulamenta e desenvolve o regime jurídico da identificação criminal, estabelece, no n.º 1 do seu artigo 35.º, na sua versão republicada em anexo ao Decreto-Lei n.º 115/2019, de 20 de agosto, serem devidas taxas pela emissão de códigos de acesso ao registo criminal ou ao registo de contumazes, bem como pela emissão de certificados da competência dos serviços de identificação criminal. Contudo, a alínea b) do n.º 6 do mesmo artigo prevê beneficiarem de isenção dessas taxas as entidades públicas competentes para a instrução de procedimentos administrativos dos quais dependa a concessão de emprego ou a obtenção de licença, autorização ou registo de carácter público, quando seja legalmente exigida a apresentação de certificado do registo criminal e o obtenham nos termos do disposto no n.º 1 do artigo 16.º do mesmo diploma. A presente portaria procede à identificação desses procedimentos administrativos, atenta, por um lado, a relevância do interesse público subjacente aos mesmos e, por outro, ao volume de informação que está em causa em cada um deles.
+Assim:
+Nos termos do disposto na alínea b) do n.º 6 do artigo 35.º do Decreto-Lei n.º 171/2015, de 25 de agosto, na sua versão republicada em anexo ao Decreto-Lei n.º 115/2019, de 20 de agosto, manda o Governo, pela Ministra da Justiça, o seguinte:
+1 - A presente Portaria identifica os procedimentos administrativos e as entidades públicas competentes para a respetiva instrução que beneficiam de isenção de taxa na emissão de certificados do registo criminal, nos termos previstos na alínea b) do n.º 6 do artigo 35.º do Decreto-Lei n.º 171/2015, de 25 de agosto, na sua versão republicada em anexo ao Decreto-Lei n.º 115/2019, de 20 de agosto.
+2 - Beneficiam da isenção de taxa prevista no número anterior:
+a) Os órgãos e serviços do Ministério da Defesa Nacional, no âmbito de procedimentos administrativos de recrutamento para ingresso nas Forças Armadas;
+b) Os órgãos e serviços do Ministério da Educação e autarquias locais, nas suas atribuições respeitantes à área da educação, no âmbito do procedimento anual de verificação da idoneidade dos respetivos trabalhadores e demais colaboradores para o exercício de atividades que envolvem contacto regular com menores;
+c) O Serviço de Estrangeiros e Fronteiras, no âmbito de procedimentos administrativos regulados pelo regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional e de procedimentos administrativos de concessão de asilo ou proteção subsidiária;
+d) A Conservatória dos Registos Centrais, no âmbito dos processos de aquisição de nacionalidade portuguesa e de alteração de nome;
+e) Os órgãos e serviços públicos competentes pela tramitação dos processos de adoção;
+f) Os órgãos e serviços dos Governos Regionais dos Açores e da Madeira da área da educação e autarquias locais, nas suas atribuições respeitantes à área da educação, no âmbito do procedimento anual de verificação da idoneidade dos respetivos trabalhadores e demais colaboradores para o exercício de atividades que envolvem contacto regular com menores.
+3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 17 de setembro de 2019.
+112594094
