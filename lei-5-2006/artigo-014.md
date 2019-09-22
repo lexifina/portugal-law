@@ -1,0 +1,27 @@
+# Artigo 14.º
+
+### Licença B1
+
+1 - A licença B1 pode ser concedida a maiores de 18 anos que reúnam, cumulativamente, as seguintes condições:
+
+a) Se encontrem em pleno uso de todos os direitos civis;
+
+b) Demonstrem carecer da licença por razões profissionais ou por circunstâncias de defesa pessoal ou de propriedade;
+
+c) Sejam idóneos;
+
+d) Sejam portadores de certificado médico, nos termos do artigo 23.º;
+
+e) Obtenham aprovação em curso de formação técnica e cívica para o uso e porte de armas de fogo.
+
+2 - Sem prejuízo do disposto no artigo 30.º da Constituição e do número seguinte, para efeito de apreciação do requisito constante da alínea c) do número anterior é susceptível de indiciar falta de idoneidade para efeitos de concessão de licença o facto de, entre outras razões devidamente fundamentadas, ao requerente ter sido aplicada medida de segurança ou ter sido condenado pela prática de crime doloso, cometido com uso de violência, em pena superior a 1 ano de prisão.
+
+3 - No decurso do período anterior à verificação do cancelamento definitivo da inscrição no registo criminal das decisões judiciais em que o requerente foi condenado, pode este requerer que lhe seja reconhecida a idoneidade para os fins pretendidos, pelo tribunal da última condenação.
+
+4 - A intervenção judicial referida no número anterior não tem efeitos suspensivos sobre o procedimento administrativo de concessão ou renovação da licença em curso.
+
+5 - O incidente corre por apenso ao processo principal, sendo instruído com requerimento fundamentado do requerente, que é obrigatoriamente ouvido pelo juiz do processo, que decide, produzida a necessária prova e após parecer do Ministério Público.
+
+6 - Os pedidos de concessão de licenças de uso e porte de arma da classe B1 são formulados através de requerimento do qual conste nome completo do requerente, número e validade do documento de identificação, data de nascimento, profissão, estado civil, naturalidade, nacionalidade e domicílio, bem como a justificação da pretensão.
+
+7 - O requerimento referido no número anterior deve ser acompanhado do certificado de aprovação para o uso e porte de armas de fogo da classe B1.
