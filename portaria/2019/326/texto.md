@@ -1,0 +1,71 @@
+Portaria n.º 326/2019
+de 23 de setembro
+Sumário: Altera os Estatutos do Instituto Nacional da Propriedade Industrial, I. P., aprovados em anexo à Portaria n.º 386/2012, de 29 de novembro.
+A Diretiva (UE) 2015/2436 veio impor aos Estados-Membros que estabeleçam procedimentos administrativos relativos à apreciação da validade dos registos de marca, tendo sido transposta pelo Decreto-Lei n.º 110/2018, de 10 de dezembro, que aprovou o novo Código da Propriedade Industrial (CPI).
+Como em Portugal essa apreciação era da competência exclusiva do Tribunal da Propriedade Intelectual (TPI), a transposição da referida diretiva implicou que, no que se refere ao registo de marcas e demais sinais distintivos, a competência exclusiva do tribunal fosse transferida para os serviços do Instituto Nacional da Propriedade Industrial (INPI, I. P.). Aproveitou-se igualmente a transposição deste diploma comunitário para alargar esta competência a outros registos.
+Pretende-se agora adequar as novas competências acometidas ao INPI, I. P., à sua organização interna, através da alteração aos seus estatutos, modificando-se a redação dos Estatutos do Instituto Nacional da Propriedade Industrial, aprovados pela Portaria n.º 386/2012, de 29 de novembro, e fazendo parte integrante desta.
+Com a presente proposta de alteração dos estatutos do INPI, I. P., cria-se uma unidade orgânica, a Direção de Extinção de Direitos, que permite acomodar a nova competência resultante da transposição da diretiva e da implementação do novo CPI, por alteração do n.º 1 do artigo 1.º do anexo da Portaria n.º 386/2012, de 29 de novembro. A presente alteração visa ainda corrigir algumas competências das unidades orgânicas já existentes.
+Assim, ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, manda o Governo, pelo Ministro das Finanças e pela Ministra da Justiça, o seguinte:
+Artigo 1.º
+Alteração aos Estatutos do INPI, I. P., aprovados em anexo à Portaria n.º 386/2012, de 29 de novembro
+É alterado o artigo 1.º, bem como os artigos 4.º, 5.º e 6.º dos Estatutos do Instituto Nacional da Propriedade Industrial, aprovados em anexo à Portaria n.º 386/2012, de 29 de novembro, que passam a ter a seguinte redação:
+«Artigo 1.º
+[...]
+1 - [...]:
+a) [...];
+b) [...];
+c) [...];
+d) Direção de Extinção de Direitos.
+2 - [...].
+Artigo 4.º
+[...]
+[...]:
+a) Proceder ao exame dos pedidos de proteção das diferentes modalidades de propriedade industrial e à classificação dos mesmos;
+b) [...];
+c) Realizar atos de gestão de direitos relativos a direitos de propriedade industrial, procedendo aos respetivos averbamentos;
+d) (Revogada.)
+e) (Revogada.)
+f) [...];
+g) [...];
+h) (Revogada.)
+i) (Revogada.)
+Artigo 5.º
+[...]
+A Direção de Relações Externas e Assuntos Jurídicos, abreviadamente designada por DREAJ, atua no âmbito do acompanhamento técnico e jurídico transversal a todo o INPI, I. P., e na promoção do Sistema de Propriedade Industrial, das relações externas e, em articulação com a Direção-Geral da Política de Justiça, das relações internacionais, competindo-lhe:
+a) [...];
+b) [...];
+c) [...];
+d) [...];
+e) [...];
+f) [...];
+g) [...];
+h) Assegurar o contencioso administrativo relacionado com a atribuição dos direitos de propriedade industrial;
+i) Elaborar projetos legislativos e regulamentares e emitir pareceres sobre iniciativas da mesma natureza no âmbito da propriedade industrial, em articulação com a Direção-Geral da Política de Justiça;
+j) Assegurar as diligências necessárias no âmbito da colaboração com as entidades competentes na concretização de ações, preventivas ou repressivas, designadamente nos domínios das infrações contra a propriedade industrial e da concorrência desleal;
+k) Assegurar o apoio técnico-jurídico necessário à prossecução das atribuições do INPI, I. P.
+Artigo 6.º
+[...]
+A Direção de Organização e Gestão, abreviadamente designada por DOG, é responsável pelo estudo e apoio administrativo, que visa otimizar os recursos humanos, financeiros, patrimoniais e tecnológicos do INPI, I. P., competindo-lhe:
+a) [...];
+b) [...];
+c) [...];
+d) [...];
+e) [...];
+f) [...];
+g) Gerir o arquivo histórico e o património cultural do INPI.»
+Artigo 2.º
+Aditamento aos Estatutos do Instituto Nacional da Propriedade Industrial, aprovados em anexo à Portaria n.º 386/2012, de 29 de novembro
+É aditado o artigo 7.º aos Estatutos do INPI, I. P., com a seguinte redação:
+«Artigo 7.º
+Direção de Extinção de Direitos
+A Direção de Extinção de Direitos, abreviadamente designada por DED, é responsável pela decisão sobre os pedidos de declaração de nulidade e de anulação de registos previstos no Código da Propriedade Industrial, competindo-lhe:
+a) Proceder à análise dos pedidos de declaração de nulidade e de anulação de registos de desenhos ou modelos;
+b) Proceder à análise e decisão dos pedidos de declaração de nulidade e de anulação de registos de marcas, nomes e insígnias de estabelecimento e logótipos;
+c) Proceder à análise e decisão dos pedidos de declaração de nulidade e de anulação de registos de denominações de origem e indicações geográficas;
+d) Proceder à análise e decisão dos pedidos de declaração de nulidade e de anulação de registos de recompensas;
+e) Assegurar o exame de pedidos de declaração de caducidade dos registos.»
+Artigo 3.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 19 de setembro de 2019. - A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 18 de setembro de 2019.
+112599254
