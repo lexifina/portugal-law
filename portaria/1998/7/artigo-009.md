@@ -18,4 +18,4 @@ c) A de praças;
 
 d) A de pessoal militarizado.
 
-3 - Nos concursos extraordinários são considerados os restantes beneficiários titulares e os cônjuges sobrevivos de beneficiários titulares que tenham a qualidade de beneficiários familiares.
+3 - Nos concursos extraordinários são considerados os beneficiários titulares definidos nos n.os 2 e 3 e os beneficiários familiares definidos no n.º 5 do artigo 1.º do Regulamento dos Beneficiários do Instituto de Ação Social das Forças Armadas, I. P., aprovado pela Portaria n.º 1238/2010, de 14 de dezembro.

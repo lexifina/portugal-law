@@ -6,6 +6,6 @@
 
 2 - Para cada categoria os concorrentes são classificados por ordem decrescente do total dos pontos obtidos.
 
-3 - Em caso de igualdade, prevalece o concorrente com o agregado familiar de menor rendimento per capita e, se a igualdade se mantiver, prevalece o concorrente com maior antiguidade como beneficiário.
+3 - Em caso de igualdade, prevalece o concorrente com o menor rendimento mensal corrigido e, se a igualdade se mantiver, prevalece o concorrente com maior antiguidade como beneficiário.
 
-4 - A aprovação da lista de classificação cabe ao conselho de direcção do IASFA, que determina a sua afixação, para consulta, e dá conhecimento deste facto aos interessados por aviso publicado no Diário da República.
+4 - A aprovação da lista de classificação cabe ao Conselho Diretivo do IASFA, que determina a sua afixação, para consulta, e dá conhecimento deste facto aos interessados.

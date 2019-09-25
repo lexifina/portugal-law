@@ -2,8 +2,8 @@
 
 ### Abertura e prazo de validade dos concursos
 
-1 - Os concursos são abertos por deliberação do conselho de direcção do IASFA, com indicação da respectiva modalidade.
+1 - Os concursos por inscrição, normais ou extraordinários, são abertos por deliberação do Conselho Diretivo do IASFA, com indicação da respetiva modalidade.
 
-2 - A abertura dos concursos é publicitada por aviso publicado no Diário da República, no qual consta a data a partir da qual se pode proceder à entrega dos boletins de inscrição, os meios de consulta dos programas e outros elementos que em cada caso se julguem úteis.
+2 - A abertura dos concursos é publicitada por aviso publicado no Diário da República, bem como no respetivo sítio na Internet e ou em área de acesso ou de circulação livre das instalações do IASFA, no qual deve constar informação sobre a listagem, as condições de inscrição na mesma e o resultado da última classificação, se aplicável, com exclusão de qualquer menção a dados pessoais.
 
-3 - O prazo de validade do concurso é de um ano a contar do dia 1 do mês seguinte ao da publicação no Diário da República das listas de classificação a que se refere o n.º 4 do artigo 11.º do presente diploma.
+3 - (Revogado.)

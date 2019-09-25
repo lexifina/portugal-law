@@ -14,7 +14,9 @@ d) Data a que se devem referir os elementos constantes no boletim de inscrição
 
 e) Locais e horário em que podem ser pedidos esclarecimentos e apresentados os boletins de inscrição.
 
-2 - Por deliberação do conselho de direcção do IASFA não são incluídos na relação prevista na alínea c) do número anterior, ou podem ser dela retirados em qualquer altura, durante o período de validade do concurso, os fogos destinados:
+f) Os critérios de seleção e de classificação dos concorrentes.
+
+2 - Por deliberação do Conselho Diretivo do IASFA não são incluídos na relação prevista na alínea b) do número anterior, ou podem ser dela retirados em qualquer altura, durante o período de validade do concurso, os fogos destinados:
 
 a) Ao realojamento temporário dos arrendatários desalojados por motivo de incêndio, derrocada, demolição ou obras demoradas de remodelação dos fogos que habitam;
 
