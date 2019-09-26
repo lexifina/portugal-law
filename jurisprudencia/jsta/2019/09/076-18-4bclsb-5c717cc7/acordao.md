@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2019-09-26, processo 076/18.4BCLSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 076/18.4BCLSB
+
+**Data do Acordão:** 09/26/2019
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** CARLOS CARVALHO
+
+**Descritores:** DISCIPLINA DESPORTIVA; TRIBUNAL ARBITRAL; RESPONSABILIDADE DISCIPLINAR; CLUBES DESPORTIVOS; SOCIEDADE DESPORTIVA; RELATÓRIO; JOGOS; PROVA; PRESUNÇÃO JUDICIAL; PRINCIPIO DA CULPA; PRESUNÇÃO DE INOCÊNCIA; PRINCÍPIO IN DUBIO PRO REO
+
+**Nº Convencional:** JSTA000P24909
+
+**Nº do Documento:** SA120190926076/18
+
+**Data de Entrada:** 07/17/2019
+
+**Recorrente:** FEDERAÇÃO PORTUGUESA DE FUTEBOL E OUTROS
+
+**Recorrido 1:** OS MESMOS
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - A prova dos factos conducentes à condenação do arguido em processo disciplinar não exige uma certeza absoluta da sua verificação, dado a verdade a atingir não ser a verdade ontológica, mas a verdade prática, bastando que a fixação dos factos provados, sendo resultado de um juízo de livre convicção sobre a sua verificação, se encontre estribada, para além de uma dúvida razoável, nos elementos probatórios coligidos que a demonstrem ainda que fazendo apelo, se necessário, às circunstâncias normais e práticas da vida e das regras da experiência.
+
+II - A presunção de veracidade dos factos constantes dos relatórios dos jogos elaborados pelos delegados da Liga Portuguesa Futebol Profissional [LPFP] que tenham sido por eles percecionados, estabelecida pelo art. 13.º, al. f), do Regulamento Disciplinar da LPFP [RD/LPFP], conferindo ao arguido a possibilidade de abalar os fundamentos em que ela se sustenta mediante a mera contraprova dos factos presumidos, não infringe os comandos constitucionais insertos nos arts. 02.º, 20.º, n.º 4, e 32.º, n.ºs 2 e 10, da CRP e os princípios da presunção de inocência e do in dubio pro reo.
+
+III - A responsabilidade disciplinar dos clubes e sociedades desportivas prevista no art. 187.º do referido RD/LPFP pelas condutas ou os comportamentos social ou desportivamente incorretos que nele se mostram descritos e que foram tidos pelos sócios ou simpatizantes de um clube ou de uma sociedade desportiva e pelos quais estes respondem não constitui uma responsabilidade objetiva violadora dos princípios da culpa e da presunção de inocência.
+
+IV - A responsabilidade desportiva disciplinar ali prevista mostra-se ser, in casu, subjetiva, já que estribada numa violação dos deveres legais e regulamentares que sobre clubes e sociedades desportivas impendem neste domínio e em que o critério de delimitação da autoria do ilícito surge recortado com apelo não ao do domínio do facto, mas sim ao da titularidade do dever que foi omitido ou preterido.
