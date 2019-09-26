@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal Administrativo de 2019-09-26, processo 01005/18.0BELSB
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01005/18.0BELSB
+
+**Data do Acordão:** 09/26/2019
+
+**Tribunal:** 1 SECÇÃO
+
+**Relator:** CARLOS CARVALHO
+
+**Descritores:** INTIMAÇÃO PARA PROTECÇÃO DE DIREITOS LIBERDADES E GARANTIAS; PRESSUPOSTOS; ÂMBITO DA JURISDIÇÃO ADMINISTRATIVA; COMPETÊNCIA DOS TRIBUNAIS ADMINISTRATIVOS; MEIO PROCESSUAL ADEQUADO
+
+**Nº Convencional:** JSTA000P24910
+
+**Nº do Documento:** SA12019092601005/18
+
+**Data de Entrada:** 07/17/2019
+
+**Recorrente:** ENTIDADE REGULADORA PARA A COMUNICAÇÃO SOCIAL
+
+**Recorrido 1:** A...........
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - São pressupostos do pedido de intimação para proteção de direitos, liberdades e garantias os seguintes: i) a necessidade de emissão em tempo útil e, por isso, com caráter de urgência de uma decisão de fundo que seja indispensável para proteção de um direito, liberdade ou garantia; ii) o pedido se refira à imposição de uma conduta positiva ou negativa à Administração ou a particulares que se mostre apta a assegurar esse direito; e iii) que não seja possível ou suficiente acautelar o direito por outro meio processual, mormente através do decretamento provisório de uma providência cautelar dependente de uma ação administrativa ou de uma qualquer outra forma de processo urgente principal.
+
+II - Cabe aos tribunais da jurisdição administrativa, nos termos dos arts. 211.º, n.º 1, e 212.º, n.º 3, da CRP, 64.º do CPC, 29.º e 40.º, n.º 1, da LOSJ, 01.º e 04.º, n.º 1, al. a), do ETAF, 68.º, n.º 3, da Lei n.º 27/2007, 02.º da Lei n.º 53/2005, 01.º, 04.º, 06.º, 07.º, 08.º, 24.º, 59.º, 60.º e 75.º, n.º 1, todos dos Estatutos da Entidade Reguladora para a Comunicação Social [«ERC»], a competência em razão da matéria para a apreciação de litígio instaurado na sequência da deliberação da «ERC» que havia apreciado queixa, indeferindo-a, que lhe foi dirigida fundada em alegada violação de direito de resposta que assistiria a demandante [art. 37.º, n.º 4, da CRP].
+
+III - A intimação para proteção de direitos, liberdades e garantias constitui um meio contencioso subsidiário de tutela destinado a ser utilizado apenas nas situações em que as outras formas de processo não se mostrem, ou não se apresentem, como meios adequados ou aptos à realização e efetiva proteção dos direitos, liberdades e garantias, assegurando uma efetiva e plena tutela jurisdicional, funcionando, assim, como uma válvula de segurança do nosso sistema de garantias contenciosas.
+
+IV - A mesma constitui um meio contencioso idóneo e adequado às necessidades e exigências reclamadas para e na defesa in casu do direito de resposta tido por infringido [arts. 20.º, n.º 5, e 37.º, n.º 4, da CRP, e 109.º do CPTA], dado tais necessidades e exigências não se mostrarem minimamente ajustadas e compatíveis com aquilo que é o tempo de tramitação e de obtenção de uma decisão final numa ação administrativa ainda que conjugada com a obtenção, nos termos do art. 131.º do CPTA, do decretamento provisório da providência destinada a promover a realização e efetivação do direito de resposta invocado no quadro cautelar.
