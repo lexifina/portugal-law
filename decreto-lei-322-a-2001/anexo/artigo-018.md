@@ -56,7 +56,7 @@ a) A organização do processo de casamento;
 
 b) (Revogado.)
 
-c) A declaração de dispensa de prazo internupcial;
+c) (Revogado.)
 
 d) A declaração de consentimento para casamento de menores;
 

@@ -18,6 +18,10 @@ d) Averbamentos de actualização das inscrições, quanto à residência ou sed
 
 e) (Revogada.)
 
+f) A recusa e a desistência de atos de registo quando o facto já se encontrar registado;
+
+g) A desistência de ato que beneficie de gratuitidade ou de isenção emolumentar.
+
 2 - São ainda gratuitos os seguintes actos:
 
 a) Rectificação de actos de registo ou documentos resultante de inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado;

@@ -26,7 +26,7 @@
 
 1.6.2 - Tratando-se de registo subsequente - (euro) 30;
 
-1.7 - Pela menção de reserva de propriedade ou pelo seu cancelamento são devidos 50 % dos emolumentos previstos nos n.os 1.2, 1.3 e 1.6.2, respetivamente;
+1.7 - Pela reserva de propriedade ou pelo seu cancelamento são devidos 50/prct. dos emolumentos previstos nos n.os 1.2, 1.3 e 1.6.2, respetivamente;
 
 1.8 - Se o registo for requerido fora de prazo, é devido valor igual ao do emolumento;
 
@@ -39,6 +39,8 @@
 1.11.1 - Se o emolumento previsto para o ato de registo requerido for inferior ao valor previsto nos n.os 1.10 e 1.11, pela desistência ou pela recusa é devido o emolumento correspondente ao ato;
 
 1.12 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2 e 3 do artigo 42.º-A do Decreto n.º 55/75, de 12 de fevereiro - (euro) 10.
+
+1.13 - No emolumento do ato principal está incluído o do registo de afetação do veículo ao regime de aluguer sem condutor, do registo do ónus de tributação residual e de intransmissibilidade, ou do registo de utilizador não proprietário, consoante o caso, quando tais atos devam ser realizados oficiosamente na dependência daquele.
 
 2 - Certidões, fotocópias, certificados de matrícula, informações:
 
