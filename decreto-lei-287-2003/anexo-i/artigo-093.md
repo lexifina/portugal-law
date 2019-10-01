@@ -17,3 +17,9 @@
 5 - Nos casos em que a declaração modelo n.º 1 do IMI é entregue para efeitos de inscrição de prédio urbano ou fracção autónoma na matriz, os notários, conservadores e oficiais dos registos, bem como as entidades profissionais com competência para autenticar documentos particulares que titulem actos ou contratos sujeitos a registo predial que intervenham em actos ou contratos que exijam a sua apresentação podem obtê-la por via electrónica.
 
 6 - O titular do prédio, que seja um sujeito passivo abrangido pela obrigação prevista no n.º 9 do artigo 19.º da Lei Geral Tributária, apenas pode obter a caderneta predial, urbana e rústica de base não cadastral, referida no n.º 1, por via eletrónica no Portal das Finanças.
+
+7 - Os advogados e solicitadores podem, no exercício da sua profissão, ter acesso à informação constante das cadernetas prediais, sem que se lhes possa opor o regime da confidencialidade, nas seguintes condições:
+
+a) Quando se trate de matéria relacionada com o interesse efetivo dos respetivos clientes;
+
+b) Sujeição a deveres de confidencialidade relativamente à informação que consultam.

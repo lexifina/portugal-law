@@ -16,7 +16,11 @@ c) Prédios urbanos - de 0,3 % a 0,45 %.
 
 2 - Tratando-se de prédios constituídos por parte rústica e urbana, aplica-se ao valor patrimonial tributário de cada parte a respectiva taxa.
 
-3 - As taxas previstas nas alíneas b) e c) do n.º 1 são elevadas, anualmente, ao triplo nos casos de prédios urbanos que se encontrem devolutos há mais de um ano, e de prédios em ruínas, considerando-se devolutos ou em ruínas, os prédios como tal definidos em diploma próprio, exceto quanto aos prédios abrangidos pela alínea b) do n.º 2 do artigo 11.º
+3 - Salvo quanto aos prédios abrangidos pela alínea b) do n.º 2 do artigo 11.º, as taxas previstas nas alíneas b) e c) do n.º 1 são elevadas, anualmente, ao triplo nos casos:
+
+a) De prédios urbanos que se encontrem devolutos há mais de um ano, ou prédios em ruínas, como tal definidos em diploma próprio;
+
+b) Prédios urbanos parcialmente devolutos, incidindo o agravamento da taxa, no caso dos prédios não constituídos em propriedade horizontal, apenas sobre a parte do valor patrimonial tributário correspondente às partes devolutas.
 
 4 - Para os prédios que sejam propriedade de entidades que tenham domicílio fiscal em país, território ou região sujeito a regime fiscal claramente mais favorável, constantes de lista aprovada por portaria do Ministro das Finanças, a taxa do imposto é de 7,5 %.
 
