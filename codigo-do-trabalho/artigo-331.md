@@ -10,7 +10,9 @@ b) Se recusar a cumprir ordem a que não deva obediência, nos termos da alínea
 
 c) Exercer ou candidatar-se ao exercício de funções em estrutura de representação colectiva dos trabalhadores;
 
-d) Em geral, exercer, ter exercido, pretender exercer ou invocar os seus direitos ou garantias.
+d) Ter alegado ser vítima de assédio ou ser testemunha em processo judicial e/ou contraordenacional de assédio;
+
+e) Em geral, exercer, ter exercido, pretender exercer ou invocar os seus direitos ou garantias.
 
 2 - Presume-se abusivo o despedimento ou outra sanção aplicada alegadamente para punir uma infracção, quando tenha lugar:
 
@@ -30,4 +32,4 @@ a) Os mínimos a que se refere o número anterior são elevados para o dobro;
 
 b) Em caso de despedimento, a indemnização não deve ser inferior ao valor da retribuição base e diuturnidades correspondentes a 12 meses.
 
-7 - Constitui contra-ordenação grave a aplicação de sanção abusiva.
+7 - Constitui contraordenação muito grave a aplicação de sanção abusiva.

@@ -6,7 +6,7 @@
 
 a) Identificação, assinaturas, domicílio ou sede das partes e número e data do alvará da licença da empresa de trabalho temporário;
 
-b) Motivos que justificam a celebração do contrato, com menção concreta dos factos que os integram;
+b) Motivo que justifica a celebração do contrato, com menção concreta dos factos que o integram, tendo por base o motivo justificativo do recurso ao trabalho temporário por parte do utilizador indicado no contrato de utilização de trabalho temporário, sem prejuízo do disposto nos artigos 412.º e 413.º, com as necessárias adaptações;
 
 c) Actividade contratada;
 
@@ -26,4 +26,4 @@ h) Data da celebração.
 
 4 - Um exemplar do contrato fica com o trabalhador.
 
-5 - Constitui contra-ordenação leve, imputável à empresa de trabalho temporário, a violação do disposto na alínea a) ou qualquer das alíneas c) a f) do n.º 1 ou no n.º 4.
+5 - Constitui contraordenação grave, imputável à empresa de trabalho temporário, a violação do disposto nas alíneas a) a f) do n.º 1 ou no n.º 4.

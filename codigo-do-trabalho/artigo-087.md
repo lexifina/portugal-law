@@ -2,7 +2,7 @@
 
 ### Dispensa de algumas formas de organização do tempo de trabalho de trabalhador com deficiência ou doença crónica
 
-1 - O trabalhador com deficiência ou doença crónica é dispensado da prestação de trabalho, se esta puder prejudicar a sua saúde ou segurança no trabalho:
+1 - O trabalhador com deficiência ou doença crónica, nomeadamente doença oncológica ativa em fase de tratamento, é dispensado da prestação de trabalho se esta puder prejudicar a sua saúde ou segurança no trabalho:
 
 a) Em horário organizado de acordo com o regime de adaptabilidade, de banco de horas ou horário concentrado;
 

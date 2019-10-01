@@ -26,7 +26,7 @@ h) Data da celebração do contrato.
 
 4 - (Revogado).
 
-5 - O contrato é nulo se não for celebrado por escrito ou omitir a menção exigida pela alínea b) do n.º 1.
+5 - O contrato é nulo se não for celebrado por escrito ou não contiver qualquer uma das menções referidas nas alíneas do n.º 1.
 
 6 - No caso previsto no número anterior, considera-se que o trabalho é prestado pelo trabalhador ao utilizador em regime de contrato de trabalho sem termo, sendo aplicável o disposto no n.º 6 do artigo 173.º
 

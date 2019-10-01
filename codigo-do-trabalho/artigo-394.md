@@ -16,7 +16,7 @@
 
 a) Falta culposa de pagamento pontual da retribuição;
 
-b) Violação culposa de garantias legais ou convencionais do trabalhador;
+b) Violação culposa de garantias legais ou convencionais do trabalhador, designadamente a prática de assédio praticada pela entidade empregadora ou por outros trabalhadores;
 
 c) Aplicação de sanção abusiva;
 

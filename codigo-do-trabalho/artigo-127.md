@@ -4,7 +4,7 @@
 
 1 - O empregador deve, nomeadamente:
 
-a) Respeitar e tratar o trabalhador com urbanidade e probidade;
+a) Respeitar e tratar o trabalhador com urbanidade e probidade, afastando quaisquer atos que possam afetar a dignidade do trabalhador, que sejam discriminatórios, lesivos, intimidatórios, hostis ou humilhantes para o trabalhador, nomeadamente assédio;
 
 b) Pagar pontualmente a retribuição, que deve ser justa e adequada ao trabalho;
 

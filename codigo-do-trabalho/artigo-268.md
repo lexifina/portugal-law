@@ -10,6 +10,6 @@ b) 50 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou c
 
 2 - É exigível o pagamento de trabalho suplementar cuja prestação tenha sido prévia e expressamente determinada, ou realizada de modo a não ser previsível a oposição do empregador.
 
-3 - O disposto nos números anteriores pode ser afastado por instrumento de regulamentação coletiva de trabalho.
+3 - (Revogado).
 
 4 - Constitui contra-ordenação grave a violação do disposto no n.º 1.

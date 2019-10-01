@@ -12,7 +12,7 @@ c) Organizar a formação na empresa, estruturando planos de formação anuais o
 
 d) Reconhecer e valorizar a qualificação adquirida pelo trabalhador.
 
-2 - O trabalhador tem direito, em cada ano, a um número mínimo de trinta e cinco horas de formação contínua ou, sendo contratado a termo por período igual ou superior a três meses, um número mínimo de horas proporcional à duração do contrato nesse ano.
+2 - O trabalhador tem direito, em cada ano, a um número mínimo de quarenta horas de formação contínua ou, sendo contratado a termo por período igual ou superior a três meses, a um número mínimo de horas proporcional à duração do contrato nesse ano.
 
 3 - A formação referida no número anterior pode ser desenvolvida pelo empregador, por entidade formadora certificada para o efeito ou por estabelecimento de ensino reconhecido pelo ministério competente e dá lugar à emissão de certificado e a registo na Caderneta Individual de Competências nos termos do regime jurídico do Sistema Nacional de Qualificações.
 

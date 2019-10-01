@@ -4,7 +4,7 @@
 
 1 - O contrato de trabalho a termo certo caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respectivamente, 15 ou oito dias antes de o prazo expirar.
 
-2 - Em caso de caducidade de contrato de trabalho a termo certo decorrente de declaração do empregador nos termos do número anterior, o trabalhador tem direito a compensação correspondente a 18 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º
+2 - Em caso de caducidade de contrato de trabalho a termo certo por verificação do seu termo, o trabalhador tem direito a compensação correspondente a 18 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador nos termos do número anterior.
 
 3 - (Revogado).
 

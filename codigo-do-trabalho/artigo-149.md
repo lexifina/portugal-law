@@ -8,4 +8,6 @@
 
 3 - A renovação do contrato está sujeita à verificação da sua admissibilidade, nos termos previstos para a sua celebração, bem como a iguais requisitos de forma no caso de se estipular período diferente.
 
-4 - Considera-se como único contrato aquele que seja objecto de renovação.
+4 - O contrato de trabalho a termo certo pode ser renovado até três vezes e a duração total das renovações não pode exceder a do período inicial daquele.
+
+5 - Considera-se como único contrato aquele que seja objecto de renovação.

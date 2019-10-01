@@ -22,7 +22,7 @@ c) Apresentação de proposta de revisão da convenção que inclua a revisão d
 
 7 - Na ausência de acordo anterior sobre os efeitos decorrentes da convenção em caso de caducidade, o ministro responsável pela área laboral notifica as partes, dentro do prazo referido no número anterior, para que, querendo, acordem esses efeitos, no prazo de 15 dias.
 
-8 - Após a caducidade e até à entrada em vigor de outra convenção ou decisão arbitral, mantêm-se os efeitos acordados pelas partes ou, na sua falta, os já produzidos pela convenção nos contratos de trabalho no que respeita a retribuição do trabalhador, categoria e respectiva definição, duração do tempo de trabalho e regimes de protecção social cujos benefícios sejam substitutivos dos assegurados pelo regime geral de segurança social ou com protocolo de substituição do Serviço Nacional de Saúde.
+8 - Após a caducidade e até à entrada em vigor de outra convenção ou decisão arbitral, mantêm-se os efeitos acordados pelas partes ou, na sua falta, os já produzidos pela convenção nos contratos de trabalho no que respeita à retribuição do trabalhador, categoria e respetiva definição, duração do tempo de trabalho e regimes de proteção social cujos benefícios sejam substitutivos dos assegurados pelo regime geral de segurança social ou com protocolo de substituição do Serviço Nacional de Saúde, de parentalidade e de segurança e saúde no trabalho.
 
 9 - Além dos efeitos referidos no número anterior, o trabalhador beneficia dos demais direitos e garantias decorrentes da legislação do trabalho.
 

@@ -10,7 +10,7 @@
 
 4 - No caso previsto no n.º 2, considera-se que o trabalho é prestado à empresa que contrate o trabalhador em regime de contrato de trabalho sem termo.
 
-5 - No caso de o trabalhador ser cedido a utilizador por empresa de trabalho temporário licenciada sem que tenha celebrado contrato de trabalho temporário ou contrato de trabalho por tempo indeterminado para cedência temporária, considera-se que o trabalho é prestado a esta empresa em regime de contrato de trabalho sem termo.
+5 - No caso de o trabalhador ser cedido a utilizador por empresa de trabalho temporário licenciada sem que tenha celebrado contrato de trabalho temporário ou contrato de trabalho por tempo indeterminado para cedência temporária, considera-se que o trabalho é prestado à empresa utilizadora em regime de contrato de trabalho sem termo.
 
 6 - Em substituição do disposto no n.os 3, 4 ou 5, o trabalhador pode optar, nos 30 dias seguintes ao início da prestação de actividade, por uma indemnização nos termos do artigo 396.º
 

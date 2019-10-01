@@ -12,6 +12,6 @@ b) Acréscimo excepcional da actividade da empresa, após a cessação do contra
 
 c) Actividade sazonal;
 
-d) Trabalhador anteriormente contratado ao abrigo do regime aplicável à contratação de trabalhador à procura de primeiro emprego.
+d) (Revogada).
 
 3 - Constitui contra-ordenação grave a violação do disposto no n.º 1.

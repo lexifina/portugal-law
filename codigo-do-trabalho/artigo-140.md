@@ -2,7 +2,7 @@
 
 ### Admissibilidade de contrato de trabalho a termo resolutivo
 
-1 - O contrato de trabalho a termo resolutivo só pode ser celebrado para satisfação de necessidade temporária da empresa e pelo período estritamente necessário à satisfação dessa necessidade.
+1 - O contrato de trabalho a termo resolutivo só pode ser celebrado para a satisfação de necessidades temporárias, objetivamente definidas pela entidade empregadora e apenas pelo período estritamente necessário à satisfação dessas necessidades.
 
 2 - Considera-se, nomeadamente, necessidade temporária da empresa:
 
@@ -26,9 +26,9 @@ h) Execução de obra, projecto ou outra actividade definida e temporária, incl
 
 4 - Além das situações previstas no n.º 1, pode ser celebrado contrato de trabalho a termo certo para:
 
-a) Lançamento de nova actividade de duração incerta, bem como início de laboração de empresa ou de estabelecimento pertencente a empresa com menos de 750 trabalhadores;
+a) Lançamento de nova atividade de duração incerta, bem como início do funcionamento de empresa ou de estabelecimento pertencente a empresa com menos de 250 trabalhadores, nos dois anos posteriores a qualquer um desses factos;
 
-b) Contratação de trabalhador à procura de primeiro emprego, em situação de desemprego de longa duração ou noutra prevista em legislação especial de política de emprego.
+b) Contratação de trabalhador em situação de desemprego de muito longa duração.
 
 5 - Cabe ao empregador a prova dos factos que justificam a celebração de contrato de trabalho a termo.
 

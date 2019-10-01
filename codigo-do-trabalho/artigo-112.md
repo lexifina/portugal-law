@@ -6,7 +6,13 @@
 
 a) 90 dias para a generalidade dos trabalhadores;
 
-b) 180 dias para os trabalhadores que exerçam cargos de complexidade técnica, elevado grau de responsabilidade ou que pressuponham uma especial qualificação, bem como os que desempenhem funções de confiança;
+b) 180 dias para trabalhadores que:
+
+i) Exerçam cargos de complexidade técnica, elevado grau de responsabilidade ou que pressuponham uma especial qualificação;
+
+ii) Desempenhem funções de confiança;
+
+iii) Estejam à procura de primeiro emprego e desempregados de longa duração;
 
 c) 240 dias para trabalhador que exerça cargo de direcção ou quadro superior.
 
@@ -18,7 +24,7 @@ b) 15 dias em caso de contrato a termo certo com duração inferior a seis meses
 
 3 - No contrato em comissão de serviço, a existência de período experimental depende de estipulação expressa no acordo, não podendo exceder 180 dias.
 
-4 - O período experimental, de acordo com qualquer dos números anteriores, é reduzido ou excluído, consoante a duração de anterior contrato a termo para a mesma actividade, ou de trabalho temporário executado no mesmo posto de trabalho, ou ainda de contrato de prestação de serviços para o mesmo objecto, com o mesmo empregador, tenha sido inferior ou igual ou superior à duração daquele.
+4 - O período experimental, de acordo com qualquer dos números anteriores, é reduzido ou excluído, consoante a duração de anterior contrato a termo para a mesma atividade, de contrato de trabalho temporário executado no mesmo posto de trabalho, de contrato de prestação de serviços para o mesmo objeto, ou ainda de estágio profissional para a mesma atividade, tenha sido inferior ou igual ou superior à duração daquele, desde que em qualquer dos casos sejam celebrados pelo mesmo empregador.
 
 5 - A duração do período experimental pode ser reduzida por instrumento de regulamentação colectiva de trabalho ou por acordo escrito entre partes.
 

@@ -6,7 +6,7 @@
 
 2 - O despedimento por facto imputável a trabalhador que se encontre em qualquer das situações referidas no número anterior presume-se feito sem justa causa.
 
-3 - Para efeitos do número anterior, o empregador deve remeter cópia do processo à entidade competente na área da igualdade de oportunidade entre homens e mulheres:
+3 - Para efeitos do n.º 1, o empregador deve remeter cópia do processo à entidade competente na área da igualdade de oportunidades entre homens e mulheres:
 
 a) Depois das diligências probatórias referidas no n.º 1 do artigo 356.º, no despedimento por facto imputável ao trabalhador;
 

@@ -24,7 +24,7 @@
 
 9 - O disposto no número anterior não se aplica a trabalhador titular de contrato de trabalho por tempo indeterminado para cedência temporária, ao qual são aplicáveis as regras de abono de ajudas de custo por deslocação em serviço previstas na lei geral.
 
-10 - Sem prejuízo do disposto nos números anteriores, após 60 dias de prestação de trabalho, é aplicável ao trabalhador temporário o instrumento de regulamentação colectiva de trabalho aplicável a trabalhadores do utilizador que exerçam as mesmas funções.
+10 - Sem prejuízo do disposto nos números anteriores, é aplicável ao trabalhador temporário o instrumento de regulamentação coletiva de trabalho aplicável a trabalhadores do utilizador que exerçam as mesmas funções.
 
 11 - O utilizador deve informar o trabalhador temporário dos postos de trabalho disponíveis na empresa ou estabelecimento para funções idênticas às exercidas por este, com vista à sua candidatura.
 
