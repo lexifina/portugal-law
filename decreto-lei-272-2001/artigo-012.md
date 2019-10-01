@@ -1,0 +1,23 @@
+## Secção II
+
+## Dos procedimentos da competência exclusiva do conservador
+
+# Artigo 12.º
+
+### Objecto, competência e procedimento
+
+1 - São da exclusiva competência da conservatória de registo civil:
+
+a) A reconciliação dos cônjuges separados;
+
+b) A separação e divórcio por mútuo consentimento, excepto nos casos em que os cônjuges não apresentam algum dos acordos a que se refere o n.º 1 do artigo 1775.º do Código Civil, em que algum dos acordos apresentados não é homologado ou nos casos resultantes de acordo obtido no âmbito de processo de separação ou divórcio sem consentimento do outro cônjuge;
+
+c) Revogada;
+
+2 - Os processos previstos nas alíneas a) e b) do número anterior podem ser instaurados em qualquer conservatória do registo civil.
+
+3 - Revogado.
+
+4 - No âmbito das competências previstas no n.º 1 do presente artigo, os interessados apresentam o pedido mediante a entrega de requerimento na conservatória, fundamentando de facto e de direito, indicando as provas e juntando a prova documental.
+
+5 - O conservador verifica o preenchimento dos pressupostos legais, podendo determinar para esse efeito a prática de actos e a produção da prova eventualmente necessária, e declara, em seguida, a procedência do pedido.
