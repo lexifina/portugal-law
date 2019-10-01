@@ -1,6 +1,4 @@
-## Capítulo IX
-
-## Disposições finais e transitórias
+## Capítulo x
 
 # Artigo 33.º
 
