@@ -14,7 +14,7 @@
 
 4 - Para efeitos do disposto nos n.os 5 a 9 do artigo 10.º, devem os sujeitos passivos:
 
-a) Mencionar a intenção de efetuar o reinvestimento na declaração do ano de realização, indicando na mesma e nas declarações dos dois anos seguintes, os investimentos efetuados;
+a) Mencionar a intenção de efetuar o reinvestimento na declaração do ano de realização, indicando na mesma e nas declarações dos três anos seguintes os investimentos efetuados;
 
 b) Comprovar, quando solicitado, a afetação do imóvel à sua habitação permanente ou do seu agregado familiar, quando o reinvestimento seja efetuado em imóvel situado no território de outro Estado membro da União Europeia ou do espaço económico europeu, através de declaração emitida por entidade oficial do outro Estado.
 

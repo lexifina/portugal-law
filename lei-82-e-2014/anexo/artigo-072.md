@@ -14,13 +14,13 @@ d) Os rendimentos de capitais, tal como são definidos no artigo 5.º, quando n�
 
 e) Os rendimentos prediais.
 
-2 - Aos rendimentos prediais decorrentes de contratos de arrendamento com duração igual ou superior a dois anos e inferior a cinco anos, é aplicada uma redução de dois pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de dois pontos percentuais até ao limite de catorze pontos percentuais.
+2 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dois anos e inferior a cinco anos, é aplicada uma redução de dois pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de dois pontos percentuais até ao limite de catorze pontos percentuais.
 
-3 - Aos rendimentos prediais decorrentes de contratos de arrendamento celebrados com duração igual ou superior a cinco anos e inferior a dez anos, é aplicada uma redução de cinco pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de cinco pontos percentuais até ao limite de catorze pontos percentuais.
+3 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente celebrados com duração igual ou superior a cinco anos e inferior a dez anos, é aplicada uma redução de cinco pontos percentuais da respetiva taxa autónoma; e por cada renovação com igual duração, é aplicada uma redução de cinco pontos percentuais até ao limite de catorze pontos percentuais.
 
-4 - Aos rendimentos prediais decorrentes de contratos de arrendamento com duração igual ou superior a dez anos e inferior a 20 anos, é aplicada uma redução de catorze pontos percentuais da respetiva taxa autónoma.
+4 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a dez anos e inferior a vinte anos, é aplicada uma redução de catorze pontos percentuais da respetiva taxa autónoma.
 
-5 - Aos rendimentos prediais decorrentes de contratos de arrendamento com duração superior a 20 anos, é aplicada uma redução de dezoito pontos percentuais da respetiva taxa autónoma.
+5 - Aos rendimentos prediais decorrentes de contratos de arrendamento para habitação permanente com duração igual ou superior a vinte anos, é aplicada uma redução de dezoito pontos percentuais da respetiva taxa autónoma.
 
 6 - São tributados autonomamente à taxa de 25 %:
 
@@ -57,3 +57,7 @@ c) Os ganhos previstos no n.º 3) da alínea b) do n.º 1 do artigo 10.º relati
 d) As mais-valias previstas na alínea a) do n.º 1 do artigo 10.º auferidas por entidades não residentes sem estabelecimento estável em território português, que sejam domiciliadas em país, território ou região sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do membro do Governo responsável pela área das finanças.
 
 17 - Para efeitos da aplicação da taxa prevista no n.º 3, são equiparadas a gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal, as compensações e subsídios, referentes à atividade voluntária, postos à disposição dos bombeiros, pelas associações humanitárias de bombeiros, até ao limite máximo anual, por bombeiro, de três vezes o indexante de apoios sociais.
+
+18 - Sempre que os contratos de arrendamento previstos nos n.os 2, 3, 4 e 5 cessem os seus efeitos antes de decorridos os prazos de duração dos mesmos ou das suas renovações, por motivo imputável ao senhorio, extingue-se o direito às reduções da taxa aí previstas, com efeitos desde o início do contrato ou renovação, devendo os titulares dos rendimentos, no ano da cessação do contrato, proceder à declaração desse facto para efeitos de regularização da diferença entre o montante do imposto que foi pago em cada ano e aquele que deveria ter sido pago, acrescida de juros compensatórios.
+
+19 - Para efeitos do disposto no número anterior, suspende-se o prazo de caducidade do direito à liquidação de imposto nos termos da alínea c) do n.º 2 do artigo 46.º da Lei Geral Tributária.

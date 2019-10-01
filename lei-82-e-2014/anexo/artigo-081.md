@@ -30,8 +30,8 @@ a) Sejam tributados no outro Estado contratante, em conformidade com convenção
 
 b) Pelos critérios previstos no n.º 1 do artigo 18.º, não sejam de considerar obtidos em território português.
 
-7 - Os rendimentos isentos nos termos dos n.os 4, 5 e 6 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1 e no n.º 6 do artigo 72.º
+7 - Os rendimentos isentos nos termos dos n.os 4, 5 e 6 são obrigatoriamente englobados para efeitos de determinação da taxa a aplicar aos restantes rendimentos, com exceção dos previstos nas alíneas c) a e) do n.º 1 e no n.º 10 do artigo 72.º
 
-8 - Os titulares dos rendimentos isentos nos termos dos n.os 4, 5 e 6 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1 e nos n.os 3 e 6 do artigo 72.º
+8 - Os titulares dos rendimentos isentos nos termos nos n.os 4, 5 e 6 podem optar pela aplicação do método do crédito de imposto referido no n.º 1, sendo neste caso os rendimentos obrigatoriamente englobados para efeitos da sua tributação, com exceção dos previstos nas alíneas c) a e) do n.º 1 e nos n.os 7 e 10 do artigo 72.º
 
 9 - Os rendimentos obtidos no estrangeiro relativamente aos quais, por força de convenção para eliminar a dupla tributação celebrada por Portugal, seja aplicado o método da isenção com progressividade, são obrigatoriamente englobados para efeitos de determinação da taxa aplicável aos restantes rendimentos.

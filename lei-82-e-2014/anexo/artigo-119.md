@@ -2,7 +2,7 @@
 
 ### Comunicação de rendimentos e retenções
 
-1 - As entidades devedoras de rendimentos que estejam obrigadas a efetuar a retenção, total ou parcial, do imposto, bem como as entidades devedoras dos rendimentos previstos nos n.os 4), 5), 7), 9) e 10) da alínea b) do n.º 3 do artigo 2.º e dos rendimentos não sujeitos, total ou parcialmente, previstos nos artigos 2.º e 2.º-A e nos n.os 2, 4 e 5 do artigo 12.º, e ainda as entidades através das quais sejam processados os rendimentos sujeitos ao regime especial de tributação previsto no n.º 3 do artigo 72.º, são obrigadas a:
+1 - As entidades devedoras de rendimentos que estejam obrigadas a efetuar a retenção, total ou parcial, do imposto, bem como as entidades devedoras dos rendimentos previstos nos n.os 4), 5), 7), 9) e 10) da alínea b) do n.º 3 do artigo 2.º e dos rendimentos não sujeitos, total ou parcialmente, previstos nos artigos 2.º e 2.º-A e nos n.os 2, 4 e 5 do artigo 12.º, e ainda as entidades através das quais sejam processados os rendimentos sujeitos ao regime especial de tributação previsto no n.º 7 do artigo 72.º, são obrigadas a:
 
 a) Possuir registo atualizado das pessoas credoras desses rendimentos, ainda que não tenha havido lugar a retenção do imposto, do qual constem, nomeadamente, o nome, o número fiscal e respetivo código, bem como a data e valor de cada pagamento ou dos rendimentos em espécie que lhes tenham sido atribuídos;
 

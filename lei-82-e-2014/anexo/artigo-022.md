@@ -20,7 +20,7 @@ b) Tratando-se de rendimentos das restantes categorias, cada contitular engloba 
 
 3 - Não são englobados para efeitos da sua tributação:
 
-a) Os rendimentos auferidos por sujeitos passivos não residentes em território português, sem prejuízo do disposto nos n.os 8 e 9 do artigo 72.º;
+a) Os rendimentos auferidos por sujeitos passivos não residentes em território português, sem prejuízo do disposto nos n.os 12 e 13 do artigo 72.º;
 
 b) Os rendimentos referidos nos artigos 71.º e 72.º auferidos por residentes em território português, sem prejuízo da opção pelo englobamento neles previsto.
 

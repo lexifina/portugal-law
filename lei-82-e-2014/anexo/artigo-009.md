@@ -18,4 +18,4 @@ e) As indemnizações devidas por renúncia onerosa a posições contratuais ou 
 
 3 - São igualmente considerados incrementos patrimoniais aqueles a que se refere o n.º 5 do artigo 89.º-A da lei geral tributária.
 
-4 - Os incrementos patrimoniais referidos nas alíneas b) e c) do n.º 1 do presente artigo constituem rendimento do ano em que são pagos ou colocados à disposição.
+4 - Os incrementos patrimoniais referidos nas alíneas b), c) e e) do n.º 1 constituem rendimento do ano em que são pagos ou colocados à disposição.
