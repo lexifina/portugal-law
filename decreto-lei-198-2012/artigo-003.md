@@ -12,7 +12,7 @@ c) Por inserção direta no Portal das Finanças;
 
 d) Por outra via eletrónica, nos termos a definir por portaria do Ministro das Finanças.
 
-2 - A comunicação referida no número anterior deve ser efetuada até ao dia 10 do mês seguinte ao da emissão da fatura.
+2 - A comunicação referida no número anterior deve ser efetuada até ao dia 12 do mês seguinte ao da emissão da fatura.
 
 3 - Os sujeitos passivos que sejam obrigados a produzir o ficheiro SAF-T (PT), criado pela Portaria n.º 321-A/2007, de 26 de março, alterada pela Portaria n.º 1192/2009, de 8 de outubro, devem optar por uma das modalidades constantes das alíneas a) e b) do n.º 1.
 
