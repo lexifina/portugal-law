@@ -4,9 +4,9 @@
 
 1 - O imposto único de circulação incide sobre os veículos das categorias seguintes, matriculados ou registados em Portugal:
 
-a) Categoria A: Automóveis ligeiros de passageiros e automóveis ligeiros de utilização mista com peso bruto não superior a 2500 kg matriculados desde 1981 até à data da entrada em vigor do presente código;
+a) Categoria A: Automóveis ligeiros de passageiros e automóveis ligeiros de utilização mista com peso bruto não superior a 2 500 kg que tenham sido matriculados, pela primeira vez, no território nacional ou num Estado-Membro da União Europeia ou do Espaço Económico Europeu, desde 1981 até à data da entrada em vigor do presente código;
 
-b) Categoria B: Automóveis de passageiros referidos nas alíneas a) e d) do n.º 1 do artigo 2.º do Código do Imposto sobre Veículos e automóveis ligeiros de utilização mista com peso bruto não superior a 2500 kg, matriculados em data posterior à da entrada em vigor do presente código;
+b) Categoria B: Automóveis de passageiros referidos nas alíneas a) e d) do n.º 1 do artigo 2.º do Código do Imposto sobre Veículos e automóveis ligeiros de utilização mista com peso bruto não superior a 2 500 kg, cuja data da primeira matrícula, no território nacional ou num Estado-Membro da União Europeia ou do Espaço Económico Europeu, seja posterior à da entrada em vigor do presente código;
 
 c) Categoria C: Automóveis de mercadorias e automóveis de utilização mista com peso bruto superior a 2500 kg, afectos ao transporte particular de mercadorias, ao transporte por conta própria, ou ao aluguer sem condutor que possua essas finalidades;
 
