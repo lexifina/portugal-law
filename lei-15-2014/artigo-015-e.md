@@ -1,6 +1,6 @@
 # Artigo 15.º-E
 
-### Prestação de cuidados para a elaboração e implementação do plano de nascimento
+### Prestação de cuidados para a elaboração do plano de nascimento
 
 1 - Os serviços de saúde que acompanhem mulheres grávidas ou casais garantem o seu direito a um plano de nascimento, salvo se os mesmos declararem expressamente que não pretendem ter um plano de nascimento.
 
@@ -15,5 +15,3 @@
 6 - A mulher grávida pode a todo o tempo, inclusive durante o trabalho de parto, modificar as preferências manifestadas previamente no plano de nascimento.
 
 7 - Para efeitos do disposto nos números anteriores, a DGS deve definir, através de orientações e normas técnicas, o conteúdo orientador do modelo do plano de nascimento, garantindo-se progressivamente a desmaterialização dos suportes nesta matéria.
-
-8 - Os desvios em relação ao plano de nascimento são obrigatoriamente registados e justificados pelos profissionais de saúde.
