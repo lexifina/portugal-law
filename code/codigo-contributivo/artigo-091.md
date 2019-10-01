@@ -10,4 +10,4 @@
 
 4 - A taxa contributiva relativa aos pensionistas de velhice em exercício de funções públicas é de 25,3 %, sendo, respetivamente, de 17,5 % e 7,8 % para as entidades empregadoras e para os trabalhadores.
 
-5 - À taxa contributiva a cargo das entidades empregadoras dos pensionistas em actividade não se aplica o disposto no artigo 55.º
+5 - (Revogado).
