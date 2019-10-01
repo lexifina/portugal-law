@@ -1,0 +1,13 @@
+Aviso n.º 92/2019
+Sumário: O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Nicarágua comunicado a sua autoridade em conformidade com o artigo 63.º à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+Por ordem superior se torna público que, por notificação de 17 de abril de 2019, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Nicarágua, comunicado a sua autoridade em conformidade com o artigo 63.º, à Convenção Relativa à Competência, à Lei Aplicável, ao Reconhecimento, à Execução e à Cooperação em Matéria de Responsabilidade Parental e de Medidas de Proteção das Crianças, adotada na Haia, em 19 de outubro de 1996.
+(tradução)
+Autoridade
+Nicarágua - 16-04-2019
+Autoridade Central:
+Ministério da Família, da Adolescência e da Infância
+A República Portuguesa é Parte na Convenção, a qual foi aprovada pelo Decreto n.º 52/2008, publicado no Diário da República, 1.ª série, n.º 221, de 13 de novembro de 2008.
+Nos termos da alínea a) do n.º 2 do artigo 61.º da Convenção, esta encontra-se em vigor para a República Portuguesa desde 1 de agosto de 2011.
+A Autoridade Central é a Direção-Geral de Reinserção e Serviços Prisionais do Ministério da Justiça que, nos termos do artigo 34.º, do Decreto-Lei n.º 215/2012, publicado no Diário da República n.º 189, 1.ª série, de 28 de setembro de 2012, sucedeu nas competências à Direção-Geral de Reinserção Social do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 5 de setembro de 2019. - A Diretora, Susana Vaz Patto.
+112571057
