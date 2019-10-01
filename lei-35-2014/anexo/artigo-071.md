@@ -10,7 +10,7 @@ b) Pagar pontualmente a remuneração, que deve ser justa e adequada ao trabalho
 
 c) Proporcionar boas condições de trabalho, tanto do ponto de vista físico como moral;
 
-d) Contribuir para a elevação do nível de produtividade do trabalhador, nomeadamente proporcionando-lhe formação profissional;
+d) Contribuir para a elevação do nível de produtividade do trabalhador, nomeadamente proporcionando-lhe formação profissional, incluindo a que seja obrigatória à manutenção ou renovação dos títulos profissionais exigidos por lei para o desempenho da respetiva atividade profissional;
 
 e) Respeitar a autonomia técnica do trabalhador que exerça atividades cuja regulamentação ou deontologia profissional a exija;
 
@@ -26,4 +26,4 @@ j) Manter permanentemente atualizado o registo do pessoal em cada um dos seus ó
 
 k) Adotar códigos de boa conduta para a prevenção e combate ao assédio no trabalho e instaurar procedimento disciplinar sempre que tiver conhecimento de alegadas situações de assédio no trabalho.
 
-2 - O empregador público deve proporcionar ao trabalhador ações de formação profissional adequadas à sua qualificação, nos termos de legislação especial.
+2 - O empregador público deve proporcionar ao trabalhador ações de formação profissional adequadas à sua qualificação e necessidades socioprofissionais, a definir em legislação especial.

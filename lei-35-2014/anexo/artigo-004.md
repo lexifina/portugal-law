@@ -38,4 +38,4 @@ m) Greve e lock-out.
 
 5 - O regime do Código do Trabalho e legislação complementar, em matéria de acidentes de trabalho e doenças profissionais, é aplicável aos trabalhadores que exercem funções públicas nas entidades referidas nas alíneas b) e c) do n.º 1 do artigo 2.º
 
-6 - Para efeitos de fiscalização do cumprimento da legislação relativa à segurança e saúde no trabalho é aplicável o regime das contraordenações laborais previsto no Código do Trabalho e legislação complementar, com as adaptações a fixar em diploma próprio.
+6 - Para efeitos de fiscalização do cumprimento da legislação relativa à segurança e saúde no trabalho, é aplicável o regime das contraordenações laborais previsto no Código do Trabalho e legislação complementar, com as adaptações constantes do título IV da parte I da presente lei.
