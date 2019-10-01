@@ -18,11 +18,11 @@ d) Conter uma declaração do sujeito passivo sobre o cumprimento do dever de co
 
 e) Fornecer os elementos necessários, nos termos do disposto no n.º 12 do artigo 6.º do Decreto-Lei n.º 61/2013, de 10 maio, na sua redação atual, para, sendo esse o caso, a Autoridade Tributária e Aduaneira assegurar a troca obrigatória e automática de informações ao abrigo da cooperação administrativa entre autoridades competentes dos Estados-Membros da União Europeia ou com outras jurisdições.
 
-4 - O acordo alcançado entre a Autoridade Tributária e Aduaneira e as autoridades competentes de outros países, quando for o caso, é reduzido a escrito e notificado ao sujeito passivo e demais entidades abrangidas, para efeito de manifestarem, por escrito, a sua aceitação.
+4 - O acordo alcançado entre a Autoridade Tributária e Aduaneira e as autoridades competentes de outros países, quando for o caso, é reduzido a escrito e os respetivos termos são comunicados ao sujeito passivo, para efeito de manifestar, por escrito, a sua aceitação.
 
-5 - O acordo é confidencial e as informações transmitidas pelo sujeito passivo no processo de negociação estão protegidas pelo dever de sigilo fiscal.
+5 - O acordo é confidencial e as informações transmitidas pelo sujeito passivo no processo de negociação estão protegidas pelo dever de sigilo fiscal, sem prejuízo das obrigações em matéria de troca de informação para efeitos fiscais a que o Estado português se encontre vinculado.
 
-6 - Os elementos contidos no acordo devem indicar designadamente o método ou os métodos aceites, as operações abrangidas, os pressupostos de base, as condições de revisão, revogação e de prorrogação e o prazo de vigência, que não pode ultrapassar três anos.
+6 - O acordo deve conter, designadamente, o método ou os métodos adotados, as operações abrangidas, os pressupostos de base, as condições de revisão, revogação e de prorrogação e o prazo de vigência, que não pode ultrapassar quatro anos.
 
 7 - Não havendo alterações na legislação aplicável nem variações significativas das circunstâncias económicas e operacionais e demais pressupostos de base que fundamentam os métodos, a Autoridade Tributária e Aduaneira fica vinculada a atuar em conformidade com os termos estabelecidos no acordo.
 

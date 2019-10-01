@@ -29,3 +29,5 @@ j) Subsídios à exploração.
 3 - Não concorre para a formação do lucro tributável do associante, na associação à quota, o rendimento auferido da sua participação social correspondente ao valor da prestação por si devida ao associado.
 
 4 - É ainda considerada como rendimento a diferença positiva entre o montante entregue aos sócios em resultado da redução do capital social e o valor de aquisição das respetivas partes de capital.
+
+5 - É ainda considerado como rendimento o montante da redução, total ou parcial, irrevogável do valor do capital em dívida de obrigações subordinadas ou outros títulos subordinados em que se verifiquem os requisitos previstos no n.º 2 do artigo 24.º

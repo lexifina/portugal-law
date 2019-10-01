@@ -8,9 +8,9 @@
 
 3 - Ao montante apurado nos termos do número anterior deduzem-se os pagamentos por conta calculados nos termos do artigo 105.º, efetuados no período de tributação anterior.
 
-4 - Para efeitos do disposto no n.º 2, o volume de negócios corresponde ao valor das vendas e dos serviços prestados geradores de rendimentos sujeitos e não isentos.
+4 - (Revogado)
 
-5 - No caso dos bancos, empresas de seguros e outras entidades do setor financeiro para as quais esteja prevista a aplicação de planos de contabilidade específicos, o volume de negócios é substituído pelos juros e rendimentos similares e comissões ou pelos prémios brutos emitidos e comissões de contratos de seguro e operações consideradas como contratos de investimento ou contratos de prestação de serviços, consoante a natureza da atividade exercida pelo sujeito passivo.
+5 - (Revogado)
 
 6 - Nos setores de revenda de combustíveis, de tabacos, de veículos sujeitos ao imposto automóvel e de álcool e bebidas alcoólicas podem não ser considerados, no cálculo do pagamento especial por conta, os impostos abaixo indicados, quando incluídos nos rendimentos:
 

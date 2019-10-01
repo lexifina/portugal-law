@@ -6,11 +6,7 @@
 
 2 - Nas situações referidas no número anterior, bem como nos n.os 12 e 16 do artigo 14.º, os beneficiários dos rendimentos devem fazer prova perante a entidade que se encontra obrigada a efetuar a retenção na fonte, até ao termo do prazo estabelecido para a entrega do imposto que deveria ter sido deduzido nos termos das normas legais aplicáveis:
 
-a) Da verificação dos pressupostos que resultem de convenção para evitar a dupla tributação ou de um outro acordo de direito internacional ou ainda da legislação interna aplicável, através da apresentação de formulário de modelo a aprovar por despacho do membro do Governo responsável pela área das finanças:
-
-1) Certificado pelas autoridades competentes do respetivo Estado de residência; ou
-
-2) Acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado;
+a) Da verificação dos pressupostos que resultem de convenção para evitar a dupla tributação ou de um outro acordo de direito internacional ou ainda da legislação interna aplicável, através da apresentação de formulário de modelo a aprovar por despacho do membro do Governo responsável pela área das finanças, acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado;
 
 b) Da verificação das condições e do cumprimento dos requisitos estabelecidos no n.º 13 do artigo 14.º, através de formulário de modelo a aprovar pelo membro do Governo responsável pela área das finanças que contenha os seguintes elementos:
 
@@ -38,11 +34,7 @@ b) Um ano, nas demais situações, devendo a entidade beneficiária dos rendimen
 
 6 - Sem prejuízo da responsabilidade contraordenacional, a responsabilidade estabelecida no número anterior pode ser afastada sempre que o substituto tributário comprove com o documento a que se refere o n.º 2 do presente artigo e os n.os 3 e seguintes do artigo 14.º, consoante o caso, a verificação dos pressupostos para a dispensa total ou parcial de retenção.
 
-7 - As entidades beneficiárias dos rendimentos que verifiquem as condições referidas nos n.os 1 e 2 do presente artigo e nos n.os 3 e seguintes do artigo 14.º, quando não tenha sido efetuada a prova nos prazos e nas condições estabelecidas, podem solicitar o reembolso total ou parcial do imposto que tenha sido retido na fonte, no prazo de dois anos contados a partir do termo do ano em que se verificou o facto gerador do imposto, mediante a apresentação de um formulário de modelo, a aprovar por despacho do membro do Governo responsável pela área das finanças, que seja:
-
-a) Certificado pelas autoridades competentes do respetivo Estado de residência; ou
-
-b) Acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência, que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado;
+7 - As entidades beneficiárias dos rendimentos que verifiquem as condições referidas nos n.os 1 e 2 do presente artigo e nos n.os 3 e seguintes do artigo 14.º, quando não tenha sido efetuada a prova nos prazos e nas condições estabelecidas, podem solicitar o reembolso total ou parcial do imposto que tenha sido retido na fonte, no prazo de dois anos contados a partir do termo do ano em que se verificou o facto gerador do imposto, mediante a apresentação de um formulário de modelo a aprovar por despacho do membro do Governo responsável pela área das finanças, que seja acompanhado de documento emitido pelas autoridades competentes do respetivo Estado de residência, que ateste a sua residência para efeitos fiscais no período em causa e a sujeição a imposto sobre o rendimento nesse Estado.
 
 8 - O formulário previsto no número anterior deve, quando necessário, ser acompanhado de outros elementos que permitam aferir da legitimidade do reembolso.
 
