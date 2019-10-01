@@ -18,6 +18,6 @@ f) A designação do tipo de produto;
 
 g) A mensagem com o aviso de saúde, nos termos da legislação aplicável.
 
-2 - Nas embalagens destinadas a exportação ou a provisões de bordo é dispensada a indicação do preço de venda ao público, devendo constar nessas embalagens, em local perfeitamente visível, a referência «exportação», salvo nas situações devidamente fundamentadas e autorizadas pelo director da alfândega.
+2 - Nas embalagens destinadas a exportação ou a provisões de bordo é dispensada a indicação do preço de venda ao público.
 
-3 - O fabricante tem a faculdade de fazer constar das embalagens, pacotes e volumes o código de barras do produto.
+3 - (Revogado.)

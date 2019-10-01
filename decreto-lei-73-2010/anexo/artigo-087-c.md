@@ -14,8 +14,8 @@ c) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo te
 
 d) As bebidas previstas nas alíneas a) e b) do n.º 1 do artigo 87.º-A cujo teor de açúcar seja igual ou superior a 80 gramas por litro: 20 (euro) por hectolitro;
 
-e) Aos concentrados previstos na alínea c) do n.º 1 do artigo 87.º-A, consoante se trate, respetivamente, de produtos enquadráveis nas alíneas a) e b):
+e) Concentrados previstos na alínea c) do n.º 1 do artigo 87.º-A:
 
-i) Na forma líquida, (euro) 50,01/hl e (euro) 100,14/hl;
+i) Na forma líquida: (euro) 6/hl, (euro) 36/hl, (euro) 48/hl ou (euro) 120/hl, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior 50 gramas por litro, ou igual ou superior a 80 gramas por litro;
 
-ii) Apresentado sob a forma de pó, grânulos ou outras formas sólidas, (euro) 83,35 e (euro) 166,90 por 100 quilogramas de peso líquido.
+ii) Apresentados sob a forma de pó, grânulos ou outras formas sólidas: (euro) 10/hl, (euro) 60/hl, (euro) 80/hl e (euro) 200/hl por 100 quilogramas de peso líquido, consoante o teor de açúcar seja, respetivamente, inferior a 25 gramas por litro, inferior a 50 gramas por litro e igual ou superior 25 gramas por litro, inferior a 80 gramas por litro e igual ou superior 50 gramas por litro, ou igual ou superior a 80 gramas por litro.

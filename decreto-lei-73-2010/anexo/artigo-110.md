@@ -1,10 +1,10 @@
 # Artigo 110.º
 
-### Sistema de selagem
+### Marcação das embalagens
 
-1 - As embalagens de venda ao público de tabaco manufacturado para consumo no território nacional devem ter aposta, antes da sua introdução no consumo e de modo a não permitir a reutilização, uma estampilha especial, cujo modelo e forma de aposição são regulamentados por portaria do membro do Governo responsável pela área das finanças.
+1 - As embalagens de venda ao público de tabaco manufaturado para consumo no território nacional devem ter aposta, antes da sua introdução no consumo, uma estampilha especial, cujo modelo, forma de aposição e controlo são regulamentados por portaria do membro do Governo responsável pela área das finanças, a qual é utilizada como elemento de segurança, sendo complementada por um identificador único, sempre que exigível, nos termos da legislação aplicável.
 
-2 - As formalidades a observar para a requisição, fornecimento e controlo das estampilhas especiais são regulamentadas por portaria do membro do Governo responsável pela área das finanças.
+2 - As formalidades a observar para a requisição e o fornecimento das estampilhas especiais e do identificador único, bem como os correspondentes preços unitários, são determinados por portaria do membro do Governo responsável pela área das finanças.
 
 3 - As embalagens de tabaco manufacturado para venda ao público devem ostentar a estampilha especial com as características definidas para o ano da respectiva comercialização, sendo proibida a comercialização de produtos que ostentem estampilhas diferentes, salvo nas situações e nos períodos consagrados na portaria prevista no número anterior.
 
