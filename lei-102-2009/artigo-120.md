@@ -1,0 +1,17 @@
+# Artigo 120.º
+
+### Norma revogatória
+
+1 - Sem prejuízo do disposto nos números seguintes, são revogados:
+
+a) O Decreto-Lei n.º 441/91, de 14 de Novembro;
+
+b) O Decreto-Lei n.º 26/94, de 1 de Fevereiro;
+
+c) O Decreto-Lei n.º 29/2002, de 14 de Fevereiro;
+
+d) A Portaria n.º 1179/95, de 26 de Setembro.
+
+2 - A revogação da Portaria n.º 1179/95, de 26 de Setembro, que aprovou o modelo de notificação da modalidade adoptada pelo empregador para a organização do serviço de segurança e de saúde no trabalho, produz efeitos a partir da entrada em vigor da portaria a que se refere o artigo 113.º
+
+3 - Revogado.
