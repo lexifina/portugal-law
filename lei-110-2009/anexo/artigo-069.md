@@ -6,4 +6,4 @@
 
 2 - A taxa contributiva relativa aos membros das pessoas coletivas que exerçam funções de gerência ou de administração é de 34,75 %, sendo, respetivamente, de 23,75 % e de 11 % para as entidades empregadoras e para os trabalhadores.
 
-3 - À taxa contributiva a cargo das entidades empregadoras dos membros dos órgãos estatutários não se aplica o disposto no artigo 55.º
+3 - (Revogado).

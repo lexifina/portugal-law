@@ -22,4 +22,8 @@ d) Contratos de aquisição, total ou parcial, do capital social de uma empresa 
 
 6 - Sem prejuízo das competências próprias das instituições de segurança social nas Regiões Autónomas, a autorização a que se refere o n.º 1 do presente artigo é concedida por deliberação do conselho directivo do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.)
 
-7 - Sem prejuízo do previsto no número anterior, quando sejam previstas por resolução de Conselho de Ministros medidas de revitalização económica e recuperação e viabilização empresariais, pode o Instituto da Segurança Social, I. P. (ISS, I. P.), no âmbito da sua atribuição de assegurar o cumprimento das obrigações contributivas, celebrar acordos de regularização voluntária de dívida, nos termos definidos em decreto-lei.
+7 - Sem prejuízo do previsto no número anterior, o Instituto da Segurança Social, I. P. (ISS, I. P.), no âmbito da sua atribuição de assegurar o cumprimento das obrigações contributivas, pode celebrar acordos de regularização voluntária de dívida, nos termos definidos em decreto-lei, nos seguintes casos:
+
+a) Quando a dívida se reporte a períodos limitados e não se encontre participada para efeitos de execução fiscal;
+
+b) Nas situações de apuramento de contribuição de liquidação anual, quando o contribuinte, pela sua situação económica, não tenha capacidade de efetuar o pagamento de uma só vez.

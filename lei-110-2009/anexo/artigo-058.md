@@ -6,4 +6,4 @@
 
 2 - A coexistência de situações determinantes da redução das taxas contributivas respeitantes a um trabalhador não pode dar lugar à respectiva aplicação cumulativa, devendo ser-lhe oficiosamente aplicada a taxa mais favorável.
 
-3 - A taxa que se apresente mais favorável para a entidade empregadora é cumulável com a redução prevista no n.º 1 do artigo 55.º
+3 - (Revogado).

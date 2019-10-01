@@ -6,4 +6,4 @@
 
 2 - A taxa contributiva relativa aos trabalhadores em situação de pré-reforma com o âmbito de protecção previsto no n.º 2 do artigo 86.º é de 26,9 %, sendo, respectivamente, de 18,3 % e de 8,6 % para as entidades empregadoras e para os trabalhadores.
 
-3 - À taxa contributiva a cargo das entidades empregadoras dos trabalhadores em situação de pré-reforma nos termos previstos no n.º 2 do artigo 86.º não se aplica o disposto no artigo 55.º
+3 - (Revogado).
