@@ -1,0 +1,8 @@
+Aviso n.º 15411/2019
+Sumário: 2.ª alteração ao Regulamento de Apoios ao Desenvolvimento Cultural, Social, Recreativo e Desportivo ao Associativismo do Concelho de Sever do Vouga.
+António José Martins Coutinho, Presidente da Câmara Municipal de Sever do Vouga, dando cumprimento ao estipulado na alínea b), do n.º 1, do artigo 35.º, do anexo I, à Lei n.º 75/2013, de 12 de setembro, torna público que foi aprovada na reunião da Câmara Municipal do dia 28 de agosto deste ano, o projeto da 2.ª alteração ao "Regulamento de Apoios ao Desenvolvimento Cultural, Social, Recreativo e Desportivo ao Associativismo do Concelho de Sever do Vouga", precedido que foi da fase de início de procedimento e participação procedimental.
+Assim, dando-se cumprimento ao artigo n.º 101 do Código de Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, submete-se o projeto da 2.ª alteração ao Regulamento a consulta pública, para recolha de sugestões, procedendo-se à publicação do presente aviso no Diário da República, 2.ª série, na Internet, no sítio institucional deste Município, no átrio do Município e nos locais de estilo das juntas de freguesia, podendo o projeto de Regulamento ser consultado no Serviço Administrativo deste Município.
+Nos termos do n.º 2 do referido artigo, os interessados devem dirigir, por escrito, as suas sugestões ao Sr. Presidente da Câmara, no prazo de 30 dias, a contar da publicação deste edital no Diário da República, 2.ª série.
+Para que conste e demais efeitos, lavrou-se o presente edital e outros de igual teor que serão publicitados.
+3 de setembro de 2019. - O Presidente, Dr. António José Martins Coutinho.
+312560932
