@@ -18,7 +18,7 @@ g) Divisão de Trânsito de Lisboa, que integra as seguintes subunidades operaci
 
 h) Divisão de Investigação Criminal de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal, 2.ª Esquadra de Investigação Criminal, 3.ª Esquadra de Investigação Criminal, 4.ª Esquadra de Investigação Criminal, 5.ª Esquadra de Investigação Criminal, 6.ª Esquadra de Investigação Criminal, 7.ª Esquadra de Investigação Criminal e 8.ª Esquadra de Investigação Criminal.
 
-i) Divisão de Segurança Aeroportuária de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Comando da Divisão, Esquadra de Intervenção e Fiscalização Policial, Esquadra de Segurança Aeroportuária de Lisboa, Esquadra de Trânsito e Esquadra de Investigação Criminal.
+i) Divisão de Segurança Aeroportuária de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Comando da Divisão, Esquadra de Intervenção e Fiscalização Policial, Esquadra de Segurança Aeroportuária de Lisboa, Esquadra de Segurança Aeroportuária de Cascais, Esquadra de Trânsito e Esquadra de Investigação Criminal.
 
 j) Divisão de Segurança a Instalações de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Segurança às Instalações Diplomáticas, 2.ª Esquadra de Segurança às Instalações Diplomáticas, 3.ª Esquadra de Segurança às Instalações Diplomáticas, Esquadra de Segurança e Controlo, Esquadra de Segurança à Assembleia da República, Esquadra de Segurança à Casa da Moeda, Esquadra de Segurança à Presidência do Conselho de Ministros, Esquadra de Segurança à Presidência da República e Esquadra de Segurança à Residência Oficial do Primeiro-Ministro.
 

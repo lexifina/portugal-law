@@ -8,9 +8,7 @@ b) Divisão Policial de Espinho, que integra as seguintes subunidades operaciona
 
 Comando Distrital de Beja
 
-Esquadra de Beja, Esquadra de Moura, Esquadra de Trânsito de Beja, Esquadra de Investigação Criminal de Beja e Esquadra de Intervenção e Fiscalização Policial de Beja.
-
-Comando Distrital de Braga
+Esquadra de Beja, Esquadra de Moura, Esquadra de Trânsito de Beja, Esquadra de Investigação Criminal de Beja, Esquadra de Intervenção e Fiscalização Policial de Beja e Esquadra de Segurança Aeroportuária de Beja.
 
 a) Divisão Policial de Braga, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Braga, 2.ª Esquadra de Braga, Esquadra de Barcelos, Esquadra de Trânsito de Braga, Esquadra de Investigação Criminal de Braga e Esquadra de Intervenção e Fiscalização Policial de Braga.
 
