@@ -1,0 +1,217 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gMO7msGML9i7Qx3JoSkHIZF6D2waoE72QESMjz%2bC%2bIfDAmogdNi4%2bUaO5whoHSgjirXPmycI7um%2feJ6PLIoL6N93szouTmdD6W%2bLN2te8DPAyhj3qbjVhaAnrLOvBZyUlhnOcMLQnpfFqqWUTVT8Hm2xYJ7JKZho6X5APlkXNLbX753xnvmWgwhN6QwOae38h6XNkq71v5neLuVh7IZSwKeggfxK7UfoqMYnj92Y5vXRoQ6B%2f5hUvRIZXoSU7FqovEiWwhV6QVcsyfhldrp7KpXF6UFOEOZX4kGGaj7EOM3InaCa5xQe4E%2fDJDW4%2bkI%2fz3zN7X1detUcT130har2u9sRDUasbK9BQu9los0BBjY%3d&fich=PeticoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "103d90870bf60d8b50b88ed8cb18fd7f55fe8d681e2a2834e101e6f1d8ddceef",
+  "legislatura": "XIII",
+  "id": "13347",
+  "numero": "655",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-10-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2019-12-12",
+            "entidades": null,
+            "id": "114029",
+            "tipo": null,
+            "titulo": "Audição em 2019-12-12 com FEVICCOM, Federação Portuguesa dos Sindicatos da Construção, Cerâmica e Vidro"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2019-11-29",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "13/CTSS/2019",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-15",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "910505",
+                "obs": null,
+                "pag": [
+                  "8-12"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/051/2020-07-18/8?pgs=8-12&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2019-11-27",
+        "DataArquivo": "2020-07-15",
+        "DataBaixaComissao": "2019-11-14",
+        "DataEnvioPAR": "2020-07-16",
+        "DataReaberta": "2019-11-27",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2019-12-02",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396c4d4459784e6a646c4d69307a4f444d7a4c54526b4d7a4d74596a63784d4330344f5755345a5451334d7a4a6a4e474d756347526d&fich=e06167e2-3833-4d33-b710-89e8e4732c4c.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2019-12-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939694e475a684f57517a4d79316b4e5468694c545134597a4974596a45324e79307a4e7a6b314e574e695a544a6c4d3255756347526d&fich=b4fa9d33-d58b-48c2-b167-37955cbe2e3e.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396d4d6a59344e6d466b4f53307a4e444a684c5451314d3251744f4745785a5330784f54686959324e6d4e4451794f4441756347526d&fich=f2686ad9-342a-453d-8a1e-198bccf44280.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2019-11-27",
+            "gp": "PSD",
+            "id": "4147",
+            "motivoCessacao": null,
+            "nome": "Carla Barros"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da XIII Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2019-11-14",
+        "DataBaixaComissao": "2019-10-24",
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4533",
+        "Legislatura": "XIII",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Trabalho e Segurança Social da XIV Legislatura."
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2019-10-25",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774d544e6c5a6d597a596930784d32526c4c5452694d4745744f5759794e69316a5a444e6b4e4756695954686c4d546b756347526d&fich=013eff3b-13de-4b0a-9f26-cd3d4eba8e19.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13347",
+    "PetAssunto": "Pela antecipação da idade de reforma dos trabalhadores por turnos",
+    "PetDataEntrada": "2019-10-03",
+    "PeticoesAssociadas": null,
+    "PetId": "13347",
+    "PetLeg": "XIII",
+    "PetNr": "655",
+    "PetNrAssinaturas": "2858",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "882509",
+        "obs": null,
+        "pag": [
+          "22-23"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-11-29",
+        "pubLeg": "XIV",
+        "pubNr": "7",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/007/2019-11-29/22?pgs=22-23&org=PLC"
+      }
+    ]
+  }
+}
