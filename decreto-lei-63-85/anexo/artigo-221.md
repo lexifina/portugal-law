@@ -2,7 +2,7 @@
 
 ### Limitações à protecção das medidas tecnológicas
 
-1 - As medidas eficazes de caráter tecnológico não podem constituir um obstáculo ao exercício normal pelos beneficiários das utilizações livres previstas no n.º 2 do artigo 75.º, no artigo 81.º, no n.º 4 do artigo 152.º e no n.º 1 do artigo 189.º
+1 - As medidas eficazes de caráter tecnológico não podem constituir um obstáculo ao exercício normal pelos beneficiários das utilizações livres e permitidas, previstas no n.º 2 do artigo 75.º, no artigo 81.º, no artigo 82.º-B, no n.º 4 do artigo 152.º e no n.º 1 do artigo 189.º
 
 2 - Está interdita a aplicação de medidas eficazes de caráter tecnológico a obras no domínio público, a novas edições de obras no domínio público e a obras editadas por entidades públicas ou com financiamento público.
 
