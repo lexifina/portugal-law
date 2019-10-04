@@ -1,0 +1,6 @@
+Aviso n.º 15671/2019
+Sumário: Consulta pública do Regulamento Académico da Universidade do Minho.
+Por despacho reitoral de 18 de setembro de 2019, torna-se público que, nos termos e em cumprimento do previsto no artigo 100.º, n.º 3, alínea c), e artigo 101.º, ambos do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e do artigo 110.º, n.º 3, da Lei n.º 62/2007, de 10 de setembro (Regime Jurídico das Instituições do Ensino Superior), é submetido a consulta pública o Regulamento Académico da Universidade do Minho, por um período de 10 dias úteis, face à urgência da sua entrada em vigor e da respetiva publicação no Diário da República.
+Durante o período em apreço, os interessados, a contar da data da publicação do presente Aviso na 2.ª série do Diário da República, poderão consultar o projeto de regulamento, no sítio da Universidade do Minho, através dos endereços https://intranet.uminho.pt e https://alunos.uminho.pt, e dirigir à Vice-Reitora para a Educação da Universidade do Minho os seus comentários e sugestões, para o endereço de correio eletrónico: sec-lleite@reitoria.uminho.pt
+18 de setembro de 2019. - O Reitor, Professor Doutor Rui Manuel Costa Vieira de Castro.
+312595293
