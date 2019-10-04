@@ -1,0 +1,20 @@
+Aviso n.º 15694/2019
+Sumário: Revisão do Plano Diretor Municipal de Barcelos.
+2.ª Revisão do Plano Diretor Municipal de Barcelos
+Miguel Jorge da Costa Gomes, Presidente da Câmara Municipal de Barcelos, torna público, que sob proposta da Câmara Municipal, nos termos do estabelecido no artigo 76.º do Decreto-Lei n.º 80/2015, de 14 de maio (Regime Jurídico dos Instrumentos de Gestão Territorial - RJIGT), a Câmara Municipal de Barcelos, em reunião ordinária de 12 de julho de 2019, deliberou proceder à abertura do procedimento de Revisão do Plano Diretor Municipal de Barcelos.
+De acordo com o estabelecido no n.º 2, do artigo 88.º, do RJIGT, a deliberação do executivo no presente procedimento inclui a abertura de um período de participação pública de 15 dias úteis para a formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no procedimento, o qual tem início no dia seguinte à publicação do aviso no Diário da República.
+A documentação relativa à abertura do presente procedimento de Revisão do PDM de Barcelos, encontrar-se-á disponível para consulta dos interessados na página da internet do Município, em www.cm-barcelos.pt.
+No decorrer do período de participação os interessados poderão formular por escrito sugestões, em formulário próprio disponível na página da internet do Município (www.cm-barcelos.pt), dirigidas ao Presidente da Câmara enviadas para Largo do Município, 4750-323 Barcelos, ou entregues diretamente no Balcão Único, ou ainda por correio eletrónico para revisãopdm@cm-barcelos.pt.
+12 de agosto de 2019. - O Presidente da Câmara Municipal, Miguel Jorge da Costa Gomes.
+Proposta n.º 55. Revisão do Plano Diretor Municipal de Barcelos. [Registo n.º 40.156|19]
+Considerando que o Município de Barcelos, na senda do que é preconizado, a nível legislativo, pretende proceder à revisão da sua política de solos, quer ao nível do planeamento quer da sua gestão.
+A iniciativa da concretização de um procedimento de revisão, decorre da necessidade de adequação do Plano às alterações verificadas no quadro legislativo do ordenamento do território, com a publicação da Lei de Bases Gerais da Política Pública de Solos, de Ordenamento do Território e de Urbanismo e do Regime Jurídico dos Instrumentos de Gestão Territorial.
+Tendo em conta que o PDM de Barcelos foi publicado a 13 de julho de 2015, enquadrado no período transitório previsto no Decreto-Lei n.º 80/2015, de 14 de maio (RJIGT), impõe-se iniciar um procedimento de revisão das opções estratégicas em matéria de planeamento e gestão do território.
+Nessa medida, urge promover o citado procedimento de revisão, cuja fundamentação, nos termos do artigo 202.º, do RJIGT, se encontra vertida no Relatório de avaliação em anexo à presente proposta e à informação da equipa de trabalho do PDM, que dela fazem parte integrante.
+Assim, e nos termos do consignado nos artigos 76.º, 119.º e 124.º, do Decreto-Lei n.º 80/2015, de 14/05, e na alínea k), do n.º 1, do artigo 33.º, do Anexo I, da Lei n.º 75/2013, de 12 de setembro, proponho que, em sessão pública, a Exma. Câmara Municipal delibere ordenar:
+A elaboração da revisão do Plano Diretor Municipal de Barcelos, nos termos da informação do Grupo de Trabalho do PDM que faz parte da presente Proposta, no prazo máximo de 12 meses;
+A abertura de um período de participação pública, pelo período de 15 dias úteis, para a formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no procedimento;
+A publicação da decisão de revisão do PDM, no Diário da República, e bem assim, a sua divulgação nos termos do n.º 1, do artigo 76.º, do RJIGT.
+Baixar o processo ao Grupo de Trabalho do PDM, bem como, comunicar junto da CCDRN a deliberação de revisão, para efeitos da nomeação da comissão consultiva de acompanhamento, à luz do previsto nos artigos 83.º e 119.º do RJIGT.
+Barcelos, 9 de julho de 2019. - A Presidente da Câmara, em exercício de funções, Armandina Saleiro, Dr.ª
+612593098
