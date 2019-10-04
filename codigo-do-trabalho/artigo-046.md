@@ -10,6 +10,6 @@
 
 4 - Para efeito dos números anteriores, a preparação para o parto é equiparada a consulta pré-natal.
 
-5 - O pai tem direito a três dispensas do trabalho para acompanhar a trabalhadora às consultas pré-natais.
+5 - O pai tem direito a três dispensas do trabalho para acompanhar a grávida às consultas pré-natais.
 
 6 - Constitui contra-ordenação grave a violação do disposto neste artigo.

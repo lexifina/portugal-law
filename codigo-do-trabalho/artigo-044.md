@@ -2,11 +2,11 @@
 
 ### Licença por adopção
 
-1 - Em caso de adopção de menor de 15 anos, o candidato a adoptante tem direito à licença referida nos n.os 1 ou 2 do artigo 40.º
+1 - Em caso de adoção de menor de 15 anos, o candidato a adotante tem direito à licença referida nos n.os 1 a 3 do artigo 40.º
 
 2 - No caso de adopções múltiplas, o período de licença referido no número anterior é acrescido de 30 dias por cada adopção além da primeira.
 
-3 - Havendo dois candidatos a adoptantes, a licença deve ser gozada nos termos dos n.os 1 e 2 do artigo 40.º
+3 - Havendo dois candidatos a adotantes, a licença deve ser gozada nos termos dos n.os 1 a 3 do artigo 40.º
 
 4 - O candidato a adoptante não tem direito a licença em caso de adopção de filho do cônjuge ou de pessoa com quem viva em união de facto.
 

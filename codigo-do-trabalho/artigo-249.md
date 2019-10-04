@@ -16,14 +16,16 @@ d) A motivada por impossibilidade de prestar trabalho devido a facto não imput�
 
 e) A motivada pela prestação de assistência inadiável e imprescindível a filho, a neto ou a membro do agregado familiar de trabalhador, nos termos dos artigos 49.º, 50.º ou 252.º, respectivamente;
 
-f) A motivada por deslocação a estabelecimento de ensino de responsável pela educação de menor por motivo da situação educativa deste, pelo tempo estritamente necessário, até quatro horas por trimestre, por cada um;
+f) A motivada pelo acompanhamento de grávida que se desloque a unidade hospitalar localizada fora da ilha de residência para realização de parto.
 
-g) A de trabalhador eleito para estrutura de representação colectiva dos trabalhadores, nos termos do artigo 409.º;
+g) A motivada por deslocação a estabelecimento de ensino de responsável pela educação de menor por motivo da situação educativa deste, pelo tempo estritamente necessário, até quatro horas por trimestre, por cada um;
 
-h) A de candidato a cargo público, nos termos da correspondente lei eleitoral;
+h) A de trabalhador eleito para estrutura de representação colectiva dos trabalhadores, nos termos do artigo 409.º;
 
-i) A autorizada ou aprovada pelo empregador;
+i) A de candidato a cargo público, nos termos da correspondente lei eleitoral;
 
-j) A que por lei seja como tal considerada.
+j) A autorizada ou aprovada pelo empregador;
+
+k) A que por lei seja como tal considerada.
 
 3 - É considerada injustificada qualquer falta não prevista no número anterior.

@@ -12,7 +12,7 @@ b) Por motivo de acidente no trabalho, desde que o trabalhador tenha direito a q
 
 c) A prevista no artigo 252.º;
 
-d) As previstas na alínea j) do n.º 2 do artigo 249.º quando excedam 30 dias por ano;
+d) As previstas nas alíneas f) e k) do n.º 2 do artigo 249.º quando excedam 30 dias por ano;
 
 e) A autorizada ou aprovada pelo empregador.
 
