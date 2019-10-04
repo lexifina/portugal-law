@@ -6,19 +6,23 @@
 
 a) Subsídio de risco clínico durante a gravidez;
 
-b) Subsídio por interrupção da gravidez;
+b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida para realização de parto;
 
-c) Subsídio por adopção;
+c) Subsídio por interrupção da gravidez;
 
-d) Subsídio parental, inicial ou alargado;
+d) Subsídio por adopção;
 
-e) Subsídio por risco específico;
+e) Subsídio parental, inicial ou alargado;
 
-f) Subsídio por assistência a filho em caso de doença ou acidente;
+f) Subsídio por risco específico;
 
-g) Subsídio para assistência a neto;
+g) Subsídio por assistência a filho em caso de doença ou acidente;
 
-h) Subsídio para assistência a filho com deficiência ou doença crónica.
+h) Subsídio para assistência a neto;
+
+i) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica;
+
+j) Subsídio específico por internamento hospitalar do recém-nascido.
 
 2 - O subsídio parental inicial compreende as seguintes modalidades:
 

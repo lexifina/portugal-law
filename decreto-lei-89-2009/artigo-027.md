@@ -10,10 +10,12 @@
 
 a) Subsídio por risco clínico durante a gravidez;
 
-b) Subsídio por interrupção da gravidez;
+b) Subsídio por necessidade de deslocação a unidade hospitalar fora da ilha de residência da grávida;
 
-c) Subsídio por parentalidade inicial;
+c) Subsídio por interrupção da gravidez;
 
-d) Subsídio por adopção.
+d) Subsídio por parentalidade inicial;
+
+e) Subsídio por adopção.
 
 2 - A atribuição dos subsídios referidos no número anterior determina a suspensão do pagamento das prestações de desemprego, durante o período de duração daqueles subsídios, nos termos do respectivo regime jurídico.

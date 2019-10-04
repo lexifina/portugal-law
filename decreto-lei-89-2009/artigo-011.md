@@ -8,12 +8,18 @@
 
 3 - No caso de nascimentos múltiplos, aos períodos previstos nos números anteriores acrescem 30 dias consecutivos por cada gémeo além do primeiro.
 
-4 - A atribuição do subsídio parental inicial depende de declaração dos beneficiários dos períodos a gozar, de modo exclusivo ou partilhado.
+4 - No caso de internamento hospitalar da criança imediatamente após o período recomendado de internamento pós-parto, devido a necessidade de cuidados médicos especiais para a criança, aos períodos previstos nos números anteriores acresce o período de internamento, com o limite máximo de 30 dias.
 
-5 - No caso em que não seja apresentada declaração de partilha da licença parental inicial e sem prejuízo dos direitos da mãe a que se refere o artigo seguinte, há lugar à atribuição do subsídio parental inicial ao progenitor que justifique, perante a entidade empregadora, o gozo da respectiva licença, desde que o outro progenitor exerça actividade profissional e não a tenha gozado.
+5 - Nas situações em que o parto ocorra até às 33 semanas inclusive, aos períodos previstos nos n.os 1, 2 e 3 acresce todo o período de internamento da criança, bem como 30 dias após a alta hospitalar.
 
-6 - Quando o outro progenitor seja trabalhador independente, a justificação a que se refere o número anterior é substituída pela apresentação de certificado de não ter sido requerido o correspondente subsídio, emitido pelas respectivas entidades competentes.
+6 - A atribuição dos acréscimos previstos nos números anteriores depende da apresentação de certificação do estabelecimento hospitalar que comprove o período de internamento.
 
-7 - Caso não seja apresentada declaração de partilha e o pai não justifique o gozo da licença, o direito ao subsídio parental inicial é reconhecido à mãe.
+7 - A atribuição do subsídio parental inicial depende de declaração dos beneficiários dos períodos a gozar, de modo exclusivo ou partilhado.
 
-8 - O subsídio parental inicial pelos períodos de 150, 180 ou o acréscimo de 30 dias por cada gémeo além do primeiro é atribuído apenas no caso de nado-vivo.
+8 - No caso em que não seja apresentada declaração de partilha da licença parental inicial e sem prejuízo dos direitos da mãe a que se refere o artigo seguinte, há lugar à atribuição do subsídio parental inicial ao progenitor que justifique, perante a entidade empregadora, o gozo da respectiva licença, desde que o outro progenitor exerça actividade profissional e não a tenha gozado.
+
+9 - Quando o outro progenitor seja trabalhador independente, a justificação a que se refere o número anterior é substituída pela apresentação de certificado de não ter sido requerido o correspondente subsídio, emitido pelas respectivas entidades competentes.
+
+10 - Caso não seja apresentada declaração de partilha e o pai não justifique o gozo da licença, o direito ao subsídio parental inicial é reconhecido à mãe.
+
+11 - O subsídio parental inicial pelos períodos de 150, 180 ou o acréscimo de 30 dias por cada gémeo além do primeiro é atribuído apenas no caso de nado-vivo.
