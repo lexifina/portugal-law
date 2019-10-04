@@ -17,3 +17,5 @@ b) Quem coligir ou compilar obras publicadas ou inéditas sem a autorização do
 c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonograma, videograma ou emissão radiodifundida, exceder os limites da autorização concedida, salvo nos casos expressamente previstos neste Código.
 
 3 - Será punido com as penas previstas no artigo 197.º o autor que, tendo transmitido, total ou parcialmente, os respectivos direitos ou tendo autorizado a utilização da sua obra por qualquer dos modos previstos neste Código, a utilizar directa ou indirectamente com ofensa dos direitos atribuídos a outrem.
+
+4 - O disposto nos números anteriores não se aplica às situações de comunicação pública de fonogramas e videogramas editados comercialmente, puníveis como ilícito contraordenacional, nos termos dos n.os 3, 4 e 6 a 12 do artigo 205.º

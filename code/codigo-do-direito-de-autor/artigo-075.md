@@ -1,5 +1,9 @@
 ## Capítulo II
 
+## Da utilização livre e permitida
+
+## Secção i
+
 ## Da utilização livre
 
 # Artigo 75.º
@@ -26,7 +30,7 @@ g) A inserção de citações ou resumos de obras alheias, quaisquer que sejam o
 
 h) A inclusão de peças curtas ou fragmentos de obras alheias em obras próprias destinadas ao ensino;
 
-i) A reprodução, a comunicação pública e a colocação à disposição do público a favor de pessoas com deficiência de obra que esteja directamente relacionada e na medida estritamente exigida por essas específicas deficiências e desde que não tenham, directa ou indirectamente, fins lucrativos;
+i) A reprodução, a comunicação pública e a colocação à disposição do público a favor de pessoas com deficiência de obra que esteja diretamente relacionada e na medida estritamente exigida por essas específicas deficiências e desde que não tenham, direta ou indiretamente, fins lucrativos, sem prejuízo do disposto nos artigos 82.º-A, 82.º-B e 82.º-C;
 
 j) A execução e comunicação públicas de hinos ou de cantos patrióticos oficialmente adoptados e de obras de carácter exclusivamente religioso durante os actos de culto ou as práticas religiosas;
 
