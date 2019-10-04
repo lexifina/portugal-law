@@ -6,21 +6,25 @@
 
 a) Subsídio por risco clínico durante a gravidez;
 
-b) Subsídio por interrupção da gravidez;
+b) Subsídio por necessidade de deslocação a unidade hospitalar localizada fora da ilha de residência da grávida, para realização de parto;
 
-c) Subsídio parental;
+c) Subsídio por interrupção da gravidez;
 
-d) Subsídio parental alargado;
+d) Subsídio parental;
 
-e) Subsídio por adopção;
+e) Subsídio parental alargado;
 
-f) Subsídio por riscos específicos;
+f) Subsídio por adopção;
 
-g) Subsídio para assistência a filho;
+g) Subsídio por riscos específicos;
 
-h) Subsídio para assistência a filho com deficiência ou doença crónica;
+h) Subsídio para assistência a filho;
 
-i) Subsídio para assistência a neto.
+i) Subsídio para assistência a filho com deficiência, doença crónica ou doença oncológica;
+
+j) Subsídio para assistência a neto;
+
+k) Subsídio específico por internamento hospitalar do recém-nascido.
 
 2 - A proteção regulada no presente capítulo integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
 
