@@ -1,0 +1,7 @@
+Aviso n.º 96/2019
+Sumário: O presente Protocolo completa o disposto no artigo 8.º do Protocolo entre a República Portuguesa e o Reino de Espanha sobre cooperação técnica e assistência mútua em matéria de proteção civil, de 1992, ampliando, nomeadamente, para vinte e cinco quilómetros o procedimento especial para o primeiro ataque a incêndios florestais.
+Por ordem superior se torna público que, em 11 de abril de 2019 e em 14 de agosto de 2019, foram emitidas notas, respetivamente, pela Embaixada do Reino de Espanha em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridos os respetivos requisitos de direito interno para aprovação do Protocolo Adicional entre a República Portuguesa e o Reino de Espanha sobre ajuda mútua nas zonas fronteiriças, assinado em 21 de novembro de 2018, em Valladolid, e adotado nos termos do artigo 8.º do Protocolo entre a República Portuguesa e o Reino de Espanha sobre cooperação técnica e assistência mútua em matéria de proteção civil, assinado em Évora, em 9 de março de 1992.
+Por parte da República Portuguesa, o Protocolo foi aprovado pelo Decreto n.º 19/2019, de 16 de julho, publicado no Diário da República, 1.ª série, n.º 134, de 16 de julho de 2019.
+Nos termos do artigo 14.º, o Protocolo entrou em vigor a 13 de setembro de 2019.
+Direção-Geral dos Assuntos Europeus, 17 de setembro de 2019. - O Diretor-Geral, Rui Vinhas.
+112593121
