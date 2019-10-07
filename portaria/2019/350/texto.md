@@ -1,0 +1,58 @@
+Portaria n.º 350/2019
+de 7 de outubro
+Sumário: Portaria que regulamenta o sistema de controlo declarativo-contabilístico previsto no artigo 114.º do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, a que estão sujeitos os entrepostos fiscais de produção de produtos do tabaco, estabelecendo as obrigações e os procedimentos a observar pelos operadores económicos.
+O n.º 3 do artigo 114.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, estabelece que os entrepostos fiscais de produção de tabacos manufaturados estão sujeitos a um controlo de natureza declarativo-contabilístico.
+Ao abrigo do referido normativo, a Portaria n.º 1630/2007, de 31 de dezembro, veio regulamentar um sistema de controlo aplicável aos entrepostos fiscais de produção de produtos do tabaco manufaturado situados no território do continente, baseado em tecnologias de informação que se encontram ultrapassadas e que, por esse motivo, urge proceder à sua substituição.
+Por sua vez, os entrepostos fiscais de produção de produtos do tabaco manufaturado situados na Região Autónoma dos Açores e na Região Autónoma da Madeira, ainda se regem pela Portaria n.º 68/94, de 31 de janeiro, que exige um controlo permanente nas respetivas instalações efetuado pelas estâncias aduaneiras competentes.
+Presentemente, este sistema de controlo permanente já não se justifica, impondo-se a sua substituição por um sistema de controlo declarativo-contabilístico, idêntico ao aplicável aos entrepostos fiscais de produção situados no território do continente.
+Neste contexto, o novo sistema de controlo a implementar assenta em obrigações declarativas consentâneas com o atual regime fiscal aplicável aos produtos do tabaco, permitindo, por um lado, simplificar os procedimentos a cumprir pelos operadores económicos e, por outro, assegurar um nível de controlo adequado por parte da administração fiscal.
+Assim:
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 3, do artigo 114.º e do artigo 116.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, o seguinte:
+Artigo 1.º
+Objeto e âmbito
+1 - A presente portaria regulamenta o sistema de controlo declarativo-contabilístico previsto no artigo 114.º do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, a que estão sujeitos os entrepostos fiscais de produção de produtos do tabaco, estabelecendo as obrigações e os procedimentos a observar pelos operadores económicos.
+2 - Estão excluídos da presente portaria os entrepostos fiscais de produção de tabaco para cachimbo de água, de rapé, de tabaco de mascar e de líquido contendo nicotina em recipientes utilizados para carga e recarga de cigarros eletrónicos.
+Artigo 2.º
+Definições
+1 - Para efeitos da presente portaria, considera-se:
+a) "Sistema de controlo declarativo-contabilístico", adiante designado por "sistema", o sistema eletrónico criado pela Autoridade Tributária e Aduaneira (AT) e disponibilizado no respetivo portal;
+b) "Produtos do tabaco", os produtos do tabaco considerados como produto final para determinado entreposto fiscal;
+c) "CTAB", o código atribuído pelo serviço competente da AT a um determinado produto ou marca de tabaco;
+d) "Consumo global previsto", a quantidade de matérias-primas necessárias para a produção da totalidade dos produtos do tabaco fabricados, durante um período mensal, no entreposto fiscal de produção, correspondente ao somatório do produto das taxas de rendimento aprovadas por CTAB, pelas respetivas quantidades produzidas;
+e) "Estância aduaneira competente", a alfândega ou a delegação aduaneira com jurisdição no local onde se situa o entreposto fiscal de produção;
+f) "Matérias-primas", tabaco em rama, outros tabacos, subprodutos do tabaco e substitutos do tabaco, bem como outras misturas que entram no processo produtivo de produtos do tabaco, num determinado entreposto fiscal de produção;
+g) "Operador económico", o depositário autorizado titular do entreposto fiscal de produção de produtos do tabaco;
+h) "Taxa de rendimento aprovada", a quantidade de matérias-primas fixada em quilogramas, aprovada pela estância aduaneira competente, necessárias à produção de um produto ou marca de tabaco, ao qual corresponde um CTAB;
+i) "Taxa de rendimento efetiva", a quantidade de matérias-primas efetivamente consumidas, num determinado período, na produção de produtos ou marcas de tabaco;
+j) "Declaração de matérias-primas", a declaração eletrónica mensal que contém as quantidades de matérias-primas consumidas;
+k) "Declaração da produção", a declaração eletrónica mensal que contém a quantidade de produtos ou marcas de tabaco produzidas por CTAB.
+Artigo 3.º
+Obrigações declarativo-contabilísticas do operador económico
+1 - O operador económico deve declarar, até ao dia 15 do mês seguinte, as quantidades mensais de:
+a) Matérias-primas consumidas na produção;
+b) Produtos ou marcas de tabaco produzidas por CTAB.
+2 - O operador económico pode alterar a declaração dentro do prazo de entrega previsto no número anterior.
+3 - O operador económico deve declarar, junto da estância aduaneira competente, as taxas de rendimento efetivas apuradas por CTAB, até ao dia 15 de fevereiro do ano seguinte ao ano civil a que respeitam.
+4 - O incumprimento dos prazos referidos nos números anteriores está sujeito à aplicação de medidas sancionatórias.
+5 - O operador económico está obrigado a organizar e a conservar, durante um prazo de quatro anos, os elementos e documentos de suporte às declarações previstas no presente artigo.
+Artigo 4.º
+Aprovação das taxas de rendimento
+1 - A taxa de rendimento deve ser proposta pelo operador económico junto da estância aduaneira competente, a qual, após análise da informação relevante, deve decidir no prazo de 15 dias, a contar da data de apresentação da proposta.
+2 - A taxa de rendimento aprovada nos termos do número anterior deve ser inserida no sistema pelo operador económico.
+3 - A taxa de rendimento é fixada em quilogramas, por referência à produção de um milheiro ou quilograma, consoante o CTAB.
+4 - Sempre que a estância aduaneira competente verifique divergências entre a taxa de rendimento aprovada e a taxa de rendimento efetiva, deve procede à revisão da taxa de rendimento aprovada.
+5 - Sem prejuízo do disposto no número anterior, a taxa de rendimento aprovada pode ser alterada a pedido fundamentado do operador económico, devendo a estância aduaneira competente decidir no prazo referido no n.º 1.
+6 - A taxa de rendimento aprovada pela estância aduaneira competente é aplicável:
+a) A partir do dia seguinte ao da sua aprovação, no caso de um produto ou marca de tabaco novo;
+b) A partir do dia 1 do mês seguinte ao da sua aprovação, no caso de alteração de uma taxa de rendimento já aprovada.
+Artigo 5.º
+Taxa de variação da produção
+A taxa de variação da produção é calculada mensalmente pela diferença entre a quantidade de matérias-primas efetivamente consumidas na produção e o consumo global previsto, não podendo a diferença total exceder 2 %, comparativamente com o verificado no período de três meses imediatamente anteriores.
+Artigo 6.º
+Disposições transitórias e finais
+1 - As referências aos códigos TABH e TNHE previstas em orientações genéricas divulgadas pela AT ou em sistemas eletrónicos utilizados no âmbito dos Impostos Especiais de Consumo devem ser consideradas feitas para o CTAB.
+2 - O sistema previsto na presente portaria entra em produção no dia 1 de janeiro de 2020.
+3 - Até 30 de novembro de 2019 os operadores económicos devem inserir no sistema, por CTAB, as taxas de rendimento aprovadas.
+4 - São revogadas as Portarias n.º 1630/2007, de 31 de dezembro, e n.º 68/94, de 31 de janeiro, com efeitos a partir da data prevista no n.º 2.
+O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 24 de setembro de 2019.
+112624177
