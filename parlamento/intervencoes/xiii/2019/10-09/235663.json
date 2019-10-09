@@ -1,0 +1,91 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=9QMMYk4SZXy4rQogaIro4o6cE%2f0jiwxg8ecU5Bxm5dlVQyO3nsIg9gKskIiOJN%2f1ZSqLdEPBSEIKAG1vIZhTj0jXC0Tga5O7TkMLLSoYi%2bKGSO28ZTQqdnHB%2fa21fwwKBZqSjOB%2fbXw%2b%2buvdv1drqX8B7AulDu4e%2fbfmm87B9A8MEpxFSiX%2fF7GUph38QQ4SVjU4%2bMRRAVTxIqlKiba8QDET%2fm%2fjL4g3sOvbZmDNrye9b%2fkWNCjhiczbwtFls9V8YyxKidUzjmwrPfgrHxrWOt9qk%2bNtm5Epfej%2bUhvJSvLC%2bozf5aJQkJeHl2t7LVCYgbuxG1Dc4udhqdefa2SNTOuBXT2%2bifz8xPcDxkDVygcaYxY%2fYHoGGN7C1DXrGjWe&fich=IntervencoesXIII_json.txt&Inline=true",
+  "ficheiro_sha256": "1f47c96c14c3d9a9dbb36b936c6d4807ae5b2287d96326c642b4295d831d2119",
+  "legislatura": "XIII",
+  "id": "235663",
+  "tipo": "Leitura",
+  "orador": "Eduardo Ferro Rodrigues (PS)",
+  "data_registo": "2019-10-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "354629",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "43154",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Alteração ao Regime Jurídico da Gestação de Substituição (quinta alteração à Lei n.º 32/2006, de 26 de julho)"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": [
+      {
+        "assunto": "Procede à leitura da mensagem do Presidente da República sobre a devolução, sem promulgação, do Decreto da Assembleia da República n.º 383/XIII — Sétima alteração à Lei n.º 32/2006, de 26 de julho, que regula a procriação medicamente assistida.",
+        "duracao": "00:02:04:475",
+        "tipoIntervencao": "Leitura",
+        "url": "http://av.parlamento.pt/asx.aspx?id=2019_10_09_15_00_00_clean_14_plenario&url=l13/sl4/a2019/m10/&tI=00:01:52:477&drc=00:02:04:475"
+      }
+    ],
+    "DataReuniaoPlenaria": "2019-10-09",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "163",
+      "nome": "Eduardo Ferro Rodrigues"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "235663",
+    "IdDebate": "14098",
+    "Iniciativas": [
+      {
+        "fase": "Veto (Leitura)",
+        "id": "43154",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "XIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "235663",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2-2"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2019-10-10",
+        "pubLeg": "XIII",
+        "pubNr": "110",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/13/04/110/2019-10-10/2?pgs=2&org=PLC"
+      }
+    ],
+    "Qualidade": "P.A.R.",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "Alteração ao Regime Jurídico da Gestação de Substituição (quinta alteração à Lei n.º 32/2006, de 26 de julho).",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
