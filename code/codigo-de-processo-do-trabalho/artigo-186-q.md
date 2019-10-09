@@ -2,7 +2,7 @@
 
 ### Valor da causa e responsabilidade pelo pagamento das custas
 
-1 - Para efeitos de pagamento de custas, aplica-se à ação de reconhecimento da existência de contrato de trabalho o disposto na alínea e) do n.º 1 do artigo 12.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, alterado e republicado pela Lei n.º 7/2012, de 13 de fevereiro.
+1 - Para efeitos de pagamento de custas, aplica-se à ação de reconhecimento da existência de contrato de trabalho o disposto na alínea e) do n.º 1 do artigo 12.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro.
 
 2 - O valor da causa é sempre fixado a final pelo juiz tendo em conta a utilidade económica do pedido.
 

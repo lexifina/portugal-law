@@ -8,4 +8,4 @@
 
 3 - A partir da resposta, seguem-se, com as necessárias adaptações, os termos do processo comum regulados a partir do n.º 2 do artigo 63.º, com salvaguarda do disposto no artigo 134.º e no número seguinte.
 
-4 - A instrução, discussão e julgamento incumbem sempre ao tribunal singular.
+4 - (Revogado)

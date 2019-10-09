@@ -12,4 +12,4 @@
 
 5 - O arquivamento a que se refere o número anterior é provisório durante um ano, sendo o processo reaberto se, nesse prazo, comparecer algum titular.
 
-6 - Expirado o prazo referido no número anterior e não tendo comparecido qualquer titular, o processo é reaberto para efectivação do direito previsto no n.º 6 do artigo 20.º da Lei n.º 100/97, de 13 de Setembro.
+6 - Expirado o prazo referido no número anterior e não tendo comparecido qualquer titular, o processo é reaberto para efetivação do direito previsto no artigo 63.º da Lei n.º 98/2009, de 4 de setembro.

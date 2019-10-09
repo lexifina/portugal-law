@@ -8,6 +8,6 @@
 
 # Artigo 12.º
 
-### Competência dos tribunais do trabalho como tribunais de recurso
+### Competência dos juízos do trabalho como instância de recurso
 
-Os tribunais do trabalho funcionam como instância de recurso nos casos previstos na lei.
+Os juízos do trabalho funcionam como instância de recurso nos casos previstos na lei.

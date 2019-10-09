@@ -26,7 +26,7 @@ h) As acções relativas à igualdade e não discriminação em função do sexo
 
 i) A ação de reconhecimento da existência de contrato de trabalho.
 
-2 - Sem prejuízo do disposto no n.º 2 do artigo 143.º do Código de Processo Civil, os actos a praticar nas acções referidas nas alíneas f), g) e h) do número anterior apenas têm lugar em férias judiciais quando, em despacho fundamentado, tal for determinado pelo juiz.
+2 - Sem prejuízo do disposto no n.º 2 do artigo 137.º do Código de Processo Civil, os atos a praticar nas ações referidas nas alíneas f), g) e h) do número anterior apenas têm lugar em férias judiciais quando, em despacho fundamentado, tal for determinado pelo juiz.
 
 3 - As acções a que se refere a alínea e) do n.º 1 correm oficiosamente.
 

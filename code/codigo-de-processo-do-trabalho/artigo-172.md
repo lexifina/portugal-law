@@ -6,4 +6,4 @@
 
 2 - Se o juiz verificar que houve erro de direito ou de facto, anula a decisão.
 
-3 - Na sentença proferida sobre a decisão disciplinar são especificados os fundamentos de facto e de direito e dela cabe apenas recurso para a Relação.
+3 - Da sentença apenas cabe recurso para o tribunal da Relação.

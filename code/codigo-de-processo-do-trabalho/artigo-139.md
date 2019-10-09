@@ -6,7 +6,7 @@
 
 2 - Se na fase conciliatória a perícia tiver exigido pareceres especializados, intervêm na junta médica, pelo menos, dois médicos das mesmas especialidades.
 
-3 - Fora das áreas metropolitanas de Lisboa e do Porto, se não for possível constituir a junta nos termos dos números anteriores, a perícia é deprecada ao tribunal com competência em matéria de trabalho mais próximo da residência da parte, onde a junta possa constituir-se.
+3 - Fora das áreas metropolitanas de Lisboa e do Porto, se não for possível constituir a junta nos termos dos números anteriores, a perícia é deprecada ao juízo com competência em matéria de trabalho mais próximo da residência da parte, onde a junta possa constituir-se.
 
 4 - Sempre que possível, intervêm na perícia peritos dos serviços médico-legais que não tenham intervindo na fase conciliatória.
 

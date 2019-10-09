@@ -10,8 +10,10 @@ b) Conhecer imediatamente do mérito da causa, sempre que o estado do processo p
 
 c) Considerar assentes os factos sobre que tenha havido acordo na tentativa de conciliação e nos articulados;
 
-d) Seleccionar a matéria de facto relevante para a decisão da causa, segundo as várias soluções plausíveis da questão de direito, que deva considerar-se controvertida;
+d) (Revogada.)
 
 e) Ordenar o desdobramento do processo, se for caso disso.
 
-2 - Seguidamente observam-se os termos do processo comum regulados nos artigos 63.º e seguintes, salvo o disposto nos artigos subsequentes.
+2 - Proferido despacho saneador, quando a ação houver de prosseguir, o juiz profere despacho destinado a identificar o objeto do litígio e a enunciar os temas da prova nos termos previstos no artigo 596.º do Código de Processo Civil.
+
+3 - Seguidamente observam-se os termos do processo comum regulados nos artigos 63.º e seguintes, salvo o disposto nos artigos subsequentes.
