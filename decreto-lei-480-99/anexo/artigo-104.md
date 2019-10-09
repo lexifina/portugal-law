@@ -10,7 +10,7 @@ a) Do acidente tenha resultado a morte ou incapacidade grave;
 
 b) O sinistrado não estiver a ser tratado;
 
-c) Houver motivos para presumir que o acidente ou as suas consequências resultaram da falta de observância das condições de higiene ou de segurança no trabalho;
+c) Houver motivos para presumir que o acidente ou as suas consequências resultaram da falta de observância das condições de segurança ou de saúde no trabalho;
 
 d) Houver motivos para presumir que o acidente foi dolosamente ocasionado.
 

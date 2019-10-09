@@ -4,4 +4,4 @@
 
 1 - A entrega em suporte de papel do formulário referido no artigo anterior é feita, num único exemplar, na secretaria judicial.
 
-2 - O modelo do formulário é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas da justiça e do trabalho.
+2 - O modelo do formulário é aprovado por portaria dos membros do Governo responsáveis pelas áreas da justiça e do trabalho.

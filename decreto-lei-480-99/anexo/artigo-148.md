@@ -14,4 +14,4 @@
 
 4 - Em seguida, o processo vai ao Ministério Público, que, após verificar o cálculo, ordena as diligências necessárias à entrega do capital.
 
-5 - Nos tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para a entrega do capital da remição.
+5 - Nos juízos do trabalho das áreas metropolitanas de Lisboa e do Porto não há lugar à deprecada para a entrega do capital da remição.

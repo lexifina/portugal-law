@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Instrução e julgamento
-
 # Artigo 196.º
 
 ### Pagamento voluntário

@@ -2,7 +2,7 @@
 
 ### Forma, valor do processo e efeitos do recurso
 
-1 - As acções a que se referem os artigos anteriores seguem, depois dos articulados, os termos do processo comum, com exclusão da audiência preliminar e da tentativa de conciliação.
+1 - As ações a que se referem os artigos anteriores seguem, depois dos articulados, os termos do processo comum, com exclusão da audiência prévia e da tentativa de conciliação.
 
 2 - Da decisão final cabe sempre recurso de revista até ao Supremo Tribunal de Justiça.
 

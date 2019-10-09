@@ -14,8 +14,8 @@
 
 6 - Finda a produção de prova, pode cada um dos mandatários fazer uma breve alegação oral.
 
-7 - A sentença, sucintamente fundamentada, é logo ditada para a ata.
+7 - A sentença é sucintamente fundamentada, regendo-se a sua gravação e transcrição para a ata pelo disposto no artigo 155.º do Código de Processo Civil.
 
 8 - A sentença que reconheça a existência de um contrato de trabalho fixa a data do início da relação laboral.
 
-9 - A decisão proferida é comunicada oficiosamente pelo tribunal à ACT e ao Instituto da Segurança Social, I. P., com vista à regularização das contribuições desde a data de início da relação laboral fixada nos termos do número anterior.
+9 - A decisão proferida é comunicada oficiosamente pelo tribunal ao trabalhador, à ACT e ao Instituto da Segurança Social, I. P., com vista à regularização das contribuições desde a data de início da relação laboral fixada nos termos do número anterior.

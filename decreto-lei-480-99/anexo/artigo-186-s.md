@@ -10,4 +10,4 @@
 
 4 - Caso o despedimento ocorra antes da receção da participação dos factos prevista no n.º 3 do artigo 15.º-A da Lei n.º 107/2009, de 14 de setembro, na sua redação atual, o Ministério Público, até dois dias após o conhecimento da existência do despedimento, requer à ACT para, no prazo de cinco dias, remeter a referida participação, acompanhada de todos os elementos de prova recolhidos.
 
-5 - Em tudo o que não seja regulado no presente artigo, é aplicável o regime previsto nos artigos 34.º a 40.º-A, com as necessárias adaptações.
+5 - Em tudo o que não seja regulado no presente artigo, é aplicável o regime previsto nos artigos 33.º-A a 40.º-A, com as necessárias adaptações

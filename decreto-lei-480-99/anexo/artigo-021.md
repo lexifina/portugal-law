@@ -22,7 +22,7 @@ Na distribuição há as seguintes espécies:
 
 5.ª Acções de impugnação de despedimento colectivo;
 
-6.ª Acções para cobranças de dívidas resultantes da prestação de serviços de saúde ou de quaisquer outros que sejam da competência dos tribunais do trabalho;
+6.ª Ações para cobrança de dívidas resultantes da prestação de serviços de saúde ou de quaisquer outros que sejam da competência dos juízos do trabalho;
 
 7.ª Procedimentos cautelares;
 

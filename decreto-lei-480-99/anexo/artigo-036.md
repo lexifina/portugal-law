@@ -8,4 +8,4 @@
 
 3 - Se a complexidade da causa o justificar, a decisão pode ser proferida no prazo de 8 dias, se não tiverem decorrido mais de 30 dias a contar da entrada do requerimento inicial.
 
-4 - Requerida a impugnação judicial da regularidade e licitude do despedimento, aplica-se o disposto no n.º 4 do artigo 98.º-F, sendo dispensada a tentativa de conciliação referida no n.º 2.
+4 - Requerida a impugnação judicial da regularidade e licitude do despedimento, aplica-se o disposto no n.º 3 do artigo 98.º-F, sendo dispensada a tentativa de conciliação referida no n.º 2 do presente artigo.

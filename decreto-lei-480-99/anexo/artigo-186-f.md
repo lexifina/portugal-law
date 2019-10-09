@@ -1,5 +1,9 @@
 # Artigo 186.º-F
 
-### Natureza urgente
+### Regras especiais
 
-O processo tem natureza urgente.
+1 - O processo, incluindo a fase de recurso, tem natureza urgente.
+
+2 - Os recursos interpostos pelas partes devem ser processados como urgentes.
+
+3 - A execução é efetuada oficiosamente e nos próprios autos, sempre que a medida executiva integre a realização da providência decretada, e é acompanhada de imediata liquidação da sanção pecuniária compulsória.
