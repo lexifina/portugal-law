@@ -1,0 +1,7 @@
+Aviso n.º 16000/2019
+Sumário: Consulta pública ao projeto de Regulamento das Unidades Curriculares Projeto de Desenvolvimento de Produto I, Projeto de Desenvolvimento de Produto II, Projeto de Desenvolvimento de Produto III e Projeto de Desenvolvimento de Produto IV, da licenciatura em Design de Produto e Tecnologia.
+Nos termos do artigo 100.º, n.º 3, alínea c) e do artigo 101.º, ambos do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, avisam-se os interessados de que se encontra em consulta pública, no endereço de internet: www.ua.pt/gaqap/uaemmudanca, o Projeto de Regulamento das Unidades Curriculares Projeto de Desenvolvimento de Produto I, Projeto de Desenvolvimento de Produto II, Projeto de Desenvolvimento de Produto III e Projeto de Desenvolvimento de Produto IV, da Licenciatura em Design de Produto e Tecnologia da Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro Norte da Universidade de Aveiro.
+Os interessados devem dirigir as suas sugestões ao Reitor da Universidade de Aveiro, por escrito, no prazo de 30 dias a contar da data de publicação do presente aviso, através do endereço de correio eletrónico:
+adm-consulta.publica@ua.pt ou do endereço postal: Administração, Edifício Central e da Reitoria, Campus Universitário de Santiago, Universidade de Aveiro, 3810 -193 Aveiro.
+17 de setembro de 2019. - O Reitor, Professor Doutor Paulo Jorge Gonçalves dos Santos Ferreira.
+312610066
