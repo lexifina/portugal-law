@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Execução baseada em outros títulos
-
 ## Capítulo IV
 
 ## Disposições finais
