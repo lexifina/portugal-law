@@ -1,0 +1,6 @@
+Aviso n.º 16001/2019
+Sumário: Consulta pública ao Projeto de Regulamento das Unidades Curriculares Projeto de Sistemas de Produção I e Projeto de Sistemas de Produção II, da licenciatura em Tecnologia e Sistemas de Produção.
+Nos termos do artigo 100.º, n.º 3, alínea c) e do artigo 101.º, ambos do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, avisam-se os interessados de que se encontra em consulta pública, no endereço de internet: www.ua.pt/gaqap/uaemmudanca, o Projeto de Regulamento das Unidades Curriculares Projeto de Sistemas de Produção I e Projeto de Sistemas de Produção II, da Licenciatura em Tecnologia e Sistemas de Produção da Escola Superior de Design, Gestão e Tecnologias da Produção de Aveiro Norte da Universidade de Aveiro.
+Os interessados devem dirigir as suas sugestões ao Reitor da Universidade de Aveiro, por escrito, no prazo de 30 dias a contar da data de publicação do presente aviso, através do endereço de correio eletrónico: adm-consulta.publica@ua.pt ou do endereço postal: Administração, Edifício Central e da Reitoria, Campus Universitário de Santiago, Universidade de Aveiro, 3810-193 Aveiro.
+17 de setembro de 2019. - O Reitor, Professor Doutor Paulo Jorge Gonçalves dos Santos Ferreira.
+312610366
