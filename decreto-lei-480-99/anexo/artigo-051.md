@@ -4,7 +4,7 @@
 
 ## Capítulo I
 
-## Processo comum
+## Tentativa de conciliação
 
 # Artigo 51.º
 
