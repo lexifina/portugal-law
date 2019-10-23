@@ -34,7 +34,7 @@ Categorias de risco das utilizações-tipo VI «Espetáculos e reuniões públic
 
 QUADRO VI
 
-Categorias de risco da utilização-tipo VII «Hoteleiros e restauração»
+Categorias de risco da utilização-tipo VII, «Hoteleiros e restauração»
 
 (ver documento original)
 
@@ -52,7 +52,7 @@ Categorias de risco da utilização-tipo X «Museus e galerias de arte»
 
 QUADRO IX
 
-Categorias de risco da utilização-tipo XI «Bibliotecas e arquivos»
+Categorias de risco da utilização-tipo XI, «Bibliotecas e arquivos»
 
 (ver documento original)
 

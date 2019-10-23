@@ -48,7 +48,7 @@ s) A inexistência ou a deficiente instalação, funcionamento ou manutenção d
 
 t) A inexistência ou deficiente instalação, funcionamento ou manutenção do depósito da rede de incêndio ou respetiva central de bombagem, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
-u) A inexistência ou a deficiente instalação, funcionamento ou manutenção dos hidratantes, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
+u) A inexistência ou a deficiente instalação, funcionamento ou manutenção dos hidrantes, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
 v) A inexistência ou a deficiente instalação, funcionamento ou manutenção dos equipamentos ou sistemas de controlo de monóxido de carbono, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
@@ -58,7 +58,7 @@ x) A inexistência ou a deficiente instalação, funcionamento ou manutenção d
 
 y) A inexistência ou a deficiente instalação, funcionamento ou manutenção dos equipamentos ou sistemas fixos de extinção automática de incêndio, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
-z) O uso do posto de segurança para um fim diverso do permitido, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
+z) A inexistência do posto de segurança ou o seu uso para um fim diverso do permitido, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
 aa) A inexistência de medidas de autoproteção atualizadas e adequadas à utilização-tipo e categoria de risco, ou a sua desconformidade nos termos do disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
@@ -72,7 +72,7 @@ ee) Não realização de ações de formação de segurança contra incêndio, e
 
 ff) Não realização de simulacros nos prazos previstos no presente decreto-lei, em infração ao disposto nas normas técnicas constantes do regulamento técnico referido no artigo 15.º;
 
-gg) A falta do registo referido no n.º 3 do artigo 16.º;
+gg) A falta do registo referido no n.º 2 do artigo 15.º-A;
 
 hh) O incumprimento, negligente ou doloso, dos deveres específicos que as entidades credenciadas, previstas no n.º 2 do artigo 5.º e no artigo 30.º, estão obrigadas a assegurar no desempenho das suas funções;
 
@@ -84,7 +84,7 @@ kk) A inexistência ou a deficiente instalação, funcionamento ou manutenção 
 
 ll) A inexistência de medidas de autoproteção, em infração ao disposto no n.º 1 do artigo 21.º;
 
-mm) A existência de medidas de autoproteção, não entregues na ANPC, para parecer, em infração aos n.os 2 e 3 do artigo 21.º e ao n.º 2 do artigo 34.º, ou em infração ao artigo 33.º do anexo II ao regulamento técnico referido no artigo 15.º;
+mm) A existência de medidas de autoproteção, não entregues na ANEPC, ou nos municípios quanto à 1.ª categoria de risco, para parecer, em infração aos n.os 2 e 3 do artigo 21.º e ao n.º 2 do artigo 34.º, ou em infração ao artigo 33.º do anexo ii do regulamento técnico referido no artigo 15.º;
 
 nn) A inexistência de projeto de SCIE ou da ficha de segurança, quando exigível, em infração ao disposto nos n.os 1 e 2 do artigo 17.º;
 
@@ -98,9 +98,9 @@ rr) A inexistência ou a deficiente instalação, funcionamento ou manutenção 
 
 2 - As contraordenações previstas nas alíneas c), d), h), j), o), p), r), t), u), y), aa), ll), nn), oo) e rr) do número anterior são puníveis com coima de (euro) 370 até (euro) 3 700, no caso de pessoas singulares, ou até (euro) 44 000, no caso de pessoas coletivas.
 
-3 - As contraordenações previstas nas alíneas a), b), e), f), g), i), k), q), s), v), x), z), bb), cc), ee), ff), hh), ii), jj), kk), mm) e pp) do n.º 1 são puníveis com coima de (euro) 275 até (euro) 2 750, no caso de pessoas singulares, ou até (euro) 27 500, no caso de pessoas coletivas.
+3 - As contraordenações previstas nas alíneas a), b), e), f), g), i), k), l), q), s), v), x), z), bb), cc), ee), ff), hh), ii), jj), kk), mm) e pp) do n.º 1 são puníveis com coima de 275 (euro) até 2750 (euro), no caso de pessoas singulares, ou até 27 500 (euro), no caso de pessoas coletivas.
 
-4 - As contraordenações previstas nas alíneas l), m), w), dd), gg) e qq) do n.º 1 são puníveis com coima de (euro) 180 até (euro) 1 800, no caso de pessoas singulares, ou até (euro) 11 000, no caso de pessoas coletivas.
+4 - As contraordenações previstas nas alíneas m), n), w), dd), gg) e qq) do n.º 1 são puníveis com coima de 180 (euro) até 1800 (euro), no caso de pessoas singulares, ou até 11 000 (euro), no caso de pessoas coletivas.
 
 5 - A tentativa e a negligência são puníveis, sendo os limites referidos nos números anteriores reduzidos para metade.
 
