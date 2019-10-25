@@ -37,3 +37,5 @@ b) Quando a permanência em território nacional seja de duração igual ou supe
 i) Apresentar-se ao veterinário municipal da área em que se encontra, o qual procede ao registo do animal ou animais no Sistema de Identificação de Caninos e Felinos (SICAFE), aprovado pelo Decreto-Lei n.º 313/2003, de 17 de dezembro, alterado pela Lei n.º 49/2007, de 31 de agosto;
 
 ii) Sem prejuízo do disposto no n.º 3 do artigo 19.º, proceder à esterilização do animal ou animais, no prazo de 15 dias, remetendo o comprovativo daquela intervenção à direcção de serviços veterinários da respectiva área, no prazo máximo de 15 dias após a realização da mesma, a qual dá conhecimento ao médico veterinário do ponto de entrada.
+
+5 - Sem prejuízo do disposto nos n.os 1 e 2, os cães que sejam classificados como potencialmente perigosos, provenientes de um Estado-Membro ou de um país terceiro, tendo em vista a reprodução, devem ser registados no SIAC, no prazo de 10 dias após a entrada no território nacional em nome do titular que figure no Passaporte do Animal de Companhia ou no certificado sanitário respetivo.
