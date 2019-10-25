@@ -1,0 +1,138 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13428",
+  "numero": "61",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-10-25",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-05-06",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Cultura"
+            ],
+            "nrOficio": "8/CCC/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-05-05",
+        "DataArquivo": "2020-07-01",
+        "DataBaixaComissao": "2020-04-15",
+        "DataEnvioPAR": "2020-07-01",
+        "DataReaberta": "2020-05-05",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-05-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a55324f5749304f544e6c4c544a6c5a4451744e4455784e4330355a6a63354c5463324f44646c5a6d4d325a6a526a596935775a47593d&fich=569b493e-2ed4-4514-9f79-7687efc6f4cb.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-05-06",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c32457a4d3259774e7a426d4c5467314d4451744e4755304d43316859544d774c544d334e6a4d7a4d7a4d775a6a49325a6935775a47593d&fich=a33f070f-8504-4e40-aa30-37633330f26f.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-01",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457951304e444c305276593356745a57353062334e515a585270593246764c7a41354e5455344e446b7a4c5451334e3245744e4446684e5330344e6d5a6b4c5449304d5442694f4752684d7a4e6c4d5335775a47593d&fich=09558493-477a-41a5-86fd-2410b8da33e1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7484",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Cultura e Comunicação",
+        "NotasAdmissibilidade": null,
+        "Numero": "12",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-05-05",
+            "gp": "PS",
+            "id": "6049",
+            "motivoCessacao": null,
+            "nome": "Sofia Araújo"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-04-23",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c3256685a6d51344d5467344c54597a593251744e444a6a5a4331695a47566c4c5455794e4759795a4455355a444d794d7935775a47593d&fich=eafd8188-63cd-42cd-bdee-524f2d59d323.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13428",
+    "PetAssunto": "Petição para a justa salvaguarda e proteção do património arqueológico da Nação Portuguesa",
+    "PetDataEntrada": "2019-10-25",
+    "PeticoesAssociadas": null,
+    "PetId": "13428",
+    "PetLeg": "XIV",
+    "PetNr": "61",
+    "PetNrAssinaturas": "132",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
