@@ -1,0 +1,603 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13376",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-10-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2021-01-19",
+            "entidades": null,
+            "id": "116502",
+            "tipo": null,
+            "titulo": "Audição em 2021-01-19 com Peticionários"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2021-05-24",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915079",
+                "obs": null,
+                "pag": [
+                  "18-21"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2021-05-29",
+                "pubLeg": "XIV",
+                "pubNr": "47",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/02/047/2021-05-29/18?pgs=18-21&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-11",
+        "DataArquivo": "2021-05-26",
+        "DataBaixaComissao": "2019-12-10",
+        "DataEnvioPAR": "2021-05-27",
+        "DataReaberta": "2020-02-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-02-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e7a4935595459785a4759744e444e6c5a693030596a68684c574977596a4d744e47597a4d7a497a4d5451345932566c4c6e426b5a673d3d&fich=729a61df-43ef-4b8a-b0b3-4f3323148cee.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2021-05-27",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d446b314d6a466d4e4451745a6a49334d7930304f4759784c5468685a5749744e574d304d6d4d774d445533595441314c6e426b5a673d3d&fich=09521f44-f273-48f1-8aeb-5c42c0057a05.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-11",
+            "gp": "PSD",
+            "id": "2297",
+            "motivoCessacao": null,
+            "nome": "Cristóvão Norte"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2022-09-28",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-12-12",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c324a6b4d446379595441344c54426c4d474d744e444d305953316859546b354c54426c595463774e3259334d7a4d304e4335775a47593d&fich=bd072a08-0e0c-434a-aa99-0ea707f73344.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "121553",
+      "121606",
+      "121620",
+      "121624",
+      "121553",
+      "121620"
+    ],
+    "Iniciativasoriginadas": [
+      "121553",
+      "121606",
+      "121620",
+      "121624"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=54"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/56?pgs=56&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=59"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "62-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/62?pgs=62-63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": "Formulou um pedido de esclarecimento ao deputado Nélson Brito"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2022-09-29",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2022_09_28_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "269754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2022-09-29",
+                "pubLeg": "XV",
+                "pubNr": "43",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/63?pgs=63&org=PLC"
+              }
+            ],
+            "Sumario": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional; Pela eletrificação e modernização de toda a Linha do Alentejo; Recomenda ao Governo português que requalifique a linha ferroviária do Alentejo; Pela modernização e eletrificação de toda a Linha do Alentejo e reativação do ramal ferroviário de Aljustrel; Pela criação de uma estratégia integrada de acessibilidade e mobilidade do Alentejo nas ligações nacionais e internacionais.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13376",
+    "PetAssunto": "Pela eletrificação e modernização da Linha do Alentejo, como uma prioridade de interesse nacional",
+    "PetDataEntrada": "2019-10-30",
+    "PeticoesAssociadas": null,
+    "PetId": "13376",
+    "PetLeg": "XIV",
+    "PetNr": "9",
+    "PetNrAssinaturas": "4689",
+    "PetNrAssinaturasInicial": "4351",
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16238",
+        "obs": null,
+        "pag": [
+          "56-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2022-09-29",
+        "pubLeg": "XV",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/01/043/2022-09-29/56?pgs=56-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891500",
+        "obs": null,
+        "pag": [
+          "9-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-14",
+        "pubLeg": "XIV",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/021/2020-02-14/9?pgs=9-10&org=PLC"
+      }
+    ]
+  }
+}
