@@ -11,3 +11,5 @@
 4 - Para efeitos do n.º 2, sem prejuízo do disposto no Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual, são considerados os rendimentos mensais mais recentes.
 
 5 - Nas situações em que o beneficiário esteja a receber subsídio de desemprego parcial e o contrato de trabalho a tempo parcial cesse após o termo do período de concessão daquele subsídio sem que tenha sido adquirido novo direito a prestações de desemprego, mantém-se o acesso ao subsídio social de desemprego subsequente desde que se encontre preenchida a condição de recursos.
+
+6 - Sem prejuízo da aplicação de outros prazos de garantia, os beneficiários podem aceder ao subsídio social de desemprego nos termos do n.º 4 do artigo 22.º uma vez em cada dois anos a contar da data de cessação do subsídio social de desemprego atribuído naqueles termos.
