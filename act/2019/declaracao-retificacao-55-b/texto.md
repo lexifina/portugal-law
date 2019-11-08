@@ -1,0 +1,17 @@
+Declaração de Retificação n.º 55-B/2019
+Sumário: Retifica a Portaria n.º 298/2019, de 9 de setembro, Agricultura, Florestas e Desenvolvimento Rural, que estabelece as regras nacionais complementares de reconhecimento de organizações de produtores e respetivas associações previstas no capítulo iii do título ii da parte ii do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento Europeu e do Conselho, de 13 de dezembro, e de organizações de comercialização de produtos da floresta, publicada no Diário da República, 1.ª série, n.º 172, de 2 de setembro de 2019.
+Nos termos das disposições da alínea h) do n.º 1 do artigo 4.º e do artigo 11.º do Decreto-Lei n.º 4/2012 de 16 de janeiro, alterado pelo Decreto-Lei n.º 41/2013 de 21 de março, declara-se que a Portaria n.º 298/2019, publicada no Diário da República, 1.ª série, n.º 172, de 9 de setembro, saiu com as seguintes inexatidões que, mediante declaração da entidade emitente, assim se retificam:
+1 - No n.º 3 do artigo 17.º, onde se lê:
+«3 - As organizações de produtores que pretendam beneficiar do disposto na alínea a) do n.º 3 do artigo 7.º devem apresentar cópia do contrato celebrado com o organismo de controlo responsável pela certificação do produto para o qual é solicitado o reconhecimento, bem como a relação dos membros que recorrem à certificação, respetivos produtos e quantidades ou áreas conforme aplicável.»
+deve ler-se:
+«3 - As organizações de produtores que pretendam beneficiar do disposto nas alíneas a) e b) no que respeita ao MPB, do n.º 3 do artigo 7.º, devem apresentar cópia do contrato celebrado com o organismo de controlo responsável pela certificação do produto para o qual é solicitado o reconhecimento, bem como a relação dos membros que recorrem à certificação, respetivos produtos e quantidades ou áreas conforme aplicável.»
+2 - No n.º 7 do artigo 28.º, onde se lê:
+«7 - O disposto nos n.os 1 a 5 aplica-se, com as necessárias adaptações, ao incumprimento da obrigação de comunicação prevista nos n.os 1 e 2 do artigo 32.º, sendo os prazos previstos no n.º 1 do presente artigo para a notificação à organização de produtores da advertência e para a regularização do incumprimento, respetivamente, de 15 dias úteis e de 7 dias úteis, e o prazo para a regularização do incumprimento previsto no n.º 2, de seis meses.»
+deve ler-se:
+«7 - O disposto nos n.os 1 a 5 aplica-se, com as necessárias adaptações, ao incumprimento da obrigação de comunicação prevista nos n.os 1 e 2 do artigo 31.º, sendo os prazos previstos no n.º 1 do presente artigo para a notificação à organização de produtores da advertência e para a regularização do incumprimento, respetivamente, de 15 dias úteis e de 7 dias úteis, e o prazo para a regularização do incumprimento previsto no n.º 2, de seis meses.»
+3 - No n.º 2 do artigo 32.º, onde se lê:
+«2 - Nas Regiões Autónomas, o número mínimo de membros produtores e o VPC, para efeitos da alínea c) do n.º 1 do artigo 5.º e do n.º 2 do artigo 13.º da presente portaria, são estabelecidos pelos órgãos de governo próprio com competência na matéria.»
+deve ler-se:
+«2 - Nas Regiões Autónomas, o número mínimo de membros produtores e o VPC, para efeitos da alínea c) do n.º 1 do artigo 5.º e do n.º 2 do artigo 12.º da presente portaria, são estabelecidos pelos órgãos de governo próprio com competência na matéria.»
+Secretaria-Geral, 8 de novembro de 2019. - A Secretária-Geral Adjunta, Catarina Romão Gonçalves.
+112744268
