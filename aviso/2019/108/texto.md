@@ -1,0 +1,16 @@
+Aviso n.º 108/2019
+Sumário: O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Reino Unido da Grã-Bretanha e Irlanda do Norte formulado uma declaração, em conformidade com o artigo 65.º, à Convenção sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família, adotada na Haia, a 23 de novembro de 2007.
+Por ordem superior se torna público que, por notificação de 12 de abril de 2019, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Reino Unido da Grã-Bretanha e Irlanda do Norte formulado uma declaração, em conformidade com o artigo 65.º, à Convenção sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família, adotada na Haia, a 23 de novembro de 2007.
+(tradução)
+Declaração
+Reino Unido, 12-04-2019.
+A Embaixada de Sua Majestade Britânica apresenta os seus cumprimentos ao Ministério dos Negócios Estrangeiros do Reino dos Países Baixos e tem a honra de se referir ao instrumento de ratificação (o «Instrumento de Ratificação»), que depositou a 28 de dezembro de 2018, e à Nota Verbal que depositou no dia 28 de março de 2019 (a «Nota Verbal»), relativa à ratificação pelo Reino Unido da Grã-Bretanha e Irlanda do Norte (o «Reino Unido») da Convenção da Haia de 23 de novembro de 2017 sobre a Cobrança Internacional de Alimentos em Benefício dos Filhos e de Outros Membros da Família (o «Acordo»), desejando fazer a seguinte declaração no que respeita à ratificação por parte do Reino Unido do referido Acordo.
+Desde o depósito da «Nota Verbal», na sua Decisão de 11 de abril de 2019 (a «Decisão do Conselho Europeu») tomada em acordo com o Reino Unido, o Conselho Europeu acordou numa extensão até 31 de outubro de 2019 do período para a saída do Reino Unido da União Europeia de acordo com o n.º 3 do artigo 50.º do Tratado da União Europeia (o «Período de Extensão»). Durante o Período de Extensão, o Reino Unido permanecerá um Estado-Membro da União Europeia. Como Estado-Membro, o direito da União Europeia, incluindo o Acordo, permanecerão aplicáveis ao e no Reino Unido.
+O Governo do Reino Unido tem por isso a honra de declarar que a ratificação por parte do Reino Unido do Acordo permanecerá suspensa até 1 de novembro de 2019 de acordo com a Decisão do Conselho Europeu.
+Tal como mencionado na Nota Verbal, na eventualidade do Acordo de Saída ser assinado, ratificado e aprovado pelo Reino Unido e pela União Europeia, o Reino Unido retirará o seu Instrumento de Ratificação que depositou a 28 de dezembro de 2018.
+A Embaixada de Sua Majestade Britânica aproveita a oportunidade para renovar os protestos da sua mais alta consideração ao Ministério dos Negócios Estrangeiros do Reino dos Países Baixos.
+Nos termos do n.º 2 do artigo 58.º da Convenção, esta foi aprovada pela União Europeia em 9 de abril de 2014.
+Nos termos da alínea a) do n.º 2 do artigo 60.º da Convenção, esta entra em vigor para a União Europeia em 1 de agosto de 2014.
+A República Portuguesa está vinculada pela Convenção como resultado da aprovação por parte da União Europeia, conforme o Aviso n.º 50/2017, publicado no Diário da República, 1.ª série, n.º 93, de 15 de maio de 2017.
+Departamento de Assuntos Jurídicos, 21 de outubro de 2019. - A Diretora, Susana Vaz Patto.
+112696535
