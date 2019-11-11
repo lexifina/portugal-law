@@ -40,7 +40,7 @@ f) Das acções de regresso, fundadas em responsabilidade por danos resultantes 
 
 g) Dos recursos dos acórdãos que aos tribunais centrais administrativos caiba proferir em primeiro grau de jurisdição;
 
-h) Dos conflitos de competência entre tribunais administrativos;
+h) (Revogada.)
 
 i) De outros processos cuja apreciação lhe seja deferida por lei.
 

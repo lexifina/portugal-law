@@ -8,8 +8,8 @@ a) No Supremo Tribunal Administrativo, pelo Procurador-Geral da República, que 
 
 b) Nos tribunais centrais administrativos, por procuradores-gerais-adjuntos;
 
-c) Nos tribunais administrativos de círculo e nos tribunais tributários, por procuradores da República e por procuradores-adjuntos.
+c) Nos tribunais administrativos de círculo e nos tribunais tributários, por procuradores-gerais-adjuntos e procuradores da República.
 
 2 - Os procuradores-gerais-adjuntos em serviço no Supremo Tribunal Administrativo e nos tribunais centrais administrativos podem ser coadjuvados por procuradores da República.
 
-3 - Na colocação e provimento dos magistrados nesta jurisdição, deve ser ponderada a formação especializada, de acordo com o disposto nos n.os 1 e 2 do artigo 136.º do Estatuto do Ministério Público.
+3 - A nomeação, a colocação, a transferência, a promoção, a exoneração, a apreciação do mérito profissional, o exercício da ação disciplinar e, em geral, a prática de todos os atos de idêntica natureza respeitantes aos magistrados do Ministério Público, segue os termos previstos no Estatuto do Ministério Público.

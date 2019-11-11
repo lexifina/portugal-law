@@ -40,7 +40,9 @@ r) Dar posse ao secretário do Tribunal;
 
 s) Elaborar um relatório anual sobre o estado dos serviços;
 
-t) Exercer as demais funções que lhe sejam atribuídas por lei.
+t) Conhecer dos conflitos de competência entre tribunais administrativos de círculo, tribunais tributários ou juízos de competência especializada, da área de jurisdição do respetivo tribunal central administrativo;
+
+u) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 2 - O Presidente é apoiado administrativamente por um secretário pessoal, nos termos a fixar em diploma complementar.
 

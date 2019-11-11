@@ -4,9 +4,9 @@
 
 1 - O provimento de lugares no Supremo Tribunal Administrativo é efectuado por cada grupo de seis vagas em cada secção, pela ordem seguinte:
 
-a) Um juiz, de entre os referidos na alínea b) do artigo 65.º e na alínea b) do n.º 1 do artigo 66.º, preferindo os primeiros aos segundos;
+a) (Revogada.)
 
-b) Três juízes de entre os indicados na alínea a) do artigo 65.º e na alínea a) do n.º 1 do artigo 66.º, preferindo os primeiros aos segundos;
+b) Quatro juízes de entre os indicados na alínea a) do artigo 65.º e na alínea a) do n.º 1 do artigo 66.º, preferindo os primeiros aos segundos;
 
 c) Um magistrado, dos referidos na alínea c) do n.º 1 do artigo 66.º;
 

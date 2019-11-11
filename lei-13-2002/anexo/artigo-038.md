@@ -12,7 +12,7 @@ a) Dos recursos de decisões dos tribunais tributários, salvo o disposto na al�
 
 b) Dos recursos de actos administrativos respeitantes a questões fiscais praticados por membros do Governo;
 
-c) Dos pedidos de declaração de ilegalidade de normas administrativas de âmbito nacional, emitidas em matéria fiscal;
+c) (Revogada.)
 
 d) Dos pedidos de adopção de providências cautelares relativos a processos da sua competência;
 

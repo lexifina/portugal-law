@@ -4,9 +4,9 @@
 
 1 - Os tribunais da jurisdição administrativa e fiscal têm alçada.
 
-2 - A alçada dos tribunais tributários corresponde a um quarto da que se encontra estabelecida para os tribunais judiciais de 1.ª instância.
+2 - (Revogado.)
 
-3 - A alçada dos tribunais administrativos de círculo corresponde àquela que se encontra estabelecida para os tribunais judiciais de 1.ª instância.
+3 - A alçada dos tribunais administrativos de círculo e dos tribunais tributários corresponde àquela que se encontra estabelecida para os tribunais judiciais de 1.ª instância.
 
 4 - A alçada dos tribunais centrais administrativos corresponde à que se encontra estabelecida para os tribunais da Relação.
 

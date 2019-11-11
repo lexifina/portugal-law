@@ -26,7 +26,7 @@ j) Relações jurídicas entre pessoas coletivas de direito público ou entre ó
 
 k) Prevenção, cessação e reparação de violações a valores e bens constitucionalmente protegidos, em matéria de saúde pública, habitação, educação, ambiente, ordenamento do território, urbanismo, qualidade de vida, património cultural e bens do Estado, quando cometidas por entidades públicas;
 
-l) Impugnações judiciais de decisões da Administração Pública que apliquem coimas no âmbito do ilícito de mera ordenação social por violação de normas de direito administrativo em matéria de urbanismo;
+l) Impugnações judiciais de decisões da administração pública que apliquem coimas, no âmbito do ilícito de mera ordenação social por violação de normas de direito administrativo em matéria de urbanismo e do ilícito de mera ordenação social por violação de normas tributárias;
 
 m) Contencioso eleitoral relativo a órgãos de pessoas colectivas de direito público para que não seja competente outro tribunal;
 
@@ -53,3 +53,5 @@ b) A apreciação de litígios decorrentes de contratos de trabalho, ainda que u
 c) A apreciação de atos materialmente administrativos praticados pelo Conselho Superior da Magistratura e seu Presidente;
 
 d) A fiscalização de atos materialmente administrativos praticados pelo Presidente do Supremo Tribunal de Justiça.
+
+e) A apreciação de litígios emergentes das relações de consumo relativas à prestação de serviços públicos essenciais, incluindo a respetiva cobrança coerciva.

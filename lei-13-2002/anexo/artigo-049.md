@@ -22,7 +22,7 @@ d) Dos incidentes, embargos de terceiro, reclamação da verificação e gradua�
 
 e) Dos seguintes pedidos:
 
-i) De declaração da ilegalidade de normas administrativas de âmbito regional ou local, emitidas em matéria fiscal;
+i) De declaração da ilegalidade de normas administrativas emitidas em matéria fiscal;
 
 ii) De produção antecipada de prova, formulados em processo neles pendente ou a instaurar em qualquer tribunal tributário;
 

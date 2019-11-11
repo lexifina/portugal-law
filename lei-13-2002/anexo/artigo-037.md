@@ -14,4 +14,6 @@ b) Dos recursos de decisões proferidas por tribunal arbitral sobre matérias de
 
 c) Das acções de regresso, fundadas em responsabilidade por danos resultantes do exercício das suas funções, propostas contra juízes dos tribunais administrativos de círculo e dos tribunais tributários, bem como dos magistrados do Ministério Público que prestem serviço junto desses tribunais;
 
-d) Dos demais processos que por lei sejam submetidos ao seu julgamento.
+d) Dos pedidos de execução das suas decisões proferidas em 1.ª instância;
+
+e) Dos demais processos que por lei sejam submetidos ao seu julgamento.

@@ -6,11 +6,11 @@
 
 a) Juízes dos tribunais centrais administrativos com cinco anos de serviço nesses tribunais;
 
-b) Juízes dos tribunais de relação que tenham exercido funções na jurisdição administrativa e fiscal durante cinco anos;
+b) (Revogada.)
 
-c) Procuradores-gerais-adjuntos com 10 anos de serviço, 5 dos quais junto da jurisdição administrativa e fiscal, no Conselho Consultivo da Procuradoria-Geral da República ou em auditorias jurídicas;
+c) Procuradores-gerais-adjuntos com cinco anos de serviço nessa categoria, desde que tenham exercido funções durante 10 anos na jurisdição administrativa e fiscal, no Conselho Consultivo da Procuradoria-Geral da República ou como auditores jurídicos;
 
-d) Juristas com pelo menos 10 anos de comprovada experiência profissional na área do direito público, nomeadamente através do exercício de funções públicas, da advocacia, da docência no ensino superior ou da investigação, ou ao serviço da Administração Pública.
+d) Juristas de reconhecido mérito com pelo menos 20 anos de comprovada experiência profissional, na área do direito público, nomeadamente através do exercício de funções públicas, da advocacia, da docência no ensino superior ou da investigação, ou ao serviço da Administração Pública.
 
 2 - A graduação faz-se segundo o mérito relativo dos concorrentes de cada classe, tomando-se globalmente em conta a avaliação curricular, com prévia observância do disposto no número seguinte e, nomeadamente, tendo em consideração os seguintes factores:
 
