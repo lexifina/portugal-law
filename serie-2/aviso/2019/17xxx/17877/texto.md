@@ -1,0 +1,9 @@
+Aviso n.º 17877/2019
+Sumário: Consulta pública do aditamento do projeto de regulamento para criação de novas taxas para a tabela geral de taxas e licenças da União das Freguesias de Arrimal e Mendiga.
+Consulta pública do aditamento do Projeto de Regulamento para criação de novas taxas
+para a Tabela Geral de Taxas e Licenças da União das Freguesias de Arrimal e Mendiga
+Jorge Paulo Costa Carvalho, Presidente da Junta de Freguesia da União das Freguesias de Arrimal e Mendiga, torna público, nos termos e para efeitos do disposto no n.º 1 do artigo 101.º do Código de Procedimento Administrativo, aprovado pelo anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, que a Junta de Freguesia deliberou, na sua reunião realizada em 8 de outubro de 2019, aprovar a criação de novas taxas para a Tabela Geral de Taxas e Licenças da União das Freguesias de Arrimal e Mendiga e submeter as mesmas a consulta pública, pelo prazo de trinta dias a contar da data da publicação do presente edital no Diário da República.
+Mais torna público, que aquele aditamento do projeto de regulamento encontra-se disponível para consulta, nos serviços da Junta de Freguesia, situados na Rua Principal, n.º 60, 2480-215 Mendiga e no Largo Joaquim Augusto Lito, n.º 2, 2480-043 Arrimal, durante as horas normais de expediente (9:00-12:30 e 14:00-17:30), bem como no sítio eletrónico desta Freguesia, em www.uf-arrimal-mendiga.pt.
+As eventuais sugestões deverão ser formuladas por escrito até ao final do mencionado período, em requerimento dirigido ao Presidente da Junta de Freguesia da União das Freguesias de Arrimal e Mendiga, Rua Principal, n.º 60, 2480-215 Mendiga, utilizando para o efeito o impresso próprio que pode ser obtido na Junta de Freguesia ou na mencionada página da internet.
+14 de outubro de 2019. - O Presidente da Junta de Freguesia, Jorge Paulo Costa Carvalho.
+312693805
