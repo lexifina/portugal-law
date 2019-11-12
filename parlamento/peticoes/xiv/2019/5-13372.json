@@ -1,0 +1,602 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13372",
+  "numero": "5",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-11-12",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-06-09",
+            "entidades": null,
+            "id": "115005",
+            "tipo": null,
+            "titulo": "Audição em 2020-06-09 com FENPROF"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-01-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro de Estado e das Finanças"
+            ],
+            "nrOficio": "6/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-06-03",
+                "dataResposta": "2020-06-05",
+                "nrOficio": "114/CECJD/2020",
+                "oficioResposta": "1239"
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-01-09",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "5/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-06-03",
+                "dataResposta": null,
+                "nrOficio": "113/CECJD/2020",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-06-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-01-03",
+        "DataArquivo": "2020-06-30",
+        "DataBaixaComissao": "2019-11-28",
+        "DataEnvioPAR": "2020-07-02",
+        "DataReaberta": "2020-01-03",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-01-09",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d4449774f546c6c595330785a4451324c54526b4f546b744f544a6d597930354e6d45774e6a5132597a49304f4463756347526d&fich=502099ea-1d46-4d99-92fc-96a0646c2487.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-01-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334f4752695a6d46685a43316a4f5467774c5451314e6a41744f5459304d6930774d5445304e54426d4e6a49304f4467756347526d&fich=78dbfaad-c980-4560-9642-011450f62488.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c5954466b4d32526b4e5331694e4467304c545269596a5974596a67334f4331694e7a5179596d4a694d6a64694d4455756347526d&fich=ea1d3dd5-b484-4bb6-b878-b742bbb27b05.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-01-09",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279383559544d324d7a6b795969316b4e4745794c5452684e7a41744f546b775a4331684d57557a4e6a64684e4441774f4463756347526d&fich=9a36392b-d4a2-4a70-990d-a1e367a40087.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-06-03",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793969593251775a574669595330784e6a4d314c5451354e575974595749305953316d4f474e6d4d7a6b354d5451335a4463756347526d&fich=bcd0eaba-1635-495f-ab4a-f8cf399147d7.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-02",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627939695a6a6469597a6b324d7931684d3246694c54526d4e6d4d744f44417a4f5330354d5468684f546b795a57466d597a4d756347526d&fich=bf7bc963-a3ab-4f6c-8039-918a992eafc3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-06-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774f4463335a44686a5a69316d4e4755774c5451324d6a51744f57497a4e43316c4d6d49774d546c6d5a4451304e5463756347526d&fich=0877d8cf-f4e0-4624-9b34-e2b019fd4457.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-01-03",
+            "gp": "PSD",
+            "id": "7007",
+            "motivoCessacao": null,
+            "nome": "Carla Madureira"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-12-03",
+    "Documentos": [
+      {
+        "DataDocumento": "2019-12-10",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a4a6b5a5451324e7a49314c5759324d5749744e445669596931684e6d52684c54646d4e4759774e7a64684e6a67354e4335775a47593d&fich=2de46725-f61b-45bb-a6da-7f4f077a6894.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45283",
+      "45275",
+      "45395"
+    ],
+    "Iniciativasoriginadas": [
+      "45275",
+      "45283",
+      "45395"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:15:55:272&drc=00:04:02:227"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:47:48:218&drc=00:01:45:871"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "63-63"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/54?pgs=54-55,63&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:20:03:158&drc=00:04:42:918"
+              },
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:46:30:585&drc=00:01:17:633"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-56",
+                  "62-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/55?pgs=55-56,62&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:24:52:264&drc=00:03:48:910"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/56?pgs=56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:28:45:578&drc=00:03:06:422"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "57-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/57?pgs=57-58&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:32:05:855&drc=00:03:29:802"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:35:43:882&drc=00:06:09:920"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/59?pgs=59-60&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-04",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/asx.aspx?id=2020_12_03_15_00_00_clean_14_plenario&url=l14/sl2/a2020/m12/&tI=03:42:04:554&drc=00:04:15:788"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "240881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-04",
+                "pubLeg": "XIV",
+                "pubNr": "26",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/61?pgs=61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho, Pela valorização da carreira docente, Valorização dos professores e educadores e melhoria das suas condições de trabalho e Atribuição de direitos devidos aos professores.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13372",
+    "PetAssunto": "Em defesa da sua dignidade profissional, os professores exigem respeito pelos seus direitos, justiça na carreira, melhores condições de trabalho",
+    "PetDataEntrada": "2019-11-12",
+    "PeticoesAssociadas": null,
+    "PetId": "13372",
+    "PetLeg": "XIV",
+    "PetNr": "5",
+    "PetNrAssinaturas": "13903",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "2756",
+        "obs": null,
+        "pag": [
+          "54-63"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-04",
+        "pubLeg": "XIV",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/026/2020-12-04/54?pgs=54-63&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "883770",
+        "obs": null,
+        "pag": [
+          "20-20"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-01-11",
+        "pubLeg": "XIV",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/014/2020-01-11/20?pgs=20&org=PLC"
+      }
+    ]
+  }
+}
