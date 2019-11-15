@@ -1,0 +1,5 @@
+# Artigo 104.º
+
+### Adaptação dos edifícios construídos à fibra óptica
+
+(Revogado.)
