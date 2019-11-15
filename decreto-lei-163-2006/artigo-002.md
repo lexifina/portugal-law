@@ -42,6 +42,6 @@ r) Estabelecimentos hoteleiros, meios complementares de alojamento turístico, �
 
 s) Edifícios e centros de escritórios.
 
-3 - As normas técnicas sobre acessibilidades aplicam-se ainda aos edifícios habitacionais.
+3 - As normas técnicas sobre acessibilidades aplicam-se ainda aos edifícios habitacionais e predominantemente habitacionais, considerando-se estes aqueles em que pelo menos 50 % da sua área se destine a habitação e a usos complementares, designadamente estacionamento, arrecadação ou usos sociais.
 
 4 - As presentes normas aplicam-se sem prejuízo das contidas em regulamentação técnica específica mais exigente.
