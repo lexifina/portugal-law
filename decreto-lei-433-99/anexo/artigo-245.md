@@ -8,4 +8,4 @@
 
 3 - Os credores referidos no número anterior podem reclamar da verificação e graduação de créditos nos termos e prazos previstos nos artigos 276.º e seguintes.
 
-4 - A reclamação referida no número anterior tem efeitos suspensivos, procedendo-se à sua remessa imediata ao tribunal tributário de 1.ª instância acompanhado de cópia autenticada do processo principal.
+4 - A reclamação referida no número anterior tem efeitos suspensivos, procedendo-se à sua remessa imediata, por via eletrónica, ao tribunal tributário de 1.ª instância, acompanhada do processo principal.

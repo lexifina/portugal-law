@@ -1,5 +1,5 @@
 # Artigo 283.º
 
-### Alegações apresentadas simultaneamente com a interposição do recurso
+### Prazo para interposição de recurso nos processos urgentes
 
-Os recursos jurisdicionais nos processos urgentes serão apresentados por meio de requerimento juntamente com as alegações no prazo de 10 dias.
+Nos processos urgentes, os recursos são interpostos no prazo de 15 dias, mediante requerimento dirigido ao tribunal que proferiu a decisão, que inclui ou junta a respetiva alegação e no qual são enunciados os vícios imputados à decisão e formuladas conclusões.

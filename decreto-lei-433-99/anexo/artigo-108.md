@@ -6,4 +6,4 @@
 
 2 - Na petição indicar-se-á o valor do processo ou a forma como se pretende a sua determinação a efectuar pelos serviços competentes da administração tributária.
 
-3 - Com a petição, elaborada em triplicado, sendo uma cópia para arquivo e outra para o representante da Fazenda Pública, o impugnante oferecerá os documentos de que dispuser, arrolará testemunhas e requererá as demais provas que não dependam de ocorrências supervenientes.
+3 - Com a petição, o impugnante oferece os documentos de que dispuser, arrola testemunhas e requererá as demais provas que não dependam de ocorrências supervenientes.
