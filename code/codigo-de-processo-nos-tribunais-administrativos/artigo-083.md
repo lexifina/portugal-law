@@ -18,6 +18,6 @@ c) Expor os factos essenciais em que se baseiam as exceções deduzidas, especif
 
 5 - Depois da contestação só podem ser deduzidas as exceções, incidentes e meios de defesa que sejam supervenientes, ou que a lei expressamente admita passado esse momento, ou de que se deva conhecer oficiosamente.
 
-6 - É aplicável à contestação, com as necessárias adaptações, o disposto nos n.os 1 e 2 do artigo 79.º, sendo, quanto ao mais, aplicável o disposto na lei processual civil sobre a apresentação do documento comprovativo do pagamento da taxa de justiça.
+6 - É aplicável à contestação, com as necessárias adaptações, o disposto nas alíneas b) e c) do n.º 2 do artigo 78.º e nos n.os 1 e 2 do artigo 79.º
 
 7 - Quando a contestação seja subscrita por licenciado em Direito com funções de apoio jurídico, nos termos do artigo 11.º, deve ser junta cópia do despacho que o designou.

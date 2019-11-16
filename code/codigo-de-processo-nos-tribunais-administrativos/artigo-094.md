@@ -11,3 +11,5 @@
 4 - O juiz aprecia livremente as provas segundo a sua prudente convicção acerca de cada facto, ressalvados os factos para cuja prova a lei exija formalidade especial e aqueles que só possam ser provados por documentos ou que estejam plenamente provados, quer por documentos, quer por acordo ou confissão das partes.
 
 5 - Quando o juiz ou relator considere que a questão de direito a resolver é simples, designadamente por já ter sido apreciada por tribunal, de modo uniforme e reiterado, ou que a pretensão é manifestamente infundada, a fundamentação da decisão pode ser sumária, podendo consistir na simples remissão para decisão precedente, de que se junte cópia.
+
+6 - As sentenças e os acórdãos finais são registados no sistema informático de suporte à atividade dos tribunais administrativos e fiscais, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.

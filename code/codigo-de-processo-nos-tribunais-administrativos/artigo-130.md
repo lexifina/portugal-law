@@ -8,4 +8,4 @@
 
 3 - [Revogado].
 
-4 - Aos casos previstos no presente artigo aplica-se, com as adaptações que forem necessárias, o disposto no capítulo I e nos dois artigos precedentes.
+4 - Aos casos previstos no presente artigo aplica-se, com as adaptações que forem necessárias, o disposto no capítulo I, nos artigos 128.º e 129.º e no n.º 3 do artigo 81.º

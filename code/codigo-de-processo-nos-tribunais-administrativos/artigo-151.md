@@ -2,7 +2,7 @@
 
 ### Revista per saltum para o Supremo Tribunal Administrativo
 
-1 - Os recursos interpostos de decisões de mérito proferidas por tribunais administrativos de círculo são da competência do Supremo Tribunal Administrativo quando as partes, nas alegações, suscitem apenas questões de direito e o valor da causa seja superior a 500.000 (euro) ou seja indeterminada, designadamente nos processos de declaração de ilegalidade de norma ou de declaração de ilegalidade por omissão de norma.
+1 - Os recursos interpostos de decisões de mérito proferidas por tribunais administrativos de círculo são da competência do Supremo Tribunal Administrativo quando as partes, nas alegações, suscitem apenas questões de direito e o valor da causa seja superior a 500 000 (euro) ou seja indeterminada, designadamente nos processos de declaração de ilegalidade ou de condenação à emissão de normas.
 
 2 - O disposto no número anterior não se aplica a processos respeitantes a atos administrativos em matéria de emprego público ou relacionados com formas públicas ou privadas de proteção social.
 

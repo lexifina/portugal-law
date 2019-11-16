@@ -10,9 +10,13 @@ a) Intimações para proteção de direitos, liberdades e garantias;
 
 b) Decisões respeitantes a processos cautelares e respetivos incidentes;
 
-c) Decisões proferidas por antecipação do juízo sobre a causa principal no âmbito de processos cautelares, nos termos do artigo 121.º
+c) Decisões respeitantes ao pedido de levantamento do efeito suspensivo automático, previsto no n.º 1 do artigo 103.º-A;
 
-3 - Quando a suspensão dos efeitos da sentença seja passível de originar situações de facto consumado ou a produção de prejuízos de difícil reparação para a parte vencedora ou para os interesses, públicos ou privados, por ela prosseguidos, o recorrente, no requerimento de interposição de recurso, pode requerer que ao recurso seja atribuído efeito meramente devolutivo.
+d) Decisões respeitantes ao pedido de adoção das medidas provisórias, a que se refere o artigo 103.º-B;
+
+e) Decisões proferidas no mesmo sentido da jurisprudência uniformizada pelo Supremo Tribunal Administrativo.
+
+3 - Quando a suspensão dos efeitos da sentença seja passível de originar situações de facto consumado ou a produção de prejuízos de difícil reparação para a parte vencedora ou para os interesses, públicos ou privados, por ela prosseguidos, pode ser requerido que ao recurso seja atribuído efeito meramente devolutivo.
 
 4 - Quando a atribuição de efeito meramente devolutivo ao recurso possa ser causadora de danos, o tribunal pode determinar a adoção de providências adequadas a evitar ou minorar esses danos e impor a prestação, pelo interessado, de garantia destinada a responder pelos mesmos.
 

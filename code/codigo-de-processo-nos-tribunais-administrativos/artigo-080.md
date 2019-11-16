@@ -2,7 +2,7 @@
 
 ### Recusa da petição pela secretaria
 
-1 - A secretaria recusa o recebimento da petição inicial, indicando por escrito o fundamento da rejeição, quando se verifique algum dos seguintes factos:
+1 - Quando a petição seja apresentada por uma das vias previstas no n.º 5 do artigo 24.º, a secretaria recusa o recebimento, indicando por escrito o fundamento da rejeição, com a ocorrência de algum dos seguintes factos:
 
 a) Não tenha endereço ou esteja endereçada a outro tribunal ou autoridade;
 
@@ -19,3 +19,7 @@ f) Não esteja assinada;
 g) [Revogada].
 
 2 - A recusa da petição pela secretaria tem os efeitos e consequências que lhe correspondem na lei processual civil, podendo ser objeto de reclamação e recurso nos termos previstos na mesma lei.
+
+3 - Quando a petição seja apresentada por via eletrónica, os factos referidos no n.º 1 são comprovados pelo sistema informático de suporte à atividade dos tribunais administrativos, devendo a secção de processos, após a distribuição, verificar apenas a efetiva comprovação dos factos referidos no n.º 1 do artigo anterior, bem como a ocorrência do fundamento de recusa previsto na alínea e) do n.º 1.
+
+4 - Nos casos referidos na parte final do número anterior, havendo fundamento para a recusa, deve a secção de processos proceder à respetiva notificação, sendo que, decorrido que seja o prazo para reclamação da recusa, ou, havendo reclamação, após o trânsito em julgado da decisão que confirme o não recebimento, considera-se a peça recusada, dando-se a respetiva baixa na distribuição.

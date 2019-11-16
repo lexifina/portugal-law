@@ -2,7 +2,7 @@
 
 ### Patrocínio judiciário e representação em juízo
 
-1 - Nos tribunais administrativos é obrigatória a constituição de mandatário, nos termos previstos no Código do Processo Civil, podendo as entidades públicas fazer-se patrocinar em todos os processos por advogado, solicitador ou licenciado em direito ou em solicitadoria com funções de apoio jurídico, sem prejuízo da representação do Estado pelo Ministério Público.
+1 - Nos tribunais administrativos é obrigatória a constituição de mandatário, nos termos previstos no Código do Processo Civil, podendo as entidades públicas fazer-se patrocinar em todos os processos por advogado, solicitador ou licenciado em direito ou em solicitadoria com funções de apoio jurídico, sem prejuízo da possibilidade de representação do Estado pelo Ministério Público.
 
 2 - No caso de o patrocínio recair em licenciado em direito ou em solicitadoria com funções de apoio jurídico, expressamente designado para o efeito, a referida atuação no âmbito do processo fica vinculada à observância dos mesmos deveres deontológicos, designadamente de sigilo, que obrigam o mandatário da outra parte.
 

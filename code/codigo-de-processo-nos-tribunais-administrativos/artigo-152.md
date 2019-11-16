@@ -8,7 +8,7 @@
 
 1 - As partes e o Ministério Público podem dirigir ao Supremo Tribunal Administrativo, no prazo de 30 dias contado do trânsito em julgado do acórdão impugnado, pedido de admissão de recurso para uniformização de jurisprudência, quando, sobre a mesma questão fundamental de direito, exista contradição:
 
-a) Entre acórdão do Tribunal Central Administrativo e acórdão anteriormente proferido pelo mesmo Tribunal ou pelo Supremo Tribunal Administrativo;
+a) Entre um acórdão do Tribunal Central Administrativo e outro acórdão anteriormente proferido pelo mesmo ou outro Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo;
 
 b) Entre dois acórdãos do Supremo Tribunal Administrativo.
 

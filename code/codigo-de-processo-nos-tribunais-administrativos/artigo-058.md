@@ -12,7 +12,7 @@ a) Um ano, se promovida pelo Ministério Público;
 
 b) Três meses, nos restantes casos.
 
-2 - Sem prejuízo do disposto no n.º 4 do artigo 59.º, os prazos estabelecidos no número anterior contam-se nos termos do artigo 279.º do Código Civil.
+2 - Sem prejuízo do disposto no n.º 4 do artigo 59.º, os prazos estabelecidos no número anterior contam-se nos termos do artigo 279.º do Código Civil, transferindo-se o seu termo, quando os prazos terminarem em férias judiciais ou em dia em que os tribunais estiverem encerrados, para o 1.º dia útil seguinte.
 
 3 - A impugnação é admitida, para além do prazo previsto na alínea b) do n.º 1:
 

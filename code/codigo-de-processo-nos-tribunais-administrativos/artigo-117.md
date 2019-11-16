@@ -13,3 +13,5 @@
 5 - Se a providência cautelar for requerida como incidente em processo já intentado e a entidade requerida e os contrainteressados já tiverem sido citados no processo principal, são chamados por mera notificação.
 
 6 - Qualquer interessado que não tenha recebido a citação só pode intervir no processo até à conclusão ao juiz ou relator para decisão.
+
+7 - Em processos em que haja contrainteressados em número superior a 10 é ainda aplicável o disposto nos n.os 5 a 7 do artigo 81.º, sendo o prazo para sua constituição no processo cautelar de sete dias.

@@ -6,9 +6,9 @@
 
 ### Envio do processo administrativo
 
-1 - Com a contestação, ou dentro do respetivo prazo, a entidade demandada é obrigada a proceder, preferencialmente por via eletrónica, ao envio do processo administrativo, quando exista, assim como todos os demais documentos respeitantes à matéria do processo de que seja detentora, sendo que o sistema informático dos Tribunais Administrativos e Fiscais deve garantir a apensação dos mesmos aos autos.
+1 - Com a contestação, ou dentro do respetivo prazo, a entidade demandada é obrigada a proceder ao envio do processo administrativo, quando exista, assim como de todos os demais documentos respeitantes à matéria do processo de que seja detentora.
 
-2 - Quando por razões técnicas ou por outros motivos justificados não for possível o envio eletrónico, nos termos do número anterior, a entidade demandada deve remeter ao Tribunal os originais do processo administrativo e dos demais documentos, que são apensados aos autos.
+2 - Quando a contestação seja apresentada por uma das vias previstas no n.º 5 do artigo 24.º, a entidade demandada deve remeter ao tribunal o processo administrativo e demais documentos em suporte físico.
 
 3 - Quando o processo administrativo se encontre já apensado a outros autos, a entidade demandada deve dar conhecimento do facto ao tribunal, indicando a que autos se refere.
 

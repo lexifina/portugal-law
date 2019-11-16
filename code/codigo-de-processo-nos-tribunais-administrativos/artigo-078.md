@@ -16,7 +16,7 @@
 
 a) Designar o tribunal em que a acção é proposta;
 
-b) Identificar as partes, incluindo eventuais contrainteressados, indicando os seus nomes, domicílios ou sedes e, sempre que possível, não se tratando de entidades públicas, números de identificação civil, de identificação fiscal ou de pessoa coletiva, profissões e locais de trabalho;
+b) Identificar as partes, incluindo eventuais contrainteressados, indicando os seus nomes, domicílios ou sedes e, sempre que possível, números de identificação civil, de identificação fiscal ou de pessoa coletiva, profissões e locais de trabalho, sendo a indicação desta informação obrigatória quando referente ao autor;
 
 c) Indicar o domicílio profissional do mandatário judicial;
 

@@ -1,5 +1,5 @@
 # Artigo 191.º
 
-### Recurso contencioso de anulação
+### Recurso contencioso de anulação e ação administrativa especial
 
-A partir da data da entrada em vigor deste Código, as remissões que, em lei especial, são feitas para o regime do recurso contencioso de anulação de atos administrativos consideram-se feitas para o regime da ação administrativa.
+As remissões que, em lei especial, forem feitas para o regime do recurso contencioso de anulação de atos administrativos ou da ação administrativa especial consideram-se feitas para o regime da ação administrativa.

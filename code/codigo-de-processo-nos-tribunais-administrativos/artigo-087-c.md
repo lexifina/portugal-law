@@ -10,4 +10,4 @@
 
 4 - Frustrando-se, total ou parcialmente, a conciliação, ficam consignadas em ata as concretas soluções sugeridas pelo juiz, bem como os fundamentos que, no entendimento das partes, justificam a persistência do litígio.
 
-5 - A mediação processa-se nos termos definidos em diploma próprio.
+5 - A mediação processa-se nos termos previstos na lei processual civil e no regime jurídico da mediação civil e comercial, com as necessárias adaptações.

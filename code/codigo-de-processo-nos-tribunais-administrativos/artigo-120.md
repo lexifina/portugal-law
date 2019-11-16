@@ -12,4 +12,4 @@
 
 5 - Na falta de contestação da autoridade requerida ou da alegação de que a adoção das providências cautelares pedidas prejudica o interesse público, o tribunal julga verificada a inexistência de tal lesão, salvo quando esta seja manifesta ou ostensiva.
 
-6 - Quando no processo principal esteja apenas em causa o pagamento da quantia certa, sem natureza sancionatória, as providências cautelares são adotadas, independentemente da verificação dos requisitos previstos no n.º 1, se tiver sido prestada garantia por uma das formas previstas na lei tributária.
+6 - Quando no processo principal esteja apenas em causa o pagamento da quantia certa, sem natureza sancionatória, as providências cautelares são adotadas, independentemente da verificação dos requisitos previstos nos números anteriores, se tiver sido prestada garantia por uma das formas previstas na lei tributária.

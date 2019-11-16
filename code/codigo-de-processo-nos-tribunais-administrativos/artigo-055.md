@@ -6,15 +6,15 @@
 
 ### Legitimidade ativa
 
-1 - Tem legitimidade para impugnar um acto administrativo:
+1 - Tem legitimidade para impugnar um ato administrativo:
 
-a) Quem alegue ser titular de um interesse directo e pessoal, designadamente por ter sido lesado pelo ato nos seus direitos ou interesses legalmente protegidos;
+a) Quem alegue ser titular de um interesse direto e pessoal, designadamente por ter sido lesado pelo ato nos seus direitos ou interesses legalmente protegidos;
 
 b) O Ministério Público;
 
 c) Entidades públicas e privadas, quanto aos direitos e interesses que lhes cumpra defender;
 
-d) Órgãos administrativos, relativamente a atos praticados por outros órgãos da mesma pessoa coletiva pública que alegadamente comprometam as condições do exercício de competências legalmente conferidas aos primeiros para a prossecução de interesses pelos quais esses órgãos sejam diretamente responsáveis;
+d) Órgãos administrativos, relativamente a atos praticados por outros órgãos da mesma pessoa coletiva pública;
 
 e) Presidentes de órgãos colegiais, em relação a atos praticados pelo respetivo órgão, bem como outras autoridades, em defesa da legalidade administrativa, nos casos previstos na lei;
 

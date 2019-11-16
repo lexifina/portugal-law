@@ -10,10 +10,10 @@ a) Terem sido proferidas por tribunais superiores, no mesmo sentido, cinco sente
 
 b) Não ter sido proferido número superior de sentenças, também transitadas em julgado, em sentido contrário ao das sentenças referidas na alínea anterior, nem serem as referidas sentenças contrárias a doutrina assente pelo Supremo Tribunal Administrativo em recurso para uniformização de jurisprudência.
 
-3 - Para o efeito do disposto no n.º 1, o interessado deve apresentar, no prazo de um ano, contado desde a data em que a sentença foi proferida, um requerimento dirigido à entidade pública que, nesse processo, tenha sido demandada.
+3 - Para o efeito do disposto no n.º 1, o interessado deve apresentar, no prazo de um ano, contado desde a data em que a sentença tenha transitado em julgado, um requerimento dirigido à entidade pública que, nesse processo, tenha sido demandada.
 
-4 - Indeferida a pretensão ou decorridos três meses sem decisão da Administração, o interessado pode requerer, no prazo de dois meses, ao tribunal que tenha proferido a sentença, a extensão dos respetivos efeitos e a sua execução em seu favor, sendo aplicáveis, com as devidas adaptações, os trâmites previstos no presente título para a execução das sentenças de anulação de atos administrativos.
+4 - Indeferida a pretensão ou decorridos três meses sem decisão da Administração, o interessado pode requerer, no prazo de dois meses, ao tribunal que tenha proferido a sentença, a extensão dos respectivos efeitos e a sua execução em seu favor, sendo aplicáveis, com as devidas adaptações, os trâmites previstos no presente título para a execução das sentenças de anulação de actos administrativos.
 
-5 - A extensão dos efeitos da sentença, no caso de existirem contrainteressados que não tenham tomado parte no processo em que ela foi proferida, só pode ser requerida se o interessado tiver lançado mão, no momento próprio, da via judicial adequada, encontrando-se pendente o correspondente processo.
+5 - A extensão dos efeitos da sentença, no caso de existirem contra-interessados que não tenham tomado parte no processo em que ela foi proferida, só pode ser requerida se o interessado tiver lançado mão, no momento próprio, da via judicial adequada, encontrando-se pendente o correspondente processo.
 
-6 - Quando, na pendência de processo impugnatório, o ato impugnado seja anulado por sentença proferida noutro processo, pode o autor fazer uso do disposto nos n.os 3 e 4 do presente artigo para obter a execução da sentença de anulação.
+6 - Quando, na pendência de processo impugnatório, o acto impugnado seja anulado por sentença proferida noutro processo, pode o autor fazer uso do disposto nos n.os 3 e 4 do presente artigo para obter a execução da sentença de anulação.
