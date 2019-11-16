@@ -16,7 +16,7 @@ c) Decidir as petições e reclamações e pronunciar-se sobre os recursos hier�
 
 d) Reconhecer isenções ou outros benefícios fiscais e praticar, nos casos previstos na lei, outros actos administrativos em matéria tributária;
 
-e) Receber e enviar ao tribunal tributário competente as petições iniciais nos processos de impugnação judicial que neles sejam entregues e dar cumprimento ao disposto nos artigos 111.º e 112.º;
+e) Receber e enviar por via eletrónica ao tribunal tributário competente as petições iniciais nos processos de impugnação judicial que neles sejam entregues e dar cumprimento ao disposto nos artigos 111.º e 112.º;
 
 f) Instaurar os processos de execução fiscal e realizar os actos a estes respeitantes, salvo os previstos no n.º 1 do artigo 151.º do presente Código;
 

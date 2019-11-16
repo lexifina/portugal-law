@@ -1,9 +1,15 @@
 # Artigo 285.º
 
-### Recursos dos despachos interlocutórios na impugnação
+### Recurso de revista
 
-1 - Os despachos do juiz no processo judicial tributário e no processo de execução fiscal podem ser impugnados no prazo de 10 dias, mediante requerimento contendo as respectivas alegações e conclusões, o qual subirá nos autos com o recurso interposto da decisão final.
+1 - Das decisões proferidas em segunda instância pelo Tribunal Central Administrativo pode haver, excecionalmente, revista para o Supremo Tribunal Administrativo, quando esteja em causa a apreciação de uma questão que, pela sua relevância jurídica ou social, se revista de importância fundamental ou quando a admissão do recurso seja claramente necessária para uma melhor aplicação do direito.
 
-2 - O disposto no número anterior não se aplica se a não subida imediata do recurso comprometer o seu efeito útil e quando o recurso não respeitar ao objecto do processo, incluindo o indeferimento de impedimentos opostos pelas partes, caso em que deve ser igualmente apresentado no prazo de 10 dias, por meio de requerimento contendo as respectivas alegações e conclusões.
+2 - A revista só pode ter como fundamento a violação de lei substantiva ou processual.
 
-3 - Em caso de cumulação de impugnação do despacho interlocutório com fundamento em matéria de facto ou de facto e de direito e da impugnação judicial da decisão final com fundamento exclusivamente em matéria de direito, o recurso do despacho interlocutório é processado em separado.
+3 - Aos factos materiais fixados pelo tribunal recorrido, o tribunal de revista aplica definitivamente o regime jurídico que julgue adequado.
+
+4 - O erro na apreciação das provas e na fixação dos factos materiais da causa não pode ser objeto de revista, salvo havendo ofensa de uma disposição expressa de lei que exija certa espécie de prova para a existência do facto ou que fixe a força de determinado meio de prova.
+
+5 - Na revista de decisão de atribuição ou recusa de providência cautelar, o Supremo Tribunal Administrativo, quando não confirme a decisão recorrida, substitui-a por acórdão que decide a questão controvertida, aplicando os critérios de atribuição das providências cautelares por referência à matéria de facto fixada nas instâncias.
+
+6 - A decisão quanto à questão de saber se, no caso concreto, se preenchem os pressupostos do n.º 1 compete ao Supremo Tribunal Administrativo, devendo ser objeto de apreciação preliminar sumária, a cargo de uma formação constituída por três juízes de entre os mais antigos da Secção de Contencioso Tributário.

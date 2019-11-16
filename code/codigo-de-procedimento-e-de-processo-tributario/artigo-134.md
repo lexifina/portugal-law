@@ -2,7 +2,7 @@
 
 ### Objecto da impugnação
 
-1 - Os actos de fixação dos valores patrimoniais podem ser impugnados, no prazo de 90 dias após a sua notificação ao contribuinte, com fundamento em qualquer ilegalidade.
+1 - Os atos de fixação dos valores patrimoniais podem ser impugnados, no prazo de três meses após a sua notificação ao contribuinte, com fundamento em qualquer ilegalidade.
 
 2 - Constitui motivo de ilegalidade, além da preterição de formalidades legais, o erro de facto ou de direito na fixação.
 

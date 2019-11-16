@@ -32,13 +32,17 @@ n) O recurso dos atos praticados na execução fiscal, no próprio processo ou, 
 
 o) A oposição, os embargos de terceiros e outros incidentes, bem como a reclamação da decisão da verificação e graduação de créditos;
 
-p) O recurso contencioso do indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, quando dependentes de reconhecimento da administração tributária, bem como de outros actos administrativos relativos a questões tributárias que não comportem apreciação da legalidade do acto de liquidação;
+p) A ação administrativa, designadamente para a condenação à prática de ato administrativo legalmente devido relativamente a atos administrativos de indeferimento total ou parcial ou da revogação de isenções ou outros benefícios fiscais, quando dependentes de reconhecimento da administração tributária, bem como para a impugnação ou condenação à prática de ato administrativo legalmente devido relativamente a outros atos administrativos relativos a questões tributárias que não comportem apreciação da legalidade do ato de liquidação, e para a impugnação ou condenação à emissão de normas administrativas em matéria fiscal;
 
 q) Outros meios processuais previstos na lei.
 
-2 - O recurso contencioso dos actos administrativos em matéria tributária, que não comportem a apreciação da legalidade do acto de liquidação, da autoria da administração tributária, compreendendo o governo central, os governos regionais e os seus membros, mesmo quando praticados por delegação, é regulado pelas normas sobre processo nos tribunais administrativos.
+2 - A ação administrativa é regulada pelas normas sobre processo nos tribunais administrativos.
 
-3 - São também regulados pelas normas sobre processo nos tribunais administrativos os conflitos de competências entre tribunais tributários e tribunais administrativos e entre órgãos da administração tributária do governo central, dos governos regionais e das autarquias locais.
+3 - São também regulados pelas normas sobre processo nos tribunais administrativos:
+
+a) As providências cautelares de natureza judicial a favor do contribuinte ou demais obrigados tributários, sem prejuízo do efeito suspensivo de atos de liquidação só poder ser obtido mediante prestação de garantia ou concessão da sua dispensa nos termos previstos nas normas tributárias;
+
+b) Os conflitos de competência entre tribunais tributários e tribunais administrativos e entre órgãos da administração tributária do governo central, dos governos regionais e das autarquias locais.
 
 4 - Os atos processuais, incluindo os atos das partes que devam ser praticados por escrito, as notificações entre mandatários, entre estes e os representantes da Fazenda Pública, e as notificações aos representantes da Fazenda Pública e ao Ministério Público, bem como a tramitação do processo judicial tributário, são efetuados nos termos previstos para os processos nos tribunais administrativos, designadamente nos artigos 24.º e 25.º do Código de Processo nos Tribunais Administrativos.
 

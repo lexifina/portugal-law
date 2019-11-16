@@ -6,9 +6,9 @@
 
 2 - As competências atribuídas no código aprovado pelo presente decreto-lei ao dirigente máximo do serviço ou a órgãos executivos da administração tributária serão exercidas, nos termos da lei, pelo presidente da autarquia.
 
-3 - As competências atribuídas pelo código aprovado pelo presente decreto-lei ao representante da Fazenda Pública serão exercidas, nos termos da lei, por licenciado em Direito desempenhando funções de mero apoio jurídico.
+3 - As competências atribuídas pelo código aprovado pelo presente decreto-lei ao representante da Fazenda Pública serão exercidas, nos termos da lei, por licenciado em Direito ou em Solicitadoria desempenhando funções de mero apoio jurídico.
 
-4 - A competência para cobrança coerciva de impostos e outros tributos administrados por autarquias locais pode ser atribuída à administração tributária mediante protocolo.
+4 - A competência para cobrança coerciva de impostos e outros tributos administrados por autarquias locais pode ser atribuída à administração tributária mediante protocolo, ou a agentes de execução mediante protocolo com a Ordem dos Solicitadores e dos Agentes de Execução.
 
 5 - A competência para cobrança coerciva de tributos administrados pelas freguesias pode ser atribuída aos municípios a cuja área pertençam mediante protocolo.
 
