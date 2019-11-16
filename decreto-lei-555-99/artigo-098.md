@@ -69,3 +69,5 @@ t) A deterioração dolosa da edificação pelo proprietário ou por terceiro ou
 10 - A competência para determinar a instauração dos processos de contra-ordenação, para designar o instrutor e para aplicar as coimas pertence ao presidente da câmara municipal, podendo ser delegada em qualquer dos seus membros.
 
 11 - O produto da aplicação das coimas referidas no presente artigo reverte para o município, inclusive quando as mesmas sejam cobradas em juízo.
+
+12 - Após o decurso dos prazos do recurso de impugnação judicial e de pagamento voluntário da coima, segue-se o regime de execução de obrigações pecuniárias, previsto no artigo 179.º do Código de Procedimento Administrativo.
