@@ -1,0 +1,8 @@
+Aviso n.º 18718/2019
+Sumário: Projeto de alteração ao regulamento municipal de atribuição de bolsas de estudo a alunos do ensino superior.
+Torna-se público que a Câmara Municipal da Nazaré deliberou, na sua reunião de 4 de novembro de 2019, submeter a período de consulta pública, pelo prazo de 30 dias úteis, o Projeto de alteração ao Regulamento Municipal de atribuição de Bolsas de Estudo a alunos do ensino superior, que visa a alteração aos critérios de avaliação de atribuição das bolsas, nomeadamente ao artigo 11.º e a introdução do artigo 13.º ao Regulamento em vigor.
+O prazo da consulta pública é contado da data da publicação do respetivo Aviso na 2.ª série do Diário da República.
+O processo poderá ser consultado no Gabinete da Educação, durante as horas normais de expediente (das 09:30H às 17:00H), devendo as sugestões/contribuições escritas ser aí entregues no prazo estipulado. O processo poderá, também, ser consultado no portal do Município, em www.cm-nazare.pt.
+Qualquer interessado pode apresentar, durante o período de consulta pública, por escrito, sugestões sobre quaisquer questões que possam ser consideradas relevantes no âmbito do presente procedimento, conforme disposto no n.º 2 do citado artigo 101.º do Novo Código do Procedimento Administrativo, endereçados ao Gabinete da Educação da Câmara Municipal da Nazaré, para a morada: Av. Vieira Guimarães, n.º 54, 2450-112 Nazaré, entregues nesse Gabinete, que funciona nas instalações da Biblioteca municipal da Nazaré, através do fax 262 550 019 ou ainda através do e-mail fabio.martins@cm-nazare.pt.
+7 de novembro de 2019. - O Presidente da Câmara Municipal da Nazaré, Walter Manuel Cavaleiro Chicharro.
+312741813
