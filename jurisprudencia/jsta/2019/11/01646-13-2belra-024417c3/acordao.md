@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal Administrativo de 2019-11-21, processo 01646/13.2BELRA
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01646/13.2BELRA
+
+**Data do Acordão:** 11/21/2019
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOAQUIM CONDESSO
+
+**Descritores:** IRS; MAIS VALIAS; INSOLVÊNCIA; FISCALIZAÇÃO CONCRETA DA CONSTITUCIONALIDADE; PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA; PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA
+
+**Nº Convencional:** JSTA000P25205
+
+**Nº do Documento:** SA22019112101646/13
+
+**Data de Entrada:** 02/26/2019
+
+**Recorrente:** A...... E OUTRO
+
+**Recorrido 1:** AT-AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Os bens apreendidos e vendidos em processo de insolvência continuam a ser propriedade do insolvente até à venda.
+
+II - A diferença entre o valor de aquisição e de venda dos bens imóveis, ainda que esta se faça em processo de insolvência e o respectivo produto fique afecto à satisfação dos credores da insolvência, não deixa de ser um rendimento obtido pelo insolvente, que está obrigado a declará-lo, enquanto sujeito passivo de imposto.
+
+III - Em sede de impugnação judicial da liquidação de um imposto apenas pode conhecer-se da legalidade desse acto e já não da responsabilidade pelo pagamento da dívida por ele originada, matéria que apenas poderá ser discutida em sede de oposição à execução fiscal.
+
+IV - O que pode e deve ser objecto de fiscalização concreta da constitucionalidade, por parte dos Tribunais, são normas e não quaisquer decisões, sejam elas de natureza judicial ou administrativa, nem tão pouco eventuais interpretações que de tais normas possam ser efectuadas por aquelas decisões (cfr. artºs.204 e 280, nº.1, da C.R.Portuguesa).
+
+V - O princípio da capacidade contributiva exprime e concretiza o princípio da igualdade fiscal ou tributária. Isto porque se o princípio da igualdade tributária pressupõe o tratamento igual de situações iguais e o tratamento desigual de situações desiguais, a capacidade contributiva é o “tertium genus” - leia-se, o critério - que há-de servir de base à comparação. Neste sentido, o princípio da capacidade contributiva opera tanto como condição, ou pressuposto, quanto como critério ou parâmetro da tributação.
+
+VI - É o artº.103, da C.R.P., que consagra o princípio da legalidade tributária (principalmente os seus nºs.2 e 3), como um dos elementos estruturantes do Estado de direito constitucional. Especificamente o artº.103, nº.3, da C.R.P., reconhece, além do mais, o direito de não pagamento de impostos cuja liquidação e cobrança se não façam nas formas prescritas na lei, assim consagrando uma espécie de direito de resistência à imposição de exacções fiscais inconstitucionais ou ilegais.
+
+(sumário da exclusiva responsabilidade do relator)
