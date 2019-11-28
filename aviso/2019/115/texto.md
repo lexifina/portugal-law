@@ -1,0 +1,5 @@
+Aviso n.º 115/2019
+Sumário: Por ordem superior se torna público que o Aviso n.º 97/2019, publicado no Diário da República, 1.ª série, n.º 197, de 14 de outubro de 2019, se declara nulo e sem qualquer efeito.
+Por ordem superior se torna público que o Aviso n.º 97/2019, do Ministério dos Negócios Estrangeiros. publicado no Diário da República, 1.ª série, 197, de 14 de outubro de 2019, se declara nulo e sem qualquer efeito. Esse aviso tornou público o facto de, em 6 de junho de 2018 e em 19 de agosto de 2019, terem sido emitidas notas, respetivamente, pelo Ministério dos Negócios Estrangeiros da República da Estónia e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, comunicando o cumprimento dos respetivos requisitos de direito interno para aprovação do Acordo entre a República Portuguesa e a República da Estónia sobre Cooperação em Matéria de Defesa, assinado em Tallinn a 1 de junho de 2018.
+Direção-Geral dos Assuntos Europeus, 19 de novembro de 2019. - O Diretor-Geral, Rui Vinhas.
+112777049
