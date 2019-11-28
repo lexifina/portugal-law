@@ -1,0 +1,82 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=z0cicdXsctfDc%2f9d1yARp1h7LFP%2fPGVMel8b9Bs7qvIqqHf34aeiO%2fdSKc0kDVR%2fLPbpEhs8U02z8aTDhVPvFDlF%2fdKEEctQOAVBXAtX7LLShPZo92EzlqrMf22g5W0QzGV0aCZng02VuQ2i47rX6KSQmaNsnVdROvmsS6SfIEfjwTnjcIIdg5uaB26FYEsyBxpEx535%2flU1eVLFTgnGeYJwshXN9MyVA9O79pSzvAtRnFl4FA9LHWO0i%2fC6Jes0DgOirCwusGnDpbNeLznaglZoqG5yA3uKgOEVajD%2bffRtAHBPCFjXYUZYch%2fFDjvpml8adBIDDiTp4ORyeY%2buOiAEn0WrTw1oHDEHpIHFYgc2Z%2f2WA%2bcWd1S5gBz1pfYaXvKLX4rMWQ6%2fHvxYqG7g79%2bPFDMkB%2bjM%2f8YhHh57FjA%3d&fich=RequerimentosXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "96fd1f34afbaf4a538efe509d9bf0017a1ace25d2f4cc53999570fe4dcaa1746",
+  "legislatura": "XIV",
+  "id": "113336",
+  "tipo": "Requerimento",
+  "numero": "2",
+  "data_registo": "2019-11-28",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Protocolo entre Universidade de Coimbra e Hospital CUF Coimbra",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "6949",
+        "nome": "Tiago Estevão Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "469",
+        "nome": "Porfírio Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1893",
+        "nome": "Pedro Coimbra"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "5609",
+        "nome": "Cristina Jesus"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "64",
+        "nome": "João Gouveia"
+      }
+    ],
+    "DataEnvio": "2019-11-29",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2019-11-29",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Universidade de Coimbra",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2020-03-27",
+            "docRemetida": null,
+            "entidade": "Universidade de Coimbra",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a566c4d57566b5a6d4e6d4c5456694e5449744e4441354f4330354d6d4e6d4c5756694d5752684d5441784f546b32597935775a47593d&fich=5e1edfcf-5b52-4098-92cf-eb1da101996c.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2019-11-28",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a6b344e5755795a6a49334c544134596a45744e44646a597931684e446c694c5467304f544a6c4d6a526a5a4459774e4335775a47593d&fich=985e2f27-08b1-47cc-a49b-8492e24cd604.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "113336",
+    "Legislatura": "XIV",
+    "Nr": "2",
+    "Observacoes": null,
+    "Publicacao": null,
+    "ReqTipo": "EI",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
