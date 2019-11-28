@@ -1,0 +1,5 @@
+Aviso n.º 114/2019
+Sumário: Por ordem superior se torna público que o Aviso n.º 95/2019, publicado no Diário da República, 1.ª série, n.º 192, de 7 de outubro de 2019, se declara nulo e sem qualquer efeito.
+Por ordem superior se torna público que o Aviso n.º 95/2019, do Ministério dos Negócios Estrangeiros, publicado no Diário da República, 1.ª série, n.º 192, de 7 de outubro de 2019, se declara nulo e sem qualquer efeito. Esse aviso tornou público o facto de, em 27 de outubro de 2017 e em 31 de julho de 2019, terem sido emitidas notas, respetivamente, pela Embaixada do Grão-Ducado do Luxemburgo em Lisboa e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, comunicando o cumprimento dos respetivos requisitos de direito interno para aprovação do Acordo de Cooperação entre a República Portuguesa e o Grão-Ducado do Luxemburgo no domínio do Turismo, assinado na Cidade do Luxemburgo, em 5 de abril de 2017.
+Direção-Geral dos Assuntos Europeus, 19 de novembro de 2019. - O Diretor-Geral, Rui Vinhas.
+112777121
