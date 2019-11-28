@@ -1,0 +1,617 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13396",
+  "numero": "29",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-11-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2023-04-12",
+            "entidades": null,
+            "id": "128185",
+            "tipo": null,
+            "titulo": "Audição em 2023-04-12 com 1ºs Subscritores da Petição 29/XIV-1ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2023-04-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": "2023-04-19",
+              "descricao": null,
+              "detalhe": null,
+              "id": "114749",
+              "publicacao": null,
+              "resultado": "Aprovado",
+              "reuniao": "39",
+              "tipoReuniao": "Ordinária",
+              "unanime": "S"
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2023-04-21",
+        "DataBaixaComissao": "2022-04-13",
+        "DataEnvioPAR": "2023-04-21",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2023-04-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c63793959566b786c5a793944543030764d5446445155564f5253394562324e31625756756447397a5547563061574e68627938354e7a557a5a54566d4f5330324d3249304c5451335a6d457459544a6c5a4330335a4467774e7a4d774e5455305a546b756347526d&fich=9753e5f9-63b4-47fa-a2ed-7d80730554e9.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "8335",
+        "Legislatura": "XV",
+        "Nome": "Comissão de Ambiente e Energia",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "2023-04-19",
+            "dataNomeacao": "2022-04-26",
+            "gp": "PSD",
+            "id": "6529",
+            "motivoCessacao": "Entrega do Relatório Final",
+            "nome": "Cláudia André"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2020-05-06",
+        "DataArquivo": "2022-04-13",
+        "DataBaixaComissao": "2020-02-14",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2020-05-06",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-05-07",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a457851304646543151765247396a6457316c626e52766331426c64476c6a59573876597a6c6d597a4e6a4d4459744d6a49794f4330305a6a466a4c546b334d544d744e4449324d4755344d6d49774e444d324c6e426b5a673d3d&fich=c9fc3c06-2228-4f1c-9713-4260e82b0436.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7464",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Ambiente, Energia e Ordenamento do Território",
+        "NotasAdmissibilidade": null,
+        "Numero": "11",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2023-10-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-02-19",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a67334d6a59334e546b314c5463794d4455744e44566d4f4330344d7a426b4c5445324e44633359545930597a67314d6935775a47593d&fich=87267595-7205-45f8-830d-16477a64c852.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "243295",
+      "172909",
+      "172951",
+      "233219",
+      "243277",
+      "243302",
+      "243318",
+      "243330"
+    ],
+    "Iniciativasoriginadas": [
+      "243295",
+      "172909",
+      "172951",
+      "233219",
+      "243277",
+      "243302",
+      "243318",
+      "243330"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=20"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366374",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "20-20"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/20?pgs=20&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Lei n.º 913/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=21"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366375",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "21-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/21?pgs=21-22&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 863/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=22"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366376",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "22-22"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/22?pgs=22&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 688/XV/1ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=23"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366377",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "23-23"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/23?pgs=23&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 888/XV/2ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=24"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366378",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-24"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/24?pgs=24&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 902/XV/2ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=25"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366379",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "24-25"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/24?pgs=24-25&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 909/XV/2ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=26"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366380",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "25-26"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/25?pgs=25-26&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": "Apresenta  o Projeto de Resolução n.º 916/XV/2ª"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2023-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2023_10_12_15_00_00_clean_14_plenario.xml&idsegmento=27"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "366381",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "26-27"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2023-10-13",
+                "pubLeg": "XV",
+                "pubNr": "12",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/26?pgs=26-27&org=PLC"
+              }
+            ],
+            "Sumario": "Pela remoção total do amianto das escolas públicas (ZERO — Associação Sistema Terrestre Sustentável); Por uma remoção eficiente e segura do amianto em infraestruturas públicas; Recomenda ao Governo a adoção de uma estratégia de remoção de todo o amianto nas escolas e a reavaliação das escolas já intervencionadas; Pelo levantamento e remoção de todo o amianto presente nos estabelecimentos de ensino; Avaliação do programa de remoção do amianto em escolas públicas e planeamento de uma nova fase de intervenção; Cumprimento do programa de recuperação/reabilitação de escolas; Recomenda ao Governo a atualização do programa de remoção de amianto das escolas; Pela remoção do amianto dos equipamentos escolares; Recomenda ao Governo que prossiga os esforços para a remoção do amianto presente nos estabelecimentos de ensino.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13396",
+    "PetAssunto": "Pela remoção total do amianto das escolas públicas",
+    "PetDataEntrada": "2019-11-28",
+    "PeticoesAssociadas": null,
+    "PetId": "13396",
+    "PetLeg": "XIV",
+    "PetNr": "29",
+    "PetNrAssinaturas": "5345",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "36480",
+        "obs": null,
+        "pag": [
+          "20-27"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2023-10-13",
+        "pubLeg": "XV",
+        "pubNr": "12",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/15/02/012/2023-10-13/20?pgs=20-27&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "899609",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-05-08",
+        "pubLeg": "XIV",
+        "pubNr": "37",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/037/2020-05-08/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
