@@ -1,0 +1,49 @@
+Portaria n.º 398-A/2019
+de 28 de novembro
+Sumário: Fixa as taxas de instalação e de funcionamento de recipientes sob pressão simples (RSPS) e de equipamentos sob pressão (ESP).
+O Regulamento de Instalação e de Funcionamento de Recipientes sob Pressão Simples (RSPS) e de Equipamentos sob Pressão (ESP), aprovado pelo Decreto-Lei n.º 131/2019, de 30 de agosto, prevê o pagamento de taxas a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+Nestes termos, e ao abrigo do n.º 1 do artigo 34.º do Decreto-Lei n.º 131/2019, de 30 de agosto:
+Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de Estado Adjunto e da Economia, o seguinte:
+1 - Para efeitos de pagamento de taxas, os ESP classificam-se nos seguintes grupos:
+a) Grupo I: ESP em que o produto PS x V é maior que 60 000 bar.L;
+b) Grupo II: ESP em que o produto PS x V é menor ou igual que 60 000 bar.L e maior que 30 000 bar/L;
+c) Grupo III: ESP em que o produto PS x V é menor ou igual que 30 000 bar.L e maior que 15 000 bar/L;
+d) Grupo IV: ESP em que o produto PS x V é menor ou igual que 15 000 bar.L.
+2 - Na classificação estabelecida no número anterior, PS representa a pressão máxima admissível do ESP, em bar, e V a capacidade total do mesmo, em litros.
+3 - As tubagens integram a classificação prevista na alínea d) do n.º 1, para efeito de pagamento de taxa.
+4 - Está sujeita ao pagamento das taxas previstas no anexo n.º 1, a prestação dos seguintes serviços relativos aos ESP:
+a) Aprovação de instalação;
+b) Aprovação de instalação de conjuntos processuais;
+c) Aprovação de funcionamento;
+d) Renovação da aprovação de funcionamento.
+5 - Está sujeita ao pagamento das taxas previstas no anexo n.º 2, a prestação dos seguintes serviços relativos aos RSPS:
+a) Validação de funcionamento;
+b) Revalidação de funcionamento.
+6 - Está sujeita ao pagamento das taxas previstas no anexo n.º 3, a prestação dos seguintes serviços relativos aos ESP e RSPS:
+a) Reavaliação da conformidade;
+b) Averbamento de alteração de designação social, mudança de titularidade e utilizador;
+c) Emissão de placa de identificação (exceto a inicial);
+d) Validação de instalação e de funcionamento provisório de ESP;
+e) Vistoria.
+7 - As importâncias devidas são pagas ao IPQ, I. P., através do portal ePortugal, na sequência da submissão eletrónica dos respetivos pedidos de licenciamento.
+8 - As taxas previstas na presente portaria constituem receitas próprias do IPQ, I. P.
+9 - A presente portaria entra em vigor na mesma data da entrada em vigor do Decreto-Lei n.º 131/2019, de 30 de agosto.
+10 - Com a entrada em vigor da presente portaria fica revogada a Portaria n.º 1210/2001, de 20 de outubro.
+Em 28 de novembro de 2019.
+O Ministro de Estado e das Finanças, Mário José Gomes de Freitas Centeno. - O Secretário de Estado Adjunto e da Economia, João Jorge Arêde Correia Neves.
+ANEXO N.º 1
+(a que se refere o n.º 4)
+Equipamentos sob pressão (ESP)
+
+(ver documento original)
+ANEXO N.º 2
+(a que se refere o n.º 5)
+Recipientes sob pressão simples (RSPS)
+
+(ver documento original)
+ANEXO N.º 3
+(a que se refere o n.º 6)
+ESP e RSPS
+
+(ver documento original)
+112808136
