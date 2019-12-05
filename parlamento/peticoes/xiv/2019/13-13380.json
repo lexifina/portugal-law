@@ -1,0 +1,609 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13380",
+  "numero": "13",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2019-12-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-03-13",
+            "entidades": null,
+            "id": "114625",
+            "tipo": null,
+            "titulo": "Audição em 2020-03-13 com Subscritores da Petição"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-04-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-12",
+        "DataArquivo": "2020-05-20",
+        "DataBaixaComissao": "2020-01-10",
+        "DataEnvioPAR": "2020-05-20",
+        "DataReaberta": "2020-02-12",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-03-06",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738764e444e685a544a6a5a6a55744d446334597930304d44417a4c5467354e7a4974595745304e6d4a6b4e6d55305a4441324c6e426b5a673d3d&fich=43ae2cf5-078c-4003-8972-aa46bd6e4d06.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-05-20",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a464451554e45544563765247396a6457316c626e52766331426c64476c6a595738765a5459324e7a4d335a6a41744e444a684e4330304f4455784c574a6a4e4745745a6d4d774f5749315a574d775a6a59794c6e426b5a673d3d&fich=e66737f0-42a4-4851-bc4a-fc09b5ec0f62.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "7264",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-12",
+            "gp": "PS",
+            "id": "6859",
+            "motivoCessacao": null,
+            "nome": "Cláudia Santos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-09-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-01-16",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6c6b4e4463314d7a466d4c5755785a446b744e4745774f4331685a5445334c57526b4e3245794f475a6a4e7a41324e7935775a47593d&fich=9d47531f-e1d9-4a08-ae17-dd7a28fc7067.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "45075",
+      "45082"
+    ],
+    "Iniciativasoriginadas": [
+      "45082",
+      "45075"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/55?pgs=55&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=62"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=69"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-56",
+                  "61-62"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/56?pgs=56,61-62&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "56-58"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/56?pgs=56-58&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=64"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "58-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/58?pgs=58-59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=65"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "59-59"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/59?pgs=59&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=66"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-60"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/60?pgs=60&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=67"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "60-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/60?pgs=60-61&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-09-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_09_16_15_00_00_clean_14_plenario.xml&idsegmento=68"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "61-61"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-09-17",
+                "pubLeg": "XIV",
+                "pubNr": "1",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/61?pgs=61&org=PLC"
+              }
+            ],
+            "Sumario": "Pela adoção de uma Estratégia Nacional Contra a Corrupção; Recomenda ao Governo que apresente e submeta à aprovação da Assembleia da República a Estratégia Nacional de Combate à Corrupção 2020-2024; Pela eficaz proteção dos denunciantes.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13380",
+    "PetAssunto": "Pela adoção de uma Estratégia Nacional Contra a Corrupção",
+    "PetDataEntrada": "2019-12-05",
+    "PeticoesAssociadas": null,
+    "PetId": "13380",
+    "PetLeg": "XIV",
+    "PetNr": "13",
+    "PetNrAssinaturas": "8482",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "16161",
+        "obs": null,
+        "pag": [
+          "54-62"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-09-17",
+        "pubLeg": "XIV",
+        "pubNr": "1",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/001/2020-09-17/54?pgs=54-62&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
