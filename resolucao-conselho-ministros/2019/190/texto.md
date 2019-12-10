@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 190/2019
+Sumário: Procede à reprogramação dos encargos plurianuais com a aquisição de serviços para a remoção de resíduos perigosos das antigas minas de carvão de São Pedro da Cova.
+A Resolução do Conselho de Ministros n.º 98/2017, de 7 de julho, autorizou a realização da despesa relativa à aquisição de serviços para a remoção dos resíduos perigosos remanescentes depositados nas escombreiras das antigas minas de São Pedro da Cova, em Gondomar, incluindo o seu encaminhamento para o destino final adequado às características dos resíduos, no montante de (euro)12 000 000, nos quais já se inclui o IVA à taxa legal em vigor, distribuída pelos anos de 2017, 2018 e 2019.
+Assim, a Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR-N) lançou um concurso público através do anúncio de procedimento n.º 6618/2017, publicado no Diário da República, 2.ª série, n.º 147, de 1 de agosto, na plataforma eletrónica de contratação pública e no Jornal Oficial da União Europeia, ao abrigo do disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+Sucede, porém, que o ato de adjudicação da CCDR-N, de 16 de abril de 2018, ao concorrente vencedor do concurso foi objeto de uma ação de impugnação que, por se inscrever no âmbito do contencioso pré-contratual urgente, teve por efeito a suspensão automática daquele ato, não permitindo a celebração e início de execução do contrato no prazo inicialmente previsto. Este condicionalismo apenas foi ultrapassado em novembro de 2019 por determinação do Tribunal, onde foi intentada a ação de impugnação, que considerou demonstrados os factos que sustentam a relevância dos graves prejuízos que poderiam resultar para o interesse público decorrentes do não levantamento do efeito suspensivo do ato impugnado, atentos os especiais valores em causa - a defesa do ambiente e da saúde pública.
+Torna-se, assim, necessário proceder à reprogramação dos encargos plurianuais autorizados nos termos da Resolução do Conselho de Ministros n.º 98/2017, de 7 de julho, de forma a adaptá-los à real execução do contrato.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Alterar os n.os 3, 4 e 6 da Resolução do Conselho de Ministros n.º 98/2017, de 7 de julho, que passam a ter a seguinte redação:
+«3 - [...]:
+a) 2017 - [...]
+b) 2018 - (euro) 3 000 000,00;
+c) 2019 - (euro) 3 700 000,00;
+d) 2020 - (euro) 3 000 000,00;
+e) 2021 - (euro) 2 000 000,00.
+4 - Determinar que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano anterior, ficando autorizadas a transição de saldos no orçamento de investimento da Comissão de Coordenação e Desenvolvimento Regional do Norte dos montantes já transferidos em 2017, 2018 e 2019 pelo Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, e a respetiva aplicação em despesa, sem prejuízo do cumprimento da regra do equilíbrio prevista na Lei de Enquadramento Orçamental aprovada pela Lei n.º 91/2001, de 20 de agosto, na sua redação atual.
+6 - Delegar, com faculdade de subdelegação, na Ministra da Coesão Territorial e no Ministro do Ambiente e da Ação Climática, a competência para a prática de todos os atos a realizar no âmbito do procedimento referido no n.º 2, incluindo a aprovação da minuta e a outorga do respetivo contrato.»
+2 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+Presidência do Conselho de Ministros, 5 de dezembro de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.
+112832347
