@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal Administrativo de 2019-12-17, processo 01574/08.3BELRS 0626/13
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01574/08.3BELRS 0626/13
+
+**Data do Acordão:** 12/17/2019
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ASCENSÃO LOPES
+
+**Descritores:** CIRCULAR; GARANTIA; ACORDO; CONSOLIDAÇÃO NA ORDEM JURÍDICA; NEUTRALIDADE FISCAL
+
+**Nº Convencional:** JSTA000P25362
+
+**Nº do Documento:** SA22019121701574/08
+
+**Data de Entrada:** 07/03/2013
+
+**Recorrente:** A...., SGPS, S.A.
+
+**Recorrido 1:** AT-AUTORIDADE TRIBUTÁRIA E ADUANEIRA
+
+**Votação:** UNANIMIDADE
+
+## Sumário
+
+I - Nos termos do disposto no artigo 31.º/2 (actual artigo 32.º) do EBF os encargos financeiros suportados com a aquisição de partes de capital, por parte das SGPS, não concorrem para formação do lucro tributável, decorrendo da letra e espírito do citado normativo que apenas não concorrem para a formação do lucro tributável os encargos financeiros suportados com a sua aquisição, sendo que o critério a ter em conta para a determinação dos encargos financeiros só pode ser o critério da afectação/imputação directa ou real.
+
+II - A aplicação pela AT da Circular 7/2004, sem que tenham sido avançados fundamentos que conduzam à demonstração da inadequação do método utilizado pela recorrente, determina a ilegalidade da correção efectuada, pois que a invocada impossibilidade prática em distinguir os encargos financeiros, efectivamente, suportados com a aquisição de partes de capital, dos restantes encargos, não pode servir de fundamento para a utilização de um outro critério determinativo da correção sindicada.
+
+III - Estando em causa contratos de mútuo em que ambas as sociedades se obrigaram conjunta e solidariamente na satisfação do crédito nos exactos termos contratuais, a sua responsabilidade é determinada pelo próprio contrato (princípio da liberdade contratual) sendo que ainda que uma das mutuárias seja dominante da outra, a sua posição contratual é própria, nos termos contratuais, e não pode ser transmutada em garantia atípica de obrigações sujeita ao regime de preços de transferência, por falta de verificação dos seus pressupostos.
+
+IV - Os conceitos de colocação à disposição e recebimento de rendimentos são distintos como resulta da ordem natural das coisas e dos procedimentos, e o momento relevante para a verificação dos pressupostos para a dedução de 95% dos dividendos atribuídos por uma empresa brasileira à sua participante empresa portuguesa é, claramente, o do recebimento, decorrente da expressão legal “receber dividendos”, contida no artº 23º nº 2 da ADT Portugal-Brasil e não o momento da sua colocação à disposição.
+
+V - O regime da consolidação fiscal parte sempre do pressuposto de que os resultados decorrentes das operações efectuadas entre sociedades do mesmo grupo são eliminados na totalidade, não só os resultados imediatos, mas igualmente todos os circunstancialismos que permitam considerar para efeitos fiscais o objecto de tais operações como desligado de uma operação intragrupo – princípio da neutralidade;
+
+VI - Tanto o regime consagrado no DL 414/87, de 31/12, como o artigo 59º do CIRC provinham da mesma fonte comum, sendo que o regime daquele DL (Regime de Tributação pelo Lucro Consolidado) acabou por ser incorporado no CIRC sem alterações relevantes a nível estrutural, nomeadamente quanto ao princípio da neutralidade fiscal.
