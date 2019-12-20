@@ -6,7 +6,7 @@
 
 2 - O PVP máximo dos medicamentos genéricos a introduzir no mercado nacional, bem como os que sejam objeto do procedimento referido no número anterior, é inferior no mínimo em 25 % ao PVP máximo do medicamento de referência, com igual dosagem, ou, não havendo, com a dosagem mais aproximada e na mesma forma farmacêutica, desde que este seja inferior a (euro) 10 no PVA em todas as apresentações.
 
-3 - Para efeitos dos números anteriores, o PVP máximo do medicamento de referência é determinado pela média do PVP máximo desse medicamento nos dois anos imediatamente anteriores ao pedido de preço do primeiro medicamento genérico.
+3 - Para efeitos dos números anteriores, o PVP máximo do medicamento de referência é determinado pela média do PVP máximo desse medicamento nos dois anos imediatamente anteriores ao pedido.
 
 4 - O medicamento de referência para efeitos dos números anteriores é o medicamento que esteja, ou tenha sido, autorizado há mais tempo em Portugal com base em documentação completa, incluindo resultados de ensaios farmacêuticos, pré-clínicos e clínicos com a mesma composição qualitativa e quantitativa em substâncias ativas.
 

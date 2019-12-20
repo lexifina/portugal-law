@@ -10,4 +10,4 @@ b) Medicamentos não sujeitos a receita médica comparticipados.
 
 2 - (Revogado).
 
-3 - Ficam excluídos do disposto no n.º 1 os medicamentos sujeitos a receita médica restrita que sejam de uso exclusivamente hospitalar de acordo com a alínea a) do n.º 1 do artigo 118.º do Decreto-Lei n.º 176/2006, de 30 de agosto.
+3 - (Revogado).
