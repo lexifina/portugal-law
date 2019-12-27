@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 200/2019
+Sumário: Procede à delegação de competências no que respeita à designação dos membros dos órgãos de administração e dos órgãos diretivos das entidades do setor público empresarial e do setor público administrativo.
+O XXII Governo Constitucional estabeleceu, no seu regime de organização e funcionamento, a faculdade do Conselho de Ministros delegar as competências que lhe são conferidas pela Lei, no respeitante à designação dos membros dos órgãos de administração e dos órgãos diretivos das entidades públicas empresariais que integram o setor público empresarial e do setor público administrativo.
+Nesta medida, justifica-se um procedimento de nomeação mais célere, em nome da salvaguarda da estabilidade da gestão, sendo que a opção por despacho é o meio mais adequado e mais ajustado à realidade exigente e complexa de funcionamento das entidades em causa.
+Esta opção não prejudica o imperativo de manter, ao nível da gestão, uma sólida capacitação dos órgãos de gestão ou administração, que devem integrar personalidades com comprovada idoneidade, mérito profissional, competência e experiência, bem como sentido de interesse público, o que continua a ser assegurado pela previsão da avaliação prévia do currículo e da adequação de competências dos nomes propostos para os cargos a desempenhar, a realizar pela Comissão de Recrutamento e Seleção para a Administração Pública.
+Assim:
+Nos termos do n.º 3 do artigo 73.º do Decreto-Lei n.º 169-B/2019, de 3 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Delegar, nos membros do Governo responsáveis pela área das finanças e pela área do respetivo setor de atividade, as competências que lhe são conferidas pela Lei, no que respeita à designação dos membros dos órgãos de administração e dos órgãos diretivos das entidades públicas empresariais que integram o setor público empresarial e das entidades do setor público administrativo, sem prejuízo do cumprimento de todas as regras relativas aos respetivos procedimentos de seleção ou nomeação.
+2 - Determinar que a designação referida no número anterior é feita mediante despacho dos membros do Governo respetivos.
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 19 de dezembro de 2019. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+112879611
