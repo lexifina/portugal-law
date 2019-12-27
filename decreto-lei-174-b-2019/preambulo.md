@@ -1,0 +1,45 @@
+Decreto-Lei n.º 174-B/2019
+
+de 26 de dezembro
+
+Sumário: Procede à fusão por incorporação da EMEF - Empresa de Manutenção de Equipamento Ferroviário, S. A., na CP - Comboios de Portugal, E. P. E., e estabelece os respetivos termos e condições.
+
+Conforme se dispõe na Lei de Bases do Sistema de Transportes Terrestres, aprovada pela Lei n.º 10/90, de 17 de março, na sua redação atual, a organização e funcionamento do sistema de transportes terrestres tem por objetivos fundamentais assegurar a máxima contribuição para o desenvolvimento económico e promover o maior bem-estar da população, designadamente através da adequação permanente da oferta dos serviços de transporte às necessidades dos utentes.
+
+A política pública de transportes beneficia da prioridade que os XXI e XXII Governos Constitucionais assumiram nos respetivos Programas, com o propósito de promover um transporte público ao serviço da mobilidade e da qualidade de vida. Cabe neste propósito estratégico a continuada valorização do contributo do transporte ferroviário para a sustentabilidade económica, ambiental e social do país, bem como o reforço do seu papel como fator de coesão territorial e de garantia da progressiva melhoria das condições de mobilidade da população, com impactos transversais em múltiplos setores que dependem das redes de transporte por caminho-de-ferro.
+
+A CP - Comboios de Portugal, E. P. E. (CP, E. P. E.), principal operador de transporte ferroviário de passageiros no país, está sujeita, na prossecução da sua atividade, em grande parte definida como de serviço público, ao disposto no Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho, na sua redação atual (RJSPTP), em particular a determinados níveis de serviço.
+
+O Estado é a autoridade de transportes competente quanto ao serviço público de transporte de passageiros em modo ferroviário pesado, conforme se dispõe na alínea b) do n.º 1 do artigo 5.º do RJSPTP. Esta condição implica para o Estado a assunção e o desempenho de atribuições em matéria de organização, exploração, atribuição, investimento, financiamento e fiscalização do referido serviço público, de determinação de obrigações de serviço público e tarifários, nos termos da alínea b) do artigo 3.º do referido RJSPTP.
+
+A operação ferroviária tem-se caracterizado por atrasos, supressões e outros constrangimentos, em larga medida resultantes de um parque de material circulante que carece, pelas características e pela idade média, de intervenções regulares e com profundidade, a um nível que não tem sido satisfatoriamente atingido, para permitir à CP, E. P. E., prestar adequadamente o serviço público de transporte ferroviário de passageiros de que é concessionária, a que há que aditar as oportunidades, e as inerentes exigências, derivadas do aumento da procura, em particular nos serviços urbanos e suburbanos.
+
+Mostra-se assim essencial aumentar a capacitação da CP, E. P. E., com vista à recuperação dos níveis de serviço prestado e à sua preparação para continuar a operar num mercado de transportes em acelerada mutação, sendo oportuno e inadiável proceder à modificação da situação existente relativamente às atividades de manutenção, reparação e reabilitação do material circulante, como medida complementar de outra - igualmente inscrita no Programa do XXII Governo Constitucional - que é a do investimento na aquisição de novo material circulante, naturalmente no quadro do contrato de serviço público.
+
+A EMEF - Empresa de Manutenção de Equipamento Ferroviário, S. A. (EMEF, S. A.), de capital integralmente detido pela CP, E. P. E., foi constituída em 1993, numa estratégia de autonomização da área industrial desta, dedicada à reparação e reabilitação do material circulante. Consolidando o alargamento da sua área de atividade à intervenção de manutenção sobre o universo da frota da CP, E. P. E., veio a absorver a totalidade da respetiva estrutura industrial.
+
+A visão conceptual da EMEF, S. A., como empresa virada para o mercado, tendencialmente aberta ao capital privado e vocacionada para captar uma carteira de clientes além da própria acionista CP, E. P. E., a par de se manter como prestadora de serviços a esta, colocou aquela empresa numa situação de particular complexidade estratégica. Por inerência da sua condição de subsidiária da CP, E. P. E., coube-lhe sempre responder às necessidades da entidade-mãe, ao passo que enfrentou constrangimentos, designadamente legais, para se lançar em projetos de investimento que a dotassem de capacidade para o fazer adequadamente e ainda competir no mercado para o qual tinha sido autonomizada. Assim, não deixou de estar dependente, em grande medida, dos serviços prestados à CP, E. P. E., só tendo logrado aumentar o seu volume de negócios para terceiros a partir de 2012, com a privatização da CP Carga.
+
+Ao que fica dito acresce a situação inadequada e desvantajosa, para ambas as empresas, de aquela não poder conduzir uma estratégia sustentada, como seria de boa gestão num grupo empresarial, de obter os referidos serviços da sua subsidiária integralmente controlada, porquanto a possibilidade de contratação in house, nos termos previstos pelo Código dos Contratos Públicos, é contingente do seu peso relativo na faturação da EMEF, S. A., inerentemente mutável ao longo do tempo, o que tem gerado quebra da base de sustentação para o próprio planeamento estratégico da segunda, incluindo uma adequada política de investimentos.
+
+Assim, a Resolução do Conselho de Ministros n.º 110/2019, de 5 de julho, determinou a promoção dos estudos e demais diligências necessárias, nos termos da lei, com vista à fusão por incorporação da EMEF, S. A., na CP, E. P. E., até 31 de dezembro de 2019, assegurando a manutenção dos bens, direitos e obrigações legais e contratuais de que sejam titulares ou a que estejam adstritas no momento da fusão e salvaguardando os direitos dos trabalhadores.
+
+Em conformidade, o presente decreto-lei procede à referida fusão, com o objetivo de, promovendo adequados níveis de integração entre as necessidades da CP, E. P. E., quanto à manutenção, recuperação e renovação do material circulante, e os meios humanos, materiais e organizacionais atualmente na esfera da EMEF, S. A., reforçar a capacidade operacional e funcional da principal operadora nacional de transporte ferroviário de passageiros. Neste quadro, a fusão por incorporação na CP, E. P. E., da EMEF, S. A., é uma medida de reorganização que visa garantir a normalização e o reforço da qualidade do serviço público prestado pela incorporante, postulando-se como fator de um modelo de negócio social e economicamente sustentável, tendo por base linhas sólidas de gestão integrada - para a atividade de transporte e para a atividade central de suporte que é a de manutenção e reparação -, com ganhos de qualidade, eficiência e racionalidade, permitindo melhor afetação de recursos e eliminando redundâncias e condicionamentos decorrentes da atual tipologia de organização.
+
+As administrações da CP, E. P. E., e da EMEF, S. A., em cumprimento da Resolução do Conselho de Ministros n.º 110/2019, de 5 de julho, aprovaram e apresentaram um «Memorando de Fusão», no qual são elencados os traços gerais para a concretização da operação. Este documento contempla informação relacionada com a modalidade, os motivos, as condições e os objetivos da fusão.
+
+O presente decreto-lei modifica a situação atual, procedendo à fusão das duas entidades, por incorporação da EMEF, S. A., na CP, E. P. E., com a inerente transmissão de bens, direitos e obrigações. A transmissão engloba, não só equipamentos e outros bens móveis, mas também um vultoso ativo incorpóreo, de know-how e capacidade técnica, conduzindo a uma sucessão da atividade sem interrupção ou perturbação. Nestes moldes, a fusão não acarreta entropias para o pontual cumprimento das obrigações contratuais da EMEF, S. A., perante terceiros, nem gera diminuição das garantias destes.
+
+Relativamente à proteção dos credores, consigna-se regime próprio de oposição à fusão.
+
+A fusão por incorporação implica a extinção da EMEF, S. A., a qual, em conformidade com o regime jurídico do setor público empresarial, consagrado no Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, ocorre também por via do presente decreto-lei. A operação segue os termos estabelecidos no presente decreto-lei, que a determina, afastando a aplicação, em termos genéricos, do Código das Sociedades Comerciais, por estar em causa uma fusão com uma entidade pública empresarial.
+
+A operação implica alteração pontual dos estatutos da CP, E. P. E., igualmente introduzida pelo presente decreto-lei, nos termos do referido Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual.
+
+Foi ouvida a Comissão de Trabalhadores da CP - Comboios de Portugal, E. P. E.
+
+Foi promovida a audição da Comissão de Trabalhadores da EMEF - Empresa de Manutenção de Equipamento Ferroviário, S. A.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
