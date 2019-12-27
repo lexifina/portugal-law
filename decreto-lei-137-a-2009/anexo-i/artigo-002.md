@@ -16,14 +16,8 @@ c) A exploração de outros bens compreendidos no estabelecimento industrial ou 
 
 d) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;
 
-e) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização do material circulante;
+e) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;
 
-f) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como de outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.
+f) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;
 
-4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:
-
-a) Constituir sociedades ou adquirir partes de capital, nos termos da lei;
-
-b) Celebrar com outras empresas ou entidades os acordos que se revelem necessários ou convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;
-
-c) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto.
+g) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização do material circulante;
