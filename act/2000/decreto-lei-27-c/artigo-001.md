@@ -14,7 +14,7 @@ ii) Titularidade de cartão de débito;
 
 iii) Acesso à movimentação da conta através de caixas automáticos no interior da União Europeia, homebanking e balcões da instituição de crédito;
 
-iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos diretos e transferências, incluindo ordens permanentes, no interior da União Europeia.
+iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos diretos e transferências, incluindo ordens permanentes, no interior da União Europeia, e transferências através de aplicações de pagamento operadas por terceiros;
 
 v) (Revogada.)
 
