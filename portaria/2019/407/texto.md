@@ -1,0 +1,141 @@
+Portaria n.º 407/2019
+de 20 de dezembro
+Sumário: Visa estabelecer a sede e a área geográfica de intervenção das unidades da Polícia Judiciária, nos termos previstos no artigo 18.º do Decreto-Lei n.º 137/2019, de 13 de setembro.
+O Decreto-Lei n.º 137/2019, de 13 de setembro, aprovou a nova estrutura organizacional da Polícia Judiciária, definindo a missão, atribuições e estrutura de organização interna, assim como as competências das respetivas unidades orgânicas.
+Para além disso, uma vez que a Polícia Judiciária desenvolve as suas atribuições em todo o território nacional, no referido decreto-lei foram também estabelecidas as unidades orgânicas territorialmente desconcentradas.
+Importa, por isso, estabelecer as respetivas sedes e as áreas de intervenção das diversas unidades da Polícia Judiciária, o que, de acordo com o disposto no artigo 18.º, n.º 11, do Decreto-Lei n.º 137/2019, de 13 de setembro, deverá ser efetuado por portaria do membro do Governo responsável pela área da Justiça.
+A específica natureza da Polícia Judiciária como corpo superior de polícia criminal, com as concretas atribuições em matéria de prevenção e de investigação criminal e de coadjuvação das autoridades judiciárias, as áreas geográficas de intervenção das suas unidades orgânicas têm sido estabelecidas tendo por horizonte a divisão judiciária do território nacional.
+À circunstância de aprovação de uma nova orgânica, alia-se uma outra: a de ter sido implementada, com a Lei n.º 62/2013, de 26 de agosto, e respetivo Regulamento (Decreto-Lei n.º 49/2014, de 27 de março), uma nova organização judiciária, importando que as modificações verificadas no desenho do território judiciário se reflitam, também, nas áreas geográficas de intervenção das unidades da Polícia Judiciária, especificamente as que integram a área operacional de prevenção e investigação criminal.
+Assim:
+Ao abrigo do disposto no n.º 11 do artigo 18.º do Decreto-Lei n.º 137/2019, de 13 de setembro, manda o Governo, pela Ministra da Justiça, o seguinte:
+Artigo 1.º
+Objeto
+A presente portaria estabelece a sede e a área geográfica de intervenção das unidades da Polícia Judiciária, nos termos previstos no artigo 18.º do Decreto-Lei n.º 137/2019, de 13 de setembro.
+Artigo 2.º
+Direção Nacional, unidades orgânicas que a integram, unidades nacionais de investigação criminal, unidades de apoio operacional à investigação criminal, Instituto da Polícia Judiciária e Ciências Criminais e Laboratório de Polícia Científica
+1 - A Direção Nacional, as unidades orgânicas que a integram, as unidades nacionais de investigação criminal, as unidades de apoio operacional à investigação criminal, incluindo as unidades de apoio técnico-científico especializado têm sede em Lisboa.
+2 - O Instituto da Polícia Judiciária e Ciências Criminais tem sede em Loures.
+3 - O Laboratório de Polícia Científica tem sede em Lisboa.
+4 - A área geográfica de intervenção das unidades referidas nos números anteriores é todo o território nacional, sem prejuízo do estabelecimento de delegações ou extensões nas unidades territorialmente desconcentradas, nos termos do disposto no artigo 20.º do Decreto-Lei n.º 137/2019, de 13 de setembro.
+Artigo 3.º
+Diretorias, departamentos de investigação criminal e unidades locais de investigação criminal
+1 - As sedes das diretorias são as seguintes:
+a) A Diretoria do Norte no Porto;
+b) A Diretoria do Centro em Coimbra;
+c) A Diretoria de Lisboa e Vale do Tejo em Lisboa; e
+d) A Diretoria do Sul em Faro.
+2 - As sedes dos departamentos de investigação criminal são as seguintes:
+a) O Departamento de Investigação Criminal de Braga, em Braga;
+b) O Departamento de Investigação Criminal de Vila Real, em Vila Real;
+c) O Departamento de Investigação Criminal de Aveiro, em Aveiro;
+d) O Departamento de Investigação Criminal da Guarda, na Guarda;
+e) O Departamento de Investigação Criminal de Leiria, em Leiria;
+f) O Departamento de Investigação Criminal de Setúbal, em Setúbal;
+g) O Departamento de Investigação Criminal de Portimão, em Portimão;
+h) O Departamento de Investigação Criminal dos Açores, em Ponta Delgada;
+i) O Departamento de Investigação Criminal da Madeira, no Funchal.
+3 - A sede da unidade local de investigação criminal de Évora, em Évora.
+4 - As áreas de intervenção das unidades de investigação territorialmente desconcentradas previstas no artigo 19.º do Decreto-Lei n.º 137/2019, de 13 de setembro, são as constantes do anexo I da presente portaria, da qual é parte integrante.
+Artigo 4.º
+Norma revogatória
+É revogada a Portaria n.º 305/2009, de 25 de março.
+Artigo 5.º
+Entrada em vigor
+A presente portaria entra em vigor no dia 1 de janeiro de 2020.
+A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 18 de dezembro de 2019.
+ANEXO I
+Diretoria do Norte
+Área geográfica de intervenção:
+Da Comarca do Porto
+Municípios: Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Santo Tirso, Trofa, Valongo, Vila do Conde e Vila Nova de Gaia.
+Da Comarca do Porto Este
+Municípios: Amarante, Baião, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes e Penafiel.
+Da Comarca de Aveiro
+Municípios: Castelo de Paiva, Espinho, Oliveira de Azeméis, Santa Maria da Feira, São João da Madeira e Vale de Cambra.
+Da Comarca de Viseu
+Municípios: Cinfães e Resende.
+Departamento de Investigação Criminal de Braga
+Área geográfica de intervenção:
+Da Comarca de Braga
+Municípios: Braga, Amares, Barcelos, Cabeceiras de Basto, Celorico de Basto, Esposende, Fafe, Guimarães, Póvoa de Lanhoso, Terras de Bouro, Vieira do Minho, Vila Nova de Famalicão, Vila Verde e Vizela.
+Da Comarca de Viana do Castelo
+Municípios: Arcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira.
+Departamento de Investigação Criminal de Vila Real
+Área geográfica de intervenção:
+Da Comarca de Bragança
+Municípios: Alfândega da Fé, Bragança, Carrazeda de Ansiães, Freixo de Espada à Cinta, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Torre de Moncorvo, Vila Flor, Vimioso e Vinhais.
+Da Comarca de Vila Real
+Municípios: Alijó, Boticas, Chaves, Mesão Frio, Mondim de Basto, Montalegre, Murça, Peso da Régua, Ribeira de Pena, Sabrosa, Santa Marta de Penaguião, Valpaços, Vila Pouca de Aguiar e Vila Real.
+Da Comarca de Viseu
+Municípios: Armamar, Castro Daire, Lamego, Moimenta da Beira, São João da Pesqueira, Tabuaço, Tarouca.
+Diretoria do Centro
+Área geográfica de intervenção:
+Da Comarca de Castelo Branco
+Municípios: Castelo Branco, Oleiros, Proença-a-Nova, Sertã, Vila de Rei e Vila Velha de Ródão.
+Da Comarca de Coimbra
+Municípios: Arganil, Cantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Góis, Lousã, Mira, Miranda do Corvo, Montemor-o-Velho, Oliveira do Hospital, Pampilhosa da Serra, Penacova, Penela, Soure, Tábua e Vila Nova de Poiares.
+Da Comarca de Leiria
+Municípios: Alvaiázere, Ansião, Castanheira de Pera, Figueiró dos Vinhos, Pedrógão Grande e Pombal.
+Da Comarca de Viseu
+Municípios: Carregal do Sal, Mangualde, Mortágua, Nelas, Penalva do Castelo, Santa Comba Dão, Sátão, Tondela, Vila Nova de Paiva e Viseu.
+Departamento de Investigação Criminal de Aveiro
+Área geográfica de intervenção:
+Da Comarca de Aveiro
+Municípios: Águeda, Albergaria-a-Velha, Anadia, Aveiro, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira do Bairro, Ovar, Sever do Vouga e Vagos.
+Da Comarca de Viseu
+Municípios: Oliveira de Frades, São Pedro do Sul e Vouzela.
+Departamento de Investigação Criminal da Guarda
+Área geográfica de intervenção:
+Da Comarca da Guarda
+Municípios: Aguiar da Beira, Almeida, Celorico da Beira, Figueira de Castelo Rodrigo, Fornos de Algodres, Gouveia, Guarda, Manteigas, Meda, Pinhel, Sabugal, Seia, Trancoso e Vila Nova de Foz Côa.
+Da Comarca de Viseu
+Municípios: Penedono e Sernancelhe.
+Da Comarca de Castelo Branco
+Municípios: Belmonte, Covilhã, Fundão, Idanha-a-Nova e Penamacor.
+Departamento de Investigação de Leiria
+Área geográfica de intervenção:
+Da Comarca de Leiria
+Municípios: Alcobaça, Batalha, Bombarral, Caldas da Rainha, Leiria, Marinha Grande, Nazaré, Óbidos, Peniche e Porto de Mós.
+Da Comarca de Santarém
+Municípios: Abrantes, Alcanena, Chamusca, Constância, Entroncamento, Ferreira do Zêzere, Golegã, Mação, Ourém, Rio Maior, Sardoal, Tomar, Torres Novas e Vila Nova da Barquinha.
+Diretoria de Lisboa e Vale do Tejo
+Área geográfica de intervenção:
+Da Comarca de Lisboa
+Municípios: Lisboa.
+Da Comarca de Lisboa Norte
+Municípios: Alenquer, Arruda dos Vinhos, Azambuja, Cadaval, Loures, Lourinhã, Odivelas, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira.
+Da Comarca de Lisboa Oeste
+Municípios: Amadora, Cascais, Mafra, Oeiras e Sintra.
+Da Comarca de Santarém
+Municípios: Almeirim, Alpiarça, Benavente, Cartaxo, Coruche, Salvaterra de Magos e Santarém.
+Departamento de Investigação de Setúbal
+Área geográfica de intervenção:
+Da Comarca de Setúbal
+Municípios: Alcácer do Sal, Grândola, Palmela, Santiago do Cacém, Sesimbra, Setúbal e Sines.
+Da Comarca de Lisboa
+Municípios: Alcochete, Almada, Barreiro, Moita, Montijo e Seixal.
+Unidade Local de Investigação Criminal de Évora
+Área geográfica de intervenção:
+Da Comarca de Évora
+Municípios: Alandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mora, Mourão, Portel, Redondo, Reguengos de Monsaraz, Vendas Novas, Viana do Alentejo e Vila Viçosa.
+Da Comarca de Portalegre
+Municípios: Alter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Chão, Crato, Elvas, Fronteira, Gavião, Marvão, Monforte, Nisa, Ponte de Sor, Portalegre e Sousel.
+Diretoria do Sul
+Área geográfica de intervenção:
+Da Comarca de Faro
+Municípios: Albufeira, Alcoutim, Castro Marim, Faro, Loulé, Olhão, São Brás de Alportel, Silves, Tavira e Vila Real de Santo António.
+Da Comarca de Beja
+Municípios: Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Mértola, Moura, Ourique, Serpa e Vidigueira.
+Departamento de Investigação de Portimão
+Área geográfica de intervenção:
+Da Comarca de Faro
+Municípios: Aljezur, Lagoa, Lagos, Monchique, Portimão e Vila do Bispo.
+Da Comarca de Beja
+Municípios: Odemira.
+Departamento de Investigação dos Açores
+Área geográfica de intervenção:
+Municípios: Angra do Heroísmo, Calheta (S. Jorge), Corvo, Horta, Lagoa, Lajes das Flores, Lajes do Pico, Madalena, Nordeste, Ponta Delgada, Povoação, Ribeira Grande, Santa Cruz da Graciosa, Santa Cruz das Flores, São Roque do Pico, Velas, Praia da Vitória, Vila do Porto e Vila Franca do Campo.
+Departamento de Investigação da Madeira
+Área geográfica de intervenção:
+Municípios: Calheta (Madeira), Câmara de Lobos, Funchal, Machico, Ponta do Sol, Porto Moniz, Porto Santo, Ribeira Brava, Santa Cruz, Santana e São Vicente.
+112867412
