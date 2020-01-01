@@ -2,7 +2,7 @@
 
 ### Tabela de Inventário
 
-1 - O ficheiro a que se refere o artigo anterior deve conter uma tabela de inventário, com identificação de cada produto, obedecendo à seguinte estrutura de informação:
+1 - O ficheiro a que se refere o artigo anterior deve conter uma tabela de inventário, com identificação e valorização total de cada produto, obedecendo à seguinte estrutura de informação:
 
 (ver documento original)
 

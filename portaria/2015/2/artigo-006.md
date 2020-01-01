@@ -8,4 +8,4 @@ a) Cabeçalho (StockHeader), com identificação dos elementos previstos no n.º
 
 b) Tabela de Inventário (Stock), nos termos previstos no n.º 1 do artigo 2.º
 
-2 - O ficheiro com formato XML deve respeitar o esquema de validações "Stock_1_2.xsd", disponível no Portal das Finanças.
+2 - O ficheiro com formato XML deve respeitar o esquema de validação do ficheiro em formato xsd, disponível no Portal das Finanças.
