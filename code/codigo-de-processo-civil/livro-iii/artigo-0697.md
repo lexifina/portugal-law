@@ -1,18 +1,18 @@
 # Artigo 697.º
 
-### Prazo para a interposição
+### Regime do recurso
 
 1 - O recurso é interposto no tribunal que proferiu a decisão a rever.
 
 2 - O recurso não pode ser interposto se tiverem decorrido mais de cinco anos sobre o trânsito em julgado da decisão, salvo se respeitar a direitos de personalidade, e o prazo para a interposição é de 60 dias, contados:
 
-a) No caso da alínea a) do artigo anterior, do trânsito em julgado da sentença em que se funda a revisão;
+a) No caso da alínea a) do artigo 696.º, do trânsito em julgado da sentença em que se funda a revisão;
 
-b) No caso da alínea f) do artigo anterior, desde que a decisão em que se funda a revisão se tornou definitiva;
+b) No caso das alíneas f) e h) do artigo 696.º, desde que a decisão em que se funda a revisão se tornou definitiva ou transitou em julgado;
 
 c) Nos outros casos, desde que o recorrente obteve o documento ou teve conhecimento do facto que serve de base à revisão.
 
-3 - No caso da alínea g) do artigo anterior, o prazo para a interposição do recurso é de dois anos, contados desde o conhecimento da sentença pelo recorrente, sem prejuízo do prazo de cinco anos previsto no número anterior.
+3 - No caso da alínea g) do artigo 696.º, o prazo para a interposição do recurso é de dois anos, contados desde o conhecimento da sentença pelo recorrente, sem prejuízo do prazo de cinco anos previsto no número anterior.
 
 4 - Nos casos previstos na segunda parte do n.º 3 do artigo 631.º, o prazo previsto no n.º 2 não finda antes de decorrido um ano sobre a aquisição da capacidade por parte do incapaz ou sobre a mudança do seu representante legal.
 

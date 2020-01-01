@@ -2,13 +2,15 @@
 
 ### Efeito do recebimento dos embargos
 
-1 - O recebimento dos embargos só suspende o prosseguimento da execução se:
+1 - O recebimento dos embargos suspende o prosseguimento da execução se:
 
 a) O embargante prestar caução;
 
 b) Tratando-se de execução fundada em documento particular, o embargante tiver impugnado a genuinidade da respetiva assinatura, apresentando documento que constitua princípio de prova, e o juiz entender, ouvido o embargado, que se justifica a suspensão sem prestação de caução;
 
 c) Tiver sido impugnada, no âmbito da oposição deduzida, a exigibilidade ou a liquidação da obrigação exequenda e o juiz considerar, ouvido o embargado, que se justifica a suspensão sem prestação de caução.
+
+d) A oposição tiver por fundamento qualquer das situações previstas na alínea e) do artigo 696.º
 
 2 - A suspensão da execução, decretada após a citação dos credores, não abrange o apenso de verificação e graduação dos créditos.
 

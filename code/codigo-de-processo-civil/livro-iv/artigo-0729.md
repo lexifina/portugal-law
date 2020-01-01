@@ -10,7 +10,7 @@ b) Falsidade do processo ou do traslado ou infidelidade deste, quando uma ou out
 
 c) Falta de qualquer pressuposto processual de que dependa a regularidade da instância executiva, sem prejuízo do seu suprimento;
 
-d) Falta ou nulidade da citação para a ação declarativa quando o réu não tenha intervindo no processo;
+d) Falta de intervenção do réu no processo de declaração, verificando-se alguma das situações previstas na alínea e) do artigo 696.º;
 
 e) Incerteza, inexigibilidade ou iliquidez da obrigação exequenda, não supridas na fase introdutória da execução;
 

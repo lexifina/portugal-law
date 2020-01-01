@@ -15,7 +15,3 @@ a) Quando haja herdeiros legitimários, os legatários e os donatários, nos ato
 b) Os credores da herança e os legatários, nas questões relativas à verificação e satisfação dos seus direitos;
 
 c) O Ministério Público, para o exercício das competências que lhe estão atribuídas na lei.
-
-## Livro VI
-
-## Do tribunal arbitral necessário

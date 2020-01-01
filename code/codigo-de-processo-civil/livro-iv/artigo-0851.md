@@ -1,8 +1,8 @@
 # Artigo 851.º
 
-### Anulação da execução, por falta ou nulidade de citação do executado
+### Anulação da execução em caso de revelia
 
-1 - Se a execução correr à revelia do executado e este não tiver sido citado, quando o deva ser, ou houver fundamento para declarar nula a citação, pode o executado invocar a nulidade da citação a todo o tempo.
+1 - Se a execução correr à revelia, pode o executado invocar, a todo o tempo, algum dos fundamentos previstos na alínea e) do artigo 696.º
 
 2 - Sustados todos os termos da execução, conhece-se logo da reclamação e, caso seja julgada procedente, anula-se tudo o que na execução se tenha praticado.
 

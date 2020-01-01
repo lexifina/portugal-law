@@ -6,7 +6,7 @@
 
 a) Se for anulada ou revogada a sentença que se executou ou se a oposição à execução ou à penhora for julgada procedente, salvo quando, sendo parcial a revogação ou a procedência, a subsistência da venda for compatível com a decisão tomada;
 
-b) Se toda a execução for anulada por falta ou nulidade da citação do executado, que tenha sido revel, salvo o disposto no n.º 4 do artigo 851.º;
+b) Se, tendo corrido à revelia, toda a execução for anulada nos termos do disposto no n.º 1 do artigo 851.º, salvo o disposto no n.º 4 do mesmo artigo;
 
 c) Se for anulado o ato da venda, nos termos do artigo 195.º;
 

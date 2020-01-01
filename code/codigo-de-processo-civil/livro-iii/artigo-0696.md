@@ -16,8 +16,16 @@ c) Se apresente documento de que a parte não tivesse conhecimento, ou de que n�
 
 d) Se verifique nulidade ou anulabilidade de confissão, desistência ou transação em que a decisão se fundou;
 
-e) Tendo corrido a ação e a execução à revelia, por falta absoluta de intervenção do réu, se mostre que faltou a citação ou que é nula a citação feita;
+e) Tendo corrido o processo à revelia, por falta absoluta de intervenção do réu, se mostre que:
+
+i) Faltou a citação ou que é nula a citação feita;
+
+ii) O réu não teve conhecimento da citação por facto que não lhe é imputável;
+
+iii) O réu não pode apresentar a contestação por motivo de força maior;
 
 f) Seja inconciliável com decisão definitiva de uma instância internacional de recurso vinculativa para o Estado Português;
 
 g) O litígio assente sobre ato simulado das partes e o tribunal não tenha feito uso do poder que lhe confere o artigo 612.º, por se não ter apercebido da fraude.
+
+h) Seja suscetível de originar a responsabilidade civil do Estado por danos emergentes do exercício da função jurisdicional, verificando-se o disposto no artigo seguinte.

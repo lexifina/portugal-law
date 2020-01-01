@@ -16,4 +16,6 @@ c) Forem manifestamente improcedentes.
 
 4 - A procedência dos embargos extingue a execução, no todo ou em parte.
 
-5 - Para além dos efeitos sobre a instância executiva, a decisão de mérito proferida nos embargos à execução constitui, nos termos gerais, caso julgado quanto à existência, validade e exigibilidade da obrigação exequenda.
+5 - Em caso de procedência dos embargos fundados em qualquer das situações previstas na alínea e) do artigo 696.º, é admitida a renovação da instância deste processo a requerimento do exequente, apresentado no prazo de 30 dias a contar do trânsito em julgado da decisão dos embargos.
+
+6 - Para além dos efeitos sobre a instância executiva, a decisão de mérito proferida nos embargos à execução constitui, nos termos gerais, caso julgado quanto à existência, validade e exigibilidade da obrigação exequenda.
