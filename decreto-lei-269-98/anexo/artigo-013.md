@@ -6,7 +6,7 @@
 
 a) Os elementos referidos nas alíneas a) a i) do n.º 2 do artigo 10.º;
 
-b) A indicação do prazo para a oposição e a respectiva forma de contagem;
+b) A indicação do prazo para a oposição e a respetiva forma de contagem, bem como da preclusão resultante da falta de tempestiva dedução de oposição, nos termos previstos no artigo 14.º-A;
 
 c) A indicação de que, na falta de pagamento ou de oposição dentro do prazo legal, será aposta fórmula executória ao requerimento, facultando-se ao requerente a possibilidade de intentar acção executiva;
 

@@ -18,7 +18,7 @@ e) Formular o pedido, com discriminação do valor do capital, juros vencidos e 
 
 f) Indicar a taxa de justiça paga;
 
-g) Indicar, quando for o caso, que se trata de transacção comercial abrangida pelo Decreto-Lei n.º 32/2003, de 17 de Fevereiro.
+g) Indicar, quando for caso disso, que se trata de transação comercial abrangida pelo Decreto-Lei n.º 32/2003, de 17 de fevereiro, na sua redação atual, ou pelo Decreto-Lei n.º 62/2013, de 10 de maio;
 
 h) Indicar o seu domicílio;
 
@@ -30,7 +30,9 @@ l) Indicar o tribunal competente para apreciação dos autos se forem apresentad
 
 m) Indicar se pretende a notificação por solicitador de execução ou mandatário judicial e, em caso afirmativo, indicar o seu nome e o respectivo domicílio profissional;
 
-n) Assinar o requerimento.
+n) Indicar, tratando-se de contrato celebrado com consumidor, se o mesmo comporta cláusulas contratuais gerais, sob pena de ser considerado litigante de má-fé;
+
+o) Assinar o requerimento.
 
 3 - Durante o procedimento de injunção não é permitida a alteração dos elementos constantes do requerimento, designadamente o pedido formulado.
 
