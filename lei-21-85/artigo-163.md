@@ -1,9 +1,9 @@
 ## Secção IV
 
-## Secretaria do Conselho Superior da Magistratura
+## Regime administrativo e financeiro e organização dos serviços
 
 # Artigo 163.º
 
-### (Pessoal)
+### Regime próprio
 
-A organização, o quadro e o regime de provimento do pessoal da secretaria do Conselho Superior de Magistratura são fixados por decreto-lei.
+O regime administrativo e financeiro e a organização dos serviços do Conselho Superior da Magistratura são definidos em lei própria.

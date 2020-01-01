@@ -2,7 +2,7 @@
 
 ### Aposentação ou reforma
 
-A pensão de aposentação ou reforma dos magistrados aposentados ou reformados é calculada com base na seguinte fórmula:
+1 - A pensão de aposentação ou reforma dos magistrados aposentados ou reformados é calculada com base na seguinte fórmula:
 
 R x T1/C
 
@@ -13,3 +13,5 @@ R é a remuneração mensal relevante nos termos do Estatuto da Aposentação, d
 T1 é a expressão em anos do número de meses de serviço, com o limite máximo de C; e
 
 C é o número constante do anexo iii.
+
+2 - O subsídio previsto nos n.os 2 e 3 do artigo 26.º-A integra a remuneração mensal relevante, pelo número de meses correspondente à quotização realizada para a Caixa Geral de Aposentações ou para a segurança social.

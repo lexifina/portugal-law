@@ -1,10 +1,10 @@
-## Capítulo X
+## Capítulo IX
 
-## CONSELHO SUPERIOR DA MAGISTRATURA
+## Conselho Superior da Magistratura
 
 ## Secção I
 
-## Estrutura e organização do Conselho Superior da Magistratura
+## Estrutura
 
 # Artigo 136.º
 

@@ -1,8 +1,8 @@
 # Artigo 139.º
 
-### (Forma de designação)
+### Forma de eleição
 
-1 - Os vogais referidos na alínea b) do n.º 1 do artigo 137.º são designados nos termos da Constituição e do Regimento da Assembleia da República.
+1 - (Revogado.)
 
 2 - Os vogais referidos na alínea c) do n.º 1 do artigo 137.º são eleitos por sufrágio secreto e universal, segundo o princípio da representação proporcional e o método da média mais alta, com obediência às seguintes regras:
 

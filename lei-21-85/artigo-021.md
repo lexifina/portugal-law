@@ -1,9 +1,7 @@
 # Artigo 21.º
 
-### (Distribuição de publicações oficiais)
+### Exercício da advocacia
 
-1 - Os juízes do Supremo Tribunal de Justiça e das Relações têm direito à distribuição gratuita do Boletim do Ministério da Justiça, da 1.ª série do Diário da República, do Boletim do Trabalho e Emprego e, a sua solicitação, da 2.ª série do Diário da República e das 1.ª e 2.ª séries do Diário da Assembleia da República, podendo optar pela versão impressa ou electrónica.
+1 - Os magistrados judiciais podem advogar em causa própria, do seu cônjuge ou descendente.
 
-2 - Os juízes de direito têm direito à distribuição gratuita do Boletim do Ministério da Justiça, às restantes publicações, podendo optar pela versão impressa ou electrónica.
-
-3 - Os magistrados judiciais jubilados têm direito, a sua solicitação, à distribuição gratuita do Boletim do Ministério da Justiça.
+2 - Nos casos previstos no número anterior os magistrados podem praticar os atos processuais por qualquer meio, não estando vinculados à transmissão eletrónica de dados.

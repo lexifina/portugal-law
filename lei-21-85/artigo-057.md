@@ -1,11 +1,13 @@
 # Artigo 57.º
 
-### (Prazo das comissões de serviço)
+### Competência para conferir posse
 
-1 - Na falta de disposição especial, as comissões ordinárias de serviço têm a duração de três anos e são renováveis por igual período, podendo excepcionalmente, em caso de relevante interesse público, ser renovadas por novo período, de igual duração.
+1 - Os magistrados judiciais tomam posse:
 
-2 - A comissão de serviço que se destine à prestação de serviços em instituições e organizações internacionais ou, no âmbito de convénio de cooperação, em país estrangeiro, que implique a residência do magistrado judicial nesse país tem o prazo que durar essa actividade.
+a) Perante o presidente do Supremo Tribunal de Justiça, no caso dos juízes conselheiros do Supremo Tribunal de Justiça e dos presidentes dos tribunais da Relação;
 
-3 - As comissões eventuais de serviço podem ser autorizadas por períodos até um ano, sendo renováveis até ao máximo de seis anos.
+b) Perante o presidente do Tribunal da Relação respetivo, no caso dos juízes desembargadores;
 
-4 - Não podem ser nomeados em comissão de serviço, antes que tenham decorrido três anos sobre a cessação do último período, os magistrados que tenham exercido funções em comissão de serviço durante seis anos consecutivos.
+c) Perante o presidente da comarca, no caso dos juízes de direito dos juízos ou tribunais nela sedeados.
+
+2 - Em casos justificados, o Conselho Superior da Magistratura pode autorizar ou determinar que a posse seja tomada perante magistrado judicial não referido no número anterior.

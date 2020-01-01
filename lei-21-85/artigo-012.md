@@ -1,7 +1,15 @@
 # Artigo 12.º
 
-### Dever de reserva
+### Modalidades de licença sem remuneração
 
-1 - Os magistrados judiciais não podem fazer declarações ou comentários sobre processos, salvo, quando autorizados pelo Conselho Superior da Magistratura, para defesa da honra ou para a realização de outro interesse legítimo.
+As licenças sem remuneração podem revestir as seguintes modalidades:
 
-2 - Não são abrangidas pelo dever de reserva as informações que, em matéria não coberta pelo segredo de justiça ou pelo sigilo profissional, visem a realização de direitos ou interesses legítimos, nomeadamente o do acesso à informação.
+a) Licença até um ano;
+
+b) Licença para formação;
+
+c) Licença para exercício de funções em organizações internacionais;
+
+d) Licença para acompanhamento do cônjuge ou unido de facto colocado no estrangeiro;
+
+e) Licença de longa duração, superior a um ano e inferior a 15 anos.

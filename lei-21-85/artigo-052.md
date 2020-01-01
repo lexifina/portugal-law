@@ -2,52 +2,54 @@
 
 ### Avaliação curricular, graduação e preenchimento de vagas
 
-1 - A graduação faz-se segundo o mérito relativo dos concorrentes de cada classe, tomando-se globalmente em conta a avaliação curricular, com prévia observância do disposto no número seguinte e, nomeadamente, tendo em consideração os seguintes factores:
+1 - A graduação faz-se segundo o mérito relativo dos concorrentes de cada classe, tomando-se globalmente em conta a avaliação curricular, com prévia observância do disposto no número seguinte e, nomeadamente, tendo em consideração os seguintes fatores:
 
 a) Anteriores classificações de serviço;
 
 b) Graduação obtida em concursos de habilitação ou cursos de ingresso em cargos judiciais;
 
-c) Currículo universitário e pós-universitário;
+c) Atividade desenvolvida no âmbito forense ou no ensino jurídico;
 
-d) Trabalhos científicos realizados;
+d) Trabalhos doutrinários ou jurisprudenciais realizados;
 
-e) Actividade desenvolvida no âmbito forense ou no ensino jurídico;
+e) Currículo universitário e pós-universitário;
 
-f) Outros factores que abonem a idoneidade dos requerentes para o cargo a prover.
+f) Outros fatores que abonem a idoneidade dos requerentes para o cargo a prover.
 
-2 - Os concorrentes defendem publicamente os seus currículos perante um júri com a seguinte composição:
+2 - Os concorrentes defendem publicamente os seus currículos, de acordo com os termos definidos no aviso de abertura do concurso, perante um júri com a seguinte composição:
 
-a) Presidente do júri - o Presidente do Supremo Tribunal de Justiça, na qualidade de presidente do Conselho Superior da Magistratura;
+a) Presidente do júri, o presidente do Conselho Superior da Magistratura;
 
 b) Vogais:
 
-i) O juiz conselheiro mais antigo na categoria que seja membro do Conselho Superior da Magistratura;
+i) O vice-presidente do Conselho Superior da Magistratura;
 
-ii) Um membro do Conselho Superior do Ministério Público, a eleger por aquele órgão;
+ii) Um membro do Conselho Superior da Magistratura, não pertencente à magistratura, a eleger por aquele órgão;
 
-iii) Um membro do Conselho Superior da Magistratura, não pertencente à magistratura, a eleger por aquele órgão;
+iii) Um membro do Conselho Superior do Ministério Público, a eleger por aquele órgão;
 
-iv) Um professor universitário de Direito, com a categoria de professor catedrático, escolhido, nos termos do n.º 5, pelo Conselho Superior da Magistratura;
+iv) Um professor universitário de Direito, com a categoria de professor catedrático, escolhido, nos termos do n.º 6, pelo Conselho Superior da Magistratura;
 
-v) Um advogado com funções no Conselho Superior da Ordem dos Advogados, cabendo ao Conselho Superior da Magistratura solicitar à Ordem dos Advogados a respectiva indicação.
+v) Um advogado com funções no Conselho Superior da Ordem dos Advogados, cabendo ao Conselho Superior da Magistratura solicitar à Ordem dos Advogados a respetiva indicação.
 
-3 - O júri emite parecer sobre a prestação de cada um dos candidatos, a qual é tomada em consideração pelo Conselho Superior da Magistratura na elaboração do acórdão definitivo sobre a lista de candidatos e que deverá fundamentar a decisão sempre que houver discordância face ao parecer do júri.
+3 - O presidente do Conselho Superior da Magistratura, quando impedido, é substituído pelo vice-presidente, sendo este substituído, no mesmo caso, por um juiz do Supremo Tribunal de Justiça, a indicar pelo Conselho Superior da Magistratura.
 
 4 - As deliberações serão tomadas por maioria simples de votos, tendo o presidente do júri voto de qualidade em caso de empate.
 
-5 - O Conselho Superior da Magistratura solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria de professor catedrático, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iv) da alínea b) do n.º 2, por votação, por voto secreto, de entre os indicados.
+5 - Os concorrentes necessários não podem ser prejudicados em função das opções jurisprudenciais ou doutrinárias tomadas nas decisões judiciais por si proferidas.
 
-6 - A repartição de vagas faz-se sucessivamente do seguinte modo:
+6 - O Conselho Superior da Magistratura solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria de professor catedrático, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iv) da alínea b) do n.º 2, por votação, por voto secreto, de entre os indicados.
 
-a) Três em cada cinco vagas são preenchidas por juízes da relação;
+7 - A repartição de vagas faz-se sucessivamente do seguinte modo:
+
+a) Três em cada cinco vagas são preenchidas por juízes desembargadores dos tribunais da Relação;
 
 b) Uma em cada cinco vagas é preenchida por procuradores-gerais-adjuntos;
 
 c) Uma em cada cinco vagas é necessariamente preenchida por juristas de reconhecido mérito;
 
-d) As vagas não preenchidas nos termos da alínea b) são atribuídas a juízes da Relação;
+d) As vagas não preenchidas nos termos da alínea b) são atribuídas a juízes desembargadores dos tribunais da Relação;
 
 e) As vagas não preenchidas nos termos da alínea c) não podem ser preenchidas por outros candidatos.
 
-7 - Na nomeação de juízes da relação e de procuradores-gerais-adjuntos deve ter-se em conta a antiguidade relativa dos concorrentes dentro de cada classe.
+8 - O número de juízes conselheiros providos nos termos da alínea c) do número anterior não pode exceder um quinto do quadro legal.

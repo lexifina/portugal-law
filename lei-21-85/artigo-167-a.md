@@ -1,5 +1,5 @@
 # Artigo 167.º-A
 
-### Efeitos da reclamação
+### Efeitos
 
-A reclamação suspende a execução da decisão e devolve ao plenário do Conselho a competência para decidir definitivamente.
+As impugnações administrativas suspendem os efeitos dos atos impugnados.

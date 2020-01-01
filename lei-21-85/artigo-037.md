@@ -1,9 +1,9 @@
 # Artigo 37.º
 
-### (Elementos a considerar nas classificações)
+### Inspeção e classificação de juízes desembargadores
 
-1 - Nas classificações são sempre considerados o tempo de serviço, os resultados das inspecções anteriores, inquéritos, sindicâncias ou processos disciplinares e quaisquer elementos complementares que estejam na posse do Conselho Superior da Magistratura.
+1 - A requerimento fundamentado dos interessados, o Conselho Superior da Magistratura pode determinar inspeção ao serviço dos juízes desembargadores que previsivelmente sejam concorrentes necessários ao acesso ao Supremo Tribunal de Justiça, nos termos do n.º 2 do artigo 51.º
 
-2 - O magistrado é obrigatoriamente ouvido sobre o relatório da inspecção e pode fornecer os elementos que entender convenientes.
+2 - Aos juízes desembargadores pode ser efetuada inspeção extraordinária, por iniciativa do Conselho Superior da Magistratura.
 
-3 - Em caso de ausência nos termos dos números anteriores, os magistrados judiciais devem informar o local em que podem ser encontrados.
+3 - Às inspeções a que se referem os números anteriores é aplicável, com as necessárias adaptações, o disposto nos artigos 31.º a 33.º e 35.º

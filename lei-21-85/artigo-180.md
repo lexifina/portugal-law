@@ -1,6 +1,6 @@
-## Capítulo XII
+## Capítulo XI
 
-## DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+## Disposições complementares e finais
 
 # Artigo 180.º
 

@@ -1,11 +1,11 @@
-## Secção IV
+## Secção V
 
-## Custas e preparos
+## Custas
 
 # Artigo 179.º
 
-### (Custas e preparos)
+### Custas
 
-1 - O recurso é isento de preparos.
+1 - Os meios de reação jurisdicional são isentos de taxa de justiça.
 
-2 - O regime de custas é o que vigorar, quanto a recursos interpostos por funcionários, para o Supremo Tribunal Administrativo.
+2 - É subsidiariamente aplicável, com as necessárias adaptações, o Regulamento das Custas Processuais.

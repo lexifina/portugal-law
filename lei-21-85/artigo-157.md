@@ -1,9 +1,9 @@
 # Artigo 157.º
 
-### (Funcionamento do conselho permanente)
+### Funcionamento das secções do conselho permanente
 
-1 - O conselho permanente reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente.
+1 - A secção de assuntos gerais reúne sempre que convocada pelo presidente ou vice-presidente, com o mínimo de 24 horas de antecedência.
 
-2 - Para validade das deliberções exige-se a presença de, pelo menos, cinco membros.
+2 - A secção de assuntos inspetivos e disciplinares e a secção de acompanhamento e ligação aos tribunais reúnem ordinariamente uma vez por mês e extraordinariamente sempre que convocadas pelo presidente ou vice-presidente.
 
-3 - Aplica-se ao funcionamento do conselho permanente o disposto nos n.os 2 e 5 do artigo anterior.
+3 - Aplica-se ao funcionamento das secções do conselho permanente o disposto no artigo anterior, com as necessárias adaptações.

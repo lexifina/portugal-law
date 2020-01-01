@@ -8,10 +8,12 @@
 
 1 - Os magistrados judiciais cessam funções:
 
-a) No dia em que completem a idade que a lei prevê para a aposentação de funcionários do Estado;
+a) No dia em que completem 70 anos de idade;
 
-b) No dia em que for publicado o despacho da sua desligação de serviço;
+b) No dia 1 do mês seguinte àquele em que for publicado o despacho do seu desligamento ao serviço;
 
-c) No dia imediato àquele em que chegue à comarca ou lugar onde servem o Diário da República com a publicação da nova situação.
+c) Nos casos não abrangidos pelas alíneas anteriores, no dia seguinte ao da publicação da nova situação no Diário da República;
 
-2 - No caso previsto na alínea c) do número anterior, os magistrados que tenham iniciado qualquer julgamento prosseguem os seus termos até final, salvo se a mudança de situação resultar de acção disciplinar.
+d) No dia seguinte àquele em que perfaça 15 anos ininterruptos de licença prevista na alínea e) do artigo 12.º
+
+2 - Nos casos previstos no número anterior e nas alíneas a) a c) do artigo 12.º, os magistrados judiciais que tenham iniciado qualquer julgamento prosseguem os seus termos até final, salvo disposição legal em contrário ou se a mudança de situação resultar de ação disciplinar.

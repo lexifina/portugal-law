@@ -1,13 +1,19 @@
 # Artigo 36.º
 
-### (Periodicidade das classificações)
+### Periodicidade
 
-1 - Os juízes de direito são classificados em inspecção ordinária, a primeira vez decorrido um ano sobre a sua permanência em lugares de primeiro acesso e, posteriormente, com uma periodicidade, em regra, de quatro anos.
+1 - Após a primeira notação a que se refere o n.º 3 do artigo 34.º, os juízes de direito são classificados em inspeção ordinária:
 
-2 - Fora dos casos referidos na segunda parte do número anterior, aos magistrados judiciais pode ser efectuada inspecção extraordinária, a requerimento fundamentado dos interessados, desde que a última inspecção ordinária tenha ocorrido há mais de três anos, ou, em qualquer altura, por iniciativa do Conselho Superior da Magistratura.
+a) Decorridos quatro anos;
 
-3 - Considera-se desactualizada a classificação atribuída há mais de quatro anos, salvo se a desactualização não for imputável ao magistrado ou este estiver abrangido pelo disposto no n.º 2 do artigo anterior.
+b) Depois do período referido na alínea anterior, de cinco em cinco anos.
 
-4 - No caso de falta de classificação não imputável ao magistrado, presume-se a de Bom, excepto se o magistrado requerer inspecção, caso em que será realizada obrigatoriamente.
+2 - A renovação da classificação de Muito Bom dispensa a realização da inspeção seguinte, salvo se o Conselho Superior da Magistratura a reputar necessária.
 
-5 - A classificação relativa a serviço posterior desactualiza a referente a serviço anterior.
+3 - Aos juízes de direito pode ser efetuada inspeção extraordinária, por iniciativa do Conselho Superior da Magistratura, em qualquer altura, ou a requerimento fundamentado dos interessados, desde que a última inspeção ordinária tenha ocorrido há mais de três anos, ou para efeitos de concurso aos tribunais da Relação.
+
+4 - Os juízes de direito em comissão de serviço em tribunais não judiciais são classificados periodicamente, nos mesmos termos dos que exercem funções em tribunais judiciais.
+
+5 - A inspeção deve ser concluída no prazo de 90 dias.
+
+6 - Findo o período de licença de longa duração o juiz de direito é sujeito a nova inspeção, após um ano sobre o reinício de funções.

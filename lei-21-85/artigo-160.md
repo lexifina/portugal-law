@@ -1,13 +1,13 @@
 ## Secção III
 
-## Serviços de inspecção
+## Serviço de inspeção
 
 # Artigo 160.º
 
 ### (Estrutura)
 
-1 - Junto do Conselho Superior da Magistratura funcionam os serviços de inspecção.
+1 - O Conselho Superior da Magistratura integra um serviço de inspeção, que exerce funções auxiliares na análise e no acompanhamento da gestão dos tribunais, bem como na avaliação do mérito e na disciplina dos magistrados judiciais.
 
-2 - Os serviços de inspecção são constituídos por inspectores judiciais e por secretários de inspecção.
+2 - O serviço de inspeção é constituído por inspetores judiciais e por secretários de inspeção.
 
-3 - O quadro de inspectores judiciais e secretários de inspecção é fixado por portaria do Ministro da Justiça, sob proposta do Conselho Superior da Magistratura.
+3 - O quadro de inspetores judiciais e secretários de inspeção é fixado pelo Conselho Superior da Magistratura.

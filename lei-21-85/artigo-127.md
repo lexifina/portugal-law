@@ -1,11 +1,11 @@
-## Secção IV
+## Secção V
 
-## Revisão de decisões disciplinares
+## Revisão das sanções disciplinares
 
 # Artigo 127.º
 
 ### (Revisão)
 
-1 - As decisões condenatórias proferidas em processo disciplinar podem ser revistas a todo o tempo quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inexistência dos factos que determinaram a punição e que não puderam ser oportunamente utilizados pelo arguido.
+1 - As decisões sancionatórias proferidas em processo disciplinar podem ser revistas a todo o tempo perante circunstâncias ou meios de prova suscetíveis de demonstrar a inexistência dos factos que determinaram a sanção e que não puderam ser oportunamente invocados pelo arguido.
 
-2 - A revisão não pode, em caso algum, determinar o agravamento da pena.
+2 - A revisão não pode determinar o agravamento da sanção.

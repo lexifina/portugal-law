@@ -1,11 +1,15 @@
+## Secção IV
+
+## Retribuição
+
 # Artigo 22.º
 
-### Componentes do sistema retributivo
+### Da retribuição e suas componentes
 
-1 - O sistema retributivo dos magistrados judiciais é composto por:
+1 - O sistema retributivo dos magistrados judiciais é exclusivo, próprio e composto por uma remuneração base e pelos suplementos expressamente previstos no presente Estatuto.
 
-a) Remuneração base;
+2 - A remuneração dos magistrados judiciais deve ser ajustada à dignidade das suas funções de soberania e à responsabilidade de quem as exerce, de modo a garantir as condições de independência do poder judicial.
 
-b) Suplementos.
+3 - As componentes remuneratórias elencadas no n.º 1 não podem ser reduzidas, salvo em situações excecionais e transitórias, sem prejuízo do disposto no número anterior.
 
-2 - Não é permitida a atribuição de qualquer tipo de abono que não se enquadre nas componentes remuneratórias referidas no número anterior, sem prejuízo do disposto no artigo 25.º
+4 - O nível remuneratório dos magistrados judiciais colocados como efetivos não pode sofrer diminuições em resultado de alterações ao regime da organização judiciária que impliquem movimentação obrigatória.

@@ -1,5 +1,5 @@
 # Artigo 96.º
 
-### (Medida de pena)
+### Aposentação ou reforma compulsiva
 
-Na determinação da medida da pena atende-se à gravidade do facto, à culpa do agente, à sua personalidade e às circunstâncias que deponham a seu favor ou contra ele.
+A aposentação ou reforma compulsiva consiste na imposição da aposentação ou da reforma.

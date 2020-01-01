@@ -1,11 +1,13 @@
+## Secção III
+
+## Direitos e prerrogativas
+
 # Artigo 16.º
 
-### Prisão preventiva
+### Títulos e relações entre magistrados
 
-1 - Os magistrados judiciais não podem ser presos ou detidos antes de ser proferido despacho que designe dia para julgamento relativamente a acusação contra si deduzida, salvo em flagrante delito por crime punível com pena de prisão superior a três anos.
+1 - Os magistrados judiciais do Supremo Tribunal de Justiça têm o título de conselheiro, os dos tribunais da Relação o de desembargador e os dos tribunais judiciais de primeira instância o de juiz de direito.
 
-2 - Em caso de detenção ou prisão, o magistrado judicial é imediatamente apresentado à autoridade judiciária competente.
+2 - Os magistrados judiciais guardam entre si precedência segundo as respetivas categorias, preferindo a antiguidade em caso de igualdade.
 
-3 - O cumprimento da prisão preventiva e das penas privativas de liberdade pelos magistrados judiciais ocorrerá em estabelecimento prisional comum, em regime de separação dos restantes detidos ou presos.
-
-4 - Havendo necessidade de busca no domicílio pessoal ou profissional de qualquer magistrado judicial é a mesma, sob pena de nulidade, presidida pelo juiz competente, o qual avisa previamente o Conselho Superior da Magistratura, para que um membro delegado por este Conselho possa estar presente.
+3 - O presidente do Supremo Tribunal de Justiça tem precedência entre todos os juízes.

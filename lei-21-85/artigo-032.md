@@ -1,5 +1,5 @@
 # Artigo 32.º
 
-### (Disposições subsidiárias)
+### Classificação de juízes de direito
 
-É aplicável subsidiariamente aos magistrados judiciais, quanto a deveres, incompatibilidades e direitos, o regime da função pública.
+Os juízes de direito são classificados, de acordo com o seu mérito, de Muito bom, Bom com distinção, Bom, Suficiente e Medíocre.

@@ -8,4 +8,4 @@
 
 3 - É ainda aplicável aos magistrados judiciais, com as devidas adaptações, o disposto na lei geral sobre o regime de bolseiro, dentro e fora do País, quando se proponham realizar programas de trabalho e estudo, bem como frequentar cursos ou estágios de reconhecido interesse público.
 
-4 - O referido no número anterior será objecto de despacho do Ministro da Justiça, sob proposta do Conselho Superior da Magistratura, no qual se fixará a respectiva duração, condições e termos.
+4 - A atribuição do estatuto de bolseiro é objeto de deliberação do Conselho Superior da Magistratura, que fixa os respetivos termos, condições e duração.

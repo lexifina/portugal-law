@@ -1,5 +1,11 @@
+## Subsecção II
+
+## Procedimentos especiais
+
 # Artigo 123.º-A
 
-### Início da produção de efeitos das penas
+### Averiguação
 
-A decisão que aplique a pena não carece de publicação, começando a pena a produzir os seus efeitos no dia seguinte ao da notificação ao arguido, nos termos do n.º 1 do artigo 118.º ou 15 dias após a afixação do edital a que se refere o n.º 2 do mesmo artigo.
+1 - O Conselho Superior da Magistratura pode ordenar a realização de processo de averiguação sobre queixa, participação ou informação que não constitua violação manifesta dos deveres dos magistrados judiciais.
+
+2 - O processo de averiguação destina-se a apurar a veracidade da participação, queixa ou informação, e a aferir se a conduta denunciada é suscetível de constituir infração disciplinar.

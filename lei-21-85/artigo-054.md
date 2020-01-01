@@ -1,9 +1,9 @@
 # Artigo 54.º
 
-### (Natureza das comissões)
+### Falta de posse
 
-1 - As comissões de serviço podem ser ordinárias ou eventuais.
+1 - Na primeira nomeação, a falta não justificada de posse dentro do prazo importa, sem dependência de qualquer formalidade, a anulação da nomeação e impossibilita o faltoso de ser nomeado para o mesmo cargo durante dois anos.
 
-2 - São comissões de serviço ordinárias as previstas na lei como modo normal de desempenho de certa função e eventuais as restantes.
+2 - Nos demais casos, a falta não justificada de posse é equiparada a abandono de lugar.
 
-3 - As comissões ordinárias de serviço implicam abertura de vaga, salvo as previstas nas alíneas a), b), c) e e) do n.º 1 e no n.º 2 do artigo 56.º
+3 - A justificação deve ser requerida no prazo de dez dias a contar da cessação do facto que impossibilitou a posse no prazo.

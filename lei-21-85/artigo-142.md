@@ -2,18 +2,18 @@
 
 ### (Distribuição de lugares)
 
-1 - A distribuição de lugares é feita segundo a ordem de conversão dos votos em mandatos pela seguinte forma:
+A distribuição de lugares é feita segundo a ordem de conversão dos votos em mandatos pela seguinte forma:
 
-1.º mandato - juiz do Supremo Tribunal de Justiça;
+a) Primeiro mandato para o juiz conselheiro do Supremo Tribunal de Justiça;
 
-2.º mandato - juiz da Relação;
+b) Segundo mandato para um juiz desembargador do tribunal da Relação;
 
-3.º mandato - juiz da Relação;
+c) Terceiro mandato para um juiz desembargador do tribunal da Relação;
 
-4.º mandato - juiz de direito proposto pelo distrito judicial de Lisboa;
+d) Quarto mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Lisboa;
 
-5.º mandato - juiz de direito proposto pelo distrito judicial do Porto;
+e) Quinto mandato para o juiz de direito proposto pela área de competência territorial dos Tribunais da Relação do Porto e de Guimarães;
 
-6.º mandato - juiz de direito proposto pelo distrito judicial de Coimbra;
+f) Sexto mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Coimbra;
 
-7.º mandato - juiz de direito proposto pelo distrito judicial de Évora.
+g) Sétimo mandato para o juiz de direito proposto pela área de competência territorial do Tribunal da Relação de Évora.

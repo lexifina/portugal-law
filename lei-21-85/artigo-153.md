@@ -8,12 +8,14 @@ a) Representar o Conselho;
 
 b) Exercer as funções que lhe forem delegadas pelo Conselho, com a faculdade de subdelegar no vice-presidente;
 
-c) Dar posse ao vice-presidente, aos inspectores judiciais e ao secretário;
+c) Exercer os poderes administrativos e financeiros, no âmbito das suas competências próprias ou delegadas, idênticos aos que integram a competência ministerial;
 
-d) Dirigir e coordenar os serviços de inspecção;
+d) Dar posse ao vice-presidente, aos inspetores judiciais e ao juiz secretário;
 
-e) Elaborar, mediante proposta do secretário, ordens de execução permanente;
+e) Dirigir e coordenar o serviço de inspeção;
 
-f) Exercer as demais funções conferidas por lei.
+f) Emitir ordens de execução permanente, por sua iniciativa ou mediante proposta do juiz secretário;
 
-2 - O presidente pode delegar no vice-presidente a competência para dar posse aos inspectores judiciais e ao secretário, bem como as competências previstas nas alíneas d) e e) do número anterior.
+g) Exercer as demais funções conferidas por lei.
+
+2 - O presidente pode também delegar no vice-presidente a competência para dar posse aos inspetores judiciais e ao juiz secretário, bem como as competências previstas nas alíneas e) e f) do número anterior.

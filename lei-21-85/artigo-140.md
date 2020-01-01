@@ -4,7 +4,7 @@
 
 1 - A eleição dos vogais referidos na alínea c) do n.º 1 do artigo 137.º é feita com base em recenseamento organizado oficiosamente pelo Conselho Superior da Magistratura.
 
-2 - É facultado aos eleitores o exercício do direito de voto por correspondência.
+2 - É facultado aos eleitores o exercício do direito de voto por correspondência ou por meios eletrónicos, em termos a definir no regulamento eleitoral para o Conselho Superior da Magistratura.
 
 3 - O colégio eleitoral relativo à categoria de vogais prevista na alínea c) do n.º 1 do artigo 137.º é formado pelos magistrados judiciais em efectividade de serviço judicial, com exclusão dos que se encontram em comissão de serviço de natureza não judicial.
 

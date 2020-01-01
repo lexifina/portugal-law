@@ -8,4 +8,4 @@
 
 3 - São considerados em cada movimento os requerimentos entrados até ao dia 31 de Maio, ou até 25 dias antes da reunião do Conselho, conforme se trate de movimentos referidos no n.º 1 ou no n.º 2 do artigo 38.º
 
-4 - Os requerimentos de desistência são atendidos desde que dêem entrada na secretaria do Conselho Superior da Magistratura até 30 ou 20 dias antes da reunião do Conselho, consoante se trate de movimento ordinário ou de movimento extraordinário.
+4 - Os requerimentos de desistência são atendidos desde que deem entrada na secretaria do Conselho até ao quinto dia útil subsequente ao termo do prazo referido no número anterior.
