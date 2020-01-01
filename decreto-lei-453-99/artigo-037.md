@@ -2,7 +2,7 @@
 
 ### Supervisão e prestação de informação
 
-1 - Compete à CMVM a fiscalização da actividade dos fundos, sem prejuízo das competências do Banco de Portugal em matéria de supervisão das sociedades gestoras.
+1 - Compete à CMVM a supervisão das sociedades gestoras e dos fundos.
 
 2 - A CMVM pode, por regulamento:
 
@@ -14,4 +14,10 @@ c) Definir a periodicidade, o modo e o conteúdo da informação a prestar à CM
 
 d) Definir os motivos e demais requisitos para a prorrogação do prazo de alienação de imóveis que integrem o ativo do fundo em resultado de dação em pagamento ou da execução de garantias reais associadas aos ativos detidos;
 
-e) Estabelecer regras relativas à liquidação e partilha dos fundos de titularização de créditos.
+e) Estabelecer regras relativas à liquidação e partilha dos fundos de titularização de créditos;
+
+f) Estabelecer requisitos prudenciais adicionais;
+
+g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de supervisão prudencial.
+
+3 - É aplicável, com as devidas adaptações, o disposto nos artigos 71.º-Q e 71.º-R do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
