@@ -4,7 +4,7 @@
 
 À USIC compete:
 
-a) Instalar, explorar e manter os sistemas de telecomunicações da PJ;
+a) Instalar, explorar e manter os sistemas de telecomunicações da PJ, bem como garantir a sua interligação às redes da Organização Internacional de Polícia Criminal (OIPC/INTERPOL), da EUROPOL e de outros organismos internacionais da mesma natureza;
 
 b) Desenvolver, gerir e proceder à manutenção dos sistemas de informação da PJ, equipamentos especiais e respetivas redes de comunicação;
 
