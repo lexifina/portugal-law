@@ -1,3 +1,7 @@
+## Secção VIII
+
+## Condições do exercício da actividade
+
 ## Secção IX
 
 ## Direitos e prerrogativas

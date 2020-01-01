@@ -16,4 +16,4 @@ Os cargos relativos ao pessoal dirigente e a outro pessoal de direcção e chefi
 
 4) A substituição do pessoal da DGA processar-se-á nos termos indicados nos artigos seguintes;
 
-5) Para efeitos de assegurar a gestão corrente dos serviços nas faltas e impedimentos por períodos inferiores ao previsto no n.º 1 deste artigo, as funções cometidas ao funcionário ausente serão desempenhadas, em regra, pelo funcionário de mais elevada categoria e mais antigo, salvo se outro procedimento for achado mais conveniente pelo director-geral, nos serviços centrais, e pelos respectivos directores, nas alfândegas.
+5) (Revogado).

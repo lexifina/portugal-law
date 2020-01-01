@@ -8,7 +8,7 @@
 
 1 - Os funcionários da DGA têm direito aos vencimentos correspondentes às categorias que constam do quadro anexo.
 
-2 - Serão ainda abonados na DGA os quantitativos respeitantes a ajudas de custo e subsídios de deslocação ou transporte, sempre que constituam contrapartida da prestação de serviços extraordinários, a requerimento e por conta das partes, efectuados fora das estâncias aduaneiras.
+2 - (Revogado).
 
 3 - Para além dos abonos referidos no número anterior, são ainda devidos os previstos no artigo 318.º da Reforma Aduaneira, aprovado pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, sempre que os mesmos serviços sejam efectuados nos termos do n.º 3 do artigo 55.º, não podendo, contudo, ultrapassar anualmente o limite de 45% dos respectivos vencimentos.
 

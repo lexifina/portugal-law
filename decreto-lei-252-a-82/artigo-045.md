@@ -14,4 +14,4 @@
 
 2 - A contingentação do pessoal para os serviços centrais e para as diferentes alfândegas será estabelecida nos termos do número anterior, sob proposta do director-geral.
 
-3 - A distribuição do pessoal pelos serviços centrais e pelas alfândegas será estabelecida por despacho do director-geral.
+3 - (Revogado).
