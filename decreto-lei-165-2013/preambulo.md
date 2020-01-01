@@ -1,0 +1,29 @@
+Decreto-Lei n.º 165/2013
+
+de 16 de dezembro
+
+O Decreto-Lei n.º 10/2001, de 23 de janeiro, estabeleceu o regime relativo à constituição e manutenção de reservas de segurança de produtos de petróleo, transpondo para a ordem jurídica interna a Diretiva n.º 98/93/CE, do Conselho, de 14 de dezembro de 1998, que alterou a Diretiva n.º 68/414/CEE, do Conselho, de 20 de dezembro de 1968. O referido diploma foi alterado pelo Decreto-Lei n.º 339-D/2001, de 28 de dezembro, que veio também criar a Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos, E.P.E. (EGREP, E.PE.), introduzindo uma solução mista para a manutenção das reservas de segurança, através da qual se admite que uma parte da obrigação cometida aos operadores que introduzem produtos petrolíferos no mercado nacional seja realizada, em sua substituição, e mediante pagamento, pela EGREP, E.P.E.
+
+Posteriormente, o Decreto-Lei n.º 71/2004, de 25 de março, introduziu nova alteração ao Decreto-Lei n.º 10/2001, de 23 de janeiro, permitindo a constituição de reservas de segurança em outros países da União Europeia, a título meramente complementar e com respeito necessário pelas condições que salvaguardem os objetivos de segurança, tendo em vista possibilitar uma mais ampla capacidade de armazenagem.
+
+Por sua vez, o Decreto-Lei n.º 31/2006, de 15 de fevereiro, que estabeleceu as bases do sistema petrolífero nacional, veio enquadrar o regime da segurança do abastecimento, remetendo para legislação complementar a identificação das entidades obrigadas à constituição e manutenção de reservas de segurança, o respetivo regime de constituição, incluindo a parte das reservas mantidas como reservas estratégicas, e as condições de utilização das reservas.
+
+A Diretiva n.º 2009/119/CE, do Conselho, de 14 de setembro de 2009, que obriga os Estados-Membros a manterem um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos, veio, entretanto, alterar a disciplina jurídica das reservas de segurança no âmbito da União Europeia, numa ótica de aproximação aos métodos de cálculo das obrigações de armazenamento e das reservas de segurança estabelecidos pela Agência Internacional de Energia (AIE), com o objetivo de (i) assegurar um nível elevado de segurança do aprovisionamento em petróleo na Comunidade, através de mecanismos fiáveis e transparentes assentes na solidariedade entre os Estados-Membros, (ii) manter um nível mínimo de reservas de petróleo bruto e de produtos de petrolíferos, bem como (iii) criar os meios processuais necessários para obviar a uma eventual escassez grave.
+
+Para tal, a Diretiva exige que os Estados-Membros garantam a disponibilidade e a acessibilidade física permanentes das reservas de segurança e estabeleçam dispositivos de identificação, contabilidade e controlo destas reservas de forma a permitir a sua verificação em qualquer momento. A Diretiva reforça ainda o papel das entidades centrais de armazenagem, qualificando-as como entidades sem fins lucrativos, que funcionam no interesse geral, limitando-se a recuperar os custos em que incorrem com a constituição e manutenção das reservas de produtos petrolíferos a seu cargo.
+
+Assim, o presente decreto-lei introduz as normas necessárias à plena transposição da Diretiva n.º 2009/119/CE, do Conselho, de 14 de setembro de 2009, em particular no que respeita ao acesso à informação no âmbito de inspeções e avaliações a realizar pela Comissão Europeia, à elaboração de um plano de intervenção contemplando as medidas a adotar para eliminar ou atenuar o impacto de uma perturbação grave do abastecimento, à manutenção de um registo permanentemente atualizado contendo a informação necessária ao controlo das reservas, bem como à clarificação do fim não lucrativo da entidade central de armazenagem nacional (atualmente, a EGREP, E.P.E.), à criação de condições para uma maior eficácia operacional desta entidade e ao reforço da cooperação internacional.
+
+Em estreita ligação com a transposição da Diretiva n.º 2009/119/CE, do Conselho, de 14 de setembro de 2009, e considerando que, num contexto de progressiva descarbonização, o setor petrolífero e o setor dos biocombustíveis vêm conhecendo uma evolução a nível europeu que torna premente o tratamento integrado das competências e dos recursos públicos afetos a estes setores, são alargadas as atribuições da atual EGREP, E.P.E., no quadro do Compromisso Eficiência, com o objetivo de promover (i) a racionalização na utilização dos recursos públicos afetos ao setor petrolífero e ao setor dos biocombustíveis, (ii) a harmonização e simplificação de procedimentos, e (iii) um exercício mais eficiente e eficaz de um conjunto de competências atualmente dispersas por várias entidades públicas (EGREP, E.P.E, Direção-Geral de Energia e Geologia e Laboratório Nacional de Energia e Geologia, I.P.).
+
+Com esta finalidade, são alterados os estatutos da EGREP, E.P.E., que passa a denominar-se ENMC - Entidade Nacional para o Mercado de Combustíveis, E.P.E. (ENMC, E.P.E.), mantendo a natureza jurídica de entidade pública empresarial, sendo cometidas a uma unidade de reservas petrolíferas, a autonomizar no seio da ENMC, E.P.E., as atuais competências de constituição, gestão e manutenção das reservas estratégicas de petróleo bruto e de produtos de petróleo. É ainda prevista a criação de um Conselho Nacional para os Combustíveis, com o objetivo de proporcionar referências aos consumidores e de monitorizar o funcionamento do mercado dos combustíveis.
+
+A alteração aos estatutos da EGREP, E.P.E., a que ora se procede observa já o novo regime do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição dos operadores obrigados à constituição de reservas de segurança.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
