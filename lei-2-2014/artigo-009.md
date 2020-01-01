@@ -8,7 +8,9 @@ a) A sociedade beneficiária seja qualificada como micro, pequena ou média empr
 
 b) Os sócios que participem na constituição da sociedade ou no aumento do capital social sejam exclusivamente pessoas singulares, sociedades de capital de risco ou investidores de capital de risco;
 
-c) O seu lucro tributável não seja determinado por métodos indiretos.
+c) As instituições de segurança social e previdência a que se referem os artigos 94.º e 106.º da Lei n.º 4/2007, de 16 de janeiro;
+
+d) Os fundos de capitalização e os rendimentos de capitais administrados pelas instituições de segurança social e de previdência a que se referem os artigos 94.º e 106.º da Lei n.º 4/2007, de 16 de janeiro.
 
 2 - A dedução a que se refere o número anterior:
 
