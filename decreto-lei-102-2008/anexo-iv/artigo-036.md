@@ -52,7 +52,7 @@ c) Conter a menção 'autofaturação'.
 
 12 - (Revogado.)
 
-13 - Nas situações previstas nas alíneas i), j) e l) do n.º 1 do artigo 2.º, bem como nas demais situações em que o destinatário ou adquirente for o devedor do imposto, as faturas emitidas pelo transmitente dos bens ou prestador dos serviços devem conter a expressão 'IVA - autoliquidação'.
+13 - Nas situações previstas nas alíneas i), j), l) e m) do n.º 1 do artigo 2.º, bem como nas demais situações em que o destinatário ou adquirente for o devedor do imposto, as faturas emitidas pelo transmitente dos bens ou prestador dos serviços devem conter a expressão 'IVA - autoliquidação'.
 
 14 - (Revogado.)
 
