@@ -14,7 +14,7 @@ c) Assegurar que a estrutura organizacional da entidade obrigada permite, a todo
 
 d) Promover uma cultura de prevenção do branqueamento de capitais e do financiamento do terrorismo que abranja todos os colaboradores da entidade obrigada cujas funções sejam relevantes para efeitos da prevenção do branqueamento de capitais e do financiamento do terrorismo, sustentada em elevados padrões de ética e de integridade e, sempre que necessário, na definição e aprovação de códigos de conduta apropriados;
 
-e) Proceder à designação do responsável pelo cumprimento normativo ou do colaborador a que se referem os n.os 1 e 7 do artigo 16.º, respetivamente, assegurando a rigorosa verificação das condições do n.º 3 do mesmo artigo;
+e) Proceder à designação do responsável pelo cumprimento normativo a que se refere o n.º 1 do artigo 16.º, assegurando a rigorosa verificação das condições do n.º 3 do mesmo artigo;
 
 f) Acompanhar a atividade dos demais membros da direção de topo, na medida em que estes tutelem áreas de negócio que estejam ou possam vir a estar expostas a riscos de branqueamento de capitais e de financiamento do terrorismo;
 

@@ -28,6 +28,4 @@ a) Identificação completa dos beneficiários e dos apoiantes;
 
 b) Montantes dos apoios concedidos, individualizados por apoiante e por operação.
 
-3 - As entidades gestoras de plataformas de financiamento colaborativo devem conservar em suporte duradouro os elementos de informação referidos nos números anteriores, bem como o suporte demonstrativo dos mesmos, pelo período de sete anos.
-
-4 - As entidades gestoras de plataformas de financiamento colaborativo informam de imediato o DCIAP e a Unidade de Informação Financeira de quaisquer suspeitas de que certos fundos podem estar relacionados com o financiamento do terrorismo ou provir de outras atividades criminosas, guardando segredo quanto às comunicações realizadas e à identidade de quem as efetuou.
+3 - As entidades gestoras de plataformas de financiamento devem conservar, em suporte duradouro, os elementos de informação referidos nos números anteriores, bem como o suporte demonstrativo dos mesmos, pelo período de 10 ou cinco anos, consoante se trate das situações previstas no n.º 1 ou no n.º 2, respetivamente.

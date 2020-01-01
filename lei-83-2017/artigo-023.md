@@ -18,11 +18,11 @@
 
 a) Estabeleçam relações de negócio;
 
-b) Efetuem transações ocasionais, independentemente de a transação ser realizada através de uma única operação ou de várias operações aparentemente relacionadas entre si:
+b) Efetuem transações ocasionais:
 
-i) De montante igual ou superior a 15 000 (euro); ou
+i) De montante igual ou superior a (euro) 15 000, independentemente de a transação ser realizada através de uma única operação ou de várias operações aparentemente relacionadas entre si; ou
 
-ii) Que constituam uma transferência de fundos ou uma transação executada no âmbito da prestação de serviços de criptoativos, sempre que o montante das mesmas exceda 1000 €;
+ii) Que constituam uma transferência de fundos de montante superior a (euro) 1 000;
 
 c) Se suspeite que as operações, independentemente do seu valor e de qualquer exceção ou limiar, possam estar relacionadas com o branqueamento de capitais ou com o financiamento do terrorismo;
 

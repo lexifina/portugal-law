@@ -8,7 +8,7 @@
 
 a) Ser proporcionais à natureza, dimensão e complexidade da atividade da entidade obrigada;
 
-b) Garantir a confidencialidade das comunicações recebidas e a proteção dos dados pessoais do denunciante e do suspeito da prática da infração, nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e demais legislação de proteção de dados.
+b) Garantir a confidencialidade das comunicações recebidas e a proteção dos dados pessoais do denunciante e do suspeito da prática da infração, nos termos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
 
 3 - As pessoas que, em virtude das funções que exerçam na entidade obrigada, nomeadamente ao abrigo do artigo 16.º, tomem conhecimento de qualquer facto grave que integre as irregularidades referidas no n.º 1 do presente artigo, têm o dever de as comunicar ao órgão de fiscalização, nos termos e com as salvaguardas estabelecidas no presente artigo.
 

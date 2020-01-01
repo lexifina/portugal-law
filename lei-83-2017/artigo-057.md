@@ -12,4 +12,4 @@
 
 3 - A prevenção e o combate ao branqueamento de capitais e ao financiamento do terrorismo são expressamente reconhecidos como um domínio de proteção de um interesse público importante, incluindo no que se refere aos tratamentos de dados pessoais efetuados com base na presente lei.
 
-4 - O disposto no n.º 2 não prejudica o tratamento dos dados pessoais aí referidos com base em outras disposições legais, nomeadamente no disposto no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e demais legislação de proteção de dados.
+4 - O disposto no n.º 2 não prejudica o tratamento dos dados pessoais aí referidos com base em outras disposições legais, nomeadamente no disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.

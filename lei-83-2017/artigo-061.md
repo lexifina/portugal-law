@@ -2,7 +2,7 @@
 
 ### Comunicação, transmissão e interconexão de dados
 
-1 - O reconhecimento previsto no n.º 3 do artigo 57.º é, em especial, aplicável para os efeitos previstos no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e demais legislação de proteção de dados.
+1 - O reconhecimento previsto no n.º 3 do artigo 57.º é, em especial, aplicável para os efeitos previstos na alínea c) do n.º 1 do artigo 20.º da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
 
 2 - Os dados pessoais tratados com base na presente lei podem ser comunicados ou transferidos:
 

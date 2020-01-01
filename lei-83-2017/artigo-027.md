@@ -1,6 +1,6 @@
 # Artigo 27.º
 
-### Procedimentos complementares de diligência
+### Procedimentos complementares
 
 Em complemento dos procedimentos de identificação previstos nos artigos 24.º e 25.º, as entidades obrigadas procedem ainda:
 

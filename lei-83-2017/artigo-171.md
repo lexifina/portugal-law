@@ -2,7 +2,7 @@
 
 ### Agravamento dos limites das coimas
 
-1 - Sempre que o montante correspondente ao dobro do benefício económico resultante da prática de contraordenação prevista na presente secção seja determinável e superior ao limite máximo da coima aplicável, este limite é elevado para aquele montante.
+1 - Sempre que o montante correspondente ao dobro do benefício económico resultante da prática de contraordenação prevista no artigo 169.º seja determinável e superior ao limite máximo da coima aplicável, este limite é elevado para aquele montante.
 
 2 - No caso específico das pessoas coletivas que sejam instituições de crédito ou instituições financeiras ou alguma das entidades não financeiras referidas nas alíneas a) a c) do n.º 1 do artigo 4.º, os limites máximos aplicáveis previstos no artigo anterior são elevados para o montante correspondente a 10 % do volume de negócios anual total, de acordo com as últimas contas disponíveis aprovadas pelo órgão de administração, sempre que este montante seja superior àqueles limites.
 

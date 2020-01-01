@@ -4,7 +4,7 @@
 
 1 - Sem prejuízo do disposto no n.º 3, a verificação da identidade do cliente e dos seus representantes é efetuada antes do estabelecimento da relação de negócio ou da realização de qualquer transação ocasional.
 
-2 - No caso das transações ocasionais, as entidades obrigadas verificam a atualidade dos elementos de identificação apresentados, independentemente de já terem recolhido elementos de informação sobre o cliente durante a realização de uma transação ocasional anterior.
+2 - No caso das transações ocasionais, as entidades obrigadas estão obrigadas a verificar a atualidade dos elementos de identificação apresentados, independentemente de já terem recolhido elementos de informação sobre o cliente durante a realização de uma transação ocasional anterior.
 
 3 - A verificação da identidade prevista no n.º 1 pode ser completada após o início da relação de negócio, desde que se verifiquem cumulativamente os seguintes pressupostos:
 

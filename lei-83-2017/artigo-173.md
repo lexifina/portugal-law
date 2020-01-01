@@ -32,6 +32,4 @@ i) No caso das contraordenações praticadas pelas demais entidades não finance
 
 ii) No caso das contraordenações praticadas pelas entidades referidas nas subalíneas ii) e iii) da alínea b) do artigo 5.º
 
-2 - As competências instrutória e decisória dos procedimentos instaurados pela prática da contraordenação prevista na alínea d) do artigo 169.º cabem sempre ao IMPIC, I. P., qualquer que seja a natureza da entidade infratora.
-
-3 - Quando as contraordenações previstas na presente secção sejam praticadas por pessoa coletiva, entidade equiparada a pessoa coletiva ou pessoa singular de natureza diversa das entidades previstas nos artigos 3.º a 6.º, as competências instrutória e decisória cabem à autoridade setorial perante a qual a adoção do comportamento ou cessação da conduta sejam devidos.
+2 - As competências instrutória e decisória dos procedimentos instaurados pela prática da contraordenação prevista na alínea ee) do artigo 169.º cabem sempre ao IMPIC, I. P., qualquer que seja a natureza da entidade infratora.

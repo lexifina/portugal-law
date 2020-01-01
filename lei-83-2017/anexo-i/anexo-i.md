@@ -30,6 +30,4 @@ l) Custódia e administração de valores mobiliários;
 
 m) Aluguer de cofres;
 
-n) Emissão de moeda eletrónica;
-
-o) Serviços de criptoativos, na aceção do ponto 16 do n.º 1 do artigo 3.º do Regulamento (UE) 2023/1114, com exceção da consultoria sobre criptoativos a que se refere a alínea h) do mesmo ponto.
+n) Emissão de moeda eletrónica.

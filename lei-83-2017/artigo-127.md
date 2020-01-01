@@ -8,4 +8,4 @@
 
 3 - A disponibilização do acesso ou das informações ao abrigo dos números anteriores é efetuada sem quaisquer custos associados.
 
-4 - O disposto no presente artigo não prejudica a obtenção, pelas autoridades competentes ao abrigo da presente lei, de outras informações, diretamente ou através das entidades obrigadas, sobre pessoas coletivas, centros de interesses coletivos sem personalidade jurídica, seus titulares formais, beneficiários efetivos, membros de órgãos sociais, administradores fiduciários e outras pessoas que ocupem posições similares.
+4 - O disposto no número anterior não prejudica a obtenção, pelas autoridades competentes ao abrigo da presente lei, de outras informações, diretamente ou através das entidades obrigadas, sobre pessoas coletivas, centros de interesses coletivos sem personalidade jurídica, seus titulares formais, beneficiários efetivos, membros de órgãos sociais, administradores fiduciários e outras pessoas que ocupem posições similares.

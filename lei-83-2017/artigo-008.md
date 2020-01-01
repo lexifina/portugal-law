@@ -38,7 +38,7 @@ g) Avaliar as principais tendências e ameaças de branqueamento de capitais e d
 
 a) Dos relatórios, e respetivas atualizações, que venham a ser disponibilizados pela Comissão Europeia sobre a identificação, análise e avaliação dos riscos de branqueamento de capitais e de financiamento do terrorismo relacionados com atividades transfronteiriças a que se encontra exposto o mercado interno da União Europeia;
 
-b) Dos pareceres, e respetivas atualizações, que venham a ser disponibilizados pela Autoridade para o Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo e pela Autoridade Bancária Europeia sobre os riscos de branqueamento de capitais e de financiamento do terrorismo a que se encontra exposto o setor financeiro da União Europeia.
+b) Dos pareceres, e respetivas atualizações, que venham a ser disponibilizados pelo Comité Conjunto das Autoridades Europeias de Supervisão sobre os riscos de branqueamento de capitais e de financiamento do terrorismo a que se encontra exposto o setor financeiro da União Europeia.
 
 5 - As autoridades setoriais, na medida do legalmente admissível:
 
@@ -50,13 +50,7 @@ c) Consideram a informação a que se refere a alínea anterior na planificaçã
 
 d) Disponibilizam prontamente às entidades obrigadas, de acordo com as respetivas áreas de competência e pelo modo mais expedito e adequado, quaisquer informações que facilitem as avaliações de risco a conduzir por aquelas entidades.
 
-6 - As entidades competentes disponibilizam à Comissão Europeia, à Autoridade para o Combate ao Branqueamento de Capitais e ao Financiamento do Terrorismo, à Autoridade Bancária Europeia e aos demais Estados-Membros:
-
-a) Os resultados de cada exercício de avaliação e atualização a que se refere o n.º 2;
-
-b) Informação relacionada com a estrutura institucional e procedimentos gerais do regime de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, incluindo a Unidade de Informação Financeira, a Autoridade Tributária e Aduaneira e a Procuradoria-Geral da República;
-
-c) Na medida em que a informação esteja disponível, informação sobre recursos humanos e financeiros afetos ao combate ao branqueamento de capitais e ao financiamento do terrorismo.
+6 - Os resultados de cada exercício de avaliação e atualização a que se refere o n.º 2 são disponibilizados, pelas entidades para o efeito competentes, à Comissão Europeia, às Autoridades Europeias de Supervisão e aos demais Estados-Membros da União Europeia.
 
 7 - As informações e os resultados a disponibilizar ao abrigo da alínea d) do n.º 5 e do n.º 6 não podem conter informações suscetíveis de comprometer a prevenção, deteção e investigação do branqueamento de capitais e do financiamento do terrorismo, nem constituir entrave a inquéritos ou procedimentos pendentes, sejam de natureza criminal ou outra.
 

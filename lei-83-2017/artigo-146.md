@@ -22,7 +22,7 @@ f) Adotam procedimentos para assegurar o conhecimento das suas contrapartes, des
 
 g) Informam de imediato o DCIAP e a Unidade de Informação Financeira de quaisquer suspeitas de que certos fundos podem provir de atividades criminosas ou estar relacionados com o financiamento do terrorismo, guardando segredo quanto às comunicações realizadas e à identidade de quem as efetuou;
 
-h) Conservam, pelo prazo de sete anos, os elementos que comprovam o cumprimento do disposto no presente artigo e na regulamentação para que o mesmo remete;
+h) Conservam, pelo prazo de 10 anos, os elementos que comprovam o cumprimento do disposto no presente artigo e na regulamentação para que o mesmo remete;
 
 i) Prestam a colaboração que lhes for requerida pelo DCIAP e pela Unidade de Informação Financeira, bem como pelas demais autoridades judiciárias e policiais e pela ASAE, incluindo a disponibilização dos elementos relevantes para aferir o cumprimento do disposto no presente artigo e na regulamentação para que o mesmo remete;
 
@@ -34,4 +34,4 @@ b) Pode determinar, atendendo aos riscos existentes e nos termos a definir em re
 
 c) Pode oficiosamente considerar cumpridos os deveres previstos no presente artigo ou na regulamentação para que o mesmo remete, quando a informação prestada a outras autoridades ou organismos públicos com competências no domínio das organizações sem fins lucrativos, ainda que para outros fins, seja suficiente para o efeito;
 
-d) Acede a toda a informação necessária à verificação do cumprimento do presente artigo e da regulamentação para que o mesmo remete, designadamente informações de ordem fiscal, ainda que na posse de outras autoridades ou organismos públicos com competências no domínio das organizações sem fins lucrativos e mesmo que tal informação se encontre sujeita a qualquer dever de segredo, imposto por via legislativa, regulamentar ou contratual.
+d) Acede a toda a informação necessária à verificação do cumprimento do presente artigo e da regulamentação para que o mesmo remete, ainda que na posse de outras autoridades ou organismos públicos com competências no domínio das organizações sem fins lucrativos e mesmo que tal informação se encontre sujeita a qualquer dever de segredo, imposto por via legislativa, regulamentar ou contratual.

@@ -2,7 +2,7 @@
 
 ### Suspensão temporária
 
-1 - Nos quatro dias úteis seguintes à remessa da informação a que se refere o n.º 4 do artigo anterior, o DCIAP pode determinar a suspensão temporária da execução das operações relativamente às quais foi ou deva ser exercido o dever de abstenção, notificando para o efeito a entidade obrigada.
+1 - Nos quatros dias úteis seguintes à remessa da informação a que se refere o n.º 4 do artigo anterior, o DCIAP pode determinar a suspensão temporária da execução das operações relativamente às quais foi ou deva ser exercido o dever de abstenção, notificando para o efeito a entidade sujeita.
 
 2 - Fora dos casos previstos no número anterior, a suspensão temporária pode ainda ser decretada nas seguintes situações:
 

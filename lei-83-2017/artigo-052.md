@@ -2,9 +2,9 @@
 
 ### Dever de exame
 
-1 - Sempre que detetem a existência de qualquer conduta, atividade ou operação cujos elementos caracterizadores a torne suscetível de poder estar relacionada com fundos ou outros bens provenientes de financiamento do terrorismo ou de outras atividades criminosas, as entidades obrigadas examinam-nas com especial cuidado e atenção, intensificando o grau e a natureza do seu acompanhamento.
+1 - Sempre que detetem a existência de quaisquer condutas, atividades ou operações cujos elementos caracterizadores as tornem suscetíveis de poderem estar relacionadas com fundos ou outros bens que provenham de atividades criminosas ou que estejam relacionados com o financiamento do terrorismo, as entidades obrigadas examinam-nas com especial cuidado e atenção, intensificado o grau e a natureza do seu acompanhamento.
 
-2 - Para os efeitos do disposto no número anterior, são considerados, sempre que aplicáveis, os seguintes elementos caracterizadores, sem prejuízo de outros que se verifiquem no caso concreto:
+2 - Para os efeitos do disposto no número anterior, relevam especialmente os seguintes elementos caracterizadores, sem prejuízo de outros que se verifiquem no caso concreto:
 
 a) A natureza, a finalidade, a frequência, a complexidade, a invulgaridade e a atipicidade da conduta, da atividade ou das operações;
 

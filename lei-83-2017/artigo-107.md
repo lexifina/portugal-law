@@ -10,7 +10,7 @@
 
 a) De modo a verificar o cumprimento do disposto nos seus n.os 1 e 2;
 
-b) Sempre que haja suspeitas de que o ponto de contacto central não está a cumprir as funções mencionadas nos seus n.os 6 e 7;
+b) Sempre que haja suspeitas de que o ponto de contacto central não está a cumprir as funções mencionadas no seu n.º 3;
 
 c) Quando existam suspeitas do envolvimento em quaisquer operações que possam estar relacionadas com atividades criminosas de que provenham fundos ou outros bens ou com o financiamento do terrorismo.
 

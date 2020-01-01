@@ -14,14 +14,6 @@ b) No âmbito do cumprimento das obrigações e do desempenho das funções conf
 
 c) No quadro do regime de cooperação constante do capítulo IX, nos termos especificamente aí previstos.
 
-4 - Fora dos casos previstos no número anterior, as autoridades setoriais podem proceder à troca de informação sujeita a segredo nos termos definidos na respetiva legislação setorial.
+4 - Fora dos casos previstos nos número anterior, as autoridades setoriais podem proceder à troca de informação sujeita a segredo nos termos definidos na respetiva legislação setorial.
 
 5 - É ainda lícita a divulgação de informação que não permita a identificação individualizada de pessoas ou instituições, designadamente na forma sumária ou agregada.
-
-6 - As informações recebidas para cumprimento da presente lei pelas autoridades de supervisão das entidades financeiras, no quadro do regime de cooperação a que se refere a alínea c) do n.º 3, só podem ser utilizadas:
-
-a) No exercício das atribuições conferidas pela presente lei, incFluindo a aplicação de sanções;
-
-b) No exercício das atribuições conferidas pelos demais diplomas setoriais que regulam a respetiva atividade, nos termos aí previstos;
-
-c) No âmbito de ações judiciais que tenham por objeto decisões tomadas pelo membro do Governo responsável pela área das finanças ou pela autoridade de supervisão das entidades financeiras no exercício das suas funções.

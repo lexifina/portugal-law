@@ -8,7 +8,7 @@ a) No caso dos procedimentos contraordenacionais em que a competência instrutó
 
 i) Do capítulo II do título VIII do regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado pelo artigo 2.º da Lei n.º 147/2015, de 9 de setembro;
 
-ii) Do capítulo VII do regime jurídico da distribuição de seguros e de resseguros, aprovado pelo n.º 2 do artigo 1.º da Lei n.º 7/2019, de 16 de janeiro;
+ii) Da secção I do capítulo VI do Decreto-Lei n.º 144/2006, de 31 de julho, que regula as condições de acesso e de exercício da atividade de mediação de seguros ou de resseguros;
 
 iii) Do capítulo II do título IX do Decreto-Lei n.º 12/2006, de 20 de janeiro, que regula a constituição e o funcionamento dos fundos de pensões e das entidades gestoras de fundos de pensões;
 
@@ -28,4 +28,4 @@ iii) Dos capítulos VIII e IX do Decreto-Lei n.º 31/2011, de 4 de março;
 
 iv) Do regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro;
 
-e) No caso dos procedimentos contraordenacionais em que a competência instrutória cabe a outras autoridades setoriais, as disposições constantes do Regime Jurídico das Contraordenações Económicas.
+e) No caso dos procedimentos contraordenacionais em que a competência instrutória cabe a outras autoridades setoriais, as disposições constantes do regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro.

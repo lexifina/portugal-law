@@ -20,4 +20,4 @@ c) Ao dever de não divulgação previsto no artigo 54.º, quanto às comunicaç
 
 6 - O Instituto dos Registos e do Notariado, I. P., constitui entidade equiparada a autoridade setorial, aplicando-se-lhe, com as necessárias adaptações, o respetivo regime.
 
-7 - Revogado.
+7 - A Inspeção-Geral dos Serviços de Justiça verifica o cumprimento, pelo Instituto dos Registos e do Notariado, I. P., das funções conferidas pelo presente artigo, ficando autorizada a realizar as ações inspetivas que para o efeito considere relevantes.

@@ -14,14 +14,10 @@ b) A obrigatoriedade de observar as restrições e condições impostas pelas su
 
 4 - A Unidade de Informação Financeira observa as salvaguardas previstas no n.º 4 do artigo 134.º e só pode recusar a prestação de informação com base na impossibilidade de as suas congéneres as observarem, excetuando-se a salvaguarda mencionada na alínea c) do referido n.º 4, cuja inobservância constitui motivo de recusa apenas na parte respeitante aos segredos de justiça e de Estado.
 
-5 - Fora dos casos previstos no número anterior, a Unidade de Informação Financeira concede o consentimento prévio a que se refere o n.º 3 do artigo 134.º de imediato e em toda a extensão possível, independentemente da concreta atividade criminosa, circunscrevendo a recusa às situações em que a respetiva concessão:
+5 - Fora dos casos previstos no número anterior, a Unidade de Informação Financeira concede o consentimento prévio a que se refere o n.º 3 do artigo 134.º de imediato e em toda a extensão possível, circunscrevendo a recusa às situações em que a respetiva concessão:
 
 a) Exceda as suas atribuições legais em matéria de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo;
 
-b) (Revogada.)
-
-c) For suscetível de prejudicar uma investigação;
-
-d) Não for consentânea com os princípios fundamentais do direito nacional.
+b) Seja claramente desproporcional face aos interesses nacionais ou aos interesses legítimos de uma dada pessoa singular ou coletiva.
 
 6 - Os motivos de recusa a que se referem os n.os 4 e 5 são devidamente fundamentados, documentados e, sempre que possível, dados a conhecer à Unidade congénere.

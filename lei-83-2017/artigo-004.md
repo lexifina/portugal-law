@@ -12,7 +12,7 @@ c) Entidades abrangidas pelo Regime Jurídico dos Jogos e Apostas Online (RJO), 
 
 d) Entidades não previstas no artigo anterior que exerçam qualquer atividade imobiliária;
 
-e) Auditores, contabilistas certificados e consultores fiscais, constituídos em sociedade ou em prática individual, bem como qualquer outra pessoa que se comprometa a prestar, diretamente ou por intermédio de outras pessoas com as quais tenha algum tipo de relação, ajuda material, assistência ou consultoria em matéria fiscal, como principal atividade comercial ou profissional;
+e) Auditores, contabilistas certificados e consultores fiscais, constituídos em sociedade ou em prática individual;
 
 f) Advogados, solicitadores, notários e outros profissionais independentes da área jurídica, constituídos em sociedade ou em prática individual;
 
@@ -20,27 +20,13 @@ g) Prestadores de serviços a sociedades, a outras pessoas coletivas ou a centro
 
 h) Outros profissionais que intervenham em operações de alienação e aquisição de direitos sobre praticantes de atividades desportivas profissionais;
 
-i) Operadores económicos que exerçam a atividade leiloeira ou a atividade prestamista;
+i) Operadores económicos que exerçam a atividade leiloeira, incluindo os prestamistas;
 
-j) Outras pessoas que armazenem, negoceiem ou ajam como intermediários no comércio de obras de arte, inclusivamente quando o mesmo ocorra em zonas francas, quando o pagamento dos bens transacionados ou dos serviços prestados, independentemente de ser realizado através de uma única operação ou de várias operações, seja realizado:
+j) Operadores económicos que exerçam as atividades de importação e exportação de diamantes em bruto;
 
-i) Em numerário, se o valor da transação for igual ou superior a 3000 (euro); ou
+k) Entidades autorizadas a exercer a atividade de transporte, guarda, tratamento e distribuição de fundos e valores, prevista na alínea d) do n.º 1 do artigo 3.º da Lei n.º 34/2013, de 16 de maio;
 
-ii) Através de outro meio de pagamento, se o valor da transação for igual ou superior a 10 000 (euro).
-
-k) Operadores económicos que exerçam as atividades de importação e exportação de diamantes em bruto;
-
-l) Entidades autorizadas a exercer a atividade de transporte, guarda, tratamento e distribuição de fundos e valores, prevista na alínea d) do n.º 1 do artigo 3.º da Lei n.º 34/2013, de 16 de maio;
-
-m) Comerciantes que transacionem bens de elevado valor unitário, nomeadamente ouro e outros metais preciosos, pedras preciosas, antiguidades, aeronaves, embarcações e veículos automóveis, quando o pagamento dos bens transacionados, independentemente de ser realizado através de uma única operação ou de várias operações, seja realizado:
-
-i) Em numerário, se o valor da transação for igual ou superior a 3000 (euro);
-
-ii) Através de outro meio de pagamento, se o valor da transação for igual ou superior a 10 000 (euro);
-
-n) Outros comerciantes e prestadores de serviço que transacionem bens ou prestem serviços, quando o pagamento da transação seja realizado em numerário e o valor daquelas seja igual ou superior a 3000 (euro), independentemente de o pagamento ser realizado através de uma única operação ou de várias operações;
-
-o) (Revogada.)
+l) Comerciantes que transacionem bens ou prestem serviços cujo pagamento seja feito em numerário.
 
 2 - Os profissionais abrangidos pela alínea f) do número anterior estão sujeitos às disposições da presente lei, quando intervenham ou assistam, por conta de um cliente ou noutras circunstâncias, em:
 
@@ -89,5 +75,3 @@ a) São notificadas pelo Governo à Comissão Europeia, conjuntamente com a aval
 b) São objeto de um acompanhamento regular e baseado no risco, através da adoção de medidas, a especificar na portaria referida no número anterior, que se mostrem adequadas a assegurar que tais isenções não são utilizadas abusivamente para fins de branqueamento de capitais e de financiamento do terrorismo;
 
 c) São objeto de imediata revogação, sempre que se verifique um agravamento do risco de branqueamento de capitais e de financiamento de terrorismo que esteve na base da concessão da isenção.
-
-6 - (Revogado.)

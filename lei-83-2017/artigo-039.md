@@ -28,6 +28,6 @@ d) Monitorizam em permanência e de forma reforçada as relações de negócio, 
 
 a) Membros próximos da família e pessoas reconhecidas como estreitamente associadas;
 
-b) Titulares de outros cargos políticos ou públicos, com a especificidade dada pelo número seguinte.
+b) Titulares de outros cargos políticos ou públicos, com a especificada dada pelo número seguinte.
 
 5 - O cumprimento do disposto nas alíneas b) a d) do n.º 1 é apenas exigível nas relações de negócio e transações ocasionais com titulares de outros cargos políticos ou públicos em que seja identificado um risco acrescido de branqueamento de capitais ou de financiamento do terrorismo.

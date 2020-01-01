@@ -36,15 +36,13 @@ c) Em outras entidades sob o seu controlo, designadamente mediante a verificaç�
 
 6 - Sempre que operem num dado país de acolhimento nos moldes previstos nas alíneas a) a c) do n.º 4 e os requisitos mínimos aí aplicáveis no domínio da prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo se mostrem menos rigorosos, as entidades obrigadas asseguram a aplicação das leis, dos regulamentos e das disposições nacionais nesse domínio, inclusive no que respeita à proteção de dados pessoais, na medida em que o direito do país de acolhimento o permita.
 
-7 - Para efeitos do presente artigo, as entidades obrigadas têm em conta todas as proibições, restrições ou outras condições impostas pelo direito do país de acolhimento que possam impedir ou limitar a aplicação do disposto nos n.os 4 e 6, incluindo as relativas a segredo, proteção de dados pessoais e outras restrições à partilha de informações.
-
-8 - Caso o direito do país de acolhimento não permita a aplicação do disposto nos n.os 4 e 6, as entidades obrigadas:
+7 - Caso o direito do país de acolhimento não permita a aplicação do disposto nos n.os 4 e 6, as entidades obrigadas:
 
 a) Asseguram que as suas sucursais e as filiais participadas maioritariamente nesse país, bem como outras entidades sob o seu controlo nos termos a estabelecer por regulamentação setorial, aplicam medidas adicionais para controlar eficazmente o risco de branqueamento de capitais e de financiamento do terrorismo;
 
 b) Informam imediatamente as autoridades setoriais dos impedimentos verificados e das medidas adicionais adotadas.
 
-9 - Quando as medidas adicionais referidas no número anterior não se mostrem suficientes para controlar eficazmente o risco de branqueamento de capitais e de financiamento do terrorismo, as autoridades setoriais adotam as providências adicionais necessárias à mitigação do risco verificado, as quais podem incluir as seguintes ações de controlo sobre o grupo:
+8 - Quando as medidas adicionais referidas no número anterior não se mostrem suficientes para controlar eficazmente o risco de branqueamento de capitais e de financiamento do terrorismo, as autoridades setoriais adotam as providências adicionais necessárias à mitigação do risco verificado, as quais podem incluir as seguintes ações de controlo sobre o grupo:
 
 a) Proibição de estabelecer novas relações de negócio ou exigência de pôr termo a relações de negócio existentes;
 
