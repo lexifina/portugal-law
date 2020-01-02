@@ -1,0 +1,211 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13382",
+  "numero": "15",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-01-02",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-06-16",
+            "entidades": null,
+            "id": "115063",
+            "tipo": null,
+            "titulo": "Audição em 2020-06-16 com Peticionário"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-03-03",
+            "dataResposta": "2020-05-14",
+            "entidades": [
+              "Autoridade Nacional de Comunicações"
+            ],
+            "nrOficio": "44/CEIOPH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-03-03",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro das Infraestruturas e Habitação"
+            ],
+            "nrOficio": "43/CEIOPH",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-20",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "915049",
+                "obs": null,
+                "pag": [
+                  "25-29"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-25",
+                "pubLeg": "XIV",
+                "pubNr": "52",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/052/2020-07-25/25?pgs=25-29&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-11",
+        "DataArquivo": "2020-07-21",
+        "DataBaixaComissao": "2020-01-10",
+        "DataEnvioPAR": "2020-07-22",
+        "DataReaberta": "2020-02-11",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-02-11",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d4751334e44566a596a49744f574d315a4330304d7a6c694c546c684d575974597a417a5a6d52684d6a686b596a4d354c6e426b5a673d3d&fich=0d745cb2-9c5d-439b-9a1f-c03fda28db39.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-03-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764d54686c4d6a45345a4451745a6a67335a4330305a54566c4c546c68596a67745a444d785a544d7a4d4455355a4751324c6e426b5a673d3d&fich=18e218d4-f87d-4e5e-9ab8-d31e33059dd6.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-04",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e6a59784d47466b4e7a51744d7a59345a4330304e324a6b4c574578595463744d6a6b324d54686a4f44497a596a4d314c6e426b5a673d3d&fich=6610ad74-368d-47bd-a1a7-29618c823b35.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-22",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738764e5467775a6d4a694d6a557459546b305a5330304f57566d4c546b33593259744e4745305a574a684d57566b4e5467354c6e426b5a673d3d&fich=580fbb25-a94e-49ef-97cf-4a4eba1ed589.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-05-15",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a5a4452556c50554567765247396a6457316c626e52766331426c64476c6a595738765a54557a4e4449344d574574596a46694e4330304f474a6c4c5749354d3245744d6a41774e44557a596d45355957517a4c6e426b5a673d3d&fich=e534281a-b1b4-48be-b93a-200453ba9ad3.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7364",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Economia, Inovação, Obras Públicas e Habitação",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-11",
+            "gp": "PS",
+            "id": "7103",
+            "motivoCessacao": null,
+            "nome": "Filipe Pacheco"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2020-01-17",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a6c6c5a47526b596d52694c544d304f4451744e4467335a5331694e7a6c6a4c5755354e4451314d5464684f5451335a6935775a47593d&fich=9edddbdb-3484-487e-b79c-e944517a947f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13382",
+    "PetAssunto": "Contra o encerramento da Estação dos CTT no Monte de Caparica",
+    "PetDataEntrada": "2020-01-02",
+    "PeticoesAssociadas": null,
+    "PetId": "13382",
+    "PetLeg": "XIV",
+    "PetNr": "15",
+    "PetNrAssinaturas": "3513",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891501",
+        "obs": null,
+        "pag": [
+          "10-10"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-14",
+        "pubLeg": "XIV",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/021/2020-02-14/10?pgs=10&org=PLC"
+      }
+    ]
+  }
+}
