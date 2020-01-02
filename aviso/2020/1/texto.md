@@ -1,0 +1,6 @@
+Aviso n.º 1/2020
+Sumário: Torna público que a República Portuguesa depositou o seu instrumento de ratificação do Acordo de Parceria sobre as Relações e a Cooperação entre a União Europeia e os Seus Estados-Membros, por um lado, e a Nova Zelândia, por outro, assinado em Bruxelas, em 5 de outubro de 2016.
+Por ordem superior se torna público que, em 6 de dezembro de 2019, a República Portuguesa depositou, junto do Secretário-Geral do Conselho da União Europeia, na qualidade de depositário, o seu instrumento de ratificação do Acordo de Parceria sobre as Relações e a Cooperação entre a União Europeia e os Seus Estados-Membros, por um lado, e a Nova Zelândia, por outro, assinado em Bruxelas, em 5 de outubro de 2016. Em cumprimento do artigo 58.º do Acordo, este entra em vigor trinta dias após a data em que as Partes tenham procedido à notificação recíproca do cumprimentos das respetivas formalidades jurídicas necessárias para o efeito.
+A República Portuguesa é Parte deste Acordo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 223/2019 e ratificado pelo Decreto do Presidente da República n.º 68/2019, publicados no Diário da República, 1.ª série, n.º 214, de 11 de novembro de 2019.
+Direção-Geral dos Assuntos Europeus, 16 de dezembro de 2019. - O Diretor-Geral, Rui Vinhas.
+112860632
