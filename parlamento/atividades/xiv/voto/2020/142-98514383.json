@@ -1,0 +1,114 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MSw62GXLjFgk%2fxADoxHwZLXe6gFy62Ozrr1tJA5XVSNk%2fvxYrQL2xsBChRr2JkFNBjIClFH2ZYjvcBsv8cPvjZD8zLz2yqlrTOiqMOqRi5C9IJA7TFYKiwTBAuxVhlMJp2CS8awPcWmLSeoZVW454%2f0d1DPjUzZ9luROj%2b00vdKD4RdkoDn8Yfx%2fA4vL7GGCAfLzXewecVQzXyfRODNFsaz1AwfcRQODaL6lMIp%2bTZRaHUsMWqnHi8G0Ft%2b4SIeecWD6dqRfRr%2f5pPy56X1nGVOLdwimUxaWe3NdoaXjyaGWq6m3qY9iZUcDZGTXtWoY77gGRfm%2froDNfqryP6o3cgzHd6%2bKGaNfMPGzgj%2fnlwDcwASN%2fmg1ZY0QOxK0OJf8&fich=AtividadesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "b462056a98b76a62a0cdc9c1dd11350b9914ff627d67e4ce7f68f9ff7eac5457",
+  "legislatura": "XIV",
+  "tipo": "Voto",
+  "numero": "142",
+  "data_registo": "2020-01-08",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "De apelo a uma solução diplomática no diferendo entre os EUA e o Irão",
+    "AutoresGP": [
+      "Bruno Aragão (PS)",
+      "Ana Maria Silva (PS)",
+      "Ana Passos (PS)",
+      "Célia Paz (PS)",
+      "Cristina Sousa (PS)",
+      "Rita Borges Madeira (PS)",
+      "João Miguel Nicolau (PS)",
+      "Alexandra Tavares de Moura (PS)",
+      "Fernando Paulo Ferreira (PS)",
+      "Vera Braz (PS)",
+      "Paulo Porto (PS)",
+      "Paulo Neves (PSD)",
+      "Susana Correia (PS)",
+      "Telma Guerreiro (PS)",
+      "Ricardo Leão (PS)",
+      "Romualda Fernandes (PS)",
+      "Anabela Rodrigues (PS)",
+      "Lara Martinho (PS)",
+      "Marta Freitas (PS)",
+      "Paulo Pisco (PS)",
+      "Jorge Paulo Oliveira (PSD)",
+      "António Maló de Abreu (PSD)",
+      "Fernanda Velez (PSD)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "2020-01-08",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "XIV",
+    "Numero": "142",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "883752",
+        "obs": null,
+        "pag": [
+          "4-4"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-01-11",
+        "pubLeg": "XIV",
+        "pubNr": "14",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/014/2020-01-11/4?pgs=4&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2020-01-10",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> CH</I>, <I> IL</I>, <I> L</I><BR>Abstenção:<I>BE</I>, <I> PCP</I>, <I> PAN</I>, <I> PEV</I>",
+        "id": "85790",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "891824",
+            "obs": null,
+            "pag": [
+              "86-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2020-01-11",
+            "pubLeg": "XIV",
+            "pubNr": "22",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/01/022/2020-01-11/86?pgs=86&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "22",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
