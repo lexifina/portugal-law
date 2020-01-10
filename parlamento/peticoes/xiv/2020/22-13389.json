@@ -1,0 +1,704 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13389",
+  "numero": "22",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-01-10",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-06-16",
+            "entidades": null,
+            "id": "115054",
+            "tipo": null,
+            "titulo": "Audição em 2020-06-16 com Peticionários da Petição n.º 22/XIV/1.ª - Joaquim Santos (Presidente da Câmara Municipal do Seixal) e Vereadora da Educação da Câmara Municipal do Seixal"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-02-24",
+            "dataResposta": "2020-03-10",
+            "entidades": [
+              "Junta de Freguesia de Fernão Ferro"
+            ],
+            "nrOficio": "26/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-02-24",
+            "dataResposta": "2020-03-09",
+            "entidades": [
+              "União de Freguesias do Seixal, Arrentela e Aldeia de Paio Pires"
+            ],
+            "nrOficio": "27/CECJD/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-02-24",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal do Seixal"
+            ],
+            "nrOficio": "28/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-03-30",
+                "dataResposta": "2020-03-26",
+                "nrOficio": "37/CECJD/2020",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-02-24",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Educação"
+            ],
+            "nrOficio": "25/CECJD/2020",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2020-03-30",
+                "dataResposta": null,
+                "nrOficio": "38/CECJD/2020",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-06-29",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-19",
+        "DataArquivo": "2020-07-03",
+        "DataBaixaComissao": "2020-01-29",
+        "DataEnvioPAR": "2020-07-09",
+        "DataReaberta": "2020-02-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-02-24",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938344e7a51314f574d345a5330304f57526a4c5451355a5745744f44566c4f433034596d59774d7a55795a5751784d4755756347526d&fich=87459c8e-49dc-49ea-85e8-8bf0352ed10e.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-02-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774e6a4e6a5932566a5a533169597a6c6a4c5451794f444174595751794e533032595459774d575a6c5a574a694d6a51756347526d&fich=063ccece-bc9c-4280-ad25-6a601feebb24.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968595455314e54566b4f53316c4d6a6b784c54526c4f574d744f4745784f5330354e5746695a446b334e54646c596a51756347526d&fich=aa5555d9-e291-4e9c-8a19-95abd9757eb4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-02-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938354e6a45334e7a677a5a4330334e4446694c54526b59544574596a4d354f43316c4e6a466a4d545a6b596a557a595749756347526d&fich=9617783d-741b-4da1-b398-e61c16db53ab.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-02-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279396c4d4449794d5452694d43316b4e6a6b794c5451304e5459744f574d32597930354d6d51314d44466c5a6a59785a5463756347526d&fich=e02214b0-d692-4456-9c6c-92d501ef61e7.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-30",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938304d5468685a4749354d69316b4f474d314c54526a4d6d49744f5751324d4331694e446c685a6a45304f5449774e6a6b756347526d&fich=418adb92-d8c5-4c2b-9d60-b49af1492069.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-02-24",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938334e57526b4d575a6d4d69307a5954566a4c5451314f445574596a41794d79316c4d6a52694d6d52684e7a497a4d6a67756347526d&fich=75dd1ff2-3a5c-4585-b023-e24b2da72328.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-09",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e6862793968593245774d7a63354e5330794e6a51794c5452685a474d744f54426d4e5330345a4459354d54426c59574a6b4e7a6b756347526d&fich=aca03795-2642-4adc-90f5-8d6910eabd79.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-04-22",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938314d5755324e54646a595330794e6a41794c545131597a4974596a67784d4330784e7a51324e446b3559575930597a51756347526d&fich=51e657ca-2602-45c2-b810-1746499af4c4.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-11",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e686279387a5a6a49775a5467344e69316d4e6a4a6a4c5451314e6d55744f4749345a4330785a6a49775957526c4e6a686b5a446b756347526d&fich=3f20e886-f62c-456e-8b8d-1f20ade68dd9.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-13",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a684452554e4b5243394562324e31625756756447397a5547563061574e68627938774f475a6a595755334f4330795a544d314c5451345a54417459546734597930324d6a4a6b5a546b304d6a49314d446b756347526d&fich=08fcae78-2e35-48e0-a88c-622de9422509.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7404",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Educação, Ciência, Juventude e Desporto",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-19",
+            "gp": "PS",
+            "id": "7250",
+            "motivoCessacao": null,
+            "nome": "Clarisse Campos"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-12-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-02-03",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c325177596d51335957457a4c5455304e4441744e4746694e7931685a4445324c544a684f47526c597a59344e32526c4d5335775a47593d&fich=d0bd7aa3-5440-4ab7-ad16-2a8dec687de1.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44466",
+      "45195",
+      "45246",
+      "45250",
+      "45263",
+      "45267",
+      "45301"
+    ],
+    "Iniciativasoriginadas": [
+      "44466",
+      "45195",
+      "45246",
+      "45250",
+      "45263",
+      "45267",
+      "45301"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=53"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-49"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/49?pgs=49&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=54"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=63"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "49-50",
+                  "56-57"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/49?pgs=49-50,56-57&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=55"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "50-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/50?pgs=50-51&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=56"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243336",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "51-51"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/51?pgs=51&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=57"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-52"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/52?pgs=52&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=58"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243338",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "52-53"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/52?pgs=52-53&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=59"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=61"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "53-54",
+                  "55-55"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/53?pgs=53-54,55&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=62"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=60"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243340",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "54-55",
+                  "56-56"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/54?pgs=54-55,56&org=PLC"
+              }
+            ],
+            "Sumario": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal; Recomenda ao Governo a construção de uma escola básica (2.º e 3.º ciclos) e secundária em Fernão Ferro; Recomenda ao Governo a construção de uma escola de ensino básico de 2.º e 3.º ciclos e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que proceda à construção de uma escola de 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no Seixal; Construção de uma escola dos 2.º e 3.º ciclos do ensino básico e de uma escola do ensino secundário na freguesia de Fernão Ferro, no concelho do Seixal; Recomenda ao Governo que inicie os processos tendentes à construção de uma escola básica para os 2.º e 3.º ciclos e para o ensino secundário, na freguesia de Fernão Ferro,; Pela construção de uma escola básica de 2.º e 3.º ciclos e secundária na freguesia de Fernão Ferro, no concelho do Seixal, e  Construção de uma escola básica dos 2.º e 3.º ciclos e ensino secundário, na freguesia de Fernão Ferro.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13389",
+    "PetAssunto": "Pela construção de uma escola básica do 2.º e 3.º ciclos do ensino básico e ensino secundário em Fernão Ferro, Seixal",
+    "PetDataEntrada": "2020-01-10",
+    "PeticoesAssociadas": null,
+    "PetId": "13389",
+    "PetLeg": "XIV",
+    "PetNr": "22",
+    "PetNrAssinaturas": "4370",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6041",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-23",
+        "pubLeg": "XIV",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891516",
+        "obs": null,
+        "pag": [
+          "15-15"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-22",
+        "pubLeg": "XIV",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/022/2020-02-22/15?pgs=15&org=PLC"
+      }
+    ]
+  }
+}
