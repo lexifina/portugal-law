@@ -1,0 +1,8 @@
+Aviso n.º 491/2020
+Sumário: Projeto de Regulamento Municipal de Apoio às Instituições Particulares de Solidariedade Social e Associações sem Fins Lucrativos com Projetos de Solidariedade Social e/ou Saúde.
+Projeto de Regulamento Municipal de Apoio às Instituições Particulares de Solidariedade Social
+e Associações sem Fins Lucrativos com Projetos de Solidariedade Social e/ou Saúde
+Jorge Joaquim Piteira Macau, Presidente da Câmara Municipal de Arraiolos, torna Público que a Câmara Municipal de Arraiolos, em reunião ordinária de 20 de novembro de 2019, deliberou nos termos do estatuído no artigo 101.º do Código do Procedimento Administrativo aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, submeter o Projeto de Regulamento Municipal de Apoio às Instituições Particulares de Solidariedade Social e Associações sem Fins Lucrativos com Projetos de Solidariedade Social e/ou Saúde, a período de consulta pública, pelo prazo de 30 dias, contado da data da publicação do respetivo aviso na 2.ª série do Diário da República, estando o texto disponível no sitio eletrónico oficial em www.cm-arraiolos.pt e no Balcão de Atendimento da Divisão de Gestão Estratégica Socioeconómica e Educativa, sita na Praça do Município, n.º 27, em Arraiolos, das 09H00 às 17.00h.
+Durante o período de consulta pública, os interessados podem apresentar as suas sugestões endereçadas ao Sr. Presidente da Câmara Municipal de Arraiolos, entregues por meio de correio eletrónico geral@cm-arraiolos.pt, ou por correio postal para Município de Arraiolos, Praça do Município n.º 27, 7040-027 Arraiolos, ou presencialmente nos serviços do GRIC na mesma morada.
+9 de dezembro de 2019. - O Presidente da Câmara Municipal, Jorge Joaquim Piteira Macau.
+312837523
