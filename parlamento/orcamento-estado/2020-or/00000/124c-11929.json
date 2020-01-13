@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uQbX3ywBlowawaT2KcBSIZQXnZJlvUhg%2b62A92kAVV1p24shLAkUZ30vM6ewkSg8U2gmkwK82qqhDERYOTjgpGFwpVrjR7zfMU1ILAYorgHX8nZwx5y6JIdmSbdPCKeGkOCIZucwPwKmarqqii46b288F0nSaQdPPdr7baVGihkntz4V3rF%2fYp0BK91utCJX0hsnhUIlcwDEyIh5xV%2ba5%2fYyK%2bcd5YcPTx3zUMSMawItnKTQRuc5cYEHTk%2bcbnaM8lUPpEdl3NfTUbRMGQwKMkvtSAMvpqBbunoRrFmzNa914JurVX%2b%2bf%2bhzTpI3uvyt3mb3OeZHc9sqoRywiyhQVTL9FU%2bPwhrLtbPu4f7POewOkV%2bWQl0AQvTeZQ6GFLJ4SdycMvUxsqTVSvsHcEIi77ALL85OtUt55CeYvyRgu68%3d&fich=OEPropostasAlteracao2020Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f063f7e03db08e1874994d5201aed2faf2cb579d66dad08e8da5f8e404a860df",
+  "legislatura": "XIV",
+  "id": "11929",
+  "numero": "124C",
+  "orcamento": "2020",
+  "versao": "Or",
+  "data_registo": "2020-01-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11929",
+    "Numero": "124C",
+    "Data": "13/01/2020 09:19:00",
+    "Titulo": "Novo Artigo 38.º-A (Reforço de psicólogos no Serviço Nacional de Saúde)",
+    "Tema": "Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 38.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449774d6a41784f5445794d545976554545764e6d4e6959574d334d544974597a55354d6930304f4451334c5749334d54497459324669596d4d794e5755314e4455334c6e426b5a673d3d&Fich=6cbac712-c592-4847-b712-cabbc25e5457.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN, CRISTINA RODRIGUES",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "ANDRÉ SILVA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "BEBIANA CUNHA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "CRISTINA RODRIGUES"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "INÊS DE SOUSA REAL"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 38.º-A",
+        "Titulo": "Reforço de psicólogos no Serviço Nacional de Saúde",
+        "Texto": "Em 2020, o Governo procede à contratação de 50 Psicólogos para os Cuidados de Saúde Primários do SNS, com o objectivo de contratar 200 psicólogos até ao final da legislatura, aprofundando o processo iniciado com Orçamento do Estado de 2018, que incluía uma norma tendente à criação de 40 vagas, promovendo maio",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 38.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Reforço de psicólogos no Serviço Nacional de Saúde",
+        "Data": "03/02/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Abstenção",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
