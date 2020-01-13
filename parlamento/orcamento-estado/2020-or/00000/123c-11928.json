@@ -1,0 +1,92 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uQbX3ywBlowawaT2KcBSIZQXnZJlvUhg%2b62A92kAVV1p24shLAkUZ30vM6ewkSg8U2gmkwK82qqhDERYOTjgpGFwpVrjR7zfMU1ILAYorgHX8nZwx5y6JIdmSbdPCKeGkOCIZucwPwKmarqqii46b288F0nSaQdPPdr7baVGihkntz4V3rF%2fYp0BK91utCJX0hsnhUIlcwDEyIh5xV%2ba5%2fYyK%2bcd5YcPTx3zUMSMawItnKTQRuc5cYEHTk%2bcbnaM8lUPpEdl3NfTUbRMGQwKMkvtSAMvpqBbunoRrFmzNa914JurVX%2b%2bf%2bhzTpI3uvyt3mb3OeZHc9sqoRywiyhQVTL9FU%2bPwhrLtbPu4f7POewOkV%2bWQl0AQvTeZQ6GFLJ4SdycMvUxsqTVSvsHcEIi77ALL85OtUt55CeYvyRgu68%3d&fich=OEPropostasAlteracao2020Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f063f7e03db08e1874994d5201aed2faf2cb579d66dad08e8da5f8e404a860df",
+  "legislatura": "XIV",
+  "id": "11928",
+  "numero": "123C",
+  "orcamento": "2020",
+  "versao": "Or",
+  "data_registo": "2020-01-13",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "11928",
+    "Numero": "123C",
+    "Data": "13/01/2020 09:19:00",
+    "Titulo": "Artigo 22.º-D (Reforço dos psicólogos nas estruturas das forças de segurança, emergência médica e proteção e socorro)",
+    "Tema": "Administração Pública, Modernização Administrativa, Descentralização e Poder Local; Forças de Segurança; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 22.º-D",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449774d6a41784f5445794d545976554545764e6d4d354f4751334e4459744d6d526d4f4330304d5446694c546c6d4e7a5174595463785a5452684f5449334e32566a4c6e426b5a673d3d&Fich=6c98d746-2df8-411b-9f74-a71e4a9277ec.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PEV",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "JOSÉ LUÍS FERREIRA"
+        },
+        {
+          "GP_Partido": "PEV",
+          "Deputado": "MARIANA SILVA"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 22.º-D",
+        "Titulo": "Reforço dos psicólogos nas estruturas das forças de segurança, emergência médica e proteção e socorro",
+        "Texto": "Durante o ano de 2020, o Governo procede ao reforço de psicólogos nas\r\nestruturas das forças de segurança, emergência médica e proteção e\r\nsocorro para suprimento das necessidades identificadas.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 22.º-D"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Reforço dos psicólogos nas estruturas das forças de segurança, emergência médica e proteção e socorro",
+        "Data": "03/02/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Favor"
+          ]
+        }
+      }
+    }
+  }
+}
