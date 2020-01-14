@@ -1,0 +1,8 @@
+Edital n.º 79/2020
+Sumário: Projeto de Regulamento do Mercado Municipal.
+Projeto de Regulamento do Mercado Municipal
+Luís Manuel Tadeu Marques, Presidente da Câmara Municipal de Gouveia, torna público, ao abrigo das disposições conjugadas previstas nas alíneas b) e g) do n.º 1 do artigo 25.º e da alínea k) do n.º 1 do artigo 33.º da Lei n.º 75/2013 de 12 de setembro, na sua reação actual, e do disposto no n.º 1 do artigo 70.º do Anexo ao Decreto-Lei n.º 10/2015, de 16 de janeiro, e nos termos e para os efeitos do disposto no artigo 101.º do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua atual redação, que a Câmara Municipal de Gouveia, em reunião ordinária datada de 9 de dezembro de 2019, deliberou aprovar o Projeto de Regulamento do Mercado Municipal, e dar início ao período de consulta pública deste projeto, pelo período de trinta dias úteis, a contar da data da publicação do presente aviso no Diário da República.
+O projeto de regulamento pode ser consultado na íntegra, em suporte papel, no Balcão de Atendimento ao Munícipe dos Paços do Concelho, ou na página de internet do Município em www.cm-gouveia.pt.
+Durante o período de consulta pública, qualquer interessado poderá formular sugestões, reclamações ou outras observações, as quais devem ser apresentadas por escrito, dirigidas ao Sr. Presidente da Câmara Municipal, podendo ser remetidas por correio, entregues no Edifício dos Paços do Concelho durante o período normal de expediente, sito na Avenida 25 de Abril em Gouveia, ou enviadas para o endereço eletrónico geral@cm-gouveia.pt, indicando o assunto Regulamento do Mercado Municipal - Consulta Pública.
+20 de dezembro de 2019. - O Presidente da Câmara, Luís Manuel Tadeu Marques.
+312878242
