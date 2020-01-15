@@ -14,7 +14,7 @@ c) Matrículas atribuídas a partir do fim da utilização do modelo referido na
 
 3 - A composição do número de matrícula das máquinas industriais e das máquinas industriais rebocáveis obedece ao disposto nos números anteriores, sendo o número de matrícula seguido de uma letra identificativa da classe de circulação definida nos termos do anexo II do regulamento para atribuição de matrícula a máquinas industriais com motor de propulsão ou rebocáveis.
 
-4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos, sendo os grupos separados entre si por traços.
+4 - Quando se esgotarem os números de matrícula correspondentes à alínea c) do n.º 2, o número de matrícula referido no n.º 1 passa a ser constituído por dois grupos de duas letras e um grupo central de dois algarismos.
 
 5 - A instalação do dispositivo electrónico de matrícula nos veículos automóveis e seus reboques, motociclos e triciclos autorizados a circular em auto-estradas ou vias equiparadas é facultativa e depende de adesão voluntária do respectivo proprietário.
 
