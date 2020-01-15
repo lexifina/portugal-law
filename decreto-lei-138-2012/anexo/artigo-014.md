@@ -8,7 +8,7 @@ a) Até ao termo de validade do título estrangeiro, se for emitido por Estado-m
 
 b) Findo o prazo fixado no n.º 4 do artigo anterior, se o título estrangeiro for vitalício e emitido por Estado-membro da União Europeia ou do espaço económico europeu, no prazo de dois anos;
 
-c) No prazo de 90 dias, contado da data de fixação de residência do seu titular em Portugal, se o título for um dos mencionados nas alíneas c) ou d) do n.º 1 do artigo 125.º do Código da Estrada.
+c) No prazo de dois anos a contar da data de fixação de residência do seu titular em Portugal, se o título for um dos mencionados nas alíneas c) ou d) do n.º 1 do artigo 125.º do Código da Estrada.
 
 2 - Só podem ser trocados os títulos de condução definitivos de modelo aprovado pelo respetivo país emissor, devendo o processo ser instruído com:
 

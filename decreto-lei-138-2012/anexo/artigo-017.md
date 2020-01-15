@@ -31,3 +31,5 @@ d) Condição de estudante em território nacional há, pelo menos, 185 dias.
 10 - A revalidação prevista no número anterior fica sujeita à aprovação em prova prática do exame de condução sempre que do título a revalidar conste ter sido obtido por troca por outro título emitido por Estado estrangeiro que o Estado Português não esteja obrigado a reconhecer por convenção ou tratado internacional.
 
 11 - A revalidação das cartas de condução de qualquer uma das categorias AM, A1, A2, A, B1, B e BE, determina a revalidação de qualquer das outras categorias, desde que o atestado médico emitido para efeitos de revalidação a elas faça menção.
+
+12 - Podem ser definidos mecanismos de revalidação automática das cartas de condução por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e dos transportes.
