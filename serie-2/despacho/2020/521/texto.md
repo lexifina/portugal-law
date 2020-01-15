@@ -1,0 +1,16 @@
+Despacho n.º 521/2020
+Sumário: 2.ª alteração ao Regulamento da Organização dos Serviços Municipais. Definição do número máximo de cargos de direção intermédia de 3.º grau.
+Maria das Dores Marques Banheiro Meira, Presidente da Câmara Municipal de Setúbal:
+Torna público que, nos termos e de acordo com o previsto no Regime Jurídico da Organização dos Serviços das Autarquias Locais aprovado pelo Decreto-Lei n.º 305/09, de 23 de outubro, nos termos da Lei n.º 49/2012, de 29 de agosto, que aprovou a adaptação à administração local, do estatuto do pessoal dirigente, e de acordo com o disposto nas alíneas g) e m), do n.º 1, do Artigo 25.º e alínea k) e ccc), do n.º 1, do Artigo 33.º, todos do Regime Jurídico das Autarquias Locais, aprovado pela Lei n.º 75/2013, de 12 de setembro, relativamente às competências da Assembleia Municipal e da Câmara Municipal, respetivamente, a Assembleia Municipal de Setúbal aprovou, na sua sessão ordinária, de 22 de novembro de 2019, sob proposta da Câmara Municipal de Setúbal, aprovada na sua reunião realizada em 6 de novembro de 2019, a seguinte alteração ao Regulamento da Organização dos Serviços Municipais, publicada através do Despacho n.º 11864/2018, no Diário da República, 2.ª série, n.º 237, de 10 de dezembro de 2018:
+2.ª alteração ao Regulamento da Organização dos Serviços Municipais. Definição do número máximo de cargos de direção intermédia de 3.º grau
+O Regulamento da Organização dos Serviços do Município de Setúbal, aprovado sob proposta da Câmara Municipal de Setúbal, na sua reunião de 31 de outubro de 2018, por deliberação da Assembleia Municipal, em 16 de novembro de 2018, e publicado através do Despacho n.º 11864/2018, no Diário da República, 2.ª série, n.º 237, de 10 de dezembro de 2018, retificado através da Declaração de retificação n.º 385/2019, no Diário da República, 2.ª série, n.º 83, de 30 de abril de 2019, alterado, sob proposta da Câmara Municipal, na sua reunião de 23 de janeiro de 2019, mediante deliberação da Assembleia Municipal por sessão extraordinária de 30 de janeiro de 2019, passa a ter a seguinte redação:
+1 - No Artigo 15.º, Modelo organizativo
+1 - Os serviços do Município organizam-se internamente de acordo com o modelo de estrutura misto, predominantemente hierarquizado, estabelecido conforme o Anexo I ao presente Regulamento, com a representação gráfica definida no Organigrama constante do Anexo II, e que compreende 8 unidades orgânicas nucleares (Departamentos Municipais), 38 unidades orgânicas flexíveis de 2.º grau, onde se incluem 31 Divisões Municipais e 7 Chefias de Equipas Multidisciplinares de Projeto, com o estatuto remuneratório equiparado a Chefe de Divisão municipal, 11 unidades orgânicas de 3.º grau, e 77 subunidades orgânicas (secções, gabinetes ou setores).
+2 - ...
+3 - ...
+a)...
+b)...
+c)...
+[...]
+17 de dezembro de 2019. - A Presidente da Câmara, Maria das Dores Marques Banheiro Meira.
+312866205
