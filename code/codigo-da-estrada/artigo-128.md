@@ -28,7 +28,7 @@ a) Não for possível comprovar o requisito exigido no número anterior; ou
 
 b) Existam dúvidas justificadas sobre a autenticidade do título cuja troca é requerida.
 
-c) Não for requerida a troca do título estrangeiro no prazo estabelecido no n.º 4 do artigo 125.º;
+c) Não for requerida a troca do título estrangeiro no prazo de dois anos, contados a partir da data da fixação da residência em Portugal.
 
 d) Não for requerida dois anos após o termo do prazo fixado para a troca de título de condução vitalício emitido por Estado-membro da União Europeia ou do espaço económico europeu;
 
