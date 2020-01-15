@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uQbX3ywBlowawaT2KcBSIZQXnZJlvUhg%2b62A92kAVV1p24shLAkUZ30vM6ewkSg8U2gmkwK82qqhDERYOTjgpGFwpVrjR7zfMU1ILAYorgHX8nZwx5y6JIdmSbdPCKeGkOCIZucwPwKmarqqii46b288F0nSaQdPPdr7baVGihkntz4V3rF%2fYp0BK91utCJX0hsnhUIlcwDEyIh5xV%2ba5%2fYyK%2bcd5YcPTx3zUMSMawItnKTQRuc5cYEHTk%2bcbnaM8lUPpEdl3NfTUbRMGQwKMkvtSAMvpqBbunoRrFmzNa914JurVX%2b%2bf%2bhzTpI3uvyt3mb3OeZHc9sqoRywiyhQVTL9FU%2bPwhrLtbPu4f7POewOkV%2bWQl0AQvTeZQ6GFLJ4SdycMvUxsqTVSvsHcEIi77ALL85OtUt55CeYvyRgu68%3d&fich=OEPropostasAlteracao2020Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f063f7e03db08e1874994d5201aed2faf2cb579d66dad08e8da5f8e404a860df",
+  "legislatura": "XIV",
+  "id": "12012",
+  "numero": "207C",
+  "orcamento": "2020",
+  "versao": "Or",
+  "data_registo": "2020-01-15",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "12012",
+    "Numero": "207C",
+    "Data": "15/01/2020 12:05:00",
+    "Titulo": "Novo Artigo 135.º-A (Término de incentivos a empresas de produção pecuária que exportem animais vivos para países terceiros)",
+    "Tema": "Agricultura e Mar; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Rejeitado(a) em Comissão",
+    "NumeroArtigoNovo": "Artigo 135.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449774d6a41784f5445794d545976554545765a544979595442695a5463744e445532597930304e3255334c574a6c5a6a4574597a51324d47557a5a47466a4d5449334c6e426b5a673d3d&Fich=e22a0be7-456c-47e7-bef1-c460e3dac127.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN, CRISTINA RODRIGUES",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "ANDRÉ SILVA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "BEBIANA CUNHA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "CRISTINA RODRIGUES"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "INÊS DE SOUSA REAL"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 135.º-A",
+        "Titulo": "Término de incentivos a empresas de produção pecuária que exportem animais vivos para países terceiros",
+        "Texto": "Durante o ano de 2020 o Governo promove as diligências necessárias tendo em vista o término da atribuição de qualquer incentivo público a empresas de produção pecuária que exportem animais vivos para países terceiros patente nos programas de apoio à produção pecuária.",
+        "Estado": "Entrada"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 135.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Término de incentivos a empresas de produção pecuária que exportem animais vivos para países terceiros",
+        "Data": "04/02/2020 00:00:00",
+        "ResultadoCompleto": "Rejeitado(a) em Comissão",
+        "Resultado": "Rejeitado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Contra",
+            "Favor",
+            "Contra",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
