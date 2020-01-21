@@ -1,0 +1,100 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAOE.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=uQbX3ywBlowawaT2KcBSIZQXnZJlvUhg%2b62A92kAVV1p24shLAkUZ30vM6ewkSg8U2gmkwK82qqhDERYOTjgpGFwpVrjR7zfMU1ILAYorgHX8nZwx5y6JIdmSbdPCKeGkOCIZucwPwKmarqqii46b288F0nSaQdPPdr7baVGihkntz4V3rF%2fYp0BK91utCJX0hsnhUIlcwDEyIh5xV%2ba5%2fYyK%2bcd5YcPTx3zUMSMawItnKTQRuc5cYEHTk%2bcbnaM8lUPpEdl3NfTUbRMGQwKMkvtSAMvpqBbunoRrFmzNa914JurVX%2b%2bf%2bhzTpI3uvyt3mb3OeZHc9sqoRywiyhQVTL9FU%2bPwhrLtbPu4f7POewOkV%2bWQl0AQvTeZQ6GFLJ4SdycMvUxsqTVSvsHcEIi77ALL85OtUt55CeYvyRgu68%3d&fich=OEPropostasAlteracao2020Or_json.txt&Inline=true",
+  "ficheiro_sha256": "f063f7e03db08e1874994d5201aed2faf2cb579d66dad08e8da5f8e404a860df",
+  "legislatura": "XIV",
+  "id": "12178",
+  "numero": "372C",
+  "orcamento": "2020",
+  "versao": "Or",
+  "data_registo": "2020-01-21",
+  "data_registo_base": "record date = the proposal day (\"Data\", dd/mm/yyyy) in the AR open data (Orcamento do Estado, propostas de alteracao); a parliamentary record, not a commencement",
+  "registo": {
+    "ID": "12178",
+    "Numero": "372C",
+    "Data": "21/01/2020 10:41:00",
+    "Titulo": "Novo Artigo 164.º-A (Produtos alimentares disponibilizados nas escolas)",
+    "Tema": "Educação, Ciência, Juventude e Desporto; Saúde; ",
+    "Apresentada": "Comissão",
+    "Incide": "Articulado",
+    "Tipo": "Aditamento (Artigo PPL)",
+    "Estado": "Aprovado(a) Parcialmente em Comissão",
+    "NumeroArtigoNovo": "Artigo 164.º-A",
+    "Conteudo": null,
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063446f764c304653546d56304c334e706447567a4c31684a566b784652793950525338794d4449774d6a41784f5445794d545976554545764e6d5a6b59574e684d6a41744f54686d4d693030596d517a4c574a694e5755744d5451304e54426d596a41335a6a5a6a4c6e426b5a673d3d&Fich=6fdaca20-98f2-4bd3-bb5e-14450fb07f6c.pdf&Inline=true",
+    "GrupoParlamentar_Partido": "PAN, CRISTINA RODRIGUES",
+    "Proponentes": {
+      "Proponente": [
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "ANDRÉ SILVA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "BEBIANA CUNHA"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "CRISTINA RODRIGUES"
+        },
+        {
+          "GP_Partido": "PAN",
+          "Deputado": "INÊS DE SOUSA REAL"
+        }
+      ]
+    },
+    "PedidoParecerRAA": "False",
+    "PedidoParecerRAM": "False",
+    "SugeridoParecerRAA": "False",
+    "SugeridoParecerRAM": "False",
+    "ParecerDasRegioesAutonomas": null,
+    "Iniciativas_Artigos": {
+      "Iniciativa_Artigo": {
+        "Artigo": "Artigo 164.º-A",
+        "Titulo": "Produtos alimentares disponibilizados nas escolas",
+        "Texto": "1 – À semelhança do previsto para as instituições do Ministério da Saúde no Despacho n.º 7516-A/2016, o Governo determina, em 2020, as condições para a limitação de produtos prejudiciais à saúde nas máquinas de venda automática, disponíveis nas escolas, com vista a implementar um conjunto de medidas para a pr",
+        "Estado": "Aprovado(a) Parcialmente em Comissão"
+      }
+    },
+    "ProgramasMedidas": null,
+    "DiplomasMedidas": null,
+    "Requerimentos": null,
+    "Ministerio": null,
+    "Medidas_Programas": null,
+    "NUTS": null,
+    "Votacoes": {
+      "Votacao": {
+        "Descricoes": {
+          "Descricao": "Artigo 164.º-A"
+        },
+        "DiplomasTerceirosouPropostasDeLeiMapas": null,
+        "SubDescricao": "Produtos alimentares disponibilizados nas escolas",
+        "Data": "04/02/2020 00:00:00",
+        "ResultadoCompleto": "Aprovado(a) Parcialmente em Comissão",
+        "Resultado": "Aprovado(a)",
+        "GruposParlamentares": {
+          "GrupoParlamentar": [
+            "Partido Socialista",
+            "Partido Social Democrata",
+            "Bloco de Esquerda",
+            "Partido Comunista Português",
+            "Centro Democrático Social - Partido Popular",
+            "Pessoas-Animais-Natureza",
+            "Chega",
+            "Iniciativa Liberal"
+          ],
+          "Voto": [
+            "Favor",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Favor",
+            "Favor",
+            "Abstenção",
+            "Abstenção"
+          ]
+        }
+      }
+    }
+  }
+}
