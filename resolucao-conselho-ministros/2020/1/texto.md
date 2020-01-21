@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 1/2020
+Sumário: Renova a autorização para a Autoridade Tributária e Aduaneira proceder à aquisição de upgrade das plataformas Oracle Exadata e Bigdata.
+Nos termos da Resolução do Conselho de Ministros n.º 150/2019, de 5 de setembro, a Autoridade Tributária e Aduaneira (3 Origs.AT) foi autorizada a proceder à aquisição de serviços de atualização das plataformas Oracle Exadata e Oracle Bigdata, bem como à renovação tecnológica da Appliance Oracle Exalogic e atualização de licenças, através de concurso limitado por prévia qualificação com publicação de anúncio no Jornal Oficial da União Europeia, até ao montante total de (euro) 12 150 000,00 ao qual acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor.
+A referida resolução determinou que os encargos financeiros decorrentes da mesma fossem satisfeitos pelas verbas adequadas a inscrever no orçamento da AT referente ao ano de 2019, ficando autorizada a transição de saldos para o ano de 2020, até ao limite máximo de (euro) 300 000,00.
+A Resolução do Conselho de Ministros n.º 150/2019, de 5 de setembro, foi entretanto retificada pela Declaração de Retificação n.º 43/2019, de 19 de setembro, com vista à retificação de inexatidões.
+Considerando a tramitação procedimental necessária para efeitos de celebração, e posterior execução, do respetivo contrato, nomeadamente o envio do mesmo para fiscalização prévia do Tribunal de Contas para que possa produzir efeitos, torna-se necessário diligenciar no sentido de atualizar nova autorização da despesa para o ano de 2020 e respetiva transição de saldos, até ao limite do valor contratual, ou seja, até (euro) 4 850 00,00, ao qual acresce IVA à taxa legal em vigor.
+Assim:
+Nos termos da alínea e) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve o seguinte:
+1 - Alterar o n.º 2 da Resolução do Conselho de Ministros n.º 150/2019, de 5 de setembro, na sua redação atual, que passa a ter a seguinte redação:
+«2 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas a inscrever no orçamento da AT referente ao ano de 2019, ficando autorizada a transição de saldos para o ano de 2020.»
+2 - Determinar que a presente resolução produz efeitos no dia da sua aprovação.
+Presidência do Conselho de Ministros, 16 de janeiro de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.
+112938563
