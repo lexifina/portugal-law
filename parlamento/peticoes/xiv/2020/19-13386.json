@@ -1,0 +1,675 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BY4Wek8n5seAsQHnHiAS%2fGFcKBRboaNgrK92XoPLLT8MXRHc8uwRDuyh80jjH%2fffgoLr1Me9uq5UE%2biINpkaYp1aynhmEq4IWvhZg6twvMmjPOJ8kIypkddqfwqt2dHRh2Y%2fzh8RF5fJVPAxi8U6KWILofnK64xZiv%2b6nh0IMydYxZdOv5nUkjFrH2eqCMT8DtO8TfnVsetsEX7t8cU%2bmzXyd%2feTQIcxKtKq7boxeO4BuQyI%2fC0mRCnN380Rmc6kF%2fyrIZe0aQW3t39WiDPhYmgljQ6rlibE80YKqpvmlktpKInGQL%2b0hhQ%2fz7Gm5MyoYIBSdC867ERcHO%2bt31cEmN8EhN1qVGFpkidyYV1OQ9g%3d&fich=PeticoesXIV_json.txt&Inline=true",
+  "ficheiro_sha256": "54fc1899d1798f922cf746b08314c632a279c07ee4032e964ae34c97ad27f17c",
+  "legislatura": "XIV",
+  "id": "13386",
+  "numero": "19",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2020-01-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsPedidoInformacoes.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRespostaPedidoInformacoes.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": [
+          {
+            "data": "2020-03-05",
+            "entidades": null,
+            "id": "114538",
+            "tipo": null,
+            "titulo": "Audição em 2020-03-05 com Subscritores da Petição n.º 19/XIV/1.ª"
+          }
+        ],
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2020-02-20",
+            "dataResposta": null,
+            "entidades": [
+              "Ordem dos Enfermeiros"
+            ],
+            "nrOficio": "11/CTSS/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-02-20",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra do Trabalho Solidariedade e Segurança Social"
+            ],
+            "nrOficio": "10/CTSS/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "2020-02-20",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "10/CTSS/2020",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2020-07-15",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "910508",
+                "obs": null,
+                "pag": [
+                  "15-17"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-07-18",
+                "pubLeg": "XIV",
+                "pubNr": "51",
+                "pubSL": "1",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/051/2020-07-18/15?pgs=15-17&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2020-02-19",
+        "DataArquivo": "2020-07-15",
+        "DataBaixaComissao": "2020-01-29",
+        "DataEnvioPAR": "2020-07-16",
+        "DataReaberta": "2020-02-19",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2020-02-19",
+              "TipoDocumento": "Notas Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939694d5452684d6a4d344d43316c4d6a51784c5451315a4755744f474a6d4e6930344d574a6a4d5451345a4759774e5459756347526d&fich=b14a2380-e241-45de-8bf6-81bc148df056.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-31",
+              "TipoDocumento": "Anexos",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938775a444d324e5749314d5330345a6a4e6b4c54526c4d7a59744f4755784d79316d4f475a6c5957557a4d7a55344e5441756347526d&fich=0d365b51-8f3d-4e36-8e13-f8feae335850.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-03-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396c4f4449354f575a6a4e79307a4d6d4d774c5451784f545974595455324f4330324e6d49325a54526d5a544668595745756347526d&fich=e8299fc7-32c0-4196-a568-66b6e4fe1aaa.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e6862793969597a5979596d59315969307a4f445a694c5451325a574d744f4749304d5331684d4745305954466b4d44466c4e6a4d756347526d&fich=bc62bf5b-386b-46ec-8b41-a0a4a1d01e63.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2020-03-10",
+              "TipoDocumento": "Pedidos de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279387a4f44646b4e324932597930784e47466b4c5452684d6a457459546469597931685a4759785a574d3359324a6d4d6a4d756347526d&fich=387d7b6c-14ad-4a21-a7bc-adf1ec7cbf23.pdf&Inline=true"
+            }
+          ],
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2020-07-16",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627939685a6d5534596d51314e793078596a45314c5451344d324d74595451795953307a4d546c694d7a4931596a526c5a6a59756347526d&fich=afe8bd57-1b15-483c-a42a-319b325b4ef6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": [
+            {
+              "DataDocumento": "2020-03-10",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e68627938335a6d4934596d49324e6930784e7a4d304c5452684d5759744f574d774e43316b4d6d49304d4446694e4759324d5463756347526d&fich=7fb8bb66-1734-4a1f-9c04-d2b401b4f617.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2021-06-09",
+              "TipoDocumento": "Resposta pedido de Informação",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765130394e4c7a4577513152545579394562324e31625756756447397a5547563061574e686279396a4d44646c5a6d4d7a4e43316d5a4745774c5451354f546b744f4459304d53316c595755324f474a684e44466a4e4459756347526d&fich=c07efc34-fda0-4999-8641-eae68ba41c46.pdf&Inline=true"
+            }
+          ]
+        },
+        "IdComissao": "7444",
+        "Legislatura": "XIV",
+        "Nome": "Comissão de Trabalho e Segurança Social",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2020-02-19",
+            "gp": "PS",
+            "id": "6886",
+            "motivoCessacao": null,
+            "nome": "Cristina Sousa"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2020-12-22",
+    "Documentos": [
+      {
+        "DataDocumento": "2020-01-31",
+        "TipoDocumento": "Texto final",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395953565a4d5a5763765647563464473947615735686246426c64476c6a6232567a4c7a59304d6a4d334e3259344c5759314d3259744e4759344d4331684e44566b4c5455335a6a457a4e4751784d57526b4e5335775a47593d&fich=642377f8-f53f-4f80-a45d-57f134d11dd5.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": [
+      "44929",
+      "45504",
+      "45505",
+      "44203",
+      "44733",
+      "44744"
+    ],
+    "Iniciativasoriginadas": [
+      "44929",
+      "45504",
+      "45505",
+      "44203",
+      "44733",
+      "44744"
+    ],
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=44"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "41-42"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/41?pgs=41-42&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=45"
+              },
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=52"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "42-43",
+                  "48-48"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/42?pgs=42-43,48&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=46"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-43"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/43?pgs=43&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=47"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "43-44"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/43?pgs=43-44&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=48"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "44-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/44?pgs=44-45&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=49"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-45"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/45?pgs=45&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=50"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "45-46"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/45?pgs=45-46&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2020-12-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": [
+              {
+                "link": "http://av.parlamento.pt/DefaultVideo.aspx?id=2020_12_22_14_30_00_clean_14_plenario.xml&idsegmento=51"
+              }
+            ],
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "243199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "46-47"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2020-12-23",
+                "pubLeg": "XIV",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23/46?pgs=46-47&org=PLC"
+              }
+            ],
+            "Sumario": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco; Medidas de valorização e proteção dos profissionais da saúde,; Reconhece a penosidade e risco da profissão de enfermagem e recomenda ao Governo que tome medidas para a definição e regulamentação de um regime laboral e de aposentação específico para os enfermeiros; Recomenda ao Governo que proceda à criação de um grupo de trabalho para a alteração do enquadramento legal das profissões de desgaste rápido, que defina critérios para a atribuição desta qualificação e identifique um elenco exemplificativo das profissões com tal qualificação; Recomenda ao Governo a atribuição do estatuto de profissão de desgaste rápido e o subsídio de risco às forças de segurança; Pela atribuição de um subsídio de risco aos profissionais que se encontram na linha da frente ao combate da pandemia e Pela criação da carreira profissional de técnico auxiliar de saúde.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "13386",
+    "PetAssunto": "Enfermeiros - Pela criação de um estatuto oficial de profissão de desgaste rápido e atribuição de subsídio de risco",
+    "PetDataEntrada": "2020-01-23",
+    "PeticoesAssociadas": null,
+    "PetId": "13386",
+    "PetLeg": "XIV",
+    "PetNr": "19",
+    "PetNrAssinaturas": "14261",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "6034",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-12-23",
+        "pubLeg": "XIV",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/14/02/033/2020-12-23?org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "891513",
+        "obs": null,
+        "pag": [
+          "10-12"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2020-02-22",
+        "pubLeg": "XIV",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/14/01/022/2020-02-22/10?pgs=10-12&org=PLC"
+      }
+    ]
+  }
+}
